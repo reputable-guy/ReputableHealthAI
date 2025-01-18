@@ -4,8 +4,9 @@ import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import { OpenAIEmbeddings } from "@langchain/openai";
 import { readFileSync } from 'fs';
 import { join } from 'path';
+import { dataCollectionService } from './data-collection-service';
 
-interface ReferenceDocument {
+export interface ReferenceDocument {
   id: string;
   type: "fda_guideline" | "study_template" | "past_study";
   title: string;
@@ -14,13 +15,14 @@ interface ReferenceDocument {
     category: string;
     lastUpdated: string;
     source: string;
+    doi?: string;
   };
 }
 
 class RAGService {
   private pinecone: Pinecone | null = null;
   private embeddings: OpenAIEmbeddings | null = null;
-  private readonly indexName = "protocol-references";
+  private readonly indexName = "protocol-refs";
   private initialized = false;
   private readonly maxRetries = 3;
   private readonly retryDelay = 5000;
@@ -30,14 +32,15 @@ class RAGService {
   }
 
   private async initializeServices() {
-    if (!process.env.PINECONE_API_KEY || !process.env.OPENAI_API_KEY) {
-      console.error("Warning: PINECONE_API_KEY or OPENAI_API_KEY not set. RAG features will be disabled.");
+    if (!process.env.PINECONE_API_KEY) {
+      console.error("Warning: PINECONE_API_KEY not set. RAG features will be disabled.");
       return;
     }
 
     try {
       console.log("Initializing RAG service...");
 
+      // Initialize Pinecone client with just the API key
       this.pinecone = new Pinecone({
         apiKey: process.env.PINECONE_API_KEY
       });
@@ -47,39 +50,59 @@ class RAGService {
         modelName: "text-embedding-ada-002"
       });
 
-      // Check if index exists, create if it doesn't
-      const indexes = await this.pinecone.listIndexes();
-      const indexNames = indexes.indexes?.map(index => index.name) || [];
+      // List existing indexes with error handling
+      let existingIndexes;
+      try {
+        existingIndexes = await this.pinecone.listIndexes();
+      } catch (error) {
+        console.log("Error listing indexes, assuming none exist:", error);
+        existingIndexes = { indexes: [] };
+      }
 
-      if (!indexNames.includes(this.indexName)) {
+      const indexExists = existingIndexes.indexes?.some(index => index.name === this.indexName);
+
+      if (!indexExists) {
         console.log(`Creating new Pinecone index: ${this.indexName}`);
-        await this.pinecone.createIndex({
-          name: this.indexName,
-          dimension: 1536, // dimension for text-embedding-ada-002
-          spec: {
-            serverless: {
-              cloud: 'gcp',
-              region: 'gcp-starter'
+        try {
+          await this.pinecone.createIndex({
+            name: this.indexName,
+            dimension: 1536, // dimension for text-embedding-ada-002
+            metric: 'cosine',
+            spec: {
+              serverless: {
+                cloud: 'aws',
+                region: 'us-east-1'
+              }
             }
-          }
-        });
+          });
 
-        // Wait for index to be ready with timeout
-        let attempts = 0;
-        const maxAttempts = 12; // 1 minute total
-        while (attempts < maxAttempts) {
-          const indexStatus = await this.pinecone.describeIndex(this.indexName);
-          if (indexStatus.status?.ready) {
-            break;
+          // Wait for index to be ready with timeout
+          let attempts = 0;
+          const maxAttempts = 12; // 1 minute total
+          while (attempts < maxAttempts) {
+            try {
+              const indexStatus = await this.pinecone.describeIndex(this.indexName);
+              if (indexStatus.status?.ready) {
+                console.log("Index is ready");
+                break;
+              }
+            } catch (error) {
+              console.log('Error checking index status, retrying...', error);
+            }
+            console.log('Waiting for index to be ready...');
+            await new Promise(resolve => setTimeout(resolve, 5000));
+            attempts++;
           }
-          console.log('Waiting for index to be ready...');
-          await new Promise(resolve => setTimeout(resolve, 5000));
-          attempts++;
-        }
 
-        if (attempts === maxAttempts) {
-          throw new Error("Timeout waiting for Pinecone index to be ready");
+          if (attempts === maxAttempts) {
+            throw new Error("Timeout waiting for Pinecone index to be ready");
+          }
+        } catch (error) {
+          console.error("Failed to create index:", error);
+          throw error;
         }
+      } else {
+        console.log(`Using existing Pinecone index: ${this.indexName}`);
       }
 
       this.initialized = true;
@@ -87,6 +110,7 @@ class RAGService {
 
       // Load initial data if index is empty
       await this.loadInitialData();
+      await this.loadPublicStudies();
     } catch (error) {
       console.error("Failed to initialize RAG service:", error);
       this.initialized = false;
@@ -430,6 +454,64 @@ Response should be a valid JSON object with this structure:
 
 The protocol should follow FDA guidelines and best practices while being specifically tailored to this study.
 `;
+    }
+  }
+
+  async loadPublicStudies() {
+    if (!this.initialized || !this.pinecone) {
+      throw new Error("RAG service not initialized");
+    }
+
+    try {
+      console.log("Starting collection of public wellness studies...");
+
+      const categories = [
+        "Sleep",
+        "Stress",
+        "Exercise",
+        "Nutrition",
+        "Mindfulness",
+        "Recovery",
+        "Cognitive Performance"
+      ];
+
+      const studies = await dataCollectionService.collectWellnessStudies(categories);
+      console.log(`Collected ${studies.length} studies from PubMed`);
+
+      // Index in batches
+      const batchSize = 50;
+      for (let i = 0; i < studies.length; i += batchSize) {
+        const batch = studies.slice(i, i + batchSize);
+        console.log(`Indexing batch ${i/batchSize + 1}/${Math.ceil(studies.length/batchSize)}`);
+
+        for (const study of batch) {
+          let retries = 0;
+          while (retries < this.maxRetries) {
+            try {
+              await this.indexDocument(study);
+              console.log(`Successfully indexed study: ${study.title}`);
+              break;
+            } catch (error) {
+              retries++;
+              if (retries === this.maxRetries) {
+                console.error(`Failed to index study ${study.title} after ${this.maxRetries} attempts:`, error);
+                continue; // Skip this study and move to next
+              }
+              console.log(`Retry ${retries}/${this.maxRetries} for study ${study.title}`);
+              await new Promise(resolve => setTimeout(resolve, this.retryDelay));
+            }
+          }
+        }
+
+        // Rate limiting between batches
+        await new Promise(resolve => setTimeout(resolve, 2000));
+      }
+
+      console.log("Successfully loaded public studies into vector database");
+      return true;
+    } catch (error) {
+      console.error("Failed to load public studies:", error);
+      return false;
     }
   }
 }
