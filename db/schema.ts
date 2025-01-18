@@ -9,10 +9,10 @@ export const protocols = pgTable("protocols", {
   studyGoal: text("study_goal").notNull(),
 
   // Core Study Parameters
-  studyCategory: text("study_category").notNull(), // Sleep, Stress, Recovery, etc.
+  studyCategory: text("study_category").notNull(),
   experimentTitle: text("experiment_title").notNull(),
   studyObjective: text("study_objective").notNull(),
-  studyType: text("study_type").notNull(), // Real-World Evidence or RCT
+  studyType: text("study_type").notNull(),
   participantCount: integer("participant_count").notNull(),
   durationWeeks: integer("duration_weeks").notNull(),
 
@@ -44,52 +44,52 @@ export const protocols = pgTable("protocols", {
   customFactors: jsonb("custom_factors").default(`{
     "tags": [
       {
-        "id": "alcohol",
-        "label": "Alcohol",
-        "description": "Consumed alcohol before bed",
-        "impactedMetrics": ["sleepScore", "hrvAverage", "deepSleepTime"]
+        "id": "lateCaffeine",
+        "label": "Late caffeine",
+        "description": "Consumed caffeine late in the day",
+        "impactedMetrics": ["sleepScore", "sleepLatency"]
       },
       {
-        "id": "lateCaffeine",
-        "label": "Late Caffeine",
-        "description": "Consumed caffeine after 2pm",
+        "id": "lateMeal",
+        "label": "Late meal",
+        "description": "Consumed a meal close to bedtime",
+        "impactedMetrics": ["sleepScore", "hrvAverage"]
+      },
+      {
+        "id": "alcohol",
+        "label": "Alcohol intake",
+        "description": "Consumed alcohol",
+        "impactedMetrics": ["deepSleepTime", "remSleepTime"]
+      },
+      {
+        "id": "noisyRoom",
+        "label": "Noisy room",
+        "description": "Sleep environment was noisy",
+        "impactedMetrics": ["sleepScore", "sleepLatency"]
+      },
+      {
+        "id": "blueLight",
+        "label": "Blue light",
+        "description": "Extended screen exposure before bed",
         "impactedMetrics": ["sleepLatency", "sleepScore"]
       },
       {
-        "id": "travel",
-        "label": "Travel",
-        "description": "Traveled or changed timezones",
+        "id": "jetLag",
+        "label": "Jet lag",
+        "description": "Experiencing jet lag",
         "impactedMetrics": ["sleepScore", "bodyTemperature"]
+      },
+      {
+        "id": "lateWorkout",
+        "label": "Late workout",
+        "description": "Exercise close to bedtime",
+        "impactedMetrics": ["sleepLatency", "hrvAverage"]
       },
       {
         "id": "stress",
         "label": "Stress",
-        "description": "Experienced high stress levels",
-        "impactedMetrics": ["hrvAverage", "sleepScore", "deepSleepTime"]
-      },
-      {
-        "id": "illness",
-        "label": "Illness",
-        "description": "Feeling unwell or sick",
-        "impactedMetrics": ["bodyTemperature", "respiratoryRate"]
-      },
-      {
-        "id": "lateWorkout",
-        "label": "Late Workout",
-        "description": "Exercised within 3 hours of bedtime",
-        "impactedMetrics": ["sleepLatency", "bodyTemperature"]
-      },
-      {
-        "id": "screenTime",
-        "label": "Screen Time",
-        "description": "Extended screen exposure before bed",
-        "impactedMetrics": ["sleepLatency"]
-      },
-      {
-        "id": "lateFood",
-        "label": "Late Food",
-        "description": "Heavy meal within 2 hours of bedtime",
-        "impactedMetrics": ["sleepScore", "hrvAverage"]
+        "description": "High stress levels",
+        "impactedMetrics": ["hrvAverage", "sleepScore"]
       }
     ],
     "maxDailyTags": 5,
@@ -176,13 +176,25 @@ export const protocols = pgTable("protocols", {
   eligibilityCriteria: jsonb("eligibility_criteria").default(`{
     "questions": [
       {
-        "id": "ouraRing",
-        "question": "Do you own an Oura Ring that you can wear throughout the study period?",
+        "id": "magnesiumUse",
+        "question": "Have you taken any magnesium supplements in the last 3 months?",
         "type": "select",
         "options": [
-          {"value": "yes", "label": "Yes, I own an Oura Ring", "eligible": true},
-          {"value": "no", "label": "No, I don't own an Oura Ring", "eligible": false},
-          {"value": "ordered", "label": "I've ordered one but haven't received it yet", "eligible": false}
+          {"value": "no", "label": "No, I have not taken any magnesium supplements", "eligible": true},
+          {"value": "yes", "label": "Yes, I have taken magnesium supplements", "eligible": false},
+          {"value": "unsure", "label": "I'm not sure", "eligible": false}
+        ],
+        "required": true
+      },
+      {
+        "id": "sleepDisorders",
+        "question": "Do you have any diagnosed sleep disorders?",
+        "type": "select",
+        "options": [
+          {"value": "no", "label": "No diagnosed sleep disorders", "eligible": true},
+          {"value": "apnea", "label": "Sleep apnea", "eligible": false},
+          {"value": "insomnia", "label": "Insomnia", "eligible": false},
+          {"value": "other", "label": "Other sleep disorder", "eligible": false}
         ],
         "required": true
       },
@@ -200,27 +212,13 @@ export const protocols = pgTable("protocols", {
         "required": true
       },
       {
-        "id": "age",
-        "question": "What is your age?",
-        "type": "number",
-        "validation": {
-          "min": 18,
-          "max": 65
-        },
-        "eligibilityRange": {
-          "min": 18,
-          "max": 65
-        },
-        "required": true
-      },
-      {
-        "id": "sleepMedication",
-        "question": "Are you currently taking any prescription sleep medication?",
+        "id": "ouraRing",
+        "question": "Do you own an Oura Ring that you can wear throughout the study period?",
         "type": "select",
         "options": [
-          {"value": "yes", "label": "Yes, I take prescription sleep medication", "eligible": false},
-          {"value": "no", "label": "No, I don't take any sleep medication", "eligible": true},
-          {"value": "occasional", "label": "I occasionally take over-the-counter sleep aids", "eligible": false}
+          {"value": "yes", "label": "Yes, I own an Oura Ring", "eligible": true},
+          {"value": "no", "label": "No, I don't own an Oura Ring", "eligible": false},
+          {"value": "ordered", "label": "I've ordered one but haven't received it yet", "eligible": false}
         ],
         "required": true
       },
@@ -230,10 +228,10 @@ export const protocols = pgTable("protocols", {
         "type": "multiselect",
         "options": [
           {"value": "none", "label": "None of the above", "eligible": true},
-          {"value": "sleepApnea", "label": "Diagnosed sleep apnea", "eligible": false},
-          {"value": "insomnia", "label": "Diagnosed insomnia", "eligible": false},
-          {"value": "pregnancy", "label": "Pregnant or planning pregnancy", "eligible": false},
-          {"value": "shiftWork", "label": "Work night shifts", "eligible": false}
+          {"value": "kidney", "label": "Kidney problems", "eligible": false},
+          {"value": "heart", "label": "Heart conditions", "eligible": false},
+          {"value": "pregnant", "label": "Pregnant or planning pregnancy", "eligible": false},
+          {"value": "medication", "label": "Taking medications that interact with magnesium", "eligible": false}
         ],
         "eligibilityLogic": "must_select_none",
         "required": true
