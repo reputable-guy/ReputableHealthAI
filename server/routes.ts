@@ -14,51 +14,6 @@ const openai = new OpenAI({
 });
 
 export function registerRoutes(app: Express): Server {
-  // Test route to verify OpenAI API
-  app.get("/api/test-openai", async (_req, res) => {
-    try {
-      console.log("Testing OpenAI API connection...");
-
-      const completion = await openai.chat.completions.create({
-        model: "gpt-3.5-turbo",
-        messages: [
-          {
-            role: "user",
-            content: "Hello, this is a test message."
-          }
-        ],
-        max_tokens: 10
-      });
-
-      console.log("OpenAI API test successful:", completion.choices[0].message);
-
-      res.json({ 
-        status: "success",
-        message: "OpenAI API is working correctly",
-        response: completion.choices[0].message
-      });
-    } catch (error: any) {
-      console.error("OpenAI test error details:", {
-        status: error.status,
-        type: error.error?.type,
-        code: error.code,
-        param: error.param,
-        message: error.message
-      });
-
-      res.status(500).json({ 
-        status: "error",
-        error: error.error?.type || error.type,
-        message: error.error?.message || error.message,
-        details: {
-          status: error.status,
-          code: error.code,
-          param: error.param
-        }
-      });
-    }
-  });
-
   app.post("/api/protocols/generate", async (req, res) => {
     try {
       const setupData = req.body;
@@ -66,33 +21,78 @@ export function registerRoutes(app: Express): Server {
       console.log("Generating protocol with data:", setupData);
 
       const prompt = `
-As a clinical research expert, generate a comprehensive study protocol based on these initial details:
+Based on these initial details:
 
 Product Name: ${setupData.productName}
 Website: ${setupData.websiteUrl || 'N/A'}
 Study Goal: ${setupData.studyGoal}
 
-I need you to generate a protocol in valid JSON format. The response must be parseable JSON with the following structure:
+Generate a protocol in valid JSON format with the following EXACT structure (ensure it's valid JSON):
 
 {
-  "studyCategory": "Sleep",  // One of: Sleep, Stress, Recovery, Cognition, Metabolic Health, Women's Health, Other
-  "experimentTitle": "string",
-  "studyObjective": "string",
-  "studyType": "Real-World Evidence",  // Either "Real-World Evidence" or "Randomized Controlled Trial"
-  "participantCount": 100,  // number
-  "durationWeeks": 8,  // number
-  "targetMetrics": ["string"],  // array of strings
-  "questionnaires": ["string"],  // array of strings
+  "studyCategory": "string",  // One of: Sleep, Stress, Recovery, Cognition, Metabolic Health, Women's Health, Other
+  "experimentTitle": "string",  // A participant-facing title
+  "studyObjective": "string",  // The main hypothesis
+  "studyType": "string",  // Either "Real-World Evidence" or "Randomized Controlled Trial"
+  "participantCount": number,  // Based on power analysis
+  "durationWeeks": number,
+  "targetMetrics": [  // Array of specific metrics from wearables
+    "string"
+  ],
+  "questionnaires": [  // Array of validated questionnaires
+    "string"
+  ],
+  "studySummary": "string",  // One-line summary for participants
+  "participantInstructions": [  // Array of instruction steps
+    "string"
+  ],
+  "safetyPrecautions": [  // Array of safety guidelines
+    "string"
+  ],
+  "educationalResources": [  // Array of relevant scientific resources
+    {
+      "title": "string",
+      "description": "string",
+      "type": "string"  // e.g., "research_paper", "clinical_guidelines"
+    }
+  ],
+  "consentFormSections": [  // Key sections of the consent form
+    {
+      "title": "string",
+      "content": "string"
+    }
+  ],
+  "customFactors": [  // Array of life events to track
+    "string"
+  ],
   "eligibilityCriteria": {
-    "wearableData": [],  // array
-    "demographics": [],  // array
-    "customQuestions": ["string"]  // array of strings
+    "wearableData": [  // Specific wearable data requirements
+      {
+        "metric": "string",
+        "condition": "string",
+        "value": "string"
+      }
+    ],
+    "demographics": [  // Demographic requirements
+      {
+        "category": "string",
+        "requirement": "string"
+      }
+    ],
+    "customQuestions": [  // Screening questions
+      "string"
+    ]
   }
 }
 
-Important: Ensure the response is ONLY the JSON object, with no additional text or markdown formatting.
-
-Base your protocol design on scientific best practices and make it appropriate for the product category. Include relevant wearable metrics and validated questionnaires specific to the study category.`;
+Important: 
+1. Response must be ONLY the JSON object with no additional text
+2. Ensure all arrays have at least one item
+3. Make the protocol scientifically rigorous but practical for wellness brands
+4. Include relevant wearable metrics specific to the study category
+5. Base participant count on statistical power analysis
+6. Include validated questionnaires specific to the category
+7. Generate realistic values for all fields, not placeholder text`;
 
       console.log("Sending request to OpenAI...");
       const completion = await openai.chat.completions.create({
@@ -141,7 +141,6 @@ Base your protocol design on scientific best practices and make it appropriate f
         message: error.message
       });
 
-      // Handle specific OpenAI API errors
       if (error.error?.type === 'insufficient_quota') {
         res.status(500).json({ 
           error: "Failed to generate protocol",
@@ -161,7 +160,6 @@ Base your protocol design on scientific best practices and make it appropriate f
     }
   });
 
-  // Protocol insights endpoint
   app.post("/api/protocols/insights", async (req, res) => {
     try {
       const protocolData = req.body;

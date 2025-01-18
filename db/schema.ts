@@ -14,6 +14,12 @@ export const protocols = pgTable("protocols", {
   durationWeeks: integer("duration_weeks").notNull(),
   targetMetrics: jsonb("target_metrics").notNull(),
   questionnaires: jsonb("questionnaires").notNull(),
+  studySummary: text("study_summary"),  // Made nullable
+  participantInstructions: jsonb("participant_instructions").default('[]'),
+  safetyPrecautions: jsonb("safety_precautions").default('[]'),
+  educationalResources: jsonb("educational_resources").default('[]'),
+  consentFormSections: jsonb("consent_form_sections").default('[]'),
+  customFactors: jsonb("custom_factors").default('[]'),
   eligibilityCriteria: jsonb("eligibility_criteria").notNull(),
   createdAt: timestamp("created_at").defaultNow().notNull(),
   updatedAt: timestamp("updated_at").defaultNow().notNull()
