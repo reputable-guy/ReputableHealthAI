@@ -3,6 +3,10 @@ import { Button } from "@/components/ui/button";
 import { useMutation } from "@tanstack/react-query";
 import { useToast } from "@/hooks/use-toast";
 import type { ProtocolData } from "@/pages/protocol-designer";
+import { generateProtocolInsights } from "@/lib/protocol-insights";
+import { useState } from "react";
+import { Loader2 } from "lucide-react";
+import ReactMarkdown from "react-markdown";
 
 interface ProtocolPreviewProps {
   protocolData: Partial<ProtocolData>;
@@ -10,7 +14,8 @@ interface ProtocolPreviewProps {
 
 export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) {
   const { toast } = useToast();
-  
+  const [insights, setInsights] = useState<string | null>(null);
+
   const saveProtocol = useMutation({
     mutationFn: async (data: Partial<ProtocolData>) => {
       const res = await fetch("/api/protocols", {
@@ -18,11 +23,11 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data)
       });
-      
+
       if (!res.ok) {
         throw new Error("Failed to save protocol");
       }
-      
+
       return res.json();
     },
     onSuccess: () => {
@@ -35,6 +40,27 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
       toast({
         title: "Error",
         description: "Failed to save protocol. Please try again.",
+        variant: "destructive"
+      });
+    }
+  });
+
+  const generateInsights = useMutation({
+    mutationFn: async () => {
+      const insightText = await generateProtocolInsights(protocolData);
+      return insightText;
+    },
+    onSuccess: (data) => {
+      setInsights(data);
+      toast({
+        title: "Insights Generated",
+        description: "AI-powered insights have been generated for your protocol."
+      });
+    },
+    onError: () => {
+      toast({
+        title: "Error",
+        description: "Failed to generate insights. Please try again.",
         variant: "destructive"
       });
     }
@@ -78,13 +104,43 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         </CardContent>
       </Card>
 
-      <Button
-        className="w-full"
-        onClick={() => saveProtocol.mutate(protocolData)}
-        disabled={saveProtocol.isPending}
-      >
-        {saveProtocol.isPending ? "Saving..." : "Save Protocol"}
-      </Button>
+      {insights && (
+        <Card>
+          <CardHeader>
+            <CardTitle>AI-Generated Insights</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="prose prose-sm max-w-none">
+              <ReactMarkdown>{insights}</ReactMarkdown>
+            </div>
+          </CardContent>
+        </Card>
+      )}
+
+      <div className="flex flex-col gap-3">
+        <Button
+          className="w-full"
+          onClick={() => generateInsights.mutate()}
+          disabled={generateInsights.isPending}
+        >
+          {generateInsights.isPending ? (
+            <>
+              <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+              Generating Insights...
+            </>
+          ) : (
+            "Generate AI Insights"
+          )}
+        </Button>
+
+        <Button
+          className="w-full"
+          onClick={() => saveProtocol.mutate(protocolData)}
+          disabled={saveProtocol.isPending}
+        >
+          {saveProtocol.isPending ? "Saving..." : "Save Protocol"}
+        </Button>
+      </div>
     </div>
   );
 }
