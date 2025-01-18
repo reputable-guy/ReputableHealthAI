@@ -380,6 +380,147 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         </Card>
       </Collapsible>
 
+      {/* Custom Factors/Tags Section */}
+      <Collapsible>
+        <Card>
+          <CardHeader>
+            <CollapsibleTrigger className="flex items-center justify-between w-full">
+              <CardTitle>Study Tracking Factors</CardTitle>
+              <ChevronDown className="h-4 w-4" />
+            </CollapsibleTrigger>
+          </CardHeader>
+          <CollapsibleContent>
+            <CardContent>
+              <div className="space-y-4">
+                <p className="text-sm text-muted-foreground">
+                  Participants will track the following factors that may impact their sleep metrics:
+                </p>
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+                  {[
+                    {
+                      id: "lateCaffeine",
+                      label: "Late caffeine",
+                      description: "Consumed caffeine late in the day",
+                      impactedMetrics: ["Sleep Score", "Sleep Latency"]
+                    },
+                    {
+                      id: "lateMeal",
+                      label: "Late meal",
+                      description: "Consumed a meal close to bedtime",
+                      impactedMetrics: ["Sleep Score", "HRV"]
+                    },
+                    {
+                      id: "blueLight",
+                      label: "Blue light",
+                      description: "Extended screen exposure before bed",
+                      impactedMetrics: ["Sleep Latency", "Sleep Score"]
+                    },
+                    {
+                      id: "alcoholIntake",
+                      label: "Alcohol intake",
+                      description: "Consumed alcohol",
+                      impactedMetrics: ["Deep Sleep", "REM Sleep"]
+                    },
+                    {
+                      id: "stressLevel",
+                      label: "Stress",
+                      description: "High stress levels",
+                      impactedMetrics: ["HRV", "Sleep Score"]
+                    },
+                    {
+                      id: "exercise",
+                      label: "Late workout",
+                      description: "Exercise close to bedtime",
+                      impactedMetrics: ["Sleep Latency", "HRV"]
+                    }
+                  ].map((factor) => (
+                    <div
+                      key={factor.id}
+                      className="rounded-lg border bg-card p-3 text-card-foreground shadow-sm"
+                    >
+                      <h4 className="font-medium mb-1">{factor.label}</h4>
+                      <p className="text-sm text-muted-foreground mb-2">
+                        {factor.description}
+                      </p>
+                      <div className="flex flex-wrap gap-1">
+                        {factor.impactedMetrics.map((metric) => (
+                          <span
+                            key={metric}
+                            className="inline-flex items-center rounded-full bg-primary/10 px-2.5 py-0.5 text-xs font-medium text-primary"
+                          >
+                            {metric}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </CardContent>
+          </CollapsibleContent>
+        </Card>
+      </Collapsible>
+
+      {/* Consent Form Section */}
+      <Collapsible>
+        <Card>
+          <CardHeader>
+            <CollapsibleTrigger className="flex items-center justify-between w-full">
+              <CardTitle>Participant Consent Form</CardTitle>
+              <ChevronDown className="h-4 w-4" />
+            </CollapsibleTrigger>
+          </CardHeader>
+          <CollapsibleContent>
+            <CardContent>
+              <div className="space-y-6">
+                {/* Introduction */}
+                <div>
+                  <h3 className="font-medium mb-2">Introduction</h3>
+                  <p className="text-sm text-muted-foreground">
+                    You are being asked for your consent to take part in this research study. This document provides a concise summary of this research and what we expect from your participation. Your participation is voluntary and you may withdraw at any time.
+                  </p>
+                </div>
+
+                {/* Purpose */}
+                <div>
+                  <h3 className="font-medium mb-2">Purpose of Research</h3>
+                  <p className="text-sm text-muted-foreground">
+                    This study aims to assess the impact of the intervention on sleep quality, recovery metrics, and overall well-being using Oura Ring data and participant feedback over {protocolData.durationWeeks} weeks.
+                  </p>
+                </div>
+
+                {/* Expectations */}
+                <div>
+                  <h3 className="font-medium mb-2">Study Requirements</h3>
+                  <ul className="list-disc list-inside text-sm space-y-2 text-muted-foreground">
+                    <li>Wear your Oura Ring consistently throughout the study period</li>
+                    <li>Complete daily tracking of relevant factors that may impact your sleep</li>
+                    <li>Participate in required questionnaires at specified intervals</li>
+                    <li>Follow the study protocol as directed</li>
+                  </ul>
+                </div>
+
+                {/* Data Usage */}
+                <div>
+                  <h3 className="font-medium mb-2">Data Collection & Privacy</h3>
+                  <p className="text-sm text-muted-foreground">
+                    Your data will be collected through the Oura Ring device and our platform. All data is encrypted and stored securely. Your personal information will be de-identified for research purposes. You have the right to request your data be deleted at any time.
+                  </p>
+                </div>
+
+                {/* Contact Information */}
+                <div>
+                  <h3 className="font-medium mb-2">Contact Information</h3>
+                  <p className="text-sm text-muted-foreground">
+                    For questions or concerns about the study, please contact the research team through the platform's messaging system or at support@reputable.health.
+                  </p>
+                </div>
+              </div>
+            </CardContent>
+          </CollapsibleContent>
+        </Card>
+      </Collapsible>
+
       {/* AI Insights Section */}
       {insights && (
         <Card>
