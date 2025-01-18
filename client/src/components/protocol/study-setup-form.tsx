@@ -28,7 +28,11 @@ interface StudySetupFormProps {
 export default function StudySetupForm({ onComplete }: StudySetupFormProps) {
   const form = useForm({
     resolver: zodResolver(studySetupSchema),
-    defaultValues: {}
+    defaultValues: {
+      productName: "",
+      websiteUrl: "",
+      studyGoal: undefined
+    }
   });
 
   const isSubmitting = form.formState.isSubmitting;
@@ -46,7 +50,7 @@ export default function StudySetupForm({ onComplete }: StudySetupFormProps) {
                 Enter the name of the wellness product you want to study
               </FormDescription>
               <FormControl>
-                <Input placeholder="Enter product name" {...field} />
+                <Input {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -63,7 +67,7 @@ export default function StudySetupForm({ onComplete }: StudySetupFormProps) {
                 Link to your product's website for additional context
               </FormDescription>
               <FormControl>
-                <Input placeholder="https://..." {...field} />
+                <Input {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -104,7 +108,7 @@ export default function StudySetupForm({ onComplete }: StudySetupFormProps) {
           {isSubmitting ? (
             <>
               <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-              Generating Protocol...
+              Generating Study Protocol...
             </>
           ) : (
             "Generate Study Protocol"
