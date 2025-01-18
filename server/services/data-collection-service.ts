@@ -2,7 +2,10 @@ import type { ReferenceDocument } from './rag-service';
 import axios from 'axios';
 import { XMLParser } from 'fast-xml-parser';
 import { writeFileSync } from 'fs';
-import { join } from 'path';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 interface PubMedArticle {
   title: string;
@@ -21,6 +24,7 @@ export class DataCollectionService {
 
   async collectWellnessStudies(categories: string[], startYear: number = 2015): Promise<ReferenceDocument[]> {
     const studies: ReferenceDocument[] = [];
+    let totalProcessed = 0;
 
     for (const category of categories) {
       console.log(`Collecting studies for category: ${category}`);
@@ -34,6 +38,7 @@ export class DataCollectionService {
 
         const searchResponse = await axios.get(searchUrl);
         const articleIds = searchResponse.data.esearchresult.idlist;
+        console.log(`Found ${articleIds.length} articles for category ${category}`);
 
         // Fetch articles in batches
         for (let i = 0; i < articleIds.length; i += this.BATCH_SIZE) {
@@ -58,10 +63,13 @@ export class DataCollectionService {
           }));
 
           studies.push(...documents);
+          totalProcessed += documents.length;
+          console.log(`Processed ${documents.length} studies in current batch. Total: ${totalProcessed}`);
 
           // Save to files for persistence
+          const dataDir = join(__dirname, '../data/past_studies');
           documents.forEach(doc => {
-            const filePath = join(__dirname, `../data/past_studies/pubmed_${doc.id}.txt`);
+            const filePath = join(dataDir, `pubmed_${doc.id}.txt`);
             writeFileSync(filePath, doc.content);
           });
 
@@ -73,6 +81,7 @@ export class DataCollectionService {
       }
     }
 
+    console.log(`Total studies collected: ${studies.length}`);
     return studies;
   }
 
@@ -93,23 +102,23 @@ export class DataCollectionService {
 
   private formatStudyContent(article: PubMedArticle): string {
     return `Study Title: ${article.title}
-
+    
 Study Summary:
 ${article.abstract}
-
+    
 Methodology:
-
+    
 1. Study Type
 - Clinical trial
 - Publication Date: ${article.publicationDate}
 ${article.doi ? `- DOI: ${article.doi}` : ''}
-
+    
 2. Keywords
 ${article.keywords.map(kw => `- ${kw}`).join('\n')}
-
+    
 3. Key Findings
 ${this.extractKeyFindings(article.abstract)}
-
+    
 This study provides insights into:
 ${this.extractInsights(article.abstract, article.keywords)}
 `;
