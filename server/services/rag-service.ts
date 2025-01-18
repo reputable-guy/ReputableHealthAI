@@ -3,8 +3,15 @@ import type { Document } from "langchain/document";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import { OpenAIEmbeddings } from "@langchain/openai";
 import { readFileSync } from 'fs';
-import { join } from 'path';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
 import { dataCollectionService } from './data-collection-service';
+
+// Get the directory path in ESM
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+// Go up one level to the server directory
+const SERVER_DIR = dirname(__dirname);
 
 export interface ReferenceDocument {
   id: string;
@@ -40,7 +47,7 @@ class RAGService {
     try {
       console.log("Initializing RAG service...");
 
-      // Initialize Pinecone client with just the API key
+      // Initialize Pinecone client
       this.pinecone = new Pinecone({
         apiKey: process.env.PINECONE_API_KEY
       });
@@ -128,17 +135,17 @@ class RAGService {
     try {
       const index = this.pinecone.index(this.indexName);
       const stats = await index.describeIndexStats();
+      console.log(`Current index stats - Total records: ${stats.totalRecordCount}`);
 
       if (stats.totalRecordCount === 0) {
         console.log("Loading initial reference documents into Pinecone...");
-
         // Load FDA guidelines
         const fdaGuidelines: ReferenceDocument[] = [
           {
             id: "fda-001",
             type: "fda_guideline",
             title: "FDA Guidance for Industry: Patient-Reported Outcome Measures",
-            content: readFileSync(join(__dirname, '../data/fda/pro_guidance.txt'), 'utf-8'),
+            content: readFileSync(join(SERVER_DIR, 'data/fda/pro_guidance.txt'), 'utf-8'),
             metadata: {
               category: "methodology",
               lastUpdated: "2024-01-18",
@@ -149,7 +156,7 @@ class RAGService {
             id: "fda-002",
             type: "fda_guideline",
             title: "FDA Guidance on Safety Monitoring in Clinical Investigations",
-            content: readFileSync(join(__dirname, '../data/fda/safety_monitoring.txt'), 'utf-8'),
+            content: readFileSync(join(SERVER_DIR, 'data/fda/safety_monitoring.txt'), 'utf-8'),
             metadata: {
               category: "safety",
               lastUpdated: "2024-01-18",
@@ -164,7 +171,7 @@ class RAGService {
             id: "template-001",
             type: "study_template",
             title: "Sleep Quality Assessment Protocol Template",
-            content: readFileSync(join(__dirname, '../data/templates/sleep_study.txt'), 'utf-8'),
+            content: readFileSync(join(SERVER_DIR, 'data/templates/sleep_study.txt'), 'utf-8'),
             metadata: {
               category: "sleep",
               lastUpdated: "2024-01-18",
@@ -175,7 +182,7 @@ class RAGService {
             id: "template-002",
             type: "study_template",
             title: "Stress Response Study Template",
-            content: readFileSync(join(__dirname, '../data/templates/stress_study.txt'), 'utf-8'),
+            content: readFileSync(join(SERVER_DIR, 'data/templates/stress_study.txt'), 'utf-8'),
             metadata: {
               category: "stress",
               lastUpdated: "2024-01-18",
@@ -190,7 +197,7 @@ class RAGService {
             id: "study-001",
             type: "past_study",
             title: "Effects of Magnesium Supplementation on Sleep Architecture",
-            content: readFileSync(join(__dirname, '../data/past_studies/magnesium_sleep.txt'), 'utf-8'),
+            content: readFileSync(join(SERVER_DIR, 'data/past_studies/magnesium_sleep.txt'), 'utf-8'),
             metadata: {
               category: "sleep",
               lastUpdated: "2024-01-18",
@@ -201,7 +208,7 @@ class RAGService {
             id: "study-002",
             type: "past_study",
             title: "Impact of Plant-Based Recovery Supplements on Exercise Performance",
-            content: readFileSync(join(__dirname, '../data/past_studies/exercise_recovery.txt'), 'utf-8'),
+            content: readFileSync(join(SERVER_DIR, 'data/past_studies/exercise_recovery.txt'), 'utf-8'),
             metadata: {
               category: "exercise",
               lastUpdated: "2024-01-18",
@@ -212,7 +219,7 @@ class RAGService {
             id: "study-003",
             type: "past_study",
             title: "Effects of Digital Mindfulness Program on Chronic Stress Management",
-            content: readFileSync(join(__dirname, '../data/past_studies/mindfulness_stress.txt'), 'utf-8'),
+            content: readFileSync(join(SERVER_DIR, 'data/past_studies/mindfulness_stress.txt'), 'utf-8'),
             metadata: {
               category: "stress",
               lastUpdated: "2024-01-18",
@@ -482,7 +489,7 @@ The protocol should follow FDA guidelines and best practices while being specifi
       const batchSize = 50;
       for (let i = 0; i < studies.length; i += batchSize) {
         const batch = studies.slice(i, i + batchSize);
-        console.log(`Indexing batch ${i/batchSize + 1}/${Math.ceil(studies.length/batchSize)}`);
+        console.log(`Indexing batch ${i / batchSize + 1}/${Math.ceil(studies.length / batchSize)}`);
 
         for (const study of batch) {
           let retries = 0;
@@ -508,10 +515,33 @@ The protocol should follow FDA guidelines and best practices while being specifi
       }
 
       console.log("Successfully loaded public studies into vector database");
+      await this.checkIndexStats();
       return true;
     } catch (error) {
       console.error("Failed to load public studies:", error);
       return false;
+    }
+  }
+
+  async checkIndexStats() {
+    if (!this.initialized || !this.pinecone) {
+      console.log("RAG service not initialized, cannot check stats");
+      return null;
+    }
+
+    try {
+      const index = this.pinecone.index(this.indexName);
+      const stats = await index.describeIndexStats();
+
+      console.log("=== Pinecone Index Statistics ===");
+      console.log(`Total vectors: ${stats.totalRecordCount}`);
+      console.log(`Namespaces: ${Object.keys(stats.namespaces || {}).length}`);
+      console.log("===============================");
+
+      return stats;
+    } catch (error) {
+      console.error("Failed to fetch index stats:", error);
+      return null;
     }
   }
 }
