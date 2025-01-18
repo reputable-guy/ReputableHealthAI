@@ -2,6 +2,8 @@ import { Pinecone } from "@pinecone-database/pinecone";
 import { Pipeline, pipeline } from '@xenova/transformers';
 import type { Document } from "langchain/document";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
 // Custom type for transformer output
 interface TransformerOutput {
@@ -41,12 +43,138 @@ class RAGService {
         apiKey: process.env.PINECONE_API_KEY,
       });
 
+      // Check if index exists, create if it doesn't
+      const indexes = await this.pinecone.listIndexes();
+      const indexNames = indexes.indexes?.map(index => index.name) || [];
+
+      if (!indexNames.includes(this.indexName)) {
+        console.log(`Creating new Pinecone index: ${this.indexName}`);
+        await this.pinecone.createIndex({
+          name: this.indexName,
+          dimension: 384, // dimension for all-MiniLM-L6-v2 embeddings
+          metric: 'cosine',
+          spec: {
+            serverless: {
+              cloud: 'aws',
+              region: 'us-west-2'
+            }
+          }
+        });
+
+        // Wait for index to be ready
+        let indexStatus = await this.pinecone.describeIndex(this.indexName);
+        while (indexStatus.status?.ready === false) {
+          console.log('Waiting for index to be ready...');
+          await new Promise(resolve => setTimeout(resolve, 5000));
+          indexStatus = await this.pinecone.describeIndex(this.indexName);
+        }
+      }
+
       this.embeddingModel = await this.initEmbeddingModel();
       this.initialized = true;
       console.log("RAG service initialized successfully");
+
+      // Load initial data if index is empty
+      await this.loadInitialData();
     } catch (error) {
       console.error("Failed to initialize RAG service:", error);
       this.initialized = false;
+    }
+  }
+
+  private async loadInitialData() {
+    if (!this.initialized || !this.pinecone) {
+      console.warn("RAG service not initialized, skipping initial data load");
+      return;
+    }
+
+    try {
+      const index = this.pinecone.index(this.indexName);
+      const stats = await index.describeIndexStats();
+
+      if (stats.totalRecordCount === 0) {
+        console.log("Loading initial reference documents into Pinecone...");
+
+        // Load FDA guidelines
+        const fdaGuidelines: ReferenceDocument[] = [
+          {
+            id: "fda-001",
+            type: "fda_guideline",
+            title: "FDA Guidance for Industry: Patient-Reported Outcome Measures",
+            content: readFileSync(join(__dirname, '../data/fda/pro_guidance.txt'), 'utf-8'),
+            metadata: {
+              category: "methodology",
+              lastUpdated: "2024-01-18",
+              source: "FDA.gov"
+            }
+          },
+          {
+            id: "fda-002",
+            type: "fda_guideline",
+            title: "FDA Guidance on Safety Monitoring in Clinical Investigations",
+            content: readFileSync(join(__dirname, '../data/fda/safety_monitoring.txt'), 'utf-8'),
+            metadata: {
+              category: "safety",
+              lastUpdated: "2024-01-18",
+              source: "FDA.gov"
+            }
+          }
+        ];
+
+        // Load study templates
+        const studyTemplates: ReferenceDocument[] = [
+          {
+            id: "template-001",
+            type: "study_template",
+            title: "Sleep Quality Assessment Protocol Template",
+            content: readFileSync(join(__dirname, '../data/templates/sleep_study.txt'), 'utf-8'),
+            metadata: {
+              category: "sleep",
+              lastUpdated: "2024-01-18",
+              source: "Research Protocol Database"
+            }
+          },
+          {
+            id: "template-002",
+            type: "study_template",
+            title: "Stress Response Study Template",
+            content: readFileSync(join(__dirname, '../data/templates/stress_study.txt'), 'utf-8'),
+            metadata: {
+              category: "stress",
+              lastUpdated: "2024-01-18",
+              source: "Research Protocol Database"
+            }
+          }
+        ];
+
+        // Load past studies
+        const pastStudies: ReferenceDocument[] = [
+          {
+            id: "study-001",
+            type: "past_study",
+            title: "Effects of Magnesium Supplementation on Sleep Architecture",
+            content: readFileSync(join(__dirname, '../data/past_studies/magnesium_sleep.txt'), 'utf-8'),
+            metadata: {
+              category: "sleep",
+              lastUpdated: "2024-01-18",
+              source: "Journal of Sleep Research"
+            }
+          }
+        ];
+
+        // Index all documents
+        const allDocuments = [...fdaGuidelines, ...studyTemplates, ...pastStudies];
+        for (const doc of allDocuments) {
+          await this.indexDocument(doc);
+          console.log(`Indexed document: ${doc.title}`);
+        }
+
+        console.log(`Successfully loaded ${allDocuments.length} reference documents`);
+      } else {
+        console.log(`Found ${stats.totalRecordCount} existing documents in the index`);
+      }
+    } catch (error) {
+      console.error("Failed to load initial data:", error);
     }
   }
 
@@ -163,7 +291,7 @@ class RAGService {
         category
       );
 
-      const contextContent = relevantDocs.length > 0 
+      const contextContent = relevantDocs.length > 0
         ? relevantDocs.join("\n\n")
         : "No relevant reference materials found.";
 

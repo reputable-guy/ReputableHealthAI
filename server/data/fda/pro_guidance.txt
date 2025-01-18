@@ -1,0 +1,81 @@
+FDA Guidance for Industry: Patient-Reported Outcome Measures
+
+Purpose:
+This guidance describes how the FDA evaluates patient-reported outcome (PRO) instruments used to support claims in approved medical product labeling.
+
+Key Principles:
+1. Definition of Patient-Reported Outcome (PRO)
+A PRO is any report of the status of a patient's health condition that comes directly from the patient, without interpretation of the patient's response by a clinician or anyone else.
+
+2. Content Validity
+- The PRO instrument should measure the concept of interest in the context of use
+- Items and domains should be relevant to the target population
+- The instrument should be comprehensive with respect to patient concerns
+- The recall period should be appropriate and clearly defined
+
+3. Measurement Properties
+- Reliability: Test-retest, internal consistency, and inter-interviewer reliability
+- Construct validity: The relationship between PRO concepts and other similar or dissimilar concepts
+- Ability to detect change: The instrument should be able to detect changes in the concept of interest when they occur
+
+Best Practices for Implementation:
+1. Study Design Considerations
+- Specify PRO concepts in the study protocol
+- Include PRO endpoints in statistical analysis plans
+- Define clinically meaningful changes
+- Account for missing data in the analysis plan
+
+2. Data Collection Methods
+- Electronic vs. paper-based collection
+- Training requirements for site personnel
+- Quality control procedures
+- Data security and privacy considerations
+
+3. Analysis and Interpretation
+- Statistical methods for PRO data analysis
+- Handling missing data
+- Interpretation of meaningfulness of changes
+- Population-level vs. individual-level changes
+
+Special Considerations for Wellness Studies:
+1. Subjective Wellbeing Measures
+- Use validated scales when available
+- Consider cultural and linguistic adaptations
+- Include both positive and negative aspects of wellbeing
+
+2. Quality of Life Assessments
+- Physical functioning
+- Emotional wellbeing
+- Social relationships
+- Environmental factors
+
+3. Sleep and Recovery Metrics
+- Sleep quality questionnaires
+- Recovery perception scales
+- Daily functioning assessments
+
+Documentation Requirements:
+1. Instrument Development
+- Conceptual framework
+- Item generation and reduction
+- Cognitive interviewing results
+- Pilot testing outcomes
+
+2. Validation Evidence
+- Psychometric properties
+- Cross-cultural validation
+- Known-groups validity
+- Responsiveness to change
+
+3. Implementation Protocol
+- Administration procedures
+- Scoring algorithms
+- Missing data handling
+- Quality control measures
+
+This guidance emphasizes the importance of:
+- Scientific rigor in PRO development and validation
+- Patient-centricity in outcome measurement
+- Appropriate study design and statistical methodology
+- Clear documentation of methods and procedures
+- Consideration of the target population's characteristics
