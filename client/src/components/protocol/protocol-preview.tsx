@@ -10,8 +10,8 @@ import { Loader2, Info } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import { validateStudyDesign, type ValidationResult } from "@/lib/study-validation";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
-import { Progress } from "@/components/ui/progress";
 import { Shield, AlertTriangle, CheckCircle } from "lucide-react";
+import PowerVisualization from "./power-visualization";
 
 interface ProtocolPreviewProps {
   protocolData: Partial<ProtocolData>;
@@ -128,11 +128,11 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         </CardHeader>
         <CardContent className="space-y-4">
           <div>
-            <h3 className="text-sm font-medium mb-2">Statistical Power</h3>
-            <Progress value={validationResults.statisticalPower * 100} className="h-2" />
-            <p className="text-sm text-muted-foreground mt-1">
-              {(validationResults.statisticalPower * 100).toFixed(1)}% (Recommended: ≥80%)
-            </p>
+            <PowerVisualization 
+              power={validationResults.statisticalPower}
+              sampleSize={protocolData.participantCount || 0}
+              recommendedSize={validationResults.minimumSampleSize}
+            />
           </div>
 
           <div>
