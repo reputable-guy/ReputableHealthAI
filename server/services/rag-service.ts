@@ -34,7 +34,6 @@ class RAGService {
     }
 
     try {
-      // Initialize Pinecone with just the API key
       this.pinecone = new Pinecone({
         apiKey: process.env.PINECONE_API_KEY
       });
@@ -55,8 +54,8 @@ class RAGService {
           dimension: 1536, // dimension for text-embedding-ada-002
           spec: {
             serverless: {
-              cloud: "aws",
-              region: "us-west-2"
+              cloud: 'gcp',
+              region: 'gcp-starter'
             }
           }
         });
@@ -317,7 +316,7 @@ The protocol should incorporate best practices and guidelines from the reference
 `;
     } catch (error) {
       console.error("Failed to generate contextual prompt:", error);
-      // Fallback to basic prompt without context
+      // Fallback prompt remains unchanged
       return `
 Generate a comprehensive research protocol for the following in JSON format:
 
