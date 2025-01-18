@@ -21,7 +21,7 @@ export function registerRoutes(app: Express): Server {
 
       // Make a minimal API call
       const completion = await openai.chat.completions.create({
-        model: "gpt-3.5-turbo", // Using a less expensive model for testing
+        model: "gpt-3.5-turbo",
         messages: [
           {
             role: "user",
@@ -87,20 +87,20 @@ Generate a complete study protocol including:
    - Demographic requirements
    - Screening questions
 
-Format the response as a JSON object with these fields:
+Format the response as a JSON object with these exact fields and format:
 {
-  studyCategory: string,
-  experimentTitle: string,
-  studyObjective: string,
-  studyType: string,
-  participantCount: number,
-  durationWeeks: number,
-  targetMetrics: string[],
-  questionnaires: string[],
-  eligibilityCriteria: {
-    wearableData: any[],
-    demographics: any[],
-    customQuestions: string[]
+  "studyCategory": "string, one of: Sleep, Stress, Recovery, Cognition, Metabolic Health, Women's Health, Other",
+  "experimentTitle": "string",
+  "studyObjective": "string",
+  "studyType": "string, either Real-World Evidence or Randomized Controlled Trial",
+  "participantCount": number,
+  "durationWeeks": number,
+  "targetMetrics": ["string array of metrics"],
+  "questionnaires": ["string array of questionnaire names"],
+  "eligibilityCriteria": {
+    "wearableData": [],
+    "demographics": [],
+    "customQuestions": ["string array of questions"]
   }
 }
 
@@ -109,7 +109,7 @@ Ensure the protocol design follows scientific best practices and is appropriate 
 
       console.log("Sending request to OpenAI...");
       const completion = await openai.chat.completions.create({
-        model: "gpt-3.5-turbo", // Changed from gpt-4 to gpt-3.5-turbo
+        model: "gpt-3.5-turbo",
         messages: [
           {
             role: "system",
@@ -120,7 +120,6 @@ Ensure the protocol design follows scientific best practices and is appropriate 
             content: prompt
           }
         ],
-        response_format: { type: "json_object" },
         temperature: 0.7
       });
 
@@ -129,15 +128,21 @@ Ensure the protocol design follows scientific best practices and is appropriate 
       }
 
       console.log("OpenAI response received successfully");
-      const generatedProtocol = JSON.parse(completion.choices[0].message.content);
-      const fullProtocol = {
-        ...setupData,
-        ...generatedProtocol
-      };
 
-      console.log("Saving protocol to database...");
-      const savedProtocol = await db.insert(protocols).values(fullProtocol).returning();
-      res.json(savedProtocol[0]);
+      try {
+        const generatedProtocol = JSON.parse(completion.choices[0].message.content);
+        const fullProtocol = {
+          ...setupData,
+          ...generatedProtocol
+        };
+
+        console.log("Saving protocol to database...");
+        const savedProtocol = await db.insert(protocols).values(fullProtocol).returning();
+        res.json(savedProtocol[0]);
+      } catch (parseError) {
+        console.error("Failed to parse OpenAI response:", completion.choices[0].message.content);
+        throw new Error("Failed to parse protocol data from AI response");
+      }
     } catch (error: any) {
       console.error("Protocol generation error details:", {
         status: error.status,
