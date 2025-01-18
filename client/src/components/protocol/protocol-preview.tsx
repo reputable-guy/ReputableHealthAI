@@ -126,6 +126,23 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
     }
   });
 
+  // Add handleParameterUpdate function
+  const handleParameterUpdate = useMutation({
+    mutationFn: async (params: { effectSize: number; power: number; alpha: number }) => {
+      const results = await validateStudyDesign({
+        ...protocolData,
+        // Add any additional parameters needed for validation
+      });
+      return results;
+    },
+    onSuccess: (data) => {
+      setValidationResults(data);
+      toast({
+        title: "Parameters Updated",
+        description: "Study design parameters have been recalculated."
+      });
+    }
+  });
 
   return (
     <div className="space-y-6 max-w-4xl mx-auto">
@@ -186,6 +203,8 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
                           effectSize={validationResults.effectSize || 0.5}
                           confidence={validationResults.confidence || 0.8}
                           powerCurve={validationResults.powerCurve || []}
+                          confidenceInterval={validationResults.confidenceInterval}
+                          onUpdateParameters={(params) => handleParameterUpdate.mutate(params)}
                         />
                       </DialogContent>
                     </Dialog>

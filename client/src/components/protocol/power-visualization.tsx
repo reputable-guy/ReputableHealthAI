@@ -7,6 +7,8 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
+import SampleSizeCalculator from "./sample-size-calculator";
+import { useState } from "react";
 
 interface PowerVisualizationProps {
   power: number;
@@ -19,6 +21,11 @@ interface PowerVisualizationProps {
     lower: number;
     upper: number;
   };
+  onUpdateParameters?: (params: {
+    effectSize: number;
+    power: number;
+    alpha: number;
+  }) => void;
 }
 
 export default function PowerVisualization({ 
@@ -28,7 +35,8 @@ export default function PowerVisualization({
   effectSize,
   confidence,
   powerCurve,
-  confidenceInterval 
+  confidenceInterval,
+  onUpdateParameters
 }: PowerVisualizationProps) {
   const powerColor = power >= 0.8 
     ? "rgb(34, 197, 94)" // green-500
@@ -44,7 +52,24 @@ export default function PowerVisualization({
           <div className="text-2xl font-bold" style={{ color: powerColor }}>
             {(power * 100).toFixed(1)}%
           </div>
-          <div className="text-sm text-muted-foreground">Statistical Power</div>
+          <div className="text-sm text-muted-foreground flex items-center justify-center gap-1">
+            Statistical Power
+            <TooltipProvider>
+              <UITooltip>
+                <TooltipTrigger>
+                  <Info className="h-4 w-4" />
+                </TooltipTrigger>
+                <TooltipContent className="max-w-sm">
+                  <p>Statistical power is the probability of detecting a true effect when it exists.</p>
+                  <ul className="list-disc list-inside mt-2 text-sm">
+                    <li>≥80%: Good power</li>
+                    <li>60-79%: Marginal power</li>
+                    <li>&lt;60%: Insufficient power</li>
+                  </ul>
+                </TooltipContent>
+              </UITooltip>
+            </TooltipProvider>
+          </div>
         </div>
         <div className="text-center">
           <div className="text-2xl font-bold">
@@ -55,21 +80,56 @@ export default function PowerVisualization({
                   <TooltipTrigger className="ml-1">
                     <Info className="h-4 w-4 inline-block text-muted-foreground" />
                   </TooltipTrigger>
-                  <TooltipContent>
+                  <TooltipContent className="max-w-sm">
                     <p>95% Confidence Interval:</p>
                     <p>{(confidenceInterval.lower * 100).toFixed(1)}% - {(confidenceInterval.upper * 100).toFixed(1)}%</p>
+                    <p className="mt-2 text-sm">This means we are 95% confident that the true effect size falls within this range.</p>
                   </TooltipContent>
                 </UITooltip>
               </TooltipProvider>
             )}
           </div>
-          <div className="text-sm text-muted-foreground">Effect Size</div>
+          <div className="text-sm text-muted-foreground flex items-center justify-center gap-1">
+            Effect Size
+            <TooltipProvider>
+              <UITooltip>
+                <TooltipTrigger>
+                  <Info className="h-4 w-4" />
+                </TooltipTrigger>
+                <TooltipContent className="max-w-sm">
+                  <p>Effect size indicates the magnitude of the intervention's impact:</p>
+                  <ul className="list-disc list-inside mt-2 text-sm">
+                    <li>20%: Small effect</li>
+                    <li>50%: Medium effect</li>
+                    <li>80%: Large effect</li>
+                  </ul>
+                </TooltipContent>
+              </UITooltip>
+            </TooltipProvider>
+          </div>
         </div>
         <div className="text-center">
           <div className="text-2xl font-bold">
-            {(confidence * 100).toFixed(1)}%
+            {sampleSize}
           </div>
-          <div className="text-sm text-muted-foreground">Confidence Level</div>
+          <div className="text-sm text-muted-foreground flex items-center justify-center gap-1">
+            Sample Size
+            <TooltipProvider>
+              <UITooltip>
+                <TooltipTrigger>
+                  <Info className="h-4 w-4" />
+                </TooltipTrigger>
+                <TooltipContent className="max-w-sm">
+                  <p>The number of participants needed depends on:</p>
+                  <ul className="list-disc list-inside mt-2 text-sm">
+                    <li>Desired statistical power</li>
+                    <li>Expected effect size</li>
+                    <li>Significance level (α)</li>
+                  </ul>
+                </TooltipContent>
+              </UITooltip>
+            </TooltipProvider>
+          </div>
         </div>
       </div>
 
@@ -106,31 +166,41 @@ export default function PowerVisualization({
         </LineChart>
       </div>
 
+      {/* Sample Size Calculator */}
+      {onUpdateParameters && (
+        <div className="mt-6">
+          <SampleSizeCalculator
+            onCalculate={onUpdateParameters}
+            currentSampleSize={sampleSize}
+          />
+        </div>
+      )}
+
       {/* Educational Information */}
       <div className="space-y-4 max-w-3xl mx-auto">
         <div className="text-sm space-y-2">
-          <h4 className="font-medium">Understanding the Analysis:</h4>
+          <h4 className="font-medium">Understanding Statistical Analysis:</h4>
           <ul className="list-disc list-inside space-y-1 text-muted-foreground">
-            <li>Statistical power is the probability of detecting a true effect if one exists</li>
-            <li>A power of 80% or higher is generally considered adequate for research</li>
-            <li>Effect size ({(effectSize * 100).toFixed(1)}%) represents the expected magnitude of the intervention's impact</li>
+            <li>Statistical power indicates the likelihood of detecting a true effect in your study</li>
+            <li>Higher power (≥80%) reduces the risk of false negative results</li>
+            <li>Effect size ({(effectSize * 100).toFixed(1)}%) represents the expected magnitude of impact</li>
             {confidenceInterval && (
-              <li>95% confidence interval: {(confidenceInterval.lower * 100).toFixed(1)}% - {(confidenceInterval.upper * 100).toFixed(1)}% indicates the range where the true effect size likely falls</li>
+              <li>The 95% confidence interval ({(confidenceInterval.lower * 100).toFixed(1)}% - {(confidenceInterval.upper * 100).toFixed(1)}%) shows the range where we expect the true effect to fall</li>
             )}
-            <li>The red line shows the minimum recommended power level (80%)</li>
+            <li>The power curve shows how statistical power increases with sample size</li>
           </ul>
         </div>
 
         <div className="text-sm space-y-2">
-          <h4 className="font-medium">Recommendations:</h4>
+          <h4 className="font-medium">Study Design Recommendations:</h4>
           <ul className="list-disc list-inside space-y-1 text-muted-foreground">
             {sampleSize < recommendedSize && (
               <li>Consider increasing your sample size to {recommendedSize} participants to achieve adequate power</li>
             )}
-            <li>Current design will detect effects of {(effectSize * 100).toFixed(1)}% or larger</li>
+            <li>Your current design can detect effects of {(effectSize * 100).toFixed(1)}% or larger</li>
             <li>With {sampleSize} participants, you have {(power * 100).toFixed(1)}% power to detect the specified effect</li>
             {confidenceInterval && (
-              <li>The width of your confidence interval is {((confidenceInterval.upper - confidenceInterval.lower) * 100).toFixed(1)}% - {
+              <li>Your confidence interval width is {((confidenceInterval.upper - confidenceInterval.lower) * 100).toFixed(1)}% - {
                 confidenceInterval.upper - confidenceInterval.lower > 0.3 
                   ? "consider increasing sample size for more precise estimates"
                   : "this indicates good precision"
