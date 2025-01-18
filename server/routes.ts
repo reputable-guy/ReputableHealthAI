@@ -5,8 +5,10 @@ export function registerRoutes(router: Router): void {
   // Add CORS headers for API routes
   router.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Accept');
+    // Ensure JSON content type for all API responses
+    res.setHeader('Content-Type', 'application/json');
     next();
   });
 
@@ -15,8 +17,13 @@ export function registerRoutes(router: Router): void {
     res.sendStatus(200);
   });
 
+  // Health check endpoint
+  router.get("/health", (_req, res) => {
+    res.json({ status: "ok" });
+  });
+
   // Add endpoint to check RAG stats
-  router.get("/stats", async (_req, res) => {
+  router.get("/rag/stats", async (_req, res) => {
     try {
       const stats = await ragService.checkIndexStats();
       if (!stats) {
@@ -42,7 +49,7 @@ export function registerRoutes(router: Router): void {
   });
 
   // Add endpoint to reload PubMed studies
-  router.post("/reload-studies", async (_req, res) => {
+  router.post("/rag/reload-studies", async (_req, res) => {
     try {
       console.log("Starting PubMed studies reload...");
       const result = await ragService.loadPublicStudies();

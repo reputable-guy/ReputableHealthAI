@@ -42,9 +42,11 @@ app.use((req, res, next) => {
   // Create HTTP server
   const server = createServer(app);
 
-  // Register API routes with prefix
+  // Register API routes before any other middleware
   const apiRouter = express.Router();
   registerRoutes(apiRouter);
+
+  // Important: Mount API routes before Vite middleware
   app.use('/api', apiRouter);
 
   // Error handling middleware
