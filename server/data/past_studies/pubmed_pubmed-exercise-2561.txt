@@ -1,0 +1,30 @@
+Study Title: Short-term effects of a park-based group mobility program on increasing outdoor walking in older adults with difficulty walking outdoors: the Getting Older Adults Outdoors (GO-OUT) randomized controlled trial.
+
+Study Summary:
+We estimated the short-term effects of an educational workshop and 10-week outdoor walk group (OWG) compared to the workshop and 10 weekly reminders (WR) on increasing outdoor walking (primary outcome) and walking capacity, health-promoting behavior, and successful aging defined by engagement in meaningful activities and well-being (secondary outcomes) in older adults with difficulty walking outdoors. In a 4-site, parallel-group randomized controlled trial, two cohorts of community-living older adults (&#x2265;&#x2009;65 years) reporting difficulty walking outdoors participated. Following a 1-day workshop, participants were stratified and randomized to a 10-week OWG in parks or 10 telephone WR reinforcing workshop content. Masked evaluations occurred at 0, 3, and 5.5 months. We modeled minutes walked outdoors (derived from accelerometry and global positioning system data) using zero-inflated negative binomial regression with log link function, imputing for missing observations. We modeled non-imputed composite measures of walking capacity, health-promoting behavior, and successful aging using generalized linear models with general estimating equations based on a normal distribution and an unstructured correlation matrix. Analyses were adjusted for site, participation on own or with a partner, and cohort. We randomized 190 people to the OWG (n&#x2009;=&#x2009;98) and WR interventions (n&#x2009;=&#x2009;92). At 0, 3, and 5.5 months, median outdoor walking minutes was 22.56, 13.04, and 0 in the OWG, and 24.00, 26.07, and 0 in the WR group, respectively. There was no difference between groups in change from baseline in minutes walked outdoors based on incidence rate ratio (IRR) and 95% confidence interval (CI) at 3 months (IRR&#x2009;=&#x2009;0.74, 95% CI 0.47, 1.14) and 5.5 months (IRR&#x2009;=&#x2009;0.77, 95% CI 0.44, 1.34). Greater 0 to 3-month change in walking capacity was observed in the OWG compared to the WR group (&#x3b2;z-scored difference&#x2009;=&#x2009;0.14, 95% CI 0.02, 0.26) driven by significant improvement in walking self-efficacy; other comparisons were not significant. A group, park-based OWG was not superior to WR in increasing outdoor walking activity, health-promoting behavior or successful aging in older adults with difficulty walking outdoors; however, the OWG was superior to telephone WR in improving walking capacity through an increase in walking self-efficacy. Community implementation of the OWG is discussed. ClinicalTrials.gov NCT03292510 Date of registration: September 25, 2017.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s12877-024-05331-4
+
+2. Keywords
+- Community exercise program
+- Older adults
+- Outdoor walking
+- Parks
+- Physical activity
+- Randomized controlled trial
+- Task-oriented training
+- Walking capacity
+- Walking self-efficacy
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Community exercise program assessment methods and outcomes
+- Older adults assessment methods and outcomes
+- Outdoor walking assessment methods and outcomes

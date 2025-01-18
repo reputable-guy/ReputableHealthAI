@@ -1,0 +1,28 @@
+Study Title: Impact of high-protein enteral nutrition on muscle preservation in mechanically ventilated patients with severe pneumonia: a randomized controlled trial.
+
+Study Summary:
+This study aimed to assess the effects of enteral nutrition with different protein concentrations on muscle mass in severe pneumonia patients, providing insights for enteral nutrition practice in intensive care units (ICUs). A total of 120 severe pneumonia patients admitted to Dazhou Central Hospital's ICU between June 1, 2022, and February 1, 2023, meeting inclusion criteria, were randomly assigned to either a high-protein group (n&#x2009;=&#x2009;60, 1.8&#xa0;g/kg/d) or a standard-protein group (n&#x2009;=&#x2009;60, 1.2&#xa0;g/kg/d). Changes in relevant indicators were monitored on days 1, 5, and 10 of ICU admission, including quadriceps and diaphragm thickness, nutritional status (prealbumin and albumin), and adverse events such as diarrhea and constipation. Autoregressive of order 1 model (AR(1)) analysis revealed a decrease in both quadriceps and diaphragm thickness over time in both groups. A significant group &#xd7; time interaction was observed in quadriceps thickness. By day 10, compared to baseline, quadriceps thickness decreased in the high-protein (-0.315&#xa0;cm [95% CI, -0.340 to -0.289]) and standard-protein (-0.429&#xa0;cm [95% CI, -0.455 to -0.404]) groups. The high-protein group exhibited a lower quadriceps atrophy rate (13.97&#x2009;&#xb1;&#x2009;2.43%) compared to the standard-protein group (18.96&#x2009;&#xb1;&#x2009;2.61%), showing a significant difference (P&#x2009;<&#x2009;0.001). No significant differences were found in diaphragmatic thickness between groups and over time. By day 10, both groups exhibited decreased diaphragmatic muscle thickness compared to baseline. The high-protein group (33.76&#x2009;&#xb1;&#x2009;5.09%) had a slightly lower phrenic atrophy rate compared to the standard-protein group (33.41&#x2009;&#xb1;&#x2009;4.53%). Both groups experienced enteral nutritional intolerance manifested as diarrhea, constipation, and other adverse events. High-protein enteral nutrition significantly improved quadriceps thickness and demonstrated good safety in severe pneumonia patients, suggesting its suitability for widespread clinical application.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s41043-024-00633-0
+
+2. Keywords
+- Diaphragmatic thickness
+- Enteral nutrition
+- Muscle wasting
+- Quadriceps muscle layer thickness
+- Severe pneumonia
+
+3. Key Findings
+- Autoregressive of order 1 model (AR(1)) analysis revealed a decrease in both quadriceps and diaphragm thickness over time in both groups
+- No significant differences were found in diaphragmatic thickness between groups and over time
+- High-protein enteral nutrition significantly improved quadriceps thickness and demonstrated good safety in severe pneumonia patients, suggesting its suitability for widespread clinical application
+
+This study provides insights into:
+- Diaphragmatic thickness assessment methods and outcomes
+- Enteral nutrition assessment methods and outcomes
+- Muscle wasting assessment methods and outcomes

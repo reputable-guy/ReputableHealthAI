@@ -1,0 +1,24 @@
+Study Title: Using Geographic Momentary Assessment to Explore Spatial Environment Influences on Wellbeing in People With HIV.
+
+Study Summary:
+Place-based socio-economic and racial inequities contribute to health disparities among people with HIV (PWH). We used geographic ecological momentary assessment (GEMA) methodologies to explore the interplay between psychosocial outcomes in daily diaries and community spatial measures among PWH in New Orleans. PWH (N = 69) were recruited from a clinic-based cohort study. Micro-longitudinal data were collected via smartphone-based daily diaries and geospatial tracking over 14 days. First, correlations were run between diary derived outcomes (e.g., feeling safe in current location, stress), and spatial measures (e.g., violent crime, alcohol outlets, and vacant lots) within a half-mile buffer around each diary point to understand the real time associations between mood and space. Next, we fit multilevel models, controlling for between-person effects, to assess within-person associations between accumulative spatial daily violence exposure (50m, 100m and 200m buffers), and measures of daily mood and coping. Violent crime, alcohol outlets and vacant lots were inversely correlated with feeling safe and positively correlated with perceived ease of obtaining drugs. Vacant lots were positively associated with stress and inversely correlated with positive mood. Within individuals, higher daily accumulated violence exposure was associated with increased rumination at the 50m buffer level, decreased trust in oneself and others at the 100m buffer, and decreased ratio of positive/negative mood at all buffers. Our results emphasize the intricate interplay between mental wellness, coping mechanisms, and spatial measures in PWH. Future research and interventions for PWH should consider how spatial factors may influence PWH in terms of mental health and care engagement.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2025
+- DOI: 10.1007/s10461-024-04527-4
+
+2. Keywords
+- Geographic Ecological Momentary Assessment
+- HIV
+- Spatial Determinants of Health
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Geographic Ecological Momentary Assessment assessment methods and outcomes
+- HIV assessment methods and outcomes
+- Spatial Determinants of Health assessment methods and outcomes

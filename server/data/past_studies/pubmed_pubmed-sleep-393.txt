@@ -1,0 +1,26 @@
+Study Title: Performance Investigation of Somfit Sleep Staging Algorithm.
+
+Study Summary:
+To investigate accuracy of the sleep staging algorithm in a new miniaturized home sleep monitoring device - Compumedics&#xae; Somfit. Somfit is attached to patient's forehead and combines channels specified for a pulse arterial tonometry (PAT)-based home sleep apnea testing (HSAT) device with the neurological signals. Somfit sleep staging deep learning algorithm is based on convolutional neural network architecture. One hundred and ten participants referred for sleep investigation with suspected or preexisting obstructive sleep apnea (OSA) in need of a review were enrolled into the study involving simultaneous recording of full overnight polysomnography (PSG) and Somfit data. The recordings were conducted at three centers in Australia. The reported statistics include standard measures of agreement between Somfit automatic hypnogram and consensus PSG hypnogram. Overall percent agreement across five sleep stages (N1, N2, N3, REM, and wake) between Somfit automatic and consensus PSG hypnograms was 76.14 (SE: 0.79). The percent agreements between different pairs of sleep technologists' PSG hypnograms varied from 74.36 (1.93) to 85.50 (0.64), with interscorer agreement being greater for scorers from the same sleep laboratory. The estimate of kappa between Somfit and consensus PSG was 0.672 (0.002). Percent agreement for sleep/wake discrimination was 89.30 (0.37). The accuracy of Somfit sleep staging algorithm varied with increasing OSA severity - percent agreement was 79.67 (1.87) for the normal subjects, 77.38 (1.06) for mild OSA, 74.83 (1.79) for moderate OSA and 72.93 (1.68) for severe OSA. Agreement between Somfit and PSG hypnograms was non-inferior to PSG interscorer agreement for a number of scorers, thus confirming acceptability of electrode placement at the center of the forehead. The directions for algorithm improvement include additional arousal detection, integration of motion and oximetry signals and separate inference models for individual sleep stages.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2147/NSS.S463026
+
+2. Keywords
+- deep learning
+- forehead electroencephalography
+- home sleep apnea testing
+- interscorer agreement
+- polysomnography
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- deep learning assessment methods and outcomes
+- forehead electroencephalography assessment methods and outcomes
+- home sleep apnea testing assessment methods and outcomes

@@ -1,0 +1,31 @@
+Study Title: Effects of a Theory-Based, Multicomponent eHealth Intervention for Obesity Prevention in Young Children from Low-Income Families: A Pilot Randomized Controlled Study.
+
+Study Summary:
+The purpose of this study was to evaluate a theory-based, multicomponent eHealth intervention aimed at improving child health behaviors and parental psychosocial attributes and feeding practices. A pilot randomized controlled trial was conducted among 73 parents with children (1-3 years). Intervention group participants (IG,= 37) received theory-based educational videos, cooking tutorials, and text messages with key information for a total of 8 weeks. Control group participants (CG,= 36) received a booklet about general nutrition recommendations for children. A parent-administered questionnaire was used for data collection at baseline and post-intervention. Linear models were performed using R version 4.1.1. for data analysis. Children in the IG significantly increased their daily intake of fruit (&#x394;&#x394; = 0.89 servings,= 0.00057) and vegetables (&#x394;&#x394; = 0.60 servings,= 0.0037) and decreased use of screen time (&#x394;&#x394; = -33.87 min,= 0.026), compared to the CG. Parents in the IG improved significantly more than the CG in self-efficacy (= 0.0068) and comprehensive feeding practices (= 0.0069). There were no significant differences between the study groups for changes in child outcomes, such as physical activity and sedentary behaviors, and parental nutrition knowledge and attitudes.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.3390/nu15102296
+
+2. Keywords
+- active lifestyle
+- eHealth
+- early childhood
+- feeding practices
+- healthy eating
+- obesity
+- parents
+- prevention
+- screen time
+- sedentary behavior
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- active lifestyle assessment methods and outcomes
+- eHealth assessment methods and outcomes
+- early childhood assessment methods and outcomes

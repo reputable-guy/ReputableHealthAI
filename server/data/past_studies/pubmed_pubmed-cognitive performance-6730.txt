@@ -1,0 +1,26 @@
+Study Title: Neurovascular decoupling in type 2 diabetes mellitus without mild cognitive impairment: Potential biomarker for early cognitive impairment.
+
+Study Summary:
+Type 2 diabetes mellitus (T2DM) is a significant risk factor for mild cognitive impairment (MCI) and the acceleration of MCI to dementia. The high glucose level induce disturbance of neurovascular (NV) coupling is suggested to be one potential mechanism, however, the neuroimaging evidence is still lacking. To assess the NV decoupling pattern in early diabetic status, 33 T2DM without MCI patients and 33 healthy control subjects were prospectively enrolled. Then, they underwent resting state functional MRI and arterial spin labeling imaging to explore the hub-based networks and to estimate the coupling of voxel-wise cerebral blood flow (CBF)-degree centrality (DC), CBF-mean amplitude of low-frequency fluctuation (mALFF) and CBF- mean regional homogeneity (mReHo). We further evaluated the relationship between NV coupling pattern and cognitive performance (false discovery rate corrected). T2DM without MCI patients displayed significant decrease in the absolute CBF-mALFF, CBF-mReHo coupling of CBFnetwork and in the CBF-DC coupling of DCnetwork. Besides, networks which involved CBF and DC hubs mainly located in the default mode network (DMN). Furthermore, less severe disease and better cognitive performance in T2DM patients were significantly correlated with higher coupling of CBF-DC, CBF-mALFF or CBF-mReHo, especially for the cognitive dimensions of general function and executive function. Thus, coupling of CBF-DC, CBF-mALFF and CBF-mReHo may serve as promising indicators to reflect NV coupling state and to explain the T2DM related early cognitive impairment.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2020
+- DOI: 10.1016/j.neuroimage.2019.06.058
+
+2. Keywords
+- Cognitive impairment
+- Default mode network
+- Executive function
+- Neurovascular coupling
+- Type 2 diabetes mellitus
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Cognitive impairment assessment methods and outcomes
+- Default mode network assessment methods and outcomes
+- Executive function assessment methods and outcomes

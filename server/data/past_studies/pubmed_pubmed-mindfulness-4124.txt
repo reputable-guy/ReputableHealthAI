@@ -1,0 +1,20 @@
+Study Title: Comparative Effectiveness of Three Digital Interventions for Adults Seeking Psychiatric Services: A Randomized Clinical Trial.
+
+Study Summary:
+There is a substantial gap between demand for and availability of mental health services. Digital mental health interventions (DMHIs) are promising tools for bridging this gap, yet little is known about their comparative effectiveness. To assess whether patients randomized to a cognitive behavioral therapy (CBT)-based or mindfulness-based DMHI had greater improvements in mental health symptoms than patients randomized to the enhanced personalized feedback (EPF)-only DMHI. SETTING, AND PARTICIPANTS This randomized clinical trial was conducted between May 13, 2020, and December 12, 2022, with follow-up at 6 weeks. Adult patients of outpatient psychiatry services across various clinics within the University of Michigan Health System with a scheduled or recent outpatient psychiatry appointment were recruited. Eligible patients were randomized to an intervention arm. All analyses followed the intent-to-treat principle. Participants were randomized to 1 of 5 intervention arms: (1) EPF only; (2) Silvercloud only, a mobile application designed to deliver CBT strategies; (3) Silvercloud plus EPF; (4) Headspace only, a mobile application designed to train users in mindfulness practices; and (5) Headspace plus EPF. The primary outcome was change in depressive symptoms as measured by the Patient Health Questionnaire-9 (PHQ-9; score range: 0-27, with higher scores indicating greater depression symptoms). Secondary outcomes included changes in anxiety, suicidality, and substance use symptoms. A total of 2079 participants (mean [SD] age, 36.8 [14.3] years; 1423 self-identified as women [68.4%]) completed the baseline survey. The baseline mean (SD) PHQ-9 score was 12.7 (6.4) and significantly decreased for all 5 intervention arms at 6 weeks (from -2.1 [95% CI, -2.6 to -1.7] to -2.9 [95% CI, -3.4 to -2.4]; n&#x2009;=&#x2009;1885). The magnitude of change was not significantly different across the 5 arms (F4,1879&#x2009;=&#x2009;1.19; P&#x2009;=&#x2009;.31). Additionally, the groups did not differ in decrease in anxiety or substance use symptoms. However, the Headspace arms reported significantly greater improvements on a suicidality measure subscale compared with the Silvercloud arms (mean difference in mean change&#x2009;=&#x2009;0.63; 95% CI, 0.20-1.06; P&#x2009;=&#x2009;.004). This randomized clinical trial found decreases in depression and anxiety symptoms across all DMHIs and minimal evidence that specific applications were better than others. The findings suggest that DMHIs may provide support for patients during waiting list-related delays in care. ClinicalTrials.gov Identifier: NCT04342494.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1001/jamanetworkopen.2024.22115
+
+2. Keywords
+
+
+3. Key Findings
+- This randomized clinical trial found decreases in depression and anxiety symptoms across all DMHIs and minimal evidence that specific applications were better than others
+
+This study provides insights into:
+- General research methodology and outcomes

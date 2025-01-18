@@ -1,0 +1,27 @@
+Study Title: Associative brain-computer interface training increases wrist extensor corticospinal excitability in patients with subacute stroke.
+
+Study Summary:
+In a recently developed associative rehabilitative brain-computer interface (BCI) system, electroencephalography (EEG) is used to identify the most active phase of the motor cortex during attempted movement and deliver precisely timed peripheral stimulation during training. This approach has been demonstrated to facilitate corticospinal excitability and functional recovery in patients with lower limb weakness following stroke. The current study expands those findings by investigating changes in corticospinal excitability following the associative BCI intervention in patients with post stroke with upper limb weakness. In a randomized controlled trial, 24 patients with subacute stroke, subdivided into an intervention group and a "sham" control group, performed 30 wrist extensions. The intervention comprised 30 pairings of single peripheral nerve stimulation at the motor threshold, timed so that the generated afferent volley arrived at the motor cortex during the peak negativity of the movement-related cortical potential (MRCP), which was identified with EEG. The sham group underwent the same intervention, though the intensity of the nerve stimulation was below the perception threshold. Immediately after training, patients in the associative group exhibited significantly larger amplitudes of muscular-evoked potentials, compared with pretraining measurements in response to transcranial magnetic stimulation. These changes persisted for at least 30 min and were not observed in the sham group. We demonstrate that motor-evoked potential amplitudes increased significantly following paired associative BCI training targeting upper limb muscles in patients with subacute stroke, which is in line with results from lower limb studies.We have demonstrated that a single training session with an associative brain-computer interface increased corticospinal excitability in patients suffering from upper limb weakness following stroke. This is the first time such an effect is described in the upper limb, which paves the way for effect augmentation of existing upper limb rehabilitation protocols.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2025
+- DOI: 10.1152/jn.00452.2024
+
+2. Keywords
+- brain-computer interface
+- corticospinal excitability
+- stroke
+- transcranial magnetic stimulation
+- upper limb
+
+3. Key Findings
+- This approach has been demonstrated to facilitate corticospinal excitability and functional recovery in patients with lower limb weakness following stroke
+- We have demonstrated that a single training session with an associative brain-computer interface increased corticospinal excitability in patients suffering from upper limb weakness following stroke
+
+This study provides insights into:
+- brain-computer interface assessment methods and outcomes
+- corticospinal excitability assessment methods and outcomes
+- stroke assessment methods and outcomes

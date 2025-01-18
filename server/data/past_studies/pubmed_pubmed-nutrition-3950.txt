@@ -1,0 +1,24 @@
+Study Title: Serum Immune Profiling in Paediatric Crohn's Disease Demonstrates Stronger Immune Modulation With First-Line Infliximab Than Conventional Therapy and Pre-Treatment Profiles Predict Clinical Response to Both Treatments.
+
+Study Summary:
+Despite its efficacy, rational guidance for starting/stopping first-line biologic treatment in individual paediatric Crohn's disease [CD] patients is needed. We assessed how serum immune profiles before and after first-line infliximab [FL-IFX] or conventional [CONV] induction therapy associate with disease remission at week 52. Pre- [n&#x2005;=&#x2005;86], and 10-14-week post-treatment [n&#x2005;=&#x2005;84] sera were collected from patients with moderate-to-severe paediatric CD in the TISKids trial, randomized to FL-IFX [n&#x2005;=&#x2005;48; five 5-mg/kg infusions over 22 weeks] or CONV [n&#x2005;=&#x2005;43; exclusive enteral nutrition or oral prednisolone]; both groups received azathioprine maintenance. The relative concentrations of 92 inflammatory proteins were determined with Olink Proteomics; fold changes [FC] with |log2FC| > 0.5 after false discovery rate adjustment were considered significant. FL-IFX modulated a larger number of inflammatory proteins and induced stronger suppression than CONV; 18/30 proteins modulated by FL-IFX were not regulated by CONV. Hierarchical clustering based on IFX-modulated proteins at baseline revealed two clusters of patients: CD-hi patients had significantly higher concentrations of 23/30 IFX-modulated proteins [including oncostatin-M, TNFSF14, HGF and TGF-&#x3b1;], and higher clinical disease activity, C-reactive protein and blood neutrophils at baseline than CD-lo patients. Only 24% of CD-hi FL-IFX-treated patients maintained remission without escalation at week 52 vs 58% of CD-lo FL-IFX-treated patients. Similarly, 6% of CD-hi CONV-treated patients achieved remission vs 20% of CONV-treated CD-lo patients. Clustering based on immune profiles post-induction therapy did not relate to remission at week 52. FL-IFX leads to stronger reductions and modulates more immune proteins than CONV. Stratification on pre-treatment profiles of IFX-modulated proteins directly relates to maintenance of remission without treatment escalation. NCT02517684.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1093/ecco-jcc/jjad049
+
+2. Keywords
+- Proteomics
+- anti-TNF
+- inflammatory bowel disease
+
+3. Key Findings
+- Hierarchical clustering based on IFX-modulated proteins at baseline revealed two clusters of patients: CD-hi patients had significantly higher concentrations of 23/30 IFX-modulated proteins [including oncostatin-M, TNFSF14, HGF and TGF-&#x3b1;], and higher clinical disease activity, C-reactive protein and blood neutrophils at baseline than CD-lo patients
+
+This study provides insights into:
+- Proteomics assessment methods and outcomes
+- anti-TNF assessment methods and outcomes
+- inflammatory bowel disease assessment methods and outcomes

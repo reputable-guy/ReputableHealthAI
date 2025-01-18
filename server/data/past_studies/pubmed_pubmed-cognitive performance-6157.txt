@@ -1,0 +1,25 @@
+Study Title: Does alleviating poverty increase cognitive performance? Short- and long-term evidence from a randomized controlled trial.
+
+Study Summary:
+In this Registered Report, we investigated the impact of a cash transfer based poverty alleviation program on cognitive performance. We analyzed data from a randomized controlled trial conducted on low-income, high-risk individuals in Liberia where a random half of the participants (n&#xa0;=&#xa0;251) received a $200 lump-sum unconditional cash transfer - equivalent approximately to 300% of their monthly income - while the other half (n&#xa0;=&#xa0;222) did not. We tested both the short-term (2-5 weeks) and the long-term (12-13 months) impact of the treatment via several executive function measures. The observed effect sizes of cash transfers on cognitive performance (b&#xa0;=&#xa0;.13 for the short- and b&#xa0;=&#xa0;.08 for the long-term) were roughly three and four times smaller than suggested by prior non-randomized research. Bayesian analyses revealed that the overall evidence supporting the existence of these effects is inconclusive. A multiverse analysis showed that neither alternative analytical specifications nor alternative processing of the dataset changed the results consistently. However cognitive performance varied between the executive function measures, suggesting that cash transfers may affect the subcomponents of executive function differently.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1016/j.cortex.2023.07.009
+
+2. Keywords
+- Cognitive functioning
+- Scarcity
+- Unconditional cash transfer
+
+3. Key Findings
+- Bayesian analyses revealed that the overall evidence supporting the existence of these effects is inconclusive
+- A multiverse analysis showed that neither alternative analytical specifications nor alternative processing of the dataset changed the results consistently
+
+This study provides insights into:
+- Cognitive functioning assessment methods and outcomes
+- Scarcity assessment methods and outcomes
+- Unconditional cash transfer assessment methods and outcomes

@@ -1,0 +1,55 @@
+Study Title: Tailored Prompting to Improve Adherence to Image-Based Dietary Assessment: Mixed Methods Study.
+
+Study Summary:
+Accurately assessing an individual's diet is vital in the management of personal nutrition and in the study of the effect of diet on health. Despite its importance, the tools available for dietary assessment remain either too imprecise, expensive, or burdensome for clinical or research use. Image-based methods offer a potential new tool to improve the reliability and accessibility of dietary assessment. Though promising, image-based methods are sensitive to adherence, as images cannot be captured from meals that have already been consumed. Adherence to image-based methods may be improved with appropriately timed prompting via text message. This study aimed to quantitatively examine the effect of prompt timing on adherence to an image-based dietary record and qualitatively explore the participant experience of dietary assessment in order to inform the design of a novel image-based dietary assessment tool. This study used a randomized crossover design to examine the intraindividual effect of 3 prompt settings on the number of images captured in an image-based dietary record. The prompt settings were control, where no prompts were sent; standard, where prompts were sent at 7:15 AM, 11:15 AM, and 5:15 PM for every participant; and tailored, where prompt timing was tailored to habitual meal times for each participant. Participants completed a text-based dietary record at baseline to determine the timing of tailored prompts. Participants were randomized to 1 of 6 study sequences, each with a unique order of the 3 prompt settings, with each 3-day image-based dietary record separated by a washout period of at least 7 days. The qualitative component comprised semistructured interviews and questionnaires exploring the experience of dietary assessment. A total of 37 people were recruited, and 30 participants (11 male, 19 female; mean age 30, SD 10.8 years), completed all image-based dietary records. The image rate increased by 0.83 images per day in the standard setting compared to control (P=.23) and increased by 1.78 images per day in the tailored setting compared to control (P&#x2264;.001). We found that 13/21 (62%) of participants preferred to use the image-based dietary record versus the text-based dietary record but reported method-specific challenges with each method, particularly the inability to record via an image after a meal had been consumed. Tailored prompting improves adherence to image-based dietary assessment. Future image-based dietary assessment tools should use tailored prompting and offer both image-based and written input options to improve record completeness.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/52074
+
+2. Keywords
+- RCT
+- app
+- applications
+- apps
+- assessment
+- behavior change
+- behaviour change
+- consumption
+- controlled trial
+- controlled trials
+- cross-over
+- diet
+- dietary
+- dietary assessment
+- food
+- image
+- image-based dietary assessment
+- images
+- mHealth
+- meal
+- meals
+- mobile health
+- mobile phone apps
+- nudge
+- nudges
+- nutrition
+- nutritional epidemiology
+- photo
+- photograph
+- photographs
+- photos
+- prompt
+- prompts
+- randomized
+
+3. Key Findings
+- We found that 13/21 (62%) of participants preferred to use the image-based dietary record versus the text-based dietary record but reported method-specific challenges with each method, particularly the inability to record via an image after a meal had been consumed
+
+This study provides insights into:
+- RCT assessment methods and outcomes
+- app assessment methods and outcomes
+- applications assessment methods and outcomes

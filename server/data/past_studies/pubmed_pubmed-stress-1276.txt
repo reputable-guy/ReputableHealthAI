@@ -1,0 +1,28 @@
+Study Title: Hyperbaric oxygen therapy as an immunomodulatory intervention in COVID-19-induced ARDS: Exploring clinical outcomes and transcriptomic signatures in a randomised controlled trial.
+
+Study Summary:
+Immunomodulatory agents with the potential to reverse critical COVID-19, targeting host-virus immune response are needed. In this exploratory sub study of a randomised controlled clinical trial, critical COVID-19 patients with moderate acute respiratory distress syndrome at one Swedish university hospital were randomly assigned (1:1) to hyperbaric oxygen therapy (HBOT) group plus best practice, or best practice (Control). Follow-up was 30 days. HBOT was administered with five treatments at 2.4&#xa0;atm absolute (ATA), lasting 80&#xa0;min, within the first seven days. Clinical outcome, inflammatory markers, and bulk RNA sequencing (RNAseq) on peripheral blood mononuclear cells were analysed. Between December 3rd, 2020, and May 17th, 2021, 23 patients were randomised, and 17 were analysed. RNA-sequencing revealed 791 differentially expressed genes in the HBOT group compared to 46 in the control group at Day 7 vs. baseline. Gene set enrichment analysis revealed a unique transcriptomic signature associated with endoplasmic reticulum stress (ERS) in the HBOT group. Patients in the HBOT group recovered faster and had a shorter mean hospital length of stay (HLoS), 16 vs. 26 days (95.99&#xa0;% CI -16-0), p&#xa0;=&#xa0;0.045. National early warning score (NEWS) was lower in the HBOT group (ANOVA, F [8, 120]&#xa0;=&#xa0;3.817, p&#xa0;<&#xa0;0.001) and PaO/FiOwas higher in the HBOT group (Mixed effects model, F [8, 94]&#xa0;=&#xa0;2.900, p&#xa0;<&#xa0;0.01). We showed a unique transcriptomic signature related to viral-induced ERS in critically ill COVID-19 patients treated with HBOT. The finding was associated with a positive clinical outcome; the HBOT patients recovered faster and had a reduced HLoS compared with controls. TRIAL REGISTRATION: NCT04327505 (March 31, 2020) and EudraCT 2020-001349-37 (April 24, 2020).
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.pupt.2024.102330
+
+2. Keywords
+- ARDS
+- Hyperbaric medicine
+- Immune modulators
+- RNA expression
+- Randomised controlled trial
+
+3. Key Findings
+- RNA-sequencing revealed 791 differentially expressed genes in the HBOT group compared to 46 in the control group at Day 7 vs
+- Gene set enrichment analysis revealed a unique transcriptomic signature associated with endoplasmic reticulum stress (ERS) in the HBOT group
+- We showed a unique transcriptomic signature related to viral-induced ERS in critically ill COVID-19 patients treated with HBOT
+
+This study provides insights into:
+- ARDS assessment methods and outcomes
+- Hyperbaric medicine assessment methods and outcomes
+- Immune modulators assessment methods and outcomes

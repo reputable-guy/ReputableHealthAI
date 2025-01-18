@@ -1,0 +1,25 @@
+Study Title: Mindful attention promotes control of brain network dynamics for self-regulation and discontinues the past from the present.
+
+Study Summary:
+Mindful attention is characterized by acknowledging the present experience as a transient mental event. Early stages of mindfulness practice may require greater neural effort for later efficiency. Early effort may self-regulate behavior and focalize the present, but this understanding lacks a computational explanation. Here we used network control theory as a model of how external control inputs-operationalizing effort-distribute changes in neural activity evoked during mindful attention across the white matter network. We hypothesized that individuals with greater network controllability, thereby efficiently distributing control inputs, effectively self-regulate behavior. We further hypothesized that brain regions that utilize greater control input exhibit shorter intrinsic timescales of neural activity. Shorter timescales characterize quickly discontinuing past processing to focalize the present. We tested these hypotheses in a randomized controlled study that primed participants to either mindfully respond or naturally react to alcohol cues during fMRI and administered text reminders and measurements of alcohol consumption during 4 wk postscan. We found that participants with greater network controllability moderated alcohol consumption. Mindful regulation of alcohol cues, compared to one's own natural reactions, reduced craving, but craving did not differ from the baseline group. Mindful regulation of alcohol cues, compared to the natural reactions of the baseline group, involved more-effortful control of neural dynamics across cognitive control and attention subnetworks. This effort persisted in the natural reactions of the mindful group compared to the baseline group. More-effortful neural states had shorter timescales than less effortful states, offering an explanation for how mindful attention promotes being present.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1073/pnas.2201074119
+
+2. Keywords
+- brain network dynamics
+- mindfulness
+- network control theory
+- neural intrinsic timescale
+
+3. Key Findings
+- We found that participants with greater network controllability moderated alcohol consumption
+
+This study provides insights into:
+- brain network dynamics assessment methods and outcomes
+- mindfulness assessment methods and outcomes
+- network control theory assessment methods and outcomes

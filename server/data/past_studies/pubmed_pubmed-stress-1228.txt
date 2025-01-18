@@ -1,0 +1,30 @@
+Study Title: A Universal Digital Stress Management Intervention for Employees: Randomized Controlled Trial with Health-Economic Evaluation.
+
+Study Summary:
+Stress is highly prevalent and known to be a risk factor for a wide range of physical and mental disorders. The effectiveness of digital stress management interventions has been confirmed; however, research on its economic merits is still limited. This study aims to assess the cost-effectiveness, cost-utility, and cost-benefit of a universal digital stress management intervention for employees compared with a waitlist control condition within a time horizon of 6 months. Recruitment was directed at the German working population. A sample of 396 employees was randomly assigned to the intervention group (n=198) or the waitlist control condition (WLC) group (n=198). The digital stress management intervention included 7 sessions plus 1 booster session, which was offered without therapeutic guidance. Health service use, patient and family expenditures, and productivity losses were self-assessed and used for costing from a societal and an employer's perspective. Costs were related to symptom-free status (PSS-10 [Perceived Stress Scale] score 2 SDs below the study population baseline mean) and quality-adjusted life years (QALYs) gained. The sampling error was handled using nonparametric bootstrapping. From a societal perspective, the digital intervention was likely to be dominant compared with WLC, with a 56% probability of being cost-effective at a willingness-to-pay (WTP) of &#x20ac;0 per symptom-free person gained. At the same WTP threshold, the digital intervention had a probability of 55% being cost-effective per QALY gained relative to the WLC. This probability increased to 80% at a societal WTP of &#x20ac;20,000 per QALY gained. Taking the employer's perspective, the digital intervention showed a probability of a positive return on investment of 78%. Digital preventive stress management for employees appears to be cost-effective societally and provides a favorable return on investment for employers. German Clinical Trials Register DRKS00005699; https://drks.de/search/en/trial/DRKS00005699.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/48481
+
+2. Keywords
+- cost-benefit
+- cost-effectiveness
+- cost-utility
+- economic evaluation
+- employees
+- internet-based
+- return-on-investment
+- stress management
+- universal prevention
+
+3. Key Findings
+- Taking the employer's perspective, the digital intervention showed a probability of a positive return on investment of 78%
+
+This study provides insights into:
+- cost-benefit assessment methods and outcomes
+- cost-effectiveness assessment methods and outcomes
+- cost-utility assessment methods and outcomes

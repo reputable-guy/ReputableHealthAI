@@ -1,0 +1,31 @@
+Study Title: Effect of Unfractionated Heparin Dose on Complement Activation and Selected Extracellular Vesicle Populations during Extracorporeal Membrane Oxygenation.
+
+Study Summary:
+Extracorporeal membrane oxygenation (ECMO) provides critical support for patients with severe cardiopulmonary dysfunction. Unfractionated heparin (UFH) is used for anticoagulation to maintain circuit patency and avoid thrombotic complications, but it increases the risk of bleeding. Extracellular vesicles (EVs), nano-sized subcellular spheres with potential pro-coagulant properties, are released during cellular stress and may serve as potential targets for monitoring anticoagulation, particularly in thromboinflammation. We investigated the impact of UFH dose during ECMO therapy at the coagulation-inflammation interface level, focusing on complement activation and changes in circulating large EV (lEV) subsets. In a post hoc analysis of a multicenter randomized controlled trial comparing two anticoagulation management algorithms, we examined lEV levels and complement activation in 23 veno-venous-ECMO patients stratified by UFH dose. Blood samples were collected at different time points and grouped into three phases of ECMO therapy: initiation (day 1), mid (days 3-4), and late (days 6-7). Immunoassays detected complement activation, and flow cytometry analyzed lEV populations with an emphasis on mitochondria-carrying subsets. Patients receiving <15 IU/kg/h UFH exhibited higher levels of the complement activation product C5a and soluble terminal complement complex (sC5b-9). Lower UFH doses were linked to increased endothelial-derived lEVs, while higher doses were associated with elevated RBC-derived and mitochondria-positive lEVs. Our findings suggest the potential theranostic relevance of EV detection at the coagulation-inflammation interface. Further research is needed to standardize EV detection methods and validate these findings in larger ECMO patient cohorts.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3390/ijms252011166
+
+2. Keywords
+- ECMO
+- anticoagulation
+- biomarker
+- bleeding
+- complement
+- critical illness
+- extracellular vesicles
+- heparin
+- mitochondria
+- thrombosis
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- ECMO assessment methods and outcomes
+- anticoagulation assessment methods and outcomes
+- biomarker assessment methods and outcomes

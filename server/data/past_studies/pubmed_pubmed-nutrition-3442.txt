@@ -1,0 +1,27 @@
+Study Title: Comparison of Clinical Decision Support Tools to Improve Pediatric Lipid Screening.
+
+Study Summary:
+To test whether different clinical decision support tools increase clinician orders and patient completions relative to standard practice and each other. A pragmatic, patient-randomized clinical trial in the electronic health record was conducted between October 2019 and April 2020 at Geisinger Health System in Pennsylvania, with 4 arms: care gap-a passive listing recommending screening; alert-a panel promoting and enabling lipid screen orders; both; and a standard practice-no guideline-based notification-control arm. Data were analyzed for 13&#x2008;346 9- to 11-year-old patients seen within Geisinger primary care, cardiology, urgent care, or nutrition clinics, or who had an endocrinology visit. Principal outcomes were lipid screening orders by clinicians and completions by patients within 1 week of orders. Active (care gap and/or alert) vs control arm patients were significantly more likely (P&#xa0;<&#xa0;.05) to have lipid screening tests ordered and completed, with ORs ranging from 1.67 (95% CI 1.28-2.19) to 5.73 (95% CI 4.46-7.36) for orders and 1.54 (95% CI 1.04-2.27) to 2.90 (95% CI 2.02-4.15) for completions. Alerts, with or without care gaps listed, outperformed care gaps alone on orders, with odds ratios ranging from 2.92 (95% CI 2.32-3.66) to 3.43 (95% CI 2.73-4.29). Electronic alerts can increase lipid screening orders and completions, suggesting clinical decision support can improve guideline-concordant screening. The study also highlights electronic record-based patient randomization as a way to determine relative effectiveness of support tools. ClinicalTrials.gov Identifier: NCT04118348.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.jpeds.2024.113973
+
+2. Keywords
+- best practice alert
+- care gap
+- dyslipidemia
+- electronic alert
+- electronic health record
+- health maintenance topic
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- best practice alert assessment methods and outcomes
+- care gap assessment methods and outcomes
+- dyslipidemia assessment methods and outcomes

@@ -1,0 +1,26 @@
+Study Title: Resting State Dynamics in People with Varying Degrees of Anxiety and Mindfulness: A Nonlinear and Nonstationary Perspective.
+
+Study Summary:
+Anxiety and mindfulness are two inversely linked traits shown to be involved in various physiological domains. The current study used resting state electroencephalography (EEG) to explore differences between people with low mindfulness-high anxiety (LMHA) (n&#xa0;=&#xa0;29) and high mindfulness-low anxiety (HMLA) (n&#xa0;=&#xa0;27). The resting EEG was collected for a total of 6&#xa0;min, with a randomized sequence of eyes closed and eyes opened conditions. Two advanced EEG analysis methods, Holo-Hilbert Spectral Analysis and Holo-Hilbert cross-frequency phase clustering (HHCFPC) were employed to estimate the power-based amplitude modulation of carrier frequencies, and cross-frequency coupling between low and high frequencies, respectively. The presence of higher oscillation power across the delta and theta frequencies in the LMHA group than the HMLA group might have been due to the similarity between the resting state and situations of uncertainty, which reportedly triggers motivational and emotional arousal. Although these two groups were formed based on their trait anxiety and trait mindfulness scores, it was anxiety that was found to be significant predictor of the EEG power, not mindfulness. It led us to conclude that it might be anxiety, not mindfulness, which might have contributed to higher electrophysiological arousal. Additionally, a higher &#x3b4;-&#x3b2; and &#x3b4;-&#x3b3; CFC in LMHA suggested greater local-global neural integration, consequently a greater functional association between cortex and limbic system than in the HMLA group. The present cross-sectional study may guide future longitudinal studies on anxiety aiming with interventions such as mindfulness to characterize the individuals based on their resting state physiology.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1016/j.neuroscience.2023.03.012
+
+2. Keywords
+- anxiety
+- holo-Hilbert cross-frequency phase clustering
+- holo-Hilbert spectral analysis
+- mindfulness
+- resting EEG
+
+3. Key Findings
+- Although these two groups were formed based on their trait anxiety and trait mindfulness scores, it was anxiety that was found to be significant predictor of the EEG power, not mindfulness
+
+This study provides insights into:
+- anxiety assessment methods and outcomes
+- holo-Hilbert cross-frequency phase clustering assessment methods and outcomes
+- holo-Hilbert spectral analysis assessment methods and outcomes

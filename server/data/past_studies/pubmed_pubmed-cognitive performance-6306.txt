@@ -1,0 +1,26 @@
+Study Title: Microstructural alterations measured by diffusion tensor imaging following transcatheter aortic valve replacement and their association with cerebral ischemic injury and cognitive function - a prospective study.
+
+Study Summary:
+We assessed diffusion tensor imaging (DTI) metric changes of the corpus callosum and cingulum correlated to postprocedural ischemic lesion load (ILL) and cognitive performance in transcatheter aortic valve replacement (TAVR). TAVR subjects had DTI post-TAVR (&#x2264;&#x2009;8&#xa0;days) and at 6&#xa0;months (78 participants, males 56%, age 78.8&#xa0;years&#x2009;&#xb1;&#x2009;6.3) and four neurocognitive tests (pre-TAVR, post-TAVR, 6&#xa0;months, 1&#xa0;year). DTI metrics (fractional anisotropy (FA), mean diffusivity (MD), axial diffusivity (AD), radial diffusivity (RD)) were calculated for 7 regions: corpus callosum (genu, body, splenium) and cingulum (cingulate gyrus, parahippocampal cingulum bilaterally). DTI metrics post-TAVR and at 6&#xa0;months were compared with Student's t-test (p&#x2009;<&#x2009;0.0071) and ANOVA covarying for sex, ILL (p&#x2009;<&#x2009;0.05) with post hoc analysis of ILL groups (p&#x2009;<&#x2009;0.0167). Repeated-measures linear mixed-effect model (p&#x2009;<&#x2009;0.05) was performed to investigate the effect of time and ILL on cognition. At 6&#xa0;months, significant decrease of the following DTI metrics was detected: AD (genu, body, splenium, right parahippocampal cingulum: p&#x2009;&#x2264;&#x2009;0.0046); MD (body, both cingulate gyri: p&#x2009;&#x2264;&#x2009;0.0050); RD (left cingulate gyrus: p&#x2009;=&#x2009;0.0021); FA (splenium: p&#x2009;<&#x2009;0.0001). ANOVA confirmed significant effect of female sex on AD&#x2009;+&#x2009;MD reduction (body, right cingulate gyrus) and AD reduction (left cingulate gyrus) (p&#x2009;&#x2264;&#x2009;0.0254). Significant negative effect of ILL on some DTI metric changes was found (AD&#x2009;+&#x2009;MD-body: p&#x2009;&#x2264;&#x2009;0.0050; MD-left cingulate gyrus: p&#x2009;=&#x2009;0.0087). Cognitive performance remained stable with significant negative correlation of ILL and retrograde memory and visual scores (p&#x2009;&#x2264;&#x2009;0.0483). Significant effect of TAVR on cerebral microstructural integrity was found with reduced diffusivities opposite to the trends reported in various neurodegenerative conditions/ageing, notably in women and lower ILL, and with preserved/improved cognition. NCT02826200 at ClinicalTrials.gov; date of registration: 07. July 2016.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1007/s00234-022-03017-5
+
+2. Keywords
+- Cognitive function
+- DTI (diffusion tensor imaging)
+- MRI
+- TAVR (transcatheter aortic valve replacement)
+
+3. Key Findings
+- Significant negative effect of ILL on some DTI metric changes was found (AD&#x2009;+&#x2009;MD-body: p&#x2009;&#x2264;&#x2009;0
+- Significant effect of TAVR on cerebral microstructural integrity was found with reduced diffusivities opposite to the trends reported in various neurodegenerative conditions/ageing, notably in women and lower ILL, and with preserved/improved cognition
+
+This study provides insights into:
+- Cognitive function assessment methods and outcomes
+- DTI (diffusion tensor imaging) assessment methods and outcomes
+- MRI assessment methods and outcomes

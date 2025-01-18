@@ -1,0 +1,25 @@
+Study Title: Nomogram Model Based on Iodine Nutrition and Clinical Characteristics of Papillary Thyroid Carcinoma to Predict Lateral Lymph Node Metastasis.
+
+Study Summary:
+Preoperative evaluation of lateral lymph node metastasis (LLNM) in patients with papillary thyroid carcinoma (PTC) has been one of the major clinical challenges. This study aims to develop and validate iodine nutrition-related nomogram models to predict lateral cervical lymph node metastasis in patients with PTC. This is a retrospective study. Urinary iodine concentration (UIC) and serum iodine concentration (SIC) were measured in 187 LLNM patients and 289 non-LLNM (NLLNM) patients. All patients were randomized 3:1 into the training cohort (n = 355) and the validation cohort (n = 121). Using logistic regression analysis, we analyzed the influence of iodine nutrition-related factors and clinicopathological characteristics on LLNM in PTC patients. Lasso regression method was used to screen risk factors and construct a nomogram for predicting LLNM. The receiver operating characteristic curve (ROC curve), calibration curve, and decision curve analysis (DCA) of the nomogram models were carried out for the training and validation cohorts. Gender, SIC, smoking history, drinking history, family history of PTC, multifocality, bilateral or unilateral tumors, TSH, Tg, and tumor size were included in the nomogram model predicting LLNM, with an area under the curve (AUC) of .795. The nomogram model showed good calibration and clinical benefit in both the training and validation cohorts. The nomogram model based on iodine nutrition and other clinicopathological features is effective for predicting the lateral lymph node metastasis in PTC patients.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1177/10732748231193248
+
+2. Keywords
+- iodine nutrition
+- lateral lymph node metastasis
+- nomogram model
+- papillary thyroid carcinoma
+
+3. Key Findings
+- The nomogram model showed good calibration and clinical benefit in both the training and validation cohorts
+
+This study provides insights into:
+- iodine nutrition assessment methods and outcomes
+- lateral lymph node metastasis assessment methods and outcomes
+- nomogram model assessment methods and outcomes

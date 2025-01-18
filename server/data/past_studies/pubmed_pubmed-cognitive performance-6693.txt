@@ -1,0 +1,25 @@
+Study Title: The effects of a single night of complete and partial sleep deprivation on physical and cognitive performance: A Bayesian analysis.
+
+Study Summary:
+This study investigated the effects of complete and partial sleep deprivation on multiple aspects of athletic performance. Ten males completed a cognitive function test, maximal handgrip strength, countermovement jump (CMJ) and a 15&#xa0;min all out cycling test to assess aerobic performance. These tests were performed following 3 different sleep conditions; normal sleep (CON), a 4&#xa0;hr sleep opportunity (PART) and complete sleep deprivation (DEP). Data were analysed using a Bayesian multi-level regression model to provide probabilities of impairment (p&#xa0;=&#xa0;%). Aerobic performance, CMJ and handgrip strength were impaired by 11.4% (p&#xa0;=&#xa0;100%), 10.9% (p&#xa0;=&#xa0;100%) and 6% (p&#xa0;=&#xa0;97%) following DEP, while aerobic performance and CMJ were highly likely impaired by 4.1% (p&#xa0;=&#xa0;90%) and 5.2% (p&#xa0;=&#xa0;94%) following PART. Cognitive reaction time was not impacted by PART or DEP. In contrast the accuracy of responses was highly likely impaired by 2% (91) following DEP, while there was less certainty of impaired accuracy following PART (-1%, p =&#xa0;73). Multiple aspects of physical and cognitive performance were impacted by sleep deprivation. The greatest detrimental effects were seen for aerobic performance and CMJ. Partial sleep deprivation equating to 4&#xa0;hrs of sleep causes subtle, but potentially important negative impairments on athletic performance.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2020
+- DOI: 10.1080/02640414.2019.1662539
+
+2. Keywords
+- Sleep disruption
+- athletic performance
+- deprivation
+- exercise
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Sleep disruption assessment methods and outcomes
+- athletic performance assessment methods and outcomes
+- deprivation assessment methods and outcomes

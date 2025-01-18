@@ -1,0 +1,20 @@
+Study Title: Concurrent tDCS-fMRI after stroke reveals link between attention network organization and motor improvement.
+
+Study Summary:
+Restoring motor function after stroke necessitates involvement of numerous cognitive systems. However, the impact of damage to motor and cognitive network organization on recovery is not well understood. To discover correlates of successful recovery, we explored imaging characteristics in chronic stroke subjects by combining noninvasive brain stimulation and fMRI. Twenty stroke survivors (6&#xa0;months or more after stroke) were randomly assigned to a single session of transcranial direct current stimulation (tDCS) or sham during image acquisition. Twenty healthy subjects were included as controls. tDCS was limited to 10&#xa0;min at 2&#xa0;mA to serve as a mode of network modulation rather than therapeutic delivery. Fugl-Meyer Assessments (FMA) revealed significant motor improvement in the chronic stroke group receiving active stimulation (p&#x2009;=&#x2009;0.0005). Motor changes in this group were correlated in a data-driven fashion with imaging features, including functional connectivity (FC), surface-based morphometry, electric field modeling and network topology, focusing on relevant regions of interest. We observed stimulation-related changes in FC in supplementary motor (p&#x2009;=&#x2009;0.0029), inferior frontal gyrus (p&#x2009;=&#x2009;0.0058), and temporo-occipital (p&#x2009;=&#x2009;0.0095) areas, though these were not directly related to motor improvement. The feature most strongly associated with FMA improvement in the chronic stroke cohort was graph topology of the dorsal attention network (DAN), one of the regions surveyed and one with direct connections to each of the areas with FC changes. Chronic stroke subjects with a greater degree of motor improvement had lower signal transmission cost through the DAN (p&#x2009;=&#x2009;0.029). While the study was limited by a small stroke cohort with moderate severity and variable lesion location, these results nevertheless suggest a top-down role for higher order areas such as attention in helping to orchestrate the stroke recovery process.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1038/s41598-024-70083-5
+
+2. Keywords
+
+
+3. Key Findings
+- Fugl-Meyer Assessments (FMA) revealed significant motor improvement in the chronic stroke group receiving active stimulation (p&#x2009;=&#x2009;0
+
+This study provides insights into:
+- General research methodology and outcomes

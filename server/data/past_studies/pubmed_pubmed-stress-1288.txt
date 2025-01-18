@@ -1,0 +1,28 @@
+Study Title: Designing and evaluating a mobile app to assist patients undergoing coronary angiography and assessing its impact on anxiety, stress levels, and self-care.
+
+Study Summary:
+Coronary artery disease is one of the leading causes of death and disability worldwide. Coronary angiography is a diagnostic procedure used to detect atherosclerosis. Patients typically experience anxiety and stress before and during the angiography procedure. Furthermore, self-care ability is crucial following angiography. This study aims to describe the design and evaluation of a mobile application focusing on stress, anxiety, and self-care abilities in patients undergoing coronary angiography. The researchers developed a mobile application for patients undergoing angiography. The application provides information about angiography and tips for enhancing self-care following the procedure. An interventional study was conducted on 70 patients admitted to the angiography ward in hospitals in Kerman, Iran, between 2022 and 2023. The participants were randomly divided into two groups: control and intervention. The interventional group received the intervention application the night before angiography. Two groups completed the Anxiety and Stress Questionnaire (DAS) and Kearney-Flescher Self-Care Survey before the intervention. The researchers used questionnaires that had been prepared and previously utilized in other studies. The two groups completed the anxiety and stress questionnaire within three to six hours and the self-care questionnaire one month after angiography. SPSS 15 software was used for data analysis, with a significance level set at 0.05. The study found that the majority of participants were women. Before the study, there was no significant difference between the two groups in terms of anxiety, stress, and self-care scores. However, after the study, the intervention group showed a significant decrease in average anxiety and stress scores (p&#x2009;<&#x2009;0.001). Additionally, compared to the control group, the intervention group demonstrated significant improvement in average self-care score (p&#x2009;<&#x2009;0.001). According to this study, AP can be effective in influencing the anxiety, stress levels, and self-care ability of patients who undergo coronary angiography. It can help to reduce stress and anxiety while increasing self-care. Instructive software is user-friendly, cost-effective, and can be recommended by nurses and doctors.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s12911-024-02703-z
+
+2. Keywords
+- Angiography
+- Anxiety
+- Mobile application
+- Self-care
+- Stress
+
+3. Key Findings
+- The study found that the majority of participants were women
+- However, after the study, the intervention group showed a significant decrease in average anxiety and stress scores (p&#x2009;<&#x2009;0
+- Additionally, compared to the control group, the intervention group demonstrated significant improvement in average self-care score (p&#x2009;<&#x2009;0
+
+This study provides insights into:
+- Angiography assessment methods and outcomes
+- Anxiety assessment methods and outcomes
+- Mobile application assessment methods and outcomes

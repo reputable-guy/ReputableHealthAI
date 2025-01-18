@@ -1,0 +1,28 @@
+Study Title: Exploring Responsiveness to Highly Challenging Balance and Gait Training in Parkinson's Disease.
+
+Study Summary:
+Exercise potentially improves gait, balance, and habitual physical activity in Parkinson's disease (PD). However, given the heterogeneous nature of the disease, it is likely that people respond differently to exercise interventions. Factors determining responsiveness to exercise interventions remain unclear. To address this uncertainty, we explored the responsiveness to our highly challenging balance and gait intervention (HiBalance) in people with PD. Thirty-nine participants with mild-moderate PD who underwent the HiBalance intervention from our randomized controlled trial were included. We defined response in three domains: (1) balance based on Mini-BESTest, (2) gait based on gait velocity, and (3) physical activity based on accelerometry-derived steps per day. In each domain, we explored three responsiveness levels: high, low, or non-responders according to the change from pre- to post-intervention. Separate Random Forests for each responder domain classified these responsiveness levels and identified variable importance. Only the Random Forest for the balance domain classified all responsiveness levels above the chance level indicated by a Cohen's kappa of "slight" agreement. Variable importance differed among the responsiveness levels. Slow gait velocity indicated high responders in the balance domain but showed low probabilities for low and non-responders. For low and non-responders, fall history or no falls, respectively, were more important. Among three responder domains and responsiveness levels, we could moderately classify responders in the balance domain, but not for the gait or physical activity domain. This can guide inclusion criteria for balance-targeted, personalized intervention studies in people with PD.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1002/mdc3.14194
+
+2. Keywords
+- Parkinson's disease
+- Random Forest
+- balance
+- gait
+- physical activity
+- responder
+
+3. Key Findings
+- Only the Random Forest for the balance domain classified all responsiveness levels above the chance level indicated by a Cohen's kappa of "slight" agreement
+- Slow gait velocity indicated high responders in the balance domain but showed low probabilities for low and non-responders
+
+This study provides insights into:
+- Parkinson's disease assessment methods and outcomes
+- Random Forest assessment methods and outcomes
+- balance assessment methods and outcomes

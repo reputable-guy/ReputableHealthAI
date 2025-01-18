@@ -1,0 +1,25 @@
+Study Title: Distal Versus Proximal Arm Improvement After Paired Vagus Nerve Stimulation Therapy After Chronic Stroke.
+
+Study Summary:
+To evaluate differences in upper-extremity (UE) segment-specific (proximal or distal segment) recovery after vagus nerve stimulation (VNS) paired with UE rehabilitation (Paired-VNS) compared with rehabilitation with sham-VNS (Control). We also assessed whether gains in specific UE segments predicted clinically meaningful improvement. This study reports on a secondary analysis of Vagus nerve stimulation paired with rehabilitation for UE motor function after chronic ischemic stroke (VNS-REHAB), a randomized, triple-blinded, sham-controlled pivotal trial. A Rasch latent regression was used to determine differences between Paired-VNS and Controls for distal and proximal UE changes after in-clinic therapy and 3 months later. Subsequently, we ran a random forest model to assess candidate predictors of meaningful improvement. Each item of the Fugl-Meyer Assessment-Upper Extremity (FMA-UE) and Wolf Motor Function Test (WMFT) was evaluated as a predictor of response to treatment. Nineteen stroke rehabilitation centers in the USA and UK. Dataset included 108 participants (N=108) with chronic ischemic stroke and moderate-to-severe UE impairments. Not applicable. FMA-UE and WMFT. Distal UE improvement was significantly greater in the Paired-VNS group than in Controls immediately after therapy (95% confidence interval, 0.27-0.73; P&#x2264;.001) and after 3 months (95% confidence interval, 0.16-0.75; P=.003). Both groups showed similar improvement in proximal UE at both time points. A subset of both distal and proximal items from the FMA-UE and WMFT were predictors of meaningful improvement. Paired-VNS improved distal UE impairment in chronic stroke to a greater degree than intensive rehabilitation alone. Proximal improvements were equally responsive to either treatment. Given that meaningful UE recovery is predicted by improvements across both proximal and distal segments, Paired-VNS may facilitate improvement that is otherwise elusive.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.apmr.2024.05.018
+
+2. Keywords
+- Rehabilitation
+- Stroke
+- Upper extremity
+- Vagus nerve stimulation
+
+3. Key Findings
+- Both groups showed similar improvement in proximal UE at both time points
+
+This study provides insights into:
+- Rehabilitation assessment methods and outcomes
+- Stroke assessment methods and outcomes
+- Upper extremity assessment methods and outcomes

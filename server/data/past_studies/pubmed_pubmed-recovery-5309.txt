@@ -1,0 +1,27 @@
+Study Title: Effects of high-definition tDCS targeting individual motor hotspot with EMG-driven robotic hand training on upper extremity motor function: a pilot randomized controlled trial.
+
+Study Summary:
+Delivering HD-tDCS on individual motor hotspot with optimal electric fields could overcome challenges of stroke heterogeneity, potentially facilitating neural activation and improving motor function for stroke survivors. However, the intervention effect of this personalized HD-tDCS has not been explored on post-stroke motor recovery. In this study, we aim to evaluate whether targeting individual motor hotspot with HD-tDCS followed by EMG-driven robotic hand training could further facilitate the upper extremity motor function for chronic stroke survivors. In this pilot randomized controlled trial, eighteen chronic stroke survivors were randomly allocated into two groups. The HDtDCS-group (n&#x2009;=&#x2009;8) received personalized HD-tDCS using task-based fMRI to guide the stimulation on individual motor hotspot. The Sham-group (n&#x2009;=&#x2009;10) received only sham stimulation. Both groups underwent 20 sessions of training, each session began with 20&#xa0;min of HD-tDCS and was then followed by 60&#xa0;min of robotic hand training. Clinical scales (Fugl-meyer Upper Extremity scale, FMAUE; Modified Ashworth Scale, MAS), and neuroimaging modalities (fMRI and EEG-EMG) were conducted before, after intervention, and at 6-month follow-up. Two-way repeated measures analysis of variance was used to compare the training effect between HDtDCS- and Sham-group. HDtDCS-group demonstrated significantly better motor improvement than the Sham-group in terms of greater changes of FMAUE scores (F&#x2009;=&#x2009;6.5, P&#x2009;=&#x2009;0.004) and MASf (F&#x2009;=&#x2009;3.6, P&#x2009;=&#x2009;0.038) immediately and 6 months after the 20-session intervention. The task-based fMRI activation significantly shifted to the ipsilesional motor area in the HDtDCS-group, and this activation pattern increasingly concentrated on the motor hotspot being stimulated 6 months after training within the HDtDCS-group, whereas the increased activation is not sustainable in the Sham-group. The neuroimaging results indicate that neural plastic changes of the HDtDCS-group were guided specifically and sustained as an add-on effect of the stimulation. Stimulating the individual motor hotspot before robotic hand training could further enhance brain activation in motor-related regions that promote better motor recovery for chronic stroke. This study was retrospectively registered in ClinicalTrials.gov (ID NCT05638464).
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s12984-024-01468-w
+
+2. Keywords
+- EMG-driven robotic hand
+- High-definition transcranial direct current stimulation
+- Personalized stimulation montage
+- Stroke rehabilitation
+- Task-based fMRI
+- Upper extremity
+
+3. Key Findings
+- HDtDCS-group demonstrated significantly better motor improvement than the Sham-group in terms of greater changes of FMAUE scores (F&#x2009;=&#x2009;6
+
+This study provides insights into:
+- EMG-driven robotic hand assessment methods and outcomes
+- High-definition transcranial direct current stimulation assessment methods and outcomes
+- Personalized stimulation montage assessment methods and outcomes

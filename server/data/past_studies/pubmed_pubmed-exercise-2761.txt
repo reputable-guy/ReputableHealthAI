@@ -1,0 +1,28 @@
+Study Title: Baker's yeast beta glucan supplementation was associated with an improved innate immune mRNA expression response after exercise.
+
+Study Summary:
+Beta glucans are found in many natural sources, however, only Baker's Yeast Beta Glucan (BYBG) has been well documented to have structure-function effects that are associated with improved innate immune response to stressors (e.g., exercise, infection, etc.). The purpose was to identify a BYBG-associated mRNA expression pattern following exercise. Participants gave IRB-approved consent and were randomized to BYBG (Wellmune&#xae;; N=9) or Placebo (maltodextrin; N=10) for 6-weeks prior to performing 90&#xa0;min of whole-body exercise. Paxgene blood samples were collected prior to exercise (PRE), after exercise (POST), two hours after exercise (2H), and four hours after exercise (4H). Total RNA was isolated and analyzed for the expression of 770 innate immune response mRNA (730 mRNA targets; 40 housekeepers/controls; Nanostring nCounter). The raw data were normalized against housekeeping controls and expressed as Logfold change from PRE for a given condition. Significance was set at p&#xa0;<&#xa0;0.05 with adjustments for multiple comparisons and false discovery rate. We identified 47 mRNA whose expression was changed after exercise with BYBG and classified them to four functional pathways: 1) Immune Cell Maturation (8 mRNA), 2) Immune Response and Function (5 mRNA), 3) Pattern Recognition Receptors and DAMP or PAMP Detection (25 mRNA), and 4) Detection and Resolution of Tissue Damage (9 mRNA). The identified mRNA whose expression was altered after exercise with BYBG may represent an innate immune response pattern and supports previous conclusions that BYBG improves immune response to a future sterile inflammation or infection.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.ymeth.2024.07.013
+
+2. Keywords
+- DAMP
+- Infection
+- Innate Immune Priming
+- Innate Immune Training
+- Nanostring
+- PAMP
+- Sterile-Inflammation
+
+3. Key Findings
+- Beta glucans are found in many natural sources, however, only Baker's Yeast Beta Glucan (BYBG) has been well documented to have structure-function effects that are associated with improved innate immune response to stressors (e
+
+This study provides insights into:
+- DAMP assessment methods and outcomes
+- Infection assessment methods and outcomes
+- Innate Immune Priming assessment methods and outcomes

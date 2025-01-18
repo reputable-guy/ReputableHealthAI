@@ -1,0 +1,28 @@
+Study Title: Unmasking culprits: novel analysis identifies complement factors as potential therapeutic targets to mitigate inflammation during children's heart surgery.
+
+Study Summary:
+Cardiopulmonary bypass (CPB) causes systemic inflammation during pediatric cardiac surgery, which can contribute to post-operative organ dysfunction and prolonged recovery. This study aims to identify key inflammatory mediators related to this clinically significant immunologic response. Pediatric patients were enrolled in a single-arm prospective clinical study (NCT05154864) and received standard cardiac operation, CPB and subzero-balance ultrafiltration. Arterial samples were taken before CPB initiation and immediately after weaning, and concentrations of 33 inflammatory mediators were assayed. A principal component analysis with hierarchical clustering (PCA-HCPC) included inflammatory mediator concentrations measured at the end of CPB, validated peak post-operative clinical scores, ventilation time and intensive care length of stay. Mahalanobis distance assessed statistical differences between clusters. Spearman's correlation described the linear relationship between mediator concentrations at the end of CPB and intensive care length of stay. Results are median (IQR). Forty consecutive patients were enrolled; the majority were male (58%), age of 7.3 (1.7-39.0) months and weight of 6.7 (4.6-14.9) kg. The PCA-HCPC revealed activated complement factors along with all peak clinical scores and prolonged intensive care requirements in&#xa0;the same cluster. Cytokine, chemokine, and leukocyte adhesion molecule concentrations were found in two other distinct&#xa0;clusters (Mahalanobis distance&#x2009;=&#x2009;16.5; p&#x2009;=&#x2009;0.004&#xa0;and&#xa0;Mahalanobis distance&#x2009;=&#x2009;17.4; p&#x2009;=&#x2009;5.8&#x2009;&#xd7;&#x2009;10). Mediator concentrations of C2 (Rho&#x2009;=&#x2009;0.50; p&#x2009;=&#x2009;0.001), C3 (Rho&#x2009;=&#x2009;0.58; p&#x2009;=&#x2009;1.1&#x2009;&#xd7;&#x2009;10), C3b (Rho&#x2009;=&#x2009;0.47; p&#x2009;=&#x2009;0.002), C5 (Rho&#x2009;=&#x2009;0.48; p&#x2009;=&#x2009;0.002) and C5a (Rho&#x2009;=&#x2009;0.63; 1.7&#x2009;&#xd7;&#x2009;10) showed linear correlations with intensive care unit length of stay. Activated complement factors, but not pro-inflammatory cytokines or chemokines, were most related to cardiopulmonary dysfunction and prolonged recovery in this novel analysis. Investigation of therapies that inhibit complement to dampen CPB-associated inflammation and enhance recovery after pediatric cardiac surgery is warranted. Trial Registration ClinicalTrials.gov, NCT05154864.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s40001-024-02156-0
+
+2. Keywords
+- Cardiopulmonary bypass
+- Complement
+- Congenital heart disease
+- Inflammation
+- Pediatric cardiac surgery
+
+3. Key Findings
+- The PCA-HCPC revealed activated complement factors along with all peak clinical scores and prolonged intensive care requirements in&#xa0;the same cluster
+- Cytokine, chemokine, and leukocyte adhesion molecule concentrations were found in two other distinct&#xa0;clusters (Mahalanobis distance&#x2009;=&#x2009;16
+- 7&#x2009;&#xd7;&#x2009;10) showed linear correlations with intensive care unit length of stay
+
+This study provides insights into:
+- Cardiopulmonary bypass assessment methods and outcomes
+- Complement assessment methods and outcomes
+- Congenital heart disease assessment methods and outcomes

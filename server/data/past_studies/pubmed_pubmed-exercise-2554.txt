@@ -1,0 +1,29 @@
+Study Title: Efficacy of the mHealth-Based Exercise Intervention re.flex for Patients With Knee Osteoarthritis: Pilot Randomized Controlled Trial.
+
+Study Summary:
+Exercise therapy is recommended by international guidelines as a core treatment for patients with knee osteoarthritis. However, there is a significant gap between recommendations and practice in health care. Digital exercise apps are promising to help solve this undersupply. This study aims to evaluate the efficacy of a 12-week fully automated app-based exercise intervention with and without a supporting knee brace on health-related outcomes, performance measures, and adherence in patients with knee osteoarthritis. This closed user group trial included participants with moderate to severe unicondylar painful knee osteoarthritis. Randomization was 1:1:2 into an intervention group (IG) with 2 subgroups (app-based training [IG A] and app-based training and a supportive knee brace [IG AB]) and a control group (CG). The intervention included a 12-week home exercise program with 3 sessions per week. Instructions for the exercises were given via the app and monitored using 2 accelerometers placed below and above the affected knee joint. Participants in the CG did not receive any study intervention but were allowed to make use of usual care. Osteoarthritis-specific pain (Knee Injury and Osteoarthritis Outcome Score) was defined as the primary outcome, and secondary outcomes included all other Knee Injury and Osteoarthritis Outcome Score subscales, general health-related quality of life (Veterans RAND 12-item Health Survey), psychological measures (eg, exercise self-efficacy), performance measures (strength and postural control), and the monitoring of adherence and safety. Outcomes were assessed at baseline and after 12 weeks. Intervention effects were calculated using baseline-adjusted analysis of covariance for the joint comparison of IG A and IG AB versus the CG using a per-protocol approach. Subgroup analyses were conducted for each IG separately. A total of 61 participants were included (IG: n=30, 49%; CG: n=31, 51%; male: n=31, 51%; female: n=30, 49%; mean age 62.9, SD 8.5 years; mean BMI 27.7, SD 4.5 kg/m). Analysis revealed statistically significant effects in favor of the IG for pain reduction (P<.001; effect size [ES]=0.76), improvements in physical function (P<.001; ES=0.64), improvements in symptoms (P=.01; ES=0.53), improvements in sport and recreation activities (P=.02; ES=0.47), improvements in knee-related quality of life (P<.001; ES=0.76), and improvements in the physical component of general health-related quality of life (P<.001; ES=0.74). Mean differences ranged from 6.0 to 13.2 points (scale range 0-100). ESs indicated small to medium effects. No effects were found for psychological and performance measures. Participants adhered to 92.5% (899/972) of all scheduled exercise sessions. Individuals with knee osteoarthritis undergoing a 12-week sensor-assisted app-based exercise intervention with or without an additional knee brace experienced clinically meaningful treatment effects regarding pain relief and improvements in physical function as well as other osteoarthritis-specific concerns compared to controls. German Clinical Trials Register (DRKS) DRKS00023269; https://drks.de/search/de/trial/DRKS00023269.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/54356
+
+2. Keywords
+- digital app
+- exercise
+- knee brace
+- knee osteoarthritis
+- mHealth
+- mobile health
+
+3. Key Findings
+- Analysis revealed statistically significant effects in favor of the IG for pain reduction (P<
+- ESs indicated small to medium effects
+- No effects were found for psychological and performance measures
+
+This study provides insights into:
+- digital app assessment methods and outcomes
+- exercise assessment methods and outcomes
+- knee brace assessment methods and outcomes

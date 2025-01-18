@@ -1,0 +1,25 @@
+Study Title: Hybrid Virtual Coaching and Telemonitoring in COPD Management: The CAir Randomised Controlled Study.
+
+Study Summary:
+To investigate the effectiveness of 12-weeks hybrid virtual coaching on health-related quality-of-life (HrQoL) in patients with stable COPD. We equipped all patients with a CAir Desk for telemonitoring, the intervention group additionally received hybrid virtual coaching through the built-in smartphone. The multimodal intervention based on the Living well with COPD programme, containing educational content, physical activity coaching, and home-based exercises. Primary outcome was HrQoL as measured by the SGRQ. Secondary outcomes were symptom burden, physical activity, functional exercise capacity, and lung function. Between-group differences were calculated using linear regression models, controlling for baseline differences. We included 30 participants with COPD (13/17 women/men; 63 [9] years; FEV54 [22] % predicted), 24 (80%) completed the study. SGRQ improved in both groups (intervention: -4.5 [20.1]; control: -2.7 [7.4] points) without statistically significant or clinically relevant between-group differences (B = -2.5 points, 95% CI = -24.3, 19.3, p = 0.81). Physical activity increased only in the intervention group (313 [1561] vs -364 [2399] steps) without statistically significant but clinically relevant between-group difference (B = 2147 steps, 95% CI = -86, 4395, p = 0.06). Symptom burden decreased in both groups (-4.2 [6.7] vs -1.0 [2.8] points) without statistically significant but clinically relevant between-group difference (B = -3.0 points, 95% CI = -10.8, 5.0, p = 0.43). Twelve-weeks hybrid virtual coaching did not improve HrQoL more than telemonitoring only in patients with stable COPD. The intervention group improved their physical activity and symptom burden clinically relevant more than the control group.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2147/COPD.S487105
+
+2. Keywords
+- COPD
+- conversational agent
+- physical activity
+- telemedicine
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- COPD assessment methods and outcomes
+- conversational agent assessment methods and outcomes
+- physical activity assessment methods and outcomes

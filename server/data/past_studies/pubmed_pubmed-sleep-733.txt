@@ -1,0 +1,27 @@
+Study Title: Comparison of Machine Learning Algorithms for Heartbeat Detection Based on Accelerometric Signals Produced by a Smart Bed.
+
+Study Summary:
+This work aims to compare the performance of Machine Learning (ML) and Deep Learning (DL) algorithms in detecting users' heartbeats on a smart bed. Targeting non-intrusive, continuous heart monitoring during sleep time, the smart bed is equipped with a 3D solid-state accelerometer. Acceleration signals are processed through an STM 32-bit microcontroller board and transmitted to a PC for recording. A photoplethysmographic sensor is simultaneously checked for ground truth reference. A dataset has been built, by acquiring measures in a real-world set-up: 10 participants were involved, resulting in 120 min of acceleration traces which were utilized to train and evaluate various Artificial Intelligence (AI) algorithms. The experimental analysis utilizes K-fold cross-validation to ensure robust model testing across different subsets of the dataset. Various ML and DL algorithms are compared, each being trained and tested using the collected data. The Random Forest algorithm exhibited the highest accuracy among all compared models. While it requires longer training time compared to some ML models such as Na&#xef;ve Bayes, Linear Discrimination Analysis, and K-Nearest Neighbour Classification, it keeps substantially faster than Support Vector Machine and Deep Learning models. The Random Forest model demonstrated robust performance metrics, including recall, precision, F1-scores, macro average, weighted average, and overall accuracy well above 90%. The study highlights the better performance of the Random Forest algorithm for the specific use case, achieving superior accuracy and performance metrics in detecting user heartbeats in comparison to other ML and DL models tested. The drawback of longer training times is not too relevant in the long-term monitoring target scenario, so the Random Forest model stands out as a viable solution for real-time ballistocardiographic heartbeat detection, showcasing potential for healthcare and wellness monitoring applications.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3390/s24061900
+
+2. Keywords
+- accelerometer sensor
+- artificial intelligence algorithm
+- deep learning
+- heartbeat detection
+- machine learning
+- smart bed
+
+3. Key Findings
+- The Random Forest model demonstrated robust performance metrics, including recall, precision, F1-scores, macro average, weighted average, and overall accuracy well above 90%
+
+This study provides insights into:
+- accelerometer sensor assessment methods and outcomes
+- artificial intelligence algorithm assessment methods and outcomes
+- deep learning assessment methods and outcomes

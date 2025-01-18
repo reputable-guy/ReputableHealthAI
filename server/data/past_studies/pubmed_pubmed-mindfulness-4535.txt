@@ -1,0 +1,28 @@
+Study Title: Does Using a Mindfulness App Reduce Anxiety and Worry? A Randomized-Controlled Trial.
+
+Study Summary:
+the availability of smartphone-based mindfulness training applications (apps) may circumvent many barriers to receiving in-person help, but little controlled research has been conducted on them. This study sought to evaluate the effectiveness of a widely used -mindfulness training app, Headspace, at reducing anxiety and worry.this study used a randomized-controlled design to examine the app using a 3 (Time; baseline, 4 weeks, 8 weeks) &#xd7; 2 (Access; immediate, delayed for 4 weeks) design. Participants who reported moderate to high anxiety or worry were randomly assigned to receive -either&#xa0;-immediate access or delayed access to the app. For null hypothesis significance testing&#xa0;(NHST), analyses of variance were used to test the hypotheses that app access for 4 and 8 weeks would reduce anxiety and worry as compared to waitlist or baseline and that app access for 8 weeks would reduce anxiety and worry as compared to 4 weeks. Bayes estimates were used to -determine the level of evidence for the hypothesis that app access reduces anxiety and worry.four weeks of app access significantly reduced anxiety symptoms, as did 8 weeks, but NHST indicated there were no significant difference between 4 and 8 weeks of access. We failed to reject the null for the analysis of variance on worry, but Bayesian estimates indicated substantial evidence for the hypothesis that the mindfulness training app reduces worry.this research shows that using Headspace can reduce anxiety and worry, but that there does not appear to be a consistent dose relation.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1891/JCPSY-D-20-00058
+
+2. Keywords
+- Bayes
+- anxiety
+- mHealth
+- mindfulness
+- technology
+- worry
+
+3. Key Findings
+- four weeks of app access significantly reduced anxiety symptoms, as did 8 weeks, but NHST indicated there were no significant difference between 4 and 8 weeks of access
+- We failed to reject the null for the analysis of variance on worry, but Bayesian estimates indicated substantial evidence for the hypothesis that the mindfulness training app reduces worry
+
+This study provides insights into:
+- Bayes assessment methods and outcomes
+- anxiety assessment methods and outcomes
+- mHealth assessment methods and outcomes

@@ -1,0 +1,33 @@
+Study Title: Effectiveness of a Sodium-Reduction Smartphone App and Reduced-Sodium Salt to Lower Sodium Intake in Adults With Hypertension: Findings From the Salt Alternatives Randomized Controlled Trial.
+
+Study Summary:
+Even modest reductions in blood pressure (BP) can have an important impact on population-level morbidity and mortality from cardiovascular disease. There are 2 promising approaches: the SaltSwitch smartphone app, which enables users to scan the bar code of a packaged food using their smartphone camera and receive an immediate, interpretive traffic light nutrition label on-screen alongside a list of healthier, lower-salt options in the same food category; and reduced-sodium salts (RSSs), which are an alternative to regular table salt that are lower in sodium and higher in potassium but have a similar mouthfeel, taste, and flavor. Our aim was to determine whether a 12-week intervention with a sodium-reduction package comprising the SaltSwitch smartphone app and an RSS could reduce urinary sodium excretion in adults with high BP. A 2-arm parallel randomized controlled trial was conducted in New Zealand (target n=326). Following a 2-week baseline period, adults who owned a smartphone and had high BP (&#x2265;140/85 mm Hg) were randomized in a 1:1 ratio to the intervention (SaltSwitch smartphone app + RSS) or control (generic heart-healthy eating information from The Heart Foundation of New Zealand). The primary outcome was 24-hour urinary sodium excretion at 12 weeks estimated via spot urine. Secondary outcomes were urinary potassium excretion, BP, sodium content of food purchases, and intervention use and acceptability. Intervention effects were assessed blinded using intention-to-treat analyses with generalized linear regression adjusting for baseline outcome measures, age, and ethnicity. A total of 168 adults were randomized (n=84, 50% per group) between June 2019 and February 2020. Challenges associated with the COVID-19 pandemic and smartphone technology detrimentally affected recruitment. The adjusted mean difference between groups was 547 (95% CI -331 to 1424) mg for estimated 24-hour urinary sodium excretion, 132 (95% CI -1083 to 1347) mg for urinary potassium excretion, -0.66 (95% CI -3.48 to 2.16) mm Hg for systolic BP, and 73 (95% CI -21 to 168) mg per 100 g for the sodium content of food purchases. Most intervention participants reported using the SaltSwitch app (48/64, 75%) and RSS (60/64, 94%). SaltSwitch was used on 6 shopping occasions, and approximately 1/2 tsp per week of RSS was consumed per household during the intervention. In this randomized controlled trial of a salt-reduction package, we found no evidence that dietary sodium intake was reduced in adults with high BP. These negative findings may be owing to lower-than-anticipated engagement with the trial intervention package. However, implementation and COVID-19-related challenges meant that the trial was underpowered, and it is possible that a real effect may have been missed. Australian New Zealand Clinical Trials Registry ACTRN12619000352101; https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=377044 and Universal Trial U1111-1225-4471.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.2196/43675
+
+2. Keywords
+- blood pressure
+- cardiovascular disease
+- mHealth
+- mobile health
+- mobile phone
+- reduced-sodium salt
+- salt
+- smartphone
+- smartphone app
+- sodium
+- technology
+
+3. Key Findings
+- Following a 2-week baseline period, adults who owned a smartphone and had high BP (&#x2265;140/85 mm Hg) were randomized in a 1:1 ratio to the intervention (SaltSwitch smartphone app + RSS) or control (generic heart-healthy eating information from The Heart Foundation of New Zealand)
+- In this randomized controlled trial of a salt-reduction package, we found no evidence that dietary sodium intake was reduced in adults with high BP
+
+This study provides insights into:
+- blood pressure assessment methods and outcomes
+- cardiovascular disease assessment methods and outcomes
+- mHealth assessment methods and outcomes

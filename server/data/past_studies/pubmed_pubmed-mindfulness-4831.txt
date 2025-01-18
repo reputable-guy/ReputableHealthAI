@@ -1,0 +1,27 @@
+Study Title: How does the Untire app alleviate cancer-related fatigue? A&#xa0;longitudinal mediation analysis.
+
+Study Summary:
+A waiting-list randomized controlled trial supported the effectiveness of the multimodal Untire app in reducing cancer-related fatigue (CRF) in cancer patients and survivors. However, little is known about the causal mechanisms of different app components through which the intervention effect was achieved. We aim to examine whether specifically targeted factors (i.e., fatigue catastrophizing, depression, mindfulness, sleep, and physical activity) mediated the intervention effects of the Untire app on fatigue outcomes. Seven hundred ninety-nine persons with CRF were randomized (2:1) into intervention (n&#xa0;=&#xa0;519) and waiting-list control (n&#xa0;=&#xa0;280) groups. Self-report data on the primary outcome fatigue severity and interference and the abovementioned potential mediators were collected at baseline and 12&#xa0;weeks. Participants who completed the 12-week assessment were included in the analyses (intervention&#xa0;=&#xa0;159; control&#xa0;=&#xa0;176). We performed longitudinal multi-categorical multiple mediation analysis using PROCESS macro to examine whether the potential mediators explained the overall intervention effects. Improvements in fatigue catastrophizing (bootstrap 95% CI (-0.110; -0.011)), depression (bootstrap 95% CI (-0.082; -0.004)), and mindfulness (bootstrap 95% CI (-0.082; -0.002)), significantly mediated the intervention effect on fatigue severity, whereas sleep quality (bootstrap 95% CI (-0.081; 0.009)), sleep disturbance (bootstrap 95% CI (-0.038; 0.029)), and physical activity (bootstrap 95% CI (-0.068; 0.000)) did not. Similar associations were found for fatigue interference. Untire app access reduces fatigue severity and interference mainly by decreasing fatigue catastrophizing, depression, and by increasing mindfulness. Supporting these psychological mechanisms is crucial for reducing fatigue among cancer patients and survivors.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1002/pon.5886
+
+2. Keywords
+- fatigue
+- longitudinal mediation
+- mHealth
+- mindfulness
+- physical activity
+- randomized controlled trial
+
+3. Key Findings
+- Similar associations were found for fatigue interference
+
+This study provides insights into:
+- fatigue assessment methods and outcomes
+- longitudinal mediation assessment methods and outcomes
+- mHealth assessment methods and outcomes

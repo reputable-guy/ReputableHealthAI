@@ -1,0 +1,26 @@
+Study Title: Comparing sleep measures in cancer survivors: self-reported sleep diary versus objective wearable sleep tracker.
+
+Study Summary:
+Cancer survivors are increasingly using wearable fitness trackers, but it is unclear if they match traditional self-reported sleep diaries. We aimed to compare sleep data from Fitbit and the Consensus Sleep Diary (CSD) in this group. We analyzed data from two randomized clinical trials, using both CSD and Fitbit to collect sleep outcomes: total sleep time (TST), wake time after sleep onset (WASO), number of awakenings (NWAK), time in bed (TIB), and sleep efficiency (SE). Insomnia severity was measured by Insomnia Severity Index (ISI). We used the Wilcoxon signed rank test, Spearman's rank correlation coefficients, and the Mann-Whitney test to compare sleep outcomes and assess their ability to distinguish insomnia severity levels between CSD and Fitbit data. Among 62 participants, compared to CSD, Fitbit recorded longer TST by an average of 14.6 (SD&#x2009;=&#x2009;84.9) minutes, longer WASO by an average of 28.7 (SD&#x2009;=&#x2009;40.5) minutes, more NWAK by an average of 16.7 (SD&#x2009;=&#x2009;6.6) times per night, and higher SE by an average of 7.1% (SD&#x2009;=&#x2009;14.4); but shorter TIB by an average of 24.4 (SD&#x2009;=&#x2009;71.5) minutes. All the differences were statistically significant (all p&#x2009;<&#x2009;0.05), except for TST (p&#x2009;=&#x2009;0.38). Moderate correlations were found for TST (r&#x2009;=&#x2009;0.41, p&#x2009;=&#x2009;0.001) and TIB (r&#x2009;=&#x2009;0.44, p&#x2009;<&#x2009;0.001). Compared to no/mild insomnia group, participants with clinical insomnia reported more NWAK (p&#x2009;=&#x2009;0.009) and lower SE (p&#x2009;=&#x2009;0.029) as measured by CSD, but there were no differences measured by&#xa0;Fitbit. TST was the only similar outcome between Fitbit and CSD. Our study highlights the advantages, disadvantages, and clinical utilization of sleep trackers in oncology.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1007/s00520-024-08788-6
+
+2. Keywords
+- Cancer
+- Fitbit
+- Insomnia
+- Sleep diary
+- Sleep tracker
+
+3. Key Findings
+- Moderate correlations were found for TST (r&#x2009;=&#x2009;0
+
+This study provides insights into:
+- Cancer assessment methods and outcomes
+- Fitbit assessment methods and outcomes
+- Insomnia assessment methods and outcomes

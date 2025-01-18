@@ -1,0 +1,20 @@
+Study Title: Machine Learning-Driven Phenogrouping and Cardiorespiratory Fitness Response in Metastatic Breast Cancer.
+
+Study Summary:
+The magnitude of cardiorespiratory fitness (CRF) impairment during anticancer treatment and CRF response to aerobic exercise training (AT) are highly variable. The aim of this ancillary analysis was to leverage machine learning approaches to identify patients at high risk of impaired CRF and poor CRF response to AT. We evaluated heterogeneity in CRF among 64 women with metastatic breast cancer randomly assigned to 12 weeks of highly structured AT (n = 33) or control (n = 31). Unsupervised hierarchical cluster analyses were used to identify representative variables from multidimensional prerandomization (baseline) data, and to categorize patients into mutually exclusive subgroups (ie, phenogroups). Logistic and linear regression evaluated the association between phenogroups and impaired CRF (ie, &#x2264;16 mL O&#xb7;kg&#xb7;min) and CRF response. Baseline CRF ranged from 10.2 to 38.8 mL O&#xb7;kg&#xb7;min; CRF response ranged from -15.7 to 4.1 mL O&#xb7;kg&#xb7;min. Of the n = 120 candidate baseline variables, n = 32 representative variables were identified. Patients were categorized into two phenogroups. Compared with phenogroup 1 (n = 27), phenogroup 2 (n = 37) contained a higher number of patients with none or >three lines of previous anticancer therapy for metastatic disease and had lower resting left ventricular systolic and diastolic function, cardiac output reserve, hematocrit, lymphocyte count, patient-reported outcomes, and CRF (< .05) at baseline. Among patients allocated to AT (phenogroup 1, n = 12; 44%; phenogroup 2, n = 21; 57%), CRF response (-1.94 &#xb1; 3.80 mL O&#xb7;kg&#xb7;min0.70 &#xb1; 2.22 mL O&#xb7;kg&#xb7;min) was blunted in phenogroup 2 compared with phenogroup 1. Phenotypic clustering identified two subgroups with unique baseline characteristics and CRF outcomes. The identification of CRF phenogroups could help improve cardiovascular risk stratification and guide investigation of targeted exercise interventions among patients with cancer.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1200/CCI.24.00031
+
+2. Keywords
+
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- General research methodology and outcomes

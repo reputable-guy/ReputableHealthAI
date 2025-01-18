@@ -1,0 +1,27 @@
+Study Title: A non-pharmacological multi-modal therapy to improve sleep and cognition and reduce mild cognitive impairment risk: Design and methodology of a randomized clinical trial.
+
+Study Summary:
+Aging populations are at increased risk of sleep deficiencies (e.g., insomnia) that are associated with a variety of chronic health risks, including Alzheimer's disease and related dementias (ADRD). Insomnia medications carry additional risk, including increased drowsiness and falls, as well as polypharmacy risks. The recommended first-line treatment for insomnia is cognitive behavioral therapy for insomnia (CBTi), but access is limited. Telehealth is one way to increase access, particularly for older adults, but to date telehealth has been typically limited to simple videoconferencing portals. While these portals have been shown to be non-inferior to in-person treatment, it is plausible that telehealth could be significantly improved. This work describes a protocol designed to evaluate whether a clinician-patient dashboard inclusive of several user-friendly features (e.g., patterns of sleep data from ambulatory devices, guided relaxation resources, and reminders to complete in-home CBTi practice) could improve CBTi outcomes for middle- to older-aged adults (N&#xa0;=&#xa0;100). Participants were randomly assigned to one of three telehealth interventions delivered through 6-weekly sessions: (1) CBTi augmented with a clinician-patient dashboard, smartphone application, and integrated smart devices; (2) standard CBTi (i.e., active comparator); or (3) sleep hygiene education (i.e., active control). All participants were assessed at screening, pre-study evaluation, baseline, throughout treatment, and at 1-week post-treatment. The primary outcome is the Insomnia Severity Index. Secondary and exploratory outcomes span sleep diary, actiwatch and Apple watch assessed sleep parameters (e.g., efficiency, duration, timing, variability), psychosocial correlates (e.g., fatigue, depression, stress), cognitive performance, treatment adherence, and neurodegenerative and systemic inflammatory biomarkers.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1016/j.cct.2023.107275
+
+2. Keywords
+- Cognitive behavioral therapy
+- Insomnia disorder
+- Internet of things
+- Sleep hygiene
+- Treatment
+- mHealth
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Cognitive behavioral therapy assessment methods and outcomes
+- Insomnia disorder assessment methods and outcomes
+- Internet of things assessment methods and outcomes

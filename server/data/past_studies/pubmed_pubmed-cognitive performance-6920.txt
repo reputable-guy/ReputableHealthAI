@@ -1,0 +1,20 @@
+Study Title: The ACTIVE conceptual framework as a structural equation model.
+
+Study Summary:
+Background/Study Context: Conceptual frameworks are analytic models at a high level of abstraction. Their operationalization can inform randomized trial design and sample size considerations. The Advanced Cognitive Training for Independent and Vital Elderly (ACTIVE) conceptual framework was empirically tested using structural equation modeling (N=2,802). ACTIVE was guided by a conceptual framework for cognitive training in which proximal cognitive abilities (memory, inductive reasoning, speed of processing) mediate treatment-related improvement in primary outcomes (everyday problem-solving, difficulty with activities of daily living, everyday speed, driving difficulty), which in turn lead to improved secondary outcomes (health-related quality of life, health service utilization, mobility). Measurement models for each proximal, primary, and secondary outcome were developed and tested using baseline data. Each construct was then combined in one model to evaluate fit (RMSEA, CFI, normalized residuals of each indicator). To expand the conceptual model and potentially inform future trials, evidence of modification of structural model parameters was evaluated by age, years of education, sex, race, and self-rated health status. Preconceived measurement models for memory, reasoning, speed of processing, everyday problem-solving, instrumental activities of daily living (IADL) difficulty, everyday speed, driving difficulty, and health-related quality of life each fit well to the data (all RMSEA < .05; all CFI > .95). Fit of the full model was excellent (RMSEA&#xa0;=&#xa0;.038; CFI&#xa0;=&#xa0;.924). In contrast with previous findings from ACTIVE regarding who benefits from training, interaction testing revealed associations between proximal abilities and primary outcomes are stronger on average by nonwhite race, worse health, older age, and less education (p&#xa0;<&#xa0;.005). Empirical data confirm the hypothesized ACTIVE conceptual model. Findings suggest that the types of people who show intervention effects on cognitive performance potentially may be different from those with the greatest chance of transfer to real-world activities.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2018
+- DOI: 10.1080/0361073X.2017.1398802
+
+2. Keywords
+
+
+3. Key Findings
+- In contrast with previous findings from ACTIVE regarding who benefits from training, interaction testing revealed associations between proximal abilities and primary outcomes are stronger on average by nonwhite race, worse health, older age, and less education (p&#xa0;<&#xa0;
+
+This study provides insights into:
+- General research methodology and outcomes

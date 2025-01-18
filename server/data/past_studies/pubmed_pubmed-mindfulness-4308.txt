@@ -1,0 +1,21 @@
+Study Title: Daily breath-based mindfulness exercises in a randomized controlled trial improve primary school children's performance in arithmetic.
+
+Study Summary:
+Mindfulness-based interventions (MBIs) have been shown to improve children's academic achievements. Because MBIs include different exercises (possibly with differential effects), the teacher-led Breathing Break Intervention (BBI) was developed which focuses exclusively on breathing exercises and body awareness. The short daily breathing practices of BBI were evaluated in terms of their effects on children's performance in mathematics. In a randomized controlled trial, N&#x2009;=&#x2009;140 third and fourth graders (49% female) either received BBI (IG, n&#x2009;=&#x2009;81) or participated in an active control group (ACG, n&#x2009;=&#x2009;59). Students took a standardized arithmetic test and teachers rated their mathematics performance before (T1) and after (T2) the nine weeks of BBI, and in a follow-up five months later (T3). A mixed multilevel model with a quadratic term of time indicated a significant interaction effect between group and time on the arithmetic test after controlling for working memory updating and parental educational attainment. IG children did not show a steeper linear increase but differed significantly from ACG children in their trajectory of arithmetic performance. At T3, IG children outperformed ACG children. A multilevel ordinal logistic regression of teachers' ratings of students' mathematics performance revealed no significant differences between IG and ACG. Results suggest that daily breathing exercises in primary school classrooms contribute to enhancing children's performance in arithmetic.Preregistration: The study was preregistered at aspredicted.org (#44925).
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1038/s41598-023-49354-0
+
+2. Keywords
+
+
+3. Key Findings
+- A mixed multilevel model with a quadratic term of time indicated a significant interaction effect between group and time on the arithmetic test after controlling for working memory updating and parental educational attainment
+- A multilevel ordinal logistic regression of teachers' ratings of students' mathematics performance revealed no significant differences between IG and ACG
+
+This study provides insights into:
+- General research methodology and outcomes

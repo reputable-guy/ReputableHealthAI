@@ -1,0 +1,29 @@
+Study Title: Assessing the Short-Term Efficacy of Digital Cognitive Behavioral Therapy for Insomnia With Different Types of Coaching: Randomized Controlled Comparative Trial.
+
+Study Summary:
+Digital cognitive behavioral therapy for insomnia (dCBTi) is an effective intervention for treating insomnia. The findings regarding its efficacy compared to face-to-face cognitive behavioral therapy for insomnia are inconclusive but suggest that dCBTi might be inferior. The lack of human support and low treatment adherence are believed to be barriers to dCBTi achieving its optimal efficacy. However, there has yet to be a direct comparative trial of dCBTi with different types of coaching support. This study examines whether adding chatbot-based and human coaching would improve the treatment efficacy of, and adherence to, dCBTi. Overall, 129 participants (n=98, 76% women; age: mean 34.09, SD 12.05 y) whose scores on the Insomnia Severity Index [ISI] were greater than 9 were recruited. A randomized controlled comparative trial with 5 arms was conducted: dCBTi with chatbot-based coaching and therapist support (dCBTi-therapist), dCBTi with chatbot-based coaching and research assistant support, dCBTi with chatbot-based coaching only, dCBTi without any coaching, and digital sleep hygiene and self-monitoring control. Participants were blinded to the condition assignment and study hypotheses, and the outcomes were self-assessed using questionnaires administered on the web. The outcomes included measures of insomnia (the ISI and the Sleep Condition Indicator), mood disturbances, fatigue, daytime sleepiness, quality of life, dysfunctional beliefs about sleep, and sleep-related safety behaviors administered at baseline, after treatment, and at 4-week follow-up. Treatment adherence was measured by the completion of video sessions and sleep diaries. An intention-to-treat analysis was conducted. Significant condition-by-time interaction effects showed that dCBTi recipients, regardless of having any coaching, had greater improvements in insomnia measured by the Sleep Condition Indicator (P=.003; d=0.45) but not the ISI (P=.86; d=-0.28), depressive symptoms (P<.001; d=-0.62), anxiety (P=.01; d=-0.40), fatigue (P=.02; d=-0.35), dysfunctional beliefs about sleep (P<.001; d=-0.53), and safety behaviors related to sleep (P=.001; d=-0.50) than those who received digital sleep hygiene and self-monitoring control. The addition of chatbot-based coaching and human support did not improve treatment efficacy. However, adding human support promoted greater reductions in fatigue (P=.03; d=-0.33) and sleep-related safety behaviors (P=.05; d=-0.30) than dCBTi with chatbot-based coaching only at 4-week follow-up. dCBTi-therapist had the highest video and diary completion rates compared to other conditions (video: 16/25, 60% in dCBTi-therapist vs <3/21, <25% in dCBTi without any coaching), indicating greater treatment adherence. Our findings support the efficacy of dCBTi in treating insomnia, reducing thoughts and behaviors that perpetuate insomnia, reducing mood disturbances and fatigue, and improving quality of life. Adding chatbot-based coaching and human support did not significantly improve the efficacy of dCBTi after treatment. However, adding human support had incremental benefits on reducing fatigue and behaviors that could perpetuate insomnia, and hence may improve long-term efficacy. ClinicalTrials.gov NCT05136638; https://www.clinicaltrials.gov/study/NCT05136638.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/51716
+
+2. Keywords
+- chatbot-based coaching
+- cognitive behavioral therapy
+- digital intervention
+- human support
+- insomnia
+- mHealth
+- mobile health
+- mobile phone
+
+3. Key Findings
+- Significant condition-by-time interaction effects showed that dCBTi recipients, regardless of having any coaching, had greater improvements in insomnia measured by the Sleep Condition Indicator (P=
+
+This study provides insights into:
+- chatbot-based coaching assessment methods and outcomes
+- cognitive behavioral therapy assessment methods and outcomes
+- digital intervention assessment methods and outcomes

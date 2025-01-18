@@ -1,0 +1,26 @@
+Study Title: Supplementation of ambient lighting with a task lamp improves daytime alertness and cognitive performance in sleep-restricted individuals.
+
+Study Summary:
+We examined the impact of adding a single-high-melanopic-illuminance task lamp in an otherwise low-melanopic-illuminance environment on alertness, neurobehavioral performance, learning, and mood during an 8-h simulated workday. Sixteen healthy young adults [mean(&#xb1;SD) age = 24.2 &#xb1; 2.9, 8F] participated in a 3-day inpatient study with two 8-h simulated workdays and were randomized to either ambient fluorescent room light (~30 melanopic EDI lux, 50 lux), or room light supplemented with a light emitting diode task lamp (~250 melanopic EDI lux, 210 lux) in a cross-over design. Alertness, mood, and cognitive performance were assessed throughout the light exposure and compared between conditions using linear mixed models. The primary outcome measure of percentage correct responses on the addition task was significantly improved relative to baseline in the supplemented condition (3.15% &#xb1; 1.18%), compared to the ambient conditions (0.93% &#xb1; 1.1%; FDR-adj q = 0.005). Additionally, reaction time and attentional failures on the psychomotor vigilance tasks were significantly improved with exposure to supplemented compared to ambient lighting (all, FDR-adj q &#x2264; 0.030). Furthermore, subjective measures of sleepiness, alertness, happiness, health, mood, and motivation were also significantly better in the supplemented, compared to ambient conditions (all, FDR-adj q &#x2264; 0.036). There was no difference in mood disturbance, affect, declarative memory, or motor learning between the conditions (all, FDR-adj q &#x2265; 0.308). Our results show that supplementing ambient lighting with a high-melanopic-illuminance task lamp can improve daytime alertness and cognition. Therefore, high-melanopic-illuminance task lighting may be effective when incorporated into existing suboptimal lighting environments. NCT04745312. Effect of Lighting Supplementation on Daytime Cognition. https://clinicaltrials.gov/ct2/show/NCT04745312.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1093/sleep/zsad096
+
+2. Keywords
+- blue light
+- cognition
+- light
+- melanopic illuminance
+- melanopsin
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- blue light assessment methods and outcomes
+- cognition assessment methods and outcomes
+- light assessment methods and outcomes

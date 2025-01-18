@@ -1,0 +1,22 @@
+Study Title: The cingulum as a marker of individual differences in neurocognitive development.
+
+Study Summary:
+The canonical approach to exploring brain-behaviour relationships is to group individuals according to a phenotype of interest, and then explore the neural correlates of this grouping. A limitation of this approach is that multiple aetiological pathways could result in a similar phenotype, so the role of any one brain mechanism may be substantially underestimated. Building on advances in network analysis, we used a data-driven community-clustering algorithm to identify robust subgroups based on white-matter microstructure in childhood and adolescence (total N&#x2009;=&#x2009;313, mean age: 11.24 years). The algorithm indicated the presence of two equal-size groups that show a critical difference in fractional anisotropy (FA) of the left and right cingulum. Applying the brain-based grouping in independent samples, we find that these different 'brain types' had profoundly different cognitive abilities with higher performance in the higher FA group. Further, a connectomics analysis indicated reduced structural connectivity in the low FA subgroup that was strongly related to reduced functional activation of the default mode network. These results provide a proof-of-concept that bottom-up brain-based groupings can be identified that relate to cognitive performance. This provides a first demonstration of a complimentary approach for investigating individual differences in brain structure and function, particularly for neurodevelopmental disorders where researchers are often faced with phenotypes that are difficult to define at the cognitive or behavioural level.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2020
+- DOI: 10.1038/s41598-019-38894-z
+
+2. Keywords
+
+
+3. Key Findings
+- The algorithm indicated the presence of two equal-size groups that show a critical difference in fractional anisotropy (FA) of the left and right cingulum
+- Applying the brain-based grouping in independent samples, we find that these different 'brain types' had profoundly different cognitive abilities with higher performance in the higher FA group
+- Further, a connectomics analysis indicated reduced structural connectivity in the low FA subgroup that was strongly related to reduced functional activation of the default mode network
+
+This study provides insights into:
+- General research methodology and outcomes

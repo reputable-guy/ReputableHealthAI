@@ -1,0 +1,27 @@
+Study Title: Cognitive changes after tDCS and escitalopram treatment in major depressive disorder: Results from the placebo-controlled ELECT-TDCS trial.
+
+Study Summary:
+Cognitive deficits in major depressive disorder (MDD) are associated with low quality of life and higher suicide risk. Antidepressant drugs have modest to null effects in improving such deficits. Therefore, we investigated the cognitive effects of transcranial direct current stimulation (tDCS), which is a promising antidepressant non-pharmacological intervention, in MDD. An exploratory analysis on cognitive performance was conducted in 243 depressed patients from the Escitalopram vs. Electric Current Therapy for Treating Depression Clinical Study (ELECT-TDCS), a sham-controlled study comparing the efficacy of tDCS vs. escitalopram. A neuropsychological battery was applied at baseline and endpoint (10 weeks of treatment) to create composite cognitive scores (processing speed, working memory, and verbal fluency). Linear mixed regression models were used to evaluate changes according to intervention groups, adjusted for confounding variables (age, years of schooling, gender, and benzodiazepine use) and depression improvement. No cognitive deterioration was observed in any group. Patients receiving tDCS presented reduced practice gains compared to placebo in processing speed. In patients receiving escitalopram vs. placebo and in the subgroup of clinical responders (>50% depression improvement from baseline), those receiving tDCS vs. placebo presented increased performance in verbal fluency. No significant differences between tDCS and escitalopram groups were detected. Absence of healthy controls. Prefrontal tDCS did not lead to cognitive deficits in depressed patients, although it reduced practice effects in processing speed. tDCS responders presented increased performance in verbal fluency. Further investigation of tDCS cognitive effects in depression is warranted.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2021
+- DOI: 10.1016/j.jad.2019.12.009
+
+2. Keywords
+- Cognition
+- Dorsolateral prefrontal cortex
+- Major depressive disorder
+- Psychiatry
+- Safety
+- Transcranial direct current stimulation (tDCS)
+
+3. Key Findings
+- Linear mixed regression models were used to evaluate changes according to intervention groups, adjusted for confounding variables (age, years of schooling, gender, and benzodiazepine use) and depression improvement
+
+This study provides insights into:
+- Cognition assessment methods and outcomes
+- Dorsolateral prefrontal cortex assessment methods and outcomes
+- Major depressive disorder assessment methods and outcomes

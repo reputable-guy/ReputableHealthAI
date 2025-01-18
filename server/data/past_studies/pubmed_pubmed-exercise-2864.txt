@@ -1,0 +1,39 @@
+Study Title: Detection of Common Respiratory Infections, Including COVID-19, Using Consumer Wearable Devices in Health Care Workers: Prospective Model Validation Study.
+
+Study Summary:
+The early detection of respiratory infections could improve responses against outbreaks. Wearable devices can provide insights into health and well-being using longitudinal physiological signals. The purpose of this study was to prospectively evaluate the performance of a consumer wearable physiology-based respiratory infection detection algorithm in health care workers. In this study, we evaluated the performance of a previously developed system to predict the presence of COVID-19 or other upper respiratory infections. The system generates real-time alerts using physiological signals recorded from a smartwatch. Resting heart rate, respiratory rate, and heart rate variability measured during the sleeping period were used for prediction. After baseline recordings, when participants received a notification from the system, they were required to undergo testing at a Northwell Health System site. Participants were asked to self-report any positive tests during the study. The accuracy of model prediction was evaluated using respiratory infection results (laboratory results or self-reports), and postnotification surveys were used to evaluate potential confounding factors. A total of 577 participants from Northwell Health in New York were enrolled in the study between January 6, 2022, and July 20, 2022. Of these, 470 successfully completed the study, 89 did not provide sufficient physiological data to receive any prediction from the model, and 18 dropped out. Out of the 470 participants who completed the study and wore the smartwatch as required for the 16-week study duration, the algorithm generated 665 positive alerts, of which 153 (23.0%) were not acted upon to undergo testing for respiratory viruses. Across the 512 instances of positive alerts that involved a respiratory viral panel test, 63 had confirmed respiratory infection results (ie, COVID-19 or other respiratory infections detected using a polymerase chain reaction or home test) and the remaining 449 had negative upper respiratory infection test results. Across all cases, the estimated false-positive rate based on predictions per day was 2%, and the positive-predictive value ranged from 4% to 10% in this specific population, with an observed incidence rate of 198 cases per week per 100,000. Detailed examination of questionnaires filled out after receiving a positive alert revealed that physical or emotional stress events, such as intense exercise, poor sleep, stress, and excessive alcohol consumption, could cause a false-positive result. The real-time alerting system provides advance warning on respiratory viral infections as well as other physical or emotional stress events that could lead to physiological signal changes. This study showed the potential of wearables with embedded alerting systems to provide information on wellness measures.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/53716
+
+2. Keywords
+- COVID detection
+- COVID-19
+- algorithm
+- emotional stress
+- health
+- health care worker
+- infection
+- physical stress
+- physiology
+- prediction
+- respiratory infection
+- respiratory virus
+- respiratory virus detection
+- wearable
+- wearable device
+- well-being
+
+3. Key Findings
+- The accuracy of model prediction was evaluated using respiratory infection results (laboratory results or self-reports), and postnotification surveys were used to evaluate potential confounding factors
+- Detailed examination of questionnaires filled out after receiving a positive alert revealed that physical or emotional stress events, such as intense exercise, poor sleep, stress, and excessive alcohol consumption, could cause a false-positive result
+- This study showed the potential of wearables with embedded alerting systems to provide information on wellness measures
+
+This study provides insights into:
+- COVID detection assessment methods and outcomes
+- COVID-19 assessment methods and outcomes
+- algorithm assessment methods and outcomes

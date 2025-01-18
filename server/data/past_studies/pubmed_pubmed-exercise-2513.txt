@@ -1,0 +1,29 @@
+Study Title: Acute and prolonged effects of Bacillus amyloliquefaciens GF424-derived SOD on antioxidant defense in healthy individuals challenged with intense aerobic exercise.
+
+Study Summary:
+Reactive oxygen species (ROS) play a vital role in cellular functions but can lead to oxidative stress and contribute to degenerative diseases when produced in excess. Maintaining redox balance is essential and can be achieved through innate defense mechanisms or external antioxidants. Superoxide dismutase (SOD) is a key enzyme that mitigates intracellular oxidative stress by converting harmful free radicals into hydrogen peroxide, which is subsequently neutralized by catalase and glutathione peroxidase. Previous studies have demonstrated the antioxidant capabilities of SOD derived from Bacillus amyloquefaciens GF424 (BA-SOD) in murine models exposed to either irradiation or SOD1 gene deletion. In this study, a randomized clinical trial was conducted to evaluate the antioxidative benefits of BA-SOD in healthy individuals undergoing acute aerobic exercise (AAE). Eighty participants were randomly assigned to receive either BA-SOD or a placebo for 8 weeks. Antioxidant enzyme activities and glutathione levels were measured before, immediately after, and 30&#xa0;min post-exercise. A single dose of BA-SOD significantly reduced ROS levels induced by AAE, primarily by enhancing SOD activity in erythrocytes and activating glutathione peroxidase. Continuous BA-SOD administration was associated with a sustained increase in catalase activity and elevated levels of reduced glutathione (GSH). Transcriptomic and metabolomic analyses revealed that a single BA-SOD dose facilitated GSH oxidation, as evidenced by decreased levels of serine, glutamine, and glycine, and increased pyroglutamate levels. Additionally, repeated dosing led to increased expression of genes encoding isocitrate dehydrogenase and malic enzyme, which are involved in NADPH synthesis, as well as nicotinamide phosphoribosyl transferase and NAD kinase, which are essential for NADP availability-critical for converting oxidized glutathione (GSSG) back to GSH. These molecular insights align with clinical observations, suggesting that both acute and long-term BA-SOD supplementation may effectively enhance antioxidant defenses and maintain redox balance under oxidative stress conditions.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.freeradbiomed.2024.09.015
+
+2. Keywords
+- Aerobic exercise
+- Antioxidant
+- BA-SOD supplementation
+- Glutathione redox balance
+- Oxidative stress
+- Superoxide dismutase
+- Transcriptomic and metabolomic analyses
+
+3. Key Findings
+- Previous studies have demonstrated the antioxidant capabilities of SOD derived from Bacillus amyloquefaciens GF424 (BA-SOD) in murine models exposed to either irradiation or SOD1 gene deletion
+- Transcriptomic and metabolomic analyses revealed that a single BA-SOD dose facilitated GSH oxidation, as evidenced by decreased levels of serine, glutamine, and glycine, and increased pyroglutamate levels
+
+This study provides insights into:
+- Aerobic exercise assessment methods and outcomes
+- Antioxidant assessment methods and outcomes
+- BA-SOD supplementation assessment methods and outcomes

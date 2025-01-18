@@ -1,0 +1,26 @@
+Study Title: Personalized transcranial alternating current stimulation (tACS) and physical therapy to treat motor and cognitive symptoms in Parkinson's disease: A randomized cross-over trial.
+
+Study Summary:
+Abnormal cortical oscillations are markers of Parkinson's Disease (PD). Transcranial alternating current stimulation (tACS) can modulate brain oscillations and possibly impact on behaviour. Mapping of cortical activity (prevalent oscillatory frequency and topographic scalp distribution) may provide a personalized neurotherapeutic target and guide non-invasive brain stimulation. This is a cross-over, double blinded, randomized trial. Electroencephalogram (EEG) from participants with PD referred to Specialist Clinic, University Hospital, were recorded. TACS frequency and electrode position were individually defined based on statistical comparison of EEG power spectra maps with normative data from our laboratory. Stimulation frequency was set according to the EEG band displaying higher power spectra (with beta excess on EEG map, tACS was set at 4&#x202f;Hz; with theta excess, tACS was set at 30&#x202f;Hz). Participants were randomized to tACS or random noise stimulation (RNS), 5&#x202f;days/week for 2-weeks followed by ad hoc physical therapy. EEG, motor (Unified Parkinson's Disease Rating Scale-motor: UPDRS III), neuropsychological (frontal, executive and memory tests) performance and mood were measured before (T), after (T) and 4-weeks after treatment (T). A linear model with random effects and Wilcoxon test were used to detect differences. Main results include a reduction of beta rhythm in theta-tACS vs. RNS group at Tover right sensorimotor area (p&#x202f;=&#x202f;.014) and left parietal area (p&#x202f;=&#x202f;.010) and at Tover right sensorimotor area (p&#x202f;=&#x202f;.004) and left frontal area (p&#x202f;=&#x202f;.039). Bradykinesia items improved at T(p&#x202f;=&#x202f;.002) and T(p&#x202f;=&#x202f;.047) compared to Tin the tACS group. In the tACS group the Montr&#xe9;al Cognitive Assessment (MoCA) improved at Tcompared with T(p&#x202f;=&#x202f;.049). Individualized tACS in PD improves motor and cognitive performance. These changes are associated with a reduction of excessive fast EEG oscillations.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2020
+- DOI: 10.1016/j.nicl.2019.101768
+
+2. Keywords
+- Electroencephalography
+- Neurophysiology
+- Neurotherapeutic target
+- Non-invasive brain stimulation (NIBS)
+- Unified Parkinson's disease rating scale (UPDRS III)
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Electroencephalography assessment methods and outcomes
+- Neurophysiology assessment methods and outcomes
+- Neurotherapeutic target assessment methods and outcomes

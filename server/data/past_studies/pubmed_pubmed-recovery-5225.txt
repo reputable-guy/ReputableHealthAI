@@ -1,0 +1,25 @@
+Study Title: Tracking Well-Being: A Comprehensive Analysis of Physical Activity and Mental Health in College Students Across COVID-19 Phases Using Ecological Momentary Assessment.
+
+Study Summary:
+Physical activity (PA) is a critical factor in maintaining mental health, particularly among college students who are vulnerable to stress, anxiety, and mood disturbances. The COVID-19 pandemic introduced unprecedented disruptions to daily routines. The purpose of this cohort study was to examine the longitudinal PA behaviors before and during COVID-19 using device-based assessment in a sample of college students. The participants were a convenience sample of 1-year college students from the University of Vermont Wellness Environment study. A daily survey was distributed to the participants every night on a study app measured three mental health outcomes of mood, anxiety, and stress for 16&#x2009;weeks. Participants wore Apple Watches to monitor PA. A total of 167 participants completed at least 50% of daily surveys and had 20&#x2009;days of valid Apple Watch data, which resulted in 11&#x2009;387 participant-days' of observations. Changes in average daily moderate-to-vigorous physical activity (MVPA) and step counts were examined week-over-week from an 8-week period before COVID to an 8-week period during COVID using cluster-robust piecewise regression (16-weeks total). Linear mixed models examined the association between PA and mental health outcomes, while also examining the moderating influence of COVID phase. Significantly lower MVPA was observed from the end of pre-COVID to start of COVID by -18.2&#x2009;min/day (p&#x2009;<&#x2009;0.001) and significantly fewer steps/day was observed from end of pre-COVID to start of COVID by -3277&#x2009;steps/day (p&#x2009;<&#x2009;0.001). An MVPA "catch-up" effect was observed as there were small but positive week-over-week improvements during COVID for MVPA (b&#x2009;=&#x2009;1.32&#x2009;min/day, p&#x2009;<&#x2009;0.001). The influence of COVID-19 phases had a notable impact on the relationships between PA/exercise and mental health outcomes. A discernible trend emerged, indicating stronger connections during the COVID period for anxiety and stress compared to the pre-COVID era. Interestingly, the moderating effect of COVID was opposite for mood and exercise. The COVID-19 pandemic led to a dramatic decline in PA among college students, coinciding with a period of heightened stress and anxiety. Despite a slight recovery in PA levels during the pandemic, the strengthened association between exercise and anxiety/stress during this time underscores the vital role of PA in promoting mental health. These findings highlight the importance of implementing behavior change strategies to maintain and promote student wellbeing.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1111/sms.14738
+
+2. Keywords
+- Apple Watch
+- mental health
+- wellness
+- young adulthood
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Apple Watch assessment methods and outcomes
+- mental health assessment methods and outcomes
+- wellness assessment methods and outcomes

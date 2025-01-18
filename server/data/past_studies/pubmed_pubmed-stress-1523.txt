@@ -1,0 +1,25 @@
+Study Title: IL-1 receptor antagonism reveals a yin-yang relationship between NF&#x3ba;B and interferon signaling in chronic lymphocytic leukemia.
+
+Study Summary:
+Nuclear factor kappa B (NF&#x3ba;B) is a pathogenic factor in chronic lymphocytic leukemia (CLL) that is not addressed specifically by current therapies. NF&#x3ba;B is activated by inflammatory factors that stimulate toll-like receptors (TLRs) and receptors for interleukin-1 (IL-1) family members. IL-1 is considered a master regulator of inflammation, and IL-1 receptor signaling is inhibited by the IL-1 receptor antagonist anakinra. These considerations suggested that anakinra might have a role in the treatment of CLL. Consistent with this idea, anakinra inhibited spontaneous and TLR7-mediated activation of the canonical NF&#x3ba;B pathway in CLL cells in vitro. However, CLL cells exhibited only weak signaling responses to IL-1 itself, and anakinra was found to inhibit NF&#x3ba;B along with oxidative stress in an IL-1 receptor-independent manner. Anakinra was then administered with minimal toxicity to 11 previously untreated CLL patients in a phase I dose-escalation trial (NCT04691765). A stereotyped clinical response was observed in all patients. Anakinra lowered blood lymphocytes and lymph node sizes within the first month that were associated with downregulation of NF&#x3ba;B and oxidative stress in the leukemia cells. However, inhibition of NF&#x3ba;B was accompanied by upregulation of type 1 interferon (IFN) signaling, c-MYC-regulated genes and proteins, and loss of the initial clinical response. Anakinra increased IFN signaling and survival of CLL cells&#xc2; in vitro&#xc2; that were, respectively, phenocopied by mitochondrial antioxidants and reversed by IFN receptor blocking antibodies. These observations suggest that anakinra has activity in CLL and may be a useful adjunct for conventional therapies as long as compensatory IFN signaling is blocked at the same time.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1073/pnas.2405644121
+
+2. Keywords
+- IL1 receptor antagonist
+- chronic lymphocytic leukemia
+- interferon
+- signal transduction
+
+3. Key Findings
+- However, CLL cells exhibited only weak signaling responses to IL-1 itself, and anakinra was found to inhibit NF&#x3ba;B along with oxidative stress in an IL-1 receptor-independent manner
+
+This study provides insights into:
+- IL1 receptor antagonist assessment methods and outcomes
+- chronic lymphocytic leukemia assessment methods and outcomes
+- interferon assessment methods and outcomes

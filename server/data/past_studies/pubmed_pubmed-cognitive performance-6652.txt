@@ -1,0 +1,26 @@
+Study Title: Brain age prediction in stroke patients: Highly reliable but limited sensitivity to cognitive performance and response to cognitive training.
+
+Study Summary:
+Cognitive deficits are important predictors for outcome, independence and quality of life after stroke, but often remain unnoticed and unattended because other impairments are more evident. Computerized cognitive training (CCT) is among the candidate interventions that may alleviate cognitive difficulties, but the evidence supporting its feasibility and effectiveness is scarce, partly due to the lack of tools for outcome prediction and monitoring. Magnetic resonance imaging (MRI) provides candidate markers for disease monitoring and outcome prediction. By integrating information not only about lesion extent and localization, but also regarding the integrity of the unaffected parts of the brain, advanced MRI provides relevant information for developing better prediction models in order to tailor cognitive intervention for patients, especially in a chronic phase. Using brain age prediction based on MRI based brain morphometry and machine learning, we tested the hypotheses that stroke patients with a younger-appearing brain relative to their chronological age perform better on cognitive tests and benefit more from cognitive training compared to patients with an older-appearing brain. In this randomized double-blind study, 54 patients who suffered mild stroke (>6 months since hospital admission, NIHSS&#x2264;7 at hospital discharge) underwent 3-weeks CCT and MRI before and after the intervention. In addition, patients were randomized to one of two groups receiving either active or sham transcranial direct current stimulation (tDCS). We tested for main effects of brain age gap (estimated age - chronological age) on cognitive performance, and associations between brain age gap and task improvement. Finally, we tested if longitudinal changes in brain age gap during the intervention were sensitive to treatment response. Briefly, our results suggest that longitudinal brain age prediction based on automated brain morphometry is feasible and reliable in stroke patients. However, no significant association between brain age and both performance and response to cognitive training were found.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2021
+- DOI: 10.1016/j.nicl.2019.102159
+
+2. Keywords
+- Brain age prediction
+- Cerebral stroke, T1
+- Computerized cognitive training
+- Magnetic resonance imaging
+- Transcranial direct current stimulation
+
+3. Key Findings
+- However, no significant association between brain age and both performance and response to cognitive training were found
+
+This study provides insights into:
+- Brain age prediction assessment methods and outcomes
+- Cerebral stroke, T1 assessment methods and outcomes
+- Computerized cognitive training assessment methods and outcomes

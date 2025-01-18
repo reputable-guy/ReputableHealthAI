@@ -1,0 +1,27 @@
+Study Title: App-Based Relaxation Exercises for Patients With Chronic Neck Pain: Pragmatic Randomized Trial.
+
+Study Summary:
+Chronic neck pain is a highly prevalent condition. Learning a relaxation technique is recommended by numerous guidelines for chronic neck pain. Smartphone apps can provide relaxation exercises; however, their effectiveness, especially in a self-care setting, is unclear. The aim of this pragmatic randomized trial is to evaluate whether app-based relaxation exercises, including audio-based autogenic training, mindfulness meditation, or guided imagery, are more effective in reducing chronic neck pain than usual care alone. Smartphone owners aged 18 to 65 years with chronic (>12 weeks) neck pain and the previous week's average neck pain intensity &#x2265;4 on the Numeric Rating Scale (0=no pain to 10=worst possible pain) were randomized into either an intervention group to practice app-based relaxation exercises or a control group (usual care and app for data entry only). For both groups, the follow-up data were collected using app-based diaries and questionnaires. The primary outcome was the mean neck pain intensity during the first 3 months based on daily measurements. Secondary outcomes included neck pain based on weekly measurements, pain acceptance, neck pain-related stress, sick-leave days, pain medication intake, and adherence, which were all measured until the 6-month follow-up. For the primary analysis, analysis of covariance adjusted for baseline neck pain intensity was used. We screened 748 participants and enrolled 220 participants (mean age 38.9, SD 11.3 years; mean baseline neck pain 5.7, SD 1.3 points). The mean neck pain intensity in both groups decreased over 3 months; however, no statistically significant difference between the groups was found (intervention: 4.1 points, 95% CI 3.8-4.4; control: 3.8 points, 95% CI 3.5-4.1; group difference: 0.3 points, 95% CI -0.2 to 0.7; P=.23). In addition, no statistically significant between-group differences regarding neck pain intensity after 6 months, responder rate, pain acceptance, pain medication intake, or sick-leave days were observed. There were no serious adverse events that were considered related to the trial intervention. In week 12, only 40% (44/110) of the participants in the intervention group continued to practice the exercises with the app. The study app did not effectively reduce chronic neck pain or keep the participants engaged in exercising in a self-care setting. Future studies on app-based relaxation interventions should take into account the most recent scientific findings for behavior change techniques. ClinicalTrials.gov NCT02019134; https://clinicaltrials.gov/ct2/show/NCT02019134. RR2-10.1186/1745-6215-15-490.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.2196/31482
+
+2. Keywords
+- RCT
+- mHealth
+- mobile phone
+- neck pain
+- relaxation
+- smartphone app
+
+3. Key Findings
+- The mean neck pain intensity in both groups decreased over 3 months; however, no statistically significant difference between the groups was found (intervention: 4
+
+This study provides insights into:
+- RCT assessment methods and outcomes
+- mHealth assessment methods and outcomes
+- mobile phone assessment methods and outcomes

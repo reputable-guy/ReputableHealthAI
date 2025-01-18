@@ -1,0 +1,28 @@
+Study Title: Structural MRI-Based Measures of Accelerated Brain Aging do not Moderate the Acute Antidepressant Response in Late-Life Depression.
+
+Study Summary:
+Late-life depression (LLD) is characterized by accelerated biological aging. Accelerated brain aging, estimated from structural magnetic resonance imaging (sMRI) data by a machine learning algorithm, is associated with LLD diagnosis, poorer cognitive performance, and disability. We hypothesized that accelerated brain aging moderates the antidepressant response. Following MRI, participants entered an 8-week randomized, controlled trial of escitalopram. Nonremitting participants then entered an open-label 8-week trial of bupropion. Ninety-five individuals with LLD. A machine learning algorithm estimated each participant's brain age from sMRI data. This was used to calculate the brain-age gap (BAG), or how estimated age differed from chronological age. Secondary sMRI measures of aging pathology included white matter hyperintensity (WMH) volumes and hippocampal volumes. Mixed models examined the relationship between sMRI measures and change in depression severity. Initial analyses tested for a moderating effect of MRI measures on change in depression severity with escitalopram. Subsequent analyses tested for the effect of MRI measures on change in depression severity over time across trials. In the blinded initial phase, BAG was not significantly associated with a differential response to escitalopram over time. BAG was also not associated with a change in depression severity over time across both arms in the blinded phase or in the subsequent open-label bupropion phase. We similarly did not observe effects of WMH volume or hippocampal volume on change in depression severity over time. sMRI markers of accelerated brain aging were not associated with treatment response in this sequential antidepressant trial.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1016/j.jagp.2021.11.011
+
+2. Keywords
+- Depression
+- MRI
+- aging
+- antidepressant
+- clinical trial
+- machine learning
+- structural neuroimaging
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Depression assessment methods and outcomes
+- MRI assessment methods and outcomes
+- aging assessment methods and outcomes

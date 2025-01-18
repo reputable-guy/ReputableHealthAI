@@ -1,0 +1,26 @@
+Study Title: Functional Trajectories, Cognition, and Subclinical Cerebrovascular Disease.
+
+Study Summary:
+Cognition and education influence functional trajectories, but whether associations differ with subclinical brain infarcts (SBI) or white matter hyperintensity volume (WMHV) is unknown. We hypothesized that SBI and WMHV moderated relationships between cognitive performance and education and functional trajectories. A total of 1290 stroke-free individuals underwent brain magnetic resonance imaging and were followed for 7.3 years (mean) with annual functional assessments with the Barthel index (range, 0-100). Magnetic resonance imaging measurements included pathology-informed SBI (PI-SBI) and WMHV (% total cranial volume). Generalized estimating equation models tested associations between magnetic resonance imaging variables and baseline Barthel index and change in Barthel index, adjusting for demographic, vascular, cognitive, and social risk factors, and stroke and myocardial infarction during follow-up. We tested interactions among education level, baseline cognitive performance (Mini-Mental State score), and functional trajectories and ran models stratified by levels of magnetic resonance imaging variables. Mean age was 70.6 (SD, 9.0) years; 19% had PI-SBI, and mean WMHV was 0.68%. Education did not modify associations between cognition and functional trajectories. PI-SBI modified associations between cognition and functional trajectories (=0.04) with a significant protective effect of better cognition on functional decline seen only in those without PI-SBI. There was no significant interaction for WMHV (=0.8). PI-SBI, and greater WMHV, were associated with 2- to 3-fold steeper functional decline, holding cognition constant. PI-SBI moderated the association between cognition and functional trajectories, with 3-fold greater decline among those with PI-SBI (compared with no PI-SBI) and normal baseline cognition. This highlights the strong and independent association between subclinical markers and patient-centered trajectories over time.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2018
+- DOI: 10.1161/STROKEAHA.117.019595
+
+2. Keywords
+- brain
+- epidemiology
+- magnetic resonance imaging
+- stroke
+- white matter
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- brain assessment methods and outcomes
+- epidemiology assessment methods and outcomes
+- magnetic resonance imaging assessment methods and outcomes

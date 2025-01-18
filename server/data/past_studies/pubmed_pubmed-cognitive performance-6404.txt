@@ -1,0 +1,26 @@
+Study Title: Theta Band Transcranial Alternating Current Stimulation Enhances Arithmetic Learning: A Systematic Comparison of Different Direct and Alternating Current Stimulations.
+
+Study Summary:
+Over the last decades, interest in transcranial electrical stimulation (tES) has grown, as it might allow for causal investigations of the associations between cortical activity and cognition as well as to directly influence cognitive performance. The main objectives of the present work were to assess whether tES can enhance the acquisition and application of arithmetic abilities, and whether it enables a better assessment of underlying neurophysiological processes. To this end, the present, double-blind, sham-controlled study assessed the effects of six active stimulations (three tES protocols: anodal transcranial direct current stimulation (tDCS), alpha band transcranial alternating current stimulation (tACS), and theta band tACS; targeting the left dorsolateral prefrontal cortex or the left posterior parietal cortex) on the acquisition of an arithmetic procedure, arithmetic facts, and event-related synchronization/desynchronization (ERS/ERD) patterns. 137 healthy adults were randomly assigned to one of seven groups, each receiving one of the tES-protocols during learning. Results showed that frontal theta band tACS reduced the repetitions needed to learn novel facts and both, frontal and parietal theta band tACS accelerated the decrease in calculation times in fact learning problems. The beneficial effect of frontal theta band tACS may reflect enhanced executive functions, allowing for better control and inhibition processes and hence, a faster acquisition and integration of novel fact knowledge. However, there were no significant effects of the stimulations on procedural learning or ERS/ERD patterns. Overall, theta band tACS appears promising as a support for arithmetic fact training, but effects on procedural calculations and neurophysiological processes remain ambiguous.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1016/j.neuroscience.2021.10.006
+
+2. Keywords
+- EEG
+- arithmetic learning
+- event-related (de)synchronization
+- non-invasive brain stimulation
+- transcranial electrical stimulation
+
+3. Key Findings
+- Results showed that frontal theta band tACS reduced the repetitions needed to learn novel facts and both, frontal and parietal theta band tACS accelerated the decrease in calculation times in fact learning problems
+
+This study provides insights into:
+- EEG assessment methods and outcomes
+- arithmetic learning assessment methods and outcomes
+- event-related (de)synchronization assessment methods and outcomes

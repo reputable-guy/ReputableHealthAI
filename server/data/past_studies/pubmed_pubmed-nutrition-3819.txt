@@ -1,0 +1,27 @@
+Study Title: The gamification of nutrition labels to encourage healthier food selection in online grocery shopping: A randomized controlled trial.
+
+Study Summary:
+Food purchase choices, one of the main determinants of food consumption, is highly influenced by food environments. Given the surge in online grocery shopping because of the COVID-19 pandemic, interventions in digital environments present more than ever an opportunity to improve the nutritional quality of food purchase choices. One such opportunity can be found in gamification. Participants (n&#xa0;=&#xa0;1228) shopped for 12 items from a shopping list on a simulated online grocery platform. We randomized them into four groups in a 2&#xa0;&#xd7;&#xa0;2 factorial design: presence vs. absence of gamification, and high vs. low budget. Participants in the gamification groups saw foods with 1 (least nutritious) to 5 (most nutritious) crown icons and a scoreboard with a tally of the number of crowns the participant collected. We estimated ordinary least squares and Poisson regression models to test the impact of the gamification and budget on the nutritional quality of the shopping basket. In the absence of gamification and low budget, participants collected 30.78 (95% CI [30.27; 31.29]) crowns. In the gamification and low budget condition, participants increased the nutritional quality of their shopping basket by collecting more crowns (B&#xa0;=&#xa0;4.15, 95% CI [3.55; 4.75], p&#xa0;<&#xa0;0.001). The budget amount ($50 vs. $30) did not alter the final shopping basket (B&#xa0;=&#xa0;0.45, 95% CI [-0.02; 1.18], p&#xa0;=&#xa0;0.057), nor moderated the gamification effect. Gamification increased the nutritional quality of the final shopping baskets and nine of 12 shopping list items in this hypothetical experiment. Gamifying nutrition labels may be an effective strategy to improve the nutritional quality of food choices in online grocery stores, but further research is needed.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1016/j.appet.2023.106610
+
+2. Keywords
+- Consumer behavior
+- Food choice
+- Gamification
+- Guiding stars
+- Nutrition
+- Online grocery shopping
+
+3. Key Findings
+- One such opportunity can be found in gamification
+
+This study provides insights into:
+- Consumer behavior assessment methods and outcomes
+- Food choice assessment methods and outcomes
+- Gamification assessment methods and outcomes

@@ -1,0 +1,26 @@
+Study Title: Predictors of the efficacy of His bundle pacing in patients with a prolonged PR interval: A stratified analysis of the HOPE-HF randomized controlled trial.
+
+Study Summary:
+The randomized, double-blind, placebo-controlled HOPE-HF trial assessed the benefit of atrio-ventricular (AV) delay optimization delivered using His bundle pacing. It recruited patients with left ventricular ejection fraction &#x2264;40%, PR interval &#x2265;200&#x2009;ms, and baseline QRS &#x2264;140&#x2009;ms or right bundle branch block. Overall, there was no significant increase in peak oxygen uptake (VOmax) but there was significant improvement in heart failure specific quality of life. In this pre-specified secondary analysis, we evaluated the impact of baseline PR interval, echocardiographic E-A fusion, and the magnitude of acute high-precision haemodynamic response to pacing, on outcomes. All 167 randomized participants underwent measurement of PR interval, acute haemodynamic response at optimized AV delay, and assessment of presence of E-A fusion. We tested the impact of these baseline parameters using a Bayesian ordinal model on VOmax, quality of life and activity measures. There was strong evidence of a beneficial interaction between the baseline acute haemodynamic response and the blinded benefit of pacing for VO(Pr 99.9%), Minnesota Living With Heart Failure (MLWHF) (Pr 99.8%), MLWHF physical limitation score (Pr 98.9%), EQ-5D visual analogue scale (Pr 99.6%), and exercise time (Pr 99.4%). The baseline PR interval and the presence of baseline E-A fusion did not have this reliable ability to predict the clinical benefit of pacing over placebo across multiple endpoints. In the HOPE-HF trial, the acute haemodynamic response to pacing reliably identified patients who obtained clinical benefit. Patients with a long PR interval (&#x2265;200&#x2009;ms) and left ventricular impairment who obtained acute haemodynamic improvement with AV-optimized His bundle pacing were likely to obtain clinical benefit, consistent across multiple endpoints. Importantly, this gradation can be reliably tested for before randomization, but does require high-precision AV-optimized haemodynamic assessment to be performed.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1002/ejhf.3367
+
+2. Keywords
+- Atrio&#x2010;ventricular delay optimization
+- Conduction system pacing
+- Haemodynamic study
+- His&#xa0;bundle pacing
+- Physiological pacing
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Atrio&#x2010;ventricular delay optimization assessment methods and outcomes
+- Conduction system pacing assessment methods and outcomes
+- Haemodynamic study assessment methods and outcomes

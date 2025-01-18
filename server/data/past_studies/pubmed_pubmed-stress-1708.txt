@@ -1,0 +1,31 @@
+Study Title: A Chatbot-Delivered Stress Management Coaching for Students (MISHA App): Pilot Randomized Controlled Trial.
+
+Study Summary:
+Globally, students face increasing mental health challenges, including elevated stress levels and declining well-being, leading to academic performance issues and mental health disorders. However, due to stigma and symptom underestimation, students rarely seek effective stress management solutions. Conversational agents in the health sector have shown promise in reducing stress, depression, and anxiety. Nevertheless, research on their effectiveness for students with stress remains limited. This study aims to develop a conversational agent-delivered stress management coaching intervention for students called MISHA and to evaluate its effectiveness, engagement, and acceptance. In an unblinded randomized controlled trial, Swiss students experiencing stress were recruited on the web. Using a 1:1 randomization ratio, participants (N=140) were allocated to either the intervention or waitlist control group. Treatment effectiveness on changes in the primary outcome, that is, perceived stress, and secondary outcomes, including depression, anxiety, psychosomatic symptoms, and active coping, were self-assessed and evaluated using ANOVA for repeated measure and general estimating equations. The per-protocol analysis revealed evidence for improvement of stress, depression, and somatic symptoms with medium effect sizes (Cohen d=-0.36 to Cohen d=-0.60), while anxiety and active coping did not change (Cohen d=-0.29 and Cohen d=0.13). In the intention-to-treat analysis, similar results were found, indicating reduced stress (&#x3b2; estimate=-0.13, 95% CI -0.20 to -0.05; P<.001), depressive symptoms (&#x3b2; estimate=-0.23, 95% CI -0.38 to -0.08; P=.003), and psychosomatic symptoms (&#x3b2; estimate=-0.16, 95% CI -0.27 to -0.06; P=.003), while anxiety and active coping did not change. Overall, 60% (42/70) of the participants in the intervention group completed the coaching by completing the postintervention survey. They particularly appreciated the quality, quantity, credibility, and visual representation of information. While individual customization was rated the lowest, the target group fitting was perceived as high. Findings indicate that MISHA is feasible, acceptable, and effective in reducing perceived stress among students in Switzerland. Future research is needed with different populations, for example, in students with high stress levels or compared to active controls. German Clinical Trials Register DRKS 00030004; https://drks.de/search/en/trial/DRKS00030004.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/54945
+
+2. Keywords
+- behavior change
+- coaching
+- conversational agent
+- lifestyle
+- mHealth
+- mobile health
+- mobile phone
+- smartphone
+- stress management
+
+3. Key Findings
+- The per-protocol analysis revealed evidence for improvement of stress, depression, and somatic symptoms with medium effect sizes (Cohen d=-0
+- In the intention-to-treat analysis, similar results were found, indicating reduced stress (&#x3b2; estimate=-0
+
+This study provides insights into:
+- behavior change assessment methods and outcomes
+- coaching assessment methods and outcomes
+- conversational agent assessment methods and outcomes

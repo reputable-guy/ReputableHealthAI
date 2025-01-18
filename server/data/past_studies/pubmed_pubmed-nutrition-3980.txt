@@ -1,0 +1,27 @@
+Study Title: The prognostic value of patient-reported outcomes in allogeneic hematopoietic stem cell transplantation: exploratory analysis of a randomized nutrition intervention trial.
+
+Study Summary:
+Whether patient-reported outcomes (PROs) can predict overall survival (OS) and non-relapse mortality (NRM) among recipients of allogeneic stem cell transplantation (allo-HSCT), is unclear. We performed an exploratory analysis of the prognostic value of patient-reported outcomes (PROs) among 117 recipients of allogeneic stem cell transplantation (allo-HSCT) who participated in a randomized nutrition intervention trial. Cox proportional hazards models were used to investigate possible associations between PROs collected pre-allo-HSCT (baseline) using scores from the EORTC Quality of Life Questionnaire-Core 30 (QLQ-C30) and 1-year overall survival (OS), whereas logistic regression was used to study associations between these PROs and 1-year non-relapse mortality (NRM). Multivariable analyses indicated that only the Hematopoietic Cell Transplantation Comorbidity Index (HCT-CI) and the European Bone Marrow Transplantation (EBMT) risk score were associated with 1-year OS. In the multivariable model including clinical-sociodemographic factors for 1-year NRM, our analysis showed that living alone (p=0.009), HCT-CI (p=0.016), EBMT risk score (p=0.002), and stem cell source (p=0.046) could be associated with 1-year NRM. Moreover, in the multivariable model, our analysis showed that only appetite loss from the QLQ-C30 was associated with 1-year NRM (p=0.026). In conclusion, in this specific setting, our analysis suggests that the commonly used HCT-CI and EBMT risk scores could be predictive for both 1-year OS and 1-year NRM, whereas baseline PROs in general were not.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1007/s00277-023-05149-x
+
+2. Keywords
+- Allogeneic stem cell transplantation
+- EORTC QLQ-C30
+- Overall survival
+- Patient-reported outcomes
+
+3. Key Findings
+- Multivariable analyses indicated that only the Hematopoietic Cell Transplantation Comorbidity Index (HCT-CI) and the European Bone Marrow Transplantation (EBMT) risk score were associated with 1-year OS
+- In the multivariable model including clinical-sociodemographic factors for 1-year NRM, our analysis showed that living alone (p=0
+- Moreover, in the multivariable model, our analysis showed that only appetite loss from the QLQ-C30 was associated with 1-year NRM (p=0
+
+This study provides insights into:
+- Allogeneic stem cell transplantation assessment methods and outcomes
+- EORTC QLQ-C30 assessment methods and outcomes
+- Overall survival assessment methods and outcomes

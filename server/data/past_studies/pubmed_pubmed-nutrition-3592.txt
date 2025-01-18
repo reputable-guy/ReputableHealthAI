@@ -1,0 +1,28 @@
+Study Title: A dietary intervention for postmenopausal hot flashes: A potential role of gut microbiome. An exploratory analysis.
+
+Study Summary:
+This study examined the role of gut microbiome changes in mediating the effects of a dietary intervention on the frequency and severity of postmenopausal vasomotor symptoms METHODS: Postmenopausal women (n&#xa0;=&#xa0;84) reporting &#x2265;2 moderate-to-severe hot flashes daily were randomly assigned, in 2 successive cohorts, to an intervention including a low-fat, vegan diet and cooked soybeans (&#xbd; cup [86&#xa0;g] daily) or to stay on their usual diet. Over a 12-week period, frequency and severity of hot flashes were recorded with a mobile application. In a subset of 11 women, gut microbiome was analyzed at baseline and after 12 weeks of the dietary intervention (low-fat vegan diet with soybeans), using deep shotgun metagenomic sequencing. Differences in the microbiome between baseline and 12 weeks were assessed by comparing alpha diversity with Wilcoxon signed rank tests, beta diversity with permanovaFL, and taxon abundance with Wilcoxon signed rank tests. Pearson correlations were used to assess the association between changes in hot flashes and gut bacteria. In the subset for which microbiome testing was done, total hot flashes decreased by 95 % during the dietary intervention (p&#xa0;=&#xa0;0.007); severe hot flashes disappeared (from 0.6 to 0.0/day; p&#xa0;=&#xa0;0.06); and moderate-to-severe hot flashes decreased by 96 % (p&#xa0;=&#xa0;0.01). Daytime and nighttime hot flashes were reduced by 96 % (p&#xa0;=&#xa0;0.01) and 94 % (p&#xa0;=&#xa0;0.004), respectively. Alpha and beta diversity did not significantly differ in the intervention group between baseline and 12 weeks. Two families (Enterobacteriaceae and Veillonellaceae), 5 genera (Erysipelatoclostridium, Fusicatenibacter, Holdemanella, Intestinimonas, and Porphyromonas), and 6 species (Clostridium asparagiforme, Clostridium innocuum, Bacteroides thetaiotaomicron, Fusicatenibacter saccharivorans, Intestinimonas butyriciproducens, Prevotella corporis, and Streptococcus sp.) were differentially abundant, but after correction for multiple comparisons, these differences were no longer significant. Changes in the relative abundance of Porphyromonas and Prevotella corporis were associated with the reduction in severe day hot flashes both unadjusted (r&#xa0;=&#xa0;0.61; p&#xa0;=&#xa0;0.047; and r&#xa0;=&#xa0;0.69; p&#xa0;=&#xa0;0.02), respectively), and after adjustment for changes in body mass index (r&#xa0;=&#xa0;0.63; p&#xa0;=&#xa0;0.049; and r&#xa0;=&#xa0;0.73; p&#xa0;=&#xa0;0.02), respectively). Changes in relative abundance of Clostridium asparagiforme were associated with the reduction in total severe hot flashes (r&#xa0;=&#xa0;0.69; p&#xa0;=&#xa0;0.019) and severe night hot flashes (r&#xa0;=&#xa0;0.82; p&#xa0;=&#xa0;0.002) and the latter association remained significant after adjustment for changes in body mass index (r&#xa0;=&#xa0;0.75; p&#xa0;=&#xa0;0.01). This exploratory analysis revealed potential associations between changes in vasomotor symptoms in response to a diet change and changes in the gut microbiome. Larger randomized clinical trials are needed to investigate these findings.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1016/j.ctim.2023.103002
+
+2. Keywords
+- Diet
+- Gut microbiome
+- Hot flashes
+- Menopause
+- Nutrition
+- Plant-based
+- Vegan
+
+3. Key Findings
+- This exploratory analysis revealed potential associations between changes in vasomotor symptoms in response to a diet change and changes in the gut microbiome
+
+This study provides insights into:
+- Diet assessment methods and outcomes
+- Gut microbiome assessment methods and outcomes
+- Hot flashes assessment methods and outcomes

@@ -1,0 +1,26 @@
+Study Title: Effect of Relaxation-Based Virtual Reality on Psychological and Physiological Stress of Substance Abusers Under Detoxification: A Randomized Controlled Trial.
+
+Study Summary:
+Substance abuse is a widespread problem, with high rates of treatment dropout. Stress plays a crucial role in this problem, so innovative interventions with stressed patients can assist them in completing treatment. This study is a randomized controlled trial with 60 participants who have substance abuse disorder undergoing detoxification at a residency facility in Tehran, Iran. Participants were randomly assigned to one of three groups: watching a 360&#xb0; video of nature, a 360&#xb0; video of a city environment, or no virtual experience. The intervention was performed only for one session. Psychological stress was measured using the Positive and Negative Affect Schedule and Perceived Stress Scale before and after the intervention. Physiological stress was assessed through respiratory rate, skin conductance, and heart rate recordings during the virtual reality (VR) experience. Data analysis was performed using R software (version 4.2). Paired t-test results indicated significant psychological differences before and after virtual nature experiences, but not in the control and city groups. The repeated measure ANOVA showed a significant reduction in skin conductance (p&#xa0;<&#xa0;0.01) and respiratory rate (p&#xa0;<&#xa0;0.01) scores in the nature group. The findings suggest that VR relaxation could be a potentially beneficial intervention for reducing stress in patients during detoxification.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1002/brb3.70084
+
+2. Keywords
+- relaxation
+- stress
+- substance&#x2010;related disorders
+- virtual reality
+
+3. Key Findings
+- Paired t-test results indicated significant psychological differences before and after virtual nature experiences, but not in the control and city groups
+- The repeated measure ANOVA showed a significant reduction in skin conductance (p&#xa0;<&#xa0;0
+
+This study provides insights into:
+- relaxation assessment methods and outcomes
+- stress assessment methods and outcomes
+- substance&#x2010;related disorders assessment methods and outcomes

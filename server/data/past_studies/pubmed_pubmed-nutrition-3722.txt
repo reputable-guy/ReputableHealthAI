@@ -1,0 +1,21 @@
+Study Title: Predicting Insulin Resistance in a Pediatric Population With Obesity.
+
+Study Summary:
+Insulin resistance (IR) affects children and adolescents with obesity and early diagnosis is crucial to prevent long-term consequences. Our aim was to identify predictors of IR and develop a multivariate model to accurately predict IR. We conducted a cross-sectional analysis of demographical, clinical, and biochemical data from a cohort of patients attending a specialized Paediatric Nutrition Unit in Portugal over a 20-year period. We developed multivariate regression models to predict IR. The participants were randomly divided into 2 groups: a model group for developing the predictive models and a validation group for cross-validation of the study. Our study included 1423 participants, aged 3-17 years old, randomly divided in the model (n = 879) and validation groups (n = 544). The predictive models, including uniquely demographic and clinical variables, demonstrated good discriminative ability [area under the curve (AUC): 0.834-0.868; sensitivity: 77.0%-83.7%; specificity: 77.0%-78.7%] and high negative predictive values (88.9%-91.6%). While the diagnostic ability of adding fasting glucose or triglycerides/high density lipoprotein cholesterol index to the models based on clinical parameters did not show significant improvement, fasting insulin appeared to enhance the discriminative power of the model (AUC: 0.996). During the validation, the model considering demographic and clinical variables along with insulin showed excellent IR discrimination (AUC: 0.978) and maintained high negative predictive values (90%-96.3%) for all models. Models based on demographic and clinical variables can be advantageously used to identify children and adolescents at moderate/high risk of IR, who would benefit from fasting insulin evaluation.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1097/MPG.0000000000003910
+
+2. Keywords
+
+
+3. Key Findings
+- The predictive models, including uniquely demographic and clinical variables, demonstrated good discriminative ability [area under the curve (AUC): 0
+- During the validation, the model considering demographic and clinical variables along with insulin showed excellent IR discrimination (AUC: 0
+
+This study provides insights into:
+- General research methodology and outcomes

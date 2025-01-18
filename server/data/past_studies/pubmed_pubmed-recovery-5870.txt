@@ -1,0 +1,26 @@
+Study Title: Anti-SARS-CoV-2 glyco-humanized polyclonal antibody XAV-19: phase II/III randomized placebo-controlled trial shows acceleration to recovery for mild to moderate patients with COVID-19.
+
+Study Summary:
+XAV-19 is a glyco-humanized swine polyclonal antibody targeting SARS-CoV-2 with high neutralizing activity. The safety and clinical efficacy of XAV-19 were investigated in patients with mild to moderate COVID-19. This phase II/III, multicentric, randomized, double-blind, placebo-controlled clinical trial was conducted to evaluate the safety and clinical efficacy of XAV-19 in patients with a seven-point WHO score of 2 to 4 at randomization, i.e., inpatients with COVID-19 requiring or not requiring low-flow oxygen therapy, and outpatients not requiring oxygen (EUROXAV trial, NCT04928430). Adult patients presenting in specialized or emergency units with confirmed COVID-19 and giving their consent to participate in the study were randomized to receive 150 mg of XAV-19 or placebo. The primary endpoint was the proportion of patients with aggravation within 8 days after treatment, defined as a worsening of the seven-point WHO score of at least one point between day 8 and day 1 (inclusion). The neutralization activity of XAV-19 against variants circulating during the trial was tested in parallel. From March 2021 to October 2022, 279 patients received either XAV-19 (N = 140) or placebo (N = 139). A slow enrollment and a low rate of events forced the termination of the premature trial. XAV-19 was well tolerated. Underpowered statistics did not allow the detection of any difference in the primary endpoint between the two groups or in stratified groups. Interestingly, analysis of the time to improvement (secondary endpoint) showed that XAV-19 significantly accelerated the recovery for patients with a WHO score of 2 or 3 (median at 7 days vs. 14 days, p = 0.0159), and even more for patients with a WHO score of 2 (4 days vs. 14 days, p = 0.0003). The neutralizing activity against Omicron and BA.2, BA.2.12.1, BA.4/5, and BQ.1.1 subvariants was shown. In this randomized placebo- controlled trial with premature termination, reduction of aggravation by XAV-19 at day 8 in patients with COVID-19 was not detectable. However, a significant reduction of the time to improvement for patients not requiring oxygen was observed. XAV-19 maintained a neutralizing activity against SARS-CoV-2 variants. Altogether, these data support a possible therapeutic interest for patients with mild to moderate COVID-19 requiring anti-SARS-CoV-2 neutralizing antibodies. https://clinicaltrials.gov/, identifier NCT04928430; https://www.clinicaltrialsregister.eu/about.html (EudraCT), identifier 2020-005979-12.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3389/fimmu.2024.1330178
+
+2. Keywords
+- (glyco-humanized) polyclonal antibody
+- COVID-19
+- SARS-CoV-2 variants
+- XAV-19
+- clinical trial
+
+3. Key Findings
+- Interestingly, analysis of the time to improvement (secondary endpoint) showed that XAV-19 significantly accelerated the recovery for patients with a WHO score of 2 or 3 (median at 7 days vs
+
+This study provides insights into:
+- (glyco-humanized) polyclonal antibody assessment methods and outcomes
+- COVID-19 assessment methods and outcomes
+- SARS-CoV-2 variants assessment methods and outcomes

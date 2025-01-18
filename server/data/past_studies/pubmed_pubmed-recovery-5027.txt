@@ -1,0 +1,26 @@
+Study Title: Absorption, metabolism, and excretion of oral [C] radiolabeled donafenib: an open-label, phase I, single-dose study in humans.
+
+Study Summary:
+The study aims to investigate the absorption, metabolism, and excretion of donafenib, a deuterated derivative of sorafenib, in healthy Chinese male volunteers. Six healthy Chinese male volunteers were administered a single oral dose of 300&#xa0;mg donafenib containing 120 &#xb5;Ci of [14&#xa0;C]-donafenib. The study involved collecting and analyzing plasma, urine, and feces samples to determine the recovery and distribution of total radioactivity, identify metabolites, and assess the metabolic pathways of donafenib. The mean recovery of total radioactivity was 97.31% of the administered dose. Six metabolites were identified, with the parent drug being the major radioactive component in plasma (67.52% of total radioactivity) and feces (83.17% of the dose). The N-oxidation metabolite (M2) was prominent in plasma. Donafenib was predominantly excreted via feces, indicating liver metabolism, with minimal renal excretion. The metabolic pathways of donafenib were similar to those of sorafenib, but the metabolite profiles differed significantly. Notably, the amide hydrolysis metabolite M6, present in sorafenib, was absent in donafenib. Donafenib is primarily metabolized in the liver and excreted through feces, with a metabolic profile that differs from sorafenib due to the deuterium isotope effect. These differences in metabolic characteristics may contribute to donafenib's improved safety and efficacy as a treatment for advanced hepatocellular carcinoma (HCC).
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1007/s00280-024-04725-w
+
+2. Keywords
+- Deuterium isotope effect
+- Metabolism
+- Pharmacokinetics
+- Sorafenib
+- [14C]-donafenib
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Deuterium isotope effect assessment methods and outcomes
+- Metabolism assessment methods and outcomes
+- Pharmacokinetics assessment methods and outcomes

@@ -1,0 +1,26 @@
+Study Title: Enteral nutrition support in patients with cancer: association of short-term prognosis and medical costs with inflammation.
+
+Study Summary:
+Enteral nutrition (EN) is commonly used for nutritional support in patients with cancer. Whether inflammation, one of the driving factors of malnutrition and cancer, affects the association between EN and short-term prognosis and medical costs in patients with cancer remains unclear. We aimed to investigate the association between EN and short-term prognosis of patients with cancer and the effect of inflammation on EN-associated medical costs. This multicentre prospective cohort study evaluated patients with pathologically confirmed solid tumours. After admission, all patients who received EN, including oral or tube feeding, were assigned to the EN group. The log-rank test was used to identify the optimal cutoff values for inflammatory markers. Cox regression analysis was used to analyse the associations among EN, inflammation, and prognosis. Propensity score matching was used to balance biases between the EN and non-EN groups and validate the stability of the results. A total of 5121 patients were included, with 2965 (57.90%) men and an average age of 59.06 (11.30) years. A total of 462 patients received EN, with 390 (84.4%) receiving oral nutritional supplementation. During the 90-day follow-up, 304 patients died. In the low inflammation group, there was no association between EN and short-term prognosis (hazard ratio [HR]&#x2009;=&#x2009;0.92, 95% confidence interval [CI]&#x2009;=&#x2009;0.39-2.18). In the high inflammation group, EN significantly improved the short-term prognosis (HR&#x2009;=&#x2009;0.48, 95% CI&#x2009;=&#x2009;0.30-0.76). In patients with low inflammation (p&#x2009;<&#x2009;0.001), EN increased hospitalisation costs (p&#x2009;<&#x2009;0.001) without reducing length of stay (LOS) (p&#x2009;=&#x2009;0.15). In patients with high inflammation, EN did not increase hospitalisation expenses (p&#x2009;=&#x2009;0.47) but reduced the LOS (p&#x2009;=&#x2009;0.004). EN can improve the short-term prognosis of patients with high inflammation and reduce LOS without increasing the hospitalisation expenses. Baseline inflammation levels may serve as effective indicators for personalised and precise EN treatment. ChiCTR1800020329 (chictr.org.cn).
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1007/s00520-024-09085-y
+
+2. Keywords
+- Cancer
+- Enteral nutrition
+- Inflammation
+- Medical costs
+- Short-term prognosis
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Cancer assessment methods and outcomes
+- Enteral nutrition assessment methods and outcomes
+- Inflammation assessment methods and outcomes

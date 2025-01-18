@@ -1,0 +1,27 @@
+Study Title: Effect of double-duty interventions on double burden of malnutrition among adolescents in Debre Berhan Regiopolitan City, Ethiopia: a cluster randomised controlled trial.
+
+Study Summary:
+Combating the double burden of malnutrition (DBM) in adolescents is a critical public health challenge in low-income countries like Ethiopia. However, past efforts have lacked focus and exhibited diverse governance strategies. Therefore, this study assesses the effect of selected double-duty interventions (DDIs) on DBM among adolescents in Central Ethiopia. The DBM status (thinness, normal, overweight/obesity) was determined using WHO AnthroPlus software. A two-arm parallel cluster randomised controlled trial was used among 708 adolescents (356 for the intervention group [IG] and 352 for the control group [CG]) from 13 October 2022 to 30 June 2023. The intervention's effect was analysed through difference-in-difference (DID) analysis and a multivariable multinomial generalised estimating equation (GEE) model with significance set at< 0.05. The overall DBM prevalence decreased by nearly 7% (4.7% for thinness, 2.2% for overweight/obesity) in the DID analysis. After adjusting for possible confounders, the GEE model indicated that adolescents in the IG were 34% less likely to have higher DBM than those in the CG (AOR = 0.66, 95% CI [0.46, 0.94]). Additionally, the probability of DBM decreased by 59% at the end line compared to baseline measurements (AOR = 0.41, 95% CI [0.03, 0.92]). Adolescents in the category of time and IG interaction were 44% less likely to have increased DBM (AOR = 0.56, 95% [CI 0.02, 0.38]). Thus, this study underscores the effectiveness of selected DDIs in addressing DBM among adolescents using a health belief model. These results advocate for the integration of DDI strategies into existing nutrition guidelines, programmes, and policies. The trial was registered prospectively in ClinicalTrials.gov with registration number NCT05574842.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1017/jns.2024.68
+
+2. Keywords
+- Adolescents
+- Double burden of malnutrition
+- Double-duty interventions
+- Ethiopia
+- Overnutrition
+- Undernutrition
+
+3. Key Findings
+- After adjusting for possible confounders, the GEE model indicated that adolescents in the IG were 34% less likely to have higher DBM than those in the CG (AOR = 0
+
+This study provides insights into:
+- Adolescents assessment methods and outcomes
+- Double burden of malnutrition assessment methods and outcomes
+- Double-duty interventions assessment methods and outcomes

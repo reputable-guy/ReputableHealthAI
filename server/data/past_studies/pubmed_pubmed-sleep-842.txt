@@ -1,0 +1,25 @@
+Study Title: Heterogeneous Effects of Continuous Positive Airway Pressure in Non-Sleepy Obstructive Sleep Apnea on Cardiovascular Disease Outcomes:Machine Learning Analysis of the ISAACC Trial (ECSACT Study).
+
+Study Summary:
+Randomized controlled trials of continuous positive airway pressure (CPAP) therapy for cardiovascular disease (CVD) prevention among patients with obstructive sleep apnea (OSA) have been largely neutral. However, given that OSA is a heterogeneous disease, there may be unidentified subgroups demonstrating differential treatment effects.We sought to apply a novel data-drive approach to identify nonsleepy OSA subgroups with heterogeneous effects of CPAP on CVD outcomes within the Impact of Sleep Apnea Syndrome in the Evolution of Acute Coronary Syndrome (ISAACC) study.Participants were randomly partitioned into two datasets. One for training (70%) our machine-learning model and a second (30%) for validation of significant findings. Model-based recursive partitioning was applied to identify subgroups with heterogeneous treatment effects. Survival analysis was conducted to compare treatment (CPAP vs. usual care [UC]) outcomes within subgroups.A total of 1,224 nonsleepy OSA participants were included. Of 55 features entered into our model, only two appeared in the final model (i.e., average OSA event duration and hypercholesterolemia). Among participants at or below the model-derived average event duration threshold (19.5&#x2009;s), CPAP was protective for a composite of CVD events (training hazard ratio [HR], 0.46;&#x2009;=&#x2009;0.002). For those with longer event duration (>19.5&#x2009;s), an additional split occurred by hypercholesterolemia status. Among participants with longer event duration and hypercholesterolemia, CPAP resulted in more CVD events compared with UC (training HR, 2.24;&#x2009;=&#x2009;0.011). The point estimate for this harmful signal was also replicated in the testing dataset (HR, 1.83;&#x2009;=&#x2009;0.118).We discovered subgroups of nonsleepy OSA participants within the ISAACC study with heterogeneous effects of CPAP. Among the training dataset, those with longer OSA event duration and hypercholesterolemia had nearly 2.5 times more CVD events with CPAP compared with UC, whereas those with shorter OSA event duration had roughly half the rate of CVD events if randomized to CPAP.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1513/AnnalsATS.202309-799OC
+
+2. Keywords
+- CPAP
+- OSA
+- machine learning
+- major adverse cardiac events
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- CPAP assessment methods and outcomes
+- OSA assessment methods and outcomes
+- machine learning assessment methods and outcomes

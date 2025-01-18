@@ -1,0 +1,28 @@
+Study Title: Dietary Intake Assessment Using a Novel, Generic Meal-Based Recall and a 24-Hour Recall: Comparison Study.
+
+Study Summary:
+Dietary intake assessment is an integral part of addressing suboptimal dietary intakes. Existing food-based methods are time-consuming and burdensome for users to report the individual foods consumed at each meal. However, ease of use is the most important feature for individuals choosing a nutrition or diet app. Intakes of whole meals can be reported in a manner that is less burdensome than reporting individual foods. No study has developed a method of dietary intake assessment where individuals report their dietary intakes as whole meals rather than individual foods. This study aims to develop a novel, meal-based method of dietary intake assessment and test its ability to estimate nutrient intakes compared with that of a web-based, 24-hour recall (24HR). Participants completed a web-based, generic meal-based recall. This involved, for each meal type (breakfast, light meal, main meal, snack, and beverage), choosing from a selection of meal images those that most represented their intakes during the previous day. Meal images were based on generic meals from a previous study that were representative of the actual meal intakes in Ireland. Participants also completed a web-based 24HR. Both methods were completed on the same day, 3 hours apart. In a crossover design, participants were randomized in terms of which method they completed first. Then, 2 weeks after the first dietary assessments, participants repeated the process in the reverse order. Estimates of mean daily nutrient intakes and the categorization of individuals according to nutrient-based guidelines (eg, low, adequate, and high) were compared between the 2 methods. P values of less than .05 were considered statistically significant. In total, 161 participants completed the study. For the 23 nutrient variables compared, the median percentage difference between the 2 methods was 7.6% (IQR 2.6%-13.2%), with P values ranging from <.001 to .97, and out of 23 variables, effect sizes for the differences were small for 19 (83%) variables, moderate for 2 (9%) variables, and large for 2 (9%) variables. Correlation coefficients were statistically significant (P<.05) for 18 (78%) of the 23 variables. Statistically significant correlations ranged from 0.16 to 0.45, with median correlation of 0.32 (IQR 0.25-0.40). When participants were classified according to nutrient-based guidelines, the proportion of individuals who were classified into the same category ranged from 52.8% (85/161) to 84.5% (136/161). A generic meal-based method of dietary intake assessment provides estimates of nutrient intake comparable with those provided by a web-based 24HR but with varying levels of agreement among nutrients. Further studies are required to refine and improve the generic recall across a range of nutrients. Future studies will consider user experience including the potential feasibility of incorporating image recognition of whole meals into the generic recall.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/48817
+
+2. Keywords
+- 24-hour recall
+- dietary intake assessment
+- eating behaviors
+- eating occasions
+- meal patterns
+- nutrition assessment
+- relative validity
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- 24-hour recall assessment methods and outcomes
+- dietary intake assessment assessment methods and outcomes
+- eating behaviors assessment methods and outcomes

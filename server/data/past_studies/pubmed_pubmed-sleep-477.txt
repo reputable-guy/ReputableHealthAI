@@ -1,0 +1,31 @@
+Study Title: Novel biomarkers derived from the Maintenance of Wakefulness Test as predictors of sleepiness and response to treatment.
+
+Study Summary:
+The Maintenance of Wakefulness Test (MWT) is a widely accepted objective test used to evaluate daytime somnolence and is commonly used in clinical studies evaluating novel therapeutics for excessive daytime sleepiness. In the latter, sleep onset latency (SOL) is typically the sole MWT endpoint. Here, we explored microsleeps, sleep probability measures derived from automated sleep scoring, and quantitative electroencephalography (qEEG) features as additional MWT biomarkers of daytime sleepiness, using data from a phase 1B trial of the selective orexin receptor 2 agonist danavorexton (TAK-925) in people with narcolepsy type 1 (NT1) or type 2 (NT2). Danavorexton treatment reduced the rate and duration of microsleeps during the MWT in NT1 (days 1 and 7; p&#x2005;&#x2264;&#x2005;.005) and microsleep rate in NT2 (days 1 and 7; p&#x2005;<&#x2005;.0001). The use of an EEG-sleep-staging&#x2005;-&#x2005;derived measure to determine the probability of wakefulness for each minute revealed a novel metric to track changes in daytime sleepiness, which were consistent with the &#x3b8;/&#x3b1; ratio, a known biomarker of drowsiness. The slopes of line-fits to both the log-transformed sleepiness score or log-transformed &#x3b8;/&#x3b1; ratio correlated well to (inverse) MWT SOL for NT1 (R&#x2005;=&#x2005;0.93 and R&#x2005;=&#x2005;0.83, respectively) and NT2 (R&#x2005;=&#x2005;0.97 and R&#x2005;=&#x2005;0.84, respectively), suggesting that individuals with narcolepsy have increased sleepiness immediately after lights-off. These analyses demonstrate that novel EEG-based biomarkers can augment SOL as predictors of sleepiness and its response to treatment and provide a novel framework for the analysis of wake EEG in hypersomnia disorders.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1093/sleep/zsae148
+
+2. Keywords
+- MWT
+- TAK-925
+- danavorexton
+- excessive daytime sleepiness
+- hypnodensity
+- maintenance of wakefulness
+- narcolepsy
+- orexin
+- qEEG
+- sleep onset latency
+
+3. Key Findings
+- The use of an EEG-sleep-staging&#x2005;-&#x2005;derived measure to determine the probability of wakefulness for each minute revealed a novel metric to track changes in daytime sleepiness, which were consistent with the &#x3b8;/&#x3b1; ratio, a known biomarker of drowsiness
+
+This study provides insights into:
+- MWT assessment methods and outcomes
+- TAK-925 assessment methods and outcomes
+- danavorexton assessment methods and outcomes

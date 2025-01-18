@@ -1,0 +1,26 @@
+Study Title: Pre-transplant CRP-albumin ratio as a biomarker in patients receiving haploidentical allogeneic hematopoietic transplantation: Developing a novel DRCI-based nomogram.
+
+Study Summary:
+In allogeneic hematopoietic stem cell transplantation (allo-HSCT), prognostic indicators effectively predict survival. The Disease conditions prior to transplantation dramatically affects the outcome of HSCT. Optimization of the pre-transplant risk assessment is critical for enhancing allo-HSCT decision-making. Inflammation and nutritional status play significant roles in cancer genesis and progression. As a combined inflammatory and nutritional status biomarker, the C-reactive protein/albumin ratio (CAR) can accurately forecast the prognosis in various malignancies. This research sought to examine the predictive value of CAR and develop a novel nomogram by combining biomarkers and evaluating their importance following HSCT. Analyses were conducted retroactively on a cohort of 185 consecutive patients who underwent haploidentical hematopoietic stem cell transplantation (haplo-HSCT) at Wuhan Union Medical College Hospital during the period from February 2017 to January 2019. Of these patients, 129 were randomly assigned to the training cohort, and the remaining 56 patients constituted the internal validation cohort. Univariate and multivariate analyses were carried out to examine the predictive significance of clinicopathological factors in the training cohort. Subsequently, the survival nomogram model was developed and compared with the disease risk comorbidity index (DRCI) using the concordance index (C-index), calibration curve, receiver operating characteristics (ROC) curve, and decision curve analysis (DCA). Patients were separated into low and high CAR groups using a cutoff of 0.087, which independently predicted overall survival (OS). Based on risk factors, CAR, the Disease Risk Index(DRI), and the Hematopoietic Cell Transplantation-specific Comorbidity Index(HCT-CI), the nomogram was developed to predict OS. The C-index and area under the ROC curve confirmed the improved predictive accuracy of the nomogram. The calibration curves revealed that the observed probabilities agreed well with those predicted by the nomogram in training, validation and entire cohort. It was confirmed by DCA that the nomogram offered greater net benefits than DRCI among all cohorts. CAR is an independent prognostic indicator for haplo-HSCT outcomes. Higher CAR was related to worse clinicopathologic characteristics and poorer prognoses in patients underwent haplo-HSCT. This research provided an accurate nomogram for predicting the OS of patients following haplo-HSCT, illustrating its potential clinical utility.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.3389/fimmu.2023.1128982
+
+2. Keywords
+- CAR
+- HSCT
+- disease risk comorbidity index
+- inflammation
+- nutrition
+
+3. Key Findings
+- The calibration curves revealed that the observed probabilities agreed well with those predicted by the nomogram in training, validation and entire cohort
+
+This study provides insights into:
+- CAR assessment methods and outcomes
+- HSCT assessment methods and outcomes
+- disease risk comorbidity index assessment methods and outcomes

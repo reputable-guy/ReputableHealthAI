@@ -1,0 +1,25 @@
+Study Title: The Cerebellum Modulates Attention Network Functioning: Evidence from a Cerebellar Transcranial Direct Current Stimulation and Attention Network Test Study.
+
+Study Summary:
+The functional domain of the cerebellum extends beyond its traditional role in motor control. In recent years, this structure has increasingly been considered to play a crucial role even in cognitive performance and attentional processes. Attention is defined as the ability to appropriately allocate processing resources to relevant stimuli. According to the Posnerian model, three interacting networks modulate attentive processes: the alerting, orienting, and executive networks. The aim of this study was to investigate the role played by the cerebellum in the functioning of the attentive networks using the Attention Network Test (ANT). We studied the effects of transcranial direct current stimulation (tDCS), delivered over the cerebellum in cathodal, anodal, and sham sessions, on ANT parameters in healthy subjects. After anodal and sham tDCS, the efficiency of the three attention networks remained stable, and a significant reduction in reaction time (RT) following the task repetition was observed for both congruent and incongruent targets, indicating a learning effect. After cathodal stimulation, instead, while the efficiency of the alerting and orienting networks remained stable, the efficiency of the executive network was significantly reduced. Moreover, a significant reduction in RT was observed for the congruent target alone, with no difference being detected for the incongruent target, indicating that cerebellar inhibition caused an attentive executive dysfunction specifically related to the ability to process complex stimuli in which conflict signals or errors are present. These results point to a role of the cerebellum, a subcortical structure that is thought to affect error processing both directly, by making predictions of errors or behaviors related to errors, and indirectly, by managing the functioning of brain cortical areas involved in the perception of conflicting signals, in the functioning of the attentional networks, particularly the executive network.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2019
+- DOI: 10.1007/s12311-019-01014-8
+
+2. Keywords
+- Attention
+- Attention Network Test
+- Cerebellum
+- tDCS
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Attention assessment methods and outcomes
+- Attention Network Test assessment methods and outcomes
+- Cerebellum assessment methods and outcomes

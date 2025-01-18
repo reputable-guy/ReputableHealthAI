@@ -1,0 +1,26 @@
+Study Title: Quantifying Physiological Biomarkers of a Microwave Brain Stimulation Device.
+
+Study Summary:
+Physiological signals are immediate and sensitive to neural and cardiovascular change resulting from brain stimulation, and are considered as a quantifying tool with which to evaluate the association between brain stimulation and cognitive performance. Brain stimulation outside a highly equipped, clinical setting requires the use of a low-cost, ambulatory miniature system. The purpose of this double-blind, randomized, sham-controlled study is to quantify the physiological biomarkers of the neural and cardiovascular systems induced by a microwave brain stimulation (MBS) device. We investigated the effect of an active MBS and a sham device on the cardiovascular and neurological responses of ten volunteers (mean age 26.33 years, 70% male). Electroencephalography (EEG) and electrocardiography (ECG) were recorded in the initial resting-state, intermediate state, and the final state at half-hour intervals using a portable sensing device. During the experiment, the participants were engaged in a cognitive workload. In the active MBS group, the power of high-alpha, high-beta, and low-beta bands in the EEG increased, and the power of low-alpha and theta waves decreased, relative to the sham group. RR Interval and QRS interval showed a significant association with MBS stimulation. Heart rate variability features showed no significant difference between the two groups. A wearable MBS modality may be feasible for use in biomedical research; the MBS can modulate the neurological and cardiovascular responses to cognitive workload.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2021
+- DOI: 10.3390/s21051896
+
+2. Keywords
+- cognitive workload
+- microwave brain stimulation
+- physiological biomarker
+- wearable bioelectronic medicine
+
+3. Key Findings
+- RR Interval and QRS interval showed a significant association with MBS stimulation
+- Heart rate variability features showed no significant difference between the two groups
+
+This study provides insights into:
+- cognitive workload assessment methods and outcomes
+- microwave brain stimulation assessment methods and outcomes
+- physiological biomarker assessment methods and outcomes

@@ -1,0 +1,26 @@
+Study Title: Prediction of menstrual recovery patterns in premenopausal women with breast cancer taking tamoxifen after chemotherapy: an ASTRRA Substudy.
+
+Study Summary:
+Chemo-endocrine therapy can lead to various side effects associated with ovarian dysfunction. Predicting menstrual recovery is necessary to discuss the treatment-related issues regarding fertility and premature menopause with patients. In the ASTRRA trial, patients who resumed ovarian function within 2 years after chemotherapy were randomized to receive tamoxifen for 5 years or OFS with tamoxifen for 2 years. With these 1298 patients, we developed a model that predicts when menstrual recovery will occur within a 3-year period after chemotherapy using variables including age, body mass index, chemotherapy regimen and duration, and serum estradiol and follicle-stimulating hormone levels. The data of 957 patients were used to develop the prediction model, and those of 341 patients were used for validation. In the development group, menstruation resumed in 450 patients (47.0%) within 5 years. In multivariable analysis, younger age (<&#x2009;35 vs. 45, HR 7.85, 95% CI 4.63-13.30, p&#x2009;<&#x2009;0.0001), anthracycline-based chemotherapy without taxane (vs. with taxane, HR 1.81, 95% CI 1.37-2.38, p&#x2009;<&#x2009;0.0001), and chemotherapy duration (&#x2264;&#x2009;90 days vs.&#x2009;>&#x2009;90 days, HR 1.32, 95% CI 1.01-1.72, p&#x2009;=&#x2009;0.045) correlated with menstrual recovery. Using combined age, regimen, and duration of chemotherapy, we developed a simplified scoring system to estimate recovery chances and used a concordance index of 0.679 overall and 0.744 at 3 years for validation. This model predicted timing and probability of menstrual recovery, based on their individual age, type and duration of chemotherapy in premenopausal women diagnosed with breast cancer who received tamoxifen after chemotherapy.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s13058-024-01903-9
+
+2. Keywords
+- Breast neoplasms
+- Chemotherapy
+- Menstruation
+- Premenopause
+- Tamoxifen
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Breast neoplasms assessment methods and outcomes
+- Chemotherapy assessment methods and outcomes
+- Menstruation assessment methods and outcomes

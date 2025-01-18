@@ -1,0 +1,36 @@
+Study Title: Design and Implementation of a Brief Digital Mindfulness and Compassion Training App for Health Care Professionals: Cluster Randomized Controlled Trial.
+
+Study Summary:
+Several studies show that intense work schedules make health care professionals particularly vulnerable to emotional exhaustion and burnout. In this scenario, promoting self-compassion and mindfulness may be beneficial for well-being. Notably, scalable, digital app-based methods may have the potential to enhance self-compassion and mindfulness in health care professionals. In this study, we designed and implemented a scalable, digital app-based, brief mindfulness and compassion training program called "WellMind" for health care professionals. A total of 22 adult participants completed up to 60 sessions of WellMind training, 5-10 minutes in duration each, over 3 months. Participants completed behavioral assessments measuring self-compassion and mindfulness at baseline (preintervention), 3 months (postintervention), and 6 months (follow-up). In order to control for practice effects on the repeat assessments and calculate effect sizes, we also studied a no-contact control group of 21 health care professionals who only completed the repeated assessments but were not provided any training. Additionally, we evaluated pre- and postintervention neural activity in core brain networks using electroencephalography source imaging as an objective neurophysiological training outcome. Findings showed a post- versus preintervention increase in self-compassion (Cohen d=0.57; P=.007) and state-mindfulness (d=0.52; P=.02) only in the WellMind training group, with improvements in self-compassion sustained at follow-up (d=0.8; P=.01). Additionally, WellMind training durations correlated with the magnitude of improvement in self-compassion across human participants (&#x3c1;=0.52; P=.01). Training-related neurophysiological results revealed plasticity specific to the default mode network (DMN) that is implicated in mind-wandering and rumination, with DMN network suppression selectively observed at the postintervention time point in the WellMind group (d=-0.87; P=.03). We also found that improvement in self-compassion was directly related to the extent of DMN suppression (&#x3c1;=-0.368; P=.04). Overall, promising behavioral and neurophysiological findings from this first study demonstrate the benefits of brief digital mindfulness and compassion training for health care professionals and compel the scale-up of the digital intervention. Trial Registration: International Standard Randomized Controlled Trial Number Registry ISRCTN94766568, https://www.isrctn.com/ISRCTN94766568.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/49467
+
+2. Keywords
+- EEG
+- compassion
+- digital app
+- digital health
+- digital intervention
+- digital mental health
+- digital mindfulness
+- health workers
+- healthcare professionals
+- mindfulness
+- neuroplasticity
+- physicians
+- training
+
+3. Key Findings
+- Findings showed a post- versus preintervention increase in self-compassion (Cohen d=0
+- Training-related neurophysiological results revealed plasticity specific to the default mode network (DMN) that is implicated in mind-wandering and rumination, with DMN network suppression selectively observed at the postintervention time point in the WellMind group (d=-0
+- We also found that improvement in self-compassion was directly related to the extent of DMN suppression (&#x3c1;=-0
+
+This study provides insights into:
+- EEG assessment methods and outcomes
+- compassion assessment methods and outcomes
+- digital app assessment methods and outcomes

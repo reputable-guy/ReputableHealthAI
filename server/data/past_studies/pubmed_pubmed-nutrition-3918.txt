@@ -1,0 +1,20 @@
+Study Title: A Nomogram Based on Nutrition-Related Indicators and Computed Tomography Imaging Features for Predicting Preoperative Lymph Node Metastasis in Curatively Resected Esophagogastric Junction Adenocarcinoma.
+
+Study Summary:
+Preoperative noninvasive tools to predict pretreatment lymph node metastasis (PLNM) status accurately for esophagogastric junction adenocarcinoma (EJA) are few. Thus, the authors aimed to construct a nomogram for predicting PLNM in curatively resected EJA. This study enrolled 638 EJA patients who received curative surgery resection and divided them randomly (7:3) into training and validation groups. For nomogram construction, 26 candidate parameters involving 21 preoperative clinical laboratory blood nutrition-related indicators, computed tomography (CT)-reported tumor size, CT-reported PLNM, gender, age, and body mass index were screened. In the training group, Lasso regression included nine nutrition-related blood indicators in the PLNM-prediction nomogram. The PLNM prediction nomogram yielded an area under the receiver operating characteristic (ROC) curve of 0.741 (95 % confidence interval [CI], 0.697-0.781), which was better than that of the CT-reported PLNM (0.635; 95% CI 0.588-0.680; p < 0.0001). Application of the nomogram in the validation cohort still gave good discrimination (0.725 [95% CI 0.658-0.785] vs 0.634 [95% CI 0.563-0.700]; p = 0.0042). Good calibration and a net benefit were observed in both groups. This study presented a nomogram incorporating preoperative nutrition-related blood indicators and CT imaging features that might be used as a convenient tool to facilitate the preoperative individualized prediction of PLNM for patients with curatively resected EJA.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1245/s10434-023-13378-7
+
+2. Keywords
+
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- General research methodology and outcomes

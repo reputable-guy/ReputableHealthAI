@@ -1,0 +1,24 @@
+Study Title: Simplified meal announcement study (SMASH) using hybrid closed-loop insulin delivery in youth and young adults with type 1 diabetes: a randomised controlled two-centre crossover trial.
+
+Study Summary:
+The majority of hybrid closed-loop systems still require carbohydrate counting (CC) but the evidence for its justification remains limited. Here, we evaluated glucose control with simplified meal announcement (SMA) vs CC in youth and young adults with type 1 diabetes using the mylife CamAPS FX system. We conducted a two-centre, randomised crossover, non-inferiority trial in two University Hospitals in Switzerland in&#xa0;46 participants (aged 12-20 years) with type 1 diabetes using multiple daily injections (n=35), sensor-augmented pump (n=4) or hybrid closed-loop (n=7) therapy before enrolment. Participants underwent two 3 month periods with the mylife CamAPS FX system (YpsoPump, Dexcom G6) to compare SMA (individualised carbohydrate meal sizes) with CC, in a randomly assigned order using computer-generated sequences. The primary endpoint was the proportion of time glucose was in target range (3.9-10.0 mmol/l) with a non-inferiority margin of 5 percentage points. Secondary endpoints were other sensor glucose and insulin metrics, usability and safety endpoints. Forty-three participants (18 women and girls) completed the trial. In the intention-to-treat analysis, time in range (mean&#xb1;SD) was 69.9&#xb1;12.4% with SMA and 70.7&#xb1;13.0% with CC (estimated mean difference -0.6 percentage points [95% CI -2.4, 1.1], demonstrating non-inferiority). Time <3.9 mmol/l (median [IQR] 1.8 [1.2-2.2]% vs 1.9 [1.6-2.5]%) and >10.0 mmol/l (28.2&#xb1;12.6% vs 27.2&#xb1;13.4%) was similar between periods. Total daily insulin dose was higher with SMA (54.0&#xb1;14.7&#xa0;U vs 51.7&#xb1;12.1&#xa0;U, p=0.037). Three participants experienced serious adverse events, none of which were intervention-related. Glucose control using the CamAPS FX algorithm with SMA was non-inferior to its use with CC in youth and young adults with type 1 diabetes. ClinicalTrials.gov NCT05481034. The study was supported by the Swiss Diabetes Foundation and by a YTCR grant from the Bangerter-Rhyner Foundation and the Swiss Academy of Medical Sciences. Dexcom and Ypsomed provided product support.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2025
+- DOI: 10.1007/s00125-024-06319-w
+
+2. Keywords
+- Devices
+- Diabetes in childhood
+- Nutrition and diet
+
+3. Key Findings
+- The study was supported by the Swiss Diabetes Foundation and by a YTCR grant from the Bangerter-Rhyner Foundation and the Swiss Academy of Medical Sciences
+
+This study provides insights into:
+- Devices assessment methods and outcomes
+- Diabetes in childhood assessment methods and outcomes
+- Nutrition and diet assessment methods and outcomes

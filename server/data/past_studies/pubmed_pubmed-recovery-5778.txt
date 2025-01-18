@@ -1,0 +1,20 @@
+Study Title: Effects of Low-Level Light Therapy on Resting-State Connectivity Following Moderate Traumatic Brain Injury: Secondary Analyses of a Double-blinded Placebo-controlled Study.
+
+Study Summary:
+Background Low-level light therapy (LLLT) has been shown to modulate recovery in patients with traumatic brain injury (TBI). However, the impact of LLLT on the functional connectivity of the brain when at rest has not been well studied. Purpose To use functional MRI to assess the effect of LLLT on whole-brain resting-state functional connectivity (RSFC) in patients with moderate TBI at acute (within 1 week), subacute (2-3 weeks), and late-subacute (3 months) recovery phases. Materials and Methods This is a secondary analysis of a prospective single-site double-blinded sham-controlled study conducted in patients presenting to the emergency department with moderate TBI from November 2015 to July 2019. Participants were randomized for LLLT and sham treatment. The primary outcome of the study was to assess structural connectivity, and RSFC was collected as the secondary outcome. MRI was used to measure RSFC in 82 brain regions in participants during the three recovery phases. Healthy individuals who did not receive treatment were imaged at a single time point to provide control values. The Pearson correlation coefficient was estimated to assess the connectivity strength for each brain region pair, and estimates of the differences in Fisher-transformed correlation coefficients (hereafter,differences) were compared between recovery phases and treatment groups using a linear mixed-effects regression model. These analyses were repeated for all brain region pairs. False discovery rate (FDR)-adjustedvalues were computed to account for multiple comparisons. Quantile mixed-effects models were constructed to quantify the association between the Rivermead Postconcussion Symptoms Questionnaire (RPQ) score, recovery phase, and treatment group. Results RSFC was evaluated in 17 LLLT-treated participants (median age, 50 years [IQR, 25-67 years]; nine female), 21 sham-treated participants (median age, 50 years [IQR, 43-59 years]; 11 female), and 23 healthy control participants (median age, 42 years [IQR, 32-54 years]; 13 male). Seven brain region pairs exhibited a greater change in connectivity in LLLT-treated participants than in sham-treated participants between the acute and subacute phases (range ofdifferences, 0.37 [95% CI: 0.20, 0.53] to 0.45 [95% CI: 0.24, 0.67]; FDR-adjustedvalue range, .010-.047). Thirteen different brain region pairs showed an increase in connectivity in sham-treated participants between the subacute and late-subacute phases (range ofdifferences, 0.17 [95% CI: 0.09, 0.25] to 0.26 [95% CI: 0.14, 0.39]; FDR-adjustedvalue range, .020-.047). There was no evidence of a difference in clinical outcomes between LLLT-treated and sham-treated participants (range of differences in medians, -3.54 [95% CI: -12.65, 5.57] to -0.59 [95% CI: -7.31, 8.49];value range, .44-.99), as measured according to RPQ scores. Conclusion Despite the small sample size, the change in RSFC from the acute to subacute phases of recovery was greater in LLLT-treated than sham-treated participants, suggesting that acute-phase LLLT may have an impact on resting-state neuronal circuits in the early recovery phase of moderate TBI. ClinicalTrials.gov Identifier: NCT02233413 &#xa9; RSNA, 2024
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1148/radiol.230999
+
+2. Keywords
+
+
+3. Key Findings
+- Thirteen different brain region pairs showed an increase in connectivity in sham-treated participants between the subacute and late-subacute phases (range ofdifferences, 0
+
+This study provides insights into:
+- General research methodology and outcomes

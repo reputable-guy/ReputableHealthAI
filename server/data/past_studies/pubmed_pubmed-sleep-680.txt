@@ -1,0 +1,25 @@
+Study Title: Effectiveness of an online recovery training for employees exposed to blurred boundaries between work and non-work: Bayesian analysis of a randomised controlled trial.
+
+Study Summary:
+Blurred work-non-work boundaries can have negative effects on mental health, including sleep. In a randomised control trial, we aimed to assess the effectiveness of an online recovery training programme designed to improve symptoms of insomnia in a working population exposed to blurred boundaries. 128 participants with severe insomnia symptoms (Insomnia Severity Index &#x2265;15) and working under blurred work and non-work conditions (segmentation supplies <2.25) were randomly assigned to either the recovery intervention or a waitlist control group (WLC). The primary outcome was insomnia severity, assessed at baseline, after 2&#x2009;months (T2) and 6&#x2009;months (T3). A greater reduction in insomnia was observed in the intervention compared with the WLC group at both T2 (=1.51; 95% CI=1.12 o 1.91) and T3 (=1.63; 95% CI=1.23 to 2.03]. This was shown by Bayesian analysis of covariance (ANCOVA), whereby the ANCOVA model yielded the highest Bayes factor (=3.23&#xd7;e] and a 99.99% probability. Likewise, frequentist analysis revealed significantly reduced insomnia at both T2 and T3. Beneficial effects were found for secondary outcomes including depression, work-related rumination, and mental detachment from work. Study attrition was 16% at T2 and 44% at T3. The recovery training was effective in reducing insomnia symptoms, work related and general indicators of mental health in employees exposed to blurred boundaries, both at T2 and T3. In addition to demonstrating the intervention's effectiveness, this study exemplifies the utilisation of the Bayesian approach in a clinical context and shows its potential to empower recipients of interventional research by offering insights into result probabilities, enabling them to draw informed conclusions. German Clinical Trial Registration (DRKS): DRKS00006223, https://drks.de/search/de/trial/DRKS00006223.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1136/bmjment-2024-301016
+
+2. Keywords
+- Data Interpretation, Statistical
+- Depression & mood disorders
+- Sleep
+
+3. Key Findings
+- Likewise, frequentist analysis revealed significantly reduced insomnia at both T2 and T3
+- Beneficial effects were found for secondary outcomes including depression, work-related rumination, and mental detachment from work
+
+This study provides insights into:
+- Data Interpretation, Statistical assessment methods and outcomes
+- Depression & mood disorders assessment methods and outcomes
+- Sleep assessment methods and outcomes

@@ -1,0 +1,20 @@
+Study Title: A nutritional biomarker score of the Mediterranean diet and incident type 2 diabetes: Integrated analysis of data from the MedLey randomised controlled trial and the EPIC-InterAct case-cohort study.
+
+Study Summary:
+Self-reported adherence to the Mediterranean diet has been modestly inversely associated with incidence of type 2 diabetes (T2D) in cohort studies. There is uncertainty about the validity and magnitude of this association due to subjective reporting of diet. The association has not been evaluated using an objectively measured biomarker of the Mediterranean diet. We derived a biomarker score based on 5 circulating carotenoids and 24 fatty acids that discriminated between the Mediterranean or habitual diet arms of a parallel design, 6-month partial-feeding randomised controlled trial (RCT) conducted between 2013 and 2014, the MedLey trial (128 participants out of 166 randomised). We applied this biomarker score in an observational study, the European Prospective Investigation into Cancer and Nutrition (EPIC)-InterAct case-cohort study, to assess the association of the score with T2D incidence over an average of 9.7 years of follow-up since the baseline (1991 to 1998). We included 22,202 participants, of whom 9,453 were T2D cases, with relevant biomarkers from an original case-cohort of 27,779 participants sampled from a cohort of 340,234 people. As a secondary measure of the Mediterranean diet, we used a score estimated from dietary-self report. Within the trial, the biomarker score discriminated well between the 2 arms; the cross-validated C-statistic was 0.88 (95% confidence interval (CI) 0.82 to 0.94). The score was inversely associated with incident T2D in EPIC-InterAct: the hazard ratio (HR) per standard deviation of the score was 0.71 (95% CI: 0.65 to 0.77) following adjustment for sociodemographic, lifestyle and medical factors, and adiposity. In comparison, the HR per standard deviation of the self-reported Mediterranean diet was 0.90 (95% CI: 0.86 to 0.95). Assuming the score was causally associated with T2D, higher adherence to the Mediterranean diet in Western European adults by 10 percentiles of the score was estimated to reduce the incidence of T2D by 11% (95% CI: 7% to 14%). The study limitations included potential measurement error in nutritional biomarkers, unclear specificity of the biomarker score to the Mediterranean diet, and possible residual confounding. These findings suggest that objectively assessed adherence to the Mediterranean diet is associated with lower risk of T2D and that even modestly higher adherence may have the potential to reduce the population burden of T2D meaningfully. Australian New Zealand Clinical Trials Registry (ANZCTR) ACTRN12613000602729 https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=363860.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1371/journal.pmed.1004221
+
+2. Keywords
+
+
+3. Key Findings
+- The study limitations included potential measurement error in nutritional biomarkers, unclear specificity of the biomarker score to the Mediterranean diet, and possible residual confounding
+
+This study provides insights into:
+- General research methodology and outcomes

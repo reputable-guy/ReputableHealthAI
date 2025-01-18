@@ -1,0 +1,25 @@
+Study Title: A Pilot Study on the Functional Stability of Phonation in EEG Bands After Repetitive Transcranial Magnetic Stimulation in Parkinson's Disease.
+
+Study Summary:
+Parkinson's disease (PD) is a neurodegenerative condition with constantly increasing prevalence rates, affecting strongly life quality in terms of neuromotor and cognitive performance. PD symptoms include voice and speech alterations, known as hypokinetic dysarthria (HD). Unstable phonation is one of the manifestations of HD. Repetitive transcranial magnetic stimulation (rTMS) is a rehabilitative treatment thathas been shown to improve some motor and non-motor symptoms of persons with PD (PwP). This study analyzed the phonation functional behavior of 18 participants (13 males, 5 females) with PD diagnosis before (one pre-stimulus) and after (four post-stimulus) evaluation sessions of rTMS treatment, to assess the extent of changes in their phonation stability. Participants were randomized 1:1 to receive either rTMS or sham stimulation. Voice recordings of a sustained vowel [a:] taken immediately before and after the treatment, and at follow-up evaluation sessions (immediately after, at six, ten, and fourteen weeks after the baseline assessment) were processed by inverse filtering to estimate a biomechanical correlate of vocal fold tension. This estimate was further band-pass filtered into EEG-related frequency bands. Log-likelihood ratios (LLRs) between pre- and post-stimulus amplitude distributions of each frequency band showed significant differences in five cases actively stimulated. Seven cases submitted to the sham protocol did not show relevant improvements in phonation instability. Conversely, four active cases did not show phonation improvements, whereas two sham cases did. The study provides early preliminary insights into the capability of phonation quality assessment by monitoring neuromechanical activity from acoustic signals in frequency bands aligned with EEG ones.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1142/S0129065723500284
+
+2. Keywords
+- Parkinson&#x2019;s disease
+- acoustical EEG activity monitoring
+- functional quality assessment of phonation
+- repetitive transcranial magnetic stimulation
+
+3. Key Findings
+- Log-likelihood ratios (LLRs) between pre- and post-stimulus amplitude distributions of each frequency band showed significant differences in five cases actively stimulated
+
+This study provides insights into:
+- Parkinson&#x2019;s disease assessment methods and outcomes
+- acoustical EEG activity monitoring assessment methods and outcomes
+- functional quality assessment of phonation assessment methods and outcomes

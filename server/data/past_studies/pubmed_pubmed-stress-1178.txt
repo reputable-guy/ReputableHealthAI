@@ -1,0 +1,24 @@
+Study Title: Animal Wellness: The Power of Multiomics and Integrative Strategies: Multiomics in Improving Animal Health.
+
+Study Summary:
+The livestock industry faces significant challenges, with disease outbreaks being a particularly devastating issue. These diseases can disrupt the food supply chain and the livelihoods of those involved in the sector. To address this, there is a growing need to enhance the health and well-being of livestock animals, ultimately improving their performance while minimizing their environmental impact. To tackle the considerable challenge posed by disease epidemics, multiomics approaches offer an excellent opportunity for scientists, breeders, and policymakers to gain a comprehensive understanding of animal biology, pathogens, and their genetic makeup. This understanding is crucial for enhancing the health of livestock animals. Multiomic approaches, including phenomics, genomics, epigenomics, metabolomics, proteomics, transcriptomics, microbiomics, and metaproteomics, are widely employed to assess and enhance animal health. High-throughput phenotypic data collection allows for the measurement of various fitness traits, both discrete and continuous, which, when mathematically combined, define the overall health and resilience of animals, including their ability to withstand diseases. Omics methods are routinely used to identify genes involved in host-pathogen interactions, assess fitness traits, and pinpoint animals with disease resistance. Genome-wide association studies (GWAS) help identify the genetic factors associated with health status, heat stress tolerance, disease resistance, and other health-related characteristics, including the estimation of breeding value. Furthermore, the interaction between hosts and pathogens, as observed through the assessment of host gut microbiota, plays a crucial role in shaping animal health and, consequently, their performance. Integrating and analyzing various heterogeneous datasets to gain deeper insights into biological systems is a challenging task that necessitates the use of innovative tools. Initiatives like MiBiOmics, which facilitate the visualization, analysis, integration, and exploration of multiomics data, are expected to improve prediction accuracy and identify robust biomarkers linked to animal health. In this review, we discuss the details of multiomics concerning the health and well-being of livestock animals.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1155/2024/4125118
+
+2. Keywords
+- animal health
+- livestock
+- multiomics
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- animal health assessment methods and outcomes
+- livestock assessment methods and outcomes
+- multiomics assessment methods and outcomes

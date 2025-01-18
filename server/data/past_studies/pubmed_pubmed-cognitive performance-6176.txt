@@ -1,0 +1,27 @@
+Study Title: An at-home evaluation of a light intervention to mitigate sleep inertia symptoms.
+
+Study Summary:
+Under laboratory settings, light exposure upon waking at night improves sleep inertia symptoms. We investigated whether a field-deployable light source would mitigate sleep inertia in a real-world setting. Thirty-six participants (18 female; 26.6 years&#xa0;&#xb1;&#xa0;6.1) completed an at-home, within-subject, randomized crossover study. Participants were awoken 45&#xa0;minutes after bedtime and wore light-emitting glasses with the light either on (light condition) or off (control). A visual 5-minute psychomotor vigilance task, Karolinska sleepiness scale, alertness and mood scales, and a 3-minute auditory/verbal descending subtraction task were performed at 2, 12, 22, and 32&#xa0;minutes after awakening. Participants then went back to sleep and were awoken after 45&#xa0;minutes for the opposite condition. A series of mixed-effect models were performed with fixed effects of test bout, condition, test bout&#xa0;&#xd7;&#xa0;condition, a random effect of the participant, and relevant covariates. Participants rated themselves as more alert (p&#xa0;=&#xa0;.01) and energetic (p&#xa0;=&#xa0;.001) in the light condition compared to the control condition. There was no effect of condition for descending subtraction task outcomes when including all participants, but there was a significant improvement in descending subtraction task total responses in the light condition in the subset of participants waking from N3 (p&#xa0;=&#xa0;.03). There was a significant effect of condition for psychomotor vigilance task outcomes, with faster responses (p&#xa0;<&#xa0;.001) and fewer lapses (p&#xa0;<&#xa0;.001) in the control condition. Our findings suggest that light modestly improves self-rated alertness and energy after waking at home regardless of sleep stage, with lower aggression and improvements to working memory only after waking from N3. Contrary to laboratory studies, we did not observe improved performance on the psychomotor vigilance task. Future studies should include measures of visual acuity and comfort to assess the feasibility of interventions in real-world settings.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.sleh.2023.07.015
+
+2. Keywords
+- Cognitive performance
+- Countermeasure
+- On-call
+- Postawakening
+- Shift work
+- Sleep-wake transition
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Cognitive performance assessment methods and outcomes
+- Countermeasure assessment methods and outcomes
+- On-call assessment methods and outcomes

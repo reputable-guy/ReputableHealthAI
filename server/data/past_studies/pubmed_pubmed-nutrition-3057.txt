@@ -1,0 +1,27 @@
+Study Title: Efficacy of a WeChat-Based, Multidisciplinary, Full-Course Nutritional Management Program on the Nutritional Status of Patients With Ovarian Cancer Undergoing Chemotherapy: Randomized Controlled Trial.
+
+Study Summary:
+As the most malignant type of cancer in the female reproductive system, ovarian cancer (OC) has become the second leading cause of death among Chinese women. Chemotherapy is the main treatment for patients with OC, and its numerous adverse effects can easily lead to malnutrition. It is difficult to centrally manage patients with OC in the intervals between chemotherapy. The use of WeChat, an effective mobile tool, in chronic disease management has been highlighted. This study aimed to implement a continuous follow-up strategy and health monitoring based on the WeChat platform for patients with OC undergoing chemotherapy to ensure that each phase of chemotherapy was delivered on schedule and to improve the survival rate of patients with OC. Participants were recruited and randomly assigned to either the WeChat-based nutrition intervention group or the usual care group. A self-administered general information questionnaire was used at enrollment to obtain basic information about the patients. The Patient-Generated Subjective Global Assessment (PG-SGA) Scale was used to investigate the nutritional status of the patients at 3 time points (T0=before the first admission to the hospital for chemotherapy, T1=2 weeks after the first chemotherapy, and T6=2 weeks after the sixth chemotherapy). The blood indices of patients were investigated through the inhospital health care system at 3 times&#xff08;T0=before the first admission to the hospital for chemotherapy, T1=2 weeks after the first chemotherapy, and T6=2 weeks after the sixth chemotherapy). Patients in the intervention group were introduced to the nutrition applet, invited to join the nutrition management group chat, and allowed to consult on nutritional issues in private chats with nutrition management team members. Linear mixed models were used to analyze changes in each nutritional indicator in the 2 groups, with their baseline measurements as covariates; with group, time, and group-time interactions considered as fixed effects; and with patients considered as random effects. A total of 96 patients with OC undergoing chemotherapy were recruited into the study. Distribution was based on a 1:1 ratio, with 48 patients each in the nutrition intervention group and the usual care group. The attrition rate after the first chemotherapy session was 18.75%. The mixed linear model revealed that the group-based effect and the group-time interaction effect on PG-SGA scores were significant (F38,38=4.763, P=.03; F37,37=6.368, P=.01), whereas the time-based effect on PG-SGA scores was not (F38,38=0.377; P=.54). The findings indicated that the group-based effect, the time-based effect, and the group-time interaction effect on nutrition-inflammation composite indices were significant (F38,38=7.653, P=.006; F38,38=13.309, P<.001; F37,37=92.304, P<.001; F37,38=110.675, P<.001; F38,38=10.379, P=.002; and F37,37=5.289, P=.02). This study provided evidence that a WeChat-based, multidisciplinary, full-course nutritional management program can significantly improve the nutritional status of patients with OC during chemotherapy.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/56475
+
+2. Keywords
+- WeChat
+- chemotherapy
+- mobile health
+- nutrition management
+- ovarian cancer
+
+3. Key Findings
+- The mixed linear model revealed that the group-based effect and the group-time interaction effect on PG-SGA scores were significant (F38,38=4
+- The findings indicated that the group-based effect, the time-based effect, and the group-time interaction effect on nutrition-inflammation composite indices were significant (F38,38=7
+
+This study provides insights into:
+- WeChat assessment methods and outcomes
+- chemotherapy assessment methods and outcomes
+- mobile health assessment methods and outcomes

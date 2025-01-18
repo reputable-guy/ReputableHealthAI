@@ -1,0 +1,24 @@
+Study Title: Plasma arginine as a predictive biomarker for outcomes with immune checkpoint inhibition in metastatic colorectal cancer: a correlative analysis of the CCTG CO.26 trial.
+
+Study Summary:
+Nutritional stress is a mechanism that allows tumor cells to evade the immune system. Arginine (ARG), an amino acid involved in immunomodulation, aids in regulating T-lymphocyte cell activity and the antitumor response. ARG deficiency in the tumor microenvironment can impair T-cell response while ARG supplementation may promote antitumor immune activity. In this exploratory post hoc analysis of the randomized phase II CO.26 trial, we investigated the role of plasma ARG in predicting response to immune checkpoint inhibitors (ICI) in patients with microsatellite stable refractory metastatic colorectal cancer (mCRC). CO.26 randomized patients with refractory mCRC to durvalumab plus tremelimumab (D+T) versus best supportive care (BSC). Plasma ARG concentrations were determined from pretreatment blood samples using high-performance liquid chromatography-tandem mass spectrometry. The median plasma ARG value was used as a cut-off stratifying patients into ARG-high (&#x2265;10&#x2009;700&#x2009;ng/mL) versus ARG-low (<10&#x2009;700&#x2009;ng/mL) groups. Overall survival (OS) was estimated using the Kaplan-Meier method and compared using the log-rank test. Cox proportional hazard models were used to analyze the prognostic and predictive impacts of ARG on OS. Of 180 patients enrolled in CO.26, 161 (N=114 treated with D+T&#x2009;and 47 BSC) had pretreatment blood samples for ARG analysis. There were no significant differences in baseline characteristics between patients included in this analysis and the total study patients, or between ARG-high and ARG-low patients. In the BSC arm, the median OS was 3.09 months for ARG-high versus 4.27 months for ARG-low patients (univariable HR 0.89 (0.49-1.65), p=0.72). In the D+T&#x2009;arm, the median OS was 7.62 months for ARG-high versus 5.27 months for ARG-low patients (univariable HR 0.68, (0.48-1.0], p=0.048). In ARG-high patients, D+T significantly improved OS (median OS 7.62 months with D+T&#x2009;vs 3.09 months BSC; HR 0.61 (0.37-0.99), p=0.047; adjusted p=0.042 for interaction). In ARG-low patients there was no OS benefit with D+T (median OS 5.27 months D+T&#x2009;vs 4.27 months BSC; HR 0.87 (0.52-1.46), p=0.61). High baseline plasma ARG was predictive of improved OS in patients with mCRC treated with D+T. Further investigations are needed to validate ARG as a biomarker. Therapeutic approaches targeting the ARG pathway may augment ICI activity. NCT02870920.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1136/jitc-2024-010094
+
+2. Keywords
+- Biomarker
+- Colorectal Cancer
+- Immune Checkpoint Inhibitors
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Biomarker assessment methods and outcomes
+- Colorectal Cancer assessment methods and outcomes
+- Immune Checkpoint Inhibitors assessment methods and outcomes

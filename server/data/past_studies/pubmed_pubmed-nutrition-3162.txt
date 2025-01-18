@@ -1,0 +1,27 @@
+Study Title: Healthcare LLMs Go to Market: A Realist Review of Product Launch News.
+
+Study Summary:
+We provide a realist review of product launches for Large Language Models (LLMs) in the healthcare industry. Through a systematic search in the Factiva database and the application of a Context, Intervention, Mechanism, Outcome (CIMO) framework, we identified and assessed 23 significant records, representing 17 unique product launches between January 2023 and February 2024. This manuscript contributes to the emerging literature on health LLMs and Generative AI by focusing on actual product launches of healthcare LLM products-a less explored aspect than theoretical potential. Our use of the CIMO framework to dissect the application of LLMs in healthcare adds a fresh perspective to the discourse, helping to understand the outcomes and the mechanisms driving these outcomes. Among the LLM application themes that emerged from our review, we focused on four primary themes: Clinical Care and Health Services, Healthcare Documentation and Data Management, Insurance and Healthcare Financial Services, and Nutrition, Wellness, and Chronic Disease Management. Our findings demonstrate LLMs' potential to transform patient care through personalization and efficiency, highlighting their role in enhancing healthcare delivery systems, reducing administrative burdens, and supporting decision-making processes. Specific implementations by health start-ups and large tech firms discussed in this paper underscore the immediate impact of these technologies on patient care and healthcare management. This realist model offers a new perspective on LLMs within healthcare, providing an empirical basis for future technological integration and policy development in digital health. Our study contributes to understanding how LLMs operate within the healthcare sector, emphasizing the importance of context in their successful deployment and serving as a strategic guide for future AI integration in sensitive healthcare services.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3233/SHTI240513
+
+2. Keywords
+- Digital Health Innovation
+- Generative Artificial Intelligence
+- Healthcare
+- Large Language Models
+- Product Launch Analysis
+- Realist Review
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Digital Health Innovation assessment methods and outcomes
+- Generative Artificial Intelligence assessment methods and outcomes
+- Healthcare assessment methods and outcomes

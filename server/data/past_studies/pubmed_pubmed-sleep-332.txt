@@ -1,0 +1,28 @@
+Study Title: Acupuncture modulates emotional network resting-state functional connectivity in patients with insomnia disorder: a randomized controlled trial and fMRI study.
+
+Study Summary:
+Insomnia disorder (ID) is one of the most common sleep problems, usually accompanied by anxiety and depression symptoms. Functional magnetic resonance imaging (fMRI) study suggests that both poor sleep quality and negative emotion are linked to the dysregulation of brain network related to emotion processing in ID patients. Acupuncture therapy has been proven effective in improving sleep quality and mood of ID patients, but the involved neurobiological mechanism remains unclear. We aimed to investigate the modulation effect of acupuncture on resting-state functional connectivity (rsFC) of the emotional network (EN) in patients experiencing insomnia. A total of 30 healthy controls (HCs) and 60 ID patients were enrolled in this study. Sixty ID patients were randomly assigned to real and sham acupuncture groups and attended resting-state fMRI scans before and after 4 weeks of acupuncture treatment. HCs completed an MRI/fMRI scan at baseline. The rsFC values within EN were calculated, and Hamilton Anxiety Scale (HAMA), Hamilton Depression Scale (HAMD), Pittsburgh Sleep Quality Index (PSQI), Hyperarousal Scale (HAS), and actigraphy data were collected for clinical efficacy evaluation. Resting-state FC analysis showed abnormalities in rsFC centered on the thalamus and dorsolateral prefrontal cortex within EN of ID patients compared to HCs. After real acupuncture treatment, rsFC of the anterior cingulate cortex, hippocampus, and amygdala were increased compared with the sham acupuncture group (p&#x2009;<&#x2009;0.05, FDR corrected). In real acupuncture group, the rsFC value was decreased between left amygdala and left thalamus after 4 weeks of treatment compared with baseline. A trend of correlation was found that the increased rsFC value between the right amygdala and left hippocampus was positively correlated with the decreased HAMA scores across all ID patients, and the decreased left amygdala rsFC value with the left thalamus was negatively correlated with the increased sleep efficiency in the real acupuncture group. Our findings showed that real acupuncture could produce a positive effect on modulating rsFC within network related to emotion processing in ID patients, which may illustrate the central mechanism underlying acupuncture for insomnia in improving sleep quality and emotion regulation. http://www.chictr.org.cn ., ChiCTR1800015282, 20/03/2018.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s12906-024-04612-0
+
+2. Keywords
+- Acupuncture
+- Emotional network
+- Functional magnetic resonance imaging (fMRI)
+- Insomnia disorder
+- Resting-state functional connectivity (rsFC)
+
+3. Key Findings
+- Resting-state FC analysis showed abnormalities in rsFC centered on the thalamus and dorsolateral prefrontal cortex within EN of ID patients compared to HCs
+- A trend of correlation was found that the increased rsFC value between the right amygdala and left hippocampus was positively correlated with the decreased HAMA scores across all ID patients, and the decreased left amygdala rsFC value with the left thalamus was negatively correlated with the increased sleep efficiency in the real acupuncture group
+- Our findings showed that real acupuncture could produce a positive effect on modulating rsFC within network related to emotion processing in ID patients, which may illustrate the central mechanism underlying acupuncture for insomnia in improving sleep quality and emotion regulation
+
+This study provides insights into:
+- Acupuncture assessment methods and outcomes
+- Emotional network assessment methods and outcomes
+- Functional magnetic resonance imaging (fMRI) assessment methods and outcomes

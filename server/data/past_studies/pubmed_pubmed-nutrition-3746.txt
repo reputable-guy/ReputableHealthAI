@@ -1,0 +1,28 @@
+Study Title: Development and validation of a prediction model based on machine learning algorithms for predicting the risk of heart failure in middle-aged and older US people with prediabetes or diabetes.
+
+Study Summary:
+The purpose of this study was to develop and validate a machine learning (ML) based prediction model for the risk of heart failure (HF) in patients with prediabetes or diabetes. We used 3527 subjects aged 40 years and older with a prior diagnosis of prediabetes or diabetes from the National Health and Nutrition Examination Survey (NHANES) from 2007 to 2018. The search for independent risk variables linked to HF was conducted using univariate and multivariable logistic regression analysis. The 3527 subjects were randomly divided into training set and validation set in a 7:3 ratio. Five ML models were built on the training set using five ML algorithms, including random forest (RF), and then validated on the validation set. Receiver operating characteristic (ROC) curves, calibration curves, and decision curve analysis and Bootstrap resampling method were used to measure the predictive performance of the five ML models. Multivariate logistic regression analysis showed that age, poverty-to-income ratio, myocardial infarction condition, coronary heart disease condition, chest pain condition, and glucose-lowering medication use were independent predictors of HF. By comparing the performance of the five ML models, the RF model (AUC&#x2009;=&#x2009;0.978) was the best prediction model. The risk of HF in middle-aged and elderly patients with prediabetes or diabetes can be accurately predicted using ML models. The best prediction performance is presented by RF model, which can assist doctors in making clinical decisions.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1002/clc.24104
+
+2. Keywords
+- NHANES
+- diabetes
+- heart failure
+- machine learning
+- national health and nutrition survey
+- prediabetes
+- prediction model
+
+3. Key Findings
+- Multivariate logistic regression analysis showed that age, poverty-to-income ratio, myocardial infarction condition, coronary heart disease condition, chest pain condition, and glucose-lowering medication use were independent predictors of HF
+
+This study provides insights into:
+- NHANES assessment methods and outcomes
+- diabetes assessment methods and outcomes
+- heart failure assessment methods and outcomes

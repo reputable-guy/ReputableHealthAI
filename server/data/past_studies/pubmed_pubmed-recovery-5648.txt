@@ -1,0 +1,26 @@
+Study Title: Photobiomodulation Treatment with a Home-Use Device for COVID-19: A Randomized Controlled Trial for Efficacy and Safety.
+
+Study Summary:
+Photobiomodulation therapy (PBMT) using devices to deliver red and/or near-infrared light to tissues has shown promising effects in clinical settings for respiratory diseases, including potential benefits in managing symptoms associated with COVID-19.To determine if at-home self-administered PBMT for patients with COVID-19 is safe and effective.This was a randomized controlled trial (RCT) carried out at home during the COVID-19 pandemic (September 2020 to August 2021). The treatment group self-administered the Vielight RX Plus PBMT device (635 nm intranasal and 810 nm chest LEDs) and were monitored remotely. Eligible patients scored 4-7 (out of 7) for severity on the Wisconsin Upper Respiratory Symptom Survey (WURSS-44). Patients were randomized equally to Control group receiving standard-of-care (SOC) only or Treatment group receiving SOC plus PBMT. The device was used for 20 min 2X/day for 5 days and, subsequently, once daily for 30 days. The primary end-point was time-to-recovery (days) based on WURSS-44 question 1, "How sick do you feel today?". Subgroup analysis was performed, and Kaplan-Meier and Cox Proportional Hazards analysis were employed.One hundred and ninety-nine eligible patients (18-65 years old) were divided into two subgroups as follows: 136 patients with 0-7 days of symptoms at baseline and 63 patients with 8-12 days of symptoms. Those with 0-7 days of symptoms at baseline recovered significantly faster with PBMT. The median for Treatment group was 18 days [95% confidence interval (CI), 13-20] versus the Control group 21 days (95% CI, 15-28),= 0.050. The treatment:control hazard ratio was 1.495 (95% CI, 0.996-2.243),= 0.054. Patients with symptom duration &#x2265;7 days did not show any significant improvement. No deaths or severe adverse events (SAEs) occurred in the Treatment group, whereas there was 1 death and 3 SAEs requiring hospitalization in the Control group.Patients with &#x2264;7 days of COVID-19 symptoms recovered significantly faster with PBMT compared to SOC. Beyond 7 days, PBMT showed no superiority over SOC.ClinicalTrials.gov NCT04418505.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1089/pho.2023.0179
+
+2. Keywords
+- COVID-19
+- Vielight
+- clinical trial
+- home-use device
+- photobiomodulation
+
+3. Key Findings
+- Beyond 7 days, PBMT showed no superiority over SOC
+
+This study provides insights into:
+- COVID-19 assessment methods and outcomes
+- Vielight assessment methods and outcomes
+- clinical trial assessment methods and outcomes

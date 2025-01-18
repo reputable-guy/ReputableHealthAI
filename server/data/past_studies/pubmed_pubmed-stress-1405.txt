@@ -1,0 +1,60 @@
+Study Title: Integrating Health and Disability Data Into Academic Information Systems: Workflow Optimization Study.
+
+Study Summary:
+Integrating health information into university information systems holds significant potential for enhancing student support and well-being. Despite the growing body of research highlighting issues faced by university students, including stress, depression, and disability, little has been done in the informatics field to incorporate health technologies at the institutional level. This study aims to investigate the current state of health information integration within university systems and provide design recommendations to address existing gaps and opportunities. We used a user-centered approach to conduct interviews and focus group sessions with stakeholders to gather comprehensive insights and requirements for the system. The methodology involved data collection, analysis, and the development of a suggested workflow. The findings of this study revealed the shortcomings in the current process of handling health and disability data within university information systems. In our results, we discuss some requirements identified for integrating health-related information into student information systems, such as privacy and confidentiality, timely communication, task automation, and disability resources. We propose a workflow that separates the process into 2 distinct components: a health and disability system and measures of quality of life and wellness. The proposed workflow highlights the vital role of academic advisors in facilitating support and enhancing coordination among stakeholders. To streamline the workflow, it is vital to have effective coordination among stakeholders and redesign the university information system. However, implementing the new system will require significant capital and resources. We strongly emphasize the importance of increased standardization and regulation to support the information system requirements for health and disability. Through the adoption of standardized practices and regulations, we can ensure the smooth and effective implementation of the required support system.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/54859
+
+2. Keywords
+- academic system
+- admin staff
+- administrative staff
+- advisor
+- advisors
+- analysis
+- confidentiality
+- data collection
+- development
+- disability
+- disability data
+- faculty
+- focus group
+- health data
+- health informatics
+- health information
+- health measures
+- health-related
+- interview
+- interviews
+- physician
+- physicians
+- privacy
+- quality of life
+- resources
+- student
+- student health
+- student system
+- students
+- support
+- support system
+- task automation
+- thematic analysis
+- timely communication
+- university setting
+- university system
+- user-centered
+- well-being
+- wellness
+
+3. Key Findings
+- The findings of this study revealed the shortcomings in the current process of handling health and disability data within university information systems
+
+This study provides insights into:
+- academic system assessment methods and outcomes
+- admin staff assessment methods and outcomes
+- administrative staff assessment methods and outcomes

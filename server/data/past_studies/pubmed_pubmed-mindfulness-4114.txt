@@ -1,0 +1,26 @@
+Study Title: Predicting psychosocial intervention response from baseline gene expression.
+
+Study Summary:
+To address the challenge of predicting psychological response to a psychosocial intervention we tested the possibility that baseline gene expression profiles might provide information above and beyond baseline psychometric measures. The genomics strategy utilized individual level inferences of transcription factor activity to predict changes in loneliness and affect in response to two well-established meditation interventions. Initial algorithm development analyses focused on three a-priori defined stress-related gene regulation pathways (CREB, GR, and NF-&#x138;B) as inferred from TELiS promoter-based bioinformatic analysis of basal (pre-intervention) blood samples from a randomized-controlled trial comparing a compassion-based meditation (CM, n&#xa0;=&#xa0;45) with mindfulness meditation (MM, n&#xa0;=&#xa0;44). Greater baseline CREB activity (but not GR or NF-&#x138;B) predicted greater reductions from pre- to post-intervention in loneliness (b&#xa0;=&#xa0;-0.24, p&#xa0;=&#xa0;0.016) and negative emotions (b&#xa0;=&#xa0;-0.23, p&#xa0;=&#xa0;0.017) for CM, but not for MM. A second algorithm validation analysis applied the same approach to another randomized controlled trial comparing CM (n&#xa0;=&#xa0;42) with MM (n&#xa0;=&#xa0;38) and a health education control condition (n&#xa0;=&#xa0;41). Similarly, greater baseline CREB activity predicted greater pre- to post-intervention decreases in loneliness (b&#xa0;=&#xa0;-0.24, p&#xa0;=&#xa0;0.029) and greater increases in satisfaction with life (b&#xa0;=&#xa0;0.21, p&#xa0;=&#xa0;0.046) for the CM condition only. Baseline CREB activity was not associated with baseline psychometric measures in either study. Results raise the possibility that pre-intervention gene expression profiles may reflect non-conscious psychobiological states that affect psychological responses to distinct psychosocial interventions, and thereby help personalize intervention selection.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.bbi.2024.08.004
+
+2. Keywords
+- Clinical Psychology
+- Conserved Transcriptional Response to Adversity (CTRA)
+- Personalized Psychotherapy
+- Psychiatry
+- Social Genomics
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Clinical Psychology assessment methods and outcomes
+- Conserved Transcriptional Response to Adversity (CTRA) assessment methods and outcomes
+- Personalized Psychotherapy assessment methods and outcomes

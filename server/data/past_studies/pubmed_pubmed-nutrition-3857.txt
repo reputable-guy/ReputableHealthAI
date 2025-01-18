@@ -1,0 +1,26 @@
+Study Title: Longitudinal self-learning of individualized treatment rules in a nutrient supplementation trial with missing data.
+
+Study Summary:
+Longitudinal outcomes are prevalent in clinical studies, where the presence of missing data may make the statistical learning of individualized treatment rules (ITRs) a much more challenging task. We analyzed a longitudinal calcium supplementation trial in the ELEMENT Project and established a novel ITR to reduce the risk of adverse outcomes of lead exposure on child growth and development. Lead exposure, particularly in the form of in utero exposure, can seriously impair children's health, especially their cognitive and neurobehavioral development, which necessitates clinical interventions such as calcium supplementation intake during pregnancy. Using the longitudinal outcomes from a randomized clinical trial of calcium supplementation, we developed a new ITR for daily calcium intake during pregnancy to mitigate persistent lead exposure in children at age 3 years. To overcome the technical challenges posed by missing data, we illustrate a new learning approach, termed longitudinal self-learning (LS-learning), that utilizes longitudinal measurements of child's blood lead concentration in the derivation of ITR. Our LS-learning method relies on a temporally weighted self-learning paradigm to synergize serially correlated training data sources. The resulting ITR is the first of this kind in precision nutrition that will contribute to the reduction of expected blood lead concentration in children aged 0-3 years should this ITR be implemented to the entire study population of pregnant women.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1002/sim.9766
+
+2. Keywords
+- DOHaD hypothesis
+- machine learning
+- missing endpoint
+- precision health
+- support vector machine
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- DOHaD hypothesis assessment methods and outcomes
+- machine learning assessment methods and outcomes
+- missing endpoint assessment methods and outcomes

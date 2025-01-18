@@ -1,0 +1,28 @@
+Study Title: A randomized controlled mHealth trial that evaluates social comparison-oriented gamification to improve physical activity, sleep quantity, and quality of life in young adults.
+
+Study Summary:
+The integration of gamification in mHealth interventions presents a novel approach to enhance user engagement and health outcomes. This study aims to evaluate whether comparison-oriented gamification can effectively improve various aspects of health and well-being, including physical activity, sedentary behavior, sleep, and overall quality of life among young adults. Potential 107 young adults (from 19 to 28 years old) participated in an 8-week trial. Participants were assigned to either a gamified mHealth intervention (LevantApp) with daily leaderboards and progress bars (n&#xa0;=&#xa0;53, 26&#xa0;% dropped-out), or a control condition without gamification (n&#xa0;=&#xa0;52, 29&#xa0;% dropped-out). Physical activity (number of steps, moderate and moderate-to-vigorous physical activity -MVPA-) and sleep quantity were measured objectively via accelerometry and subjectively using the International Physical Activity Questionnaire(IPAQ), Pittsburgh Sleep Quality Index(PSQI), Sedentary Behavior Questionnaire(SBQ), and Short Form Health Survey(SF-36). This mHealth intervention with social comparison-oriented gamification significantly improved moderate physical activity to a greater extent than the control group. Additionally, the intervention group showed improvements in the number of steps, moderate physical activity, sedentary time, emotional wellbeing, and social functioning. However, no significant group by time interaction was observed. No significant differences were observed in sleep quality or quantity. s: The LevantApp gamified mHealth intervention was effective in improving moderate physical activity, physical functioning, and role-emotional in young adults. No significant effects were found on step counts, MVPA or sleep, suggesting that while gamification can enhance specific aspects of physical activity and quality of life, its impact may vary across different outcomes.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.psychsport.2024.102590
+
+2. Keywords
+- Motivation
+- Physical activity
+- Sedentary behavior
+- Steps
+- Wearable device
+- mHealth
+
+3. Key Findings
+- Additionally, the intervention group showed improvements in the number of steps, moderate physical activity, sedentary time, emotional wellbeing, and social functioning
+- No significant effects were found on step counts, MVPA or sleep, suggesting that while gamification can enhance specific aspects of physical activity and quality of life, its impact may vary across different outcomes
+
+This study provides insights into:
+- Motivation assessment methods and outcomes
+- Physical activity assessment methods and outcomes
+- Sedentary behavior assessment methods and outcomes

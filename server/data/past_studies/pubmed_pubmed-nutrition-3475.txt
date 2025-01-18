@@ -1,0 +1,30 @@
+Study Title: Adaptation of nutritional risk screening tools may better predict response to nutritional treatment: a secondary analysis of the randomized controlled trial Effect of early nutritional therapy on Frailty, Functional Outcomes, and Recovery of malnourished medical inpatients Trial (EFFORT).
+
+Study Summary:
+Nutritional screening tools have proven valuable for predicting clinical outcomes but have failed to determine which patients would be most likely to benefit from nourishment interventions. The Nutritional Risk Screening 2002 (NRS) and the Mini Nutritional Assessment (MNA) are 2 of these tools, which are based on both nutritional parameters and parameters reflecting disease severity. We hypothesized that the adaptation of nutritional risk scores, by removing parameters reflecting disease severity, would improve their predictive value regarding response to a nutritional intervention while providing similar prognostic information regarding mortality at short and long terms. We reanalyzed data of 2028 patients included in the Swiss-wide multicenter, randomized controlled trial EFFORT (Effect of early nutritional therapy on Frailty, Functional Outcomes, and Recovery of malnourished medical inpatients Trial) comparing individualized nutritional support with usual care nutrition in medical inpatients. The primary endpoint was 30-d all-cause mortality. Although stratifying patients by high compared with low NRS score showed no difference in response to nutritional support, patients with high adapted NRS showed substantial benefit, whereas patients with low adapted NRS showed no survival benefit [adjusted hazard ratio: 0.55 [95% confidence interval (CI): 0.37, 0.80]] compared with 1.17 (95% CI: 0.70, 1.93), a finding that was significant in an interaction analysis [coefficient: 0.48 (95% CI: 0.25, 0.94), P = 0.031]. A similar effect regarding treatment response was found when stratifying patients on the basis of MNA compared with the adapted MNA. Regarding the prognostic performance, both original scores were slightly superior in predicting mortality than the adapted scores. Adapting the NRS and MNA by including nutritional parameters only improves their ability to predict response to a nutrition intervention, but slightly reduces their overall prognostic performance. Scores dependent on disease severity may best be considered prognostic scores, whereas nutritional risk scores not including parameters reflecting disease severity may indeed improve a more personalized treatment approach for nourishment interventions. The trial was registered at clinicaltrials.gov as NCT02517476.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.ajcnut.2024.01.013
+
+2. Keywords
+- clinical outcome
+- disease-related malnutrition
+- mortality
+- nutritional risk screening
+- nutritional support
+- personalized nutrition
+- polymorbid medical inpatient
+- treatment response
+
+3. Key Findings
+- Although stratifying patients by high compared with low NRS score showed no difference in response to nutritional support, patients with high adapted NRS showed substantial benefit, whereas patients with low adapted NRS showed no survival benefit [adjusted hazard ratio: 0
+- A similar effect regarding treatment response was found when stratifying patients on the basis of MNA compared with the adapted MNA
+
+This study provides insights into:
+- clinical outcome assessment methods and outcomes
+- disease-related malnutrition assessment methods and outcomes
+- mortality assessment methods and outcomes

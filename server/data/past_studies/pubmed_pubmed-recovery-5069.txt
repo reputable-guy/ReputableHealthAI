@@ -1,0 +1,26 @@
+Study Title: Assessing advances in three decades of clinical antiretroviral therapy on the HIV-1 reservoir.
+
+Study Summary:
+BACKGROUNDAntiretroviral therapy (ART) has improved the clinical management of HIV-1 infection. However, little is known about how the latest ART recommendations affect the heterogeneity of the HIV-1 reservoir size.METHODSWe used a complete statistical approach to outline parameters underlying the diversity in HIV-1 reservoir size in a cohort of 892 people with HIV-1 (PWH) on suppressive ART for more than 3 years. Total HIV-1-DNA levels were measured in PBMCs using digital droplet PCR (ddPCR).RESULTSWe classified 179 (20%) participants as being low viral reservoir treated (LoViReT) (<50 HIV-1-DNA copies/106 PBMCs). Twenty variables were collected to explore their association with the LoViReT phenotype using machine learning approaches. LoViReT status was closely associated with higher nadir CD4, lower zenith pre-ART viral load, lower CD4 recovery, shorter time from diagnosis to undetectable viral load, and initiation of treatment with an integrase inhibitor-containing (InSTI-containing) regimen. Initiation of ART with any InSTI was also linked with a shorter time to undetectable viremia. Locally estimated scatterplot smoothing (LOESS) regression revealed a progressive reduction in the size of the HIV-1 reservoir in individuals who started ART after 2007. Similarly, a higher nadir CD4 and a shorter time to undetectable viremia were observed when treatment was initiated after that year.CONCLUSIONOur findings demonstrate that the progressive implementation of earlier, universal treatment at diagnosis and the use of InSTIs affected the size of the HIV-1 reservoir. Our work shows that effective management of infection is the first step toward reducing the reservoir and brings us closer to achieving a cure.FUNDINGNIH; Division of AIDS at the National Institute of Allergy and Infectious Diseases (NIAID), NIH; Merck Sharp & Dohme.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2025
+- DOI: 10.1172/JCI183952
+
+2. Keywords
+- AIDS/HIV
+- Drug therapy
+- Medical statistics
+- Molecular pathology
+- Virology
+
+3. Key Findings
+- Locally estimated scatterplot smoothing (LOESS) regression revealed a progressive reduction in the size of the HIV-1 reservoir in individuals who started ART after 2007
+
+This study provides insights into:
+- AIDS/HIV assessment methods and outcomes
+- Drug therapy assessment methods and outcomes
+- Medical statistics assessment methods and outcomes

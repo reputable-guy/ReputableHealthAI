@@ -1,0 +1,27 @@
+Study Title: Depression Predicts Chronic Pain Interference in Racially Diverse, Income-Disadvantaged Patients.
+
+Study Summary:
+Chronic pain is one of the most common reason adults seek medical care in the United States, with prevalence estimates ranging from 11% to 40%. Mindfulness meditation has been associated with significant improvements in pain, depression, physical and mental health, sleep, and overall quality of life. Group medical visits are increasingly common and are effective at treating myriad illnesses, including chronic pain. Integrative Medical Group Visits (IMGV) combine mindfulness techniques, evidence based integrative medicine, and medical group visits and can be used as adjuncts to medications, particularly in diverse underserved populations with limited access to non-pharmacological therapies. The objective of the present study was to use a blended analytical approach of machine learning and regression analyses to evaluate the potential relationship between depression and chronic pain in data from a randomized clinical trial of IMGV in diverse, income-disadvantaged patients suffering from chronic pain and depression. The analytical approach used machine learning to assess the predictive relationship between depression and pain and identify and select key mediators, which were then assessed with regression analyses. It was hypothesized that depression would predict the pain outcomes of average pain, pain severity, and pain interference. Our analyses identified and characterized a predictive relationship between depression and chronic pain interference. This prediction was mediated by high perceived stress, low pain self-efficacy, and poor sleep quality, potential targets for attenuating the adverse effects of depression on functional outcomes. In the context of the associated clinical trial and similar interventions, these insights may inform future treatment optimization, targeting, and application efforts in racialized, income-disadvantaged populations, demographics often neglected in studies of chronic pain.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1093/pm/pnab342
+
+2. Keywords
+- Chronic Pain
+- Depression
+- Pain Interference
+- Self-Efficacy
+- Sleep
+- Stress
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Chronic Pain assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Pain Interference assessment methods and outcomes

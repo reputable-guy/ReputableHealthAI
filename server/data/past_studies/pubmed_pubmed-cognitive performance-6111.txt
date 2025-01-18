@@ -1,0 +1,29 @@
+Study Title: Accelerating P300-based neurofeedback training for attention enhancement using iterative learning control: a randomised controlled trial.
+
+Study Summary:
+. Neurofeedback (NFB) training through brain-computer interfacing has demonstrated efficacy in treating neurological deficits and diseases, and enhancing cognitive abilities in healthy individuals. It was previously shown that event-related potential (ERP)-based NFB training using a P300 speller can improve attention in healthy adults by incrementally increasing the difficulty of the spelling task. This study aims to assess the impact of task difficulty adaptation on ERP-based attention training in healthy adults. To achieve this, we introduce a novel adaptation employing iterative learning control (ILC) and compare it against an existing method and a control group with random task difficulty variation.. The study involved 45 healthy participants in a single-blind, three-arm randomised controlled trial. Each group underwent one NFB training session, using different methods to adapt task difficulty in a P300 spelling task: two groups with personalised difficulty adjustments (our proposed ILC and an existing approach) and one group with random difficulty. Cognitive performance was evaluated before and after the training session using a visual spatial attention task and we gathered participant feedback through questionnaires.. All groups demonstrated a significant performance improvement in the spatial attention task post-training, with an average increase of 12.63%. Notably, the group using the proposed iterative learning controller achieved a 22% increase in P300 amplitude during training and a 17% reduction in post-training alpha power, all while significantly accelerating the training process compared to other groups.. Our results suggest that ERP-based NFB training using a P300 speller effectively enhances attention in healthy adults, with significant improvements observed after a single session. Personalised task difficulty adaptation using ILC not only accelerates the training but also enhances ERPs during the training. Accelerating NFB training, while maintaining its effectiveness, is vital for its acceptability by both end-users and clinicians.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1088/1741-2552/ad2c9e
+
+2. Keywords
+- attention
+- brain&#x2013;computer interface
+- cognitive training
+- electroencephalography
+- event-related potential
+- iterative learning control
+- neurofeedback training
+
+3. Key Findings
+- Neurofeedback (NFB) training through brain-computer interfacing has demonstrated efficacy in treating neurological deficits and diseases, and enhancing cognitive abilities in healthy individuals
+- All groups demonstrated a significant performance improvement in the spatial attention task post-training, with an average increase of 12
+
+This study provides insights into:
+- attention assessment methods and outcomes
+- brain&#x2013;computer interface assessment methods and outcomes
+- cognitive training assessment methods and outcomes

@@ -1,0 +1,25 @@
+Study Title: Stress Drives Soccer Athletes'&#xa0;Wellness and Movement: Using Convergent Cross-Mapping to Identify Causal Relationships in a Dynamic Environment.
+
+Study Summary:
+Prediction of athlete wellness is difficult-or, many sports-medicine practitioners and scientists would argue, impossible. Instead, one settles for correlational relationships of variables gathered at fixed moments in time. The issue may be an inherent mismatch between usual methods of data collection and analysis and the complex nature of the variables governing athlete wellness. Variables such as external load, stress, muscle soreness, and sleep quality may affect each other and wellness in a dynamic, nonlinear, way over time. In such an environment, traditional data-collection methods and statistics will fail to capture causal effects. If we are to move this area of sport science forward, a different approach is required. We analyzed data from 2 different soccer teams that showed no significance between player load and wellness or among individual measures of wellness. Our analysis used methods of attractor reconstruction to examine possible causal relationships between GPS/accelerometer-measured external training load and wellness variables. Our analysis showed that player self-rated stress, a component of wellness, seems a fundamental driving variable. The influence of stress is so great that stress can predict other components of athlete wellness, and, in turn, self-rated stress can be predicted by observing a player's load data. We demonstrate the ability of nonlinear methods to identify interactions between and among variables to predict future athlete stress. These relationships are indicative of the causal relationships playing out in athlete wellness over the course of a soccer season.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1123/ijspp.2024-0007
+
+2. Keywords
+- attractor reconstruction
+- football
+- prediction
+
+3. Key Findings
+- We analyzed data from 2 different soccer teams that showed no significance between player load and wellness or among individual measures of wellness
+- Our analysis showed that player self-rated stress, a component of wellness, seems a fundamental driving variable
+
+This study provides insights into:
+- attractor reconstruction assessment methods and outcomes
+- football assessment methods and outcomes
+- prediction assessment methods and outcomes

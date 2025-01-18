@@ -1,0 +1,26 @@
+Study Title: Analysis of mandibular jaw movements to assess ventilatory support management of children with obstructive sleep apnea syndrome treated with positive airway pressure therapies.
+
+Study Summary:
+The polysomnography (PSG) is the gold-standard for obstructive sleep apnea (OSA) syndrome diagnosis and assessment under positive airway pressure (PAP) therapies in children. Recently, an innovative digital medicine solution, including a mandibular jaw movement (MJM) sensor coupled with&#xa0;automated analysis, has been validated as an alternative to PSG for pediatric application. This study aimed to assess the reliability of MJM&#xa0;automated analysis for the assessment of residual apnea/hypopnea events during sleep in children with OSA treated with noninvasive ventilation (NIV) or continuous PAP&#xa0;(CPAP). In this open-label prospective non-randomized multicentric trial, we included children aged from 5 to 18 years with a diagnosis of severe OSA. The children underwent in-laboratory PSG with simultaneous MJM monitoring and at-home recording with MJM monitoring 3 months later. Agreement between PSG and MJM analysis in measuring the residual apnea-hypopnea index (AHI) was evaluated by the Bland-Altman method. The treatment effect on residual AHI was estimated for both PSG and MJM analysis. Fifteen (60% males) children were included with a median age of 12 years [interquartile range 8-15]. Two (17%) were ventilated with NIV and 13 (83%) with CPAP. There was a good agreement between MJM-AHI and PSG-AHI with a median bias of -0.25 (95% CI: -3.40 to +2.04) events/h. The reduction in AHI under treatment was consistently significant across the three measurement methods: in-laboratory PSG&#xa0;and MJM recordings in the laboratory and at home. Automated analysis of MJM is a highly reliable alternative method to assess residual events in a small population treated with PAP therapies.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1002/ppul.27005
+
+2. Keywords
+- continuous positive airway pressure
+- machine learning
+- mandibular jaw movement
+- noninvasive ventilation
+- pediatric obstructive sleep apnea
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- continuous positive airway pressure assessment methods and outcomes
+- machine learning assessment methods and outcomes
+- mandibular jaw movement assessment methods and outcomes

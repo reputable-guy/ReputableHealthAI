@@ -1,0 +1,21 @@
+Study Title: Comparing the brief Holistic Health for HIV (3H+) to the Holistic Health Recovery Program (HHRP+) among people with HIV and opioid use disorder: Results from a randomized, controlled non-inferiority trial.
+
+Study Summary:
+Few evidence-based interventions have been widely adopted in common clinical settings, particularly for opioid-dependent people with HIV (PWH) seeking drug treatment. We developed a brief evidence-based intervention, Holistic Health for HIV (3H+), specifically for ease of implementation and integration within drug treatment settings. In this study, we compared 3H+ to the gold standard, Holistic Health Recovery Program (HHRP+) using a non-inferiority trial. Between 2012 and 2017, 106 participants were randomly assigned to either the brief 3H+ intervention or the gold standard HHRP+. HIV treatment (ART adherence, viral suppression) and risk behaviors (sharing injection equipment, condom use) were compared between the two arms at baseline, end-of-intervention (EOI-12 weeks) and at follow-up (24 weeks). Average treatment effect was calculated based on the difference-in-difference (DID) estimator and a non-parametric bootstrap was used to assess non-inferiority. At the 12-week EOI point, 3H+ was found to be non-inferior to HHRP+ with respect to multiple outcomes: percent sharing syringes and needles (DID:1.4, 95%CI [-18.6,21.5], p<0.01) and attainment of high ART adherence (DID: 9.7, 95%CI: [-13.1, 32.2], p = 0.04). At the 24-week EOI point, 3H+ was found to be non-inferior to HHRP+ with respect to percent sharing syringes and needles (DID: 8.9, [-10.1, 28.30], p = 0.04) and attainment of viral suppression (DID: 18.9, 95% CI:[-7.1, 42.0], p = 0.01). For other indicators, such as consistent condom use, the hypothesis test for non-inferiority was inconclusive at the 12-week EOI (DID: -20.2, 95%CI [-48.9-10.7], p = 0.51). For HIV treatment as prevention to be effective, PWH need to achieve viral suppression. In the absence of this success, they must reduce HIV risk behaviors. The finding that 3H+ was non-inferior to HHRP+ suggests that brief behavioral interventions can be deployed in real world settings to help more efficiently achieve Ending the HIV Epidemic goals.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1371/journal.pone.0312165
+
+2. Keywords
+
+
+3. Key Findings
+- At the 12-week EOI point, 3H+ was found to be non-inferior to HHRP+ with respect to multiple outcomes: percent sharing syringes and needles (DID:1
+- At the 24-week EOI point, 3H+ was found to be non-inferior to HHRP+ with respect to percent sharing syringes and needles (DID: 8
+
+This study provides insights into:
+- General research methodology and outcomes

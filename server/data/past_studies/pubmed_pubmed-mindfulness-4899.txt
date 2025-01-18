@@ -1,0 +1,27 @@
+Study Title: Interoception Underlies Therapeutic Effects of Mindfulness Meditation for Posttraumatic Stress Disorder: A Randomized Clinical Trial.
+
+Study Summary:
+Mindfulness-based interventions have proven efficacy in treating posttraumatic stress disorder (PTSD), but the neurobiological mechanism underlying the therapeutic effects is unknown. As mindfulness meditation cultivates attention to the present moment and bodily sensations, neural functions related to interoception (i.e., central processes of bodily signals) might be such a mechanism. We conducted a clinical trial in which veterans with PTSD were randomly assigned to receive an 8-week mindfulness-based stress reduction (MBSR) intervention (n&#xa0;= 47) or an active control intervention (present-centered group therapy; n&#xa0;= 51). We assessed pre- and postintervention PTSD symptoms and electroencephalography measures of neural outcomes, including spontaneous brain activity, cognitive task-related brain responses, and interoceptive brain responses (heartbeat-evoked brain responses). We conducted statistical causal mediation analyses using treatment type as a predictor, pre- and postintervention measures of symptom severity as treatment response, and the neural outcomes as mediators. Compared with the control group, the MBSR group had greater improvements in PTSD symptoms and increases in spontaneous alpha power (8-13 Hz), task-related frontal theta power (4-7 Hz in 140-220 ms after stimulus), and frontal theta heartbeat-evoked brain responses (3-5 Hz and 265-336 ms after R peak). The mediation analysis using latent difference score modeling revealed that only changes in frontal theta heartbeat-evoked brain responses mediated the MBSR treatment effect. Mindfulness meditation improves brain functions of attentional control and resting brain states reflective of internally oriented relaxation. However, interoceptive neural functions enhanced by MBSR seem to be a primary cerebral mechanism that improves symptoms of PTSD.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1016/j.bpsc.2021.10.005
+
+2. Keywords
+- EEG
+- Interoception
+- Meditation
+- Mindfulness
+- Neurobiological mechanism
+- Posttraumatic stress disorder
+
+3. Key Findings
+- The mediation analysis using latent difference score modeling revealed that only changes in frontal theta heartbeat-evoked brain responses mediated the MBSR treatment effect
+
+This study provides insights into:
+- EEG assessment methods and outcomes
+- Interoception assessment methods and outcomes
+- Meditation assessment methods and outcomes

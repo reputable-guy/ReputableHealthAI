@@ -1,0 +1,26 @@
+Study Title: Mediterranean Diet Adherence and Depressive Symptoms among a Nationally Representative Sample of Pregnant Women in the United States.
+
+Study Summary:
+Prenatal depression affects &#x223c;12% of pregnant women in the United States and is associated with an increased risk of adverse birth outcomes and maternal mortality. Adherence to a healthy dietary pattern may reduce and/or protect against depressive symptoms. To investigate the relationship between adherence to a Mediterranean diet and depressive symptoms among pregnant women in the United States. We used data from the National Health and Nutrition Examination Survey (2005-2018, N = 540) and included pregnant women aged 18-44 y with a positive urine pregnancy test. The Mediterranean diet score (aMED) was calculated from 1 24-h recall; aMED typically ranges from 0-9, but in these analyses, it ranged from 0-8 because alcohol was not included. The aMED score was dichotomized as high (>3) compared with low (&#x2264;3). The Patient Health Questionnaire-9 (PHQ-9), which measures depressive symptoms, was dichotomized as lower compared with higher (PHQ-9 score &#x2265;10), based on the clinical cutoff for patient referral. Our primary model employed logistic regression to investigate the association between aMED adherence and high depressive symptoms when controlling for socio-demographics (age, racial/ethnicity, education, poverty, and relationship status), total calories, and prepregnancy body mass index (kg/m). We also modeled the PHQ-9 score as a continuous variable using a random-effects model. About 5% of pregnant women had moderate to severe depressive symptoms, and 45% were highly adherent to a Mediterranean diet. Higher adherence to a Mediterranean diet was associated with lower odds of depressive symptoms (odds ratio: 0.31, 95% confidence interval: 0.10, 0.98). Results were not significant for the continuous PHQ-9 score (&#x3b2;: -0.30; 95% confidence interval: -0.90, 0.30). Adherence to a Mediterranean diet may have the potential to lower depressive symptoms among pregnant women; however, these results should be interpreted with caution. Nevertheless, considering the public health significance of promoting mental wellness among pregnant women, this relationship merits further examination using experimental designs.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1016/j.tjnut.2023.08.022
+
+2. Keywords
+- Mediterranean diet
+- NHANES
+- depression
+- pregnancy
+- prenatal depression
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Mediterranean diet assessment methods and outcomes
+- NHANES assessment methods and outcomes
+- depression assessment methods and outcomes

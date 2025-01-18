@@ -1,0 +1,22 @@
+Study Title: The impact of restricting sleep duration on physical activity: Secondary analysis of a randomized crossover study.
+
+Study Summary:
+This study investigated the causal impact of sleep durations on participants' physical activity (PA) in real-world conditions. We performed a secondary analysis of PA data from 146 young adults using a randomized crossover design: both restricted (5-6 hr/night) and well-rested (8-9 hr/night) sleep weeks were assessed, with a washout week in between. Sleep and activity were tracked via research-grade actigraphy. Data analysis of PA involved repeated-measures analysis of variance (ANOVA) and regression techniques. Analysis plans and hypothesis were preregistered before data analysis. The exogenously assigned sleep restriction (SR) treatment reduced nightly sleep an average of 92.65 min (&#xb1; 40.44 min) compared to one's well-rested sleep treatment. The impact of SR on PA was substantial, leading to a 7% reduction in average hourly PA: 18,081.2 (well-rested) versus 16,818.2 (restricted sleep). Significant findings were revealed in daily,(1, 6) = 84.37,< .001, &#x3b7;&#xb2; = 0.934, and hourly comparisons,(1, 166) = 30.47,< .001, &#x3b7;&#xb2; = 0.155. Further, sensitivity analysis using a variety of regression specifications also found that exogenously assigned SR decreased average wake-hour activity counts by approximately 4.4%-4.7% (< .01 in all cases) when controlling for other factors. Exploratory analysis showed the PA effects of SR manifested via reductions in PA intensity with concurrent increases in the proportion of time considered as sedentary. SR significantly lowered PA by around 7%, characterized by reduced intensity and elevated sedentary behavior in a naturalistic setting. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1037/hea0001360
+
+2. Keywords
+
+
+3. Key Findings
+- Significant findings were revealed in daily,(1, 6) = 84
+- Further, sensitivity analysis using a variety of regression specifications also found that exogenously assigned SR decreased average wake-hour activity counts by approximately 4
+- Exploratory analysis showed the PA effects of SR manifested via reductions in PA intensity with concurrent increases in the proportion of time considered as sedentary
+
+This study provides insights into:
+- General research methodology and outcomes

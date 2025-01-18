@@ -1,0 +1,28 @@
+Study Title: Exercise-changed gut mycobiome as a potential contributor to metabolic benefits in diabetes prevention: an integrative multi-omics study.
+
+Study Summary:
+The importance of gut microbes in mediating the benefits of lifestyle intervention is increasingly recognized. However, compared to the bacterial microbiome, the role of intestinal fungi in exercise remains elusive. With our established randomized controlled trial of exercise intervention in Chinese males with prediabetes (&#x2009;=&#x2009;39, ClinicalTrials.gov:NCT03240978), we investigated the dynamics of human gut mycobiome and further interrogated their associations with exercise-elicited outcomes using multi-omics approaches. Clinical variations and biological samples were collected before and after training. Fecal fungal composition was analyzed using the internal transcribed spacer 2 (ITS2) sequencing and integrated with paired shotgun metagenomics, untargeted metabolomics, and Olink proteomics. Twelve&#x2009;weeks of exercise training profoundly promoted fungal ecological diversity and intrakingdom connection. We further identified exercise-responsive genera with potential metabolic benefits, including Verticillium, Sarocladium, and Ceratocystis. Using multi-omics approaches, we elucidated comprehensive associations between changes in gut mycobiome and exercise-shaped metabolic phenotypes, bacterial microbiome, and circulating metabolomics and proteomics profiles. Furthermore, a machine-learning algorithm built using baseline microbial signatures and clinical characteristics predicted exercise responsiveness in improvements of insulin sensitivity, with an area under the receiver operating characteristic (AUROC) of 0.91 (95% CI: 0.85-0.97) in the discovery cohort and of 0.79 (95% CI: 0.74-0.86) in the independent validation cohort (&#x2009;=&#x2009;30). Our findings suggest that intense exercise training significantly remodels the human fungal microbiome composition. Changes in gut fungal composition are associated with the metabolic benefits of exercise, indicating gut mycobiome is a possible molecular transducer of exercise. Moreover, baseline gut fungal signatures predict exercise responsiveness for diabetes prevention, highlighting that targeting the gut mycobiome emerges as a prospective strategy in tailoring personalized training for diabetes prevention.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1080/19490976.2024.2416928
+
+2. Keywords
+- Gut mycobiome
+- diabetes prevention
+- exercise training
+- fungal microbiome
+- intervention responsiveness
+- multi-omics
+- randomized controlled trial
+
+3. Key Findings
+- Twelve&#x2009;weeks of exercise training profoundly promoted fungal ecological diversity and intrakingdom connection
+
+This study provides insights into:
+- Gut mycobiome assessment methods and outcomes
+- diabetes prevention assessment methods and outcomes
+- exercise training assessment methods and outcomes

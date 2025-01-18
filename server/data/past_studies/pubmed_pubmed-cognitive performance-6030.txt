@@ -1,0 +1,26 @@
+Study Title: tDCS-enhanced cognitive training improves attention and alters connectivity in control and somatomotor networks: A triple blind study.
+
+Study Summary:
+Executive dysfunction such as inattention or forgetfulness can lead to disruptions in a person's daily functioning and quality of life. This triple-blinded randomized clinical trial assessed the efficacy of bifrontal (over the forehead) transcranial direct current stimulation (tDCS) concurrent with cognitive training to improve cognitive performance in a healthy sample. Fifty-eight participants were randomly assigned to one of three stimulation conditions (2 mA left anode-right cathode, 2 mA right anode-left cathode, or sham), which was administered with cognitive training tasks 3x/week over 12 weeks with assessments at baseline, midpoint (6 weeks), and post-training (12 weeks). We assessed cognitive performance, functional connectivity, and the influence of individual differences in training advancement. Forty participants completed training. We found that at midpoint and post, all groups improved significantly on overall cognitive performance. The left anode group's attention & vigilance score improved significantly at post, but the other two groups did not. Greater attention training advancement predicted attention improvement by post, most notably in the left anode group. Finally, within-network connectivity decreased in the control network and increased in the somatomotor network across all groups. These results suggest that, given cognitive training, the left anode montage is more effective at improving attention than the right anode montage and sham. Future research may focus on the application of the left anode montage during cognitive training to assess its effectiveness in improving cognition in neuropsychiatric disorders.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.neuroimage.2024.120792
+
+2. Keywords
+- Attention
+- Cognition
+- Non-invasive brain stimulation
+- Transcranial direct current stimulation
+- fMRI
+
+3. Key Findings
+- We found that at midpoint and post, all groups improved significantly on overall cognitive performance
+
+This study provides insights into:
+- Attention assessment methods and outcomes
+- Cognition assessment methods and outcomes
+- Non-invasive brain stimulation assessment methods and outcomes

@@ -1,0 +1,22 @@
+Study Title: Postoperative Innate Immune Dysregulation, Proteomic, and Monocyte Epigenomic Changes After Colorectal Surgery: A Substudy of a Randomized Controlled Trial.
+
+Study Summary:
+Colorectal surgery is associated with moderate-to-severe postoperative complications in over 25% of patients, predominantly infections. Monocyte epigenetic alterations leading to immune tolerance could explain postoperative increased susceptibility to infections. This research explores whether changes in monocyte DNA accessibility contribute to postoperative innate immune dysregulation. Damage-associated molecular patterns (DAMPs) and ex vivo cytokine production capacity were measured in a randomized controlled trial (n = 100) in colorectal surgery patients, with additional exploratory subgroup proteomic (proximity extension assay; Olink) and epigenomic analyses (Assay for Transposase-Accessible Chromatin [ATAC sequencing]). Monocytes of healthy volunteers were used to study the effect of high-mobility group box 1 (HMGB1) and heat shock protein 70 (HSP70) on cytokine production capacity in vitro. Plasma DAMPs were increased after surgery. HMGB1 showed a mean 235% increase from before- (preop) to the end of surgery (95% confidence interval [CI] [166 - 305], P < .0001) and 90% increase (95% CI [63-118], P = .0004) preop to postoperative day 1 (POD1). HSP70 increased by a mean 12% from preop to the end of surgery (95% CI [3-21], not significant) and 30% to POD1 (95% CI [18-41], P < .0001). Nuclear deoxyribonucleic acid (nDNA) increases by 66% (95% CI [40-92], P < .0001) at the end of surgery and 94% on POD1 (95% CI [60-127], P < .0001). Mitochondrial DNA (mtDNA) increases by 370% at the end of surgery (95% CI [225-515], P < .0001) and by 503% on POD1 (95% CI [332-673], P < .0001). In vitro incubation of monocytes with HSP70 decreased cytokine production capacity of tumor necrosis factor (TNF) by 46% (95% CI [29-64], P < .0001), IL-6 by 22% (95% CI [12-32], P = .0004) and IL-10 by 19% (95% CI [12-26], P = .0015). In vitro incubation with HMGB1 decreased cytokine production capacity of TNF by 34% (95% CI [3-65], P = .0003), interleukin 1&#x3b2; (IL-1&#x3b2;) by 24% (95% CI [16-32], P < .0001), and IL-10 by 40% (95% CI [21-58], P = .0009). Analysis of the inflammatory proteome alongside epigenetic shifts in monocytes indicated significant changes in gene accessibility, particularly in inflammatory markers such as CXCL8 (IL-8), IL-6, and interferon-gamma (IFN-&#x3b3;). A significant enrichment of interferon regulatory factors (IRFs) was found in loci exhibiting decreased accessibility, whereas enrichment of activating protein-1 (AP-1) family motifs was found in loci with increased accessibility. These findings illuminate the complex epigenetic modulation influencing monocytes' response to surgical stress, shedding light on potential biomarkers for immune dysregulation. Our results advocate for further research into the role of anesthesia in these molecular pathways and the development of personalized interventions to mitigate immune dysfunction after surgery.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1213/ANE.0000000000007297
+
+2. Keywords
+
+
+3. Key Findings
+- HMGB1 showed a mean 235% increase from before- (preop) to the end of surgery (95% confidence interval [CI] [166 - 305], P <
+- Analysis of the inflammatory proteome alongside epigenetic shifts in monocytes indicated significant changes in gene accessibility, particularly in inflammatory markers such as CXCL8 (IL-8), IL-6, and interferon-gamma (IFN-&#x3b3;)
+- A significant enrichment of interferon regulatory factors (IRFs) was found in loci exhibiting decreased accessibility, whereas enrichment of activating protein-1 (AP-1) family motifs was found in loci with increased accessibility
+
+This study provides insights into:
+- General research methodology and outcomes

@@ -1,0 +1,30 @@
+Study Title: Participants' Engagement With and Results From a Web-Based Integrative Population Mental Wellness Program (CHAMindWell) During the COVID-19 Pandemic: Program Evaluation Study.
+
+Study Summary:
+The COVID-19 pandemic involved a prolonged period of collective trauma and stress during which substantial increases in mental health concerns, like depression and anxiety, were observed across the population. In this context, CHAMindWell was developed as a web-based intervention to improve resilience and reduce symptom severity among a public health care system's patient population. This program evaluation was conducted to explore participants' engagement with and outcomes from CHAMindWell by retrospectively examining demographic information and mental health symptom severity scores throughout program participation. We examined participants' symptom severity scores from repeated, web-based symptom screenings through Computerized Adaptive Testing for Mental Health (CAT-MH) surveys, and categorized participants into symptom severity-based tiers (tier 1=asymptomatic to mild; tier 2=moderate; and tier 3=severe). Participants were provided tier-based mindfulness resources, treatment recommendations, and referrals. Logistic regressions were conducted to evaluate associations between demographic variables and survey completion. The McNemar exact test and paired sample t tests were performed to evaluate changes in the numbers of participants in tier 1 versus tier 2 or 3 and changes in depression, anxiety, and posttraumatic stress disorder severity scores between baseline and follow-up. The program enrolled 903 participants (664/903, 73.5% female; 556/903, 61.6% White; 113/903, 12.5% Black; 84/903, 9.3% Asian; 7/903, 0.8% Native; 36/903, 4% other; and 227/903, 25.1% Hispanic) between December 16, 2020, and March 17, 2022. Of those, 623 (69%) completed a baseline CAT-MH survey, and 196 completed at least one follow-up survey 3 to 6 months after baseline. White racial identity was associated with completing baseline CAT-MH (odds ratio [OR] 1.80, 95% CI 1.14-2.84; P=.01). Participants' odds of having symptom severity below the clinical threshold (ie, tier 1) were significantly greater at follow-up (OR 2.60, 95% CI 1.40-5.08; P=.001), and significant reductions were observed across symptom domains over time. CHAMindWell is associated with reduced severity of mental health symptoms. Future work should aim to address program engagement inequities and attrition and compare the impacts of CHAMindWell to a control condition to better characterize its effects.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/48112
+
+2. Keywords
+- COVID-19 pandemic
+- digital psychiatry
+- early identification
+- integrative medicine
+- mental wellness
+- mindfulness
+- population mental health
+- prevention
+- stratified care
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- COVID-19 pandemic assessment methods and outcomes
+- digital psychiatry assessment methods and outcomes
+- early identification assessment methods and outcomes

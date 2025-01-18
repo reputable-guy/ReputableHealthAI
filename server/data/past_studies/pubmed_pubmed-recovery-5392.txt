@@ -1,0 +1,26 @@
+Study Title: Favipiravir for COVID-19 in adults in the community in PRINCIPLE, an open-label, randomised, controlled, adaptive platform trial of short- and longer-term outcomes.
+
+Study Summary:
+Evidence for the effect of favipiravir treatment of acute COVID-19 on recovery, hospital admissions and longer-term outcomes in community settings is limited. In this multicentre. open-label, multi-arm, adaptive platform randomised controlled trial participants aged &#x2265;18 years in the community with a positive test for SARS-CoV-2 and symptoms lasting &#x2264;14 days were randomised to: usual care; usual care plus favipiravir tablets (loading dose of 3600&#xa0;mg in divided doses on day one, then 800&#xa0;mg twice a day for four days); or, usual care plus other interventions. Co-primary endpoints were time to first self-reported recovery and hospitalisation/death related to COVID-19, within 28 days, analysed using Bayesian models. Recovery at six months was the primary longer-term outcome. ISRCTN86534580. The primary analysis model included 8811 SARS-CoV-2 positive mostly COVID vaccinated participants, randomised to favipiravir (n&#xa0;=&#xa0;1829), usual care (n&#xa0;=&#xa0;3256), and other treatments (n&#xa0;=&#xa0;3726). Time to self-reported recovery was shorter in the favipiravir group than usual care (estimated hazard ratio 1&#xb7;23 [95% credible interval 1&#xb7;14 to 1&#xb7;33]), a reduction of 2&#xb7;98 days [1&#xb7;99 to 3&#xb7;94] from 16 days in median time to self-reported recovery for favipiravir versus usual care alone. COVID-19 related hospitalisations/deaths were similar (estimated odds ratio 0&#xb7;99 [0&#xb7;61 to 1&#xb7;61]; estimated difference 0% [-0&#xb7;9% to 0&#xb7;6%]). 14 serious adverse events occurred in the favipiravir group and 4 in usual care. By six months, the proportion feeling fully recovered was 74&#xb7;9% for favipiravir versus 71&#xb7;3% for usual care (RR = 1&#xb7;05, [1&#xb7;02 to 1&#xb7;08]). In this open-label trial in a largely vaccinated population with COVID-19 in the community, favipiravir did not reduce hospital admissions, but shortened time to recovery and had a marginal positive impact on long term outcomes.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.jinf.2024.106248
+
+2. Keywords
+- COVID-19
+- Clinical trial
+- Favipiravir
+- Long-term follow-up
+- SARS-CoV2
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- COVID-19 assessment methods and outcomes
+- Clinical trial assessment methods and outcomes
+- Favipiravir assessment methods and outcomes

@@ -1,0 +1,25 @@
+Study Title: Paroxysmal slow wave events are associated with cognitive impairment in patients with obstructive sleep apnea.
+
+Study Summary:
+Increasing evidence has supported a link between obstructive sleep apnea (OSA) and cognition, and blood-brain barrier (BBB) dysfunction which can be reflected by paroxysmal slow wave events (PSWEs) may be a potential mechanism. The purpose of our study was to investigate the correlation between the PSWEs and cognitive impairment in patients with OSA, with a focus on the possible mechanism. In total, 339 subjects with subjective snoring complaints from the Sleep Medicine Center underwent magnetic resonance imaging and whole-night polysomnography. OSA was defined as apnea-hypopnea index (AHI) &#x2265; 5 events/h. MCI was defined as the MoCA < 26 and met the criteria: (1) subjective cognitive impairment; (2) objective impairment in one or more cognitive domains; (3) slightly impaired complex instrumental daily abilities, but independent daily living abilities; and (4) no dementia. The PSWEs calculated by self-developed Python scripts were defined for EEG recordings as a median power frequency of < 6 Hz for more than five consecutive seconds. Serum cyclophilin A (CyPA) and matrix metalloproteinase-9 (MMP-9) levels and amyloid-&#x3b2; 42 levels in neuron-derived exosomes were determined. The participants who received continuous positive airway pressure (CPAP) were followed up and their PSWEs were recalculated after 1 year of treatment. A total of 339 participants were divided into the OSA+MCI group (n = 157), OSA-MCI group (n = 118), and controls (normal cognitive state without OSA) (n = 64). The total PSWEs and the occurrence per minute of PSWEs at stage REM in the OSA+MCI group were higher than those in the OSA-MCI and control groups. The duration ratio of PSWEs at stage REM in the OSA+MCI group significantly increased. The total PSWEs and PSWEs at the F4-M1, O1-M2, and O2-M1 channels in stage REM were independently associated with cognitive impairment in OSA patients. There were positive correlations between the PSWEs and serum CyPA and MMP-9 levels in patients with OSA. The mediation analysis showed that the relationship between mean SaOand percentage of sleep time spent with oxygen saturation <90% with MoCA scores was mediated by the total PSWEs (proportion of mediation 77.89% and 82.89%). The PSWEs were negatively correlated with global cognitive performance and cognitive subdomains. After 1 year of CPAP treatment, the total PSWEs, PSWEs in stage REM, and serum CyPA and MMP-9 levels decreased significantly, and MoCA scores were improved compared with baseline. The PSWEs were implicated in cognitive impairment in patients with OSA, and the mechanisms of cognitive impairment due to hypoxia in OSA patients could be BBB dysfunction. The PSWEs can be used as a marker of cognitive impairment in patients with OSA. This trial is registered on the Chinese Clinical Trial Registry, number ChiCTR1900021544. The trial was registered on February 27, 2019.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1186/s13195-022-01153-x
+
+2. Keywords
+- Blood-brain barrier
+- Cognitive impairment
+- Obstructive sleep apnea
+- Paroxysmal slow wave event
+
+3. Key Findings
+- The mediation analysis showed that the relationship between mean SaOand percentage of sleep time spent with oxygen saturation <90% with MoCA scores was mediated by the total PSWEs (proportion of mediation 77
+
+This study provides insights into:
+- Blood-brain barrier assessment methods and outcomes
+- Cognitive impairment assessment methods and outcomes
+- Obstructive sleep apnea assessment methods and outcomes

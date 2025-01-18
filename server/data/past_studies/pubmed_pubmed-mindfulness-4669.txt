@@ -1,0 +1,27 @@
+Study Title: Analyzing the Impact of Mobile App Engagement on Mental Health Outcomes: Secondary Analysis of the Unwinding Anxiety Program.
+
+Study Summary:
+App-based interventions provide a promising avenue for mitigating the burden on mental health services by complimenting therapist-led treatments for anxiety. However, it remains unclear how specific systems' use of app features may be associated with changes in mental health outcomes (eg, anxiety and worry). This study was a secondary analysis of engagement data from a stage 1 randomized controlled trial testing the impact of the Unwinding Anxiety mobile app among adults with generalized anxiety disorder. The aims of this study were 2-fold: to investigate whether higher microengagement with the primary intervention feature (ie, educational modules) is associated with positive changes in mental health outcomes at 2 months (ie, anxiety, worry, interoceptive awareness, and emotional reactivity) and to investigate whether the use of adjunctive app features is also associated with changes in mental health outcomes. We analyzed the intervention group during the stage 1 trial of the Unwinding Anxiety mobile app. The total use of specific mobile app features and the use specific to each feature were calculated. We used multivariate linear models with a priori significance of &#x3b1;=.05 to investigate the impact of cumulative app use on anxiety, worry, interoceptive awareness, and emotional regulation at 2 months, controlling for baseline scores, age, and education level in all models. Significant relationships between system use metrics and baseline participant characteristics were assessed for differences in use groupings using between-group testing (ie, 2-tailed t tests for continuous data and chi-square analyses for categorical data). The sample was primarily female (25/27, 93%), and the average age was 42.9 (SD 15.6) years. Educational module completion, the central intervention component, averaged 20.2 (SD 11.4) modules out of 32 for the total sample. Multivariate models revealed that completing >75% of the program was associated with an average 22.6-point increase in interoceptive awareness (b=22.6; SE 8.32; P=.01; 95% CI 5.3-39.8) and an 11.6-point decrease in worry (b=-11.6; SE 4.12; P=.01; 95% CI -20.2 to -3.1). In addition, a single log unit change in the total number of meditations was associated with a 0.62-point reduction in the Generalized Anxiety Disorder-7 scale scores (b=0.62; SE 0.27; P=.005; 95% CI -1.2 to -0.6), whereas a single log unit use of the stress meter was associated with an average of a 0.5-point increase in emotional regulation scores (Five Facet Mindfulness Questionnaire; b=0.5; SE 0.21; P=.03; 95% CI 0.1-0.9). This study offers a clearer understanding of the impact of engagement with app features on broader engagement with the health outcomes of interest. This study highlights the importance of comprehensive investigations of engagement during the development of evidence-based mobile apps.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.2196/33696
+
+2. Keywords
+- anxiety
+- engagement
+- mental health
+- mobile app
+- mobile phone
+- worry
+
+3. Key Findings
+- Multivariate models revealed that completing >75% of the program was associated with an average 22
+
+This study provides insights into:
+- anxiety assessment methods and outcomes
+- engagement assessment methods and outcomes
+- mental health assessment methods and outcomes

@@ -1,0 +1,26 @@
+Study Title: Safety and efficacy of adaptive atrial pacing regulated by blood pressure during low-level exercise: a proof-of-concept study.
+
+Study Summary:
+Despite half of all heart failure patients suffering from heart failure with preserved ejection fraction (HFpEF), treatment options are limited. This study aims to compare safety and efficacy of standard pacemaker programming (DDD or DDDR) and a novel pacing algorithm PressurePace&#x2122; (BaroPace Inc, Issaquah, WA, USA) which modulates atrial pacing rate based on blood pressure (BPAP). This prospective, randomized, double-blind, non-significant risk proof of concept study was conducted at two large cardiology clinics in Los Angeles, California, USA. Subjects underwent two modified Bruce protocol graded treadmill exercise tests in which pacemaker programming was randomized to either standard programming (DDD or DDDR), or BPAP at least 1&#xa0;week apart. Physiological measurements of heart rate (HR), and systolic and diastolic blood pressure (BP) were collected at 2&#xa0;min intervals. During the BPAP treadmill test, the pacemaker activity sensor was disabled. The PressurePace algorithm instructed the pacemaker technician to modify or leave unchanged the atrial pacing rate based on these BP measurements. Subjects and clinical staff were blinded to pacemaker programming, only the pacemaker technician was unblinded. Ten subjects with HFpEF associated with hypertension who also had permanent dual-chamber pacemakers, previously implanted for standard clinical indications, participated in the study. Mean age was 70.1&#xa0;&#xb1;&#xa0;6.8 years, left ventricular ejection fraction of 54.8&#xa0;&#xb1;&#xa0;1.9%. Exercise duration increased in all 10 subjects, when paced in the BPAP mode compared with standard pacemaker programming, showing a mean increase of 117&#xa0;s (26%, P&#xa0;=&#xa0;0.0016). The algorithm could adjust HR at each 2&#xa0;min interval. The majority of subjects (60%) had their atrial pacing rate increased an average of 20% at t&#xa0;=&#xa0;2&#xa0;min. In the remaining 40% of subjects, the algorithm instructed HR to be unchanged. In two subjects, the pacing rate was not increased until t&#xa0;=&#xa0;6&#xa0;min. In contrast, subjects programmed to DDDR experienced an average of 45% increase in atrial pacing rate at t&#xa0;=&#xa0;2&#xa0;min. In the post-treadmill recovery period, SBP was higher for subjects who underwent BPAP. This difference in SBP was most pronounced immediately post-treadmill and diminished as subjects progressed through the 30&#xa0;min recovery period. Statistical significance was achieved at t&#xa0;=&#xa0;0, 20, and 30&#xa0;min post-treadmill. An increase in exercise duration was reported in HFpEF subjects using a pacing algorithm that modulated HR based on BP compared with standard programming. These encouraging results form the basis for a larger, randomized cross-over trial to confirm these initial observations, further characterize the safety, efficacy, and possible mechanisms of action in both acute and longer-term treatment.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1002/ehf2.14854
+
+2. Keywords
+- Cardiac pacing
+- Chronotropic incompetence
+- Exercise tolerance
+- HFpEF
+- Rate adaptive atrial pacing
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Cardiac pacing assessment methods and outcomes
+- Chronotropic incompetence assessment methods and outcomes
+- Exercise tolerance assessment methods and outcomes

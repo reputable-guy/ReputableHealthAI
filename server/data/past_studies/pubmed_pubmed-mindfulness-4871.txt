@@ -1,0 +1,28 @@
+Study Title: Clinical Efficacy and Psychological Mechanisms of an App-Based Digital Therapeutic for Generalized Anxiety Disorder: Randomized Controlled Trial.
+
+Study Summary:
+Current treatments for generalized anxiety disorder (GAD) often yield suboptimal outcomes, partly because of insufficient targeting of underlying psychological mechanisms (eg, avoidance reinforcement learning). Mindfulness training (MT) has shown efficacy for anxiety; yet, widespread adoption has been limited, partly because of the difficulty in scaling in-person-based delivery. Digital therapeutics are emerging as potentially viable treatments; however, very few have been empirically validated. The aim of this study is to test the efficacy and mechanism of an app-delivered MT that was designed to target a potential mechanism of anxiety (reinforcement learning), based on which previous studies have shown concern regarding feedback and the perpetuation of anxiety through negative reinforcement. Individuals with GAD were recruited using social media advertisements and randomized during an in-person visit to receive treatment as usual (n=33) or treatment as usual+app-delivered MT (Unwinding Anxiety; n=32). The latter was composed of 30 modules to be completed over a 2-month period. Associated changes in outcomes were assessed using self-report questionnaires 1 and 2 months after treatment initiation. We randomized 65 participants in this study, and a modified intent-to-treat approach was used for analysis. The median number of modules completed by the MT group was 25.5 (IQR 17) out of 30; 46% (13/28) of the participants completed the program. In addition, the MT group demonstrated a significant reduction in anxiety (GAD-7) compared with the control group at 2 months (67% vs 14%; median change in GAD-7: -8.5 [IQR 6.5] vs -1.0 [IQR 5.0]; P<.001; 95% CI 6-10). Increases in mindfulness at 1 month (nonreactivity subscale) mediated decreases in worry at 2 months (Penn State Worry Questionnaire; P=.02) and decreases in worry at 1 month mediated reductions in anxiety at 2 months (P=.03). To our knowledge, this is the first report on the efficacy and mechanism of an app-delivered MT for GAD. These findings demonstrate the clinical efficacy of MT as a digital therapeutic for individuals with anxiety (number needed to treat=1.6). These results also link recent advances in our mechanistic understanding of anxiety with treatment development, showing that app-delivered MT targets key reinforcement learning pathways, resulting in tangible, clinically meaningful reductions in worry and anxiety. Evidence-based, mechanistically targeted digital therapeutics have the potential to improve health at a population level at a low cost. ClinicalTrials.gov NCT03683472; https://clinicaltrials.gov/ct2/show/NCT03683472.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2021
+- DOI: 10.2196/26987
+
+2. Keywords
+- anxiety
+- digital therapeutics
+- generalized anxiety disorder
+- mHealth
+- mindfulness
+- mobile phone
+- worry
+
+3. Key Findings
+- In addition, the MT group demonstrated a significant reduction in anxiety (GAD-7) compared with the control group at 2 months (67% vs 14%; median change in GAD-7: -8
+
+This study provides insights into:
+- anxiety assessment methods and outcomes
+- digital therapeutics assessment methods and outcomes
+- generalized anxiety disorder assessment methods and outcomes

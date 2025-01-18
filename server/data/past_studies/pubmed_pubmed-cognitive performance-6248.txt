@@ -1,0 +1,24 @@
+Study Title: Cognitive performance is associated with glomerular filtration rate in patients with chronic kidney disease: results from the CKD-REIN cohort.
+
+Study Summary:
+Chronic kidney disease (CKD) is associated with cognitive impairment in general population. We assessed the association between kidney and cognitive functions in patients with CKD and the influence of cardiovascular (CV) risk factors, and depression on this association. The CKD-Renal Epidemiology and Information Network cohort included 3033 patients with CKD stages 3-4, followed for 5 years. Cognitive function was assessed with the Mini-Mental State Examination (MMSE) and estimated glomerular filtration rate (eGFR) with the CKD-Epidemiology Collaboration equation-creatinin formula. Evolution of the MMSE score over time and its association with baseline eGFR were investigated with linear mixed models. We assessed the risk of incident cognitive outcome (hospitalisation or death with relevant International Classification of Disease-10 codes), with a Cox proportional hazard model. The mean age was 66.8, the mean eGFR was 33 mL/min/1.73 mand 387 patients (13.0%) had an MMSE score below 24 at baseline. A 10 mL/min/1.73 mdecrement of baseline eGFR was associated with a mean MMSE decrease of 0.12 (95% CI 0.04 to 0.19) after adjustment for demographic characteristics, depression, CV risk factors and disease; but baseline eGFR was not associated with MMSE temporal evolution. HR for cognitive outcome during follow-up (median 2.01 years) associated with a 10&#x2009;mL/min/1.73 mdecrement of baseline eGFR was 1.35 (1.07, 1.70) (p=0.01) after adjustment. In patients with CKD, lower eGFR was associated with worse cognitive performance and incident cognitive events, independently of demographics, CV risk factors and depression. NCT03381950.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1136/jnnp-2022-330347
+
+2. Keywords
+- cognition
+- epidemiology
+- renal medicine
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- cognition assessment methods and outcomes
+- epidemiology assessment methods and outcomes
+- renal medicine assessment methods and outcomes

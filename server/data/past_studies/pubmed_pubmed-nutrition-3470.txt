@@ -1,0 +1,26 @@
+Study Title: Continuous Ketone Monitoring via Wearable Microneedle Patch Platform.
+
+Study Summary:
+Ketone bodies (KBs), especially &#x3b2;-hydroxybutyrate (BHB), have gained tremendous attention as potential biomarkers as their presence in bodily fluids is closely associated with health and wellness. While a variety of blood fingerstick test strips are available for self-testing of BHB, there are major needs for wearable devices capable of continuously tracking changing BHB concentrations. To address these needs, we present here the first demonstration of a wearable microneedle-based continuous ketone monitoring (CKM) in human interstitial fluid (ISF) and illustrate its ability to closely follow the intake of ketone drinks. To ensure highly stable and selective continuous detection of ISF BHB, the new enzymatic microneedle BHB sensor relies on a gold-coated platinum working electrode modified with a reagent layer containing toluidine blue O (TBO) redox mediator, &#x3b2;-hydroxybutyrate dehydrogenase (HBD) enzyme, a nicotinamide adenine dinucleotide (NAD) cofactor, along with carbon nanotubes (CNTs), chitosan (Chit), and a poly(vinyl chloride) (PVC) outer protective layer. The skin-worn microneedle sensing device operates with a miniaturized electrochemical analyzer connected wirelessly to a mobile electronic device for capturing, processing, and displaying the data. Cytotoxicity and skin penetration studies indicate the absence of potential harmful effects. A pilot study involving multiple human subjects evaluated continuous BHB monitoring in human ISF, against gold standard BHB meter measurements, revealing the close correlation between the two methods. Such microneedle-based CKM offers considerable promise for dynamic BHB tracking toward the management of diabetic ketoacidosis and personal nutrition and wellness.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1021/acssensors.3c02677
+
+2. Keywords
+- continuous ketone monitoring
+- human interstitial fluid
+- ketone bodies
+- wearable microneedle patch
+- &#x3b2;-hydroxybutyrate
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- continuous ketone monitoring assessment methods and outcomes
+- human interstitial fluid assessment methods and outcomes
+- ketone bodies assessment methods and outcomes

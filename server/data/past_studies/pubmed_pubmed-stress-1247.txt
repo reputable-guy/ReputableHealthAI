@@ -1,0 +1,25 @@
+Study Title: GDF-15 levels in patients with polycystic ovary syndrome treated with metformin: a combined clinical and in silico pathway analysis.
+
+Study Summary:
+Polycystic ovary syndrome (PCOS) is an endocrine disease characterized by metabolic, reproductive, and psychological manifestations. Growth and differentiation factor 15 (GDF-15) is a cytokine associated with metabolic and inflammatory disorders. Metformin is commonly used for the treatment of PCOS. We investigated the relationship between GDF-15 levels and PCOS, the effect of metformin on GDF-15 levels, and potential biologic pathways related to GDF-15. The study included 35 women with PCOS and 32 women without PCOS (controls). Both groups were compared in terms of GDF-15 levels. Additional analysis was conducted on samples from 22 women with PCOS who were treated with either metformin (n = 7) or placebo (n = 15), retrieved from a previous randomized, controlled trial. Levels of GDF-15 were measured using MILLIPLEX. The biologic pathways related to GDF-15 were evaluated using the databases STRING, SIGNOR, and Pathway Commons. The statistical analysis was conducted using the software SPSS. Levels of GDF-15 were higher in the PCOS group compared with the non-PCOS group (p = 0.039). Among women with PCOS, GDF-15 levels were higher in those treated with metformin compared with placebo (p = 0.007). The proteins related to GDF-15 overlapped between the databases, and a significant interaction was found between GDF-15 and proteins related to PCOS and its complications, including those related to estrogen response, oxidative stress, ovarian infertility, interleukin (IL)-18, IL-4, the ratio of advanced glycation end products to their receptor (AGE/RAGE), leptin, transforming growth factor beta (TGF-&#x3b2;), adipogenesis, and insulin. The findings of the present study suggest a relationship between GDF-15 and PCOS and a potential increase in GDF-15 levels with metformin treatment. An additional finding was that GDF-15 could be involved in biologic pathways related to PCOS complications.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.20945/2359-4292-2023-0416
+
+2. Keywords
+- GDF-15
+- biologic pathways
+- metformin
+- polycystic ovary syndrome
+
+3. Key Findings
+- The proteins related to GDF-15 overlapped between the databases, and a significant interaction was found between GDF-15 and proteins related to PCOS and its complications, including those related to estrogen response, oxidative stress, ovarian infertility, interleukin (IL)-18, IL-4, the ratio of advanced glycation end products to their receptor (AGE/RAGE), leptin, transforming growth factor beta (TGF-&#x3b2;), adipogenesis, and insulin
+
+This study provides insights into:
+- GDF-15 assessment methods and outcomes
+- biologic pathways assessment methods and outcomes
+- metformin assessment methods and outcomes

@@ -1,0 +1,29 @@
+Study Title: Sex differences in cigarette smoking following a mindfulness-based cessation randomized controlled trial.
+
+Study Summary:
+Some interventions for smoking cessation such as quit smoking aids show sex-specific effects on outcomes, but behavioral interventions such as mindfulness-based interventions (MBIs) for smoking cessation lack formal reporting of sex-intervention tests of interaction to date. To address this gap, we conducted a secondary analysis of a RCT dataset (N&#xa0;=&#xa0;213), recruiting participants from California, to statistically test a sex-intervention interaction effect on complete 7-day point prevalence abstinence (PPA), proportion of days abstinent, and daily cigarettes smoked. Smoking was assessed using the timeline follow back method spanning the four weeks following a daily 14-day app-based intervention and a planned smoking quit date immediately following the intervention phase. All models adjusted for baseline nicotine dependence. The study groups had comparable sex proportions (MBI: 56&#xa0;% female; control: 55&#xa0;% female) and the ratio of outcome assessment completion by group was not dependent on sex. Adjusted analyses revealed a significant sex-intervention interaction effect for daily cigarettes smoked ([female coded 1]: two-way interaction effect IRR&#xa0;=&#xa0;0.59, 95&#xa0;% CI: 0.46-0.77, p&#xa0;<&#xa0;0.0001; effect for female: IRR&#xa0;=&#xa0;0.68, 95&#xa0;% CI: 0.57-0.81, effect for male: IRR&#xa0;=&#xa0;1.14, 95&#xa0;% CI: 0.95-1.37), but not for complete 7-day PPA ([female coded 1] two-way interaction effect OR&#xa0;=&#xa0;1.24, 95&#xa0;% CI: 0.31-4.89, p&#xa0;=&#xa0;0.76) or proportion of total days abstinent ([female coded 1] two-way interaction effect OR&#xa0;=&#xa0;1.97, 95&#xa0;% CI: 0.53-7.37, p&#xa0;=&#xa0;0.31). Females, but not males, allocated to a daily app-based MBI with a quit plan and quit aid workbook smoked fewer cigarettes per day compared to females in the control group. Males, but not females, showed significantly less use of the MBI app compared to the control app.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.addbeh.2024.108177
+
+2. Keywords
+- Cessation
+- Interaction
+- Mindfulness
+- NCT05440903
+- Sex
+- Smoking
+- Subgroup
+
+3. Key Findings
+- Adjusted analyses revealed a significant sex-intervention interaction effect for daily cigarettes smoked ([female coded 1]: two-way interaction effect IRR&#xa0;=&#xa0;0
+- Males, but not females, showed significantly less use of the MBI app compared to the control app
+
+This study provides insights into:
+- Cessation assessment methods and outcomes
+- Interaction assessment methods and outcomes
+- Mindfulness assessment methods and outcomes

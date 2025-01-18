@@ -1,0 +1,26 @@
+Study Title: Inflammation-Related Genes Are Differentially Expressed in Lipopolysaccharide-Stimulated Peripheral Blood Mononuclear Cells after 3 Months of Resistance Training in Older Women.
+
+Study Summary:
+Recently, we showed that three months of resistance exercise significantly alters 18 canonical pathways related to chronic inflammation in PBMCs of older adults. In this exploratory sub-study, the aim is to explore whether resistance exercise enhances the PBMCs stress response by mimicking an acute infection through in vitro LPS stimulation. Women (&#x2265;65 years) were randomly divided into intensive strength training (IST), strength endurance training (SET), or flexibility training (as control group, CON) groups. PBMCs were isolated and cultured with and without LPS for 24 h. Their RNA was analyzed via targeted RNA sequencing of 407 inflammation-related genes, with relevant fold-changes defined as &#x2264;0.67 or &#x2265;1.5 (3 months vs. baseline). A pathway analysis using ingenuity pathway analyses identified significant pathways among 407 genes with< 0.05 and z-scores of &#x2264;-2 or &#x2265;2. Fourteen women were included in the analyses. A total of 151 genes with a significant fold-change were identified. In the CON group, a less-pronounced effect was observed. Strength training altered 23 pathways in the LPS-stimulated PBMCs, none of which overlapped between the IST and SET groups. A balanced exercise program that includes both IST and SET could beneficially adapt the immune responses in older adults by inducing alterations in the inflammatory stress response of PBMCs through different genes and pathways.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3390/cells13171416
+
+2. Keywords
+- LPS challenge
+- RNA sequence analysis
+- exercise
+- gene expression
+- older adults
+
+3. Key Findings
+- Recently, we showed that three months of resistance exercise significantly alters 18 canonical pathways related to chronic inflammation in PBMCs of older adults
+
+This study provides insights into:
+- LPS challenge assessment methods and outcomes
+- RNA sequence analysis assessment methods and outcomes
+- exercise assessment methods and outcomes

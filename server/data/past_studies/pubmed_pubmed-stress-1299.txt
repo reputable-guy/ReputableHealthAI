@@ -1,0 +1,25 @@
+Study Title: Genome-wide profiling of long non-coding RNA following ozone exposure: A randomized, controlled exposure trial.
+
+Study Summary:
+Exposure to ambient ozone has been associated with extrapulmonary health, but the underlying mechanisms remain to be understood. LncRNAs are involved in the regulation of gene expression, but their regulatory mechanisms in ozone-related health effects are scarcely explored. To investigate genome-wide lncRNA changes after short-term ozone exposure and their regulatory roles in ozone exposure and gene expression. We conducted a randomized, crossover, controlled exposure trial in 32 healthy college students in Shanghai, China. Each participant received both 200-ppb ozone exposure and filtered air exposure for 2&#xa0;h in a random order with a 14-day washout period. Blood samples were collected after each exposure and used for lncRNA sequencing. Differentially expressed lncRNAs between the two exposures were identified using orthogonal partial least squares discriminant analysis and linear regression analysis. LncRNAs-targeted mRNAs were mapped and subjected to enrichment analyses. We also constructed lncRNA-miRNA-mRNA networks. A total of 90 lncRNAs were differentially expressed after exposure to ozone, with 49 up-regulated and 41 down-regulated. Enrichment analyses suggested that these dysregulated lncRNAs were involved in a variety of biological processes, including those related to oxidative stress, inflammation response, and cell proliferation, development, and differentiation. Multiple pathways such as IL-17 signaling, NF-kB signaling, and Rho GTPases signaling were also enriched. Furthermore, the lncRNA-miRNA-mRNA network revealed that specific lncRNAs may regulate the expression of inflammation- and angiogenesis-related genes by interacting with miRNAs, such as NEAT1/hsa-miR-500a-3p/SIGLEC8, NEAT1/hsa-miR-6835-3p/SLC16A14, OIP5-AS1/miR-183-5p/EGR1, and SNHG25/hsa-miR-663a/FOSB axes. This study characterized a thorough profile of human lncRNAs following short-term ozone exposure and suggested the regulatory roles of these lncRNAs in ozone-induced inflammatory responses and angiogenesis, providing novel epigenetic insights into the mechanisms of the health effects of ozone exposure.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.envres.2024.120101
+
+2. Keywords
+- Long non-coding RNA
+- Ozone
+- Randomized controlled trial
+- ceRNA
+
+3. Key Findings
+- Furthermore, the lncRNA-miRNA-mRNA network revealed that specific lncRNAs may regulate the expression of inflammation- and angiogenesis-related genes by interacting with miRNAs, such as NEAT1/hsa-miR-500a-3p/SIGLEC8, NEAT1/hsa-miR-6835-3p/SLC16A14, OIP5-AS1/miR-183-5p/EGR1, and SNHG25/hsa-miR-663a/FOSB axes
+
+This study provides insights into:
+- Long non-coding RNA assessment methods and outcomes
+- Ozone assessment methods and outcomes
+- Randomized controlled trial assessment methods and outcomes

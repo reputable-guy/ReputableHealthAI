@@ -1,0 +1,30 @@
+Study Title: Neural Signatures of Pain Modulation in Short-Term and Long-Term Mindfulness Training: A Randomized Active-Control Trial.
+
+Study Summary:
+Mindfulness-based interventions are widely used to target pain, yet their neural mechanisms of action are insufficiently understood. The authors studied neural and subjective pain response in a randomized active-control trial of mindfulness-based stress reduction (MBSR) alongside long-term meditation practitioners. Healthy participants (N=115) underwent functional neuroimaging during a thermal acute pain task before and after random assignment to MBSR (N=28), an active control condition (health enhancement program [HEP]) (N=32), or a waiting list control condition (N=31). Long-term meditators (N=30) completed the same neuroimaging paradigm. Pain response was measured via self-reported intensity and unpleasantness, and neurally via two multivoxel machine-learning-derived signatures: the neurologic pain signature (NPS), emphasizing nociceptive pain processing, and the stimulus intensity independent pain signature-1 (SIIPS1), emphasizing stimulus-independent neuromodulatory processes. The MBSR group showed a significant decrease in NPS response relative to the HEP group (Cohen's d=-0.43) and from pre- to postintervention assessment (d=-0.47). The MBSR group showed small, marginal decreases in NPS relative to the waiting list group (d=-0.36), and in SIIPS1 relative to both groups (HEP group, d=-0.37; waiting list group, d=-0.37). In subjective unpleasantness, the MBSR and HEP groups also showed modest significant reductions compared with the waiting list group (d=-0.45 and d=-0.55). Long-term meditators reported significantly lower pain than nonmeditators but did not differ in neural response. Within the long-term meditator group, cumulative practice during intensive retreat was significantly associated with reduced SIIPS1 (r=-0.65), whereas daily practice was not. Mindfulness training showed associations with pain reduction that implicate differing neural pathways depending on extent and context of practice. Use of neural pain signatures in randomized trials offers promise for guiding the application of mindfulness interventions to pain treatment.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1176/appi.ajp.21020145
+
+2. Keywords
+- Biological Markers
+- Brain Imaging Techniques
+- Cognitive Neuroscience
+- Neurocircuitry
+- Neuroimaging
+- Pain
+
+3. Key Findings
+- The MBSR group showed a significant decrease in NPS response relative to the HEP group (Cohen's d=-0
+- The MBSR group showed small, marginal decreases in NPS relative to the waiting list group (d=-0
+- In subjective unpleasantness, the MBSR and HEP groups also showed modest significant reductions compared with the waiting list group (d=-0
+- Mindfulness training showed associations with pain reduction that implicate differing neural pathways depending on extent and context of practice
+
+This study provides insights into:
+- Biological Markers assessment methods and outcomes
+- Brain Imaging Techniques assessment methods and outcomes
+- Cognitive Neuroscience assessment methods and outcomes

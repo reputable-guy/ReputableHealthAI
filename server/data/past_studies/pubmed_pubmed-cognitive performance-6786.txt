@@ -1,0 +1,28 @@
+Study Title: Automated diagnosis of HIV-associated neurocognitive disorders using large-scale Granger causality analysis of resting-state functional MRI.
+
+Study Summary:
+HIV-associated neurocognitive disorders (HAND) represent an important source of neurologic complications in individuals with HIV. The dynamic, often subclinical, course of HAND has rendered diagnosis, which currently depends on neuropsychometric (NP) evaluation, a challenge for clinicians. Here, we present evidence that functional brain connectivity, derived by large-scale Granger causality (lsGC) analysis of resting-state functional MRI (rs-fMRI) time-series, represents a potential biomarker to address this critical diagnostic need. Brain graph properties were used as features in machine learning tasks to 1) classify individuals as HIVor HIVand 2) to predict overall cognitive performance, as assessed by NP scores, in a 22-subject (13 HIV, 9 HIV) cohort. Over nearly all seven brain parcellation templates considered, support vector machine (SVM) classifiers based on lsGC-derived brain graph features significantly outperformed those based on conventional Pearson correlation (PC)-derived features (p<0.05, Bonferroni-corrected). In a second task for which the objective was to predict the overall NP score of each subject, the lsGC-based SVM regressors consistently outperformed the PC-based regressors (p<0.05, Bonferroni-corrected) on nearly all templates. With the widely used Automated Anatomical Labeling (AAL90) template, it was determined that the brain regions that figured most strongly in the SVM classifiers included those of the default mode network (posterior cingulate cortex, angular gyrus) and basal ganglia (caudate nucleus), dysfunction in both of which have been observed in previous structural and functional analyses of HAND.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2020
+- DOI: 10.1016/j.compbiomed.2019.01.006
+
+2. Keywords
+- Automated diagnosis
+- Graph theory
+- HIV-Associated neurocognitive disorders (HAND)
+- Large-scale Granger causality
+- Resting-state fMRI
+- Support vector machine
+- functional connectivity
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Automated diagnosis assessment methods and outcomes
+- Graph theory assessment methods and outcomes
+- HIV-Associated neurocognitive disorders (HAND) assessment methods and outcomes

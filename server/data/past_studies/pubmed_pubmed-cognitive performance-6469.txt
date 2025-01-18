@@ -1,0 +1,26 @@
+Study Title: The limited effect of neural stimulation on visual attention and social cognition in individuals with schizophrenia.
+
+Study Summary:
+Research demonstrates a relationship between faulty visual attention and poorer social cognition in schizophrenia. One potential explanatory model suggests abnormal neuromodulation in specific neural networks may result in reduced attention to socially important cues, leading to poorer understanding of another's emotional state or intentions. The current study experimentally manipulated neural networks using tDCS to examine this potential causal mechanism. The primary aim was to determine whether stimulation to the right temporoparietal junction (rTPJ) improves visual attention, and secondary aims were to determine whether 1) stimulation improves social cognitive performance and 2) visual attention moderates this improved performance. Using a double-blind crossover design, 69 individuals with schizophrenia underwent both active and sham stimulation to either the rTPJ of the ventral attention network (n&#xa0;=&#xa0;36) or the dorsomedial prefrontal cortex of the social brain network (dmPFC; n&#xa0;=&#xa0;33). Following stimulation, participants completed tasks assessing emotion recognition and mentalizing. Concurrent eye tracking assessed visual attention, measuring proportion of time spent attending to areas of interest. For emotion recognition, stimulation failed to impact either visual attention or social cognitive task accuracy. Similarly, neurostimulation failed to affect visual attention on the mentalizing task. However, exploratory analyses demonstrated that mentalizing accuracy significantly improved after stimulation to the active comparator, dmPFC, with no improvement after stimulation to rTPJ. Results demonstrate limited effect of a single stimulation session on visual attention and emotion recognition accuracy but provide initial support for an alternate neural mechanism for mentalizing, highlighting the importance of executive functions over visual attention.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2021
+- DOI: 10.1016/j.neuropsychologia.2021.107880
+
+2. Keywords
+- Neurostimulation
+- Schizophrenia
+- Social cognition
+- Visual attention
+- tDCS
+
+3. Key Findings
+- However, exploratory analyses demonstrated that mentalizing accuracy significantly improved after stimulation to the active comparator, dmPFC, with no improvement after stimulation to rTPJ
+
+This study provides insights into:
+- Neurostimulation assessment methods and outcomes
+- Schizophrenia assessment methods and outcomes
+- Social cognition assessment methods and outcomes

@@ -1,0 +1,26 @@
+Study Title: Association of EEG characteristics with outcomes following pediatric ICU cardiac arrest: A secondary analysis of the ICU-RESUScitation trial.
+
+Study Summary:
+There are limited tools available following cardiac arrest to prognosticate neurologic outcomes. Prior retrospective and single center studies have demonstrated early EEG features are associated with neurologic outcome. This study aimed to evaluate the prognostic value of EEG for pediatric in-hospital cardiac arrest (IHCA) in a prospective, multicenter study. This cohort study is a secondary analysis of the ICU-Resuscitation trial, a multicenter randomized interventional trial conducted at 18 pediatric and pediatric cardiac ICUs in the United States. Patients who achieved return of circulation (ROC) and had post-ROC EEG monitoring were eligible for inclusion. Patients&#xa0;<&#xa0;90&#xa0;days old and those with pre-arrest Pediatric Cerebral Performance Category (PCPC) scores&#xa0;>&#xa0;3 were excluded. EEG features of interest included EEG Background Category, and presence of focal abnormalities, sleep spindles, variability, reactivity, periodic and rhythmic patterns, and seizures. The primary outcome was survival to hospital discharge with favorable neurologic outcome. Associations between EEG features and outcomes were assessed with multivariable logistic regression. Prediction models with and without EEG Background Category were developed and receiver operator characteristic curves compared. Of the 1129 patients with an index cardiac arrest who achieved ROC in the parent study, 261 had EEG within 24&#xa0;h of ROC, of which 151 were evaluable. The cohort included 57% males with a median age of 1.1&#xa0;years (IQR 0.4, 6.8). EEG features including EEG Background Category, sleep spindles, variability, and reactivity were associated with survival with favorable outcome and survival, (all p&#xa0;<&#xa0;0.001). The addition of EEG Background Category to clinical models including age category, illness category, PRISM score, duration of CPR, first documented rhythm, highest early post-arrest arterial lactate improved the prediction accuracy achieving an AUROC of 0.84 (CI 0.77-0.92), compared to AUROC of 0.76 (CI 0.67-0.85) (p&#xa0;=&#xa0;0.005) without EEG Background Category. This multicenter study demonstrates the value of EEG, in the first 24&#xa0;h following ROC, for predicting survival with favorable outcome after a pediatric IHCA.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.resuscitation.2024.110271
+
+2. Keywords
+- Cardiac arrest
+- Electroencephalography
+- Neuro-prognostication
+- Pediatric cardiac arrest
+- Post-resuscitation care
+
+3. Key Findings
+- Prior retrospective and single center studies have demonstrated early EEG features are associated with neurologic outcome
+
+This study provides insights into:
+- Cardiac arrest assessment methods and outcomes
+- Electroencephalography assessment methods and outcomes
+- Neuro-prognostication assessment methods and outcomes

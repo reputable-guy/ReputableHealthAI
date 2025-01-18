@@ -1,0 +1,25 @@
+Study Title: Epigenetic effects of exercise on improving the adverse placental environment associated with maternal overweight and obesity.
+
+Study Summary:
+We aimed to explore whether maternal exercise has epigenetic effects on improving the adverse placental environment associated with maternal overweight/obesity. Based on samples collected from an RCT cohort, differentially methylated genes and expressed protein-coding RNA were identified in the placentas of 16 women with overweight and obesity who did or did not participate in an exercise intervention using the Infinium HumanMethylation850 BeadChip array and RNA Sequencing-Based lncRNA Profiling. Potential target genes were further identified by integrating this information. Then, the target genes' methylation and expression levels were verified, and correlation analysis was performed with placental oxidative stress markers and participants' clinical metabolic parameters. A total of 3608 significant differentially methylated probes were detected. The CBR1 gene, which was previously identified as a possible antioxidant, was significantly hypomethylated at CPG site promoter regions in placentas from the exercise group, and CBR1 gene expression levels were significantly higher. CBR1 gene expression levels were negatively associated with DNA methylation levels. Furthermore, CBR1 gene expression levels were negatively correlated with MDA levels in both placenta and cord blood samples and insulin resistance levels in late pregnancy. Additionally, CBR1 methylation levels were positively correlated with fasting plasma glucose and insulin resistance levels in late pregnancy. DNA methylation is involved in the ameliorating effect of exercise on the adverse placental environment associated with maternal overweight/obesity.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.placenta.2024.10.018
+
+2. Keywords
+- Cycling
+- Methylation
+- Placental environment
+- Pregnant women
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Cycling assessment methods and outcomes
+- Methylation assessment methods and outcomes
+- Placental environment assessment methods and outcomes

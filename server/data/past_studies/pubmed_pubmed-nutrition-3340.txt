@@ -1,0 +1,37 @@
+Study Title: An mHealth Intervention Promoting Physical Activity and Healthy Eating in a Family Setting (SMARTFAMILY): Randomized Controlled Trial.
+
+Study Summary:
+Numerous smartphone apps are targeting physical activity (PA) and healthy eating (HE), but empirical evidence on their effectiveness for the initialization and maintenance of behavior change, especially in children and adolescents, is still limited. Social settings influence individual behavior; therefore, core settings such as the family need to be considered when designing mobile health (mHealth) apps. The purpose of this study was to evaluate the effectiveness of a theory- and evidence-based mHealth intervention (called SMARTFAMILY [SF]) targeting PA and HE in a collective family-based setting. A smartphone app based on behavior change theories and techniques was developed, implemented, and evaluated with a cluster randomized controlled trial in a collective family setting. Baseline (t) and postintervention (t) measurements included PA (self-reported and accelerometry) and HE measurements (self-reported fruit and vegetable intake) as primary outcomes. Secondary outcomes (self-reported) were intrinsic motivation, behavior-specific self-efficacy, and the family health climate. Between tand t, families of the intervention group (IG) used the SF app individually and collaboratively for 3 consecutive weeks, whereas families in the control group (CG) received no treatment. Four weeks following t, a follow-up assessment (t) was completed by participants, consisting of all questionnaire items to assess the stability of the intervention effects. Multilevel analyses were implemented in R (R Foundation for Statistical Computing) to acknowledge the hierarchical structure of persons (level 1) clustered in families (level 2). Overall, 48 families (CG: n=22, 46%, with 68 participants and IG: n=26, 54%, with 88 participants) were recruited for the study. Two families (CG: n=1, 2%, with 4 participants and IG: n=1, 2%, with 4 participants) chose to drop out of the study owing to personal reasons before t. Overall, no evidence for meaningful and statistically significant increases in PA and HE levels of the intervention were observed in our physically active study participants (all P>.30). Despite incorporating behavior change techniques rooted in family life and psychological theories, the SF intervention did not yield significant increases in PA and HE levels among the participants. The results of the study were mainly limited by the physically active participants and the large age range of children and adolescents. Enhancing intervention effectiveness may involve incorporating health literacy, just-in-time adaptive interventions, and more advanced features in future app development. Further research is needed to better understand intervention engagement and tailor mHealth interventions to individuals for enhanced effectiveness in primary prevention efforts. German Clinical Trials Register DRKS00010415; https://drks.de/search/en/trial/DRKS00010415. RR2-10.2196/20534.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/51201
+
+2. Keywords
+- accelerometer
+- behavior change
+- diet
+- digital intervention
+- exercise
+- family
+- food and nutrition
+- health behavior
+- just-in-time adaptive intervention
+- mobile app
+- mobile phone
+- primary prevention
+- randomized controlled trial
+- social-cognitive determinants
+- telemedicine
+- wearable electronic devices
+
+3. Key Findings
+- Multilevel analyses were implemented in R (R Foundation for Statistical Computing) to acknowledge the hierarchical structure of persons (level 1) clustered in families (level 2)
+
+This study provides insights into:
+- accelerometer assessment methods and outcomes
+- behavior change assessment methods and outcomes
+- diet assessment methods and outcomes

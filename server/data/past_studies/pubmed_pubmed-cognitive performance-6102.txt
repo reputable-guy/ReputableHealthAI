@@ -1,0 +1,22 @@
+Study Title: Circuit-based neuromodulation enhances delayed recall in amnestic mild cognitive impairment.
+
+Study Summary:
+This study aimed to investigate the efficacy of circuits-based paired associative stimulation (PAS) in adults with amnestic mild cognitive impairment (aMCI). We conducted a parallel-group, randomised, controlled clinical trial. Initially, a cohort of healthy subjects was recruited to establish the cortical-hippocampal circuits by tracking white matter fibre connections using diffusion tensor imaging. Subsequently, patients diagnosed with aMCI, matched for age and education, were randomly allocated in a 1:1 ratio to undergo a 2-week intervention, either circuit-based PAS or sham PAS. Additionally, we explored the relationship between changes in cognitive performance and the functional connectivity (FC) of cortical-hippocampal circuits. FCs between hippocampus and precuneus and between hippocampus and superior frontal gyrus (orbital part) were most closely associated with the Auditory Verbal Learning Test (AVLT)_N5 score in 42 aMCI patients, thus designated as target circuits. The AVLT_N5 score improved from 2.43 (1.43) to 5.29 (1.98) in the circuit-based PAS group, compared with 2.52 (1.44) to 3.86 (2.39) in the sham PAS group (p=0.003; Cohen's d=0.97). A significant decrease was noted in FC between the left hippocampus and left precuneus in the circuit-based PAS group from baseline to postintervention (p=0.013). Using a generalised linear model, significant group&#xd7;FC interaction effects for the improvements in AVLT_N5 scores were found within the circuit-based PAS group (B=3.4, p=0.017). Circuit-based PAS effectively enhances long-term delayed recall in adults diagnosed with aMCI, which includes individuals aged 50-80 years. This enhancement is potentially linked to the decreased functional connectivity between the left hippocampus and left precuneus. ChiCTR2100053315; Chinese Clinical Trial Registry.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1136/jnnp-2023-333152
+
+2. Keywords
+- CLINICAL NEUROLOGY
+- COGNITION
+
+3. Key Findings
+- Using a generalised linear model, significant group&#xd7;FC interaction effects for the improvements in AVLT_N5 scores were found within the circuit-based PAS group (B=3
+
+This study provides insights into:
+- CLINICAL NEUROLOGY assessment methods and outcomes
+- COGNITION assessment methods and outcomes

@@ -1,0 +1,21 @@
+Study Title: Examining the alignment between subjective effort and objective force production.
+
+Study Summary:
+Ratings of Perceived Exertion (RPE) are frequently used to prescribe exercise intensity. A central assumption of using RPE scales is that the subjective perception of effort maps onto objective performance in a consistent way. However, the degree and shape of how RPE aligns with objective performance is not fully understood. Here, we investigate the degree and shape of alignment, as well as how time (i.e., how frequently an effort needs to be performed) and mental effort (i.e., if one has to invest mental effort and physical effort) correspond with the alignment. In a randomized within-subjects experiment, we used a grip-to-scale method that asked participants (N = 43) to repeatedly squeeze a handgrip dynamometer with four to-be-produced RPE target levels relative to their subjective maximum strength (representing 20%, 40%, 60%, or 80%). We found that the RPE-force alignment was not the same across RPE-levels: Whereas subjective differences from 20-40% and 40-60% were met by comparable differences in produced force, a substantially larger difference was observed for the 60-80% interval. Interestingly, exploratory post-hoc analyses revealed that this was mirrored by an increase in variance at the higher effort levels. In addition, at constant RPE-levels, participants produced less force over time, and this effect was more pronounced at lower RPE target levels. Lastly, anticipating mental effort after the physical effort slightly altered the alignment as a function of the to-be-produced RPE-level and experimental duration. Taken together, our results indicate that the mapping of perceived effort on objective performance is intricate, and several factors affect the degree and shape of how RPE and performance align. Understanding the dynamic adjustment of RPE-performance alignment across different RPE levels is particularly relevant for contexts that use RPE as a tool for training load prescription.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1371/journal.pone.0307994
+
+2. Keywords
+
+
+3. Key Findings
+- We found that the RPE-force alignment was not the same across RPE-levels: Whereas subjective differences from 20-40% and 40-60% were met by comparable differences in produced force, a substantially larger difference was observed for the 60-80% interval
+- Interestingly, exploratory post-hoc analyses revealed that this was mirrored by an increase in variance at the higher effort levels
+
+This study provides insights into:
+- General research methodology and outcomes

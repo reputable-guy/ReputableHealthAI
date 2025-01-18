@@ -1,0 +1,27 @@
+Study Title: Quantifying the Enhancement of Sarcopenic Skeletal Muscle Preservation Through a Hybrid Exercise Program: Randomized Controlled Trial.
+
+Study Summary:
+Sarcopenia is characterized by the loss of skeletal muscle mass and muscle function with increasing age. The skeletal muscle mass of older people who endure sarcopenia may be improved via the practice of strength training and tai chi. However, it remains unclear if the hybridization of strength exercise training and traditional Chinese exercise will have a better effect. We designed a strength training and tai chi exercise hybrid program to improve sarcopenia in older people. Moreover, explainable artificial intelligence was used to predict postintervention sarcopenic status and quantify the feature contribution. To assess the influence of sarcopenia in the older people group, 93 participated as experimental participants in a 24-week randomized controlled trial and were randomized into 3 intervention groups, namely the tai chi exercise and strength training hybrid group (TCSG; n=33), the strength training group (STG; n=30), and the control group (n=30). Abdominal computed tomography was used to evaluate the skeletal muscle mass at the third lumbar (L3) vertebra. Analysis of demographic characteristics of participants at baseline used 1-way ANOVA and &#x3c7;2 tests, and repeated-measures ANOVA was used to analyze experimental data. In addition, 10 machine-learning classification models were used to calculate if these participants could reverse the degree of sarcopenia after the intervention. A significant interaction effect was found in skeletal muscle density at the L3 vertebra, skeletal muscle area at the L3 vertebra (L3 SMA), grip strength, muscle fat infiltration, and relative skeletal muscle mass index (all P values were <.05). Grip strength, relative skeletal muscle mass index, and L3 SMA were significantly improved after the intervention for participants in the TCSG and STG (all P values were <.05). After post hoc tests, we found that participants in the TCSG experienced a better effect on L3 SMA than those in the STG and participants in the control group. The LightGBM classification model had the greatest performance in accuracy (88.4%), recall score (74%), and F1-score (76.1%). The skeletal muscle area of older adults with sarcopenia may be improved by a hybrid exercise program composed of strength training and tai chi. In addition, we identified that the LightGBM classification model had the best performance to predict the reversion of sarcopenia.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/58175
+
+2. Keywords
+- explainable artificial intelligence
+- older adults
+- physical exercise program
+- sarcopenia
+- tai chi
+
+3. Key Findings
+- A significant interaction effect was found in skeletal muscle density at the L3 vertebra, skeletal muscle area at the L3 vertebra (L3 SMA), grip strength, muscle fat infiltration, and relative skeletal muscle mass index (all P values were <
+- After post hoc tests, we found that participants in the TCSG experienced a better effect on L3 SMA than those in the STG and participants in the control group
+
+This study provides insights into:
+- explainable artificial intelligence assessment methods and outcomes
+- older adults assessment methods and outcomes
+- physical exercise program assessment methods and outcomes

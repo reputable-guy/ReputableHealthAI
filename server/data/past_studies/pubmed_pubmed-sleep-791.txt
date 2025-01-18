@@ -1,0 +1,20 @@
+Study Title: Generalized Camera-Based Infant Sleep-Wake Monitoring in NICUs: A Multi-Center Clinical Trial.
+
+Study Summary:
+The infant sleep-wake behavior is an essential indicator of physiological and neurological system maturity, the circadian transition of which is important for evaluating the recovery of preterm infants from inadequate physiological function and cognitive disorders. Recently, camera-based infant sleep-wake monitoring has been investigated, but the challenges of generalization caused by variance in infants and clinical environments are not addressed for this application. In this paper, we conducted a multi-center clinical trial at four hospitals to improve the generalization of camera-based infant sleep-wake monitoring. Using the face videos of 64 term and 39 preterm infants recorded in NICUs, we proposed a novel sleep-wake classification strategy, called consistent deep representation constraint (CDRC), that forces the convolutional neural network (CNN) to make consistent predictions for the samples from different conditions but with the same label, to address the variances caused by infants and environments. The clinical validation shows that by using CDRC, all CNN backbones obtain over 85% accuracy, sensitivity, and specificity in both the cross-age and cross-environment experiments, improving the ones without CDRC by almost 15% in all metrics. This demonstrates that by improving the consistency of the deep representation of samples with the same state, we can significantly improve the generalization of infant sleep-wake classification.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1109/JBHI.2024.3371687
+
+2. Keywords
+
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- General research methodology and outcomes

@@ -1,0 +1,26 @@
+Study Title: Reducing Indoor Particulate Air Pollution Improves Student Test Scores: A Randomized Double-Blind Crossover Study.
+
+Study Summary:
+Short-term exposure to air pollution is associated with a decline in cognitive function. Standardized test scores have been employed to evaluate the effects of air pollution exposure on cognitive performance. Few studies aimed to prove whether air pollution is responsible for reduced test scores; none have implemented a "gold-standard" method for assessing the association such as a randomized, double-blind intervention. This study used a "gold-standard" method&#x2500;randomized, double-blind crossover&#x2500;to assess whether reducing short-term indoor particle concentrations results in improved test scores in college students in Tianjin, China. Participants (= 162) were randomly assigned to one of two similar classrooms and completed a standardized English test on two consecutive weekends. Air purifiers with active or sham (i.e., filter removed) particle filtration were placed in each classroom. The filtration mode was switched between the two test days. Linear mixed-effect models were used to evaluate the effect of the intervention mode on the test scores. The results show that air purification (i.e., reducing PM) was significantly associated with increases in thescore for combined (0.11 [95%CI: 0.02, 0.21]) and reading (0.11 [95%CI: 0.00, 0.22]) components. In conclusion, a short-term reduction in indoor particle concentration led to improved test scores in students, suggesting an improvement in cognitive function.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1021/acs.est.3c10372
+
+2. Keywords
+- Indoor air pollution
+- air purification
+- intervention
+- randomized double-blinded crossover study
+- test score
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Indoor air pollution assessment methods and outcomes
+- air purification assessment methods and outcomes
+- intervention assessment methods and outcomes

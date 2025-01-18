@@ -1,0 +1,40 @@
+Study Title: Effects of a Mobile App to Promote Social Participation on Older Adults: Randomized Controlled Trial.
+
+Study Summary:
+Social participation is crucial for healthy aging, improving physical and mental health, cognitive function, and quality of life among older adults. However, social participation tends to decline with age due to factors like loss of social networks and health issues. Mobile health apps show promise in promoting healthy behaviors among older adults, but their effectiveness in increasing social participation remains understudied. This randomized controlled trial aimed to evaluate the efficacy of a mobile app called Encouragement of Social Participation (ESP, "Shakai Sanka no Susume;" Hitachi) in promoting social participation and physical activity among community-dwelling older adults. The study recruited 181 community-dwelling adults aged 60 years or older from 2 municipalities in Japan and through a web-based research panel. Participants were randomly assigned to either the intervention group (n=87), which used the ESP app for 12 weeks, or the control group (n=94), which used only Google Fit. The ESP app incorporated features such as self-monitoring of social participation, personalized feedback, gamification elements, and educational content. Primary outcomes were changes in social participation frequency over the previous 2 months and changes in step counts, measured at baseline and week 12. Secondary outcomes included changes in specific types of social activities and subjective well-being. Data were analyzed using analysis of covariance and linear mixed-effects models. The intervention group showed a significantly greater increase in social participation frequency compared with the control group (adjusted difference 3.03; 95% CI 0.17-5.90; P=.04). Specifically, the intervention group demonstrated higher frequencies of participation in hobbies (adjusted difference: 0.82; 95% CI 0.01-1.63) and cultural clubs (adjusted difference 0.65; 95% CI 0.07-1.23) compared with the control group. However, there were no significant differences in weekly step counts between the groups. Subgroup analyses suggested potentially larger effects among participants who were older than 70 years, female, had lower educational attainment, and were recruited from community settings, although only females and the lower educational attainment subgroups demonstrated 95% CIs that did not encompass zero. The ESP mobile app effectively promoted social participation among community-dwelling older adults, particularly in hobbies and cultural club activities. However, it did not significantly impact physical activity levels as measured by step counts. These findings suggest that mobile apps can be valuable tools for encouraging social engagement in older populations, potentially contributing to healthy aging. Future research should focus on optimizing app features to maintain long-term engagement and exploring strategies to enhance physical activity alongside social participation. University Medical Information Network Clinical Trial Registry UMIN000049045; https://center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000055781.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/64196
+
+2. Keywords
+- aging
+- apps
+- community dwelling older adult
+- digital health
+- digital interventions
+- digital technology
+- elderly
+- exercise
+- geriatrics
+- gerontology
+- mHealth
+- older adults
+- older people
+- physical activity
+- smartphone
+- social participation
+- walking
+
+3. Key Findings
+- The intervention group showed a significantly greater increase in social participation frequency compared with the control group (adjusted difference 3
+- Specifically, the intervention group demonstrated higher frequencies of participation in hobbies (adjusted difference: 0
+- Subgroup analyses suggested potentially larger effects among participants who were older than 70 years, female, had lower educational attainment, and were recruited from community settings, although only females and the lower educational attainment subgroups demonstrated 95% CIs that did not encompass zero
+
+This study provides insights into:
+- aging assessment methods and outcomes
+- apps assessment methods and outcomes
+- community dwelling older adult assessment methods and outcomes

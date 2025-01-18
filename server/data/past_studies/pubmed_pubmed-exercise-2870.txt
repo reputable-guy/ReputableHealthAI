@@ -1,0 +1,24 @@
+Study Title: Fall Risk Associated with Taxanes: Focus on Chemotherapy-Induced Peripheral Neuropathy.
+
+Study Summary:
+Chemotherapy-induced peripheral neuropathy (CIPN) remains a significant toxicity for women with breast cancer receiving taxane-based treatment. This analysis has been done within the context of an ongoing 16-week randomized clinical trial consisting of a gait, balance, and strength training exercise intervention for the lower extremities in women with persistent CIPN who received taxane-based chemotherapy for breast cancer. The aim of this analysis is to determine the baseline fall risk among 62 study participants with persistent taxane-induced CIPN assigned to the control group. This analysis used the baseline demographic, medical data, nerve conduction, gait, balance, and muscle strength variables of participants prior to randomization to develop an explanatory model of fall risk. The analytic approach utilized generalized linear modeling with Lasso to select baseline risk factors for future falls. Characteristics of the study sample by intervention and control group revealed no significant differences between the groups at baseline. The only baseline risk factors that were significantly associated with future falls were near falls within the last month (&#x3b2;&#x202f;=&#x202f;0.90, P&#x202f;=&#x202f;.056) with an odds ratio&#x202f;=&#x202f;2.46, 95% confidence interval 0.31 to 17, and right ankle plantar flexion torque. (&#x3b2;&#x202f;=&#x202f;0. 05, P&#x202f;=&#x202f;.006) with an odds ratio&#x202f;=&#x202f;1.05, 95% confidence interval 1.01 to 1.10. Demographic and medical data, nerve conduction parameters, gait, balance, or muscle strength variables did not significantly influence fall risk in this population. The potential for injury and disability from falls is a considerable concern among oncology clinicians and women with breast cancer and persistent CIPN. While falls and fall risk have been previously examined in other studies of breast cancer survivors, the majority of studies fail to capture the occurrence of "near falls" a significant predictor of fall risk. In addition, it is possible that ankle strength may prove to be a potential target for fall prevention in this population. Evidence-based interventions focused on improving neuropathic symptoms, physical function, and quality of life in persons with CIPN are still needed. Oncology nurses and nurse practitioners should query patients who received taxane-based chemotherapy for not only the incidence and frequency of falls but the occurrence of near falls. A prompt referral to physical therapy may be useful in strengthening the lower extremities to improve balance and prevent falls.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.soncn.2024.151687
+
+2. Keywords
+- Breast Cancer
+- CIPN
+- Fall Risk
+
+3. Key Findings
+- Characteristics of the study sample by intervention and control group revealed no significant differences between the groups at baseline
+
+This study provides insights into:
+- Breast Cancer assessment methods and outcomes
+- CIPN assessment methods and outcomes
+- Fall Risk assessment methods and outcomes

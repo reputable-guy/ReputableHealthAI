@@ -1,0 +1,26 @@
+Study Title: Construction and evaluation of neonatal respiratory failure risk prediction model for neonatal respiratory distress syndrome.
+
+Study Summary:
+Neonatal respiratory distress syndrome (NRDS) is a common respiratory disease in preterm infants, often accompanied by respiratory failure. The aim of this study was to establish and validate a nomogram model for predicting the probability of respiratory failure in NRDS patients. Patients diagnosed with NRDS were extracted from the MIMIC-iv database. The patients were randomly assigned to a training and a validation cohort. Univariate and stepwise Cox regression analyses were used to determine the prognostic factors of NRDS. A nomogram containing these factors was established to predict the incidence of respiratory failure in NRDS patients. The area under the receiver operating characteristic curve (AUC), receiver operating characteristic curve (ROC), calibration curves and decision curve analysis were used to determine the effectiveness of this model. The study included 2,705 patients with NRDS. Univariate and multivariate stepwise Cox regression analysis showed that the independent risk factors for respiratory failure in NRDS patients were gestational age, pH, partial pressure of oxygen (PO), partial pressure of carbon dioxide (PCO), hemoglobin, blood culture, infection, neonatal intracranial hemorrhage, Pulmonary surfactant (PS), parenteral nutrition and respiratory support. Then, the nomogram was constructed and verified. This study identified the independent risk factors of respiratory failure in NRDS patients and used them to construct and evaluate respiratory failure risk prediction model for NRDS. The present findings provide clinicians with the judgment of patients with respiratory failure in NRDS and help clinicians to identify and intervene in the early stage.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s12890-023-02819-4
+
+2. Keywords
+- MIMIC-IV database
+- NRDS
+- Nomogram
+- Predictive model
+- Respiratory failure
+
+3. Key Findings
+- Univariate and multivariate stepwise Cox regression analysis showed that the independent risk factors for respiratory failure in NRDS patients were gestational age, pH, partial pressure of oxygen (PO), partial pressure of carbon dioxide (PCO), hemoglobin, blood culture, infection, neonatal intracranial hemorrhage, Pulmonary surfactant (PS), parenteral nutrition and respiratory support
+
+This study provides insights into:
+- MIMIC-IV database assessment methods and outcomes
+- NRDS assessment methods and outcomes
+- Nomogram assessment methods and outcomes

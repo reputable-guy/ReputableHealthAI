@@ -1,0 +1,20 @@
+Study Title: [Diagnosis of obstructive sleep apnea by a new radar device: a parallel controlled study evaluating agreement with polysomnographic monitoring].
+
+Study Summary:
+This study evaluates the agreement between a new low-load sleep monitoring system, QSA600, based on millimeter-wave radar technology, and polysomnography (PSG) in diagnosing obstructive sleep apnea (OSA).A total of 155 subjects were recruited for a parallel agreement study in the sleep laboratory of the Department of Otorhinolaryngology Head and Neck Surgery at Shanghai Sixth People's Hospital from July to September 2023. The subjects underwent simultaneous monitoring with both PSG and the QSA600 system. One hundred and forty-five subjects consisting of 75 males and 70 females included in the final analysis, with an average age of (35.30&#xb1;12.41) years, an average height of (168.23&#xb1;8.08) cm, and an average weight of (68.28&#xb1;13.74) kg. The subjects were divided into four groups based on the apnea-hypopnea index (AHI): <5.0 events/h (non-OSA group, 39 cases), &#x2265;5.0-<15.0 events/h (mild OSA group, 47 cases), &#x2265;15.0-<30.0 events/h (moderate OSA group, 25 cases), and&#x2265;30.0 events/h (severe OSA group, 34 cases). Intraclass correlation coefficients (ICC), Pearson correlation coefficients (), and Bland-Altman analysis were employed to assess the agreement between the two monitoring techniques regarding AHI and other parameters. Sensitivity and specificity of the QSA600 in diagnosing OSA were evaluated at different AHI thresholds. Statistical analyses were conducted using MATLAB R2022a.Using AHI 5 events/h, 15 events/h and 30 events/h as thresholds, the sensitivity for diagnosing mild, moderate, and severe OSA was 88.68%, 89.83% and 97.06%, respectively. The specificity was 94.87%, 98.84% and 99.10%, respectively. The areas under the receiver operating characteristic (ROC) curve was 0.973 4, 0.990 9 and 0.999 5, respectively. The comparison of key indicators between QSA600 and PSG diagnostic results revealed:a Pearson correlation coefficient of 0.987 2(<0.001) between the AHI measurement values. The mean difference between the Bland-Altman measurement values of the two was -1.43(95%:-8.74-5.88) events/h and the ICC between the two was 0.985 0(95%: 0.975 4-0.990 4).As a new low-load sleep monitoring system, QSA600 demonstrates high concordance with traditional PSG in diagnosing OSA and stratifying its severity, which has promising potential for clinical application. (Clinical trial registration number: NCT06038006).
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3760/cma.j.cn115330-20231204-00267
+
+2. Keywords
+
+
+3. Key Findings
+- The comparison of key indicators between QSA600 and PSG diagnostic results revealed:a Pearson correlation coefficient of 0
+
+This study provides insights into:
+- General research methodology and outcomes

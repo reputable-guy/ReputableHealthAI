@@ -1,0 +1,29 @@
+Study Title: Reliability, sensitivity, and predictive value of fMRI during multiple object tracking as a marker of cognitive training gain in combination with tDCS in stroke survivors.
+
+Study Summary:
+Computerized cognitive training (CCT) combined with transcranial direct current stimulation (tDCS) has showed some promise in alleviating cognitive impairments in patients with brain disorders, but the robustness and possible mechanisms are unclear. In this prospective double-blind randomized clinical trial, we investigated the feasibility and effectiveness of combining CCT and tDCS, and tested the predictive value of and training-related changes in fMRI-based brain activation during attentive performance (multiple object tracking) obtained at inclusion, before initiating training, and after the three-weeks intervention in chronic stroke patients (>6&#x2009;months since hospital admission). Patients were randomized to one of two groups, receiving CCT and either (a) tDCS targeting left dorsolateral prefrontal cortex (1 mA), or (b) sham tDCS, with 40s active stimulation (1 mA) before fade out of the current. Of note, 77 patients were enrolled in the study, 54 completed the cognitive training, and 48 completed all training and MRI sessions. We found significant improvement in performance across all trained tasks, but no additional gain of tDCS. fMRI-based brain activation showed high reliability, and higher cognitive performance was associated with increased tracking-related activation in the dorsal attention network and default mode network as well as anterior cingulate after compared to before the intervention. We found no significant associations between cognitive gain and brain activation measured before training or in the difference in activation after intervention. Combined, these results show significant training effects on trained cognitive tasks in stroke survivors, with no clear evidence of additional gain of concurrent tDCS.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1002/hbm.25284
+
+2. Keywords
+- cognitive training
+- fMRI
+- rehabilitation
+- stroke
+- tDCS
+
+3. Key Findings
+- Computerized cognitive training (CCT) combined with transcranial direct current stimulation (tDCS) has showed some promise in alleviating cognitive impairments in patients with brain disorders, but the robustness and possible mechanisms are unclear
+- We found significant improvement in performance across all trained tasks, but no additional gain of tDCS
+- fMRI-based brain activation showed high reliability, and higher cognitive performance was associated with increased tracking-related activation in the dorsal attention network and default mode network as well as anterior cingulate after compared to before the intervention
+- We found no significant associations between cognitive gain and brain activation measured before training or in the difference in activation after intervention
+
+This study provides insights into:
+- cognitive training assessment methods and outcomes
+- fMRI assessment methods and outcomes
+- rehabilitation assessment methods and outcomes

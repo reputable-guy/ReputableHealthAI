@@ -1,0 +1,25 @@
+Study Title: Blood flow dynamics in the ascending aorta of patients with bicuspid aortic valve before and after transcatheter aortic valve replacement: a computational fluid dynamics study.
+
+Study Summary:
+Abnormal blood flow patterns are known to contribute to the ascending aortic dilation in patients with bicuspid aortic valve (BAV). The present study elucidated the blood flow characteristics in the dilated ascending aorta before and after transcatheter aortic valve replacement (TAVR) using computational fluid dynamics (CFD) analysis. We performed CFD analysis in three BAV patients with ascending aortic dilation (maximum diameter&#x2009;&#x2265;&#x2009;45&#xa0;mm) who underwent TAVR. The blood flow streamline was visualized to evaluate the pre- and post-operative flow velocity, severity of vortex and helix, and wall shear stress (WSS) in the ascending aorta. Before the procedure, all three patients showed abnormal blood flow patterns, with vortex and helix in the ascending aorta. Regionally elevated WSS was also observed in the lateral or posterior ascending aortic wall (16.7&#xa0;Pa, 12.2&#xa0;Pa, and 14.5&#xa0;Pa in patient 1, 2, and 3, respectively). After the procedure, the blood flow patterns significantly improved, and the maximum WSS also decreased (4.2&#xa0;Pa, 1.1&#xa0;Pa, and 3.2&#xa0;Pa in patient 1, 2, and 3, respectively). Abnormal blood flow patterns and WSS appeared to improve after TAVR in BAV patients with ascending aortic dilation. The impact on the long-term aortic growth rate and the incidence of aortic dissection requires further studies. Changes of Ascending Aortic Diameter in Patients Undergoing Transcatheter Aortic Valve Replacement. gov number NCT05739253. Trial registration date 20,230,212.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s12872-024-04394-w
+
+2. Keywords
+- Ascending aortic dilation
+- Bicuspid aortic valve
+- Computational fluid dynamics
+- Transcatheter aortic valve replacement
+
+3. Key Findings
+- Before the procedure, all three patients showed abnormal blood flow patterns, with vortex and helix in the ascending aorta
+
+This study provides insights into:
+- Ascending aortic dilation assessment methods and outcomes
+- Bicuspid aortic valve assessment methods and outcomes
+- Computational fluid dynamics assessment methods and outcomes

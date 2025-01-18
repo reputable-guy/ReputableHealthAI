@@ -1,0 +1,25 @@
+Study Title: Feasibility of Employing mHealth in Delivering Preventive Nutrition Interventions Targeting the First 1000 Days of Life: Experiences from a Community-Based Cluster Randomised Trial in Rural Bangladesh.
+
+Study Summary:
+An Android platform-based customised app and web-linked system was developed to aid in implementing selected nutrition interventions by community health workers (CHWs) in a community-based cluster randomised trial (c-RCT) in rural Bangladesh. Here, we describe the architecture of the intervention delivery system, and explore feasibility of employing mHealth as CHWs' job aid, employing a mixed-method study design covering 17 visits per mother-child dyad. We analysed CHWs' real-time visit information from monitoring and documentation data, and CHWs' qualitative interviews to explore the advantages and barriers of using mHealth as a job aid. Intervention coverage was high across the arms (>90%), except around the narrow perinatal period (51%) due to mothers' cultural practice of moving to their parents' homes and/or hospitals for childbirth. CHWs mentioned technical and functional advantages of the job aid including device portability, easy navigability of content, pictorial demonstration that improved communication, easy information entry, and automated daily scheduling of tasks. Technical challenges included charging tablets, especially in power cut-prone areas, deteriorated battery capacity over continuous device usage, unstable internet network in unsupportive weather conditions, and device safety. Nevertheless, onsite supervision and monitoring by expert supervisors remained important to ensure intervention quality. With appropriate training and supervision, CHWs utilised the tablet-based app proficiently, attaining high coverage of long-term visits. mHealth was thus useful for designing, planning, scheduling, and delivering nutrition interventions through CHWs, and for monitoring and supervision by supervisors. Therefore, this application and job aid can be adopted or replicated into the currently developing national health systems platform for improving coverage and quality of preventive maternal and child nutrition services. In addition, continuous supportive supervision by skilled supervisors must be accompanied to ensure CHWs' task quality. Finally, future studies should rigorously assess undesirable health and environmental effects of mHealth before and after mainstreaming, effective interventions addressing device-induced health hazards should be designed and scaled up, and effective e-waste management must be ensured.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3390/nu16203429
+
+2. Keywords
+- community health worker
+- mHealth
+- nutrition intervention
+- rural Bangladesh
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- community health worker assessment methods and outcomes
+- mHealth assessment methods and outcomes
+- nutrition intervention assessment methods and outcomes

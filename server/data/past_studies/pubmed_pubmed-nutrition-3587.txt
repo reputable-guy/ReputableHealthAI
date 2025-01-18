@@ -1,0 +1,31 @@
+Study Title: Investigating Nutritional and Inflammatory Status as Predictive Biomarkers in Oligoreccurent Prostate Cancer-A RADIOSA Trial Preliminary Analysis.
+
+Study Summary:
+(1) Background: In the RADIOSA phase II randomized clinical trial (NCT03940235), the biology task entails the identification of predictive and prognostic biomarkers in the context of oligorecurrent, castration-sensitive prostate cancer in order to distinguish polymetastatic from oligometastatic disease. This may lay the groundwork for personalized treatments for those patients who could really benefit from metastasis-directed therapies. (2) Methods: Oligorecurrent PCa pts with three or fewer bone or lymph nodal localizations were randomized 1:1 to receive SBRT alone (arm A) or SBRT + 6 months of ADT (arm B). Common serum-derived biomarkers were collected at baseline, and at 3 months after RT. The prognostic nutritional index, an immune and nutrition-based prognostic score, and the controlling nutritional status (CONUT) score, a scoring system for evaluating patient's nutritional status, were calculated in accordance with the body of available literature. As inflammatory indicators, neutrophil-lymphocyte ratio (NLR) and the NLR-albumin ratio (NLRAR) were assessed. Changes in these parameters between baseline and the 3-month timepoint were evaluated both in absolute and relative values. Changes in these parameters between baseline and the 3-month timepoint were evaluated. Significant differences in the trend of these parameters were assessed using the non-parametric Wilcoxon rank-sum test. A network analysis to analyze the relationships between different features stratifying patients according to the arm of study and site of metastases was performed. (3) Results: The current analysis comprised 88 patients (45 arm A, SBRT only, and 43 arm B, SBRT + ADT). When patients were stratified by ADT administration, cholesterol values showed an increasing trend in the group receiving ADT (= 0.005) which was no longer significant at 1 year. When patients were stratified by site of metastases (52 lymph nodal, 29 bone localizations), the value of NLR was found to be increased in patients with bone localizations (< 0.05). In addition, the network analysis showed that BMI and NRI are strongly and directly linked for patients at baseline and that this correlation is no longer found at three months. Finally, when patients were divided according to time from surgery to oligorecurrence (enrollment) the patients with a longer time (>6.7 years) showed an increase in CONUT score from baseline. All the other nutritional and inflammatory scores or parameters investigated in the present analysis showed no statistically significant differences at baseline, three months, 1 year, and in absolute change. (4) Conclusions: The nutritional and inflammatory parameters do not seem to represent valuable candidates for possible use in clinical decision making in our cohort of patients and a reliable biological characterization of the oligometastatic state in prostate cancer still seems far from being achieved. Ongoing molecular analysis will show if there is a role of mutational landscape in the definition of the oligometastatic state.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.3390/nu15214583
+
+2. Keywords
+- biomarkers
+- inflammation
+- nutritional status
+- oligometastatic disease
+- prostate cancer
+- quality of life
+
+3. Key Findings
+- When patients were stratified by ADT administration, cholesterol values showed an increasing trend in the group receiving ADT (= 0
+- When patients were stratified by site of metastases (52 lymph nodal, 29 bone localizations), the value of NLR was found to be increased in patients with bone localizations (< 0
+- In addition, the network analysis showed that BMI and NRI are strongly and directly linked for patients at baseline and that this correlation is no longer found at three months
+- 7 years) showed an increase in CONUT score from baseline
+- All the other nutritional and inflammatory scores or parameters investigated in the present analysis showed no statistically significant differences at baseline, three months, 1 year, and in absolute change
+
+This study provides insights into:
+- biomarkers assessment methods and outcomes
+- inflammation assessment methods and outcomes
+- nutritional status assessment methods and outcomes

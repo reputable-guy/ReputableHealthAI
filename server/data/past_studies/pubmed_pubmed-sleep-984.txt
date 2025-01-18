@@ -1,0 +1,26 @@
+Study Title: Predictors of clinical worsening during a discontinuation trial of serotonin reuptake inhibitors for obsessive compulsive disorder.
+
+Study Summary:
+To explore predictors and moderators of clinical worsening during a double-blind trial in which patients with obsessive-compulsive disorder (OCD) were randomized to either continue or discontinue their Serotonin Reuptake Inhibitor (SRI) medication after achieving wellness from the addition of exposure and response prevention (EX/RP) therapy. The data came from a double-blind discontinuation trial that included N&#xa0;=&#xa0;101 participants, 35 of whom were removed from the study due to clinical worsening. We first used LASSO logistic regression to identify which of the 34 potential baseline variables of interest (including demographics, diagnoses, other relevant clinical constructs, and specific genotypes), might moderate or predict this clinical worsening. Then logistic regression was used to examine which of these identified variables were significantly related to later clinical worsening. We verified the validity of our final prediction model using k-fold cross-validation. There was one significant predictor of clinical worsening: In both groups, those with more past diagnoses had a greater likelihood of clinical worsening (p&#xa0;=&#xa0;.015). There were several moderators. Rates of clinical worsening were higher in the Discontinuation group compared to the Continuation group for participants who were taking a shorter half-life SRI (p&#xa0;=&#xa0;.044), were female (p&#xa0;=&#xa0;.022), had higher baseline levels of maladaptive metacognitions (p&#xa0;<&#xa0;.001), had fewer sleep problems at baseline (p&#xa0;=&#xa0;.001), and/or had more years of education (p&#xa0;<&#xa0;.001). Our results identified several factors that may predict the development of clinical worsening in OCD patients discontinuing SRI medication following successful EX/RP treatment.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.janxdis.2023.102805
+
+2. Keywords
+- Clinical worsening
+- Machine learning, EX/RP
+- Moderators
+- OCD
+- Predictors
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Clinical worsening assessment methods and outcomes
+- Machine learning, EX/RP assessment methods and outcomes
+- Moderators assessment methods and outcomes

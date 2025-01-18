@@ -1,0 +1,28 @@
+Study Title: Effectiveness of a Mindfulness Meditation App Based on an Electroencephalography-Based Brain-Computer Interface in Radiofrequency Catheter Ablation for Patients With Atrial Fibrillation: Pilot Randomized Controlled Trial.
+
+Study Summary:
+Radiofrequency catheter ablation (RFCA) for patients with atrial fibrillation (AF) can generate considerable physical and psychological discomfort under conscious sedation. App-based mindfulness meditation combined with an electroencephalography (EEG)-based brain-computer interface (BCI) shows promise as effective and accessible adjuncts in medical practice. This study aimed to investigate the effectiveness of a BCI-based mindfulness meditation app in improving the experience of patients with AF during RFCA. This single-center pilot randomized controlled trial involved 84 eligible patients with AF scheduled for RFCA, who were randomized 1:1 to the intervention and control groups. Both groups received a standardized RFCA procedure and a conscious sedative regimen. Patients in the control group were administered conventional care, while those in the intervention group received BCI-based app-delivered mindfulness meditation from a research nurse. The primary outcomes were the changes in the numeric rating scale, State Anxiety Inventory, and Brief Fatigue Inventory scores. Secondary outcomes were the differences in hemodynamic parameters (heart rate, blood pressure, and peripheral oxygen saturation), adverse events, patient-reported pain, and the doses of sedative drugs used in ablation. BCI-based app-delivered mindfulness meditation, compared to conventional care, resulted in a significantly lower mean numeric rating scale (mean 4.6, SD 1.7 [app-based mindfulness meditation] vs mean 5.7, SD 2.1 [conventional care]; P=.008), State Anxiety Inventory (mean 36.7, SD 5.5 vs mean 42.3, SD 7.2; P<.001), and Brief Fatigue Inventory (mean 3.4, SD 2.3 vs mean 4.7, SD 2.2; P=.01) scores. No significant differences were observed in hemodynamic parameters or the amounts of parecoxib and dexmedetomidine used in RFCA between the 2 groups. The intervention group exhibited a significant decrease in fentanyl use compared to the control group, with a mean dose of 3.96 (SD 1.37) mcg/kg versus 4.85 (SD 1.25) mcg/kg in the control group (P=.003).The incidence of adverse events was lower in the intervention group (5/40) than in the control group (10/40), though this difference was not significant (P=.15). BCI-based app-delivered mindfulness meditation effectively relieved physical and psychological discomfort and may reduce the doses of sedative medication used in RFCA for patients with AF. ClinicalTrials.gov NCT05306015; https://clinicaltrials.gov/ct2/show/NCT05306015.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.2196/44855
+
+2. Keywords
+- atrial fibrillation
+- brain computer interface
+- mHealth
+- mindfulness meditation
+- radiofrequency catheter ablation
+- randomized controlled trial
+- smartphone app
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- atrial fibrillation assessment methods and outcomes
+- brain computer interface assessment methods and outcomes
+- mHealth assessment methods and outcomes

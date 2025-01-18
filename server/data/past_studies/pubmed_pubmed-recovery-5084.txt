@@ -1,0 +1,29 @@
+Study Title: Comparison of Implant Precision with Robots, Navigation, or Static Guides.
+
+Study Summary:
+Precise surgical positioning according to a digital plan is important for aesthetic and biologically stable dental implant restorations. This randomized controlled trial compared implant placement assisted by robotic surgery (RS), dynamic navigation (DN), or 3-dimensional printed static guide (SG). An overall 45 patients with a missing tooth in the premolar/molar region were randomly assigned to 1 of the 3 groups. Implant positional accuracy (primary outcome), early wound healing, soft tissue microcirculation, patient-reported outcome measures, and surgeon preference were measured by calibrated blind examiners. One adverse event occurred in DN and RS. In RS (= 15), the global platform, apex deviation, and angular deviations (mean &#xb1; SD) were 1.1 &#xb1; 0.4 mm, 1.5 &#xb1; 0.6 mm, and 4.7&#xb0; &#xb1; 2.5&#xb0;, respectively. Similarly, deviations were 1.3 &#xb1; 0.6 mm, 1.9 &#xb1; 0.9 mm, and 5.5&#xb0; &#xb1; 3.5&#xb0; in the DN group (= 14) and 1.1 &#xb1; 0.6 mm, 2.0 &#xb1; 1.2 mm, and 6.2&#xb0; &#xb1; 4.0&#xb0; in the SG group (= 13). Significantly smaller differential deviations (mesial-distal) at the platform and apex levels were found in the RS group than the SG group (< 0.05). Surgery was significantly shorter with a SG (< 0.001), and this was associated with better postoperative recovery at 3 d. The surgeon assessed DN as providing easier access to reach the surgical site. No significant differences were found upon comparing soft tissue microcirculation and oxygen saturation immediately, 1 h, or 7 d after surgery. Patient-reported outcomes were comparable in the 3 groups, except that patients in the SG group reported better oral health-related quality of life 3 d after surgery. It can be concluded that RS showed near-zero 3-dimensional systematic error in implant position, while DN and SG demonstrated a centrifugal error pattern. All 3 guided approaches had uneventful wound healing and acceptable patient-reported outcomes. The 3 groups had specific cost-benefit profiles. After additional technical developments, future trials with larger sample sizes and longer follow-up periods should be performed to analyze the cost-effectiveness of different guided surgical approaches.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1177/00220345241285566
+
+2. Keywords
+- computer-aided design
+- computer-aided surgery
+- dental implant
+- randomized controlled trial
+- robot surgery
+- surgical navigation system
+
+3. Key Findings
+- Significantly smaller differential deviations (mesial-distal) at the platform and apex levels were found in the RS group than the SG group (< 0
+- No significant differences were found upon comparing soft tissue microcirculation and oxygen saturation immediately, 1 h, or 7 d after surgery
+- It can be concluded that RS showed near-zero 3-dimensional systematic error in implant position, while DN and SG demonstrated a centrifugal error pattern
+
+This study provides insights into:
+- computer-aided design assessment methods and outcomes
+- computer-aided surgery assessment methods and outcomes
+- dental implant assessment methods and outcomes

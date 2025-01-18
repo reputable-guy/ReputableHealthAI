@@ -1,0 +1,27 @@
+Study Title: Assessing Changes in Motor Function and Mobility in Individuals with Parkinson's Disease After 12 Sessions of Patient-Specific Adaptive Dynamic Cycling.
+
+Study Summary:
+This pilot randomized controlled trial evaluated the effects of 12 sessions of patient-specific adaptive dynamic cycling (PSADC) versus non-adaptive cycling (NA) on motor function and mobility in individuals with Parkinson's disease (PD), using inertial measurement unit (IMU) sensors for objective assessment. Twenty-three participants with PD (13 in the PSADC group and 10 in the NA group) completed the study over a 4-week period. Motor function was measured using the Kinesia&#x2122; sensors and the MDS-UPDRS Motor III, while mobility was assessed with the TUG test using OPAL IMU sensors. The PSADC group showed significant improvements in MDS-UPDRS Motor III scores (= 5.165,< 0.001) and dopamine-sensitive symptoms (= 4.629,= 0.001), whereas the NA group did not improve. Both groups showed non-significant improvements in TUG time. IMU sensors provided continuous, quantitative, and unbiased measurements of motor function and mobility, offering a more precise and objective tracking of improvements over time. PSADC demonstrated enhanced treatment effects on PD motor function compared to NA while also reducing variability in individual responses. The integration of IMU sensors was essential for precise monitoring, supporting the potential of a data-driven, individualized exercise approach to optimize treatment outcomes for individuals with PD.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3390/s24227364
+
+2. Keywords
+- motor control
+- movement disorders
+- neurorehabilitation
+- wearable technology
+
+3. Key Findings
+- The PSADC group showed significant improvements in MDS-UPDRS Motor III scores (= 5
+- Both groups showed non-significant improvements in TUG time
+- PSADC demonstrated enhanced treatment effects on PD motor function compared to NA while also reducing variability in individual responses
+
+This study provides insights into:
+- motor control assessment methods and outcomes
+- movement disorders assessment methods and outcomes
+- neurorehabilitation assessment methods and outcomes

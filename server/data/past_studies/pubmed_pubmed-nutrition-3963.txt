@@ -1,0 +1,27 @@
+Study Title: Diagnostic value of combining preoperative inflammatory markers ratios with CA199 for patients with early-stage pancreatic cancer.
+
+Study Summary:
+An early diagnosis of pancreatic cancer (PC) is extremely difficult because of the lack of sensitive liquid biopsy methods and effective biomarkers. We attempted to evaluate whether circulating inflammatory marker could complement CA199 for the detection of early-stage PC. We enrolled 430 patients with early-stage PC, 287 patients with other pancreatic tumors (OPT), and 401 healthy controls (HC). The patients and HC were randomly divided into a training set (n&#x2009;=&#x2009;872) and two testing sets (n&#x2009;=&#x2009;218, n&#x2009;=&#x2009;28). The receiver operating characteristic (ROC) curves were investigated to evaluate the diagnostic performance of circulating inflammatory markers ratios, CA199, and combinations of the markers ratios in the training set, which would then be validated in the two testing sets. Circulating fibrinogen, neutrophils, and monocytes in patients with PC were significantly higher while circulating albumin, prealbumin, lymphocytes, and platelets of patients with PC were significantly lower compared to those of HC and OPT (all P&#x2009;<&#x2009;0.05). The fibrinogen-to-albumin (FAR), fibrinogen-to-prealbumin (FPR), neutrophil-to-lymphocyte (NLR), platelet-to-lymphocyte (PLR), monocyte-to-lymphocyte (MLR), and fibrinogen-to-lymphocyte (FLR) ratios were significantly higher while the prognostic nutrition index values (PNI) were lower in patients with PC than in HC and OPT (all P&#x2009;<&#x2009;0.05). Combining the FAR, FPR, and FLR with CA199 exhibited the best diagnostic value for distinguishing patients with early-stage PC from HC with an area under the curve (AUC) of 0.964, and for distinguishing patients with early-stage PC from OPT with an AUC of 0.924 in the training sets. In the testing set, compared with HC, the combination markers had powerful efficiency for PC with an AUC 0.947 and AUC 0.942 when comparing PC with OPT. The AUC was 0.915 for the combination of CA199, FAR, FPR, and FLR for differentiating between patients with pancreatic head cancer (PHC) and other pancreatic head tumors (OPHT), and 0.894 for differentiating between patients with pancreatic body and tail cancer (PBTC) and other pancreatic body and tail tumors (OPBTT). A combination of FAR, FPR, FLR, and CA199 may serve as a potential non-invasive biomarker for differentiating early-stage PC from HC and OPT, especially early-stage PHC.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1186/s12885-023-10653-4
+
+2. Keywords
+- Diagnosis
+- Early-stage pancreatic cancer
+- FAR
+- FLR
+- FPR
+- Inflammatory
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Diagnosis assessment methods and outcomes
+- Early-stage pancreatic cancer assessment methods and outcomes
+- FAR assessment methods and outcomes

@@ -1,0 +1,26 @@
+Study Title: Neurocognitive Graphs of First-Episode Schizophrenia and Major Depression Based on Cognitive Features.
+
+Study Summary:
+Neurocognitive deficits are frequently observed in patients with schizophrenia and major depressive disorder (MDD). The relations between cognitive features may be represented by neurocognitive graphs based on cognitive features, modeled as Gaussian Markov random fields. However, it is unclear whether it is possible to differentiate between phenotypic patterns associated with the differential diagnosis of schizophrenia and depression using this neurocognitive graph approach. In this study, we enrolled 215 first-episode patients with schizophrenia (FES), 125 with MDD, and 237 demographically-matched healthy controls (HCs). The cognitive performance of all participants was evaluated using a battery of neurocognitive tests. The graphical LASSO model was trained with a one-vs-one scenario to learn the conditional independent structure of neurocognitive features of each group. Participants in the holdout dataset were classified into different groups with the highest likelihood. A partial correlation matrix was transformed from the graphical model to further explore the neurocognitive graph for each group. The classification approach identified the diagnostic class for individuals with an average accuracy of 73.41% for FES vs HC, 67.07% for MDD vs HC, and 59.48% for FES vs MDD. Both of the neurocognitive graphs for FES and MDD had more connections and higher node centrality than those for HC. The neurocognitive graph for FES was less sparse and had more connections than that for MDD. Thus, neurocognitive graphs based on cognitive features are promising for describing endophenotypes that may discriminate schizophrenia from depression.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2018
+- DOI: 10.1007/s12264-017-0190-6
+
+2. Keywords
+- Graphical LASSO
+- Major depressive disorder
+- Neurocognition
+- Neurocognitive graph
+- Schizophrenia
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Graphical LASSO assessment methods and outcomes
+- Major depressive disorder assessment methods and outcomes
+- Neurocognition assessment methods and outcomes

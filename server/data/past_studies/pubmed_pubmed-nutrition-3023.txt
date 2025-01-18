@@ -1,0 +1,45 @@
+Study Title: An Image-Recognition Dietary Assessment App for Adolescents With Obesity: Pilot Randomized Controlled Trial.
+
+Study Summary:
+Adolescence is a period of increased susceptibility to developing obesity-related health issues due to poor eating patterns and increased sedentary behaviors. Recommendations for pediatric obesity management include dietary assessments. However, adolescents often avoid food logging through traditional methods. The use of image-recognition dietary assessment apps in adolescents with obesity is not well studied. Eating for Wellness (E4W) is a mobile app that determines the nutritional content of meals from photos and incorporates nutritional goal setting. Nutritional data can be displayed for health care providers (HCPs) via the Clinician Portal, while the data are presented to the user in a manner that minimizes the focus on calorie counting. This study aims to evaluate the usability and feasibility of E4W, a mobile health app designed to improve dietary intake in adolescents with obesity attending an obesity clinic, using a phased approach. The overall study was conducted in 2 phases to refine and evaluate E4W. In Phase 1, usability was tested through 3 iterative cycles of patient interviews. A total of 14 patient participants, aged 12-18 years with a BMI&#x2265;97th percentile, were included. Participants performed standardized scenario-based tasks in E4W and provided feedback on the app. Two iterative cycles were conducted for HCPs (n=4). Refinements were made during each cycle based on issues encountered and feedback provided. In Phase 2, a pilot randomized controlled trial of 32 adolescents (16 adolescents enrolled in the experimental group for 1 month, and 16 controls enrolled for 1 month) was completed. Both groups met with their dietitian at baseline, midstudy, and 1 month following their baseline visit to discuss goals and eating patterns. The control group was instructed to take photos of all intake using their default phone camera, without access to E4W, while those in the experimental group received full access to E4W. The primary outcome was the feasibility of implementation. Secondary outcomes examined overall change in dietary intake and achievement of nutritional goals. Usability testing demonstrated that E4W and the Clinician Portal were easy to use, efficient, and well-liked by patients and HCPs. Feasibility testing revealed high patient acceptability scores. However, significant technical challenges were encountered. Although the use of E4W did not significantly impact patient engagement (control: mean 0.9, SD 0.7; experimental: mean 1.7, SD 1.9; P=.14), there were outliers in the experimental group with very high engagement and improved self-reported efficacy. Overall, there was no improvement in dietary intake, although assessment was hindered by poor adherence to traditional methods of food logging. E4W and the Clinician Portal were well-received by patients and HCPs. Further research is warranted and planned to determine if E4W can improve dietary intake and achievement of nutritional goals in adolescents with obesity. ClinicalTrials.gov NCT05548868; https://clinicaltrials.gov/study/NCT05548868.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/58682
+
+2. Keywords
+- adolescent
+- diet
+- dietary
+- dietary app
+- dietary assessment
+- digital health app
+- feasibility
+- image recognition
+- mHealth
+- mobile health
+- mobile phone
+- nutrition
+- nutritional
+- obesity
+- obesity management
+- patient engagement
+- pilot randomized controlled trial
+- teens
+- usability
+- user
+- weight
+- weight management
+- youth
+
+3. Key Findings
+- Usability testing demonstrated that E4W and the Clinician Portal were easy to use, efficient, and well-liked by patients and HCPs
+- Feasibility testing revealed high patient acceptability scores
+
+This study provides insights into:
+- adolescent assessment methods and outcomes
+- diet assessment methods and outcomes
+- dietary assessment methods and outcomes

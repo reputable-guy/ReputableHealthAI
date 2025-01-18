@@ -1,0 +1,27 @@
+Study Title: Cognitive flexibility: A distinct element of performance impairment due to sleep deprivation.
+
+Study Summary:
+In around-the-clock operations, reduced alertness due to circadian misalignment and sleep loss causes performance impairment, which can lead to catastrophic errors and accidents. There is mounting evidence that performance on different tasks is differentially affected, but the general principles underlying this differentiation are not well understood. One factor that may be particularly relevant is the degree to which tasks require executive control, that is, control over the initiation, monitoring, and termination of actions in order to achieve goals. A key aspect of this is cognitive flexibility, i.e., the deployment of cognitive control resources to adapt to changes in events. Loss of cognitive flexibility due to sleep deprivation has been attributed to "feedback blunting," meaning that feedback on behavioral outcomes has reduced salience - and that feedback is therefore less effective at driving behavior modification under changing circumstances. The cognitive mechanisms underlying feedback blunting are as yet unknown. Here we present data from an experiment that investigated the effects of sleep deprivation on performance after an unexpected reversal of stimulus-response mappings, requiring cognitive flexibility to maintain good performance. Nineteen healthy young adults completed a 4-day in-laboratory study. Subjects were randomized to either a total sleep deprivation condition (n&#x202f;=&#x202f;11) or a control condition (n&#x202f;=&#x202f;8). Athree-phase reversal learning decision task was administered at baseline, and again after 30.5&#x202f;h of sleep deprivation, or matching well-rested control. The task was based on a go/no go task paradigm, in which stimuli were assigned to either a go (response) set or a no go (no response) set. Each phase of the task included four stimuli (two in the go set and two in the no go set). After each stimulus presentation, subjects could make a response within 750&#x202f;ms or withhold their response. They were then shown feedback on the accuracy of their response. In phase 1 of the task, subjects were explicitly told which stimuli were assigned to the go and no go sets. In phases 2 and 3, new stimuli were used that were different from those used in phase 1. Subjects were not explicitly told the go/no go mappings and were instead required to use accuracy feedback to learn which stimuli were in the go and nogo sets. Phase 3 continued directly from phase 2 and retained the same stimuli as in phase 2, but there was an unannounced reversal of the stimulus-response mappings. Task results confirmed that sleep deprivation resulted in loss of cognitive flexibility through feedback blunting, and that this effect was not produced solely by (1) general performance impairment because of overwhelming sleep drive; (2) reduced working memory resources available to perform the task; (3) incomplete learning of stimulus-response mappings before the unannounced reversal; or (4) interference with stimulus identification through lapses in vigilant attention. Overall, the results suggest that sleep deprivation causes a fundamental problem with dynamic attentional control. This element of performance impairment due to sleep deprivation appears to be distinct from vigilant attention deficits, and represents a particularly significant challenge for fatigue risk management.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2019
+- DOI: 10.1016/j.aap.2018.02.013
+
+2. Keywords
+- Cognitive performance
+- Decision making
+- Dynamic attentional control
+- Fatigue risk management
+- Feedback blunting
+- Reversal learning
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Cognitive performance assessment methods and outcomes
+- Decision making assessment methods and outcomes
+- Dynamic attentional control assessment methods and outcomes

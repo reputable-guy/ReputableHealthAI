@@ -1,0 +1,24 @@
+Study Title: Differential Responders to a Mixed Meal Tolerance Test Associated with Type 2 Diabetes Risk Factors and Gut Microbiota-Data from the MEDGI-Carb Randomized Controlled Trial.
+
+Study Summary:
+The global prevalence of type 2 diabetes mellitus (T2DM) has surged in recent decades, and the identification of differential glycemic responders can aid tailored treatment for the prevention of prediabetes and T2DM. A mixed meal tolerance test (MMTT) based on regular foods offers the potential to uncover differential responders in dynamical postprandial events. We aimed to fit a simple mathematical model on dynamic postprandial glucose data from repeated MMTTs among participants with elevated T2DM risk to identify response clusters and investigate their association with T2DM risk factors and gut microbiota. Data were used from a 12-week multi-center dietary intervention trial involving high-risk T2DM adults, comparing high- versus low-glycemic index foods within a Mediterranean diet context (MEDGICarb). Model-based analysis of MMTTs from 155 participants (81 females and 74 males) revealed two distinct plasma glucose response clusters that were associated with baseline gut microbiota. Cluster A, inversely associated with HbA1c and waist circumference and directly with insulin sensitivity, exhibited a contrasting profile to cluster B. Findings imply that a standardized breakfast MMTT using regular foods could effectively distinguish non-diabetic individuals at varying risk levels for T2DM using a simple mechanistic model.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.3390/nu15204369
+
+2. Keywords
+- clustering
+- differential responders
+- personalized nutrition
+
+3. Key Findings
+- Model-based analysis of MMTTs from 155 participants (81 females and 74 males) revealed two distinct plasma glucose response clusters that were associated with baseline gut microbiota
+
+This study provides insights into:
+- clustering assessment methods and outcomes
+- differential responders assessment methods and outcomes
+- personalized nutrition assessment methods and outcomes

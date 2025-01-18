@@ -1,0 +1,31 @@
+Study Title: The Effectiveness of a Neurofeedback-Assisted Mindfulness Training Program Using a Mobile App on Stress Reduction in Employees: Randomized Controlled Trial.
+
+Study Summary:
+Mindfulness-based training programs have consistently shown efficacy in stress reduction. However, questions regarding the optimal duration and most effective delivery methods remain. This research explores a 4-week neurofeedback-assisted mindfulness training for employees via a mobile app. The study's core query is whether incorporating neurofeedback can amplify the benefits on stress reduction and related metrics compared with conventional mindfulness training. A total of 92 full-time employees were randomized into 3 groups: group 1 received mobile mindfulness training with neurofeedback assistance (n=29, mean age 39.72 years); group 2 received mobile mindfulness training without neurofeedback (n=32, mean age 37.66 years); and group 3 were given self-learning paper materials on stress management during their first visit (n=31, mean age 38.65 years). The primary outcomes were perceived stress and resilience scales. The secondary outcomes were mindfulness awareness, emotional labor, occupational stress, insomnia, and depression. Heart rate variability and electroencephalography were measured for physiological outcomes. These measurements were collected at 3 different times, namely, at baseline, immediately after training, and at a 4-week follow-up. The generalized estimating equation model was used for data analysis. The 4-week program showed significant stress reduction (Wald &#x3c7;=107.167, P<.001) and improvements in psychological indices including resilience, emotional labor, insomnia, and depression. A significant interaction was observed in resilience (time &#xd7; group, Wald &#x3c7;=10.846, P=.02). The post hoc analysis showed a statistically significant difference between groups 1 (least squares mean [LSM] 21.62, SE 0.55) and 3 (LSM 19.90, SE 0.61) at the posttraining assessment (P=.008). Group 1 showed a significant improvement (P<.001) at the posttraining assessment, with continued improvements through the 1-month follow-up assessment period (LSM 21.55, SE 0.61). Physiological indices were analyzed only for data of 67 participants (22 in group 1, 22 in group 2, and 23 in group 3) due to the data quality. The relaxation index (ratio of alpha to high beta power) from the right electroencephalography channel showed a significant interaction (time &#xd7; group, Wald &#x3c7;=6.947, P=.03), with group 1 revealing the highest improvement (LSM 0.43, SE 0.15) compared with groups 2 (LSM -0.11, SE 0.10) and 3 (LSM 0.12, SE 0.10) at the 1-month follow-up assessment. The study demonstrated that the neurofeedback-assisted group achieved superior outcomes in resilience and relaxation during the 4-week mobile mindfulness program. Further research with larger samples and long-term follow-up is warranted. ClinicalTrials.gov NCT03787407; https://clinicaltrials.gov/ct2/show/NCT03787407.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.2196/42851
+
+2. Keywords
+- employee
+- mindfulness
+- mobile app
+- neurofeedback
+- resilience
+- stress
+
+3. Key Findings
+- The 4-week program showed significant stress reduction (Wald &#x3c7;=107
+- The post hoc analysis showed a statistically significant difference between groups 1 (least squares mean [LSM] 21
+- Group 1 showed a significant improvement (P<
+- The relaxation index (ratio of alpha to high beta power) from the right electroencephalography channel showed a significant interaction (time &#xd7; group, Wald &#x3c7;=6
+- The study demonstrated that the neurofeedback-assisted group achieved superior outcomes in resilience and relaxation during the 4-week mobile mindfulness program
+
+This study provides insights into:
+- employee assessment methods and outcomes
+- mindfulness assessment methods and outcomes
+- mobile app assessment methods and outcomes

@@ -1,0 +1,27 @@
+Study Title: Testing the Pragmatic Effectiveness of a Consumer-Based Mindfulness Mobile App in the Workplace: Randomized Controlled Trial.
+
+Study Summary:
+Mental health and sleep problems are prevalent in the workforce, corresponding to costly impairment in productivity and increased health care use. Digital mindfulness interventions are efficacious in improving sleep and mental health in the workplace; however, evidence supporting their pragmatic utility, potential for improving productivity, and ability to reduce employer costs is limited. This pragmatic, cluster randomized controlled trial aimed to evaluate the experimental effects of implementing a commercially available mindfulness app-Calm-in employees of a large, multisite employer in the United States. Outcomes included mental health (depression, anxiety, and stress), sleep (insomnia and daytime sleepiness), resilience, productivity impairment (absenteeism, presenteeism, overall work impairment, and non-work activity impairment), and health care use (medical visit frequency). Employees were randomized at the work site to receive either the Calm app intervention or waitlist control. Participants in the Calm intervention group were instructed to use the Calm app for 10 minutes per day for 8 weeks; individuals with elevated baseline insomnia symptoms could opt-in to 6 weeks of sleep coaching. All outcomes were assessed every 2 weeks, with the exception of medical visits (weeks 4 and 8 only). Effects of the Calm intervention on outcomes were evaluated via mixed effects modeling, controlling for relevant baseline characteristics, with fixed effects of the intervention on outcomes assessed at weeks 2, 4, 6, and 8. Models were analyzed via complete-case and intent-to-treat analyses. A total of 1029 employees enrolled (n=585 in the Calm intervention group, including 101 who opted-in to sleep coaching, and n=444 in waitlist control). Of them, 192 (n=88 for the Calm intervention group and n=104 for waitlist) completed all 5 assessments. In the complete-case analysis at week 8, employees at sites randomized to the Calm intervention group experienced significant improvements in depression (P=.02), anxiety (P=.01), stress (P<.001), insomnia (P<.001), sleepiness (P<.001), resilience (P=.02), presenteeism (P=.01), overall work impairment (P=.004), and nonwork impairment (P<.001), and reduced medical care visit frequency (P<.001) and productivity impairment costs (P=.01), relative to the waitlist control. In the intent-to-treat analysis at week 8, significant benefits of the intervention were observed for depression (P=.046), anxiety (P=.01), insomnia (P<.001), sleepiness (P<.001), nonwork impairment (P=.04), and medical visit frequency (P<.001). The results suggest that the Calm app is an effective workplace intervention for improving mental health, sleep, resilience, and productivity and for reducing medical visits and costs owing to work impairment. Future studies should identify optimal implementation strategies that maximize employee uptake and large-scale implementation success across diverse, geographically dispersed employers. ClinicalTrials.gov NCT05120310; https://clinicaltrials.gov/ct2/show/NCT05120310.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.2196/38903
+
+2. Keywords
+- mental health
+- mindfulness
+- mobile apps
+- presenteeism
+- workforce
+- workplace
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- mental health assessment methods and outcomes
+- mindfulness assessment methods and outcomes
+- mobile apps assessment methods and outcomes

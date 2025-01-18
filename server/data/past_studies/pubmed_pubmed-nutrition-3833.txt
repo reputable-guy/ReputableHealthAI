@@ -1,0 +1,27 @@
+Study Title: A randomized clinical trial comparing low-fat with precision nutrition-based diets for weight loss: impact on glycemic variability and HbA1c.
+
+Study Summary:
+Recent studies have demonstrated considerable interindividual variability in postprandial glucose response (PPGR) to the same foods, suggesting the need for more precise methods for predicting and controlling PPGR. In the Personal Nutrition Project, the investigators tested a precision nutrition algorithm for predicting an individual's PPGR. This study aimed to compare changes in glycemic variability (GV) and HbA1c in 2 calorie-restricted weight loss diets in adults with prediabetes or moderately controlled type 2 diabetes (T2D), which were tertiary outcomes of the Personal Diet Study. The Personal Diet Study was a randomized clinical trial to compare a 1-size-fits-all low-fat diet (hereafter, standardized) with a personalized diet (hereafter, personalized). Both groups received behavioral weight loss counseling and were instructed to self-monitor diets using a smartphone application. The personalized arm received personalized feedback through the application to reduce their PPGR. Continuous glucose monitoring (CGM) data were collected at baseline, 3 mo and 6 mo. Changes in mean amplitude of glycemic excursions (MAGEs) and HbA1c at 6 mo were assessed. We performed an intention-to-treat analysis using linear mixed regressions. We included 156 participants [66.5% women, 55.7% White, 24.1% Black, mean age 59.1 y (standard deviation (SD) = 10.7 y)] in these analyses (standardized = 75, personalized = 81). MAGE decreased by 0.83 mg/dL per month for standardized (95% CI: 0.21, 1.46 mg/dL; P = 0.009) and 0.79 mg/dL per month for personalized (95% CI: 0.19, 1.39 mg/dL; P = 0.010) diet, with no between-group differences (P = 0.92). Trends were similar for HbA1c values. Personalized diet did not result in an increased reduction in GV or HbA1c in patients with prediabetes and moderately controlled T2D, compared with a standardized diet. Additional subgroup analyses may help to identify patients who are more likely to benefit from this personalized intervention. This trial was registered at clinicaltrials.gov as NCT03336411.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1016/j.ajcnut.2023.05.026
+
+2. Keywords
+- MAGE
+- diabetes
+- glycemic variability
+- low-fat diet
+- personalized nutrition
+- precision nutrition
+
+3. Key Findings
+- Recent studies have demonstrated considerable interindividual variability in postprandial glucose response (PPGR) to the same foods, suggesting the need for more precise methods for predicting and controlling PPGR
+
+This study provides insights into:
+- MAGE assessment methods and outcomes
+- diabetes assessment methods and outcomes
+- glycemic variability assessment methods and outcomes

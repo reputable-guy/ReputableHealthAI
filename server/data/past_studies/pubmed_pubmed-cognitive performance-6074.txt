@@ -1,0 +1,20 @@
+Study Title: Effect of Endovascular Thrombectomy for Acute Ischemic Stroke on Cognitive Outcomes: A Secondary Analysis of the ESCAPE Trial.
+
+Study Summary:
+The effect of endovascular therapy (EVT) for large vessel occlusion stroke on cognitive outcomes is not well understood. We evaluated the effect of EVT on cognitive function in the Endovascular Treatment for Small Core and Anterior Circulation Proximal Occlusion With Emphasis on Minimizing CT to Recanalization Times (ESCAPE) trial. Patient data from the ESCAPE randomized trial were analyzed. Cognitive assessments completed at 90 days after stroke were the Montreal Cognitive Assessment (MoCA), the Sunnybrook Neglect Assessment Procedure (SNAP), the Boston Naming Test (BNT), Trail-making test A (Trails A), and Trail-making test B (Trails B). We used logistic regression to evaluate the association between EVT and favorable cognitive outcome on the 5 separate tests, adjusting for demographic and clinical factors. We used generalized estimating equations and ordinal regression to determine the odds of favorable outcome with EVT on global cognition incorporating the 5 tests. We added final infarct volume (FIV) to the models to assess the relationship of FIV with cognitive outcome. The ESCAPE trial included 315 patients, 165 randomized to EVT and 150 randomized to control. There was higher odds of favorable outcome with EVT for MoCA (adjusted odds ratio [aOR] 2.32, 95% CI 1.30-4.16), SNAP (aOR 3.85, 95% CI 2.00-7.45), BNT (aOR 2.33, 95% CI 1.30-4.17), trails A (aOR 3.50, 95% CI 1.93-6.36), and trails B (aOR 2.56, 95% CI 1.46-4.48). There was higher odds of favorable outcome with EVT on global binary (aOR 2.57, 95% CI 1.67-3.94) and ordinal analyses (aOR 2.83, 95% CI 1.68-4.76) of cognitive function. After adding FIV to the models, both FIV and EVT were significantly associated with cognitive outcome. There was a significant correlation between global cognitive performance and mRS at day 90 (= -0.78,< 0.001), with the largest reductions in favorable cognitive outcome from mRS score 4 to 5 and from mRS 2 to 3. In this secondary analysis of the ESCAPE trial, EVT was associated with favorable outcome on 5 separate cognitive tests and in global analyses of cognitive benefit. These results provide novel evidence for the effect of EVT on cognition and support the global benefit of treatment with EVT. This study provides Class II evidence that in patients with acute ischemic stroke due to intracranial internal carotid artery (ICA) or M1 segment MCA occlusion, including tandem extracranial ICA occlusions, EVT compared with best medical therapy increased odds of favorable cognitive outcome.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1212/WNL.0000000000209270
+
+2. Keywords
+
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- General research methodology and outcomes

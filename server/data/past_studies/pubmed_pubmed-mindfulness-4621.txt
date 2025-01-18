@@ -1,0 +1,20 @@
+Study Title: Which adolescents are well-suited to app-based mindfulness training? A randomized clinical trial and data-driven approach for personalized recommendations.
+
+Study Summary:
+Rumination heightens risk for depression and anxiety, which increase substantially during adolescence. Smartphone apps offer a convenient and cost-effective means for adolescents to access mindfulness training, which may reduce rumination. Despite their increasing popularity, it is unclear which adolescents benefit from mindfulness apps. Adolescents (n = 152) with elevated trait rumination were randomly assigned to 3 weeks of app-based mindfulness training or a mood-monitoring control. Multilevel models tested group differences in state rumination change, assessed via ecological momentary assessment. Baseline adolescent characteristics were submitted to elastic net regularization models to develop a "Personalized Advantage Index" indicating an individual's expected outcome from the mindfulness app relative to the mood-monitoring control. Finally, we translated a predictive model (developed in an external sample) for personalized recommendations of expected benefit from the mindfulness app. Adolescents in the mindfulness app condition reported significantly greater reductions in rumination than adolescents in the control condition. Individuals predicted to have better outcomes from the mindfulness app relative to mood monitoring had significantly greater reductions in rumination if randomly assigned to the mindfulness condition. In contrast, between-condition differences in outcome were not significant for adolescents predicted to have better outcomes in the mood-monitoring condition. Findings support the efficacy of a mindfulness app to reduce state rumination in adolescents, particularly among adolescents high in trait rumination. A predictive model is put forth, which could be used to objectively communicate expected mindfulness app outcomes to adolescents prior to engagement in app-based mindfulness training. (PsycInfo Database Record (c) 2022 APA, all rights reserved).
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1037/ccp0000763
+
+2. Keywords
+
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- General research methodology and outcomes

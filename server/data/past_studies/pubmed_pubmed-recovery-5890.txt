@@ -1,0 +1,20 @@
+Study Title: Abatacept Pharmacokinetics and Exposure Response in Patients Hospitalized With COVID-19: A Secondary Analysis of the ACTIV-1 IM Randomized Clinical Trial.
+
+Study Summary:
+The pharmacokinetics of abatacept and the association between abatacept exposure and outcomes in patients with severe COVID-19 are unknown. To characterize abatacept pharmacokinetics, relate drug exposure with clinical outcomes, and evaluate the need for dosage adjustments. This study is a secondary analysis of data from the ACTIV-1 (Accelerating COVID-19 Therapeutic Interventions and Vaccines) Immune Modulator (IM) randomized clinical trial conducted between October 16, 2020, and December 31, 2021. The trial included hospitalized adults who received abatacept in addition to standard of care for treatment of COVID-19 pneumonia. Data analysis was performed between September 2022 and February 2024. Single intravenous infusion of abatacept (10 mg/kg with a maximum dose of 1000 mg). Mortality at day 28 was the primary outcome of interest, and time to recovery at day 28 was the secondary outcome. Drug exposure was assessed using the projected area under the serum concentration time curve over 28 days (AUC0-28). Logistic regression modeling was used to analyze the association between drug exposure and 28-day mortality, adjusted for age, sex, and disease severity. The association between time to recovery and abatacept exposure was examined using Fine-Gray modeling with death as a competing risk, and was adjusted for age, sex, and disease severity. Of the 509 patients who received abatacept, 395 patients with 848 serum samples were included in the population pharmacokinetic analysis. Their median age was 55 (range, 19-89) years and most (250 [63.3%]) were men. Abatacept clearance increased with body weight and more severe disease activity at baseline. Drug exposure was higher in patients who survived vs those who died, with a median AUC0-28 of 21&#x202f;428 (range, 8462-43&#x202f;378) mg&#x2009;&#xd7;&#x2009;h/L vs 18&#x202f;262 (range, 9628-27&#x202f;507) mg&#x2009;&#xd7;&#x2009;h/L (P&#x2009;<&#x2009;.001). Controlling for age, sex, and disease severity, an increase of 5000 units in AUC0-28 was associated with lower odds of mortality at day 28 (OR, 0.52 [95% CI, 0.35-0.79]; P&#x2009;=&#x2009;.002). For an AUC0-28 of 19&#x202f;400 mg&#x2009;&#xd7;&#x2009;h/L or less, there was a higher probability of recovery at day 28 (hazard ratio, 2.63 [95% CI, 1.70-4.08] for every 5000-unit increase; P&#x2009;<&#x2009;.001). Controlling for age, sex, and disease severity, every 5000-unit increase in AUC0-28 was also associated with lower odds of a composite safety event at 28 days (OR, 0.46 [95% CI, 0.33-0.63]; P&#x2009;<&#x2009;.001). Using the dosing regimen studied in the ACTIV-1 IM trial, 121 of the 395 patients (30.6%) would not achieve an abatacept exposure of at least 19&#x202f;400 mg&#x2009;&#xd7;&#x2009;h/L, particularly at the extremes of body weight. Using a modified, higher-dose regimen, only 12 patients (3.0%) would not achieve the hypothesized target abatacept exposure. In this study, patients who were hospitalized with severe COVID-19 and achieved higher projected abatacept exposure had reduced mortality and a higher probability of recovery with fewer safety events. However, abatacept clearance was high in this population, and the current abatacept dosing (10 mg/kg intravenously with a maximum of 1000 mg) may not achieve optimal exposure in all patients. ClinicalTrials.gov Identifier: NCT04593940.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1001/jamanetworkopen.2024.7615
+
+2. Keywords
+
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- General research methodology and outcomes

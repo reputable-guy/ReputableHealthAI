@@ -1,0 +1,29 @@
+Study Title: Effectiveness of Hospital Fit on Physical Activity in Hospitalized Patients: A Stepped-Wedge Cluster-Randomized Trial and Process Evaluation.
+
+Study Summary:
+This study investigates the effectiveness of using Hospital Fit as part of usual care physiotherapy on the physical activity (PA) behavior of hospitalized patients compared to patients who received physiotherapy before implementation of Hospital Fit. In addition, a process evaluation is conducted. A prospective, multi-center, mixed-methods stepped wedge cluster randomized trial was performed at the cardiology and medical oncology departments of two Dutch university medical centers. Patients were included in the non-intervention or intervention phase. During the non-intervention phase, patients received usual care physiotherapy. During the intervention phase, Hospital Fit was additionally used. Mean time spent walking, standing, lying/sitting per day and the number of postural transitions from lying/sitting to standing/walking positions were measured using an accelerometer and analyzed using linear mixed models. A process evaluation was performed using questionnaires and semi-structured interviews with patients and focus-group interviews with healthcare professionals. A total of 77 patients were included, and data from 63 patients were used for data analysis. During the intervention phase, the average time spent walking per day was 20 min (95% confidence interval: -2 to 41 min) higher than during the non-intervention phase (= 0.075). No significant differences were found for mean time spent standing per day, mean time spent lying/sitting per day, or the number of postural transitions per day either. During the intervention phase, 87% of patients used Hospital Fit at least once, with a median daily use of 2.5 to 4.0 times. Patients and healthcare professionals believed that Hospital Fit improved patients' PA behavior and recovery. Insufficient digital skills and technical issues were described as challenges. Although patients and healthcare professionals described Hospital Fit as an added value, no statistically significant effects were found.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3390/s24185920
+
+2. Keywords
+- activity monitoring
+- effectiveness
+- mHealth
+- physical activity
+- physiotherapy
+- walking
+- wearable sensors
+
+3. Key Findings
+- No significant differences were found for mean time spent standing per day, mean time spent lying/sitting per day, or the number of postural transitions per day either
+- Although patients and healthcare professionals described Hospital Fit as an added value, no statistically significant effects were found
+
+This study provides insights into:
+- activity monitoring assessment methods and outcomes
+- effectiveness assessment methods and outcomes
+- mHealth assessment methods and outcomes

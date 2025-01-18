@@ -1,0 +1,28 @@
+Study Title: Just-in-Time Adaptive Intervention for Stabilizing Sleep Hours of Japanese Workers: Microrandomized Trial.
+
+Study Summary:
+Sleep disturbance is a major contributor to future health and occupational issues. Mobile health can provide interventions that address adverse health behaviors for individuals in a vulnerable health state in real-world settings (just-in-time adaptive intervention). This study aims to identify a subpopulation with vulnerable sleep state in daily life (study 1) and, immediately afterward, to test whether providing mobile health intervention improved habitual sleep behaviors and psychological wellness in real-world settings by conducting a microrandomized trial (study 2). Japanese workers (n=182) were instructed to collect data on their habitual sleep behaviors and momentary symptoms (including depressive mood, anxiety, and subjective sleep quality) using digital devices in a real-world setting. In study 1, we calculated intraindividual mean and variability of sleep hours, midpoint of sleep, and sleep efficiency to characterize their habitual sleep behaviors. In study 2, we designed and conducted a sleep just-in-time adaptive intervention, which delivered objective push-type sleep feedback messages to improve their sleep hours for a subset of participants in study 1 (n=81). The feedback messages were generated based on their sleep data measured on previous nights and were randomly sent to participants with a 50% chance for each day (microrandomization). In study 1, we applied hierarchical clustering to dichotomize the population into 2 clusters (group A and group B) and found that group B was characterized by unstable habitual sleep behaviors (large intraindividual variabilities). In addition, linear mixed-effect models showed that the interindividual variability of sleep hours was significantly associated with depressive mood (&#x3b2;=3.83; P=.004), anxiety (&#x3b2;=5.70; P=.03), and subjective sleep quality (&#x3b2;=-3.37; P=.03). In study 2, we found that providing sleep feedback prolonged subsequent sleep hours (increasing up to 40 min; P=.01), and this effect lasted for up to 7 days. Overall, the stability of sleep hours in study 2 was significantly improved among participants in group B compared with the participants in study 1 (P=.001). This is the first study to demonstrate that providing sleep feedback can benefit the modification of habitual sleep behaviors in a microrandomized trial. The findings of this study encourage the use of digitalized health intervention that uses real-time health monitoring and personalized feedback.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/49669
+
+2. Keywords
+- just-in-time adaptive intervention
+- microrandomized trial
+- mobile phone
+- objective push-type sleep feedback
+- stability of habitual sleep behaviors
+
+3. Key Findings
+- In study 1, we applied hierarchical clustering to dichotomize the population into 2 clusters (group A and group B) and found that group B was characterized by unstable habitual sleep behaviors (large intraindividual variabilities)
+- In addition, linear mixed-effect models showed that the interindividual variability of sleep hours was significantly associated with depressive mood (&#x3b2;=3
+- In study 2, we found that providing sleep feedback prolonged subsequent sleep hours (increasing up to 40 min; P=
+
+This study provides insights into:
+- just-in-time adaptive intervention assessment methods and outcomes
+- microrandomized trial assessment methods and outcomes
+- mobile phone assessment methods and outcomes

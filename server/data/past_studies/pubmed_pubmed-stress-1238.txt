@@ -1,0 +1,26 @@
+Study Title: CHF6523 data suggest that the phosphoinositide 3-kinase delta isoform is not a suitable target for the management of COPD.
+
+Study Summary:
+Chronic obstructive pulmonary disease (COPD) is a chronic inflammatory condition. Given patients with COPD continue to experience exacerbations despite the availability of effective therapies, anti-inflammatory treatments targeting novel pathways are needed. Kinases, notably the phosphoinositide 3-kinases (PI3K), are thought to be involved in chronic airway inflammation, with this pathway proposed as a critical regulator of inflammation and oxidative stress response in COPD. CHF6523 is an inhaled PI3K&#x3b4; inhibitor that has shown positive preclinical results. This manuscript reports the results of a study of CHF6523 in patients with stable COPD (chronic bronchitis phenotype), and who had evidence of type-2 inflammation. This randomised, double-blind, placebo-controlled, two-way crossover study comprised two 28-day treatment periods separated by a 28-day washout. Patients (N&#x2009;=&#x2009;44) inhaled CHF6523 in one period, and placebo in the other, both twice daily. The primary objective was to assess the safety and tolerability of CHF6523; the secondary objective was to assess CHF6523 pharmacokinetics. Exploratory endpoints included target engagement (the relative reduction in phosphatidylinositol (3,4,5)-trisphosphate [PIP]), pharmacodynamic evaluations such as airflow obstruction, and hyperinflation, and to identify biomarker(s) of drug response using proteomics and transcriptomics. CHF6523 plasma pharmacokinetics were characterised by an early maximum concentration (C), reached 15 and 10&#xa0;min after dosing on Days 1 and 28, respectively, followed by a rapid decline. Systemic exposure on Day 28 showed limited accumulation, with ratios&#x2009;<&#x2009;1.6 for Cand area under the curve from 0 to 12&#xa0;h post-dose, and with steady state achieved on Day 20. Target engagement was confirmed by a significant 29.7% reduction from baseline in induced sputum PIP(29.5% reduction vs. placebo; adjusted ratio 0.705 [0.580, 0.856]; p&#x2009;=&#x2009;0.001), but this did not translate into an anti-inflammatory pharmacodynamic effect, as assessed through measures including biomarkers and multi-omics. Additionally, although CHF6523 was generally well-tolerated, 95.2% of patients reported cough as an adverse event, most mild to moderate and resolving within one-hour post-dose. These data, together with those from other PI3K inhibitors, suggest that PI3K&#x3b4; is not a suitable pathway for the management of COPD, as the achieved target engagement did not translate into any pharmacodynamic anti-inflammatory effect. ClinicalTrials.gov (NCT04032535); posted 23rd July 2019.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s12931-024-02999-5
+
+2. Keywords
+- Gene expression profiling
+- Multi-omics
+- Phosphatidylinositol 3-kinases
+- Proteomics
+- Therapeutics
+
+3. Key Findings
+- Systemic exposure on Day 28 showed limited accumulation, with ratios&#x2009;<&#x2009;1
+
+This study provides insights into:
+- Gene expression profiling assessment methods and outcomes
+- Multi-omics assessment methods and outcomes
+- Phosphatidylinositol 3-kinases assessment methods and outcomes

@@ -1,0 +1,27 @@
+Study Title: Risk stratification models incorporating oxidative stress factors to predict survival and recurrence in patients with gastric cancer after radical gastrectomy: A real-world multicenter study.
+
+Study Summary:
+Oxidative stress significantly influences the development and progression of gastric cancer (GC). It remains unreported whether incorporating oxidative stress factors into nomograms can improve the predictive accuracy for survival and recurrence risk in GC patients. 3498&#xa0;GC patients who underwent radical gastrectomy between 2009 and 2017 were enrolled and randomly divided into training cohort (TC) and internal validation cohort (IVC). Cox regression analysis model was used to evaluate six preoperative oxidative stress indicators to formulate the Systemic oxidative stress Score (SOSS). Two nomograms based on SOSS was constructed by multivariate Cox regression and validated using 322 patients from another two hospitals. A total of 3820 patients were included. The SOSS, composed of three preoperative indicators-fibrinogen, albumin, and cholesterol-was an independent prognostic factor for both overall survival (OS) and disease-free survival (DFS). The two nomograms based on SOSS showed a significantly higher AUC than the pTNM stage (OS: 0.830 vs. 0.778, DFS: 0.824 vs. 0.775, all P&#xa0;<&#xa0;0.001) and were validated in the IVC and EVC (all P&#xa0;<&#xa0;0.001). The local recurrence rate, peritoneal recurrence rate, distant recurrence rate and multiple recurrence rate in high-risk group were significantly higher than those in low-risk group (P&#xa0;<&#xa0;0.05). The two novel nomograms based on SOSS which was a combination score of three preoperative blood indicators, demonstrated outstanding predictive abilities for both survival and recurrence in GC patients with different risk groups, which may potentially improve survival through perioperatively active intervention strategies and individualized postoperatively close surveillance.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.ejso.2024.108658
+
+2. Keywords
+- Gastric cancer
+- Nomogram
+- Overall survival
+- Recurrence
+- Systemic oxidative stress score
+
+3. Key Findings
+- The two nomograms based on SOSS showed a significantly higher AUC than the pTNM stage (OS: 0
+- The two novel nomograms based on SOSS which was a combination score of three preoperative blood indicators, demonstrated outstanding predictive abilities for both survival and recurrence in GC patients with different risk groups, which may potentially improve survival through perioperatively active intervention strategies and individualized postoperatively close surveillance
+
+This study provides insights into:
+- Gastric cancer assessment methods and outcomes
+- Nomogram assessment methods and outcomes
+- Overall survival assessment methods and outcomes

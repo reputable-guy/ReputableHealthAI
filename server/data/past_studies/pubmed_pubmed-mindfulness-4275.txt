@@ -1,0 +1,35 @@
+Study Title: Development and Evaluation of a Smartphone-Based Chatbot Coach to Facilitate a Balanced Lifestyle in Individuals With Headaches (BalanceUP App): Randomized Controlled Trial.
+
+Study Summary:
+Primary headaches, including migraine and tension-type headaches, are widespread and have a social, physical, mental, and economic impact. Among the key components of treatment are behavior interventions such as lifestyle modification. Scalable conversational agents (CAs) have the potential to deliver behavior interventions at a low threshold. To our knowledge, there is no evidence of behavioral interventions delivered by CAs for the treatment of headaches. This study has 2 aims. The first aim was to develop and test a smartphone-based coaching intervention (BalanceUP) for people experiencing frequent headaches, delivered by a CA and designed to improve mental well-being using various behavior change techniques. The second aim was to evaluate the effectiveness of BalanceUP by comparing the intervention and waitlist control groups and assess the engagement and acceptance of participants using BalanceUP. In an unblinded randomized controlled trial, adults with frequent headaches were recruited on the web and in collaboration with experts and allocated to either a CA intervention (BalanceUP) or a control condition. The effects of the treatment on changes in the primary outcome of the study, that is, mental well-being (as measured by the Patient Health Questionnaire Anxiety and Depression Scale), and secondary outcomes (eg, psychosomatic symptoms, stress, headache-related self-efficacy, intention to change behavior, presenteeism and absenteeism, and pain coping) were analyzed using linear mixed models and Cohen d. Primary and secondary outcomes were self-assessed before and after the intervention, and acceptance was assessed after the intervention. Engagement was measured during the intervention using self-reports and usage data. A total of 198 participants (mean age 38.7, SD 12.14 y; n=172, 86.9% women) participated in the study (intervention group: n=110; waitlist control group: n=88). After the intervention, the intention-to-treat analysis revealed evidence for improved well-being (treatment: &#x3b2; estimate=-3.28, 95% CI -5.07 to -1.48) with moderate between-group effects (Cohen d=-0.66, 95% CI -0.99 to -0.33) in favor of the intervention group. We also found evidence of reduced somatic symptoms, perceived stress, and absenteeism and presenteeism, as well as improved headache management self-efficacy, application of behavior change techniques, and pain coping skills, with effects ranging from medium to large (Cohen d=0.43-1.05). Overall, 64.8% (118/182) of the participants used coaching as intended by engaging throughout the coaching and completing the outro. BalanceUP was well accepted, and the results suggest that coaching delivered by a CA can be effective in reducing the burden of people who experience headaches by improving their well-being. German Clinical Trials Register DRKS00017422; https://trialsearch.who.int/Trial2.aspx?TrialID=DRKS00017422.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/50132
+
+2. Keywords
+- behavior change
+- chatbot
+- headache management
+- lifestyle
+- mHealth
+- mental well-being
+- mindfulness
+- mobile health
+- mobile phone
+- psychoeducation
+- relaxation
+- smartphone
+- stress management
+
+3. Key Findings
+- After the intervention, the intention-to-treat analysis revealed evidence for improved well-being (treatment: &#x3b2; estimate=-3
+- We also found evidence of reduced somatic symptoms, perceived stress, and absenteeism and presenteeism, as well as improved headache management self-efficacy, application of behavior change techniques, and pain coping skills, with effects ranging from medium to large (Cohen d=0
+
+This study provides insights into:
+- behavior change assessment methods and outcomes
+- chatbot assessment methods and outcomes
+- headache management assessment methods and outcomes

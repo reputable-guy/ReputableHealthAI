@@ -1,0 +1,29 @@
+Study Title: Eight-week multi-domain cognitive training does not impact large-scale resting-state brain networks in Parkinson's disease.
+
+Study Summary:
+There is meta-analytic evidence for the efficacy of cognitive training (CT) in Parkinson's disease (PD). We performed a randomized controlled trial where we found small positive effects of CT on executive function and processing speed in individuals with PD (n&#xa0;=&#xa0;140). In this study, we assessed the effects of CT on brain network connectivity and topology in a subsample of the full study population (n&#xa0;=&#xa0;86). Participants were randomized into an online multi-domain CT and an active control condition and performed 24 sessions of either intervention in eight weeks. Resting-state functional MRI scans were acquired in addition to extensive clinical and neuropsychological assessments pre- and post-intervention. In line with our preregistered analysis plan (osf.io/3st82), we computed connectivity between 'cognitive' resting-state networks and computed topological outcomes at the whole-brain and sub-network level. We assessed group differences after the intervention with mixed-model analyses adjusting for baseline performance and analyzed the association between network and cognitive performance changes with repeated measures correlation analyses. The final analysis sample consisted of 71 participants (n CT&#xa0;=&#xa0;37). After intervention there were no group differences on between-network connectivity and network topological outcomes. No associations between neural network and neuropsychological performance change were found. CT increased segregated network topology in a small sub-sample of cognitively intact participants. Post-hoc nodal analyses showed post-intervention enhanced connectivity of both the dorsal anterior cingulate cortex and dorsolateral prefrontal cortex in the CT group. The results suggest no large-scale brain network effects of eight-week computerized CT, but rather localized connectivity changes of key regions in cognitive function, that potentially reflect the specific effects of the intervention.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1016/j.nicl.2022.102952
+
+2. Keywords
+- Cognitive function
+- Cognitive training
+- Functional connectivity
+- Graph theory
+- Parkinson&#x2019;s disease
+- Resting-state fMRI
+
+3. Key Findings
+- We performed a randomized controlled trial where we found small positive effects of CT on executive function and processing speed in individuals with PD (n&#xa0;=&#xa0;140)
+- No associations between neural network and neuropsychological performance change were found
+- Post-hoc nodal analyses showed post-intervention enhanced connectivity of both the dorsal anterior cingulate cortex and dorsolateral prefrontal cortex in the CT group
+
+This study provides insights into:
+- Cognitive function assessment methods and outcomes
+- Cognitive training assessment methods and outcomes
+- Functional connectivity assessment methods and outcomes

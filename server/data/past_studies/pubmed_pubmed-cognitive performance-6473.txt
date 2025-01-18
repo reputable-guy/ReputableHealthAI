@@ -1,0 +1,26 @@
+Study Title: Painting by lesions: White matter hyperintensities disrupt functional networks and global cognition.
+
+Study Summary:
+White matter hyperintensities (WMH) are a prominent feature of cerebral small vessel disease and are associated with cognitive impairment. These deficits in cognition may be caused by the disruption of large-scale functional networks due to the presence of WMHs. However, knowledge regarding the relevance of these lesions on functional networks remains inconclusive. These inconsistencies may derive from issues with interpreting functional imaging data from clinical populations. Lesion network mapping is a technique that allows the overlaying of lesions from a patient population to the functional connectivity of a human connectome derived from healthy adults. This allows researchers to identify functional networks that would be disrupted in a healthy population should the WMHs seen in cerebral small vessel disease be present. We hypothesized that the extent to which these functional networks are disrupted by WMHs is associated with cognitive performance in older adults with cerebral small vessel disease. This cross-sectional study combined baseline data from four studies to create a total sample of 164 older adults (aged &#x2265;55) from metropolitan Vancouver with cerebral small vessel disease. Using lesion network mapping, we assessed the percentage overlap between voxels functionally connected with both the WMHs (lesion network) and five common functional networks: (1) visual; (2) dorsal attention; (3) ventral attention; (4) sensorimotor; and (5) frontoparietal. Cognition was assessed using: (1) Montreal Cognitive Assessment (MoCA); (2) Stroop Colour Word Test (3-2); (3) Trail Making Tests (Part B-A); and (4) Digit Symbol Substitution Test. A One-Way ANOVA and Tukey post-hoc tests were performed to identify the functional networks with greatest percentage overlap with the lesion network. Partial correlations controlling for age were used to analyse whether the extent of the overlap between the lesion and functional networks was associated with poorer cognition. The visual, ventral attention, and frontoparietal networks had significantly greater overlap with the lesion network. After controlling for multiple comparisons, level of lesion network overlap with both the sensorimotor network (p<.001) and ventral attention network (p&#xa0;<.&#xa0;001) was significantly correlated with MoCA score. Thus, the greater the disruption to the sensorimotor and ventral attention networks, the poorer the global cognition. Our results reveal that the visual, ventral attention, and frontoparietal networks are most vulnerable to disruptions stemming from WMHs. Additionally, we identified that disruption to the sensorimotor and ventral attention networks, as a result of WMHs, may underlie deficits in global cognition in older adults with cerebral small vessel disease.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2021
+- DOI: 10.1016/j.neuroimage.2021.118089
+
+2. Keywords
+- Cerebral small vessel disease
+- Cognition
+- Functional connectivity
+- Lesion network mapping
+- White matter hyperintensities
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Cerebral small vessel disease assessment methods and outcomes
+- Cognition assessment methods and outcomes
+- Functional connectivity assessment methods and outcomes

@@ -1,0 +1,26 @@
+Study Title: A sensor platform based on SERS detection/janus textile for sweat glucose and lactate analysis toward portable monitoring of wellness status.
+
+Study Summary:
+Herein we report a wearable sweat sensor of a Janus fabric based on surface enhanced Raman scattering (SERS) technology, mainly detecting the two important metabolites glucose and lactate. Janus fabric is composed of electrospinning PU on a piece of medical gauze (cotton), working as the unidirectional moisture transport component (R&#xa0;=&#xa0;1305%) to collect and transfer sweat efficiently. SERS tags with different structures act as the probe to recognize and detect the glucose and lactate in high sensitivity. Core-shell structured gold nanorods with DTNB inside (AuNRs@DTNB@Au) are used to detect lactate, while gold nanorods with MPBA (AuNRs@MPBA) are used to detect glucose. Through the characteristic SERS information, two calibration functions were established for the concentration determination of glucose and lactate. The concentrations of glucose and lactate in sweat of a 23 years volunteer during three-stage interval running are tested to be 95.5, 53.2, 30.5&#xa0;&#x3bc;M and 4.9, 13.9, 10.8&#xa0;mM, indicating the glucose (energy) consumption during exercise and the rapid accumulation of lactate at the early stage accompanied by the subsequent relief. As expected, this sensing system is able to provide a novel strategy for effective acquisition and rapid detection of essential biomarkers in sweat.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.bios.2024.116612
+
+2. Keywords
+- Glucose and lactate monitoring
+- Gold nanorods
+- Janus fabric
+- SERS detection
+- Sweat sensor
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Glucose and lactate monitoring assessment methods and outcomes
+- Gold nanorods assessment methods and outcomes
+- Janus fabric assessment methods and outcomes

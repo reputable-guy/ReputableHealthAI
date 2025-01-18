@@ -1,0 +1,20 @@
+Study Title: Efficacy of a single session mindfulness based intervention: A randomized clinical trial.
+
+Study Summary:
+Loneliness, perceived stress, depression, and anxiety have increased during the COVID-19 pandemic. Many of existing mindfulness and compassion-based intervention are effective, but are time-intensive, decreasing overall accessibility and scalability. Single-session interventions (SSIs) serve as a promising alternative. The current pre-registered randomized clinical trial evaluated a newly developed, manualized, mindfulness-based single-session intervention. 91 adults were randomly assigned to one of three conditions: (1) one-hour mindfulness only telehealth intervention; (b) one-hour mindfulness and compassion telehealth intervention; or (c) one-week waitlist control (before randomization to an active intervention). Intervention sessions were conducted by graduate students in clinical psychology. The primary outcome was self-reported loneliness; secondary outcomes were self-reported perceived stress, depression, and anxiety. Using Bayesian multilevel models, we found that compared to the waitlist-control, the inclusion of a compassion component led to meaningful reductions in perceived stress b = -3.75, 95% HDI [-6.95, -0.59], anxiety b = -3.79, 95% HDI [-6.99, -0.53], and depression b = -3.01, 95% HDI [-5.22, -0.78], but not loneliness at the 1-week follow-up. Results suggest that a single-session mindfulness and compassion intervention may lead to meaningful reductions in perceived stress, symptoms of anxiety, and symptoms of depression, but not loneliness. Implications of these findings are discussed.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1371/journal.pone.0299300
+
+2. Keywords
+
+
+3. Key Findings
+- Using Bayesian multilevel models, we found that compared to the waitlist-control, the inclusion of a compassion component led to meaningful reductions in perceived stress b = -3
+
+This study provides insights into:
+- General research methodology and outcomes

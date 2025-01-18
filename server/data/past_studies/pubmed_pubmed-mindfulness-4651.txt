@@ -1,0 +1,25 @@
+Study Title: Effects of a maternal mindfulness intervention targeting prenatal psychological distress on infants' meconium microbiota: A randomized controlled trial.
+
+Study Summary:
+Maternal psychological distress could affect gut microbiota of the infant; however, previous studies to date have been observational. To investigate the effects of mindfulness-based intervention (MBI) during pregnancy on the meconium microbiota of infants by alleviating maternal psychological distress. Randomized controlled trial. Pregnant women with symptoms of depression or anxiety were randomized to either the intervention group (n&#xa0;=&#xa0;80), comprising usual perinatal care and six digitally guided self-help MBI sessions, or the control group (n&#xa0;=&#xa0;80) who underwent usual perinatal care. Meconium was collected within 48&#xa0;h of birth to evaluate the infant's gut microbiota. The Kruskal-Wallis rank sum test, analysis of similarities, and DESeq2 were performed to explore the effects of the MBI on alpha and beta diversity indices and specific genera. There were no significant differences between groups regarding the alpha diversity indices, including Chao1 and Simpson (p&#xa0;=&#xa0;0.83 and p&#xa0;=&#xa0;0.58). However, there was a significant between-group difference in the beta diversity index (R=0.02, p&#xa0;=&#xa0;0.03). Bifidobacterium (logfold change=-1.90, FDR=0.002) and Blautia (logfold change=-1.45, FDR=0.01) were abundant in the intervention group, whereas Staphylococcus (logfold change=1.44, FDR=0.01) was abundant in the control group. MBI aimed at alleviating maternal psychological distress can positively alter the meconium microbiota of infants. However, the mechanisms underlying the effects of maternal mindfulness during pregnancy on infant meconium microbiota require further exploration.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1016/j.psyneuen.2022.105913
+
+2. Keywords
+- Infant
+- Meconium microbiota
+- Mindfulness
+- Psychological intervention
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Infant assessment methods and outcomes
+- Meconium microbiota assessment methods and outcomes
+- Mindfulness assessment methods and outcomes

@@ -1,0 +1,25 @@
+Study Title: Roles of Baseline Intrinsic Capacity and its Subdomains on the Overall Efficacy of Multidomain Intervention in Promoting Healthy Aging among Community-Dwelling Older Adults: Analysis from a Nationwide Cluster-Randomized Controlled Trial.
+
+Study Summary:
+Impaired intrinsic capacity (IC), which affects approximately 90% of older adults, is associated with a significantly heightened risk of frailty and cognitive decline. Existing evidence suggests that multidomain interventions have the potential to enhance cognitive performance and yield positive effects on physical frailty. To examine roles of baseline IC and its subdomains on the efficacy of multidomain interventions in promoting healthy aging in older adults. a cluster-randomized controlled trial. 1,054 community-dwelling older adults from 40 community-based clusters across Taiwan. A 12-month pragmatic multidomain intervention of exercise, cognitive training, nutritional counseling and chronic condition management. Baseline IC was measured by 5 subdomains, including cognition (Montreal Cognitive Assessment, MoCA), sensory (visual and hearing impairment), vitality (handgrip strength or Mini-Nutritional Assessment-short form), psychological well-being (Geriatric Depression Scale-5), and locomotion (6m gait speed). Outcomes of interest were cognitive performance (MoCA scores) and physical frailty (CHS frailty score) over a follow-up period of 6 and 12 months. Of all participants (mean age:75.1&#xb1;6.4 years, 68.6% female), about 90% participants had IC impairment at baseline (2.0&#xb1;1.2 subdomains). After covariate adjustment using a generalized linear mixed model (GLMM), the multidomain intervention significantly prevented cognitive declines and physical frailty, particularly in those with IC impairment &#x2265; 3 subdomains (MoCA: coefficient: 1.909, 95% CI: 0.736 ~ 3.083; CHS frailty scores: coefficient = -0.405, 95% CI: -0.715 ~ -0.095). To assess the associations between baseline poor capacity in each IC subdomain and MoCA/CHS frailty scores over follow-up, a 3-way interaction terms (time*intervention*each poorer IC subdomains) were added to GLMM models. Significant improvements in MoCA scores were shown for participants with poorer baseline cognition (coefficient= 1.138, 95% CI: 0.080 ~ 2.195) and vitality domains (coefficient= 1.651, 95% CI: 0.541 ~ 2.760). The poor vitality domain also had a significant modulating effect on the reduction of CHS frailty score after the 6- and 12-month intervention period (6 months: coefficient= -0.311, 95% CI: -0.554 ~ -0.068; 12 months: coefficient= -0.257, 95% CI: -0.513 ~ -0.001). A multidomain intervention in community-dwelling older adults improves cognitive decline and physical frailty, with its effectiveness influenced by baseline IC, highlighting the importance of personalized strategies for healthy aging.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.14283/jpad.2024.20
+
+2. Keywords
+- Multidomain intervention
+- cognitive impairment
+- frailty
+- intrinsic capacity
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Multidomain intervention assessment methods and outcomes
+- cognitive impairment assessment methods and outcomes
+- frailty assessment methods and outcomes

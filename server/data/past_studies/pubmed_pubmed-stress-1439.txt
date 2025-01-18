@@ -1,0 +1,20 @@
+Study Title: Plasma Concentrations of Multiple Oxysterols and Risk of Colorectal Adenomas.
+
+Study Summary:
+Oxysterols are metabolites of cholesterol that regulate the homeostasis of cholesterol, fatty acids, and glucose. These metabolites are generated throughout the body, either enzymatically or from oxidative stress, and are detectable in peripheral circulation. We previously reported that circulating 27-hydroxycholesterol (27-OHC), an endogenous selective estrogen receptor modulator, may be a risk factor for colorectal adenomas. Here, in addition to 27-OHC, we report on four other circulating oxysterols: 25-hydroxycholesterol, 24(S)-hydroxycholesterol, 7&#x251;-hydroxycholesterol, and 4&#x3b2;-hydroxycholesterol. Oxysterol concentrations were measured using liquid chromatography/mass spectrometry from fasting plasma collected at baseline from 1,246 participants of the Vitamin D/Calcium Polyp Prevention Study, a multicenter adenoma chemoprevention trial. To evaluate multiple oxysterols simultaneously, we used both log-linear regression and Bayesian kernel machine regression models developed for analyses of complex mixtures adjusted for potential confounding factors. Higher circulating 7&#x251;-hydroxycholesterol was associated with higher adenoma risk (Bayesian kernel machine regression-based multivariable-adjusted risk ratios (RR; for the 75th vs. 25th percentile, 1.22; 95% credible interval, CI, 1.04-1.42). In contrast, higher circulating 4&#x3b2;-hydroxycholesterol was associated with lower risk of these polyps (RR, 0.84; 95% CI, 0.71-0.99). The positive association with advanced adenoma risk that we previously reported for circulating 27-OHC persisted when controlling for other oxysterols (RR, 1.26; 95% CI, 0.98-1.62), including among those with advanced adenomas at baseline (RR, 1.75; 95% CI, 1.01-3.06). Prevention Relevance: Circulating concentrations of multiple oxysterols measured at the time of an initial colorectal adenoma diagnosis may be risk factors for subsequent incidence of these lesions. Novel colorectal cancer prevention strategies may target oxysterol formation.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1158/1940-6207.CAPR-24-0108
+
+2. Keywords
+
+
+3. Key Findings
+- To evaluate multiple oxysterols simultaneously, we used both log-linear regression and Bayesian kernel machine regression models developed for analyses of complex mixtures adjusted for potential confounding factors
+
+This study provides insights into:
+- General research methodology and outcomes

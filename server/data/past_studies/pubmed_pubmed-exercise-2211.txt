@@ -1,0 +1,26 @@
+Study Title: Plasma Lipidomic Profiles Improve upon Traditional Risk Factors for the Prediction of Arterial Stiffness Among Patients with Type 2 Diabetes Mellitum: A Randomized, Placebo-Controlled Trial.
+
+Study Summary:
+Exercise or vitamin D intervention can reduce the risk of arterial stiffness; however, the underlying mechanisms of lipid metabolism remain unexplored. To examine the effects of a 12-week moderate and vigorous exercise program (65-80% maximal heart rate, 60 min/time, 2~3 times/week) with or without vitamin D supplementation (1000 IU/day) on the reduction in arterial stiffness and further explore whether the effects of interventions could be associated with the basal lipidome among patients with Type 2 diabetes mellitum (T2DM). 61 patients with T2DM were randomly assigned to the following groups: control (CON,= 15), exercise (EX,= 14), vitamin D (VD,= 16), and exercise + vitamin D (EX + VD,= 16). Arterial stiffness risk factors (ankle-brachial index (ABI); brachial-ankle pulse wave velocity (baPWV), systolic blood pressure (SBP), and diastolic blood pressure (DBP)) were evaluated before and after the intervention. The plasma lipidome was determined using ultra-performance liquid chromatography coupled with tandem mass spectrometry. Machine learning was applied to establish prediction models for the responsiveness to arterial stiffness. Vitamin D supplementation could inhibit the decrease in the ankle-brachial index (mean &#xb1; SD: EX + VD and VD, -0.001 &#xb1; 0.058; EX + CON, -0.047 &#xb1; -0.089;= 0.03). We observed high inter-individual variability in the arterial stiffness risk factors in response to the interventions. We also found that optimally selecting the lipid predictors at baseline, such as SM d44:6, LPE 18:2, and Hex2Cer 29:0, could enhance the predictive power by 100% for arm SBP changes in the exercise group. Basal levels of Cer (33:1) and GM3 (44:4) could enhance the predictive power by 100% for changes in baPWV in the vitamin D group. A 12-week vitamin D supplementation was beneficial in preventing arterial stiffness. Compared with traditional clinical risk factors, specific lipids at baseline could significantly improve the ability to predict intervention-induced changes in the reduction of arterial stiffness.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3390/nu16213618
+
+2. Keywords
+- arterial stiffness
+- diabetes
+- exercise
+- lipidomics
+- vitamin D
+
+3. Key Findings
+- We also found that optimally selecting the lipid predictors at baseline, such as SM d44:6, LPE 18:2, and Hex2Cer 29:0, could enhance the predictive power by 100% for arm SBP changes in the exercise group
+
+This study provides insights into:
+- arterial stiffness assessment methods and outcomes
+- diabetes assessment methods and outcomes
+- exercise assessment methods and outcomes

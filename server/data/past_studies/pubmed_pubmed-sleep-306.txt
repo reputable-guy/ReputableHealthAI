@@ -1,0 +1,25 @@
+Study Title: Deficiencies in Electronic Medical Record Inpatient List Capabilities Negatively Impact Patient Safety, Resident Education, and Wellness.
+
+Study Summary:
+Electronic medical records (EMRs) have streamlined workflows for health care professionals, yet their full potential is not always actualized. Modern EMRs are often capable of generating automated prepopulated inpatient lists, however if these capabilities are not made available to inpatient teams or not designed with the end user in mind, resident physicians may be left to create alternative, manual solutions to ensure reliable and efficient care. The purpose of the current study was to longitudinally compare the impact of both manual and automated inpatient lists on resident education, wellness, and patient safety. Retrospective standardized surveys were administered to resident physicians in the orthopedic surgery department at a level I trauma center over a 3-year period to evaluate the impact of various automated and manual list iterations coinciding with changes to the EMR. Data collected included post graduate year (PGY) status, arrival time to work, daily time spent preparing and updating the list, perceived impact on patient safety, resident workload, education, and sleep. We compared manual versus automated list data with unpaired t-tests and chi-squared tests. The study was conducted at Brooke Army Medical Center, a level 1 trauma center in San Antonio, Texas. It is an Academic Medical Center and the Department of Defense's largest medical facility. A total of 71 surveys were collected from 33 orthopedic surgery residents in all levels of training. Intern list prep time in the morning was 27 &#xb1; 16 minutes for the automated list (n&#x202f;=&#x202f;17) vs 72 &#xb1; 21 minutes for the manual lists (n&#x202f;=&#x202f;23) (p < 0.0001). Total time spent by interns updating the list for the entire day was on average 83 minutes for the automated list (n&#x202f;=&#x202f;17) vs 196 minutes for the manual lists (n&#x202f;=&#x202f;23) (p < 0.0001). In addition, 86% of interns felt the time spent on the manual list impacted their education, with 96% stating that it directly impacted the amount of time they had to study and 100% agreed that it negatively impacted their sleep (n&#x202f;=&#x202f;23). Only 48% of interns (n&#x202f;=&#x202f;23) were satisfied with the performance of the manual lists compared to 94% satisfaction (n&#x202f;=&#x202f;17) with the automated list. Further, 87% of interns felt the manual list negatively impacted patient care and negatively affected their job satisfaction. In comparison, 59% of interns felt the automated list improved their job satisfaction. Ultimately, for an intern an automated list versus a manual list affords them an extra 106 minutes per day for education, sleep, or other activities. PGY2 residents and above noted similar trends regarding their experience with the lists. The benefits of utilizing automated inpatient lists as determined by our study are improved efficiency in the morning with less preparation and maintenance throughout the day. Additionally, with automated lists there was more perceived time for education and sleep, with improved job satisfaction. Most importantly, respondents felt that automated lists were safer for patient care when compared to manual lists. This should compel further research and efforts into improving automated EMR tracking lists in hospitals. In summary, as compared to the automated electronic medical record inpatient list, manual lists resulted in substantially more preparation time and maintenance throughout the day thereby negatively impacting resident education and quality of life, while raising concerns for patient safety.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.jsurg.2024.07.014
+
+2. Keywords
+- automated
+- education
+- electronic medical record
+- manual
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- automated assessment methods and outcomes
+- education assessment methods and outcomes
+- electronic medical record assessment methods and outcomes

@@ -1,0 +1,28 @@
+Study Title: Utilizing Entropy of Cadence to Optimize Cycling Rehabilitation in Individuals With Parkinson's Disease.
+
+Study Summary:
+Previous studies have established that increased Sample Entropy (SampEn) of cadence, a measure of non-linear variability, during dynamic cycling leads to greater improvements in motor function for individuals with Parkinson's disease (PD). However, there is significant variability in responses among individuals with PD due to symptoms and disease progression. The aim of this study was to develop and test a paradigm for adapting a cycling exercise intervention using SampEn of cadence and rider effort to improve motor function. Twenty-two participants were randomized into either patient-specific adaptive dynamic cycling (PSADC) or non-adaptive (NA) group. SampEn of cadence was calculated after each of the 12 sessions, and motor function was evaluated using the Kinesia test. Pearson's correlation coefficient was used to analyze the relationship between SampEn of cadence and motor function improvement. Multiple linear regression (MLR) was used to identify the strongest predictors of motor function improvement. Pearson's correlation coefficient revealed a significant correlation between SampEn of cadence and motor function improvements (&#x2009;=&#x2009;-.545,&#x2009;=&#x2009;.009), suggesting that higher SampEn of cadence led to greater motor function improvement. MLR demonstrated that SampEn of cadence was the strongest predictor of motor function improvement (&#x3b2;&#x2009;=&#x2009;-8.923,&#x2009;=&#x2009;-2.632,&#x2009;=&#x2009;.018) over the BMI, Levodopa equivalent daily dose, and effort. The findings show that PSADC paradigm promoted a greater improvement in motor function than NA dynamic cycling. These data will be used to develop a predictive model to optimize motor function improvement after cycling in individuals with PD.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1177/15459683241268556
+
+2. Keywords
+- aging
+- dynamic cycling
+- exercise prescription
+- motor control
+- movement disorder
+- neurorehabilitation
+
+3. Key Findings
+- Pearson's correlation coefficient revealed a significant correlation between SampEn of cadence and motor function improvements (&#x2009;=&#x2009;-
+- MLR demonstrated that SampEn of cadence was the strongest predictor of motor function improvement (&#x3b2;&#x2009;=&#x2009;-8
+
+This study provides insights into:
+- aging assessment methods and outcomes
+- dynamic cycling assessment methods and outcomes
+- exercise prescription assessment methods and outcomes

@@ -1,0 +1,26 @@
+Study Title: A fibroblast-dependent TGF-&#x3b2;1/sFRP2 noncanonical Wnt signaling axis promotes epithelial metaplasia in idiopathic pulmonary fibrosis.
+
+Study Summary:
+Reciprocal interactions between alveolar fibroblasts and epithelial cells are crucial for lung homeostasis, injury repair, and fibrogenesis, but underlying mechanisms remain unclear. To investigate, we administered the fibroblast-selective TGF-&#x3b2;1 signaling inhibitor epigallocatechin gallate (EGCG) to interstitial lung disease (ILD) patients undergoing diagnostic lung biopsy and conducted single-cell RNA-Seq on spare tissue. Biopsies from untreated patients showed higher fibroblast TGF-&#x3b2;1 signaling compared with nondisease donor or end-stage ILD tissues. In vivo, EGCG downregulated TGF-&#x3b2;1 signaling and several proinflammatory and stress pathways in biopsy samples. Notably, EGCG reduced fibroblast secreted frizzled-related protein 2 (sFRP2), an unrecognized TGF-&#x3b2;1 fibroblast target gene induced near type II alveolar epithelial cells (AEC2s) in situ. Using AEC2-fibroblast coculture organoids and precision-cut lung slices (PCLSs) from nondiseased donors, we found TGF-&#x3b2;1 signaling promotes a spread AEC2 KRT17+ basaloid state, whereupon sFRP2 then activates a mature cytokeratin 5+ (Krt5+) basal cell program. Wnt-receptor Frizzled 5 (Fzd5) expression and downstream calcineurin signaling were required for sFRP2-induced nuclear NFATc3 accumulation and KRT5 expression. These findings highlight stage-specific TGF-&#x3b2;1 signaling in ILD and the therapeutic potential of EGCG in reducing idiopathic pulmonary fibrosis-related (IPF-related) transcriptional changes and identify TGF-&#x3b2;1/noncanonical Wnt pathway crosstalk via sFRP2 as a mechanism for dysfunctional epithelial signaling in IPF/ILD.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1172/JCI174598
+
+2. Keywords
+- Cytokines
+- Fibrosis
+- Human stem cells
+- Pulmonology
+
+3. Key Findings
+- Biopsies from untreated patients showed higher fibroblast TGF-&#x3b2;1 signaling compared with nondisease donor or end-stage ILD tissues
+- Using AEC2-fibroblast coculture organoids and precision-cut lung slices (PCLSs) from nondiseased donors, we found TGF-&#x3b2;1 signaling promotes a spread AEC2 KRT17+ basaloid state, whereupon sFRP2 then activates a mature cytokeratin 5+ (Krt5+) basal cell program
+
+This study provides insights into:
+- Cytokines assessment methods and outcomes
+- Fibrosis assessment methods and outcomes
+- Human stem cells assessment methods and outcomes

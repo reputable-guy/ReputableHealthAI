@@ -1,0 +1,29 @@
+Study Title: Multimodal neuroimaging correlates of spectral power in NREM sleep delta sub-bands in cognitively unimpaired older adults.
+
+Study Summary:
+In aging, reduced delta power (0.5-4 Hz) during N2 and N3 sleep has been associated with gray matter (GM) atrophy and hypometabolism within frontal regions. Some studies have also reported associations between N2 and N3 sleep delta power in specific sub-bands and amyloid pathology. Our objective was to better understand the relationships between spectral power in delta sub-bands during N2-N3 sleep and brain integrity using multimodal neuroimaging. In-home polysomnography was performed in 127 cognitively unimpaired older adults (mean age&#x2005;&#xb1;&#x2005;SD: 69.0&#x2005;&#xb1;&#x2005;3.8 years). N2-N3 sleep EEG power was calculated in delta (0.5-4 Hz), slow delta (0.5-1 Hz), and fast delta (1-4 Hz) frequency bands. Participants also underwent magnetic resonance imaging and Florbetapir-PET (early and late acquisitions) scans to assess GM volume, brain perfusion, and amyloid burden. Amyloid accumulation over ~21 months was also quantified. Higher delta power was associated with higher GM volume mainly in fronto-cingular regions. Specifically, slow delta power was positively correlated with GM volume and perfusion in these regions, while the inverse association was observed with fast delta power. Delta power was neither associated with amyloid burden at baseline nor its accumulation over time, whatever the frequency band considered. Our results show that slow delta is particularly associated with preserved brain structure, and highlight the importance of analyzing delta power sub-bands to better understand the associations between delta power and brain integrity. Further longitudinal investigations with long follow-ups are needed to disentangle the associations among sleep, amyloid pathology, and dementia risk in older populations. Name: Study in Cognitively Intact Seniors Aiming to Assess the Effects of Meditation Training (Age-Well). URL: https://clinicaltrials.gov/ct2/show/NCT02977819?term=Age-Well&draw=2&rank=1. See STROBE_statement_AGEWELL in supplemental materials. EudraCT: 2016-002441-36; IDRCB: 2016-A01767-44; ClinicalTrials.gov Identifier: NCT02977819.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1093/sleep/zsae012
+
+2. Keywords
+- EEG
+- aging
+- amyloid
+- atrophy
+- gray matter
+- neuroimaging
+- sleep
+- slow-wave
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- EEG assessment methods and outcomes
+- aging assessment methods and outcomes
+- amyloid assessment methods and outcomes

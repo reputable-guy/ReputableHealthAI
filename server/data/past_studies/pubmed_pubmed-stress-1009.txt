@@ -1,0 +1,27 @@
+Study Title: Enhancing medical education with chatbots: a randomized controlled trial on standardized patients for colorectal cancer.
+
+Study Summary:
+Combination of Standardized Patient (SP) and Case Based Learning (CBL) is a common method in medical education, but traditional SP (TSP) may not be conducive to students' mastery of basic medical knowledge and the cultivation of clinical thinking. Therefore, it is necessary to innovate SP to optimize SP combined with CBL teaching method. This study aims to explore the effectiveness of a chatbot utilizing standardized patients based on CBL (CSP-CBL) for colorectal cancer education. 61 medical students who have studied the theoretical knowledge of colorectal cancer were selected as the study objects and randomly divided into experimental group and control group. The experimental group used CSP-CBL, and the control group used traditional SP based on CBL (TSP-CBL). Before the intervention, basic knowledge test and clinical thinking ability assessment scale were used to investigate basic ability. After the intervention, we compared the effectiveness of two teaching methods in training colorectal cancer diagnosis and treatment skills through basic knowledge test, clinical thinking ability assessment scale, course experience questionnaire and client satisfaction questionnaire. The majority of participants were female (62.3%, 38/61), 67.2% (41/61) were in the top 60% of school grades, and only 13.1% (8/61) had a medical background. There were no significant differences between the two groups in terms of demographic and sociological characteristics. There was no difference in pre-test of basic knowledge scores between the two groups (P&#x2009;=&#x2009;0.489), but the CSP-CBL group scored significantly higher at post-intervention compared to the TSP-CBL group (SMD = -0.629, P&#x2009;<&#x2009;0.05, 95% CI = (-0.789,-0.468)) and the CSP-CBL group also scored significantly higher than their baseline scores (SMD&#x2009;=&#x2009;-&#x2009;0.991, p&#x2009;<&#x2009;0.05, 95% CI = (-1.241,-0.740)). In terms of clinical thinking skills, the CSP-CBL group significantly improved their total score from (79.6&#x2009;&#xb1;&#x2009;15.9) to (86.2&#x2009;&#xb1;&#x2009;17.3) after the intervention (SMD&#x2009;=&#x2009;-&#x2009;0.398, p&#x2009;<&#x2009;0.05, 95% CI = (-0.498,-0.297)), but there was no significant difference between the two groups.The CSP-CBL group had a significantly lower academic load and course stress than the TSP-CBL group (SMD = -0.941, p&#x2009;<&#x2009;0.01, 95% CI = (-1.181,-0.701); SMD = -0.6, p&#x2009;<&#x2009;0.05, 95% CI = (-0.753,-0.447)) and scored significantly higher on the evaluation of future knowledge value (SMD&#x2009;=&#x2009;0.603, p&#x2009;<&#x2009;0.05, 95% CI = (0.449,0.757)). There was no significant difference between the two groups in terms of overall satisfaction, but the CSP-CBL group was significantly more satisfied than the TSP-CBL group in terms of meeting learning needs (SMD&#x2009;=&#x2009;0.532, P&#x2009;<&#x2009;0.05, 95% CI=(0.396,0.668)). There was no significant difference between the two groups in willingness to reuse the learning model. The results show that CSP-CBL teaching can significantly improve the basic knowledge and clinical thinking of clinical medical students learning colorectal cancer, better meet the learning needs of students and reduce the learning burden appropriately. ChiCTR2300072017 (registered on 31/05/2023).
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s12909-024-06530-8
+
+2. Keywords
+- Case-based learning
+- Chatbot
+- Colorectal cancer
+- Randomized controlled trial
+- Standardized patients
+- Teaching reform
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Case-based learning assessment methods and outcomes
+- Chatbot assessment methods and outcomes
+- Colorectal cancer assessment methods and outcomes

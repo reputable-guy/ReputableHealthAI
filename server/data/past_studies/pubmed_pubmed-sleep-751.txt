@@ -1,0 +1,28 @@
+Study Title: Impact of Hypoglossal Nerve Stimulation on Consumer Sleep Technology Metrics and Patient Symptoms.
+
+Study Summary:
+Obstructive sleep apnea (OSA) is usually assessed at discrete and infrequent timepoints. Wearable consumer sleep technologies (CST) may allow for more granular and longitudinal assessments of OSA therapy responses and OSA-related symptoms. In this case series, we enrolled hypoglossal nerve stimulator (HGNS) patients who had an effective treatment response for an 8-week study using a wearable CST. Participants started with "HGNS-on," were randomized to turn off HGNS therapy during either week 4 or 5 ("HGNS-off"), followed by a return to therapy, "HGNS-resume." Participants completed validated symptom questionnaires assessing sleepiness, insomnia symptoms, functional status, and overall sleep health (Satisfaction, Alertness, Timing, Efficiency, and Duration, SATED) each week. CST metrics and survey scores were compared between HGNS treatment phases. Associations between CST metrics and survey scores were assessed. Seven participants with a total of 304 nights of CST data showed no statistically significant changes in total sleep time (TST), wake time after sleep onset, or sleep efficiency (SE) across the study periods. During HGNS-off, survey scores indicated significantly worsened OSA-related symptom scores. Two participants had significantly higher heart rate variability (HRV) during HGNS-off (by 3.3 and 6.3&#x2009;ms) when compared to HGNS active therapy periods. Amongst CST metrics, SATED scores correlated with TST (r&#x2009;=&#x2009;0.434, p&#x2009;<&#x2009;0.0001), HRV (r&#x2009;=&#x2009;-0.486, p&#x2009;<&#x2009;0.0001), and SE (r&#x2009;=&#x2009;0.320, =&#x2009;0.0014). In addition, FOSQ-10 scores correlated with average HR during sleep (r&#x2009;=&#x2009;-0.489, p&#x2009;<&#x2009;0.001). A 1-week HGNS therapy withdrawal period impacted OSA-related sleep symptoms. Sleep-related metrics measured by a wearable CST correlated with symptom scores indicating potential value in the use of CSTs for longitudinal sleep-tracking in OSA patients. 4 Laryngoscope, 134:3406-3411, 2024.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1002/lary.31398
+
+2. Keywords
+- consumer sleep technology
+- hypoglossal nerve stimulator
+- obstructive sleep apnea
+- sleep quality
+- sleep symptoms
+- wearables
+
+3. Key Findings
+- Seven participants with a total of 304 nights of CST data showed no statistically significant changes in total sleep time (TST), wake time after sleep onset, or sleep efficiency (SE) across the study periods
+- During HGNS-off, survey scores indicated significantly worsened OSA-related symptom scores
+
+This study provides insights into:
+- consumer sleep technology assessment methods and outcomes
+- hypoglossal nerve stimulator assessment methods and outcomes
+- obstructive sleep apnea assessment methods and outcomes

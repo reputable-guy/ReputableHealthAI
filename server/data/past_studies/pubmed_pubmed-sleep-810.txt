@@ -1,0 +1,31 @@
+Study Title: Association between multiple sleep dimensions in obstructive sleep apnea and an early sign of atherosclerosis.
+
+Study Summary:
+We investigated the associations between multiple sleep dimensions in obstructive sleep apnea (OSA) and carotid intima-media thickness (CIMT), an early sign of atherosclerosis, in participants from the Shanghai Sleep Health Study. We performed secondary analysis of SSHS in a group of subjects who underwent ultrasound evaluation from 2018 to 2022. Multiple sleep dimensions were measured using standard polysomnography. CIMT was measured from ultrasound images as an early sign of atherosclerosis. Multivariable-adjusted linear regression and logistic regression analyses were performed to detect associations between sleep traits in OSA and CIMT. CIMT was found to increase with increasing severity of OSA (< .001). When adjusted for conventional risk factors, microarousal index and hypoxic burden were positively correlated with CIMT, while slow-wave sleep and mean apnea-hypopnea event duration showed a negative correlation with CIMT (all< .01). In binary logistic regression analysis, participants with a high microarousal index, less slow-wave sleep, higher hypoxic burden, and shorter mean apnea-hypopnea event duration showed a higher prevalence of thick CIMT with no evidence of interaction by age, sex, or body mass index (-interaction > .05). Patients with more severe sleep fragmentation, more severe hypoxemia, and increased arousability were more likely to have increased CIMT after adjusting for potential confounders. It is important to evaluate novel indices of sleep fragmentation, hypoxemia, and arousability in OSA for early detection and prevention of cardiovascular disease, including stroke. Registry: Chinese Clinical Trial Registry; Name: Establishing Bio-bank and Cohort of OSAHS in Hospital-based Population; URL: http://www.chictr.org.cn/showproj.aspx?proj=43057; Identifier: ChiCTR1900025714. Huang W, Zhou E, Zhang J, et&#xa0;al. Association between multiple sleep dimensions in obstructive sleep apnea and an early sign of atherosclerosis.. 2024;20(7):1093-1104.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.5664/jcsm.11090
+
+2. Keywords
+- carotid intima-media thickness
+- event duration
+- hypoxic burden
+- microarousal index
+- obstructive sleep apnea
+- slow-wave sleep
+- stroke
+
+3. Key Findings
+- CIMT was found to increase with increasing severity of OSA (<
+- When adjusted for conventional risk factors, microarousal index and hypoxic burden were positively correlated with CIMT, while slow-wave sleep and mean apnea-hypopnea event duration showed a negative correlation with CIMT (all<
+- In binary logistic regression analysis, participants with a high microarousal index, less slow-wave sleep, higher hypoxic burden, and shorter mean apnea-hypopnea event duration showed a higher prevalence of thick CIMT with no evidence of interaction by age, sex, or body mass index (-interaction >
+- Patients with more severe sleep fragmentation, more severe hypoxemia, and increased arousability were more likely to have increased CIMT after adjusting for potential confounders
+
+This study provides insights into:
+- carotid intima-media thickness assessment methods and outcomes
+- event duration assessment methods and outcomes
+- hypoxic burden assessment methods and outcomes

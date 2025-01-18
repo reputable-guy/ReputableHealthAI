@@ -1,0 +1,20 @@
+Study Title: "I Let Depression and Anxiety Drown Me&#x2026;": Identifying Factors Associated With Resilience Based on Journaling Using Machine Learning and Thematic Analysis.
+
+Study Summary:
+Over the years, there has been a global increase in the use of technology to deliver interventions for health and wellness, such as improving people's mental health and resilience. An example of such technology is the Q-Life app which aims to improve people's resilience to stress and adverse life events through various coping mechanisms, including journaling. Using a combination of sentiment analysis and thematic analysis methods, this paper presents the results of analyzing 6023 journal entries from 755 users. We uncover both positive and negative factors that are associated with resilience. First, we apply two lexicon-based and eight machine learning (ML) techniques to classify journal entries into positive or negative sentiment polarity, and then compare the performance of these classifiers to determine the best performing classifier overall. Our results show that Support Vector Machine (SVM) is the best classifier overall, outperforming other ML classifiers and lexicon-based classifiers with a high F1-score of 89.7%. Second, we conduct thematic analysis of negative and positive journal entries to identify themes representing factors associated with resilience either negatively or positively, and to determine various coping mechanisms. Our findings reveal 14 negative themes such as stress, worry, loneliness, lack of motivation, sickness, relationship issues, as well as depression and anxiety. Also, 13 positive themes emerged including self-efficacy, gratitude, socialization, progression, relaxation, and physical activity. Seven (7) coping mechanisms are also identified including time management, quality sleep, and mindfulness. Finally, we reflect on our findings and suggest technological interventions that address the negative factors to promote resilience.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2022
+- DOI: 10.1109/JBHI.2022.3149862
+
+2. Keywords
+
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- General research methodology and outcomes

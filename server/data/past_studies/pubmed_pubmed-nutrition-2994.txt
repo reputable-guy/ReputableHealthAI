@@ -1,0 +1,20 @@
+Study Title: Understanding the Effectiveness of Water, Sanitation, and Hygiene Interventions: A Counterfactual Simulation Approach to Generalizing the Outcomes of Intervention Trials.
+
+Study Summary:
+While water, sanitation, and hygiene (WASH) interventions can reduce diarrheal disease, many large-scale trials have not found the expected health gains for young children in low-resource settings. Evidence-based guidance is needed to improve interventions and remove barriers to diarrheal disease reduction. We aimed to estimate how sensitive WASH intervention effectiveness was to underlying contextual and intervention factors in the WASH Benefits (WASH-B) Bangladesh cluster-randomized controlled trial. The investigators measured diarrheal prevalence in children enrolled in the WASH-B trial at three time points approximately 1 year apart (observations). We developed a susceptible-infectious-susceptible model with transmission across multiple environmental pathways and evaluated each of four interventions [water (W), sanitation (S), hygiene (H), and nutrition (N) applied individually and in combination], compliance with interventions, and the impact of individuals not enrolled in the study. Leveraging a set of mechanistic parameter combinations fit to the WASH-B Bangladesh trial using a hybrid Bayesian sampling-importance resampling and maximum-likelihood estimation approach, we simulated trial outcomes under counterfactual scenarios to estimate how changes in six WASH factors (preexisting WASH conditions, disease transmission potential, intervention compliance, intervenable fraction of transmission, intervention efficacy, and community coverage) impacted intervention effectiveness. Increasing community coverage had the greatest impact on intervention effectiveness (e.g., median increases in effectiveness of 34.0 and 45.5 percentage points in the WSH and WSHN intervention arms when increasing coverage to 20%). The effect of community coverage on effectiveness depended on how much transmission was along pathways not modified by the interventions. Intervention effectiveness was reduced by lower levels of preexisting WASH conditions or increased baseline disease burden. Individual interventions had complementary but not synergistic effects when combined. To realize the expected health gains, future WASH interventions must address community coverage and transmission along pathways not traditionally covered by WASH. The effectiveness of individual-level WASH improvements is reduced more the further the community is from achieving the coverage needed for herd protection. https://doi.org/10.1289/EHP15200.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1289/EHP15200
+
+2. Keywords
+
+
+3. Key Findings
+- While water, sanitation, and hygiene (WASH) interventions can reduce diarrheal disease, many large-scale trials have not found the expected health gains for young children in low-resource settings
+
+This study provides insights into:
+- General research methodology and outcomes

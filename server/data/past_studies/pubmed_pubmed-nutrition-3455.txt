@@ -1,0 +1,30 @@
+Study Title: Exploration of differential responses to FODMAPs and gluten in people with irritable bowel syndrome- a double-blind randomized cross-over challenge study.
+
+Study Summary:
+There is large variation in response to diet in irritable bowel syndrome (IBS) and determinants for differential response are poorly understood. Our aim was to investigate differential clinical and molecular responses to provocation with fermentable oligo-, di-, monosaccharides, and polyols (FODMAPs) and gluten in individuals with IBS. Data were used from a crossover study with week-long interventions with either FODMAPs, gluten or placebo. The study also included a rapid provocation test. Molecular data consisted of fecal microbiota, short chain fatty acids, and untargeted plasma metabolomics. IBS symptoms were evaluated with the IBS severity scoring system. IBS symptoms were modelled against molecular and baseline questionnaire data, using Random Forest (RF; regression and clustering), Parallel Factor Analysis (PARAFAC), and univariate methods. Regression and classification RF models were in general of low predictive power (Q&#x2009;&#x2264;&#x2009;0.22, classification rate&#x2009;<&#x2009;0.73). Out of 864 clustering models, only 2 had significant associations to clusters (0.69&#x2009;<&#x2009;CR&#x2009;<&#x2009;0.73, p&#x2009;<&#x2009;0.05), but with no associations to baseline clinical measures. Similarly, PARAFAC revealed no clear association between metabolome data and IBS symptoms. Differential IBS responses to FODMAPs or gluten exposures could not be explained from clinical and molecular data despite extensive exploration with different data analytical approaches. The trial is registered at www. gov as NCT03653689 31/08/2018.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1007/s11306-023-02083-x
+
+2. Keywords
+- Clinical trial
+- Differential response
+- Double-blind
+- FODMAPs
+- Gluten
+- Irritable bowel syndrome
+- Metabotyping
+- Personalized nutrition
+- Precision health
+
+3. Key Findings
+- Similarly, PARAFAC revealed no clear association between metabolome data and IBS symptoms
+
+This study provides insights into:
+- Clinical trial assessment methods and outcomes
+- Differential response assessment methods and outcomes
+- Double-blind assessment methods and outcomes

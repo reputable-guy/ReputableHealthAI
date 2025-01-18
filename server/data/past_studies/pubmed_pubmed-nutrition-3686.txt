@@ -1,0 +1,25 @@
+Study Title: School-based supplementation with iron-folic acid or multiple micronutrient tablets to address anemia among adolescents in Burkina Faso: a cluster-randomized trial.
+
+Study Summary:
+Iron-deficiency anemia is a leading cause of morbidity among adolescents (aged 10-19 y), especially in low- and middle-income settings. Few policies and programs have targeted adolescent health. This study aimed to evaluate the effectiveness of school-based supplementation with iron-folic acid (IFA) or multiple micronutrient supplements (MMSs) in addressing anemia among adolescents in Burkina Faso. In this cluster-randomized trial, 3123 secondary school students aged 10 to 18 y in Burkina Faso were either supplemented with weekly IFA, daily MMSs, or received standard nutrition education as controls. Supplementation occurred between April 2021 and April 2022 over 2 supplementation periods (10 wk, then 16 wk) separated by a gap of 20 wk without supplementation. Hemoglobin was evaluated 4 times: at baseline prior to each supplementation period and at the end of each period. Anemia was categorized by the World Health Organization hemoglobin level cutoffs as none, mild, moderate, or severe. Associations between treatment arm and anemia or continuous hemoglobin (g/dL) were assessed using multilevel mixed effects generalized linear models with schools as a random effect, controlling for baseline hemoglobin or anemia status. Baseline anemia prevalence was similar across study arms, with 32.7% in IFA, 31.2% in MMS, and 29.5% in the control arm. Over the full study period, adolescents provided IFA had hemoglobin levels higher than those in the control arm (adjusted &#x3b2;: 0.32; 95% CI: 0.02, 0.62). No significant associations were observed for MMS or for anemia outcomes; however, the direction and magnitude of nonsignificant associations indicate potential protective effects of IFA and MMSs on anemia. The results do not provide strong evidence that weekly IFA or daily MMS alone is effective, but supplementation may play a role in addressing adolescent anemia if combined with cointerventions. Additional research is required to determine the best strategy to address anemia. This trial was registered at clinicaltrials.gov as NCT04657640.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2023
+- DOI: 10.1016/j.ajcnut.2023.09.004
+
+2. Keywords
+- adolescents
+- anemia
+- iron deficiency
+- multiple micronutrient supplements
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- adolescents assessment methods and outcomes
+- anemia assessment methods and outcomes
+- iron deficiency assessment methods and outcomes

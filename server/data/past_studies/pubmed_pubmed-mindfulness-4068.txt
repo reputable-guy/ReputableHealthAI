@@ -1,0 +1,26 @@
+Study Title: Initial evaluation of a personalized advantage index to determine which individuals may benefit from mindfulness-based cognitive therapy for suicide prevention.
+
+Study Summary:
+Develop and evaluate a treatment matching algorithm to predict differential treatment response to Mindfulness-Based Cognitive Therapy for suicide prevention (MBCT-S) versus enhanced treatment-as-usual (eTAU). Analyses used data from Veterans at high-risk for suicide assigned to either MBCT-S (n&#xa0;=&#xa0;71) or eTAU (n&#xa0;=&#xa0;69) in a randomized clinical trial. Potential predictors (n&#xa0;=&#xa0;55) included available demographic, clinical, and neurocognitive variables. Random forest models were used to predict risk of suicidal event (suicidal behaviors, or ideation resulting in hospitalization or emergency department visit) within 12 months following randomization, characterize the prediction, and develop a Personalized Advantage Index (PAI). A slightly better prediction model emerged for MBCT-S (AUC&#xa0;=&#xa0;0.70) than eTAU (AUC&#xa0;=&#xa0;0.63). Important outcome predictors for participants in the MBCT-S arm included PTSD diagnosis, decisional efficiency on a neurocognitive task (Go/No-Go), prior-year mental health residential treatment, and non-suicidal self-injury. Significant predictors for participants in the eTAU arm included past-year acute psychiatric hospitalizations, past-year outpatient psychotherapy visits, past-year suicidal ideation severity, and attentional control (indexed by Stroop task). A moderation analysis showed that fewer suicidal events occurred among those randomized to their PAI-indicated optimal treatment. PAI-guided treatment assignment may enhance suicide prevention outcomes. However, prior to real-world application, additional research is required to improve model accuracy and evaluate model generalization.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.brat.2024.104637
+
+2. Keywords
+- Machine learning
+- Mindfulness
+- Precision medicine
+- Suicide prevention
+- Treatment prediction
+
+3. Key Findings
+- A moderation analysis showed that fewer suicidal events occurred among those randomized to their PAI-indicated optimal treatment
+
+This study provides insights into:
+- Machine learning assessment methods and outcomes
+- Mindfulness assessment methods and outcomes
+- Precision medicine assessment methods and outcomes

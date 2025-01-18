@@ -1,0 +1,27 @@
+Study Title: Performance of the ChatGPT large language model for decision support in community pharmacy.
+
+Study Summary:
+The aim of this study was to assess the ChatGPT-4 (ChatGPT) large language model (LLM) on tasks relevant to community pharmacy. ChatGPT was assessed with community pharmacy-relevant test cases involving drug information retrieval, identifying labelling errors, prescription interpretation, decision-making under uncertainty and multidisciplinary consults. Drug information on rituximab, warfarin, and St. John's wort was queried. The decision-support scenarios consisted of a subject with swollen eyelids and a maculopapular rash in a subject on lisinopril and ferrous sulfate. The multidisciplinary scenarios required the integration of medication management with recommendations for healthy eating and physical activity/exercise. The responses from ChatGPT for rituximab, warfarin, and St. John's wort were satisfactory and cited drug databases and drug-specific monographs. ChatGPT identified labeling errors related to incorrect medication strength, form, route of administration, unit conversion, and directions. For the patient with inflamed eyelids, the course of action developed by ChatGPT was comparable to the pharmacist's approach. For the patient with the maculopapular rash, both the pharmacist and ChatGPT placed a drug reaction to either lisinopril or ferrous sulfate at the top of the differential. ChatGPT provided customized vaccination requirements for travel to Brazil, guidance on management of drug allergies and recovery from a knee injury. ChatGPT provided satisfactory medication management and wellness information for a diabetic on metformin and semaglutide. LLMs have the potential to become a powerful tool in community pharmacy. However, rigorous validation studies across diverse pharmacist queries, drug classes and populations, and engineering to secure patient privacy will be needed to enhance LLM utility.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1111/bcp.16215
+
+2. Keywords
+- ChatGPT
+- artificial intelligence
+- drug information
+- generative AI
+- pharmacy
+- precision medicine
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- ChatGPT assessment methods and outcomes
+- artificial intelligence assessment methods and outcomes
+- drug information assessment methods and outcomes

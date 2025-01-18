@@ -1,0 +1,32 @@
+Study Title: Unraveling the impact of therapeutic drug monitoring via machine learning for patients with sepsis.
+
+Study Summary:
+Clinical studies investigating the benefits of beta-lactam therapeutic drug monitoring (TDM) among critically ill patients are hindered by small patient groups, variability between studies, patient heterogeneity, and inadequate use of TDM. Accordingly, definitive conclusions regarding the efficacy of TDM remain elusive. To address these challenges, we propose an innovative approach that leverages data-driven methods to unveil the concealed connections between therapy effectiveness and patient data, collected through a randomized controlled trial (DRKS00011159; 10th October 2016). Our findings reveal that machine learning algorithms can successfully identify informative features that distinguish between healthy and sick states. These hold promise as potential markers for disease classification and severity stratification, as well as offering a continuous and data-driven "multidimensional" Sequential Organ Failure Assessment (SOFA) score. The positive impact of TDM on patient recovery rates is demonstrated by unraveling the intricate connections between therapy effectiveness and clinically relevant data via machine learning.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.xcrm.2024.101681
+
+2. Keywords
+- Mahalanobis distance
+- SOFA score
+- beta-lactam antibiotics
+- intensive care unit
+- machine learning
+- mathematical similarity
+- piperacillin/tazobactam
+- sepsis
+- septic shock
+- state space approach
+- therapeutic drug monitoring
+
+3. Key Findings
+- The positive impact of TDM on patient recovery rates is demonstrated by unraveling the intricate connections between therapy effectiveness and clinically relevant data via machine learning
+
+This study provides insights into:
+- Mahalanobis distance assessment methods and outcomes
+- SOFA score assessment methods and outcomes
+- beta-lactam antibiotics assessment methods and outcomes

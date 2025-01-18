@@ -1,0 +1,50 @@
+Study Title: Economic Evaluation of a Web Application Implemented in Primary Care for the Treatment of Depression in Patients With Type 2 Diabetes Mellitus: Multicenter Randomized Controlled Trial.
+
+Study Summary:
+Depressive disorder and type 2 diabetes mellitus (T2DM) are prevalent in primary care (PC). Pharmacological treatment, despite controversy, is commonly chosen due to resource limitations and difficulties in accessing face-to-face interventions. Depression significantly impacts various aspects of a person's life, affecting adherence to medical prescriptions and glycemic control and leading to future complications and increased health care costs. To address these challenges, information and communication technologies (eg, eHealth) have been introduced, showing promise in improving treatment continuity and accessibility. However, while eHealth programs have demonstrated effectiveness in alleviating depressive symptoms, evidence regarding glycemic control remains inconclusive. This randomized controlled trial aimed to test the efficacy of a low-intensity psychological intervention via a web app for mild-moderate depressive symptoms in individuals with T2DM compared with treatment as usual (TAU) in PC. This study aimed to analyze the cost-effectiveness and cost-utility of a web-based psychological intervention to treat depressive symptomatology in people with T2DM compared with TAU in a PC setting. A multicenter randomized controlled trial was conducted with 49 patients with T2DM, depressive symptoms of moderate severity, and glycosylated hemoglobin (HbA) of 7.47% in PC settings. Patients were randomized to TAU (n=27) or a web-based psychological treatment group (n=22). This web-based treatment consisted of cognitive behavioral therapy, improvement of diabetes self-care behaviors, and mindfulness. Cost-effectiveness analysis for the improvement of depressive symptomatology was conducted based on reductions in 3, 5, or 50 points on the Patient Health Questionnaire-9 (PHQ-9). The efficacy of diabetes control was estimated based on a 0.5% reduction in HbAlevels. Follow-up was performed at 3 and 6 months. The cost-utility analysis was performed based on quality-adjusted life years. Efficacy analysis showed that the web-based treatment program was more effective in improving depressive symptoms than TAU but showed only a slight improvement in HbA. Incremental cost-effectiveness ratios of 186.76 for a 3-point reduction in PHQ-9 and 206.31 for reductions of 5 and 50 percentage points were obtained. In contrast, the incremental cost-effectiveness ratio for improving HbAlevels amounted to &#x20ac;1510.90 (&#x20ac;1=US $1.18 in 2018) per participant. The incremental cost-utility ratio resulted in &#x20ac;4119.33 per quality-adjusted life year gained. The intervention, using web-based modules incorporating cognitive behavioral therapy tools, diabetes self-care promotion, and mindfulness, effectively reduced depressive symptoms and enhanced glycemic control in patients with T2DM. Notably, it demonstrated clinical efficacy and economic efficiency. This supports the idea that eHealth interventions not only benefit patients clinically but also offer cost-effectiveness for health care systems. The study emphasizes the importance of including specific modules to enhance diabetes self-care behaviors in future web-based psychological interventions, emphasizing personalization and adaptation for this population. ClinicalTrials.gov NCT03426709; https://clinicaltrials.gov/study/NCT03426709. RR2-10.1186/S12888-019-2037-3.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/55483
+
+2. Keywords
+- CBT
+- RCT
+- cognitive behavioral therapy
+- controlled trial
+- controlled trials
+- cost
+- cost-effectiveness
+- cost-utility
+- costs
+- depression
+- depressive
+- diabetes
+- diabetic
+- eHealth
+- economic
+- economic evaluation
+- economics
+- efficacy
+- internet based
+- mental health
+- psychotherapy
+- randomized
+- randomized controlled trial
+- type 2
+- type 2 diabetes mellitus
+- web based
+- web-based intervention
+
+3. Key Findings
+- However, while eHealth programs have demonstrated effectiveness in alleviating depressive symptoms, evidence regarding glycemic control remains inconclusive
+- Efficacy analysis showed that the web-based treatment program was more effective in improving depressive symptoms than TAU but showed only a slight improvement in HbA
+- Notably, it demonstrated clinical efficacy and economic efficiency
+
+This study provides insights into:
+- CBT assessment methods and outcomes
+- RCT assessment methods and outcomes
+- cognitive behavioral therapy assessment methods and outcomes

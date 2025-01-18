@@ -1,0 +1,28 @@
+Study Title: The effectiveness of Parentbot - a digital healthcare assistant - on parenting outcomes: A randomized controlled trial.
+
+Study Summary:
+Transitioning to parenthood is a stressful period that makes parents more prone to depression and anxiety. Mobile application-based interventions and chatbots could improve parents' well-being across the perinatal period. Hence, the Parentbot - a Digital healthcare Assistant was developed to support parents across the perinatal period. To evaluate the effectiveness of the Parentbot - a Digital healthcare Assistant in improving parenting self-efficacy (primary outcome), stress, depression, anxiety, social support, parent-child bonding, and parenting satisfaction (secondary outcomes) among parents across the perinatal period. A two-group pre-test and repeated post-test randomized controlled trial was used where 118 heterosexual couples (118 mothers and 118 fathers) were recruited from a public tertiary hospital in Singapore. Couples were randomly assigned to the intervention group receiving the Parentbot - a Digital healthcare Assistant and standardized care (59 couples) and a control group receiving the standard care only (59 couples). Data collection occurred at baseline (>24&#xa0;weeks of gestation - age of viability in Singapore) and at one month (post-test 1) and three months (post-test 2) postpartum. Linear mixed models were used to compare parental outcomes between groups and a linear mixed model with repeated measures was used to analyze within-group differences. General linear models were used to conduct subgroup analyses of mothers and fathers between groups. After adjusting for baseline values and sociodemographic covariates, parents in the intervention group had higher parenting self-efficacy compared to the control group at one-month postpartum (mean difference&#xa0;=&#xa0;1.22, 95&#xa0;% CI: 0.06 to 2.39, p&#xa0;=&#xa0;0.04; Cohen standardized effect size&#xa0;=&#xa0;0.14), and mothers had lower state-anxiety compared to the control group at three-months postpartum (mean difference&#xa0;=&#xa0;-2.21, 95&#xa0;% CI: -4.18 to -0.24, p&#xa0;=&#xa0;0.03; Cohen standardized effect size&#xa0;=&#xa0;-0.22). Non-statistically significant differences between groups were reported for the other parental outcomes. This study showed that the Parentbot - a Digital healthcare Assistant is feasible and promising in supporting parents especially enhancing their self-efficacy across the perinatal period. The lack of statistical significance in most outcomes showed that further evaluation of the intervention is required among varied populations of parents across different cultural and geographical contexts. The intervention could be enhanced to support more diverse groups of parents including single parents, parents with high-risk pregnancies and infants with medical complications, and parents with limited English language skills. Future trials could explore the cost-effectiveness of such interventions and investigate infant outcomes for a more comprehensive assessment of mobile application-based perinatal interventions. Clinicaltrails.gov (NCT05463926).
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.ijnurstu.2024.104906
+
+2. Keywords
+- Chatbot
+- Mobile application
+- Mobile health
+- Parents
+- Perinatal
+- Randomized controlled trial
+
+3. Key Findings
+- This study showed that the Parentbot - a Digital healthcare Assistant is feasible and promising in supporting parents especially enhancing their self-efficacy across the perinatal period
+- The lack of statistical significance in most outcomes showed that further evaluation of the intervention is required among varied populations of parents across different cultural and geographical contexts
+
+This study provides insights into:
+- Chatbot assessment methods and outcomes
+- Mobile application assessment methods and outcomes
+- Mobile health assessment methods and outcomes

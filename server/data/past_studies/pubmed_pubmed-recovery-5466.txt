@@ -1,0 +1,20 @@
+Study Title: Engineering a universal and fully automatic analyzer for multichannel and on-site biochemical detection in body fluids.
+
+Study Summary:
+Rising concerns over wellness and aging have heightened the demand for convenient and efficient on-site health monitoring and disease screening. Current research, focused on specific biomarker detection, often neglects the complexities of sample matrix interference and the absence of a comprehensive, automated platform. To address these issues, we have developed a universal, fully automated analyzer for multifaceted, on-site biochemical analysis of body fluids. This analyzer integrates automated sample pretreatment, automatic dilution, detection, and self-cleaning functionalities seamlessly. It is designed to detect a wide range of analytes, from small molecules to macromolecules, including ions and proteins, utilizing spectrophotometric sensing. After optimization, the analyzer achieves performance comparable to traditional Enzyme-Linked Immunosorbent Assay (ELISA), while significantly expanding its detection range through automated dilution. Demonstrations of small molecule detection include the simultaneous assessment of citric acid (CA) and oxalic acid (OA) in urine, achieving recovery rates between 96.65%-106.42% and 93.13%-112.50%, respectively. For protein detection, the analyzer successfully identified Cyfra21-1 in saliva with a recovery rate of 104.93%-111.31%. The pre-treatment process requires only 8.8 minutes, showing enhanced recovery rates for CA and OA at 97.8% and 97.6% respectively, which are superior and more rapid than manual methods. The exemplary pretreatment and detection performance of the analyzer underlines its effectiveness in multifaceted, on-site biomarker detection, establishing it as a promising and versatile tool for disease screening and health monitoring. This analyzer offers a powerful technological solution for on-site fluid testing, advancing community health care by facilitating more reliable and rapid diagnostics.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1109/TBME.2024.3443626
+
+2. Keywords
+
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- General research methodology and outcomes

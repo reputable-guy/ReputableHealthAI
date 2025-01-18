@@ -1,0 +1,29 @@
+Study Title: Circadian clock disruption impairs immune oscillation in chronic endogenous hypercortisolism: a multi-level analysis from a multicentre clinical trial.
+
+Study Summary:
+Glucocorticoids (GC) are potent entrainers of the circadian clock. However, their effects on biological rhythms in chronic human exposure have yet to be studied. Endogenous hypercortisolism (Cushing's Syndrome, CS) is a rare condition in which circadian disruption is sustained by a tumorous source of GC excess, offering the unique opportunity to investigate GC's chronic effects in&#xa0;vivo. In a 12-month prospective case-control multicentre trial, the daily fluctuations in the number of circulating peripheral blood mononuclear cells (PBMCs) and the time-specific expression of clock-related genes were analysed in a cohort of 68 subjects, 34 affected by CS and 34 matched controls. Cosinor mixed effects model, rhythmicity algorithms and machine learning techniques were applied to the multi-level dataset. Multiple, 5-point daily sampling revealed profound changes in the levels, amplitude, and rhythmicity of several PBMC populations during active CS, only partially restored after remission. Clock gene analyses in isolated PBMCs showed a significant flattening of circadian oscillation of CLOCK, PER1, PER2, PER3, and TIMELESS expression. In active CS, all methods confirmed a loss of rhythmicity of those genes which were circadian in the PBMCs of controls. Most, but not all, genes regained physiological oscillation after remission. Machine learning revealed that while combined time-course sets of clock genes were highly effective in separating patients from controls, immune profiling was efficient even as single time points. In conclusion, the oscillation of circulating immune cells is profoundly altered in patients with CS, representing a convergence point of circadian rhythm disruption and metabolic and steroid hormone imbalances. Machine learning techniques proved the superiority of immune profiling over parameters such as cortisol, anthropometric and metabolic variables, and circadian gene expression analysis to identify CS activity. The research leading to these results has received funding from the European Union in the context of the National Recovery and Resilience Plan, Investment PE8 - Project Age-It: "Ageing Well in an Ageing Society". This resource was co-financed by the Next Generation EU [DM 1557 11.10.2022], the PRecisiOn Medicine to Target Frailty of Endocrine-metabolic Origin (PROMETEO) project (NET-2018-12365454) by the Italian Ministry of Health, and through internal funding to Sapienza University of Rome.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.ebiom.2024.105462
+
+2. Keywords
+- Circadian rhythm
+- Cushing's syndrome
+- Glucocorticoids
+- Hypercortisolism
+- Immune system
+
+3. Key Findings
+- Multiple, 5-point daily sampling revealed profound changes in the levels, amplitude, and rhythmicity of several PBMC populations during active CS, only partially restored after remission
+- Clock gene analyses in isolated PBMCs showed a significant flattening of circadian oscillation of CLOCK, PER1, PER2, PER3, and TIMELESS expression
+- Machine learning revealed that while combined time-course sets of clock genes were highly effective in separating patients from controls, immune profiling was efficient even as single time points
+- In conclusion, the oscillation of circulating immune cells is profoundly altered in patients with CS, representing a convergence point of circadian rhythm disruption and metabolic and steroid hormone imbalances
+
+This study provides insights into:
+- Circadian rhythm assessment methods and outcomes
+- Cushing's syndrome assessment methods and outcomes
+- Glucocorticoids assessment methods and outcomes

@@ -1,0 +1,25 @@
+Study Title: Pulse oximetry signal loss during hypoxic episodes in preterm infants receiving automated oxygen control.
+
+Study Summary:
+The aim of this study was to analyze signal loss (SL) resulting from low signal quality of pulse oximetry-derived hemoglobin oxygen saturation (SpO) measurements during prolonged hypoxemic episodes (pHE) in very preterm infants receiving automatic oxygen control (AOC). We did a post hoc analysis of a randomized crossover study of AOC, programmed to set FiOto "back-up FiO" during SL. In 24 preterm infants (median (interquartile range)) gestational age 25.3 (24.6 to 25.6) weeks, recording time 12.7&#xa0;h (12.2 to 13.6&#xa0;h) per infant, we identified 76 pHEs (median duration 119&#xa0;s (86 to 180&#xa0;s)). In 50 (66%) pHEs, SL occurred for a median duration of 51&#xa0;s (33 to 85&#xa0;s) and at a median frequency of 2 (1 to 2) SL-periods per pHE. SpObefore and after SL was similar (82% (76 to 88%) vs 82% (76 to 87%), p&#x2009;=&#x2009;0.3)).&#xa0; Conclusion: SL is common during pHE and must hence be considered in AOC-algorithm designs. Administering a "backup FiO" (which reflects FiO-requirements during normoxemia) during SL may prolong pHE with SL.&#xa0; Trial registration: The study was registered at www. gov under the registration no. NCT03785899. &#x2022; Previous studies examined SpO2 signal loss (SL) during routine manual oxygen control being rare, but pronounced in lower SpO2 states. &#x2022; Oxygen titration during SL is unlikely to be beneficial as SpO2 may recover to a normoxic range. &#x2022; Periods of low signal quality of SpO2 are common during pHEs&#xa0;and while supported with automated oxygen control (SPOC), FiO2 is set to a back-up value reflecting FiO2 requirements during normoxemia in response to SL, although SpO2 remained below target until signal recovery. &#x2022; FiO2 overshoots following pHEs were rare during AOC and occurred with a delayed onset; therefore, increased FiO2 during SL does not necessarily lead to overshoots.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1007/s00431-024-05549-9
+
+2. Keywords
+- Automated oxygen control
+- Preterm infant
+- Pulse oximetry
+- Signal loss
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Automated oxygen control assessment methods and outcomes
+- Preterm infant assessment methods and outcomes
+- Pulse oximetry assessment methods and outcomes

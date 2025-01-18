@@ -1,0 +1,29 @@
+Study Title: Serum proteomic profiling of physical activity reveals CD300LG as a novel exerkine with a potential causal link to glucose homeostasis.
+
+Study Summary:
+Physical activity has been associated with preventing the development of type 2 diabetes and atherosclerotic cardiovascular disease. However, our understanding of the precise molecular mechanisms underlying these effects remains incomplete and good biomarkers to objectively assess physical activity are lacking. We analyzed 3072 serum proteins in 26 men, normal weight or overweight, undergoing 12 weeks of a combined strength and endurance exercise intervention. We estimated insulin sensitivity with hyperinsulinemic euglycemic clamp, maximum oxygen uptake, muscle strength, and used MRI/MRS to evaluate body composition and organ fat depots. Muscle and subcutaneous adipose tissue biopsies were used for mRNA sequencing. Additional association analyses were performed in samples from up to 47,747 individuals in the UK Biobank, as well as using two-sample Mendelian randomization and mice models. Following 12 weeks of exercise intervention, we observed significant changes in 283 serum proteins. Notably, 66 of these proteins were elevated in overweight men and positively associated with liver fat before the exercise regimen, but were normalized after exercise. Furthermore, for 19.7 and 12.1% of the exercise-responsive proteins, corresponding changes in mRNA expression levels in muscle and fat, respectively, were shown. The protein CD300LG displayed consistent alterations in blood, muscle, and fat. Serum CD300LG exhibited positive associations with insulin sensitivity, and to angiogenesis-related gene expression in both muscle and fat. Furthermore, serum CD300LG was positively associated with physical activity and negatively associated with glucose levels in the UK Biobank. In this sample, the association between serum CD300LG and physical activity was significantly stronger in men than in women. Mendelian randomization analysis suggested potential causal relationships between levels of serum CD300LG and fasting glucose, 2 hr glucose after an oral glucose tolerance test, and HbA1c. Additionally, Cd300lg responded to exercise in a mouse model, and we observed signs of impaired glucose tolerance in male, but not female,knockout mice. Our study identified several novel proteins in serum whose levels change in response to prolonged exercise and were significantly associated with body composition, liver fat, and glucose homeostasis. Serum CD300LG increased with physical activity and is a potential causal link to improved glucose levels. CD300LG may be a promising exercise biomarker and a therapeutic target in type 2 diabetes. South-Eastern Norway Regional Health Authority, Simon Fougners Fund, Diabetesforbundet, Johan Selmer Kvanes' legat til forskning og bekjempelse av sukkersyke. The UK Biobank resource reference 53641. Australian National Health and Medical Research Council Investigator Grant (APP2017942). Australian Research Council Discovery Early Career Award (DE220101226). Research Council of Norway (Project grant: 325640 and Mobility grant: 287198). The Medical Student Research Program at the University of Oslo. Novo Nordisk Fonden Excellence Emerging Grant in Endocrinology and Metabolism 2023 (NNF23OC0082123). clinicaltrials.gov: NCT01803568.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.7554/eLife.96535
+
+2. Keywords
+- Mendelian randomization
+- Olink
+- diabetes
+- exercise
+- human
+- insulin resistance
+- medicine
+- proteomics
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Mendelian randomization assessment methods and outcomes
+- Olink assessment methods and outcomes
+- diabetes assessment methods and outcomes

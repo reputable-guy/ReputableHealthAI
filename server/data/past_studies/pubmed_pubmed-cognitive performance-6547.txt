@@ -1,0 +1,28 @@
+Study Title: The influence of tDCS intensity on decision-making training and transfer outcomes.
+
+Study Summary:
+Transcranial direct current stimulation (tDCS) has been shown to improve single- and dual-task performance in healthy participants and enhance transferable training gains following multiple sessions of combined stimulation and task practice. However, it has yet to be determined what the optimal stimulation dose is for facilitating such outcomes. We aimed to test the effects of different tDCS intensities, with a commonly used electrode montage, on performance outcomes in a multisession single/dual-task training and transfer protocol. In a preregistered study, 123 participants, who were pseudorandomized across four groups, each completed six sessions (pre- and posttraining sessions and four combined tDCS and training sessions) and received 20&#x2009;min of prefrontal anodal tDCS at 0.7, 1.0, or 2.0&#x2009;mA or 15-s sham stimulation. Response time and accuracy were assessed in trained and untrained tasks. The 1.0-mA group showed substantial improvements in single-task reaction time and dual-task accuracy, with additional evidence for improvements in dual-task reaction times, relative to sham performance. This group also showed near transfer to the single-task component of an untrained multitasking paradigm. The 0.7- and 2.0-mA intensities varied in which performance measures they improved on the trained task, but in sum, the effects were less robust than for the 1.0-mA group, and there was no evidence for the transfer of performance. Our study highlights that training performance gains are augmented by tDCS, but their magnitude and nature are not uniform across stimulation intensity.Using techniques such as transcranial direct current stimulation to modulate cognitive performance is an alluring endeavor. However, the optimal parameters to augment performance are unknown. Here, in a preregistered study with a large sample (123 subjects), three different stimulation dosages (0.7, 1.0, and 2.0&#x2009;mA) were applied during multitasking training. Different cognitive training performance outcomes occurred across the dosage conditions, with only one of the doses (1.0&#x2009;mA) leading to training transfer.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2021
+- DOI: 10.1152/jn.00423.2020
+
+2. Keywords
+- cognitive training
+- decision-making
+- dose
+- multitasking
+- stimulation dosage
+- transcranial direct current stimulation
+
+3. Key Findings
+- 0-mA group showed substantial improvements in single-task reaction time and dual-task accuracy, with additional evidence for improvements in dual-task reaction times, relative to sham performance
+- This group also showed near transfer to the single-task component of an untrained multitasking paradigm
+
+This study provides insights into:
+- cognitive training assessment methods and outcomes
+- decision-making assessment methods and outcomes
+- dose assessment methods and outcomes

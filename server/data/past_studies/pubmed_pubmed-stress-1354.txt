@@ -1,0 +1,26 @@
+Study Title: Resilience Intervention Improves Stress-Related Gene Expression in Adolescent and Young Adult HCT Recipients.
+
+Study Summary:
+Overactivation of the stress response can influence cancer outcomes through immune-related pathways. Adolescents and young adults (AYAs) undergoing hematopoietic cell transplantation (HCT) are at risk for poor outcomes, yet there are limited behavioral interventions and no psychosocial biomarker data for this population. The Conserved Transcriptional Response to Adversity (CTRA) is an inflammation-related pattern observed in conditions of heightened stress and is associated with HCT outcomes. The objective of the current study was to explore the CTRA gene regulatory impact of Promoting Resilience in Stress Management (PRISM) intervention among AYAs receiving HCT. We hypothesized that patients who received the intervention would have favorable gene expression signatures compared to those in the control arm. This was an ancillary study within a randomized trial testing the PRISM intervention on psychosocial outcomes among AYAs aged 12 to 24 years receiving HCT (NCT03640325). CTRA was quantified through genome-wide transcriptional profiles obtained from whole blood collected at baseline, 1-, and 3-month post-HCT. Group differences in CTRA gene expression were estimated using mixed-effect linear models. There were no baseline group differences in CTRA expression, but PRISM participants showed a greater decline in CTRA at 1 month compared to controls (&#x3b2; -0.301 &#xb1; SE 0.114, P = .016), even when controlling for demographic (Group &#xd7; Time interaction: F(2, 18) = 7.41, P = .004; &#x3b2; -0.386 &#xb1; 0.127, P = .007) and clinical covariates (Group &#xd7; Time interaction: F(2, 20) = 7.03, P = .005; &#x3b2; -0.480 &#xb1; 0.144, P = .003). These differences were not detectable at 3 months (&#x3b2; -0.147 &#xb1; SE 0.120, P = .235). There was a change in stress-related gene expression among AYAs randomized to a psychosocial intervention. The stress-inflammation axis may be a targetable pathway in the AYA HCT population.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.jtct.2024.09.014
+
+2. Keywords
+- AYA
+- Gene expression
+- HCT
+- Inflammation
+- Stress
+
+3. Key Findings
+- There were no baseline group differences in CTRA expression, but PRISM participants showed a greater decline in CTRA at 1 month compared to controls (&#x3b2; -0
+
+This study provides insights into:
+- AYA assessment methods and outcomes
+- Gene expression assessment methods and outcomes
+- HCT assessment methods and outcomes

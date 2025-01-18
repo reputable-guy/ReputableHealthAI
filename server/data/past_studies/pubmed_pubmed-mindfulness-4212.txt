@@ -1,0 +1,33 @@
+Study Title: Testing the Efficacy of a Brief, Self-Guided Mindfulness Ecological Momentary Intervention on Emotion Regulation and Self-Compassion in Social Anxiety Disorder: Randomized Controlled Trial.
+
+Study Summary:
+Theories propose that brief, mobile, self-guided mindfulness ecological momentary interventions (MEMIs) could enhance emotion regulation (ER) and self-compassion. Such changes are posited to be mechanisms of change. However, rigorous tests of these theories have not been conducted. In this assessor-blinded, parallel-group randomized controlled trial, we aimed to test these theories in social anxiety disorder (SAD). Participants with SAD (defined as having a prerandomization cut-off score &#x2265;20 on the Social Phobia Inventory self-report) were randomized to a 14-day fully self-guided MEMI (96/191, 50.3%) or self-monitoring app (95/191, 49.7%) arm. They completed web-based self-reports of 6 clinical outcome measures at prerandomization, 15-day postintervention (administered the day after the intervention ended), and 1-month follow-up time points. ER and self-compassion were assessed at preintervention and 7-day midintervention time points. Multilevel modeling determined the efficacy of MEMI on ER and self-compassion domains from pretrial to midintervention time points. Bootstrapped parallel multilevel mediation analysis examined the mediating role of pretrial to midintervention ER and self-compassion domains on the efficacy of MEMI on 6 clinical outcomes. Participants demonstrated strong compliance, with 78% (149/191) engaging in at least 80% of the MEMI and self-monitoring prompts. MEMI was more efficacious than the self-monitoring app in decreasing ER goal-directed behavior difficulties (between-group Cohen d=-0.24) and lack of emotional clarity (Cohen d=0.16) and increasing self-compassion social connectedness (Cohen d=0.19), nonidentification with emotions (Cohen d=0.16), and self-kindness (Cohen d=0.19) from pretrial to midintervention time points. The within-group effect sizes from pretrial to midintervention were larger in the MEMI arm than in the self-monitoring app arm (ER goal-directed behavior difficulties: Cohen d=-0.73 vs -0.29, lack of emotional clarity: Cohen d=-0.39 vs -0.21, self-compassion domains of social connectedness: Cohen d=0.45 vs 0.19, nonidentification with emotions: Cohen d=0.63 vs 0.48, and self-kindness: Cohen d=0.36 vs 0.10). Self-monitoring, but not MEMI, alleviated ER emotional awareness issues (between-group Cohen d=0.11 and within-group: Cohen d=-0.29 vs -0.13) and reduced self-compassion acknowledging shared human struggles (between-group Cohen d=0.26 and within-group: Cohen d=-0.23 vs 0.13). No ER and self-compassion domains were mediators of the effect of MEMI on SAD symptoms (P=.07-<.99), generalized anxiety symptoms (P=.16-.98), depression severity (P=.20-.94), repetitive negative thinking (P=.12-.96), and trait mindfulness (P=.18-.99) from pretrial to postintervention time points. Similar nonsignificant mediation effects emerged for all of these clinical outcomes from pretrial to 1-month follow-up time points (P=.11-.98). Brief, fully self-guided, mobile MEMIs efficaciously increased specific self-compassion domains and decreased ER difficulties associated with goal pursuit and clarity of emotions from pretrial to midintervention time points. Higher-intensity MEMIs may be required to pinpoint the specific change mechanisms in ER and self-compassion domains of SAD. Open Science Framework (OSF) Registries; osf.io/m3kxz https://osf.io/m3kxz.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.2196/53712
+
+2. Keywords
+- ecological momentary intervention
+- emotion regulation
+- mechanisms of change
+- mindfulness
+- mobile phone
+- momentary interventions
+- participant
+- randomized controlled trial
+- regulations
+- self-compassion
+- self-monitoring app
+- social anxiety disorder
+
+3. Key Findings
+- Participants demonstrated strong compliance, with 78% (149/191) engaging in at least 80% of the MEMI and self-monitoring prompts
+
+This study provides insights into:
+- ecological momentary intervention assessment methods and outcomes
+- emotion regulation assessment methods and outcomes
+- mechanisms of change assessment methods and outcomes
