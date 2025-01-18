@@ -14,9 +14,57 @@ const openai = new OpenAI({
 });
 
 export function registerRoutes(app: Express): Server {
+  // Test route to verify OpenAI API
+  app.get("/api/test-openai", async (_req, res) => {
+    try {
+      console.log("Testing OpenAI API connection...");
+
+      // Make a minimal API call
+      const completion = await openai.chat.completions.create({
+        model: "gpt-3.5-turbo", // Using a less expensive model for testing
+        messages: [
+          {
+            role: "user",
+            content: "Hello, this is a test message."
+          }
+        ],
+        max_tokens: 10
+      });
+
+      console.log("OpenAI API test successful:", completion.choices[0].message);
+
+      res.json({ 
+        status: "success",
+        message: "OpenAI API is working correctly",
+        response: completion.choices[0].message
+      });
+    } catch (error: any) {
+      console.error("OpenAI test error details:", {
+        status: error.status,
+        type: error.error?.type,
+        code: error.code,
+        param: error.param,
+        message: error.message
+      });
+
+      res.status(500).json({ 
+        status: "error",
+        error: error.error?.type || error.type,
+        message: error.error?.message || error.message,
+        details: {
+          status: error.status,
+          code: error.code,
+          param: error.param
+        }
+      });
+    }
+  });
+
   app.post("/api/protocols/generate", async (req, res) => {
     try {
       const setupData = req.body;
+
+      console.log("Generating protocol with data:", setupData);
 
       const prompt = `
 As a clinical research expert, generate a comprehensive study protocol based on these initial details:
@@ -59,8 +107,9 @@ Format the response as a JSON object with these fields:
 Ensure the protocol design follows scientific best practices and is appropriate for the product category.
 `;
 
+      console.log("Sending request to OpenAI...");
       const completion = await openai.chat.completions.create({
-        model: "gpt-4",
+        model: "gpt-3.5-turbo", // Changed from gpt-4 to gpt-3.5-turbo
         messages: [
           {
             role: "system",
@@ -79,22 +128,35 @@ Ensure the protocol design follows scientific best practices and is appropriate 
         throw new Error("No response received from AI");
       }
 
+      console.log("OpenAI response received successfully");
       const generatedProtocol = JSON.parse(completion.choices[0].message.content);
       const fullProtocol = {
         ...setupData,
         ...generatedProtocol
       };
 
+      console.log("Saving protocol to database...");
       const savedProtocol = await db.insert(protocols).values(fullProtocol).returning();
       res.json(savedProtocol[0]);
     } catch (error: any) {
-      console.error("Protocol generation error:", error);
+      console.error("Protocol generation error details:", {
+        status: error.status,
+        type: error.error?.type,
+        code: error.code,
+        param: error.param,
+        message: error.message
+      });
 
       // Handle specific OpenAI API errors
       if (error.error?.type === 'insufficient_quota') {
         res.status(500).json({ 
           error: "Failed to generate protocol",
-          details: "OpenAI API quota exceeded. Please try again later."
+          details: "OpenAI API quota exceeded. Please check your billing status and available credits."
+        });
+      } else if (error.status === 401) {
+        res.status(500).json({
+          error: "Failed to generate protocol",
+          details: "Invalid API key. Please ensure your OpenAI API key is correct."
         });
       } else {
         res.status(500).json({ 
