@@ -477,34 +477,7 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
                 <div>
                   <h3 className="font-medium mb-2">Introduction</h3>
                   <p className="text-sm text-muted-foreground">
-                    You are being asked for your consent to take part in this research study. This document provides a concise summary of this research and what we expect from your participation. Your participation is voluntary and you may withdraw at any time.
-                  </p>
-                </div>
-
-                {/* Purpose */}
-                <div>
-                  <h3 className="font-medium mb-2">Purpose of Research</h3>
-                  <p className="text-sm text-muted-foreground">
-                    This study aims to assess the impact of the intervention on sleep quality, recovery metrics, and overall well-being using Oura Ring data and participant feedback over {protocolData.durationWeeks} weeks.
-                  </p>
-                </div>
-
-                {/* Expectations */}
-                <div>
-                  <h3 className="font-medium mb-2">Study Requirements</h3>
-                  <ul className="list-disc list-inside text-sm space-y-2 text-muted-foreground">
-                    <li>Wear your Oura Ring consistently throughout the study period</li>
-                    <li>Complete daily tracking of relevant factors that may impact your sleep</li>
-                    <li>Participate in required questionnaires at specified intervals</li>
-                    <li>Follow the study protocol as directed</li>
-                  </ul>
-                </div>
-
-                {/* Data Usage */}
-                <div>
-                  <h3 className="font-medium mb-2">Data Collection & Privacy</h3>
-                  <p className="text-sm text-muted-foreground">
-                    Your data will be collected through the Oura Ring device and our platform. All data is encrypted and stored securely. Your personal information will be de-identified for research purposes. You have the right to request your data be deleted at any time.
+                    You are being asked for your consent to take part in the study. This document provides a concise summary of this research and expectations associated with participating. Your participation in this study is voluntary. You may decide not to participate or you may leave the study at any time. Your decision will not result in any penalty or loss to which you are otherwise entitled.
                   </p>
                 </div>
 
@@ -512,7 +485,80 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
                 <div>
                   <h3 className="font-medium mb-2">Contact Information</h3>
                   <p className="text-sm text-muted-foreground">
-                    For questions or concerns about the study, please contact the research team through the platform's messaging system or at support@reputable.health.
+                    If you have any questions, you can contact the research team anytime at mackenzie@reputable.health, or by using the chat feature located in your Reputable Health dashboard.
+                  </p>
+                </div>
+
+                {/* Purpose */}
+                <div>
+                  <h3 className="font-medium mb-2">Why is this research being done?</h3>
+                  <p className="text-sm text-muted-foreground">
+                    The purpose of this research is to assess the impact of the {protocolData.productName} on participant {protocolData.studyCategory.toLowerCase()}, mental well-being, and other health metrics in a real world setting following a {protocolData.durationWeeks}-week intervention period.
+                  </p>
+                </div>
+
+                {/* Expectations */}
+                <div>
+                  <h3 className="font-medium mb-2">What is expected of me if I agree to take part in this research?</h3>
+                  <p className="text-sm text-muted-foreground mb-4">
+                    If you decide to take part in this research study, you will be asked to engage in the following activities:
+                  </p>
+                  <ul className="list-decimal list-inside text-sm space-y-4 text-muted-foreground">
+                    <li className="pl-2">
+                      <span className="font-medium">Complete Surveys:</span> You will be required to complete two surveys—one at the start of the study (baseline, 0 weeks) and another at the end of the study ({protocolData.durationWeeks} weeks). These surveys are designed to gather information on your {protocolData.studyCategory.toLowerCase()} patterns, well-being, and other relevant metrics.
+                    </li>
+                    <li className="pl-2">
+                      <span className="font-medium">Connect and Wear Your Oura Device:</span> You will need to connect your Oura Ring device to the Reputable platform. This connection will allow us to collect objective data on your {protocolData.studyCategory.toLowerCase()} and other health-related biomarker metrics continuously throughout the study period. It is important that you keep your Oura Ring charged and wear it over the course of the study period.
+                    </li>
+                    <li className="pl-2">
+                      <span className="font-medium">Intervention Adherence:</span> You will be asked to follow the study protocol as directed. It is important that you follow these instructions carefully to ensure the accuracy and reliability of the study's results. You will be automatically withdrawn from the study if you fail to meet a 70% compliance threshold. Compliance is defined as you confirming your daily protocol adherence in the Reputable Health app.
+                    </li>
+                  </ul>
+                </div>
+
+                {/* Risks */}
+                <div>
+                  <h3 className="font-medium mb-2">What are the risks associated with participating in this study?</h3>
+                  <p className="text-sm text-muted-foreground">
+                    The research team has taken steps to minimize the risks of this study. Even so, you may still experience some risks related to your participation, even when the researchers are careful to avoid them. These risks will be detailed in your specific protocol instructions. Please report any issues or concerns to the research team immediately.
+                  </p>
+                </div>
+
+                {/* Benefits */}
+                <div>
+                  <h3 className="font-medium mb-2">What are the benefits associated with participating in this study?</h3>
+                  <p className="text-sm text-muted-foreground">
+                    By participating in this study, you may experience potential benefits. Through use of the Reputable Health app and the continuous monitoring of biomarker metrics, you may also become more aware of your {protocolData.studyCategory.toLowerCase()} patterns and overall health metrics, which may help establish more informed decisions about your health. You will also be contributing to a foundation of scientific knowledge that will contribute to the growth of a body of research assessing the effectiveness of the intervention on {protocolData.studyCategory.toLowerCase()} and health.
+                  </p>
+                  <p className="text-sm text-muted-foreground mt-2">
+                    While the study has the potential to provide these benefits, it is important to note that benefits are not guaranteed, and the primary goal of the research is to gather data that will contribute to scientific understanding. Your involvement is greatly valued and will play a key role in advancing knowledge in this area.
+                  </p>
+                </div>
+
+                {/* Incentives */}
+                <div>
+                  <h3 className="font-medium mb-2">Are there any incentives associated with participating in this research?</h3>
+                  <p className="text-sm text-muted-foreground">
+                    Participants in this study will receive compensation for their time and effort, contingent on their adherence to study protocols and the completion of key milestones. Upon successful completion of the study, defined as maintaining at least 70% adherence to the study protocols and completing the end-of-study survey, participants will be awarded an electronic gift card valued at $50.
+                  </p>
+                </div>
+
+                {/* Privacy */}
+                <div>
+                  <h3 className="font-medium mb-2">How are you protecting privacy and ensuring confidentiality?</h3>
+                  <p className="text-sm text-muted-foreground">
+                    Upon enrollment into the Reputable App, all participants are de-identified using a randomly assigned alias that will follow them throughout the course of their participation in the study and time in the Reputable platform. All communications and research activities will be conducted under the alias and personal identifying information will be minimized to an administrative level for safety and regulatory purposes only.
+                  </p>
+                  <p className="text-sm text-muted-foreground mt-2">
+                    De-identified data from this study will be shared with the commercial sponsor of the study and used to validate claims surrounding product efficacy and to advance future research in this area. No personal information that could be used to identify you will be shared with any external parties, including the sponsor.
+                  </p>
+                </div>
+
+                {/* Consent Statement */}
+                <div>
+                  <h3 className="font-medium mb-2">Statement of Consent</h3>
+                  <p className="text-sm text-muted-foreground">
+                    By completing this consent, I confirm that I have read the above information, and have received answers to any questions I asked. I consent to take part in the study.
                   </p>
                 </div>
               </div>
