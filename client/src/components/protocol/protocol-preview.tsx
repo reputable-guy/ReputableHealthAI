@@ -10,7 +10,7 @@ import { useMutation } from "@tanstack/react-query";
 import { useToast } from "@/hooks/use-toast";
 import type { ProtocolData, ValidationResult } from "@/pages/protocol-designer";
 import { generateProtocolInsights } from "@/lib/protocol-insights";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Loader2, Info, Shield, AlertTriangle, CheckCircle, ChevronDown } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import { validateStudyDesign } from "@/lib/study-validation";
@@ -43,6 +43,13 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
   const { toast } = useToast();
   const [insights, setInsights] = useState<string | null>(null);
   const [validationResults, setValidationResults] = useState<ValidationResult | null>(null);
+
+  // Run validation when protocol data changes
+  useEffect(() => {
+    if (protocolData.participantCount && protocolData.studyType) {
+      runValidation.mutate();
+    }
+  }, [protocolData]);
 
   const saveProtocol = useMutation({
     mutationFn: async (data: Partial<ProtocolData>) => {
@@ -146,23 +153,6 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
                 powerCurve={powerCurve}
               />
             </div>
-
-            {/* Sample Size Analysis */}
-            <div>
-              <h3 className="font-medium mb-2">Sample Size Analysis</h3>
-              <p className="text-sm text-muted-foreground">
-                Minimum recommended: {validationResults.minimumSampleSize} participants
-                {protocolData.participantCount && (
-                  <span className={`ml-2 ${
-                    protocolData.participantCount >= validationResults.minimumSampleSize
-                      ? "text-green-600"
-                      : "text-red-600"
-                  }`}>
-                    Current: {protocolData.participantCount}
-                  </span>
-                )}
-              </p>
-            </div>
           </div>
         </CardContent>
       </Card>
@@ -180,6 +170,9 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
           {protocolData.studyCategory} - {protocolData.studyType}
         </p>
       </div>
+
+      {/* Validation Results Card - Moved up for prominence */}
+      {validationResults && <ValidationResults />}
 
       {/* Quick Stats Section */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
@@ -210,9 +203,6 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
           </Card>
         )}
       </div>
-
-      {/* Validation Results Card */}
-      {validationResults && <ValidationResults />}
 
       {/* Study Details Section */}
       <Card>
