@@ -3,8 +3,10 @@ import { Pipeline, pipeline } from '@xenova/transformers';
 import type { Document } from "langchain/document";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 
-// Custom type for the embedding model to fix TypeScript errors
-type EmbeddingModel = Awaited<ReturnType<typeof pipeline>>;
+// Custom type for transformer output
+interface TransformerOutput {
+  data: Float32Array | Float64Array;
+}
 
 interface ReferenceDocument {
   id: string;
@@ -20,7 +22,7 @@ interface ReferenceDocument {
 
 class RAGService {
   private pinecone: Pinecone | null = null;
-  private embeddingModel: EmbeddingModel | null = null;
+  private embeddingModel: Pipeline | null = null;
   private readonly indexName = "protocol-references";
   private initialized = false;
 
@@ -48,16 +50,15 @@ class RAGService {
     }
   }
 
-  private async initEmbeddingModel() {
-    if (!this.embeddingModel) {
-      try {
-        return await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2');
-      } catch (error) {
-        console.error("Failed to initialize embedding model:", error);
-        throw error;
-      }
+  private async initEmbeddingModel(): Promise<Pipeline> {
+    try {
+      return await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2', {
+        revision: 'main'
+      });
+    } catch (error) {
+      console.error("Failed to initialize embedding model:", error);
+      throw error;
     }
-    return this.embeddingModel;
   }
 
   private async generateEmbedding(text: string): Promise<number[]> {
@@ -70,7 +71,11 @@ class RAGService {
     }
 
     try {
-      const output = await this.embeddingModel(text, { pooling: 'mean', normalize: true });
+      const output = await this.embeddingModel(text, {
+        pooling: 'mean',
+        normalize: true
+      }) as TransformerOutput;
+
       return Array.from(output.data);
     } catch (error) {
       console.error("Failed to generate embedding:", error);
@@ -173,17 +178,107 @@ Product Name: ${productName}
 Research Hypothesis: ${hypothesis}
 Study Category: ${category}
 
+Provide the response in valid JSON format with the following structure:
+{
+  "studyCategory": string,
+  "experimentTitle": string,
+  "studyObjective": string,
+  "studyType": string,
+  "participantCount": number,
+  "durationWeeks": number,
+  "targetMetrics": string[],
+  "questionnaires": string[],
+  "studySummary": string,
+  "participantInstructions": string[],
+  "safetyPrecautions": string[],
+  "educationalResources": [
+    {
+      "title": string,
+      "description": string,
+      "type": string
+    }
+  ],
+  "consentFormSections": [
+    {
+      "title": string,
+      "content": string
+    }
+  ],
+  "customFactors": string[],
+  "eligibilityCriteria": {
+    "wearableData": [
+      {
+        "metric": string,
+        "condition": string,
+        "value": string
+      }
+    ],
+    "demographics": [
+      {
+        "category": string,
+        "requirement": string
+      }
+    ],
+    "customQuestions": string[]
+  }
+}
+
 The protocol should incorporate best practices and guidelines from the reference materials while being specifically tailored to this study.
 `;
     } catch (error) {
       console.error("Failed to generate contextual prompt:", error);
       // Fallback to basic prompt without context
       return `
-Generate a comprehensive research protocol for the following:
+Generate a comprehensive research protocol for the following in JSON format:
 
 Product Name: ${productName}
 Research Hypothesis: ${hypothesis}
 Study Category: ${category}
+
+Response should be a valid JSON object with this structure:
+{
+  "studyCategory": string,
+  "experimentTitle": string,
+  "studyObjective": string,
+  "studyType": string,
+  "participantCount": number,
+  "durationWeeks": number,
+  "targetMetrics": string[],
+  "questionnaires": string[],
+  "studySummary": string,
+  "participantInstructions": string[],
+  "safetyPrecautions": string[],
+  "educationalResources": [
+    {
+      "title": string,
+      "description": string,
+      "type": string
+    }
+  ],
+  "consentFormSections": [
+    {
+      "title": string,
+      "content": string
+    }
+  ],
+  "customFactors": string[],
+  "eligibilityCriteria": {
+    "wearableData": [
+      {
+        "metric": string,
+        "condition": string,
+        "value": string
+      }
+    ],
+    "demographics": [
+      {
+        "category": string,
+        "requirement": string
+      }
+    ],
+    "customQuestions": string[]
+  }
+}
 
 The protocol should follow FDA guidelines and best practices while being specifically tailored to this study.
 `;
