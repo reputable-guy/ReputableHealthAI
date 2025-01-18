@@ -15,6 +15,7 @@ import { Loader2, Info, Shield, AlertTriangle, CheckCircle, ChevronDown } from "
 import ReactMarkdown from "react-markdown";
 import { validateStudyDesign } from "@/lib/study-validation";
 import PowerVisualization from "./power-visualization";
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
 
 interface ProtocolPreviewProps {
   protocolData: Partial<ProtocolData>;
@@ -126,37 +127,8 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
   });
 
   const ValidationResults = () => {
-    if (!validationResults) return null;
-
-    const powerCurve = validationResults.powerCurve || [];
-    const effectSize = validationResults.effectSize || 0.5;
-    const confidence = validationResults.confidence || 0.8;
-
-    return (
-      <Card className="mb-6 border-2 border-primary/20">
-        <CardHeader>
-          <CardTitle className="flex items-center gap-2">
-            <Shield className="h-5 w-5" />
-            Power Analysis Results
-          </CardTitle>
-        </CardHeader>
-        <CardContent>
-          <div className="space-y-6">
-            {/* Power Analysis Visualization */}
-            <div className="bg-muted/50 p-4 rounded-lg">
-              <PowerVisualization
-                power={validationResults.statisticalPower}
-                sampleSize={protocolData.participantCount || 0}
-                recommendedSize={validationResults.minimumSampleSize}
-                effectSize={effectSize}
-                confidence={confidence}
-                powerCurve={powerCurve}
-              />
-            </div>
-          </div>
-        </CardContent>
-      </Card>
-    );
+    //This function is not used anymore, removed.
+    return null;
   };
 
   return (
@@ -171,11 +143,8 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         </p>
       </div>
 
-      {/* Validation Results Card - Moved up for prominence */}
-      {validationResults && <ValidationResults />}
-
       {/* Quick Stats Section */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
         <Card>
           <CardContent className="pt-6">
             <div className="text-center">
@@ -184,14 +153,58 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
             </div>
           </CardContent>
         </Card>
-        <Card>
+
+        <Card className="relative">
           <CardContent className="pt-6">
-            <div className="text-center">
+            <div className="text-center space-y-2">
               <p className="text-sm text-muted-foreground mb-1">Participants</p>
               <p className="text-2xl font-semibold">{protocolData.participantCount}</p>
+              {validationResults && (
+                <>
+                  <div className="mt-2 flex items-center justify-center gap-2">
+                    <div
+                      className={`text-sm ${
+                        validationResults.statisticalPower >= 0.8
+                          ? "text-green-600"
+                          : validationResults.statisticalPower >= 0.6
+                            ? "text-yellow-600"
+                            : "text-red-600"
+                      }`}
+                    >
+                      {(validationResults.statisticalPower * 100).toFixed(1)}% Power
+                    </div>
+                    <Dialog>
+                      <DialogTrigger asChild>
+                        <Button variant="ghost" size="sm" className="h-6 px-2">
+                          <Info className="h-4 w-4" />
+                        </Button>
+                      </DialogTrigger>
+                      <DialogContent className="max-w-3xl">
+                        <DialogHeader>
+                          <DialogTitle>Statistical Power Analysis</DialogTitle>
+                        </DialogHeader>
+                        <PowerVisualization
+                          power={validationResults.statisticalPower}
+                          sampleSize={protocolData.participantCount || 0}
+                          recommendedSize={validationResults.minimumSampleSize}
+                          effectSize={validationResults.effectSize || 0.5}
+                          confidence={validationResults.confidence || 0.8}
+                          powerCurve={validationResults.powerCurve || []}
+                        />
+                      </DialogContent>
+                    </Dialog>
+                  </div>
+                  {validationResults.statisticalPower < 0.8 && (
+                    <p className="text-sm text-muted-foreground">
+                      Recommended: {validationResults.minimumSampleSize} participants
+                    </p>
+                  )}
+                </>
+              )}
             </div>
           </CardContent>
         </Card>
+
         {protocolData.studyGoal && (
           <Card>
             <CardContent className="pt-6">
