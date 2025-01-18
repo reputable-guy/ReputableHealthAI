@@ -1,4 +1,5 @@
 import OpenAI from "openai";
+import type { ProtocolData } from "@/pages/protocol-designer";
 
 if (!import.meta.env.VITE_OPENAI_API_KEY) {
   throw new Error("VITE_OPENAI_API_KEY is required");
@@ -9,24 +10,47 @@ const openai = new OpenAI({
   dangerouslyAllowBrowser: true
 });
 
-export async function generateProtocolInsights(protocolData: any) {
+export async function generateProtocolInsights(setupData: Partial<ProtocolData>): Promise<ProtocolData> {
   const prompt = `
-As a clinical research expert, analyze this study protocol and provide insights:
+As a clinical research expert, generate a comprehensive study protocol based on these initial details:
 
-Product: ${protocolData.productName}
-Category: ${protocolData.studyCategory}
-Study Type: ${protocolData.studyType}
-Duration: ${protocolData.durationWeeks} weeks
-Participants: ${protocolData.participantCount}
+Product Name: ${setupData.productName}
+Website: ${setupData.websiteUrl || 'N/A'}
+Study Goal: ${setupData.studyGoal}
 
-Please provide:
-1. Statistical Power Analysis
-2. Potential Confounding Variables
-3. Suggestions for Protocol Improvement
-4. Risk Assessment
-5. Expected Timeline Milestones
+Generate a complete study protocol including:
+1. Study Category (Sleep, Stress, Recovery, etc.)
+2. Experiment Title (participant-facing)
+3. Study Objective/Hypothesis
+4. Study Type (Real-World Evidence or RCT)
+5. Recommended participant count (with statistical justification)
+6. Study duration in weeks
+7. Target metrics to measure (specific to the wearable devices)
+8. Recommended validated questionnaires
+9. Eligibility criteria including:
+   - Wearable data requirements
+   - Demographic requirements
+   - Screening questions
 
-Format the response in markdown.
+Format the response as a JSON object matching this TypeScript type:
+{
+  ...setupData,
+  studyCategory: string,
+  experimentTitle: string,
+  studyObjective: string,
+  studyType: string,
+  participantCount: number,
+  durationWeeks: number,
+  targetMetrics: string[],
+  questionnaires: string[],
+  eligibilityCriteria: {
+    wearableData: any[],
+    demographics: any[],
+    customQuestions: string[]
+  }
+}
+
+Ensure the protocol design follows scientific best practices and is appropriate for the product category.
 `;
 
   try {
@@ -35,20 +59,24 @@ Format the response in markdown.
       messages: [
         {
           role: "system",
-          content: "You are an expert clinical research advisor helping to analyze and improve study protocols."
+          content: "You are an expert clinical research advisor specializing in wellness product studies. Generate study protocols that are scientifically rigorous yet practical for wellness brands."
         },
         {
           role: "user",
           content: prompt
         }
       ],
-      temperature: 0.7,
-      max_tokens: 1000
+      response_format: { type: "json_object" },
+      temperature: 0.7
     });
 
-    return response.choices[0].message.content;
+    const protocolData = JSON.parse(response.choices[0].message.content);
+    return {
+      ...setupData,
+      ...protocolData
+    } as ProtocolData;
   } catch (error: any) {
-    console.error("Failed to generate insights:", error);
-    throw new Error(`Failed to generate protocol insights: ${error.message}`);
+    console.error("Failed to generate protocol:", error);
+    throw new Error(`Failed to generate protocol: ${error.message}`);
   }
 }

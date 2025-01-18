@@ -8,6 +8,7 @@ import {
   FormItem,
   FormLabel,
   FormMessage,
+  FormDescription,
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
@@ -18,17 +19,19 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import { Loader2 } from "lucide-react";
 
 interface StudySetupFormProps {
-  onComplete: (data: any) => void;
-  initialData: any;
+  onComplete: (data: any) => Promise<void>;
 }
 
-export default function StudySetupForm({ onComplete, initialData }: StudySetupFormProps) {
+export default function StudySetupForm({ onComplete }: StudySetupFormProps) {
   const form = useForm({
     resolver: zodResolver(studySetupSchema),
-    defaultValues: initialData
+    defaultValues: {}
   });
+
+  const isSubmitting = form.formState.isSubmitting;
 
   return (
     <Form {...form}>
@@ -39,6 +42,9 @@ export default function StudySetupForm({ onComplete, initialData }: StudySetupFo
           render={({ field }) => (
             <FormItem>
               <FormLabel>Product Name</FormLabel>
+              <FormDescription>
+                Enter the name of the wellness product you want to study
+              </FormDescription>
               <FormControl>
                 <Input placeholder="Enter product name" {...field} />
               </FormControl>
@@ -53,6 +59,9 @@ export default function StudySetupForm({ onComplete, initialData }: StudySetupFo
           render={({ field }) => (
             <FormItem>
               <FormLabel>Website URL (Optional)</FormLabel>
+              <FormDescription>
+                Link to your product's website for additional context
+              </FormDescription>
               <FormControl>
                 <Input placeholder="https://..." {...field} />
               </FormControl>
@@ -67,6 +76,9 @@ export default function StudySetupForm({ onComplete, initialData }: StudySetupFo
           render={({ field }) => (
             <FormItem>
               <FormLabel>Study Goal</FormLabel>
+              <FormDescription>
+                Select the primary goal of your study
+              </FormDescription>
               <Select onValueChange={field.onChange} defaultValue={field.value}>
                 <FormControl>
                   <SelectTrigger>
@@ -84,7 +96,20 @@ export default function StudySetupForm({ onComplete, initialData }: StudySetupFo
           )}
         />
 
-        <Button type="submit" className="w-full">Continue</Button>
+        <Button 
+          type="submit" 
+          className="w-full"
+          disabled={isSubmitting}
+        >
+          {isSubmitting ? (
+            <>
+              <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+              Generating Protocol...
+            </>
+          ) : (
+            "Generate Study Protocol"
+          )}
+        </Button>
       </form>
     </Form>
   );
