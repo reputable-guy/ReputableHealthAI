@@ -1,0 +1,38 @@
+Study Category:
+Options: Sleep, Stress, Recovery, Cognition, Metabolic Health, Women’s Health, or Other.
+Experiment/Product Title:
+A participant-facing title describing the study (e.g., “Better Sleep with Magnesium: A Clinical Study”).
+Study Objective (Hypothesis):
+A hypothesis reflecting the product’s intended effect (e.g., "This supplement improves REM sleep duration").
+Customers can select from pre-populated objectives relevant to the product type.
+Study Type (Design):
+Select between:
+Real-World Evidence (Single Arm): All participants use the product.
+Randomized Controlled Trial (Two Arm): Half of the participants receive the product, while the other half receives a placebo.
+Number of Participants:
+Auto-generated based on a power analysis to ensure statistically significant results.
+Study Duration:
+Duration (in weeks) recommended based on typical timelines for the product category.
+Target Metrics (Wearables):
+Metrics relevant to the study (e.g., REM Sleep, Deep Sleep, Sleep Efficiency) captured through wearables like Oura Rings.
+Validated Questionnaires:
+Standardized, validated surveys to collect subjective feedback (e.g., Pittsburgh Sleep Quality Index for sleep studies).
+Study Summary:
+A one-line summary to describe the study to potential participants (e.g., “We’re studying how magnesium impacts sleep efficiency”).
+Participant Instructions:
+Detailed, easy-to-follow instructions to ensure participants comply with study requirements (e.g., daily log-in reminders, supplement intake schedules).
+Safety and Precautions:
+Clear safety guidelines and precautions that participants must acknowledge before starting the study.
+Educational Resource Links:
+Provide general resources about the product’s category (e.g., scientific studies on nitrate supplementation) to help participants understand the research context.
+Important: Exclude direct links to the brand’s website to avoid introducing bias.
+Consent Form:
+A participant consent form customized to the study, outlining the study’s purpose, risks, and data usage terms.
+Custom Other Factors:
+Participants can tag life events that may impact study outcomes (e.g., illness, alcohol consumption, travel) to provide context for any deviations.
+Eligibility Based on Wearable Data:
+Ability to exclude participants based on specific data from wearables (e.g., participants with REM sleep >100 minutes/night can be excluded to target individuals struggling with sleep).
+Eligibility Based on Demographics:
+Target participants by demographics (e.g., Male, Age 35-50, Living in the US).
+Other Eligibility Questions:
+Custom questions for participant screening (e.g., "Do you have a history of high blood pressure?").
