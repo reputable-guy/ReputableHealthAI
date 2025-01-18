@@ -81,43 +81,74 @@ function calculateConfidenceInterval(params: {
   };
 }
 
-export async function validateStudyDesign(protocol: Partial<ProtocolData>): Promise<ValidationResult> {
+export function calculateMinimumSampleSize(params: {
+  effectSize: number;
+  alpha: number;
+  power: number;
+  groups: number;
+}): number {
+  // Using more accurate sample size calculation formula
+  const zAlpha = 1.96; // For alpha = 0.05
+  const zBeta = -0.84; // For power = 0.80
+
+  // Adjust z-scores based on input parameters
+  if (params.alpha !== 0.05) {
+    // Approximate z-scores for different alpha levels
+    if (params.alpha === 0.01) zAlpha = 2.576;
+    else if (params.alpha === 0.1) zAlpha = 1.645;
+  }
+
+  if (params.power !== 0.8) {
+    // Approximate z-scores for different power levels
+    if (params.power === 0.9) zBeta = -1.28;
+    else if (params.power === 0.95) zBeta = -1.645;
+  }
+
+  // Calculate sample size per group
+  const minPerGroup = Math.ceil(
+    2 * Math.pow((zAlpha - zBeta) / params.effectSize, 2)
+  );
+
+  return minPerGroup * params.groups;
+}
+
+export async function validateStudyDesign(
+  protocol: Partial<ProtocolData>,
+  calculatorParams?: {
+    effectSize: number;
+    power: number;
+    alpha: number;
+  }
+): Promise<ValidationResult> {
   const errors: ValidationError[] = [];
   const suggestions: string[] = [];
   const regulatoryFlags: RegulationFlag[] = [];
 
-  // Calculate effect size based on study design
-  const effectSize = 0.5; // Medium effect size
+  // Use provided calculator parameters or defaults
+  const effectSize = calculatorParams?.effectSize ?? 0.5;
+  const power = calculatorParams?.power ?? 0.8;
+  const alpha = calculatorParams?.alpha ?? 0.05;
 
-  // Calculate minimum sample size
+  // Calculate minimum sample size with current parameters
   const minimumSampleSize = calculateMinimumSampleSize({
     effectSize,
-    alpha: 0.05,
-    power: 0.8,
+    alpha,
+    power,
     groups: protocol.studyType === "Randomized Controlled Trial" ? 2 : 1
   });
 
   // Generate power curve for visualization
   const powerCurve = generatePowerCurve({
     effectSize,
-    alpha: 0.05,
+    alpha,
     maxSampleSize: Math.max(minimumSampleSize * 2, protocol.participantCount || 0)
   });
 
-  // Validate participant count
-  if (!protocol.participantCount || protocol.participantCount < minimumSampleSize) {
-    errors.push({
-      field: 'participantCount',
-      message: `Sample size too small. Minimum recommended: ${minimumSampleSize}`,
-      severity: 'error'
-    });
-  }
-
-  // Calculate statistical power
+  // Calculate statistical power with current parameters
   const statisticalPower = calculateStatisticalPower({
     sampleSize: protocol.participantCount || 0,
     effectSize,
-    alpha: 0.05
+    alpha
   });
 
   // Calculate confidence level
@@ -131,8 +162,17 @@ export async function validateStudyDesign(protocol: Partial<ProtocolData>): Prom
   const confidenceInterval = calculateConfidenceInterval({
     sampleSize: protocol.participantCount || 0,
     effectSize,
-    alpha: 0.05
+    alpha
   });
+
+  // Validate participant count
+  if (!protocol.participantCount || protocol.participantCount < minimumSampleSize) {
+    errors.push({
+      field: 'participantCount',
+      message: `Sample size too small. Minimum recommended: ${minimumSampleSize}`,
+      severity: 'error'
+    });
+  }
 
   // Generate suggestions for improvement
   if (statisticalPower < 0.8) {
@@ -168,18 +208,6 @@ export async function validateStudyDesign(protocol: Partial<ProtocolData>): Prom
     powerCurve,
     regulatoryFlags
   };
-}
-
-function calculateMinimumSampleSize(params: {
-  effectSize: number;
-  alpha: number;
-  power: number;
-  groups: number;
-}): number {
-  // Basic implementation using Cohen's d formula
-  // For more accurate results, we would use a proper stats library
-  const minPerGroup = Math.ceil((16 / (params.effectSize * params.effectSize)));
-  return minPerGroup * params.groups;
 }
 
 function calculateStatisticalPower(params: {

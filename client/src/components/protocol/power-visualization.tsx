@@ -21,7 +21,7 @@ interface PowerVisualizationProps {
     lower: number;
     upper: number;
   };
-  onUpdateParameters?: (params: {
+  onUpdateParameters: (params: {
     effectSize: number;
     power: number;
     alpha: number;
@@ -44,9 +44,18 @@ export default function PowerVisualization({
     ? "rgb(234, 179, 8)" // yellow-500
     : "rgb(239, 68, 68)"; // red-500
 
+  const handleCalculatorUpdate = async (params: {
+    effectSize: number;
+    power: number;
+    alpha: number;
+  }) => {
+    if (onUpdateParameters) {
+      onUpdateParameters(params);
+    }
+  };
+
   return (
     <div className="space-y-6 p-4">
-      {/* Key Metrics */}
       <div className="grid grid-cols-3 gap-4">
         <div className="text-center">
           <div className="text-2xl font-bold" style={{ color: powerColor }}>
@@ -131,7 +140,6 @@ export default function PowerVisualization({
         </div>
       </div>
 
-      {/* Power Curve Visualization */}
       <div className="h-[300px] w-full">
         <LineChart
           width={600}
@@ -164,28 +172,23 @@ export default function PowerVisualization({
         </LineChart>
       </div>
 
-      {/* Sample Size Calculator */}
-      {onUpdateParameters && (
-        <div className="mt-6">
-          <SampleSizeCalculator
-            onCalculate={onUpdateParameters}
-            currentSampleSize={sampleSize}
-          />
-        </div>
-      )}
+      <div className="mt-6">
+        <SampleSizeCalculator
+          onCalculate={handleCalculatorUpdate}
+          currentSampleSize={sampleSize}
+        />
+      </div>
 
-      {/* Educational Information */}
       <div className="space-y-4 max-w-3xl mx-auto">
         <div className="text-sm space-y-2">
           <h4 className="font-medium">Understanding Statistical Analysis:</h4>
           <ul className="list-disc list-inside space-y-1 text-muted-foreground">
-            <li>Statistical power indicates the likelihood of detecting a true effect in your study</li>
+            <li>Statistical power ({(power * 100).toFixed(1)}%) indicates the likelihood of detecting a true effect in your study</li>
             <li>Higher power (≥80%) reduces the risk of false negative results</li>
             <li>Effect size ({(effectSize * 100).toFixed(1)}%) represents the expected magnitude of impact</li>
             {confidenceInterval && (
               <li>The 95% confidence interval ({(confidenceInterval.lower * 100).toFixed(1)}% - {(confidenceInterval.upper * 100).toFixed(1)}%) shows the range where we expect the true effect to fall</li>
             )}
-            <li>The power curve shows how statistical power increases with sample size</li>
           </ul>
         </div>
 
