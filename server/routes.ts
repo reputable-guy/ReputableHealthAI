@@ -115,33 +115,57 @@ export function registerRoutes(router: Router): void {
          });
     }
 
-    // Generate contextual prompt using RAG service
-    const contextualPrompt = await ragService.generateContextualPrompt(
-      productName,
-      studyCategory,
-      selectedHypothesis
-    );
+    try {
+      // Generate contextual prompt using RAG service
+      const contextualPrompt = await ragService.generateContextualPrompt(
+        productName,
+        studyCategory,
+        selectedHypothesis
+      );
 
-    // Use OpenAI to generate the protocol based on the contextual prompt
-    const completion = await openai.chat.completions.create({
-      model: "gpt-4",
-      messages: [
-        {
-          role: "system",
-          content: "You are an expert in research protocol design. Generate a comprehensive research protocol based on the provided context and requirements. The response must be valid JSON matching the specified structure."
-        },
-        {
-          role: "user",
-          content: contextualPrompt
-        }
-      ],
-      response_format: { type: "json_object" }
-    });
+      // Use OpenAI to generate the protocol based on the contextual prompt
+      const completion = await openai.chat.completions.create({
+        model: "gpt-4",
+        messages: [
+          {
+            role: "system",
+            content: `You are an expert in research protocol design. Generate a comprehensive research protocol based on the provided context and requirements. 
 
-    const protocol = JSON.parse(completion.choices[0].message.content);
+            IMPORTANT: Your response must be ONLY valid JSON with NO additional text or explanations.
+            Follow the exact structure specified in the prompt.
 
-    res.setHeader('Content-Type', 'application/json')
-       .json(protocol);
+            Each field should be carefully considered and specific to the study context.
+            Ensure all arrays have at least 3-5 relevant items.`
+          },
+          {
+            role: "user",
+            content: contextualPrompt
+          }
+        ]
+      });
+
+      // Parse and validate the response
+      let protocol;
+      try {
+        protocol = JSON.parse(completion.choices[0].message.content);
+      } catch (error) {
+        console.error("Failed to parse GPT response as JSON:", error);
+        console.log("Raw GPT response:", completion.choices[0].message.content);
+        throw new Error("Failed to generate valid protocol structure");
+      }
+
+      res.setHeader('Content-Type', 'application/json')
+         .json(protocol);
+    } catch (error) {
+      console.error("Protocol generation error:", error);
+      res.status(500)
+         .setHeader('Content-Type', 'application/json')
+         .json({
+           error: true,
+           message: "Failed to generate protocol. Please try again.",
+           details: error.message
+         });
+    }
   }));
 
   // Add endpoint to check RAG stats
