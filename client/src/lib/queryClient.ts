@@ -4,7 +4,12 @@ export const queryClient = new QueryClient({
   defaultOptions: {
     queries: {
       queryFn: async ({ queryKey }) => {
-        const res = await fetch(queryKey[0] as string, {
+        // Ensure the URL starts with /api/
+        const url = (queryKey[0] as string).startsWith('/api/') 
+          ? queryKey[0] as string
+          : `/api${queryKey[0]}`;
+
+        const res = await fetch(url, {
           credentials: "include",
           headers: {
             'Accept': 'application/json',
@@ -16,15 +21,18 @@ export const queryClient = new QueryClient({
           // Check content type to handle HTML errors
           const contentType = res.headers.get('content-type');
           if (contentType && contentType.includes('text/html')) {
-            throw new Error('Received HTML response instead of JSON');
-          }
-
-          if (res.status >= 500) {
-            throw new Error(`Server Error: ${res.status}`);
+            console.error('Received HTML instead of JSON. URL:', url);
+            throw new Error('API endpoint returned HTML instead of JSON. Please check the URL.');
           }
 
           const errorText = await res.text();
-          throw new Error(`${res.status}: ${errorText}`);
+          console.error('API Error:', {
+            status: res.status,
+            url,
+            error: errorText
+          });
+
+          throw new Error(`API Error (${res.status}): ${errorText}`);
         }
 
         return res.json();
