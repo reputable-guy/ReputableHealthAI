@@ -1,21 +1,17 @@
-import type { Express } from "express";
-import { createServer, type Server } from "http";
+import type { Router } from "express";
 import { ragService } from "./services/rag-service";
 
-export function registerRoutes(app: Express): Server {
+export function registerRoutes(router: Router): void {
   // Add CORS headers for API routes
-  app.use('/api', (req, res, next) => {
+  router.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Accept');
     next();
   });
 
-  // Add new endpoint to check RAG stats
-  app.get("/api/rag/stats", async (_req, res) => {
-    // Force JSON response
-    res.setHeader('Content-Type', 'application/json');
-
+  // Add endpoint to check RAG stats
+  router.get("/rag/stats", async (_req, res) => {
     try {
       const stats = await ragService.checkIndexStats();
       if (!stats) {
@@ -40,6 +36,30 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
-  const httpServer = createServer(app);
-  return httpServer;
+  // Add endpoint to reload PubMed studies
+  router.post("/rag/reload-studies", async (_req, res) => {
+    try {
+      console.log("Starting PubMed studies reload...");
+      const result = await ragService.loadPublicStudies();
+      if (result) {
+        const stats = await ragService.checkIndexStats();
+        res.json({
+          status: "success",
+          message: "Successfully reloaded PubMed studies",
+          currentStats: stats
+        });
+      } else {
+        res.status(500).json({
+          status: "error",
+          message: "Failed to reload PubMed studies"
+        });
+      }
+    } catch (error: any) {
+      console.error("Failed to reload PubMed studies:", error);
+      res.status(500).json({
+        status: "error",
+        message: error.message
+      });
+    }
+  });
 }

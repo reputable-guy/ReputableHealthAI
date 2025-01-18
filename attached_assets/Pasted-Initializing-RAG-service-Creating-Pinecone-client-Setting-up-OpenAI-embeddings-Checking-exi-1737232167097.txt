@@ -1,0 +1,112 @@
+Initializing RAG service...
+Creating Pinecone client...
+Setting up OpenAI embeddings...
+Checking existing indexes...
+8:27:01 PM [express] serving on port 5000
+Found existing indexes: {
+  indexes: [
+    {
+      name: 'protocol-refs',
+      dimension: 1536,
+      metric: 'cosine',
+      host: 'protocol-refs-na6n8t7.svc.aped-4627-b74a.pinecone.io',
+      deletionProtection: 'disabled',
+      tags: undefined,
+      spec: [Object],
+      status: [Object]
+    }
+  ]
+}
+Index protocol-refs exists: true
+Using existing Pinecone index: protocol-refs
+RAG service initialized successfully
+Current index stats - Total records: 0
+Loading initial reference documents into Pinecone...
+Successfully indexed document: FDA Guidance for Industry: Patient-Reported Outcome Measures
+Successfully indexed document: FDA Guidance on Safety Monitoring in Clinical Investigations
+Successfully indexed document: Sleep Quality Assessment Protocol Template
+Successfully indexed document: Stress Response Study Template
+Successfully indexed document: Effects of Magnesium Supplementation on Sleep Architecture
+Successfully indexed document: Impact of Plant-Based Recovery Supplements on Exercise Performance
+Successfully indexed document: Effects of Digital Mindfulness Program on Chronic Stress Management
+Successfully loaded 7 reference documents
+Starting collection of public wellness studies...
+Collecting studies for category: Sleep
+Found 1000 articles for category Sleep
+Error collecting studies for category Sleep: TypeError: article.PubmedData?.ArticleIdList?.ArticleId?.find is not a function
+    at <anonymous> (/home/runner/workspace/server/services/data-collection-service.ts:99:58)
+    at Array.map (<anonymous>)
+    at DataCollectionService.parseArticles (/home/runner/workspace/server/services/data-collection-service.ts:94:21)
+    at DataCollectionService.collectWellnessStudies (/home/runner/workspace/server/services/data-collection-service.ts:49:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RAGService.loadPublicStudies (/home/runner/workspace/server/services/rag-service.ts:487:23)
+    at async RAGService.initializeServices (/home/runner/workspace/server/services/rag-service.ts:122:7)
+Collecting studies for category: Stress
+Found 1000 articles for category Stress
+Error collecting studies for category Stress: TypeError: article.PubmedData?.ArticleIdList?.ArticleId?.find is not a function
+    at <anonymous> (/home/runner/workspace/server/services/data-collection-service.ts:99:58)
+    at Array.map (<anonymous>)
+    at DataCollectionService.parseArticles (/home/runner/workspace/server/services/data-collection-service.ts:94:21)
+    at DataCollectionService.collectWellnessStudies (/home/runner/workspace/server/services/data-collection-service.ts:49:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RAGService.loadPublicStudies (/home/runner/workspace/server/services/rag-service.ts:487:23)
+    at async RAGService.initializeServices (/home/runner/workspace/server/services/rag-service.ts:122:7)
+Collecting studies for category: Exercise
+Found 1000 articles for category Exercise
+Error collecting studies for category Exercise: TypeError: abstract.split is not a function
+    at DataCollectionService.extractKeyFindings (/home/runner/workspace/server/services/data-collection-service.ts:130:32)
+    at DataCollectionService.formatStudyContent (/home/runner/workspace/server/services/data-collection-service.ts:120:8)
+    at <anonymous> (/home/runner/workspace/server/services/data-collection-service.ts:56:27)
+    at Array.map (<anonymous>)
+    at DataCollectionService.collectWellnessStudies (/home/runner/workspace/server/services/data-collection-service.ts:52:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RAGService.loadPublicStudies (/home/runner/workspace/server/services/rag-service.ts:487:23)
+    at async RAGService.initializeServices (/home/runner/workspace/server/services/rag-service.ts:122:7)
+Collecting studies for category: Nutrition
+Found 1000 articles for category Nutrition
+Error collecting studies for category Nutrition: TypeError: abstract.split is not a function
+    at DataCollectionService.extractKeyFindings (/home/runner/workspace/server/services/data-collection-service.ts:130:32)
+    at DataCollectionService.formatStudyContent (/home/runner/workspace/server/services/data-collection-service.ts:120:8)
+    at <anonymous> (/home/runner/workspace/server/services/data-collection-service.ts:56:27)
+    at Array.map (<anonymous>)
+    at DataCollectionService.collectWellnessStudies (/home/runner/workspace/server/services/data-collection-service.ts:52:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RAGService.loadPublicStudies (/home/runner/workspace/server/services/rag-service.ts:487:23)
+    at async RAGService.initializeServices (/home/runner/workspace/server/services/rag-service.ts:122:7)
+Collecting studies for category: Mindfulness
+Found 1000 articles for category Mindfulness
+Error collecting studies for category Mindfulness: TypeError: article.PubmedData?.ArticleIdList?.ArticleId?.find is not a function
+    at <anonymous> (/home/runner/workspace/server/services/data-collection-service.ts:99:58)
+    at Array.map (<anonymous>)
+    at DataCollectionService.parseArticles (/home/runner/workspace/server/services/data-collection-service.ts:94:21)
+    at DataCollectionService.collectWellnessStudies (/home/runner/workspace/server/services/data-collection-service.ts:49:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RAGService.loadPublicStudies (/home/runner/workspace/server/services/rag-service.ts:487:23)
+    at async RAGService.initializeServices (/home/runner/workspace/server/services/rag-service.ts:122:7)
+Collecting studies for category: Recovery
+Found 1000 articles for category Recovery
+Error collecting studies for category Recovery: TypeError: article.PubmedData?.ArticleIdList?.ArticleId?.find is not a function
+    at <anonymous> (/home/runner/workspace/server/services/data-collection-service.ts:99:58)
+    at Array.map (<anonymous>)
+    at DataCollectionService.parseArticles (/home/runner/workspace/server/services/data-collection-service.ts:94:21)
+    at DataCollectionService.collectWellnessStudies (/home/runner/workspace/server/services/data-collection-service.ts:49:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RAGService.loadPublicStudies (/home/runner/workspace/server/services/rag-service.ts:487:23)
+    at async RAGService.initializeServices (/home/runner/workspace/server/services/rag-service.ts:122:7)
+Collecting studies for category: Cognitive Performance
+Found 1000 articles for category Cognitive Performance
+Error collecting studies for category Cognitive Performance: TypeError: abstract.split is not a function
+    at DataCollectionService.extractKeyFindings (/home/runner/workspace/server/services/data-collection-service.ts:130:32)
+    at DataCollectionService.formatStudyContent (/home/runner/workspace/server/services/data-collection-service.ts:120:8)
+    at <anonymous> (/home/runner/workspace/server/services/data-collection-service.ts:56:27)
+    at Array.map (<anonymous>)
+    at DataCollectionService.collectWellnessStudies (/home/runner/workspace/server/services/data-collection-service.ts:52:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RAGService.loadPublicStudies (/home/runner/workspace/server/services/rag-service.ts:487:23)
+    at async RAGService.initializeServices (/home/runner/workspace/server/services/rag-service.ts:122:7)
+Total studies collected: 0
+Collected 0 studies from PubMed
+Successfully loaded public studies into vector database
+=== Pinecone Index Statistics ===
+Total vectors: 29
+Namespaces: 1

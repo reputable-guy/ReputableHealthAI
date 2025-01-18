@@ -1,4 +1,5 @@
 import express, { type Request, Response, NextFunction } from "express";
+import { createServer } from 'http';
 import { registerRoutes } from "./routes";
 import { setupVite, serveStatic, log } from "./vite";
 
@@ -38,15 +39,20 @@ app.use((req, res, next) => {
 });
 
 (async () => {
-  // Register API routes first to ensure they take precedence
-  const server = registerRoutes(app);
+  // Create HTTP server
+  const server = createServer(app);
+
+  // Register API routes with prefix
+  const router = express.Router();
+  registerRoutes(router);
+  app.use('/api', router);
 
   // Error handling middleware
   app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {
+    console.error('Server error:', err);
     const status = err.status || err.statusCode || 500;
     const message = err.message || "Internal Server Error";
     res.status(status).json({ message });
-    throw err;
   });
 
   // Setup Vite or static serving after API routes
@@ -56,6 +62,7 @@ app.use((req, res, next) => {
     serveStatic(app);
   }
 
+  // ALWAYS serve the app on port 5000
   const PORT = 5000;
   server.listen(PORT, "0.0.0.0", () => {
     log(`serving on port ${PORT}`);
