@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { useToast } from "@/hooks/use-toast";
 import { Loader2 } from "lucide-react";
@@ -28,11 +28,6 @@ export default function HypothesisSelector({
   const [error, setError] = useState<string | null>(null);
   const { toast } = useToast();
 
-  // Generate hypotheses as soon as the component mounts
-  useState(() => {
-    generateHypotheses();
-  });
-
   const generateHypotheses = async () => {
     setLoading(true);
     setError(null);
@@ -61,6 +56,11 @@ export default function HypothesisSelector({
       setLoading(false);
     }
   };
+
+  // Generate hypotheses when component mounts
+  useEffect(() => {
+    generateHypotheses();
+  }, [productName, websiteUrl]); // Re-run if product name or website changes
 
   if (loading) {
     return (
