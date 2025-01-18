@@ -1,0 +1,27 @@
+Study Title: Phenotypes of sleep health among adults with chronic heart failure in a randomized controlled trial of cognitive behavioral therapy for insomnia.
+
+Study Summary:
+Poor sleep contributes to adverse health in heart failure. However, studies are limited to isolated sleep characteristics. To evaluate changes in sleep health phenotypes after cognitive behavioral therapy for insomnia or attention control and associations between sleep health phenotypes, symptoms, stress, functional performance, and emergency department visits and hospitalizations. Secondary analysis of a randomized controlled trial of cognitive behavioral therapy for insomnia among adults with heart failure. We measured sleep (rest-activity rhythms, sleep duration, quality, and efficiency, insomnia severity, daytime sleepiness), symptoms, cognitive ability, vigilance, and 6-minute walk distance at baseline and 3-, 6-, and 12-month postintervention and collected hospitalizations and emergency department visits. We used K-means cluster analysis and generalized linear mixed models, generalized estimating equations, and Cox proportional hazard models. Among 166 participants (M age=63.2 (SD=12.6) years; 57% male; 23% New&#xa0;York Heart Association Class III/IV), there were four sleep health phenotypes ("Unstable Sleep" (15%); "Short Sleep" (39%); "Low Sleep Efficiency" (25%); and "Good Sleep" (21%)) at baseline. The healthiest phenotype was associated with the lowest fatigue. The proportions of participants in the healthiest sleep group increased from pre- to post-treatment. Low sleepiness (p&#xa0;=&#xa0;.0188) and a robust circadian quotient (p&#xa0;=&#xa0;.007) predicted transition to the healthiest phenotype. The poorest sleep phenotype at baseline predicted time to hospitalizations and emergency department visits (hazard ratios 0.35-0.60) after adjusting for covariates. Sleep phenotypes predict heart failure outcomes. Tailored interventions targeting phenotypes may be more effective than approaches that focus on single sleep characteristics.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.sleh.2024.09.006
+
+2. Keywords
+- Actigraphy
+- Circadian rhythms
+- Heart failure
+- Insomnia
+- Sleep
+- Sleep-disordered breathing
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Actigraphy assessment methods and outcomes
+- Circadian rhythms assessment methods and outcomes
+- Heart failure assessment methods and outcomes

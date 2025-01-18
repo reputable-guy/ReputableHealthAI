@@ -1,0 +1,28 @@
+Study Title: From Life's Essential 8 to metabolic syndrome: insights from NHANES database and network pharmacology analysis of quercetin.
+
+Study Summary:
+Metabolic syndrome (MetS), or syndrome X, is a collection of metabolic illnesses that affect the body's health, particularly insulin resistance and obesity. The prevalence of MetS is on the rise, particularly among younger individuals. Quercetin, a natural flavonoid found in many traditional Chinese medicines, can impact various pathways to disrupt the pathological advancement of MetS with few negative effects. The American Heart Association recently introduced a cardiovascular health assessment termed Life's Essential 8 (LE8), which might impact the treatment of MetS. Quercetin targets and their functions in MetS pathways were identified using a network pharmacology method and molecular docking techniques. The study examined quercetin's direct and indirect interactions with proteins linked to the pathogenic processes of MetS. Data were collected regarding the American Heart Association's LE8 cardiovascular health indicators, which include health behaviors (diet, physical activity, nicotine exposure, and sleep) and health factors (body mass index, non-high-density lipoprotein cholesterol, blood glucose, and blood pressure). The study assessed the connection between LE8 and the occurrence of MetS, taking into account dietary quercetin consumption as a variable of interest. The negative correlation between MetS and LE8 indicates that individuals with higher LE8 scores are less likely to develop MetS. Individuals in the fully adjusted highest group (LE8&#x2009;&#x2265;&#x2009;80) demonstrated a 79% lower likelihood of developing MetS than those in the lowest group (OR&#x2009;=&#x2009;0.21; 95% CI, 0.17-0.26,&#x2009;<&#x2009;0.0001). Network pharmacology and molecular docking results show that quercetin may exert its therapeutic effects by modulating various biological response processes, including those related to xenobiotic stimuli, bacterial molecules, lipopolysaccharides, and oxidative stimuli. These processes involve key pathways associated with diabetic complications, such as the AGE-RAGE signaling pathway, pathways related to diabetic complications, and pathways involved in lipids and atherosclerosis. Therefore, quercetin may reduce cardiovascular risk, improve glucose-lipid metabolism, and alleviate insulin resistance and other biological processes by influencing multiple aspects of the lipid profile, blood glucose, and insulin resistance, ultimately impacting the links between LE8 score and MetS. This study discovered that an optimal LE8 score is a marker of adopting a lifestyle of wellness and is connected with a reduced likelihood of developing MetS. Quercetin acts on core targets such as IL6, BCL2, TP53, IL1B, MAPK1, and CCL2, and then plays a therapeutic role in regulating lipid metabolism, anti-inflammation, immunomodulation, autophagy, etc., through the pathways of diabetic complications, lipids, atherosclerosis, etc., and has the characteristics of multi-targets, multi-pathways, and multi-functions in regulating interventions for MetS.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.3389/fnut.2024.1452374
+
+2. Keywords
+- Life&#x2019;s Essential 8
+- NHANES
+- metabolic syndrome
+- molecular docking
+- network pharmacology
+- quercetin
+
+3. Key Findings
+- Quercetin, a natural flavonoid found in many traditional Chinese medicines, can impact various pathways to disrupt the pathological advancement of MetS with few negative effects
+- Individuals in the fully adjusted highest group (LE8&#x2009;&#x2265;&#x2009;80) demonstrated a 79% lower likelihood of developing MetS than those in the lowest group (OR&#x2009;=&#x2009;0
+
+This study provides insights into:
+- Life&#x2019;s Essential 8 assessment methods and outcomes
+- NHANES assessment methods and outcomes
+- metabolic syndrome assessment methods and outcomes

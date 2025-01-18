@@ -1,0 +1,20 @@
+Study Title: Modulation of neural networks and symptom correlated in fibromyalgia: A randomized double-blind multi-group explanatory clinical trial of home-based transcranial direct current stimulation.
+
+Study Summary:
+Transcranial direct current stimulation (tDCS) might modulate neural activity and promote neural plasticity in patients with fibromyalgia (FM). This multi-group randomized clinical trial compared home-based active tDCS (HB-a-tDCS) on the left dorsolateral prefrontal cortex (l-DLPFC) or home-based sham tDCS (HB-s-tDCS), and HB-a-tDCS or HB-s-tDCS on the primary motor cortex (M1) in the connectivity analyses in eight regions of interest (ROIs) across eight resting-state electroencephalography (EEG) frequencies. We included 48 women with FM, aged 30 to 65, randomly assigned to 2:1:2:1 to receive 20 sessions during 20 minutes of HB-a-tDCS 2mA or HB-s-tDCS, over l-DLPFC or M1, respectively. EEG recordings were obtained before and after treatment with eyes open (EO) and eyes closed (EC). In the EC condition, comparing pre to post-treatment, the HB-a-tDCS on l-DLPFC decreased the lagged coherence connectivity in the delta frequency band between the right insula and left anterior cingulate cortex (ACC) (t = -3.542, p = .048). The l-DLPFC HB-a-tDCS compared to HB-s-tDCS decreased the lagged coherence connectivity in the delta frequency band between the right insula and left ACC (t = -4.000, p = .017). In the EO condition, the l-DLPFC HB-a-tDCS compared to M1 HB-s-tDCS increased the lagged coherence connectivity between the l-DLPFC and left ACC in the theta band (t = -4.059, p = .048). Regression analysis demonstrated that the HB-a-tDCS effect on the l-DLPFC was positively correlated with sleep quality. On the other hand, the HB-a-tDCS on l-DLPFC and HB-s-tDCS on M1 were positively correlated with pain catastrophizing. These results show that HB-a-tDCS affects the neural connectivity between parts of the brain that control pain's emotional and attentional aspects, which are most noticeable at lower EEG frequencies in a rest state. This effect on neural oscillations could serve as a neural marker associated with its efficacy in alleviating fibromyalgia symptoms. identifier [NCT03843203].
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1371/journal.pone.0288830
+
+2. Keywords
+
+
+3. Key Findings
+- Regression analysis demonstrated that the HB-a-tDCS effect on the l-DLPFC was positively correlated with sleep quality
+
+This study provides insights into:
+- General research methodology and outcomes

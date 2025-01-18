@@ -1,0 +1,26 @@
+Study Title: Impact of sleep restriction on biomarkers of thyroid function: Two pooled randomized trials.
+
+Study Summary:
+Chronic, mildly insufficient sleep is associated with increased cardiometabolic risk, but whether the regulation of thyroid hormones and related growth factors are mechanisms of this association is unclear. We investigated whether 6 wk of mild sleep restriction (SR) alters levels of free thyroxine (FT4), thyroid stimulating hormone (TSH), and fibroblast growth factor-21 (FGF-21), a modulator of FT4, in adults with adequate habitual sleep (AS; 7-9 h/night). Healthy adults participated in one of two randomized, crossover studies with identical 6-wk intervention phases: AS and SR (1.5 h/night&#xa0;<&#xa0;AS). Fasted blood samples were collected at baseline and endpoint of each phase. Outcomes were concentrations of FT4, TSH, and FGF-21 (women only). Linear mixed models tested the effects of SR vs AS on the outcomes, adjusting for baseline levels, week, sex, and sex-by-condition interaction. Thirty participants (20 women; 73% racial/ethnic minority; age 21-64 y [M&#xb1;SD&#xa0;=&#xa0;36.2&#xa0;&#xb1;&#xa0;12.8 y]) were included. In the full sample, no effects of SR on FT4 (&#x3b2;&#xb1;SE&#xa0;=&#xa0;0.02&#xa0;&#xb1;&#xa0;0.04, p&#xa0;=&#xa0;0.654) or TSH (&#x3b2;&#xb1;SE&#xa0;=&#xa0;-0.02&#xa0;&#xb1;&#xa0;0.04, p&#xa0;=&#xa0;0.650) were observed; however, there were sex-by-condition interactions for both FT4 (p-interaction&#xa0;=&#xa0;0.056) and TSH (p-interaction&#xa0;=&#xa0;0.049). In sex-stratified analyses, TSH was reduced in SR vs. AS in women (&#x3b2;&#xb1;SE&#xa0;=&#xa0;-0.11&#xa0;&#xb1;&#xa0;0.04, p&#xa0;=&#xa0;0.011, Cohen's f&#xa0;=&#xa0;0.55) but not men (&#x3b2;&#xb1;SE&#xa0;=&#xa0;0.09&#xa0;&#xb1;&#xa0;0.08, p&#xa0;=&#xa0;0.261). Among women (n&#xa0;=&#xa0;17), FGF-21 was not significantly different between conditions (&#x3b2;&#xb1;SE&#xa0;=&#xa0;8.51&#xa0;&#xb1;&#xa0;17.70, p&#xa0;=&#xa0;0.638). Prolonged mild SR reduces TSH in women, whereas FT4 and FGF-21 remain unaffected compared with AS. If sustained, disruptions to the thyrotropic axis in women may contribute to their more pronounced cardiometabolic risk in response to SR compared with men.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1016/j.sleep.2024.10.035
+
+2. Keywords
+- Growth factors
+- Insufficient sleep
+- Sex
+- Subclinical hyperthyroidism
+- Thyrotropic axis
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Growth factors assessment methods and outcomes
+- Insufficient sleep assessment methods and outcomes
+- Sex assessment methods and outcomes

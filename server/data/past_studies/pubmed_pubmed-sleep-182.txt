@@ -1,0 +1,28 @@
+Study Title: Fasting as an intervention to alter the impact of simulated night-shift work on glucose metabolism in healthy adults: a cluster randomised controlled trial.
+
+Study Summary:
+Night-shift work causes circadian misalignment and impairs glucose metabolism. We hypothesise that food intake during night shifts may contribute to this phenomenon. This open-label, multi-arm, single-site, parallel-group controlled trial involved a 6 day stay at the University of South Australia's sleep laboratory (Adelaide, SA, Australia). Healthy, non-shift-working adults without obesity (N=55; age 24.5 &#xb1; 4.8 years; BMI 24.8 &#xb1; 2.8 kg/m) were assigned to the next available run date and cluster randomised (1:1:1) to fasting-at-night (N=20), snack-at-night (N=17), or meal-at-night (N=18) conditions. One participant withdrew from each group, prior to starting the study. Due to study design, neither participants nor people collecting their measurements could be blinded. Statistical and laboratory staff were concealed to study allocation. Participants were fed at calculated energy balance, with the macronutrient composition of meals being similar across conditions. The primary outcomes were a linear mixed-effects model of glucose, insulin and NEFA AUC in response to a 75 g OGTT that was conducted prior to and after 4 consecutive nights of shift work plus 1 night of recovery sleep. Insulin sensitivity, insulinogenic and disposition indexes were also calculated. Night-shift work impaired insulin sensitivity, as measured by insulin AUC (p=0.035) and the insulin sensitivity index (p=0.016) across all conditions. Insulin secretion, as measured by the insulinogenic index, was increased in the fasting-at-night condition only (p=0.030), resulting in a day&#xd7;condition interaction in glucose AUC (p<0.001) such that glucose tolerance was impaired in the meal-at night (+2.00 [95% CI 1.45, 2.56], p<0.001) and snack at-night (+0.96 [0.36, 1.56], p=0.022) conditions vs the fasting-at-night (+0.34 [-0.21, 0.89]) condition. A day&#xd7;condition interaction was also observed in NEFA AUC (p<0.001), being higher in the meal-at-night (+0.07 [0.03, 0.10]. p=0.001) and snack-at-night (0.01 [-0.03, 0.05], p=0.045) conditions vs the fasting-at-night condition (-0.02 [-0.06, 0.01]). No adverse events occurred. The timing of food intake has a critical effect on glucose metabolism during simulated night-shift work, which was readily amendable to a meal re-timing intervention. Australian New Zealand Clinical Trials Registry (ANZCTR) ACTRN12616001556437 FUNDING: This work was funded by the National Health and Medical Research Council (NHMRC), APP1099077.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1007/s00125-024-06279-1
+
+2. Keywords
+- Glucose metabolism
+- Meal size
+- Meal timing
+- Obesity
+- Shift work
+- Time-restricted eating
+- Type 2 diabetes
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Glucose metabolism assessment methods and outcomes
+- Meal size assessment methods and outcomes
+- Meal timing assessment methods and outcomes

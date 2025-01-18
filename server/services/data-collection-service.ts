@@ -21,45 +21,49 @@ export class DataCollectionService {
   private readonly parser = new XMLParser({
     ignoreAttributes: false,
     attributeNamePrefix: '@_',
-    parseAttributeValue: true
+    parseAttributeValue: true,
+    textNodeName: "#text",
+    isArray: (name, jpath, isLeafNode, isAttribute) => {
+      // Always treat these as arrays for consistent handling
+      if (name === 'PubmedArticle' || name === 'ArticleId' || name === 'Keyword') return true;
+      return false;
+    }
   });
 
   constructor(private apiKey?: string) {}
 
   async collectWellnessStudies(categories: string[], startYear: number = 2015): Promise<ReferenceDocument[]> {
+    console.log(`Starting collection of wellness studies from ${startYear} to present...`);
     const studies: ReferenceDocument[] = [];
     let totalProcessed = 0;
 
     for (const category of categories) {
-      console.log(`Collecting studies for category: ${category}`);
-
+      console.log(`Processing category: ${category}`);
       try {
-        // Build PubMed query
         const query = `${category}[Title/Abstract] AND ("wellness"[Title/Abstract] OR "clinical trial"[Publication Type])`;
         const searchUrl = `${this.PUBMED_API_BASE}/esearch.fcgi?db=pubmed&term=${encodeURIComponent(query)}&retmax=1000&mindate=${startYear}&maxdate=2024&retmode=json${this.apiKey ? `&api_key=${this.apiKey}` : ''}`;
 
         const searchResponse = await axios.get(searchUrl);
-        const articleIds = searchResponse.data.esearchresult.idlist;
+        const articleIds = searchResponse.data.esearchresult.idlist || [];
         console.log(`Found ${articleIds.length} articles for category ${category}`);
 
-        // Fetch articles in batches
         for (let i = 0; i < articleIds.length; i += this.BATCH_SIZE) {
           const batchIds = articleIds.slice(i, i + this.BATCH_SIZE);
           const fetchUrl = `${this.PUBMED_API_BASE}/efetch.fcgi?db=pubmed&id=${batchIds.join(',')}&retmode=xml${this.apiKey ? `&api_key=${this.apiKey}` : ''}`;
 
           try {
             const fetchResponse = await axios.get(fetchUrl);
-            const articles = this.parseArticles(fetchResponse.data);
+            const articles = await this.parseArticles(fetchResponse.data);
+            console.log(`Successfully parsed ${articles.length} articles from batch`);
 
-            // Convert valid articles to our document format
             const validArticles = articles.filter(article => 
               article.title && 
-              typeof article.abstract === 'string' && 
-              article.abstract.length > 0
+              article.abstract && 
+              article.abstract.length > 100 // Ensure we have substantial abstract content
             );
 
             const documents = validArticles.map((article, index) => ({
-              id: `pubmed-${category}-${i + index}`,
+              id: `pubmed-${category.toLowerCase()}-${totalProcessed + index}`,
               type: "past_study" as const,
               title: article.title,
               content: this.formatStudyContent(article),
@@ -77,45 +81,39 @@ export class DataCollectionService {
 
             // Save to files for persistence
             const dataDir = join(__dirname, '../data/past_studies');
-            documents.forEach(doc => {
+            for (const doc of documents) {
               try {
                 const filePath = join(dataDir, `pubmed_${doc.id}.txt`);
                 writeFileSync(filePath, doc.content);
               } catch (error) {
                 console.error(`Error saving document ${doc.id}:`, error);
               }
-            });
+            }
 
           } catch (error) {
             console.error(`Error processing batch for category ${category}:`, error);
-            continue; // Skip failed batch and continue with next
+            continue;
           }
 
-          // Rate limiting
+          // Rate limiting between batches
           await new Promise(resolve => setTimeout(resolve, 1000));
         }
       } catch (error) {
         console.error(`Error collecting studies for category ${category}:`, error);
-        continue; // Skip failed category and continue with next
+        continue;
       }
     }
 
-    console.log(`Total studies collected: ${studies.length}`);
+    console.log(`Collection complete. Total studies processed: ${totalProcessed}`);
     return studies;
   }
 
-  private parseArticles(xmlData: string): PubMedArticle[] {
+  private async parseArticles(xmlData: string): Promise<PubMedArticle[]> {
     try {
       const result = this.parser.parse(xmlData);
-      const articlesSet = result.PubmedArticleSet?.PubmedArticle;
-      if (!articlesSet) {
-        console.error("No articles found in XML response");
-        return [];
-      }
+      const articles = result.PubmedArticleSet?.PubmedArticle || [];
 
-      const articles = Array.isArray(articlesSet) ? articlesSet : [articlesSet];
-
-      return articles.map((article: any): PubMedArticle => {
+      return articles.map((article: any) => {
         try {
           const medlineCitation = article?.MedlineCitation;
           const articleData = medlineCitation?.Article;
@@ -124,45 +122,64 @@ export class DataCollectionService {
             throw new Error("Invalid article structure");
           }
 
-          // Safely extract abstract text
+          // Extract abstract text with proper error handling
+          let abstract = '';
           const abstractText = articleData.Abstract?.AbstractText;
-          const abstract = Array.isArray(abstractText) 
-            ? abstractText.join(' ') 
-            : typeof abstractText === 'string' 
-              ? abstractText 
-              : typeof abstractText === 'object' && abstractText['#text']
-                ? abstractText['#text']
-                : '';
+          if (Array.isArray(abstractText)) {
+            abstract = abstractText
+              .map(text => (typeof text === 'string' ? text : text?.['#text'] || ''))
+              .filter(Boolean)
+              .join(' ');
+          } else if (typeof abstractText === 'string') {
+            abstract = abstractText;
+          } else if (abstractText?.['#text']) {
+            abstract = abstractText['#text'];
+          }
 
-          // Safely extract DOI
-          const articleIdList = article.PubmedData?.ArticleIdList?.ArticleId;
-          const doi = Array.isArray(articleIdList)
-            ? articleIdList.find((id: any) => id?.['@_IdType'] === 'doi')?.['#text']
-            : articleIdList?.['@_IdType'] === 'doi'
-              ? articleIdList['#text']
-              : undefined;
+          // Extract DOI with proper error handling
+          let doi: string | undefined;
+          const articleIds = article.PubmedData?.ArticleIdList?.ArticleId || [];
+          const doiArticle = articleIds.find((id: any) => id?.['@_IdType'] === 'doi');
+          if (doiArticle) {
+            doi = typeof doiArticle === 'string' ? doiArticle : doiArticle['#text'];
+          }
+
+          // Extract keywords with proper error handling
+          let keywords: string[] = [];
+          const keywordList = medlineCitation.KeywordList?.Keyword;
+          if (Array.isArray(keywordList)) {
+            keywords = keywordList
+              .map(k => (typeof k === 'string' ? k : k?.['#text']))
+              .filter(Boolean);
+          }
+
+          // Extract publication date
+          const pubDate = medlineCitation.DateCompleted || medlineCitation.DateRevised;
+          const publicationDate = pubDate ? `${pubDate.Year || ''}` : '';
+
+          // Extract title with proper error handling
+          const title = typeof articleData.ArticleTitle === 'string' 
+            ? articleData.ArticleTitle 
+            : articleData.ArticleTitle?.['#text'] || '';
 
           return {
-            title: articleData.ArticleTitle || '',
-            abstract: abstract,
-            keywords: medlineCitation.KeywordList?.Keyword 
-              ? (Array.isArray(medlineCitation.KeywordList.Keyword) 
-                  ? medlineCitation.KeywordList.Keyword 
-                  : [medlineCitation.KeywordList.Keyword])
-              : [],
-            publicationDate: medlineCitation.DateCompleted?.Year || '',
+            title: title.trim(),
+            abstract: abstract.trim(),
+            keywords,
+            publicationDate,
             doi
           };
         } catch (error) {
           console.error("Error parsing individual article:", error);
-          return {
-            title: '',
-            abstract: '',
-            keywords: [],
-            publicationDate: '',
-          };
+          return null;
         }
-      }).filter(article => article.title && article.abstract); // Filter out invalid articles
+      }).filter((article): article is PubMedArticle => 
+        article !== null && 
+        typeof article.title === 'string' && 
+        article.title.length > 0 &&
+        typeof article.abstract === 'string' && 
+        article.abstract.length > 0
+      );
     } catch (error) {
       console.error("Error parsing XML data:", error);
       return [];
@@ -170,7 +187,8 @@ export class DataCollectionService {
   }
 
   private formatStudyContent(article: PubMedArticle): string {
-    return `Study Title: ${article.title}
+    try {
+      return `Study Title: ${article.title}
 
 Study Summary:
 ${article.abstract}
@@ -191,37 +209,59 @@ ${this.extractKeyFindings(article.abstract)}
 This study provides insights into:
 ${this.extractInsights(article.abstract, article.keywords)}
 `;
+    } catch (error) {
+      console.error("Error formatting study content:", error);
+      return "";
+    }
   }
 
   private extractKeyFindings(abstract: string): string {
-    if (!abstract) return '- Findings extraction requires manual review';
+    if (!abstract) {
+      return '- Findings extraction requires manual review';
+    }
 
-    // Simple extraction of sentences containing result indicators
-    const resultIndicators = ['found', 'showed', 'demonstrated', 'indicated', 'concluded'];
-    const sentences = abstract.split(/[.!?]+/).filter(s => s.trim().length > 0);
+    try {
+      const resultIndicators = ['found', 'showed', 'demonstrated', 'indicated', 'concluded', 'revealed'];
+      const sentences = abstract.split(/[.!?]+/)
+        .map(s => s.trim())
+        .filter(s => s.length > 0);
 
-    const findings = sentences
-      .filter(sentence => 
-        resultIndicators.some(indicator => 
-          sentence.toLowerCase().includes(indicator)
+      const findings = sentences
+        .filter(sentence => 
+          resultIndicators.some(indicator => 
+            sentence.toLowerCase().includes(indicator)
+          )
         )
-      )
-      .map(sentence => `- ${sentence.trim()}`);
+        .map(sentence => `- ${sentence}`);
 
-    return findings.length > 0 
-      ? findings.join('\n')
-      : '- Findings extraction requires manual review';
+      return findings.length > 0 
+        ? findings.join('\n')
+        : '- Findings extraction requires manual review';
+    } catch (error) {
+      console.error("Error extracting findings:", error);
+      return '- Findings extraction requires manual review';
+    }
   }
 
   private extractInsights(abstract: string, keywords: string[]): string {
-    if (!abstract || !keywords.length) {
+    if (!abstract || !keywords?.length) {
       return '- General research methodology and outcomes';
     }
 
-    return keywords
-      .slice(0, 3)
-      .map(keyword => `- ${keyword} assessment methods and outcomes`)
-      .join('\n');
+    try {
+      const relevantKeywords = keywords
+        .filter(k => k && k.length > 0)
+        .slice(0, 3);
+
+      return relevantKeywords.length > 0
+        ? relevantKeywords
+            .map(keyword => `- ${keyword} assessment methods and outcomes`)
+            .join('\n')
+        : '- General research methodology and outcomes';
+    } catch (error) {
+      console.error("Error extracting insights:", error);
+      return '- General research methodology and outcomes';
+    }
   }
 }
 

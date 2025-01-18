@@ -1,0 +1,27 @@
+Study Title: Latent classes of adolescent health behaviour, social covariates and mental wellbeing: a longitudinal birth cohort study.
+
+Study Summary:
+Adolescent mental wellbeing has been declining in the United Kingdom for over a decade. Expansion of services to support the mental wellbeing of young people is a public health priority and a core component of the National Health Service's Long-Term Plan. In this paper, we leverage secondary analysis of a very large longitudinal dataset (#BeeWell) to generate insights regarding different patterns of health behaviour, their covariates, and consequences for mental wellbeing one year later. A Latent Class Analysis was conducted using data on physical activity, sleep, and eating habits collected in 2021 from 18,478 Year 8 pupils from Greater Manchester (United Kingdom) to (1) identify distinct latent classes of adolescent health behaviour; (2) establish factors likely to be associated with latent class membership; and (3) determine whether latent class membership contributes to variance in self-reported mental wellbeing one year later. A three-class solution was identified as an excellent fit to the data, discriminating between: the Wellness Weary (n = 2,717; 15%); the Balanced Bunch (n = 7,377; 40%); and the Green and Dream Team (n = 8,384; 45%). Several factors significantly influenced class membership. Most notably, socio-economic disadvantage and social media use were linked with less favourable health behaviour patterns, whilst cisgender heterosexual girls were likely to endorse healthier patterns. After adjusting for covariates, the Green and Dream Team reported significantly greater mental wellbeing than the Balanced Bunch one year later. However, there was no difference between the Balanced Bunch and the Wellness Weary, signalling that health behaviours may support mental wellbeing, but only among the healthiest young people. Beyond advancements in fundamental understanding, our findings yield significant translation opportunities through their use and application in health, education, and allied professional settings designed to support young people.
+
+Methodology:
+
+1. Study Type
+- Clinical trial
+- Publication Date: 2024
+- DOI: 10.1186/s12889-024-20004-y
+
+2. Keywords
+- Adolescents
+- Diet
+- Health behaviour
+- Mental Wellbeing
+- Physical activity
+- Sleep
+
+3. Key Findings
+- Findings extraction requires manual review
+
+This study provides insights into:
+- Adolescents assessment methods and outcomes
+- Diet assessment methods and outcomes
+- Health behaviour assessment methods and outcomes
