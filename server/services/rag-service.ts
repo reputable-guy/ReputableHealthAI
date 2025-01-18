@@ -1,14 +1,9 @@
 import { Pinecone } from "@pinecone-database/pinecone";
-import { Pipeline, pipeline } from '@xenova/transformers';
 import type { Document } from "langchain/document";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
+import { OpenAIEmbeddings } from "@langchain/openai";
 import { readFileSync } from 'fs';
 import { join } from 'path';
-
-// Custom type for transformer output
-interface TransformerOutput {
-  data: Float32Array | Float64Array;
-}
 
 interface ReferenceDocument {
   id: string;
@@ -24,7 +19,7 @@ interface ReferenceDocument {
 
 class RAGService {
   private pinecone: Pinecone | null = null;
-  private embeddingModel: Pipeline | null = null;
+  private embeddings: OpenAIEmbeddings | null = null;
   private readonly indexName = "protocol-references";
   private initialized = false;
 
@@ -33,14 +28,20 @@ class RAGService {
   }
 
   private async initializeServices() {
-    if (!process.env.PINECONE_API_KEY) {
-      console.error("Warning: PINECONE_API_KEY not set. RAG features will be disabled.");
+    if (!process.env.PINECONE_API_KEY || !process.env.OPENAI_API_KEY) {
+      console.error("Warning: PINECONE_API_KEY or OPENAI_API_KEY not set. RAG features will be disabled.");
       return;
     }
 
     try {
+      // Initialize Pinecone with just the API key
       this.pinecone = new Pinecone({
-        apiKey: process.env.PINECONE_API_KEY,
+        apiKey: process.env.PINECONE_API_KEY
+      });
+
+      this.embeddings = new OpenAIEmbeddings({
+        openAIApiKey: process.env.OPENAI_API_KEY,
+        modelName: "text-embedding-ada-002"
       });
 
       // Check if index exists, create if it doesn't
@@ -51,12 +52,11 @@ class RAGService {
         console.log(`Creating new Pinecone index: ${this.indexName}`);
         await this.pinecone.createIndex({
           name: this.indexName,
-          dimension: 384, // dimension for all-MiniLM-L6-v2 embeddings
-          metric: 'cosine',
+          dimension: 1536, // dimension for text-embedding-ada-002
           spec: {
             serverless: {
-              cloud: 'aws',
-              region: 'us-west-2'
+              cloud: "aws",
+              region: "us-west-2"
             }
           }
         });
@@ -70,7 +70,6 @@ class RAGService {
         }
       }
 
-      this.embeddingModel = await this.initEmbeddingModel();
       this.initialized = true;
       console.log("RAG service initialized successfully");
 
@@ -178,41 +177,8 @@ class RAGService {
     }
   }
 
-  private async initEmbeddingModel(): Promise<Pipeline> {
-    try {
-      return await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2', {
-        revision: 'main'
-      });
-    } catch (error) {
-      console.error("Failed to initialize embedding model:", error);
-      throw error;
-    }
-  }
-
-  private async generateEmbedding(text: string): Promise<number[]> {
-    if (!this.initialized) {
-      throw new Error("RAG service not initialized");
-    }
-
-    if (!this.embeddingModel) {
-      throw new Error("Embedding model not initialized");
-    }
-
-    try {
-      const output = await this.embeddingModel(text, {
-        pooling: 'mean',
-        normalize: true
-      }) as TransformerOutput;
-
-      return Array.from(output.data);
-    } catch (error) {
-      console.error("Failed to generate embedding:", error);
-      throw error;
-    }
-  }
-
   async indexDocument(doc: ReferenceDocument) {
-    if (!this.initialized || !this.pinecone) {
+    if (!this.initialized || !this.pinecone || !this.embeddings) {
       throw new Error("RAG service not initialized");
     }
 
@@ -229,22 +195,18 @@ class RAGService {
       const batchSize = 10;
       for (let i = 0; i < chunks.length; i += batchSize) {
         const batch = chunks.slice(i, i + batchSize);
-        const vectors = await Promise.all(
-          batch.map(async (chunk, idx) => {
-            const embedding = await this.generateEmbedding(chunk);
-            return {
-              id: `${doc.id}-chunk-${i + idx}`,
-              values: embedding,
-              metadata: {
-                ...doc.metadata,
-                type: doc.type,
-                title: doc.title,
-                chunk: chunk,
-                originalDocId: doc.id
-              },
-            };
-          })
-        );
+        const embeddings = await this.embeddings.embedDocuments(batch);
+        const vectors = batch.map((chunk, idx) => ({
+          id: `${doc.id}-chunk-${i + idx}`,
+          values: embeddings[idx],
+          metadata: {
+            ...doc.metadata,
+            type: doc.type,
+            title: doc.title,
+            chunk: chunk,
+            originalDocId: doc.id
+          },
+        }));
 
         await index.upsert(vectors);
       }
@@ -255,13 +217,13 @@ class RAGService {
   }
 
   async queryRelevantDocuments(query: string, category: string): Promise<string[]> {
-    if (!this.initialized || !this.pinecone) {
+    if (!this.initialized || !this.pinecone || !this.embeddings) {
       console.warn("RAG service not initialized, returning empty results");
       return [];
     }
 
     try {
-      const queryEmbedding = await this.generateEmbedding(query);
+      const queryEmbedding = await this.embeddings.embedQuery(query);
       const index = this.pinecone.index(this.indexName);
 
       const queryResult = await index.query({
