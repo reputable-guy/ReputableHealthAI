@@ -34,21 +34,6 @@ export type ProtocolData = {
     customQuestions: string[];
   };
   selectedHypothesis?: string;
-  validationResults?: {
-    statisticalPower: number;
-    powerAnalysis: {
-      effectSize: number;
-      sampleSize: number;
-      minimumSampleSize: number;
-      confidence: number;
-      powerCurve: Array<{ sampleSize: number; power: number }>;
-    };
-    regulatoryFlags: Array<{
-      type: string;
-      description: string;
-      severity: string;
-    }>;
-  };
 };
 
 type InitialSetup = {
