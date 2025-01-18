@@ -4,12 +4,12 @@ import { db } from "@db";
 import { protocols } from "@db/schema";
 import { eq } from "drizzle-orm";
 import OpenAI from "openai";
+import { ragService } from "./services/rag-service";
 
 if (!process.env.OPENAI_API_KEY) {
   throw new Error("OPENAI_API_KEY must be set");
 }
 
-// the newest OpenAI model is "gpt-4o" which was released May 13, 2024. do not change this unless explicitly requested by the user
 const openai = new OpenAI({ 
   apiKey: process.env.OPENAI_API_KEY
 });
@@ -84,73 +84,13 @@ Guidelines:
 
       console.log("Generating protocol with data:", setupData);
 
-      const prompt = `
-Generate a comprehensive research protocol based on these initial details:
+      // Get contextual prompt using RAG
+      const contextualPrompt = await ragService.generateContextualPrompt(
+        setupData.productName,
+        setupData.studyCategory,
+        setupData.selectedHypothesis
+      );
 
-Product Name: ${setupData.productName}
-Website: ${setupData.websiteUrl || 'N/A'}
-Study Goal: ${setupData.studyGoal}
-Selected Hypothesis: ${setupData.selectedHypothesis || 'N/A'}
-
-Generate a protocol in valid JSON format with the following structure (ensure all fields are included and populated with realistic values):
-
-{
-  "studyCategory": string,  // One of: Sleep, Stress, Recovery, Cognition, Metabolic Health, Women's Health, Other
-  "experimentTitle": string,  // Participant-facing title describing the study
-  "studyObjective": string,  // Clear hypothesis reflecting the product's intended effect
-  "studyType": string,  // "Real-World Evidence" or "Randomized Controlled Trial"
-  "participantCount": number,  // Based on power analysis for statistical significance
-  "durationWeeks": number,  // Recommended timeline for the product category
-  "targetMetrics": string[],  // Specific metrics from wearables (e.g., REM Sleep, Deep Sleep)
-  "questionnaires": string[],  // Validated surveys specific to the study category
-  "studySummary": string,  // One-line summary describing the study to participants
-  "participantInstructions": string[],  // Detailed, step-by-step instructions
-  "safetyPrecautions": string[],  // Clear safety guidelines
-  "educationalResources": [  // Scientific context without brand bias
-    {
-      "title": string,
-      "description": string,
-      "type": string  // e.g., "research_paper", "clinical_guidelines"
-    }
-  ],
-  "consentFormSections": [  // Customized consent form sections
-    {
-      "title": string,
-      "content": string
-    }
-  ],
-  "customFactors": string[],  // Life events that may impact outcomes
-  "eligibilityCriteria": {
-    "wearableData": [  // Requirements based on wearable data
-      {
-        "metric": string,
-        "condition": string,
-        "value": string
-      }
-    ],
-    "demographics": [  // Target demographic requirements
-      {
-        "category": string,
-        "requirement": string
-      }
-    ],
-    "customQuestions": string[]  // Screening questions
-  }
-}
-
-Important guidelines:
-1. Make all fields scientifically rigorous and evidence-based
-2. Include cutting-edge wearable metrics specific to the study category
-3. Base participant count on rigorous power analysis with effect size considerations
-4. Include gold-standard validated questionnaires specific to the category
-5. Generate detailed, actionable values for all fields
-6. Safety precautions should be comprehensive and product-specific
-7. Educational resources should include recent meta-analyses and systematic reviews
-8. Custom factors should account for both direct and indirect variables
-9. Eligibility criteria should be precise and based on clinical standards
-10. Consider ethical implications and bias mitigation in study design`;
-
-      console.log("Sending request to OpenAI...");
       const completion = await openai.chat.completions.create({
         model: "gpt-4o",
         messages: [
@@ -165,7 +105,7 @@ Important guidelines:
           },
           {
             role: "user",
-            content: prompt
+            content: contextualPrompt
           }
         ],
         temperature: 0.7,
