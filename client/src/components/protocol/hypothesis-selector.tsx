@@ -1,8 +1,5 @@
 import { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
 import { useToast } from "@/hooks/use-toast";
 import { Loader2 } from "lucide-react";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
@@ -17,15 +14,24 @@ interface Hypothesis {
 
 interface HypothesisSelectorProps {
   onHypothesisSelected: (hypothesis: Hypothesis) => void;
+  productName: string;
+  websiteUrl: string;
 }
 
-export default function HypothesisSelector({ onHypothesisSelected }: HypothesisSelectorProps) {
-  const [productName, setProductName] = useState("");
-  const [websiteUrl, setWebsiteUrl] = useState("");
+export default function HypothesisSelector({ 
+  onHypothesisSelected,
+  productName,
+  websiteUrl
+}: HypothesisSelectorProps) {
   const [hypotheses, setHypotheses] = useState<Hypothesis[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const { toast } = useToast();
+
+  // Generate hypotheses as soon as the component mounts
+  useState(() => {
+    generateHypotheses();
+  });
 
   const generateHypotheses = async () => {
     setLoading(true);
@@ -56,55 +62,33 @@ export default function HypothesisSelector({ onHypothesisSelected }: HypothesisS
     }
   };
 
+  if (loading) {
+    return (
+      <div className="flex flex-col items-center justify-center space-y-4 p-8">
+        <Loader2 className="h-8 w-8 animate-spin" />
+        <p className="text-lg">Analyzing product and generating research hypotheses...</p>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <Alert variant="destructive">
+        <AlertTitle>Error</AlertTitle>
+        <AlertDescription>{error}</AlertDescription>
+      </Alert>
+    );
+  }
+
   return (
     <div className="space-y-6">
-      <div className="space-y-4">
-        <div className="space-y-2">
-          <Label htmlFor="productName">Product Name</Label>
-          <Input
-            id="productName"
-            value={productName}
-            onChange={(e) => setProductName(e.target.value)}
-            placeholder="Enter product name"
-          />
-        </div>
-
-        <div className="space-y-2">
-          <Label htmlFor="websiteUrl">Product Website (optional)</Label>
-          <Input
-            id="websiteUrl"
-            value={websiteUrl}
-            onChange={(e) => setWebsiteUrl(e.target.value)}
-            placeholder="Enter product website URL"
-          />
-        </div>
-
-        <Button 
-          onClick={generateHypotheses} 
-          disabled={!productName || loading}
-          className="w-full"
-        >
-          {loading ? (
-            <>
-              <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-              Analyzing Product...
-            </>
-          ) : (
-            "Generate Research Hypotheses"
-          )}
-        </Button>
-      </div>
-
-      {error && (
-        <Alert variant="destructive">
-          <AlertTitle>Error</AlertTitle>
-          <AlertDescription>{error}</AlertDescription>
-        </Alert>
-      )}
-
-      {hypotheses.length > 0 && (
+      {hypotheses.length > 0 ? (
         <div className="space-y-4">
           <h3 className="text-lg font-medium">Select a Research Hypothesis</h3>
+          <p className="text-sm text-muted-foreground">
+            Based on our analysis, here are the most promising research hypotheses for your product.
+            Select one to proceed with protocol generation.
+          </p>
           {hypotheses.map((hypothesis) => (
             <Card
               key={hypothesis.id}
@@ -128,7 +112,7 @@ export default function HypothesisSelector({ onHypothesisSelected }: HypothesisS
             </Card>
           ))}
         </div>
-      )}
+      ) : null}
     </div>
   );
 }

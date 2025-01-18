@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { Card } from "@/components/ui/card";
-import StudySetupForm from "@/components/protocol/study-setup-form";
 import ProtocolPreview from "@/components/protocol/protocol-preview";
 import HypothesisSelector from "@/components/protocol/hypothesis-selector";
+import InitialSetupForm from "@/components/protocol/initial-setup-form";
 import { useToast } from "@/hooks/use-toast";
 import { AlertCircle } from "lucide-react";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
@@ -33,24 +33,28 @@ export type ProtocolData = {
     demographics: any[];
     customQuestions: string[];
   };
-  selectedHypothesis?: string; // Added to include hypothesis in protocolData
+  selectedHypothesis?: string;
+};
+
+type InitialSetup = {
+  productName: string;
+  websiteUrl: string;
+  studyGoal: string;
 };
 
 export default function ProtocolDesigner() {
+  const [initialSetup, setInitialSetup] = useState<InitialSetup | null>(null);
   const [protocolData, setProtocolData] = useState<Partial<ProtocolData>>();
-  const [selectedHypothesis, setSelectedHypothesis] = useState<Hypothesis | null>(null);
   const [error, setError] = useState<string | null>(null);
   const { toast } = useToast();
 
-  const handleHypothesisSelected = (hypothesis: Hypothesis) => {
-    setSelectedHypothesis(hypothesis);
-    setProtocolData({
-      studyCategory: hypothesis.category,
-      studyObjective: hypothesis.statement
-    });
+  const handleInitialSetup = (setup: InitialSetup) => {
+    setInitialSetup(setup);
   };
 
-  const handleSetupComplete = async (setupData: Partial<ProtocolData>) => {
+  const handleHypothesisSelected = async (hypothesis: Hypothesis) => {
+    if (!initialSetup) return;
+
     setError(null);
     try {
       const response = await fetch("/api/protocols/generate", {
@@ -59,8 +63,10 @@ export default function ProtocolDesigner() {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          ...setupData,
-          selectedHypothesis: selectedHypothesis?.statement
+          ...initialSetup,
+          selectedHypothesis: hypothesis.statement,
+          studyCategory: hypothesis.category,
+          studyObjective: hypothesis.statement
         }),
       });
 
@@ -85,7 +91,7 @@ export default function ProtocolDesigner() {
   const handleRetry = () => {
     setError(null);
     setProtocolData(undefined);
-    setSelectedHypothesis(null);
+    setInitialSetup(null);
   };
 
   const renderContent = () => {
@@ -104,18 +110,16 @@ export default function ProtocolDesigner() {
       );
     }
 
-    if (!selectedHypothesis) {
-      return <HypothesisSelector onHypothesisSelected={handleHypothesisSelected} />;
+    if (!initialSetup) {
+      return <InitialSetupForm onComplete={handleInitialSetup} />;
     }
 
-    if (!protocolData?.studyType) {
+    if (!protocolData) {
       return (
-        <StudySetupForm
-          onComplete={handleSetupComplete}
-          initialData={{
-            studyCategory: selectedHypothesis.category,
-            studyObjective: selectedHypothesis.statement
-          }}
+        <HypothesisSelector 
+          onHypothesisSelected={handleHypothesisSelected}
+          productName={initialSetup.productName}
+          websiteUrl={initialSetup.websiteUrl}
         />
       );
     }
