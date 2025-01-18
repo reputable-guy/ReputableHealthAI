@@ -43,9 +43,9 @@ app.use((req, res, next) => {
   const server = createServer(app);
 
   // Register API routes with prefix
-  const router = express.Router();
-  registerRoutes(router);
-  app.use('/api', router);
+  const apiRouter = express.Router();
+  registerRoutes(apiRouter);
+  app.use('/api', apiRouter);
 
   // Error handling middleware
   app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {

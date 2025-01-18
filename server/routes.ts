@@ -6,12 +6,17 @@ export function registerRoutes(router: Router): void {
   router.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Accept');
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
     next();
   });
 
+  // Handle OPTIONS requests for CORS preflight
+  router.options('*', (req, res) => {
+    res.sendStatus(200);
+  });
+
   // Add endpoint to check RAG stats
-  router.get("/rag/stats", async (_req, res) => {
+  router.get("/stats", async (_req, res) => {
     try {
       const stats = await ragService.checkIndexStats();
       if (!stats) {
@@ -37,7 +42,7 @@ export function registerRoutes(router: Router): void {
   });
 
   // Add endpoint to reload PubMed studies
-  router.post("/rag/reload-studies", async (_req, res) => {
+  router.post("/reload-studies", async (_req, res) => {
     try {
       console.log("Starting PubMed studies reload...");
       const result = await ragService.loadPublicStudies();
