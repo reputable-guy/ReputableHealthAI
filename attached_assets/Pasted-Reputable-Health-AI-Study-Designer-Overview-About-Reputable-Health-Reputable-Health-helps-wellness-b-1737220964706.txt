@@ -1,0 +1,84 @@
+Reputable Health AI Study Designer Overview
+About Reputable Health
+Reputable Health helps wellness brands conduct clinical research using our technology platform. We manage the entire research lifecycle:
+Study Design: Automating protocol creation based on customer goals.
+Participant Recruitment: Ensuring the right participants join the study.
+Participant Management: Maintaining engagement and compliance throughout the study.
+Data Analysis & Reporting: Delivering defensible results and insights through a comprehensive final report.
+Data Collection Approach
+Our platform emphasizes passive data collection through wearable devices (e.g., Oura Rings, Whoop Bands) to minimize manual input from participants.
+Objective metrics: Wearables capture key data points like REM sleep, deep sleep, and sleep efficiency for sleep studies.
+Validated questionnaires: Used strategically to complement wearable data and add subjective insights.
+This combination improves data accuracy and compliance compared to manual reporting alone (e.g., subjective responses to "How well did you sleep?").
+
+AI Study Designer Overview
+The AI Study Designer is an automated tool that generates study protocols based on customer inputs. It simplifies the study creation process while ensuring scientific rigor and transparency.
+Example Use Case:
+A wellness brand with a magnesium sleep supplement can use the AI Study Designer to generate a study protocol that measures the efficacy of the supplement on improving participants' REM sleep and sleep efficiency.
+
+User Flow & Requirements
+Initiation:
+The AI Study Designer is launched from the Reputable Health homepage by customers exploring the platform.
+The tool prompts users for key details and automatically generates a complete study protocol.
+Information Required from the Customer:
+Product Name: The product being studied.
+Website URL: Link to product information (if available).
+Goal of the Study: (Select one)
+Gain quick insights from a small pilot.
+Generate marketing claims to increase product sales.
+Prepare data for publication in scientific journals.
+
+AI-Generated Study Components
+The AI Study Designer automatically generates the following values based on customer inputs:
+Study Category:
+Options: Sleep, Stress, Recovery, Cognition, Metabolic Health, Women’s Health, or Other.
+Experiment/Product Title:
+A participant-facing title describing the study (e.g., “Better Sleep with Magnesium: A Clinical Study”).
+Study Objective (Hypothesis):
+A hypothesis reflecting the product’s intended effect (e.g., "This supplement improves REM sleep duration").
+Customers can select from pre-populated objectives relevant to the product type.
+Study Type (Design):
+Select between:
+Real-World Evidence (Single Arm): All participants use the product.
+Randomized Controlled Trial (Two Arm): Half of the participants receive the product, while the other half receives a placebo.
+Number of Participants:
+Auto-generated based on a power analysis to ensure statistically significant results.
+Study Duration:
+Duration (in weeks) recommended based on typical timelines for the product category.
+Target Metrics (Wearables):
+Metrics relevant to the study (e.g., REM Sleep, Deep Sleep, Sleep Efficiency) captured through wearables like Oura Rings.
+Validated Questionnaires:
+Standardized, validated surveys to collect subjective feedback (e.g., Pittsburgh Sleep Quality Index for sleep studies).
+Study Summary:
+A one-line summary to describe the study to potential participants (e.g., “We’re studying how magnesium impacts sleep efficiency”).
+Participant Instructions:
+Detailed, easy-to-follow instructions to ensure participants comply with study requirements (e.g., daily log-in reminders, supplement intake schedules).
+Safety and Precautions:
+Clear safety guidelines and precautions that participants must acknowledge before starting the study.
+Educational Resource Links:
+Provide general resources about the product’s category (e.g., scientific studies on nitrate supplementation) to help participants understand the research context.
+Important: Exclude direct links to the brand’s website to avoid introducing bias.
+Consent Form:
+A participant consent form customized to the study, outlining the study’s purpose, risks, and data usage terms.
+Custom Other Factors:
+Participants can tag life events that may impact study outcomes (e.g., illness, alcohol consumption, travel) to provide context for any deviations.
+Eligibility Based on Wearable Data:
+Ability to exclude participants based on specific data from wearables (e.g., participants with REM sleep >100 minutes/night can be excluded to target individuals struggling with sleep).
+Eligibility Based on Demographics:
+Target participants by demographics (e.g., Male, Age 35-50, Living in the US).
+Other Eligibility Questions:
+Custom questions for participant screening (e.g., "Do you have a history of high blood pressure?").
+
+V2 Requirements: Explanation Layer
+In the second version, the AI Study Designer will include an explanation layer for each section of the study protocol. This layer will:
+Provide context to explain why certain values were chosen (e.g., “The recommended sample size of 100 participants is based on standard statistical power requirements for sleep studies”).
+Educate customers on scientific best practices for study design, helping them gain a deeper understanding of rigorous research.
+
+V3 Requirements: Conversational AI Agent
+In future versions, the AI Study Designer will include an interactive conversational agent capable of:
+Holding a live conversation (via voice or text) with the customer to answer questions, guide them through the study design process, and provide feedback.
+Acting like a virtual research advisor (similar to Boardy.ai), making the interaction intuitive and personalized.
+Generating a defensible study protocol by collecting necessary information through a guided conversation.
+
+
+
