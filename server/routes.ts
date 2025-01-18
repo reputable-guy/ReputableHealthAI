@@ -9,6 +9,7 @@ if (!process.env.OPENAI_API_KEY) {
   throw new Error("OPENAI_API_KEY must be set");
 }
 
+// the newest OpenAI model is "gpt-4o" which was released May 13, 2024. do not change this unless explicitly requested by the user
 const openai = new OpenAI({ 
   apiKey: process.env.OPENAI_API_KEY
 });
@@ -74,24 +75,29 @@ Generate a protocol in valid JSON format with the following structure (ensure al
 }
 
 Important guidelines:
-1. Response must be ONLY the JSON object with no additional text
-2. Make all fields scientifically rigorous but practical for wellness brands
-3. Include relevant wearable metrics specific to the study category
-4. Base participant count on power analysis
-5. Include validated questionnaires specific to the study category
-6. Generate realistic values for all fields, not placeholder text
-7. Ensure safety precautions are comprehensive and product-specific
-8. Educational resources should be relevant but not brand-specific
-9. Custom factors should be specific to the product and study category
-10. Eligibility criteria should be precise and measurable`;
+1. Make all fields scientifically rigorous and evidence-based
+2. Include cutting-edge wearable metrics specific to the study category
+3. Base participant count on rigorous power analysis with effect size considerations
+4. Include gold-standard validated questionnaires specific to the category
+5. Generate detailed, actionable values for all fields
+6. Safety precautions should be comprehensive and product-specific
+7. Educational resources should include recent meta-analyses and systematic reviews
+8. Custom factors should account for both direct and indirect variables
+9. Eligibility criteria should be precise and based on clinical standards
+10. Consider ethical implications and bias mitigation in study design`;
 
       console.log("Sending request to OpenAI...");
       const completion = await openai.chat.completions.create({
-        model: "gpt-3.5-turbo",
+        model: "gpt-4o",
         messages: [
           {
             role: "system",
-            content: "You are an expert clinical research advisor specializing in wellness product studies. Generate comprehensive, scientifically-sound protocols that are practical for wellness brands. Respond with only valid JSON data structured exactly as requested."
+            content: `You are an expert clinical research advisor with deep expertise in wellness product studies and advanced statistical methods. Generate comprehensive, scientifically-sound protocols that combine academic rigor with practical implementation. Focus on:
+1. Evidence-based methodology
+2. Statistical validity
+3. Participant engagement
+4. Data quality assurance
+5. Ethical considerations`
           },
           {
             role: "user",
@@ -99,7 +105,8 @@ Important guidelines:
           }
         ],
         temperature: 0.7,
-        max_tokens: 2000
+        max_tokens: 4000,
+        response_format: { type: "json_object" }
       });
 
       if (!completion.choices[0].message.content) {
@@ -197,7 +204,7 @@ Keep the tone professional but accessible, and focus on actionable insights.
 
       console.log("Generating protocol insights...");
       const completion = await openai.chat.completions.create({
-        model: "gpt-3.5-turbo",
+        model: "gpt-4o",
         messages: [
           {
             role: "system",
@@ -209,7 +216,7 @@ Keep the tone professional but accessible, and focus on actionable insights.
           }
         ],
         temperature: 0.7,
-        max_tokens: 2000
+        max_tokens: 4000
       });
 
       if (!completion.choices[0].message.content) {
