@@ -1,6 +1,12 @@
 import { motion } from "framer-motion";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ReferenceLine } from "recharts";
 import { Info } from "lucide-react";
+import {
+  Tooltip as UITooltip,
+  TooltipContent,
+  TooltipProvider,
+  TooltipTrigger,
+} from "@/components/ui/tooltip";
 
 interface PowerVisualizationProps {
   power: number;
@@ -9,6 +15,10 @@ interface PowerVisualizationProps {
   effectSize: number;
   confidence: number;
   powerCurve: Array<{ sampleSize: number; power: number }>;
+  confidenceInterval?: {
+    lower: number;
+    upper: number;
+  };
 }
 
 export default function PowerVisualization({ 
@@ -17,7 +27,8 @@ export default function PowerVisualization({
   recommendedSize,
   effectSize,
   confidence,
-  powerCurve 
+  powerCurve,
+  confidenceInterval 
 }: PowerVisualizationProps) {
   const powerColor = power >= 0.8 
     ? "rgb(34, 197, 94)" // green-500
@@ -28,7 +39,7 @@ export default function PowerVisualization({
   return (
     <div className="space-y-6 p-4">
       {/* Key Metrics */}
-      <div className="grid grid-cols-2 gap-4"> {/* Changed to grid-cols-2 */}
+      <div className="grid grid-cols-3 gap-4">
         <div className="text-center">
           <div className="text-2xl font-bold" style={{ color: powerColor }}>
             {(power * 100).toFixed(1)}%
@@ -38,8 +49,27 @@ export default function PowerVisualization({
         <div className="text-center">
           <div className="text-2xl font-bold">
             {(effectSize * 100).toFixed(1)}%
+            {confidenceInterval && (
+              <TooltipProvider>
+                <UITooltip>
+                  <TooltipTrigger className="ml-1">
+                    <Info className="h-4 w-4 inline-block text-muted-foreground" />
+                  </TooltipTrigger>
+                  <TooltipContent>
+                    <p>95% Confidence Interval:</p>
+                    <p>{(confidenceInterval.lower * 100).toFixed(1)}% - {(confidenceInterval.upper * 100).toFixed(1)}%</p>
+                  </TooltipContent>
+                </UITooltip>
+              </TooltipProvider>
+            )}
           </div>
           <div className="text-sm text-muted-foreground">Effect Size</div>
+        </div>
+        <div className="text-center">
+          <div className="text-2xl font-bold">
+            {(confidence * 100).toFixed(1)}%
+          </div>
+          <div className="text-sm text-muted-foreground">Confidence Level</div>
         </div>
       </div>
 
@@ -79,11 +109,14 @@ export default function PowerVisualization({
       {/* Educational Information */}
       <div className="space-y-4 max-w-3xl mx-auto">
         <div className="text-sm space-y-2">
-          <h4 className="font-medium">Understanding the Power Analysis:</h4>
+          <h4 className="font-medium">Understanding the Analysis:</h4>
           <ul className="list-disc list-inside space-y-1 text-muted-foreground">
             <li>Statistical power is the probability of detecting a true effect if one exists</li>
             <li>A power of 80% or higher is generally considered adequate for research</li>
             <li>Effect size ({(effectSize * 100).toFixed(1)}%) represents the expected magnitude of the intervention's impact</li>
+            {confidenceInterval && (
+              <li>95% confidence interval: {(confidenceInterval.lower * 100).toFixed(1)}% - {(confidenceInterval.upper * 100).toFixed(1)}% indicates the range where the true effect size likely falls</li>
+            )}
             <li>The red line shows the minimum recommended power level (80%)</li>
           </ul>
         </div>
@@ -96,6 +129,13 @@ export default function PowerVisualization({
             )}
             <li>Current design will detect effects of {(effectSize * 100).toFixed(1)}% or larger</li>
             <li>With {sampleSize} participants, you have {(power * 100).toFixed(1)}% power to detect the specified effect</li>
+            {confidenceInterval && (
+              <li>The width of your confidence interval is {((confidenceInterval.upper - confidenceInterval.lower) * 100).toFixed(1)}% - {
+                confidenceInterval.upper - confidenceInterval.lower > 0.3 
+                  ? "consider increasing sample size for more precise estimates"
+                  : "this indicates good precision"
+              }</li>
+            )}
           </ul>
         </div>
       </div>
