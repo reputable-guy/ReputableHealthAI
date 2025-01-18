@@ -89,10 +89,19 @@ Ensure the protocol design follows scientific best practices and is appropriate 
       res.json(savedProtocol[0]);
     } catch (error: any) {
       console.error("Protocol generation error:", error);
-      res.status(500).json({ 
-        error: "Failed to generate protocol",
-        details: error.message 
-      });
+
+      // Handle specific OpenAI API errors
+      if (error.error?.type === 'insufficient_quota') {
+        res.status(500).json({ 
+          error: "Failed to generate protocol",
+          details: "OpenAI API quota exceeded. Please try again later."
+        });
+      } else {
+        res.status(500).json({ 
+          error: "Failed to generate protocol",
+          details: error.message 
+        });
+      }
     }
   });
 
