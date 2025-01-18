@@ -44,13 +44,14 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
   const { toast } = useToast();
   const [insights, setInsights] = useState<string | null>(null);
   const [validationResults, setValidationResults] = useState<ValidationResult | null>(null);
+  const [localProtocolData, setLocalProtocolData] = useState<Partial<ProtocolData>>(protocolData);
 
   // Run validation when protocol data changes
   useEffect(() => {
-    if (protocolData.participantCount && protocolData.studyType) {
+    if (localProtocolData.participantCount && localProtocolData.studyType) {
       runValidation.mutate();
     }
-  }, [protocolData]);
+  }, [localProtocolData]);
 
   const saveProtocol = useMutation({
     mutationFn: async (data: Partial<ProtocolData>) => {
@@ -104,7 +105,7 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
 
   const runValidation = useMutation({
     mutationFn: async () => {
-      const results = await validateStudyDesign(protocolData);
+      const results = await validateStudyDesign(localProtocolData);
       return results;
     },
     onSuccess: (data) => {
@@ -127,22 +128,34 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
   });
 
   // Add handleParameterUpdate function
-  const handleParameterUpdate = useMutation({
-    mutationFn: async (params: { effectSize: number; power: number; alpha: number }) => {
-      const results = await validateStudyDesign({
-        ...protocolData,
-        // Add any additional parameters needed for validation
-      });
-      return results;
-    },
-    onSuccess: (data) => {
-      setValidationResults(data);
-      toast({
-        title: "Parameters Updated",
-        description: "Study design parameters have been recalculated."
-      });
-    }
-  });
+  const handleParameterUpdate = async (params: { 
+    effectSize: number; 
+    power: number; 
+    alpha: number;
+    calculatedSampleSize: number;
+  }) => {
+    // Update the local protocol data with new sample size
+    setLocalProtocolData(prev => ({
+      ...prev,
+      participantCount: params.calculatedSampleSize
+    }));
+
+    // Run validation with new parameters
+    const results = await validateStudyDesign({
+      ...localProtocolData,
+      participantCount: params.calculatedSampleSize,
+      effectSize: params.effectSize,
+      power: params.power,
+      alpha: params.alpha
+    });
+
+    setValidationResults(results);
+
+    toast({
+      title: "Parameters Updated",
+      description: "Study design parameters have been recalculated."
+    });
+  };
 
   return (
     <div className="space-y-6 max-w-4xl mx-auto">
@@ -171,7 +184,7 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
           <CardContent className="pt-6">
             <div className="text-center space-y-2">
               <p className="text-sm text-muted-foreground mb-1">Statistical Design</p>
-              <p className="text-2xl font-semibold">{protocolData.participantCount} participants</p>
+              <p className="text-2xl font-semibold">{localProtocolData.participantCount} participants</p>
               {validationResults && (
                 <>
                   <div className="mt-2 flex items-center justify-center gap-2">
@@ -198,13 +211,13 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
                         </DialogHeader>
                         <PowerVisualization
                           power={validationResults.statisticalPower}
-                          sampleSize={protocolData.participantCount || 0}
+                          sampleSize={localProtocolData.participantCount || 0}
                           recommendedSize={validationResults.minimumSampleSize}
                           effectSize={validationResults.effectSize || 0.5}
                           confidence={validationResults.confidence || 0.8}
                           powerCurve={validationResults.powerCurve || []}
                           confidenceInterval={validationResults.confidenceInterval}
-                          onUpdateParameters={(params) => handleParameterUpdate.mutate(params)}
+                          onUpdateParameters={handleParameterUpdate}
                         />
                       </DialogContent>
                     </Dialog>
@@ -616,7 +629,7 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         </Button>
         <Button
           className="w-full"
-          onClick={() => saveProtocol.mutate(protocolData)}
+          onClick={() => saveProtocol.mutate(localProtocolData)}
           disabled={saveProtocol.isPending}
         >
           {saveProtocol.isPending ? "Saving..." : "Save Protocol"}
