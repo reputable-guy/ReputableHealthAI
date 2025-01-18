@@ -1,12 +1,17 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
+import {
+  Collapsible,
+  CollapsibleContent,
+  CollapsibleTrigger,
+} from "@/components/ui/collapsible";
 import { useMutation } from "@tanstack/react-query";
 import { useToast } from "@/hooks/use-toast";
 import type { ProtocolData, ValidationResult } from "@/pages/protocol-designer";
 import { generateProtocolInsights } from "@/lib/protocol-insights";
 import { useState } from "react";
-import { Loader2, Info, Shield, AlertTriangle, CheckCircle } from "lucide-react";
+import { Loader2, Info, Shield, AlertTriangle, CheckCircle, ChevronDown } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import { validateStudyDesign } from "@/lib/study-validation";
 import PowerVisualization from "./power-visualization";
@@ -117,255 +122,292 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
     if (!validationResults) return null;
 
     return (
-      <Card className="mb-6">
+      <Card className="mb-6 border-2 border-primary/20">
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
             <Shield className="h-5 w-5" />
             Study Validation Results
           </CardTitle>
         </CardHeader>
-        <CardContent className="space-y-4">
-          <div>
-            <PowerVisualization
-              power={validationResults.statisticalPower}
-              sampleSize={protocolData.participantCount || 0}
-              recommendedSize={validationResults.minimumSampleSize}
-            />
+        <CardContent>
+          <div className="space-y-6">
+            {/* Power Analysis Visualization */}
+            <div className="bg-muted/50 p-4 rounded-lg">
+              <PowerVisualization
+                power={validationResults.statisticalPower}
+                sampleSize={protocolData.participantCount || 0}
+                recommendedSize={validationResults.minimumSampleSize}
+              />
+            </div>
+
+            {/* Sample Size Analysis */}
+            <div>
+              <h3 className="font-medium mb-2">Sample Size Analysis</h3>
+              <p className="text-sm text-muted-foreground">
+                Minimum recommended: {validationResults.minimumSampleSize} participants
+                {protocolData.participantCount && (
+                  <span className={`ml-2 ${
+                    protocolData.participantCount >= validationResults.minimumSampleSize
+                      ? "text-green-600"
+                      : "text-red-600"
+                  }`}>
+                    Current: {protocolData.participantCount}
+                  </span>
+                )}
+              </p>
+            </div>
           </div>
-          <div>
-            <h3 className="text-sm font-medium mb-2">Sample Size Analysis</h3>
-            <p className="text-sm">
-              Minimum recommended: {validationResults.minimumSampleSize} participants
-              {protocolData.participantCount && (
-                <span className={protocolData.participantCount >= validationResults.minimumSampleSize
-                  ? "text-green-600"
-                  : "text-red-600"
-                }>
-                  {" "}(Current: {protocolData.participantCount})
-                </span>
-              )}
-            </p>
-          </div>
-
-          {validationResults.errors.length > 0 && (
-            <div>
-              <h3 className="text-sm font-medium mb-2">Issues to Address</h3>
-              <div className="space-y-2">
-                {validationResults.errors.map((error, index) => (
-                  <Alert key={index} variant={error.severity === 'error' ? "destructive" : "default"}>
-                    <AlertTriangle className="h-4 w-4" />
-                    <AlertTitle>{error.field}</AlertTitle>
-                    <AlertDescription>{error.message}</AlertDescription>
-                  </Alert>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {validationResults.regulatoryFlags.length > 0 && (
-            <div>
-              <h3 className="text-sm font-medium mb-2">Regulatory Considerations</h3>
-              <div className="space-y-2">
-                {validationResults.regulatoryFlags.map((flag, index) => (
-                  <Alert key={index} variant={flag.severity === 'high' ? "destructive" : "default"}>
-                    <CheckCircle className="h-4 w-4" />
-                    <AlertTitle>{flag.type} Compliance</AlertTitle>
-                    <AlertDescription>{flag.description}</AlertDescription>
-                  </Alert>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {validationResults.suggestions.length > 0 && (
-            <div>
-              <h3 className="text-sm font-medium mb-2">Suggestions for Improvement</h3>
-              <ul className="list-disc list-inside text-sm space-y-1">
-                {validationResults.suggestions.map((suggestion, index) => (
-                  <li key={index}>{suggestion}</li>
-                ))}
-              </ul>
-            </div>
-          )}
         </CardContent>
       </Card>
     );
   };
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 max-w-4xl mx-auto">
+      {/* Title Section */}
+      <div className="text-center mb-8">
+        <h1 className="text-3xl font-bold mb-2">
+          {protocolData.experimentTitle || "Study Protocol"}
+        </h1>
+        <p className="text-lg text-muted-foreground">
+          {protocolData.studyCategory} - {protocolData.studyType}
+        </p>
+      </div>
+
+      {/* Quick Stats Section */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+        <Card>
+          <CardContent className="pt-6">
+            <div className="text-center">
+              <p className="text-sm text-muted-foreground mb-1">Duration</p>
+              <p className="text-2xl font-semibold">{protocolData.durationWeeks} weeks</p>
+            </div>
+          </CardContent>
+        </Card>
+        <Card>
+          <CardContent className="pt-6">
+            <div className="text-center">
+              <p className="text-sm text-muted-foreground mb-1">Participants</p>
+              <p className="text-2xl font-semibold">{protocolData.participantCount}</p>
+            </div>
+          </CardContent>
+        </Card>
+        <Card>
+          <CardContent className="pt-6">
+            <div className="text-center">
+              <p className="text-sm text-muted-foreground mb-1">Study Goal</p>
+              <p className="text-2xl font-semibold capitalize">{protocolData.studyGoal}</p>
+            </div>
+          </CardContent>
+        </Card>
+      </div>
+
+      {/* Validation Results Card */}
       {validationResults && <ValidationResults />}
-      <Card className="p-6">
-        <div className="space-y-8">
-          {/* Power Analysis Section - Compact View */}
-          {protocolData.validationResults && (
-            <PowerVisualization
-              power={protocolData.validationResults.statisticalPower}
-              sampleSize={protocolData.participantCount || 0}
-              recommendedSize={protocolData.validationResults.powerAnalysis.minimumSampleSize}
-              effectSize={protocolData.validationResults.powerAnalysis.effectSize}
-              confidence={protocolData.validationResults.powerAnalysis.confidence}
-              powerCurve={protocolData.validationResults.powerAnalysis.powerCurve}
-            />
-          )}
 
-          {/* Basic Information */}
-          <div>
-            <h3 className="text-lg font-semibold mb-4">Study Overview</h3>
-            <div className="grid grid-cols-2 gap-4">
+      {/* Study Details Section */}
+      <Card>
+        <CardHeader>
+          <CardTitle>Study Overview</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="space-y-6">
+            {/* Product Information */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div>
-                <h4 className="font-medium mb-2">Product Information</h4>
-                <p className="text-sm text-gray-600">{protocolData.productName}</p>
-                {protocolData.websiteUrl && (
-                  <p className="text-sm text-gray-600">{protocolData.websiteUrl}</p>
-                )}
-              </div>
-              <div>
-                <h4 className="font-medium mb-2">Study Parameters</h4>
-                <p className="text-sm text-gray-600">Category: {protocolData.studyCategory}</p>
-                <p className="text-sm text-gray-600">Type: {protocolData.studyType}</p>
-                <p className="text-sm text-gray-600">Duration: {protocolData.durationWeeks} weeks</p>
-                <p className="text-sm text-gray-600">Participants: {protocolData.participantCount}</p>
-              </div>
-            </div>
-          </div>
-
-          {/* Study Objective and Summary */}
-          <div>
-            <h3 className="text-lg font-semibold mb-4">Study Details</h3>
-            <div className="space-y-4">
-              <div>
-                <h4 className="font-medium mb-2">Objective</h4>
-                <p className="text-sm text-gray-600">{protocolData.studyObjective}</p>
-              </div>
-              {protocolData.studySummary && (
-                <div>
-                  <h4 className="font-medium mb-2">Summary</h4>
-                  <p className="text-sm text-gray-600">{protocolData.studySummary}</p>
+                <h3 className="font-medium mb-2">Product Details</h3>
+                <div className="space-y-2">
+                  <p className="text-sm"><span className="text-muted-foreground">Name:</span> {protocolData.productName}</p>
+                  {protocolData.websiteUrl && (
+                    <p className="text-sm"><span className="text-muted-foreground">Website:</span> {protocolData.websiteUrl}</p>
+                  )}
                 </div>
-              )}
+              </div>
+              <div>
+                <h3 className="font-medium mb-2">Study Parameters</h3>
+                <div className="space-y-2">
+                  <p className="text-sm"><span className="text-muted-foreground">Category:</span> {protocolData.studyCategory}</p>
+                  <p className="text-sm"><span className="text-muted-foreground">Type:</span> {protocolData.studyType}</p>
+                </div>
+              </div>
             </div>
-          </div>
 
-          {/* Data Collection */}
-          {(protocolData.targetMetrics?.length > 0 || protocolData.questionnaires?.length > 0) && (
+            {/* Objective and Summary */}
             <div>
-              <h3 className="text-lg font-semibold mb-4">Data Collection</h3>
-              <div className="grid grid-cols-2 gap-4">
+              <h3 className="font-medium mb-2">Study Objective</h3>
+              <p className="text-sm text-muted-foreground">{protocolData.studyObjective}</p>
+            </div>
+            {protocolData.studySummary && (
+              <div>
+                <h3 className="font-medium mb-2">Summary</h3>
+                <p className="text-sm text-muted-foreground">{protocolData.studySummary}</p>
+              </div>
+            )}
+          </div>
+        </CardContent>
+      </Card>
+
+      {/* Data Collection Section */}
+      <Collapsible>
+        <Card>
+          <CardHeader>
+            <CollapsibleTrigger className="flex items-center justify-between w-full">
+              <CardTitle>Data Collection</CardTitle>
+              <ChevronDown className="h-4 w-4" />
+            </CollapsibleTrigger>
+          </CardHeader>
+          <CollapsibleContent>
+            <CardContent>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {protocolData.targetMetrics && protocolData.targetMetrics.length > 0 && (
                   <div>
-                    <h4 className="font-medium mb-2">Target Metrics</h4>
-                    <ul className="list-disc list-inside text-sm text-gray-600">
+                    <h3 className="font-medium mb-2">Target Metrics</h3>
+                    <ul className="list-disc list-inside text-sm space-y-1">
                       {protocolData.targetMetrics.map((metric, i) => (
-                        <li key={i}>{metric}</li>
+                        <li key={i} className="text-muted-foreground">{metric}</li>
                       ))}
                     </ul>
                   </div>
                 )}
                 {protocolData.questionnaires && protocolData.questionnaires.length > 0 && (
                   <div>
-                    <h4 className="font-medium mb-2">Questionnaires</h4>
-                    <ul className="list-disc list-inside text-sm text-gray-600">
+                    <h3 className="font-medium mb-2">Questionnaires</h3>
+                    <ul className="list-disc list-inside text-sm space-y-1">
                       {protocolData.questionnaires.map((q, i) => (
-                        <li key={i}>{q}</li>
+                        <li key={i} className="text-muted-foreground">{q}</li>
                       ))}
                     </ul>
                   </div>
                 )}
               </div>
-            </div>
-          )}
+            </CardContent>
+          </CollapsibleContent>
+        </Card>
+      </Collapsible>
 
-          {/* Participant Guidelines */}
-          {protocolData.participantInstructions && protocolData.participantInstructions.length > 0 && (
-            <div>
-              <h3 className="text-lg font-semibold mb-4">Participant Guidelines</h3>
-              <ul className="list-disc list-inside text-sm text-gray-600">
-                {protocolData.participantInstructions.map((instruction, i) => (
-                  <li key={i}>{instruction}</li>
-                ))}
-              </ul>
-            </div>
-          )}
-
-          {/* Safety and Resources */}
-          <div>
-            <h3 className="text-lg font-semibold mb-4">Safety and Resources</h3>
-            <div className="grid grid-cols-2 gap-4">
-              {protocolData.safetyPrecautions && protocolData.safetyPrecautions.length > 0 && (
-                <div>
-                  <h4 className="font-medium mb-2">Safety Precautions</h4>
-                  <ul className="list-disc list-inside text-sm text-gray-600">
-                    {protocolData.safetyPrecautions.map((precaution, i) => (
-                      <li key={i}>{precaution}</li>
-                    ))}
-                  </ul>
-                </div>
+      {/* Participant Guidelines Section */}
+      <Collapsible>
+        <Card>
+          <CardHeader>
+            <CollapsibleTrigger className="flex items-center justify-between w-full">
+              <CardTitle>Participant Guidelines</CardTitle>
+              <ChevronDown className="h-4 w-4" />
+            </CollapsibleTrigger>
+          </CardHeader>
+          <CollapsibleContent>
+            <CardContent>
+              {protocolData.participantInstructions && (
+                <ul className="list-disc list-inside text-sm space-y-1">
+                  {protocolData.participantInstructions.map((instruction, i) => (
+                    <li key={i} className="text-muted-foreground">{instruction}</li>
+                  ))}
+                </ul>
               )}
-              {protocolData.educationalResources && protocolData.educationalResources.length > 0 && (
-                <div>
-                  <h4 className="font-medium mb-2">Educational Resources</h4>
-                  <div className="space-y-2">
-                    {protocolData.educationalResources.map((resource, i) => (
-                      <div key={i} className="text-sm text-gray-600">
-                        <p className="font-medium">{resource.title}</p>
-                        <p>{resource.description}</p>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              )}
-            </div>
-          </div>
+            </CardContent>
+          </CollapsibleContent>
+        </Card>
+      </Collapsible>
 
-          {/* Eligibility Criteria */}
-          {protocolData.eligibilityCriteria && (
-            <div>
-              <h3 className="text-lg font-semibold mb-4">Eligibility Criteria</h3>
-              <div className="space-y-4">
-                {protocolData.eligibilityCriteria.wearableData && protocolData.eligibilityCriteria.wearableData.length > 0 && (
+      {/* Safety Section */}
+      <Collapsible>
+        <Card>
+          <CardHeader>
+            <CollapsibleTrigger className="flex items-center justify-between w-full">
+              <CardTitle>Safety and Resources</CardTitle>
+              <ChevronDown className="h-4 w-4" />
+            </CollapsibleTrigger>
+          </CardHeader>
+          <CollapsibleContent>
+            <CardContent>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {protocolData.safetyPrecautions && (
                   <div>
-                    <h4 className="font-medium mb-2">Wearable Data Requirements</h4>
-                    <ul className="list-disc list-inside text-sm text-gray-600">
+                    <h3 className="font-medium mb-2">Safety Precautions</h3>
+                    <ul className="list-disc list-inside text-sm space-y-1">
+                      {protocolData.safetyPrecautions.map((precaution, i) => (
+                        <li key={i} className="text-muted-foreground">{precaution}</li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+                {protocolData.educationalResources && (
+                  <div>
+                    <h3 className="font-medium mb-2">Educational Resources</h3>
+                    <div className="space-y-3">
+                      {protocolData.educationalResources.map((resource, i) => (
+                        <div key={i} className="text-sm">
+                          <p className="font-medium">{resource.title}</p>
+                          <p className="text-muted-foreground">{resource.description}</p>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
+            </CardContent>
+          </CollapsibleContent>
+        </Card>
+      </Collapsible>
+
+      {/* Eligibility Criteria Section */}
+      <Collapsible>
+        <Card>
+          <CardHeader>
+            <CollapsibleTrigger className="flex items-center justify-between w-full">
+              <CardTitle>Eligibility Criteria</CardTitle>
+              <ChevronDown className="h-4 w-4" />
+            </CollapsibleTrigger>
+          </CardHeader>
+          <CollapsibleContent>
+            <CardContent>
+              <div className="space-y-6">
+                {protocolData.eligibilityCriteria && protocolData.eligibilityCriteria.wearableData && protocolData.eligibilityCriteria.wearableData.length > 0 && (
+                  <div>
+                    <h3 className="font-medium mb-2">Wearable Data Requirements</h3>
+                    <ul className="list-disc list-inside text-sm space-y-1">
                       {protocolData.eligibilityCriteria.wearableData.map((req, i) => (
-                        <li key={i}>{req.metric}: {req.condition} {req.value}</li>
+                        <li key={i} className="text-muted-foreground">{req.metric}: {req.condition} {req.value}</li>
                       ))}
                     </ul>
                   </div>
                 )}
-                {protocolData.eligibilityCriteria.demographics && protocolData.eligibilityCriteria.demographics.length > 0 && (
+                {protocolData.eligibilityCriteria && protocolData.eligibilityCriteria.demographics && protocolData.eligibilityCriteria.demographics.length > 0 && (
                   <div>
-                    <h4 className="font-medium mb-2">Demographics</h4>
-                    <ul className="list-disc list-inside text-sm text-gray-600">
+                    <h3 className="font-medium mb-2">Demographics</h3>
+                    <ul className="list-disc list-inside text-sm space-y-1">
                       {protocolData.eligibilityCriteria.demographics.map((demo, i) => (
-                        <li key={i}>{demo.category}: {demo.requirement}</li>
+                        <li key={i} className="text-muted-foreground">{demo.category}: {demo.requirement}</li>
                       ))}
                     </ul>
                   </div>
                 )}
-                {protocolData.eligibilityCriteria.customQuestions && protocolData.eligibilityCriteria.customQuestions.length > 0 && (
+                {protocolData.eligibilityCriteria && protocolData.eligibilityCriteria.customQuestions && protocolData.eligibilityCriteria.customQuestions.length > 0 && (
                   <div>
-                    <h4 className="font-medium mb-2">Custom Questions</h4>
-                    <ul className="list-disc list-inside text-sm text-gray-600">
+                    <h3 className="font-medium mb-2">Custom Questions</h3>
+                    <ul className="list-disc list-inside text-sm space-y-1">
                       {protocolData.eligibilityCriteria.customQuestions.map((q, i) => (
-                        <li key={i}>{q}</li>
+                        <li key={i} className="text-muted-foreground">{q}</li>
                       ))}
                     </ul>
                   </div>
                 )}
               </div>
-            </div>
-          )}
-        </div>
-      </Card>
+            </CardContent>
+          </CollapsibleContent>
+        </Card>
+      </Collapsible>
 
       {/* AI Insights Section */}
       {insights && (
-        <Card className="p-6">
-          <h3 className="text-lg font-semibold mb-4">AI-Generated Insights</h3>
-          <div className="prose prose-sm max-w-none">
-            <ReactMarkdown>{insights}</ReactMarkdown>
-          </div>
+        <Card>
+          <CardHeader>
+            <CardTitle>AI-Generated Insights</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="prose prose-sm max-w-none">
+              <ReactMarkdown>{insights}</ReactMarkdown>
+            </div>
+          </CardContent>
         </Card>
       )}
 
