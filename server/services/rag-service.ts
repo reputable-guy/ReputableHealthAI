@@ -39,34 +39,34 @@ class RAGService {
   }
 
   private async initializeServices() {
-    if (!process.env.PINECONE_API_KEY) {
-      console.error("Warning: PINECONE_API_KEY not set. RAG features will be disabled.");
-      return;
-    }
-
     try {
       console.log("Initializing RAG service...");
 
-      // Initialize Pinecone client
+      // Initialize Pinecone client with more detailed logging
+      console.log("Creating Pinecone client...");
       this.pinecone = new Pinecone({
         apiKey: process.env.PINECONE_API_KEY
       });
 
+      console.log("Setting up OpenAI embeddings...");
       this.embeddings = new OpenAIEmbeddings({
         openAIApiKey: process.env.OPENAI_API_KEY,
         modelName: "text-embedding-ada-002"
       });
 
       // List existing indexes with error handling
+      console.log("Checking existing indexes...");
       let existingIndexes;
       try {
         existingIndexes = await this.pinecone.listIndexes();
+        console.log("Found existing indexes:", existingIndexes);
       } catch (error) {
-        console.log("Error listing indexes, assuming none exist:", error);
+        console.error("Error listing indexes:", error);
         existingIndexes = { indexes: [] };
       }
 
       const indexExists = existingIndexes.indexes?.some(index => index.name === this.indexName);
+      console.log(`Index ${this.indexName} exists: ${indexExists}`);
 
       if (!indexExists) {
         console.log(`Creating new Pinecone index: ${this.indexName}`);
@@ -83,18 +83,20 @@ class RAGService {
             }
           });
 
+          console.log("Index creation initiated, waiting for readiness...");
           // Wait for index to be ready with timeout
           let attempts = 0;
           const maxAttempts = 12; // 1 minute total
           while (attempts < maxAttempts) {
             try {
               const indexStatus = await this.pinecone.describeIndex(this.indexName);
+              console.log("Index status:", indexStatus);
               if (indexStatus.status?.ready) {
                 console.log("Index is ready");
                 break;
               }
             } catch (error) {
-              console.log('Error checking index status, retrying...', error);
+              console.error('Error checking index status:', error);
             }
             console.log('Waiting for index to be ready...');
             await new Promise(resolve => setTimeout(resolve, 5000));
