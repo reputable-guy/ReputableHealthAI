@@ -19,7 +19,6 @@ export function registerRoutes(app: Express): Server {
     try {
       console.log("Testing OpenAI API connection...");
 
-      // Make a minimal API call
       const completion = await openai.chat.completions.create({
         model: "gpt-3.5-turbo",
         messages: [
@@ -169,6 +168,81 @@ Ensure the protocol design follows scientific best practices and is appropriate 
           details: error.message 
         });
       }
+    }
+  });
+
+  // New endpoint for generating protocol insights
+  app.post("/api/protocols/insights", async (req, res) => {
+    try {
+      const protocolData = req.body;
+
+      const prompt = `
+Based on the following study protocol details, generate comprehensive insights and recommendations:
+
+Product: ${protocolData.productName}
+Study Category: ${protocolData.studyCategory}
+Study Type: ${protocolData.studyType}
+Duration: ${protocolData.durationWeeks} weeks
+Participants: ${protocolData.participantCount}
+
+Generate a detailed markdown analysis including:
+
+1. Study Design Analysis
+- Evaluate the strength of the study design
+- Discuss potential limitations and how to address them
+- Suggest ways to improve data quality
+
+2. Statistical Power Assessment
+- Analyze if the participant count is sufficient
+- Discuss expected effect sizes
+- Recommend any adjustments needed
+
+3. Data Collection Strategy
+- Review the selected metrics and their relevance
+- Evaluate the questionnaire choices
+- Suggest additional data points if needed
+
+4. Participant Management
+- Discuss strategies for maintaining engagement
+- Recommend compliance monitoring approaches
+- Outline potential challenges and solutions
+
+5. Expected Outcomes
+- Predict potential findings
+- Discuss how results could be used (based on study goal: ${protocolData.studyGoal})
+- Suggest follow-up study possibilities
+
+Keep the tone professional but accessible, and focus on actionable insights.
+`;
+
+      console.log("Generating protocol insights...");
+      const completion = await openai.chat.completions.create({
+        model: "gpt-3.5-turbo",
+        messages: [
+          {
+            role: "system",
+            content: "You are an expert research consultant providing detailed analysis and recommendations for wellness product studies. Your insights should be both scientifically rigorous and practically applicable."
+          },
+          {
+            role: "user",
+            content: prompt
+          }
+        ],
+        temperature: 0.7,
+        max_tokens: 2000
+      });
+
+      if (!completion.choices[0].message.content) {
+        throw new Error("No insights generated");
+      }
+
+      res.json(completion.choices[0].message.content);
+    } catch (error: any) {
+      console.error("Insights generation error:", error);
+      res.status(500).json({ 
+        error: "Failed to generate insights",
+        details: error.message 
+      });
     }
   });
 
