@@ -18,33 +18,60 @@ interface SampleSizeCalculatorProps {
     calculatedSampleSize: number;
   }) => void;
   currentSampleSize: number;
+  initialEffectSize?: number;
+  initialPower?: number;
+  initialAlpha?: number;
 }
 
-export default function SampleSizeCalculator({ onCalculate, currentSampleSize }: SampleSizeCalculatorProps) {
-  const [effectSize, setEffectSize] = useState(0.5);
-  const [desiredPower, setDesiredPower] = useState(0.8);
-  const [alpha, setAlpha] = useState(0.05);
+export default function SampleSizeCalculator({ 
+  onCalculate, 
+  currentSampleSize,
+  initialEffectSize = 0.5,
+  initialPower = 0.8,
+  initialAlpha = 0.05
+}: SampleSizeCalculatorProps) {
+  const [effectSize, setEffectSize] = useState(initialEffectSize);
+  const [desiredPower, setDesiredPower] = useState(initialPower);
+  const [alpha, setAlpha] = useState(initialAlpha);
 
-  // Update calculations whenever any parameter changes
-  useEffect(() => {
-    const params = {
-      effectSize,
-      power: desiredPower,
-      alpha,
-    };
-
-    // Calculate new minimum sample size
+  const calculateAndNotify = (newEffectSize: number, newPower: number, newAlpha: number) => {
     const newMinSampleSize = calculateMinimumSampleSize({
-      ...params,
+      effectSize: newEffectSize,
+      power: newPower,
+      alpha: newAlpha,
       groups: 2 // Assuming RCT by default
     });
 
-    // Pass both parameters and calculated size up
     onCalculate({
-      ...params,
+      effectSize: newEffectSize,
+      power: newPower,
+      alpha: newAlpha,
       calculatedSampleSize: newMinSampleSize
     });
-  }, [effectSize, desiredPower, alpha, onCalculate]);
+  };
+
+  // Only trigger calculation when props change
+  useEffect(() => {
+    calculateAndNotify(initialEffectSize, initialPower, initialAlpha);
+  }, [initialEffectSize, initialPower, initialAlpha]);
+
+  const handleEffectSizeChange = (value: number[]) => {
+    const newEffectSize = value[0] / 100;
+    setEffectSize(newEffectSize);
+    calculateAndNotify(newEffectSize, desiredPower, alpha);
+  };
+
+  const handlePowerChange = (value: number[]) => {
+    const newPower = value[0] / 100;
+    setDesiredPower(newPower);
+    calculateAndNotify(effectSize, newPower, alpha);
+  };
+
+  const handleAlphaChange = (value: number[]) => {
+    const newAlpha = value[0] / 100;
+    setAlpha(newAlpha);
+    calculateAndNotify(effectSize, desiredPower, newAlpha);
+  };
 
   return (
     <Card>
@@ -89,9 +116,7 @@ export default function SampleSizeCalculator({ onCalculate, currentSampleSize }:
             </div>
             <Slider
               value={[effectSize * 100]}
-              onValueChange={(value) => {
-                setEffectSize(value[0] / 100);
-              }}
+              onValueChange={handleEffectSizeChange}
               min={10}
               max={100}
               step={5}
@@ -122,9 +147,7 @@ export default function SampleSizeCalculator({ onCalculate, currentSampleSize }:
             </div>
             <Slider
               value={[desiredPower * 100]}
-              onValueChange={(value) => {
-                setDesiredPower(value[0] / 100);
-              }}
+              onValueChange={handlePowerChange}
               min={80}
               max={99}
               step={1}
@@ -155,9 +178,7 @@ export default function SampleSizeCalculator({ onCalculate, currentSampleSize }:
             </div>
             <Slider
               value={[alpha * 100]}
-              onValueChange={(value) => {
-                setAlpha(value[0] / 100);
-              }}
+              onValueChange={handleAlphaChange}
               min={1}
               max={10}
               step={0.5}

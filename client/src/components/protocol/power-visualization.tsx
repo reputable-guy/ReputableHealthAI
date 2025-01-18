@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { motion } from "framer-motion";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ReferenceLine } from "recharts";
 import { Info } from "lucide-react";
@@ -8,7 +9,6 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import SampleSizeCalculator from "./sample-size-calculator";
-import { useState, useEffect } from "react";
 
 interface PowerVisualizationProps {
   power: number;
@@ -39,11 +39,7 @@ export default function PowerVisualization({
   confidenceInterval,
   onUpdateParameters
 }: PowerVisualizationProps) {
-  const [currentSampleSize, setCurrentSampleSize] = useState(sampleSize);
-
-  useEffect(() => {
-    setCurrentSampleSize(sampleSize);
-  }, [sampleSize]);
+  const [displayedSampleSize, setDisplayedSampleSize] = useState(sampleSize);
 
   const powerColor = power >= 0.8 
     ? "rgb(34, 197, 94)" // green-500
@@ -57,7 +53,7 @@ export default function PowerVisualization({
     alpha: number;
     calculatedSampleSize: number;
   }) => {
-    setCurrentSampleSize(params.calculatedSampleSize);
+    setDisplayedSampleSize(params.calculatedSampleSize);
     onUpdateParameters(params);
   };
 
@@ -125,12 +121,12 @@ export default function PowerVisualization({
         <div className="text-center">
           <motion.div 
             className="text-2xl font-bold"
-            key={currentSampleSize}
+            key={displayedSampleSize}
             initial={{ scale: 0.9 }}
             animate={{ scale: 1 }}
             transition={{ duration: 0.3 }}
           >
-            {currentSampleSize}
+            {displayedSampleSize}
           </motion.div>
           <div className="text-sm text-muted-foreground flex items-center justify-center gap-1">
             Sample Size
@@ -188,7 +184,10 @@ export default function PowerVisualization({
       <div className="mt-6">
         <SampleSizeCalculator
           onCalculate={handleCalculatorUpdate}
-          currentSampleSize={currentSampleSize}
+          currentSampleSize={displayedSampleSize}
+          initialEffectSize={effectSize}
+          initialPower={power}
+          initialAlpha={0.05}
         />
       </div>
 
@@ -208,11 +207,11 @@ export default function PowerVisualization({
         <div className="text-sm space-y-2">
           <h4 className="font-medium">Study Design Recommendations:</h4>
           <ul className="list-disc list-inside space-y-1 text-muted-foreground">
-            {currentSampleSize < recommendedSize && (
+            {displayedSampleSize < recommendedSize && (
               <li>Consider increasing your sample size to {recommendedSize} participants to achieve adequate power</li>
             )}
             <li>Your current design can detect effects of {(effectSize * 100).toFixed(1)}% or larger</li>
-            <li>With {currentSampleSize} participants, you have {(power * 100).toFixed(1)}% power to detect the specified effect</li>
+            <li>With {displayedSampleSize} participants, you have {(power * 100).toFixed(1)}% power to detect the specified effect</li>
             {confidenceInterval && (
               <li>Your confidence interval width is {((confidenceInterval.upper - confidenceInterval.lower) * 100).toFixed(1)}% - {
                 confidenceInterval.upper - confidenceInterval.lower > 0.3 
