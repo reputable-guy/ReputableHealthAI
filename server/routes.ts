@@ -72,39 +72,27 @@ Product Name: ${setupData.productName}
 Website: ${setupData.websiteUrl || 'N/A'}
 Study Goal: ${setupData.studyGoal}
 
-Generate a complete study protocol including:
-1. Study Category (Sleep, Stress, Recovery, etc.)
-2. Experiment Title (participant-facing)
-3. Study Objective/Hypothesis
-4. Study Type (Real-World Evidence or RCT)
-5. Recommended participant count (with statistical justification)
-6. Study duration in weeks
-7. Target metrics to measure (specific to the wearable devices)
-8. Recommended validated questionnaires
-9. Eligibility criteria including:
-   - Wearable data requirements
-   - Demographic requirements
-   - Screening questions
+I need you to generate a protocol in valid JSON format. The response must be parseable JSON with the following structure:
 
-Format the response as a JSON object with these exact fields and format:
 {
-  "studyCategory": "string, one of: Sleep, Stress, Recovery, Cognition, Metabolic Health, Women's Health, Other",
+  "studyCategory": "Sleep",  // One of: Sleep, Stress, Recovery, Cognition, Metabolic Health, Women's Health, Other
   "experimentTitle": "string",
   "studyObjective": "string",
-  "studyType": "string, either Real-World Evidence or Randomized Controlled Trial",
-  "participantCount": number,
-  "durationWeeks": number,
-  "targetMetrics": ["string array of metrics"],
-  "questionnaires": ["string array of questionnaire names"],
+  "studyType": "Real-World Evidence",  // Either "Real-World Evidence" or "Randomized Controlled Trial"
+  "participantCount": 100,  // number
+  "durationWeeks": 8,  // number
+  "targetMetrics": ["string"],  // array of strings
+  "questionnaires": ["string"],  // array of strings
   "eligibilityCriteria": {
-    "wearableData": [],
-    "demographics": [],
-    "customQuestions": ["string array of questions"]
+    "wearableData": [],  // array
+    "demographics": [],  // array
+    "customQuestions": ["string"]  // array of strings
   }
 }
 
-Ensure the protocol design follows scientific best practices and is appropriate for the product category.
-`;
+Important: Ensure the response is ONLY the JSON object, with no additional text or markdown formatting.
+
+Base your protocol design on scientific best practices and make it appropriate for the product category. Include relevant wearable metrics and validated questionnaires specific to the study category.`;
 
       console.log("Sending request to OpenAI...");
       const completion = await openai.chat.completions.create({
@@ -112,7 +100,7 @@ Ensure the protocol design follows scientific best practices and is appropriate 
         messages: [
           {
             role: "system",
-            content: "You are an expert clinical research advisor specializing in wellness product studies. Generate study protocols that are scientifically rigorous yet practical for wellness brands."
+            content: "You are an expert clinical research advisor specializing in wellness product studies. You must respond with only valid JSON data structured exactly as requested, with no additional text or explanations."
           },
           {
             role: "user",
@@ -126,10 +114,12 @@ Ensure the protocol design follows scientific best practices and is appropriate 
         throw new Error("No response received from AI");
       }
 
-      console.log("OpenAI response received successfully");
+      console.log("OpenAI response received:", completion.choices[0].message.content);
 
       try {
-        const generatedProtocol = JSON.parse(completion.choices[0].message.content);
+        const generatedProtocol = JSON.parse(completion.choices[0].message.content.trim());
+        console.log("Parsed protocol:", generatedProtocol);
+
         const fullProtocol = {
           ...setupData,
           ...generatedProtocol
@@ -139,7 +129,7 @@ Ensure the protocol design follows scientific best practices and is appropriate 
         const savedProtocol = await db.insert(protocols).values(fullProtocol).returning();
         res.json(savedProtocol[0]);
       } catch (parseError) {
-        console.error("Failed to parse OpenAI response:", completion.choices[0].message.content);
+        console.error("Failed to parse OpenAI response. Raw response:", completion.choices[0].message.content);
         throw new Error("Failed to parse protocol data from AI response");
       }
     } catch (error: any) {
@@ -171,7 +161,7 @@ Ensure the protocol design follows scientific best practices and is appropriate 
     }
   });
 
-  // New endpoint for generating protocol insights
+  // Protocol insights endpoint
   app.post("/api/protocols/insights", async (req, res) => {
     try {
       const protocolData = req.body;
