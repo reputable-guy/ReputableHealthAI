@@ -2,7 +2,6 @@ import { useState } from "react";
 import { Card } from "@/components/ui/card";
 import StudySetupForm from "@/components/protocol/study-setup-form";
 import ProtocolPreview from "@/components/protocol/protocol-preview";
-import { generateProtocolInsights } from "@/lib/protocol-insights";
 import { useToast } from "@/hooks/use-toast";
 import { AlertCircle } from "lucide-react";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
@@ -35,8 +34,21 @@ export default function ProtocolDesigner() {
   const handleSetupComplete = async (setupData: Partial<ProtocolData>) => {
     setError(null);
     try {
-      const fullProtocol = await generateProtocolInsights(setupData);
-      setProtocolData(fullProtocol);
+      const response = await fetch("/api/protocols/generate", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(setupData),
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.details || "Failed to generate protocol");
+      }
+
+      const data = await response.json();
+      setProtocolData(data);
     } catch (error: any) {
       const errorMessage = error.message || "Failed to generate protocol. Please try again.";
       setError(errorMessage);
