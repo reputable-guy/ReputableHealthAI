@@ -40,18 +40,61 @@ export const protocols = pgTable("protocols", {
 
   questionnaires: jsonb("questionnaires").notNull(),
 
-  // Enhanced Custom Factors for Sleep Studies
-  customFactors: jsonb("custom_factors").default(`[
-    {"tag": "Alcohol", "description": "Alcohol consumption before bed"},
-    {"tag": "LateCaffeine", "description": "Caffeine consumption after 2pm"},
-    {"tag": "Travel", "description": "Travel or timezone changes"},
-    {"tag": "Stress", "description": "Experienced high stress levels"},
-    {"tag": "Illness", "description": "Feeling unwell or sick"},
-    {"tag": "LateWorkout", "description": "Exercise within 3 hours of bedtime"},
-    {"tag": "ScreenTime", "description": "Extended screen time before bed"},
-    {"tag": "LateFood", "description": "Heavy meal within 2 hours of bedtime"},
-    {"tag": "Environment", "description": "Unusual sleep environment"}
-  ]`).notNull(),
+  // Enhanced Custom Factors for Sleep Studies as Tags
+  customFactors: jsonb("custom_factors").default(`{
+    "tags": [
+      {
+        "id": "alcohol",
+        "label": "Alcohol",
+        "description": "Consumed alcohol before bed",
+        "impactedMetrics": ["sleepScore", "hrvAverage", "deepSleepTime"]
+      },
+      {
+        "id": "lateCaffeine",
+        "label": "Late Caffeine",
+        "description": "Consumed caffeine after 2pm",
+        "impactedMetrics": ["sleepLatency", "sleepScore"]
+      },
+      {
+        "id": "travel",
+        "label": "Travel",
+        "description": "Traveled or changed timezones",
+        "impactedMetrics": ["sleepScore", "bodyTemperature"]
+      },
+      {
+        "id": "stress",
+        "label": "Stress",
+        "description": "Experienced high stress levels",
+        "impactedMetrics": ["hrvAverage", "sleepScore", "deepSleepTime"]
+      },
+      {
+        "id": "illness",
+        "label": "Illness",
+        "description": "Feeling unwell or sick",
+        "impactedMetrics": ["bodyTemperature", "respiratoryRate"]
+      },
+      {
+        "id": "lateWorkout",
+        "label": "Late Workout",
+        "description": "Exercised within 3 hours of bedtime",
+        "impactedMetrics": ["sleepLatency", "bodyTemperature"]
+      },
+      {
+        "id": "screenTime",
+        "label": "Screen Time",
+        "description": "Extended screen exposure before bed",
+        "impactedMetrics": ["sleepLatency"]
+      },
+      {
+        "id": "lateFood",
+        "label": "Late Food",
+        "description": "Heavy meal within 2 hours of bedtime",
+        "impactedMetrics": ["sleepScore", "hrvAverage"]
+      }
+    ],
+    "maxDailyTags": 5,
+    "requireDaily": true
+  }`).notNull(),
 
   // Study Information
   studySummary: text("study_summary").notNull(),
@@ -70,58 +113,58 @@ export const protocols = pgTable("protocols", {
   educationalResources: jsonb("educational_resources").default(`[
     {
       "title": "Scientific Background",
-      "description": "Review of existing research and evidence",
-      "type": "article"
+      "description": "Review of existing research and scientific evidence on the intervention's efficacy",
+      "type": "article",
+      "content": "Detailed overview of previous studies and their findings"
     },
     {
       "title": "Product Information",
-      "description": "Detailed information about the intervention",
-      "type": "documentation"
+      "description": "Comprehensive information about the intervention",
+      "type": "documentation",
+      "content": "Details about ingredients, mechanism of action, and usage instructions"
     },
     {
       "title": "Safety Information",
-      "description": "Comprehensive safety data and guidelines",
-      "type": "guide"
+      "description": "Safety data and guidelines for the intervention",
+      "type": "guide",
+      "content": "Information about safety studies, potential side effects, and precautions"
     }
   ]`).notNull(),
 
-  // Enhanced Consent Form based on provided example
+  // Consent Form based on provided example
   consentFormSections: jsonb("consent_form_sections").default(`{
-    "summary": {
-      "title": "Research Consent Summary",
-      "content": "You are being asked for your consent to take part in this study. This document provides a concise summary of this research and expectations associated with participating."
-    },
-    "voluntaryParticipation": {
-      "title": "Voluntary Participation",
-      "content": "Your participation in this study is voluntary. You may decide not to participate or you may leave the study at any time. Your decision will not result in any penalty or loss to which you are otherwise entitled."
+    "title": "RESEARCH CONSENT SUMMARY",
+    "introduction": {
+      "title": "Introduction",
+      "content": "You are being asked for your consent to take part in the study. This document provides a concise summary of this research and expectations associated with participating. Your participation in this study is voluntary. You may decide not to participate or you may leave the study at any time. Your decision will not result in any penalty or loss to which you are otherwise entitled."
     },
     "contact": {
       "title": "Contact Information",
-      "content": "If you have any questions, you can contact the research team anytime through the chat feature in your dashboard or via email."
+      "content": "If you have any questions, you can contact the research team anytime at mackenzie@reputable.health, or by using the chat feature located in your Reputable Health dashboard."
     },
     "purpose": {
-      "title": "Research Purpose",
-      "content": "Details about why this research is being conducted and its significance."
+      "title": "Why is this research being done?",
+      "content": "The purpose of this research is to assess the impact of the intervention on participant sleep, mental well-being, and other health metrics in a real world setting following a 4-week intervention period."
     },
     "expectations": {
-      "title": "Participant Expectations",
-      "content": "Detailed description of what is expected from participants, including surveys, device usage, and intervention adherence."
+      "title": "What is expected of me if I agree to take part in this research?",
+      "content": "If you decide to take part in this research study, you will be asked to engage in the following activities:\n\n1. Complete Surveys: You will be required to complete two surveys—one at the start of the study (baseline, 0 weeks) and another at the end of the study (4 weeks). These surveys are designed to gather information on your sleep patterns, well-being, and other relevant metrics.\n\n2. Connect and Wear Your Oura Device: You will need to connect your Oura Ring device to the Reputable platform. This connection will allow us to collect objective data on your sleep and other health-related biomarker metrics continuously throughout the study period. It is important that you keep your Oura Ring charged and wear it over the course of the study period.\n\n3. Intervention Adherence: You will be asked to consume the supplement as directed, 5 days on (taking the supplement) and 2 days off (not taking the supplement). It is important that you follow these instructions carefully to ensure the accuracy and reliability of the study's results. You will be automatically withdrawn from the study if you fail to meet a 70% compliance threshold. Compliance is defined as you confirming that you took or did not take the supplement in the Reputable Health app daily."
     },
     "risks": {
-      "title": "Risks",
-      "content": "Description of any potential risks associated with participation."
+      "title": "What are the risks associated with participating in this study?",
+      "content": "There are no known adverse risks associated with participating in this study. The intervention may produce morning drowsiness if not taken as directed."
     },
     "benefits": {
-      "title": "Benefits",
-      "content": "Potential benefits from participating in the study."
+      "title": "What are the benefits associated with participating in this study?",
+      "content": "By participating in this study, you may experience potential benefits. Through use of the Reputable Health app and the continuous monitoring of biomarker metrics, you may also become more aware of your sleep patterns and overall health metrics, which may help establish more informed decisions about your health. You will also be contributing to a foundation of scientific knowledge that will contribute to the growth of a body of research assessing the effectiveness of organic sleep supplementation on sleep and health.\n\nWhile the study has the potential to provide these benefits, it is important to note that benefits are not guaranteed, and the primary goal of the research is to gather data that will contribute to scientific understanding. Your involvement is greatly valued and will play a key role in advancing knowledge in this area."
     },
     "incentives": {
-      "title": "Incentives",
-      "content": "Any compensation or incentives for participation."
+      "title": "Are there any incentives associated with participating in this research?",
+      "content": "Participants in this study will receive compensation for their time and effort, contingent on their adherence to study protocols and the completion of key milestones. Upon successful completion of the study, defined as maintaining at least 70% adherence to the study protocols and completing the end-of-study survey, participants will be awarded an electronic gift card valued at $50."
     },
     "privacy": {
-      "title": "Privacy Protection",
-      "content": "How participant privacy is protected and data confidentiality is maintained."
+      "title": "How are you protecting privacy and ensuring confidentiality?",
+      "content": "Upon enrollment into the Reputable App, all participants are de-identified using a randomly assigned alias that will follow them throughout the course of their participation in the study and time in the Reputable platform. All communications and research activities will be conducted under the alias and personal identifying information will be minimized to an administrative level for safety and regulatory purposes only.\n\nDe-identified data from this study will be shared with the commercial sponsor of the study and used to validate claims surrounding product efficacy and to advance future research in this area. No personal information that could be used to identify you will be shared with any external parties, including the sponsor."
     },
     "consent": {
       "title": "Statement of Consent",
@@ -133,36 +176,68 @@ export const protocols = pgTable("protocols", {
   eligibilityCriteria: jsonb("eligibility_criteria").default(`{
     "questions": [
       {
-        "question": "Do you own an Oura Ring?",
-        "type": "boolean",
-        "eligibleAnswer": true,
+        "id": "ouraRing",
+        "question": "Do you own an Oura Ring that you can wear throughout the study period?",
+        "type": "select",
+        "options": [
+          {"value": "yes", "label": "Yes, I own an Oura Ring", "eligible": true},
+          {"value": "no", "label": "No, I don't own an Oura Ring", "eligible": false},
+          {"value": "ordered", "label": "I've ordered one but haven't received it yet", "eligible": false}
+        ],
         "required": true
       },
       {
-        "question": "Are you currently taking any sleep medication?",
-        "type": "boolean",
-        "eligibleAnswer": false,
-        "required": true
-      },
-      {
-        "question": "What is your age?",
-        "type": "range",
-        "eligibleRange": {"min": 18, "max": 65},
-        "required": true
-      },
-      {
-        "question": "How would you rate your overall sleep quality?",
+        "id": "sleepQuality",
+        "question": "How would you rate your overall sleep quality in the past month?",
         "type": "scale",
-        "options": ["Very Poor", "Poor", "Fair", "Good", "Excellent"],
-        "eligibleOptions": ["Very Poor", "Poor", "Fair"],
+        "options": [
+          {"value": 1, "label": "Very Poor", "eligible": true},
+          {"value": 2, "label": "Poor", "eligible": true},
+          {"value": 3, "label": "Fair", "eligible": true},
+          {"value": 4, "label": "Good", "eligible": false},
+          {"value": 5, "label": "Excellent", "eligible": false}
+        ],
+        "required": true
+      },
+      {
+        "id": "age",
+        "question": "What is your age?",
+        "type": "number",
+        "validation": {
+          "min": 18,
+          "max": 65
+        },
+        "eligibilityRange": {
+          "min": 18,
+          "max": 65
+        },
+        "required": true
+      },
+      {
+        "id": "sleepMedication",
+        "question": "Are you currently taking any prescription sleep medication?",
+        "type": "select",
+        "options": [
+          {"value": "yes", "label": "Yes, I take prescription sleep medication", "eligible": false},
+          {"value": "no", "label": "No, I don't take any sleep medication", "eligible": true},
+          {"value": "occasional", "label": "I occasionally take over-the-counter sleep aids", "eligible": false}
+        ],
+        "required": true
+      },
+      {
+        "id": "healthConditions",
+        "question": "Do you have any of the following conditions? (Select all that apply)",
+        "type": "multiselect",
+        "options": [
+          {"value": "none", "label": "None of the above", "eligible": true},
+          {"value": "sleepApnea", "label": "Diagnosed sleep apnea", "eligible": false},
+          {"value": "insomnia", "label": "Diagnosed insomnia", "eligible": false},
+          {"value": "pregnancy", "label": "Pregnant or planning pregnancy", "eligible": false},
+          {"value": "shiftWork", "label": "Work night shifts", "eligible": false}
+        ],
+        "eligibilityLogic": "must_select_none",
         "required": true
       }
-    ],
-    "exclusionCriteria": [
-      "Pregnancy or planning to become pregnant",
-      "Diagnosed sleep disorders",
-      "Current use of sleep medications",
-      "Shift work or irregular sleep schedule"
     ]
   }`).notNull(),
 
