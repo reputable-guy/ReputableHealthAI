@@ -66,6 +66,106 @@ export function registerRoutes(router: Router): void {
        .json({ hypotheses });
   }));
 
+  // Protocol generation endpoint
+  router.post("/protocols/generate", asyncHandler(async (req, res) => {
+    const { productName, websiteUrl, selectedHypothesis, studyCategory } = req.body;
+
+    if (!productName || !selectedHypothesis || !studyCategory) {
+      return res.status(400)
+         .setHeader('Content-Type', 'application/json')
+         .json({ 
+           error: true,
+           message: "Product name, hypothesis, and category are required",
+           status: 400
+         });
+    }
+
+    // Generate contextual prompt using RAG service
+    const contextualPrompt = await ragService.generateContextualPrompt(
+      productName,
+      studyCategory,
+      selectedHypothesis
+    );
+
+    // For now, return a basic protocol structure
+    // This will be enhanced with AI-generated content in future iterations
+    const protocol = {
+      studyCategory,
+      experimentTitle: `Effects of ${productName} on ${studyCategory.toLowerCase()} metrics`,
+      studyObjective: selectedHypothesis,
+      studyType: "Real-World Evidence",
+      participantCount: 30,
+      durationWeeks: 8,
+      targetMetrics: [
+        "Sleep Quality Score",
+        "Total Sleep Time",
+        "Sleep Latency",
+        "Sleep Efficiency"
+      ],
+      questionnaires: [
+        "Pittsburgh Sleep Quality Index (PSQI)",
+        "Insomnia Severity Index (ISI)",
+        "Sleep Hygiene Index (SHI)"
+      ],
+      studySummary: `This study aims to evaluate the effects of ${productName} on ${studyCategory.toLowerCase()} metrics in healthy adults.`,
+      participantInstructions: [
+        "Complete daily sleep logs",
+        "Wear sleep tracking device throughout the study",
+        "Take product as directed",
+        "Complete weekly questionnaires"
+      ],
+      safetyPrecautions: [
+        "Report any adverse effects immediately",
+        "Maintain regular sleep schedule",
+        "Avoid caffeine 6 hours before bedtime"
+      ],
+      educationalResources: [
+        {
+          title: "Sleep Hygiene Guide",
+          description: "Best practices for optimal sleep",
+          type: "PDF Guide"
+        }
+      ],
+      consentFormSections: [
+        {
+          title: "Study Overview",
+          content: `This study examines the effects of ${productName} on sleep metrics.`
+        },
+        {
+          title: "Risks and Benefits",
+          content: "Participation involves minimal risk."
+        }
+      ],
+      customFactors: [
+        "Caffeine intake",
+        "Exercise timing",
+        "Screen time before bed"
+      ],
+      eligibilityCriteria: {
+        wearableData: [
+          {
+            metric: "Average Sleep Duration",
+            condition: "less than",
+            value: "7 hours"
+          }
+        ],
+        demographics: [
+          {
+            category: "Age",
+            requirement: "21-65 years"
+          }
+        ],
+        customQuestions: [
+          "Do you have any diagnosed sleep disorders?",
+          "Are you currently taking any sleep medications?"
+        ]
+      }
+    };
+
+    res.setHeader('Content-Type', 'application/json')
+       .json(protocol);
+  }));
+
   // Add endpoint to check RAG stats
   router.get("/rag/stats", asyncHandler(async (_req, res) => {
     const stats = await ragService.checkIndexStats();
