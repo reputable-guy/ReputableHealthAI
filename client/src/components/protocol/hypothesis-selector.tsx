@@ -27,6 +27,7 @@ export default function HypothesisSelector({
   const [hypotheses, setHypotheses] = useState<Hypothesis[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [selectedId, setSelectedId] = useState<number | null>(null);
   const { toast } = useToast();
 
   const generateHypotheses = async () => {
@@ -56,6 +57,12 @@ export default function HypothesisSelector({
     } finally {
       setLoading(false);
     }
+  };
+
+  const handleHypothesisClick = async (hypothesis: Hypothesis) => {
+    if (selectedId !== null) return; // Prevent multiple clicks
+    setSelectedId(hypothesis.id);
+    await onHypothesisSelected(hypothesis);
   };
 
   // Generate hypotheses when component mounts
@@ -100,8 +107,10 @@ export default function HypothesisSelector({
           {hypotheses.map((hypothesis) => (
             <Card
               key={hypothesis.id}
-              className="cursor-pointer hover:border-primary transition-colors"
-              onClick={() => onHypothesisSelected(hypothesis)}
+              className={`cursor-pointer transition-colors ${
+                selectedId === hypothesis.id ? 'border-primary ring-2 ring-primary/20' : 'hover:border-primary/50'
+              } ${selectedId !== null && selectedId !== hypothesis.id ? 'opacity-50' : ''}`}
+              onClick={() => handleHypothesisClick(hypothesis)}
             >
               <CardContent className="p-4">
                 <div className="space-y-2">
@@ -124,8 +133,15 @@ export default function HypothesisSelector({
                       </div>
                     </div>
                   </div>
-                  <p className="font-medium">{hypothesis.statement}</p>
-                  <p className="text-sm text-muted-foreground">{hypothesis.rationale}</p>
+                  <div className="flex justify-between items-start gap-2">
+                    <div>
+                      <p className="font-medium">{hypothesis.statement}</p>
+                      <p className="text-sm text-muted-foreground">{hypothesis.rationale}</p>
+                    </div>
+                    {selectedId === hypothesis.id && (
+                      <Loader2 className="h-4 w-4 animate-spin text-primary mt-1 flex-shrink-0" />
+                    )}
+                  </div>
                 </div>
               </CardContent>
             </Card>
