@@ -15,6 +15,69 @@ const openai = new OpenAI({
 });
 
 export function registerRoutes(app: Express): Server {
+  app.post("/api/protocols/hypotheses", async (req, res) => {
+    try {
+      const { productName, websiteUrl } = req.body;
+
+      const prompt = `
+Analyze this wellness product and generate up to 5 scientifically plausible research hypotheses:
+
+Product Name: ${productName}
+Website: ${websiteUrl || 'N/A'}
+
+Generate a response in this JSON format:
+{
+  "hypotheses": [
+    {
+      "id": number,
+      "category": string,  // e.g., "Sleep", "Stress", "Recovery", etc.
+      "statement": string, // The hypothesis statement
+      "rationale": string, // Brief scientific rationale
+      "confidenceScore": number // 0-1 score based on available evidence
+    }
+  ]
+}
+
+Guidelines:
+1. Each hypothesis should be specific and testable
+2. Focus on primary outcomes that can be measured with wearables
+3. Consider the product's ingredients/mechanism of action
+4. Base confidence scores on existing research
+5. Order hypotheses by confidence score (highest first)
+`;
+
+      const completion = await openai.chat.completions.create({
+        model: "gpt-4o",
+        messages: [
+          {
+            role: "system",
+            content: "You are a research scientist specializing in wellness product efficacy analysis. Generate evidence-based hypotheses that can be tested using wearable devices and validated measurement tools."
+          },
+          {
+            role: "user",
+            content: prompt
+          }
+        ],
+        temperature: 0.7,
+        max_tokens: 2000,
+        response_format: { type: "json_object" }
+      });
+
+      if (!completion.choices[0].message.content) {
+        throw new Error("No hypotheses generated");
+      }
+
+      const hypotheses = JSON.parse(completion.choices[0].message.content);
+      res.json(hypotheses);
+    } catch (error: any) {
+      console.error("Hypothesis generation error:", error);
+      res.status(500).json({
+        error: "Failed to generate hypotheses",
+        details: error.message
+      });
+    }
+  });
+
   app.post("/api/protocols/generate", async (req, res) => {
     try {
       const setupData = req.body;
@@ -27,6 +90,7 @@ Generate a comprehensive research protocol based on these initial details:
 Product Name: ${setupData.productName}
 Website: ${setupData.websiteUrl || 'N/A'}
 Study Goal: ${setupData.studyGoal}
+Selected Hypothesis: ${setupData.selectedHypothesis || 'N/A'}
 
 Generate a protocol in valid JSON format with the following structure (ensure all fields are included and populated with realistic values):
 
@@ -110,10 +174,8 @@ Important guidelines:
       });
 
       if (!completion.choices[0].message.content) {
-        throw new Error("No response received from AI");
+        throw new Error("Failed to generate protocol");
       }
-
-      console.log("OpenAI response received:", completion.choices[0].message.content);
 
       try {
         const generatedProtocol = JSON.parse(completion.choices[0].message.content.trim());
@@ -128,34 +190,15 @@ Important guidelines:
         const savedProtocol = await db.insert(protocols).values(fullProtocol).returning();
         res.json(savedProtocol[0]);
       } catch (parseError) {
-        console.error("Failed to parse OpenAI response. Raw response:", completion.choices[0].message.content);
+        console.error("Failed to parse OpenAI response:", completion.choices[0].message.content);
         throw new Error("Failed to parse protocol data from AI response");
       }
     } catch (error: any) {
-      console.error("Protocol generation error details:", {
-        status: error.status,
-        type: error.error?.type,
-        code: error.code,
-        param: error.param,
-        message: error.message
+      console.error("Protocol generation error:", error);
+      res.status(500).json({ 
+        error: "Failed to generate protocol",
+        details: error.message 
       });
-
-      if (error.error?.type === 'insufficient_quota') {
-        res.status(500).json({ 
-          error: "Failed to generate protocol",
-          details: "OpenAI API quota exceeded. Please check your billing status and available credits."
-        });
-      } else if (error.status === 401) {
-        res.status(500).json({
-          error: "Failed to generate protocol",
-          details: "Invalid API key. Please ensure your OpenAI API key is correct."
-        });
-      } else {
-        res.status(500).json({ 
-          error: "Failed to generate protocol",
-          details: error.message 
-        });
-      }
     }
   });
 
