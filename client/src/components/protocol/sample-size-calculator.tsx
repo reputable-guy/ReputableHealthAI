@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Slider } from "@/components/ui/slider";
 import {
@@ -49,11 +49,6 @@ export default function SampleSizeCalculator({
       calculatedSampleSize: newMinSampleSize
     });
   };
-
-  // Only trigger calculation when props change
-  useEffect(() => {
-    calculateAndNotify(initialEffectSize, initialPower, initialAlpha);
-  }, [initialEffectSize, initialPower, initialAlpha]);
 
   const handleEffectSizeChange = (value: number[]) => {
     const newEffectSize = value[0] / 100;
@@ -184,6 +179,7 @@ export default function SampleSizeCalculator({
               step={0.5}
             />
           </div>
+
           <div className="mt-4 p-4 bg-muted rounded-lg">
             <h4 className="font-medium mb-2">Current Study Parameters:</h4>
             <ul className="space-y-1 text-sm text-muted-foreground">

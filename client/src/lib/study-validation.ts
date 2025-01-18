@@ -88,23 +88,29 @@ export function calculateMinimumSampleSize(params: {
   groups: number;
 }): number {
   // Using more accurate sample size calculation formula
-  const zAlpha = 1.96; // For alpha = 0.05
-  const zBeta = -0.84; // For power = 0.80
+  let zAlpha = 1.96; // For alpha = 0.05
+  let zBeta = -0.84; // For power = 0.80
 
   // Adjust z-scores based on input parameters
   if (params.alpha !== 0.05) {
     // Approximate z-scores for different alpha levels
-    if (params.alpha === 0.01) zAlpha = 2.576;
-    else if (params.alpha === 0.1) zAlpha = 1.645;
+    if (params.alpha === 0.01) {
+      zAlpha = 2.576;
+    } else if (params.alpha === 0.1) {
+      zAlpha = 1.645;
+    }
   }
 
   if (params.power !== 0.8) {
     // Approximate z-scores for different power levels
-    if (params.power === 0.9) zBeta = -1.28;
-    else if (params.power === 0.95) zBeta = -1.645;
+    if (params.power === 0.9) {
+      zBeta = -1.28;
+    } else if (params.power === 0.95) {
+      zBeta = -1.645;
+    }
   }
 
-  // Calculate sample size per group
+  // Calculate sample size per group using improved formula
   const minPerGroup = Math.ceil(
     2 * Math.pow((zAlpha - zBeta) / params.effectSize, 2)
   );
