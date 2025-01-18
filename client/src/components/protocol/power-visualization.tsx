@@ -54,12 +54,12 @@ export default function PowerVisualization({
           </div>
           <div className="text-sm text-muted-foreground flex items-center justify-center gap-1">
             Statistical Power
-            <TooltipProvider>
+            <TooltipProvider delayDuration={0}>
               <UITooltip>
                 <TooltipTrigger>
                   <Info className="h-4 w-4" />
                 </TooltipTrigger>
-                <TooltipContent className="max-w-sm">
+                <TooltipContent side="bottom" align="center" className="max-w-xs">
                   <p>Statistical power is the probability of detecting a true effect when it exists.</p>
                   <ul className="list-disc list-inside mt-2 text-sm">
                     <li>≥80%: Good power</li>
@@ -72,31 +72,14 @@ export default function PowerVisualization({
           </div>
         </div>
         <div className="text-center">
-          <div className="text-2xl font-bold">
+          <div className="text-2xl font-bold flex items-center justify-center gap-2">
             {(effectSize * 100).toFixed(1)}%
-            {confidenceInterval && (
-              <TooltipProvider>
-                <UITooltip>
-                  <TooltipTrigger className="ml-1">
-                    <Info className="h-4 w-4 inline-block text-muted-foreground" />
-                  </TooltipTrigger>
-                  <TooltipContent className="max-w-sm">
-                    <p>95% Confidence Interval:</p>
-                    <p>{(confidenceInterval.lower * 100).toFixed(1)}% - {(confidenceInterval.upper * 100).toFixed(1)}%</p>
-                    <p className="mt-2 text-sm">This means we are 95% confident that the true effect size falls within this range.</p>
-                  </TooltipContent>
-                </UITooltip>
-              </TooltipProvider>
-            )}
-          </div>
-          <div className="text-sm text-muted-foreground flex items-center justify-center gap-1">
-            Effect Size
-            <TooltipProvider>
+            <TooltipProvider delayDuration={0}>
               <UITooltip>
                 <TooltipTrigger>
-                  <Info className="h-4 w-4" />
+                  <Info className="h-4 w-4 text-muted-foreground" />
                 </TooltipTrigger>
-                <TooltipContent className="max-w-sm">
+                <TooltipContent side="bottom" align="center" className="max-w-xs">
                   <p>Effect size indicates the magnitude of the intervention's impact:</p>
                   <ul className="list-disc list-inside mt-2 text-sm">
                     <li>20%: Small effect</li>
@@ -106,7 +89,22 @@ export default function PowerVisualization({
                 </TooltipContent>
               </UITooltip>
             </TooltipProvider>
+            {confidenceInterval && (
+              <TooltipProvider delayDuration={0}>
+                <UITooltip>
+                  <TooltipTrigger>
+                    <span className="text-sm text-muted-foreground">(±{((confidenceInterval.upper - confidenceInterval.lower) * 50).toFixed(1)}%)</span>
+                  </TooltipTrigger>
+                  <TooltipContent side="bottom" align="center" className="max-w-xs">
+                    <p>95% Confidence Interval:</p>
+                    <p>{(confidenceInterval.lower * 100).toFixed(1)}% - {(confidenceInterval.upper * 100).toFixed(1)}%</p>
+                    <p className="mt-2 text-sm">This means we are 95% confident that the true effect size falls within this range.</p>
+                  </TooltipContent>
+                </UITooltip>
+              </TooltipProvider>
+            )}
           </div>
+          <div className="text-sm text-muted-foreground">Effect Size</div>
         </div>
         <div className="text-center">
           <div className="text-2xl font-bold">
@@ -114,12 +112,12 @@ export default function PowerVisualization({
           </div>
           <div className="text-sm text-muted-foreground flex items-center justify-center gap-1">
             Sample Size
-            <TooltipProvider>
+            <TooltipProvider delayDuration={0}>
               <UITooltip>
                 <TooltipTrigger>
                   <Info className="h-4 w-4" />
                 </TooltipTrigger>
-                <TooltipContent className="max-w-sm">
+                <TooltipContent side="bottom" align="center" className="max-w-xs">
                   <p>The number of participants needed depends on:</p>
                   <ul className="list-disc list-inside mt-2 text-sm">
                     <li>Desired statistical power</li>
