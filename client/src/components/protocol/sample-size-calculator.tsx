@@ -8,12 +8,14 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import { Info } from "lucide-react";
+import { calculateMinimumSampleSize } from "@/lib/study-validation";
 
 interface SampleSizeCalculatorProps {
   onCalculate: (params: {
     effectSize: number;
     power: number;
     alpha: number;
+    calculatedSampleSize: number;
   }) => void;
   currentSampleSize: number;
 }
@@ -25,16 +27,24 @@ export default function SampleSizeCalculator({ onCalculate, currentSampleSize }:
 
   // Update calculations whenever any parameter changes
   useEffect(() => {
-    handleChange();
-  }, [effectSize, desiredPower, alpha]);
-
-  const handleChange = () => {
-    onCalculate({
+    const params = {
       effectSize,
       power: desiredPower,
       alpha,
+    };
+
+    // Calculate new minimum sample size
+    const newMinSampleSize = calculateMinimumSampleSize({
+      ...params,
+      groups: 2 // Assuming RCT by default
     });
-  };
+
+    // Pass both parameters and calculated size up
+    onCalculate({
+      ...params,
+      calculatedSampleSize: newMinSampleSize
+    });
+  }, [effectSize, desiredPower, alpha, onCalculate]);
 
   return (
     <Card>
@@ -153,7 +163,6 @@ export default function SampleSizeCalculator({ onCalculate, currentSampleSize }:
               step={0.5}
             />
           </div>
-
           <div className="mt-4 p-4 bg-muted rounded-lg">
             <h4 className="font-medium mb-2">Current Study Parameters:</h4>
             <ul className="space-y-1 text-sm text-muted-foreground">

@@ -8,7 +8,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import SampleSizeCalculator from "./sample-size-calculator";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 interface PowerVisualizationProps {
   power: number;
@@ -25,6 +25,7 @@ interface PowerVisualizationProps {
     effectSize: number;
     power: number;
     alpha: number;
+    calculatedSampleSize: number;
   }) => void;
 }
 
@@ -38,20 +39,26 @@ export default function PowerVisualization({
   confidenceInterval,
   onUpdateParameters
 }: PowerVisualizationProps) {
+  const [currentSampleSize, setCurrentSampleSize] = useState(sampleSize);
+
+  useEffect(() => {
+    setCurrentSampleSize(sampleSize);
+  }, [sampleSize]);
+
   const powerColor = power >= 0.8 
     ? "rgb(34, 197, 94)" // green-500
     : power >= 0.6 
     ? "rgb(234, 179, 8)" // yellow-500
     : "rgb(239, 68, 68)"; // red-500
 
-  const handleCalculatorUpdate = async (params: {
+  const handleCalculatorUpdate = (params: {
     effectSize: number;
     power: number;
     alpha: number;
+    calculatedSampleSize: number;
   }) => {
-    if (onUpdateParameters) {
-      onUpdateParameters(params);
-    }
+    setCurrentSampleSize(params.calculatedSampleSize);
+    onUpdateParameters(params);
   };
 
   return (
@@ -116,9 +123,15 @@ export default function PowerVisualization({
           <div className="text-sm text-muted-foreground">Effect Size</div>
         </div>
         <div className="text-center">
-          <div className="text-2xl font-bold">
-            {sampleSize}
-          </div>
+          <motion.div 
+            className="text-2xl font-bold"
+            key={currentSampleSize}
+            initial={{ scale: 0.9 }}
+            animate={{ scale: 1 }}
+            transition={{ duration: 0.3 }}
+          >
+            {currentSampleSize}
+          </motion.div>
           <div className="text-sm text-muted-foreground flex items-center justify-center gap-1">
             Sample Size
             <TooltipProvider delayDuration={0}>
@@ -175,7 +188,7 @@ export default function PowerVisualization({
       <div className="mt-6">
         <SampleSizeCalculator
           onCalculate={handleCalculatorUpdate}
-          currentSampleSize={sampleSize}
+          currentSampleSize={currentSampleSize}
         />
       </div>
 
@@ -195,11 +208,11 @@ export default function PowerVisualization({
         <div className="text-sm space-y-2">
           <h4 className="font-medium">Study Design Recommendations:</h4>
           <ul className="list-disc list-inside space-y-1 text-muted-foreground">
-            {sampleSize < recommendedSize && (
+            {currentSampleSize < recommendedSize && (
               <li>Consider increasing your sample size to {recommendedSize} participants to achieve adequate power</li>
             )}
             <li>Your current design can detect effects of {(effectSize * 100).toFixed(1)}% or larger</li>
-            <li>With {sampleSize} participants, you have {(power * 100).toFixed(1)}% power to detect the specified effect</li>
+            <li>With {currentSampleSize} participants, you have {(power * 100).toFixed(1)}% power to detect the specified effect</li>
             {confidenceInterval && (
               <li>Your confidence interval width is {((confidenceInterval.upper - confidenceInterval.lower) * 100).toFixed(1)}% - {
                 confidenceInterval.upper - confidenceInterval.lower > 0.3 
