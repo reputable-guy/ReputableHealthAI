@@ -21,78 +21,69 @@ export function registerRoutes(app: Express): Server {
       console.log("Generating protocol with data:", setupData);
 
       const prompt = `
-Based on these initial details:
+Generate a comprehensive research protocol based on these initial details:
 
 Product Name: ${setupData.productName}
 Website: ${setupData.websiteUrl || 'N/A'}
 Study Goal: ${setupData.studyGoal}
 
-Generate a protocol in valid JSON format with the following EXACT structure (ensure it's valid JSON):
+Generate a protocol in valid JSON format with the following structure (ensure all fields are included and populated with realistic values):
 
 {
-  "studyCategory": "string",  // One of: Sleep, Stress, Recovery, Cognition, Metabolic Health, Women's Health, Other
-  "experimentTitle": "string",  // A participant-facing title
-  "studyObjective": "string",  // The main hypothesis
-  "studyType": "string",  // Either "Real-World Evidence" or "Randomized Controlled Trial"
-  "participantCount": number,  // Based on power analysis
-  "durationWeeks": number,
-  "targetMetrics": [  // Array of specific metrics from wearables
-    "string"
-  ],
-  "questionnaires": [  // Array of validated questionnaires
-    "string"
-  ],
-  "studySummary": "string",  // One-line summary for participants
-  "participantInstructions": [  // Array of instruction steps
-    "string"
-  ],
-  "safetyPrecautions": [  // Array of safety guidelines
-    "string"
-  ],
-  "educationalResources": [  // Array of relevant scientific resources
+  "studyCategory": string,  // One of: Sleep, Stress, Recovery, Cognition, Metabolic Health, Women's Health, Other
+  "experimentTitle": string,  // Participant-facing title describing the study
+  "studyObjective": string,  // Clear hypothesis reflecting the product's intended effect
+  "studyType": string,  // "Real-World Evidence" or "Randomized Controlled Trial"
+  "participantCount": number,  // Based on power analysis for statistical significance
+  "durationWeeks": number,  // Recommended timeline for the product category
+  "targetMetrics": string[],  // Specific metrics from wearables (e.g., REM Sleep, Deep Sleep)
+  "questionnaires": string[],  // Validated surveys specific to the study category
+  "studySummary": string,  // One-line summary describing the study to participants
+  "participantInstructions": string[],  // Detailed, step-by-step instructions
+  "safetyPrecautions": string[],  // Clear safety guidelines
+  "educationalResources": [  // Scientific context without brand bias
     {
-      "title": "string",
-      "description": "string",
-      "type": "string"  // e.g., "research_paper", "clinical_guidelines"
+      "title": string,
+      "description": string,
+      "type": string  // e.g., "research_paper", "clinical_guidelines"
     }
   ],
-  "consentFormSections": [  // Key sections of the consent form
+  "consentFormSections": [  // Customized consent form sections
     {
-      "title": "string",
-      "content": "string"
+      "title": string,
+      "content": string
     }
   ],
-  "customFactors": [  // Array of life events to track
-    "string"
-  ],
+  "customFactors": string[],  // Life events that may impact outcomes
   "eligibilityCriteria": {
-    "wearableData": [  // Specific wearable data requirements
+    "wearableData": [  // Requirements based on wearable data
       {
-        "metric": "string",
-        "condition": "string",
-        "value": "string"
+        "metric": string,
+        "condition": string,
+        "value": string
       }
     ],
-    "demographics": [  // Demographic requirements
+    "demographics": [  // Target demographic requirements
       {
-        "category": "string",
-        "requirement": "string"
+        "category": string,
+        "requirement": string
       }
     ],
-    "customQuestions": [  // Screening questions
-      "string"
-    ]
+    "customQuestions": string[]  // Screening questions
   }
 }
 
-Important: 
+Important guidelines:
 1. Response must be ONLY the JSON object with no additional text
-2. Ensure all arrays have at least one item
-3. Make the protocol scientifically rigorous but practical for wellness brands
-4. Include relevant wearable metrics specific to the study category
-5. Base participant count on statistical power analysis
-6. Include validated questionnaires specific to the category
-7. Generate realistic values for all fields, not placeholder text`;
+2. Make all fields scientifically rigorous but practical for wellness brands
+3. Include relevant wearable metrics specific to the study category
+4. Base participant count on power analysis
+5. Include validated questionnaires specific to the study category
+6. Generate realistic values for all fields, not placeholder text
+7. Ensure safety precautions are comprehensive and product-specific
+8. Educational resources should be relevant but not brand-specific
+9. Custom factors should be specific to the product and study category
+10. Eligibility criteria should be precise and measurable`;
 
       console.log("Sending request to OpenAI...");
       const completion = await openai.chat.completions.create({
@@ -100,14 +91,15 @@ Important:
         messages: [
           {
             role: "system",
-            content: "You are an expert clinical research advisor specializing in wellness product studies. You must respond with only valid JSON data structured exactly as requested, with no additional text or explanations."
+            content: "You are an expert clinical research advisor specializing in wellness product studies. Generate comprehensive, scientifically-sound protocols that are practical for wellness brands. Respond with only valid JSON data structured exactly as requested."
           },
           {
             role: "user",
             content: prompt
           }
         ],
-        temperature: 0.7
+        temperature: 0.7,
+        max_tokens: 2000
       });
 
       if (!completion.choices[0].message.content) {
