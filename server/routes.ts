@@ -1,5 +1,11 @@
 import type { Router } from "express";
 import { ragService } from "./services/rag-service";
+import OpenAI from "openai";
+
+// Initialize OpenAI
+const openai = new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY
+});
 
 // Wrapper to ensure all route handlers return JSON
 const asyncHandler = (fn: Function) => (req: any, res: any, next: any) => {
@@ -37,7 +43,7 @@ export function registerRoutes(router: Router): void {
          });
     }
 
-    // Generate hypotheses using the RAG service
+    // Generate hypotheses using the RAG service and OpenAI
     const categories = ["Sleep", "Stress", "Recovery", "Cognition", "Metabolic Health"];
     const hypotheses = await Promise.all(
       categories.map(async (category, index) => {
@@ -49,14 +55,43 @@ export function registerRoutes(router: Router): void {
         const relevantDocs = await ragService.queryRelevantDocuments(prompt, category.toLowerCase());
         const context = relevantDocs.join("\n");
 
-        // Generate hypothesis with supporting rationale
+        // Use OpenAI to generate creative hypothesis
+        const completion = await openai.chat.completions.create({
+          model: "gpt-4",
+          messages: [
+            {
+              role: "system",
+              content: `You are a research scientist specializing in wellness studies. 
+                Based on the provided context from relevant studies, generate a specific, 
+                testable hypothesis about the effects of the given wellness product.
+
+                Context from relevant studies:
+                ${context}
+
+                Generate a hypothesis that is:
+                1. Specific and testable
+                2. Based on scientific evidence
+                3. Relevant to the product and category
+                4. Includes a clear mechanism of action`
+            },
+            {
+              role: "user",
+              content: prompt
+            }
+          ]
+        });
+
+        const hypothesis = completion.choices[0].message.content || 
+          `Regular use of ${productName} will improve ${category.toLowerCase()} metrics in healthy adults`;
+
+        // Calculate confidence score based on relevance
         const confidenceScore = relevantDocs.length > 0 ? 0.7 + Math.random() * 0.3 : 0.5 + Math.random() * 0.3;
 
         return {
           id: index + 1,
           category,
-          statement: `Regular use of ${productName} will improve ${category.toLowerCase()} metrics in healthy adults`,
-          rationale: `Based on analysis of similar wellness interventions and existing research evidence`,
+          statement: hypothesis,
+          rationale: `Based on analysis of ${relevantDocs.length} relevant studies and scientific evidence in ${category.toLowerCase()}`,
           confidenceScore
         };
       })
@@ -87,80 +122,23 @@ export function registerRoutes(router: Router): void {
       selectedHypothesis
     );
 
-    // For now, return a basic protocol structure
-    // This will be enhanced with AI-generated content in future iterations
-    const protocol = {
-      studyCategory,
-      experimentTitle: `Effects of ${productName} on ${studyCategory.toLowerCase()} metrics`,
-      studyObjective: selectedHypothesis,
-      studyType: "Real-World Evidence",
-      participantCount: 30,
-      durationWeeks: 8,
-      targetMetrics: [
-        "Sleep Quality Score",
-        "Total Sleep Time",
-        "Sleep Latency",
-        "Sleep Efficiency"
-      ],
-      questionnaires: [
-        "Pittsburgh Sleep Quality Index (PSQI)",
-        "Insomnia Severity Index (ISI)",
-        "Sleep Hygiene Index (SHI)"
-      ],
-      studySummary: `This study aims to evaluate the effects of ${productName} on ${studyCategory.toLowerCase()} metrics in healthy adults.`,
-      participantInstructions: [
-        "Complete daily sleep logs",
-        "Wear sleep tracking device throughout the study",
-        "Take product as directed",
-        "Complete weekly questionnaires"
-      ],
-      safetyPrecautions: [
-        "Report any adverse effects immediately",
-        "Maintain regular sleep schedule",
-        "Avoid caffeine 6 hours before bedtime"
-      ],
-      educationalResources: [
+    // Use OpenAI to generate the protocol based on the contextual prompt
+    const completion = await openai.chat.completions.create({
+      model: "gpt-4",
+      messages: [
         {
-          title: "Sleep Hygiene Guide",
-          description: "Best practices for optimal sleep",
-          type: "PDF Guide"
-        }
-      ],
-      consentFormSections: [
-        {
-          title: "Study Overview",
-          content: `This study examines the effects of ${productName} on sleep metrics.`
+          role: "system",
+          content: "You are an expert in research protocol design. Generate a comprehensive research protocol based on the provided context and requirements. The response must be valid JSON matching the specified structure."
         },
         {
-          title: "Risks and Benefits",
-          content: "Participation involves minimal risk."
+          role: "user",
+          content: contextualPrompt
         }
       ],
-      customFactors: [
-        "Caffeine intake",
-        "Exercise timing",
-        "Screen time before bed"
-      ],
-      eligibilityCriteria: {
-        wearableData: [
-          {
-            metric: "Average Sleep Duration",
-            condition: "less than",
-            value: "7 hours"
-          }
-        ],
-        demographics: [
-          {
-            category: "Age",
-            requirement: "21-65 years"
-          }
-        ],
-        customQuestions: [
-          "Do you have any diagnosed sleep disorders?",
-          "Are you currently taking any sleep medications?"
-        ]
-      }
-    };
+      response_format: { type: "json_object" }
+    });
+
+    const protocol = JSON.parse(completion.choices[0].message.content);
 
     res.setHeader('Content-Type', 'application/json')
        .json(protocol);
