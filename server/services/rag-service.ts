@@ -22,6 +22,8 @@ class RAGService {
   private embeddings: OpenAIEmbeddings | null = null;
   private readonly indexName = "protocol-references";
   private initialized = false;
+  private readonly maxRetries = 3;
+  private readonly retryDelay = 5000;
 
   constructor() {
     this.initializeServices().catch(console.error);
@@ -34,6 +36,8 @@ class RAGService {
     }
 
     try {
+      console.log("Initializing RAG service...");
+
       this.pinecone = new Pinecone({
         apiKey: process.env.PINECONE_API_KEY
       });
@@ -60,12 +64,21 @@ class RAGService {
           }
         });
 
-        // Wait for index to be ready
-        let indexStatus = await this.pinecone.describeIndex(this.indexName);
-        while (indexStatus.status?.ready === false) {
+        // Wait for index to be ready with timeout
+        let attempts = 0;
+        const maxAttempts = 12; // 1 minute total
+        while (attempts < maxAttempts) {
+          const indexStatus = await this.pinecone.describeIndex(this.indexName);
+          if (indexStatus.status?.ready) {
+            break;
+          }
           console.log('Waiting for index to be ready...');
           await new Promise(resolve => setTimeout(resolve, 5000));
-          indexStatus = await this.pinecone.describeIndex(this.indexName);
+          attempts++;
+        }
+
+        if (attempts === maxAttempts) {
+          throw new Error("Timeout waiting for Pinecone index to be ready");
         }
       }
 
@@ -77,6 +90,8 @@ class RAGService {
     } catch (error) {
       console.error("Failed to initialize RAG service:", error);
       this.initialized = false;
+      // Attempt to recover from initialization failure
+      setTimeout(() => this.initializeServices(), this.retryDelay);
     }
   }
 
@@ -157,14 +172,50 @@ class RAGService {
               lastUpdated: "2024-01-18",
               source: "Journal of Sleep Research"
             }
+          },
+          {
+            id: "study-002",
+            type: "past_study",
+            title: "Impact of Plant-Based Recovery Supplements on Exercise Performance",
+            content: readFileSync(join(__dirname, '../data/past_studies/exercise_recovery.txt'), 'utf-8'),
+            metadata: {
+              category: "exercise",
+              lastUpdated: "2024-01-18",
+              source: "Journal of Sports Science"
+            }
+          },
+          {
+            id: "study-003",
+            type: "past_study",
+            title: "Effects of Digital Mindfulness Program on Chronic Stress Management",
+            content: readFileSync(join(__dirname, '../data/past_studies/mindfulness_stress.txt'), 'utf-8'),
+            metadata: {
+              category: "stress",
+              lastUpdated: "2024-01-18",
+              source: "Journal of Behavioral Medicine"
+            }
           }
         ];
 
-        // Index all documents
+        // Index all documents with retry logic
         const allDocuments = [...fdaGuidelines, ...studyTemplates, ...pastStudies];
         for (const doc of allDocuments) {
-          await this.indexDocument(doc);
-          console.log(`Indexed document: ${doc.title}`);
+          let retries = 0;
+          while (retries < this.maxRetries) {
+            try {
+              await this.indexDocument(doc);
+              console.log(`Successfully indexed document: ${doc.title}`);
+              break;
+            } catch (error) {
+              retries++;
+              if (retries === this.maxRetries) {
+                console.error(`Failed to index document ${doc.title} after ${this.maxRetries} attempts:`, error);
+                throw error;
+              }
+              console.log(`Retry ${retries}/${this.maxRetries} for document ${doc.title}`);
+              await new Promise(resolve => setTimeout(resolve, this.retryDelay));
+            }
+          }
         }
 
         console.log(`Successfully loaded ${allDocuments.length} reference documents`);
@@ -173,6 +224,7 @@ class RAGService {
       }
     } catch (error) {
       console.error("Failed to load initial data:", error);
+      throw error;
     }
   }
 
@@ -247,14 +299,16 @@ class RAGService {
     hypothesis: string
   ): Promise<string> {
     try {
+      console.log(`Generating contextual prompt for ${productName} in category: ${category}`);
+
       const relevantDocs = await this.queryRelevantDocuments(
         `${productName} ${hypothesis}`,
-        category
+        category.toLowerCase()
       );
 
       const contextContent = relevantDocs.length > 0
-        ? relevantDocs.join("\n\n")
-        : "No relevant reference materials found.";
+        ? `Based on analysis of ${relevantDocs.length} relevant studies and guidelines:\n\n${relevantDocs.join("\n\n")}`
+        : "No relevant reference materials found. Following general best practices for study design.";
 
       return `
 Based on the following reference materials from FDA guidelines, study templates, and past research:
@@ -312,11 +366,16 @@ Provide the response in valid JSON format with the following structure:
   }
 }
 
-The protocol should incorporate best practices and guidelines from the reference materials while being specifically tailored to this study.
+The protocol should incorporate best practices and guidelines from the reference materials while being specifically tailored to this study. Consider:
+1. Statistical power for participant count
+2. Study duration based on similar successful studies
+3. Relevant biomarkers and metrics for the category
+4. Category-specific safety considerations
+5. Appropriate questionnaires and assessments
 `;
     } catch (error) {
       console.error("Failed to generate contextual prompt:", error);
-      // Fallback prompt remains unchanged
+      // Provide a simplified fallback prompt
       return `
 Generate a comprehensive research protocol for the following in JSON format:
 
