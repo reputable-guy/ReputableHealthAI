@@ -3,6 +3,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { useToast } from "@/hooks/use-toast";
 import { Loader2 } from "lucide-react";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
+import { Progress } from "@/components/ui/progress";
 
 interface Hypothesis {
   id: number;
@@ -62,6 +63,13 @@ export default function HypothesisSelector({
     generateHypotheses();
   }, [productName, websiteUrl]); // Re-run if product name or website changes
 
+  const getConfidenceColor = (score: number) => {
+    if (score >= 0.8) return "bg-green-500";
+    if (score >= 0.6) return "bg-blue-500";
+    if (score >= 0.4) return "bg-yellow-500";
+    return "bg-red-500";
+  };
+
   if (loading) {
     return (
       <div className="flex flex-col items-center justify-center space-y-4 p-8">
@@ -101,9 +109,20 @@ export default function HypothesisSelector({
                     <span className="text-sm font-medium text-muted-foreground">
                       {hypothesis.category}
                     </span>
-                    <span className="text-sm text-muted-foreground">
-                      Confidence: {Math.round(hypothesis.confidenceScore * 100)}%
-                    </span>
+                    <div className="flex items-center gap-2">
+                      <div className="text-sm text-muted-foreground">
+                        Confidence Score:
+                      </div>
+                      <div className="w-32 flex items-center gap-2">
+                        <Progress 
+                          value={hypothesis.confidenceScore * 100} 
+                          className={`${getConfidenceColor(hypothesis.confidenceScore)}`}
+                        />
+                        <span className="text-sm font-medium min-w-[3ch]">
+                          {Math.round(hypothesis.confidenceScore * 100)}%
+                        </span>
+                      </div>
+                    </div>
                   </div>
                   <p className="font-medium">{hypothesis.statement}</p>
                   <p className="text-sm text-muted-foreground">{hypothesis.rationale}</p>
