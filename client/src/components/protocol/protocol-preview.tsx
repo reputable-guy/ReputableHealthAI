@@ -126,10 +126,6 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
     }
   });
 
-  const ValidationResults = () => {
-    //This function is not used anymore, removed.
-    return null;
-  };
 
   return (
     <div className="space-y-6 max-w-4xl mx-auto">
@@ -144,7 +140,7 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
       </div>
 
       {/* Quick Stats Section */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
         <Card>
           <CardContent className="pt-6">
             <div className="text-center">
@@ -157,8 +153,8 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         <Card className="relative">
           <CardContent className="pt-6">
             <div className="text-center space-y-2">
-              <p className="text-sm text-muted-foreground mb-1">Participants</p>
-              <p className="text-2xl font-semibold">{protocolData.participantCount}</p>
+              <p className="text-sm text-muted-foreground mb-1">Statistical Design</p>
+              <p className="text-2xl font-semibold">{protocolData.participantCount} participants</p>
               {validationResults && (
                 <>
                   <div className="mt-2 flex items-center justify-center gap-2">
@@ -171,15 +167,15 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
                             : "text-red-600"
                       }`}
                     >
-                      {(validationResults.statisticalPower * 100).toFixed(1)}% Power
+                      {(validationResults.statisticalPower * 100).toFixed(1)}% Statistical Power
                     </div>
                     <Dialog>
                       <DialogTrigger asChild>
                         <Button variant="ghost" size="sm" className="h-6 px-2">
-                          <Info className="h-4 w-4" />
+                          View Analysis
                         </Button>
                       </DialogTrigger>
-                      <DialogContent className="max-w-3xl">
+                      <DialogContent className="max-w-3xl max-h-[90vh] overflow-y-auto">
                         <DialogHeader>
                           <DialogTitle>Statistical Power Analysis</DialogTitle>
                         </DialogHeader>
@@ -194,27 +190,19 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
                       </DialogContent>
                     </Dialog>
                   </div>
-                  {validationResults.statisticalPower < 0.8 && (
-                    <p className="text-sm text-muted-foreground">
-                      Recommended: {validationResults.minimumSampleSize} participants
-                    </p>
-                  )}
+                  <div className="mt-2 text-sm text-muted-foreground">
+                    <p>Effect Size: {((validationResults.effectSize || 0.5) * 100).toFixed(1)}%</p>
+                    {validationResults.statisticalPower < 0.8 && (
+                      <p className="text-yellow-600">
+                        Recommended: {validationResults.minimumSampleSize} participants
+                      </p>
+                    )}
+                  </div>
                 </>
               )}
             </div>
           </CardContent>
         </Card>
-
-        {protocolData.studyGoal && (
-          <Card>
-            <CardContent className="pt-6">
-              <div className="text-center">
-                <p className="text-sm text-muted-foreground mb-1">Study Goal</p>
-                <p className="text-2xl font-semibold capitalize">{protocolData.studyGoal}</p>
-              </div>
-            </CardContent>
-          </Card>
-        )}
       </div>
 
       {/* Study Details Section */}

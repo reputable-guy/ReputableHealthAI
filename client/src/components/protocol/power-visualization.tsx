@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ReferenceLine } from "recharts";
 import { Info } from "lucide-react";
+
 interface PowerVisualizationProps {
   power: number;
   sampleSize: number;
@@ -25,9 +26,9 @@ export default function PowerVisualization({
     : "rgb(239, 68, 68)"; // red-500
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 p-4">
       {/* Key Metrics */}
-      <div className="grid grid-cols-3 gap-4">
+      <div className="grid grid-cols-2 gap-4"> {/* Changed to grid-cols-2 */}
         <div className="text-center">
           <div className="text-2xl font-bold" style={{ color: powerColor }}>
             {(power * 100).toFixed(1)}%
@@ -39,12 +40,6 @@ export default function PowerVisualization({
             {(effectSize * 100).toFixed(1)}%
           </div>
           <div className="text-sm text-muted-foreground">Effect Size</div>
-        </div>
-        <div className="text-center">
-          <div className="text-2xl font-bold">
-            {(confidence * 100).toFixed(1)}%
-          </div>
-          <div className="text-sm text-muted-foreground">Confidence</div>
         </div>
       </div>
 
@@ -82,7 +77,7 @@ export default function PowerVisualization({
       </div>
 
       {/* Educational Information */}
-      <div className="space-y-4">
+      <div className="space-y-4 max-w-3xl mx-auto">
         <div className="text-sm space-y-2">
           <h4 className="font-medium">Understanding the Power Analysis:</h4>
           <ul className="list-disc list-inside space-y-1 text-muted-foreground">
