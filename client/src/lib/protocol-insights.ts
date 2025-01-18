@@ -34,7 +34,6 @@ Generate a complete study protocol including:
 
 Format the response as a JSON object matching this TypeScript type:
 {
-  ...setupData,
   studyCategory: string,
   experimentTitle: string,
   studyObjective: string,
@@ -70,13 +69,27 @@ Ensure the protocol design follows scientific best practices and is appropriate 
       temperature: 0.7
     });
 
-    const protocolData = JSON.parse(response.choices[0].message.content);
+    if (!response.choices[0].message.content) {
+      throw new Error("No response content received from OpenAI");
+    }
+
+    const generatedProtocol = JSON.parse(response.choices[0].message.content);
     return {
       ...setupData,
-      ...protocolData
+      ...generatedProtocol
     } as ProtocolData;
   } catch (error: any) {
     console.error("Failed to generate protocol:", error);
+
+    // Handle specific OpenAI API errors
+    if (error.status === 429) {
+      throw new Error("OpenAI API rate limit exceeded. Please try again in a few minutes.");
+    } else if (error.status === 401) {
+      throw new Error("Invalid OpenAI API key. Please check your API key configuration.");
+    } else if (error.message.includes("JSON")) {
+      throw new Error("Invalid response format from OpenAI. Please try again.");
+    }
+
     throw new Error(`Failed to generate protocol: ${error.message}`);
   }
 }

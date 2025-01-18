@@ -4,6 +4,9 @@ import StudySetupForm from "@/components/protocol/study-setup-form";
 import ProtocolPreview from "@/components/protocol/protocol-preview";
 import { generateProtocolInsights } from "@/lib/protocol-insights";
 import { useToast } from "@/hooks/use-toast";
+import { AlertCircle } from "lucide-react";
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
+import { Button } from "@/components/ui/button";
 
 export type ProtocolData = {
   productName: string;
@@ -26,19 +29,28 @@ export type ProtocolData = {
 
 export default function ProtocolDesigner() {
   const [protocolData, setProtocolData] = useState<Partial<ProtocolData>>();
+  const [error, setError] = useState<string | null>(null);
   const { toast } = useToast();
 
   const handleSetupComplete = async (setupData: Partial<ProtocolData>) => {
+    setError(null);
     try {
       const fullProtocol = await generateProtocolInsights(setupData);
       setProtocolData(fullProtocol);
-    } catch (error) {
+    } catch (error: any) {
+      const errorMessage = error.message || "Failed to generate protocol. Please try again.";
+      setError(errorMessage);
       toast({
         title: "Error",
-        description: "Failed to generate protocol. Please try again.",
+        description: errorMessage,
         variant: "destructive",
       });
     }
+  };
+
+  const handleRetry = () => {
+    setError(null);
+    setProtocolData(undefined);
   };
 
   return (
@@ -46,7 +58,18 @@ export default function ProtocolDesigner() {
       <div className="container mx-auto px-4">
         <Card className="max-w-4xl mx-auto">
           <div className="p-6">
-            {!protocolData ? (
+            {error ? (
+              <div className="space-y-4">
+                <Alert variant="destructive">
+                  <AlertCircle className="h-4 w-4" />
+                  <AlertTitle>Error</AlertTitle>
+                  <AlertDescription>{error}</AlertDescription>
+                </Alert>
+                <Button onClick={handleRetry} className="w-full">
+                  Try Again
+                </Button>
+              </div>
+            ) : !protocolData ? (
               <StudySetupForm onComplete={handleSetupComplete} />
             ) : (
               <ProtocolPreview protocolData={protocolData} />
