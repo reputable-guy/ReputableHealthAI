@@ -121,6 +121,10 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
   const ValidationResults = () => {
     if (!validationResults) return null;
 
+    const powerCurve = validationResults.powerCurve || [];
+    const effectSize = validationResults.effectSize || 0.5;
+    const confidence = validationResults.confidence || 0.8;
+
     return (
       <Card className="mb-6 border-2 border-primary/20">
         <CardHeader>
@@ -137,6 +141,9 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
                 power={validationResults.statisticalPower}
                 sampleSize={protocolData.participantCount || 0}
                 recommendedSize={validationResults.minimumSampleSize}
+                effectSize={effectSize}
+                confidence={confidence}
+                powerCurve={powerCurve}
               />
             </div>
 

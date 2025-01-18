@@ -31,6 +31,9 @@ export interface ValidationResult {
   suggestions: string[];
   statisticalPower: number;
   minimumSampleSize: number;
+  effectSize: number;
+  confidence: number;
+  powerCurve: Array<{ sampleSize: number; power: number }>;
   regulatoryFlags: RegulationFlag[];
 }
 
@@ -46,21 +49,46 @@ interface RegulationFlag {
   severity: 'high' | 'medium' | 'low';
 }
 
+function generatePowerCurve({ effectSize, alpha, maxSampleSize }: { effectSize: number; alpha: number; maxSampleSize: number }): Array<{ sampleSize: number; power: number }> {
+  const curve = [];
+  for (let sampleSize = 1; sampleSize <= maxSampleSize; sampleSize++) {
+    const power = calculateStatisticalPower({ sampleSize, effectSize, alpha });
+    curve.push({ sampleSize, power });
+  }
+  return curve;
+}
+
+function calculateConfidenceLevel({ sampleSize, effectSize, power }: { sampleSize: number; effectSize: number; power: number }): number {
+  //simplified confidence calculation
+  return power * 100;
+}
+
+
 export async function validateStudyDesign(protocol: Partial<ProtocolData>): Promise<ValidationResult> {
   const errors: ValidationError[] = [];
   const suggestions: string[] = [];
   const regulatoryFlags: RegulationFlag[] = [];
-  
-  // Calculate minimum sample size based on power analysis
+
+  // Calculate effect size based on study design
+  const effectSize = 0.5; // Medium effect size
+
+  // Calculate minimum sample size
   const minimumSampleSize = calculateMinimumSampleSize({
-    effectSize: 0.5, // medium effect size
+    effectSize,
     alpha: 0.05,
     power: 0.8,
     groups: protocol.studyType === "Randomized Controlled Trial" ? 2 : 1
   });
 
+  // Generate power curve for visualization
+  const powerCurve = generatePowerCurve({
+    effectSize,
+    alpha: 0.05,
+    maxSampleSize: Math.max(minimumSampleSize * 2, protocol.participantCount || 0)
+  });
+
   // Validate participant count
-  if (protocol.participantCount && protocol.participantCount < minimumSampleSize) {
+  if (!protocol.participantCount || protocol.participantCount < minimumSampleSize) {
     errors.push({
       field: 'participantCount',
       message: `Sample size too small. Minimum recommended: ${minimumSampleSize}`,
@@ -68,26 +96,18 @@ export async function validateStudyDesign(protocol: Partial<ProtocolData>): Prom
     });
   }
 
-  // Check control group design for RCTs
-  if (protocol.studyType === "Randomized Controlled Trial") {
-    if (!protocol.controlGroupDetails) {
-      errors.push({
-        field: 'controlGroup',
-        message: 'Control group details required for RCT',
-        severity: 'error'
-      });
-    }
-  }
-
-  // Regulatory compliance checks
-  const regulatoryIssues = checkRegulatoryCompliance(protocol);
-  regulatoryFlags.push(...regulatoryIssues);
-
   // Calculate statistical power
   const statisticalPower = calculateStatisticalPower({
     sampleSize: protocol.participantCount || 0,
-    effectSize: 0.5,
+    effectSize,
     alpha: 0.05
+  });
+
+  // Calculate confidence level
+  const confidence = calculateConfidenceLevel({
+    sampleSize: protocol.participantCount || 0,
+    effectSize,
+    power: statisticalPower
   });
 
   // Generate suggestions for improvement
@@ -95,12 +115,28 @@ export async function validateStudyDesign(protocol: Partial<ProtocolData>): Prom
     suggestions.push(`Increase sample size to improve statistical power (current: ${(statisticalPower * 100).toFixed(1)}%)`);
   }
 
+  // Check control group design for RCTs
+  if (protocol.studyType === "Randomized Controlled Trial" && !protocol.controlGroup) {
+    errors.push({
+      field: 'controlGroup',
+      message: 'Control group details required for RCT',
+      severity: 'error'
+    });
+  }
+
+  // Regulatory compliance checks
+  const regulatoryIssues = checkRegulatoryCompliance(protocol);
+  regulatoryFlags.push(...regulatoryIssues);
+
   return {
     isValid: errors.filter(e => e.severity === 'error').length === 0,
     errors,
     suggestions,
     statisticalPower,
     minimumSampleSize,
+    effectSize,
+    confidence,
+    powerCurve,
     regulatoryFlags
   };
 }
