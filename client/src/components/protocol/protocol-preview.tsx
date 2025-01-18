@@ -126,7 +126,7 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
             <Shield className="h-5 w-5" />
-            Study Validation Results
+            Power Analysis Results
           </CardTitle>
         </CardHeader>
         <CardContent>
@@ -175,7 +175,7 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
       </div>
 
       {/* Quick Stats Section */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
         <Card>
           <CardContent className="pt-6">
             <div className="text-center">
@@ -192,14 +192,16 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
             </div>
           </CardContent>
         </Card>
-        <Card>
-          <CardContent className="pt-6">
-            <div className="text-center">
-              <p className="text-sm text-muted-foreground mb-1">Study Goal</p>
-              <p className="text-2xl font-semibold capitalize">{protocolData.studyGoal}</p>
-            </div>
-          </CardContent>
-        </Card>
+        {protocolData.studyGoal && (
+          <Card>
+            <CardContent className="pt-6">
+              <div className="text-center">
+                <p className="text-sm text-muted-foreground mb-1">Study Goal</p>
+                <p className="text-2xl font-semibold capitalize">{protocolData.studyGoal}</p>
+              </div>
+            </CardContent>
+          </Card>
+        )}
       </div>
 
       {/* Validation Results Card */}
@@ -212,25 +214,6 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         </CardHeader>
         <CardContent>
           <div className="space-y-6">
-            {/* Product Information */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              <div>
-                <h3 className="font-medium mb-2">Product Details</h3>
-                <div className="space-y-2">
-                  <p className="text-sm"><span className="text-muted-foreground">Name:</span> {protocolData.productName}</p>
-                  {protocolData.websiteUrl && (
-                    <p className="text-sm"><span className="text-muted-foreground">Website:</span> {protocolData.websiteUrl}</p>
-                  )}
-                </div>
-              </div>
-              <div>
-                <h3 className="font-medium mb-2">Study Parameters</h3>
-                <div className="space-y-2">
-                  <p className="text-sm"><span className="text-muted-foreground">Category:</span> {protocolData.studyCategory}</p>
-                  <p className="text-sm"><span className="text-muted-foreground">Type:</span> {protocolData.studyType}</p>
-                </div>
-              </div>
-            </div>
 
             {/* Objective and Summary */}
             <div>
@@ -413,20 +396,6 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
 
       {/* Action Buttons */}
       <div className="flex flex-col gap-3">
-        <Button
-          className="w-full"
-          onClick={() => runValidation.mutate()}
-          disabled={runValidation.isPending}
-        >
-          {runValidation.isPending ? (
-            <>
-              <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-              Validating Study Design...
-            </>
-          ) : (
-            "Validate Study Design"
-          )}
-        </Button>
         <Button
           className="w-full"
           onClick={() => generateInsights.mutate()}
