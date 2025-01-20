@@ -14,12 +14,12 @@ const asyncHandler = (fn: Function) => (req: any, res: any, next: any) => {
     .catch(error => {
       console.error('Route error:', error);
       res.status(500)
-         .setHeader('Content-Type', 'application/json')
-         .json({ 
-           error: true,
-           message: error.message || 'Internal Server Error',
-           status: 500
-         });
+        .setHeader('Content-Type', 'application/json')
+        .json({ 
+          error: true,
+          message: error.message || 'Internal Server Error',
+          status: 500
+        });
     });
 };
 
@@ -36,68 +36,87 @@ export function registerRoutes(router: Router): void {
 
     if (!productName) {
       return res.status(400)
-         .setHeader('Content-Type', 'application/json')
-         .json({ 
-           error: true,
-           message: "Product name is required",
-           status: 400
-         });
+        .json({ 
+          error: true,
+          message: "Product name is required",
+          details: "Please provide a product name to generate hypotheses"
+        });
     }
 
-    // Generate hypotheses using the RAG service and OpenAI
-    const categories = ["Sleep", "Stress", "Recovery", "Cognition", "Metabolic Health"];
-    const hypotheses = await Promise.all(
-      categories.map(async (category, index) => {
-        const prompt = `Based on wellness product "${productName}"${websiteUrl ? ` (${websiteUrl})` : ''}, 
-          generate a research hypothesis for the category: ${category}. 
-          Consider existing studies and scientific evidence in this domain.`;
+    try {
+      // Generate hypotheses using the RAG service and OpenAI
+      const categories = ["Sleep", "Stress", "Recovery", "Cognition", "Metabolic Health"];
+      const hypotheses = await Promise.all(
+        categories.map(async (category, index) => {
+          try {
+            const prompt = `Based on wellness product "${productName}"${websiteUrl ? ` (${websiteUrl})` : ''}, 
+              generate a research hypothesis for the category: ${category}. 
+              Consider existing studies and scientific evidence in this domain.`;
 
-        // Use RAG service to get relevant documents
-        const relevantDocs = await ragService.queryRelevantDocuments(prompt, category.toLowerCase());
-        const context = relevantDocs.join("\n");
+            // Use RAG service to get relevant documents
+            const relevantDocs = await ragService.queryRelevantDocuments(prompt, category.toLowerCase());
+            console.log(`Found ${relevantDocs.length} relevant documents for category ${category}`);
+            const context = relevantDocs.join("\n");
 
-        // Use OpenAI to generate creative hypothesis
-        const completion = await openai.chat.completions.create({
-          model: "gpt-4",
-          messages: [
-            {
-              role: "system",
-              content: `You are a research scientist specializing in wellness studies. 
-                Based on the provided context from relevant studies, generate a specific, 
-                testable hypothesis about the effects of the given wellness product.
-                Context from relevant studies:
-                ${context}
-                Generate a hypothesis that is:
-                1. Specific and testable
-                2. Based on scientific evidence
-                3. Relevant to the product and category
-                4. Includes a clear mechanism of action`
-            },
-            {
-              role: "user",
-              content: prompt
-            }
-          ]
-        });
+            // Use OpenAI to generate creative hypothesis
+            const completion = await openai.chat.completions.create({
+              model: "gpt-4",
+              messages: [
+                {
+                  role: "system",
+                  content: `You are a research scientist specializing in wellness studies. 
+                    Based on the provided context from relevant studies, generate a specific, 
+                    testable hypothesis about the effects of the given wellness product.
+                    Context from relevant studies:
+                    ${context}
+                    Generate a hypothesis that is:
+                    1. Specific and testable
+                    2. Based on scientific evidence
+                    3. Relevant to the product and category
+                    4. Includes a clear mechanism of action`
+                },
+                {
+                  role: "user",
+                  content: prompt
+                }
+              ]
+            });
 
-        const hypothesis = completion.choices[0].message.content || 
-          `Regular use of ${productName} will improve ${category.toLowerCase()} metrics in healthy adults`;
+            const hypothesis = completion.choices[0].message.content || 
+              `Regular use of ${productName} will improve ${category.toLowerCase()} metrics in healthy adults`;
 
-        // Calculate confidence score based on relevance
-        const confidenceScore = relevantDocs.length > 0 ? 0.7 + Math.random() * 0.3 : 0.5 + Math.random() * 0.3;
+            // Calculate confidence score based on relevance
+            const confidenceScore = relevantDocs.length > 0 ? 0.7 + Math.random() * 0.3 : 0.5 + Math.random() * 0.3;
 
-        return {
-          id: index + 1,
-          category,
-          statement: hypothesis,
-          rationale: `Based on analysis of ${relevantDocs.length} relevant studies and scientific evidence in ${category.toLowerCase()}`,
-          confidenceScore
-        };
-      })
-    );
+            return {
+              id: index + 1,
+              category,
+              statement: hypothesis,
+              rationale: `Based on analysis of ${relevantDocs.length} relevant studies and scientific evidence in ${category.toLowerCase()}`,
+              confidenceScore
+            };
+          } catch (error) {
+            console.error(`Error generating hypothesis for category ${category}:`, error);
+            return {
+              id: index + 1,
+              category,
+              statement: `Regular use of ${productName} will improve ${category.toLowerCase()} metrics in healthy adults`,
+              rationale: "Generated using default template due to processing error",
+              confidenceScore: 0.5
+            };
+          }
+        })
+      );
 
-    res.setHeader('Content-Type', 'application/json')
-       .json({ hypotheses });
+      res.json({ hypotheses });
+    } catch (error) {
+      console.error("Failed to generate hypotheses:", error);
+      res.status(500).json({
+        error: true,
+        message: "Failed to generate hypotheses",
+        details: error.message
+      });
+    }
   }));
 
   // Protocol generation endpoint
@@ -106,12 +125,12 @@ export function registerRoutes(router: Router): void {
 
     if (!productName || !selectedHypothesis || !studyCategory) {
       return res.status(400)
-         .setHeader('Content-Type', 'application/json')
-         .json({ 
-           error: true,
-           message: "Product name, hypothesis, and category are required",
-           status: 400
-         });
+        .setHeader('Content-Type', 'application/json')
+        .json({ 
+          error: true,
+          message: "Product name, hypothesis, and category are required",
+          status: 400
+        });
     }
 
     const MAX_RETRIES = 3;
@@ -185,12 +204,12 @@ export function registerRoutes(router: Router): void {
     // If we couldn't generate a valid protocol after max retries
     if (!protocol || !validationResults?.isValid) {
       return res.status(500)
-         .setHeader('Content-Type', 'application/json')
-         .json({
-           error: true,
-           message: "Failed to generate a valid protocol after multiple attempts",
-           details: validationResults?.errors || []
-         });
+        .setHeader('Content-Type', 'application/json')
+        .json({
+          error: true,
+          message: "Failed to generate a valid protocol after multiple attempts",
+          details: validationResults?.errors || []
+        });
     }
 
     // Add validation results to the response
@@ -218,11 +237,11 @@ export function registerRoutes(router: Router): void {
     const stats = await ragService.checkIndexStats();
     if (!stats) {
       return res.status(503)
-         .setHeader('Content-Type', 'application/json')
-         .json({ 
-           error: "RAG service not initialized or unavailable",
-           status: "unavailable" 
-         });
+        .setHeader('Content-Type', 'application/json')
+        .json({ 
+          error: "RAG service not initialized or unavailable",
+          status: "unavailable" 
+        });
     }
     res.setHeader('Content-Type', 'application/json');
     res.json({
@@ -248,12 +267,12 @@ export function registerRoutes(router: Router): void {
       });
     } else {
       res.status(500)
-         .setHeader('Content-Type', 'application/json')
-         .json({
-           error: true,
-           status: "error",
-           message: "Failed to reload PubMed studies"
-         });
+        .setHeader('Content-Type', 'application/json')
+        .json({
+          error: true,
+          status: "error",
+          message: "Failed to reload PubMed studies"
+        });
     }
   }));
 }

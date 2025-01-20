@@ -37,7 +37,11 @@ export default function HypothesisSelector({
       const response = await fetch("/api/protocols/hypotheses", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ productName, websiteUrl })
+        body: JSON.stringify({ 
+          productName, 
+          websiteUrl,
+          researchAreas: ["Sleep", "Stress", "Recovery", "Cognition", "Metabolic Health"]
+        })
       });
 
       if (!response.ok) {
@@ -48,10 +52,11 @@ export default function HypothesisSelector({
       const data = await response.json();
       setHypotheses(data.hypotheses);
     } catch (error: any) {
-      setError(error.message);
+      const errorMessage = error.message || "Failed to generate hypotheses";
+      setError(errorMessage);
       toast({
         title: "Error",
-        description: error.message,
+        description: errorMessage,
         variant: "destructive"
       });
     } finally {
@@ -65,10 +70,9 @@ export default function HypothesisSelector({
     await onHypothesisSelected(hypothesis);
   };
 
-  // Generate hypotheses when component mounts
   useEffect(() => {
     generateHypotheses();
-  }, [productName, websiteUrl]); // Re-run if product name or website changes
+  }, [productName, websiteUrl]);
 
   const getConfidenceColor = (score: number) => {
     if (score >= 0.8) return "bg-green-500";
