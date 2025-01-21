@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Link } from "wouter";
-import { BeakerIcon, BookOpen } from "lucide-react";
+import { BeakerIcon } from "lucide-react";
 
 export default function Home() {
   return (
@@ -15,9 +15,9 @@ export default function Home() {
           <p className="text-xl text-gray-600 mb-8">
             Design rigorous clinical studies for wellness products with our AI-powered research tools
           </p>
-          <Link href="/literature-review">
+          <Link href="/input">
             <Button size="lg" className="rounded-full">
-              Start With Literature Review
+              Start Generating Your Study
             </Button>
           </Link>
         </div>
@@ -25,36 +25,33 @@ export default function Home() {
         <div className="grid md:grid-cols-3 gap-8 mt-16">
           <Card>
             <CardHeader>
-              <CardTitle className="flex items-center gap-2">
-                <BookOpen className="h-5 w-5" />
-                Literature Review
-              </CardTitle>
+              <CardTitle>Study Input</CardTitle>
             </CardHeader>
             <CardContent>
               <p className="text-gray-600">
-                Generate comprehensive research summaries based on your product and ingredients
+                Provide your product details and research objectives
               </p>
             </CardContent>
           </Card>
 
           <Card>
             <CardHeader>
-              <CardTitle>Study Design</CardTitle>
+              <CardTitle>Literature Review</CardTitle>
             </CardHeader>
             <CardContent>
               <p className="text-gray-600">
-                Automated protocol creation based on your product and research goals
+                AI-powered analysis of existing research and studies
               </p>
             </CardContent>
           </Card>
 
           <Card>
             <CardHeader>
-              <CardTitle>Scientific Rigor</CardTitle>
+              <CardTitle>Hypothesis Generation</CardTitle>
             </CardHeader>
             <CardContent>
               <p className="text-gray-600">
-                Generate defensible results and insights through comprehensive protocols
+                Generate research hypotheses based on scientific evidence
               </p>
             </CardContent>
           </Card>
