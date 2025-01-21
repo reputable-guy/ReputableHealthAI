@@ -2,7 +2,7 @@ import { z } from "zod";
 
 export const literatureReviewRequestSchema = z.object({
   productName: z.string().min(1, "Product name is required"),
-  ingredients: z.array(z.string()).min(1, "At least one ingredient is required"),
+  websiteUrl: z.string().url("Please enter a valid URL").optional(),
 });
 
 export type LiteratureReviewRequest = z.infer<typeof literatureReviewRequestSchema>;

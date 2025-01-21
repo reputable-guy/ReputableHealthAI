@@ -1,4 +1,5 @@
-import type { Router } from "express";
+import type { Express } from "express";
+import { createServer, type Server } from "http";
 import { ragService } from "./services/rag-service";
 import OpenAI from "openai";
 import { validateStudyDesign } from "./services/validation-service";
@@ -24,9 +25,9 @@ const asyncHandler = (fn: Function) => (req: any, res: any, next: any) => {
     });
 };
 
-export function registerRoutes(router: Router): void {
+export function registerRoutes(app: Express): Server {
   // Add literature review endpoint
-  router.post("/api/literature-review", asyncHandler(async (req, res) => {
+  app.post("/api/literature-review", asyncHandler(async (req, res) => {
     const parseResult = literatureReviewRequestSchema.safeParse(req.body);
     if (!parseResult.success) {
       return res.status(400).json({
@@ -36,9 +37,9 @@ export function registerRoutes(router: Router): void {
       });
     }
 
-    const { productName, ingredients } = parseResult.data;
+    const { productName, websiteUrl } = parseResult.data;
     try {
-      const review = await generateLiteratureReview(productName, ingredients);
+      const review = await generateLiteratureReview(productName, websiteUrl);
       res.json({ review });
     } catch (error) {
       console.error("Literature review generation error:", error);
@@ -51,13 +52,13 @@ export function registerRoutes(router: Router): void {
   }));
 
   // Health check endpoint
-  router.get("/health", asyncHandler(async (_req, res) => {
+  app.get("/health", asyncHandler(async (_req, res) => {
     res.setHeader('Content-Type', 'application/json');
     res.json({ status: "ok" });
   }));
 
   // Hypothesis generation endpoint
-  router.post("/protocols/hypotheses", asyncHandler(async (req, res) => {
+  app.post("/protocols/hypotheses", asyncHandler(async (req, res) => {
     const { productName, websiteUrl } = req.body;
     if (!productName) {
       return res.status(400)
@@ -134,7 +135,7 @@ export function registerRoutes(router: Router): void {
   }));
 
   // Protocol generation endpoint
-  router.post("/protocols/generate", asyncHandler(async (req, res) => {
+  app.post("/protocols/generate", asyncHandler(async (req, res) => {
     const { productName, websiteUrl, selectedHypothesis, studyCategory } = req.body;
     if (!productName || !selectedHypothesis || !studyCategory) {
       return res.status(400)
@@ -224,7 +225,7 @@ export function registerRoutes(router: Router): void {
   }));
 
   // Add endpoint to check RAG stats
-  router.get("/rag/stats", asyncHandler(async (_req, res) => {
+  app.get("/rag/stats", asyncHandler(async (_req, res) => {
     const stats = await ragService.checkIndexStats();
     if (!stats) {
       return res.status(503)
@@ -245,7 +246,7 @@ export function registerRoutes(router: Router): void {
   }));
 
   // Add endpoint to reload PubMed studies
-  router.post("/rag/reload-studies", asyncHandler(async (_req, res) => {
+  app.post("/rag/reload-studies", asyncHandler(async (_req, res) => {
     console.log("Starting PubMed studies reload...");
     const result = await ragService.loadPublicStudies();
     if (result) {
@@ -266,4 +267,7 @@ export function registerRoutes(router: Router): void {
         });
     }
   }));
+
+  const httpServer = createServer(app);
+  return httpServer;
 }

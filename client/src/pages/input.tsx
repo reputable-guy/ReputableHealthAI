@@ -11,20 +11,18 @@ import { useLocation } from "wouter";
 const inputSchema = z.object({
   productName: z.string().min(1, "Product name is required"),
   websiteUrl: z.string().url("Please enter a valid URL").optional(),
-  description: z.string().min(1, "Product description is required"),
 });
 
 type FormData = z.infer<typeof inputSchema>;
 
 export default function InputPage() {
   const [, setLocation] = useLocation();
-  
+
   const form = useForm<FormData>({
     resolver: zodResolver(inputSchema),
     defaultValues: {
       productName: "",
       websiteUrl: "",
-      description: "",
     },
   });
 
@@ -33,7 +31,6 @@ export default function InputPage() {
     const params = new URLSearchParams({
       product: data.productName,
       url: data.websiteUrl || "",
-      description: data.description,
     });
     setLocation(`/literature-review?${params.toString()}`);
   };
@@ -69,23 +66,6 @@ export default function InputPage() {
                     <FormLabel>Product Website (Optional)</FormLabel>
                     <FormControl>
                       <Input placeholder="https://" {...field} />
-                    </FormControl>
-                    <FormMessage />
-                  </FormItem>
-                )}
-              />
-
-              <FormField
-                control={form.control}
-                name="description"
-                render={({ field }) => (
-                  <FormItem>
-                    <FormLabel>Product Description</FormLabel>
-                    <FormControl>
-                      <Input 
-                        placeholder="Brief description of your product and its intended benefits" 
-                        {...field} 
-                      />
                     </FormControl>
                     <FormMessage />
                   </FormItem>
