@@ -27,12 +27,12 @@ export default function InputPage() {
   });
 
   const onSubmit = (data: FormData) => {
-    // Navigate to literature review with the product data
+    // Navigate to verification page with the product data
     const params = new URLSearchParams({
       product: data.productName,
       url: data.websiteUrl || "",
     });
-    setLocation(`/literature-review?${params.toString()}`);
+    setLocation(`/verification?${params.toString()}`);
   };
 
   return (

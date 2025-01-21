@@ -5,6 +5,7 @@ import { Toaster } from "@/components/ui/toaster";
 import NotFound from "@/pages/not-found";
 import Home from "@/pages/home";
 import Input from "@/pages/input";
+import Verification from "@/pages/verification";
 import LiteratureReview from "@/pages/literature-review";
 import ProtocolDesigner from "@/pages/protocol-designer";
 
@@ -13,6 +14,7 @@ function Router() {
     <Switch>
       <Route path="/" component={Home} />
       <Route path="/input" component={Input} />
+      <Route path="/verification" component={Verification} />
       <Route path="/literature-review" component={LiteratureReview} />
       <Route path="/design" component={ProtocolDesigner} />
       <Route component={NotFound} />

@@ -8,7 +8,7 @@ export const literatureReviewRequestSchema = z.object({
   websiteUrl: z.string().url("Please enter a valid URL").optional(),
 });
 
-async function scrapeWebsite(url: string): Promise<string> {
+export async function scrapeWebsite(url: string): Promise<string> {
   try {
     const response = await axios.get(url);
     const $ = load(response.data);

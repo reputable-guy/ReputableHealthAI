@@ -4,6 +4,7 @@ import { ragService } from "./services/rag-service";
 import OpenAI from "openai";
 import { validateStudyDesign } from "./services/validation-service";
 import { generateLiteratureReview, literatureReviewRequestSchema } from "./services/literatureReview";
+import { verifyProduct, verificationRequestSchema } from "./services/verification";
 
 // Initialize OpenAI
 const openai = new OpenAI({
@@ -12,6 +13,39 @@ const openai = new OpenAI({
 
 export function registerRoutes(app: Express): Server {
   const httpServer = createServer(app);
+
+  // Product verification endpoint
+  app.post("/api/verify-product", async (req, res) => {
+    try {
+      console.log('Product verification request body:', req.body);
+
+      const parseResult = verificationRequestSchema.safeParse(req.body);
+      if (!parseResult.success) {
+        console.error('Validation error:', parseResult.error);
+        return res.status(400).json({
+          error: true,
+          message: "Invalid request data",
+          details: parseResult.error.flatten()
+        });
+      }
+
+      const { productName, websiteUrl } = parseResult.data;
+      console.log('Verifying product:', { productName, websiteUrl });
+
+      const verification = await verifyProduct(productName, websiteUrl);
+
+      console.log('Product verification completed successfully');
+      return res.status(200).json({ verification });
+
+    } catch (error) {
+      console.error("Product verification error:", error);
+      return res.status(500).json({
+        error: true,
+        message: error instanceof Error ? error.message : "Failed to verify product",
+        details: error instanceof Error ? error.stack : undefined
+      });
+    }
+  });
 
   // Literature review endpoint
   app.post("/api/literature-review", async (req, res) => {
