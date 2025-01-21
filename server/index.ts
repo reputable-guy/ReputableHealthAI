@@ -1,5 +1,4 @@
 import express, { type Request, Response, NextFunction } from "express";
-import { createServer } from 'http';
 import { registerRoutes } from "./routes";
 import { setupVite, serveStatic, log } from "./vite";
 
@@ -52,23 +51,14 @@ app.use((req, res, next) => {
 });
 
 (async () => {
-  // Create HTTP server
-  const server = createServer(app);
+  // Register API routes directly to the app
+  registerRoutes(app);
 
-  // Register API routes before any other middleware
-  const apiRouter = express.Router();
-  registerRoutes(apiRouter);
-
-  // Important: Mount API routes before Vite middleware
-  app.use('/api', apiRouter);
-
-  // Error handling middleware - Always returns JSON
   app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {
     console.error('Server error:', err);
     const status = err.status || err.statusCode || 500;
     const message = err.message || "Internal Server Error";
 
-    // Ensure we always send JSON response for errors
     res.status(status)
        .setHeader('Content-Type', 'application/json')
        .json({ 
@@ -78,7 +68,7 @@ app.use((req, res, next) => {
        });
   });
 
-  // Catch-all handler for unhandled routes - Always returns JSON for API routes
+  // Catch-all handler for unhandled routes
   app.use((req: Request, res: Response, next: NextFunction) => {
     if (req.path.startsWith('/api/')) {
       return res.status(404)
@@ -89,20 +79,19 @@ app.use((req, res, next) => {
                  status: 404 
                });
     }
-    // For non-API routes, let Vite handle it
     next();
   });
 
   // Setup Vite or static serving after API routes
   if (app.get("env") === "development") {
-    await setupVite(app, server);
+    await setupVite(app);
   } else {
     serveStatic(app);
   }
 
   // ALWAYS serve the app on port 5000
   const PORT = 5000;
-  server.listen(PORT, "0.0.0.0", () => {
+  app.listen(PORT, "0.0.0.0", () => {
     log(`serving on port ${PORT}`);
   });
 })();

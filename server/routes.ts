@@ -17,7 +17,7 @@ const asyncHandler = (fn: Function) => (req: any, res: any, next: any) => {
       console.error('Route error:', error);
       res.status(500)
         .setHeader('Content-Type', 'application/json')
-        .json({ 
+        .json({
           error: true,
           message: error.message || 'Internal Server Error',
           status: 500
@@ -28,20 +28,22 @@ const asyncHandler = (fn: Function) => (req: any, res: any, next: any) => {
 export function registerRoutes(app: Express): Server {
   // Literature review endpoint
   app.post("/api/literature-review", asyncHandler(async (req, res) => {
-    console.log('Literature review request:', req.body);
-
-    const parseResult = literatureReviewRequestSchema.safeParse(req.body);
-    if (!parseResult.success) {
-      return res.status(400).json({
-        error: true,
-        message: "Invalid request data",
-        details: parseResult.error.flatten()
-      });
-    }
-
-    const { productName, websiteUrl } = parseResult.data;
     try {
+      console.log('Literature review request received:', req.body);
+
+      const parseResult = literatureReviewRequestSchema.safeParse(req.body);
+      if (!parseResult.success) {
+        console.error('Validation error:', parseResult.error);
+        return res.status(400).json({
+          error: true,
+          message: "Invalid request data",
+          details: parseResult.error.flatten()
+        });
+      }
+
+      const { productName, websiteUrl } = parseResult.data;
       const review = await generateLiteratureReview(productName, websiteUrl);
+      console.log('Literature review generated successfully');
       res.json({ review });
     } catch (error) {
       console.error("Literature review generation error:", error);
@@ -55,7 +57,6 @@ export function registerRoutes(app: Express): Server {
 
   // Health check endpoint
   app.get("/health", asyncHandler(async (_req, res) => {
-    res.setHeader('Content-Type', 'application/json');
     res.json({ status: "ok" });
   }));
 
@@ -64,7 +65,7 @@ export function registerRoutes(app: Express): Server {
     const { productName, websiteUrl } = req.body;
     if (!productName) {
       return res.status(400)
-        .json({ 
+        .json({
           error: true,
           message: "Product name is required",
           details: "Please provide a product name to generate hypotheses"
@@ -103,7 +104,7 @@ export function registerRoutes(app: Express): Server {
                 }
               ]
             });
-            const hypothesis = completion.choices[0].message.content || 
+            const hypothesis = completion.choices[0].message.content ||
               `Regular use of ${productName} will improve ${category.toLowerCase()} metrics in healthy adults`;
             const confidenceScore = relevantDocs.length > 0 ? 0.7 + Math.random() * 0.3 : 0.5 + Math.random() * 0.3;
             return {
@@ -142,7 +143,7 @@ export function registerRoutes(app: Express): Server {
     if (!productName || !selectedHypothesis || !studyCategory) {
       return res.status(400)
         .setHeader('Content-Type', 'application/json')
-        .json({ 
+        .json({
           error: true,
           message: "Product name, hypothesis, and category are required",
           status: 400
@@ -191,7 +192,7 @@ export function registerRoutes(app: Express): Server {
         if (validationResults.isValid) {
           break;
         }
-        console.log(`Protocol validation failed on attempt ${attempts + 1}:`, 
+        console.log(`Protocol validation failed on attempt ${attempts + 1}:`,
           validationResults.errors.map(e => `${e.field}: ${e.message}`).join(', '));
         attempts++;
       } catch (error) {
@@ -223,7 +224,7 @@ export function registerRoutes(app: Express): Server {
       }
     };
     res.setHeader('Content-Type', 'application/json')
-       .json(response);
+      .json(response);
   }));
 
   // Add endpoint to check RAG stats
@@ -232,9 +233,9 @@ export function registerRoutes(app: Express): Server {
     if (!stats) {
       return res.status(503)
         .setHeader('Content-Type', 'application/json')
-        .json({ 
+        .json({
           error: "RAG service not initialized or unavailable",
-          status: "unavailable" 
+          status: "unavailable"
         });
     }
     res.setHeader('Content-Type', 'application/json');
