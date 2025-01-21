@@ -2,6 +2,7 @@ import type { Router } from "express";
 import { ragService } from "./services/rag-service";
 import OpenAI from "openai";
 import { validateStudyDesign } from "./services/validation-service";
+import { generateLiteratureReview, literatureReviewRequestSchema } from "./services/literatureReview";
 
 // Initialize OpenAI
 const openai = new OpenAI({
@@ -24,6 +25,31 @@ const asyncHandler = (fn: Function) => (req: any, res: any, next: any) => {
 };
 
 export function registerRoutes(router: Router): void {
+  // Add literature review endpoint
+  router.post("/api/literature-review", asyncHandler(async (req, res) => {
+    const parseResult = literatureReviewRequestSchema.safeParse(req.body);
+    if (!parseResult.success) {
+      return res.status(400).json({
+        error: true,
+        message: "Invalid request data",
+        details: parseResult.error.flatten()
+      });
+    }
+
+    const { productName, ingredients } = parseResult.data;
+    try {
+      const review = await generateLiteratureReview(productName, ingredients);
+      res.json({ review });
+    } catch (error) {
+      console.error("Literature review generation error:", error);
+      res.status(500).json({
+        error: true,
+        message: "Failed to generate literature review",
+        details: error instanceof Error ? error.message : "Unknown error"
+      });
+    }
+  }));
+
   // Health check endpoint
   router.get("/health", asyncHandler(async (_req, res) => {
     res.setHeader('Content-Type', 'application/json');
@@ -33,7 +59,6 @@ export function registerRoutes(router: Router): void {
   // Hypothesis generation endpoint
   router.post("/protocols/hypotheses", asyncHandler(async (req, res) => {
     const { productName, websiteUrl } = req.body;
-
     if (!productName) {
       return res.status(400)
         .json({ 
@@ -42,9 +67,7 @@ export function registerRoutes(router: Router): void {
           details: "Please provide a product name to generate hypotheses"
         });
     }
-
     try {
-      // Generate hypotheses using the RAG service and OpenAI
       const categories = ["Sleep", "Stress", "Recovery", "Cognition", "Metabolic Health"];
       const hypotheses = await Promise.all(
         categories.map(async (category, index) => {
@@ -52,13 +75,9 @@ export function registerRoutes(router: Router): void {
             const prompt = `Based on wellness product "${productName}"${websiteUrl ? ` (${websiteUrl})` : ''}, 
               generate a research hypothesis for the category: ${category}. 
               Consider existing studies and scientific evidence in this domain.`;
-
-            // Use RAG service to get relevant documents
             const relevantDocs = await ragService.queryRelevantDocuments(prompt, category.toLowerCase());
             console.log(`Found ${relevantDocs.length} relevant documents for category ${category}`);
             const context = relevantDocs.join("\n");
-
-            // Use OpenAI to generate creative hypothesis
             const completion = await openai.chat.completions.create({
               model: "gpt-4",
               messages: [
@@ -81,13 +100,9 @@ export function registerRoutes(router: Router): void {
                 }
               ]
             });
-
             const hypothesis = completion.choices[0].message.content || 
               `Regular use of ${productName} will improve ${category.toLowerCase()} metrics in healthy adults`;
-
-            // Calculate confidence score based on relevance
             const confidenceScore = relevantDocs.length > 0 ? 0.7 + Math.random() * 0.3 : 0.5 + Math.random() * 0.3;
-
             return {
               id: index + 1,
               category,
@@ -107,7 +122,6 @@ export function registerRoutes(router: Router): void {
           }
         })
       );
-
       res.json({ hypotheses });
     } catch (error) {
       console.error("Failed to generate hypotheses:", error);
@@ -122,7 +136,6 @@ export function registerRoutes(router: Router): void {
   // Protocol generation endpoint
   router.post("/protocols/generate", asyncHandler(async (req, res) => {
     const { productName, websiteUrl, selectedHypothesis, studyCategory } = req.body;
-
     if (!productName || !selectedHypothesis || !studyCategory) {
       return res.status(400)
         .setHeader('Content-Type', 'application/json')
@@ -132,35 +145,27 @@ export function registerRoutes(router: Router): void {
           status: 400
         });
     }
-
     const MAX_RETRIES = 3;
     let protocol = null;
     let validationResults = null;
     let attempts = 0;
-
     while (attempts < MAX_RETRIES) {
       try {
-        // Generate contextual prompt using RAG service
         const contextualPrompt = await ragService.generateContextualPrompt(
           productName,
           studyCategory,
           selectedHypothesis
         );
-
-        // Use OpenAI to generate the protocol based on the contextual prompt
         const completion = await openai.chat.completions.create({
           model: "gpt-4",
           messages: [
             {
               role: "system",
               content: `You are an expert in research protocol design. Generate a comprehensive research protocol based on the provided context and requirements. 
-
               IMPORTANT: Your response must be ONLY valid JSON with NO additional text or explanations.
               Follow the exact structure specified in the prompt.
-
               Each field should be carefully considered and specific to the study context.
               Ensure all arrays have at least 3-5 relevant items.
-
               Essential requirements:
               1. Statistical power must be >= 0.8
               2. Sample size must be sufficient for the chosen effect size
@@ -173,35 +178,24 @@ export function registerRoutes(router: Router): void {
             }
           ]
         });
-
-        // Parse and validate the response
         try {
           protocol = JSON.parse(completion.choices[0].message.content);
         } catch (error) {
           console.error("Failed to parse GPT response as JSON:", error);
           throw new Error("Failed to generate valid protocol structure");
         }
-
-        // Validate the generated protocol
         validationResults = await validateStudyDesign(protocol);
-
-        // If validation passes, break the loop
         if (validationResults.isValid) {
           break;
         }
-
-        // If validation fails, log issues and retry
         console.log(`Protocol validation failed on attempt ${attempts + 1}:`, 
           validationResults.errors.map(e => `${e.field}: ${e.message}`).join(', '));
         attempts++;
-
       } catch (error) {
         console.error("Protocol generation error:", error);
         attempts++;
       }
     }
-
-    // If we couldn't generate a valid protocol after max retries
     if (!protocol || !validationResults?.isValid) {
       return res.status(500)
         .setHeader('Content-Type', 'application/json')
@@ -211,8 +205,6 @@ export function registerRoutes(router: Router): void {
           details: validationResults?.errors || []
         });
     }
-
-    // Add validation results to the response
     const response = {
       ...protocol,
       validationResults: {
@@ -227,7 +219,6 @@ export function registerRoutes(router: Router): void {
         regulatoryFlags: validationResults.regulatoryFlags
       }
     };
-
     res.setHeader('Content-Type', 'application/json')
        .json(response);
   }));
