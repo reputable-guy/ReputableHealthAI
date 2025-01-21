@@ -32,19 +32,33 @@ export interface LiteratureReview {
 export async function generateLiteratureReview(
   request: LiteratureReviewRequest
 ): Promise<LiteratureReview> {
-  const response = await fetch("/api/literature-review", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify(request),
-  });
+  console.log('Sending literature review request:', request);
 
-  if (!response.ok) {
-    const errorData = await response.json().catch(() => ({ message: response.statusText }));
-    throw new Error(errorData.message || `Failed to generate literature review: ${response.statusText}`);
+  try {
+    const response = await fetch("/api/literature-review", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(request),
+      credentials: 'include'
+    });
+
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({ 
+        message: `HTTP error! status: ${response.status}` 
+      }));
+      throw new Error(errorData.message || 'Failed to generate literature review');
+    }
+
+    const data = await response.json();
+    if (!data.review) {
+      throw new Error('Invalid response format from server');
+    }
+
+    return data.review;
+  } catch (error) {
+    console.error('Literature review generation error:', error);
+    throw error;
   }
-
-  const { review } = await response.json();
-  return review;
 }

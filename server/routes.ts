@@ -16,7 +16,7 @@ export function registerRoutes(app: Express): Server {
   // Literature review endpoint
   app.post("/api/literature-review", async (req, res) => {
     try {
-      console.log('Literature review request received:', req.body);
+      console.log('Literature review request body:', req.body);
 
       const parseResult = literatureReviewRequestSchema.safeParse(req.body);
       if (!parseResult.success) {
@@ -29,16 +29,19 @@ export function registerRoutes(app: Express): Server {
       }
 
       const { productName, websiteUrl } = parseResult.data;
+      console.log('Generating literature review for:', { productName, websiteUrl });
+
       const review = await generateLiteratureReview(productName, websiteUrl);
 
       console.log('Literature review generated successfully');
-      return res.json({ review });
+      return res.status(200).json({ review });
+
     } catch (error) {
       console.error("Literature review generation error:", error);
       return res.status(500).json({
         error: true,
         message: error instanceof Error ? error.message : "Failed to generate literature review",
-        details: error instanceof Error ? error.stack : "Unknown error"
+        details: error instanceof Error ? error.stack : undefined
       });
     }
   });
