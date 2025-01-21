@@ -1,4 +1,4 @@
-import { useState, useCallback } from "react";
+import { useState, useEffect } from "react";
 import { useToast } from "@/hooks/use-toast";
 import { useMutation } from "@tanstack/react-query";
 import { generateLiteratureReview, type LiteratureReview } from "@/lib/literatureReviewService";
@@ -34,8 +34,7 @@ export default function LiteratureReviewPage() {
     },
   });
 
-  // Memoize the initial data fetching
-  const initializeReview = useCallback(() => {
+  useEffect(() => {
     const productName = params.get("product");
     const websiteUrl = params.get("url");
 
@@ -49,7 +48,7 @@ export default function LiteratureReviewPage() {
       return;
     }
 
-    // Only generate if we don't already have a review
+    // Only generate if we don't already have a review and we're not already generating
     if (!review && !isPending) {
       generateReview({
         productName,
@@ -57,11 +56,6 @@ export default function LiteratureReviewPage() {
       });
     }
   }, [params, generateReview, toast, setLocation, review, isPending]);
-
-  // Call initialize only once when component mounts
-  useState(() => {
-    initializeReview();
-  }, []);
 
   const handleProceedToHypotheses = () => {
     const productName = params.get("product");
