@@ -5,46 +5,54 @@ describe('Literature Review Generation', () => {
   // Increase timeout for all tests
   jest.setTimeout(60000); // 60 seconds
 
-  it('should generate a literature review for a magnesium sleep supplement', async () => {
-    const productName = "Magnesium Sleep Supplement";
-    const ingredients = ["Magnesium Citrate"];
+  it('should generate a literature review for a supplement product', async () => {
+    const productName = "Sleep Support Plus";
+    const websiteUrl = "https://example.com/sleep-support-plus";
 
-    const review = await generateLiteratureReview(productName, ingredients);
+    const review = await generateLiteratureReview(productName, websiteUrl);
     expect(review).toBeTruthy();
-    expect(typeof review).toBe('string');
 
-    // Verify structure contains key sections
-    expect(review).toContain('Overview');
-    expect(review).toContain('Primary Benefits');
-    expect(review).toContain('Common Supplement Forms');
-    expect(review).toContain('Impact on Key Wellness Areas');
-    expect(review).toContain('Research Gaps');
-    expect(review).toContain('Conclusion');
+    // Verify structure contains all required sections
+    expect(review.overview).toBeDefined();
+    expect(review.overview.description).toBeTruthy();
+    expect(Array.isArray(review.overview.benefits)).toBe(true);
+    expect(Array.isArray(review.overview.supplementForms)).toBe(true);
+
+    expect(Array.isArray(review.wellnessAreas)).toBe(true);
+    expect(review.wellnessAreas.length).toBeGreaterThan(0);
+
+    expect(review.researchGaps).toBeDefined();
+    expect(Array.isArray(review.researchGaps.questions)).toBe(true);
+
+    expect(review.conclusion).toBeDefined();
+    expect(Array.isArray(review.conclusion.keyPoints)).toBe(true);
+    expect(Array.isArray(review.conclusion.targetAudience)).toBe(true);
+    expect(Array.isArray(review.conclusion.safetyConsiderations)).toBe(true);
   });
 
-  it('should generate a literature review for a multi-ingredient supplement', async () => {
-    const productName = "Sleep Complex";
-    const ingredients = ["Melatonin", "L-Theanine", "GABA"];
+  it('should generate a literature review with only product name', async () => {
+    const productName = "Vitamin D3 Supplement";
 
-    const review = await generateLiteratureReview(productName, ingredients);
+    const review = await generateLiteratureReview(productName);
     expect(review).toBeTruthy();
-    expect(typeof review).toBe('string');
-
-    // Verify each ingredient is mentioned
-    ingredients.forEach(ingredient => {
-      expect(review.toLowerCase()).toContain(ingredient.toLowerCase());
-    });
-
-    // Verify wellness areas are covered
-    expect(review).toMatch(/Sleep & Recovery|Physical Performance|Cognitive Function/);
+    expect(review.overview.description).toBeTruthy();
   });
 
-  it('should handle empty inputs', async () => {
+  it('should handle empty product name', async () => {
     const productName = "";
-    const ingredients: string[] = [];
+    const websiteUrl = "https://example.com/product";
 
-    await expect(generateLiteratureReview(productName, ingredients))
+    await expect(generateLiteratureReview(productName, websiteUrl))
       .rejects
-      .toThrow("Product name and at least one ingredient are required");
+      .toThrow("Product name is required");
+  });
+
+  it('should handle invalid website URL gracefully', async () => {
+    const productName = "Test Product";
+    const websiteUrl = "https://nonexistent-website-12345.com";
+
+    const review = await generateLiteratureReview(productName, websiteUrl);
+    expect(review).toBeTruthy();
+    expect(review.overview.description).toBeTruthy();
   });
 });

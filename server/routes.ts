@@ -26,8 +26,10 @@ const asyncHandler = (fn: Function) => (req: any, res: any, next: any) => {
 };
 
 export function registerRoutes(app: Express): Server {
-  // Add literature review endpoint
+  // Literature review endpoint
   app.post("/api/literature-review", asyncHandler(async (req, res) => {
+    console.log('Literature review request:', req.body);
+
     const parseResult = literatureReviewRequestSchema.safeParse(req.body);
     if (!parseResult.success) {
       return res.status(400).json({
