@@ -16,8 +16,13 @@ const wellnessAreas = [
 ];
 
 export async function generateLiteratureReview(productName: string, ingredients: string[]) {
+  // Validate inputs
+  if (!productName || !ingredients.length) {
+    throw new Error("Product name and at least one ingredient are required");
+  }
+
   const openai = new OpenAI();
-  
+
   const prompt = `Generate a comprehensive literature review for ${productName} containing the following ingredients: ${ingredients.join(", ")}.
 
 Follow this exact structure from the example:
@@ -60,5 +65,10 @@ Use emojis consistently as shown in the example. Format in markdown.`;
     max_tokens: 2000,
   });
 
-  return response.choices[0].message.content;
+  const content = response.choices[0].message.content;
+  if (!content) {
+    throw new Error("Failed to generate literature review");
+  }
+
+  return content;
 }
