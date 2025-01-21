@@ -44,5 +44,6 @@ export async function generateLiteratureReview(
     throw new Error(`Failed to generate literature review: ${await response.text()}`);
   }
 
-  return response.json();
+  const { review } = await response.json();
+  return review;
 }
