@@ -1,26 +1,28 @@
-Study Title: Suvorexant alters dynamics of the sleep-electroencephalography-power spectrum and depressive-symptom trajectories during inpatient opioid withdrawal.
+Study Title: Smartphone-delivered multicomponent lifestyle medicine intervention for improving mental health in a nonclinical population: a randomized controlled trial.
 
 Study Summary:
-Opioid withdrawal is an aversive experience that often exacerbates depressive symptoms and poor sleep. The aims of the present study were to examine the effects of suvorexant on oscillatory sleep-electroencephalography (EEG) band power during medically managed opioid withdrawal, and to examine their association with withdrawal severity and depressive symptoms. Participants with opioid use disorder (N&#x2005;=&#x2005;38: age-range:21-63, 87% male, 45% white) underwent an 11-day buprenorphine taper, in which they were randomly assigned to suvorexant (20 mg [n&#x2005;=&#x2005;14] or 40 mg [n&#x2005;=&#x2005;12]), or placebo [n&#x2005;=&#x2005;12], while ambulatory sleep-EEG data was collected. Linear mixed-effect models were used to explore: (1) main and interactive effects of drug group, and time on sleep-EEG band power, and (2) associations between sleep-EEG band power change, depressive symptoms, and withdrawal severity. Oscillatory spectral power tended to be greater in the suvorexant groups. Over the course of the study, decreases in delta power were observed in all study groups (&#x3b2;&#x2005;=&#x2005;-189.082, d&#x2005;=&#x2005;-0.522, p&#x2005;=&#x2005;<0.005), increases in beta power (20 mg: &#x3b2;&#x2005;=&#x2005;2.579, d&#x2005;=&#x2005;0.413, p&#x2005;=&#x2005;0.009 | 40 mg &#x3b2;&#x2005;=&#x2005;5.265, d&#x2005;=&#x2005;0.847, p&#x2005;<&#x2005;0.001) alpha power (20 mg: &#x3b2;&#x2005;=&#x2005;158.304, d&#x2005;=&#x2005;0.397, p&#x2005;=&#x2005;0.009 | 40 mg: &#x3b2;&#x2005;=&#x2005;250.212, d&#x2005;=&#x2005;0.601, p&#x2005;=&#x2005;0.001) and sigma power (20 mg: &#x3b2;&#x2005;=&#x2005;48.97, d&#x2005;=&#x2005;0.410, p&#x2005;<&#x2005;0.001 | 40 mg: &#x3b2;&#x2005;=&#x2005;71.54, d&#x2005;=&#x2005;0.568, p&#x2005;<&#x2005;0.001) were observed in the two suvorexant groups. During the four-night taper, decreases in delta power were associated with decreases in depressive symptoms (20 mg: &#x3b2;&#x2005;=&#x2005;190.90, d&#x2005;=&#x2005;0.308, p&#x2005;=&#x2005;0.99 | 40 mg: &#x3b2;&#x2005;=&#x2005;433.33, d&#x2005;=&#x2005;0.889 p&#x2005;=&#x2005;<0.001), and withdrawal severity (20 mg: &#x3b2;&#x2005;=&#x2005;215.55, d&#x2005;=&#x2005;0.034, p&#x2005;=&#x2005;0.006 | 40 mg: &#x3b2;&#x2005;=&#x2005;192.64, d&#x2005;=&#x2005;-0.854, p&#x2005;=&#x2005;<0.001), in both suvorexant groups and increases in sigma power were associated with decreases in withdrawal severity (20 mg: &#x3b2;&#x2005;=&#x2005;-357.84, d&#x2005;=&#x2005;-0.659, p&#x2005;=&#x2005;0.004 | 40 mg: &#x3b2;&#x2005;=&#x2005;-906.35, d&#x2005;=&#x2005;-1.053, p&#x2005;=&#x2005;<0.001). Post-taper decreases in delta (20 mg: &#x3b2;&#x2005;=&#x2005;740.58, d&#x2005;=&#x2005;0.964 p&#x2005;=&#x2005;<0.001 | 40 mg: &#x3b2;&#x2005;=&#x2005;662.23, d&#x2005;=&#x2005;0.882, p&#x2005;=&#x2005;<0.001) and sigma power (20 mg only: &#x3b2;&#x2005;=&#x2005;335.54, d&#x2005;=&#x2005;0.560, p&#x2005;=&#x2005;0.023) were associated with reduced depressive symptoms in the placebo group. Results highlight a complex and nuanced relationship between sleep-EEG power and symptoms of depression and withdrawal. Changes in delta power may represent a mechanism influencing depressive symptoms and withdrawal.
+To prevent the exacerbation of mental health burdens, a growing body of research has recommended a balanced approach that emphasizes both the delivery of mental health treatments to individuals with common mental disorders (CMDs) and the strengthening of protective factors for CMDs among nonclinical populations. This randomized controlled trial (RCT) evaluated the efficacy of a smartphone-delivered multicomponent lifestyle medicine (LM) intervention, Lifestyle Hub, for improving mental health among a nonclinical population of Chinese adults. A total of 106 participants with Patient Health Questionnaire-9 total score&#x2009;<&#x2009;10 and Generalized Anxiety Disorder 7-Item Scale <8 were randomly assigned to either the Lifestyle Hub intervention group (LH,&#x2009;=&#x2009;53) or the waitlist control group (WL,&#x2009;=&#x2009;53). Lifestyle Hub is an 8-week smartphone-delivered multicomponent LM intervention developed based on the transtheoretical model. The intervention components included lifestyle psychoeducation, physical activity, diet and nutrition, stress management, sleep management, and motivation and goal-setting techniques. Assessments were conducted at baseline, immediate post-intervention, and 1-month follow-up (LH only). The linear mixed effect model based on the intention-to-treat principle indicated that Lifestyle Hub significantly improved overall mental health, depressive symptoms, anxiety symptoms, stress, insomnia severity, overall health-promoting behaviors, dietary quality, and stress management compared to the WL group at immediate post-intervention (&#x2009;=&#x2009;0.13-0.56). No significant between-group differences were observed in terms of functional impairment, health-related quality of life, health responsibility, physical activity level, spiritual growth, and interpersonal relations. The intervention gains in the LH group were maintained at 1-month follow-up. The LH participants indicated that Lifestyle Hub was an acceptable intervention for improving mental health, although a significantly higher level of study attrition was observed in the LH group (20.8%) relative to the WL group (5.7%). Lifestyle Hub may serve as an efficacious and acceptable intervention for improving mental health in nonclinical adult populations. To extend the benefits of LM interventions at the population level, future studies are warranted to examine a stepped-care approach to delivering LM interventions.: This randomized controlled trial was pre-registered with ClinicalTrials.gov (NCT04295369).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/sleep/zsae025
+- DOI: 10.3389/fpubh.2023.1231981
 
 2. Keywords
-- depression
-- power spectrum
-- sleep-EEG
-- suvorexant
-- withdrawal
+- lifestyle
+- mental health
+- mood
+- randomized controlled trial
+- self-help
+- smartphone-based intervention
 
 3. Key Findings
-- Findings extraction requires manual review
+- The linear mixed effect model based on the intention-to-treat principle indicated that Lifestyle Hub significantly improved overall mental health, depressive symptoms, anxiety symptoms, stress, insomnia severity, overall health-promoting behaviors, dietary quality, and stress management compared to the WL group at immediate post-intervention (&#x2009;=&#x2009;0
+- The LH participants indicated that Lifestyle Hub was an acceptable intervention for improving mental health, although a significantly higher level of study attrition was observed in the LH group (20
 
 This study provides insights into:
-- depression assessment methods and outcomes
-- power spectrum assessment methods and outcomes
-- sleep-EEG assessment methods and outcomes
+- lifestyle assessment methods and outcomes
+- mental health assessment methods and outcomes
+- mood assessment methods and outcomes

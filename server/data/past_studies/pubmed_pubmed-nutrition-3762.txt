@@ -1,25 +1,30 @@
-Study Title: Comparison of normal saline and antiseptic solution effect on the early peristomal infection rates of patients with percutaneous endoscopic gastrostomy tubes: A randomized double-blind study.
+Study Title: Impact of 8-hour time-limited eating on sleep in adolescents with obesity.
 
 Study Summary:
-This study's aim was to compare the efficacy of normal saline (NS) with that of antiseptic solution in early peristomal skin care after percutaneous endoscopic gastrostomy placement in terms of peristomal infection incidence. This was a randomized controlled double-blind study conducted at a university hospital between December 2019 and April 2021. All patients who underwent percutaneous endoscopic gastrostomy and met the inclusion and exclusion criteria were included in the study. The study population consisted of 64 patients randomized to group 1: NS (n&#x2009;=&#x2009;31) and group 2: 0.1% polyhexamethylene biguanide and 0.1% betaine (PHMB-B; n&#x2009;=&#x2009;33). Daily peristomal skin care was performed for 7 days, starting 24&#x2009;h after insertion. Peristomal skin was evaluated by two blinded investigators before each dressing, and findings were recorded. Data analysis was performed with descriptive statistics; chi-square analysis; and exact, Shapiro-Wilk, Mann-Whitney U, and Cochran Q tests. There was no statistically significant difference between the groups in terms of peristomal infection rates (group 1: 12.9%, group 2: 9.07%; P&#x2009;>&#x2009;0.05). Redness increased from day 4 in group 1 and day 5 in group 2, and exudate increased from day 5 in both groups. There is a statistical difference in the number of patients between the days when redness and exudate appear and increase. Both NS and PHMB-B solutions can be preferred in peristomal care. However, NS may be the first choice for early peristomal care that does not show signs of infection, because it is not irritating and allergic and is cost-effective.
+The relationship between time-limited eating (TLE) and sleep quality is a topic of growing interest in the field of chronobiology. Data in adult cohorts shows that TLE may improve sleep quality, but this has not been evaluated in adolescents. The aim of this secondary analysis was to (1) examine the impact of 8-hour TLE on sleep parameters in youth with obesity and (2) explore if there was any association between sleep patterns and glycemic profiles. Adolescents with obesity were randomized into one of three groups: 8-hour TLE (participants self-selected their eating window) + real-time continuous glucose monitor, 8-hour TLE + blinded continuous glucose monitor, or a prolonged eating window. In the primary analysis, it was found that participants in the real-time continuous glucose monitor group + 8-hour TLE group did not access their continuous glucose monitor data and thus for this analysis the two TLE groups were combined and only completers who had available Pittsburgh Sleep Quality Index (PSQI) data at all three time points were included. Participants completed the PSQI at baseline, week 4, and week 12. Mixed-effects generalized linear regression models were utilized to examine the change in PSQI score and assess association between glycemic variability and PSQI total score overtime by intervention arm. The median PSQI total score for the TLE groups (n = 27) was 6 at week 0 (interquartile range = 5 to 10) and 5 at week 12 (interquartile range = 2 to 7). There was no significant difference in the change in total PSQI score or sleep latency between TLE and control over the study period (> .05). There was no association between PSQI score and change in weight or glycemic profile between groups (allvalues > 0.05). These results suggest that in adolescents with obesity, an 8-hour TLE approach did not negatively impact sleep quality or efficiency when compared to a prolonged eating window. The potential effects of TLE on sleep should be further investigated in larger randomized trials. Jayakumr A, Gillett ES, Wee CP, Kim A, Vidmar AP. Impact of 8-hour time-limited eating on sleep in adolescents with obesity.. 2023;19(11):1941-1949.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1002/ncp.11041
+- DOI: 10.5664/jcsm.10734
 
 2. Keywords
-- enteral nutrition
-- gastrostomy tube
-- infection
-- skin care
+- PSQI
+- TLE
+- adolescent
+- endocrinology
+- glucose
+- nutrition
+- obesity
+- quality
+- sleep
 
 3. Key Findings
-- Findings extraction requires manual review
+- In the primary analysis, it was found that participants in the real-time continuous glucose monitor group + 8-hour TLE group did not access their continuous glucose monitor data and thus for this analysis the two TLE groups were combined and only completers who had available Pittsburgh Sleep Quality Index (PSQI) data at all three time points were included
 
 This study provides insights into:
-- enteral nutrition assessment methods and outcomes
-- gastrostomy tube assessment methods and outcomes
-- infection assessment methods and outcomes
+- PSQI assessment methods and outcomes
+- TLE assessment methods and outcomes
+- adolescent assessment methods and outcomes

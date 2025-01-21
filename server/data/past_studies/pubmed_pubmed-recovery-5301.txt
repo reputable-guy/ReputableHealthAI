@@ -1,31 +1,25 @@
-Study Title: The Odyssey of HOMER: Comparative Effectiveness Research on Medication for Opioid Use Disorder During the COVID-19 Pandemic.
+Study Title: Pulsed electromagnetic fields attenuate human musculocutaneous nerve damage induced by biceps eccentric contractions.
 
 Study Summary:
-The usual challenges of conducting primary care research, including randomized trials, have been exacerbated, and new ones identified, during the COVID-19 pandemic. HOMER (Home versus Office for Medication Enhanced Recovery; subsequently, Comparing Home, Office, and Telehealth Induction for Medication Enhanced Recovery) is a pragmatic, comparative-effectiveness research trial that aims to answer a key question from patients and clinicians: What is the best setting in which to start treatment with buprenorphine for opioid use disorder for this patient at this time? In this article, we describe the difficult journey to find the answer. The HOMER study began as a randomized trial comparing treatment outcomes in patients starting treatment with buprenorphine via induction at home (unobserved) vs in the office (observed, synchronous). The study aimed to enroll 1,000 participants from 100 diverse primary care practices associated with the State Networks of Colorado Ambulatory Practices and Partners and the American Academy of Family Physicians National Research Network. The research team faced unexpected challenges related to the COVID-19 pandemic and dramatic changes in the opioid epidemic. These challenges required changes to the study design, protocol, recruitment intensity, and funding conversations, as well as patience. As this is a participatory research study, we sought, documented, and responded to practice and patient requests for adaptations. Changes included adding a third study arm using telehealth induction (observed via telephone or video, synchronous) and switching to a comprehensive cohort design to answer meaningful patient-centered research questions. Using a narrative approach based on the Greek myth of Homer, we describe here the challenges and adaptations that have provided the opportunity for HOMER to thrive and find the way home. These clinical trial strategies may apply to other studies faced with similar cultural and extreme circumstances.
+Pulsed electromagnetic field (PEMF) therapy, a noninvasive treatment, has shown promise in mitigating nerve damage. However, unaccustomed exercises, such as eccentric contractions (ECCs), can damage both muscle and nerve tissue. This study investigated whether magnetic stimulation (MS) with PEMF could aid in nerve recovery after ECCs in the elbow flexors. Twenty participants were randomly assigned to either a control (CNT) or an MS group. Following ECCs, we measured the latency of the M-wave in the musculocutaneous nerve as an indicator of nerve function. Additionally, isometric torque, range of motion, and muscle pain were assessed for muscle function. Interestingly, only the CNT group exhibited a significant increase in latency on Day 2 (p&#x2009;<&#x2009;0.05). The MS group, on the other hand, displayed an earlier recovery trend in isometric torque, range of motion, and muscle soreness. Notably, muscle soreness significantly decreased immediately after MS treatment compared to pretreatment levels. These findings suggest that MS treatment can effectively attenuate nerve damage induced by ECCs exercise.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1370/afm.3149
+- DOI: 10.1002/bem.22525
 
 2. Keywords
-- COVID-19
-- buprenorphine
-- clinical trials as topic
-- health services
-- opioid use disorder
-- pandemics
-- participatory research
-- practice-based research
-- primary care
-- vulnerable populations
+- M&#x2010;wave
+- eccentric contractions
+- muscle soreness
+- pulsed electromagnetic field
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 assessment methods and outcomes
-- buprenorphine assessment methods and outcomes
-- clinical trials as topic assessment methods and outcomes
+- M&#x2010;wave assessment methods and outcomes
+- eccentric contractions assessment methods and outcomes
+- muscle soreness assessment methods and outcomes

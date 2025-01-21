@@ -1,26 +1,25 @@
-Study Title: Impact of an intervention for perinatal anxiety on breastfeeding: findings from the Happy Mother-Healthy Baby randomized controlled trial in Pakistan.
+Study Title: Impact of virtual reality on peri-interventional pain, anxiety and distress in a pediatric oncology outpatient clinic: a randomized controlled trial.
 
 Study Summary:
-The study examined the effects of Happy Mother-Healthy Baby (HMHB), a cognitive-behavioural therapy (CBT) intervention on breastfeeding outcomes for Pakistani women with prenatal anxiety. Breastfeeding practices were evaluated in a randomized controlled trial between 2019 and 2022 in a public hospital in Pakistan. The intervention group was randomized to receive six HMHB sessions targeted towards prenatal anxiety (with breastfeeding discussed in the final session), while both groups also received enhanced usual care. Breastfeeding was defined in four categories: early breastfeeding, exclusive early breastfeeding, recent breastfeeding, and exclusive recent breastfeeding. Early breastfeeding referred to the first 24&#xa0;h after birth and recent breastfeeding referred to the last 24&#xa0;h before an assessment at six-weeks postpartum. Potential confounders included were mother's age, baseline depression and anxiety levels, stress, social support, if the first pregnancy (or not) and history of stillbirth or miscarriage as well as child's gestational age, gender. Both intent-to-treat and per-protocol analyses were examined. Stratified analyses were also used to compare intervention efficacy for those with mild vs severe anxiety. Out of the 1307 eligible women invited to participate, 107 declined to participate and 480 were lost to follow-up, resulting in 720 women who completed the postpartum assessment. Both intervention and control arms were similar on demographic characteristics (e.g. sex, age, income, family structure). In the primary intent-to-treat analysis, there was a marginal impact of the intervention on early breastfeeding (OR 1.38, 95% CI: 0.99-1.92; 75.4% (N&#x2009;=&#x2009;273) vs. 69.0% (N&#x2009;=&#x2009;247)) and a non-significant association with other breastfeeding outcomes (OR1.42, 95% CI: 0.89-2.27; (47) 12.9% vs. (34) 9.5%, exclusive early breastfeeding; OR 1.48, 95% CI: 0.94-2.35; 90% (N&#x2009;=&#x2009;327) vs. 86% (N&#x2009;=&#x2009;309), recent breastfeeding; OR1.01, 95% CI: 0.76-1.35; 49% (N&#x2009;=&#x2009;178) vs 49% (N&#x2009;=&#x2009;175) exclusive recent breastfeeding). Among those who completed the intervention's six core sessions, the intervention increased the odds of early breastfeeding (OR1.69, 95% CI:1.12-2.54; 79% (N&#x2009;=&#x2009;154) vs. 69% (N&#x2009;=&#x2009;247)) and recent breastfeeding (OR 2.05, 95% CI:1.10-3.81; 93% (N&#x2009;=&#x2009;181) vs. 86% (N&#x2009;=&#x2009;309)). For women with mild anxiety at enrolment, the intervention increased the odds of recent breastfeeding (OR 2.41, 95% CI:1.17-5.00; 92% (N&#x2009;=&#x2009;137) vs. 83% (N&#x2009;=&#x2009;123). The study highlights the potential of CBT-based interventions like HMHB to enhance breastfeeding among women with mild perinatal anxiety, contingent upon full participation in the intervention. ClinicalTrials.gov NCT03880032.
+Pain and anxiety-inducing interventions have a major impact on pediatric patients. Pain reduction by virtual reality (VR) during port and vein punctures is well studied. This study investigates peri-interventional reduction of pain, anxiety and distress using VR compared to the standard of care (SOC) in a pediatric oncology outpatient clinic. In a randomized, controlled cross-over design, patients aged 6-18 years experience potentially painful interventions accompanied by VR. Observational instruments include NRS, FPS-r, BAADS, mYPAS-SF, PedsQL and SSKJ3-8R. All patients undergo two observations: SOC (A) and VR (B) in a randomized order. In addition, parents and staff are interviewed. Specific conditions for VR in an outpatient clinic setting derived from interprofessional focus group discussion are being explored. Between July 2021 and December 2022 57 eligible patients were included and randomized to the orders A/B (n&#x2009;=&#x2009;28) and B/A (n&#x2009;=&#x2009;29). Thirty-eight patients completed both observations. Characteristics in both groups did not differ significantly. More than half of the patients had no previous experience with VR, 5% decided to discontinue VR prematurely. Peri-interventional pain, anxiety and distress were significantly reduced by VR compared with SOC. 71% of patients and 76% of parents perceived punctures with VR to be more relaxed than previous ones. 95% of patients perceived fun with VR goggles. Detailed questionnaires on individual stress and anxiety were returned from 26 of 38 patients. Focus group discussion with staff yielded evidence for successful implementation of VR in an outpatient clinic. The present study shows that VR can be used for peri-interventional reduction of pain, anxiety, and distress in the special environment of a pediatric outpatient clinic. Specific conditions must be met for successful implementation. Further studies are needed to identify particularly susceptible patients and to illuminate alternatives for distraction that are feasible to implement with limited resources. (ClinicalTrials.gov ID): NCT06235723; 01/02/2024; retrospectively registered. This study adheres to the standard checklist of CONSORT guidelines.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13006-024-00655-8
+- DOI: 10.1186/s12887-024-04952-3
 
 2. Keywords
-- Breastfeeding
-- Cognitive-behavioural therapy
-- Intervention
-- Pakistan
-- Prenatal anxiety
+- Outpatient clinic
+- Pediatric oncology
+- Peri-interventional pain
+- Virtual reality
 
 3. Key Findings
-- Potential confounders included were mother's age, baseline depression and anxiety levels, stress, social support, if the first pregnancy (or not) and history of stillbirth or miscarriage as well as child's gestational age, gender
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Breastfeeding assessment methods and outcomes
-- Cognitive-behavioural therapy assessment methods and outcomes
-- Intervention assessment methods and outcomes
+- Outpatient clinic assessment methods and outcomes
+- Pediatric oncology assessment methods and outcomes
+- Peri-interventional pain assessment methods and outcomes

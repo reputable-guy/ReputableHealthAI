@@ -1,37 +1,20 @@
-Study Title: The Physical and Psychological Effects of Telerehabilitation-Based Exercise for Patients With Nonspecific Low Back Pain: Prospective Randomized Controlled Trial.
+Study Title: Comparable Conditioned Pain Modulation and Painful-Exercise-Induced Hypoalgesia in Healthy Young Adults: A Randomized Crossover Trial.
 
 Study Summary:
-Physical therapy has demonstrated efficacy in managing nonspecific low back pain (NLBP) among patients. Nevertheless, the prevalence of NLBP poses a challenge, as the existing medical infrastructure may be insufficient to care for the large patient population, particularly in geographically remote regions. Telerehabilitation emerges as a promising method to address this concern by offering a method to deliver superior medical care to a greater number of patients with NLBP. The purpose of this study is to demonstrate the physical and psychological effectiveness of a user-centered telerehabilitation program, consisting of a smartphone app and integrated sensors, for patients with NLBP. This was a single-center, prospective, randomized controlled trial for individuals with NLBP for a duration exceeding 3 months. All participants were assigned randomly to either the telerehabilitation-based exercise group (TBEG) or the outpatient-based exercise group (OBEG). All participants completed a 30-minute regimen of strength and stretching exercises 3 times per week, for a total of 8 weeks, and were required to complete assessment questionnaires at 0, 2, 4, and 8 weeks. The TBEG completed home-based exercises and questionnaires using a telerehabilitation program, while the OBEG completed them in outpatient rehabilitation. The Oswestry Disability Index (ODI) served as the primary outcome measure, assessing physical disability. Secondary outcomes included the Numeric Pain Rating Scale, Fear-Avoidance Beliefs Questionnaire, and 36-item Short-Form Health Survey. In total, 54 of 129 eligible patients were enrolled and randomly assigned to the study. The completion of all the interventions and assessments in the TBEG and OBEG was 89% (24/27) and 81% (22/27). The findings indicate that no statistical significance was found in the difference of ODI scores between the TBEG and the OBEG at 2 weeks (mean difference -0.91; odds ratio [OR] 0.78, 95% CI -5.96 to 4.14; P=.72), 4 weeks (mean difference -3.80; OR 1.33, 95% CI -9.86 to -2.25; P=.21), and 8 weeks (mean difference -3.24; OR 0.92, 95% CI -8.65 to 2.17; P=.24). The improvement of the ODI in the TBEG (mean -16.42, SD 7.30) and OBEG (mean -13.18, SD 8.48) was higher than 10 after an 8-week intervention. No statistically significant differences were observed between the 2 groups at the 8-week mark regarding the Fear-Avoidance Beliefs Questionnaire (mean difference 8.88; OR 1.04, 95% CI -2.29 to 20.06; P=.12) and Numeric Pain Rating Scale (mean difference -0.39; OR 0.44, 95% CI -2.10 to 1.31; P=.64). In the subgroup analysis, there was no statistically significant difference in outcomes between the 2 groups. Telerehabilitation interventions demonstrate comparable therapeutic efficacy for individuals with NLBP when compared to conventional outpatient-based physical therapy, yielding comparable outcomes in pain reduction and improvement in functional limitations.
+Conditioned pain modulation and exercise-induced hypoalgesia reflect inhibitory pain controls emanating from the brain. The aim of this study was to compare the extent of pain inhibition from exercise-induced hypoalgesia (isometric wall squat), conditioned pain modulation (cold-water immersion), and their combination (wall squat followed by cold water in fixed order) in healthy pain-free adults. Sixty-one participants (median age 21 years) completed 3 sessions (wall-squat, cold-water, and&#xa0;combined) in random order. Sessions were separated by at least a week. In each session, pressure-pain thresholds, single-pinprick-pain ratings, and pinprick-temporal summation of pain (the fifth minus the first) were obtained at quadriceps, forearms, and forehead, before and after wall squat and/or cold water. Each intervention inhibited pain to pressure (partial &#x3b7;=&#xa0;.26) and single pinprick (partial &#x3b7;=&#xa0;.16) to a similar extent; however, pressure-pain inhibition was negligible in the forehead. After adjusting for age and sex, single-pinprick-pain inhibition in the forehead induced by wall squat was associated with that induced by cold water (adjusted R=&#xa0;.15;&#xa0;P&#xa0;=&#xa0;.007), and stronger pain inhibition was predicted by a higher thigh-pain rating to wall squat (adjusted R=&#xa0;.10;&#xa0;P&#xa0;=&#xa0;.027). Neither intervention affected pinprick-temporal summation of pain. Together, the findings suggest that pain-inhibitory effects of exercise-induced hypoalgesia and conditioned pain modulation may overlap when exercise is at least moderately painful (6/10 intensity). Pressure pain in body regions remote from the exercised or conditioned sites may be weakly modulated. PERSPECTIVE: The current findings suggest that pain-inhibitory effects induced by painful wall squat and by cold-water immersion may overlap. The magnitude of pain inhibition in the forehead remote from the exercised thigh or the conditioned foot appears smaller, which could be examined further in future research.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/56580
+- DOI: 10.1016/j.jpain.2024.104670
 
 2. Keywords
-- back pain
-- efficacy
-- exercise
-- health survey
-- low back pain
-- medical infrastructure
-- mobile phone
-- nonspecific low back pain
-- pain intensity
-- physical therapy
-- psychological
-- quality of life
-- randomized controlled trial
-- telerehabilitation
-- therapeutic
+- Cold pressor test, cold-water immersion, conditioned pain modulation, exercise-induced hypoalgesia, isometric wall squat
 
 3. Key Findings
-- Physical therapy has demonstrated efficacy in managing nonspecific low back pain (NLBP) among patients
-- The findings indicate that no statistical significance was found in the difference of ODI scores between the TBEG and the OBEG at 2 weeks (mean difference -0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- back pain assessment methods and outcomes
-- efficacy assessment methods and outcomes
-- exercise assessment methods and outcomes
+- Cold pressor test, cold-water immersion, conditioned pain modulation, exercise-induced hypoalgesia, isometric wall squat assessment methods and outcomes

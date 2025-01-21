@@ -1,27 +1,26 @@
-Study Title: Metformin improves skeletal muscle and physical capacity by stabilizing neuromuscular junction in older adults.
+Study Title: Liraglutide Improves Myocardial Perfusion and Energetics and Exercise&#xa0;Tolerance in Patients With Type&#xa0;2 Diabetes.
 
 Study Summary:
-Metformin is an anti-diabetic drug with protective effects on skeletal muscle and physical capacity. However, the relevant mechanisms of action on skeletal muscle remain poorly understood. We investigated the potential contribution of neuromuscular junction (NMJ) degradation to skeletal muscle and physical capacity in geriatric men taking metformin. We recruited geriatric men for placebo (Age=73.1 &#xb1; 4.2 years, n = 70) and metformin (Age=70.1 &#xb1; 4.5 years, n = 62) groups. The patients in the metformin group received 1700 mg of metformin twice a day for 16 weeks. We measured plasma c-terminal agrin-fragment-22 (CAF22) and neurofilament light chain (NfL) as markers of neuromuscular junction (NMJ) degradation and neurodegeneration, respectively, with relevance to handgrip strength (HGS) and short physical performance battery (SPPB; a marker of physical capacity) in older adults taking metformin. These findings were associated with reduced oxidative stress in the metformin group. At baseline, both groups had similar HGS, gait speed, SPPB scores, and plasma biochemistry. Metformin improved HGS, gait speed, and cumulative SPPB scores in geriatric men (all p < 0.05). Metformin also reduced plasma CAF22 and NfL levels when compared to baseline. Similar observations were not found in the placebo group. Correlation analysis revealed significant correlations of plasma CAF22 with HGS, gait speed, and cumulative SPPB scores in the metformin group. These observations were associated with reduced oxidative stress in the metformin group. Altogether, the restorative effects of metformin on skeletal muscle and physical capacity involve NMJ stabilization. Our data is clinically relevant for geriatric men with functional disabilities.
+Type 2 diabetes (T2D) is characterized by insulin resistance (IR) and dysregulated insulin secretion. Glucagon-like peptide-1 receptor agonist liraglutide promotes insulin secretion, whereas thiazolidinedione-pioglitazone decreases IR. This study aimed to compare the efficacies of increasing insulin secretion vs decreasing IR strategies for improving myocardial perfusion, energetics, and function in T2D via an open-label randomized crossover trial. Forty-one patients with T2D (age 63 years [95%&#xa0;CI: 59-68 years], 27 [66%] male, body mass index 27.8&#xa0;kg/m) [95%&#xa0;CI: 26.1-29.5&#xa0;kg/m)]) without cardiovascular disease were randomized to liraglutide or pioglitazone for a 16-week treatment followed by an 8-week washout and a further 16-week treatment with the second trial drug. Participants underwent rest and dobutamine stressphosphorus magnetic resonance spectroscopy and cardiovascular magnetic resonance for measuring the myocardial energetics index phosphocreatine to adenosine triphosphate ratio, myocardial perfusion (rest, dobutamine stress myocardial blood flow, and myocardial perfusion reserve), left ventricular (LV) volumes, systolic and diastolic function (mitral in-flow E/A ratio), before and after treatment. The 6-minute walk-test was used for functional assessments. Pioglitazone treatment resulted in significant increases in LV mass (96&#xa0;g [95%&#xa0;CI: 68-105 g] to 105&#xa0;g [95%&#xa0;CI: 74-115 g]; P = 0.003) and mitral-inflow E/A ratio (1.04 [95%&#xa0;CI: 0.62-1.21] to 1.34 [95% CI: 0.70-1.54]; P = 0.008), and a significant reduction in LV concentricity index (0.79 mg/mL [95%&#xa0;CI: 0.61-0.85 mg/mL] to 0.73 mg/mL [95%&#xa0;CI: 0.56-0.79 mg/mL]; P&#xa0;=&#xa0;0.04). Liraglutide treatment increased stress myocardial blood flow (1.62&#xa0;mL/g/min [95%&#xa0;CI: 1.19-1.75&#xa0;mL/g/min] to 2.08&#xa0;mL/g/min [95%&#xa0;CI: 1.57-2.24&#xa0;mL/g/min]; P&#xa0;=&#xa0;0.01) and myocardial perfusion reserve (2.40 [95%&#xa0;CI: 1.55-2.68] to 2.90 [95%&#xa0;CI: 1.83-3.18]; P&#xa0;=&#xa0;0.01). Liraglutide treatment also significantly increased the rest (1.47 [95%&#xa0;CI: 1.17-1.58] to 1.94 [95%&#xa0;CI: 1.52-2.08]; P =0.00002) and stress phosphocreatine to adenosine triphosphate ratio (1.32 [95%&#xa0;CI: 1.05-1.42] to 1.58 [95%&#xa0;CI: 1.19-1.71]; P&#xa0;=&#xa0;0.004) and 6-minute walk distance (488&#xa0;m [95%&#xa0;CI: 458-518 m] to 521 m [95%&#xa0;CI: 481-561 m]; P = 0.009). Liraglutide treatment resulted in improved myocardial perfusion, energetics, and 6-minute walk distance in patients with T2D, whereas pioglitazone showed no effect on these parameters (Lean-DM [Targeting Beta-cell Failure in Lean Patients With Type 2 Diabetes]; NCT04657939).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.archger.2024.105587
+- DOI: 10.1016/j.jacc.2024.04.064
 
 2. Keywords
-- CAF22
-- Handgrip strength
-- Metformin
-- Neuromuscular junction
-- Short physical performance battery
+- cardiovascular magnetic resonance imaging
+- glucagon like peptide 1 receptor agonists
+- liraglutide
+- magnetic resonance spectroscopy, pioglitazone
+- type 2 diabetes
 
 3. Key Findings
-- Similar observations were not found in the placebo group
-- Correlation analysis revealed significant correlations of plasma CAF22 with HGS, gait speed, and cumulative SPPB scores in the metformin group
+- Liraglutide treatment resulted in improved myocardial perfusion, energetics, and 6-minute walk distance in patients with T2D, whereas pioglitazone showed no effect on these parameters (Lean-DM [Targeting Beta-cell Failure in Lean Patients With Type 2 Diabetes]; NCT04657939)
 
 This study provides insights into:
-- CAF22 assessment methods and outcomes
-- Handgrip strength assessment methods and outcomes
-- Metformin assessment methods and outcomes
+- cardiovascular magnetic resonance imaging assessment methods and outcomes
+- glucagon like peptide 1 receptor agonists assessment methods and outcomes
+- liraglutide assessment methods and outcomes

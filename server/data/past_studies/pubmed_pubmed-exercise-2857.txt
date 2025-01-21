@@ -1,26 +1,20 @@
-Study Title: Bright light increases blood pressure and rate-pressure product after a single session of aerobic exercise in men.
+Study Title: Validation of a novel, low-fidelity virtual reality simulator and an artificial intelligence assessment approach for peg transfer laparoscopic training.
 
 Study Summary:
-This study aimed to test whether bright light (BL) exposure attenuates the reduction in blood pressure (BP) postexercise compared to dim light (DL). Twenty healthy men (27&#x2009;&#xb1;&#x2009;5&#x2009;years) randomly underwent two experimental sessions: one under BL (5000 lux) and another under dim light (DL <8lux). In each session, subjects executed a bout of aerobic exercise (cycle ergometer, 30&#x2009;min, moderate intensity). BP (oscillometric) and heart rate (HR monitor) were measured, and rate-pressure-product (RPP) was calculated. Additionally, a 24-h ambulatory blood pressure monitoring (ABPM) was conducted after the sessions. Systolic BP decreased while HR increased significantly and similarly after the exercise in both sessions. Additionally, systolic BP levels were higher in BL than DL throughout the experimental session (P&#x2009;=&#x2009;0.04). Diastolic (P&#x2009;=&#x2009;0.02) and mean (P&#x2009;=&#x2009;0.03) BPs decreased after exercise in DL (at 30&#x2009;min), and increased in BL (at 60 and 90&#x2009;min). RPP increased in both sessions postexercise, but with a main effect revealing higher levels throughout the experimental session in BL than DL (P&#x2009;=&#x2009;0.04) and during the first 3&#x2009;h of ABPM (p&#x2009;=&#x2009;0.05). In healthy men, BL exposure increased systolic BP and cardiac work, and abolished the postexercise decreases of diastolic and mean BPs.
+Simulators are widely used in medical education, but objective and automatic assessment is not feasible with low-fidelity simulators, which can be solved with artificial intelligence (AI) and virtual reality (VR) solutions. The effectiveness of a custom-made VR simulator and an AI-based evaluator of a laparoscopic peg transfer exercise was investigated. Sixty medical students were involved in a single-blinded randomised controlled study to compare the VR simulator with the traditional box trainer. A total of 240 peg transfer exercises from the Fundamentals of Laparoscopic Surgery programme were analysed. The experts and AI-based software used the same criteria for evaluation. The algorithm detected pitfalls and measured exercise duration. Skill improvement showed no significant difference between the VR and control groups. The AI-based evaluator exhibited 95% agreement with the manual assessment. The average difference between the exercise durations measured by the two evaluation methods was 2.61&#xa0;s. The duration of the algorithmic assessment was 59.47&#xa0;s faster than the manual assessment. The VR simulator was an effective alternative practice compared with the training box simulator. The AI-based evaluation produced similar results compared with the manual assessment, and it could significantly reduce the evaluation time. AI and VR could improve the effectiveness of basic laparoscopic training.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.14814/phy2.16141
+- DOI: 10.1038/s41598-024-67435-6
 
 2. Keywords
-- exercise
-- heart rate
-- hemodynamic
-- light
-- postexercise hypotension
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Skill improvement showed no significant difference between the VR and control groups
 
 This study provides insights into:
-- exercise assessment methods and outcomes
-- heart rate assessment methods and outcomes
-- hemodynamic assessment methods and outcomes
+- General research methodology and outcomes

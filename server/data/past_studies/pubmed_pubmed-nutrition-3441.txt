@@ -1,26 +1,25 @@
-Study Title: Maternal mood, anxiety and mental health functioning after combined myo-inositol, probiotics, micronutrient supplementation from preconception: Findings from the NiPPeR RCT.
+Study Title: Effects of Radio-Taiso on Health-related Quality of Life in Older Adults With Frailty: a Randomized Controlled Trial.
 
 Study Summary:
-Observational studies have reported associations between nutrition during pregnancy and mental wellbeing. As secondary outcomes, the NiPPeR double-blind randomized trial in women planning conception investigated whether a myo-inositol, probiotics and enriched micronutrients formulation (intervention) taken preconception and throughout pregnancy could improve mental wellbeing during pregnancy and post-delivery, compared with a standard micronutrient supplement (control). Mood and anxiety symptoms were ascertained (Edinburgh Postnatal Depression Scale (EPDS), State-Trait Anxiety Inventory (STAI-state)) at preconception (baseline), 7, 28 and 34 weeks gestation, 3-weeks and 6-months post-delivery. EPDS>=13 was categorised as low mood; STAI-state>=45 as high anxiety. Change in mental health functioning was assessed as difference between preconception baseline and 6-month post-delivery 12-item Short-Form Health Survey (SF-12v2) mental component scores. Adjusting for site, ethnicity and baseline scores, there were no robust differences in EPDS and STAI-state scores between intervention and control groups across pregnancy (n = 630) and post-delivery (n = 532). Compared to controls, intervention group women averaged a 1.21 (95 %CI 0.04,2.39) higher change in SF-12v2 mental component score from preconception to 6-months post-delivery. Taking a myo-inositol, micronutrient and probiotic supplement during preconception/pregnancy had no effect on mood and anxiety, but there was evidence of a modest improvement in mental health functioning from preconception to 6-months post-delivery.
+Radio-Taiso, a long-standing exercise program in Japan, could be a sustainable public health strategy for maintaining quality of life (QoL) in older adults with frailty. This study aimed to investigate whether Radio-Taiso provided greater benefits for health-related quality of life (HRQoL) and to identify the mechanisms underlying the effectiveness in this population. A 12-week randomized controlled trial enrolled 226 older Japanese adults with pre-frailty or frailty, assessed using the modified frailty phenotype. Participants were randomly allocated to the intervention (Radio-Taiso + nutrition program) or control (nutrition program) groups. The Radio-Taiso program comprised five 60-min group sessions and daily practice at the participants' homes. The primary outcome was the change in the mental domain of HRQoL, assessed using the SF-36. The secondary outcomes included six physical fitness items and exercise self-efficacy. Overall, 104 and 105 participants in the intervention and control groups, respectively, were analyzed based on the intention-to-treat principle. The median daily practice rate of Radio-Taiso was 94.1% (interquartile range, 73.2-98.8%). Although general linear models adjusted for baseline values and allocation stratification factors showed that the intervention group obtained greater benefits (adjusted mean differences) in the up-and-go (0.3; 95% confidence interval [CI], 0.1 to 0.6 s), 2-min step-in-place (-3.2; 95% CI, -6.2 to -0.2 steps) tests, and exercise self-efficacy scale (-1.4; 95% CI, -2.6 to -0.1 points) than the control group, there were no group differences in changes in the mental domain score of HRQoL. Radio-Taiso provided greater benefits for agility/dynamic balance, aerobic endurance, and exercise self-efficacy in older adults with frailty; however, these changes do not improve HRQoL.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.psychres.2024.115813
+- DOI: 10.2188/jea.JE20230317
 
 2. Keywords
-- Maternal anxiety
-- Maternal mood
-- Mental health functioning
-- Nutrition
-- Pregnancy
+- exercise
+- multi-component physical activity
+- patient-reported outcome
+- randomized controlled trial
 
 3. Key Findings
-- Findings extraction requires manual review
+- Although general linear models adjusted for baseline values and allocation stratification factors showed that the intervention group obtained greater benefits (adjusted mean differences) in the up-and-go (0
 
 This study provides insights into:
-- Maternal anxiety assessment methods and outcomes
-- Maternal mood assessment methods and outcomes
-- Mental health functioning assessment methods and outcomes
+- exercise assessment methods and outcomes
+- multi-component physical activity assessment methods and outcomes
+- patient-reported outcome assessment methods and outcomes

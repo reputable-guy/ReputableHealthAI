@@ -1,27 +1,25 @@
-Study Title: An examination of exercise intensity and its impact on the acute release of irisin across obesity status: a randomized controlled crossover trial.
+Study Title: The Effects of a 6-Week Plyometric and Sprint Interval Training Intervention on Soccer Player's Physical Performance.
 
 Study Summary:
-Limited data exist regarding the impact of exercise intensity on irisin release and its association with insulin sensitivity in individuals of differing obesity status. The objective of this study was to investigate the impact of exercise intensity on the acute release of irisin in healthy-weight individuals and individuals with obesity, and whether irisin release during acute exercise was associated with greater insulin sensitivity across obesity status. A randomized controlled crossover study was conducted on 26 non-overweight/obese (non-OW/OB) (BMI: 22.2&#xa0;&#xb1;&#xa0;1.5 &#x2009;kg/m) and 26 overweight/obese (OW/OB) (BMI: 33.9&#xa0;&#xb1;&#xa0;6.5&#x2009; kg/m) adults who performed an acute bout of moderate-intensity continuous training (MICT), high-intensity interval training (HIIT), and rest. Irisin was quantified via ELISA and western blotting, and insulin sensitivity (Si) was estimated using the Matsuda index. OW/OB displayed a significantly lower level of circulating irisin and protein expression compared to non-OW/OB (&#xa0;<&#xa0;0.01). Insulin sensitivity was positively correlated with irisin release during MICT and HIIT in non-OW/OB (all&#xa0;<&#xa0;0.05), but not in OW/OB. Regarding irisin expression, non-OW/OB with high Si had a 2.03-fold (&#xa0;<&#xa0;0.05) increase during HIIT, while OW/OB with high Si had only a 1.54-fold increase (&#xa0;<&#xa0;0.05). These results suggest that irisin is released differently according to obesity status and varying exercise intensities. OW/OB individuals have a blunted irisin response to acute exercise and lower baseline irisin concentrations compared to non-OW/OB individuals. Although exercise stimulates irisin release in non-OW/OB individuals, only a greater exercise intensity stimulates irisin release in OW/OB individuals. These findings are clinically relevant, as irisin is associated with greater insulin sensitivity. This trial was registered at clinicaltrials.gov (NCT03514238).
+Despite the well-documented benefits of sprint interval training (SIT) and plyometric training (PT) in improving the physical fitness of soccer players, it remains unclear which of these training methods is superior for enhancing players' aerobic and anaerobic performance. Therefore, this study aimed to compare the effects of SIT and PT on physical performance measures of male soccer players. Thirty male soccer players were randomly assigned to PT (n = 10), SIT (n = 10), and an active control group (CON, n = 10). Before and after the training period, participants underwent a battery of tests consisting of vertical jump, Wingate, linear sprint with and without ball dribbling, change of direction, ball kick, and the Yo-Yo intermittent recovery level 1 (Yo-Yo IR1) tests. Both groups exhibited similar improvements in maximal kicking distance (PT, effect size [ES] = 0.68; SIT, ES = 0.92) and measures of aerobic fitness including maximum oxygen uptake (PT, ES = 1.24; SIT, ES = 1.26) and first (PT, ES = 0.85; SIT, ES = 1.08) and second (PT, ES = 0.86; SIT, ES = 0.98) ventilatory thresholds. However, PT intervention resulted in greater changes in vertical jump (ES = 1.72 vs. 0.82, p = 0.001), anaerobic power (peak power, ES = 1.62 vs. 0.97, p = 0.009; mean power, ES = 1.15 vs. 1.20, p = 0.05), linear speed (20-m, ES = -1.58 vs. -0.98, p = 0.038; 20-m with ball, ES = -0.93 vs. 0.71, p = 0.038), and change of direction ability (ES = -2.56 vs. -2.71, p = 0.046) than SIT. In conclusion, both PT and SIT demonstrated effectiveness in enhancing aerobic performance among male soccer players. However, PT yielded superior improvements in anaerobic power, vertical jump, linear speed, and change of direction performance compared to SIT. These findings suggest that PT may offer additional benefits beyond aerobic conditioning.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1139/apnm-2024-0091
+- DOI: 10.52082/jssm.2024.526
 
 2. Keywords
-- exercise
-- high-intensity interval training
-- insulin sensitivity
-- irisin
-- myokines
-- obesity
+- Interval training
+- aerobic capacity
+- exercise performance
+- jump training
 
 3. Key Findings
-- Findings extraction requires manual review
+- In conclusion, both PT and SIT demonstrated effectiveness in enhancing aerobic performance among male soccer players
 
 This study provides insights into:
-- exercise assessment methods and outcomes
-- high-intensity interval training assessment methods and outcomes
-- insulin sensitivity assessment methods and outcomes
+- Interval training assessment methods and outcomes
+- aerobic capacity assessment methods and outcomes
+- exercise performance assessment methods and outcomes

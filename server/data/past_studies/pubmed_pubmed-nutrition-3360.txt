@@ -1,25 +1,25 @@
-Study Title: Impact of a diabetes-designed meal delivery service on changes in hemoglobin Aand quality of life in patients with diabetes.
+Study Title: Effects of oropharyngeal administration of own mother's milk on oral microbial colonization in very low birth weight infants fed by gastric tube: A randomized controlled trial.
 
 Study Summary:
-Over 34 million Americans have diabetes, and nutrition therapy is essential in self-management. The primary aim of the study was to evaluate the impact of meals designed for patients with type 2 diabetes (T2D) through a meal delivery program. The primary outcome was a 3-month change in hemoglobin A(HbA). Secondary outcomes included a 3-month change in weight, blood pressure, high-density lipoprotein, low-density lipoprotein, and triglycerides. Furthermore, the study aimed to evaluate the impact of the meal delivery program on the participants' quality of life. In this randomized crossover clinical trial, patients were allocated in a 1:1 fashion to treatment sequence AB or treatment sequence BA. In Phase 1, participants allocated to sequence AB received 10 meals per week for 3 months, followed by a 3-month washout period and a 3-month standard intervention period with no meals. Participants allocated to sequence BA received 3 months of standard intervention with no meals followed by a 3-month washout period and a 3-month period with 10 meals per week. A quality-of-life survey was obtained during weeks 0, 12, 24, and 36. The mean 3-month change in HbA(primary outcome) was nearly a half point lower with meal delivery (-0.44% [95% CI: -0.85%, -0.03%]; P&#xa0;=&#xa0;0.037). The estimated mean 3-month change in quality of life was approximately 2 points lower (better) with meal delivery (-2.2 points [95% CI: -4.2, -0.3]; P&#xa0;=&#xa0;.027). There were no statistically significant differences in secondary outcomes with meal delivery (all P&#xa0;&#x2265;&#xa0;0.15). A meal delivery system for patients with T2D improves glycemic control and quality of life.
+The aim of the present study was to explore the effect of oropharyngeal mother's milk administration on oral microbial colonization in infants fed by gastric tube at different time points. Infants (n&#x2009;=&#x2009;116) with birth weight <1500&#x2009;g were randomly allocated into two groups which both received breast milk for enteral nutrition. The control group (n&#x2009;=&#x2009;51) accepted oropharyngeal normal saline administration. The experimental group (n&#x2009;=&#x2009;53) accepted oropharyngeal mother's milk administration before fed by gastric tube once every 3&#x2009;h over 21 days after birth. We analyzed the oral microbiota at initiation and 7 and 14 and 21 days later using 16S DNA amplicon sequencing. There were no difference in oral microbial diversity between the two groups at any time point, but diversity decreased significantly over time in both groups. On the first day of life, the oral microbiota of the infant in the experimental and control groups consisted mainly of Firmicutes (7.75%, 6.18%) and Proteobacteria (68.65%, 68.69%), respectively. As time increases to 21 days after birth, Firmicutes (77.67%, 77.66%) had replaced Proteobacteria (68.65%, 68.69%) as the predominant phylum. From birth to 21 days after birth, oropharyngeal mother's milk administration did not change the diversity and structural composition of the oral microbiota. The oral microbial diversity of infants declined significantly over time. Firmicutes had replaced Proteobacteria as the predominant phylum.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.dsx.2024.103004
+- DOI: 10.1002/iid3.1247
 
 2. Keywords
-- Glycated hemoglobin A
-- Meals
-- Nutrition therapy
-- Quality of life
+- human milk
+- microbiota
+- oropharynx
+- very low birth weight infants
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Glycated hemoglobin A assessment methods and outcomes
-- Meals assessment methods and outcomes
-- Nutrition therapy assessment methods and outcomes
+- human milk assessment methods and outcomes
+- microbiota assessment methods and outcomes
+- oropharynx assessment methods and outcomes

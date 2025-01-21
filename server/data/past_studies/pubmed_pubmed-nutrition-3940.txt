@@ -1,20 +1,27 @@
-Study Title: Multidisciplinary nutritional management improves nutritional and hospitalized outcomes of patients with esophageal cancer undergoing chemoradiotherapy: A randomized control trial.
+Study Title: Impact of a Homestead Food Production program on poultry rearing and egg consumption: A cluster-randomized controlled trial in Bangladesh.
 
 Study Summary:
-This study aimed to investigate the effects of multidisciplinary whole-course nutrition management on the nutritional status and complications during the course of treatment in patients with esophageal cancer (EC) undergoing chemoradiotherapy. A total of 36 EC patients undergoing chemoradiotherapy were divided into a control group (n = 18) and an intervention group (n = 18). Participants in the control group were given routine nutritional support, whereas those in the intervention group were provided whole-course nutrition management from the nutrition support team. Nutrition-related indicators, that is, serum albumin level (ALB), hemoglobin (Hb), and C reactive protein were assessed before, during, and after treatment in both groups. The incidence of complications (e.g., lymphocytopenia, radiation esophagitis, and myelosuppression), clinical outcomes, length of hospital stay, and hospital costs were also recorded. Differences between the 2 groups were tested using the Mann-Whitney U and chi-square tests. The ALB and Hb levels of the patients in the control group decreased significantly [ALB: -2.6 (-5.6, 0), P = .01; Hb: -12.0 (-27.0, -2.0), P = .04] and C reactive protein increased [8.9 (2.9, 14.9), P = .02] compared to those before treatment, while the indicators of participants in the intervention group did not change (P > .05). The incidence of grade &#x2265; II lymphocytopenia was higher in the control group than that in the intervention group (33.3% vs 61.1%, P = .03). Moreover, compared with the control group, the average length of hospital stay decreased by 12 days [47 (40, 50) vs 35 (23, 40), P = .001], and in-patient expenses decreased by 20,504 CNY in the intervention group (P = .004). Multidisciplinary whole-course nutrition management can maintain the nutritional status of patients with EC undergoing chemoradiotherapy. This may lower the incidence of complications, shorten hospital stays, and reduce in-patient expenses.
+Women and children in Bangladesh face high levels of micronutrient deficiencies from inadequate diets. We evaluated the impact of a Homestead Food Production (HFP) intervention on poultry production, as a pathway outcome, and women's and children's egg consumption, as secondary outcomes, as part of the Food and Agricultural Approaches to Reducing Malnutrition cluster-randomized trial in Sylhet division, Bangladesh. The 3-year intervention (2015-2018) promoted home gardening, poultry rearing, and nutrition counseling. We randomly allocated 96 clusters to intervention (48 clusters; 1337 women) or control (48 clusters; 1368 women). Children&#x2009;<&#x2009;3 years old born to participants were enrolled during the trial. We analyzed poultry production indicators, measured annually, and any egg consumption (24-h&#xa0;recall), measured every 2-6 months for women and their children. We conducted intention-to-treat analyses using mixed-effects logistic regression models with repeat measures, with minimal adjustment to increase precision. Poultry ownership increased by 16% points (pp) and egg production by 13 pp in the final intervention year. The intervention doubled women's odds of egg consumption in the final year (Odds Ratio [OR]: 2.31, 95% CI: 1.68-3.18), with positive effects sustained 1-year post-intervention (OR: 1.58, 95% CI: 1.16-2.15). Children's odds of egg consumption were increased in the final year (OR: 3.04, 95% CI: 1.87-4.95). Poultry ownership was associated with women's egg consumption, accounting for 12% of the total intervention effect, but not with children's egg consumption. Our findings demonstrate that an HFP program can have longer-term positive effects on poultry production and women's and children's diets.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1097/MD.0000000000033335
+- DOI: 10.1111/mcn.13505
 
 2. Keywords
-
+- animal-source foods
+- children
+- nutrition
+- nutrition-sensitive agriculture
+- small-scale poultry production
+- women
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- animal-source foods assessment methods and outcomes
+- children assessment methods and outcomes
+- nutrition assessment methods and outcomes

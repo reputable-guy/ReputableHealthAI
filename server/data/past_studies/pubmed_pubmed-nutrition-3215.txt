@@ -1,25 +1,31 @@
-Study Title: Exploring the Influence of Acid-Base Status on Athletic Performance during Simulated Three-Day 400 m Race.
+Study Title: Effects of a Ketogenic Diet on Body Composition in Healthy, Young, Normal-Weight Women: A Randomized Controlled Feeding Trial.
 
 Study Summary:
-This study aimed to investigate the ability of highly trained athletes to consistently perform at their highest level during a simulated three-day 400 m race and to examine the impact of an alkaline diet associated with chronic consumption of bicarbonate-rich water or placebo on their blood metabolic responses before and after the three races. Twenty-two highly trained athletes, divided into two groups-one with an alkalizing diet and placebo water (PLA) and the other with an alkalizing diet and bicarbonate-rich water (BIC)-performed a 400 m race for three consecutive days. Performance metrics, urine and blood samples assessing acid-base balance, and indirect markers of neuro-muscular fatigue were measured before and after each 400 m race. The evolution of the Potential Renal Acid Load (PRAL) index and urinary pH highlights the combination of an alkalizing diet and bicarbonate-rich hydration, modifying the acid-base state (< 0.05). Athletes in the PLA group replicated the same level of performance during three consecutive daily races without an increase in fatigue-associated markers. Athletes experienced similar levels of metabolic perturbations during the three 400 m races, with improved lactate clearance 20 min after the third race compared to the first two (< 0.05). This optimization of the buffering capacity through ecological alkaline nutrition and hydration allowed athletes in the BIC group to improve their performance during the third 400 m race (< 0.01). This study highlights athletes' ability to replicate high-level performances over three consecutive days with the same extreme level of metabolic disturbances, and an alkaline diet combined with bicarbonate-rich water consumption appears to enhance performance in a 400 m race.
+This study investigates the effects of a ketogenic low-carbohydrate high-fat (LCHF) diet on body composition in healthy, young, normal-weight women. With the increasing interest in ketogenic diets for their various health benefits, this research aims to understand their impact on body composition, focusing on women who are often underrepresented in such studies. Conducting a randomized controlled feeding trial with a crossover design, this study compares a ketogenic LCHF diet to a Swedish National Food Agency (NFA)-recommended control diet over four weeks. Seventeen healthy, young, normal-weight women adhered strictly to the provided diets, with ketosis confirmed through blood &#x3b2;-hydroxybutyrate concentrations. Dual-energy X-ray absorptiometry (DXA) was utilized for precise body composition measurements. To avoid bias, all statistical analyses were performed blind. The findings reveal that the ketogenic LCHF diet led to a significant reduction in both lean mass (-1.45 kg 95% CI: [-1.90;-1.00];< 0.001) and fat mass (-0.66 kg 95% CI: [-1.00;-0.32];< 0.001) compared to the control diet, despite similar energy intake and physical activity levels. This study concludes that while the ketogenic LCHF diet is effective for weight loss, it disproportionately reduces lean mass over fat mass, suggesting the need for concurrent strength training to mitigate muscle loss in women following this diet.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16131987
+- DOI: 10.3390/nu16132030
 
 2. Keywords
-- anaerobic performance
-- high-intensity exercise
-- nutritional strategy
-- sodium bicarbonate supplementation
+- DEXA
+- carbohydrate restriction
+- fat-free mass (FFM)
+- female
+- high-fat diet (HFD)
+- low-carbohydrate diet (LCD)
+- metabolism
+- saturated fatty acids
+- sports nutrition
+- weight reduction
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- anaerobic performance assessment methods and outcomes
-- high-intensity exercise assessment methods and outcomes
-- nutritional strategy assessment methods and outcomes
+- DEXA assessment methods and outcomes
+- carbohydrate restriction assessment methods and outcomes
+- fat-free mass (FFM) assessment methods and outcomes

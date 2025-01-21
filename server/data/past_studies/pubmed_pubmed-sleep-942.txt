@@ -1,20 +1,25 @@
-Study Title: Impact of Difelikefalin on the Health-Related Quality of Life of Haemodialysis Patients with Moderate-To-Severe Chronic Kidney Disease-Associated Pruritus: A Single-Arm Intervention Trial.
+Study Title: Wellness Perception of South Korean Elementary School Students during the COVID-19 Endemic.
 
 Study Summary:
-Chronic kidney disease-associated pruritus (CKD-aP) can have a substantial negative impact on health-related quality of life (HRQoL), including an increased risk of depression, anxiety and sleep disturbance. This trial aimed to assess the impact of intravenous difelikefalin on HRQoL in haemodialysis patients with moderate-to-severe CKD-aP. Post hoc analysis of an open-label, multicentre, single-arm intervention trial assessed pruritus severity and HRQoL at baseline and at 12 weeks of difelikefalin treatment using Worst Itching Intensity Numerical Rating Scale (WI-NRS), Sleep Quality Numeric Rating Scale (SQ-NRS), 5-D itch scale, Skindex-10 scale, EQ-5D-5L with Pruritus Bolt-On (EQ-PSO). A total of 222 patients received &#x2265; 1 dose of difelikefalin, and 197 patients completed 12 weeks of difelikefalin treatment. Clinically meaningful changes from baseline to 12 weeks were observed in all disease-specific measures: 73.7% of patients achieved a &#x2265; 3-point reduction in the weekly mean of 24 h WI-NRS scores and 66% of patients experienced &#x2265; 3-point improvements in SQ-NRS scores. Improvements were also observed in all Skindex-10 scale and 5-D itch scale domain scores. The percentage of patients reporting no problems in all EQ-PSO domains increased from 1.4 to 24.7% (p < 0.001), respectively. Patients' generic HRQoL EQ-5D-5L mean utility and EQ-5D visual analogue scale scores increased from baseline to 12 weeks: mean changes 0.04 (p = 0.001) and 2.8 (p = 0.046), respectively. Patients undergoing haemodialysis with moderate-to-severe CKD-aP receiving difelikefalin reported experiencing clinically meaningful improvements in both their pruritus symptoms and itch-related QoL. gov registration number, NCT03998163; first submitted, 7 May 2019.
+This study aimed to analyze health management awareness among South Korean elementary school students in COVID-19 endemic areas. Using convenience sampling, 675 South Korean elementary school students (age 11-12 years old) were selected as participants in July 2023. Data for the study were collected via online and offline surveys between July and August 2023. The collected data were subjected to frequency, reliability, and multicollinearity analyses, independent sample-tests, and importance-performance analysis (IPA). The findings indicated the following: (1) There was no significant difference in health management performance between male and female children. (2) Children who had not experienced COVID-19 infection, had a higher level of "hygiene management" performance. (3) Among children who did not wear masks during physical activity, "mental health management" and "physical activity management" performance were higher, while "hygiene management" performance was lower. (4) The IPA matrix analysis revealed that, compared to the COVID-19 pandemic period, "physical activity management", "dietary habit management", and "sleep management" still required improvement, while "hygiene management" and "disease management" appeared to have decreased due to the relaxation of epidemic control efforts. As per the study's findings, schools, local communities, and families should make efforts to develop and implement preventive and individualized health management programs that consider the individual characteristics of their children.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s40271-023-00668-1
+- DOI: 10.3390/healthcare12010069
 
 2. Keywords
-
+- elementary student
+- endemic
+- health perception
 
 3. Key Findings
-- Findings extraction requires manual review
+- The findings indicated the following: (1) There was no significant difference in health management performance between male and female children
+- (4) The IPA matrix analysis revealed that, compared to the COVID-19 pandemic period, "physical activity management", "dietary habit management", and "sleep management" still required improvement, while "hygiene management" and "disease management" appeared to have decreased due to the relaxation of epidemic control efforts
 
 This study provides insights into:
-- General research methodology and outcomes
+- elementary student assessment methods and outcomes
+- endemic assessment methods and outcomes
+- health perception assessment methods and outcomes

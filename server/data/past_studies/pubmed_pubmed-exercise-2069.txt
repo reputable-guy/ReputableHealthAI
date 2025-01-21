@@ -1,20 +1,26 @@
-Study Title: Can transcranial direct current stimulation (tDCS) over the motor cortex increase endurance running performance? a randomized crossover-controlled trial.
+Study Title: The effect of Virtual Reality Cycling with Music on simple obesity in college students: evidence from a randomized controlled trial in China.
 
 Study Summary:
-Transcranial direct current stimulation (tDCS), a non-invasive brain stimulation technique, has been shown to increase exercise performance in strength and cycling studies but its effects on running endurance remain unclear. The objectives of this randomized sham-controlled crossover trial were to assess tDCS efficacy on submaximal treadmill running time to exhaustion (TTE). Forty-five healthy male runners aged between 18 and 32 years (mean maximal oxygen consumption: 46.6 mL/min/kg) performed two constant-load tests at 90% of their maximal aerobic speed preceded by 20 minutes of active or sham multichannel (5 anodes, 3 cathodes) tDCS applied over the bilateral motor cortex with a total intensity of 4 mA. Ratings of perceived exertion (RPE), blood lactate, VO2, and heart rate were monitored every five minutes until volitional exhaustion. The median [IQR] TTE was similar following active (12.2 [10.5, 16.1] minutes) or sham (12.5 [10.2, 15.1] minutes) tDCS (p = 0.96). Likewise, there were no significant differences between active and sham conditions for RPE, blood lactate, final VO2, and final heart rate (all p &#x2265;0.05). No difference in TTE was found when stratifying groups according to their VO2max (i.e., VO2max &#x2265; 45 mL/min/Kg, p = 0.53; VO2max < 45 mL/min/Kg, p = 0.45) but there was a trend for a significant correlation between VO2max and change in TTE (p = 0.06). TDCS applied over the bilateral motor cortex did not improve endurance performance in a large sample of trained runners. Characterization of individual tDCS responsiveness deserves further consideration. In our experimental conditions, tDCS had no ergogenic effect on endurance running performance. Trial registration: Clinical trial registration: NCT04005846.
+Simple obesity has become an increasingly prevalent health concern among college students. Existing research indicates that traditional exercise methods may not sufficiently engage this population, particularly those facing barriers to regular physical activity. Thus, this study investigated how combining VR cycling with music influenced fat reduction in this population. This study recruited 78 Chinese college students with simple obesity (BMI&#x2009;&#x2265;&#x2009;28&#x2009;kg/m) and randomly assigned them to either an experimental group (VR cycling combined with music,&#x2009;=&#x2009;41) or a control group (traditional cycling,&#x2009;=&#x2009;37). Both groups engaged in 12&#x2009;weeks of cycling training, three times a week, for 45&#x2009;min per session. Key physiological indicators, such as weight, BMI, waist circumference, and hip circumference, were measured at baseline, mid-intervention, and post-intervention. The VR cycling with music group exhibited significant improvements in key physiological metrics compared to the control group. Notable changes included a 4.1% reduction in weight, a 2.8% decrease in BMI, and a 2.8% reduction in waist circumference. Hip circumference also decreased by 2.5%, while the waist-to-hip ratio dropped by 0.016 units. Furthermore, the intervention led to a 7.2% increase in vital capacity, with all outcomes showing statistical significance (<0.01). The experimental group also reported higher levels of enjoyment and engagement throughout the intervention period. Participants in the experimental group experienced significant reductions in weight, BMI, and both waist and hip circumferences, as well as a notable improvement in vital capacity. The study highlights that combining virtual reality cycling with music resulted in more substantial weight loss and fat reduction in obese college students, compared to traditional cycling methods.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0312084
+- DOI: 10.3389/fpubh.2024.1466142
 
 2. Keywords
-
+- music intervention
+- shaping
+- simple obesity
+- virtual reality cycling
+- youth sport
 
 3. Key Findings
-- No difference in TTE was found when stratifying groups according to their VO2max (i
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- music intervention assessment methods and outcomes
+- shaping assessment methods and outcomes
+- simple obesity assessment methods and outcomes

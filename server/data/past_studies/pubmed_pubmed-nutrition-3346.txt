@@ -1,29 +1,26 @@
-Study Title: Time-restricted feeding can increase food-related impulsivity: a randomized controlled trial.
+Study Title: The effectiveness of the TRACE online nutrition intervention in improving dietary intake, sleep quality and physical activity levels for Australian adults with food addiction: a randomised controlled trial.
 
 Study Summary:
-Although an increasing number of studies show that time-restricted feeding may improve metabolic health, studies examining the behavioral effects of this eating pattern are limited. This study examined the effect of time-restricted feeding on impulsivity in adults. Thirty adults aged 25-41 years participated in this randomized controlled trial. The intervention group followed time-restricted feeding for 4 weeks and there was no energy restriction in the intervention group (n&#x2009;=&#x2009;15) or control group (n&#x2009;=&#x2009;15). Impulsivity was assessed before and after the intervention with the Barratt Impulsiveness Scale and the Go/NoGo task. The compliance rate (the percentage of days when participants had a feeding time of&#x2009;&#x2264;&#x2009;8 hours/day) of the intervention group to the time-restricted feeding pattern was 92.38&#x2009;&#xb1;&#x2009;4.24%. The Barratt Impulsiveness Scale-11 total score of the intervention group increased from 55.53&#x2009;&#xb1;&#x2009;6.37 to 59.47&#x2009;&#xb1;&#x2009;7.67During the Go/NoGo task, an indicator of inhibitory control, the reaction time to food and non-food stimuli was significantly shortened in the intervention groupIn the control group, no significant change was detected in impulsivity determined by the BIS-11 or Go/NoGo task. This study showed that although time-restricted feeding may reduce body weight, it can lead to increased impulsivity and impaired inhibitory control.ClinicalTrials.gov identifier: NCT04960969.
+Few interventions for food addiction (FA) report on dietary intake variables. The present study comprised a three-arm randomised controlled trial in adults with symptoms of FA. The aim was to evaluate dietary intake, sleep and physical activity resulting from a dietitian-led telehealth intervention at 3 months. Adults with &#x2265;3 symptoms of FA and a body mass index&#x2009;>&#x2009;18.5&#x2009;kg/mwere recruited. Dietary intake including energy, nutrients and diet quality were assessed by a validated food frequency questionnaire in addition to sleep quality and physical activity (total min) and compared between groups and over time. Personalised dietary goals set by participants were examined to determine whether improvements in percent energy from core and non-core foods were reported. The active intervention group was superior compared to the passive intervention and control groups for improvements in percent energy from core (6.4%/day [95% confidence interval (CI) -0.0 to 12.9], p&#x2009;=&#x2009;0.049), non-core foods (-6.4%/day [95% CI -12.9 to 0.0], p&#x2009;=&#x2009;0.049), sweetened drinks (-1.7%/day [95% CI -2.9 to -0.4], p&#x2009;=&#x2009;0.013), takeaway foods (-2.3%/day [95% CI -4.5 to -0.1], p&#x2009;=&#x2009;0.045) and sodium (-478&#x2009;mg/day [95% CI -765 to -191&#x2009;mg], p&#x2009;=&#x2009;0.001). A dietitian-led telehealth intervention for Australian adults with FA found significant improvements in dietary intake variables. Setting personalised goals around nutrition and eating behaviours was beneficial for lifestyle change.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1080/1028415X.2024.2344139
+- Publication Date: 2024
+- DOI: 10.1111/jhn.13312
 
 2. Keywords
-- Impulsive behavior
-- diet
-- fasting
-- feeding and eating disorders
-- feeding behavior
-- &#x200c;neurosciences
-- &#x200c;nutrition therapy
-- &#x200c;nutritional sciences
+- Yale Food Addiction Scale
+- dietary intake
+- food addiction
+- physical activity
+- sleep quality
 
 3. Key Findings
-- This study showed that although time-restricted feeding may reduce body weight, it can lead to increased impulsivity and impaired inhibitory control
+- A dietitian-led telehealth intervention for Australian adults with FA found significant improvements in dietary intake variables
 
 This study provides insights into:
-- Impulsive behavior assessment methods and outcomes
-- diet assessment methods and outcomes
-- fasting assessment methods and outcomes
+- Yale Food Addiction Scale assessment methods and outcomes
+- dietary intake assessment methods and outcomes
+- food addiction assessment methods and outcomes

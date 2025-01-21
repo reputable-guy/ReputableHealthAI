@@ -1,25 +1,27 @@
-Study Title: The Effect of Blood Flow Restriction Exercise Prior to Total Knee Arthroplasty on Postoperative Physical Function, Lower Limb Strength and Patient-Reported Outcomes: A&#xa0;Randomized Controlled Trial.
+Study Title: The effect of a standardized verbal encouragement protocol on peak oxygen uptake during incremental treadmill testing in healthy individuals: A randomized cross-over trial.
 
 Study Summary:
-The trial aimed to examine the effect of eight weeks preoperative low-load blood flow restricted resistance training (BFR-RT) on physical function, lower limb strength, and patient-reported outcomes in knee OA patients 3 and 12&#x2009;months after total knee arthroplasty (TKA) compared with preoperative usual care. An assessor blinded randomized controlled trial (RCT) was conducted. Eighty-six patients scheduled for TKA who were allocated to 8&#x2009;weeks BFR-RT on the affected leg 3x/week or preoperative usual care involving no exercise (CON). 30-s sit to stand (30STS). Timed Up&Go, 40-m walk test (40mWT), knee range of motion (ROM) 1-repetition maximum (1RM) leg press and knee extensor strength, maximal isometric contraction (MVIC) for the knee extensors and flexors, Knee injury and Osteoarthritis Outcome Score (KOOS), and Euroqol 5-dimensions (EQ-5D-L5) questionnaire. Data were collected at baseline (12&#x2009;weeks pre-surgery), ~3&#x2009;days pre-surgery, 3 and 12&#x2009;months postoperatively. Intention-to-treat analysis revealed no significant between-group differences in the change from baseline to 3 and 12&#x2009;months postoperatively on 30STS, TUG, or 40mFWT. Significant between-group differences were observed at 3 but not 12&#x2009;months postoperatively for the corresponding changes in 1RM leg press strength, 1RM knee extensor strength, and MVIC knee extensor favoring BFR-RT. No between-group differences were observed for the delta changes from baseline in knee ROM, KOOS subscales or EQ-5D-L5 at any postoperative time points. These findings suggest that preoperative BFR-RT offered no superior effects compared with usual preoperative care on postoperative physical function or patient-reported outcomes. Preoperative BFR-RT produced amplified gains in lower limb muscle strength at 3&#x2009;months postoperatively. NCT04081493.
+Peak oxygen uptake (V&#x307;O) is considered a vital indicator of health and physical fitness that is often measured during incremental exercise testing. While previous research has shown that the attained V&#x307;Oduring exercise testing can be influenced by verbal encouragement, no or limited details were provided on the verbal encouragement protocol, hereby hampering implementation in clinical practice or research. Moreover, it remains unknown whether motivation modulates the effect of verbal encouragement. This study aimed to develop and examine the influence of a standardized verbal encouragement protocol on the achieved V&#x307;O, time to exhaustion (TTE), peak heart rate (HR), and peak respiratory exchange ratio (RER) during incremental treadmill testing. As a secondary aim, we investigated whether motivation modulated the effect of verbal encouragement on V&#x307;O. 24 healthy volunteers performed two incremental treadmill runs with 1&#xa0;week in between and received verbal encouragement during only one of the tests. Motivation toward exercise was measured using the behavioral regulation in exercise questionnaire-2 (BREQ-2) questionnaire. V&#x307;O(&#x394; 2.10&#xa0;mL/kg/min, p&#xa0;<&#xa0;0.001) and RER(&#x394; 2%, p&#xa0;=&#xa0;0.042) were significantly higher with verbal encouragement. In contrast, HR(&#x394; 1.5&#xa0;beats/min, p&#xa0;=&#xa0;0.225) and TTE (&#x394; 1.5%, p&#xa0;=&#xa0;0.348) were not significantly different between conditions. Exercise motivation showed a weak and nonsignificant association with the change in V&#x307;Obetween tests (r -0.19, R0.037, SEE 2.88, and p&#xa0;=&#xa0;0.367). These findings show that verbal encouragement leads to higher physiological outcomes during incremental treadmill testing, but the magnitude of this effect is not higher for individuals with lower levels of pretest motivation.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/sms.14750
+- DOI: 10.1002/ejsc.12044
 
 2. Keywords
-- exercise medicine
-- occlusion training
-- physical function
-- prehabilitation
+- cardiopulmonary exercise testing
+- cardiorespiratory fitness
+- maximal heart rate
+- maximal oxygen uptake
+- motivation
+- running
 
 3. Key Findings
-- Intention-to-treat analysis revealed no significant between-group differences in the change from baseline to 3 and 12&#x2009;months postoperatively on 30STS, TUG, or 40mFWT
+- Exercise motivation showed a weak and nonsignificant association with the change in V&#x307;Obetween tests (r -0
 
 This study provides insights into:
-- exercise medicine assessment methods and outcomes
-- occlusion training assessment methods and outcomes
-- physical function assessment methods and outcomes
+- cardiopulmonary exercise testing assessment methods and outcomes
+- cardiorespiratory fitness assessment methods and outcomes
+- maximal heart rate assessment methods and outcomes

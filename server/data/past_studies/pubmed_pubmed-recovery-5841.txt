@@ -1,31 +1,20 @@
-Study Title: An Aerobic Cooldown After Morning, Fasted Resistance Exercise Has Limited Impact on Post-exercise Hyperglycemia in Adults With Type&#xa0;1&#xa0;Diabetes: A Randomized Crossover Study.
+Study Title: Probiotic Compounds Enhanced Recovery after Surgery for Patients with Distal Gastric Cancer: A Prospective, Controlled Clinical Trial.
 
 Study Summary:
-Expert guidelines recommend an aerobic cooldown to lower blood glucose for the management of post-exercise hyperglycemia. This strategy has never been empirically tested. Our aim in this study was to compare the glycemic effects of performing an aerobic cooldown vs not performing a cooldown after a fasted resistance exercise session. We hypothesized that the cooldown would lower blood glucose in the 30 minutes after exercise and would result in less time in hyperglycemia in the 6 hours after exercise. Participants completed 2 identical resistance exercise sessions. One was followed by a low-intensity (30% of peak oxygen consumption) 10-minute cycle ergometer cooldown, and the other was followed by 10 minutes of sitting. We compared the changes in capillary glucose concentration during these sessions and continuous glucose monitoring (CGM) outcomes over 24 hours post-exercise. Sixteen participants completed the trial. Capillary glucose was similar between conditions at the start of exercise (p=0.07). Capillary glucose concentration decreased by 0.6&#xb1;1.0 mmol/L during the 10-minute cooldown, but it increased by 0.7&#xb1;1.3 mmol/L during the same time in the no-cooldown condition. The resulting difference in glucose trajectory led to a significant interaction (p=0.02), with no effect from treatment (p=0.7). Capillary glucose values at the end of recovery were similar between conditions (p>0.05). There were no significant differences in CGM outcomes. An aerobic cooldown reduces glucose concentration in the post-exercise period, but the small and brief nature of this reduction makes this strategy unlikely to be an effective treatment for hyperglycemia occurring after fasted exercise.
+Enhanced recovery after surgery (ERAS) for radical distal gastrectomy needs to be improved urgently. We investigated the effects of probiotic compounds (including Lactobacillus plantarum, L. rhamnosus, L. acidophilus, and Bifidobacterium animalis subsp.lactis) on enhance recovery after gastrectomy. The patients in this prospective study were divided into probiotic group (PG group, n = 36) and placebo group (CG group, n = 38), taking corresponding capsule according to the protocol during the perioperative period. We compared the trends in perioperative hematologic findings and the postoperative outcomes. Patients' feces were collected for bacterial 16S rRNA sequencing. Patients were followed up at 1 month postoperatively. After the application of probiotics, the patients' postoperative inflammatory response level was reduced, and the trend of postoperative NLR decrease was significantly faster in the patients of the PG group than in the CG group (P = 0.047, partial &#x3b7;= 0.054). The trend of postoperative increase in serum albumin concentration in the patients of the PG group was significantly better than that in the CG group (P = 0.016, partial &#x3b7;= 0.078). In addition, patients in the PG group met discharge criteria earlier postoperatively and had fewer medical expenses. The quality of life of PG group was improved postoperatively. Postoperative inflammation-related markers, including the ratio of Firmicutes/Bacteroidetes, were increasing in untreated patients. In addition, the postoperative microbial diversity and abundance in the PG group remained stable. Probiotic compounds can reduce the inflammatory response after gastrectomy and enhance the recovery of the DGC patients by maintaining the stability of the gut microbiota.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jcjd.2024.05.001
+- DOI: 10.1245/s10434-024-15394-7
 
 2. Keywords
-- adultes
-- adults
-- continuous glucose monitoring
-- diab&#xe8;te de type 1
-- exercice de r&#xe9;sistance
-- exercice &#xe0; jeun
-- fasted exercise
-- resistance exercise
-- surveillance continue du glucose
-- type 1 diabetes mellitus
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- adultes assessment methods and outcomes
-- adults assessment methods and outcomes
-- continuous glucose monitoring assessment methods and outcomes
+- General research methodology and outcomes

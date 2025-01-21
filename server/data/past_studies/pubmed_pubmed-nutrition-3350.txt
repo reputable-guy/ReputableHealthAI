@@ -1,20 +1,31 @@
-Study Title: Randomised clinical trial: First-line infliximab biosimilar is cost-effective compared to conventional treatment in paediatric Crohn's disease.
+Study Title: Japan-Multimodal Intervention Trial for the Prevention of Dementia: A randomized controlled trial.
 
 Study Summary:
-Data on cost-effectiveness of first-line infliximab in paediatric patients with Crohn's disease are limited. Since biologics are increasingly prescribed and accompanied by high costs, this knowledge gap needs to be addressed. To investigate the cost-effectiveness of first-line infliximab compared to conventional treatment in children with moderate-to-severe Crohn's disease. We included patients from the Top-down Infliximab Study in Kids with Crohn's disease randomised controlled trial. Children with newly diagnosed moderate-to-severe Crohn's disease were treated with azathioprine maintenance and either five induction infliximab (biosimilar) infusions or conventional induction treatment (exclusive enteral nutrition or corticosteroids). Direct healthcare consumption and costs were obtained per patient until week 104. This included data on outpatient hospital visits, hospital admissions, drug costs, endoscopies and surgeries. The primary health outcome was the odds ratio of being in clinical remission (weighted paediatric Crohn's disease activity index<12.5) during 104&#x2009;weeks. We included 89 patients (44 in the first-line infliximab group and 45 in the conventional treatment group). Mean direct healthcare costs per patient were &#x20ac;36,784 for first-line infliximab treatment and &#x20ac;36,874 for conventional treatment over 2&#x2009;years (p&#x2009;=&#x2009;0.981). The odds ratio of first-line infliximab versus conventional treatment to be in clinical remission over 104&#x2009;weeks was 1.56 (95%CI 1.03-2.35, p&#x2009;=&#x2009;0.036). First-line infliximab treatment resulted in higher odds of being in clinical remission without being more expensive, making it the dominant strategy over conventional treatment in the first 2&#x2009;years after diagnosis in children with moderate-to-severe Crohn's disease. NCT02517684.
+We examined the efficacy of a multidomain intervention in preventing cognitive decline among Japanese older adults with mild cognitive impairment (MCI). Participants aged 65-85 years with MCI were randomized into intervention (management of vascular risk factors, exercise, nutritional counseling, and cognitive training) and control groups. The primary outcome was changes in the cognitive composite score over a period of 18 months. Of 531 participants, 406 completed the trial. The between-group difference in composite score changes was 0.047 (95% CI: -0.029 to 0.124). Secondary analyses indicated positive impacts of interventions on several secondary health outcomes. The interventions appeared to be particularly effective for individuals with high attendance during exercise sessions and those with the apolipoprotein E &#x3b5;4 allele and elevated plasma glial fibrillary acidic protein levels. The multidomain intervention showed no efficacy in preventing cognitive decline. Further research on more efficient strategies and suitable target populations is required. This trial evaluated the efficacy of multidomain intervention in individuals with MCI. The trial did not show a significant difference in preplanned cognitive outcomes. Interventions had positive effects on a wide range of secondary health outcomes. Those with adequate adherence or high risk of dementia benefited from interventions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/apt.18000
+- DOI: 10.1002/alz.13838
 
 2. Keywords
-
+- cognitive decline
+- cognitive training
+- dementia
+- diet
+- mild cognitive impairment
+- multidomain intervention
+- nutrition
+- physical exercise
+- randomized control trial
 
 3. Key Findings
-- Findings extraction requires manual review
+- Secondary analyses indicated positive impacts of interventions on several secondary health outcomes
+- The multidomain intervention showed no efficacy in preventing cognitive decline
 
 This study provides insights into:
-- General research methodology and outcomes
+- cognitive decline assessment methods and outcomes
+- cognitive training assessment methods and outcomes
+- dementia assessment methods and outcomes

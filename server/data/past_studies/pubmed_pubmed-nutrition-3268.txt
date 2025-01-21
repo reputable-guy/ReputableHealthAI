@@ -1,27 +1,28 @@
-Study Title: A comprehensive approach to lifestyle intervention based on a calorie-restricted diet ameliorates liver fat in overweight/obese patients with NAFLD: a multicenter randomized controlled trial in China.
+Study Title: Toxic elements identified in breast milk of mothers residing in water contaminated region of Sindh and their impact on infants' growth patterns: A case-control study.
 
 Study Summary:
-Nonalcoholic fatty liver disease (NAFLD) is a globally increasing health epidemic. Lifestyle intervention is recommended as the main therapy for NAFLD. However, the optimal approach is still unclear. This study aimed to evaluate the effects of a comprehensive approach of intensive lifestyle intervention (ILI) concerning enhanced control of calorie-restricted diet (CRD), exercise, and personalized nutrition counseling on liver steatosis and extrahepatic metabolic status in Chinese overweight and obese patients with NAFLD. This study was a multicenter randomized controlled trial (RCT) conducted across seven hospitals in China. It involved 226 participants with a body mass index (BMI) above 25. These participants were randomly assigned to two groups: the ILI group, which followed a low carbohydrate, high protein CRD combined with exercise and intensive counseling from a dietitian, and a control group, which adhered to a balanced CRD along with exercise and standard counseling. The main measure of the study was the change in the fat attenuation parameter (FAP) from the start of the study to week 12, analyzed within the per-protocol set. Secondary measures included changes in BMI, liver stiffness measurement (LSM), and the improvement of various metabolic indexes. Additionally, predetermined subgroup analyses of the FAP were conducted based on variables like gender, age, BMI, ethnicity, hyperlipidemia, and hypertension. A total of 167 participants completed the whole study. Compared to the control group, ILI participants achieved a significant reduction in FAP (LS mean difference, 16.07 [95% CI: 8.90-23.25] dB/m) and BMI (LS mean difference, 1.46 [95% CI: 1.09-1.82] kg/m) but not in LSM improvement (LS mean difference, 0.20 [95% CI: -0.19-0.59] kPa). The ILI also substantially improved other secondary outcomes (including ALT, AST, GGT, body fat mass, muscle mass and skeletal muscle mass, triglyceride, fasting blood glucose, fasting insulin, HbA1c, HOMA-IR, HOMA-&#x3b2;, blood pressure, and homocysteine). Further subgroup analyses showed that ILI, rather than control intervention, led to more significant FAP reduction, especially in patients with concurrent hypertension (p&#x2009;<&#x2009;0.001). In this RCT, a 12-week intensive lifestyle intervention program led to significant improvements in liver steatosis and other metabolic indicators in overweight and obese Chinese patients suffering from nonalcoholic fatty liver disease. Further research is required to confirm the long-term advantages and practicality of this approach. This clinical trial was registered on ClinicalTrials.gov (registration number: NCT03972631) in June 2019.
+Breast milk is a vital source of nutrition for breastfed infants, providing essential nutrients and elements but, in some cases, toxic ones. This is the first case-control study that investigated the elemental profile of breast milk samples collected from mothers residing in Matiari (Sindh), a region with insufficient industrial waste management, and its potential impact on infants' anthropometrics. Precisely, 62 milk samples, including 42 cases and 20 controls, were analyzed using the ICP-MS technique. Overall, six elements showed significance between the two groups, arsenic (As) was present at 0.68&#xa0;&#x3bc;g/L in cases and absent in controls, while lead (Pb) exhibited elevated concentrations in the case group at 4.56&#xa0;&#x3bc;g/L compared to 0.25&#xa0;&#x3bc;g/L in controls, well-known for their toxicity. Barium (Ba) and manganese (Mn) levels were also higher in cases, associated with reported health effects on child well-being. Essential elements molybdenum (Mo) and selenium (Se) were higher in the controls. Furthermore, the association of these metals with the child growth standards as per WHO guidelines was calculated. Linear regression analysis revealed As negatively associated with WAZ and WHZ scores, while Mo was positively associated with WAZ, WHZ, and HAZ scores. These findings highlight serious health concerns in the region, where toxic elements pervade drinking water and food sources. Immediate actions are imperative to maintain the wellness of future generations.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12937-024-00968-8
+- DOI: 10.1016/j.envpol.2024.124368
 
 2. Keywords
-- Fatty liver
-- High protein.
-- Lifestyle intervention
-- Low carbohydrate
-- Obese
-- Overweight
+- Breast milk
+- Height-for-age z score (HAZ)
+- Infant health
+- Toxic elements
+- Weight-for-age z score (WAZ)
+- Weight-for-height z score (WHZ)
 
 3. Key Findings
-- Further subgroup analyses showed that ILI, rather than control intervention, led to more significant FAP reduction, especially in patients with concurrent hypertension (p&#x2009;<&#x2009;0
+- Overall, six elements showed significance between the two groups, arsenic (As) was present at 0
+- Linear regression analysis revealed As negatively associated with WAZ and WHZ scores, while Mo was positively associated with WAZ, WHZ, and HAZ scores
 
 This study provides insights into:
-- Fatty liver assessment methods and outcomes
-- High protein. assessment methods and outcomes
-- Lifestyle intervention assessment methods and outcomes
+- Breast milk assessment methods and outcomes
+- Height-for-age z score (HAZ) assessment methods and outcomes
+- Infant health assessment methods and outcomes

@@ -1,28 +1,25 @@
-Study Title: Digitizing Survivorship Care Plans Through the POST-Treatment Health Outcomes of Cancer Survivors (POSTHOC) Mobile App: Protocol for a Phase II Randomized Controlled Trial.
+Study Title: A combined program of education plus exercise versus general advice for ankle osteoarthritis: A feasibility randomised controlled trial.
 
 Study Summary:
-Survivorship care plans (SCPs) are provided at the completion of cancer treatment to aid in the transition from active treatment to long-term survivorship. They describe the details of a patient's diagnosis and treatment and offer recommendations for follow-up appointments, referrals, and healthy behaviors. The plans are currently paper-based and become outdated as soon as a patient's health status changes. There is a need to digitize these plans to improve their accessibility, modifiability, and longevity. With current technology, SCPs can be linked to mobile devices and activity trackers so that patients can track health behaviors and compare them to their clinical goals, taking charge of their own health. A mobile app, POSTHOC (POST-Treatment Health Outcomes of Cancer Survivors), that digitizes the SCP was developed, with goals of integrating it with wearable technologies and electronic medical records. Herein, we are conducting a randomized controlled trial that evaluates the POSTHOC app versus the traditional SCP on total symptom burden in the early posttreatment period. We will recruit 54 patients who have recently completed curative therapy for cancer (any type) in person and remotely. They will be randomized 2:1, POSTHOC:usual care (unblinded). Those randomized to the POSTHOC group will receive their SCP via the app and will choose to focus on nutrition or exercise for the duration of the study based on their individual plan and personal preferences. Those randomized to the control group will get a paper-based plan. At baseline, 6 weeks, and 12 weeks, we will evaluate patient-reported outcomes, including total symptom burden (web-based questionnaire), diet (24-hour Automated Self-Administered [ASA24]), and physical activity (Fitbit Charge 6 [Google LLC]). We will also collect quantitative and qualitative feedback on the usability of the app from those in the POSTHOC arm to improve the app for future implementation studies, with a specific focus on patient-provider communication. For feasibility, we will calculate the percentage of patients who used the POSTHOC app at least 3 times per week. We will use linear mixed models to evaluate the effects of the POSTHOC app versus those of usual care on other outcomes at weeks 6 and 12. This trial is open to accrual in the University of Maryland Medical System as of March 2024, and as of July 3, 2024, a total of 20 participants have consented. This study is among the first to digitize the SCP in a mobile app and test the effects of a mobile health-delivered behavioral health intervention on symptom burden in cancer survivors. Our results will provide evidence about the effects of health self-management on symptoms. This knowledge will be integral to larger randomized controlled studies, integration with the electronic medical record, and nationwide implementation. ClinicalTrials.gov NCT05499663; https://clinicaltrials.gov/ct2/show/NCT05499663. DERR1-10.2196/59222.
+Unlike hip and knee OA, there is little evidence to guide the management of ankle osteoarthritis (OA) and there are no clinical guidelines for ankle OA. Regardless of the body region, guidelines for treating OA typically include education, weight loss and exercise as the key components of management. Such an intervention has not been investigated in people with ankle OA. To determine the feasibility of conducting a randomised controlled trial (RCT) that compares physiotherapist-delivered education plus exercise to physiotherapist-delivered general advice for people with ankle OA. Secondarily, to inform planning for future RCTs. A randomised parallel-group feasibility trial. Study participants were recruited, assessed for eligibility, and randomised using 1:1 concealed allocation to receive either physiotherapist-delivered education plus exercise, or physiotherapist-delivered general advice. Primary feasibility outcomes were evaluated based on predetermined feasibility criteria. Secondary participant-reported and physical outcomes were collected to inform the design of future RCTs. Thirty participants (67% (n&#xa0;=&#xa0;20) women, mean (standard deviation) age: 66.1 (11.5) years) were randomised. Data for key feasibility outcomes met a priori feasibility criteria: consent rate (97%), participant adherence with their allocated intervention arm (71%), fidelity of the intervention (94%) and rate of completion of outcome measures at 3 months (87%). This study demonstrates that it is feasible to run an adequately powered RCT comparing physiotherapist-delivered education plus exercise versus physiotherapist-delivered general advice for people with ankle OA. Study data will inform the planning of a full-scale RCT.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/59222
+- DOI: 10.1016/j.msksp.2024.103169
 
 2. Keywords
-- clinical trial
-- mHealth
-- mobile health
-- mobile phone
-- oncology
-- posttreatment
-- symptoms
+- Ankle arthritis
+- Education
+- Exercise
+- Feasibility
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- clinical trial assessment methods and outcomes
-- mHealth assessment methods and outcomes
-- mobile health assessment methods and outcomes
+- Ankle arthritis assessment methods and outcomes
+- Education assessment methods and outcomes
+- Exercise assessment methods and outcomes

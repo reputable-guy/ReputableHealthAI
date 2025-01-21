@@ -1,27 +1,27 @@
-Study Title: The effect of lavender and rosemary aromatherapy application on cognitive functions, anxiety, and sleep quality in the elderly with diabetes.
+Study Title: Mandibular movement monitor provides faster, yet accurate diagnosis for obstructive sleep apnoea: A randomised controlled study.
 
 Study Summary:
-This study aimed to determine the effects of aromatherapy use on cognitive function, anxiety, and sleep quality in the elderly with diabetes. The study was conducted with 63 participants aged 65 and over. Participants were randomly divided into three groups: lavender, rosemary and control groups. The intervention continued for four weeks. Data was collected using the Blessed Orientation Concentration Test, State-Trait Anxiety Scale, and Pittsburgh Sleep Quality Scale. Data were analyzed using One-Way ANOVA, Mann-Whitney U/Kruskal-Wallis, Wilcoxon and Friedman tests. In both intervention groups, the 4th week scores of cognitive functions, anxiety, and sleep quality after aromatherapy were significant compared to the baseline scores. In the control group, state anxiety scores were significantly higher in the 2nd and 4th weeks compared to the initial scores. Inhaling lavender and rosemary has been observed to improve cognitive function and sleep quality and reduce anxiety levels. The effects of the essential oils used in the research were evaluated over four weeks. It is thought that studying for a longer period and with more samples would be beneficial. There is a need for studies examining its effects, especially in the elderly with diabetes.
+Many patients with obstructive sleep apnoea (OSA) remain undiagnosed and thus untreated, and in part this relates to delay in diagnosis. Novel diagnostic strategies may improve access to diagnosis. In a multicentre, randomised study, we evaluated time to treatment decision in patients referred for suspected OSA, comparing a mandibular movement (MM) monitor to respiratory polygraphy, the most commonly used OSA detection method in the UK. Adults with high pre-test probability OSA were recruited from both northern Scotland and London. 40 participants (70&#x202f;% male, mean&#xb1;SD age 46.8 &#xb1; 12.9 years, BMI 36.9 &#xb1; 7.5 kg/m, ESS 14.9 &#xb1; 4.1) wore a MM monitor and respiratory polygraphy simultaneously overnight and were randomised (1:1) to receive their treatment decision based on results from either device. Compared to respiratory polygraphy, MM monitor reduced time to treatment decision by 6 days (median(IQR): 13.5 (7.0-21.5) vs. 19.5 (13.7-35.5) days, P = 0.017) and saved an estimated 29 min of staff time per patient.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.explore.2024.103033
+- DOI: 10.1016/j.clinme.2024.100231
 
 2. Keywords
-- Anxiety
-- Aromatherapy
-- Cognitive functions
-- Diabetes
-- Elderly
-- Sleep quality
+- Diagnostic pathways
+- Digital health
+- Mandibular movement
+- Obstructive sleep apnoea (OSA)
+- Remote diagnosis
+- Telemedicine
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Anxiety assessment methods and outcomes
-- Aromatherapy assessment methods and outcomes
-- Cognitive functions assessment methods and outcomes
+- Diagnostic pathways assessment methods and outcomes
+- Digital health assessment methods and outcomes
+- Mandibular movement assessment methods and outcomes

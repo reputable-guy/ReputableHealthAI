@@ -1,25 +1,27 @@
-Study Title: Distal Versus Proximal Arm Improvement After Paired Vagus Nerve Stimulation Therapy After Chronic Stroke.
+Study Title: Effects of consecutive bed bathing with weak versus ordinary pressure on skin barrier recovery of hospitalised older adults: A within-person randomised controlled trial.
 
 Study Summary:
-To evaluate differences in upper-extremity (UE) segment-specific (proximal or distal segment) recovery after vagus nerve stimulation (VNS) paired with UE rehabilitation (Paired-VNS) compared with rehabilitation with sham-VNS (Control). We also assessed whether gains in specific UE segments predicted clinically meaningful improvement. This study reports on a secondary analysis of Vagus nerve stimulation paired with rehabilitation for UE motor function after chronic ischemic stroke (VNS-REHAB), a randomized, triple-blinded, sham-controlled pivotal trial. A Rasch latent regression was used to determine differences between Paired-VNS and Controls for distal and proximal UE changes after in-clinic therapy and 3 months later. Subsequently, we ran a random forest model to assess candidate predictors of meaningful improvement. Each item of the Fugl-Meyer Assessment-Upper Extremity (FMA-UE) and Wolf Motor Function Test (WMFT) was evaluated as a predictor of response to treatment. Nineteen stroke rehabilitation centers in the USA and UK. Dataset included 108 participants (N=108) with chronic ischemic stroke and moderate-to-severe UE impairments. Not applicable. FMA-UE and WMFT. Distal UE improvement was significantly greater in the Paired-VNS group than in Controls immediately after therapy (95% confidence interval, 0.27-0.73; P&#x2264;.001) and after 3 months (95% confidence interval, 0.16-0.75; P=.003). Both groups showed similar improvement in proximal UE at both time points. A subset of both distal and proximal items from the FMA-UE and WMFT were predictors of meaningful improvement. Paired-VNS improved distal UE impairment in chronic stroke to a greater degree than intensive rehabilitation alone. Proximal improvements were equally responsive to either treatment. Given that meaningful UE recovery is predicted by improvements across both proximal and distal segments, Paired-VNS may facilitate improvement that is otherwise elusive.
+Wiping pressure (WP [mmHg]) during bed baths is essential to maintain skin integrity and care quality for older adults. However, effects of different wiping pressures on skin barrier recovery over multiple days remain unclear. This study evaluated and compared the effects of consecutive bed bathing with weak pressure and that with ordinary pressure on skin barrier recovery of hospitalised older adults. This within-person, randomised, controlled trial involved 254 forearms (127 patients) and was conducted at a general hospital. Forearms were blinded and randomly assigned a site and sequence of two bed bathing sessions: wiping three times with weak (10&#x2264;WP<20) and ordinary pressure (20&#x2264;WP<30) once per day for 2 consecutive days. The skin barrier was assessed daily based on transepidermal water loss (TEWL) and stratum corneum hydration (SCH) before and 15&#xa0;min after the interventions. Dry skin was assessed using the overall dry skin score. A linear mixed model showed that the time courses of TEWL and SCH differed significantly between groups. Impaired skin barrier function caused by ordinary pressure on the first day did not recover to baseline values the next day, whereas weak pressure did not cause significant changes. During subgroup analyses, TEWL of patients with dry skin was more likely to increase with ordinary pressure. Despite decreased skin barrier recovery experienced by older adults, our findings suggest the safety of weak pressure and highlight the importance of WP during bed baths. Weak pressure is particularly desirable for patients with dry skin. UMIN000048838.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.apmr.2024.05.018
+- DOI: 10.1016/j.jtv.2024.05.008
 
 2. Keywords
-- Rehabilitation
-- Stroke
-- Upper extremity
-- Vagus nerve stimulation
+- Aged
+- Bed bath
+- Hygiene
+- Nursing care
+- Skin barrier function
+- Skin care
 
 3. Key Findings
-- Both groups showed similar improvement in proximal UE at both time points
+- A linear mixed model showed that the time courses of TEWL and SCH differed significantly between groups
 
 This study provides insights into:
-- Rehabilitation assessment methods and outcomes
-- Stroke assessment methods and outcomes
-- Upper extremity assessment methods and outcomes
+- Aged assessment methods and outcomes
+- Bed bath assessment methods and outcomes
+- Hygiene assessment methods and outcomes

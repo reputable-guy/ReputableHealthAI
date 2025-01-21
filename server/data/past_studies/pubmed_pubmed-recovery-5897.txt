@@ -1,30 +1,25 @@
-Study Title: Physiotherapy for continence and muscle function in prostatectomy: a randomised controlled trial.
+Study Title: Transcutaneous electric nerve stimulation of acupuncture points improves tolerance in adults undergoing diagnostic upper gastrointestinal endoscopy: a single-center, double-blinded, randomized controlled trial.
 
 Study Summary:
-To assess the effectiveness of pre- and postoperative supervised pelvic floor muscle training (PFMT) on the recovery of continence and pelvic floor muscle (PFM) function after robot-assisted laparoscopic radical prostatectomy (RARP). We carried out a single-blind randomised controlled trial involving 54 male patients scheduled to undergo RARP. The intervention group started supervised PFMT 2&#x2009;months before RARP and continued for 12&#x2009;months after surgery with a physiotherapist. The control group was given verbal instructions, a brochure about PFMT, and lifestyle advice. The primary outcome was 24-h pad weight (g) at 3&#x2009;months after RARP. The secondary outcomes were continence status (assessed by pad use), PFM function, and the Expanded Prostate Cancer Index Composite (EPIC) score. Patients who participated in supervised PFMT showed significantly improved postoperative urinary incontinence (UI) compared with the control group (5.0&#x2009;[0.0-908.0] g vs 21.0 [0.0-750.0] g; effect size: 0.34, P&#x2009;=&#x2009;0.022) at 3&#x2009;months after RARP based on 24-h pad weight. A significant improvement was seen in the intervention compared with the control group (65.2% continence [no pad use] vs 31.6% continence, respectively) at 12&#x2009;months after surgery (effect size: 0.34, P&#x2009;=&#x2009;0.030). Peak pressure during a maximum voluntary contraction was higher in the intervention group immediately after catheter removal and at 6&#x2009;months, and a longer duration of sustained contraction was found in the intervention group compared with the control group. We were unable to demonstrate a difference between groups in EPIC scores. Supervised PFMT can improve postoperative UI and PFM function after RARP. Further studies are needed to confirm whether intra-anal pressure reflects PFM function and affects continence status in UI in men who have undergone RARP.
+Oesophagogastroduodenoscopy (OGDS) is the most common diagnostic procedure for upper gastrointestinal diseases. It often causes discomfort and anxiety, which are only mitigated by systemic sedation. However, sedation poses additional risks of adverse cardiopulmonary events, increased medical costs, and prolonged recovery. Transcutaneous electrical nerve stimulation of acupuncture points (Acu-TENS) is a non-invasive and innovative approach that induces analgesic effect during endoscopy. This trial is the first to be reported in English that explores the potential of Acu-TENS to increase patient tolerance during non-sedated elective diagnostic OGDS. A double-blinded randomized controlled trial involving 348 subjects was conducted at a tertiary hospital to evaluate the success rate of OGDS with Acu-TENS. Subjects aged 18-75&#xa0;years scheduled for their first elective diagnostic OGDS were randomized into the intervention (Acu-TENS) and placebo arms. OGDS success was assessed based on subjects' satisfaction ratings on a Likert scale and procedure's technical adequacy. Secondary measures included subjects' willingness to undergo future OGDS under similar conditions, procedure duration, and the endoscopist's perceived ease of the procedure. OGDS success rates were significantly higher with Acu-TENS (77.8%) than with the placebo (68.0%; odds ratio [OR] 1.64, 95% confidence interval [CI] 1.01-2.66, p&#x2009;=&#x2009;0.043). Subjects who received Acu-TENS expressed higher willingness for future OGDS (78.9%) than those who received the placebo (68.6%; OR 1.71, 95% CI 1.04-2.79, p&#x2009;=&#x2009;0.031). Procedure duration were significantly shorter in the intervention arm (6.0&#xa0;min) than in the placebo arm (10.0&#xa0;min; p&#x2009;=&#x2009;0.002). No adverse effects were reported, and endoscopists perceived similar procedure ease in both arms. Acu-TENS improved OGDS success and enhanced patients' experiences during non-sedated OGDS. It demonstrated safety with no side effects and reduced the procedure completion time. It could be used as an adjunct in non-sedated diagnostic OGDS.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/bju.16369
+- DOI: 10.1007/s00464-024-10841-8
 
 2. Keywords
-- continence
-- intra&#x2010;anal manometry
-- pelvic floor muscle function
-- pelvic floor muscle training
-- physiotherapy
-- randomised controlled trial
-- robot&#x2010;assisted laparoscopic radical prostatectomy
-- urinary incontinence
+- Acupuncture point
+- OGDS
+- TENS
+- Tolerance
 
 3. Key Findings
-- Patients who participated in supervised PFMT showed significantly improved postoperative urinary incontinence (UI) compared with the control group (5
-- Peak pressure during a maximum voluntary contraction was higher in the intervention group immediately after catheter removal and at 6&#x2009;months, and a longer duration of sustained contraction was found in the intervention group compared with the control group
+- It demonstrated safety with no side effects and reduced the procedure completion time
 
 This study provides insights into:
-- continence assessment methods and outcomes
-- intra&#x2010;anal manometry assessment methods and outcomes
-- pelvic floor muscle function assessment methods and outcomes
+- Acupuncture point assessment methods and outcomes
+- OGDS assessment methods and outcomes
+- TENS assessment methods and outcomes

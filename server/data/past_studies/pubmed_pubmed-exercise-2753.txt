@@ -1,28 +1,27 @@
-Study Title: Effect of a new resistance training method on the metaboreflex in cardiac rehabilitation patients: a randomized controlled trial.
+Study Title: Cardiorespiratory Fitness Benefits of High-Intensity Interval Training After Stroke: A Randomized Controlled Trial.
 
 Study Summary:
-Patients with cardiac disease exhibit exaggerated sympathoexcitation, pressor, and ventilatory responses to muscle metaboreflex activation (MMA). However, the effects of cardiac rehabilitation (CR) and especially resistance training (RT) modalities on MMA are not well known. This study investigated how CR impacts MMA in such patients, specifically examining the effects of two different resistance training (RT) protocols following 12&#xa0;weeks of CR. In addition to endurance exercises, 32 patients were randomized into either a 3/7 RT modality (comprising 5 sets of 3-7 repetitions) or a control (CTRL) modality (involving 3 sets of 9 repetitions), with distinct inter-set rest intervals (15&#xa0;s for 3/7 and 60&#xa0;s for CTRL). MMA, gauged by blood pressure (BP) and ventilatory (Ve) responses during a handgrip exercise at 40% effort and subsequent post-exercise circulatory occlusion, demonstrated CR's significant impact. Systolic BP, initially at&#x2009;+&#x2009;28&#x2009;&#xb1;&#x2009;23% pre-CR, improved to&#x2009;+&#x2009;11&#x2009;&#xb1;&#x2009;15% post-CR (P&#x2009;=&#x2009;.011 time effect; P&#x2009;=&#x2009;.131 group effect). Diastolic BP showed a similar trend, from&#x2009;+&#x2009;27&#x2009;&#xb1;&#x2009;23% to&#x2009;+&#x2009;13&#x2009;&#xb1;&#x2009;15% (P&#x2009;=&#x2009;.099 time effect; P&#x2009;=&#x2009;.087 group effect). Ve, initially at&#x2009;+&#x2009;60&#x2009;&#xb1;&#x2009;39%, reduced to&#x2009;+&#x2009;14&#x2009;&#xb1;&#x2009;19% post-CR (P&#x2009;<&#x2009;.001 time effect; P&#x2009;=&#x2009;.142 group effect). Critical parameters-maximal oxygen consumption, lean mass, hand grip, and quadriceps strength-exhibited parallel increases in both 3/7 and CTRL groups (P&#x2009;<&#x2009;.05 time effect; P&#x2009;>&#x2009;.3 group effect). Ultimately, CR demonstrated comparable improvements in MMA across both RT modalities, indicating its positive influence on cardiovascular responses and physical performance in individuals with cardiac conditions.
+Limited evidence supports the effects of short-interval high-intensity interval training (HIIT) for improving cardiorespiratory fitness (V&#x307;Opeak) after stroke. We aimed to compare the effects of 12 weeks of short-interval HIIT versus moderate-intensity continuous training (MICT) on V&#x307;Opeak, cardiovascular risk factors, and mobility outcomes among individuals &#x2265;6 months poststroke. This study was a multi-site, 12-week randomized controlled trial (NCT03614585) with an 8-week follow-up. Participants were randomized into 3 d/wk of HIIT (10&#xd7;1 minute 80%-100% heart rate reserve interspersed with 1 minute 30% heart rate reserve [19 minutes]) or MICT (20-30 minutes 40%-60% heart rate reserve). Secondary outcomes of the trial, including V&#x307;Opeak, cardiovascular risk factors (carotid-femoral pulse wave velocity, blood pressure, and waist-hip ratio), and mobility (6-minute walk test, 10 m gait speed), were reported. Linear mixed model analyses with a group&#xd7;study time point interaction evaluated between-group differences. Of the 305 potential participants, 82 consented (mean [SD] age 64.9 [9.3] years, 32 females [39%], 1.8 [1.2] years poststroke) and were randomized to HIIT (n=42, mean [SD] baseline V&#x307;Opeak 17.3 [5.9] mL/kg&#xb7;min) or MICT (n=40, mean [SD] baseline V&#x307;Opeak 17.2 [6.0] mL/kg&#xb7;min). Participants attended 82% of visits (n=2417/2952). No adverse events occurred during the study period. A significant group&#xd7;study time point interaction was found (&#x3c7;=8.46;=0.015) for V&#x307;Opeak at 12 weeks (mean difference, 1.81 [95% CI, 0.58-3.04];=0.004) whereby the HIIT group had greater gains in V&#x307;Opeak (&#x2206;3.52 mL/kg&#xb7;min [95% CI, 2.47-4.57];<0.001) compared with the MICT group (&#x2206;1.71 mL/kg&#xb7;min [95% CI, 0.55-2.86];=0.001). There was no between-group difference in V&#x307;Opeak (mean difference, 1.08 [95% CI, -0.26 to 2.42];=0.11) at 8-week follow-up. No group&#xd7;study time point interactions were found for cardiovascular risk factors or mobility outcomes. Short-interval HIIT may be an effective alternative to MICT for improving V&#x307;Opeak at 12 weeks postintervention. URL: https://clinicaltrials.gov; Unique identifier: NCT03614585.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00421-024-05570-8
+- DOI: 10.1161/STROKEAHA.124.046564
 
 2. Keywords
-- 3/7 resistance training method
-- Ergoreflex
-- Exercise pressor reflex
-- Postexercise circulatory occlusion
-- Strength training
+- cardiorespiratory fitness
+- exercise
+- high-intensity interval training
+- risk factors
+- stroke
 
 3. Key Findings
-- MMA, gauged by blood pressure (BP) and ventilatory (Ve) responses during a handgrip exercise at 40% effort and subsequent post-exercise circulatory occlusion, demonstrated CR's significant impact
-- Diastolic BP showed a similar trend, from&#x2009;+&#x2009;27&#x2009;&#xb1;&#x2009;23% to&#x2009;+&#x2009;13&#x2009;&#xb1;&#x2009;15% (P&#x2009;=&#x2009;
-- Ultimately, CR demonstrated comparable improvements in MMA across both RT modalities, indicating its positive influence on cardiovascular responses and physical performance in individuals with cardiac conditions
+- A significant group&#xd7;study time point interaction was found (&#x3c7;=8
+- No group&#xd7;study time point interactions were found for cardiovascular risk factors or mobility outcomes
 
 This study provides insights into:
-- 3/7 resistance training method assessment methods and outcomes
-- Ergoreflex assessment methods and outcomes
-- Exercise pressor reflex assessment methods and outcomes
+- cardiorespiratory fitness assessment methods and outcomes
+- exercise assessment methods and outcomes
+- high-intensity interval training assessment methods and outcomes

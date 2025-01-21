@@ -1,25 +1,29 @@
-Study Title: Effect of desflurane maintenance on postoperative sleep quality in patients undergoing elective breast surgery: A non-inferiority randomized controlled trial.
+Study Title: A randomized translational study on protein- and glucose metabolism in skeletal muscles evaluated by gene-ontology, following preoperative oral carbohydrate loading compared to overnight peripheral parenteral nutrition (PPN) before major cancer surgery.
 
 Study Summary:
-Postoperative sleep disturbance (PSD) is prevalent in perioperative patients&#xff0c;and has significant impact on postoperative recovery and prognosis. The aim of this study was to investigate the effect of desflurane maintenance on postoperative sleep quality, in order to optimize patients' perioperative sleep management. A total of 118 patients undergoing elective breast surgery were randomized to receive either desflurane-based volatile anesthesia (desflurane group) or propofol-based total intravenous anesthesia (propofol group) for anesthesia maintenance. The primary outcome was the quality of sleep, which was assessed by the Pittsburgh Sleep Quality Index (PSQI) on 3 days after operation (POD3). Secondary outcomes were PSQI on postoperative day 7 (POD7) and 30 (POD30), and postoperative anxiety, depression, and pain score, as well as objective sleep parameters including total sleep time (TST), WASO (Wakefulness after sleep onset), REM (Rapid eye movement) and NREM (Non-rapid Eye Movement) measured by Fitbit Charge 2TM during the initial 3 postoperative days. The global PSQI scores on POD3 in the desflurane group was non-inferior to that in the propofol group [mean (SD) 8.47 (3.46) vs. 7.65 (3.16); mean difference (95&#xa0;% CI) 0.82 (-0.43, 2.07); p&#xa0;<&#xa0;0.001 for non-inferiority]. There were no significant differences in PSQI scores on POD3 and POD7. In addition, the score of anxiety, depression, and pain on the 3rd, 7th, and 30th day after surgery have no significant differences between the propofol and the desflurane group, respectively. The postoperative NREM was higher in the desflurane group than that in the propofol group. The effects of desflurane-based volatile anesthesia maintenance on postoperative sleep quality is not inferior to that of propofol-based total intravenous anesthesia, and these two drugs may have different effects on the sleep structure. ClinicalTrials.gov Identifier: NCT04805775.
+Effects of preoperative drinks on muscle metabolism are unclear despite general recommendations. The aim of the present study was therefore to compare metabolic effects of a preoperative oral nutrition drink, recommended by protocols for enhanced recovery after surgery (ERAS), compared to overnight preoperative peripheral total parenteral nutrition (PPN) on skeletal muscle metabolism in patients aimed at major gastrointestinal cancer surgery. Patients were randomized, based on diagnosis and clinical characteristics, to receive either a commercial carbohydrate-rich nutrition drink (Drink); or overnight (12&#xa0;h) peripheral parenteral nutrition (PPN) as study regimens; compared to isotone Ringer-acetate as Control regimen. Arterial blood- and abdominal muscle tissue specimens were collected at start of surgery. Blood chemistry included substrate- and hormone concentrations. Muscle mRNA transcript analyses were performed by microarray and evaluated for changes in gene activities by Gene Ontology algorithms. Patient groups were comparable in all measured preoperative assessments. The Nutrition Drink had significant metabolic alterations on muscle glucose metabolism (p&#x2009;<&#x2009;0.05), without any significant effects on amino acid- and protein metabolism. PPN showed similar significant effects on glucose metabolism as Drinks (p&#x2009;<&#x2009;0.05), but indicated also major positive effects on amino acid- (p&#x2009;<&#x2009;0.001) and protein anabolism (p&#x2009;<&#x2009;0.05), particularly by inhibition of muscle protein degradation, related to both ubiquitination of proteins and autophagy/lysosome pathways (p&#x2009;<&#x2009;0.05). Conventional overnight preoperative PPN seems effective to induce and support improved muscle protein metabolism in patients aimed at major cancer surgery while preoperative oral carbohydrate loading, according to ERAS-protocols, was ineffective to improve skeletal muscle catabolism and should therefore not be recommended before major cancer surgery. Trial registration Clinical trials.gov: NCT05080816, Registered June 10th 2021- Retrospectively registered. https://clinicaltrials.gov/study/NCT05080816.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.07.022
+- DOI: 10.1186/s12967-024-05484-1
 
 2. Keywords
-- Breast surgery
-- Desflurane
-- Postoperative sleep quality
-- Propofol
+- Carbohydrate loading
+- ERAS
+- Gene expression
+- Parenteral nutrition
+- Preoperative nutrition
+- Skeletal muscle metabolism
+- mTOR signaling
 
 3. Key Findings
-- Findings extraction requires manual review
+- PPN showed similar significant effects on glucose metabolism as Drinks (p&#x2009;<&#x2009;0
+- 05), but indicated also major positive effects on amino acid- (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- Breast surgery assessment methods and outcomes
-- Desflurane assessment methods and outcomes
-- Postoperative sleep quality assessment methods and outcomes
+- Carbohydrate loading assessment methods and outcomes
+- ERAS assessment methods and outcomes
+- Gene expression assessment methods and outcomes

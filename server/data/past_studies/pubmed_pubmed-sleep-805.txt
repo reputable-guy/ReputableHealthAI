@@ -1,26 +1,25 @@
-Study Title: The efficacy of slow-rate ventriculolumbar perfusion chemotherapy for leptomeningeal carcinomatosis: a phase II study.
+Study Title: Lived Experience of Fully Closed-Loop Insulin Delivery in Adults with Type 1 Diabetes.
 
 Study Summary:
-This study aimed to evaluate the symptomatic response and side effects of ventriculolumbar perfusion (VLP) methotrexate chemotherapy with a low perfusion rate in patients with leptomeningeal metastasis. Patients in a single-arm, two-stage phase II trial based on Simon's minimax design received VLP with a reduced (15&#xa0;cc/h) perfusion rate with the purpose of decreasing constitutional side effects such as nausea/vomiting, insomnia, and confusion. The primary outcome was control of increased intracranial pressure (ICP). The secondary outcome was an occurrence of side effects. The results were compared with those of a previous trial of VLP with a 20-cc/h perfusion rate. Total 90 patients were enrolled. Out of 65 patients with increased ICP, 32 achieved normalized ICP after VLP chemotherapy (bias-adjusted response rate&#x2009;=&#x2009;51%). The incidence of moderate-to-severe nausea/vomiting was reduced to 46% from 64% in the previous study, and that of sleep disturbance was increased to 13% from 9%, but both failed to reach statistical significance. The incidence of moderate-to-severe confusion was significantly reduced to 12% from 23% in the previous study (p&#x2009;=&#x2009;0.04). Median overall survival was better among patients with controlled ICP than among those who remained with increased ICP (193&#xa0;days vs. 94&#xa0;days, p&#x2009;=&#x2009;0.013). Compared with a higher perfusion rate, the low perfusion rate failed to provide non-inferior ICP control or improved side effects, except for confusion. The relationship between VLP perfusion rate and ICP control needs to be evaluated in future trials adjusting for bias from uncompleted protocol due to poor general condition.
+The Closing the Loop in Adults With Type 1 Diabetes (CLEAR) randomized crossover study compared a novel fully closed-loop insulin delivery system with no carbohydrate entry or mealtime bolusing (CamAPS HX), with standard insulin pump therapy and glucose sensor in adults with type 1 diabetes and suboptimal glycemic outcomes. This qualitative substudy aimed to understand the psychosocial impact of using the fully automated system.Adults participating in the CLEAR study were invited to take part in a virtual semistructured interview after they had completed 8 weeks using the fully closed-loop system. Recruitment continued until there was adequate representation and data saturation occurred. Interviews were anonymized and transcribed for in-depth thematic analysis using an inductive-deductive approach. Study participants were also asked to complete questionnaires assessing diabetes distress, hypoglycemia confidence, and closed-loop treatment satisfaction.Eleven participants (eight male and three female; age range 26-66 years) were interviewed. After an initial adjustment period, interviewees reported enjoying a reduction in diabetes burden, freed-up mental capacity, and improved mood. All were happy with overnight glycemic outcomes, with the majority reporting benefits on sleep. Although experiences of postprandial glucose outcomes varied, all found mealtimes easier and less stressful, particularly when eating out. Negatives raised by participants predominantly related to the insulin pump hardware, but some also reported increased snacking and challenges around resuming carbohydrate counting at trial closeout.In adults with type 1 diabetes, use of a fully closed-loop insulin delivery system had significant quality-of-life benefits and provided a welcome break from the day-to-day demands of living with diabetes.NCT04977908.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00701-024-05989-0
+- DOI: 10.1089/dia.2023.0394
 
 2. Keywords
-- Cerebrospinal fluid
-- Chemotherapy
-- Leptomeningeal metastasis
-- Methotrexate
-- Perfusion
+- Closed-loop system
+- Psychosocial
+- Qualitative
+- Type 1 diabetes
 
 3. Key Findings
-- Findings extraction requires manual review
+- Although experiences of postprandial glucose outcomes varied, all found mealtimes easier and less stressful, particularly when eating out
 
 This study provides insights into:
-- Cerebrospinal fluid assessment methods and outcomes
-- Chemotherapy assessment methods and outcomes
-- Leptomeningeal metastasis assessment methods and outcomes
+- Closed-loop system assessment methods and outcomes
+- Psychosocial assessment methods and outcomes
+- Qualitative assessment methods and outcomes

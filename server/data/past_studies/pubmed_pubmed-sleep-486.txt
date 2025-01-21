@@ -1,26 +1,20 @@
-Study Title: Long-Term Efficacy of a Mobile Mental Wellness Program: Prospective Single-Arm Study.
+Study Title: Effect of case management based on Omaha system on clinical symptoms and quality of life of coronary heart disease patients after percutaneous coronary intervention.
 
 Study Summary:
-Rising rates of psychological distress (symptoms of depression, anxiety, and stress) among adults in the United States necessitate effective mental wellness interventions. Despite the prevalence of smartphone app-based programs, research on their efficacy is limited, with only 14% showing clinically validated evidence. Our study evaluates Noom Mood, a commercially available smartphone-based app that uses cognitive behavioral therapy and mindfulness-based programming. In this study, we address gaps in the existing literature by examining postintervention outcomes and the broader impact on mental wellness. Noom Mood is a smartphone-based mental wellness program designed to be used by the general population. This prospective study evaluates the efficacy and postintervention outcomes of Noom Mood. We aim to address the rising psychological distress among adults in the United States. A 1-arm study design was used, with participants having access to the Noom Mood program for 16 weeks (N=273). Surveys were conducted at baseline, week 4, week 8, week 12, week 16, and week 32 (16 weeks' postprogram follow-up). This study assessed a range of mental health outcomes, including anxiety symptoms, depressive symptoms, perceived stress, well-being, quality of life, coping, emotion regulation, sleep, and workplace productivity (absenteeism or presenteeism). The mean age of participants was 40.5 (SD 11.7) years. Statistically significant improvements in anxiety symptoms, depressive symptoms, and perceived stress were observed by week 4 and maintained through the 16-week intervention and the 32-week follow-up. The largest changes were observed in the first 4 weeks (29% lower, 25% lower, and 15% lower for anxiety symptoms, depressive symptoms, and perceived stress, respectively), and only small improvements were observed afterward. Reductions in clinically relevant anxiety (7-item generalized anxiety disorder scale) and depression (8-item Patient Health Questionnaire depression scale) criteria were also maintained from program initiation through the 16-week intervention and the 32-week follow-up. Work productivity also showed statistically significant results, with participants gaining 2.57 productive work days from baseline at 16 weeks, and remaining relatively stable (2.23 productive work days gained) at follow-up (32 weeks). Additionally, effects across all coping, sleep disturbance (23% lower at 32 weeks), and emotion dysregulation variables exhibited positive and significant trends at all time points (15% higher, 23% lower, and 25% higher respectively at 32 weeks). This study contributes insights into the promising positive impact of Noom Mood on mental health and well-being outcomes, extending beyond the intervention phase. Though more rigorous studies are necessary to understand the mechanism of action at play, this exploratory study addresses critical gaps in the literature, highlighting the potential of smartphone-based mental wellness programs to lessen barriers to mental health support and improve diverse dimensions of well-being. Future research should explore the scalability, feasibility, and long-term adherence of such interventions across diverse populations.
+To investigate the effect of case management (CM) based on the Omaha system on clinical symptoms and quality of life (QOL) of coronary heart disease patients after percutaneous coronary intervention (PCI). Patients with coronary heart disease after their first PCI in the People's Hospital of Longhua in Shenzhen were randomly divided into a control group (received CM based on the Omaha system) and an observation group (received routine nursing) using a random number table. Nursing problems and the knowledge-behavior-status (KBS) score of patients were evaluated on the day after surgery, on the day before discharge, at 5 weeks after discharge, and at 12 weeks after discharge. The QOL of patients was evaluated using the coronary intervention coronary revascularization outcome questionnaire (CROQ-PTCA-Post, Chinese version) score on the day after surgery and at 12 weeks after discharge. A total of 104 patients completed the study (51 in the control group, 53 in the observation group). There were no significant differences in baseline data between the 2 groups (P&#x2005;gr.05). The main nursing problems were circulation, mental health, and pain in both groups on the day after surgery, whereas they were circulation, sleep and rest, and mental health after nursing. There were no significant differences in the KBS scores of the co-existing nursing problems on the day after surgery (P&#x2005;Th.05). The KBS scores of the co-existing nursing problems were significantly increased between the 2 groups (P&#x2005;<&#x2005;.01) on the day before discharge and at 5 weeks and 12 weeks after discharge. The KBS scores of the most co-existing nursing problems in the observation group were significantly higher at 12 weeks after discharge than at the day before discharge and at 5 weeks after discharge. Moreover, there were no significant differences in the CROQ-PTCA-Post scores on the first day after surgery between the 2 groups (P&#x2005;gr.05). These scores were significantly increased between the 2 groups at 12 weeks after discharge (P&#x2005;<&#x2005;.01). CM based on the Omaha system for patients after PCI can effectively improve the KBS scores and QOL of PCI patients with postoperative nursing problems, making this approach worthy of clinical promotion.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/54634
+- DOI: 10.1097/MD.0000000000038553
 
 2. Keywords
-- Noom Mood
-- digital mental wellness programs
-- mHealth
-- mobile phone
-- psychological distress
+
 
 3. Key Findings
-- Work productivity also showed statistically significant results, with participants gaining 2
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Noom Mood assessment methods and outcomes
-- digital mental wellness programs assessment methods and outcomes
-- mHealth assessment methods and outcomes
+- General research methodology and outcomes

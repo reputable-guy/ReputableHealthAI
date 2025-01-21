@@ -1,26 +1,27 @@
-Study Title: Effects of Endurance Exercise and Vitamin D Supplementation on Insulin Resistance and Plasma Lipidome in Middle-Aged Adults with Type 2 Diabetes.
+Study Title: Early neurodevelopment in the offspring of women enrolled in a randomized controlled trial assessing the effectiveness of a nutrition + exercise intervention on the cognitive development of 12-month-olds.
 
 Study Summary:
-(1) Background: We investigated the effects of a 12-week exercise intervention with or without vitamin D supplementation on insulin resistance and the plasma lipidome of participants with type 2 diabetes. We further explored whether the effects of the intervention on glycemic parameters could be associated with the baseline lipidome. (2) Methods: Sixty-one participants were randomly allocated to control (Con), exercise (EX), vitamin D (VD), and EX + VD groups. Multiple glycemic and anthropometric parameters were evaluated before and after intervention. The homeostasis model assessment of insulin resistance (HOMA-IR) was the primary outcome. The plasma lipidome was analyzed before, after, and at an additional 12-week follow-up. Machine learning was applied to establish prediction models for responsiveness of glycemic control. (3) Results: Our interventions failed to improve the HOMA-IR index while fasting glucose was reduced in the EX + VD group (change%, -11.9%; effect size, 0.65;< 0.05). Both EX and VD interventions altered the plasma lipidome, with EX + VD intervention considerably affecting levels of lyso-phosphatidylcholines and triglycerols containing long-chain unsaturated fatty acids. Such effects could last until 12 weeks after intervention. Notably, there was high inter-individual variability in glycemic parameters including HOMA-IR in response to the interventions, which could be predicted with great accuracy using an optimal panel of baseline lipid predictors alone or in combination with clinical indices, as assessed by an area under the receiver operating characteristic curve value of over 0.9. (4) Conclusions: Although substantial alterations were observed in the plasma lipidome related to glycemic control, our intervention failed to improve HOMA-IR scores, which may have been predominately due to the large inter-individual variability in responses. Basal plasma lipid levels could potentially predict an individual's response to intervention, highlighting the necessity of personalized nutrition.
+Experimental data on the effects of lifestyle interventions on fetal neurodevelopment in humans remain scarce. This study assessed the impact of a pregnancy nutrition+exercise intervention on offspring neurodevelopment at 12 months of age. The Be Healthy in Pregnancy (BHIP) randomized controlled trial (RCT) randomly assigned pregnant persons with stratification by site and body mass index (BMI) to bi-weekly nutrition counselling and high dairy protein diet, walking goal of 10,000 steps/day plus usual prenatal care (UPC; intervention group) or UPC alone (control group). This study examined a subset of these mothers (> 18 years, singleton pregnancy, BMI <40 kg/m, and enrolled by &#x2264;12 weeks gestation) and their infants (intervention = 42, control = 32), assessing cognition, language, motor, social-emotional, and adaptive functioning at 12 months using thethird edition (BSID-III) as the outcome measure. We also examined if maternal factors (prepregnancy BMI, gestational weight gain (GWG)) moderated associations. Expressive language (MD = 9.62, 95% CI = (9.05-10.18),= 0.03, &#x19e;= 0.07) and general adaptive composite (GAC) scores (MD = 103.97, 95% CI = (100.31-107.63),= 0.04, &#x19e;= 0.06) were higher in infants of mothers in the intervention group. Effect sizes were medium. However, mean cognitive, receptive language, motor, and social-emotional scale scores did not differ between groups. A structured and monitored nutrition+exercise intervention during pregnancy led to improved expressive language and general adaptive behavior in 12-month-olds, but not cognitive, receptive language, motor, or socioemotional functioning. While these experimental data are promising, further research is needed to determine the clinical utility of nutrition+exercise interventions for optimizing infant neurodevelopment.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15133027
+- DOI: 10.1017/S204017442300020X
 
 2. Keywords
-- diabetes
-- exercise
-- insulin resistance
-- lipidomic profile
-- vitamin D
+- Cognitive development
+- fetal development
+- lifestyle intervention
+- neurodevelopment
+- pregnancy exercise
+- pregnancy nutrition
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- diabetes assessment methods and outcomes
-- exercise assessment methods and outcomes
-- insulin resistance assessment methods and outcomes
+- Cognitive development assessment methods and outcomes
+- fetal development assessment methods and outcomes
+- lifestyle intervention assessment methods and outcomes

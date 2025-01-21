@@ -1,26 +1,21 @@
-Study Title: Influences of Propofol, Ciprofol and Remimazolam on Dreaming During Anesthesia for Gastrointestinal Endoscopy: A Randomized Double-Blind Parallel-Design Trial.
+Study Title: Repeated caffeine intake suppresses cerebral grey matter responses to chronic sleep restriction in an Aadenosine receptor-dependent manner: a double-blind randomized controlled study with PET-MRI.
 
 Study Summary:
-To compare the influences of propofol, ciprofol and remimazolam on dreaming during painless gastrointestinal endoscopy. This study was a single-center, prospective, parallel-design, double-blind, randomized clinical trial. Between May 2023 and October 2023, patients undergoing elective painless gastrointestinal endoscopy were recruited and randomly allocated into one of the three groups. Demographic data, intraoperative information, incidence of dreaming, insufficient anesthesia and intraoperative awareness, type of dream, patient satisfaction score, adverse events, and improvement of sleep quality were collected. The difference in incidence of dreaming among the three groups was not significant (33.33% vs 48.33% vs 41.67%,=0.061). The number of patients with intraoperative hypotension in the propofol group was larger than that of the remimazolam group (32 vs 12,=0.001). However, the cases of intraoperative hypotension between propofol group and ciprofol group or ciprofol group and remimazolam group were comparable (32 vs 22,=0.122; 22 vs 12,=0.064). The percentage of insufficient anesthesia between propofol group and remimazolam group was significant (13.33% vs 1.67%,=0.001), while no statistical difference was detected between propofol group and remimazolam group or ciprofol group and remimazolam group (13.33% vs 5.00%,=0.025; 5.00% vs 1.67%,=0.150). The ability of propofol to improve sleep quality at 1st post-examination day was significantly better than that of remimazolam (86.21% vs 72.88%,=0.015), while it was not significant between propofol group and ciprofol group or ciprofol group and remimazolam group (86.21% vs 80.36%,=0.236; 72.88% vs. 72.88%,=0.181). Incidence of intraoperative awareness, intraoperative hypoxia, type of dream, satisfaction score, adverse events during recovery, and sleep improvement on the 7th post-examination day was not significant among the groups. Anesthesia with propofol, ciprofol and remimazolam, respectively, for gastrointestinal endoscopy did not induce statistical difference in the incidence of dreaming, despite that all of them are more likely to induce pleasant dreams.
+Evidence has shown that both sleep loss and daily caffeine intake can induce changes in grey matter (GM). Caffeine is frequently used to combat sleepiness and impaired performance caused by insufficient sleep. It is unclear (1) whether daily use of caffeine could prevent or exacerbate the GM alterations induced by 5-day sleep restriction (i.e. chronic sleep restriction, CSR), and (2) whether the potential impact on GM plasticity depends on individual differences in the availability of adenosine receptors, which are involved in mediating effects of caffeine on sleep and waking function. Thirty-six healthy adults participated in this double-blind, randomized, controlled study (age&#x2009;=&#x2009;28.9&#x2009;&#xb1;&#x2009;5.2 y/; F:M&#x2009;=&#x2009;15:21; habitual level of caffeine intake&#x2009;<&#x2009;450&#xa0;mg; 29 homozygous C/C allele carriers of rs5751876 of ADORA2A, an Aadenosine receptor gene variant). Each participant underwent a 9-day laboratory visit consisting of one adaptation day, 2 baseline days (BL), 5-day sleep restriction (5&#xa0;h time-in-bed), and a recovery day (REC) after an 8-h sleep opportunity. Nineteen participants received 300&#xa0;mg caffeine in coffee through the 5&#xa0;days of CSR (CAFF group), while 17 matched participants received decaffeinated coffee (DECAF group). We examined GM changes on the 2nd BL Day, 5th CSR Day, and REC Day using magnetic resonance imaging and voxel-based morphometry. Moreover, we used positron emission tomography with [F]-CPFPX to quantify the baseline availability of Aadenosine receptors (AR) and its relation to the GM plasticity. The results from the voxel-wise multimodal whole-brain analysis on the Jacobian-modulated T1-weighted images controlled for variances of cerebral blood flow indicated a significant interaction effect between caffeine and CSR in four brain regions: (a) right temporal-occipital region, (b) right dorsomedial&#xa0;prefrontal cortex (DmPFC), (c) left&#xa0;dorsolateral prefrontal cortex (DLPFC), and&#xa0;(d) right thalamus. The post-hoc analyses on the signal intensity of these GM clusters indicated that, compared to BL, GM on the CSR day&#xa0;was increased in the DECAF group in all clusters&#xa0; but decreased in the thalamus, DmPFC, and DLPFC in the CAFF group. Furthermore, lower baseline subcortical AR availability predicted a larger GM reduction in the CAFF group after CSR of all brain regions except for the thalamus. In conclusion, our data suggest an adaptive GM upregulation after 5-day CSR, while concomitant use of caffeine instead leads to a GM reduction. The lack of consistent association with individual AR availability may suggest that CSR and caffeine affect&#xa0;thalamic GM plasticity predominantly by a different mechanism. Future studies on the role of adenosine Areceptors in CSR-induced GM plasticity are warranted.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/DDDT.S455915
+- DOI: 10.1038/s41598-024-61421-8
 
 2. Keywords
-- ciprofol
-- dreaming
-- endoscopic sedation
-- propofol
-- remimazolam
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- The results from the voxel-wise multimodal whole-brain analysis on the Jacobian-modulated T1-weighted images controlled for variances of cerebral blood flow indicated a significant interaction effect between caffeine and CSR in four brain regions: (a) right temporal-occipital region, (b) right dorsomedial&#xa0;prefrontal cortex (DmPFC), (c) left&#xa0;dorsolateral prefrontal cortex (DLPFC), and&#xa0;(d) right thalamus
+- The post-hoc analyses on the signal intensity of these GM clusters indicated that, compared to BL, GM on the CSR day&#xa0;was increased in the DECAF group in all clusters&#xa0; but decreased in the thalamus, DmPFC, and DLPFC in the CAFF group
 
 This study provides insights into:
-- ciprofol assessment methods and outcomes
-- dreaming assessment methods and outcomes
-- endoscopic sedation assessment methods and outcomes
+- General research methodology and outcomes

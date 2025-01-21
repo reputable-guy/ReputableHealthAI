@@ -1,30 +1,26 @@
-Study Title: Role of preoperative zinc, magnesium and budesonide gargles in Postoperative Sore Throat (POST) - a randomised control trial.
+Study Title: Impact of standing perturbation intensities on fall and stability outcomes in healthy young adults.
 
 Study Summary:
-Post-operative sore throat (POST) has an incidence ranging from 21 to 80%. To prevent the development of POST, several pharmacological measures have been tried. Aim of this study was to compare the efficacy of preoperative zinc, magnesium and budesonide gargles in reducing the incidence and severity of POST in patients who underwent endotracheal intubation for elective surgeries. We conducted a prospective, randomized, double-blind, controlled equivalence trial in 180 patients admitted for elective surgical procedures under general anaesthesia. Patients were randomised into three groups; group Z received 40&#xa0;mg Zinc, group M received 250&#xa0;mg Magnesium Sulphate and group B received 200&#xa0;&#xb5;g Budesonide in the form of 30&#xa0;ml tasteless and colourless gargle solutions. Sore throat assessment and haemodynamic recording was done postoperatively at immediate recovery (0&#xa0;h) and 2, 4, 6, 8, 12 and 24&#xa0;h post-operatively. POST was graded on a four-point scale (0-3). POST score was comparable at all recorded time points i.e. 0,2,4,6,8,12 and 24&#xa0;h. Maximum incidence was seen at 8&#xa0;h in group B (33.3%) and the minimum incidence was at 24&#xa0;h in group Z (10%) (p&#x2009;>&#x2009;0.05). It was found that the incidence of POST was more in the surgeries lasting longer than 2&#xa0;h in all groups. This difference was found to be statistically significant in Groups M and B. The incidence of POST was found to be comparable between laparoscopic and open procedures. Magnesium, zinc and budesonide have an equivocal effect in the prevention of POST at different time points. The incidence of sore throat increases significantly in surgeries lasting more than two hours if magnesium or budesonide have been used as premedicant. Duration of surgery is an independent predictor for POST. CTRI/2021/05/033741 Date-24/05/2021(Clinical Trial Registry of India).
+Motorized treadmills have been extensively used in investigating reactive balance control and developing perturbation-based interventions for fall prevention. However, the relationship between perturbation intensity and its outcome has not been quantified. The primary purpose of this study was to quantitatively analyze how the treadmill belt's peak velocity affects the perturbation outcome and other metrics related to the reactive balance in young adults while the total belt displacement is controlled at 0.36&#xa0;m. Thirty-one healthy young adults were randomly assigned into three groups with different peak belt speeds: low (0.9&#xa0;m/s), medium (1.2&#xa0;m/s), and high (1.8&#xa0;m/s). Protected by a safety harness, participants were exposed to a forward support surface translation while standing at an unexpected timing on an ActiveStep treadmill. The primary (perturbation outcome: fall vs. recovery) and secondary (dynamic stability, hip descent, belt distance at liftoff, and recovery step latency) outcome measures were compared among groups. Results revealed that a higher perturbation intensity is correlated with a greater faller rate (p&#xa0;<&#xa0;0.001). Compared to the low- and medium-intensity groups, the high-intensity group was less stable (p&#xa0;<&#xa0;0.001) with a larger hip descent (p&#xa0;<&#xa0;0.001) and a longer belt distance (p&#xa0;<&#xa0;0.001) at the recovery step liftoff. The results suggest that the increased perturbation intensity raises the risk of falling with larger instability and poorer reactive performance after a support surface translation-induced perturbation in healthy young adults. The findings could furnish preliminary guidance for us to design and select the optimal perturbation intensity that can maximize the effects of perturbation-based training protocols.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12871-024-02534-5
+- DOI: 10.1016/j.jbiomech.2024.112123
 
 2. Keywords
-- Budesonide
-- Endotracheal intubation
-- General Anaesthesia
-- Magnesium
-- Post-operative
-- Sore throat
-- Zinc
+- Dynamic stability
+- Fall risk
+- Perturbation intensity
+- Recovery step
+- Treadmill
 
 3. Key Findings
-- It was found that the incidence of POST was more in the surgeries lasting longer than 2&#xa0;h in all groups
-- This difference was found to be statistically significant in Groups M and B
-- The incidence of POST was found to be comparable between laparoscopic and open procedures
+- Results revealed that a higher perturbation intensity is correlated with a greater faller rate (p&#xa0;<&#xa0;0
 
 This study provides insights into:
-- Budesonide assessment methods and outcomes
-- Endotracheal intubation assessment methods and outcomes
-- General Anaesthesia assessment methods and outcomes
+- Dynamic stability assessment methods and outcomes
+- Fall risk assessment methods and outcomes
+- Perturbation intensity assessment methods and outcomes

@@ -1,20 +1,25 @@
-Study Title: The growth and diversity of the evidence base for the clubhouse model.
+Study Title: Factors associated with successful FLOW implementation to improve mental health access: a mixed-methods study.
 
 Study Summary:
-The Clubhouse Model is a long-standing form of psychosocial rehabilitation that has been in existence for over 75 years. Today, over 350 Clubhouse programs in 33 countries affiliate with Clubhouse International and operate as nonclinical community-based recovery centers for adults and young adults living with mental illness. Clubhouses provide a strengths-based approach to recovery and offer participants, referred to as members, a variety of supports and services including assistance with obtaining and maintaining community-based employment, education, housing, social integration, outreach and advocacy, wellness and health promotion activities, and linkages to medical and psychiatric services. There is evidence and support for the Clubhouse Model in improving quality of life and social functioning, reducing hospitalization(s) and/or psychiatric symptoms, and promoting employment. This special issue has nine articles that highlight ongoing research collaborations from across the globe that examine the impact of the Clubhouse Model on a variety of novel outcomes. While more research is needed, the articles in this special issue reflect the growth and diversity of the evidence base for the Clubhouse Model. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+The FLOW program assists mental health providers in transitioning recovered and stabilized specialty mental health (SMH) patients to primary care to increase access to SMH care. In a recent cluster-randomized stepped-wedge trial, nine VA sites implemented the FLOW program with wide variation in implementation success. The goal of this study is to identify site-level factors associated with successful implementation of the FLOW program, guided by the Consolidated Framework for Implementation Research (CFIR). We used the Matrixed Multiple Case Study method, a mixed-methods approach, to compare key metrics hypothesized to impact implementation that were aligned with CFIR. Based upon the number of veterans transitioned at each site, we categorized two sites as higher implementation success, three as medium, and four as lower implementation success. Themes associated with more successful implementation included perceptions of the intervention itself (CFIR domain Innovation), having a culture of recovery-oriented care and prioritizing implementation over competing demands (CFIR domain Inner Setting), had lower mental health provider turnover, and had an internal facilitator who was well-positioned for FLOW implementation, such as having a leadership role or connections across several clinics (CFIR domain Characteristics of Individuals). Other variables, including staffing levels, leadership support, and organizational readiness to change did not have a consistent relationship to implementation success. These data may assist in identifying sites that are likely to need additional implementation support to succeed at implementing FLOW.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1037/prj0000628
+- DOI: 10.1093/tbm/ibae050
 
 2. Keywords
-
+- access
+- consolidated framework for implementation research
+- implementation
+- mixed methods
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- access assessment methods and outcomes
+- consolidated framework for implementation research assessment methods and outcomes
+- implementation assessment methods and outcomes

@@ -1,28 +1,28 @@
-Study Title: Utility of in-session assessments during cognitive behavioral therapy for depression after traumatic brain injury: Results from a randomized controlled trial.
+Study Title: The effect of the ketogenic diet on resistance training load management: a repeated-measures clinical trial in trained participants.
 
 Study Summary:
-The development of depression after moderate to severe traumatic brain injury (TBI) is common. Cognitive-behavioral therapy (CBT) can be used to treat post-TBI depression, but the symptoms response is poorly described. This secondary analysis assessed: (1) the trajectory of depression symptoms up to 12 sessions of CBT, (2) which depressive symptom clusters were responsive to in-person and phone CBT, and (3) whether interim depression thresholds predict 16-week treatment response. This secondary analysis of the IRB-approved Life Improvement Following Traumatic Brain Injury trial included 100 adults with major depressive disorder (MDD) within ten years of moderate to severe traumatic brain injury from throughout the US. We used a combination of descriptive, graphical, and diagnostic accuracy methods. Cardinal and cognitive-affective symptom clusters improved most from CBT over 16 weeks. At 8 and 16 weeks, the most responsive individual symptoms were anhedonia, depressed mood, and fatigue; the least responsive were sleep and appetite. PHQ-9 thresholds with a Negative Predictive Value greater than 0.7 for sessions 6, 7, and 8 were, respectively: >15, >10, and >9. In-person and phone CBT led to similar symptom responses during treatment. Additionally, using PHQ-9 thresholds for predicting intervention response within eight sessions may help identify the need for treatment adjustments.
+The effect of low-carbohydrate high-fat dietary manipulation, such as the ketogenic diet (KD), on muscle strength assessment in resistance-training (RT) participants has focused on the one-repetition maximum test (1-RM). However, a pre-specified 1-RM value during an exercise training program disregards several confounding factors (i.e. sleep, diet, and training-induced fatigue) that affect the exerciser's "true" load and daily preparedness. We aimed to evaluate the effect of a 6-week RT program on load control-related variables in trained subjects following a KD intervention. Fourteen resistance-trained individuals (3F, 11&#x2009;M; 30.1 [6.2] years; 174.2 [7.6] cm; 75.7 [10.8] kg; BMI 24.8 [2.1] kg&#xb7;m) completed this single-arm repeated-measures clinical trial. Load management variables included volume load, number of repetitions, perceived exertion (RPE), movement velocity loss, and exertion index. These primary outcomes were assessed weekly before, during, and at the end of a 6-week RT program that included traditional RT exercises (bench press, femoral lying down, lat pulldown, leg extension, and back squat). There was a significant difference in RPE between weeks (&#x2009;=&#x2009;0.015, W&#x2009;=&#x2009;0.19) with a slight trend in decreasing RPE. We found differences in the volume load per week (&#x2009;<&#x2009;0.001; W&#x2009;=&#x2009;0.73 and&#x2009;<&#x2009;0.001, W&#x2009;=&#x2009;0.81, respectively), with an increase in the last weeks. In the control of the load based on movement velocity, we did not find significant differences between weeks (&#x2009;=&#x2009;0.591, W&#x2009;=&#x2009;0.06), although significant differences were found in the effort index (&#x2009;=&#x2009;0.026, W&#x2009;=&#x2009;0.17). A KD diet in recreational strength participants does not appear to lead to performance losses during a RT program aimed at improving body composition. However, the lack of adherence and familiarity with the ketogenic diet must be considered specially during first weeks.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3233/NRE-230218
+- DOI: 10.1080/15502783.2024.2306308
 
 2. Keywords
-- Depression
-- assessments
-- cognitive behavioral therapy
-- head injury
-- recovery
-- symptoms
-- traumatic brain injury
+- Ketosis
+- movement velocity
+- muscle strength
+- physical exertion
+- workload
 
 3. Key Findings
-- Findings extraction requires manual review
+- However, a pre-specified 1-RM value during an exercise training program disregards several confounding factors (i
+- We found differences in the volume load per week (&#x2009;<&#x2009;0
+- 06), although significant differences were found in the effort index (&#x2009;=&#x2009;0
 
 This study provides insights into:
-- Depression assessment methods and outcomes
-- assessments assessment methods and outcomes
-- cognitive behavioral therapy assessment methods and outcomes
+- Ketosis assessment methods and outcomes
+- movement velocity assessment methods and outcomes
+- muscle strength assessment methods and outcomes

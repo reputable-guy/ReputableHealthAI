@@ -1,26 +1,26 @@
-Study Title: A Fullerton Functional Fitness Test-based exercise intervention for older adults yields quick physical and psychological benefits.
+Study Title: The effect of exercise and educational programs for breast cancer patients on the development of breast cancer-related lymphoedema: secondary endpoint from a randomized controlled trial in the Setouchi Breast Project-10.
 
 Study Summary:
-Functional fitness is essential for healthy living in older adults. Specially targeted fitness programs might be the most beneficial. This intervention study aimed to assess the efficacy of a specific 16-week exercise program in improving functions as measured by the Fullerton Functional Fitness Test (FFFT), also known as the Senior Test, in older adults. Thirty-eight participants (66&#xa0;% women, M&#xa0;=&#xa0;80.15, SD&#xa0;=&#xa0;7.21) were randomized into an exercise group (n&#xa0;=&#xa0;24) and a waiting list control group (n&#xa0;=&#xa0;14). The exercise group trained three times a week for 1&#xa0;h. Objective tests (FFFT and handgrip power) and subjective psychological measures (life satisfaction, resilience, happiness, perceived stress, and well-being) were obtained at baseline, after eight weeks, and after 16 weeks. The data were analyzed using mixed-effect regression models. The results yielded statistically significant group-by-time interactions in all models, indicating improvements in physical and psychological measures over time in the treatment group compared to the control group. Significant differences between the groups in the estimated marginal means (with adjusted 95&#xa0;% confidence intervals) emerged after 16 weeks in happiness (-3.5 [-6.5, -0.4]), resilience (-5.5 [-9.9, -1.2]), perceived stress (2.2 [0.2, 4.2]), well-being (-5.8 [-7.9, -3.6]), upper limb strength (-5.7 [-9.0, -2.4]), upper body flexibility (-8.7 [-16.4, -1.0]), and agility and balance (4.6 [1.2, 8.1]). Except for happiness and resilience, these differences surfaced already after eight weeks. The here-employed 16-week exercise program, targeting the test elements of the FFFT, efficiently induced physical and mental improvements in older adults.
+Although the association between higher physical activity and preventive effect on breast-cancer-related lymphoedema (BCRL) has been reported, it is unclear what intervention is optimal. We aimed to investigate the effect of exercise and educational programs on BCRL development. This study was a secondary endpoint analysis from a prospective randomized controlled trial. We enrolled patients with stage 0-III breast cancer from March 2016 to March 2020 and randomly assigned them to the control (n&#x2009;=&#x2009;111), education (n&#x2009;=&#x2009;115), or exercise (n&#x2009;=&#x2009;104) group. As secondary endpoint, we assessed the incidence of and preventive effect on BCRL at 12&#xa0;months post-intervention. There were no significant differences in the incidence of BCRL at 12&#xa0;months post-intervention between the exercise and control groups (9.8% and 10.8%, P&#x2009;=&#x2009;0.83) and the education and control groups (11.6% and 10.8%, P&#x2009;=&#x2009;1.00). There were no significant differences in time to BCRL onset from the day of surgery between the exercise and control groups (event rate at 12&#xa0;months: 20.7% and 17.2%, log-rank, P&#x2009;=&#x2009;0.54) and the education and control groups (18.8% and 17.2%, log-rank, P&#x2009;=&#x2009;0.57). The multivariable analyses indicated that axillary dissection and obesity significantly increased the risk of BCRL [hazard ratio (HR): 2.36, 95% confidence interval (CI) 1.52-3.67 and HR: 1.68, 95% CI 1.07-2.63, respectively]. The intervention did not decrease the risk of BCRL, and axillary dissection and obesity were the risk factors of BCRL. UMIN000020595 at UMIN Clinical Trial Registry.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ctcp.2024.101880
+- DOI: 10.1007/s12282-024-01610-5
 
 2. Keywords
-- Ageing
-- Exercise
-- Objective measures
-- Physical activity
-- Subjective measures
+- Breast cancer
+- Breast cancer-related lymphoedema
+- Educational program
+- Exercise program
+- Preventive effect
 
 3. Key Findings
-- Findings extraction requires manual review
+- The multivariable analyses indicated that axillary dissection and obesity significantly increased the risk of BCRL [hazard ratio (HR): 2
 
 This study provides insights into:
-- Ageing assessment methods and outcomes
-- Exercise assessment methods and outcomes
-- Objective measures assessment methods and outcomes
+- Breast cancer assessment methods and outcomes
+- Breast cancer-related lymphoedema assessment methods and outcomes
+- Educational program assessment methods and outcomes

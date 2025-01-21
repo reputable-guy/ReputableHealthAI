@@ -1,20 +1,28 @@
-Study Title: Effects of sleep deprivation on food-related Pavlovian-instrumental transfer: a randomized crossover experiment.
+Study Title: Calibrated to drive: Measuring self-assessed driving ability and perceived workload after prolonged sitting and sleep restriction.
 
 Study Summary:
-Recent research suggests that insufficient sleep elevates the risk of obesity. Although the mechanisms underlying the relationship between insufficient sleep and obesity are not fully understood, preliminary evidence suggests that insufficient sleep may intensify habitual control of behavior, leading to greater cue-elicited food-seeking behavior that is insensitive to satiation. The present study tested this hypothesis using a within-individual, randomized, crossover experiment. Ninety-six adults underwent a one-night normal sleep duration (NSD) condition and a one-night total sleep deprivation (TSD) condition. They also completed the Pavlovian-instrumental transfer paradigm in which their instrumental responses for food in the presence and absence of conditioned cues were recorded. The sleep&#x2009;&#xd7;&#x2009;cue&#x2009;&#xd7;&#x2009;satiation interaction was significant, indicating that the enhancing effect of conditioned cues on food-seeking responses significantly differed across sleep&#x2009;&#xd7;&#x2009;satiation conditions. However, this effect was observed in NSD but not TSD, and it disappeared after satiation. This finding contradicted the hypothesis but aligned with previous literature on the effect of sleep disruption on appetitive conditioning in animals-sleep disruption following learning impaired the expression of appetitive behavior. The present finding is the first evidence for the role of sleep in Pavlovian-instrumental transfer effects. Future research is needed to further disentangle how sleep influences motivational mechanisms underlying eating.
+Self-assessed driving ability may differ from actual driving performance, leading to poor calibration (i.e., differences between self-assessed driving ability and actual performance), increased risk of accidents and unsafe driving behaviour. Factors such as sleep restriction and sedentary behaviour can impact driver workload, which influences driver calibration. This study aims to investigate how sleep restriction and prolonged sitting impact driver workload and driver calibration to identify strategies that can lead to safer and better calibrated drivers. Participants (n&#xa0;=&#xa0;84, mean age&#xa0;=&#xa0;23.5&#xa0;&#xb1;&#xa0;4.8, 49&#xa0;% female) undertook a 7-day laboratory study and were randomly allocated to a condition: sitting 9-h sleep opportunity (Sit9), breaking up sitting 9-h sleep opportunity (Break9), sitting 5-h sleep opportunity (Sit5) and breaking up sitting 5-h sleep opportunity (Break5). Break9 and Break5 conditions completed 3-min of light-intensity walking on a treadmill every 30&#xa0;min between 09:00-17:00&#xa0;h, while participants in Sit9 and Sit5 conditions remained seated. Each participant completed a 20-min simulated commute in the morning and afternoon each day and completed subjective assessments of driving ability and perceived workload before and after each commute. Objective driving performance was assessed using a driving simulator measuring speed and lane performance metrics. Driver calibration was analysed using a single component and 3-component Brier Score. Correlational matrices were conducted as an exploratory analysis to understand the strength and direction of the relationship between subjective and objective driving outcomes. Analyses revealed participants in Sit9 and Break9 were significantly better calibrated for lane variability, lane position and safe zone-lane parameters at both time points (p&#xa0;<&#xa0;0.0001) compared to Sit5 and Break5. Break5 participants were better calibrated for safe zone-speed and combined safe zone parameters (p&#xa0;<&#xa0;0.0001) and speed variability at both time points (p&#xa0;=&#xa0;0.005) compared to all other conditions. Analyses revealed lower perceived workload scores at both time points for Sit9 and Break9 participants compared to Sit5 and Break5 (p = <0.001). Breaking up sitting during the day may reduce calibration errors compared to sitting during the day for speed keeping parameters. Future studies should investigate if different physical activity frequency and intensity can reduce calibration errors, and better align a driver's self-assessment with their actual performance.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-60223-2
+- DOI: 10.1016/j.aap.2024.107609
 
 2. Keywords
-
+- Driver calibration
+- Driving simulator
+- Fatigue
+- NASA-TLX
+- Prolonged sitting
+- Sleepiness
 
 3. Key Findings
-- Findings extraction requires manual review
+- Analyses revealed participants in Sit9 and Break9 were significantly better calibrated for lane variability, lane position and safe zone-lane parameters at both time points (p&#xa0;<&#xa0;0
+- Analyses revealed lower perceived workload scores at both time points for Sit9 and Break9 participants compared to Sit5 and Break5 (p = <0
 
 This study provides insights into:
-- General research methodology and outcomes
+- Driver calibration assessment methods and outcomes
+- Driving simulator assessment methods and outcomes
+- Fatigue assessment methods and outcomes

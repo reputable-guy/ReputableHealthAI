@@ -1,20 +1,33 @@
-Study Title: Thermal and Cardiovascular Responses during Exertional Heat Stress after Diphenhydramine Use: A Randomized Crossover Trial.
+Study Title: A Dual-Modality Home-Based Cardiac Rehabilitation Program for Adults With Cardiovascular Disease: Single-Arm Remote Clinical Trial.
 
 Study Summary:
-Despite sparse systematic evidence, current exercise heat safety recommendations suggest that antihistamines blunt sweating and increase the risk for heat-related injury during exertional heat stress. The primary purpose of the present study was to examine whether diphenhydramine hydrochloride (DPH), a first-generation antihistamine, affects the sweating, core temperature, and heart rate (HR) response during exertional heat stress using a double-blind randomized crossover design. On two occasions separated by >48 h, 20 healthy adults (10 females, 23 &#xb1; 3 yr, body surface area: 1.9 &#xb1; 0.2 m 2 , body mass index: 23.7 &#xb1; 2.2 kg&#xb7;m -2 ) orally consumed either 50 mg of DPH or placebo (PLA), and then rested for 2 h in a climate-controlled room maintained at 30&#xb0;C and 35% relative humidity (heat index of ~29&#xb0;C), followed by a 60-min fixed-heat production treadmill walk (6.3 &#xb1; 1.0 W&#xb7;kg -1 ). Whole-body sweat loss, local sweat rate, rectal temperature ( Trec ), and HR were measured. Whole-body sweat loss was not different between conditions (PLA: 406 &#xb1; 78 g, DPH: 396 &#xb1; 75 g; P = 0.26, treatment effect: -10 g; 95% confidence interval, -28 to 8). No differences were observed for the onset of sweating (PLA: 13.5 &#xb1; 2.4 min, DPH: 13.3 &#xb1; 2.7 min; P = 0.79) and steady-state local sweat rate (PLA: 0.83 &#xb1; 0.26 mg&#xb7;cm -2 &#xb7;min -1 , DPH: 0.82 &#xb1; 0.27 mg&#xb7;cm -2 &#xb7;min -1 ; P = 0.99). No difference in baseline Trec was observed (PLA: 37.09&#xb0;C &#xb1; 0.35&#xb0;C, DPH: 37.13&#xb0;C &#xb1; 0.33&#xb0;C; P = 0.68), and the 60-min &#x394; Trec was not different ( P = 0.99) between PLA (0.83&#xb0;C &#xb1; 0.29&#xb0;C) and DPH (0.81&#xb0;C &#xb1; 0.30&#xb0;C). HR was similar at baseline (PLA: 86 &#xb1; 13 bpm, DPH: 84 &#xb1; 11 bpm; P = 0.30) and end-exercise (PLA: 134 &#xb1; 28 bpm, DPH: 132 &#xb1; 26 bpm; P = 0.90). Fifty milligrams of DPH does not modify the sweating, core temperature, and HR response during exertional heat stress in young healthy adults.
+Cardiac rehabilitation (CR) is a safe, effective intervention for individuals with cardiovascular disease (CVD). However, a majority of eligible patients do not complete CR. Growing evidence suggests that home-based cardiac rehabilitation (HBCR) programs are comparable in effectiveness and safety with traditional center-based programs. More research is needed to explore different ways to deliver HBCR programs to patients with CVD. We aimed to assess the feasibility and impact of a digital HBCR program (RecoveryPlus.Health) that integrates both telehealth and mHealth modalities on functional exercise capacity, resting heart rate, and quality of life among adults with CVD. This 12-week prospective, single-arm remote clinical trial used a within-subject design. We recruited adults with CVD (aged &#x2265;40 years) from the community with a CR-eligible diagnosis (stable angina pectoris, myocardial infarction, and heart failure) between May and August 2023. All enrolled patients referred to the RPH clinic in Roanoke, Texas, were included. The care team provided guideline-concordant CR services to study participants via two modalities: (1) a synchronous telehealth exercise training through videoconferencing; and (2) an asynchronous mobile health (mHealth) coaching app (RPH app). Baseline intake survey, electronic health record, and app log data were used to extract individual characteristics, care processes, and platform engagement data. Feasibility was measured by program completion rate and CR service use. Efficacy was measured by changes in the 6-minute walk test, resting heart rate, and quality of life (12-Item Short-Form Health Survey) before and after the 12-week program. Paired t tests were used to examine pre- and postintervention changes in the outcome variables. In total, 162 met the inclusion criteria and 75 (46.3%) consented and were enrolled (mean age 64, SD 10.30 years; male: n=37, 49%; White: n=46, 61%). Heart failure was the most common diagnosis (37/75, 49%). In total, 62/75 (83%) participants completed the 12-week study and used the telehealth modality with 9.63 (SD 3.33) sessions completed, and 59/75 (79%) used the mHealth modality with 10.97 (SD 11.70) sessions completed. Post intervention, 50/62 (81%) participants' performance in the 6-minute walk test had improved, with an average improvement of 40 (SD 63.39) m (95% CI 25.6-57.1). The average 12-Item Short-Form Health Survey's physical and mental summary scores improved by 2.7 (SD 6.47) points (95% CI 1.1-4.3) and 2.2 (SD 9.09) points (95% CI 0.1-4.5), respectively. There were no changes in resting heart rate and no exercise-related adverse events were reported. The RecoveryPlus.Health digital HBCR program showed feasibility and efficacy in a group of nationally recruited patients with CVD. The findings add to the evidence that a telehealth and mHealth dual-modality HBCR program may be a promising approach to overcome some of the main barriers to improving CR access in the United States. ClinicalTrials.gov NCT05804500; https://clinicaltrials.gov/search?cond=NCT05804500.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1249/MSS.0000000000003527
+- DOI: 10.2196/59098
 
 2. Keywords
-
+- app
+- application
+- cardiac rehabilitation
+- digital health
+- disease management
+- exercise
+- mHealth
+- myocardial infarction
+- physical fitness
+- quality of life
+- self-management
+- telehealth
 
 3. Key Findings
-- Findings extraction requires manual review
+- Health digital HBCR program showed feasibility and efficacy in a group of nationally recruited patients with CVD
 
 This study provides insights into:
-- General research methodology and outcomes
+- app assessment methods and outcomes
+- application assessment methods and outcomes
+- cardiac rehabilitation assessment methods and outcomes

@@ -1,20 +1,28 @@
-Study Title: Association of energy delivery with short-term survival in mechanically ventilated critically ill adult patients: a secondary analysis of the NEED trial.
+Study Title: Vanilla odor promotes oral feeding in premature infants-A randomized controlled trial.
 
 Study Summary:
-The optimal energy delivery for mechanically ventilated patients is controversial, particularly during the first week of ICU admission. This study aimed to investigate the association between different caloric adequacy and 28-day mortality in a cohort of critically ill adults on mechanical ventilation. This is a secondary analysis of a multicenter, cluster-randomized controlled trial. Eligible patients were divided into four quartiles (Q1-Q4) according to caloric adequacy calculated by the actual average daily energy delivery during the first seven days of ICU stay divided by energy requirement as a percentage. Cox proportional hazards models were used to examine the impact of different quartiles of caloric adequacy on 28-day mortality in the whole cohort and subgroups with different nutritional risk status at enrollment. A total of 1587 patients were included in this study, with an overall 28-day mortality of 15.8%. The average caloric adequacy was 26.3&#x2009;&#xb1;&#x2009;11.9% (Q1), 52.5&#x2009;&#xb1;&#x2009;5.5% (Q2), 71.7&#x2009;&#xb1;&#x2009;6.4% (Q3), 107.0&#x2009;&#xb1;&#x2009;22.2% (Q4), respectively (p&#x2009;<&#x2009;0.001 among quartiles). Compared with Q1, Q3 was associated with lower mortality in the unadjusted model (hazard ratio [HR]&#x2009;=&#x2009;0.536; 95% confidence interval [CI], 0.375-0.767; P&#x2009;=&#x2009;0.001) and adjusted model (adjusted HR&#x2009;=&#x2009;0.508; 95% CI, 0.339-0.761; P&#x2009;=&#x2009;0.001). This association remained valid in the subgroup of high nutritional risk patients (unadjusted HR&#x2009;=&#x2009;0.387; 95% CI, 0.238-0.627; P&#x2009;<&#x2009;0.001 and adjusted HR&#x2009;=&#x2009;0.369; 95% CI, 0.216-0.630; P&#x2009;<&#x2009;0.001, respectively), but not in those with low risk. Energy delivery near the 70% energy requirements in the first week of ICU stay was associated with reduced 28-day mortality among mechanically ventilated critically ill patients, especially in patients with high nutrition risk at admission.
+Introducing early oral feeding in premature infants is important because it supports intestinal maturation and helps prevent infections. In addition, early oral feeding is likely to contribute to improved neurocognitive outcomes in preterm infants. Several holistic therapeutic strategies have been developed to improve feeding skills, food tolerance, and the ability to drink independently, including practices such as early breastfeeding, oral stimulation, and subsequent olfactory stimulation. Based on several studies using olfactory stimulation with food odors (vanilla, breast milk) to promote oral feeding in preterm infants this study was conducted to test the following hypothesis: Does olfactory stimulation with vanilla or milk odor (breast milk or formula) lead to a reduction in the time required for nasogastric tube weaning in premature infants older than 26&#xa0;+&#xa0;6 weeks of gestational age? In addition, does it influence secondary outcomes such as length of hospital stay, weight development, and attainment of greater amounts of independently consumed food? Premature with complete or partial feeding by gastric tube and without ventilation were included. For this study, 207 infants over 26&#xa0;+&#xa0;6 gestational weeks were randomized into three different study groups. Before each feeding, an olfactory presentation was made with milk odor, a vanilla Sniffin' Stick, or a control stick. In the final analysis, 165 infants were included (87 males, 78 females). At the time of randomization, infants were on average 12&#xa0;&#xb1;&#xa0;9.5 days old. While the influence of vanilla and milk odor did not provide a significant difference from the control for the primary outcome, a secondary analysis showed a significant group difference in the cumulative amount of independently drunk food consumed in the first ten days was the highest amount in the vanilla group. This time period was chosen due to the high dropout rate after the first ten days. In addition, there was a promising significance for earlier hospital discharge for prematurely below 32 weeks of gestation receiving vanilla odor stimulation in comparison to milk odor stimulation. Although the primary outcome of this study (gastric tube removal) did not provide significant results, a significant benefit of vanilla olfactory stimulation for preterm infants was demonstrated in subgroup analysis above milk odor stimulation. Younger preterm infants seem to benefit from the stimulation.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1038/s41430-023-01369-6
+- Publication Date: 2023
+- DOI: 10.1016/j.physbeh.2023.114417
 
 2. Keywords
-
+- Breast milk
+- Gavage feeding
+- Nutrition
+- Olfaction
+- Premature infant
+- Vanilla
 
 3. Key Findings
-- Findings extraction requires manual review
+- While the influence of vanilla and milk odor did not provide a significant difference from the control for the primary outcome, a secondary analysis showed a significant group difference in the cumulative amount of independently drunk food consumed in the first ten days was the highest amount in the vanilla group
+- Although the primary outcome of this study (gastric tube removal) did not provide significant results, a significant benefit of vanilla olfactory stimulation for preterm infants was demonstrated in subgroup analysis above milk odor stimulation
 
 This study provides insights into:
-- General research methodology and outcomes
+- Breast milk assessment methods and outcomes
+- Gavage feeding assessment methods and outcomes
+- Nutrition assessment methods and outcomes

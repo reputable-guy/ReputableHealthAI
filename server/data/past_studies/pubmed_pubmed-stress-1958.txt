@@ -1,26 +1,20 @@
-Study Title: A Randomized Controlled Pilot Trial of Primary Care Treatment Integrating Motivation and Exposure Treatment (PC-TIME) in Veterans With PTSD and Harmful Alcohol Use.
+Study Title: A cluster-randomized trial of water, sanitation, handwashing and nutritional interventions on stress and epigenetic programming.
 
 Study Summary:
-Individuals with posttraumatic stress disorder (PTSD) often engage in harmful alcohol use. These co-occurring conditions are associated with negative health consequences and disability. PTSD and harmful drinking are typically experienced as closely related-thus treatments that target both simultaneously are preferred by patients. Many individuals with PTSD and harmful alcohol use receive primary care services but encounter treatment barriers in engaging in specialty mental health and substance use services. A pilot randomized controlled trial of a brief integrated treatment for PTSD and harmful drinking versus primary care treatment as usual (PC-TAU) took place in three U.S. Department of Veterans Affairs (VA) primary care clinics. The intervention (primary care treatment integrating motivation and exposure [PC-TIME]) combines motivational interviewing to reduce alcohol use and brief prolonged exposure for PTSD delivered over five brief sessions. Participants (N&#x202f;=&#x202f;63) were veterans with PTSD and harmful drinking. Multilevel growth curve modeling examined changes in drinking (average number of drinks per drinking day and percentage of heavy drinking days) and self-reported PTSD severity at baseline, 8, 14, and 20 weeks. Participants reported high satisfaction with PC-TIME and 70% (n&#x202f;=&#x202f;23) completed treatment. As hypothesized, a significantly steeper decrease in self-reported PTSD severity and heavy drinking was evident for participants randomized to PC-TIME compared with PC-TAU. Contrary to expectations, no significant posttreatment differences in PTSD diagnoses were observed. PC-TIME participants were less likely to exceed National Institute for Alcoholism and Alcohol Abuse (NIAAA) guidelines for harmful alcohol use posttreatment compared with PC-TAU participants. PC-TIME is a promising brief, primary care-based treatment for individuals with co-occurring PTSD and harmful alcohol use. A full-scale randomized clinical trial is needed to fully test its effectiveness.
+A regulated stress response is essential for healthy child growth and development trajectories. We conducted a cluster-randomized trial in rural Bangladesh (funded by the Bill & Melinda Gates Foundation, ClinicalTrials.gov NCT01590095) to assess the effects of an integrated nutritional, water, sanitation, and handwashing intervention on child health. We previously reported on the primary outcomes of the trial, linear growth and caregiver-reported diarrhea. Here, we assessed additional prespecified outcomes: physiological stress response, oxidative stress, and DNA methylation (N&#x2009;=&#x2009;759, ages 1-2 years). Eight neighboring pregnant women were grouped into a study cluster. Eight geographically adjacent clusters were block-randomized into the control or the combined nutrition, water, sanitation, and handwashing (N&#x2009;+&#x2009;WSH) intervention group (receiving nutritional counseling and lipid-based nutrient supplements, chlorinated drinking water, upgraded sanitation, and handwashing with soap). Participants and data collectors were not masked, but analyses were masked. There were 358 children (68 clusters) in the control group and 401 children (63 clusters) in the intervention group. We measured four F2-isoprostanes isomers (iPF(2&#x3b1;)-III; 2,3-dinor-iPF(2&#x3b1;)-III; iPF(2&#x3b1;)-VI; 8,12-iso-iPF(2&#x3b1;)-VI), salivary alpha-amylase and cortisol, and methylation of the glucocorticoid receptor (NR3C1) exon 1F promoter including the NGFI-A binding site. Compared with control, the N&#x2009;+&#x2009;WSH group had lower concentrations of F2-isoprostanes isomers (differences ranging from -0.16 to -0.19&#x2009;log&#x2009;ng/mg of creatinine, P&#x2009;<&#x2009;0.01), elevated post-stressor cortisol (0.24&#x2009;log&#x2009;&#xb5;g/dl; P&#x2009;<&#x2009;0.01), higher cortisol residualized gain scores (0.06&#x2009;&#xb5;g/dl; P&#x2009;=&#x2009;0.023), and decreased methylation of the NGFI-A binding site (-0.04; P&#x2009;=&#x2009;0.037). The N&#x2009;+&#x2009;WSH intervention enhanced adaptive responses of the physiological stress system in early childhood.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.beth.2023.08.011
+- DOI: 10.1038/s41467-024-47896-z
 
 2. Keywords
-- AUD
-- PTSD
-- motivational interviewing
-- primary care
-- prolonged exposure
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- We conducted a cluster-randomized trial in rural Bangladesh (funded by the Bill & Melinda Gates Foundation, ClinicalTrials
 
 This study provides insights into:
-- AUD assessment methods and outcomes
-- PTSD assessment methods and outcomes
-- motivational interviewing assessment methods and outcomes
+- General research methodology and outcomes

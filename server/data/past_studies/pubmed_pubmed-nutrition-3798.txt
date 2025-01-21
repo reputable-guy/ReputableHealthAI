@@ -1,26 +1,30 @@
-Study Title: Effects of Nutrition Education Program for the Japan Diet on Serum Phospholipid Fatty Acid Compositions in Patients with Dyslipidemia: Re-analysis of Data from a Previous Randomized Controlled Trial.
+Study Title: Modifications of lung microbiota structure in traumatic brain injury ventilated patients according to time and enteral feeding formulas: a prospective randomized study.
 
 Study Summary:
-We investigated changes in serum phospholipid fatty acid compositions with intake of the Japan Diet (JD) (higher consumption of fish, soybeans, vegetables, seaweed/mushrooms/konjak, and unrefined cereals with reduced consumption of animal fat, meat and poultry with fat, sweets and alcoholic drinks) recommended by the Japan Atherosclerosis Society. A randomized parallel controlled clinical trial on JD intake was conducted on Japanese patients with dyslipidemia. Nutrition education, based on the JD or partial JD (PJD) at baseline and at 3 months, was provided and the participants were followed up for 6 months. Fatty acids comprising serum phospholipids were measured in the JD (n=44) and PJD (n=44) groups. Fatty acid intakes of C20:4, C20:5 and C22:6 increased in the JD group as compared with the PJD group. The percentages of serum phospholipid, C22:1 and C20:5 increased, while those of C18:1, C20:3(n-6) and C20:4(n-6) decreased in the JD as compared with the PJD group at 3 months. Changes in the phospholipid concentrations of C20:5, C22:5 and C22:6 reflected those intake volumes. Serum phospholipid C20:5 and C22:6 showed inverse correlations with C18:1, C18:2, and C20:3(n-6) at baseline and the changes at 3 and 6 months. In contrast, no correlation was observed between C20:4(n-6) and those n-3 fatty acids. The ratios of fatty acid concentrations, C16:1/C16:0 and C18:1/C18:0, decreased, but the ratio of C20:4(n-6)/C20:3(n-6) increased in the JD group. Nutrition education on the JD changed serum phospholipid fatty acid profiles in favor to prevent against cardiovascular risk factors in patients with dyslipidemia.
+Specialized diets enriched with immune nutrients could be an important supplement in patients (pts) with acute traumatic brain injury (TBI). Omega-3 and arginine may interact with immune response and microbiota. No data are available about the role of the specialized diets in modulating the lung microbiota, and little is known about the influence of lung microbiota structure in development of ventilator-associated pneumonia (VAP) in TBI pts. The aims of this study are to evaluate the impact of specific nutrients on the lung microbiota and the variation of lung microbiota in TBI pts developing VAP. A cohort of 31 TBI pts requiring mechanical ventilation in ICU was randomized for treatment with specialized (16pts) or standard nutrition (15pts). Alpha and beta diversity of lung microbiota were analyzed from bronco Alveolar Lavage (BAL) samples collected at admission and 7&#xa0;days post-ICU admission in both groups. A further analysis was carried out on the same samples retrospectively grouped in VAP or no VAP pts. None developed VAP in the first week. Thereafter, ten out of thirty-one pts developed VAP. The BAL microbiota on VAP group showed significant differences in beta diversity and Staphylococcus and Acinetobacter Genera were high. The specialized nutrition had influence on beta diversity that reached statistical significance only in Bray-Curtis distance. Our data suggest that TBI patients who developed VAP during ICU stay have different structures of BAL microbiota either at admission and at 7&#xa0;days post-ICU admission, while no correlation has been observed between different enteral formulas and microbiota composition in terms of richness and evenness. These findings suggest that targeting the lung microbiota may be a promising approach for preventing infections in critically ill patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.5551/jat.64154
+- DOI: 10.1186/s13054-023-04531-5
 
 2. Keywords
-- Diet
-- Dyslipidemia
-- Fatty acids
-- Japanese
-- Nutrition education
+- Alfa diversity
+- Arginine
+- Beta diversity
+- Lung microbiota
+- Mechanical ventilation
+- Omega 3
+- Specialized nutrition
+- TBI
+- VAP
 
 3. Key Findings
-- Serum phospholipid C20:5 and C22:6 showed inverse correlations with C18:1, C18:2, and C20:3(n-6) at baseline and the changes at 3 and 6 months
+- The BAL microbiota on VAP group showed significant differences in beta diversity and Staphylococcus and Acinetobacter Genera were high
 
 This study provides insights into:
-- Diet assessment methods and outcomes
-- Dyslipidemia assessment methods and outcomes
-- Fatty acids assessment methods and outcomes
+- Alfa diversity assessment methods and outcomes
+- Arginine assessment methods and outcomes
+- Beta diversity assessment methods and outcomes

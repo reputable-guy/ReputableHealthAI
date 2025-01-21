@@ -1,26 +1,20 @@
-Study Title: The physical activity in cancer survivors (PACES) trial: a factorial randomized trial to optimize intervention for breast cancer survivors.
+Study Title: Medical Students Wellness Habits and Perceived Stress Levels, a Cross-Sectional Study of USD SSOM Students.
 
 Study Summary:
-Multiple intervention strategies have been found effective for increasing physical activity among breast cancer survivors, yet most breast cancer survivors fail to meet physical activity recommendations. Optimization of interventions can facilitate real word implementation to ensure effective and efficient intervention delivery. Using a full-factorial design based on the Multiphase Optimization Strategy, 337 breast cancer survivors were randomized to receive a combination of four intervention components: (1) supervised exercise sessions, (2) facility membership, (3) Active Living Every Day (ALED), and (4) Fitbit. Moderate-to vigorous (MVPA) and light-intensity physical activity (LPA) were measured at baseline, 3 months, and 6 months with a hip-worn Actigraph GT3X+. Normal linear mixed models with separate intercepts for each subject were fit in the SAS 9.4 Mixed procedure. Participants who received supervised exercise sessions engaged in more MVPA, 153.58&#xa0;min/week vs. 133.0&#xa0;min/week (F&#x2009;=&#x2009;3.97, p&#x2009;=&#x2009;0.048) and LPA, 170.26&#xa0;min/day versus 160.98 light PA minutes/day (F&#x2009;=&#x2009;4.67, p&#x2009;=&#x2009;0.032), compared to participants who did not receive supervised exercise. The effects of the three other intervention components on MVPA were not significant; however, those that received ALED engaged in less LPA (F&#x2009;=&#x2009;6.6, p&#x2009;=&#x2009;0.011). Supervised exercise sessions resulted in significant increases in MVPA and LPA in a sample of breast cancer survivors. Of note, these sessions were provided only during the first 6 weeks of the intervention and effects remained significant at 6 months. Results of this trial could inform future implementation efforts to ensure effective and efficient delivery of physical activity programs for breast cancer survivors.
+Burnout is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. It includes feelings of energy depletion and cynicism and reduced professional efficacy. Psychological distress among U.S. and Canadian medical students is higher overall relative to both the general population and age-matched peers. Physical activity has been shown to decrease burnout and improve quality of life. In addition, unhealthy eating patterns and poor sleep quality have been linked to elevated levels of stress. This is a cross-sectional, survey-based study of medical students currently enrolled at the USD SSOM. All students received an email with the survey. Participation was anonymous and voluntary. We used the Perceived Stress Scale6 and compared it to exercise, dietary, sleep, and mindfulness habits. 147 students responded. The average perceived stress scale score was 16, indicating moderate stress. Most students reported engaging in light exercise either every day (37%) or a few times per week (42%). Fifty percent reported moderate exercise a few times per week. For vigorous exercise, 29% reported a few times per week. Only 63% of students reported eating breakfast compared to 90% for lunch and 99% for dinner. Eating a home cooked meal every day was reported by 52% of students. Twenty five percent of students reported eating out a few times a week. Caffeine intake varied amongst students, with 15% of students having 0 servings of caffeine daily, 23% having 1, 33% having 2, 15% having 3, 7% having 4, and 7% reported more than 4. The average amount of sleep reported was 7.3 hours nightly and the average amount of mindfulness activities per week was 2.4. The average USD SSOM student reports moderate stress levels. Addressing lifestyle habits can lead to a reduction of stress and burnout.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10865-024-00518-x
+
 
 2. Keywords
-- Breast cancer
-- Cancer survivors
-- Exercise
-- Multiphase optimization strategy
-- Physical activity
+
 
 3. Key Findings
-- Multiple intervention strategies have been found effective for increasing physical activity among breast cancer survivors, yet most breast cancer survivors fail to meet physical activity recommendations
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Breast cancer assessment methods and outcomes
-- Cancer survivors assessment methods and outcomes
-- Exercise assessment methods and outcomes
+- General research methodology and outcomes

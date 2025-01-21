@@ -1,20 +1,27 @@
-Study Title: Sustained benefit of zanubrutinib vs ibrutinib in patients with R/R CLL/SLL: final comparative analysis of ALPINE.
+Study Title: Esketamine use for primary intelligent analgesia in adults with severe burns: A double-blind randomized trial with effects on analgesic efficacy, gastrointestinal function and mental state.
 
 Study Summary:
-The ALPINE trial established the superiority of zanubrutinib over ibrutinib in patients with relapsed/refractory chronic lymphocytic leukemia and small lymphocytic lymphoma; here, we present data from the final comparative analysis with extended follow-up. Overall, 652 patients received zanubrutinib (n&#xa0;=&#xa0;327) or ibrutinib (n&#xa0;=&#xa0;325). At an overall median follow-up of 42.5 months, progression-free survival benefit with zanubrutinib vs ibrutinib was sustained (hazard ratio [HR], 0.68; 95% confidence interval [CI], 0.54-0.84), including in patients with del(17p)/TP53 mutation (HR, 0.51; 95% CI, 0.33-0.78) and across multiple sensitivity analyses. Overall response rate remained higher with zanubrutinib compared with ibrutinib (85.6% vs 75.4%); responses deepened over time with complete response/complete response with incomplete bone marrow recovery rates of 11.6% (zanubrutinib) and 7.7% (ibrutinib). Although median overall survival has not been reached in either treatment group, fewer zanubrutinib patients have died than ibrutinib patients (HR, 0.77 [95% CI, 0.55-1.06]). With median exposure time of 41.2 and 37.8 months in zanubrutinib and ibrutinib arms, respectively, the most common nonhematologic adverse events included COVID-19-related infection (46.0% vs 33.3%), diarrhea (18.8% vs 25.6%), upper respiratory tract infection (29.3% vs 19.8%), and hypertension (27.2% vs 25.3%). Cardiac events were lower with zanubrutinib (25.9% vs 35.5%) despite similar rates of hypertension. Incidence of atrial fibrillation/flutter was lower with zanubrutinib vs ibrutinib (7.1% vs 17.0%); no cardiac deaths were reported with zanubrutinib vs 6 cardiac deaths with ibrutinib. This analysis, at 42.5 months median follow-up, demonstrates that zanubrutinib remains more efficacious than ibrutinib with an improved overall safety/tolerability profile. This trial was registered at www.ClinicalTrials.gov as #NCT03734016.
+Opioid consumption for analgesia in burn patients is enormous. Non-opioid analgesics for burn pain management may result in opioid sparing, reducing opioid-related adverse reactions and drug tolerance or addiction. A dual-center, randomized controlled trial assessed Esketamine for the perioperative period in patients with severe [20-50&#xa0;% total body surface area (TBSA)] and extensive (&#x2265; 50&#xa0;% TBSA) burns, comparing analgesia with standard anesthesia. Sixty patients were randomly allocated (1:1 ratio) to two arms. In the Treatment Arm, patients received intra-operative Esketamine and postoperative intravenous primary intelligent analgesia pump with Esketamine. Patients in the Control Arm received the same intervention as Treatment Arm without Esketamine. The primary endpoint was subjective analgesic efficacy (SAE) evaluated on Day 28 or the day before hospital discharge. Secondary outcomes included the postoperative Numeric Pain Rating (NPR) Scale at rest (NPRr) and during movement (NPRm) and opioid consumption. Gastrointestinal dysfunction Scores (GIDS) and serum markers of intestinal injury [intestinal fatty acid-binding protein 2 (iFabp2) and apolipoproteinA2 (ApoA2)] were measured in the 1st and 4th post-injury weeks. Depression and sleep quality were assessed by relevant questionnaires. Fifty-five patients were included in the analysis. Esketamine-treated Arm recorded a better analgesic efficacy than the Control Arm (proportion of patients with Grade 1 or 2 SAE scores, 67.9&#xa0;% vs. 40.7&#xa0;%, p = 0.022). Esketamine-treated patients had lower NPRm values (p = 0.033) and lower daily opioid consumption (p = 0.033) when compared with Controls. Esketamine-treated patients showed comparable gastrointestinal recovery to those in the Control Arm. The overall sleep quality might be improved in the Treatment Arm. Esketamine use is safe for perioperative primary intelligent analgesia of severe burns, resulting in improved resting pain control and lower opioid requirements. The trial was registered at the Chinese Clinical Trial Registry (www.chictr.org.cn/) (ChiCTR2000034069).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1182/blood.2024024667
+- DOI: 10.1016/j.burns.2024.06.004
 
 2. Keywords
-
+- Esketamine
+- Gastrointestinal injury
+- Opioid requirement
+- Primary intelligent analgesia
+- Severe burns
+- Subjective analgesic efficacy (SAE)
 
 3. Key Findings
-- Findings extraction requires manual review
+- Esketamine-treated patients showed comparable gastrointestinal recovery to those in the Control Arm
 
 This study provides insights into:
-- General research methodology and outcomes
+- Esketamine assessment methods and outcomes
+- Gastrointestinal injury assessment methods and outcomes
+- Opioid requirement assessment methods and outcomes

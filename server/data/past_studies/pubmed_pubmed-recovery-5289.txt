@@ -1,25 +1,26 @@
-Study Title: Factors associated with successful FLOW implementation to improve mental health access: a mixed-methods study.
+Study Title: Implementation of modified enhanced recovery after surgery (ERAS) following surgery for abdominal trauma; Assessment of feasibility and outcomes: A randomized controlled trial (RCT).
 
 Study Summary:
-The FLOW program assists mental health providers in transitioning recovered and stabilized specialty mental health (SMH) patients to primary care to increase access to SMH care. In a recent cluster-randomized stepped-wedge trial, nine VA sites implemented the FLOW program with wide variation in implementation success. The goal of this study is to identify site-level factors associated with successful implementation of the FLOW program, guided by the Consolidated Framework for Implementation Research (CFIR). We used the Matrixed Multiple Case Study method, a mixed-methods approach, to compare key metrics hypothesized to impact implementation that were aligned with CFIR. Based upon the number of veterans transitioned at each site, we categorized two sites as higher implementation success, three as medium, and four as lower implementation success. Themes associated with more successful implementation included perceptions of the intervention itself (CFIR domain Innovation), having a culture of recovery-oriented care and prioritizing implementation over competing demands (CFIR domain Inner Setting), had lower mental health provider turnover, and had an internal facilitator who was well-positioned for FLOW implementation, such as having a leadership role or connections across several clinics (CFIR domain Characteristics of Individuals). Other variables, including staffing levels, leadership support, and organizational readiness to change did not have a consistent relationship to implementation success. These data may assist in identifying sites that are likely to need additional implementation support to succeed at implementing FLOW.
+Enhanced recovery after surgery(ERAS) is a set of multiple perioperative care component not a rigid protocol with improved outcomes for elective surgeries. This study aimed to assess the feasibility and outcomes in trauma patients undergoing laparotomy. Prospective single-centre randomized controlled trial(RCT). Patients undergoing emergency laparotomy following trauma were randomized into ERAS(early removal of catheters, early mobilization and initiation of diet, use of opioid-sparing multimodal analgesia) and conventional care groups 24&#xa0;&#x200b;h post-surgery. Outcome measures included length of hospitalization(LOH), recovery of bowel function, duration of removal of catheters and 30-day complications(Clavien-Dindo). Fifty patients were randomized into ERAS(n&#xa0;&#x200b;=&#xa0;&#x200b;25) and conventional care(n&#xa0;&#x200b;=&#xa0;&#x200b;25) groups. Ninety-two percent of patients were young males, 58&#xa0;&#x200b;% had blunt trauma to the abdomen and the most common indication of surgery was hollow viscus injury(88&#xa0;&#x200b;%). ERAS group had a reduced median LOH(days) (6 versus 8, p&#xa0;&#x200b;=&#xa0;&#x200b;0.007), early recovery of bowel function(p&#xa0;&#x200b;=&#xa0;&#x200b;0.010) and shorter times for nasogastric tube(p&#xa0;&#x200b;=&#xa0;&#x200b;0.001), urinary catheter(p&#xa0;&#x200b;=&#xa0;&#x200b;0.007) and drain(p&#xa0;&#x200b;=&#xa0;&#x200b;0.006) removal. The complications were comparable in both groups except for deep surgical site infection[significantly lower in ERAS group(p&#xa0;&#x200b;=&#xa0;&#x200b;0.009)]. ERAS is safe and significantly reduces LOH in select trauma patients undergoing laparotomy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/tbm/ibae050
+- DOI: 10.1016/j.amjsurg.2024.115975
 
 2. Keywords
-- access
-- consolidated framework for implementation research
-- implementation
-- mixed methods
+- ERAS
+- Enhanced recovery after surgery
+- Laparotomy
+- Modified ERAS
+- Trauma
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- access assessment methods and outcomes
-- consolidated framework for implementation research assessment methods and outcomes
-- implementation assessment methods and outcomes
+- ERAS assessment methods and outcomes
+- Enhanced recovery after surgery assessment methods and outcomes
+- Laparotomy assessment methods and outcomes

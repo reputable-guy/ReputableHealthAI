@@ -1,20 +1,26 @@
-Study Title: Model of integrated mental health video consultations for people with depression or anxiety in primary care (PROVIDE-C): assessor masked, multicentre, randomised controlled trial.
+Study Title: Efficacy of Erector Spinae Plane Block on Postoperative Analgesia for Patients Undergoing Metabolic Bariatric Surgery: A Randomized Controlled Trial.
 
 Study Summary:
-To evaluate whether an integrated mental health video consultation approach (PROVIDE model) can improve symptoms compared with usual care in adults with depression and anxiety disorders attending primary care. Assessor masked, multicentre, randomised controlled trial (PROVIDE-C). In 29 primary care practices in Germany, working remotely online from one trial hub. 376 adults (18-81 years) who presented to their general practitioner (GP) with depression or anxiety, or both. Participants were randomised (1:1) to receive the PROVIDE model (n=187) or usual care (n=189). Usual care was provided by GPs through interventions such as brief counselling and psychotropic medication prescriptions and may or may not have included referrals to mental health specialists. The PROVIDE model comprised transdiagnostic treatment provided through five real-time video sessions between the patient at the primary care practice and a mental health specialist at an offsite location. The primary outcome was the absolute change in the mean severity of depressive and anxiety symptoms measured using the patient health questionnaire anxiety and depression scale (PHQ-ADS) at six months, in the intention-to-treat population. Secondary outcomes, measured at six and 12 months, included PHQ-ADS subscores, psychological distress related to somatic symptoms, recovery, health related quality of life, quality and patient centredness of chronic illness care, and adverse events. Between 24 March 2020 and 23 November 2021, 376 patients were randomised into treatment groups. Mean age was 45 years (standard deviation (SD) 14), 63% of the participants were female, and mean PHQ-ADS-score was 26 points (SD 7.6). Compared with usual care, the PROVIDE intervention led to improvements in severity of depressive and anxiety symptom (adjusted mean change difference in the PHQ-ADS score -2.4 points (95% confidence interval -4.5 to -0.4), P=0.02) at six months. The effects were sustained at 12 months (-2.9 (-5.0 to -0.7), P<0.01). No serious adverse events were reported in either group. Through relatively low intensity treatment, the PROVIDE model led to a decrease in depressive and anxiety symptoms with small effects in the short and long term. Depression and anxiety disorders are prevalent and therefore the small effect might cumulatively impact on population health in this population. ClinicalTrials.gov NCT04316572.
+Metabolic bariatric surgery (MBS) advocates multimodal analgesia, discouraging opioid use to minimize side effects, such as nausea and vomiting, during postoperative pain management for quicker recovery. Combining erector spinae plane block (ESPB) with multimodal analgesia aims to reduce opioid consumption, improving postoperative recovery. This study aimed to compare morphine consumption between patients with severe obesity undergoing laparoscopic MBS with and without ESPB. This study enrolled 91 patients with severe obesity who underwent laparoscopic MBS involving either sleeve gastrectomy or Roux-en-Y gastric bypass. Of these, 63 patients were included in this study. The participants were randomly allocated to either the intervention group, which received an ESPB before the standard anesthesia protocol, or the control group, which did not receive pre-anesthesia block. The primary outcome measured was 24-h morphine consumption via a patient-controlled analgesia machine. Secondary outcomes included patients' satisfaction, postoperative numerical rating score, changes over time, and quality of recovery (QoR) using the Thai QoR-35 score. We found no statistically significant difference in morphine consumption between the intervention group and the control group. Furthermore, our analysis revealed no significant between-group differences in patient satisfaction, postoperative numeric rating score, or QoR across all five aspects evaluated using the Thai QoR-35 score. ESPB did not reduce morphine consumption or QoR following laparoscopic MBS. Further studies are required to confirm and identify the reasons for the ineffectiveness of ESPB.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/bmj-2024-079921
+- DOI: 10.1007/s11695-024-07515-8
 
 2. Keywords
-
+- erector spinae plane block
+- laparoscopic bariatric surgery
+- morbid obesity
+- morphine consumption
 
 3. Key Findings
-- Findings extraction requires manual review
+- We found no statistically significant difference in morphine consumption between the intervention group and the control group
+- Furthermore, our analysis revealed no significant between-group differences in patient satisfaction, postoperative numeric rating score, or QoR across all five aspects evaluated using the Thai QoR-35 score
 
 This study provides insights into:
-- General research methodology and outcomes
+- erector spinae plane block assessment methods and outcomes
+- laparoscopic bariatric surgery assessment methods and outcomes
+- morbid obesity assessment methods and outcomes

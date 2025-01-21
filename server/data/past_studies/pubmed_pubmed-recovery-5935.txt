@@ -1,26 +1,27 @@
-Study Title: Effects of photobiomodulation therapy on muscle function in individuals with multiple sclerosis.
+Study Title: BI-REAL: A 12-session DBT skills group intervention adapted for bipolar disorder - A feasibility randomised pilot trial.
 
 Study Summary:
-In people with multiple sclerosis (pwMS), muscle fatigue and weakness are common issues that can interfere with daily activities. Photobiomodulation therapy (PBMT), comprising light in a 600-1100 nm bandwidth, is a low-level laser therapy thought to improve muscle performance in non-disease populations, in part, by improving mitochondrial function and thus, might be beneficial in pwMS. Given this potential, we aimed to investigate the effects of PBMT on muscle performance in pwMS, both in the short-term and over an extended period. This study consisted of two parts with a randomized double-blind crossover design. In study I, muscle function was assessed in four sessions before and after PBMT in ambulatory pwMS (N = 17, F = 14) as follows: maximal voluntary contraction (MVC) and muscle fatigue of the right tibialis anterior (TA) muscle was compared at baseline and following a two-min submaximal fatiguing contraction. Then, PBMT was administered to the belly of TA muscle at different doses of energy of an active device (40 J, 80 J, 120 J) or placebo. The muscle function assessment was then repeated. muscle force recovery (%), muscle fatigue (%). Statistical tests included McNemar's exact test, Wilcoxon signed-rank test, and the Friedman test. In study II, a subgroup from study I (N = 12, F = 11) received individualized doses (i.e., best dose-effect observed in study I) of active, or placebo PBMT, which was administered on the TA muscle for two weeks. Muscle function assessments were performed pre- and post-PBMT in four sessions similar to study I. Baseline strength (N), endurance time (s), and muscle fatigue (%). The Wilcoxon signed-rank test was used for statistical analysis. Values are reported as mean (SD). In study I, participants who received a high dose of PBMT showed significant improvement in force recovery (101.89 % (13.55 %)) compared to the placebo group (96.3 % (18.48 %); p = 0.03). Muscle fatigue did not significantly improve with either active PBMT or placebo. In study II, active PBMT resulted in a significant improvement in muscle strength compared to both the baseline (pre-PBMT = 162.70 N (37.52 N); post-PBMT = 185.56 N (33.95 N); p = 0.01) and the placebo group (active PBMT: mean-change = 22.87 N (23.67 N); placebo: mean-change = -4.12 N (31.95 N); p = 0.02). Endurance time and muscle fatigue did not show significant improvement with either active PBMT or placebo. Our findings suggest that an individualized dose of PBMT might improve muscle performance, including force recovery and strength in individuals with mild-moderate MS. Therefore, PBMT might be a novel therapeutic modality, either as a standalone treatment or in combination with other interventions, to improve muscle performance in pwMS.
+International guidelines endorse psychological treatment for Bipolar Disorder (BD); however, the absence of a recognised gold-standard intervention requires further research. A Dialectical Behaviour Therapy (DBT) skills group intervention with 12 sessions was developed. This pilot randomised controlled trial (RCT) aims to evaluate the feasibility, acceptability, and outcomes variance of Bi-REAL - Respond Effectively, Assertively, and Live mindfully, tailored for individuals with BD, in preparation for a future RCT. 52 participants (female&#xa0;=&#xa0;62.7&#xa0;%; mean age&#xa0;=&#xa0;43.2&#xa0;&#xb1;&#xa0;11.1) with BD were randomised by blocks to either the experimental group (EG; n&#xa0;=&#xa0;26; Bi-REAL + Treatment as Usual, TAU) receiving 12 weekly 90-minutes sessions, or the control group (CG; n&#xa0;=&#xa0;26, TAU). Feasibility and acceptability were assessed with a multimethod approach (qualitative interviews, semi-structured clinical interviews and a battery of self-report questionnaires - candidate main outcomes Bipolar Recovery Questionnaire (BRQ) and brief Quality of Life for Bipolar Disorder (QoL.BD)). All participants were evaluated at baseline (T0), post-intervention (T1) and 3-month follow-up (T2). Acceptability was supported by participants' positive feedback and ratings of the sessions and programme overall, as well as the treatment attendance (86.25&#xa0;% of sessions attended). The trial overall retention rate was 74.5&#xa0;%, with CG having a higher dropout rate across the 3-timepoints (42.31&#xa0;%). A significant Time&#xa0;&#xd7;&#xa0;Group interaction effect was found for BRQ and QoL.BD favouring the intervention group (p&#xa0;<&#xa0;.05). The assessors were not blind at T1 (only at T2). Recruitment plan was impacted due to COVID-19 restrictions and replication is questionable. High attrition rates in the CG. The acceptability of Bi-REAL was sustained, and subsequent feasibility testing will be necessary to establish whether the retention rates of the overall trial improve and if feasibility is confirmed, before progressing to a definitive trial.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.msard.2024.105598
+- DOI: 10.1016/j.jad.2024.04.033
 
 2. Keywords
-- Endurance
-- Low-level laser therapy
-- Multiple sclerosis
-- Muscle fatigue
-- Strength
+- Bipolar disorder
+- DBT-ST
+- Emotion regulation
+- Pilot RCT
+- Recovery
+- Skills training
 
 3. Key Findings
-- In study I, participants who received a high dose of PBMT showed significant improvement in force recovery (101
+- A significant Time&#xa0;&#xd7;&#xa0;Group interaction effect was found for BRQ and QoL
 
 This study provides insights into:
-- Endurance assessment methods and outcomes
-- Low-level laser therapy assessment methods and outcomes
-- Multiple sclerosis assessment methods and outcomes
+- Bipolar disorder assessment methods and outcomes
+- DBT-ST assessment methods and outcomes
+- Emotion regulation assessment methods and outcomes

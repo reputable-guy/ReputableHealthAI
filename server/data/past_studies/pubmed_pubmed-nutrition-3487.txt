@@ -1,30 +1,25 @@
-Study Title: Effects of a Rice-Farming Simulation Video Game on Nature Relatedness, Nutritional Status, and Psychological State in Urban-Dwelling Adults During the COVID-19 Pandemic: Randomized Waitlist Controlled Trial.
+Study Title: Azathioprine Plus Exclusive Enteral Nutrition Versus Azathioprine Monotherapy for the Prevention of Postoperative Recurrence in Patients with Crohn's Disease: An Open-Label, Single-Centre, Randomized Controlled Trial.
 
 Study Summary:
-During the COVID-19 pandemic, urban inhabitants faced significant challenges in maintaining connections with nature, adhering to nutritional guidelines, and managing mental well-being. Recognizing the urgent need for innovative approaches, this study was designed to explore the potential benefits of a specific digital intervention, the rice-farming simulation game Sakuna: Of Rice and Ruin, for nature relatedness, nutritional behaviors, and psychological well-being. A total of 66 adults without any prior major psychiatric disorders residing in an urban area were recruited for the study. They were randomly assigned to 2 groups through block randomization: the immediate intervention group (IIG; 34/66, 52%) and the waitlist group (32/66, 48%). Participants in the IIG were instructed to play the game for at least 4 days per week for 3 weeks, with each session lasting from 30 minutes to 3 hours. Assessments were performed at baseline, week 1, and week 3. The Nature Relatedness Scale (NR) and Nutrition Quotient Scale were used to evaluate nature relatedness and nutritional state, respectively. Furthermore, psychological state was assessed using the World Health Organization Quality of Life-Brief Version (WHOQOL-BREF), Brief Fear of Negative Evaluation Scale, Social Avoidance and Distress Scale, Toronto Alexithymia Scale, State-Trait Anxiety Inventory, Center for Epidemiologic Studies Depression Scale Revised, and Korean Resilience Quotient. This study's results revealed significant time interactions between the IIG and waitlist group for both the total NR score (P=.001) and the score of the self subdomain of NR (P<.001), indicating an impact of the game on nature relatedness. No group&#xd7;time interactions were found for the total Nutrition Quotient Scale and subdomain scores, although both groups showed increases from baseline. For psychological state, a significant group&#xd7;time interaction was observed in the total WHOQOL-BREF score (P=.049), suggesting an impact of the game on quality of life. The psychological (P=.01), social (P=.003), and environmental (P=.04) subdomains of the WHOQOL-BREF showed only a significant time effect. Other psychological scales did not display any significant changes (all P>.05). Our findings suggest that the rice-farming game intervention might have positive effects on nature relatedness, nature-friendly dietary behaviors, quality of life, anxiety, depression, interpersonal relationships, and resilience among urban adults during the COVID-19 pandemic. The impact of pronature games in confined urban environments provides valuable evidence of how digital technologies can be used to enhance urban residents' affinity for nature and psychological well-being. This understanding can be extended in the future to other digital platforms, such as metaverses. Clinical Research Information Service (CRIS) KCT0007657; http://tinyurl.com/yck7zxp7.
+Azathioprine [AZA] effectively prevents postoperative endoscopic recurrence [ER] in Crohn's disease [CD]. However, the efficacy of AZA emerges after 3 months. Exclusive enteral nutrition [EEN] can maintain remission in CD. The present trial investigates whether AZA plus postoperative 3-month EEN is superior to AZA alone in preventing ER of CD. In total, 84 high-risk CD patients undergoing intestinal resection received AZA alone or AZA plus 3 months of EEN [AZA&#x2005;+&#x2005;EEN] postoperatively. The primary endpoint was the rate of ER at 12 months. Secondary endpoints included the rate of ER at 3 months, clinical recurrence [CR], CD activity index [CDAI] scores, faecal calprotectin [FC], and C-reactive protein [CRP]. Quality of life was assessed using Short Form-36 [SF-36] and the Inflammatory Bowel Disease Questionnaire [IBDQ]. Patients in the AZA&#x2005;+&#x2005;EEN group exhibited significantly lower rates of ER compared to the AZA group at both 12 months (33.3% [13/39] vs 63.2% [24/38], P&#x2005;=&#x2005;0.009) and 3 months (8.6% [3/35] vs 28.1% [9/32], P&#x2005;=&#x2005;0.037) post-surgery. The rates of CR between the two groups at 3 and 12 months were similar. CDAI scores, FC, albumin level, and CRP were all comparable between the two groups. Quality of life was significantly higher in the AZA group than in the AZA&#x2005;+&#x2005;EEN group at 3 months but became comparable from 5 to 12 months postoperatively. In high-risk CD patients, combining AZA with postoperative 3-month EEN reduces 1-year ER but may temporarily impact quality of life. Further large-scale, long-term studies are warranted. NCT05214430.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/51596
+- DOI: 10.1093/ecco-jcc/jjae015
 
 2. Keywords
-- COVID-19
-- digital intervention
-- nature relatedness
-- nutritional status
-- psychological state
-- urban-dwelling adults
-- video game
+- Crohn&#x2019;s disease
+- azathioprine
+- endoscopic recurrence
+- exclusive enteral nutrition
 
 3. Key Findings
-- This study's results revealed significant time interactions between the IIG and waitlist group for both the total NR score (P=
-- No group&#xd7;time interactions were found for the total Nutrition Quotient Scale and subdomain scores, although both groups showed increases from baseline
-- 04) subdomains of the WHOQOL-BREF showed only a significant time effect
+- Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 assessment methods and outcomes
-- digital intervention assessment methods and outcomes
-- nature relatedness assessment methods and outcomes
+- Crohn&#x2019;s disease assessment methods and outcomes
+- azathioprine assessment methods and outcomes
+- endoscopic recurrence assessment methods and outcomes

@@ -1,26 +1,28 @@
-Study Title: A Needs Assessment of Women Veterans in Western Pennsylvania: Final Report to Adagio Health.
+Study Title: Factors associated with anemia among school-going adolescents aged 10-17 years in Zanzibar, Tanzania: a cross sectional study.
 
 Study Summary:
-Women make up an increasingly large share of the U.S. veteran population, and their numbers continue to grow while the overall number of veterans is on the decline. Yet programs designed to support veterans' health and well-being have largely focused on men. Women's military experiences and postservice needs often differ from those of men, and women veterans also differ in significant ways from their nonveteran counterparts. Few studies have explored these variations, and this has translated to potentially missed opportunities to improve support for women during and after their transition from military to civilian life. Adagio Health, a provider of health, wellness, and nutrition services based in Western Pennsylvania, has taken steps to improve care for women veterans in its service area. To identify opportunities to further expand and enhance Adagio Health's efforts to support women veterans' health and wellness, the authors quantitatively and qualitatively assessed the needs of women veterans in the Adagio Health service area. The assessment provides a clearer picture of this often-underserved population, available services and resources, gaps in support, barriers to access, and areas to prioritize to provide the best support possible for the health and well-being of women who served. With the approaches recommended in this assessment, Adagio Health can continue increasing its capacities and capabilities for supporting its women veteran patients and making progress toward its goal of advancing their health and well-being.
+Anemia among adolescents (ages 10-19 years) is a leading cause of morbidity and mortality in low- and middle-income countries and carries long-term health and economic consequences. To address the issue, policymakers and programmers require evidence of the burden of anemia among adolescents in specific contexts, as well as an understanding of the factors associated with anemia in this population. We conducted a cross-sectional survey as a baseline assessment to determine the prevalence and factors associated with anemia in secondary school students, as part of a cluster-randomized effectiveness trial testing different micronutrient supplementation strategies in addressing anemia among adolescents in Zanzibar. Between March 7th to 25th, 2022 the survey was conducted on 2,479 school-going adolescents aged 10-17 years from 42 schools on the island of Zanzibar, Tanzania. Hemoglobin concentration was measured along with the collection of socio-demographics, health, food frequency, and water, sanitation and hygiene data. Based on the World Health Organization cutoffs for anemia, 53.3% of the sample had anemia (mild, moderate, or severe). Using chi-square tests and logistic regressions, we determined that females had higher odds of anemia than males (Adjusted OR&#x2009;=&#x2009;1.47; 95% CI: 1.24, 1.74), those in the highest wealth quintile had lower odds of anemia than those in the lowest wealth quintile (Adjusted OR&#x2009;=&#x2009;0.7; CI: 0.54, 0.91), stunted adolescents had higher odds of anemia than non-stunted students (Adjusted OR&#x2009;=&#x2009;1.38; 95% CI: 1.06,1.81), and those who used shared toilets had higher odds of moderate or severe anemia than those with private toilet access (Adjusted OR&#x2009;=&#x2009;1.68; CI: 1.07, 2.64). The high prevalence of anemia in this sample indicates an urgent need to address anemia among adolescents in Zanzibar, and the factors associated with anemia point to the importance of water, sanitation, and hygiene interventions in addition to dietary and nutritional support. NCT05104554, registered 03/11/2021.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-
+- DOI: 10.1186/s12889-023-16611-w
 
 2. Keywords
-- Health Care Access
-- Health Care Quality
-- Pennsylvania
-- Veterans Health Care
-- Women's Health
+- Adolescents
+- Anemia
+- Folic acid
+- Iron
+- Micronutrient deficiency
+- Multiple micronutrients
+- Nutrition
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Health Care Access assessment methods and outcomes
-- Health Care Quality assessment methods and outcomes
-- Pennsylvania assessment methods and outcomes
+- Adolescents assessment methods and outcomes
+- Anemia assessment methods and outcomes
+- Folic acid assessment methods and outcomes

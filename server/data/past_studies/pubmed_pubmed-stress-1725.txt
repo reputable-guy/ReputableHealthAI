@@ -1,27 +1,27 @@
-Study Title: Autonomic nervous system and endocrine system response to upper or lower cervical spine mobilization in males with persistent post-concussion symptoms: a proof-of-concept trial.
+Study Title: Exertional heat stress promotes the presence of bacterial DNA in plasma: A counterbalanced randomised controlled trial.
 
 Study Summary:
-The peripheral stress response, consisting of the autonomic nervous system (ANS) and hypothalamic pituitary adrenal-axis (HPA-axis), functions to maintain homeostasis in response to stressors. Cervical spine manual therapy has been shown to differentially modulate the stress response in healthy populations. No study has investigated whether cervical spine mobilizations can differentially modulate the stress response in individuals with persistent post-concussion symptoms (PPCS), a population characterized by a dysfunctional stress response. A randomized, controlled, parallel design trial was performed to investigate whether upper or lower cervical spine mobilization can differentially modulate components of the stress response in individuals with PPCS. The outcomes were salivary cortisol (sCOR) concentration (primary) and the HRV metric, rMSSD, measured with a smartphone application (secondary). Nineteen males diagnosed with PPCS, aged 19-35, were included. Participants were randomly assigned into either intervention group, upper (&#x2009;=&#x2009;10) or lower (&#x2009;=&#x2009;9) cervical spine mobilization. Each outcome was collected at different time points, pre- and post-intervention. Statistical analyses were performed using the Friedman's Two-Way ANOVA, Mann-Whitney U test, and Wilcoxon Signed Rank Test. There was a statistically significant within-group reduction in sCOR concentration 30 minutes following lower cervical spine mobilizations and statistically significant within-group increase in rMSSD 30 minutes following upper cervical spine mobilizations. The results of this trial provide preliminary evidence for cervical spine mobilizations to differentially modulate components of the stress response at specific time points. Understanding the mechanisms of the effect of cervical spine mobilizations on the stress response provides a novel rationale for selecting cervical spine mobilizations to rehabilitate individuals with PPCS.
+The primary aim was to explore the impact of exertional-heat stress (EHS) promoted exercise-associated bacteraemia. A secondary aim was to examine if an amino acid beverage (AAB) intervention may mitigate exercise-associated bacteraemia. Counterbalanced randomised control trial. Twenty endurance trained male participants completed two randomised EHS trials. On one occasion, participants consumed a 237&#x202f;mL AAB twice daily for 7&#x202f;days prior, immediately before and every 20&#x202f;min during EHS (2&#x202f;h running at 60&#x202f;% V&#x307;Oin 35&#x202f;&#xb0;C). On the other occasion, a water volume control (CON) equivalent was consumed. Whole blood samples were collected pre- and immediately post-EHS, and were analysed for plasma DNA concentration by fluorometer quantification after microbial extraction, and bacterial relative abundance by next generation 16s rRNA gene sequencing. Increased concentration of microbial DNA in plasma pre- to post-EHS was observed on CON (pre-EHS 0.014&#x202f;ng/&#x3bc;L, post-EHS 0.039&#x202f;ng/&#x3bc;L) (p&#x202f;<&#x202f;0.001) and AAB (pre-EHS 0.015&#x202f;ng/&#x3bc;L, post-EHS 0.031&#x202f;ng/&#x3bc;L) (p&#x202f;<&#x202f;0.001). The magnitude of change from pre- to post-exercise on AAB was 40&#x202f;% lower, but no significant difference was observed versus CON (p&#x202f;=&#x202f;0.455). Predominant bacterial groups identified included: phyla-Proteobacteria (88.0&#x202f;%), family-Burkholderiaceae (59.1&#x202f;%), and genus-Curvibacter (58.6&#x202f;%). No significant variation in absolute and relative change in &#x3b1;-diversity and relative abundance for phyla, family, and genus bacterial groups was observed in AAB versus CON. The increased presence of microbial-bacterial DNA in systemic circulation in response to EHS appears positive in all participants. An amino acid beverage supplementation period prior to and consumption during EHS did not provide significant attenuation of EHS-associated bacteraemia.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/10669817.2024.2363018
+- DOI: 10.1016/j.jsams.2024.05.010
 
 2. Keywords
-- Hypothalamic pituitary adrenal-axis
-- autonomic nervous system
-- cortisol
-- manual therapy
-- persistent post-concussion symptoms
-- stress response
+- Bacteria
+- Endotoxin
+- Epithelium
+- Sepsis
+- Systemic inflammation
+- Thermoregulation
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Hypothalamic pituitary adrenal-axis assessment methods and outcomes
-- autonomic nervous system assessment methods and outcomes
-- cortisol assessment methods and outcomes
+- Bacteria assessment methods and outcomes
+- Endotoxin assessment methods and outcomes
+- Epithelium assessment methods and outcomes

@@ -1,20 +1,24 @@
-Study Title: Gastrointestinal Biomarkers and Their Association with Feeding in the First Five Days of Pediatric Critical Illness.
+Study Title: Predictors of compliance with higher dose omega-3 fatty acid supplementation during pregnancy and implications for the risk of prematurity: exploratory analysis of the ORIP randomised trial.
 
 Study Summary:
-Predicting the patients' tolerance to enteral nutrition (EN) would help clinicians optimize individual nutritional intake. This study investigated the course of several gastrointestinal (GI) biomarkers and their association with EN advancement (ENA) longitudinally during pediatric intensive care unit (PICU) admission. This is a secondary analysis of the Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit randomized controlled trial. EN was started early and increased gradually. The cholecystokinin (CCK), leptin, glucagon, intestinal fatty acid-binding protein 2 (I-FABP2), and citrulline plasma concentrations were measured upon PICU admission, day 3 and day 5. ENA was defined as kcal EN provided as % of predicted resting energy expenditure. The course of the biomarkers and ENA was examined in patients with samples on all time points using Friedman and Wilcoxon signed-rank tests. The association of ENA with the biomarkers was examined using a 2-part mixed-effects model with data of the complete population, adjusted for possible confounders. For 172 patients, median age 8.6 years (first quartile; third quartile: 4.2; 13.4), samples were available, of which 55 had samples on all time points. The median ENA was 0 (0; 0) on admission, 14.5 (0.0; 43.8) on day 3, and 28.0 (7.6; 94.8) on day 5. During PICU stay, CCK and I-FABP2 concentrations decreased significantly, whereas glucagon concentrations increased significantly, and leptin and citrulline remained stable. None of the biomarkers was longitudinally associated with ENA. Based on the current evidence, CCK, leptin, glucagon, I-FABP2, and citrulline appear to have no added value in predicting ENA in the first 5 days of pediatric critical illness.
+Intention-to-treat analyses of the Omega-3 to Reduce the Incidence of Prematurity (ORIP) trial found that omega-3 (n-3) fatty acid supplementation reduces the risk of prematurity in the subgroup of women with a singleton pregnancy and low n-3 status early in pregnancy, but not overall. However, results may have been influenced by less-than-optimal compliance. To identify predictors of compliance with n-3 supplementation and determine treatment effects among compliers. Exploratory analyses of a multicentre-blinded randomised trial. 6 tertiary care centres in Australia. 5328 singleton pregnancies. Daily capsules containing 900&#x2009;mg n-3 long-chain polyunsaturated fatty acids or vegetable oil, consumed from before 20 weeks gestation until 34 weeks gestation. Early preterm (<34 weeks gestation) and preterm birth (<37 weeks gestation). Women were considered compliant if they reported missing less than a third of their allocated capsules in the previous week during a mid-pregnancy appointment. Among 2654 singleton pregnancies in the n-3 intervention group, 1727 (65%) were deemed compliant with supplementation. Maternal characteristics associated with compliance included age, years of full-time education, consuming alcohol but not smoking in the 3 months leading up to pregnancy, fewer previous births and taking dietary supplements at enrolment. Based on complier average causal effects, n-3 supplementation reduced the risk of preterm birth in compliers (relative risk=0.76; 95%&#x2009;CI 0.60 to 0.97), but not early preterm birth (relative risk=0.80; 95%&#x2009;CI 0.44 to 1.46). Consistent with intention-to-treat analyses, the lack of an overall effect on early preterm birth in compliers appeared to be due to beneficial effects in women with low n-3 status at enrolment but not women with replete status. Results in compliers were similar to those from intention-to-treat analyses, suggesting that non-compliance was not a major factor in explaining outcomes from the ORIP trial. ACTRN12613001142729.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1097/MPG.0000000000003950
+- Publication Date: 2023
+- DOI: 10.1136/bmjopen-2023-076507
 
 2. Keywords
-
+- NUTRITION & DIETETICS
+- Randomized Controlled Trial
+- STATISTICS & RESEARCH METHODS
 
 3. Key Findings
-- The association of ENA with the biomarkers was examined using a 2-part mixed-effects model with data of the complete population, adjusted for possible confounders
+- Intention-to-treat analyses of the Omega-3 to Reduce the Incidence of Prematurity (ORIP) trial found that omega-3 (n-3) fatty acid supplementation reduces the risk of prematurity in the subgroup of women with a singleton pregnancy and low n-3 status early in pregnancy, but not overall
 
 This study provides insights into:
-- General research methodology and outcomes
+- NUTRITION & DIETETICS assessment methods and outcomes
+- Randomized Controlled Trial assessment methods and outcomes
+- STATISTICS & RESEARCH METHODS assessment methods and outcomes

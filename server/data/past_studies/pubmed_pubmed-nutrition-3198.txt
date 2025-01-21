@@ -1,27 +1,27 @@
-Study Title: Effectiveness of self-management program for gastric cancer patients: A randomized controlled trial comparing gain vs. loss message framing.
+Study Title: Impact of peripheral thyroid hormone balance on liver fat: insights from the NutriAct trial.
 
 Study Summary:
-This study aims to evaluate the effectiveness of a self-management program using gain/loss-framed messages in patients with gastric cancer. In this randomized controlled trial, 69 patients with gastric cancer who underwent gastrectomy at a university hospital were assigned to the gain- or loss-framed message group. The self-management program consisted of: 1) face-to-face education, 2) gain/loss-framed text messages, and 3) self-monitoring of health behaviors. Health outcomes (i.e., nutritional status, physical activity, exercise intensity, and distress), and health behaviors (i.e., dietary habits, physical activity performance, and distress management) were measured, and a generalized estimating equation was used for the analysis. Nutritional status and dietary habits in the loss framed message group were statistically higher after the intervention compared to the counterpart (&#x3b2;&#xa0;=&#xa0;-1.72, p&#xa0;=&#xa0;.049; &#x3b2;&#xa0;=&#xa0;0.36, p&#xa0;=&#xa0;.033, respectively). There was no time-group interaction effect on physical activity, exercise intensity, physical activity performance, distress or distress management. A self-management program employing loss-framed messages was effective in promoting nutrition-related self-management among patients with gastric cancer. Message-framing is an effective communication technique that can be easily used in clinical settings, and a loss-message-framing strategy may enhance nutrition-related self-management in patients with gastric cancer.
+Hypothyroidism has been proposed as a potential contributor to steatotic liver disease (SLD), but existing data shows conflicting results in euthyroid subjects. Therefore, we investigated the association between thyroid function and intrahepatic lipids (IHLs) during a 36-month randomized controlled trial evaluating a diet known to reduce liver fat. 502 eligible subjects (aged 50-80 years, &#x2265;1 risk factor for unhealthy aging) were randomly assigned to either follow a diet rich in unsaturated fatty acids, plant protein, and fiber (intervention group, IG), or dietary recommendations of the German Nutrition Society (control group, CG). Serum levels of thyroid hormones (THs) as well as IHLs, defined via magnetic resonance spectroscopy, were measured within an euthyroid subgroup without significant alcohol consumption at baseline (n = 332) and after 12 months (n = 243). A ratio of T3/T4 was used to assess whole-body deiodinase activity. Estimates of glucose and lipid metabolism were analyzed. Only fT3 and T3/T4 ratios showed a significant positive correlation with IHL at baseline. We observed a significant decline in fT3, T3, fT3/fT4 ratio, and T3/T4 ratio in CG and IG after 12 months without significant differences between groups. TSH, fT4, and T4 remained stable. A larger improvement of IHL during dietary intervention was seen in those subjects with a lower decline in T3 concentrations. Altered TH balance indicates a possible compensatory upregulation of whole-body TH activity in subjects with increased liver fat. This might be also relevant during the improvement of hepatic steatosis.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.pec.2024.108364
+- DOI: 10.1093/ejendo/lvae093
 
 2. Keywords
-- Gastric cancer
-- Message framing
-- Patient education
-- Self-care
-- Self-management
-- Stomach cancer
+- MASLD
+- NAFLD
+- diet
+- intrahepatic lipids
+- steatosis
+- thyroid hormones
 
 3. Key Findings
-- Findings extraction requires manual review
+- Only fT3 and T3/T4 ratios showed a significant positive correlation with IHL at baseline
 
 This study provides insights into:
-- Gastric cancer assessment methods and outcomes
-- Message framing assessment methods and outcomes
-- Patient education assessment methods and outcomes
+- MASLD assessment methods and outcomes
+- NAFLD assessment methods and outcomes
+- diet assessment methods and outcomes

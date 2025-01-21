@@ -1,27 +1,26 @@
-Study Title: Effects of improved on-farm crop storage on DNA methylation of mothers and their infants: evidence from a randomized controlled trial in Kenya.
+Study Title: Reducing neuroendocrine psychosocial stress response through socio-emotional dyadic but not mindfulness online training.
 
 Study Summary:
-Stress during pregnancy can lead to adverse maternal and infant health outcomes through epigenetic changes in the hypothalamic-pituitary-adrenal axis. Among farmers in low-income countries, one important stressor is food insecurity, which can be reduced using hermetic storage bags. This study aimed to determine, for the first time, whether a hermetic storage bag intervention during pregnancy positively affects maternal and infant DNA methylation of the hypothalamic-pituitary-adrenal axis-related genes FKBP5 and NR3C1. We further analyzed whether anthropometrics, stress, and mental health were associated with DNA methylation. This study was part of a larger matched-pair randomized controlled trial focusing on the impact of improved on-farm storage on food security, poverty, and net income of smallholder farming households. A total of N&#x2009;=&#x2009;149 mothers were recruited by telephone and invited to attend a study appointment at health facilities in Kakamega County, Western Kenya, with their infants in April or May 2021. During the appointment, anthropometric measurements were taken, questionnaires on stress and mental health were administered, and saliva samples were collected. Logistic and multiple linear regression were used to examine the effect of the intervention and related measures on DNA methylation. Mothers in the intervention group showed higher mean NR3C1 methylation levels than those in the control group, corrected for multiple testing. Maternal postpartum body mass index was positively associated with infant NR3C1 CpG3 DNA methylation. The more stressful life events a mother had experienced in the previous 12&#xa0;months (including during pregnancy), the lower her FKBP5 CpG3 methylation levels. Food insecurity and stressful life events during pregnancy seem to exert significant effects on maternal DNA methylation. While these stressors did not appear to impact infant DNA methylation in the present study, maternal postpartum body mass index was significantly related to infant methylation. These findings suggest that while infants may be protected from excessive maternal glucocorticoids by placental barrier activity, maternal metabolic status is still reflected in their epigenetic make-up. Trial registration This study was part of a larger matched-pair randomized controlled trial on the impact of improved on-farm crop storage on welfare, nutrition, and human health. Registration can be found in the American Economic Association (AEA) RCT Registry, RCT ID: AEARCTR-0005845.
+Stress-related diseases pose significant health risks and show wide prevalence. Empirical evidence suggests that contemplative practices, such as socio-emotional dyadic mental exercises, hold promise in mitigating the adverse effects of stress and promoting psychosocial well-being. This study aimed to investigate the differential effects of two online contemplative mental training programs on the psychosocial stress response: the first involved classic mindfulness practices, while the second incorporated a socio-emotional dyadic approach known as Affect Dyad. The study was conducted as part of the longitudinal CovSocial project's phase 2 in the context of the COVID-19 pandemic. 140 individuals participated in the Trier Social Stress Task (TSST), where the psychosocial stress response was assessed with cortisol saliva samples and subjective stress questionnaires in a cross-sectional design after the active training groups finished their intervention period. Participants were randomly assigned to the socio-emotional training group, mindfulness-based training group, or a control group that did not receive any training. Both training programs consisted of a ten-week intervention period with a daily 12-minute app-based mental training practice and weekly 2-hour online coaching sessions led by mental training teachers. Results showed that the socio-emotional Dyad group but not the mindfulness-based group exhibited significantly lower cortisol levels at 10, 20, 30, and 40 minutes after the stressor as well as lower total cortisol output compared to the control group during the TSST, indicating a reduced hormonal stress response to a social stressor. Subjective markers did not show differences between the three groups. These findings indicate that the daily socio-emotional dyadic practice, which emphasizes non-judgmental and empathic listening as well as the acceptance of challenging emotions in the presence of others within one's daily life context, may serve as a protective factor against the adverse effects of psychosocial stress triggered by the fear of negative social judgments. Given the high prevalence of stress-related diseases, such online mental training programs based on dyadic practices may thus represent an efficient and scalable approach for stress reduction.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13148-024-01693-z
+- DOI: 10.3389/fendo.2024.1277929
 
 2. Keywords
-- DNA methylation
-- Food insecurity
-- HPA axis
-- Pregnancy
-- RCT
+- app-based intervention
+- hypothalamic-pituitary-adrenal axis
+- mental training
+- randomized controlled trial
+- stress
 
 3. Key Findings
-- Mothers in the intervention group showed higher mean NR3C1 methylation levels than those in the control group, corrected for multiple testing
-- Registration can be found in the American Economic Association (AEA) RCT Registry, RCT ID: AEARCTR-0005845
+- Results showed that the socio-emotional Dyad group but not the mindfulness-based group exhibited significantly lower cortisol levels at 10, 20, 30, and 40 minutes after the stressor as well as lower total cortisol output compared to the control group during the TSST, indicating a reduced hormonal stress response to a social stressor
 
 This study provides insights into:
-- DNA methylation assessment methods and outcomes
-- Food insecurity assessment methods and outcomes
-- HPA axis assessment methods and outcomes
+- app-based intervention assessment methods and outcomes
+- hypothalamic-pituitary-adrenal axis assessment methods and outcomes
+- mental training assessment methods and outcomes

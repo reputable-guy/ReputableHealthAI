@@ -1,20 +1,26 @@
-Study Title: An Individual versus Parent Supported Physical Activity Intervention in Adolescents with Intellectual Disabilities.
+Study Title: Vestibular Rehabilitation Using Dynamic Posturography: Objective and Patient-Reported Outcomes from a Randomized Trial.
 
 Study Summary:
-Moderate-to-vigorous physical activity (MVPA) is inadequate in adolescents with intellectual and developmental disabilities (IDD). This report describes the results of an 18-month clinical trial in adolescents with IDD, which compared changes in accelerometer-assessed daily MVPA, gross motor quotient, and leg press strength between participants randomized to an exercise intervention delivered to adolescents only (AO) or to the adolescent and a parent (A + P). The 18-month trial included a 6-month active intervention, 6-month maintenance interventions, and a 6-month no-contact follow-up. Adolescents in both arms were asked to attend 40-min remotely delivered group video exercise sessions (0-6 months = 3 sessions per week, 7-12 months = 1 session per week). In the A + P arm, one parent/guardian was asked to attend all group remote video exercise sessions and a monthly remotely delivered 30-min educations/support session with their adolescent across the 12-month intervention. Adolescents ( n = 116) with IDD (age ~16 yr, 52% female) were randomized to the AO ( n = 59) or A + P ( n = 57) arms. Mixed modeling, controlling for baseline MVPA and season, indicated minimal but statistically significant changes in MVPA across 6 ( P = 0.006), 12 ( P < 0.001), and 18 months ( P < 0.001). However, the change in MVPA in the two intervention arms did not differ significantly at any time point (all P > 0.05). Similarly, gross motor quotient and leg press strength improved significantly over time ( P < 0.001), and these changes did not differ between intervention arms (all P > 0.05). Parental involvement had no impact on changes in daily MVPA, gross motor quotient, or leg press strength in response to a remotely delivered exercise intervention in adolescents with IDD.
+Balance deficits are common and debilitating. Standard treatments have limitations in addressing symptoms and restoring dynamic balance function. This study compares a rehabilitative computerized dynamic posturography (CDP) protocol, computerized vestibular retraining therapy (CVRT), with a home exercise program (HEP) for patients with objectively confirmed unilateral vestibular deficits (UVDs). Single-center, randomized, interventional trial, with 1-sided crossover. A tertiary neurotology clinic. Patients with UVDs and Dizziness Handicap Inventory (DHI) score >30 were randomized to receive either CVRT or HEP. After completion of treatment, the HEP group was crossed over to CVRT. Outcome measures were the sensory organization test (SOT) and 3 participants reported dizziness disability measures: the DHI, Activity-Specific Balance Confidence Scale (ABC) scale, and Falls Efficacy Score-International (FES-I). We enrolled 37 patients: 18 participants completed CVRT and 12 completed HEP, 11 of whom completed the crossover. Seven participants withdrew. The CVRT group demonstrated a greater improvement in SOT composite score than the HEP group (P&#x2009;=&#x2009;.04). Both groups demonstrated improvement in participant-reported measures but there were no differences between groups (DHI: P&#x2009;=&#x2009;.2604; ABC: P&#x2009;=&#x2009;.3627; FES-I: P&#x2009;=&#x2009;.96). Following crossover to CVRT after HEP, SOT composite (P&#x2009;=&#x2009;.002), DHI (P&#x2009;=&#x2009;.03), and ABC (P&#x2009;=&#x2009;.006) improved compared to HEP alone. CVRT and HEP were both associated with improved participant-reported disability outcomes. CVRT was associated with greater improvement in objective balance than HEP. Adding CVRT after HEP was superior to HEP alone. Multimodal CDP-based interventions, such as CVRT, should be considered as an adjunct to vestibular physiotherapy for patients with UVD.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1249/MSS.0000000000003515
+- DOI: 10.1002/ohn.893
 
 2. Keywords
-
+- dizziness
+- postural balance
+- rehabilitation
+- vestibular system
 
 3. Key Findings
-- Mixed modeling, controlling for baseline MVPA and season, indicated minimal but statistically significant changes in MVPA across 6 ( P = 0
+- The CVRT group demonstrated a greater improvement in SOT composite score than the HEP group (P&#x2009;=&#x2009;
+- Both groups demonstrated improvement in participant-reported measures but there were no differences between groups (DHI: P&#x2009;=&#x2009;
 
 This study provides insights into:
-- General research methodology and outcomes
+- dizziness assessment methods and outcomes
+- postural balance assessment methods and outcomes
+- rehabilitation assessment methods and outcomes

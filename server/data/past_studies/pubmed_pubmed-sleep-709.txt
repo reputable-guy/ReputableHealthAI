@@ -1,20 +1,27 @@
-Study Title: Prevalence and burden of chronic cough in France.
+Study Title: The dynamic responses of mood and sleep physiology to chronic sleep restriction and subsequent recovery sleep.
 
 Study Summary:
-Chronic cough is a common condition that is associated with lower health-related quality of life and greater healthcare resource use. There are limited data on the prevalence, population characteristics and burden of chronic cough in France. This was a cross-sectional study based on responses from French adult residents to the 2020 National Health and Wellness Survey. Respondents with chronic cough were compared to 1:3 propensity score-matched controls without chronic cough. The weighted lifetime and 12-month prevalence of chronic cough were estimated as 7.5% and 4.8%, respectively. Respondents with chronic cough reported significantly worse perceived health than matched controls, with lower mean&#xb1;sd scores of 46.68&#xb1;9.2850.42&#xb1;8.26 on the physical health component and 40.32&#xb1;9.8744.32&#xb1; 9.69 on the mental health component of the Medical Outcomes Study 12-item Short Form Survey Version 2 survey (p0.001 for both comparisons). Respondents with chronic cough also had higher rates of moderate-to-severe forms of anxiety (24.4%12.4%) and depression (36.4%20.2%); higher rates of multiple forms of sleep disturbance; greater impairment of work productivity (38.2%25.5%) and other activities (41.8%28.2%; p0.001 for all comparisons). Respondents with chronic cough also had higher rates of all-cause healthcare resource use including emergency room visits, hospitalisation, and overall and specialist healthcare provider visits compared to controls (p0.001 for all comparisons). Chronic cough is a common condition in France that is associated with lower health-related quality of life and greater healthcare resource utilisation.
+Healthy sleep of sufficient duration preserves mood and disturbed sleep is a risk factor for a range of psychiatric disorders. As adults commonly experience chronic sleep restriction (SR), an enhanced understanding of the dynamic relationship between sleep and mood is needed, including whether susceptibility to SR-induced mood disturbance differs between sexes. To address these gaps, data from N&#x2005;=&#x2005;221 healthy adults who completed one of the two multi-day laboratory studies with identical 9-day SR protocols were analyzed. Participants randomized to the SR (n&#x2005;=&#x2005;205) condition underwent 5 nights of SR to 4 hours of time-in-bed and were then randomized to one of the seven sleep doses that ranged from 0 to 12 hours in 2 hours increments; participants randomized to the control (n&#x2005;=&#x2005;16) condition received 10 hours time-in-bed on all study nights. The Profile of Mood States (POMS) was used to assess mood every 2 hours during wakefulness and markers of sleep homeostasis (EEG slow-wave activity (SWA)) were derived via polysomnography. Mood progressively deteriorated across SR with marked disturbances in somatic mood components. Altered sleep physiology contributed to mood disturbance whereby increased EEG SWA was associated with increased POMS Total Mood Disturbance scores, a finding specific to males. The mood was restored in a dose-response fashion where improvements were greater with longer sleep doses. These findings suggest that when lifestyle and environmental factors are inhibited in the laboratory, the affective consequences of chronic sleep loss are primarily somatic mood disturbances. Altered sleep homeostasis may contribute to mood disturbance, yet sleep-dependent mechanisms may be sex-specific.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1183/23120541.00806-2023
+- DOI: 10.1093/sleep/zsae091
 
 2. Keywords
-
+- mood
+- recovery
+- sex differences
+- sleep physiology
+- sleep restriction
+- slow-wave activity
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- mood assessment methods and outcomes
+- recovery assessment methods and outcomes
+- sex differences assessment methods and outcomes

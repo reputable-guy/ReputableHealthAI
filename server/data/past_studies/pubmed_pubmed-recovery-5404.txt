@@ -1,24 +1,26 @@
-Study Title: ameliorates cholestatic liver injury through inhibiting bile acid synthesis and promoting bile acid excretion.
+Study Title: Deciphering bone marrow engraftment after allogeneic stem cell transplantation in humans using single-cell analyses.
 
 Study Summary:
-Gut microbiota dysbiosis is involved in cholestatic liver diseases. However, the mechanisms remain to be elucidated. The purpose of this study was to examine the effects and mechanisms of() on cholestatic liver injury in both animals and humans. Bile duct ligation (BDL) was performed to mimic cholestatic liver injury in mice and serum liver function was tested. Gut microbiota were analyzed by 16S rRNA sequencing. Fecal bacteria transplantation (FMT) was used to evaluate the role of gut microbiota in cholestasis. Bile acids (BAs) profiles were analyzed by targeted metabolomics. Effects ofin cholestatic patients were evaluated by a randomized controlled clinical trial (NO: ChiCTR2200063330). BDL induced different severity of liver injury, which was associated with gut microbiota. 16S rRNA sequencing of feces confirmed the gut flora differences between groups, of whichwas the most distinguished genus. Administration ofafter BDL significantly attenuated hepatic injury in mice, decreased liver total BAs and increased fecal total BAs. Furthermore, aftertreatment, inhibition of hepatic Cholesterol 7&#x3b1;-hydroxylase (CYP7&#x3b1;1), restored ileum Fibroblast growth factor 15 (FGF15) and Small heterodimer partner (SHP) accounted for BAs synthesis decrease, whereas enhanced BAs excretion was attributed to the increase of unconjugated BAs by enriched bile salt hydrolase (BSH) enzymes in feces. Similarly, in cholestasis patients, supplementation ofpromoted the recovery of liver function and negatively correlated with liver function indicators, possibly in relationship with the changes in BAs profiles and gut microbiota composition.treatment ameliorates cholestatic liver injury through inhibited hepatic BAs synthesis and enhances fecal BAs excretion.
+BACKGROUNDDonor cell engraftment is a prerequisite of successful allogeneic hematopoietic stem cell transplantation. Based on peripheral blood analyses, it is characterized by early myeloid recovery and T and B cell lymphopenia. However, cellular networks associated with bone marrow engraftment of allogeneic human cells have been poorly described.METHODSMass cytometry and CITE-Seq analyses were performed on bone marrow cells 3 months after transplantation in patients with acute myelogenous leukemia.RESULTSMass cytometric analyses in 26 patients and 20 healthy controls disclosed profound alterations in myeloid and B cell progenitors, with a shift toward terminal myeloid differentiation and decreased B cell progenitors. Unsupervised analysis separated recipients into 2 groups, one of them being driven by previous graft-versus-host disease (R2 patients). We then used single-cell CITE-Seq to decipher engraftment, which resolved 36 clusters, encompassing all bone marrow cellular components. Hematopoiesis in transplant recipients was sustained by committed myeloid and erythroid progenitors in a setting of monocyte-, NK cell-, and T cell-mediated inflammation. Gene expression revealed major pathways in transplant recipients, namely, TNF-&#x3b1; signaling via NF-&#x3ba;B and the IFN-&#x3b3; response. The hallmark of allograft rejection was consistently found in clusters from transplant recipients, especially in R2 recipients.CONCLUSIONBone marrow cell engraftment of allogeneic donor cells is characterized by a state of emergency hematopoiesis in the setting of an allogeneic response driving inflammation.FUNDINGThis study was supported by the French National Cancer Institute (Institut National du Cancer; PLBIO19-239) and by an unrestricted research grant by Alexion Pharmaceuticals.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/19490976.2024.2390176
+- DOI: 10.1172/JCI180331
 
 2. Keywords
-- Cholestatic liver injury
-- Lactobacillus
-- gut microbiota
+- Hematology
+- Immunology
+- Stem cell transplantation
 
 3. Key Findings
-- Findings extraction requires manual review
+- RESULTSMass cytometric analyses in 26 patients and 20 healthy controls disclosed profound alterations in myeloid and B cell progenitors, with a shift toward terminal myeloid differentiation and decreased B cell progenitors
+- Gene expression revealed major pathways in transplant recipients, namely, TNF-&#x3b1; signaling via NF-&#x3ba;B and the IFN-&#x3b3; response
+- The hallmark of allograft rejection was consistently found in clusters from transplant recipients, especially in R2 recipients
 
 This study provides insights into:
-- Cholestatic liver injury assessment methods and outcomes
-- Lactobacillus assessment methods and outcomes
-- gut microbiota assessment methods and outcomes
+- Hematology assessment methods and outcomes
+- Immunology assessment methods and outcomes
+- Stem cell transplantation assessment methods and outcomes

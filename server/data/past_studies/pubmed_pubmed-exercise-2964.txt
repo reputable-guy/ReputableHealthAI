@@ -1,24 +1,26 @@
-Study Title: Efficacy of hard gummy candy chewing in improving masticatory function in Japanese children aged 6-12 years: A clinical trial.
+Study Title: DNA Methylation of BDNF and RASA2 Genes Is Associated With Cognitive Function in Postmenopausal Women With Breast Cancer.
 
 Study Summary:
-Japanese children have been shown to exhibit decreased masticatory function; however, limited evidence is available regarding the efficacy of certain food items in improving this issue. Therefore, this study examined the effects of chewing hard gummy candy on the masticatory function of Japanese children aged 6-12 years. The study included 26 participants (10 boys and 16 girls; mean age&#xa0;&#xb1;&#xa0;standard error&#xa0;=&#xa0;9.3&#xa0;&#xb1;&#xa0;0.3 years) who were asked to chew hard gummy candy twice daily for 4 weeks at home. The lip-closing force, occlusal force, and masticatory performance of the participants were recorded before commencement (T1), 4 weeks after commencement (T2), and 4 weeks after completion (T3) of the training. Statistical analyses were performed using the Wilcoxon rank-sum test or the Wilcoxon signed-rank test with Bonferroni correction. No significant differences in masticatory function by gender and age groups (defined based on mean age at T1) were observed at T1. The lip-closing and right occlusal forces increased significantly after 4 weeks of exercise, and the effects persisted for another 4 weeks after completion. The masticatory performance also improved after training, although these effects did not persist and deteriorated substantially 4 weeks after completion of the training. Habitual mastication training using hard gummy candy markedly enhances masticatory function (e.g., lip-closing force, occlusal force, and masticatory performance) in Japanese children.
+To determine associations among DNA methylation of brain-derived neurotrophic factor (BDNF) and RAS p21 protein activator 2 (RASA2) genes with processing speed and perceived cognitive function. This was a cross-sectional, secondary analysis of baseline data from a randomized controlled trial, the Exercise Program in Cancer and Cognition Study. Data included M values for DNA methylation of the BDNF and RASA2 genes; processing speed, objectively measured using the Grooved Pegboard and Digit Vigilance Test scores; and perceived cognitive function, self-reported using the Patient Assessment of Own Functioning Inventory. Regression analysis was conducted. Greater methylation of cg21291635 of the BDNF gene (p = 0.01) and cg20247102 of the RASA2 gene (p = 0.013) were associated with poorer processing speed, whereas greater methylation of cg20108357 of the BDNF gene (p < 0.001) and cg00567892 of the RASA2 gene (p = 0.019) were associated with better perceived cognitive function. Gene methylation variations were demonstrated, suggesting the genes' potential roles and two possible distinct mechanisms of cognitive function in cancer.&nbsp.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.job.2024.06.005
+- DOI: 10.1188/24.ONF.349-360
 
 2. Keywords
-- Hard gummy candy chewing
-- Japanese children
-- Masticatory function
+- DNA methylation
+- breast cancer
+- cognition
+- perceived cognitive function
+- processing speed
 
 3. Key Findings
-- Findings extraction requires manual review
+- Gene methylation variations were demonstrated, suggesting the genes' potential roles and two possible distinct mechanisms of cognitive function in cancer
 
 This study provides insights into:
-- Hard gummy candy chewing assessment methods and outcomes
-- Japanese children assessment methods and outcomes
-- Masticatory function assessment methods and outcomes
+- DNA methylation assessment methods and outcomes
+- breast cancer assessment methods and outcomes
+- cognition assessment methods and outcomes

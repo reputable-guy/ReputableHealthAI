@@ -1,27 +1,21 @@
-Study Title: Impact of nutritional status on vaccine-induced immunity in children living in South Africa: Investigating the B-cell repertoire and metabolic hormones.
+Study Title: Effect of Nutrition and Behavior Modification Program (NBMP) on maternal and neonatal outcomes among hyperglycemic mothers.
 
 Study Summary:
-We explored the role of metabolic hormones and the B-cell repertoire in the association between nutritional status and vaccine responses. In this prospective cohort study, nested within a larger randomized open-label trial, 211 South African children received two doses of measles vaccine and two or three doses of pneumococcal conjugate vaccine (PCV). Metabolic markers (leptin, ghrelin and adiponectin) and distribution of B-cell subsets (n&#xa0;=&#xa0;106) were assessed at 18&#xa0;months of age. Children with a weight-for-height z-score (WHZ)&#xa0;&#x2264;&#xa0;-1 standard deviation (SD) at booster vaccination had a decreased mean serotype-specific PCV IgG response compared with those with WHZ&#xa0;>&#xa0;-1 and <+1 SD or WHZ&#xa0;&#x2265;&#xa0;+1 SD at 9&#xa0;months post-booster (18&#xa0;months of age). (Naive) pre-germinal center B-cells were associated with pneumococcal antibody decay between one to nine months post-booster. Predictive performance of elastic net models for the combined effect of B-cell subsets, metabolic hormones and nutritional status (in addition to age, sex, and randomization group) on measles and PCV vaccine response had an average area under the receiver operating curve of 0.9 and 0.7, respectively. The combined effect of B-cell subsets, metabolic hormones and nutritional status correlated well with the vaccination response for measles and most PCV serotypes. gov registration of parent studies: NCT02943902 and NCT03330171.
+Hyperglycemic mothers and their offspring are at increased risk of various maternal and neonatal complications such as macrosomia, future type 2 diabetes, and metabolic abnormalities. Early diagnosis and individualized dietary management, exercise, and emotional well-being are expected to reduce these risks. The study aims to identify the effect of the Nutrition and Behavior Modification Program (NBMP) on maternal and neonatal outcomes of hyperglycemic mothers. A pre-experimental study was performed among 89 hyperglycemic mothers. Glycemic control at 28 and 36 weeks, weight gain during pregnancy, pre-eclampsia, pregnancy-induced hypertension (PIH), mode of delivery, duration of exercise, emotional well-being, neonates' birth weight, incidence of hypoglycemia, and NICU admission were compared among the study and control groups. The intervention group received an individualized NBMP from their diagnosis of hyperglycemia until delivery. The results showed a significant difference in blood glucose between the study periods and groups at p<0.05 as per repeated ANOVA. Also, diet scores had a significant influence on BMI and glycemic control at p<0.05. Logistic regression models, adjusted for potential confounders including baseline blood glucose, age, economic status, previous GDM, family history of DM as well as baseline BMI, diet score, physical activity, and maternal well-being score, indicated that the NBMP reduced the blood glucose and BMI significantly at p<0.05 in the study group. NBMP also reduced the risk of SGA/LGA and preterm/post-mature birth, as well as increased the exercise duration and emotional well-being of mothers. The study's conclusions draw attention to the possible roles that maternal wellness, physical activity, and diet may have in reducing risks for both hyperglycemic mothers and their newborns. The NBMP resulted in higher adherence to lifestyle changes. Further research on a larger sample of hyperglycemic mothers is recommended to expand the generalizability of the findings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.vaccine.2024.04.034
+- DOI: 10.26355/eurrev_202404_35903
 
 2. Keywords
-- B cells
-- Measles
-- Metabolic hormones
-- Nutrition
-- Pneumococcal conjugate vaccine
-- Vaccination
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- The results showed a significant difference in blood glucose between the study periods and groups at p<0
+- Logistic regression models, adjusted for potential confounders including baseline blood glucose, age, economic status, previous GDM, family history of DM as well as baseline BMI, diet score, physical activity, and maternal well-being score, indicated that the NBMP reduced the blood glucose and BMI significantly at p<0
 
 This study provides insights into:
-- B cells assessment methods and outcomes
-- Measles assessment methods and outcomes
-- Metabolic hormones assessment methods and outcomes
+- General research methodology and outcomes

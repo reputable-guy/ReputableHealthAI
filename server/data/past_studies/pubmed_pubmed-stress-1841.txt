@@ -1,20 +1,25 @@
-Study Title: Long-term pain outcomes after serial lidocaine infusion in participants with recent onset of peripheral neuropathic pain: A pilot double-blind, randomized, placebo-controlled trial.
+Study Title: Ingestion of &#x3b2;-nicotinamide mononucleotide increased blood NAD levels, maintained walking speed, and improved sleep quality in older adults in a double-blind randomized, placebo-controlled study.
 
 Study Summary:
-This study investigated the outcomes up to 12 weeks after serial lidocaine infusion for early-onset peripheral neuropathic pain. This pilot double-blind, randomized, 2-arm placebo-controlled trial recruited 50 participants with onset of peripheral neuropathic pain within the past 6 months and randomized them to either receive lidocaine (3&#x2009;mg/kg) in normal saline (50&#x2009;mL) intravenous infusion over 1 hour (lidocaine group) once a week for 4 weeks or 50&#x2009;mL of normal saline infusion (placebo group) once a week for 4 weeks. Twenty-nine participants completed the protocol; 15 participants were assigned to the lidocaine group and 14 to the placebo group. The outcomes were pain intensity assessed using a numerical rating scale (NRS), quality of life assessed using EuroQol-Five Dimensions-Five Levels questionnaire (EQ-5D-5L), psychological function using the Thai version of the 21-item Depression Anxiety Stress Scales (DASS-21), pain medication use, and adverse effects, all assessed at baseline (BL) and again at 4, 8, and 12 weeks following randomization. The reported tramadol use at 8 and 12 weeks following the first infusion was significantly lower in the lidocaine group (P&#x2005;=&#x2005;.023). No other significant between-group differences were observed at any time point or for any other outcome, and no serious adverse events were observed. Multiple lidocaine infusions of 3&#x2009;mg/kg once a week for 4 weeks in participants with recent onset of peripheral neuropathic pain demonstrated no significant benefits in pain intensity, quality of life, or psychological outcomes. At most, this treatment may result in less tramadol use.
+The study evaluated how ingestion of nicotinamide mononucleotide (NMN) for 12&#xa0;weeks by older adults affected blood nicotinamide adenine dinucleotide (NAD&#x2009;+) levels and physical function, particularly walking function. Information concerning sleep, and stress was also collected as secondary endpoints. In this randomized, placebo-controlled, double-blind, parallel-group comparison study, 60 participants were randomly allocated into a placebo group or NMN group. Members of the NMN group consumed 250&#xa0;mg/day NMN for 12&#xa0;weeks. Motor function tests, blood NAD metabolite analysis, and questionnaires were conducted at the start of the study and 4 and 12&#xa0;weeks after intake. This trial was registered at umin.ac.jp/ctr as UMIN000047871 on June 22nd, 2022.At primary outcome, at both 4&#xa0;weeks and 12&#xa0;weeks, the NMN and placebo groups had no significant differences in a stepping test. At secondary outcomes, after 12&#xa0;weeks of NMN intake, the NMN group had a significantly shorter 4-m walking time than the placebo group as well as significantly higher blood levels of NAD&#x2009;+&#x2009;and its metabolites. A significant negative correlation was observed between the change in the 4-m walking time and the change in blood NAD&#x2009;+&#x2009;, N-methyl-2-pridone-5-carboxamide (2-PY), and N-methyl-4-pridone-3-carboxamide (4-PY) at 12&#xa0;weeks. The NMN group had improved sleep quality at 12&#xa0;weeks relative to the placebo group as evidenced by lower scores for "Daytime dysfunction" and "Global PSQI" on the Pittsburgh Sleep Questionnaire. No adverse effects related to test substance consumption were observed. Together, these results indicate that NMN intake could increase blood NAD&#x2009;+&#x2009;levels, maintain walking speed, and improve sleep quality in older adults. Interventions involving NMN aimed at maintaining walking speed could contribute to extended healthy life expectancy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000038253
+- DOI: 10.1007/s11357-024-01204-1
 
 2. Keywords
-
+- Blood NAD&#x2009;+
+- Nicotinamide mononucleotide
+- Older adults
+- Walking speed
 
 3. Key Findings
-- Multiple lidocaine infusions of 3&#x2009;mg/kg once a week for 4 weeks in participants with recent onset of peripheral neuropathic pain demonstrated no significant benefits in pain intensity, quality of life, or psychological outcomes
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Blood NAD&#x2009;+ assessment methods and outcomes
+- Nicotinamide mononucleotide assessment methods and outcomes
+- Older adults assessment methods and outcomes

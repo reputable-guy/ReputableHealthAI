@@ -1,30 +1,26 @@
-Study Title: From pain level to pain experience: redefining acute pain assessment to enhance understanding of chronic postsurgical pain.
+Study Title: Randomized controlled trial on ankle biomechanics in the treatment of functional ankle instability with joint mobilization.
 
 Study Summary:
-Chronic postsurgical pain (CPSP) significantly impairs quality of life and poses a substantial healthcare burden, affecting up to a quarter of patients undergoing surgery. Although acute pain is recognised as a predictor for CPSP development, the role of patient experience remains underexplored. This study examines the predictive value of patient experience alongside traditional risk factors for CPSP after orthopaedic surgery. An exploratory analysis was conducted on 294 patients from a multicentre randomised clinical trial comparing continuous perineural analgesia and single-injection nerve block in ambulatory orthopaedic surgeries. Patient experience was assessed using the Evaluation du Vecu de l'Anesth&#xe9;sie G&#xe9;n&#xe9;rale (EVAN-G) validated questionnaire. Factors associated with CPSP at 90 days after surgery were identified through univariate and multivariate analyses, incorporating patient-reported outcomes and classical variables. Out of 219 patients with complete data, 63 (29%) developed CPSP at day 90. Multivariate analysis revealed a poor pain experience, as assessed by the pain dimension of EVAN-G on postoperative day 2, as an independent predictor of CPSP (odds ratio 6.45, 95% confidence interval 1.65-25.26, P<0.01). Poor pain experience was associated with an augmented risk of CPSP. This study underscores the role of patient-reported outcomes, specifically the pain experience dimension captured by the EVAN-G scale, in prediction of CPSP 90 days after surgery. It suggests a shift from conventional assessments of pain intensity to a comprehensive understanding of pain experience, advocating for tailored pain management approaches that could reduce chronic pain, thereby improving patient quality of life and functional recovery.
+Functional ankle instability (FAI) patients often experience restricted ankle dorsiflexion, increased inversion angle, and elevated ground reaction forces during walking, all related to altered kinematics of the talocrural and subtalar joints. This study aimed to investigate the potential positive impact of joint mobilization on FAI patients from a biomechanical perspective. The experimental group (EG, n&#x2009;=&#x2009;17; Age: 20.06&#x2009;&#xb1;&#x2009;1.34&#xa0;years; Height: 1.74&#x2009;&#xb1;&#x2009;0.07&#xa0;m; Weight: 69.79&#x2009;&#xb1;&#x2009;11.20&#xa0;kg; BMI:22.88&#x2009;&#xb1;&#x2009;2.63&#xa0;kg/m; CAIT:15.59&#x2009;&#xb1;&#x2009;2.58; M/F: 15/2) received joint mobilization&#x2009;+&#x2009;routine rehabilitation training, while the control group (CG, n&#x2009;=&#x2009;16; Age: 20.50&#x2009;&#xb1;&#x2009;0.73&#xa0;years; Height: 1.73&#x2009;&#xb1;&#x2009;0.09&#xa0;m; Weight: 64.59&#x2009;&#xb1;&#x2009;7.21&#xa0;kg; BMI: 21.65&#x2009;&#xb1;&#x2009;2.47&#xa0;kg/m; CAIT: 16.75&#x2009;&#xb1;&#x2009;2.21; M/F: 14/2) only received regular rehabilitation training. Biomechanical tests were performed in both groups after the 4-week intervention. The spatial parameters during walking (including step length, stride length, step width, step time, cadence, step speed, support time, and swing time), ankle flexion and dorsiflexion angle, inversion, and eversion angles, internal and external rotation angles, ankle torque, as well as the vertical ground reaction force were measured before and after the intervention. The results of the two-way ANOVA showed that the main effect of time was significant for step length (P&#x2009;<&#x2009;0.001), stride length (P&#x2009;=&#x2009;0.008), step speed (P&#x2009;<&#x2009;0.001), the sagittal plane angle at touchdown (P&#x2009;<&#x2009;0.001), maximum dorsiflexion angle (P&#x2009;=&#x2009;0.005), sagittal plane toe off-ground angle (P&#x2009;<&#x2009;0.001), peak flexion-dorsiflexion torque (P&#x2009;=&#x2009;0.033), the first peak vGRF (P&#x2009;=&#x2009;0.013), and second peak vGRF (P&#x2009;=&#x2009;0.011). The main effect of Time * Group was significant for step speed (P&#x2009;=&#x2009;0.044). The EG demonstrated significant improvements in step speed (P&#x2009;=&#x2009;0.047), maximum dorsiflexion angle (P&#x2009;=&#x2009;0.047), and the first peak vGRF (P&#x2009;=&#x2009;0.028) compared to the CG. This study reveals that joint mobilization intervention enhances gait spatiotemporal parameters, kinematics, and kinetics, particularly in step speed, maximum dorsiflexion angle, and the first vGRF peak for the EG compared to the CG. Therefore, the rehabilitation strategy for patients with functional ankle instability should appropriately increase the use of joint movement to promote the functional recovery of FAI patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.bja.2024.08.003
+- DOI: 10.1038/s41598-024-73646-8
 
 2. Keywords
-- acute pain
-- ambulatory surgery
-- catastrophising
-- chronic postsurgical pain
-- orthopaedic surgery
-- patient experience
-- regional anaesthesia
-- rehabilitation
-- secondary analysis
+- Biomechanical
+- Functional ankle instability
+- Joint mobilization
+- Walking
 
 3. Key Findings
-- Multivariate analysis revealed a poor pain experience, as assessed by the pain dimension of EVAN-G on postoperative day 2, as an independent predictor of CPSP (odds ratio 6
+- The results of the two-way ANOVA showed that the main effect of time was significant for step length (P&#x2009;<&#x2009;0
+- The EG demonstrated significant improvements in step speed (P&#x2009;=&#x2009;0
 
 This study provides insights into:
-- acute pain assessment methods and outcomes
-- ambulatory surgery assessment methods and outcomes
-- catastrophising assessment methods and outcomes
+- Biomechanical assessment methods and outcomes
+- Functional ankle instability assessment methods and outcomes
+- Joint mobilization assessment methods and outcomes

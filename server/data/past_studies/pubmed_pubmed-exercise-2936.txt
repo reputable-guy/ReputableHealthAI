@@ -1,28 +1,26 @@
-Study Title: Five-year follow-up of the OptiTrain trial on concurrent resistance and high-intensity interval training during chemotherapy for patients with breast cancer.
+Study Title: A Fullerton Functional Fitness Test-based exercise intervention for older adults yields quick physical and psychological benefits.
 
 Study Summary:
-The protocol predefined aim of this study is to assess sustained effects of the OptiTrain trial on several health outcomes, 5 years after the baseline assessment. The OptiTrain study was a prospective, randomised controlled trial with 240 patients with breast cancer undergoing adjuvant chemotherapy that compared the effects of 16&#xa0;weeks of two exercise programs, RT-HIIT and AT-HIIT, with usual care (UC). After a 5-year follow-up, eligible participants were evaluated for the primary outcome of cancer-related fatigue (CRF) and secondary outcomes including quality of life, symptoms, muscle strength, cardiorespiratory fitness, body mass, physical activity, and sedentary behavior. Statistical analysis was conducted using linear mixed models adjusted for baseline values. Tumour profile and menopausal status were additionally adjusted for CRF. Mean differences (MD), 95% confidence intervals (CIs), and standardized effect sizes (ES) were reported. At the 5-year follow-up, there were no statistically significant differences in total CRF between the intervention groups and the UC group. RT-HIIT reported significantly reduced pain sensitivity at the gluteus MD&#x2009;=&#x2009;79.00 (95% CI 10.17, 147.83, ES&#x2009;=&#x2009;0.55) compared to UC. Clinically meaningful differences for an increase in cognitive CRF and cardiorespiratory fitness were observed for the AT-HIIT versus UC group, and for lower limb strength for the RT-HIIT versus UC group, albeit without statistical significance. Engaging in targeted exercise during adjuvant chemotherapy for breast cancer provides short-term benefits in reducing fatigue and maintaining physical function. However, our 5-year follow-up indicates that these effects are limited in the long term. This underscores the need to support breast cancer survivors maintain their PA levels throughout their survivorship journey.
+Functional fitness is essential for healthy living in older adults. Specially targeted fitness programs might be the most beneficial. This intervention study aimed to assess the efficacy of a specific 16-week exercise program in improving functions as measured by the Fullerton Functional Fitness Test (FFFT), also known as the Senior Test, in older adults. Thirty-eight participants (66&#xa0;% women, M&#xa0;=&#xa0;80.15, SD&#xa0;=&#xa0;7.21) were randomized into an exercise group (n&#xa0;=&#xa0;24) and a waiting list control group (n&#xa0;=&#xa0;14). The exercise group trained three times a week for 1&#xa0;h. Objective tests (FFFT and handgrip power) and subjective psychological measures (life satisfaction, resilience, happiness, perceived stress, and well-being) were obtained at baseline, after eight weeks, and after 16 weeks. The data were analyzed using mixed-effect regression models. The results yielded statistically significant group-by-time interactions in all models, indicating improvements in physical and psychological measures over time in the treatment group compared to the control group. Significant differences between the groups in the estimated marginal means (with adjusted 95&#xa0;% confidence intervals) emerged after 16 weeks in happiness (-3.5 [-6.5, -0.4]), resilience (-5.5 [-9.9, -1.2]), perceived stress (2.2 [0.2, 4.2]), well-being (-5.8 [-7.9, -3.6]), upper limb strength (-5.7 [-9.0, -2.4]), upper body flexibility (-8.7 [-16.4, -1.0]), and agility and balance (4.6 [1.2, 8.1]). Except for happiness and resilience, these differences surfaced already after eight weeks. The here-employed 16-week exercise program, targeting the test elements of the FFFT, efficiently induced physical and mental improvements in older adults.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-65436-z
+- DOI: 10.1016/j.ctcp.2024.101880
 
 2. Keywords
-- Adjuvant chemotherapy
-- Breast cancer
-- Cognitive assessment
+- Ageing
 - Exercise
-- Fatigue
-- Long-term effects
+- Objective measures
 - Physical activity
+- Subjective measures
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Adjuvant chemotherapy assessment methods and outcomes
-- Breast cancer assessment methods and outcomes
-- Cognitive assessment assessment methods and outcomes
+- Ageing assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- Objective measures assessment methods and outcomes

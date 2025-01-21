@@ -1,29 +1,26 @@
-Study Title: Age-Dependent Serum Volatilomics of Milk and Yogurt Intake: A Randomized Crossover Study in Healthy Young and Older Men.
+Study Title: Effect of oral nutritional supplementation combined with impedance vectors for dry weight adjustment on the nutritional status, hydration status and quality of life in patients on chronic hemodialysis: A pilot study.
 
 Study Summary:
-Nutritional biomarkers of dairy intake can be affected by both food transformation and the metabolic status of the consumer. To assess these effects, this study investigated the serum volatilome of 14 young (YA) and 14 older (OA) adult men undergoing a 3 week restriction of dairy and fermented foods followed by a randomized crossover acute intake of milk and yogurt. 3,5-Dimethyl-octan-2-one was identified as a potential marker of dairy product intake as its response after both milk and yogurt intake was significantly increased during the postprandial phase but significantly decreased in fasting serum samples of the OA group after the restriction phase. The postprandial response of two metabolites was significantly different for the two dairy products while 19 metabolites were modulated by age. Remarkably, the response of all age-dependent metabolites was higher in the OA than in the YA group after milk or yogurt intake, whereas at the end of the restriction phase, their fasting concentrations were lower in the OA than in the YA group. Among these,-cresol, a specific marker of colonic protein fermentation, had a significant response in the OA but not the YA group, which may suggest impaired intestinal processing of dietary proteins in the OA group.
+Protein energy wasting frequently affect hemodialysis patients and contribute to the development of overhydration. The objective of this study was to assess the effect of oral nutritional supplementation (ONS) combined with bioelectrical vector analysis (BIVA) on the nutritional and hydration status and the quality of life (QoL) in hemodialysis (HD) patients. Thirty-two chronic HD patients were included in a 6-month randomized pilot study. Patients in SUPL group received a simultaneous intervention consisting of a personalized diet, 245&#xa0;mL/d ONS and dry weight adjustment through BIVA. Patients in CON group received a personalized diet and dry weight adjustment by BIVA. Anthropometrical, biochemical, dietary, QoL, handgrip strength (HGS) and bioimpedance measurements were performed. Malnutrition Inflammation Score (MIS) was applied. At the end of the intervention, moderate undernutrition decreased by 43.8% in SUPL group while in CON group, severe undernutrition increased by 13% (p&#xa0;<&#xa0;0.04 between groups). In the adjusted covariance analysis, SUPL compared to CON group, increased HGS (&#x394; 2.8&#xa0;Kg vs &#x394;&#xa0;-1.8&#xa0;Kg, p&#xa0;=&#xa0;0.003), serum albumin (&#x394; 0.29&#xa0;g/dL vs &#x394;&#xa0;-0.03&#xa0;g/dL, p&#xa0;=&#xa0;0.04) and serum transferrin (&#x394; 4.7&#xa0;mg/dL vs &#x394;&#xa0;-0.7&#xa0;mg/dL, p&#xa0;=&#xa0;0.0007). The increase in QoL was significantly higher in SUPL group. Dry weight was achieved in 100% of patients in SUPL and 95% in CON group. ONS combined with BIVA for dry weight adjustment, improved nutritional status, QoL and achieved dry weight in HD patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1021/acs.jproteome.2c00674
+- DOI: 10.1016/j.clnesp.2022.12.023
 
 2. Keywords
-- VTT extraction
-- age
-- biomarker
-- milk
-- nutrition
-- plasma serum metabolome
-- volatilomics
-- yogurt
+- Bioelectrical vector analysis
+- Dry weight
+- Oral nutrition supplementation
+- Quality of life
+- Undernutrition
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- VTT extraction assessment methods and outcomes
-- age assessment methods and outcomes
-- biomarker assessment methods and outcomes
+- Bioelectrical vector analysis assessment methods and outcomes
+- Dry weight assessment methods and outcomes
+- Oral nutrition supplementation assessment methods and outcomes

@@ -1,31 +1,27 @@
-Study Title: The effects of a brand-specific, hemp-derived cannabidiol product on physiological, biochemical, and psychometric outcomes in healthy adults: a double-blind, randomized clinical trial.
+Study Title: Is decreasing problematic mobile phone use a pathway for alleviating adolescent depression and sleep disorders? A randomized controlled trial testing the effectiveness of an eight-session mindfulness-based intervention.
 
 Study Summary:
-Cannabidiol (CBD) is a non-psychoactive phyto-cannabinoid derived from theplant. CBD exhibits various interactions at receptor sites, prompting the research of its potential anti-inflammatory, immunomodulatory, psychological, and pain-relieving effects. This study aimed to investigate the physiological, biochemical, and psychometric effects of a brand-specific, hemp-derived CBD product in healthy adults over a 12-week observation period. 54 healthy males and females (age&#x2009;=&#x2009;25&#x2009;&#xb1;&#x2009;7y; BMI&#x2009;=&#x2009;24.82&#x2009;&#xb1;&#x2009;3.25&#x2009;kg/m) recruited from a large Southeastern University completed the study. Participants arrived at the laboratory after&#x2009;>&#x2009;8&#x2009;h of fasting, and&#x2009;>&#x2009;48&#x2009;h without alcohol consumption and vigorous exercise. Following baseline measurements (height, weight, blood pressure, electrocardiogram (ECG), and blood work), participants were stratified by sex and randomized to either CBD or placebo groups. Products were administered double-blinded, with both given in liquid form containing medium-chain triglyceride oil, while the CBD product specifically contained 50&#x2009;mg/mL of CBD. Participants were instructed to consume 1&#x2009;mL of their product twice daily and were given enough product to last until their next laboratory visit. Data were collected at baseline and on days 30&#x2009;&#xb1;&#x2009;3, 60&#x2009;&#xb1;&#x2009;3, and 90&#x2009;&#xb1;&#x2009;3. Blood was drawn for analysis of immune and inflammatory biomarkers. Chronic pain among participants was calculated using urine samples according to the foundational pain index (FPI). Self-reported psychometric questionnaires were utilized (Cohen's Perceived Stress Scale, Pittsburgh Sleep Quality Index, Profile of Mood States,10-item Likert scale for perceived pain) to assess stress, sleep quality, mood state, and body discomfort. To determine overall wellbeing, participants completed a daily survey indicating if they missed work or school due to illness. Change from baseline was calculated for each measure, and mixed effects models were used to determine differences between groups over time while adjusting for baseline values (&#x3b1;&#x2009;=&#x2009;0.05). Data are presented as mean&#x2009;&#xb1;&#x2009;standard deviation. There were no Group-by-Time interactions or Group or Time main effects for immune or inflammatory biomarkers (&#x2009;>&#x2009;0.05). Analyses revealed no Group-by-Time interactions or main effects observed for perceived stress, sleep quality, overall mood disturbance, and all the profile of mood state subscales (&#x2009;>&#x2009;0.05), except "vigor-activity." A Time main effect was found for the sub-score for "vigor-activity" (&#x2009;=&#x2009;0.007; Pre CBD&#x2009;=&#x2009;19.5&#x2009;&#xb1;&#x2009;5.2, Post CBD&#x2009;=&#x2009;17.3&#x2009;&#xb1;&#x2009;5.3; Pre PL&#x2009;=&#x2009;19.0&#x2009;&#xb1;&#x2009;5.7, Post PL&#x2009;=&#x2009;17.9&#x2009;&#xb1;&#x2009;7.1), which decreased from Visit 3 to Visit 4 (&#x2009;=&#x2009;0.025) and from Visit 3 to Visit 5 (&#x2009;=&#x2009;0.014). There was a Group main effect for FPI (&#x2009;=&#x2009;0.028; Pre CBD&#x2009;=&#x2009;11.9&#x2009;&#xb1;&#x2009;14.4, Post CBD&#x2009;=&#x2009;8.8&#x2009;&#xb1;&#x2009;10.9; Pre PL&#x2009;=&#x2009;9.0&#x2009;&#xb1;&#x2009;14.2, Post PL&#x2009;=&#x2009;12.9&#x2009;&#xb1;&#x2009;11.5), indicating that the placebo group had greater increases in pain over the intervention compared to the CBD group. No significant differences were found between groups in the incidence and prevalence of "colds or flus" (&#x2009;>&#x2009;0.05). CBD was safe and well tolerated in healthy adults. These findings show pain was lower in the CBD group, suggesting a potentially positive effect for consumption of CBD. "Vigor-activity" decreased across the intervention, which may be a confounding effect of the academic semester. While the dosage chosen was safe, more research may be warranted using higher doses as these may be needed to observe further therapeutic effects in healthy populations.
+The present study aimed to evaluate the efficacy of a mindfulness-based cognitive therapy (MBCT) intervention in reducing problematic mobile phone use, depression, and sleep disorders among adolescents. Additionally, it sought to investigate whether the decrease in problematic mobile phone use acted as a mediator in the relationship between the MBCT intervention and adolescent depression and sleep disorders. In a randomized controlled trial, a total of 104 adolescents were randomly assigned to the mindfulness group (n = 52) or the wait-list control group (n = 52). The mindfulness group students completed eight 45-min sessions of mindfulness training in four weeks. The outcomes were measured at baseline, postintervention, and at the 2-month follow-up. Compared with the control group, the mindfulness group had significantly greater levels of mindfulness and lower levels of problematic mobile phone use, depression, and sleep disorders postintervention. The intervention effects were maintained at the 2-month follow-up. In addition, decreased problematic mobile phone use significantly mediated the association between the MBCT intervention and decreased depression and decreased sleep disorders. The findings suggest that MBCT could improve adolescent depression and sleep disorders and that decreasing problematic mobile phone use is an effective pathway accounting for the MBCT intervention effect on adolescent depression and sleep disorders.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/15502783.2024.2370430
+- DOI: 10.1556/2006.2024.00034
 
 2. Keywords
-- Cannabis
-- cytokines
-- pain
-- perceived stress
-- profile of mood states
-- sleep
+- adolescents
+- depression
+- mindfulness
+- mindfulness-based cognitive therapy
+- problematic mobile phone use
+- sleep disorders
 
 3. Key Findings
-- Chronic pain among participants was calculated using urine samples according to the foundational pain index (FPI)
-- Analyses revealed no Group-by-Time interactions or main effects observed for perceived stress, sleep quality, overall mood disturbance, and all the profile of mood state subscales (&#x2009;>&#x2009;0
-- " A Time main effect was found for the sub-score for "vigor-activity" (&#x2009;=&#x2009;0
-- No significant differences were found between groups in the incidence and prevalence of "colds or flus" (&#x2009;>&#x2009;0
-- "Vigor-activity" decreased across the intervention, which may be a confounding effect of the academic semester
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cannabis assessment methods and outcomes
-- cytokines assessment methods and outcomes
-- pain assessment methods and outcomes
+- adolescents assessment methods and outcomes
+- depression assessment methods and outcomes
+- mindfulness assessment methods and outcomes

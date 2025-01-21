@@ -1,25 +1,28 @@
-Study Title: A Randomized Controlled Trial of the Effects of a Web-Based Intervention on Perceived Stress and Diet Quality Among First-Year University Students.
+Study Title: Evolution of fruit and vegetable intake among health promotion service participants in a Brazilian metropolis: 48-month follow-up of a randomized controlled community trial.
 
 Study Summary:
-e-Health interventions can potentially improve health care. My Viva Plan(MVP) is a web-based program that focuses on mindfulness, nutrition, and physical fitness. The aim of this study was to evaluate the effects of this platform on stress indicators and diet quality among first-year university students. Ninety-seven university students were enrolled in a randomized, controlled clinical trial. Participants were randomized into control (&#x2009;=&#x2009;49) and MVP (&#x2009;=&#x2009;48) groups. Perceived stress was measured using the self-report Stress Indicator Questionnaire. Diet quality was assessed by the nutrient-rich foods index, and body composition was assessed by a hand-to-foot, multifrequency, bioelectrical impedance analysis. There were no differences in physical, sleep, behavioral, emotional, and personal habit indicators between groups. Diet quality and body composition were similar between groups, except among women in the MVP group with decreased body fat (-1.2&#x2009;&#xb1;&#x2009;2.6&#x2009;kg,&#x2009;<&#x2009;0.05). Participant engagement was low: 50% of the MVP group did not access the platform. The MVP web-based intervention was not associated with improvements in stress indicators, diet quality, and body composition, likely due to the characteristics of our cohort of healthy young individuals. Future studies should focus on enhancing motivational approaches to explore the potential of e-health interventions that improve health behavior. Clinical Trial Registration number: NCT03579264A.
+To assess longitudinal effects of a nutrition intervention on fruit and vegetable (F&V) intake among Primary Health Care (PHC) service participants in Belo Horizonte, Brazil. Demographics and health data on 3414 PHC service participants were collected at baseline in 2013-2014. F&V intake was assessed at baseline, 12, 36, and 48&#xa0;months until 2017-2018. Services were randomized to control (CG, usual care) or intervention (IG, usual care and a Transtheoretical Model-based intervention to increase F&V intake). We performed difference-in-differences (DiD) analysis to identify intervention effects on F&V intake, and sensitivity analyses of participants observed at all timepoints. Participants were mostly middle-aged, low-income women. Mean baseline intakes were 168.7&#xa0;g of fruit, 202.0&#xa0;g of vegetables, and 370.7&#xa0;g of F&V, with lower fruit in the IG (164.1&#xa0;g) than the CG (172.3&#xa0;g). At 12&#xa0;months, the intervention increased fruit intake in the IG and fruit and F&V intake among individuals with low baseline F&V intake. Fruit intake remained higher at 36&#xa0;months in the IG. No effect on vegetable intake was identified. According to sensitivity analyses, effects on fruit intake among the complete sample did not remain significant at 36&#xa0;months, and an effect on fruit intake at 36&#xa0;months was identified among those with adequate baseline F&V intake. Reductions in F&V intake did not remain significant. At 12&#xa0;months, a TTM-based intervention increased fruit intake in the overall sample, and fruit and F&V intake among individuals with low baseline intakes. Repeated interventions may be needed over time. RBR-9h7ckx.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.1089/tmr.2023.0041
+- Publication Date: 2024
+- DOI: 10.1016/j.ypmed.2023.107748
 
 2. Keywords
-- internet-based intervention
-- mindfulness
-- stress
-- wellness programs
+- Food and nutrition education
+- Fruit
+- Health promotion
+- Longitudinal studies
+- Primary health care
+- Randomized controlled trial
+- Vegetables
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- internet-based intervention assessment methods and outcomes
-- mindfulness assessment methods and outcomes
-- stress assessment methods and outcomes
+- Food and nutrition education assessment methods and outcomes
+- Fruit assessment methods and outcomes
+- Health promotion assessment methods and outcomes

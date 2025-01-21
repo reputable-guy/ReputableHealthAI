@@ -1,26 +1,25 @@
-Study Title: Real-world study on the application of enhanced recovery after surgery protocol in video-assisted thoracoscopic day surgery for pulmonary nodule resection.
+Study Title: Application of enhanced recovery after surgery based on multiphase optimization strategy in the nursing management of children with snoring disease day surgery.
 
 Study Summary:
-This study aims to evaluate the real-world effectiveness of applying different levels of Enhanced Recovery After Surgery (ERAS) guidelines to video-assisted thoracic day surgery (VATS). The goal is to determine the optimal degree of ERAS protocols and management requirements to improve postoperative recovery outcomes. It was designed as a single-centre, prospective pragmatic randomized controlled trial (PRCT), including patients who underwent VATS at the Day Surgery Center of West China Hospital, between January 2021 and November 2022. Patients were divided into Group A and Group B through convenience sampling to implement different levels of ERAS management protocols. Data collection included the baseline characteristics (gender, age, marital status, education level, BMI, PONV risk score, ASA classification), surgery-related indicators (type of surgery, pathological results, hospitalization costs, duration of surgery, intraoperative blood loss, intraoperative rehydration volume), postoperative recovery indicators (postoperative chest tube duration time, time to first postoperative ambulation and urination, postoperative complications, follow-up condition), pain-related indicators (pain threshold score, pain score at 6&#xa0;h postoperatively, bedtime, and predischarge), psychological state indicators (anxiety level), Athens Insomnia Scale (AIS) scores, and social support scores. Propensity score matching (PSM) was utilized and statistical analyses were conducted using R version 4.4.1. Comparisons of categorical variables were performed using the &#x3c7;&#xb2; test, while comparisons of continuous variables were conducted using ANOVA or the Kruskal-Wallis rank-sum test. A significance level of &#x3b1;&#x2009;=&#x2009;0.05 was set for statistical tests. A total of 340 patients were included, with 187 in Group A and 153 in Group B. After propensity score matching (PSM), there were 142 patients in Group A and 105 in Group B, with no significant baseline differences. Group A had a significantly higher proportion of chest tube removals within 24&#xa0;h postoperatively (P&#x2009;<&#x2009;0.001) and earlier mobilization (P&#x2009;<&#x2009;0.001). Despite a higher pain threshold in Group A (P&#x2009;=&#x2009;0.016), their postoperative pain scores were not higher than those in Group B. Additionally, Group A had a lower incidence of postoperative complications. The more comprehensive ERAS protocol significantly improved postoperative recovery, confirming its value in day-case VATS and supporting its clinical adoption. However, the study has limitations; future research should focus on standardizing ERAS protocols and expanding their application to a broader patient population to validate these findings further. This study underwent review by the Ethics Committee of West China Hospital of Sichuan University under No. 2020 (1001). It has been officially registered with the China Clinical Trial Registry, TRN: ChiCTR2100051372 and registration date is Sept. 22, 2021.
+This study aimed to investigate the effectiveness of applying a multiphase optimization strategy (MOST) to enhance recovery after surgery (ERAS) protocols within the nursing management of children undergoing day surgery for snoring disease. While MOST has been applied to behavioral intervention research in smoking cessation, AIDS management, and weight loss by international scholars, its application in constructing nursing intervention projects remains relatively unexplored. Using convenience sampling, randomised controlled trial. A convenience sampling method was employed. The study recruited 200 preschool children diagnosed with snoring who underwent day surgery at a specific hospital between January 2023 and January 2024. The participants were divided into two groups: a control group receiving standard nursing care and an experimental group receiving MOST-guided, integrated high-quality nursing plans specifically designed for children with snoring undergoing day surgery, adhering to established ERAS guidelines. Children in the experimental group exhibited significantly lower anxiety levels compared to the control group, both in the preoperative waiting area and upon returning to the ward (p&#xa0;<&#xa0;0.01). While the quality of discharge teaching scale (QDTS) scores did not reveal a statistically significant difference between the groups (p&#xa0;>&#xa0;0.01), the content of discharge instructions and the perceived effectiveness and skill of nurse guidance differed significantly between the control and experimental groups(p&#xa0;<&#xa0;0.01). Notably, the experimental group experienced a demonstrably lower incidence of thirst, hunger, crying, aspiration, pain, and conversion of day ward to routine hospitalization mode compared to the control group (all p&#xa0;<&#xa0;0.01). There was no significant difference in the incidence of postoperative nausea and vomiting between the groups after rehydration (p&#xa0;>&#xa0;0.01). The implementation of ERAS protocols enhanced by MOST within the nursing management of children with snoring undergoing day surgery demonstrates significant efficacy. This approach can effectively reduce preoperative anxiety in children, improve the quality of discharge guidance provided to parents, and demonstrably decrease the occurrence of postoperative thirst, hunger, crying, aspiration, pain, and the need for unplanned hospitalization transitions within 6&#xa0;h after surgery. It is necessary to provide fast rehabilitation nursing for children with snoring during daytime operation. Nurses should adopt the theory of fast rehabilitation based on multi-stage optimization strategy to promote children's fast rehabilitation after operation.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12893-024-02566-1
+- DOI: 10.1016/j.ijporl.2024.112123
 
 2. Keywords
+- Children with snoring disease
 - Day surgery
-- ERAS
-- Real world study
-- VATS
-- Video-assisted thoracoscopic surgery
+- Enhanced recovery after surgery(ERAS)
+- Multiphase optimization strategy (MOST)
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
+- Children with snoring disease assessment methods and outcomes
 - Day surgery assessment methods and outcomes
-- ERAS assessment methods and outcomes
-- Real world study assessment methods and outcomes
+- Enhanced recovery after surgery(ERAS) assessment methods and outcomes

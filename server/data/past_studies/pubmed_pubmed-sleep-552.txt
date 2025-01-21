@@ -1,26 +1,24 @@
-Study Title: Real-time procedure information sharing as a means to reduce perioperative anxiety in families of children undergoing elective surgery - a randomized controlled study.
+Study Title: Therapeutic sleep deprivation for major depressive disorder: A randomized controlled trial.
 
 Study Summary:
-To investigate whether the surgical process information sharing system could alleviate the parental anxiety during a pediatric selective operation. Randomized controlled trial. A questionnaire survey was conducted one day before surgery for the enrolled participants. Family members assigned to the intervention group received real-time process information sharing through service reminders during the surgical period, while the control group received standard perioperative education. The Pittsburgh Sleep Quality Index (PSQI) was used to evaluate sleep quality during the perioperative period, and the State of Cohesion-13 Scale (SOC-13) and Self-rating Anxiety Scale (SAS) were used to assess anxiety levels. Satisfaction levels during the perioperative period were assessed through a follow-up survey conducted one day after surgery. The intervention group showed better scores in terms of PSQI, SOC-13, SAS, and postoperative satisfaction levels at various time points compared to the control group, with statistically significant differences observed (P&#x2009;<&#x2009;0.05). Real-time process information sharing is effective in reducing perioperative sleep disorders and anxiety among family members of pediatric patients, as well as improving satisfaction levels. This approach not only establishes a process and mechanism for effective doctor-patient communication but also helps implement continuous perioperative care, thereby optimizing internet healthcare services.
+Major depressive disorder (MDD) is treated primarily using antidepressant drugs, but clinical effects may be delayed for weeks to months. This study investigated the efficacy of brief therapeutic sleep deprivation (TSD) for inducing rapid improvements in MDD symptoms. From November 2020 to February 2023, 54 inpatients with MDD were randomly allocated to TSD and Control groups. The TSD group (23 cases) remained awake for 36&#xa0;h, while the Control group (31 cases) maintained regular sleep patterns. All participants continued regular drug therapy. Mood was assessed using the 24-item Hamilton Depression Scale (HAMD-24) at baseline and post-intervention in both groups. In the TSD group, the Visual Analogue Scale (VAS) was utilized to evaluate subjective mood during and after the intervention. Cognitive function was assessed at baseline and post-intervention using the Montreal Cognitive Assessment (MoCA). Objective sleep parameters were recorded in the TSD group by polysomnography. The follow-up period spanned one week. HAMD-24 scores did not differ between groups at baseline or post-intervention. However, the clinical response rate was 34.8&#xa0;% higher in the TSD group on day 3 post-intervention compared to the Control group (3.2&#xa0;%), but not sustained by day 7. Moreover, responders demonstrated a faster improvement in the VAS score during TSD than non-responders (p&#xa0;=&#xa0;0.047). There were no significant differences in MoCA scores or objective sleep parameters between the groups. Small sample size and notable attrition rate. Therapeutic sleep deprivation can rapidly improve MDD symptoms without influencing sleep parameters or cognitive functions. Assessment of longer-term effects and identification of factors predictive of TSD response are warranted.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12871-024-02581-y
+- DOI: 10.1016/j.jad.2024.06.005
 
 2. Keywords
-- Family
-- Family anxiety
-- Real-time surgical process
-- Satisfaction
-- Share
+- Chronotherapy
+- Major depressive disorder
+- Therapeutic sleep deprivation
 
 3. Key Findings
-- The intervention group showed better scores in terms of PSQI, SOC-13, SAS, and postoperative satisfaction levels at various time points compared to the control group, with statistically significant differences observed (P&#x2009;<&#x2009;0
+- Moreover, responders demonstrated a faster improvement in the VAS score during TSD than non-responders (p&#xa0;=&#xa0;0
 
 This study provides insights into:
-- Family assessment methods and outcomes
-- Family anxiety assessment methods and outcomes
-- Real-time surgical process assessment methods and outcomes
+- Chronotherapy assessment methods and outcomes
+- Major depressive disorder assessment methods and outcomes
+- Therapeutic sleep deprivation assessment methods and outcomes

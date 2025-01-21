@@ -1,20 +1,26 @@
-Study Title: Efficacy of EMLA for Office-based Andrology Procedures Under Local Anesthesia: A&#xa0;Randomized Control Trial.
+Study Title: Etomidate Combined with Propofol versus Remimazolam for Sedation in Elderly Patients During Gastrointestinal Endoscopy: A Randomized Prospective Clinical Trial.
 
 Study Summary:
-To evaluate the effectiveness of Eutectic Mixture of Local Anesthetic (EMLA), a topical anesthetic cream, in office-based invasive andrological procedures such as hydrocelectomy, spermatocelectomy, and others, aimed at minimizing pain perception and enhancing the overall patient experience. A double-blinded randomized controlled trial was conducted for patients undergoing scrotal andrology surgeries under LA. Power calculation was performed with an estimated sample size of 72. Participants were randomly assigned in a 1:1 ratio to topical EMLA +&#xa0;LA versus LA alone. In the post-operative recovery area, patient will be asked to complete a VAS questionnaire rating pain with LA administration and pain with procedure. Analysis comparing VAS pain scores of both groups was performed using the independent sample t-test method. Seventy-two patients were included in our analysis, with 36 in the control and 36 in the intervention arm. For patient pain with administration of LA, the control arm reported an average VAS pain score of 4.31, compared to 3.72 in the intervention arm (P&#xa0;=&#xa0;.319). For patient pain with procedure, patients in the control arm reported a median VAS pain score of 3.47 compared to 3.03 (P&#xa0;=&#xa0;.432) in the intervention arm. Overall, 86% (62/72) of patients reported that they would either be "very likely" (4/5) or "highly likely" (5/5) to undergo future procedures under local anesthetic. While performing scrotal surgeries under LA appears to be well tolerated and a feasible option, the application of EMLA cream does not appear to significantly alter patient-reported outcomes.
+Remimazolam is a novel short-acting benzodiazepine used for sedation and general anesthesia. This study aimed to evaluate the efficacy and safety of remimazolam besylate in elderly patients who underwent diagnostic gastrointestinal endoscopy. A total of 120 patients aged 60-75 years were randomly allocated to one of two groups. Remifentanil 0.3&#x3bc;g/kg was used for analgesia. Patients were administered remimazolam besylate 7 mg (R group) or etomidate 0.1 mg/kg combined with 1% propofol 0.5 mg/kg (EP group) for induction, supplemental repeated doses were given as needed. Some time metrics, vital signs, adverse events were evaluated. Patients' Mini-cog score and recovery questionnaires were compared. Compared to the EP group, the induction time was slightly longer in the R group (1.50 VS 1.15 minutes) (P<0.05), the time spent in the post-anesthesia care unit (PACU) was shorter (15.17 VS 17.40 minutes) (P<0.05). Compare with EP group, SBP was lower in R group at T15 and T25 time point, but heart rate was higher in T2, T3, T5 (P< 0.05). The Mini-Cog score was higher after the procedure (2.83 VS 2.58) (P<0.05). The incidence of respiratory adverse events was higher in the EP group than R group (18.3% VS 5.0%, P < 0.05). The most common adverse event in R group was hiccups. The sedation satisfaction rate and degree of amnesia were higher in the R group (66.7% VS 11.7%) (P < 0.05), and the effect on patient's life within 24 hours was lower (12.0% VS 30.5%) (P < 0.05). The safety and efficacy of remimazolam besylate are not inferior to those of etomidate combined with propofol, rendering it a safe option for sedation during gastrointestinal endoscopy in ASA I-II elderly patients, but care should be taken to monitor the occurrence of hiccups.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.urology.2024.07.004
+- DOI: 10.2147/DDDT.S454314
 
 2. Keywords
-
+- anesthesia
+- etomidate
+- gastrointestinal endoscopy
+- propofol
+- remimazolam besylate
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- anesthesia assessment methods and outcomes
+- etomidate assessment methods and outcomes
+- gastrointestinal endoscopy assessment methods and outcomes

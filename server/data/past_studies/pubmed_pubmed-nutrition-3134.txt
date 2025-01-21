@@ -1,28 +1,25 @@
-Study Title: From womb to wellness: early environmental exposures, cord blood DNA methylation and disease origins.
+Study Title: Single-centre, randomised clinical trial of the immunomodulatory mechanisms of daily supplementation of palm tocotrienol-rich fraction in healthy human volunteers following influenza vaccination.
 
 Study Summary:
-Fetal exposures can induce epigenetic modifications, particularly DNA methylation, potentially predisposing individuals to later health issues. Cord blood (CB) DNA methylation provides a unique window into the fetal epigenome, reflecting the intrauterine environment's impact. Maternal factors, including nutrition, smoking and toxin exposure, can alter CB DNA methylation patterns, associated with conditions from obesity to neurodevelopmental disorders. These epigenetic changes underscore prenatal exposures' enduring effects on health trajectories. Technical challenges include tissue specificity issues, limited coverage of current methylation arrays and confounding factors like cell composition variability. Emerging technologies, such as single-cell sequencing, promise to overcome some of these limitations. Longitudinal studies are crucial to elucidate exposure-epigenome interactions and develop prevention strategies. Future research should address these challenges, advance public health initiatives to reduce teratogen exposure and consider ethical implications of epigenetic profiling. Progress in CB epigenetics research promises personalized medicine approaches, potentially transforming our understanding of developmental programming and offering novel interventions to promote lifelong health from the earliest stages of life.
+Vitamin E from palm oil, known as the tocotrienol-rich fraction (TRF), has been shown to have immune-enhancing activity. To date, only one dose of TRF (400 mg daily) has been tested in a clinical trial. The proposed study will evaluate the immune-enhancing activity effects of lower doses (200, 100 and 50 mg) in a clinical trial using an influenza vaccine as the immunological challenge. A single-centre, randomised, parallel, double-blinded, placebo-controlled clinical trial with balance allocation involving five arms will be conducted. The healthy volunteers recruited will be randomly assigned to one of the arms, and they will be asked to take the respective supplements (400 mg, 200 mg, 100 mg, 50 mg of TRF or placebo) daily with their dinner. The volunteers will receive the influenza vaccine after four weeks. They will be asked to return to the study site four weeks later. A blood sample will be taken for the study at baseline, four and eight weeks. Primary outcome measures will be antibody levels to influenza, blood leucocyte profile and cytokine production. Secondary outcomes will be correlating plasma vitamin E levels with immune responses, plasma proteins and gene expression patterns. The findings from this study will be published in relevant peer-reviewed journals and presented at relevant national and international scientific meetings. The recent world events have created the awareness of having a healthy and functional immune system. Nutrition plays an important role in helping the immune system to function optimally. This study will show the effects of lower doses of TRF in boosting the immune response of healthy individuals and also elucidate the mechanisms through which TRF exerts its immune-enhancing effects. Australian New Zealand Clinical Trials Registry (ANZCTR) [ ACTRN12622000844741] dated 15 June 2022. 2.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/17501911.2024.2390823
+- DOI: 10.12688/f1000research.137005.1
 
 2. Keywords
-- DNA methylation
-- DOHaD
-- cord blood
-- disease origin
-- early life
-- environmental exposure
-- epigenome
+- immune response
+- influenza vaccine
+- tocotrienol-rich fraction (TRF)
+- tocotrienols
 
 3. Key Findings
-- Technical challenges include tissue specificity issues, limited coverage of current methylation arrays and confounding factors like cell composition variability
+- Findings extraction requires manual review
 
 This study provides insights into:
-- DNA methylation assessment methods and outcomes
-- DOHaD assessment methods and outcomes
-- cord blood assessment methods and outcomes
+- immune response assessment methods and outcomes
+- influenza vaccine assessment methods and outcomes
+- tocotrienol-rich fraction (TRF) assessment methods and outcomes

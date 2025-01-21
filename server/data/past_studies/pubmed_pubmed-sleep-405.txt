@@ -1,26 +1,28 @@
-Study Title: Acoustic Stimulation to Improve Slow-Wave Sleep in Alzheimer's Disease: A Multiple Night At-Home Intervention.
+Study Title: Effective alleviation of depressive and anxious symptoms and sleep disorders in benzodiazepine-dependent patients through repetitive transcranial magnetic stimulation.
 
 Study Summary:
-To investigate the efficacy of closed-loop acoustic stimulation (CLAS) during slow-wave sleep (SWS) to enhance slow-wave activity (SWA) and SWS in patients with Alzheimer's disease (AD) across multiple nights and to explore associations between stimulation, participant characteristics, and individuals' SWS response. A 2-week, open-label at-home intervention study utilizing the DREEM2 headband to record sleep data and administer CLAS during SWS. Fifteen older patients with AD (6 women, mean age: 76.27 [SD = 6.06], mean MOCA-score: 16.07 [SD = 6.94]), living at home with their partner, completed the trial. Patients first wore the device for two baseline nights, followed by 14 nights during which the device was programmed to randomly either deliver acoustic stimulations of 50 ms pink noise (&#xb1; 40 dB) targeted to the slow-wave up-phase during SWS or only mark the wave (sham). On a group level, stimulation significantly enhanced SWA and SWS with consistent SWS enhancement throughout the intervention. However, substantial variability existed in individual responses to stimulation. Individuals received more stimulations on nights with increased SWS compared to baseline than on nights with no change or a decrease. In individuals, having lower baseline SWS correlated with receiving fewer stimulations on average during the intervention. CLAS during SWS is a promising nonpharmacological method to enhance SWA and SWS in AD. However, patients with lower baseline SWS received fewer stimulations during the intervention, possibly resulting in less SWS enhancement. Individual variability in response to stimulation underscores the need to address personalized stimulation parameters in future research and therapy development.
+Benzodiazepine (BZD) dependence poses a significant challenge in mental health, prompting the exploration of treatments like repetitive transcranial magnetic stimulation (rTMS). This research aims to assess the impact of rTMS on alleviating symptoms of BZD dependence. A randomized control trial was employed to study 40 BZD-dependent inpatients. Their symptoms were quantified using the Hamilton Anxiety Rating Scale (HAMA), Montgomery-&#xc5;sberg Depression Rating Scale (MADRS) and Pittsburgh Sleep Quality Index (PSQI). Participants were divided into a conventional treatment group (daily diazepam with gradual tapering) with supportive psychotherapy and another group receiving the same treatment supplemented with rTMS (five weekly sessions for 2&#xa0;weeks). Significant improvements were observed in both groups over baseline in MADRS, HAMA and PSQI scores at the 2nd, 4th, 8th and 12th week assessments (p&#x2009;<&#xa0;0.05). The group receiving rTMS in addition to conventional treatment exhibited superior improvements in all measures at the 8th and 12th weeks. The addition of rTMS to conventional treatment methods for BZD dependence significantly betters the recovery in terms of depression, anxiety and sleep quality, highlighting the role of rTMS as an effective adjunct therapy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jagp.2024.07.002
+- DOI: 10.1111/adb.13425
 
 2. Keywords
-- Alzheimer's disease
-- acoustic stimulation
-- sleep
-- slow wave sleep
-- wearable device
+- anxiety
+- benzodiazepine dependence
+- depression
+- drug dependence treatment
+- physical therapy
+- repetitive transcranial magnetic stimulation
+- sleep quality
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Alzheimer's disease assessment methods and outcomes
-- acoustic stimulation assessment methods and outcomes
-- sleep assessment methods and outcomes
+- anxiety assessment methods and outcomes
+- benzodiazepine dependence assessment methods and outcomes
+- depression assessment methods and outcomes

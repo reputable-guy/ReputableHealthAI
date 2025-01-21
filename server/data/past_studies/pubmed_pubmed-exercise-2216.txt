@@ -1,25 +1,25 @@
-Study Title: Exercise Training in Patients With Hypertrophic Cardiomyopathy Without Left Ventricular Outflow Tract Obstruction: A Randomized Clinical Trial.
+Study Title: The Effect of Pre-Exercise Caffeine and Glucose Ingestion on Endurance Capacity in Hypoxia: A Double-Blind Crossover Trial.
 
 Study Summary:
-Patients with hypertrophic cardiomyopathy without left ventricular outflow tract obstruction commonly experience reduced exercise capacity. Physical training improves exercise capacity in these patients, but whether the underlying effects of exercise are a result of central hemodynamic or peripheral improvement is unclear. This study assessed whether exercise training reduces left ventricular filling pressure measured during exercise in patients with hypertrophic cardiomyopathy without left ventricular outflow tract obstruction. Between March 2019 and June 2022, patients with hypertrophic cardiomyopathy without left ventricular outflow tract obstruction were randomly assigned (1:1) to a 12-week (3 h/wk) supervised, moderate-intensity exercise training program or continued usual activity. The primary outcome was the change in invasively measured pulmonary capillary wedge pressure during mild exercise (25 W) from baseline to week 12. Pressure tracings were analyzed offline by a blinded investigator. Secondary outcomes included changes in peak oxygen consumption, cardiac index, quality of life, echocardiographic indices of diastolic function, and natriuretic peptides. Of 59 patients randomized (mean age, 58.1 [12.2] years; 27% women), 51 (86%) completed all follow-up assessments. At week 12, the change in 25-W pulmonary capillary wedge pressure was -2.8 (6.8) mm&#x2009;Hg in the exercise group, compared with +1.2 (4.9) mm&#x2009;Hg in the usual-activity group (between-group difference, 4.0 mm&#x2009;Hg [95% CI, 0.7-7.3];=0.018). Peak oxygen consumption improved by +1.8 (2.0) mL&#xb7;kg&#x207b;&#xb9;&#xb7;min&#x207b;&#xb9; in the exercise group versus -0.3 (3.1) mL&#xb7;kg&#x207b;&#xb9;&#xb7;min&#x207b;&#xb9; in the usual-activity group (=0.005). Exercise training improved the ventilatory efficiency (V/VCO) slope compared with usual activity (between-group difference, 2.0 [95% CI, 0.6-3.5];=0.006). Peak cardiac index improved by +0.38 (1.38) L&#xb7;min&#x207b;&#xb9;&#xb7;m&#x207b;&#xb2; in exercise versus -0.85 (1.20) L&#xb7;min&#x207b;&#xb9;&#xb7;m&#x207b;&#xb2; in the usual-activity group (=0.002). Change in overall Kansas City Cardiomyopathy Questionnaire score was similar between groups. However, the change in physical limitation scores (+8.4 [12.0] points in exercise versus +0.7 [6.8] points in usual-activity group;=0.034) and quality-of-life scores (+8.7 [18.0] points in exercise versus 0.7 [4.0] points in usual-activity group;=0.01) differed significantly. There were no significant changes in diastolic function assessed by echocardiography or in natriuretic peptides. In patients with hypertrophic cardiomyopathy without left ventricular outflow tract obstruction, a 12-week moderate-intensity exercise training program resulted in reduced left ventricular filling pressures at mild exertion and improved exercise performance. URL: https://www.clinicaltrials.gov; Unique identifier: NCT03537183.
+The impact of caffeine and glucose supplementation in a hypoxic environment on endurance exercise performance remains inconclusive. The current study examined the effect of pre-exercise carbohydrate and caffeine supplementation on endurance exercise performance in an acute hypoxic environment. Eight healthy active young males participated in this double-blind, within-subjects crossover study. Participants ingested the test drink 60 min before exercising at 50% Wmax for 90 min on a cycle ergometer (fatiguing preload); there followed an endurance performance test at 85% Wmax until exhaustion in a hypoxic chamber (~15%O). Participants completed four experimental trials in a randomized order: caffeine (6 mg&#xb7;kg; Caff), glucose (1 g&#xb7;kg; CHO), caffeine (6 mg&#xb7;kg) + glucose (1 g&#xb7;kg; Caff-CHO), and taste- and color-matched placebo with no caffeine or CHO (PLA). Blood samples were collected during fasting, pre-exercise, every 30 min throughout the exercise, and immediately after exhaustion. The caffeine and glucose trials significantly enhanced endurance capacity in hypoxic conditions by Caff, 44% (68.8-31.5%, 95% confidence interval), CHO, 31% (44.7-15.6%), and Caff-CHO, 46% (79.1-13.2%). Plasma-free fatty-acid and glycerol concentrations were higher in Caff and PLA than in CHO and Caff-CHO (< 0.05). The estimated rate of fat oxidation was higher in Caff and PLA than in CHO and Caff-CHO (< 0.05). There were no significant differences in ratings of perceived exertion between trials. In conclusion, the ingestion of caffeine, glucose, or caffeine + glucose one hour before exercising in hypoxic conditions significantly improved 85% Wmax endurance performance after prolonged exercise.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1161/CIRCULATIONAHA.124.070064
+- Publication Date: 2024
+- DOI: 10.3390/nu16213624
 
 2. Keywords
-- cardiomyopathy, hypertrophic
-- exercise
-- pulmonary wedge pressure
-- quality of life
+- endurance performance
+- fat oxidation
+- glycogen
+- hypoxia
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- cardiomyopathy, hypertrophic assessment methods and outcomes
-- exercise assessment methods and outcomes
-- pulmonary wedge pressure assessment methods and outcomes
+- endurance performance assessment methods and outcomes
+- fat oxidation assessment methods and outcomes
+- glycogen assessment methods and outcomes

@@ -1,26 +1,20 @@
-Study Title: Acute dose-response effect of photobiomodulation therapy on 5-km running performance in trained runners: a randomized, double-blind, placebo-controlled, crossover study.
+Study Title: Musical and electrical stimulation as intervention in disorder of consciousness (DOC) patients: A randomised cross-over trial.
 
 Study Summary:
-Photobiomodulation therapy (PBMT) has been advocated as a potential intervention to improve muscle performance and recovery in the health and sports context. However, the short- and long-term effects of PBMT on endurance running performance remain under-researched and controversial. The purpose of this study was to investigate the acute dose-response effect of PBMT with light-emitting diodes (LEDs) on endurance performance and rating of perceived exertion (RPE; 6-20 Borg) during a 5-km running trial in recreational runners. In a crossover design, eighteen young adult runners (28.7&#x2009;&#xb1;&#x2009;7.8 years) were randomized to receive 1 of 4 PBMT conditions (placebo, 300, 900, and 1260 Joules [J]) 60&#xa0;min before the 5-km running trial on four occasions, separated by a 2-wk washout period. The treatments were applied to the quadriceps, hamstrings, and gastrocnemius muscles of both legs using a device containing 200 LEDs (100 red and 100 infrared). The following variables were assessed: endurance performance (i.e. total time, mean velocity, and velocity in the split distances at the initial 200&#xa0;m and every 400&#xa0;m lap) and RPE in the split distances at the initial 200&#xa0;m and every 400&#xa0;m lap. Data normality and homogeneity were tested using Shapiro-Wilk's and Levene's tests, respectively. Differences between treatment conditions were assessed using the analysis of variance tests (one- or two-way ANOVA, depending on the comparisons), complemented by the Bonferroni post hoc test. There were significant time effects for the running velocity and RPE in the split distances (p&#x2009;<&#x2009;0.0001), with no significant treatment-by-time interaction (running velocity, p&#x2009;=&#x2009;0.59; RPE, p&#x2009;=&#x2009;0.95). The mean velocity (p&#x2009;=&#x2009;0.997), total time (p&#x2009;=&#x2009;0.998), and total mean of the RPE (p&#x2009;=&#x2009;0.91) were similar between treatment conditions. In conclusion, acute PBMT with LEDs at doses of 300, 900, and 1260&#xa0;J is not recommended for improving endurance performance and RPE in the 5-km running trial in recreational runners.
+Disorders of consciousness (DOC), i.e., unresponsive wakefulness syndrome (UWS) or vegetative state (VS) and minimally conscious state (MCS), are conditions that can arise from severe brain injury, inducing widespread functional changes. Given the damaging implications resulting from these conditions, there is an increasing need for rehabilitation treatments aimed at enhancing the level of consciousness, the quality of life, and creating new recovery perspectives for the patients. Music may represent an additional rehabilitative tool in contexts where cognition and language are severely compromised, such as among DOC patients. A further type of rehabilitation strategies for DOC patients consists of Non-Invasive Brain Stimulation techniques (NIBS), including transcranial electrical stimulation (tES), affecting neural excitability and promoting brain plasticity. We here propose a novel rehabilitation protocol for DOC patients that combines music-based intervention and NIBS in neurological patients. The main objectives are (i) to assess the residual neuroplastic processes in DOC patients exposed to music, (ii) to determine the putative neural modulation and the clinical outcome in DOC patients of non-pharmacological strategies, i.e., tES(control condition), and music stimulation, and (iii) to evaluate the putative positive impact of this intervention on caregiver's burden and psychological distress. This is a randomised cross-over trial in which a total of 30 participants will be randomly allocated to one of three different combinations of conditions: (i) Music only, (ii) tES only (control condition), (iii) Music + tES. The music intervention will consist of listening to an individually tailored playlist including familiar and self-relevant music together with fixed songs; concerning NIBS, tES will be applied for 20 minutes every day, 5 times a week, for two weeks. After these stimulations two weeks of placebo treatments will follow, with sham stimulation combined with noise for other two weeks. The primary outcomes will be clinical, i.e., based on the differences in the scores obtained on the neuropsychological tests, such as Coma Recovery Scale-Revised, and neurophysiological measures as EEG, collected pre-intervention, post-intervention and post-placebo. This study proposes a novel rehabilitation protocol for patients with DOC including a combined intervention of music and NIBS. Considering the need for rigorous longitudinal randomised controlled trials for people with severe brain injury disease, the results of this study will be highly informative for highlighting and implementing the putative beneficial role of music and NIBS in rehabilitation treatments. ClinicalTrials.gov identifier: NCT05706831, registered on January 30, 2023.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10103-024-04099-8
+- DOI: 10.1371/journal.pone.0304642
 
 2. Keywords
-- Endurance performance
-- Light emitting diodes
-- Low-level light therapy
-- Phototherapy
-- Running
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Endurance performance assessment methods and outcomes
-- Light emitting diodes assessment methods and outcomes
-- Low-level light therapy assessment methods and outcomes
+- General research methodology and outcomes

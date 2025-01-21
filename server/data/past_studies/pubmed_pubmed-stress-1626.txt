@@ -1,27 +1,20 @@
-Study Title: A Change-Point Method to Detect Meaningful Change in Return-to-Sport Progression in Athletes.
+Study Title: Web-based interpretation bias training to reduce anxiety: A sequential, multiple-assignment randomized trial.
 
 Study Summary:
-To explore how the change-point method can be used to analyze complex longitudinal data and detect when meaningful changes (change points) have occurred during rehabilitation. This design is a prospective single-case observational study of a football player in a professional club who sustained an acute lower-limb muscle injury during high-speed running in training. The rehabilitation program was entirely completed in the football club under the supervision of the club's medical team. Four wellness metrics and 5 running-performance metrics were collected before the injury and until the player returned to play. Data were collected over 130&#xa0;days. In the univariate analysis, the change points for stress, sleep, mood, and soreness were located on days 30, 47, 50, and 50, respectively. The change points for total distance, acceleration, maximum speed, deceleration, and high-speed running were located on days 32, 34, 37, 41, and 41, respectively. The multivariate analysis resulted in a single change point for the wellness metrics and running-performance metrics, on days 50 and 67, respectively. The univariate approach provided information regarding the sequence and time point of the change points. The multivariate approach provided a common change point for multiple metrics, information that would benefit clinicians to have a broad overview of the changes in the rehabilitation process. Clinicians may consider the change-point method to integrate and visualize data from multiple sources to evaluate athletes' progression along the return-to-sport continuum.
+Web-based cognitive bias modification for interpretation (CBM-I) can improve interpretation biases and anxiety symptoms but faces high rates of dropout. This study tested the effectiveness of web-based CBM-I relative to an active psychoeducation condition and the addition of low-intensity telecoaching for a subset of CBM-I participants. 1,234 anxious community adults (Mage = 35.09 years, 81.2% female, 72.1% white, 82.6% not Hispanic) were randomly assigned at Stage 1 of a sequential, multiple-assignment randomized trial to complete five weekly sessions of CBM-I or psychoeducation on our team's public research website. After the first session, for Stage 2, an algorithm attempted to classify CBM-I participants as higher (vs. lower) risk for dropping out; those classified as higher risk were then randomly assigned to complete four brief weekly telecoaching check-ins (vs. no coaching). As hypothesized (https://doi.org/j2xr; Daniel, Eberle, & Teachman, 2020), CBM-I significantly outperformed psychoeducation at improving positive and negative interpretation biases (Recognition Ratings, Brief Body Sensations Interpretation Questionnaire) and anxiety symptoms (Overall Anxiety Severity and Impairment Scale, Anxiety Scale from Depression Anxiety Stress Scales-Short Form), with smaller treatment gains remaining significant at 2-month follow-up. Unexpectedly, CBM-I had significantly worse treatment dropout outcomes than psychoeducation, and adding coaching (vs. no coaching) did not significantly improve efficacy or dropout outcomes (notably, many participants chose not to interact with their coach). Web-based CBM-I appears effective, but supplemental coaching may not mitigate the challenge of dropout. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1123/ijspp.2023-0178
+- DOI: 10.1037/ccp0000896
 
 2. Keywords
-- complex systems
-- decision making
-- machine learning
-- nonlinearity
-- return to play
-- time-series analysis
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- complex systems assessment methods and outcomes
-- decision making assessment methods and outcomes
-- machine learning assessment methods and outcomes
+- General research methodology and outcomes

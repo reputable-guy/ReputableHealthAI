@@ -1,29 +1,37 @@
-Study Title: Pathologist workload, burnout, and wellness: connecting the dots.
+Study Title: Cost-Effectiveness of Digital Mental Health Versus Usual Care During Humanitarian Crises in Lebanon: Pragmatic Randomized Trial.
 
 Study Summary:
-No standard tool to measure pathologist workload currently exists. An accurate measure of workload is needed for determining the number of pathologists to be hired, distributing the workload fairly among pathologists, and assessing the overall cost of pathology consults. Initially, simple tools such as counting cases or slides were used to give an estimate of the workload. More recently, multiple workload models, including relative value units (RVUs), the Royal College of Pathologists (RCP) point system, Level 4 Equivalent (L4E), Work2Quality (W2Q), and the University of Washington, Seattle (UW) slide count method, have been developed. There is no "ideal" model that is universally accepted. The main differences among the models come from the weights assigned to different specimen types, differential calculations for organs, and the capture of additional tasks needed for safe and timely patient care. Academic centers tend to see more complex cases that require extensive sampling and additional testing, while community-based and private laboratories deal more with biopsies. Additionally, some systems do not account for teaching, participation in multidisciplinary rounds, quality assurance activities, and medical oversight. A successful workload model needs to be continually updated to reflect the current state of practice.Awareness about physician burnout has gained attention in recent years and has been added to the World Health Organization's International Classification of Diseases (World Health Organization, WHO) as an occupational phenomenon. However, the extent to which this affects pathologists is not well understood. According to the WHO, burnout syndrome is diagnosed by the presence of three components: emotional exhaustion, depersonalization from one's work (cynicism related to one's job), and a low sense of personal achievement or accomplishment. Three drivers of burnout are the demand for productivity, lack of recognition, and electronic health records. Prominent consequences of physician burnout are economic and personal costs to the public and to the providers.Wellness is physical and mental well-being that allows individuals to manage stress effectively and to thrive in both their professional and personal lives. To achieve wellness, it is necessary to understand the root causes of burnout, including over-work and working under stressful conditions. Wellness is more than the absence of stress or burnout, and the responsibility of wellness should be shared by pathologists themselves, their healthcare organization, and governing bodies. Each pathologist needs to take their own path to achieve wellness.
+There is evidence from meta-analyses and systematic reviews that digital mental health interventions for depression, anxiety, and stress-related disorders tend to be cost-effective. However, no such evidence exists for guided digital mental health care in low and middle-income countries (LMICs) facing humanitarian crises, where the needs are highest. Step-by-Step (SbS), a digital mental health intervention for depression, anxiety, and stress-related disorders, proved to be effective for Lebanese citizens and war-affected Syrians residing in Lebanon. Assessing the cost-effectiveness of SbS is crucial because Lebanon's overstretched health care system must prioritize cost-effective treatment options in the face of continuing humanitarian and economic crises. This study aims to assess the cost-effectiveness of SbS in a randomized comparison with enhanced usual care (EUC). The cost-effectiveness analysis was conducted alongside a pragmatic randomized controlled trial in 2 parallel groups comparing SbS (n=614) with EUC (n=635). The primary outcome was cost (in US $ for the reference year 2019) per treatment response of depressive symptoms, defined as >50% reduction of depressive symptoms measured using the Patient Health Questionnaire (PHQ). The secondary outcome was cost per remission of depressive symptoms, defined as a PHQ score <5 at last follow-up (5 months post baseline). The evaluation was conducted first from the health care perspective then from the societal perspective. Taking the health care perspective, SbS had an 80% probability to be regarded as cost-effective compared with EUC when there is a willingness to pay US $220 per additional treatment response or US $840 per additional remission. Taking the wider societal perspective, SbS had a >75% probability to be cost-saving while gaining response or remission. To our knowledge, this study is the first cost-effectiveness analysis based on a large randomized controlled trial (n=1249) of a guided digital mental health intervention in an LMIC. From the principal findings, 2 implications flowed, from the (1) health care perspective and (2) wider societal perspective. First, our findings suggest that SbS is associated with greater health benefits, albeit for higher costs than EUC. It is up to decision makers in health care to decide if they find the balance between additional health gains and additional health care costs acceptable. Second, as seen from the wider societal perspective, there is a substantial likelihood that SbS is not costing more than EUC but is associated with cost-savings as SBS participants become more productive, thus offsetting their health care costs. This finding may suggest to policy makers that it is in the interest of both population health and the wider Lebanese economy to implement SbS on a wide scale. In brief, SbS may offer a scalable, potentially cost-saving response to humanitarian emergencies in an LMIC. ClinicalTrials.gov NCT03720769; https://clinicaltrials.gov/ct2/show/NCT03720769. RR2-10.2196/21585.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/10408363.2023.2285284
+- DOI: 10.2196/55544
 
 2. Keywords
-- L4E
-- RVU
-- W2Q
-- Wellness
-- burnout
-- pathology
-- pathology workload
-- well-being
+- Lebanese
+- Lebanon
+- Syrian
+- anxiety
+- depression
+- digital health
+- digital mental health
+- economic evaluation
+- effectiveness
+- internet-based intervention
+- large randomized controlled trial
+- mental health
+- stress-related disorders
+- symptoms
+- treatment
+- usual care
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- L4E assessment methods and outcomes
-- RVU assessment methods and outcomes
-- W2Q assessment methods and outcomes
+- Lebanese assessment methods and outcomes
+- Lebanon assessment methods and outcomes
+- Syrian assessment methods and outcomes

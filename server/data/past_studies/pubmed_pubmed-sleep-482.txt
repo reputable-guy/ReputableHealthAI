@@ -1,27 +1,26 @@
-Study Title: Effects of sleep deprivation on brain atrophy in individuals with mild cognitive impairment and Alzheimer's disease.
+Study Title: Long-term effects of benzodiazepine discontinuation among older adults: potential improvements on depressive symptoms.
 
 Study Summary:
-Dementia, a prevalent condition in the United States, affecting millions of individuals and their families, underscores the importance of healthy cognitive ageing, which involves maintaining cognitive function and mental wellness as individuals grow older, promoting overall well-being and quality of life. Our original research study investigates the correlation between lifestyle factors and brain atrophy in individuals with mild cognitive impairment (MCI) or Alzheimer's disease (AD), as well as healthy older adults. Conducted over six months in West Texas, the research involved 20 participants aged 62-87. Findings reveal that sleep deprivation in MCI subjects and AD patients correlate with posterior cingulate cortex, hippocampal atrophy and total brain volume, while both groups exhibit age-related hippocampal volume reduction. Notably, fruit/vegetable intake negatively correlates with certain brain regions' volume, emphasizing the importance of diet. Lack of exercise is associated with reduced brain volume and hippocampal atrophy, underlining the cognitive benefits of physical activity. The study underscores lifestyle's significant impact on cognitive health, advocating interventions to promote brain health and disease prevention, particularly in MCI/AD cases. While blood profile data showed no significant results regarding cognitive decline, the study underscores the importance of lifestyle modifications in preserving cognitive function.
+To examine how change in benzodiazepine (BZD) use is linked to changes in depressive symptoms intensity, worry intensity, and sleep quality over 16&#x2009;months. Data come from a larger randomised controlled trial (RCT) named the 'Programme d'Aide du Succ&#xe8;s au SEvrage (PASSE-60+)' study (NCT02281175). Seventy-three participants age 60&#x2009;years and older took part in a 4-month discontinuation programme and were assessed four times over 16&#x2009;months. Change in BZD use was defined as the difference in reported mg/day between two assessments. Control variables were RCT discontinuation group; BZD use at T1; and either depressive symptoms, worry intensity, or sleep quality at T1. Hierarchical multiple regressions were used to analyse data. In the short term, right after the discontinuation programme, sleep quality worsened with lower BZD use. This link was no longer significant at the 3- and 12-month follow-up. In the long term, depressive symptoms lowered with lower BZD use. No change was found in worry intensity in relation to BZD use at all measurement times. Discontinuation may improve depressive symptoms. Our study also questions the long-term effectiveness of BZD use, since long-term discontinuation was not linked with change in worry intensity and sleep quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.arr.2024.102397
+- DOI: 10.1080/13607863.2024.2372473
 
 2. Keywords
-- Alzheimer&#x2019;s disease
-- Brain atrophy
-- Hippocampal atrophy, Sleep deprivation
-- Magnetic resonance imaging
-- Mild cognitive impairment
-- West Texas
+- Older adults
+- benzodiazepine
+- depression
+- discontinuation
+- sleep
 
 3. Key Findings
-- While blood profile data showed no significant results regarding cognitive decline, the study underscores the importance of lifestyle modifications in preserving cognitive function
+- No change was found in worry intensity in relation to BZD use at all measurement times
 
 This study provides insights into:
-- Alzheimer&#x2019;s disease assessment methods and outcomes
-- Brain atrophy assessment methods and outcomes
-- Hippocampal atrophy, Sleep deprivation assessment methods and outcomes
+- Older adults assessment methods and outcomes
+- benzodiazepine assessment methods and outcomes
+- depression assessment methods and outcomes

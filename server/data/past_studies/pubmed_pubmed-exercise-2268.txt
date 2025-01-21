@@ -1,28 +1,26 @@
-Study Title: Exercise-changed gut mycobiome as a potential contributor to metabolic benefits in diabetes prevention: an integrative multi-omics study.
+Study Title: Mechanisms of impact of web-based support and self-monitoring to augment and maintain physical activity levels: a qualitative study exploring participants' interactions with the e-coachER, a web-based support programme for people attending exercise referral schemes.
 
 Study Summary:
-The importance of gut microbes in mediating the benefits of lifestyle intervention is increasingly recognized. However, compared to the bacterial microbiome, the role of intestinal fungi in exercise remains elusive. With our established randomized controlled trial of exercise intervention in Chinese males with prediabetes (&#x2009;=&#x2009;39, ClinicalTrials.gov:NCT03240978), we investigated the dynamics of human gut mycobiome and further interrogated their associations with exercise-elicited outcomes using multi-omics approaches. Clinical variations and biological samples were collected before and after training. Fecal fungal composition was analyzed using the internal transcribed spacer 2 (ITS2) sequencing and integrated with paired shotgun metagenomics, untargeted metabolomics, and Olink proteomics. Twelve&#x2009;weeks of exercise training profoundly promoted fungal ecological diversity and intrakingdom connection. We further identified exercise-responsive genera with potential metabolic benefits, including Verticillium, Sarocladium, and Ceratocystis. Using multi-omics approaches, we elucidated comprehensive associations between changes in gut mycobiome and exercise-shaped metabolic phenotypes, bacterial microbiome, and circulating metabolomics and proteomics profiles. Furthermore, a machine-learning algorithm built using baseline microbial signatures and clinical characteristics predicted exercise responsiveness in improvements of insulin sensitivity, with an area under the receiver operating characteristic (AUROC) of 0.91 (95% CI: 0.85-0.97) in the discovery cohort and of 0.79 (95% CI: 0.74-0.86) in the independent validation cohort (&#x2009;=&#x2009;30). Our findings suggest that intense exercise training significantly remodels the human fungal microbiome composition. Changes in gut fungal composition are associated with the metabolic benefits of exercise, indicating gut mycobiome is a possible molecular transducer of exercise. Moreover, baseline gut fungal signatures predict exercise responsiveness for diabetes prevention, highlighting that targeting the gut mycobiome emerges as a prospective strategy in tailoring personalized training for diabetes prevention.
+e-coachER was a web-based intervention designed to support uptake and maintenance of physical activity for people attending exercise referral schemes (ERS) for weight loss, diabetes, hypertension, osteoarthritis or a history of depression/low mood. The aim of this study was to explore the mechanisms of impact of the e-coachER intervention, specifically how participants interacted with e-coachER and the key mediators of increased physical activity. This was a qualitative one-on-one interview study. Interviews were audio-recorded and transcribed and analysed using thematic analysis. UK primary care ERS. A purposive sample of adult patients randomised to the intervention arm of the e-coachER randomised controlled trial. Twenty-six participants (20 female), who had logged on to e-coachER at least once were recruited, resulting in a total of 38 interviews (mean duration 48 min). Four broad, inter-related themes were generated from the data (1) catalyst for change, (2) goals and aspirations, (3) support and (4) engagement with the e-coachER programme. Most participants who took part in e-coachER were already motivated to improve their health and perceived e-coachER as an additional source of motivation and accountability. Many felt that the opportunity to set goals and self-monitor supported participant's competence and autonomy by enabling them to progress at their own pace. Many participants reported on how e-coachER helped them to foster a sense of relatedness by encouraging them to seek support from others. Finally, e-coachER was regarded as being generally accessible and engaging. Despite this, some found it too simplistic, and others found it hard to maintain engagement over time. The e-coachER intervention seemed to be generally motivating in the early stages of initiating behaviour change, but engagement waned over time. Our findings highlight how important an online package might be in supporting behaviour change while also highlighting the challenges of achieving sustained physical activity changes. ISRCTN15644451.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/19490976.2024.2416928
+- DOI: 10.1136/bmjopen-2023-080472
 
 2. Keywords
-- Gut mycobiome
-- diabetes prevention
-- exercise training
-- fungal microbiome
-- intervention responsiveness
-- multi-omics
-- randomized controlled trial
+- behavior
+- chronic disease
+- internet
+- public health
+- qualitative research
 
 3. Key Findings
-- Twelve&#x2009;weeks of exercise training profoundly promoted fungal ecological diversity and intrakingdom connection
+- Despite this, some found it too simplistic, and others found it hard to maintain engagement over time
 
 This study provides insights into:
-- Gut mycobiome assessment methods and outcomes
-- diabetes prevention assessment methods and outcomes
-- exercise training assessment methods and outcomes
+- behavior assessment methods and outcomes
+- chronic disease assessment methods and outcomes
+- internet assessment methods and outcomes

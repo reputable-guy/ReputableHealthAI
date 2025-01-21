@@ -1,28 +1,27 @@
-Study Title: Venous blood gases in the assessment of respiratory failure in patients undergoing sleep studies: a randomized study.
+Study Title: Impact of 24&#xa0;h shifts on urinary catecholamine in emergency physicians: a cross-over randomized trial.
 
 Study Summary:
-Venous blood gases (VBGs) are not consistently considered suitable surrogates for arterial blood gases (ABGs) in assessing acute respiratory failure due to variable measurement error. The physiological stability of patients with chronic ventilatory failure may lead to improved agreement in this setting. Adults requiring ABGs for sleep or ventilation titration studies had VBGs drawn before or after each ABG, in a randomized order. Veno-arterial correlation and agreement were examined for carbon dioxide tension (PCO), pH, oxygen tension (PO), and oxygen saturation (SO). We analyzed 115 VBG-ABG pairs from 61 patients. Arterial and venous measures were correlated (< .05) for PCO(= .84) and pH (= .72), but not for POor SO. Adjusted mean veno-arterial differences (95% limits of agreement) were +5.0&#x2009;mmHg (-4.4 to +14.4) for PCO; -0.02 (-0.09 to +0.04) for pH; -34.3&#x2009;mmHg (-78.5 to +10.0) for PO; and -23.9% (-61.3 to +13.5) for SO. VBGs obtained from the dorsal hand demonstrated a lower mean PCOveno-arterial difference (< .01). A venous PCOthreshold of &#x2265; 45.8&#x2009;mmHg was > 95% sensitive for arterial hypercapnia, so measurements below this can exclude the diagnosis without an ABG. A venous PCOthreshold of &#x2265; 53.7&#x2009;mmHg was > 95% specific for arterial hypercapnia, so such readings can be assumed diagnostic. The area under the receiver operating characteristic curve of 0.91 indicated high discriminatory capacity. A venous PCO< 45.8&#x2009;mmHg or &#x2265; 53.7&#x2009;mmHg would exclude or diagnose hypercapnia, respectively, in patients referred for sleep studies, but VBGs are poor surrogates for ABGs where precision is important. Registry: Australian New Zealand Clinical Trials Register; Name: A comparison of arterial and blood gas analyses in sleep studies; URL: https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=372717; Identifier: ACTRN12617000562370. Lindstrom SJ, McDonald CF, Howard ME, et&#xa0;al. Venous blood gases in the assessment of respiratory failure in patients undergoing sleep studies: a randomized study.. 2024;20(8):1259-1266.
+24-h shift (24&#xa0;hS) exposed emergency physicians to a higher stress level than 14-h night shift (14&#xa0;hS), with an impact spreading on several days. Catecholamines are supposed to be chronic stress biomarker. However, no study has used catecholamines to assess short-term residual stress or measured them over multiple shifts. A shift-randomized trial was conducted to study urinary catecholamines levels of 17 emergency physicians during a control day (clerical work on return from leave) and two working day (14&#xa0;hS and 24&#xa0;hS). The Wilcoxon matched-pairs test was utilized to compare the mean catecholamine levels. Additionally, a multivariable generalized estimating equations model was employed to further analyze the independent relationships between key factors such as shifts (compared to control day), perceived stress, and age with catecholamine levels. Dopamine levels were lower during 24&#xa0;hS than 14&#xa0;hS and the control day. Norepinephrine levels increased two-fold during both night shifts. Epinephrine levels were higher during the day period of both shifts than on the control day. Despite having a rest day, the dopamine levels did not return to their normal values by the end of the third day after the 24&#xa0;hS. The generalized estimating equations model confirmed relationships of catecholamines with workload and fatigue. To conclude, urinary catecholamine biomarkers are a convenient and non-invasive strong measure of stress during night shifts, both acutely and over time. Dopamine levels are the strongest biomarker with a prolonged alteration of its circadian rhythm. Due to the relation between increased catecholamine levels and both adverse psychological effects and cardiovascular disease, we suggest that emergency physicians restrict their exposure to 24&#xa0;hS to mitigate these risks.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.5664/jcsm.11128
+- DOI: 10.1038/s41598-024-58070-2
 
 2. Keywords
-- arterial blood gases
-- blood gas analysis
-- chronic respiratory failure
-- mechanical ventilation
-- polysomnography
-- ventilation
+- Dopamine
+- Epinephrine
+- Health-care workers
+- Shift work
+- Sleep
+- Stress
 
 3. Key Findings
-- VBGs obtained from the dorsal hand demonstrated a lower mean PCOveno-arterial difference (<
-- 91 indicated high discriminatory capacity
+- Findings extraction requires manual review
 
 This study provides insights into:
-- arterial blood gases assessment methods and outcomes
-- blood gas analysis assessment methods and outcomes
-- chronic respiratory failure assessment methods and outcomes
+- Dopamine assessment methods and outcomes
+- Epinephrine assessment methods and outcomes
+- Health-care workers assessment methods and outcomes

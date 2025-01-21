@@ -1,28 +1,26 @@
-Study Title: Feasibility of an exercise-nutrition-psychology integrated rehabilitation model based on mobile health and virtual reality for cancer patients: a single-center, single-arm, prospective phase II study.
+Study Title: Family-Based Motivational Interviewing and Resource Mobilization to Prevent Obesity: Living Well Together Trial.
 
 Study Summary:
-Explore the feasibility of a mobile health(mHealth) and virtual reality (VR) based nutrition-exercise-psychology integrated rehabilitation model in Chinese cancer patients. We recruited cancer patients in the Oncology department of the Affiliated Changzhou No. 2 People's Hospital of Nanjing Medical University from October 2022 to April 2023. The rehabilitation program was provided by a team of medical oncologists, dietitians, psychotherapists, and oncology specialist nurses. Participants received standard anti-cancer therapy and integrated intervention including hospitalized group-based exercise classes, at-home physical activity prescription, behavior change education, oral nutrition supplements, and psychological counseling. An effective intervention course includes two consecutive hospitalization and two periods of home-based rehabilitation (8 weeks). Access the feasibility as well as changes in aspects of physical, nutritional, and psychological status. At the cutoff date of April 2023, the recruitment rate was 75% (123/165). 11.4%patients were lost to follow-up, and 3.25% withdrew halfway. Respectively, the completion rate of nutrition, exercise, and psychology were 85%,55%, and 63%. Nutrition interventions show the highest compliance. The parameters in nutrition, psychology, muscle mass, and quality of life after the rehabilitation showed significant improvements (P&#x2009;<&#x2009;.05). There was no significant statistical difference (P&#x2009;>&#x2009;.05) in handgrip strength and 6-minute walking speed. It is feasible to conduct mHealth and VR-based nutrition-exercise-psychology integrated rehabilitation model in Chinese cancer patients. A larger multi-center trial is warranted in the future. ChiCTR2200065748 Registered 14 November 2022.
+Test an obesity intervention for families with low incomes. A total of 208 families were included (a parent with a body mass index [BMI] &#x2265; 30 and a child aged 6-12 years). A 12-month randomized controlled trial combining family health coaching (motivational interviewing) and connection to community resources. Comparison group: referrals for basic needs, written educational materials. Questionnaires, accelerometry, and anthropometrics. Intention-to-treat analysis of change in outcomes. Two-sided t test with multiple imputation. Parents were 95% female, 31% Black, and 27% Hispanic. Children had a mean BMI-Z score of 1.15. Primary outcomes did not differ between groups at 12 months. Both groups significantly (P < 0.05) improved on the Family Nutrition and Physical Activity Scale for behaviors related to childhood obesity (mean &#xb1; SE: comparison, 2.8 &#xb1; 1.0; intervention, 2.2 &#xb1; 0.9), increased child sedentary activity (comparison, 32.5 &#xb1; 12.1; intervention, 39.9 &#xb1; 12.4 min/d), and decreased child moderate-vigorous physical activity (comparison, -9.6 &#xb1; 3.3; intervention -7.0 &#xb1; 3.0 min/d). Parents had no change in BMI. We successfully embedded screening and referral to address social needs within an obesity intervention. The coaching intervention did not provide additional benefits. Future research could explore ways to make these interventions more accessible, valuable, and effective for families.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12904-024-01487-3
+- DOI: 10.1016/j.jneb.2024.05.227
 
 2. Keywords
-- Exercise
-- Integrated rehabilitation
-- Mobile health
-- Nutrition
-- Psychology
-- Quality of life
-- Virtual reality
+- childhood obesity
+- clinical trials
+- family
+- motivational interviewing
+- social determinants of health
 
 3. Key Findings
-- The parameters in nutrition, psychology, muscle mass, and quality of life after the rehabilitation showed significant improvements (P&#x2009;<&#x2009;
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Exercise assessment methods and outcomes
-- Integrated rehabilitation assessment methods and outcomes
-- Mobile health assessment methods and outcomes
+- childhood obesity assessment methods and outcomes
+- clinical trials assessment methods and outcomes
+- family assessment methods and outcomes

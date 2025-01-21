@@ -1,37 +1,20 @@
-Study Title: Wellness Influencer Responses to COVID-19 Vaccines on Social Media: A Longitudinal Observational Study.
+Study Title: EFFECTIVENESS OF MANUAL THERAPY, PHYSICAL THERAPY IN CONJUNCTION WITH PATIENT EDUCATION FOR TEMPOROMANDIBULAR DISORDERS: A RANDOMIZED CONTROLLED STUDY.
 
 Study Summary:
-Online wellness influencers (individuals dispensing unregulated health and wellness advice over social media) may have incentives to oppose traditional medical authorities. Their messaging may decrease the overall effectiveness of public health campaigns during global health crises like the COVID-19 pandemic. This study aimed to probe how wellness influencers respond to a public health campaign; we examined how a sample of wellness influencers on Twitter (rebranded as X in 2023) identified before the COVID-19 pandemic on Twitter took stances on the COVID-19 vaccine during 2020-2022. We evaluated the prevalence of provaccination messaging among wellness influencers compared with a control group, as well as the rhetorical strategies these influencers used when supporting or opposing vaccination. Following a longitudinal design, wellness influencer accounts were identified on Twitter from a random sample of tweets posted in 2019. Accounts were identified using a combination of topic modeling and hand-annotation for adherence to influencer criteria. Their tweets from 2020-2022 containing vaccine keywords were collected and labeled as pro- or antivaccination stances using a language model. We compared their stances to a control group of noninfluencer accounts that discussed similar health topics before the pandemic using a generalized linear model with mixed effects and a nearest-neighbors classifier. We also used topic modeling to locate key themes in influencer's pro- and antivaccine messages. Wellness influencers (n=161) had lower rates of provaccination stances in their on-topic tweets (20%, 614/3045) compared with controls (n=242 accounts, with 42% or 3201/7584 provaccination tweets). Using a generalized linear model of tweet stance with mixed effects to model tweets from the same account, the main effect of the group was significant (&#x3b2;=-2.2668, SE=0.2940; P<.001). Covariate analysis suggests an association between antivaccination tweets and accounts representing individuals (&#x3b2;=-0.9591, SE=0.2917; P=.001) but not social network position. A complementary modeling exercise of stance within user accounts showed a significant difference in the proportion of antivaccination users by group (&#x3c7;[N=321]=36.1, P<.001). While nearly half of the influencer accounts were labeled by a K-nearest neighbor classifier as predominantly antivaccination (48%, 58/120), only 16% of control accounts were labeled this way (33/201). Topic modeling of influencer tweets showed that the most prevalent antivaccination themes were protecting children, guarding against government overreach, and the corruption of the pharmaceutical industry. Provaccination messaging tended to encourage followers to take action or emphasize the efficacy of the vaccine. Wellness influencers showed higher rates of vaccine opposition compared with other accounts that participated in health discourse before the pandemic. This pattern supports the theory that unregulated wellness influencers have incentives to resist messaging from establishment authorities such as public health agencies.
+Temporomandibular joint (TMJ) disorders represent a significant health concern affecting a substantial portion of the population worldwide. The management of TMJ disorders often involves a multifaceted approach including physiotherapy techniques, manual exercise interventions, patient education, and medication therapy. The purpose of this research is to examine the "Effectiveness of manual therapy, and physical therapy in conjunction with patient education for temporomandibular disorders". Forty patients with TMDS were randomized into two groups: one for home physical therapy and the other for manual therapy plus physical therapy. Patient education and counseling were done in both groups. the patient had assessments both before and after. The study made a comparison of two groups: one received physical therapy only (n=20) and the other group received a combination of physical and manual therapy (n=20). There were no significant differences between the two groups in terms of age, gender distribution, or the affected side of the face (p>0.05). For TMJ issues, physical therapy patient education is a useful therapeutic method. Moreover, combining these modalities with manual therapy improves results beyond what would be achieved with just these modalities alone.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/56651
+- DOI: 10.55519/JAMC-02-13325
 
 2. Keywords
-- Twitter
-- anti-vaccination
-- global health
-- hand-annotation
-- infodemiology
-- longitudinal design
-- pandemic
-- personal brands
-- public health
-- social media, COVID-19, vaccination
-- tweets
-- vaccine
-- wellness
-- wellness influencers
+- TMDS; Manual therapy; Patient education; Home physical therapy; Maximal mouth opening
 
 3. Key Findings
-- A complementary modeling exercise of stance within user accounts showed a significant difference in the proportion of antivaccination users by group (&#x3c7;[N=321]=36
-- Topic modeling of influencer tweets showed that the most prevalent antivaccination themes were protecting children, guarding against government overreach, and the corruption of the pharmaceutical industry
-- Wellness influencers showed higher rates of vaccine opposition compared with other accounts that participated in health discourse before the pandemic
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Twitter assessment methods and outcomes
-- anti-vaccination assessment methods and outcomes
-- global health assessment methods and outcomes
+- TMDS; Manual therapy; Patient education; Home physical therapy; Maximal mouth opening assessment methods and outcomes

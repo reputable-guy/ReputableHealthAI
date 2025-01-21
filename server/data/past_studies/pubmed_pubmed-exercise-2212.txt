@@ -1,26 +1,26 @@
-Study Title: The Role of Biomarkers in Monitoring Chronic Fatigue Among Male Professional Team Athletes: A Systematic Review.
+Study Title: Effects of high intensity interval training on serum brain-derived neurotrophic factor in individuals with PTSD.
 
 Study Summary:
-This systematic review synthesizes evidence on biomarker responses to physiological loads in professional male team sport athletes, providing insights into induced fatigue states. Structured searches across major databases yielded 28 studies examining various biomarkers in elite team sport players. Studies evaluated muscle damage markers, anabolic/catabolic hormones reflecting metabolic strain, inflammatory markers indicating immune activity and tissue damage, immunological markers tied to infection risk, and oxidative stress markers showing redox imbalances from excessive physiological load. Responses were examined in official matches and training across competitive seasons. The evidence shows that professional team sports induce significant alterations in all studied biomarkers, reflecting measurable physiological strain, muscle damage, oxidative stress, inflammation, and immunosuppression during intensive exercise. These effects tend to be larger and more prolonged after official matches compared to training. Reported recovery time courses range from 24-h to several days post-exercise. Monitoring biomarkers enables quantifying cumulative fatigue and physiological adaptations to training/competition loads, helping to optimize performance while mitigating injury and overtraining. Key biomarkers include creatine kinase, testosterone, cortisol, testosterone/cortisol ratio, salivary immunoglobulin-A, and markers of inflammation and oxidative stress. Further research should extend biomarker monitoring to cover psychological stress and affective states alongside physiological metrics for deeper insight into athlete wellness and readiness.
+Brain-derived neurotrophic factor (BDNF) is a protein important for synaptic plasticity and formation of memory. It is suggested to play an important role in the development of psychiatric disorders like post-traumatic stress disorder (PTSD). Individuals with PTSD usually show decreased BDNF levels in serum. Physical exercise has shown to be effective in increasing serum BDNF levels. As the most beneficial form of exercise to raise serum BDNF levels in individuals with PTSD is yet to be determined, we compared two training protocols and their effects on BDNF release. We expected that a training with higher intensity increases BDNF serum levels more than a low intensity training (LIT). 40 participants (80% female) diagnosed with PTSD were randomized to either high-intensity interval training (HIIT) or a low intensity training group (LIT). They underwent a 12-day training period. We measured serum BDNF levels pre- and post-exercise on first and last intervention day. BDNF was controlled for platelet counts. In the HIIT group there was a significant increase in serum BDNF post-exercise on both days measured, respectively when controlled for platelets. The increase was transient. Both groups did not show an increase in serum BDNF over the course of the 12-day training period. A single session of HIIT raised serum BDNF levels in individuals with PTSD transiently. Neither HIIT nor LIT raised serum BDNF levels over the course of 12 days.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/s24216862
+- DOI: 10.1016/j.jpsychires.2024.11.009
 
 2. Keywords
-- hormonal responses
-- immune markers
-- muscle damage
-- physiological load
-- training adaptation
+- BDNF
+- Exercise
+- HIIT
+- PTSD
+- Platelets
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- hormonal responses assessment methods and outcomes
-- immune markers assessment methods and outcomes
-- muscle damage assessment methods and outcomes
+- BDNF assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- HIIT assessment methods and outcomes

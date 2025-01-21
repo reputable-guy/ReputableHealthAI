@@ -1,26 +1,24 @@
-Study Title: A lifestyle physical activity intervention for women in alcohol treatment: A pilot randomized controlled trial.
+Study Title: Symptoms as a Predictor of the Placebo-Controlled Efficacy of PCI in Stable Coronary Artery Disease.
 
 Study Summary:
-Compared to men, women with alcohol use disorder (AUD) are more likely to drink to manage stress and negative affect. Given women's risk for poor drinking outcomes, it is critical to develop and test interventions that target these affective factors. Physical activity improves negative affect and has emerged as a promising adjunct to AUD treatment and, thus, may be especially valuable for women. Fifty women with AUD (49.9&#xa0;&#xb1;&#xa0;12.0&#xa0;years of age) participated in either a 12-week telephone-delivered lifestyle physical activity plus Fitbit (LPA&#xa0;+&#xa0;Fitbit) or a health education contact (HEC) control intervention following a partial hospital addictions treatment program. The study examined changes in drinking behaviors, mental health outcomes, and physical activity engagement post-intervention using both conventional test statistics and standard effect sizes. Higher rates of continuous abstinence during the 12-week period were observed in the LPA&#xa0;+&#xa0;Fitbit condition (55.6&#xa0;%) than in the HEC condition (33.6&#xa0;%); odds ratio&#xa0;=&#xa0;2.97. However, among women who drank any alcohol during the 12-weeks, slightly higher rates of heavy drinking and drinks/day were observed among women in the LPA&#xa0;+&#xa0;Fitbit condition. Significant differences for improved mental health outcomes (including depression, anxiety, negative affect, positive affect, perceived stress, and behavioral activation) and increased self-reported physical activity were consistently observed among participants in the LPA&#xa0;+&#xa0;Fitbit condition, relative to HEC. The LPA&#xa0;+&#xa0;Fitbit program had a positive impact on alcohol abstinence, mental health, and physical activity in adult women receiving treatment for AUD. Future research should continue to investigate the optimal implementation strategies, duration, and intensity of LPA interventions in the context of a fully-powered RCT.
+Placebo-controlled evidence from ORBITA-2 (Objective Randomised Blinded Investigation with Optimal Medical Therapy of Angioplasty in Stable Angina-2) found that percutaneous coronary intervention (PCI) in stable coronary artery disease with little or no antianginal medication relieved angina, but residual symptoms persisted in many patients. The reason for this was unclear. This ORBITA-2 secondary analysis investigates the relationship between presenting symptoms and disease severity (anatomic, noninvasive, and invasive ischemia) and the ability of symptoms to predict the placebo-controlled efficacy of PCI. Prerandomization symptom severity and nature were assessed using the ORBITA smartphone application and symptom and quality of life questionnaires including the World Health Organization Rose angina questionnaire (Rose). Disease severity was assessed using quantitative coronary angiography, stress echocardiography, fractional flow reserve, and instantaneous wave-free ratio. Bayesian ordinal regression was used. At prerandomization, the median number of daily angina episodes was 0.8 (Q1-Q3: 0.4-1.6), 64% had Rose angina, quantitative coronary angiography diameter stenosis was 61% (Q1-Q3: 49%-74%), stress echocardiography score was 1.0 (Q1-Q3: 0.0-2.7), fractional flow reserve was 0.63 (Q1-Q3: 0.49-0.75), and instantaneous wave-free ratio was 0.78 (Q1-Q3: 0.55-0.87). There was little relationship between symptom severity and nature and disease severity: angina&#xa0;symptom score with quantitative coronary angiography ordinal correlation coefficient: 0.06 (95% credible interval [CrI]: 0.00-0.08); stress echocardiography: 0.09 (95% CrI: 0.02-0.10); fractional flow reserve: 0.04 (95%&#xa0;CrI:&#xa0;-0.03 to 0.07); and instantaneous wave-free ratio: 0.04 (95% CrI:&#xa0;-0.01 to 0.07). However, Rose angina and&#xa0;guideline-based typical angina were strong predictors of placebo-controlled PCI efficacy (angina symptom score: OR: 1.9; 95% CrI: 1.6-2.1; probability of interaction [Pr]&#xa0;=&#xa0;99.9%; and OR: 1.8; 95% CrI: 1.6-2.1; Pr&#xa0;=&#xa0;99.9%, respectively). Although symptom severity and nature were poorly associated with disease severity, the nature of symptoms powerfully predicted the placebo-controlled efficacy of PCI.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.josat.2024.209406
+- DOI: 10.1016/j.jacc.2024.04.016
 
 2. Keywords
-- Alcohol craving
-- Depression
-- Drinking outcomes
-- Physical activity
-- Women
+- percutaneous coronary intervention
+- stable angina
+- stable coronary artery disease
 
 3. Key Findings
-- Findings extraction requires manual review
+- Placebo-controlled evidence from ORBITA-2 (Objective Randomised Blinded Investigation with Optimal Medical Therapy of Angioplasty in Stable Angina-2) found that percutaneous coronary intervention (PCI) in stable coronary artery disease with little or no antianginal medication relieved angina, but residual symptoms persisted in many patients
 
 This study provides insights into:
-- Alcohol craving assessment methods and outcomes
-- Depression assessment methods and outcomes
-- Drinking outcomes assessment methods and outcomes
+- percutaneous coronary intervention assessment methods and outcomes
+- stable angina assessment methods and outcomes
+- stable coronary artery disease assessment methods and outcomes

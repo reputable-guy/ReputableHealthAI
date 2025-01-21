@@ -1,26 +1,27 @@
-Study Title: Progress in Multisensory Synergistic Salt Reduction.
+Study Title: Evaluating the Impact of Probiotic Therapy on the Endocannabinoid System, Pain, Sleep and Fatigue: A Randomized, Double-Blind, Placebo-Controlled Trial in Dancers.
 
 Study Summary:
-Excessive salt intake, primarily from sodium chloride prevalent in modern food processing, poses a significant public health risk associated with hypertension, cardiovascular diseases and stroke. Researchers worldwide are exploring approaches to reduce salt consumption without compromising food flavor. One promising method is to enhance salty taste perception using multisensory synergies, leveraging gustatory, olfactory, auditory, visual, tactile and trigeminal senses to decrease salt intake while preserving food taste. This review provides a comprehensive overview of salt usage in foods, mechanisms of salty taste perception and evaluation methods for saltiness. Various strategies for reducing salt consumption while maintaining food flavor are examined, with existing salt reduction methods' advantages and limitations being critically analyzed. A particular emphasis is placed on exploring the mechanisms and potential of multisensory synergy in salt reduction. Taste interactions, olfactory cues, auditory stimulation, visual appearance and tactile sensations in enhancing saltiness perception are discussed, offering insights into developing nutritious, appealing low-sodium foods. Furthermore, challenges in current research are highlighted, and future directions for effective salt reduction strategies to promote public health are proposed. This review aims to establish a scientific foundation for creating healthier, flavorful low-sodium food options that meet consumer preferences and wellness needs.
+Emerging research links the endocannabinoid system to gut microbiota, influencing nociception, mood, and immunity, yet the molecular interactions remain unclear. This study focused on the effects of probiotics on ECS markers-cannabinoid receptor type 2 (CB2) and fatty acid amide hydrolase (FAAH)-in dancers, a group selected due to their high exposure to physical and psychological stress. In a double-blind, placebo-controlled trial (ClinicalTrials.gov NCT05567653), 15 dancers were assigned to receive either a 12-week regimen ofRosell-52 andRosell-17 or a placebo (PLA:= 10, PRO:= 5). There were no significant changes in CB2 (probiotic: 0.55 to 0.29 ng/mL; placebo: 0.86 to 0.72 ng/mL) or FAAH levels (probiotic: 5.93 to 6.02 ng/mL; placebo: 6.46 to 6.94 ng/mL;> 0.05). A trend toward improved sleep quality was observed in the probiotic group, while the placebo group showed a decline (PRO: from 1.4 to 1.0; PLA: from 0.8 to 1.2;= 0.07841). No other differences were noted in assessed outcomes (pain and fatigue). Probiotic supplementation showed no significant impact on CB2 or FAAH levels, pain, or fatigue but suggested potential benefits for sleep quality, suggesting an area for further research.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/foods13111659
+- DOI: 10.3390/ijms25115611
 
 2. Keywords
-- flavor
-- multisensory interaction
-- nutrition
-- salt reduction
-- salty taste perception
+- endocannabinoid system
+- gut microbiome
+- probiotics
+- sports nutrition
+- supplementation
 
 3. Key Findings
-- This review aims to establish a scientific foundation for creating healthier, flavorful low-sodium food options that meet consumer preferences and wellness needs
+- A trend toward improved sleep quality was observed in the probiotic group, while the placebo group showed a decline (PRO: from 1
+- Probiotic supplementation showed no significant impact on CB2 or FAAH levels, pain, or fatigue but suggested potential benefits for sleep quality, suggesting an area for further research
 
 This study provides insights into:
-- flavor assessment methods and outcomes
-- multisensory interaction assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- endocannabinoid system assessment methods and outcomes
+- gut microbiome assessment methods and outcomes
+- probiotics assessment methods and outcomes

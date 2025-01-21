@@ -1,26 +1,20 @@
-Study Title: Digital Twin-Enabled Personalized Nutrition Improves Metabolic Dysfunction-Associated Fatty Liver Disease in Type 2 Diabetes: Results of a 1-Year Randomized Controlled Study.
+Study Title: Effect of a Homestead Food Production and Food Hygiene Intervention on Biomarkers of Environmental Enteric Dysfunction in Children Younger Than 24 Months in Rural Bangladesh: A Cluster-Randomized Controlled Trial.
 
 Study Summary:
-Postprandial hyperglycemia drives insulin resistance and inflammation, leading to metabolic dysfunction-associated fatty liver disease (MAFLD). Prediction of postprandial glycemic responses by digital twin (DT) technology can fashion a personalized nutrition, activity, and sleep to treat type 2 diabetes (T2D) and MAFLD. This study examines the effects of DT-enabled personalized nutrition, activity, and sleep on glycemic status, surrogate markers of MAFLD, and magnetic resonance imaging-derived proton density fat fraction (MRI-PDFF) in patients with T2D. In an open-label randomized trial (2:1), 319 people with T2D were eligible to intervention (DT) or standard care (SC). DT patients followed personalized meal plans with foods suggested by artificial intelligence with least predicted postprandial glycemic response. The primary end point was to compare change in hemoglobin A1c (HbA1c) and medicine reduction between the DT and SC groups. Key secondary end points included remission to compare liver function test scores and visceral adiposity using MRI. HbA1was significantly better for DT than for SC (-2.9 [1.8] vs&#xa0;-0.3 [1.2]; P&#xa0;<&#xa0;.001) at 1&#xa0;year with 72.7% remission of T2D. In patients with abnormal baseline values, significant improvements were seen in DT vs SC patients from baseline to 1&#xa0;year in nonalcoholic fatty liver disease liver fat score (mean [SD];&#xa0;-2.5 [2.0] vs&#xa0;-0.1 [1.5]; P&#xa0;<&#xa0;.001) and nonalcoholic fatty liver disease fibrosis score (-1.20 [0.9] vs&#xa0;-0.1 [1.0]; P&#xa0;<&#xa0;.001), respectively. Improvements are seen with DT compared with SC in other liver fat, fibrosis score, and %liver fat by MRI-PDFF. At 1&#xa0;year, DT-enabled personalized treatment significantly improved hyperglycemia and surrogate markers of MAFLD and MRI-PDFF.
+Poor sanitation and hygiene practices and inadequate diets can contribute to environmental enteric dysfunction (EED). We evaluated the impact of a combined homestead food production and food hygiene intervention on EED biomarkers in young children in rural Bangladesh. The analysis was conducted within the Food and Agricultural Approaches to Reducing Malnutrition (FAARM) cluster-randomized trial in Sylhet, Bangladesh. The FAARM trial enrolled 2,705 married women and their children younger than 3 years of age in 96 settlements (geographic clusters): 48 intervention and 48 control. The 3-year intervention (2015-2018) included training on gardening, poultry rearing, and improved nutrition practices and was supplemented by an 8-month food hygiene behavior change component, implemented from mid-2017. We analyzed data on 574 children age 0 to 24 months with multilevel linear regression. We assessed fecal myeloperoxidase (MPO), neopterin (NEO), and alpha-1-antitrypsin (AAT) as biomarkers of EED, and serum C-reactive protein (CRP) and alpha-1-acid glycoprotein (AGP) as biomarkers of systemic inflammation, using ELISA. There was no intervention effect on NEO, AAT, CRP, and AGP concentrations, but, surprisingly, MPO levels were increased in children of the intervention group (0.11 log ng/mL; 95% CI, 0.001-0.22). This increase was greater with increasing child age and among intervention households with poultry that were not kept in a shed. A combined homestead food production and food hygiene intervention did not decrease EED in children in our study setting. Small-scale poultry rearing promoted by the intervention might be a risk factor for EED.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.eprac.2023.08.016
+- DOI: 10.4269/ajtmh.23-0153
 
 2. Keywords
-- MAFLD
-- artificial intelligence
-- diabetes remission
-- digital twin
-- type 2 diabetes
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- MAFLD assessment methods and outcomes
-- artificial intelligence assessment methods and outcomes
-- diabetes remission assessment methods and outcomes
+- General research methodology and outcomes

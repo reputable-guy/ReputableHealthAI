@@ -1,28 +1,26 @@
-Study Title: An Artificial Neural Network Model Combined with Dietary Retinol Intake from Different Sources to Predict the Risk of Nonalcoholic Fatty Liver Disease.
+Study Title: Mediterranean Diet, Vitamin D, and Hypercaloric, Hyperproteic Oral Supplements for Treating Sarcopenia in Patients with Heart Failure-A Randomized Clinical Trial.
 
 Study Summary:
-This study aimed to develop an artificial neural network (ANN) model combined with dietary retinol intake from different sources to predict the risk of non-alcoholic fatty liver disease (NAFLD) in American adults. Data from the 2007 to 2014 National Health and Nutrition Examination Survey (NHANES) 2007-2014 were analyzed. Eligible subjects (= 6,613) were randomly divided into a training set (= 4,609) and a validation set (= 2,004) at a ratio of 7:3. The training set was used to identify predictors of NAFLD risk using logistic regression analysis. An ANN was established to predict the NAFLD risk using a training set. Receiver operating characteristic (ROC) curve analysis was performed to evaluate the accuracy of the model using the training and validation sets. Our study found that the odds ratios (s) and 95% confidence intervals (s) of NAFLD for the highest quartile of plant-derived dietary retinol intake (i.e., provitamin A carotenoids, such as-carotene) (= 0.75, 95%: 0.57 to 0.99) were inversely associated with NAFLD risk, compared to the lowest quartile of intake, after adjusting for potential confounders. The areas under the ROC curves were 0.874 and 0.883 for the training and validation sets, respectively. NAFLD occurs when its incidence probability is greater than 0.388. The ANN model combined with plant-derived dietary retinol intake showed a significant effect on NAFLD. This could be applied to predict NAFLD risk in the American adult population when government departments formulate future health plans.
+Malnutrition and sarcopenia frequently affect patients with heart failure (HF), in which clinical outcomes and survival is decreased. Thus, appropriate nutritional screening and early nutrition support are highly recommended. Currently, nutritional support is not a standard of care in patients with HF, and the use of commercially available oral supplements (OSs) could provide an additional benefit to medical treatment in these patients. To compare the effect of the Mediterranean diet in combination with hypercaloric, hyperproteic OS in patients with HF. An open label, controlled clinical study in which patients were randomly assigned to receive a Mediterranean diet (control group) vs. hypercaloric, hyperproteic OS (intervention group) for twenty-four weeks. Thirty-eight patients were included; epidemiological, clinical, anthropometric, ultrasound (muscle echography of the rectus femoris muscle of the quadriceps and abdominal adipose tissue), and biochemical evaluations were performed. All patients received additional supplementation with vitamin D. Baseline malnutrition according to the GLIM criteria was observed in 30% of patients, while 65.8% presented with sarcopenia. Body cell mass, lean mass, and body mass increased in the intervention group (absolute increase of 0.5,= 0.03, 1.2 kg,= 0.03, and 0.1 kg,= 0.03 respectively). In contrast, fat mass increased in the control group (4.5 kg,= 0.05). According to the RF ultrasound, adipose tissue, muscle area, and circumference tended to decrease in the intervention group; it is probable that 24 weeks was too short a period of time for evaluating changes in muscle area or circumference, as previously observed in another group of patients. In contrast, functionality, determined by the up-and-go test, significantly improved in all patients (difference 12.6 s,< 0.001), including the control (10 s improvement,< 0.001) and the intervention group (improvement of 8.9 s,< 0.001). Self-reported QoL significantly increased in all groups, from 68.7 &#xb1; 22.2 at baseline to 77.7 &#xb1; 18.7 (= 0.01). When heart functionality was evaluated, LVEF increased in the whole cohort (38.7 &#xb1; 16.6 vs. 42.2 &#xb1; 8.9,< 0.01); this increase was higher in the intervention group (34.2 &#xb1; 16.1 at baseline vs. 45.0% &#xb1; 17.0 after 24 weeks,< 0.05). Serum values of NT-proBNP also significantly decreased in the whole cohort (< 0.01), especially in the intervention group (= 0.02). After adjusting by age and sex, nutritional support, baseline LVEF, NT-proBNP, and body composition parameters of functionality tests were not associated with mortality or new hospital admissions in this cohort. Nutritional support with hypercaloric, hyperproteic OS, Mediterranean diet, and vitamin D supplementation were associated with decreased NT-proBNP and improvements in LVEF, functionality, and quality of life in patients with HF, despite a significant decrease in hospital admissions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3967/bes2023.120
+- DOI: 10.3390/nu16010110
 
 2. Keywords
-- ANN
-- NAFLD
-- NHANES
-- Plant-derived dietary retinol intake
-- Prediction model
+- LVEF
+- NT-proBNP
+- heart failure
+- oral supplements
+- sarcopenia
 
 3. Key Findings
-- Our study found that the odds ratios (s) and 95% confidence intervals (s) of NAFLD for the highest quartile of plant-derived dietary retinol intake (i
-- 99) were inversely associated with NAFLD risk, compared to the lowest quartile of intake, after adjusting for potential confounders
-- The ANN model combined with plant-derived dietary retinol intake showed a significant effect on NAFLD
+- Findings extraction requires manual review
 
 This study provides insights into:
-- ANN assessment methods and outcomes
-- NAFLD assessment methods and outcomes
-- NHANES assessment methods and outcomes
+- LVEF assessment methods and outcomes
+- NT-proBNP assessment methods and outcomes
+- heart failure assessment methods and outcomes

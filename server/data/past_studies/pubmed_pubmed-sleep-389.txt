@@ -1,32 +1,20 @@
-Study Title: Mobile App Promoting Resilience in Stress Management for Adolescents and Young Adults With Cancer: Protocol for a Pilot Randomized Controlled Trial.
+Study Title: Palmitoylethanolamide Does Not Affect Recovery from Exercise-Induced Muscle Damage in Healthy Males.
 
 Study Summary:
-Adolescents and young adults (AYAs) with cancer are at risk of poor psychosocial outcomes. AYAs grew up with the internet and digital technology, and mobile Health (mHealth) psychosocial interventions have the potential to overcome care access barriers. This pilot randomized controlled trial (RCT) aimed to establish the feasibility, acceptability, and preliminary efficacy of a fully automated mobile app version of the Promoting Resilience in Stress Management intervention (mPRISM). Promoting Resilience in Stress Management is an evidence-based intervention developed in collaboration with AYAs, based on stress and coping theory, resilience theory, and evidence-based coping strategies. We hypothesized that mPRISM would be feasible, acceptable, and appropriate. This is a parallel, 2-arm, single-site pilot RCT with a waitlist control design. The study will recruit 80 AYAs with cancer from a clinic. Eligible AYAs are aged 12 to 25 years, within 12 months of a new cancer diagnosis, receiving chemotherapy or radiation therapy, speak, read, or write in English, and are cognitively able to participate in study procedures. Recruitment by clinical research coordinators will occur remotely by phone, video, or text. Participants will be randomized to psychosocial usual care (UC) alone or UC plus mPRISM for an 8-week intervention period, and will remain unblinded to study condition. Enrolled participants will complete surveys at baseline before randomization, 8 weeks, and 3-month follow-up. Using a waitlist design, the UC arm will receive mPRISM upon completion of 3-month follow-up surveys. Those in the UC arm will complete 2 additional measurement points at immediate posttreatment and 3 months later. The primary outcomes of interest are feasibility, defined as &#x2265;60% enrollment and &#x2265;70% retention (ie, percentage of participants who completed the study), and "feasibility, acceptability, and appropriateness" as defined by cut-off scores &#x2265;4/5 on 3 brief validated implementation outcome measures (feasibility of implementation measure, acceptability of intervention measure [AIM], intervention appropriateness measure [IAM]). We will apply top-box scoring for the implementation measures. Exploratory outcomes of interest include patient-reported health-related quality of life, resilience, distress, anxiety, depression, pain, and sleep. We will conduct an intention-to-treat analysis to compare the outcomes of the mPRISM arm versus the control arm with covariate-adjusted regression models. We will summarize individual digital usage metrics using descriptive statistics. Since September 2023, we have enrolled 20 participants and recruitment is ongoing. Although our previous work suggests AYAs with cancer are interested in mHealth psychosocial interventions, such interventions have not yet been sufficiently evaluated or implemented among AYA oncology patients. mPRISM may serve as a potential mHealth intervention to fill this gap. In this study, we will test the feasibility, acceptability, and preliminary efficacy of mPRISM. This work will inform future larger-scale RCTs powered for efficacy outcomes. ClinicalTrials.gov NCT05842902; https://clinicaltrials.gov/study/NCT05842902. DERR1-10.2196/57950.
+Strenuous eccentric exercise (EE) induces microstructural muscle damage, which decreases muscle performance. Palmitoylethanolamide (PEA) exerts analgesic and anti-inflammatory effects in clinical pain conditions and preclinical models of experimentally induced inflammation. This might hold clues for improved recovery from EE. Therefore, the current study evaluates the effect of PEA supplementation on functional and molecular responses to a single EE bout. Eleven healthy male participants were included in a double-blind crossover study in which they received PEA (350 mg Levagen+) or placebo (maltodextrin) supplements, in a randomized order. In each experimental condition, participants performed an acute bout of EE (24 &#xd7; 10 eccentric contractions of the knee extensors on an isokinetic dynamometer). At baseline, 24 (D1), 48 (D2), 72 (D3), and 120 h (D5) following EE, maximal voluntary contraction and jump height were measured. Blood samples were collected at baseline and on D1-D5, and muscle biopsies were collected at baseline and on D2. Perceived muscle soreness, sleep quality, and food intake were recorded daily. Muscle strength and jump height decreased following EE (up to ~40% and ~17%, respectively; Ptime < 0.05) in both conditions. This drop was accompanied by an increase in plasma creatine kinase and perceived muscle soreness ( Ptime < 0.05). Furthermore, EE, but not PEA, increased the expression of the myogenic marker Pax7 and of the catabolic markers p-FoxO1-3a, p62, and LC3BII/I ( Ptime < 0.05). PEA supplementation does not improve muscle soreness, muscle strength, and jump performance following a single EE bout. In addition, PEA supplementation had no effect on local or systemic markers of muscle damage, catabolism, or regeneration.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/57950
+- DOI: 10.1249/MSS.0000000000003517
 
 2. Keywords
-- adolescents
-- cancer
-- coping
-- health-related quality of life
-- mHealth
-- mobile phone
-- psychosocial intervention
-- randomized controlled trial
-- resilience
-- stress management
-- young adult
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- adolescents assessment methods and outcomes
-- cancer assessment methods and outcomes
-- coping assessment methods and outcomes
+- General research methodology and outcomes

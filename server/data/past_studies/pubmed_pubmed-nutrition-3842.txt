@@ -1,26 +1,20 @@
-Study Title: The impact of a pilot telehealth coaching intervention to improve caregiver stress and well-being and to increase dietary protein intake of caregivers and their family members with dementia - Interrupted by COVID-19.
+Study Title: Population-Wide Screening for Chronic Kidney Disease : A Cost-Effectiveness Analysis.
 
 Study Summary:
-The prevalence of dementia is growing as the population and longevity increase. Caregivers of adults with dementia report stress and fatigue and often neglect their health. They also indicate the need for information to address health-related issues, including nutritional problems, of their family members with dementia (FMWD). This study examined the impact of coaching to improve family caregiver (FCG) stress and well-being and to increase the protein intake of both FCGs and their FMWD. All participants received nutrition education including a protein prescription (1.2&#xa0;g/kg body weight/day) and FCGs received stress-reduction materials. Coached-group randomized participants also received weekly diet coaching and stress-reduction coaching. At baseline and 8&#xa0;weeks, anthropometrics, a mini-nutritional assessment questionnaire, and diet (protein intake) were assessed in FCGs and FMWD; well-being, fatigue and strain were assessed in FCGs. Repeated two words measures analysis of variance and Fisher's exact tests examined within group and intervention effects. Twenty-five FCGs (13 coached group, 12 not-coached group) and 23 FMWD (12 coached group, 11 not-coached group) completed the study. No significant differences were found between coached and not-coached FCGs and FMWD at baseline. After 8- weeks, FCGs' protein intake significantly increased from 1.00 &#xb1; 0.17 to 1.35 &#xb1; 0.23&#xa0;g/kg/body weight in the coached group and from 0.91 &#xb1; 0.19 to 1.01 &#xb1; 0.33&#xa0;g/kg/body weight in the not-coached group; there was also an intervention effect (p=.01, &#x3b7;2 = .24). The percentage of FCGs with baseline protein intake less than prescription guidelines and with an end-of-study protein intake meeting/exceeding the prescription significantly differed, with 60% of coached FCGs versus 10% of not coached FCGs meeting the prescription. No intervention effects were shown for protein intake in FMWD or for well-being, fatigue or strain among FCGs. Diet coaching with nutrition education successfully assisted FCGs with improving their protein intake versus nutrition education alone.
+Sodium-glucose cotransporter-2 (SGLT2) inhibitors have the potential to alter the natural history of chronic kidney disease (CKD), and they should be included in cost-effectiveness analyses of screening for CKD. To determine the cost-effectiveness of adding population-wide screening for CKD. Markov cohort model. NHANES (National Health and Nutrition Examination Survey), U.S. Centers for Medicare & Medicaid Services data, cohort studies, and randomized clinical trials, including the DAPA-CKD (Dapagliflozin and Prevention of Adverse Outcomes in Chronic Kidney Disease) trial. Adults. Lifetime. Health care sector. Screening for albuminuria with and without adding SGLT2 inhibitors to the current standard of care for CKD. Costs, quality-adjusted life-years (QALYs), and incremental cost-effectiveness ratios (ICERs), all discounted at 3% annually. One-time CKD screening at age 55 years had an ICER of $86&#x2009;300 per QALY gained by increasing costs from $249&#x2009;800 to $259&#x2009;000 and increasing QALYs from 12.61 to 12.72; this was accompanied by a decrease in the incidence of kidney failure requiring dialysis or kidney transplant of 0.29 percentage points and an increase in life expectancy from 17.29 to 17.45 years. Other options were also cost-effective. During ages 35 to 75 years, screening once prevented dialysis or transplant in 398&#x2009;000 people and screening every 10 years until age 75 years cost less than $100&#x2009;000 per QALY gained. When SGLT2 inhibitors were 30% less effective, screening every 10 years during ages 35 to 75 years cost between $145&#x2009;400 and $182&#x2009;600 per QALY gained, and price reductions would be required for screening to be cost-effective. The efficacy of SGLT2 inhibitors was derived from a single randomized controlled trial. Screening adults for albuminuria to identify CKD could be cost-effective in the United States. Agency for Healthcare Research and Quality, Veterans Affairs Office of Academic Affiliations, and National Institute of Diabetes and Digestive and Kidney Diseases.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1177/14713012231177491
+- DOI: 10.7326/M22-3228
 
 2. Keywords
-- adults with dementia
-- caregiver burden
-- coaching
-- diet
-- well-being
+
 
 3. Key Findings
-- No significant differences were found between coached and not-coached FCGs and FMWD at baseline
+- Findings extraction requires manual review
 
 This study provides insights into:
-- adults with dementia assessment methods and outcomes
-- caregiver burden assessment methods and outcomes
-- coaching assessment methods and outcomes
+- General research methodology and outcomes

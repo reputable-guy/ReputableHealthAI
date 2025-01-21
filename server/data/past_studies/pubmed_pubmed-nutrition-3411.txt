@@ -1,25 +1,20 @@
-Study Title: Comparison of Growth Outcomes Between Human Milk-Fed Preterm Infants on Standard Versus Adjustable Fortification Protocols.
+Study Title: Care groups in an integrated nutrition education intervention improved infant growth among South Sudanese refugees in Uganda's West Nile post-emergency settlements: A cluster randomized trial.
 
 Study Summary:
-Human milk (HM) is usually fortified using standard fortification (STD) to improve nutrition of preterm infants. However, the protein component may still be insufficient. HM could be further fortified with additional protein to improve STD.The primary objective was to compare changes in body weight (g/day, g/kg/day), length, and head circumference (mm/day) between preterm neonates fed HM with STD and those fed HM with adjustable fortification (ADJ).This study was a prospective, single-blinded, randomized controlled study in preterm infants of gestational age <32 weeks and weighing &#x2264;1,800 g, admitted to the neonatal unit of the Queen Sirikit National Institute of Child Health. Once the infants received full HM feed with STD at 24 kcal/oz, they were randomized to either continue with STD or with ADJ group by adding additional protein to the STD and making further protein adjustments based on the blood urea nitrogen levels.Thirty preterm infants completed the study and were randomized into two groups of 15 each. The baseline characteristics, total fluid, and energy intake were similar. Compared with the STD group, infants in the ADJ group exhibited significantly greater weight gain (36.46&#x2009;&#xb1;&#x2009;6.09 vs. 25.78&#x2009;&#xb1;&#x2009;8.81 g/day;= 0.001) and greater length gain (1.93&#x2009;&#xb1;&#x2009;0.57 vs. 1.12&#x2009;&#xb1;&#x2009;0.64 mm/day;= 0.001). Protein intake significantly correlated with both weight (= 0.632,< 0.001) and length gain (= 0.577,= 0.001); however, no correlation was found between energy intake, volume intake, and growth outcomes.Preterm infants fed with ADJ had significantly higher weight and length gains than those fed with STD, suggesting that additional protein intake may play an important role in growth.
+This study examined the effects of a peer-led integrated nutrition education intervention with maternal social support using Care Groups on infant growth among South Sudanese refugees in Uganda. A community-based cluster-randomized trial (RCT) was conducted among 390 pregnant women (third trimester). Two intervention study arms were Mothers-only(n = 131) and Parents-combined (n = 142) with a Control (n = 117). WHO infant growth standards defined length-for-age z-scores (LAZ) for stunting, weight-for-age z-scores (WAZ) for underweight and weight-for-length z-scores (WLZ) for wasting. The Medical Outcomes Study (MOS) social support index was a proxy measure for social support. A split-plot ANOVA tested the interaction effects of social support, intervention, and time on infant growth after adjusting for covariates. Further, pairwise comparisons explained mean differences in infant growth among the study arms. The mean infant birth weight was 3.1 &#xb1; 0.5 kg. Over the study period, infant stunting was most prevalent in the Control (&#x2265; 14%) compared to Mothers-only (< 9.5%) and Parents-combined (< 7.4%) arms. There were significant interaction effects of the Care Group intervention and social support by time on infant mean LAZ (F (6, 560) = 28.91, p < 0.001), WAZ (F (5.8, 539.4) = 12.70, p = < 0.001) and WLZ (F (5.3, 492.5) = 3.38, p = 0.004). Simple main effects by the end of the study showed that the intervention improved infant mean LAZ (Mothers-only vs. Control (mean difference, MD) = 2.05, p < 0.001; Parents-combined vs. Control, MD = 2.00, p < 0.001) and WAZ (Mothers-only vs. Control, MD = 1.27, p < 0.001; Parents-combined vs. Control, MD = 1.28, p < 0.001). Maternal social support with an integrated nutrition education intervention significantly improved infant stunting and underweight. Nutrition-sensitive approaches focused on reducing child undernutrition among post-emergency refugees may benefit from using Care Groups in programs. Clinicaltrials.gov, NCT05584969.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1089/bfm.2024.0001
+- DOI: 10.1371/journal.pone.0300334
 
 2. Keywords
-- growth
-- human milk
-- human milk fortifier
-- preterm
+
 
 3. Key Findings
-- 001); however, no correlation was found between energy intake, volume intake, and growth outcomes
+- Simple main effects by the end of the study showed that the intervention improved infant mean LAZ (Mothers-only vs
 
 This study provides insights into:
-- growth assessment methods and outcomes
-- human milk assessment methods and outcomes
-- human milk fortifier assessment methods and outcomes
+- General research methodology and outcomes

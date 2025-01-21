@@ -1,25 +1,27 @@
-Study Title: The effect of mindfulness-based cognitive therapy on the Clinical efficacy and psychological state in patients with functional dyspepsia.
+Study Title: Evaluating the Impact of Probiotic Therapy on the Endocannabinoid System, Pain, Sleep and Fatigue: A Randomized, Double-Blind, Placebo-Controlled Trial in Dancers.
 
 Study Summary:
-To observe the clinical therapeutic effect and mental state of mindfulness-based cognitive therapy (MBCT) in patients with functional dyspepsia (FD). In this study, 80 patients suffering from FD in an outpatient clinic were enrolled from January to December 2020. Patients were randomly allocated into the control group (conventional treatment) and observation group (MBCT treatment). Patients in the control group were prescribed rabeprazole and mosapiride, and patients in the observation group were given MBCT therapy in addition to the above drugs. After treatment for 8&#x2009;weeks, the changes in gastrointestinal symptom scores, anxiety, depression, mindfulness and sleep quality and gastric emptying testing were compared between these two groups. The observation group showed strikingly lower gastrointestinal symptom scores, SAS, SDS, PSQI, and SCL-90 scale scores, and higher FFMQ scale scores than the control group (&#x2009;<&#x2009;0.05). There was no conspicuous change in gastric emptying monitoring (&#x2009;>&#x2009;0.05). MBCT therapy can improve patients' gastrointestinal symptoms, attenuate their anxiety and depression levels, and ameliorate their sleep quality.
+Emerging research links the endocannabinoid system to gut microbiota, influencing nociception, mood, and immunity, yet the molecular interactions remain unclear. This study focused on the effects of probiotics on ECS markers-cannabinoid receptor type 2 (CB2) and fatty acid amide hydrolase (FAAH)-in dancers, a group selected due to their high exposure to physical and psychological stress. In a double-blind, placebo-controlled trial (ClinicalTrials.gov NCT05567653), 15 dancers were assigned to receive either a 12-week regimen ofRosell-52 andRosell-17 or a placebo (PLA:= 10, PRO:= 5). There were no significant changes in CB2 (probiotic: 0.55 to 0.29 ng/mL; placebo: 0.86 to 0.72 ng/mL) or FAAH levels (probiotic: 5.93 to 6.02 ng/mL; placebo: 6.46 to 6.94 ng/mL;> 0.05). A trend toward improved sleep quality was observed in the probiotic group, while the placebo group showed a decline (PRO: from 1.4 to 1.0; PLA: from 0.8 to 1.2;= 0.07841). No other differences were noted in assessed outcomes (pain and fatigue). Probiotic supplementation showed no significant impact on CB2 or FAAH levels, pain, or fatigue but suggested potential benefits for sleep quality, suggesting an area for further research.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/00365521.2024.2368250
+- DOI: 10.3390/ijms25115611
 
 2. Keywords
-- Functional dyspepsia
-- anxiety and depression
-- gastrointestinal motility
-- mindfulness-based cognitive therapy
+- endocannabinoid system
+- gut microbiome
+- probiotics
+- sports nutrition
+- supplementation
 
 3. Key Findings
-- The observation group showed strikingly lower gastrointestinal symptom scores, SAS, SDS, PSQI, and SCL-90 scale scores, and higher FFMQ scale scores than the control group (&#x2009;<&#x2009;0
+- A trend toward improved sleep quality was observed in the probiotic group, while the placebo group showed a decline (PRO: from 1
+- Probiotic supplementation showed no significant impact on CB2 or FAAH levels, pain, or fatigue but suggested potential benefits for sleep quality, suggesting an area for further research
 
 This study provides insights into:
-- Functional dyspepsia assessment methods and outcomes
-- anxiety and depression assessment methods and outcomes
-- gastrointestinal motility assessment methods and outcomes
+- endocannabinoid system assessment methods and outcomes
+- gut microbiome assessment methods and outcomes
+- probiotics assessment methods and outcomes

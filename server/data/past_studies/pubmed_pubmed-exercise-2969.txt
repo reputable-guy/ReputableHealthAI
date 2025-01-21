@@ -1,30 +1,26 @@
-Study Title: Dietary content and combined training, but not daily physical activity, are associated with 6-month bone mineral changes in adolescents with obesity: A Secondary analysis of the PAC-MAnO trial.
+Study Title: Effects of Milk Fat Globule Membrane Supplementation Following Exercise Training on Physical Performance in Healthy Young Adults: A Randomized Double-Blind, Placebo-Controlled Pilot Trial.
 
 Study Summary:
-The present study aimed to explore the influence of diet and physical activity (PA) changes on bone mineral content (BMC) and density (BMD) alterations in adolescents with obesity undergoing a weight loss program. Six-month longitudinal data from 71 adolescents (aged 15.1 [&#xb1;&#x2009;1.6] years; 57.7% girls) with a BMI z-score of 3.03 (&#xb1;&#x2009;0.78), previously recruited for the PAC-MAnO trial, were analyzed using Generalized Estimation Equations for over time changes and linear regressions with BMC, BMD and BMD z-score as dependent variables, adjusting for confounders (including type of exercise- aerobic vs. combined). Adjusting for confounders, changes in carbohydrate (CH) and protein content showed to positively and negatively predict BMD z-score variance, respectively (&#x3b2;&#x2009;=&#x2009;0.44, 95%CI: 0.01, 0.04, p&#x2009;<&#x2009;.001); &#x3b2;&#x2009;=&#x2009;-0.57, 95%CI: -0.06, -0.03, p&#x2009;<&#x2009;.001), yet no associations were found between PA and bone-related parameters. Combined exercise showed better results on BMC compared to aerobic exercise (&#x3b2;&#x2009;=&#x2009;0.09, 95%CI: 0.05 to 0.13, p&#x2009;<&#x2009;.001). Increased CH content, instead of protein, may be associated with BMD improvements in adolescents with obesity. Type of exercise may moderate the impact of PA on bone health. Clinicaltrials.gov NCT02941770. What is Known &#x2022; Adolescents with obesity may be at a higher risk of osteopenia/osteoporosis &#x2022; Obesity and inadequate diet and physical activity (PA) may have an adverse effect on bone metabolism What is New &#x2022; Improvements in adiposity and muscle mass and increased diet carbohydrate content are associated with bone mineral density (BMD) improvements &#x2022; Type of exercise (i.e., combined training vs. aerobic) may moderate the impact of PA on BMD, and calcium intake may mediate this impact.
+The purpose of this study was to examine whether 4 wk of daily ingestion of milk fat globule membrane (MFGM) combined with exercise training improves physical performance-muscle strength, agility and muscle power-in healthy young adults. The study was designed as a randomized, double-blind, and placebo-controlled trial. Twenty healthy young adults received either an MFGM powder containing 1.6 g of fat and 160 mg of sphingomyelin or an isocaloric placebo powder daily throughout 4 wk of power or agility training. Physical performance tests and body composition measurements were conducted before and after the 4-wk intervention. Ingestion of MFGM did not affect isometric or isokinetic muscle strength, but it was associated with a greater increase in vertical jump peak power compared with placebo. There were no significant changes in body weight or lean body mass during the intervention period in either group, and no significant differences between groups. We conclude that daily MFGM supplementation combined with exercise training has the potential to improve physical performance in young adults; however, further studies with larger sample sizes should be conducted to obtain more evidence supporting achievement of improved physical performance through MFGM supplementation.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00431-024-05659-4
+- DOI: 10.3177/jnsv.70.273
 
 2. Keywords
-- Adolescents
-- Bone health
-- Diet
-- Exercise
-- Obesity
-- Physical activity
+- agility
+- muscle power
+- muscle strength
+- sphingomyelin
+- surface electromyography
 
 3. Key Findings
-- 78), previously recruited for the PAC-MAnO trial, were analyzed using Generalized Estimation Equations for over time changes and linear regressions with BMC, BMD and BMD z-score as dependent variables, adjusting for confounders (including type of exercise- aerobic vs
-- Adjusting for confounders, changes in carbohydrate (CH) and protein content showed to positively and negatively predict BMD z-score variance, respectively (&#x3b2;&#x2009;=&#x2009;0
-- 001), yet no associations were found between PA and bone-related parameters
-- Combined exercise showed better results on BMC compared to aerobic exercise (&#x3b2;&#x2009;=&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Adolescents assessment methods and outcomes
-- Bone health assessment methods and outcomes
-- Diet assessment methods and outcomes
+- agility assessment methods and outcomes
+- muscle power assessment methods and outcomes
+- muscle strength assessment methods and outcomes

@@ -1,20 +1,29 @@
-Study Title: Biological and pathological mechanisms leading to the birth of a small vulnerable newborn.
+Study Title: Evaluating the relative impact of multiple healthy food choice interventions on choice process variables and choices.
 
 Study Summary:
-The pathway to a thriving newborn begins before conception and continues in utero with a healthy placenta and the right balance of nutrients and growth factors that are timed and sequenced alongside hormonal suppression of labour until a mature infant is ready for birth. Optimal nutrition that includes adequate quantities of quality protein, energy, essential fats, and an extensive range of vitamins and minerals not only supports fetal growth but could also prevent preterm birth by supporting the immune system and alleviating oxidative stress. Infection, illness, undernourishment, and harmful environmental exposures can alter this trajectory leading to an infant who is too small due to either poor growth during pregnancy or preterm birth. Systemic inflammation suppresses fetal growth by interfering with growth hormone and its regulation of insulin-like growth factors. Evidence supports the prevention and treatment of several maternal infections during pregnancy to improve newborn health. However, microbes, such as Ureaplasma species, which are able to ascend the cervix and cause membrane rupture and chorioamnionitis, require new strategies for detection and treatment. The surge in fetal cortisol late in pregnancy is essential to parturition at the right time, but acute or chronically high maternal cortisol levels caused by psychological or physical stress could also trigger labour onset prematurely. In every pathway to the small vulnerable newborn, there is a possibility to modify the course of pregnancy by supporting improved nutrition, protection against infection, holistic maternal wellness, and healthy environments.
+Fiscal tools-taxes and/or subsidies-are increasingly used to address diet-related health problems. However, some studies have found that these tools are markedly more effective if attention is drawn to the tax or subsidy, suggesting that the price change alone may go unnoticed in the complex food environments that consumers face. Interventions that prompt individuals to consider health during choice show promise for promoting healthy food choices in both simple laboratory settings and complex, real-world markets. In this pre-registered study, I examine the impact of dietary fiber health prompts and/or dietary fiber subsidies on the per-serving fiber content of foods chosen, the documented set of products considered, and (self-reported) nutrition information use by participants in an online supermarket setting. Participants were randomized to one of four conditions: 1) control, 2) subsidy, 3) fiber prompt, and 4) fiber prompt&#xa0;+&#xa0;subsidy. Results show that both the prompt and prompt&#xa0;+&#xa0;subsidy conditions significantly increase fiber content of foods chosen (with the latter having a larger effect). While all three interventions influence the probability of using nutrition information during food choice and affect the set of products that respondents consider relative to the control condition, the effects were larger for the prompt and prompt&#xa0;+&#xa0;subsidy conditions. A multiple mediation analysis illustrates that both direct and indirect (through the set of products considered and the use of fiber information during choice) pathways lead to the significant overall increase in fiber content of selected foods.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/S0140-6736(23)00573-1
+- DOI: 10.1016/j.appet.2023.106596
 
 2. Keywords
-
+- Choice process variable
+- Consideration set
+- Dietary fiber
+- Food choice
+- Incomplete consideration
+- Information use
+- Point-of-decision prompt
+- Subsidy
 
 3. Key Findings
-- Findings extraction requires manual review
+- However, some studies have found that these tools are markedly more effective if attention is drawn to the tax or subsidy, suggesting that the price change alone may go unnoticed in the complex food environments that consumers face
 
 This study provides insights into:
-- General research methodology and outcomes
+- Choice process variable assessment methods and outcomes
+- Consideration set assessment methods and outcomes
+- Dietary fiber assessment methods and outcomes

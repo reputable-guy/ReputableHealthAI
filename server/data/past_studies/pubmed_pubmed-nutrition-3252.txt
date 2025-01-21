@@ -1,27 +1,28 @@
-Study Title: Association between glucose dips and the feeling of hunger in a dietary intervention study among students with early and late chronotype-secondary analysis of a randomized cross-over nutrition trial.
+Study Title: Feasibility of an exercise-nutrition-psychology integrated rehabilitation model based on mobile health and virtual reality for cancer patients: a single-center, single-arm, prospective phase II study.
 
 Study Summary:
-Consumption of foods with high glycaemic index (GI) can cause hyperglycemia, thus increasing postprandial hunger. Since circadian rhythm differs inter-individually, we describe glucose dips after breakfast/dinner with high/medium estimated meal GI among students with early (n&#xa0;=&#xa0;22) and late chronotype (n&#xa0;=&#xa0;23) and examine their relation to the feeling of hunger in a secondary analysis of a randomized cross-over nutrition trial. Glucose dips reflect the difference between the lowest glucose value recorded 2-3&#xa0;h postprandially and baseline, presented as percentage of average baseline level. Associations between glucose dips and the feeling of hunger were analyzed using multilevel linear models. Glucose dips were lower after medium GI meals than after high GI meals among both chronotype groups (p&#xa0;=&#xa0;0.03). Among early chronotypes, but not among late chronotypes, glucose dip values were lower after breakfast than after dinner (-4.9 % vs. 5.5 %, p&#xa0;=&#xa0;0.001). Hunger increased throughout the day among both chronotypes but glucose dips were not related to the feeling of hunger at the meal following breakfast. Interestingly, lower glucose dip values 2-3&#xa0;h postprandially occurred particularly after medium GI meals and were seen after breakfast among early chronotypes. These glucose dips did not predict hunger at meals after breakfast.
+Explore the feasibility of a mobile health(mHealth) and virtual reality (VR) based nutrition-exercise-psychology integrated rehabilitation model in Chinese cancer patients. We recruited cancer patients in the Oncology department of the Affiliated Changzhou No. 2 People's Hospital of Nanjing Medical University from October 2022 to April 2023. The rehabilitation program was provided by a team of medical oncologists, dietitians, psychotherapists, and oncology specialist nurses. Participants received standard anti-cancer therapy and integrated intervention including hospitalized group-based exercise classes, at-home physical activity prescription, behavior change education, oral nutrition supplements, and psychological counseling. An effective intervention course includes two consecutive hospitalization and two periods of home-based rehabilitation (8 weeks). Access the feasibility as well as changes in aspects of physical, nutritional, and psychological status. At the cutoff date of April 2023, the recruitment rate was 75% (123/165). 11.4%patients were lost to follow-up, and 3.25% withdrew halfway. Respectively, the completion rate of nutrition, exercise, and psychology were 85%,55%, and 63%. Nutrition interventions show the highest compliance. The parameters in nutrition, psychology, muscle mass, and quality of life after the rehabilitation showed significant improvements (P&#x2009;<&#x2009;.05). There was no significant statistical difference (P&#x2009;>&#x2009;.05) in handgrip strength and 6-minute walking speed. It is feasible to conduct mHealth and VR-based nutrition-exercise-psychology integrated rehabilitation model in Chinese cancer patients. A larger multi-center trial is warranted in the future. ChiCTR2200065748 Registered 14 November 2022.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.appet.2024.107569
+- DOI: 10.1186/s12904-024-01487-3
 
 2. Keywords
-- Chronotype
-- Circadian misalignment
-- Fullness
-- Glucose dips
-- Glycemic index
-- Hunger
+- Exercise
+- Integrated rehabilitation
+- Mobile health
+- Nutrition
+- Psychology
+- Quality of life
+- Virtual reality
 
 3. Key Findings
-- Findings extraction requires manual review
+- The parameters in nutrition, psychology, muscle mass, and quality of life after the rehabilitation showed significant improvements (P&#x2009;<&#x2009;
 
 This study provides insights into:
-- Chronotype assessment methods and outcomes
-- Circadian misalignment assessment methods and outcomes
-- Fullness assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- Integrated rehabilitation assessment methods and outcomes
+- Mobile health assessment methods and outcomes

@@ -1,26 +1,27 @@
-Study Title: Long-Term Efficacy of a Mobile Mental Wellness Program: Prospective Single-Arm Study.
+Study Title: Low energy availability increases immune cell formation of reactive oxygen species and impairs exercise performance in female endurance athletes.
 
 Study Summary:
-Rising rates of psychological distress (symptoms of depression, anxiety, and stress) among adults in the United States necessitate effective mental wellness interventions. Despite the prevalence of smartphone app-based programs, research on their efficacy is limited, with only 14% showing clinically validated evidence. Our study evaluates Noom Mood, a commercially available smartphone-based app that uses cognitive behavioral therapy and mindfulness-based programming. In this study, we address gaps in the existing literature by examining postintervention outcomes and the broader impact on mental wellness. Noom Mood is a smartphone-based mental wellness program designed to be used by the general population. This prospective study evaluates the efficacy and postintervention outcomes of Noom Mood. We aim to address the rising psychological distress among adults in the United States. A 1-arm study design was used, with participants having access to the Noom Mood program for 16 weeks (N=273). Surveys were conducted at baseline, week 4, week 8, week 12, week 16, and week 32 (16 weeks' postprogram follow-up). This study assessed a range of mental health outcomes, including anxiety symptoms, depressive symptoms, perceived stress, well-being, quality of life, coping, emotion regulation, sleep, and workplace productivity (absenteeism or presenteeism). The mean age of participants was 40.5 (SD 11.7) years. Statistically significant improvements in anxiety symptoms, depressive symptoms, and perceived stress were observed by week 4 and maintained through the 16-week intervention and the 32-week follow-up. The largest changes were observed in the first 4 weeks (29% lower, 25% lower, and 15% lower for anxiety symptoms, depressive symptoms, and perceived stress, respectively), and only small improvements were observed afterward. Reductions in clinically relevant anxiety (7-item generalized anxiety disorder scale) and depression (8-item Patient Health Questionnaire depression scale) criteria were also maintained from program initiation through the 16-week intervention and the 32-week follow-up. Work productivity also showed statistically significant results, with participants gaining 2.57 productive work days from baseline at 16 weeks, and remaining relatively stable (2.23 productive work days gained) at follow-up (32 weeks). Additionally, effects across all coping, sleep disturbance (23% lower at 32 weeks), and emotion dysregulation variables exhibited positive and significant trends at all time points (15% higher, 23% lower, and 25% higher respectively at 32 weeks). This study contributes insights into the promising positive impact of Noom Mood on mental health and well-being outcomes, extending beyond the intervention phase. Though more rigorous studies are necessary to understand the mechanism of action at play, this exploratory study addresses critical gaps in the literature, highlighting the potential of smartphone-based mental wellness programs to lessen barriers to mental health support and improve diverse dimensions of well-being. Future research should explore the scalability, feasibility, and long-term adherence of such interventions across diverse populations.
+The effects of low energy availability (LEA) on the immune system are poorly understood. This study examined the effects of 14 days of LEA on immune cell redox balance and inflammation at rest and in response to acute exercise, and exercise performance in female athletes. Twelve female endurance athletes (age: 26.8&#xa0;&#xb1;&#xa0;3.4&#xa0;yrs, maximum oxygen uptake (V&#x2d9;O): 55.2&#xa0;&#xb1;&#xa0;5.1 mL&#xa0;&#xd7;&#xa0;min&#xa0;&#xd7;&#xa0;kg) were included in a randomized, single-blinded crossover study. They were allocated to begin with either 14 days of optimal energy availability diet (OEA, 52&#xa0;&#xb1;&#xa0;2&#xa0;kcal&#xa0;&#xd7;&#xa0;kg fat free mass (FFM)&#xa0;&#xd7;&#xa0;day) or LEA diet (22&#xa0;&#xb1;&#xa0;2&#xa0;kcal&#xa0;&#xd7;&#xa0;kg FFM&#xa0;&#xd7;&#xa0;day), followed by 3 days of refueling (OEA) with maintained training volume. Peripheral blood mononuclear cells (PBMCs) were isolated, and plasma obtained at rest before and after each dietary period. The PBMCs were used for analysis of mitochondrial respiration and HOemission and specific proteins. Exercise performance was assessed on cycle by a 20-min time trial and time to exhaustion at an intensity corresponding to &#x223c;110&#xa0;% V&#x2d9;O). LEA was associated with a 94&#xa0;% (P&#xa0;=&#xa0;0.003) increase in PBMC NADPH oxidase 2 protein content, and a 22&#xa0;% (P&#xa0;=&#xa0;0.013) increase in systemic cortisol. LEA also caused an alteration of several inflammatory related proteins (P&#xa0;<&#xa0;0.05). Acute exercise augmented HOemission in PBMCs (P&#xa0;<&#xa0;0.001) following both OEA and LEA, but to a greater extent following LEA. LEA also reduced the mobilization of white blood cells with acute exercise. After LEA, performance was reduced in both exercise tests (P&#xa0;<&#xa0;0.001), and the reduced time trial performance remained after the 3 days of refueling (P&#xa0;<&#xa0;0.001). 14 days of LEA in female athletes increased cortisol levels and had a pronounced effect on the immune system, including increased capacity for ROS production, altered plasma inflammatory proteome and lowered exercise induced mobilization of leukocytes. Furthermore, LEA resulted in a sustained impairment in exercise performance.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/54634
+- DOI: 10.1016/j.redox.2024.103250
 
 2. Keywords
-- Noom Mood
-- digital mental wellness programs
-- mHealth
-- mobile phone
-- psychological distress
+- Exercise performance
+- Immune function
+- Low energy availability
+- Oxidative stress
+- Peripheral blood mononuclear cell
+- Proteomics
 
 3. Key Findings
-- Work productivity also showed statistically significant results, with participants gaining 2
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Noom Mood assessment methods and outcomes
-- digital mental wellness programs assessment methods and outcomes
-- mHealth assessment methods and outcomes
+- Exercise performance assessment methods and outcomes
+- Immune function assessment methods and outcomes
+- Low energy availability assessment methods and outcomes

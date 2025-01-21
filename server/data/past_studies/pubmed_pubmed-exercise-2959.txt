@@ -1,25 +1,27 @@
-Study Title: Impact of 12-Month Late-in-Life Exercise Training on Cardiopulmonary Reserve, Static Cardiac Structure, and Function: A Randomized Clinical Trial.
+Study Title: Home-based aerobic exercise feasibility in oxaliplatin-receiving newly-diagnosed cancer survivors.
 
 Study Summary:
-Although the cardiac benefits of maintaining a lifelong exercise routine are undisputed, to what extent late-in-life exercise training can ameliorate cardiac aging remains unclear. We examined the impact of a 12-month exercise training program on cardiac reserve, static cardiac structure, and cardiac function in older adults. This study was a single-center, randomized trial using Zelen design. Participants in the center-based exercise (CBE) group underwent an individualized multicomponent exercise training program. In total, 120 community-dwelling older adults aged 65-85&#xa0;years were evenly divided into a CBE group and a control group. The primary outcome indicator was absolute change in peak oxygen uptake (peakVO) per kilogram from baseline to 12&#xa0;months. The secondary outcome indicators were the absolute changes in other cardiopulmonary exercise test indices and cardiac magnetic resonance parameters. This study has been registered at the Chinese Clinical Trial Registry Network (ChiCTR2400081824). In total, 47 older adults in the control group and 49 in the CBE group ultimately completed the 12-month follow-up and were analyzed. Of all participants, 52 (46.4%) were men, and the mean age was 71.22 &#xb1; 4.55&#xa0;years. The absolute change in peakVO/kg was significantly different between the CBE and control groups by&#xa0;+3.32&#xa0;mL/kg/min (95% CI 2.10-4.53; P < .001), and a sex-related difference was observed. Additionally, the right ventricular peak filling and ejection rate improved to a greater degree in the CBE than control group (+65.57&#xa0;mL/s, P&#xa0;= .006;&#xa0;+56.39&#xa0;mL/s, P&#xa0;= .026, respectively). A 12-month exercise training program started later in life was effective in improving cardiopulmonary reserve, and men showed a better response to training than women. The right ventricular function increased after late-in-life exercise training.
+Physical activity (PA) is beneficial but difficult to maintain during chemotherapy. This pilot RCT explored the feasibility of the MI-Walk intervention-an 8-week motivational enhancement therapy- and home-based brisk walking intervention-among gastrointestinal (GI) cancer survivors receiving chemotherapy. Sixty stage II-IV GI cancer survivors were recruited from 5 sites at their second infusion visit. Participants were randomized to receive PA education alone or the MI-Walk intervention: motivational enhancement therapy consisting of 3 motivational interviewing and self-efficacy-enhancing counseling sessions, a Fitbit Charge 2, exercise diaries, telephone follow-up, scripted motivational email messages, and optional weekly walking groups. The enrollment and completion rates were 62% and 90%, respectively. The MI-Walk participants (n&#xa0;=&#xa0;29; mean age&#xa0;=&#xa0;56.79, SD&#xa0;=&#xa0;11.72; 97% white; 79% male) reported a baseline moderate-vigorous PA duration of 250.93 (SD&#xa0;=&#xa0;636.52) min/wk. The mean MI-Walk Intervention acceptability score was 50.32 (SD&#xa0;=&#xa0;12.02) on a scale of 14-70. Mean Fitbit and counseling helpfulness scores on a 5-point scale were 3.67 (SD&#xa0;=&#xa0;1.43) and 3.44 (SD&#xa0;=&#xa0;1.36), respectively. Participants' Fitbit moderate-vigorous PA 8-week averages ranged from 0 to 716.88&#xa0;min/wk; 64% of participants adhered to &#x2265;127&#xa0;min/wk. Several characteristics (e.g., age, comorbidity, PA level, employment status, BMI, education level, gender, symptoms) were associated with enrollment, attrition, and intervention acceptability and adherence (p&#xa0;<&#xa0;0.05). Enrollment and retention were adequate. The Fitbit and counseling were the most helpful. Acceptability and adherence varied based on participant characteristics; therefore, intervention tailoring and further research among cancer survivors less physically active at baseline and most in need of complex exercise intervention are needed. gov NCT03515356.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jamda.2024.105117
+- DOI: 10.1016/j.ejon.2024.102649
 
 2. Keywords
-- Cardiopulmonary reserve
-- cardiac structure
-- exercise training
-- late-in-life
+- Cancer
+- Chemotherapy-induced peripheral neuropathy
+- Exercise
+- Motivational enhancement therapy
+- Motivational interviewing
+- Physical activity
 
 3. Key Findings
-- A 12-month exercise training program started later in life was effective in improving cardiopulmonary reserve, and men showed a better response to training than women
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cardiopulmonary reserve assessment methods and outcomes
-- cardiac structure assessment methods and outcomes
-- exercise training assessment methods and outcomes
+- Cancer assessment methods and outcomes
+- Chemotherapy-induced peripheral neuropathy assessment methods and outcomes
+- Exercise assessment methods and outcomes

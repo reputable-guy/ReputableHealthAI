@@ -1,27 +1,25 @@
-Study Title: Peer Intervention to Link Overdose Survivors to Treatment (PILOT): Protocol for a Multisite, Randomized Controlled Trial Conducted Within the National Institute on Drug Abuse Clinical Trials Network.
+Study Title: Comparison of the efficacy and safety of ciprofol and propofol for ERCP anesthesia in older patients: A single-center randomized controlled clinical study.
 
 Study Summary:
-The increase in opioid-related overdoses has caused a decrease in average life expectancy, highlighting the need for effective interventions to reduce overdose risk and prevent subsequent overdoses. Peer support specialists (PSSs) offer an appealing strategy to engage overdose survivors and reduce overdose risk, but randomized controlled trials are needed to formalize peer-led interventions and evaluate their effectiveness. This National Institute on Drug Abuse Clinical Trials Network (CTN) study is a multisite, prospective, pilot randomized (1:1) controlled trial (CTN protocol 0107) that aims to evaluate the effectiveness of an emergency department (ED)-initiated, peer-delivered intervention tailored for opioid overdose survivors (Peer&#xa0;Intervention to Link Overdose survivors to&#xa0;Treatment [PILOT]), compared with treatment as usual (TAU). This study evaluates the effectiveness of the 6-month, PSS-led PILOT intervention compared with TAU on the primary outcome of reducing overdose risk behavior 6 months after enrollment. Adults (aged &#x2265;18 years; N=150) with a recent opioid-related overdose were identified and approached in the ED. Participants were screened and enrolled, either in the ED or within 7 days of ED discharge at research offices or in the community and then asked to complete study visits at months 1, 3, 6 (end of intervention), and 7 (follow-up). Participants were enrolled at 3 study sites in the United States: Greenville, South Carolina; Youngstown, Ohio; and Everett, Washington. Participants randomized to the PILOT intervention received a 6-month, PSS-led intervention tailored to each participant's goals to reduce their overdose risk behavior (eg, overdose harm reduction, housing, medical, and substance use treatment or recovery goals). Participants randomized to TAU received standard-of-care overdose materials, education, and services provided through the participating EDs. This paper describes the study protocol and procedures, explains the design and inclusion and exclusion decisions, and provides details of the peer-led PILOT intervention and supervision of PILOT PSSs. Study enrollment opened in December 2021 and was closed in July 2023. A total of 150 participants across 3 sites were enrolled in the study, meeting the proposed sample size for the trial. Primary and secondary analyses are underway and expected to be published in early 2025. There is an urgent need to better understand the characteristics of overdose survivors presenting to the ED and for rigorous trials evaluating the effectiveness of PSS-led interventions on engaging overdose survivors and reducing overdose risk. Results from this pilot randomized controlled trial will provide a description of the characteristics of overdose survivors presenting to the ED; outline the implementation of PSS services research in ED settings, including PSS implementation of PSS supervision and activity tracking; and inform ED-initiated PSS-led overdose risk reduction interventions and future research to better understand the implementation and efficacy of these interventions. ClinicalTrials.gov NCT05123027; https://clinicaltrials.gov/study/NCT05123027. DERR1-10.2196/60277.
+Ciprofol is a novel agonist at the gamma-aminobutyric acid-A (GABA) receptor, exhibiting better cardiovascular stability and rapid recovery. The objective of this study was to compare the efficacy and safety of ciprofol and propofol for endoscopic retrograde cholangiopancreatography (ERCP) anesthesia in older patients. A single-center, randomized, parallel controlled clinical study. General Hospital of Northern Theater Command. We recruited 284 patients and intended to conduct ERCP from November 2021 to June 2022. Patients scheduled for ERCP were randomly assigned to two groups (n&#xa0;=&#xa0;142 each): ciprofol group (anesthesia induction 0.3-0.4&#xa0;mg/kg, anesthesia maintenance 0.8-1.2&#xa0;mg/kg/h) and propofol group (anesthesia induction 1.5-2.0&#xa0;mg/kg, anesthesia maintenance 4-12&#xa0;mg/kg/h). The primary outcome was sedation success rate, defined as the proportion of patients with successful anesthesia induction. Secondary outcomes encompassed the time of successful induction, the time of complete recovery, the time of leaving the room and the incidence rate of adverse events (hypoxemia, hypotension and injection pain). The success rate of sedation in both groups was 100&#xa0;%. The 95&#xa0;% CI of the difference of sedation success rate was (- 2.63&#xa0;%, 2.63&#xa0;%), and the lower limit was greater than the non-inferiority limit of -8&#xa0;%.The time of successful sedation induction in ciprofol group (38.4&#xa0;&#xb1;&#xa0;6.5&#xa0;s) was longer than that in propofol group (30.6&#xa0;&#xb1;&#xa0;6.2&#xa0;s, p&#xa0;<&#xa0;0.05).The time of complete recovery in ciprofol group (12.8&#xa0;&#xb1;&#xa0;5.8&#xa0;min) was shorter than that in propofol group (16.9&#xa0;&#xb1;&#xa0;5.0&#xa0;min, p&#xa0;<&#xa0;0.05). The time of leaving the room in ciprofol group (21.8&#xa0;&#xb1;&#xa0;5.8&#xa0;min) was shorter than those in propofol group (25.9&#xa0;&#xb1;&#xa0;5.1&#xa0;min, p&#xa0;<&#xa0;0.05). The incidence of injection pain in ciprofol group (2&#xa0;%) was lower than that in the propofol group (25&#xa0;%, p&#xa0;<&#xa0;0.05). Other outcomes didn't show statistical differences. Compared with propofol, ciprofol exhibited a comparable level of sedation in older patients undergoing ERCP, and recovery was safe and rapid with less injection pain. www.chictr.org.cn (Registration number ChiCTR2100053386, Registration date November 20, 2021).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/60277
+- DOI: 10.1016/j.jclinane.2024.111609
 
 2. Keywords
-- emergency department
-- harm reduction
-- nonfatal overdose involving opioids
-- opioids
-- overdose
-- peer support specialist
+- Ciprofol
+- Endoscopic retrograde cholangiopancreatography
+- Older patients
+- Propofol
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- emergency department assessment methods and outcomes
-- harm reduction assessment methods and outcomes
-- nonfatal overdose involving opioids assessment methods and outcomes
+- Ciprofol assessment methods and outcomes
+- Endoscopic retrograde cholangiopancreatography assessment methods and outcomes
+- Older patients assessment methods and outcomes

@@ -1,25 +1,22 @@
-Study Title: The Effect of Depth of Anesthesia on Postoperative Pain in Laparoscopic Sleeve Gastrectomy: A Randomized Controlled Trial.
+Study Title: Randomized Placebo-Controlled, Biomarker-Stratified Phase Ib Microbiome Modulation in Melanoma: Impact of Antibiotic Preconditioning on Microbiome and Immunity.
 
 Study Summary:
-Patients with obesity are more sensitive to pain and more likely to have acute postoperative pain (APP). Studies have shown that the depth of anesthesia may affect the incidence of APP. The purpose of the study was to look into the connection between APP and depth of anesthesia in patients with obesity undergoing laparoscopic sleeve gastrectomy. This is a prospective, double-blinded randomized clinical trial, 90 patients undergoing laparoscopic sleeve gastrectomy were randomly divided into two groups: the light anesthesia group (Bispectral Index of 50, BIS 50) and the deep anesthesia group (BIS 35). The degree of pain was evaluated by the visual analogue scale (VAS) at 0, 12, 24, 48, and 72&#xa0;h after surgery. The use of analgesics, grade of postoperative nausea and vomiting (PONV), and the Quality of Recovery-15 (QoR-15) score were recorded. The VAS scores at rest or coughing at 0, 12, and 24&#xa0;h after surgery in the BIS 35 group were lower than those in the BIS 50 group (P&#x2009;<&#x2009;0.05). Fewer patients in the deep anesthesia group needed analgesia during the recovery period, and patient satisfaction was higher on the 3rd day after surgery (P&#x2009;<&#x2009;0.015, P&#x2009;<&#x2009;0.032, respectively). For patients with obesity, maintaining a deeper depth of anesthesia during surgery is beneficial to reduce APP causes less need for additional analgesic drugs, and improves patient satisfaction.
+Gut-microbiota modulation shows promise in improving immune-checkpoint blockade (ICB) response; however, precision biomarker-driven, placebo-controlled trials are lacking. We performed a multicenter, randomized placebo-controlled, biomarker-stratified phase I trial in patients with ICB-na&#xef;ve metastatic melanoma using SER-401, an orally delivered Firmicutesenriched spore formulation. Fecal microbiota signatures were characterized at baseline; patients were stratified by high versus low Ruminococcaceae abundance prior to randomization to the SER-401 arm (oral vancomycin-preconditioning/SER-401 alone/nivolumab + SER-401), versus the placebo arm [placebo antibiotic/placebo microbiome modulation (PMM)/nivolumab + PMM (NCT03817125)]. Analysis of 14 accrued patients demonstrated that treatment with SER-401 + nivolumab was safe, with an overall response rate of 25% in the SER-401 arm and 67% in the placebo arm (though the study was underpowered related to poor accrual during the COVID-19 pandemic). Translational analyses demonstrated that vancomycin preconditioning was associated with the disruption of the gut microbiota and impaired immunity, with incomplete recovery at ICB administration (particularly in patients with high baseline Ruminococcaceae). These results have important implications for future microbiome modulation trials. Significance: This first-of-its-kind, placebo-controlled, randomized biomarker-driven microbiome modulation trial demonstrated that vancomycin + SER-401 and anti-PD-1 are safe in melanoma patients. Although limited by poor accrual during the pandemic, important insights were gained via translational analyses, suggesting that antibiotic preconditioning and interventional drug dosing regimens should be carefully considered when designing such trials.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s11695-024-07207-3
+- DOI: 10.1158/2159-8290.CD-24-0066
 
 2. Keywords
-- Acute postoperative pain
-- Anaesthetic depth
-- Laparoscopic sleeve gastrectomy
-- Obesity
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Analysis of 14 accrued patients demonstrated that treatment with SER-401 + nivolumab was safe, with an overall response rate of 25% in the SER-401 arm and 67% in the placebo arm (though the study was underpowered related to poor accrual during the COVID-19 pandemic)
+- Translational analyses demonstrated that vancomycin preconditioning was associated with the disruption of the gut microbiota and impaired immunity, with incomplete recovery at ICB administration (particularly in patients with high baseline Ruminococcaceae)
+- Significance: This first-of-its-kind, placebo-controlled, randomized biomarker-driven microbiome modulation trial demonstrated that vancomycin + SER-401 and anti-PD-1 are safe in melanoma patients
 
 This study provides insights into:
-- Acute postoperative pain assessment methods and outcomes
-- Anaesthetic depth assessment methods and outcomes
-- Laparoscopic sleeve gastrectomy assessment methods and outcomes
+- General research methodology and outcomes

@@ -1,27 +1,35 @@
-Study Title: The effect of a standardized verbal encouragement protocol on peak oxygen uptake during incremental treadmill testing in healthy individuals: A randomized cross-over trial.
+Study Title: Development of the Happy Hands Self-Management App for People with Hand Osteoarthritis: Feasibility Study.
 
 Study Summary:
-Peak oxygen uptake (V&#x307;O) is considered a vital indicator of health and physical fitness that is often measured during incremental exercise testing. While previous research has shown that the attained V&#x307;Oduring exercise testing can be influenced by verbal encouragement, no or limited details were provided on the verbal encouragement protocol, hereby hampering implementation in clinical practice or research. Moreover, it remains unknown whether motivation modulates the effect of verbal encouragement. This study aimed to develop and examine the influence of a standardized verbal encouragement protocol on the achieved V&#x307;O, time to exhaustion (TTE), peak heart rate (HR), and peak respiratory exchange ratio (RER) during incremental treadmill testing. As a secondary aim, we investigated whether motivation modulated the effect of verbal encouragement on V&#x307;O. 24 healthy volunteers performed two incremental treadmill runs with 1&#xa0;week in between and received verbal encouragement during only one of the tests. Motivation toward exercise was measured using the behavioral regulation in exercise questionnaire-2 (BREQ-2) questionnaire. V&#x307;O(&#x394; 2.10&#xa0;mL/kg/min, p&#xa0;<&#xa0;0.001) and RER(&#x394; 2%, p&#xa0;=&#xa0;0.042) were significantly higher with verbal encouragement. In contrast, HR(&#x394; 1.5&#xa0;beats/min, p&#xa0;=&#xa0;0.225) and TTE (&#x394; 1.5%, p&#xa0;=&#xa0;0.348) were not significantly different between conditions. Exercise motivation showed a weak and nonsignificant association with the change in V&#x307;Obetween tests (r -0.19, R0.037, SEE 2.88, and p&#xa0;=&#xa0;0.367). These findings show that verbal encouragement leads to higher physiological outcomes during incremental treadmill testing, but the magnitude of this effect is not higher for individuals with lower levels of pretest motivation.
+Patient education, hand exercises, and the use of assistive devices are recommended as first-line treatments for individuals with hand osteoarthritis (OA). However, the quality of care services for this patient group is suboptimal in primary care. The overarching goal was to develop and evaluate feasibility of an app-based self-management intervention for people with hand OA. This feasibility study aims to assess self-reported usability and satisfaction, change in outcomes and quality-of-care, exercise adherence and patients' experiences using the app. The development and feasibility testing followed the first 2 phases of the Medical Research Council framework for the development and evaluation of complex interventions and were conducted in close collaboration with patient research partners (PRPs). A 3-month pre-post mixed methods design was used to evaluate feasibility. Men and women over 40 years of age diagnosed with painful, symptomatic hand OA were recruited. Usability was assessed using the System Usability Scale (0-100), while satisfaction, usefulness, pain, and stiffness were evaluated using a numeric rating scale (NRS score from 0 to 10). The activity performance of the hand was measured using the Measure of Activity Performance of the Hand (MAP-Hand) (1-4), grip strength was assessed with a Jamar dynamometer (kg), and self-reported quality of care was evaluated using the Osteoarthritis Quality Indicator questionnaire (0-100). Participants were deemed adherent if they completed at least 2 exercise sessions per week for a minimum of 8 weeks. Focus groups were conducted to explore participants' experiences using the app. Changes were analyzed using a paired sample t test (mean change and 95% CI), with the significance level set at P<.05. The first version of the Happy Hands app was developed based on the needs and requirements of the PRPs, evidence-based treatment recommendations, and the experiences of individuals living with hand OA. The app was designed to guide participants through a series of informational videos, exercise videos, questionnaires, quizzes, and customized feedback over a 3-month period. The feasibility study included 71 participants (mean age 64 years, SD 8; n=61, 86%, women), of whom 57 (80%) completed the assessment after 3 months. Usability (mean 91.5 points, SD 9.2 points), usefulness (median 8, IQR 7-10), and satisfaction (median 8, IQR 7-10) were high. Significant improvements were observed in self-reported quality of care (36.4 points, 95% CI 29.7-43.1, P<.001), grip strength (right: 2.9 kg, 95% CI 1.7-4.1; left: 3.2 kg, 95% CI 1.9-4.6, P<.001), activity performance (0.18 points, 95% CI 0.11-0.25, P<.001), pain (1.7 points, 95% CI 1.2-2.2, P<.001), and stiffness (1.9 points, 95% CI 1.3-2.4, P=.001) after 3 months. Of the 71 participants, 53 (75%) were adherent to the exercise program. The focus groups supported these results and led to the implementation of several enhancements in the second version of the app. The app-based self-management intervention was deemed highly usable and useful by patients. The results further indicated that the intervention may improve quality of care, grip strength, activity performance, pain, and stiffness. However, definitive conclusions need to be confirmed in a powered randomized controlled trial. NCT05150171.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ejsc.12044
+- DOI: 10.2196/59016
 
 2. Keywords
-- cardiopulmonary exercise testing
-- cardiorespiratory fitness
-- maximal heart rate
-- maximal oxygen uptake
-- motivation
-- running
+- Osteoarthritis
+- activity performance
+- app development
+- behavior change
+- design
+- eHealth
+- first-line treatment
+- hand exercises
+- home exercise
+- mHealth
+- satisfaction
+- self-management
+- social cognitive theory
+- usefulness
 
 3. Key Findings
-- Exercise motivation showed a weak and nonsignificant association with the change in V&#x307;Obetween tests (r -0
+- The results further indicated that the intervention may improve quality of care, grip strength, activity performance, pain, and stiffness
 
 This study provides insights into:
-- cardiopulmonary exercise testing assessment methods and outcomes
-- cardiorespiratory fitness assessment methods and outcomes
-- maximal heart rate assessment methods and outcomes
+- Osteoarthritis assessment methods and outcomes
+- activity performance assessment methods and outcomes
+- app development assessment methods and outcomes

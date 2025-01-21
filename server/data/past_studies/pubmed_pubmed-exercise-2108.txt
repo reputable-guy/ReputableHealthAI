@@ -1,27 +1,20 @@
-Study Title: How can robots facilitate physical, cognitive, and social engagement in skilled nursing facilities?
+Study Title: Effect of Exercise-Based Cardiac Rehabilitation on Patients With Chronic Heart Failure After Transcatheter Aortic Valve Replacement: A Randomized Controlled Trial.
 
 Study Summary:
-As people live longer, the population of older adults in need of support continues to expand relative to the available workforce of caregivers, necessitating new solutions to supplement caregiver availability for the physical, cognitive, and social needs of older adults. Robotics and automation present strong possible solutions. Past solutions have typically supported short-term rehabilitation and aging in place, yet many older adults live in skilled nursing facilities (SNFs), a setting reached by relatively little research to date. In this paper, we examine the unique needs of staff and residents at SNFs, after which we begin an iterative design process of robot-mediated wellness activities for the SNF space. We worked closely with domain experts in exercise science and physical therapy for older adults and a local SNF to design and test a series of robot-mediated activity prototypes with residents, visitors, and staff. We found that while both residents and staff highly value physical activity, there are nuanced challenges associated with supporting resident activity (one important element of overall wellbeing). As a result, we considered and tested a wide range of intervention options from usual approaches (e.g., mirroring movements) to creative approaches (e.g., social engagement via lewd humor). Our final design insights can inform practitioners who wish to use robots to support resident wellbeing in SNFs.
+The objective of this study was to assess the effect of exercise-based cardiac rehabilitation (CR) with individualized exercise prescription in patients with chronic heart failure (HF) undergoing transcatheter aortic valve replacement (TAVR) in a randomized controlled trial. A total of 60 patients with chronic HF who received TAVR treatment were randomly divided into the control group (n&#xa0;=&#xa0;30) and exercise training (ET) group (n&#xa0;=&#xa0;30). The control group was treated with conventional rehabilitation, and the ET group was given personalized exercise-based CR based on a cardiopulmonary exercise test (CPX). The CPX parameters, echocardiography, 6-minute walk test distance, and quality of life were evaluated in the two groups. All patients who completed symptom-restricted CPX showed no complications. After the 12-week rehabilitation period, the levels of anaerobic threshold, peak oxygen uptake, peak oxygen pulse, peak power, left ventricular ejection fraction, and 6-minute walk test distance in the ET group were significantly higher than those in the control group ( P &#xa0;<&#xa0;.05). Scores on the Minnesota Life with Heart Failure Questionnaire in the ET group were lower than those in the control group ( P <&#xa0;.05). Exercise-based CR significantly improves cardiopulmonary function, exercise tolerance, and quality of life in patients with chronic HF who undergo TAVR.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.3389/fragi.2024.1463460
+- Publication Date: 2025
+- DOI: 10.1097/HCR.0000000000000912
 
 2. Keywords
-- design thinking process
-- human-robot interaction
-- robots for older adults
-- skilled nursing facilities
-- socially assistive robotics
-- user-centered design
+
 
 3. Key Findings
-- We found that while both residents and staff highly value physical activity, there are nuanced challenges associated with supporting resident activity (one important element of overall wellbeing)
+- All patients who completed symptom-restricted CPX showed no complications
 
 This study provides insights into:
-- design thinking process assessment methods and outcomes
-- human-robot interaction assessment methods and outcomes
-- robots for older adults assessment methods and outcomes
+- General research methodology and outcomes

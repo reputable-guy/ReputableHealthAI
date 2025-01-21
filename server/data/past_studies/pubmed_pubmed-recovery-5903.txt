@@ -1,27 +1,28 @@
-Study Title: Auricular Acupressure in Relieving PONV and Promoting Gastrointestinal Function Recovery in Females After Laparoscopic Sleeve Gastrectomy: A Prospective Randomized Controlled Trial.
+Study Title: Effect of high-dosesupplementation on hospitalized adults with COVID-19: a randomized controlled trial.
 
 Study Summary:
-The role of current pharmacological treatment after laparoscopic sleeve gastrectomy (LSG) is limited. The incidence of postoperative nausea and vomiting (PONV) after LSG remains high. Auricular acupressure (AA) is believed to relieve PONV after laparoscopic surgeries, but its role in patients with obesity after LSG has yet to be confirmed. Ninety-five female patients who underwent LSG were randomized into two groups: AA combined with conventional anti-nausea medication (AA group, 47 patients) or conventional anti-nausea medication group (control group, 48 patients). Index of nausea and vomiting and retching (INVR) scores, postoperative anti-vomiting medication use, time of first anus exhausting, time of first fluid intake, and time of first to get out of bed were collected within 48 h after surgery. Demographic data of patients in both groups were balanced and comparable. INVR score (F = 7.505, P = 0.007), vomiting score (F = 11.903, P = 0.001), and retching score (F = 12.098, P = 0.001) were significantly lower in the AA group than that in the control group within 48 h postoperatively. Use of metoclopramide was significantly less in the AA group than in the control group (4.7 [5.5]) vs. 8.8 [7.6], P = 0.004); time to first anus exhausting was significantly less in the AA group than in the control group (17.50 [6.00] vs. 20.42 [8.62], P = 0.020). AA combined with conventional anti-vomiting agents can alleviate PONV in female patients after LSG, and AA can promote gastrointestinal exhaustion. The trial has been registered in the Chinese Clinical Trial Registry (ChiCTR) with the registration no. ChiCTR2100047381 on June 13, 2021.
+() is a cyanobacterium proven to have anti-inflammatory, antiviral, and antioxidant effects. However, the effect of high-dosesupplementation on hospitalized adults with COVID-19 is currently unclear. This study aimed to evaluate the efficacy and safety of high-dosefor SARS-CoV-2 infection. We conducted a randomized, controlled, open-label trial involving 189 patients with COVID-19 who were randomly assigned in a 1:1 ratio to an experimental group that received 15.2g ofsupplement plus standard treatment (44 non-intensive care unit (non-ICU) and 47 ICU), or to a control group that received standard treatment alone (46 non-ICU and 52 ICU). The study was conducted over six days. Immune mediators were monitored on days 1, 3, 5, and 7. The primary outcome of this study was mortality or hospital discharge within seven days, while the overall discharge or mortality was considered the secondary outcome. Within seven days, there were no deaths in thegroup, while 15 deaths (15.3%) occurred in the control group. Moreover, within seven days, there was a greater number of patients discharged in thegroup (97.7%) in non-ICU compared to the control group (39.1%) (HR, 6.52; 95% CI, 3.50 to 12.17). Overall mortality was higher in the control group (8.7% non-ICU, 28.8% ICU) compared to thegroup (non-ICU HR, 0.13; 95% CI, 0.02 to 0.97; ICU, HR, 0.16; 95% CI, 0.05 to 0.48). In non-ICU, patients who receivedshowed a significant reduction in the levels of IL-6, TNF-&#x3b1;, IL-10, and IP-10 as intervention time increased. Furthermore, in ICU, patients who receivedshowed a significant decrease in the levels of MIP-1&#x3b1; and IL-6. IFN-&#x3b3; levels were significantly higher in the intervention group in both ICU and non-ICU subgroups as intervention time increased. No side effects related tosupplements were observed during the trial. High-dosesupplements coupled with the standard treatment of COVID-19 may improve recovery and remarkably reduce mortality in hospitalized patients with COVID-19. https://irct.ir/trial/54375, Iranian Registry of Clinical Trials number (IRCT20210216050373N1).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s11695-024-07243-z
+- DOI: 10.3389/fimmu.2024.1332425
 
 2. Keywords
-- Auricular acupressure
-- Bariatric surgery
-- Metabolic surgery
-- Nausea
-- Sleeve gastrectomy
-- Vomiting
+- COVID-19
+- Spirulina platensis
+- hospital discharge
+- immune mediators
+- intensive care unit (ICU) & non-ICU
+- mortality
 
 3. Key Findings
-- Findings extraction requires manual review
+- In non-ICU, patients who receivedshowed a significant reduction in the levels of IL-6, TNF-&#x3b1;, IL-10, and IP-10 as intervention time increased
+- Furthermore, in ICU, patients who receivedshowed a significant decrease in the levels of MIP-1&#x3b1; and IL-6
 
 This study provides insights into:
-- Auricular acupressure assessment methods and outcomes
-- Bariatric surgery assessment methods and outcomes
-- Metabolic surgery assessment methods and outcomes
+- COVID-19 assessment methods and outcomes
+- Spirulina platensis assessment methods and outcomes
+- hospital discharge assessment methods and outcomes

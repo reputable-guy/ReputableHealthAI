@@ -1,29 +1,26 @@
-Study Title: Slow art plus: developing and piloting a single session art gallery-based intervention for mental health promotion via a mixed method waitlist randomized control trial.
+Study Title: Wilson Disease and the COVID-19 pandemic: exploring patients' mental health and vaccination attitudes in a longitudinal study.
 
 Study Summary:
-The current study builds on the expertise of National Gallery Singapore and Nanyang Technological University Singapore (NTU) in developing and piloting an enhanced version of the Slow Art program, namely "Slow Art Plus" for mental health promotion. A single-site, open-label, waitlist Randomized Control Trial (RCT) design comprising of a treatment group and waitlist control group was adopted (ClinicalTrials.gov ID: NCT05803226). Participants (&#x2009;=&#x2009;196) completed three online questionnaires at three timepoints: baseline [T1], immediately post-intervention/s baseline [T2], post-intervention follow-up/immediately post-intervention [T3]. Qualitative focus groups were conducted to evaluate program acceptability. A mixed model ANOVA was performed to understand intervention effectiveness between the immediate intervention group and waitlist control group. The analyses revealed a significant interaction effect where intervention group participants reported an improvement in spiritual well-being (&#x2009;=&#x2009;0.001), describing their thoughts and experiences (&#x2009;=&#x2009;0.02), and nonreacting to inner experiences (&#x2009;=&#x2009;0.01) immediately after Slow Art Plus as compared to the control group. Additionally, one-way repeated measure ANOVAs were conducted for the intervention group to evaluate maintenance effects of the intervention. The analyses indicated significant improvements in perceived stress (&#x2009;<&#x2009;0.001), mindfulness (p&#x2009;<&#x2009;0.001) as well as multiple mindfulness subscales, active engagement with the world (&#x2009;=&#x2009;0.003), and self-compassion (&#x2009;=&#x2009;0.02) 1&#x2009;day after the completion of Slow Art Plus. Results from framework analysis of focus group data revealed a total of two themes (1: Experiences of Slow Art Plus, 2: Insights to Effective Implementation) and six subthemes (1a: Peaceful relaxation, 1b: Self-Compassion, 1c: Widened Perspective, 2a: Valuable Components, 2b: Execution Requisites, 2c: Suggested Enhancements), providing valuable insights to the overall experience and implementation of the intervention. Slow Art Plus represents a unique approach, offering a standardized, multimodal, single-session program that integrates mindfulness and self-compassion practices, as well as reflective and creative expressions with Southeast Asian art. It demonstrates potential in meeting the mental health needs of a wide range of individuals and could be readily incorporated into social prescribing initiatives for diverse populations.
+The COVID-19 pandemic significantly impacted the mental health of individuals with chronic conditions such as Wilson's Disease (WD). This study investigates stress, anxiety, depression, quality of life, cognitive function, vaccination rates, infection rates, and perceptions related to the pandemic and vaccines among WD patients. The study analyzed COVID-19 perceptions and vaccine attitudes of 62 adult WD patients enrolled in the international multisite WD Registry. A subgroup of 33 participants completed a series of mental health scales. The effect of working essentially, income loss, wellness activity initiation, and infection of COVID-19 during the pandemic was observed. Results indicate that, overall, the pandemic did not exacerbate anxiety or cognitive function in WD patients but did lead to increased depression among essential workers. Patients experiencing income loss exhibited higher levels of stress and anxiety. Despite these challenges, WD patients showed high vaccination rates and positive attitudes towards vaccines. The findings underscore the significant impact of the pandemic on the mental health of WD patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpubh.2024.1238564
+- DOI: 10.3389/fpsyg.2024.1326802
 
 2. Keywords
-- gallery and museum collections
-- mindfulness
-- participatory art
-- psychological well-being
-- self-compassion
-- social prescribing
+- COVID-19
+- Wilson Disease
+- cognitive functions
+- mental health
+- vaccination
 
 3. Key Findings
-- The analyses revealed a significant interaction effect where intervention group participants reported an improvement in spiritual well-being (&#x2009;=&#x2009;0
-- The analyses indicated significant improvements in perceived stress (&#x2009;<&#x2009;0
-- Results from framework analysis of focus group data revealed a total of two themes (1: Experiences of Slow Art Plus, 2: Insights to Effective Implementation) and six subthemes (1a: Peaceful relaxation, 1b: Self-Compassion, 1c: Widened Perspective, 2a: Valuable Components, 2b: Execution Requisites, 2c: Suggested Enhancements), providing valuable insights to the overall experience and implementation of the intervention
+- Despite these challenges, WD patients showed high vaccination rates and positive attitudes towards vaccines
 
 This study provides insights into:
-- gallery and museum collections assessment methods and outcomes
-- mindfulness assessment methods and outcomes
-- participatory art assessment methods and outcomes
+- COVID-19 assessment methods and outcomes
+- Wilson Disease assessment methods and outcomes
+- cognitive functions assessment methods and outcomes

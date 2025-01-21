@@ -1,29 +1,27 @@
-Study Title: Periodic mobile application (eMOM) with self-tracking of glucose and lifestyle improves treatment of diet-controlled gestational diabetes without human guidance: a randomized controlled trial.
+Study Title: The effect of oropharyngeal mother's milk on nutritional outcomes in preterm infants: a randomized controlled trial.
 
 Study Summary:
-Digitalization with minimal human resources could support self-management among women with gestational diabetes and improve maternal and neonatal outcomes. This study aimed to investigate if a periodic mobile application (eMOM) with wearable sensors improves maternal and neonatal outcomes among women with diet-controlled gestational diabetes without additional guidance from healthcare personnel. Women with gestational diabetes were randomly assigned in a 1:1 ratio at 24 to 28 weeks' gestation to the intervention or the control arm. The intervention arm received standard care in combination with use of the periodic eMOM, whereas the control arm received only standard care. The intervention arm used eMOM with a continuous glucose monitor, an activity tracker, and a food diary 1 week/month until delivery. The primary outcome was the change in fasting plasma glucose from baseline to 35 to 37 weeks' gestation. Secondary outcomes included capillary glucose, weight gain, nutrition, physical activity, pregnancy complications, and neonatal outcomes, such as macrosomia. In total, 148 women (76 in the intervention arm, 72 in the control arm; average age, 34.1&#xb1;4.0 years; body mass index, 27.1&#xb1;5.0 kg/m) were randomized. The intervention arm showed a lower mean change in fasting plasma glucose than the control arm (difference,&#xa0;-0.15 mmol/L vs&#xa0;-2.7 mg/mL; P=.022) and lower capillary fasting glucose levels (difference,&#xa0;-0.04 mmol/L vs&#xa0;-0.7 mg/mL; P=.002). The intervention arm also increased their intake of vegetables (difference, 11.8 g/MJ; P=.043), decreased their sedentary behavior (difference,&#xa0;-27.3 min/d; P=.043), and increased light physical activity (difference, 22.8 min/d; P=.009) when compared with the control arm. In addition, gestational weight gain was lower (difference,&#xa0;-1.3 kg; P=.015), and there were less newborns with macrosomia in the intervention arm (difference,&#xa0;-13.1 %; P=.036). Adherence to eMOM was high (daily use >90%), and the usage correlated with lower maternal fasting (P=.0006) and postprandial glucose levels (P=.017), weight gain (P=.028), intake of energy (P=.021) and carbohydrates (P=.003), and longer duration of the daily physical activity (P=.0006). There were no significant between-arm differences in terms of pregnancy complications. Self-tracking of lifestyle factors and glucose levels without additional guidance improves self-management and the treatment of gestational diabetes, which also benefits newborns. The results of this study support the use of digital self-management and education tools in maternity care.
+Oropharyngeal interventions are an accepted method to improve the nutritional performance of premature infants. Considering the countless benefits of breast milk and the few studies on the use of breast milk as an oral-pharyngeal intervention, this study was conducted with the aim of determining the effect of oral-pharyngeal administration of breast milk on nutritional outcomes in premature infants. In this clinical trial, 80 premature infants hospitalized in the neonatal intensive care unit of Amir al-Mu'minin Hospital in Semnan (a city in Iran) were randomly assigned to intervention (n&#x2009;=&#x2009;40) and control groups (n&#x2009;=&#x2009;40). Infants in the intervention group were given breast milk, and infants in the control group were given sterile water as a placebo. The data collection tool included demographic and clinical questions checklist, including sex, gestational age, weight, milk administration time, lavage and its amount, vomiting, abdominal distension, and so on. Data analysis was performed using SPSS23. The mean volume of total milk received by infants (p&#x2009;=&#x2009;0.047) and the mean volume of milk received by mouth (p&#x2009;<&#x2009;0.000) at the time of discharge were higher in the intervention group. Moreover, the time to start enteral nutrition in the intervention group was lower than in the control group (P&#x2009;=&#x2009;0.012). Administering mother's milk through the oropharyngeal method led to a reduction in infants' length of stay in the hospital (P&#x2009;=&#x2009;0.022). Based on the results of the present study, the oropharyngeal administration of breast milk in the first days after the birth of premature infants admitted to the hospital improves the outcomes related to their nutritional status. Therefore, it is suggested that this convenient, safe, and feasible method be used in hospitalized premature infants as soon as possible so that premature infants can benefit from the important advantages of breast milk.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ajog.2024.02.303
+- DOI: 10.1186/s12887-024-04621-5
 
 2. Keywords
-- continuous glucose monitoring
-- diet
-- digital health intervention
-- gestational diabetes
-- mobile application
-- physical activity
-- randomized controlled trial
-- self-management
+- Breast milk
+- Infant
+- Nutritional
+- Oropharyngeal methods
+- Outcomes
+- Premature
 
 3. Key Findings
-- The intervention arm showed a lower mean change in fasting plasma glucose than the control arm (difference,&#xa0;-0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- continuous glucose monitoring assessment methods and outcomes
-- diet assessment methods and outcomes
-- digital health intervention assessment methods and outcomes
+- Breast milk assessment methods and outcomes
+- Infant assessment methods and outcomes
+- Nutritional assessment methods and outcomes

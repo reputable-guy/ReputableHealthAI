@@ -1,21 +1,26 @@
-Study Title: Aficamten and Cardiopulmonary Exercise Test Performance: A Substudy of the SEQUOIA-HCM Randomized Clinical Trial.
+Study Title: 'Making a connection': a qualitative study of experiences from a cancer telerehabilitation program.
 
 Study Summary:
-Impaired exercise capacity is a cardinal manifestation of obstructive hypertrophic cardiomyopathy (HCM). The Phase 3 Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic Obstructive HCM (SEQUOIA-HCM) is a pivotal study characterizing the treatment effect of aficamten, a next-in-class cardiac myosin inhibitor, on a comprehensive set of exercise performance and clinical measures. To evaluate the effect of aficamten on exercise performance using cardiopulmonary exercise testing with a novel integrated measure of maximal and submaximal exercise performance and evaluate other exercise measures and clinical correlates. This was a prespecified analysis from SEQUOIA-HCM, a double-blind, placebo-controlled, randomized clinical trial. Patients were recruited from 101 sites in 14 countries (North America, Europe, Israel, and China). Individuals with symptomatic obstructive HCM with objective exertional intolerance (peak oxygen uptake [pVO2] &#x2264;90% predicted) were included in the analysis. Data were analyzed from January to March 2024. Randomized 1:1 to aficamten (5-20 mg daily) or matching placebo for 24 weeks. The primary outcome was change from baseline to week 24 in integrated exercise performance, defined as the 2-component z score of pVO2 and ventilatory efficiency throughout exercise (minute ventilation [VE]/carbon dioxide output [VCO2] slope). Response rates for achieving clinically meaningful thresholds for change in pVO2 and correlations with clinical measures of treatment effect (health status, echocardiographic/cardiac biomarkers) were also assessed. Among 282 randomized patients (mean [SD] age, 59.1&#x2009;[12.9] years; 115 female [40.8%], 167 male [59.2%]), 263 (93.3%) had core laboratory-validated exercise testing at baseline and week 24. Integrated composite exercise performance improved in the aficamten group (mean [SD] z score, 0.17&#x2009;[0.51]) from baseline to week 24, whereas the placebo group deteriorated (mean [SD] z score, -0.19&#x2009;[0.45]), yielding a placebo-corrected improvement of 0.35 (95% CI, 0.25-0.46; P&#x2009;<.001). Further, aficamten treatment demonstrated significant improvements in total workload, circulatory power, exercise duration, heart rate reserve, peak heart rate, ventilatory efficiency, ventilatory power, and anaerobic threshold (all P <.001). In the aficamten group, large improvements (&#x2265;3.0 mL/kg per minute) in pVO2 were more common than large reductions (32% and 2%, respectively) compared with placebo (16% and 11%, respectively). Improvements in both components of the primary outcome, pVO2 and VE/VCO2 slope throughout exercise, were significantly correlated with improvements in symptom burden and hemodynamics (all P <.05). This prespecified analysis of the SEQUOIA-HCM randomized clinical trial found that aficamten treatment improved a broad range of exercise performance measures. These findings offer valuable insight into the therapeutic effects of aficamten. ClinicalTrials.gov Identifier: NCT05186818.
+Specialised group-based exercise rehabilitation is beneficial for cancer survivors but access to these services is limited. Telerehabilitation provides an opportunity to expand reach, but we do not know about the experiences of those who participate in this way. This study explored participant experiences of an exercise-based telerehabilitation program for people with cancer. A qualitative study using semi-structured interviews was completed. Twenty-two cancer survivors were purposively sampled from the experimental group of a randomised controlled trial evaluating exercise-based cancer telerehabilitation delivered in groups using synchronous videoconferencing. Interviews were audio-recorded and transcribed verbatim. Data were coded independently by two reviewers and analysed inductively by thematic analysis. 'A feeling of connection' was the overarching theme. Participants perceived they connected with the health service, expert health professionals, and peers through participating in the telerehabilitation program. These connections provided a personalised rehabilitation experience and improved perceptions of physical and emotional well-being. Two subthemes suggested connection was facilitated by (1) the acceptability of telerehabilitation and (2) enhanced accountability to exercise. Participants felt disconnected when they were unable to participate in the program due to cancer treatment and side effects (e.g. fatigue), feeling unwell, and co-morbidities. We identified that telerehabilitation facilitated connections that enhanced the reach of exercise to cancer survivors. Our findings support using telerehabilitation to deliver specialised group-based exercise programs alongside more traditional models of care to increase participation in exercise among people with cancer.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1001/jamacardio.2024.2781
+- DOI: 10.1007/s00520-024-08803-w
 
 2. Keywords
-
+- Exercise
+- Implementation
+- Rehabilitation
+- Telehealth
+- Telerehabilitation
 
 3. Key Findings
-- Further, aficamten treatment demonstrated significant improvements in total workload, circulatory power, exercise duration, heart rate reserve, peak heart rate, ventilatory efficiency, ventilatory power, and anaerobic threshold (all P <
-- This prespecified analysis of the SEQUOIA-HCM randomized clinical trial found that aficamten treatment improved a broad range of exercise performance measures
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Exercise assessment methods and outcomes
+- Implementation assessment methods and outcomes
+- Rehabilitation assessment methods and outcomes

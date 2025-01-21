@@ -1,26 +1,26 @@
-Study Title: Analysis of risk factors for parenteral nutrition-associated cholestasis in preterm infants: a multicenter observational study.
+Study Title: The impact of a pilot telehealth coaching intervention to improve caregiver stress and well-being and to increase dietary protein intake of caregivers and their family members with dementia - Interrupted by COVID-19.
 
 Study Summary:
-It is proposed that the development of parenteral nutrition-associated cholestasis (PNAC) was significantly associated with preterm birth, low birth weight, infection, etc.; however, the etiology and pathogenesis of PNAC are not fully understood. Most of the studies examining PNAC-associated risk factors were single-center studies with relatively small sample sizes. To analyze the risk factors associated with PNAC in preterm infants in China. This is a retrospective multicenter observational study. Clinical data on the effect of multiple oil-fat emulsions (soybean oil-medium chain triglycerides-olive oil-fish oil, SMOF) in preterm infants were collected from a prospective multicenter randomized controlled study. A secondary analysis was performed in which preterm infants were divided into the PNAC group and the non-PNAC group based on the PNAC status. A total of 465 cases very preterm infants or very low birth weight infants were included in the study in which 81 cases were assigned to the PNAC group and 384 cases were assigned to the non-PNAC group. The PNAC group had a lower mean gestational age, lower mean birth weight, longer duration of invasive and non-invasive mechanical ventilation, a longer duration oxygen support, and longer hospital stay (P&#x2009;<&#x2009;0.001 for all). The PNAC group had higher respiratory distress syndrome, hemodynamically significant patent ductus arteriosus, necrotizing enterocolitis (NEC) with stage II or higher,&#xa0;surgically treated NEC, late-onset sepsis, metabolic bone disease, and extrauterine growth retardation (EUGR) compared to the non-PNAC group (P&#x2009;<&#x2009;0.05 for all). In contrast with the non-PNAC group, the PNAC group received a higher maximum dose of amino acids and fat emulsion, more medium/long-chain fatty emulsion, less SMOF, had a longer duration of parenteral nutrition, lower rates of breastfeeding, higher incidence of feeding intolerance (FI), more accumulated days to achieve total enteral nutrition, less accumulated days of total calories up to standard 110&#xa0;kcal/kg/day and slower velocity of weight growth (P&#x2009;<&#x2009;0.05 for all). Logistic regression analysis indicated that the maximum dose of amino acids (OR, 5.352; 95% CI, 2.355 to 12.161), EUGR (OR, 2.396; 95% CI, 1.255 to 4.572), FI (OR, 2.581; 95% CI, 1.395 to 4.775), surgically treated NEC (OR, 11.300; 95% CI, 2.127&#x2009;~&#x2009;60.035), and longer total hospital stay (OR, 1.030; 95% CI, 1.014 to 1.046) were independent risk factors for the development of PNAC. SMOF (OR, 0.358; 95% CI, 0.193 to 0.663) and breastfeeding (OR, 0.297; 95% CI, 0.157 to 0.559) were protective factors for PNAC. PNAC can be reduced by optimizing the management of enteral and parenteral nutrition and reducing gastrointestinal comorbidities in preterm infants.
+The prevalence of dementia is growing as the population and longevity increase. Caregivers of adults with dementia report stress and fatigue and often neglect their health. They also indicate the need for information to address health-related issues, including nutritional problems, of their family members with dementia (FMWD). This study examined the impact of coaching to improve family caregiver (FCG) stress and well-being and to increase the protein intake of both FCGs and their FMWD. All participants received nutrition education including a protein prescription (1.2&#xa0;g/kg body weight/day) and FCGs received stress-reduction materials. Coached-group randomized participants also received weekly diet coaching and stress-reduction coaching. At baseline and 8&#xa0;weeks, anthropometrics, a mini-nutritional assessment questionnaire, and diet (protein intake) were assessed in FCGs and FMWD; well-being, fatigue and strain were assessed in FCGs. Repeated two words measures analysis of variance and Fisher's exact tests examined within group and intervention effects. Twenty-five FCGs (13 coached group, 12 not-coached group) and 23 FMWD (12 coached group, 11 not-coached group) completed the study. No significant differences were found between coached and not-coached FCGs and FMWD at baseline. After 8- weeks, FCGs' protein intake significantly increased from 1.00 &#xb1; 0.17 to 1.35 &#xb1; 0.23&#xa0;g/kg/body weight in the coached group and from 0.91 &#xb1; 0.19 to 1.01 &#xb1; 0.33&#xa0;g/kg/body weight in the not-coached group; there was also an intervention effect (p=.01, &#x3b7;2 = .24). The percentage of FCGs with baseline protein intake less than prescription guidelines and with an end-of-study protein intake meeting/exceeding the prescription significantly differed, with 60% of coached FCGs versus 10% of not coached FCGs meeting the prescription. No intervention effects were shown for protein intake in FMWD or for well-being, fatigue or strain among FCGs. Diet coaching with nutrition education successfully assisted FCGs with improving their protein intake versus nutrition education alone.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1186/s12887-023-04068-0
+- DOI: 10.1177/14713012231177491
 
 2. Keywords
-- Multiple oil-fat emulsions
-- Nutrition
-- Parenteral nutrition-associated cholestasis
-- Preterm infant
-- Risk factor
+- adults with dementia
+- caregiver burden
+- coaching
+- diet
+- well-being
 
 3. Key Findings
-- Logistic regression analysis indicated that the maximum dose of amino acids (OR, 5
+- No significant differences were found between coached and not-coached FCGs and FMWD at baseline
 
 This study provides insights into:
-- Multiple oil-fat emulsions assessment methods and outcomes
-- Nutrition assessment methods and outcomes
-- Parenteral nutrition-associated cholestasis assessment methods and outcomes
+- adults with dementia assessment methods and outcomes
+- caregiver burden assessment methods and outcomes
+- coaching assessment methods and outcomes

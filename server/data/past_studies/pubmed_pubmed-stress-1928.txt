@@ -1,20 +1,26 @@
-Study Title: Inhalation of Hydrogen-rich Gas before Acute Exercise Alleviates Exercise Fatigue: A Randomized Crossover Study.
+Study Title: Practical cooling interventions for preventing heat strain in indoor factory workers in Thailand.
 
 Study Summary:
-Hydrogen, as an antioxidant, may have the potential to mitigate fatigue and improve selected oxidative stress markers induced by strenuous exercise. This study focused on a previously unexplored approach involving pre-exercise inhalation of hydrogen-rich gas (HRG). Twenty-four healthy adult men first completed pre-laboratories to determine maximum cycling power (W) and maximum cycling time (T). Then they were subjected to ride Tat 80% Wand 60-70&#x2009;rpm on cycle ergometers after inhaled HRG or placebo gas (air) for 60-minute in a double-blind, counterbalanced, randomized, and crossover design. The cycling frequency in the fatigue modeling process and the rating of perceived exertion (RPE) at the beginning and end of the ride were recorded. Before gas inhalation and after fatigue modeling, visual analog scale (VAS) for fatigue and counter-movement jump (CMJ) were tested, and blood samples were obtained. The results showed that compared to a placebo, HRG inhalation induced significant improvement in VAS, RPE, the cycling frequency during the last 30&#x2009;seconds in the fatigue modeling process, the ability to inhibit hydroxyl radicals, and serum lactate after exercise (p<0.028), but not in CMJ height and glutathione peroxidase activity. The cycling frequency during the last 30&#x2009;seconds of all other segments in the fatigue modeling process was within the range of 60-70&#x2009;rpm. In conclusion, HRG inhalation prior to acute exercise can alleviate exercise-induced fatigue, maintain functional performance, and improve hydroxyl radical and lactate levels.
+Occupational heat stress, exacerbated by factors such as climate change and insufficient cooling solutions, endangers the health and productivity of workers, especially in low-resource workplaces. To evaluate the effectiveness of two cooling strategies in reducing physiological strain and productivity of piece-rate workers over a 9-h work shift in a southern Thailand sawmill. In a crossover randomized control trial design, 12 (33&#x2009;&#xb1;&#x2009;7&#x2009;y; 1.58&#x2009;&#xb1;&#x2009;0.05&#x2009;m; 51&#x2009;&#xb1;&#x2009;9&#x2009;kg; n&#x2009;=&#x2009;5 females) medically screened sawmill workers were randomly allocated into three groups comprising an established phase change material vest (VEST), an on-site combination cooling oasis (OASIS) (i.e., hydration, cold towels, fans, water dousing), and no cooling (CON) across 3 consecutive workdays. Physiological strain was measured via core temperature telemetry and heart rate monitoring. Productivity was determined by counting the number of pallets of wood sorted, stacked, and stowed each day. Relative to CON, OASIS lowered core temperature by 0.25&#xb0;C [95% confidence interval&#x2009;=&#x2009;0.24, 0.25] and heart rate by 7 bpm [6, 9] bpm, compared to 0.17&#xb0;C [0.17, 0.18] and 10 [9,12] bpm reductions with VEST. It was inconclusive whether productivity was statistically lower in OASIS compared to CON (mean difference [MD]&#x2009;=&#x2009;2.5 [-0.2, 5.2]), and was not statistically different between VEST and CON (MD&#x2009;=&#x2009;1.4 [-1.3, 4.1]). Both OASIS and VEST were effective in reducing physiological strain compared to no cooling. Their effect on productivity requires further investigation, as even small differences between interventions could lead to meaningful disparities in piece-rate worker earnings over time.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1055/a-2318-1880
+- DOI: 10.1002/ajim.23589
 
 2. Keywords
-
+- body temperature
+- heart rate
+- heat stress disorders
+- hot temperature
+- occupational health
 
 3. Key Findings
-- The results showed that compared to a placebo, HRG inhalation induced significant improvement in VAS, RPE, the cycling frequency during the last 30&#x2009;seconds in the fatigue modeling process, the ability to inhibit hydroxyl radicals, and serum lactate after exercise (p<0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- body temperature assessment methods and outcomes
+- heart rate assessment methods and outcomes
+- heat stress disorders assessment methods and outcomes

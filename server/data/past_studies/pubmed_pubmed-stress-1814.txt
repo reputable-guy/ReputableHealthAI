@@ -1,21 +1,26 @@
-Study Title: Differential posttraumatic stress disorder symptom cluster response to stellate ganglion block: secondary analysis of a randomized controlled trial.
+Study Title: Perceived family-centered care and post-traumatic stress in parents of infants cared for in the paediatric cardiac intensive care unit.
 
 Study Summary:
-Empirically supported treatments for posttraumatic stress disorder (PTSD) exist, but research suggests these therapies are less effective, acceptable, and feasible to deliver to active duty service members (SMs) compared to civilians. Stellate ganglion block (SGB) procedure, in which a local anesthetic is injected around the cervical sympathetic chain or stellate ganglion to temporarily inhibit sympathetic nervous activity, is gaining popularity as an alternative PTSD treatment in military settings. However, it is unknown whether certain PTSD symptoms are more responsive to SGB than others. The current study involved a secondary analysis of data collected from a previous randomized controlled trial of SGB compared to sham (normal saline) injection (N&#x2009;=&#x2009;113 SMs). PTSD symptoms were assessed via clinical interview and self-report at baseline and 8 weeks post-SGB or sham. Logistic regression analyses showed that the marked alterations in arousal and reactivity PTSD symptom cluster demonstrated the greatest symptom severity reductions after SGB, relative to sham. The reexperiencing cluster also showed pronounced response to SGB in clinician-rated but not self-reported outcomes. Post-hoc item-level analyses suggested that arousal and reactivity cluster findings were driven by reductions in hypervigilance, concentration difficulties, and sleep disturbance, whereas clinician-rated reexperiencing cluster findings were driven by reductions in physiological reactions to trauma cues, emotional reactions to trauma cues, and intrusions. Our findings align with a burgeoning literature positioning SGB as a potential novel or adjunctive PTSD treatment. Results could guide future hypothesis-driven research on mediators of therapeutic change during SGB for PTSD symptoms in SMs.
+Family-centred care (FCC), while a core value of paediatric hospitals, has not been well-studied in the paediatric cardiac intensive care unit (PCICU). To describe parents' perceptions of FCC provided by nurses in the PCICU during their infant's recovery from neonatal cardiac surgery and explore associations of perceptions of FCC on parent post-traumatic stress (PTS) 4&#x2009;months post-discharge. Data obtained from a previously conducted randomized clinical trial (RCT) on telehealth home monitoring after neonatal cardiac surgery at three free-standing paediatric hospitals were analysed from a subset of 164 parents who completed the FCC Scale at hospital discharge, which measures a parent's experience of nursing care that embodies core principles of FCC. The RCT intervention was provided after hospital discharge, having no influence on parent's perception of FCC. The intervention also had no effect on PTS. Perceived FCC was lowest for items 'nurses helped me feel welcomed' and 'nurses helped me feel important in my child's care'. Having 12%-19% points lower perception of FCC at hospital discharge was associated with parent experience of six or more PTS symptoms, at least moderate PTS symptom severity, or PTS disorder diagnosis at 4-month follow-up. Every 10% increase in parental perceptions of FCC was associated with less PTS symptoms (&#x3b2;&#x2009;=&#x2009;-0.29, SE&#x2009;=&#x2009;0.12; p&#x2009;=&#x2009;.02) and lower PTS symptom cluster scores of arousal (&#x3b2;&#x2009;=&#x2009;-0.18, SE&#x2009;=&#x2009;0.08; p&#x2009;=&#x2009;.02). Parents who perceived lower FCC during their infants' hospitalization were at increased risk for the development of PTS symptoms, more PTS symptom severity and PTS disorder diagnosis 4-months post-discharge. Nurses have a prominent role to support the implementation of FCC for infants with cardiac defects and their parents. FCC may positively influence overall parent mental health and well-being, reducing the trauma and distress of the PCICU experience.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41398-024-02926-8
+- DOI: 10.1111/nicc.13094
 
 2. Keywords
-
+- PTSD
+- congenital heart defect
+- family&#x2010;centred nursing
+- intensive care units
+- posttraumatic stress disorder
 
 3. Key Findings
-- Logistic regression analyses showed that the marked alterations in arousal and reactivity PTSD symptom cluster demonstrated the greatest symptom severity reductions after SGB, relative to sham
-- The reexperiencing cluster also showed pronounced response to SGB in clinician-rated but not self-reported outcomes
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- PTSD assessment methods and outcomes
+- congenital heart defect assessment methods and outcomes
+- family&#x2010;centred nursing assessment methods and outcomes

@@ -1,24 +1,26 @@
-Study Title: Evaluation of a manualised neurofeedback training in psychosomatic-psychotherapeutic outpatient treatment (Neuro-pp-out): study protocol for a clinical mixed-methods pilot study.
+Study Title: Effect of implementation of the WHO intrapartum care model on maternal and neonatal outcomes: a randomized control trial.
 
 Study Summary:
-Electroencephalographic neurofeedback (NFB), as a non-invasive form of brainwave training, has been shown to be effective in the treatment of various mental health disorders. However, only few results regarding manualised and standardised NFB trainings exist. This makes comparison as well as replication of studies difficult. Therefore, we developed a standard manual for NFB training in patients with mental health disorders attending a psychosomatic outpatient clinic. The current study aims at investigating the conduction of a standardised manual for NFB training in patients with mental health disorders. If successful, the study provides new opportunities to investigate NFB in a more controlled and comparable manner in clinical practice. 30 patients diagnosed with a mental health disorder will be included. After the educational interview, patients will undergo baseline diagnostics (T0). The subsequent intervention consists of 10 sessions of NFB training aiming at increasing sensorimotor rhythm and alpha-frequency amplitudes and decreasing theta-frequency and high beta-frequency amplitudes to induce relaxation and decrease subjective stress. All patients will undergo a post-treatment diagnostic assessment (T1) and a follow-up assessment 8 weeks following the closing session (T2). Changes in amplitude bands (primary outcome) will be recorded with electroencephalography during pre-assessments, post-assessments and follow-up assessments and during NFB sessions. Physiological (respiratory rate, blood volume pulse, muscle tension) and psychometric parameters (distress, perceived stress, relaxation ability, depressive and anxiety symptoms, insomnia, self-efficacy and quality of life) will be assessed at T0, T1 and T2. Moreover, satisfaction, acceptance and usability will be assessed at T1 after NFB training. Further, qualitative interviews about the experiences with the intervention will be conducted with NFB practitioners 6&#x2009;months after the study starts. Quantitative data will be analysed using repeated measures analysis of variance as well as mediation analyses on mixed linear models. Qualitative data will be analysed using Mayring's content analysis. The study was approved by the ethics committee of the Medical Faculty of the University of Duisburg-Essen (23-11140-BO) and patient enrolment began in April 2023. Before participation, written informed consent by each participant will be required. Results will be published in peer-reviewed journals and conference presentations. Prospectively registered on 28 March 2023 in the German clinical trials register, DRKS00031497.
+In 2018, the World Health Organization published a set of recommendations for further emphasis on the quality of intrapartum care to improve the childbirth experience. This study aimed to determine the effects of the WHO intrapartum care model on the childbirth experience, fear of childbirth, the quality of intrapartum care (primary outcomes), as well as post-traumatic stress disorder symptoms, postpartum depression, the duration of childbirth stages, the frequency of vaginal childbirth, Apgar score less than 7, desire for subsequent childbearing, and exclusive breastfeeding in the 4 to 6 weeks postpartum period (secondary outcomes). This study was a randomized controlled trial involving 108 pregnant women admitted to the maternity units of Al-Zahra and Taleghani hospitals in Tabriz-Iran. Participants were allocated to either the intervention group, which received care according to the ' 'intrapartum care model, or the control group, which received the' 'hospital's routine care, using the blocked randomization method. A Partograph chart was drawn for each participant during pregnancy. A delivery fear scale was completed by all participants both before the beginning of the active phase (pre-intervention) and during 7 to 8&#xa0;cm dilation (post-intervention). Participants in both groups were followed up for 4 to 6 weeks after childbirth and were asked to complete questionnaires on childbirth experience, postpartum depression, and post-traumatic stress disorder symptoms, as well as the pregnancy and childbirth questionnaire and checklists on the desire to have children again and exclusive breastfeeding. The data were analyzed using independent T and Mann-Whitney U tests and analysis of covariance ANCOVA with adjustments for the parity variable and the baseline scores or childbirth fear. The average score for the childbirth experience total was notably higher in the intervention group (Adjusted Mean Difference (AMD) (95% Confidence Interval (CI)): 7.0 (0.6 to 0.8), p&#x2009;<&#x2009;0.001). Similarly, the intrapartum care quality score exhibited a significant increase in the intervention group (AMD (95% CI): 7.0 (4.0 to 10), p&#x2009;<&#x2009;0.001). Furthermore, the post-intervention fear of childbirth score demonstrated a substantial decrease in the intervention group (AMD (95% CI): -16.0 (-22.0 to -10.0), p&#x2009;<&#x2009;0.001). No statistically significant differences were observed between the two groups in terms of mean scores for depression, PTSD symptoms, duration of childbirth stages, frequency of vaginal childbirth, Apgar score less than 7, and exclusive breastfeeding in the 4 to 6 weeks postpartum (p&#x2009;>&#x2009;0.05). The intrapartum care model endorsed by the World Health Organization (WHO) has demonstrated effectiveness in enhancing childbirth experiences and increasing maternal satisfaction with the quality of obstetric care. Additionally, it contributes to the reduction of fear associated with labor and childbirth. Future research endeavors should explore strategies to prioritize and integrate respectful, high-quality care during labor and childbirth alongside clinical measures.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/bmjopen-2023-079098
+- DOI: 10.1186/s12884-024-06449-4
 
 2. Keywords
-- Adult psychiatry
-- MENTAL HEALTH
-- Neurophysiology
+- Childbirth experience
+- Fear of childbirth
+- Intrapartum care
+- Quality of care
 
 3. Key Findings
-- Findings extraction requires manual review
+- Furthermore, the post-intervention fear of childbirth score demonstrated a substantial decrease in the intervention group (AMD (95% CI): -16
+- The intrapartum care model endorsed by the World Health Organization (WHO) has demonstrated effectiveness in enhancing childbirth experiences and increasing maternal satisfaction with the quality of obstetric care
 
 This study provides insights into:
-- Adult psychiatry assessment methods and outcomes
-- MENTAL HEALTH assessment methods and outcomes
-- Neurophysiology assessment methods and outcomes
+- Childbirth experience assessment methods and outcomes
+- Fear of childbirth assessment methods and outcomes
+- Intrapartum care assessment methods and outcomes

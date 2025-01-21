@@ -1,26 +1,27 @@
-Study Title: Impact of Physical Activity in Patients With Atrial Fibrillation Undergoing Catheter Ablation: The Multicenter Randomized BE-ACTION Trial.
+Study Title: Efficacy and safety of macitentan in Fontan-palliated patients: 52-week randomized, placebo-controlled RUBATO Phase 3 trial and open-label extension.
 
 Study Summary:
-Arrhythmia recurrence after pulmonary vein isolation (PVI) is common. We conducted a multicenter, randomized trial to determine the impact of increased physical activity on atrial fibrillation recurrence after PVI. From 2018 to 2020, we randomly assigned 200 patients with atrial fibrillation to the ACTION or NO-ACTION group in 4 different centers in the local country of Brandenburg, Germany. Patients were eligible if they were scheduled to undergo PVI, aged &#x2265;50 to &#x2264;77 years, body mass index &#x2265;23 to &#x2264;35 kg/m, and accepted wearing an activity tracker allowing 24-hour activity monitoring via mobile app. Patients in the ACTION group were actively remote-controlled via transmitted activity data by a physiotherapist, and individual motivational interviewing call sessions were scheduled with each ACTION patient every 2 weeks. The primary end point was the composite of recurrence of any atrial arrhythmia >30 seconds, additional ablation procedure, cardioversion, and new onset of antiarrhythmic drugs earliest after 90 days after index PVI over 12 months. Overall, the median age of patients was 66 (interquartile range, 61-71) years, 33.5% were women, and 52% had persistent atrial fibrillation. The number of steps per day increased in both groups of patients from baseline to 12 months (<0.001). The absolute increase in steps per day did not differ between patients in the ACTION group with +3205 steps (597-4944) compared with those in the NO-ACTION group +2423 steps (17-4284),=0.325. Unadjusted intention-to-treat analysis showed no difference in the primary composite end point in the ACTION group (27.3%) versus the NO-ACTION group (32.7%),=0.405. Physical activity improved in patients after PVI. The present randomized controlled trial shows that activity tracker and motivational calls to increase physical activity versus activity tracker alone did not reduce the occurrence of the primary composite end point of atrial fibrillation recurrence or the absolute increase in steps per day. URL: https://www.cochranelibrary.com; Unique identifier: DRKS00012914.
+The efficacy and safety of macitentan, an endothelin receptor antagonist, were assessed in a 52-week, prospective, multicenter, double-blind, randomized, placebo-controlled, parallel-group study assessing the efficacy and safety of macitentan in Fontan-palliated adult and adolescent patients (RUBATO-DB) and an open-label extension trial (RUBATO-OL). Patients aged 12&#xa0;years and older with New York Heart Association functional class II or III underwent total cavopulmonary connection more than 1&#xa0;year before screening and showed no signs of Fontan failure/clinical deterioration. In RUBATO-DB, the primary efficacy end point was change in peak oxygen consumption from baseline to week 16; secondary end points were change from baseline over 52&#xa0;weeks in peak oxygen consumption and change in mean count/minute of daily physical activity via accelerometer from baseline to week 16. Safety was assessed&#xa0;throughout both studies. In RUBATO-DB, 137 patients were randomized to macitentan 10&#xa0;mg (n&#xa0;=&#xa0;68) or placebo (n&#xa0;=&#xa0;69); 92.7% completed 52-week double-blind treatment. At week 16, mean&#xa0;&#xb1;&#xa0;SD change in peak oxygen consumption was -0.16&#xa0;&#xb1;&#xa0;2.86 versus -0.67&#xa0;&#xb1;&#xa0;2.66&#xa0;mL/kg/minute with macitentan versus placebo (median unbiased treatment difference estimate, 0.62&#xa0;mL/kg/minute [99% repeated CI, -0.62 to 1.85]; P&#xa0;=&#xa0;.19). No treatment effect was observed in either of the secondary end points. During RUBATO-DB, most common adverse events with macitentan were headache, nasopharyngitis, and pyrexia. Across RUBATO-DB and RUBATO-OL, most common adverse events were COVID-19, headache, and fatigue. RUBATO-OL was prematurely discontinued because RUBATO-DB did not meet its primary or secondary end point. The primary end point of RUBATO-DB was not met; macitentan did&#xa0;not improve exercise capacity versus placebo in patients with Fontan palliation. Macitentan was generally well tolerated over long-term treatment.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1161/CIRCOUTCOMES.124.010877
+- Publication Date: 2025
+- DOI: 10.1016/j.jtcvs.2024.08.039
 
 2. Keywords
-- anti-arrhythmia agents
-- atrial fibrillation
-- exercise
-- fitness trackers
-- pulmonary veins
+- Fontan procedure
+- congenital
+- endothelin receptor antagonist
+- exercise test
+- heart defects
+- open label
 
 3. Key Findings
-- Unadjusted intention-to-treat analysis showed no difference in the primary composite end point in the ACTION group (27
+- Patients aged 12&#xa0;years and older with New York Heart Association functional class II or III underwent total cavopulmonary connection more than 1&#xa0;year before screening and showed no signs of Fontan failure/clinical deterioration
 
 This study provides insights into:
-- anti-arrhythmia agents assessment methods and outcomes
-- atrial fibrillation assessment methods and outcomes
-- exercise assessment methods and outcomes
+- Fontan procedure assessment methods and outcomes
+- congenital assessment methods and outcomes
+- endothelin receptor antagonist assessment methods and outcomes

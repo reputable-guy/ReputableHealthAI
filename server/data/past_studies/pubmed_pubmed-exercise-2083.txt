@@ -1,27 +1,26 @@
-Study Title: Safety and therapeutic potential of allogeneic adipose-derived stem cell spray transplantation in ischemic cardiomyopathy: a phase I clinical trial.
+Study Title: Repetitive Transcranial Magnetic Stimulation Coupled With Visual-Feedback Cycling Exercise Improves Walking Ability and Walking Stability After Stroke: A Randomized Pilot Study.
 
 Study Summary:
-Ischemic cardiomyopathy, characterized by coronary artery atherosclerosis, impairs the myocardial tissue. Coronary artery bypass grafting (CABG) is commonly used to revascularize affected areas and improve patient survival rates; however, it can fail to enhance cardiac function. Impaired capillary blood flow may obstruct functional recovery, prompting interest in treatments, such as angiogenic factor administration. Adipose-derived stem cells (ADSCs), which are known for immune evasion, have shown the potential to construct capillary networks and improve myocardial function. This clinical trial aimed to evaluate the safety and efficacy of ADSC spray therapy combined with CABG. This single-center, randomized, double-blind study involved patients with ischemic cardiomyopathy who were scheduled for CABG and who had a left ventricular ejection fraction&#x2009;&#x2264;&#x2009;40%. The participants were randomized to receive CABG as well as ADSC spray therapy or placebo. The primary endpoints were safety, changes in late gadolinium-enhanced (LGE) magnetic resonance imaging (MRI) volumes, and feasibility. The secondary endpoints included left ventricular function, exercise tolerance, and heart failure symptoms. Seven patients were enrolled; of them, six were randomized to receive ADSC therapy (n&#x2009;=&#x2009;3) or placebo (n&#x2009;=&#x2009;3). The procedure was successfully completed with minimal adverse events. One patient in the ADSC group developed pleural effusion that was resolved with drainage. The LGE-MRI volumes decreased in the ADSC group but remained unchanged in the placebo group. Improvements in left ventricular function and exercise tolerance were noted in the ADSC group, with heart failure symptoms improving to New York Heart Association class I. In contrast, the placebo group showed no significant changes, with one patient experiencing worsening symptoms. ADSC spray therapy combined with CABG demonstrated safety and efficacy at enhancing cardiac function. ADSC likely contributes to capillary network reconstruction, thereby augmenting the benefits of CABG. Future phase II and III trials are warranted to confirm its therapeutic efficacy and long-term outcomes. This novel approach represents a significant advancement in the treatment of ischemic cardiomyopathy and offers a viable strategy for improving myocardial function and patient prognosis. Trial registration This study was registered with the Japan Registry of Clinical Trials (jRCT2053190103) and ClinicalTrials.gov (NCT04695522).
+Stroke survivors exhibit persistent abnormal gait patterns, particularly in diminished walking ability and stability, limiting mobility and increasing the risk of falling. The purpose of the study was to determine the effects of repetitive transcranial magnetic stimulation (rTMS) coupled with cycling exercise on walking ability and stability in patients with stroke and explore the potential mechanisms underlying motor cortex recovery.In this double-blinded randomized pilot trial, 32 stroke patients were randomly separated into the real-rTMS group (RG, receiving rTMS during active cycling exercise) and the sham-rTMS group (SG, receiving sham rTMS during active cycling exercise). Participants completed 10 exercise sessions (5 times per week). Lower extremity function was measured using the Fugl-Meyer assessment of lower extremity (FMA-LE), and functional balance ability was measured by the Berg balance scale (BBS). The 2-min walk test (2MWT) and standing balance test were employed to evaluate walking and balance ability. Motor evoked potentials (MEPs) were measured to evaluate cortical excitability. The above assessments were administered at baseline and after the intervention. Additionally, the cycling exercise performance was recorded after the initial and final exercise sessions to evaluate the motor control during exercise.The RG showed significant improvements in lower extremity function (FMA-LE) and functional balance ability (BBS) compared to the SG at postintervention. The walking and balance abilities, as well as the motor asymmetry of cycling exercise, significantly improved in RG. Additionally, participants in RG exhibited a higher elicitation rate of ipsilesional MEPs than that in SG. The improvements in motor asymmetry of cycling exercise in RG were significantly associated with increases in FMA-LE scores and walking ability.The combination of rTMS and cycling exercise effectively improves walking ability and walking stability in patients with stroke, which may be related to the excitability modulation of the motor cortex induced by rTMS.: Clinical Trial Registry identifier: ChiCTR2400079360.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12967-024-05816-1
+- DOI: 10.1155/np/8737366
 
 2. Keywords
-- Adipose-derived mesenchymal stem cells
-- Cell therapy
-- Coronary artery bypass grafting
-- Heart failure
-- Myocardial regenerative medicine
+- cycling exercise
+- lower extremity function
+- motor evoked potentials
+- repetitive transcranial magnetic stimulation
+- stroke rehabilitation
 
 3. Key Findings
-- In contrast, the placebo group showed no significant changes, with one patient experiencing worsening symptoms
-- ADSC spray therapy combined with CABG demonstrated safety and efficacy at enhancing cardiac function
+- The RG showed significant improvements in lower extremity function (FMA-LE) and functional balance ability (BBS) compared to the SG at postintervention
 
 This study provides insights into:
-- Adipose-derived mesenchymal stem cells assessment methods and outcomes
-- Cell therapy assessment methods and outcomes
-- Coronary artery bypass grafting assessment methods and outcomes
+- cycling exercise assessment methods and outcomes
+- lower extremity function assessment methods and outcomes
+- motor evoked potentials assessment methods and outcomes

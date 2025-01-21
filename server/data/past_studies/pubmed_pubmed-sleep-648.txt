@@ -1,26 +1,26 @@
-Study Title: Resident worklife and wellness through the late phase of the pandemic: a mixed methods national survey study.
+Study Title: Self-Selected Versus Assigned Target to Reduce Smartphone Use and Improve Mental Health: Protocol for a Randomized Controlled Trial.
 
 Study Summary:
-System contributors to resident burnout and well-being have been under-studied. We sought to determine factors associated with resident burnout and identify at risk groups. We performed a US national survey between July 15 2022 and April 21, 2023 of residents in 36 specialties in 14 institutions, using the validated Mini ReZ survey with three 5 item subscales: 1) supportive workplace, 2) work pace/electronic medical record (EMR) stress, and 3) residency-specific factors (sleep, peer support, recognition by program, interruptions and staff relationships). Multilevel regressions and thematic analysis of 497 comments determined factors related to burnout. Of 1118 respondents (approximate median response rate 32%), 48% were female, 57% White, 21% Asian, 6% LatinX and 4% Black, with 25% PGY 1&#xa0;s, 25% PGY 2&#xa0;s, and 22% PGY 3&#xa0;s. Programs included internal medicine (15.1%) and family medicine (11.3%) among 36 specialties. Burnout (found in 42%) was higher in females (51% vs 30% in males, p&#x2009;=&#x2009;0.001) and PGY 2's (48% vs 35% in PGY-1&#xa0;s, p&#x2009;=&#x2009;0.029). Challenges included chaotic environments (41%) and sleep impairment (32%); favorable aspects included teamwork (94%), peer support (93%), staff support (87%) and program recognition (68%). Worklife subscales were consistently lower in females while PGY-2's reported the least supportive work environments. Worklife challenges relating to burnout included sleep impairment (adjusted Odds Ratio (aOR) 2.82 (95% CIs 1.94, 4.19), absolute risk difference (ARD) in burnout 15.9%), poor work control (aOR 2.25 (1.42, 3.58), ARD 12.2%) and chaos (aOR 1.73 (1.22, 2.47), ARD 7.9%); program recognition was related to lower burnout (aOR 0.520 (0.356, 0.760), ARD 9.3%). These variables explained 55% of burnout variance. Qualitative data confirmed sleep impairment, lack of schedule control, excess EMR and patient volume as stressors. These data provide a nomenclature and systematic method for addressing well-being during residency. Work conditions for females and PGY 2's may merit attention first.
+Smartphones have become integral to people's lives, with a noticeable increase in the average screen time, both on a global scale and, notably, in India. Existing research links mobile consumption to sleep problems, poor physical and mental health, and lower subjective well-being. The comparative effectiveness of monetary incentives given for self-selected versus assigned targets on reducing screen time and thereby improving mental health remains unanswered. This study aims to assess the impact of monetary incentives and target selection on mobile screen time reduction and mental health. We designed a 3-armed randomized controlled trial conducted with employees and students at an educational institution in India. The study is conducted digitally over 12 weeks, including baseline (2 weeks), randomization (1 week), intervention (5 weeks), and postintervention (4 week) periods. We emailed the employees and students to inquire about their interest in participation. Those who expressed interest received detailed study information and consent forms. After securing consent, participants were asked to complete the initial survey and provide their mobile screen time during the baseline period. At the beginning of the intervention period, the participants were randomly allocated into 1 of 3 study groups in a 2:2:1 ratio (self-selected vs assigned vs control). Participants in the self-selected group were presented with 3 target options: 10%, 20%, and 30%, and they were asked to self-select a target to reduce their mobile screen time from their baseline average mobile screen time. Participants in the assigned group were given a target to reduce their mobile screen time from their baseline average mobile screen time. The assigned target was set as the average of the targets selected by participants in the self-selected group. During the intervention period, participants in the self-selected and assigned group were eligible to receive a monetary incentive of INR (Indian Rupee) 50 (US $0.61) per day for successfully attaining their target. Participants in the control group neither received nor selected a target for reducing their mobile screen time and did not receive any monetary incentives during the intervention period. All participants received information regarding the advantages of reducing mobile screen time. As an incentive, all participants would receive INR 500 (US $6.06) upon completion of the study and a chance to win 1 of 2 lotteries valued at INR 5000 (US $60.55) for consistently sharing their mobile screen time data. Currently, the study intervention is being rolled out. Enrollment occurred between August 21, 2023, and September 2, 2023; data collection concluded in November 2023. We expect that results will be available by early 2024. The monetary incentives and self-selected versus assigned targets might be effective interventions in reducing mobile screen time among working professionals and students. AsPredicted 142497; https://aspredicted.org/hr3nn.pdf. DERR1-10.2196/53756.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12909-024-05480-5
+- DOI: 10.2196/53756
 
 2. Keywords
-- Burnout
-- Gender differences
-- Residency training
-- Sleep impairment
-- Stress
+- mental health
+- mobile phone
+- monetary incentives
+- screen time
+- target selection
 
 3. Key Findings
-- Burnout (found in 42%) was higher in females (51% vs 30% in males, p&#x2009;=&#x2009;0
+- Enrollment occurred between August 21, 2023, and September 2, 2023; data collection concluded in November 2023
 
 This study provides insights into:
-- Burnout assessment methods and outcomes
-- Gender differences assessment methods and outcomes
-- Residency training assessment methods and outcomes
+- mental health assessment methods and outcomes
+- mobile phone assessment methods and outcomes
+- monetary incentives assessment methods and outcomes

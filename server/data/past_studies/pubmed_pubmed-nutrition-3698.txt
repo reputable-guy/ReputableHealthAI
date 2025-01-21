@@ -1,25 +1,26 @@
-Study Title: Nomogram Model Based on Iodine Nutrition and Clinical Characteristics of Papillary Thyroid Carcinoma to Predict Lateral Lymph Node Metastasis.
+Study Title: Lifestyle interventions to prevent adverse pregnancy outcomes in women at high risk for gestational diabetes mellitus: a randomized controlled trial.
 
 Study Summary:
-Preoperative evaluation of lateral lymph node metastasis (LLNM) in patients with papillary thyroid carcinoma (PTC) has been one of the major clinical challenges. This study aims to develop and validate iodine nutrition-related nomogram models to predict lateral cervical lymph node metastasis in patients with PTC. This is a retrospective study. Urinary iodine concentration (UIC) and serum iodine concentration (SIC) were measured in 187 LLNM patients and 289 non-LLNM (NLLNM) patients. All patients were randomized 3:1 into the training cohort (n = 355) and the validation cohort (n = 121). Using logistic regression analysis, we analyzed the influence of iodine nutrition-related factors and clinicopathological characteristics on LLNM in PTC patients. Lasso regression method was used to screen risk factors and construct a nomogram for predicting LLNM. The receiver operating characteristic curve (ROC curve), calibration curve, and decision curve analysis (DCA) of the nomogram models were carried out for the training and validation cohorts. Gender, SIC, smoking history, drinking history, family history of PTC, multifocality, bilateral or unilateral tumors, TSH, Tg, and tumor size were included in the nomogram model predicting LLNM, with an area under the curve (AUC) of .795. The nomogram model showed good calibration and clinical benefit in both the training and validation cohorts. The nomogram model based on iodine nutrition and other clinicopathological features is effective for predicting the lateral lymph node metastasis in PTC patients.
+To examine the effects of lifestyle interventions, including dietary guidance, health education and weight management, on pregnancy outcomes in women at high risk of gestational diabetes mellitus (GDM). Our study included 251 women at high risk of GDM and 128 randomized to lifestyle interventions (dietary guidance, health education, and weight management); One hundred and twenty-three people were randomly assigned to a control group (regular pregnancy check-ups). Counts between groups were compared using either chi-square test or Fisher's exact test. Compared with the control group, the risk of GDM was reduced by 46.9% (16.4% vs 30.9%,= 0.007) and the risk of pregnancy induced hypertension (PIH) was reduced by 74.2% (2.3% vs 8.9%,= 0.034) in the intervention group. There were no significant differences in macrosomia, cesarean section, or preterm birth (>0.05). The lifestyle intervention in this study helped pregnant women to better understand knowledge related to pregnancy, reduce stress and anxiety, and increase intake of adequate prenatal nutrition. This intervention prevented metabolic abnormalities that may occur due to inadequate nutrient intake during pregnancy. In addition, it helped women to control weight gain, maintain appropriate weight gain during pregnancy, and reduce the risk of excessive or insufficient weight gain, ultimately lowering the incidence of GDM and PIH. This highlights the importance of early screening and intervention for high-risk pregnant women. https://www.chictr.org.cn, identifier ChiCTR2300073766.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1177/10732748231193248
+- DOI: 10.3389/fimmu.2023.1191184
 
 2. Keywords
-- iodine nutrition
-- lateral lymph node metastasis
-- nomogram model
-- papillary thyroid carcinoma
+- gestational diabetes mellitus
+- high risk
+- lifestyle interventions
+- pregnancy outcomes
+- prevention
 
 3. Key Findings
-- The nomogram model showed good calibration and clinical benefit in both the training and validation cohorts
+- Findings extraction requires manual review
 
 This study provides insights into:
-- iodine nutrition assessment methods and outcomes
-- lateral lymph node metastasis assessment methods and outcomes
-- nomogram model assessment methods and outcomes
+- gestational diabetes mellitus assessment methods and outcomes
+- high risk assessment methods and outcomes
+- lifestyle interventions assessment methods and outcomes

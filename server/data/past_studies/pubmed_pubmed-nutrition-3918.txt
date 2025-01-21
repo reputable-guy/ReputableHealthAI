@@ -1,20 +1,30 @@
-Study Title: A Nomogram Based on Nutrition-Related Indicators and Computed Tomography Imaging Features for Predicting Preoperative Lymph Node Metastasis in Curatively Resected Esophagogastric Junction Adenocarcinoma.
+Study Title: Effects of engaging fathers and bundling nutrition and parenting interventions on household gender equality and women's empowerment in rural Tanzania: Results from EFFECTS, a five-arm cluster-randomized controlled trial.
 
 Study Summary:
-Preoperative noninvasive tools to predict pretreatment lymph node metastasis (PLNM) status accurately for esophagogastric junction adenocarcinoma (EJA) are few. Thus, the authors aimed to construct a nomogram for predicting PLNM in curatively resected EJA. This study enrolled 638 EJA patients who received curative surgery resection and divided them randomly (7:3) into training and validation groups. For nomogram construction, 26 candidate parameters involving 21 preoperative clinical laboratory blood nutrition-related indicators, computed tomography (CT)-reported tumor size, CT-reported PLNM, gender, age, and body mass index were screened. In the training group, Lasso regression included nine nutrition-related blood indicators in the PLNM-prediction nomogram. The PLNM prediction nomogram yielded an area under the receiver operating characteristic (ROC) curve of 0.741 (95 % confidence interval [CI], 0.697-0.781), which was better than that of the CT-reported PLNM (0.635; 95% CI 0.588-0.680; p < 0.0001). Application of the nomogram in the validation cohort still gave good discrimination (0.725 [95% CI 0.658-0.785] vs 0.634 [95% CI 0.563-0.700]; p = 0.0042). Good calibration and a net benefit were observed in both groups. This study presented a nomogram incorporating preoperative nutrition-related blood indicators and CT imaging features that might be used as a convenient tool to facilitate the preoperative individualized prediction of PLNM for patients with curatively resected EJA.
+Advancing gender equality and women's empowerment (GE/WE) may contribute to better child nutrition and development in low-resource settings. However, few empirical studies have generated evidence on GE/WE and examined the potential of engaging men to transform gender norms and power relations in the context of nutrition and parenting programs. We tested the independent and combined effects of engaging couples and bundling nutrition and parenting interventions on GE/WE in Mara, Tanzania. EFFECTS (ClinicalTrials.gov, NCT03759821) was a cluster-randomized 2&#xa0;&#xd7;&#xa0;2 factorial trial plus control. Eighty village clusters were randomly assigned to one of five intervention conditions: standard of care, mothers nutrition, couples nutrition, mothers bundled nutrition and parenting, or couples bundled nutrition and parenting. Between October 2018-May 2019, 960 households were enrolled with children under 18 months of age residing with their mother and father. Community health workers (CHWs) delivered a bi-weekly 24-session hybrid peer group/home visit gender-transformative behavior change program to either mothers or couples. GE/WE outcomes were analyzed as intention-to-treat and included time use, gender attitudes, social support, couples' communication frequency and quality, decision-making power, intimate partner violence (IPV), and women's dietary diversity (WDD). Data were collected from 957 to 815 mothers and 913 and 733 fathers at baseline and endline, respectively. Engaging couples compared to mothers only significantly increased paternal and maternal gender-equitable attitudes, paternal time spent on domestic chores, and maternal decision-making power. Bundling increased maternal leisure time, decreased maternal exposure to any IPV, and increased WDD over 7 days. A combination of engaging couples and bundling was most effective for paternal gender attitudes, couples communication frequency, and WDD over 24&#xa0;h and 7 days. Our findings generate novel evidence that CHWs can deliver bundled nutrition and parenting interventions to couples in low-resource community settings that advance GE/WE more than nutrition interventions targeting only women.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1245/s10434-023-13378-7
+- DOI: 10.1016/j.socscimed.2023.115869
 
 2. Keywords
-
+- Community health workers
+- Couples interventions
+- Engaging fathers
+- Gender equality
+- Maternal and child nutrition
+- Parenting
+- Randomized controlled trial
+- Tanzania
+- Women's empowerment
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Community health workers assessment methods and outcomes
+- Couples interventions assessment methods and outcomes
+- Engaging fathers assessment methods and outcomes

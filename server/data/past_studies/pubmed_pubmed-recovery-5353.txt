@@ -1,26 +1,20 @@
-Study Title: Twenty-Four-Hour Post-Thrombolysis NIHSS Score As the Strongest Prognostic Predictor After Acute Ischemic Stroke: ENCHANTED Study.
+Study Title: Cognitive behavioral stress management effectively facilitates neurologic recovery, alleviates mental distress, and elevates health status in acute ischemic stroke patients.
 
 Study Summary:
-This study was conducted to determine optimal predictive ability of National Institutes of Health Stroke Scale (NIHSS) measurements at baseline, 24&#x2009;hours, and change from baseline to 24&#x2009;hours after thrombolysis on functional recovery in patients with acute ischemic stroke who participated in the ENCHANTED (Enhanced Control of Hypertension and Thrombolysis Stroke Study). ENCHANTED was an international, multicenter, 2&#xd7;2 quasifactorial, prospective, randomized open trial of low-dose versus standard-dose intravenous alteplase and intensive versus guideline-recommended blood pressure lowering in thrombolysis-eligible patients with acute ischemic stroke. Absolute (baseline minus 24&#x2009;hours) and percentage (absolute change/baseline&#x2009;&#xd7;&#x2009;100) changes in NIHSS scores were calculated. Receiver operating characteristic curve analyses assessed performance of different NIHSS measurements on 90-day favorable functional recovery (modified Rankin Scale [mRS] score 0-2) and excellent functional recovery (mRS score 0-1). Youden index was used to identify optimal predictor cutoff points. A total of 4410 patients in the ENCHANTED trial were enrolled. The 24-hour NIHSS score had the highest discriminative ability for predicting favorable 90-day functional recovery (mRS score 0-2; area under the curve 0.866 versus 0.755, 0.689, 0.764;<0.001) than baseline, absolute, and percentage change of NIHSS score, respectively. The optimal cutoff point of 24-hour NIHSS score for predicting favorable functional recovery was &#x2264;4 (sensitivity 66.5%, specificity 87.1%, adjusted odds ratio, 9.44 [95% CI, 7.77-11.48]). The 24-hour NIHSS score (&#x2264;3) was the best predictor of 90-day excellent functional recovery (mRS score 0-1). Findings were consistent across subgroups, including sex, race, baseline NIHSS score, stroke subtype, and age. In thrombolysis-eligible patients with acute ischemic stroke, 24-hour NIHSS score (optimal cutpoint of 4) is the strongest predictor of 90-day functional recovery over baseline and early change of NIHSS score. URL: https://clinicaltrials.gov. Unique Identifier: NCT01422616.
+Cognitive behavioral stress management (CBSM) relieves physical and psychological burdens in patients with some central nervous system diseases, while its utility in acute ischemic stroke (AIS) patients is unclear. This study aimed to explore the effect of CBSM on neurologic recovery and psychosomatic health in AIS patients. Totally, 176 naive AIS patients were randomized into routine care (RC) group (n=88) and CBSM group (n=88) to receive a 3-month corresponding intervention. Modified Rankin scale (mRS) scores at the first month after discharge (M1) (P=0.008) and the third month after discharge (M3) (P=0.016) were lower in the CBSM group than in the RC group. The proportion of AIS patients with mRS score >2 at M3 was reduced in CBSM group vs RC group (P=0.045). Hospital anxiety depression scale (HADS)-anxiety score at M3 (P=0.016), HADS-depression score at M3 (P=0.005), and depression rate at M3 (P=0.021) were decreased in the CBSM group vs the RC group. EuroQol-5 dimension scores at M1 (P=0.024) and M3 (P=0.012) were decreased, while EuroQol-visual analogue scale score at M3 (P=0.026) was increased in the CBSM group vs the RC group. By subgroup analyses, CBSM had favorable outcomes in AIS patients with age &#x2264;65 years. CBSM was beneficial to neurologic recovery and distress relief in AIS patients with an education level of middle school or above, and to health status in those with an education level of primary school or uneducated. In conclusion, CBSM benefitted neurologic recovery and psychosomatic health in AIS patients with minor neurological deficits, however, further studies should verify these results with a larger sample size and longer follow-up.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1161/JAHA.124.036109
+- DOI: 10.1590/1414-431X2024e13689
 
 2. Keywords
-- ENCHANTED
-- NIHSS score
-- ischemic stroke
-- predictor
-- thrombolysis
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- ENCHANTED assessment methods and outcomes
-- NIHSS score assessment methods and outcomes
-- ischemic stroke assessment methods and outcomes
+- General research methodology and outcomes

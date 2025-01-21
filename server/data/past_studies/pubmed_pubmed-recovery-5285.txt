@@ -1,25 +1,30 @@
-Study Title: Dynamic interplay of cortisol and BDNF in males under acute and chronic psychosocial stress - A randomized controlled study.
+Study Title: From pain level to pain experience: redefining acute pain assessment to enhance understanding of chronic postsurgical pain.
 
 Study Summary:
-The neurotrophic protein brain-derived neurotrophic factor (BDNF) plays a pivotal role in brain function and is affected by acute and chronic stress. We here investigate the patterns of BDNF and cortisol stress reactivity and recovery under the standardized stress protocol of the TSST and the effect of perceived chronic stress on the basal BDNF levels in healthy young men. Twenty-nine lean young men underwent the Trier Social Stress Test (TSST) and a resting condition. Serum BDNF and cortisol were measured before and repeatedly after both conditions. The perception of chronic stress was assessed by the Trier Inventory for Chronic Stress (TICS). After the TSST, there was a significant increase over time for BDNF and cortisol. Stronger increase in cortisol in response to stress was linked to an accelerated BDNF decline after stress. Basal resting levels of BDNF was significantly predicted by chronic stress perception. The increased BDNF level following psychosocial stress suggest a stress-induced neuroprotective mechanism. The presumed interplay between BDNF and the HPA-axis indicates an antagonistic relationship of cortisol on BDNF recovery post-stress. Chronically elevated high cortisol levels, as present in chronic stress, could thereby contribute to reduced neurogenesis, and an increased risk of neurodegenerative conditions in persons suffering from chronic stress.
+Chronic postsurgical pain (CPSP) significantly impairs quality of life and poses a substantial healthcare burden, affecting up to a quarter of patients undergoing surgery. Although acute pain is recognised as a predictor for CPSP development, the role of patient experience remains underexplored. This study examines the predictive value of patient experience alongside traditional risk factors for CPSP after orthopaedic surgery. An exploratory analysis was conducted on 294 patients from a multicentre randomised clinical trial comparing continuous perineural analgesia and single-injection nerve block in ambulatory orthopaedic surgeries. Patient experience was assessed using the Evaluation du Vecu de l'Anesth&#xe9;sie G&#xe9;n&#xe9;rale (EVAN-G) validated questionnaire. Factors associated with CPSP at 90 days after surgery were identified through univariate and multivariate analyses, incorporating patient-reported outcomes and classical variables. Out of 219 patients with complete data, 63 (29%) developed CPSP at day 90. Multivariate analysis revealed a poor pain experience, as assessed by the pain dimension of EVAN-G on postoperative day 2, as an independent predictor of CPSP (odds ratio 6.45, 95% confidence interval 1.65-25.26, P<0.01). Poor pain experience was associated with an augmented risk of CPSP. This study underscores the role of patient-reported outcomes, specifically the pain experience dimension captured by the EVAN-G scale, in prediction of CPSP 90 days after surgery. It suggests a shift from conventional assessments of pain intensity to a comprehensive understanding of pain experience, advocating for tailored pain management approaches that could reduce chronic pain, thereby improving patient quality of life and functional recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.psyneuen.2024.107192
+- DOI: 10.1016/j.bja.2024.08.003
 
 2. Keywords
-- Brain derived neurotrophic factor (BDNF)
-- Cortisol
-- Hypothalamic-pituitary-adrenocortical (HPA) axis
-- Trier Social Stress Test (TSST)
+- acute pain
+- ambulatory surgery
+- catastrophising
+- chronic postsurgical pain
+- orthopaedic surgery
+- patient experience
+- regional anaesthesia
+- rehabilitation
+- secondary analysis
 
 3. Key Findings
-- Findings extraction requires manual review
+- Multivariate analysis revealed a poor pain experience, as assessed by the pain dimension of EVAN-G on postoperative day 2, as an independent predictor of CPSP (odds ratio 6
 
 This study provides insights into:
-- Brain derived neurotrophic factor (BDNF) assessment methods and outcomes
-- Cortisol assessment methods and outcomes
-- Hypothalamic-pituitary-adrenocortical (HPA) axis assessment methods and outcomes
+- acute pain assessment methods and outcomes
+- ambulatory surgery assessment methods and outcomes
+- catastrophising assessment methods and outcomes

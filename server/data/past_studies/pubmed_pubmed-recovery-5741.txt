@@ -1,25 +1,20 @@
-Study Title: The impacts of task shifting on the management and treatment of malnourished children in Northern Kenya: a cluster-randomized controlled trial.
+Study Title: Impact of a Multidisciplinary Supportive Care Model Using Distress Screening at an Asian Ambulatory Cancer Center: A Cluster Randomized Controlled Trial.
 
 Study Summary:
-Treating children with acute malnutrition can be challenging, particularly regarding access to healthcare facilities during treatment. Task shifting, a strategy of transferring specific tasks to health workers with shorter training and fewer qualifications, is being considered as an effective approach to enhancing health outcomes in primary healthcare. This study aimed to assess the effectiveness of integrating the treatment of acute malnutrition by community health volunteers into integrated community case management in two sub-counties in northern Kenya (Loima and Isiolo). We conducted a two-arm non-inferiority cluster-randomized controlled trial across 20 community health units. Participants were children aged 6-59&#x2009;months with uncomplicated acute malnutrition. In the intervention group, community health volunteers used simplified tools and protocols to identify and treat eligible children at home and provided the usual integrated community case management package. In the control group, community health volunteers provided the usual integrated community case management package only (screening and referral of the malnourished children to the health facilities). The primary outcome was recovery (MUAC &#x2265;12.5&#x2009;cm for 2 consecutive weeks). Results show that children in the intervention group were more likely to recover than those in the control group [73 vs 50; risk difference (RD)&#x2009;=&#x2009;26% (95% CI 12 to 40) and risk ratio (RR)&#x2009;=&#x2009;2 (95% CI 1.2 to 1.9)]. The probability of defaulting was lower in the intervention group than in the control group: RD&#x2009;=&#x2009;-21% (95% CI -31 to -10) and RR&#x2009;=&#x2009;0.3 (95% CI 0.2 to 0.5). The intervention reduced the length of stay by about 13&#x2009;days, although this was not statistically significant and varied substantially by sub-county. Integrating the treatment of acute malnutrition by community health volunteers into the integrated community case management programme led to better malnutrition treatment outcomes. There is a need to integrate acute malnutrition treatment into integrated community case management and review policies to allow community health volunteers to treat uncomplicated acute malnutrition.
+The Accessible Cancer Care to Enable Support for Cancer Survivors (ACCESS) program adopts a multidisciplinary supportive care model with routine distress screening to triage newly diagnosed cancer survivors for additional support on the basis of distress levels. This study aimed to evaluate the clinical impact of ACCESS over 1 year. We performed cluster random assignment at the oncologist level in a 1:1 ratio to receive ACCESS or usual care. Participants 21 years and older, newly diagnosed with breast or gynecologic cancer, and receiving care at National Cancer Centre Singapore were included. Outcomes assessed every 3 months for 1 year included quality of life (QoL) (primary), functioning, physical and psychological symptom burden, and activity levels. Data were analyzed using mixed-effects models. Participants from 16 clusters (control = 90, intervention = 83) were analyzed. The ACCESS program did not significantly improve QoL (primary outcome). However, compared with usual care recipients, ACCESS recipients reported higher physical functioning (= .017), role functioning (= .001), and activity levels (< .001) at 9 months and lower psychological distress (= .025) at 12 months. ACCESS recipients screened with high distress had poorer QoL, lower role and social functioning, and higher physical symptom distress at 3 months but had comparable scores with ACCESS recipients without high distress after 12 months. Compared with usual care, participation in the ACCESS program did not yield QoL improvement but showed earlier functioning recovery related to activities of daily living and reduced psychological distress. Routine distress screening is a promising mechanism to identify survivors with poorer health for more intensive supportive care.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/heapol/czae036
+- DOI: 10.1200/OP.23.00505
 
 2. Keywords
-- Task shifting
-- child malnutrition
-- community health volunteers
-- non-inferiority cluster-randomized controlled trial
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Compared with usual care, participation in the ACCESS program did not yield QoL improvement but showed earlier functioning recovery related to activities of daily living and reduced psychological distress
 
 This study provides insights into:
-- Task shifting assessment methods and outcomes
-- child malnutrition assessment methods and outcomes
-- community health volunteers assessment methods and outcomes
+- General research methodology and outcomes

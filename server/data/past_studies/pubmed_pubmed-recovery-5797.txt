@@ -1,29 +1,20 @@
-Study Title: Recovery and immune function after low pressure pneumoperitoneum during robot-assisted radical prostatectomy: a randomised controlled trial.
+Study Title: Clinical effect of perioperative stellate ganglion block on mechanical ventilation and respiratory function of elderly patients with septic shock.
 
 Study Summary:
-To compare the effectiveness of low intra-abdominal pressure (IAP) facilitated by deep neuromuscular block (NMB) to standard practice in improving the quality of recovery, preserving immune function, and enhancing parietal perfusion during robot-assisted radical prostatectomy (RARP). In this blinded, randomised controlled trial, 96 patients were randomised to the experimental group with low IAP (8&#x2009;mmHg) facilitated by deep NMB (post-tetanic count 1-2) or the control group with standard IAP (14&#x2009;mmHg) and moderate NMB (train-of-four 1-2). Recovery was measured using the 40-item Quality of Recovery questionnaire and 36-item Short-Form Health survey. Immune function was evaluated by plasma damage-associated molecular patterns, cytokines, and ex vivo lipopolysaccharide-stimulated cytokine production. Parietal peritoneum perfusion was measured by analysing the recordings of indocyanine-green injection. Quality of recovery was not superior in the experimental group (n&#x2009;=&#x2009;46) compared to the control group (n&#x2009;=&#x2009;50). All clinical outcomes, including pain scores, postoperative nausea and vomiting, and hospital stay were similar. There were no significant differences in postoperative plasma concentrations of damage-associated molecular patterns, cytokines, and ex vivo cytokine production capacity. The use of low IAP resulted in better parietal peritoneum perfusion. Despite better perfusion of the parietal peritoneum, low IAP facilitated by deep NMB did not improve the quality of recovery or preserve immune function compared to standard practice in patients undergoing RARP.
+Here we investigated the effect of a stellate ganglion block on the perioperative mechanical ventilation and postoperative recovery of respiratory function of elderly patients with infectious shock. Thirty-six elderly patients with septic shock who underwent emergency general anesthesia at our hospital were randomly divided into treatment (T) and control (C) groups (n&#x2005;=&#x2005;18 each). Group T received a preoperative stellate ganglion block, whereas group C received normal saline. Procalcitonin and C-reactive protein levels were compared preoperatively and at 1 and 7 days postoperative. Mean arterial pressure, oxygen saturation, and mean pulmonary artery pressure were measured preoperative and postoperative as well as at 1 and 7 days later. A blood gas analysis was performed preoperatively, at the end of the operation, during extubation, and at 1 and 7 days postoperative. Intubation under general anesthesia, the completion of anesthesia, and spontaneous respiratory recovery involve pulmonary dynamic compliance, plateau pressure, and mechanical ventilation. General condition did not differ significantly between groups (P&#x2005;>&#x2005;.05). However, mean arterial pressure at the end of surgery and at 1 and 7 days postoperative were significantly higher in group T versus C (P&#x2005;<&#x2005;.05). Furthermore, mean oxygen saturation at the end of surgery and at 1 and 7 days postoperative was significantly lower in group T versus C (P&#x2005;<&#x2005;.05), while procalcitonin and C-reactive protein levels were significantly lower at 1 and 7 days postoperative. Group T had significantly better arterial partial pressure of carbon dioxide, partial pressure of oxygen, and partial pressure of oxygen/fraction of inspired oxygen than group C at the end of surgery, during extubation, and at 1 and 7 days postoperative (P&#x2005;<&#x2005;.05). Group T exhibited superior inflammatory responses and respiratory function. Stellate ganglion block in elderly patients with septic shock reduces inflammation, improves mechanical ventilation perioperatively, and promotes postoperative recovery and respiratory function.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/bju.16397
+- DOI: 10.1097/MD.0000000000038166
 
 2. Keywords
-- innate immune response
-- laparoscopy
-- parietal peritoneum
-- perfusion imaging
-- postoperative care
-- postoperative complications
-- postoperative pain
-- prostatectomy
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- innate immune response assessment methods and outcomes
-- laparoscopy assessment methods and outcomes
-- parietal peritoneum assessment methods and outcomes
+- General research methodology and outcomes

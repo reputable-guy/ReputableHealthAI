@@ -1,27 +1,26 @@
-Study Title: Nutrition guidance within a multimodal intervention improves diet quality in prodromal Alzheimer's disease: Multimodal Preventive Trial for Alzheimer's Disease (MIND-AD).
+Study Title: Effects of a multidomain intervention against cognitive decline on dementia risk profiles - Results from the AgeWell.de trial.
 
 Study Summary:
-Multimodal lifestyle interventions can benefit overall health, including cognition, in populations at-risk for dementia. However, little is known about the effect of lifestyle interventions in patients with prodromal Alzheimer's disease (AD). Even less is known about dietary intake and adherence to dietary recommendations within this population making it difficult to design tailored interventions for them. A 6-month MIND-ADpilot randomized controlled trial (RCT) was conducted among 93 participants with prodromal AD in Sweden, Finland, Germany, and France. Three arms were included in the RCT: 1) multimodal lifestyle intervention (nutritional guidance, exercise, cognitive training, vascular/metabolic risk management, and social stimulation); 2) multimodal lifestyle intervention&#x2009;+&#x2009;medical food product; and 3) regular health advice (control group). Adherence to dietary advice was assessed with a brief food intake questionnaire by using the Healthy Diet Index (HDI) and Mediterranean Diet Adherence Screener (MEDAS). The intake of macro- and micronutrients were analyzed on a subsample using 3-day food records. The dietary quality in the intervention groups, pooled together, improved compared to that of the control group at the end of the study, as measured with by HDI (p&#x2009;=&#x2009;0.026) and MEDAS (p&#x2009;=&#x2009;0.008). The lifestyle-only group improved significantly more in MEDAS (p&#x2009;=&#x2009;0.046) and almost significantly in HDI (p&#x2009;=&#x2009;0.052) compared to the control group, while the lifestyle&#x2009;+&#x2009;medical food group improved in both HDI (p&#x2009;=&#x2009;0.042) and MEDAS (p&#x2009;=&#x2009;0.007) during the study. There were no changes in macro- or micronutrient intake for the intervention groups at follow-up; however, the intakes in the control group declined in several vitamins and minerals when adjusted for energy intake. These results suggest that dietary intervention as part of multimodal lifestyle interventions is feasible and results in improved dietary quality in a population with prodromal AD. Nutrient intakes remained unchanged in the intervention groups while the control group showed a decreasing nutrient density. ClinicalTrials.gov NCT03249688, 2017-07-08.
+Dementia risk scores constitute promising surrogate outcomes for lifestyle interventions targeting cognitive function. We investigated whether dementia risk, assessed using the LIfestyle for BRAin health (LIBRA) index, was reduced by the AgeWell.de intervention. Secondary analyses of the AgeWell trial, testing a multicomponent intervention (including optimization of nutrition, medication, and physical, social, and cognitive activity) in older adults with increased dementia risk. We analyzed data from n&#xa0;=&#xa0;461 participants with complete information on risk/protective factors comprised by LIBRA at the 24-month follow-up. Intervention effects on LIBRA and LIBRA components were assessed using generalized linear models. The intervention reduced LIBRA scores, indicating decreased dementia risk at follow-up (b&#xa0;=&#xa0;-0.63, 95% confidence interval [CI]: -1.14, -0.12). Intervention effects were particularly due to improvements in diet (odds ratio [OR]: 1.60, 95% CI: 1.16, 2.22) and hypertension (OR: 1.61, 95% CI: 1.19, 2.18). The AgeWell.de intervention reduced dementia risk. However, several risk factors did not improve, possibly requiring more intensive interventions. The AgeWell.de intervention reduced dementia risk according to LIfestyle for BRAin health (LIBRA) scores. Beneficial effects on LIBRA are mainly due to changes in diet and blood pressure. A pragmatic lifestyle intervention is apt to reduce dementia risk in an at-risk population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13195-024-01522-8
+- DOI: 10.1002/alz.14097
 
 2. Keywords
-- Alzheimer&#x2019;s disease
-- Dementia
-- Lifestyle
-- Multimodal trial
-- Nutrition
-- Prodromal Alzheimer&#x2019;s disease
+- dementia
+- lifestyle
+- prevention
+- randomized controlled trial
+- risk factor
 
 3. Key Findings
-- Nutrient intakes remained unchanged in the intervention groups while the control group showed a decreasing nutrient density
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Alzheimer&#x2019;s disease assessment methods and outcomes
-- Dementia assessment methods and outcomes
-- Lifestyle assessment methods and outcomes
+- dementia assessment methods and outcomes
+- lifestyle assessment methods and outcomes
+- prevention assessment methods and outcomes

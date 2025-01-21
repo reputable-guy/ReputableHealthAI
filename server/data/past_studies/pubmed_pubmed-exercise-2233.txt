@@ -1,20 +1,24 @@
-Study Title: Oxygen supplementation and cognitive function in long-COVID.
+Study Title: Non-invasive brain stimulation enhances the effect of physiotherapy for balance and mobility impairment in people with Multiple Sclerosis.
 
 Study Summary:
-Patients can experience persistent cognitive complaints and deficits in long-COVID. Inflammation and capillary damage may contribute to symptoms by interfering with tissue oxygenation. This was an exploratory pilot crossover study designed to describe the effects of supplemental oxygen (portable oxygen concentrator, POC) on cognitive performance and peripheral and cerebral oxygen saturation at rest and exercise. Participants with long-COVID (n = 21) were randomized 1:1 to: 1) POC (3h/day) for 2 weeks followed by standard of care (Control) for 2 weeks or 2) Control for 2 weeks then POC (3h/day) for 2 weeks, with a 1-week washout. Cognitive assessment (global cognition [Montreal Cognitive Assessment, MoCA], episodic memory [Hopkins], working memory [Digit Span], executive function [Verbal fluency]) was performed at baseline and after each treatment period. Patient Health Questionnaire (PHQ-9) and Generalized Anxiety Disorder-7 were completed. Peripheral and cerebral oxygen saturation were measured at rest and exercise (treadmill) at baseline and after each treatment period. Statistical analyses were descriptive without formal testing. MoCA scores were similar under POC (26.45&#xb1;2.31) and Control (26.37&#xb1;2.85); overall POC-Control difference was -0.090 (95% CI [-1.031, 0.850]). Because of a learning effect, post-hoc analyses were performed for Period 1, where the MoCA score difference was 1.705 [0.140, 3.271]. MoCA subscores suggested better performance with POC for Visuospatial/executive (0.618 [-0.106, 1.342]) and Attention (0.975 [0.207, 1.743]). POC trended to have better scores on Digit Span backward (difference: 0.822 [-0.067, 1.711]) and self-reported depressive symptoms (difference: -1.335 [-3.166, 0.495]). For specific PHQ-9 items, POC tended to have lower (better) scores for Q1 (Little interest/pleasure) and Q7 (Trouble concentrating). Cerebral oxygen saturations at end of exercise showed no difference between POC and Control. Peripheral saturations during exercise were similar under POC and Control (difference: 0.519% [-1.675, 2.714]). An advantage of POC over Control was observed for global cognition, attention, visuospatial/executive performance and depressive symptoms. Results need to be validated in a larger study.
+Impairment of balance and gait is common in Multiple Sclerosis (MS). Non-invasive Brain Stimulation techniques are promising adjuncts to physical therapy to improve disability. To determine if combining transcranial direct current stimulation (tDCS) with conventional exercise therapy enhances balance and mobility in people with multiple sclerosis (PwMS) compared to exercise alone. In a double-blind randomised controlled trial, PwMS were randomised into a real or sham tDCS group. All patients received individualized exercise treatment. Twelve sessions of real (intensity 2mA, bipolar) or sham tDCS was administered over the primary motor area for 20 minutes followed by one hour of physiotherapy focusing on balance, strength, and mobility, twice a week for six weeks. Outcome measures included balance (Berg Balance Score), mobility (10m Walk Test), fatigue (Fatigue Severity Scale) and quality of life (Multiple Sclerosis Quality of Life - 54) performed 1 week before intervention, at week 7 (1-week post-intervention), and at six months post-intervention. Falls questionnaire was completed 1 week before intervention and at 6 months post-intervention. Generalised linear mixed model analysis was used to compare outcomes at different time points within groups (before and after exercise treatment) and between groups (sham vs real stimulation groups). Forty participants (mean age 54 and mean EDSS 3.5) were randomly allocated to receive real (n=19) or sham (n=21) stimulation, with 36 completing the post-intervention (real 17, sham 19) and 32 completing the 6-month assessments (real 15, sham 17). All participants had significantly improved balance and mobility scores post exercise treatment (within groups comparison, p<0.05). Between groups comparison found a small but significant improvement in the Berg Balance Score (mean improvement 1.9 and 2 points, p <0.05) and 10-metre Walk Test (mean improvement of 0.09 and 0.11m/s, p <0.05) in the real tDCS group compared to the sham group after six weeks of training and at six months follow-up, respectively. There was no benefit in fatigue, falls and QOL scores in the real stimulation group compared to the control group. Our results suggest that the addition of tDCS prior to exercise treatment provides a significant improvement in walking speed and balance in people with MS which lasts longer, compared to exercise alone. Further study is needed to optimize the use of this relatively inexpensive and well tolerated device for rehabilitation. Australia and New Zealand Clinical Trial Registry (ACTRN12628001836224).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0312735
+- DOI: 10.1016/j.msard.2024.106149
 
 2. Keywords
-
+- Multiple sclerosis
+- Transcranial direct current stimulation, Balance
+- Walking, Exercise
 
 3. Key Findings
-- Cerebral oxygen saturations at end of exercise showed no difference between POC and Control
+- Between groups comparison found a small but significant improvement in the Berg Balance Score (mean improvement 1
 
 This study provides insights into:
-- General research methodology and outcomes
+- Multiple sclerosis assessment methods and outcomes
+- Transcranial direct current stimulation, Balance assessment methods and outcomes
+- Walking, Exercise assessment methods and outcomes

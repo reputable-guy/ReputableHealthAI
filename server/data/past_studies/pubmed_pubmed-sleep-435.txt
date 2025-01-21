@@ -1,20 +1,26 @@
-Study Title: Beyond the Pandemic: Longitudinal Lessons on Social Support, Sleep Quality, and Burnout Among Healthcare Workers.
+Study Title: Is video demonstration for type III sleep studies performance worse than technical face-to-face teaching?
 
 Study Summary:
-To assess occupational burnout (OB) changes among Brazilian healthcare workers (HCWs) from COVID-19 onset to 6 months later (T1) and identify risk and protective factors. Using the Copenhagen Burnout Inventory and hierarchical multivariate linear regression in a two-stage online survey (initial n = 1054; T1 n = 316), this study examined the impact of various factors on OB. Significant increases in personal and work-related OB were observed by T1. Psychiatric diagnosis and workload emerged as risk factors ( P < 0.01), while having a partner, good family relations, workplace well-being, and adequate sleep were protective ( P < 0.001). OB levels among Brazilian HCWs increased during the COVID-19 pandemic. Interventions should target personal and organizational wellness to alleviate burnout, emphasizing the importance of strong relationships, workplace health, and good sleep practices.
+Obstructive sleep apnea (OSA) is the most common sleep-disordered breathing. The high prevalence makes its diagnosis a priority. To perform type III sleep studies, patients usually receive instructions from a technician. The switch to instructions through a video could save professionals time and make OSA diagnosis more accessible. This study aimed to compare the technical quality of type III sleep studies when instructions are provided by face-to-face technical teaching or via video. One hundred consecutive patients aged&#x2009;&#x2265;&#x2009;18 years with suspected OSA were randomly assigned to receive device placement instructions in person by a technician or through video (50 in each group). The overall quality of the sleep studies was analyzed by determining the number of technically invalid studies. The recording quality of four sensors (pulse oximeter, nasal flow cannula, chest, and abdominal bands) was evaluated by checking for signal artifacts. The majority (86%) of the studies were valid. 20% of the studies in the face-to-face group and 8% of the studies in the video-instruction group were technically invalid, but no statistically significant difference was found (p&#x2009;=&#x2009;0.148). The quality of the oximetry signal was better in those who received video instructions (p&#x2009;=&#x2009;0.05). Regarding the recording quality of the remaining sensors, no significant differences were found. Type III sleep studies with previous explanation through a video are as effective as those with an explanation performed by a technician, with associated advantages, without increased errors. The quality of the oximetry signal was better in the video group, a critical signal for OSA diagnosis.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/JOM.0000000000003194
+- DOI: 10.1007/s11325-024-03096-z
 
 2. Keywords
-
+- Obstructive sleep apnea
+- Sleep studies
+- Telemedicine
+- Video instructions
 
 3. Key Findings
-- Findings extraction requires manual review
+- 20% of the studies in the face-to-face group and 8% of the studies in the video-instruction group were technically invalid, but no statistically significant difference was found (p&#x2009;=&#x2009;0
+- Regarding the recording quality of the remaining sensors, no significant differences were found
 
 This study provides insights into:
-- General research methodology and outcomes
+- Obstructive sleep apnea assessment methods and outcomes
+- Sleep studies assessment methods and outcomes
+- Telemedicine assessment methods and outcomes

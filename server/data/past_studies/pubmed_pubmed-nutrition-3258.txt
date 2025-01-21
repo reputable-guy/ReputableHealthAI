@@ -1,31 +1,27 @@
-Study Title: An Intensive Culinary Intervention Programme to Promote Healthy Ageing: The SUKALMENA-InAge Feasibility Pilot Study.
+Study Title: Exercise and Nutrition in the Mental Health of the Older Adult Population: A Randomized Controlled Clinical Trial.
 
 Study Summary:
-Dietary interventions are a key strategy to promote healthy ageing. Cooking skills training emerges as a promising approach to acquiring and maintaining healthy eating habits. The purpose was to evaluate the effectiveness of a culinary programme to improve healthy eating habits among overweight/obese adults (55-70 years old). A total of 62 volunteers were randomly (1:1) assigned to an culinary intervention group (CIG) or a nutritional intervention group (NIG). Dietary, cooking, and health-related outcomes, including body advanced glycation end product (AGE) levels, were evaluated at baseline and after four weeks. Mixed-effects linear models were used to assess the effects of the interventions within and between groups. Among the 56 participants who completed the trial, CIG participants achieved a significant improvement in Mediterranean diet adherence (1.2; 95%CI, 0.2 to 2.2) and a reduction in the use of culinary techniques associated with a higher AGE formation in foods (-2.8; 95%CI, -5.6 to -0.2), weight (-1.5; 95%CI, -2.5 to -0.5), body mass index (-0.5; 95%CI, -0.8 to -0.2), waist circumference (-1.4; 95%CI, -2.6 to -0.2), and hip circumference (-1.4; 95%CI, -2.4 to -0.4) compared with the NIG participants. Although a greater confidence in cooking in the CIG was found, attitudes and cooking habits did not improve. No significant differences in biochemical parameters or AGEs were found between groups. In conclusion, a culinary intervention could be successful in promoting healthy eating and cooking habits compared to a programme based on nutrition education alone. Nevertheless, further efforts are needed to strengthen attitudes and beliefs about home cooking, to address potential barriers and understand the impact of cooking interventions on biological parameters. Larger studies with longer follow-ups are needed to evaluate the relationship between cooking, diet, and health.
+(1) Background: Global population aging is changing demographic structures and presents significant challenges for health systems, which must adapt to an increasingly elderly population. (2) Methods: The study employed a randomized controlled trial design with a total of 116 older adults aged 65 or older, randomly assigned to an experimental group (= 57) undergoing a combined resistance program and Mediterranean diet program and a control group (= 59) who did not receive any intervention. Anxiety and depression were evaluated using the Hospital Anxiety and Depression Scale (HADS), sleep quality through the Pittsburgh Sleep Quality Index (PSQI), and perceived stress using the Perceived Stress Scale (PSS). (3) Results: Statistically significant improvements (< 0.05) were observed both within and between groups in anxiety (Cohen's d = 0.38 and 0.78, respectively), depression (Cohen's d = 0.56 and 0.18, respectively), perceived stress (Cohen's d = 0.15 and 0.39, respectively), and in the PSQI domains: subjective sleep quality (Cohen's d = 1.01 and 0.53, respectively), sleep duration (Cohen's d = 0.112 and 0.53, respectively), sleep disturbances (Cohen's d = 1.92 and 0.95, respectively), use of medications (Cohen's d = 0.34 and 0.40, respectively), and the PSQI total score (Cohen's d = 0.68 and 0.49, respectively). No significant differences were observed in sleep latency or daytime dysfunction. (4) Conclusions: The results of the present study suggest that resistance intervention may be an effective therapeutic option to improve mental health and sleep quality in older adults aged 65 or older, offering a non-pharmacological approach to improving overall well-being in this demographic.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16111735
+- DOI: 10.3390/nu16111741
 
 2. Keywords
-- cooking classes
-- cooking skills
-- culinary medicine
-- gastronomy
-- health promotion
-- home cooking
-- home food preparation
-- non-communicable chronic diseases
-- obesity/overweight
+- Mediterranean diet
+- anxiety
+- depression
+- perceived stress
+- resistance program
+- sleep quality
 
 3. Key Findings
-- Although a greater confidence in cooking in the CIG was found, attitudes and cooking habits did not improve
-- No significant differences in biochemical parameters or AGEs were found between groups
+- Findings extraction requires manual review
 
 This study provides insights into:
-- cooking classes assessment methods and outcomes
-- cooking skills assessment methods and outcomes
-- culinary medicine assessment methods and outcomes
+- Mediterranean diet assessment methods and outcomes
+- anxiety assessment methods and outcomes
+- depression assessment methods and outcomes

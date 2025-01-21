@@ -1,25 +1,27 @@
-Study Title: Effects of different forced-air warming systems on the core temperature of patients: a manikin and multi-center clinical study.
+Study Title: Impact of whole-body vibration training on ankle joint proprioception and balance in stroke patients: a prospective cohort study.
 
 Study Summary:
-The use of forced-air warming (FAW) blankets is widely recognized for preventing shivering and hypothermia in patients under general anesthesia. Various types of products are currently available for hospitals, and we have conducted a preliminary evaluation of insulation equipment based on expert opinions and initial parameters. However, we lack real-world experiments and accurate clinical data to validate these parameters and the accuracy of our decision-making results. This study aims to confirm the effectiveness of different FAW systems by assessing the thermal protection and operational characteristics of the equipment in both experimental and clinical settings, thereby enhancing our evaluation database. In the manikin test, we conducted six tests including heat distribution and heating rate, heater outlet temperature stability, etc. In the clinical study, patients were randomly assigned to four groups [Group A (Bair Hugger Therapy, 3&#xa0;M, St. Paul, MN, USA; 63500); Group B (EQUATORlevel I, Smith Medical ASD, MN, USA; Snuggle Warm, SW-2013); Group C (Jiang Men Da Cheng Medical Devices Co., Ltd, China; IOB-006); and Group D (Shang Hai Nest Tech Medical Materials Co., Ltd, China; BH-017)], with each group comprising 30 individuals. At the start of anesthesia induction, the FAW blanket was activated and set to 43&#xa0;&#xb0;C until the completion of surgery. The primary endpoint was the average core body temperature during surgery. Secondary endpoints included hemodynamic and surgical variables, adverse events, and recovery metrics. In the manikin test, the observed results of the experimental parameters (heat distribution, air pressure difference, and hole observation test) for Group A are superior to those of the other groups. In the clinical study, although the mean perioperative core body temperature remained above 36&#xa0;&#xb0;C across all groups [Group A: 36.31&#x2009;&#xb1;&#x2009;0.04; Group B: 36.26&#x2009;&#xb1;&#x2009;0.06; Group C: 36.17&#x2009;&#xb1;&#x2009;0.03; Group D: 36.25&#x2009;&#xb1;&#x2009;0.05], patients in Group A maintained higher temperatures compared to the other groups (p&#x2009;<&#x2009;0.001). Among patients undergoing laparoscopic radical resection of colorectal cancer with general anesthesia, all four FAW systems effectively prevented perioperative hypothermia. However, the system in Group A minimized heat loss more effectively than the others, providing superior thermal protection. ChiCTR2200065394, 03/11/2022.
+Although whole-body vibration (WBV) training is acknowledged for its benefits in enhancing motor functions across several neurological disorders, its precise influence on ankle joint proprioception and balance in stroke patients is still not well understood. This research seeks to assess the impact of WBV training on ankle joint proprioception and balance in stroke patients, thereby filling this important research void. In this prospective cohort study, thirty-five stroke patients were randomly assigned to either the WBV group (n&#x2009;=&#x2009;17) or a control group (n&#x2009;=&#x2009;18) using a random number table method. The control group received daily general rehabilitation for four weeks, while the WBV group received an additional 30 min of WBV training each day with the Trunsan S110 Vibration Training System. Blinded outcome assessments were conducted at baseline and post-treatment, utilizing the Berg balance scale (BBS), Functional reach test (FRT), Romberg test length (RTL) and area (RTA), and completion rates of ankle joint dorsiflexion-plantar flexion (DP) and inversion-eversion (IE) tests. Follow-up assessments were performed after four weeks of intervention, focusing on RTL, RTA, DP, and IE as primary outcomes. Analysis of intra-group changes from baseline to post-treatment revealed significant improvements across the BBS, FRT, RTL, RTA, and DP and IE assessments (p&#x2009;<&#x2009;0.001). Notably, the WBV group showed significant enhancements compared to the control group in DP and IE (p&#x2009;<&#x2009;0.001 and p&#x2009;<&#x2009;0.05, respectively), with mean values increasing from 13.556 to 16.765 (23.7%) and from 5.944 to 8.118 (36.6%), respectively. However, WBV did not provide additional benefits over the control treatment for balance recovery parameters such as BBS, FRT, RTL, and RTA (p&#x2009;>&#x2009;0.05). This study demonstrates that WBV therapy is equally effective as conventional methods in enhancing proprioception and balance in stroke patients, but it does not provide additional benefits for balance recovery. WBV significantly improves proprioceptive functions, particularly in DP and IE parameters. However, it does not surpass traditional rehabilitation methods in terms of balance recovery. These findings indicate that WBV should be incorporated into stroke rehabilitation primarily to enhance proprioception rather than to optimize balance recovery. This study was retrospectively registered in the ISRCTN Registry on 29/07/2024 ( https://www.isrctn.com/ , ISRCTN64602845).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12871-024-02734-z
+- DOI: 10.1186/s12891-024-07906-z
 
 2. Keywords
-- Core temperature
-- Forced-air warming blanket
-- Hypothermia
-- Radical resection of colorectal cancer
+- Ankle joint proprioception
+- Balance function
+- Berg balance scale
+- Stroke
+- Whole-body vibration
 
 3. Key Findings
-- Findings extraction requires manual review
+- Analysis of intra-group changes from baseline to post-treatment revealed significant improvements across the BBS, FRT, RTL, RTA, and DP and IE assessments (p&#x2009;<&#x2009;0
+- Notably, the WBV group showed significant enhancements compared to the control group in DP and IE (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- Core temperature assessment methods and outcomes
-- Forced-air warming blanket assessment methods and outcomes
-- Hypothermia assessment methods and outcomes
+- Ankle joint proprioception assessment methods and outcomes
+- Balance function assessment methods and outcomes
+- Berg balance scale assessment methods and outcomes

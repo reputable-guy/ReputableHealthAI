@@ -1,27 +1,22 @@
-Study Title: Anxiety Symptom Trajectories Predict Depression Symptom Trajectories up to Four Years After CBT for Youth Anxiety Disorders.
+Study Title: Assessment of continuous low-dose and high-dose burst of inhaled nitric oxide in spontaneously breathing COVID-19 patients: A randomized controlled trial.
 
 Study Summary:
-Long-term data on depression symptoms after cognitive behavioral therapy (CBT) for youth anxiety disorders are scant. We examined depression symptoms up to four years post CBT for anxiety addressing youth age and gender, family social class, and parent mental health as predictors. The sample comprised 179 youth (M age at pre-treatment&#x2009;=&#x2009;11.5 years; SD&#x2009;=&#x2009;2.1) in a randomized controlled trial. Clinically assessed anxiety diagnoses and youth and parent-reported anxiety and depression symptoms were measured before, after, and one and four years after CBT. Parent self-reported mental health was measured before CBT. We used regression analyses to determine whether full diagnostic recovery at post-CBT predicted depression trajectories across the four-year assessment period. We used growth curve models to determine whether anxiety trajectories predicted depression trajectories across the four-year assessment period. Youth who lost their anxiety diagnoses after CBT had significantly lower parent-reported depression levels over time, but not lower youth self-reported depression levels. The anxiety symptom trajectory predicted the depression symptom trajectory up to four years post-treatment. There was more explained variance for within-informant (youth-youth; parent-parent) than cross-informants. Being older, female, having lower socio-economic status and parents with poorer mental health were associated with more youth-rated depression over time. However, these demographic predictors were not significant when anxiety symptoms trajectories were added to the models. Successful CBT for anxiety in children is associated with less depression symptoms for as long as four years. Anxiety symptom improvement appears to be a stronger predictor that demographic variables and parent mental health.
+Inhaled nitric oxide (iNO) showed to improve oxygenation at low doses by reducing intrapulmonary shunt and to display antiviral properties at high doses. To assess the safety and potential benefits, we designed an exploratory clinical trial comparing low-dose with intermittent high-dose iNO to only intermittent high-dose iNO in hypoxemic COVID-19 patients. In this single-center interventional non-inferiority randomized trial (ClinicalTrials.gov, NCT04476992), twenty oxygen-dependent COVID-19 patients were randomly assigned to the high-dose (200&#xa0;ppm for 30&#xa0;min)&#xa0;+&#xa0;continuous low-dose (20&#xa0;ppm) iNO group (iNO) or the high-dose iNO group (iNO). Methemoglobinemia (MetHb) assessed 48&#xa0;h after iNO initiation was the primary endpoint. Reverse-transcription polymerase chain reaction for SARS-CoV-2, inflammatory markers during hospitalization, and heart ultrasounds during the iNOtreatments were evaluated. MetHb difference between iNO groups remained within the non-inferiority limit of 3&#xa0;%, indicating comparable treatments despite being statistically different (p-value<0.01). Both groups presented similar SpO/FiOratio at 48&#xa0;h (iNOvs. iNO&#xa0;341[334-356] vs. 359 [331-380], respectively, p-value&#xa0;=&#xa0;0.436). Both groups showed the same time to SARS-CoV-2 negativization, hospital length of stay, and recovery time. iNO-treated patients showed quicker SARS-CoV-2 negativization compared to a similar group of non-iNO patients (HR 2.57, 95%CI 1.04-6.33). During the 228 treatments, iNOand iNOgroups were comparable for safety, hemodynamic stability, and respiratory function improvement. iNOand iNOare equally safe in non-intubated patients with COVID-19-induced respiratory failure with regards to MetHb and NO. Larger studies should investigate whether iNOleads to better outcomes compared to non-iNO treated patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10802-024-01214-9
+- DOI: 10.1016/j.niox.2024.06.003
 
 2. Keywords
-- Anxiety
-- Children
-- Cognitive behavioral therapy
-- Depression
-- Longitudinal effects
-- Parents
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Inhaled nitric oxide (iNO) showed to improve oxygenation at low doses by reducing intrapulmonary shunt and to display antiviral properties at high doses
+- Both groups showed the same time to SARS-CoV-2 negativization, hospital length of stay, and recovery time
+- iNO-treated patients showed quicker SARS-CoV-2 negativization compared to a similar group of non-iNO patients (HR 2
 
 This study provides insights into:
-- Anxiety assessment methods and outcomes
-- Children assessment methods and outcomes
-- Cognitive behavioral therapy assessment methods and outcomes
+- General research methodology and outcomes

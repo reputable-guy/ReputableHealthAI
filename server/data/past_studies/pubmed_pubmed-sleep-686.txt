@@ -1,20 +1,27 @@
-Study Title: Transcranial Direct Current Stimulation for Anxiety During Laparoscopic Colorectal Cancer Surgery: A Randomized Clinical Trial.
+Study Title: Association between sleep quality with maternal and neonatal outcomes during the covid-19 pandemic.
 
 Study Summary:
-Perioperative anxiety is prevalent among patients undergoing surgical treatment of cancer and often influences their prognosis. Transcranial direct current stimulation (tDCS) has shown potential in the treatment of various anxiety-related disorders, but data on the impact of tDCS on perioperative anxiety are limited. To evaluate the effect of tDCS in reducing perioperative anxiety among patients undergoing laparoscopic colorectal cancer (CRC) resection. This randomized clinical trial was conducted from March to August 2023 at the Affiliated Hospital of Xuzhou Medical University. Patients aged 18 years or older undergoing elective laparoscopic radical resection for CRC were randomly assigned to either the active tDCS group or the sham tDCS group. Intention-to-treat data analysis was performed in September 2023. Patients were randomly assigned to receive 2 sessions of either active tDCS or sham tDCS over the left dorsolateral prefrontal cortex on the afternoon of the day before the operation and in the morning of the day of operation. The main outcome was the incidence of perioperative anxiety from the day of the operation up to 3 days after the procedure, as measured using the Hospital Anxiety and Depression Scale-Anxiety (HADS-A) subscale (range: 0-21, with higher scores indicating more anxiety). Secondary outcomes included postoperative delirium (assessed by the Confusion Assessment Method or Confusion Assessment Method intensive care unit scale); pain (assessed by the 10-point Numeric Rating Scale [NRS], with scores ranging from 0 [no pain] to 10 [worst pain]); frailty (assessed by the Fatigue, Resistance, Ambulation, Illness and Loss of Weight [FRAIL] Index, with scores ranging from 0 [most robust] to 5 [most frail]; and sleep quality (assessed by the Pittsburgh Sleep Quality Index [PSQI], with scores ranging from 0 to 21 and higher scores indicating worse sleep quality) after the 2 sessions of the tDCS intervention. A total of 196 patients (mean [SD] age, 63.5 [11.0] years; 124 [63.3%] men) were recruited and randomly assigned to the active tDCS group (98 patients) or the sham tDCS group (98 patients). After the second tDCS intervention on the day of the operation, the incidence of perioperative anxiety was 38.8% in the active tDCS group and 70.4% in the sham tDCS group (relative risk, 0.55 [95% CI, 0.42-0.73]; P&#x2009;<&#x2009;.001). Patients in the active tDCS group vs the sham tDCS group were less likely to have postoperative delirium (8.2% vs 25.5%) and, at 3 days after the operation, had lower median (IQR) pain scores (NRS, 1.0 [1.0-1.0] vs 2.0 [2.0-2.0]), better median (IQR) sleep quality scores (PSQI, 10.5 [10.0-11.0] vs 12.0 [11.0-13.0]), and lower median (IQR) FRAIL Index (2.0 [1.0-2.0] vs 2.0 [2.0-3.0]). Findings of this randomized clinical trial indicate that administration of 2 preoperative sessions of tDCS was associated with a decreased incidence of perioperative anxiety in patients undergoing elective CRC resection. Active tDCS was also associated with better anxiety scores, pain levels, and sleep quality as well as reduced postoperative delirium and frailty. The findings suggest that tDCS may be a novel strategy for improving perioperative anxiety in patients undergoing CRC resection. Chinese Clinical Trial Register Identifier: ChiCTR2300068859.
+Sleep disorders during pregnancy can impact maternal and neonatal outcomes. The objective of this study is to examine the relationship between sleep quality and maternal and neonatal outcomes during the COVID-19 pandemic. This prospective cohort study was conducted at the Educational-Therapeutic Center of Shohadaye Yaftabad Referral Hospital in Tehran, Iran, from December 2020 to September 2022. A total of 198 eligible participants were randomly assigned to either the sleep disorders group or the no sleep disorders group. Data were collected through demographic questionnaires, the Corona Disease Anxiety Scale (CDAS) questionnaire, the Pittsburgh Sleep Quality Index (PSQI), and the checklist for maternal and neonatal outcomes. At baseline, the sleep disorders and no sleep disorders groups were similar in terms of age, body mass index (before pregnancy), education level, employment status, gravida, parity, abortion, and history of COVID-19. Within the sleep disorders group, there was a statistically significant, direct linear correlation between sleep disorders and FBS 34-36 weeks (r&#x2009;=&#x2009;0.33, P&#x2009;<&#x2009;0.001) as well as Corona Disease Anxiety (CDA) (r&#x2009;=&#x2009;0.35, P&#x2009;<&#x2009;0.001). The linear regression results indicated that for every unit increase in sleep disorders, the risk of FBS 34-36 weeks increased by 1.09 times (&#x3b2;&#x2009;=&#x2009;1.09, P&#x2009;<&#x2009;0.001). Additionally, sleep disorders increased the risk of CDA by 1.36 times (&#x3b2;&#x2009;=&#x2009;1.36, P&#x2009;<&#x2009;0.001). The results showed no statistically significant differences in terms of birth weight, type of delivery (vaginal or cesarean section), gestational age (preterm or full term), length of labor stages (first and second stage), Apgar score at minutes 1 and 5, and NICU admission between the two groups. Based on the results, a certain degree of correlation exists between sleep quality and FBS at 34-36 weeks and CDA. These findings underscore the need for future public health guidelines to formulate detailed strategies to improve sleep quality during the COVID-19 pandemic.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1001/jamanetworkopen.2024.6589
+- DOI: 10.1186/s12884-024-06479-y
 
 2. Keywords
-
+- COVID-19 pandemic
+- Maternal outcomes
+- Neonatal outcomes
+- Pregnant women
+- Sleep disorder
 
 3. Key Findings
-- Findings extraction requires manual review
+- The linear regression results indicated that for every unit increase in sleep disorders, the risk of FBS 34-36 weeks increased by 1
+- The results showed no statistically significant differences in terms of birth weight, type of delivery (vaginal or cesarean section), gestational age (preterm or full term), length of labor stages (first and second stage), Apgar score at minutes 1 and 5, and NICU admission between the two groups
 
 This study provides insights into:
-- General research methodology and outcomes
+- COVID-19 pandemic assessment methods and outcomes
+- Maternal outcomes assessment methods and outcomes
+- Neonatal outcomes assessment methods and outcomes

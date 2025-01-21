@@ -1,26 +1,25 @@
-Study Title: Evaluation of the results of closed kinetic chain exercises applied in the conservative treatment of patellofemoral pain syndrome by means of shear wave elastography: A randomized controlled trial.
+Study Title: Effect of exercise referral schemes and self-management strategies on healthcare service utilisation among community-dwelling older adults: secondary analyses of two randomised controlled trials.
 
 Study Summary:
-Non-selective closed kinetic chain exercises (NSKCE) and or selective closed kinetic chain exercises (SCKCE) has been shown to increase Vastus medialis obliquus (VMO) muscle power in patellofemoral pain syndrome (PFPS). However, the superiority of the exercises to each other has not been shown. This study aimed to evaluating the effects of different exercises on the stiffness of the VMO and vastus lateralis (VL) muscles, pain management, functional scores, and thigh circumferences. One hundred 60 knees of 80 patients followed up in our outpatient clinic between December 2016 and February 2018 were included in the study. Patients were divided into two groups as 40 patients with single-sided PFPS (20 male and 20 female patients) and 40 healthy controls (20 male and 20 female patients). The patients in each group were divided into subgroups according to NSCKCE or SCKCE. VMO and VL muscles were measured by shear wave elastography (SWE) before and after a 6-weeks therapy. There was a significant decrease in Visual Analog Scale (VAS) score while a significant increase was found in Lysholm Knee Scale (LKS), however, no statistically difference was found between the two exercise groups in PFPS patients. The effect of both exercises on pain and functional improvement was similar. Decrease in VAS scores, increase in LKS scores, increase in thigh circumference measurements, and increase in the stiffness of VMO and VL muscles were observed in both groups who received SCKCE and NSCKCE on PFPS patients. Study registered at ClinicalTrials.gov (registration number: NCT05427357). Randomized controlled trial.
+The objective of this study is to explore whether offering an integrated self-management strategy and exercise referral scheme intervention (ERS+SMS) or a stand-alone ERS intervention is more effective in reducing healthcare service utilisation among community-dwelling older adults over time compared with a stand-alone SMS/control intervention. Secondary analyses of two randomised controlled trials (RCTs) with linkage to Danish national health registries. Three Danish municipalities: Esbjerg, Slagelse and Odense. Danish community-dwelling older adults, aged 65 years or older, were included in the study. Participants originated from two completed RCTs: the Welfare Innovation in Primary Prevention (WIPP, n=115) and the SITLESS project (SITLESS, n=333). Participants in the two trials were randomly assigned to one of three intervention groups: ERS in combination with SMS (ERS+SMS), ERS alone or an SMS/control intervention. Annual number of days with contact to general practice (GP) and days hospitalised for all causes. No statistically significant between-group difference was observed in the annual number of days with contact with GP between participants randomised to ERS+SMS (p=0.759) or ERS only (p=0.156) compared with those randomised to the SMS/control group. In addition, no statistically significant between-group differences in days hospitalised were observed when comparing the ERS+SMS (p=0.222) or ERS only (p=0.060) group to the SMS/control group. Neither the integrated intervention (ERS+SMS) nor the ERS alone intervention was more effective in reducing healthcare service utilisation during a 2-year follow-up period compared with a stand-alone SMS/control intervention. A potential stabilising effect of ERS and/or SMS interventions on the general age-related increase in healthcare service utilisation cannot be ruled out but needs further exploration in future studies along with the exploration of the effects of long-term interventions. NCT04531852 : and : NCT02629666 : .
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/10225536241280384
+- DOI: 10.1136/bmjopen-2024-084938
 
 2. Keywords
-- Elastography
-- exercises
-- non-selective
-- pain
-- patellofemoral
+- Aged
+- Health Services for the Aged
+- PUBLIC HEALTH
+- REGISTRIES
 
 3. Key Findings
-- There was a significant decrease in Visual Analog Scale (VAS) score while a significant increase was found in Lysholm Knee Scale (LKS), however, no statistically difference was found between the two exercise groups in PFPS patients
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Elastography assessment methods and outcomes
-- exercises assessment methods and outcomes
-- non-selective assessment methods and outcomes
+- Aged assessment methods and outcomes
+- Health Services for the Aged assessment methods and outcomes
+- PUBLIC HEALTH assessment methods and outcomes

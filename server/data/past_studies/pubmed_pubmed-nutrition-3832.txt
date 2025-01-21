@@ -1,31 +1,25 @@
-Study Title: Effects of a Theory-Based, Multicomponent eHealth Intervention for Obesity Prevention in Young Children from Low-Income Families: A Pilot Randomized Controlled Study.
+Study Title: Improving Adherence to a Mediterranean Ketogenic Nutrition Program for High-Risk Older Adults: A Pilot Randomized Trial.
 
 Study Summary:
-The purpose of this study was to evaluate a theory-based, multicomponent eHealth intervention aimed at improving child health behaviors and parental psychosocial attributes and feeding practices. A pilot randomized controlled trial was conducted among 73 parents with children (1-3 years). Intervention group participants (IG,= 37) received theory-based educational videos, cooking tutorials, and text messages with key information for a total of 8 weeks. Control group participants (CG,= 36) received a booklet about general nutrition recommendations for children. A parent-administered questionnaire was used for data collection at baseline and post-intervention. Linear models were performed using R version 4.1.1. for data analysis. Children in the IG significantly increased their daily intake of fruit (&#x394;&#x394; = 0.89 servings,= 0.00057) and vegetables (&#x394;&#x394; = 0.60 servings,= 0.0037) and decreased use of screen time (&#x394;&#x394; = -33.87 min,= 0.026), compared to the CG. Parents in the IG improved significantly more than the CG in self-efficacy (= 0.0068) and comprehensive feeding practices (= 0.0069). There were no significant differences between the study groups for changes in child outcomes, such as physical activity and sedentary behaviors, and parental nutrition knowledge and attitudes.
+(1) Background: Mediterranean ketogenic nutrition (MKN) may directly target multiple neurobiological mechanisms associated with dementia risk in older adults. Despite its promise, this type of nutrition can be challenging to learn and adhere to in a healthy manner. Our team used the National Institutes of Health Obesity Related Behavioral Intervention Trials (NIH ORBIT) model to develop and pilot a program to help older adults with memory concerns use MKN. (2) Methods: Using a two-arm, randomized design, we evaluated an MKN Adherence (MKNA) program compared to an MKN education (MKNE) program (= 58). The primary difference between study arms involved the use of motivational interviewing (MI) strategies and behavior change techniques (BCT) only in the MKNA arm. Participants were included if they evidenced subjective memory concerns or objective memory impairment on the Montreal Cognitive Assessment (Score 19 &#x2264; 26). Primary outcomes examined included feasibility, acceptability, adherence, and clinical outcomes associated with the program. (3) Results: Overall, there was relatively high program completion in both groups, with 79% of participants completing the 6-week program. The recruitment protocol required adjustment but was successful in reaching the target sample size. Retention (82%) and session attendance (91%) were higher in the MKNA arm compared to the MKNE (retention = 72%; attendance = 77%). Overall, most participants in both groups rated the program as "excellent" using the client satisfaction questionnaire. Participants in the MKNA arm evidenced higher objective and self-reported adherence to MKN during the 6-week program. Further, there was some evidence of clinical benefits of the program, although these effects diminished as adherence decreased in the 3 months follow-up. (4) Discussion: This pilot trial demonstrated that the MKN program incorporating MI and BCT strategies may better engage and retain participants than a nutrition education program alone, although participants in both groups reported high satisfaction.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15102296
+- DOI: 10.3390/nu15102329
 
 2. Keywords
-- active lifestyle
-- eHealth
-- early childhood
-- feeding practices
-- healthy eating
-- obesity
-- parents
-- prevention
-- screen time
-- sedentary behavior
+- Mediterranean
+- diet
+- ketogenic
+- nutrition
 
 3. Key Findings
-- Findings extraction requires manual review
+- (4) Discussion: This pilot trial demonstrated that the MKN program incorporating MI and BCT strategies may better engage and retain participants than a nutrition education program alone, although participants in both groups reported high satisfaction
 
 This study provides insights into:
-- active lifestyle assessment methods and outcomes
-- eHealth assessment methods and outcomes
-- early childhood assessment methods and outcomes
+- Mediterranean assessment methods and outcomes
+- diet assessment methods and outcomes
+- ketogenic assessment methods and outcomes

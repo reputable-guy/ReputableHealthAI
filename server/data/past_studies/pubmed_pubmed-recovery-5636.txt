@@ -1,20 +1,27 @@
-Study Title: Effects of Optimal Temperature Control in Body Contouring Surgery: A Nonrandomized Controlled Clinical Trial.
+Study Title: Combination of dexamethasone and dexmedetomidine as adjuvants of transversus abdominis plane block for postoperative analgesia in gastric cancer patients: A double-blinded randomized controlled trial.
 
 Study Summary:
-Perioperative hypothermia in plastic surgery has underestimated risks, including increased risk of infection, cardiac events, blood loss, prolonged recovery time, and increased nausea, pain, and opioid usage. Inadequate preventive measures can result in up to 4 hours of normothermia restoration. The aim was to compare the impact of different strategies for normothermia during plastic surgery procedures and their relationship with clinical outcomes. A nonrandomized clinical trial was conducted in a single center in Bogota, Colombia. We enrolled adult patients undergoing body contouring surgery and divided them into 4 intervention groups with different measures to control body temperature. Univariate and bivariate analyses were performed, comparing several clinical symptoms to evaluate outcomes. A total of 197 patients were analyzed. Most of them were females (84.3%). Mean age was 38.6 years, and the median procedure duration was 260 minutes. Demographic and clinical characteristics did not exhibit significant differences between the groups. There were notable variations in temperature measurements at crucial moments during the surgical procedure among the groups, attributed to the implementation of distinct thermal protective strategies. Group comparisons showed a relationship between hypothermia and increased nausea, vomiting, shivering, pain, and additional analgesia requirements. Incorporation of active thermal protective measures, such as Blanketrol or HotDog, during body contouring procedures, markedly diminishes the risk of hypothermia and enhances overall clinical outcomes. Implementing these active measures to maintain the patient in a state of normothermia not only improves operating room efficiency but also leads to a reduction in recovery room duration.
+We conducted this double-blinded randomized controlled trial to examine whether the combination of dexamethasone and dexmedetomidine as adjuvants of transversus abdominis plane (TAP) block could improve analgesia efficacy and duration for gastric cancer patients. Randomized controlled trial. The preoperative area, operating room, postanesthesia recovery room and bed ward. A total of 312 adult patients (104 per group) with gastric cancer were included. Patients received bilateral subcostal TAP block with three different anesthetics (60&#xa0;ml 0.25% ropivacaine added with 10&#xa0;mg dexamethasone and 1&#xa0;&#x3bc;g&#xb7;kg-1 dexmedetomidine [A] or 10&#xa0;mg dexamethasone [B] or 1&#xa0;&#x3bc;g&#xb7;kg-1 dexmedetomidine [C]). The primary outcome was the incidence of moderate-to-severe pain 24&#xa0;h on movement. Secondary outcomes included incidence of moderate-to-severe pain, pain score, opioids use, recovery quality and adverse events. The incidence of moderate-to-severe pain on movement 24&#xa0;h postoperatively of group A was significantly lower than group B (45.19% vs 63.46%; RR 0.71; 95% CI, 0.55 to 0.92) and group C (45.19% vs 73.08%, RR 0.62; 95% CI, 0.49 to 0.79). The median moving pain scores decreased significantly at 24&#xa0;h (3.00 [3.00,5.00] vs 4.00 [3.00,6.00] vs 4.00 [3.00,5.00]; P&#xa0;<&#xa0;0.001). There were significant differences in the opioids consumption within the first 24&#xa0;h (27.5 [17.0,37.2] vs 30.0 [20.0,42.0] vs 32.0 [25.0,44.0] mg; P = 0.01) and the duration to first rescue analgesia (65.5 &#xb1; 26.7 vs 45.9 &#xb1; 34.5 vs 49.2 &#xb1; 27.2 h; P = 0.04). The combination with dexamethasone and dexmedetomidine as adjuvants for TAP block reduced the incidence of moderate-to-severe pain and pain score both on movement and at rest at 24&#xa0;h with prolonged duration to first rescue analgesia after gastric cancer surgery. ChiCTR2000037981.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/asj/sjae142
+- DOI: 10.1016/j.jclinane.2024.111543
 
 2. Keywords
-
+- Adjuvants
+- Dexamethasone
+- Dexmedetomidine
+- Gastric cancer
+- Pain
+- Transversus abdominis plane block
 
 3. Key Findings
-- Group comparisons showed a relationship between hypothermia and increased nausea, vomiting, shivering, pain, and additional analgesia requirements
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Adjuvants assessment methods and outcomes
+- Dexamethasone assessment methods and outcomes
+- Dexmedetomidine assessment methods and outcomes

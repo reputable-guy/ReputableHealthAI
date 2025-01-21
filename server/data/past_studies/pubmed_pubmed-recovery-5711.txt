@@ -1,26 +1,27 @@
-Study Title: Virtual reality exposure reduce acute postoperative pain in female patients undergoing laparoscopic gynecology surgery: A Randomized Control Trial (RCT) study.
+Study Title: Comparison of anaesthesia strategies on postoperative nausea and vomiting in laparoscopic sleeve gastrectomy: a randomised controlled trial.
 
 Study Summary:
-Few studies have focused on the effect of virtual reality (VR) exposure on postoperative acute pain in adult female patients undergoing gynecology surgery. A randomized control trial (RCT) study. At Beijing Fuxing Hospital. 115 patients aged between 20 and 60&#xa0;years, American Society of Anesthesiologists (ASA) physical status I - II were consecutively enrolled and randomly divided into VR group (n&#xa0;=&#xa0;58) or control group (n&#xa0;=&#xa0;57). Patients in the VR group received 15&#xa0;min of VR video viewing before surgery. The primary outcome was acute postoperative pain at 8&#xa0;h which was measured by the Visual Analogue Scale (VAS) scores. The secondary outcomes including the use of analgesic drugs, the incidence of moderate pain and postoperative recovery which were recorded 24&#xa0;h after surgery. The Hospital Anxiety and Depression Scale (HADS) was also used to evaluate patients' emotional status before surgery. The VAS scores at 30&#xa0;min [2 (1,2) vs. 3 (2,3)], 2&#xa0;h [2 (2,3) vs. 4 (3,4)], 4&#xa0;h [3 (2,4) vs. 4 (4,5)], 8&#xa0;h [3 (2,4) vs. 4 (4,5)], 12&#xa0;h [2 (2,3) vs. 4 (3,4)], 24&#xa0;h [1 (1,2) vs. 3 (2,3)] after surgery. Generalized estimation equation (GEE) indicated that VR intervention was negatively correlated with postoperative VAS values (&#x3b2;&#xa0;=&#xa0;-0.830, S.E&#xa0;=&#xa0;0.199, 95%CI (-1.220,-0.439), Wald &#x3c7;&#xa0;=&#xa0;17.359, p<0.05), in the meanwhile, VR also lower the incidence of moderate pain (VAS&#xa0;>&#xa0;4) at 8&#xa0;h postoperatively (12.1% vs 31.0%, p&#xa0;=&#xa0;0.013). However, the 24&#xa0;h tramadol usage remained unchanged. Patients in the VR group had better sleep quality (6.33&#xa0;&#xb1;&#xa0;2.3 vs. 4.12&#xa0;&#xb1;&#xa0;2.5, p&#xa0;<&#xa0;0.001) and lower incidence of nausea (43.1% vs. 63.2%, p&#xa0;<&#xa0;0.05), dizziness (0% vs. 14.0%, p&#xa0;<&#xa0;0.05), and headache (12.1% vs. 29.8%, p&#xa0;<&#xa0;0.05). VR could reduce the median HADS scores (9.81&#xa0;&#xb1;&#xa0;6.1 vs 3.14&#xa0;&#xb1;&#xa0;3.9, p&#xa0;<&#xa0;0.001) and blood pressure preoperatively. VR intervention can reduce acute postoperative pain with better postoperative recovery and lower preoperative anxiety level in adult female patients undergoing laparoscopic gynecology surgery.
+Intra-operative anaesthesia management should be optimised to reduce the occurrence of postoperative nausea and vomiting in high-risk patients; however, a single intervention may not effectively reduce postoperative nausea and vomiting in such patients. This study assessed the effect of an optimised anaesthetic protocol versus a conventional one on postoperative nausea and vomiting in patients who underwent laparoscopic sleeve gastrectomy. A single-centre randomised trial was conducted at Peking University Shenzhen Hospital from June 2021 to December 2022. Among 168 patients who underwent laparoscopic sleeve gastrectomy, 116 qualified, and 103 completed the study with available data. Patients were categorized into the conventional group (received sevoflurane and standard fluids) and the optimised group (underwent propofol-based anaesthesia and was administered goal-directed fluids). The primary endpoints were postoperative nausea and vomiting incidence and severity within 24&#xa0;h. Postoperative nausea and vomiting assessment at 0-3&#xa0;h post-surgery revealed no significant differences between groups. However, at 3-24&#xa0;h, the optimised anaesthetic protocol group showed lower postoperative nausea and vomiting incidence and severity than those of the conventional group (P&#x2009;=&#x2009;0.005). In the conventional group, 20 (37.04%) patients experienced moderate-to-severe postoperative nausea and vomiting, compared to six (12.25%) patients in the optimised group (odds ratio&#x2009;=&#x2009;0.237; 95% CI&#x2009;=&#x2009;0.086, 0.656; P&#x2009;=&#x2009;0.006). No significant differences were noted in antiemetic treatment, moderate-to-severe pain incidence, anaesthesia recovery, post-anaesthetic care unit stay, or postoperative duration between the groups. While the total intra-operative infusion volumes were comparable, the optimised group had a significantly higher colloidal infusion volume (500 mL vs. 0 mL, P&#x2009;=&#x2009;0.014) than that of the conventional group. The incidence and severity of postoperative nausea and vomiting 3-24&#xa0;h postoperatively in patients who underwent laparoscopic sleeve gastrectomy were significantly lower with propofol-based total intravenous anaesthesia and goal-directed fluid therapy than with sevoflurane anaesthesia and traditional fluid management. Total intravenous anaesthesia is an effective multimodal antiemetic strategy for bariatric surgery. This trial was registered with the Chinese Clinical Trial Registry (ChiCTR-TRC- 2,100,046,534, registration date: 21 May 2021).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jclinane.2024.111525
+- DOI: 10.1186/s12871-024-02577-8
 
 2. Keywords
-- Acute postoperative pain
-- Postoperative recovery
-- Preoperative anxiety
-- Randomized controlled trail
-- Virtual reality
+- Bariatric surgery
+- Goal-directed fluid therapy
+- Laparoscopic sleeve gastrectomy
+- Postoperative nausea and vomiting
+- Total intravenous anaesthesia
 
 3. Key Findings
-- Generalized estimation equation (GEE) indicated that VR intervention was negatively correlated with postoperative VAS values (&#x3b2;&#xa0;=&#xa0;-0
+- Postoperative nausea and vomiting assessment at 0-3&#xa0;h post-surgery revealed no significant differences between groups
+- However, at 3-24&#xa0;h, the optimised anaesthetic protocol group showed lower postoperative nausea and vomiting incidence and severity than those of the conventional group (P&#x2009;=&#x2009;0
 
 This study provides insights into:
-- Acute postoperative pain assessment methods and outcomes
-- Postoperative recovery assessment methods and outcomes
-- Preoperative anxiety assessment methods and outcomes
+- Bariatric surgery assessment methods and outcomes
+- Goal-directed fluid therapy assessment methods and outcomes
+- Laparoscopic sleeve gastrectomy assessment methods and outcomes

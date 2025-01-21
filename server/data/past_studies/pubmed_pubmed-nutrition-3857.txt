@@ -1,26 +1,30 @@
-Study Title: Longitudinal self-learning of individualized treatment rules in a nutrient supplementation trial with missing data.
+Study Title: Effectiveness of a Mobile App (KhunLook) Versus the Maternal and Child Health Handbook on Thai Parents' Health Literacy, Accuracy of Health Assessments, and Convenience of Use: Randomized Controlled Trial.
 
 Study Summary:
-Longitudinal outcomes are prevalent in clinical studies, where the presence of missing data may make the statistical learning of individualized treatment rules (ITRs) a much more challenging task. We analyzed a longitudinal calcium supplementation trial in the ELEMENT Project and established a novel ITR to reduce the risk of adverse outcomes of lead exposure on child growth and development. Lead exposure, particularly in the form of in utero exposure, can seriously impair children's health, especially their cognitive and neurobehavioral development, which necessitates clinical interventions such as calcium supplementation intake during pregnancy. Using the longitudinal outcomes from a randomized clinical trial of calcium supplementation, we developed a new ITR for daily calcium intake during pregnancy to mitigate persistent lead exposure in children at age 3 years. To overcome the technical challenges posed by missing data, we illustrate a new learning approach, termed longitudinal self-learning (LS-learning), that utilizes longitudinal measurements of child's blood lead concentration in the derivation of ITR. Our LS-learning method relies on a temporally weighted self-learning paradigm to synergize serially correlated training data sources. The resulting ITR is the first of this kind in precision nutrition that will contribute to the reduction of expected blood lead concentration in children aged 0-3 years should this ITR be implemented to the entire study population of pregnant women.
+Children of parents who have higher health literacy (HL) benefit more from preventive child health care. Digital interventions have been used to improve parents' HL with high satisfaction. KhunLook is a Thai mobile app conceived using strategies to improve HL. It was developed to assist parents in assessing and keeping track of their child's health in complement to the standard Maternal and Child Health Handbook (MCHH). This trial focuses on the effectiveness of using the KhunLook app with the MCHH and standard care (intervention) compared with the conventional MCHH and standard care (control) on parents' HL. Data on accuracy of parents' assessment of their child's health and growth as well as convenience of use of the tool (app or MCHH) in the well-child clinic were collected at 2 visits (immediate=visit 1, and intermediate=visit 2). Parents of children under 3 years of age who (1) had a smartphone or tablet and the MCHH and (2) could participate in 2 visits, 2-6 months apart at Srinagarind Hospital, Khon Kaen, Thailand, were enrolled in this 2-arm parallel randomized controlled trial between April 2020 and May 2021. Parents were randomized 1:1 to 2 groups. At visit 1, data on demographics and baseline HL (Thailand Health Literacy Scales) were collected. Parents in the app group used the KhunLook app and the control group used their child's handbook to assess their child's growth, development, nutrition and feeding, immunization status and rated the convenience of the tool they used. At visit 2, they repeated the assessments and completed the HL questionnaire. A total of 358 parents completed the study (358/408, 87.7%). After the intervention, the number of parents with high total HL significantly increased from 94/182 (51.6%) to 109/182 (59.9%; 15/182; &#x394; 8.2%; P=.04), specifically in the health management (30/182; &#x394; 16.4%; P<.001) and child health management (18/182; &#x394; 9.9%; P=.01) domains in the app group, but not in the control group. Parents in the app group could correctly assess their child's head circumference (172/182, 94.5% vs 124/176, 70.5%; P<.001) and development (173/182, 95.1% vs 139/176, 79.0%; P<.001) better than those in the control group at both visits. A higher proportion of parents in the app group rated their tool as very easy or easy to use (174-181/182, 95.6%-99.5% vs 141-166/176, 80.1%-94.3%; P<.001) on every item since the first visit. Our results suggest the potential of a smartphone app (KhunLook) to improve parents' HL as well as to promote superior accuracy of parents' assessment of their child's head circumference and development, with a similar effect on weight, height, nutrition and feeding, and immunization as in traditional interventions. Using the KhunLook app is useful and more convenient for parents in promoting a healthy child preventive care during early childhood. Thai Clinical Trials Registry TCTR20200312003; https://www.thaiclinicaltrials.org/show/TCTR20200312003.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1002/sim.9766
+- DOI: 10.2196/43196
 
 2. Keywords
-- DOHaD hypothesis
-- machine learning
-- missing endpoint
-- precision health
-- support vector machine
+- KhunLook
+- Maternal and Child Health Handbook
+- Thailand
+- child health supervision
+- health assessment
+- health literacy
+- mHealth
+- mobile app
+- parent
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- DOHaD hypothesis assessment methods and outcomes
-- machine learning assessment methods and outcomes
-- missing endpoint assessment methods and outcomes
+- KhunLook assessment methods and outcomes
+- Maternal and Child Health Handbook assessment methods and outcomes
+- Thailand assessment methods and outcomes

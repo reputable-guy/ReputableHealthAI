@@ -1,32 +1,26 @@
-Study Title: Fasting and postprandial plasma metabolite responses to a 12-wk dietary intervention in tissue-specific insulin resistance: a secondary analysis of the PERSonalized glucose Optimization through Nutritional intervention (PERSON) randomized trial.
+Study Title: Are Dutch adults equally susceptible to nudging and pricing strategies? Secondary analyses of the Supreme Nudge parallel cluster-randomised controlled supermarket trial.
 
 Study Summary:
-We previously showed that dietary intervention effects on cardiometabolic health were driven by tissue-specific insulin resistance (IR) phenotype: individuals with predominant muscle IR (MIR) benefited more from a low-fat, high-protein, and high-fiber (LFHP) diet, whereas individuals with predominant liver insulin resistance (LIR) benefited more from a high-monounsaturated fatty acid (HMUFA) diet. To further characterize the effects of LFHP and HMUFA diets and their interaction with tissue-specific IR, we investigated dietary intervention effects on fasting and postprandial plasma metabolite profile. Adults with MIR or LIR (40-75 y, BMI 25-40 kg/m) were randomly assigned to a 12-wk HMUFA or LFHP diet (n = 242). After the exclusion of statin use, 214 participants were included in this prespecified secondary analysis. Plasma samples were collected before (T = 0) and after (T = 30, 60, 120, and 240 min) a high-fat mixed meal for quantification of 247 metabolite measures using nuclear magnetic resonance spectroscopy. A larger reduction in fasting VLDL-triacylglycerol (TAG) and VLDL particle size was observed in individuals with MIR following the LFHP diet and those with LIR following the HMUFA diet, although no longer statistically significant after false discovery rate (FDR) adjustment. No IR phenotype-by-diet interactions were found for postprandial plasma metabolites assessed as total area under the curve (tAUC). Irrespective of IR phenotype, the LFHP diet induced greater reductions in postprandial plasma tAUC of the larger VLDL particles and small HDL particles, and TAG content in most VLDL subclasses and the smaller LDL and HDL subclasses (for example, VLDL-TAG tAUC standardized mean change [95% CI] LFHP = -0.29 [-0.43, -0.16] compared with HMUFA = -0.04 [-0.16, 0.09]; FDR-adjusted P for diet &#xd7; time = 0.041). Diet effects on plasma metabolite profiles were more pronounced than phenotype-by-diet interactions. An LFHP diet may be more effective than an HMUFA diet for reducing cardiometabolic risk in individuals with tissue-specific IR, irrespective of IR phenotype. Am J Clin Nutr 20xx;x:xx. This trial was registered at the clinicaltrials.gov registration (https://clinicaltrials.gov/study/NCT03708419?term=NCT03708419&rank=1) as NCT03708419 and CCMO registration (https://www.toetsingonline.nl/to/ccmo_search.nsf/fABRpop?readform&unids=3969AABCD9BA27FEC12587F1001BCC65) as NL63768.068.17.
+Supermarket interventions are promising to promote healthier dietary patterns, but not all individuals may be equally susceptible. We explored whether the effectiveness of nudging and pricing strategies on diet quality differs by psychological and grocery shopping characteristics. We used data of the 12-month Supreme Nudge parallel cluster-randomised controlled supermarket trial, testing nudging and pricing strategies to promote healthier diets. Participants were Dutch speaking adults aged 30-80&#xa0;years and regular shoppers of participating supermarkets (n&#x2009;=&#x2009;12) in socially disadvantaged neighbourhoods. Data on psychological characteristics (food-related behaviours; price sensitivity; food decision styles; social cognitive factors; self-control) and grocery shopping characteristics (time spent in the supermarket; moment of the day; average supermarket visits; shopping at other retailers; supermarket proximity) were self-reported at baseline. These characteristics were tested for their moderating effects of the intervention on diet quality (scored 0-150) in linear mixed models. We included 162 participants from intervention supermarkets and 199 from control supermarkets (73% female, 58 (&#xb1;&#x2009;10.8) years old, 42% highly educated). The interventions had no overall effect on diet quality. Only five out of 23 potential moderators were statistically significant. Yet, stratified analyses of these significant moderators showed no significant effects on diet quality for one of the subgroups and statistically non-significant negative effects for the other. Negative effects were suggested for individuals with lower baseline levels of meal planning (&#x3b2;&#x2009;-&#x2009;2.6, 95% CI&#x2009;-&#x2009;5.9; 0.8), healthy shopping convenience (&#x3b2;&#x2009;-&#x2009;3.0, 95% CI&#x2009;-&#x2009;7.2; 1.3), and healthy food attractiveness (&#x3b2;&#x2009;-&#x2009;3.5, 95% CI&#x2009;-&#x2009;8.3; 1.3), and with higher levels of price consciousness (&#x3b2;&#x2009;-&#x2009;2.6, 95% CI&#x2009;-&#x2009;6.2; 1.0) and weekly supermarket visits (&#x3b2;&#x2009;-&#x2009;2.4, 95% CI&#x2009;-&#x2009;6.8; 1.9). Adults with varying psychological and grocery shopping characteristics largely seem equally (un)susceptible to nudging and pricing strategies. It might be that certain characteristics lead to adverse effects, but this is not plausible, and the observed negative effects were small and statistically non-significant and may be explained by chance findings. Verification of these findings is needed in real-world trials based on larger sample sizes and with the use of more comprehensive interventions. Dutch Trial Register ID NL7064, 30th of May, 2018, https://onderzoekmetmensen.nl/en/trial/20990.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ajcnut.2024.05.027
+- DOI: 10.1186/s12916-024-03429-5
 
 2. Keywords
-- dietary intervention trial
-- lipoprotein metabolism
-- meal challenge test
-- metabolic phenotypes
-- metabotypes
-- personalized nutrition
-- plasma metabolomics
-- postprandial metabolism
-- precision nutrition
-- tissue-specific insulin resistance
+- Choice architecture
+- Food environment
+- Grocery store
+- Prevention
+- Public Health Nutrition
 
 3. Key Findings
-- We previously showed that dietary intervention effects on cardiometabolic health were driven by tissue-specific insulin resistance (IR) phenotype: individuals with predominant muscle IR (MIR) benefited more from a low-fat, high-protein, and high-fiber (LFHP) diet, whereas individuals with predominant liver insulin resistance (LIR) benefited more from a high-monounsaturated fatty acid (HMUFA) diet
-- No IR phenotype-by-diet interactions were found for postprandial plasma metabolites assessed as total area under the curve (tAUC)
+- Yet, stratified analyses of these significant moderators showed no significant effects on diet quality for one of the subgroups and statistically non-significant negative effects for the other
 
 This study provides insights into:
-- dietary intervention trial assessment methods and outcomes
-- lipoprotein metabolism assessment methods and outcomes
-- meal challenge test assessment methods and outcomes
+- Choice architecture assessment methods and outcomes
+- Food environment assessment methods and outcomes
+- Grocery store assessment methods and outcomes

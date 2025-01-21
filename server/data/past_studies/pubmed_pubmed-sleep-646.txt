@@ -1,28 +1,20 @@
-Study Title: Calibrated to drive: Measuring self-assessed driving ability and perceived workload after prolonged sitting and sleep restriction.
+Study Title: Efficacy of Polyethylene Glycol Electrolyte Powder Combined With Linaclotide for Colon Cleansing in Patients With Chronic Constipation Undergoing Colonoscopy: A Multicenter, Single-Blinded, Randomized Controlled Trial.
 
 Study Summary:
-Self-assessed driving ability may differ from actual driving performance, leading to poor calibration (i.e., differences between self-assessed driving ability and actual performance), increased risk of accidents and unsafe driving behaviour. Factors such as sleep restriction and sedentary behaviour can impact driver workload, which influences driver calibration. This study aims to investigate how sleep restriction and prolonged sitting impact driver workload and driver calibration to identify strategies that can lead to safer and better calibrated drivers. Participants (n&#xa0;=&#xa0;84, mean age&#xa0;=&#xa0;23.5&#xa0;&#xb1;&#xa0;4.8, 49&#xa0;% female) undertook a 7-day laboratory study and were randomly allocated to a condition: sitting 9-h sleep opportunity (Sit9), breaking up sitting 9-h sleep opportunity (Break9), sitting 5-h sleep opportunity (Sit5) and breaking up sitting 5-h sleep opportunity (Break5). Break9 and Break5 conditions completed 3-min of light-intensity walking on a treadmill every 30&#xa0;min between 09:00-17:00&#xa0;h, while participants in Sit9 and Sit5 conditions remained seated. Each participant completed a 20-min simulated commute in the morning and afternoon each day and completed subjective assessments of driving ability and perceived workload before and after each commute. Objective driving performance was assessed using a driving simulator measuring speed and lane performance metrics. Driver calibration was analysed using a single component and 3-component Brier Score. Correlational matrices were conducted as an exploratory analysis to understand the strength and direction of the relationship between subjective and objective driving outcomes. Analyses revealed participants in Sit9 and Break9 were significantly better calibrated for lane variability, lane position and safe zone-lane parameters at both time points (p&#xa0;<&#xa0;0.0001) compared to Sit5 and Break5. Break5 participants were better calibrated for safe zone-speed and combined safe zone parameters (p&#xa0;<&#xa0;0.0001) and speed variability at both time points (p&#xa0;=&#xa0;0.005) compared to all other conditions. Analyses revealed lower perceived workload scores at both time points for Sit9 and Break9 participants compared to Sit5 and Break5 (p = <0.001). Breaking up sitting during the day may reduce calibration errors compared to sitting during the day for speed keeping parameters. Future studies should investigate if different physical activity frequency and intensity can reduce calibration errors, and better align a driver's self-assessment with their actual performance.
+Constipation is an independent risk factor for poor bowel preparation. This study aimed to evaluate the bowel cleansing efficacy and safety of polyethylene glycol (PEG) combined with linaclotide (lin) for colonoscopy in patients with chronic constipation (CC). This single-blinded, randomized, controlled, and multicenter study was conducted from July 2021 to December 2022 at 7 hospitals. Patients with CC who underwent colonoscopies were enrolled and randomly assigned to 4 groups with split-PEG regimens: 4L-PEG group, 4L-PEG+1d-Lin group, 3L-PEG+1d-Lin group, and 3L-PEG+3d-Lin group. The primary outcome was rates of adequate bowel preparation, defined as a total BBPS score &#x2265;6 and a score &#x2265;2 for each segment. Secondary outcomes were adverse effects, sleep quality, willingness to repeat the colonoscopy, adenoma detection rate, and polyp detection rate. Five hundred two patients were enrolled. The rates of adequate bowel preparation (80.0% vs 60.3%, P < 0.001; 84.4% vs 60.3%, P < 0.001) and the total Boston Bowel Preparation Scale (BBPS) scores (6.90 &#xb1; 1.28 vs 6.00 &#xb1; 1.61, P < 0.001; 7.03 &#xb1; 1.24 vs 6.00 &#xb1; 1.61, P < 0.01) in the 4L-PEG+1d-Lin group and the 3L-PEG+3d-Lin group were superior to that in the 4L-PEG group. Compared with the 4L-PEG group, the 4L-PEG+1d-Lin group (66.7% vs 81.7%, P = 0.008) and the 3L-PEG+3d-Lin group (75.0% vs 81.7%, P = 0.224) had a lower percentage of mild adverse events. No statistically significant difference in willingness to repeat the colonoscopy, sleep quality, polyp detection rate, or adenoma detection rate was observed among groups. PEG combined with linaclotide might be an effective method for bowel preparation before colonoscopy in patients with CC.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.aap.2024.107609
+- DOI: 10.14309/ctg.0000000000000708
 
 2. Keywords
-- Driver calibration
-- Driving simulator
-- Fatigue
-- NASA-TLX
-- Prolonged sitting
-- Sleepiness
+
 
 3. Key Findings
-- Analyses revealed participants in Sit9 and Break9 were significantly better calibrated for lane variability, lane position and safe zone-lane parameters at both time points (p&#xa0;<&#xa0;0
-- Analyses revealed lower perceived workload scores at both time points for Sit9 and Break9 participants compared to Sit5 and Break5 (p = <0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Driver calibration assessment methods and outcomes
-- Driving simulator assessment methods and outcomes
-- Fatigue assessment methods and outcomes
+- General research methodology and outcomes

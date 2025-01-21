@@ -1,25 +1,26 @@
-Study Title: Growth differentiation factor-15 and metabolic features in chronic heart failure: Insights from the SUPPORT Trial -GDF15 across the BMI spectrum.
+Study Title: miR-9-5p is Downregulated in Serum Extracellular Vesicles of Patients Treated with Biperiden After Traumatic Brain Injury.
 
 Study Summary:
-GDF15 plays pivotal metabolic roles in nutritional stress and serves as a physiological regulator of energy balance. However, the patterns of GDF15 levels in underweight or obese patients with chronic heart failure (CHF) are not well-understood. We assessed serum GDF15 levels at baseline and 3&#xa0;years and the temporal changes in 940 Japanese patients (642 paired samples), as a sub-analysis of the SUPPORT trial (age 65.9&#xa0;&#xb1;&#xa0;10.1&#xa0;years). The GDF15 levels were analyzed across BMI groups (underweight [<18.5&#xa0;kg/m; n&#xa0;=&#xa0;50], healthy weight [18.5-22.9; n&#xa0;=&#xa0;27&#xa0;5], overweight [23-24.9; n&#xa0;=&#xa0;234], and obese [&#x2265;25; n&#xa0;=&#xa0;381]), following WHO recommendations for the Asian-Pacific population. Landmark analysis at 3&#xa0;years assessed the association between GDF15 levels and HF hospitalization or all-cause death. Compared to the healthy weight group, the underweight group included more females (54.0%) with advanced HF (NYHA class III; 20.0%) and exhibited increased GDF15 level (1764&#xa0;pg/mL [IQR 1067-2633]). Obese patients, younger (64.2&#xa0;years) and diabetic (53%), had a similar GDF15 level to the healthy weight group. A higher baseline GDF15 level was associated with worse outcomes across the BMI spectrum. GDF15 increased by 208 [21-596] pg/mL over 3&#xa0;years, with the most substantial increase observed in the underweight group (by +28.9% [6.2-81.0]). Persistently high GDF15 levels (&#x2265;1800&#xa0;pg/mL) was independently associated with worse outcomes after 3&#xa0;years (adjusted HR 1.8 [95%CI 1.1-2.9]). In underweight patients with CHF, GDF15 level was elevated at baseline and experienced the most significant increase over 3&#xa0;years. Its consistent elevation suggested a worse outcome.
+Traumatic brain injury (TBI) is a prevalent and debilitating condition, which often leads to the development of post-traumatic epilepsy (PTE), a condition that yet lacks preventive strategies. Biperiden, an anticholinergic drug, is a promising candidate that has shown efficacy in murine models of PTE. MicroRNAs (miRNAs), small regulatory RNAs, can help in understanding the biological basis of PTE and act as TBI- and PTE-relevant biomarkers that can be detected peripherally, as they are present in extracellular vesicles (EVs) that cross the blood-brain barrier. This study aimed to investigate miRNAs in serum EVs from patients with TBI, and their association with biperiden treatment and PTE. Blood samples of 37 TBI patients were collected 10&#xa0;days after trauma and treatment initiation in a double-blind clinical trial. A total of 18 patients received biperiden, with three subjects developing PTE, and 19 received placebo, with two developing PTE. Serum EVs were characterized by size distribution and protein profiling, followed by high-throughput sequencing of the EV miRNome. Differential expression analysis revealed no significant differences in miRNA expression between TBI patients with and without PTE. Interestingly, miR-9-5p displayed decreased expression in biperiden-treated patients compared to the placebo group. This miRNA regulates genes enriched in stress response pathways, including axonogenesis and neuronal death, relevant to both PTE and TBI. These findings indicate that biperiden may alter miR-9-5p expression in serum EVs, which may play a role in TBI resolution.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ijcard.2024.132093
+- DOI: 10.1007/s12035-024-04194-5
 
 2. Keywords
-- Cachexia
-- Chronic heart failure
-- Growth differentiation factor-15
-- Obesity
+- Anticholinergic
+- Extracellular vesicle
+- Post-traumatic epilepsy
+- Traumatic brain injury
+- microRNA
 
 3. Key Findings
-- Findings extraction requires manual review
+- Differential expression analysis revealed no significant differences in miRNA expression between TBI patients with and without PTE
 
 This study provides insights into:
-- Cachexia assessment methods and outcomes
-- Chronic heart failure assessment methods and outcomes
-- Growth differentiation factor-15 assessment methods and outcomes
+- Anticholinergic assessment methods and outcomes
+- Extracellular vesicle assessment methods and outcomes
+- Post-traumatic epilepsy assessment methods and outcomes

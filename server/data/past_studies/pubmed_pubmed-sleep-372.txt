@@ -1,25 +1,26 @@
-Study Title: Effects of a Triage Checklist to optimize insomnia treatment outcomes and reduce hypnotic use: the RCT of the effectiveness of stepped-care sleep therapy in general practice study.
+Study Title: Matched Comparison Examining the Effect of Obesity on Clinical, Economic, and Humanistic Outcomes in Patients with Bipolar&#xa0;I Disorder.
 
 Study Summary:
-Evaluate a triaged stepped-care strategy among adults 50 and older with insomnia disorder. Participants (N&#x2005;=&#x2005;245) were classified at baseline by a Triage Checklist. Those projected to do better if they start treatment with therapist versus digitally delivered CBT-I (tCBT-I vs dCBT-I) constituted the YES stratum (n&#x2005;=&#x2005;137); the rest constituted the NO stratum (n&#x2005;=&#x2005;108). Participants were randomized within stratum to a strategy that utilized only dCBT-I (ONLN) or to a strategy that prospectively allocated the first step of care to dCBT-I or tCBT-I based on the Triage Checklist and switched dCBT-I nonresponders at 2-months to tCBT-I (STEP). Co-primary outcomes were the insomnia severity index (ISI) and the average nightly amount of prescription hypnotic medications used (MEDS), assessed at 2, 4, 6, 9, and 12 months postrandomization. Mixed effects models revealed that, compared to ONLN, participants in STEP had greater reductions in ISI (p&#x2005;=&#x2005;.001; &#x3b7;2&#x2005;=&#x2005;0.01) and MEDS (p&#x2005;=&#x2005;.019, &#x3b7;2&#x2005;=&#x2005;0.01). Within the YES stratum, compared to ONLN, those in STEP had greater reductions in ISI (p&#x2005;=&#x2005;.0001, &#x3b7;2&#x2005;=&#x2005;0.023) and MEDS (p&#x2005;=&#x2005;.018, &#x3b7;2&#x2005;=&#x2005;0.01). Within the ONLN arm, compared to the YES stratum, those in the NO stratum had greater reductions in ISI (p&#x2005;=&#x2005;.015, &#x3b7;2&#x2005;=&#x2005;0.01) but not in MEDS. Results did not change with treatment-dose covariate adjustment. Triaged-stepped care can help guide the allocation of limited CBT-I treatment resources to promote effective and safe treatment of chronic insomnia among middle-aged and older adults. Further refinement of the Triage Checklist and optimization of the timing and switching criteria may improve the balance between effectiveness and use of resources. Name: The RESTING Insomnia Study: Randomized Controlled Study on Effectiveness of Stepped-Care Sleep Therapy. NCT03532282. URL: https://clinicaltrials.gov/study/NCT03532282.
+Bipolar&#xa0;I disorder (BD-I) is associated with an increased risk of obesity, but few studies have evaluated the real-world clinical, humanistic, and economic effects associated with obesity in people with BD-I. This was a retrospective, cross-sectional analysis of responses to the 2016 and 2020 National Health and Wellness surveys. Respondents (18-64&#xa0;years) with a self-reported physician diagnosis of BD-I were matched to controls without BD-I based on demographic and health characteristics. Respondents were categorized by body mass index as underweight/normal weight (<&#x2009;25&#xa0;kg/m), overweight (25 to <&#x2009;30&#xa0;kg/m), or obese (&#x2265;&#x2009;30&#xa0;kg/m). Multivariable regression models were used to compare obesity-related comorbidities, healthcare resource utilization (HCRU), health-related quality of life (HRQoL), work productivity, and indirect and direct costs. Before matching, the BD-I cohort was younger than the non-BD-I cohort and included more female and white respondents and a greater proportion covered by Medicaid or Medicare. After matching, the BD-I and non-BD-I cohorts had similar characteristics. A total of 5418 respondents (BD-I, n&#x2009;=&#x2009;1806; matched controls, n&#x2009;=&#x2009;3612) were analyzed. Obese respondents with BD-I reported the highest adjusted prevalences of high blood pressure (50%), high cholesterol (35%), sleep apnea (27%), osteoarthritis (17%), type&#xa0;2 diabetes (12%), and liver disease (4%). Obesity in respondents with BD-I was associated with the lowest HRQoL scores. Measures of work impairment were highest in respondents with BD-I and obesity, as was HCRU. Respondents with BD-I and obesity had the highest associated total indirect and direct medical costs ($25,849 and $44,482, respectively). Obese respondents with BD-I had greater frequencies of obesity-related comorbidities, higher HCRU, lower HRQoL, greater work impairments, and higher indirect and direct medical costs. These findings highlight the real-world burden of obesity in people with BD-I and the importance of considering treatments that may reduce this burden.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1093/sleep/zsae182
+- Publication Date: 2024
+- DOI: 10.1007/s12325-024-02953-3
 
 2. Keywords
-- digital
-- hypnotics
-- insomnia
-- stepped care
+- Body mass index
+- Comorbidity
+- Health care costs
+- Health-related quality of life
+- Obesity
 
 3. Key Findings
-- Mixed effects models revealed that, compared to ONLN, participants in STEP had greater reductions in ISI (p&#x2005;=&#x2005;
+- Findings extraction requires manual review
 
 This study provides insights into:
-- digital assessment methods and outcomes
-- hypnotics assessment methods and outcomes
-- insomnia assessment methods and outcomes
+- Body mass index assessment methods and outcomes
+- Comorbidity assessment methods and outcomes
+- Health care costs assessment methods and outcomes

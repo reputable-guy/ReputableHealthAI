@@ -1,28 +1,30 @@
-Study Title: Evolution of fruit and vegetable intake among health promotion service participants in a Brazilian metropolis: 48-month follow-up of a randomized controlled community trial.
+Study Title: A Systematic Approach to Evidence-Based Design for Measurable Health and Wellness Outcomes: Curating and Translating Evidence to Practice.
 
 Study Summary:
-To assess longitudinal effects of a nutrition intervention on fruit and vegetable (F&V) intake among Primary Health Care (PHC) service participants in Belo Horizonte, Brazil. Demographics and health data on 3414 PHC service participants were collected at baseline in 2013-2014. F&V intake was assessed at baseline, 12, 36, and 48&#xa0;months until 2017-2018. Services were randomized to control (CG, usual care) or intervention (IG, usual care and a Transtheoretical Model-based intervention to increase F&V intake). We performed difference-in-differences (DiD) analysis to identify intervention effects on F&V intake, and sensitivity analyses of participants observed at all timepoints. Participants were mostly middle-aged, low-income women. Mean baseline intakes were 168.7&#xa0;g of fruit, 202.0&#xa0;g of vegetables, and 370.7&#xa0;g of F&V, with lower fruit in the IG (164.1&#xa0;g) than the CG (172.3&#xa0;g). At 12&#xa0;months, the intervention increased fruit intake in the IG and fruit and F&V intake among individuals with low baseline F&V intake. Fruit intake remained higher at 36&#xa0;months in the IG. No effect on vegetable intake was identified. According to sensitivity analyses, effects on fruit intake among the complete sample did not remain significant at 36&#xa0;months, and an effect on fruit intake at 36&#xa0;months was identified among those with adequate baseline F&V intake. Reductions in F&V intake did not remain significant. At 12&#xa0;months, a TTM-based intervention increased fruit intake in the overall sample, and fruit and F&V intake among individuals with low baseline intakes. Repeated interventions may be needed over time. RBR-9h7ckx.
+Evaluating evidence from peer-review literature for use in evidence-based design is often challenging for the design disciplines, requiring access to the peer-reviewed literature, expertise in evaluating methods and findings, and translating the results into actionable design and operational recommendations. The purpose of this methods paper is to elucidate the process for systematic evaluation of research to translate evidence into practical application to improve design for occupant health and wellness. Researchers have found strong connections in environmental design influence on health and wellness that have proven to be substantiative in the effort to improve health and well-being. Design has the capacity to encourage healthy choices and decisions within the built environment. Translation of evidence into applied design solutions may improve public health. A protocol is presented that culminates in the translation of evidence into design recommendations focused on improving occupant health. The protocol includes preparation for the literature search and review, search strategy, study selection, data analysis, and development of the literature review. After evaluation of the evidence is completed, there were several positive findings in the example that stakeholders could utilize to improve the health of building occupants with programs and design to support nutrition, physical activity, and circadian entrainment. There are a variety of software tools and processes to utilize in the curation of evidence to improve the built environment with relevant design recommendations and operational considerations affecting the personal, social, and economic health of our society.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1016/j.ypmed.2023.107748
+- Publication Date: 2023
+- DOI: 10.1177/19375867231209335
 
 2. Keywords
-- Food and nutrition education
-- Fruit
-- Health promotion
-- Longitudinal studies
-- Primary health care
-- Randomized controlled trial
-- Vegetables
+- evidence-based design
+- health
+- indoor environmental quality
+- interventional design
+- nutrition
+- physical activity
+- research tools
+- translational design
+- wellness
 
 3. Key Findings
-- Findings extraction requires manual review
+- Researchers have found strong connections in environmental design influence on health and wellness that have proven to be substantiative in the effort to improve health and well-being
 
 This study provides insights into:
-- Food and nutrition education assessment methods and outcomes
-- Fruit assessment methods and outcomes
-- Health promotion assessment methods and outcomes
+- evidence-based design assessment methods and outcomes
+- health assessment methods and outcomes
+- indoor environmental quality assessment methods and outcomes

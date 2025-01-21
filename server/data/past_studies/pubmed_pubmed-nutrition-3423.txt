@@ -1,27 +1,28 @@
-Study Title: Diet quality and blood pressure among pregnant women with overweight or obesity: A secondary analysis of two randomized controlled trials.
+Study Title: Dietary composition of adult eosinophilic esophagitis patients is related to disease severity.
 
 Study Summary:
-Maternal obesity is a significant risk factor for hypertensive disorders of pregnancy. High diet quality may protect against this, yet data regarding the relationship between diet quality and blood pressure among pregnant women with raised body mass index (BMI) is limited. This is a secondary analysis (n&#x2009;=&#x2009;543) of women with BMI &#x2265;25&#x2009;kg/mfrom two randomized controlled trials; PEARS (Pregnancy Exercise and nutrition Research Study with smartphone application support) and ROLO (Randomized cOntrol trial of LOw glycemic index diet to prevent macrosomia in euglycemic women). Blood pressure was measured at 10-18&#x2009;weeks and 28&#x2009;weeks of pregnancy. Mean arterial pressure was calculated as (diastolic blood pressure[systolic blood pressure&#x2009;&#x2009;diastolic blood pressure]). Diet quality was assessed using 3-day food diaries, and Alternative Healthy Eating Index for Pregnancy (AHEI-P) scores were generated, quantifying alignment of food intakes with dietary guidelines in first and early third trimesters. The cohort was divided based on AHEI-P tertiles to explore differences at an alpha significance value of <0.05. The mean age of the group was 32.21&#x2009;&#xb1;&#x2009;4.39&#x2009;years with a median body mass index (BMI) of 28.13 (IQR 3.47) kg/m. Mean arterial pressures in the first and third trimesters were 81.07&#x2009;&#xb1;&#x2009;9.00&#x2009;mmHg and 82.33&#x2009;&#xb1;&#x2009;7.53&#x2009;mmHg, respectively. Rates of elevated blood pressure (&#x2265;120/80&#x2009;mmHg) were 22.33% in trimester 1 and 24.48% in early trimester 3. Mean AHEI-P scores in trimester 1 and early trimester 3 were 53.90&#x2009;&#xb1;&#x2009;10.43 and 54.05&#x2009;&#xb1;&#x2009;10.76, respectively. There was no correlation between AHEI-P score and blood pressure and no differences in blood pressure between AHEI-P tertiles at either timepoint (all P-values&#x2009;<0.05). A higher proportion of those with elevated early third trimester blood pressure had a BMI of &#x2265;30&#x2009;kg/mcompared with those with normal blood pressure (40.31% vs 28.64%, P&#x2009;=&#x2009;0.016). While diet remains an important factor in maternal health and wellbeing, we did not find a relationship between diet quality as measured by AHEI-P and blood pressure among pregnant women with BMI &#x2265;25&#x2009;kg/m. High BMI remains a risk factor for hypertensive disorders of pregnancy.
+In addition to the elimination diet, dietary composition may influence disease severity in patients with eosinophilic esophagitis (EoE) through modulation of the immune response. To explore the immunomodulatory role of nutrition before and during elimination diet in adult EoE patients. Nutritional intake was assessed in 39 Dutch adult EoE patients participating in the Supplemental Elemental Trial&#xa0;(Dutch trial registry NL6014, NTR6778) using 3-day food diaries. In this randomized controlled trial, diagnosed patients received either a four-food elimination diet alone (FFED) or FFED with addition of an amino acid-based formula for 6 weeks. Multiple linear regression analyses were performed to assess associations between the intake of nutrients and food groups per 1000&#x2009;kCal and peak eosinophil count/high power field (PEC), both at baseline and after 6 weeks. At baseline, we found a statistically significant negative (thus favorable) relationship between the intake of protein, total fat, phosphorus, zinc, vitamin B12, folate, and milk products and PEC (p&#x2009;<&#x2009;.05), while calcium (p&#x2009;=&#x2009;.058) and full-fat cheese/curd (p&#x2009;=&#x2009;.056) were borderline (favorably) significant. In contrast, total carbohydrates, prepacked fruit juice, and white bread were significantly positively (unfavorable) related to PEC (p&#x2009;<&#x2009;.05), while ultra-processed meals (p&#x2009;=&#x2009;.059) were borderline (unfavorably) significant. After dietary intervention, coffee/tea were significantly negatively (favorably) related to PEC, hummus/legumes were significantly positively (unfavorably) related with PEC, while peanuts were borderline significantly positively related (p&#x2009;=&#x2009;.058). Dietary composition may be related to inflammation in adult EoE patients. High-quality and anti-inflammatory diets may be a promising adjuvant therapy in the dietary management of EoE.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/aogs.14821
+- DOI: 10.1002/iid3.1206
 
 2. Keywords
-- Alternative Healthy Eating Index
-- body mass index
-- dietary quality
-- hypertension
-- obesity
-- overweight
+- anti-inflammatory diet
+- disease severity
+- eosinophilic esophagitis
+- foods
+- immunomodulation
+- inflammation
+- nutrients
 
 3. Key Findings
-- Findings extraction requires manual review
+- At baseline, we found a statistically significant negative (thus favorable) relationship between the intake of protein, total fat, phosphorus, zinc, vitamin B12, folate, and milk products and PEC (p&#x2009;<&#x2009;
 
 This study provides insights into:
-- Alternative Healthy Eating Index assessment methods and outcomes
-- body mass index assessment methods and outcomes
-- dietary quality assessment methods and outcomes
+- anti-inflammatory diet assessment methods and outcomes
+- disease severity assessment methods and outcomes
+- eosinophilic esophagitis assessment methods and outcomes

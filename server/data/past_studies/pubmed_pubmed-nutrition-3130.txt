@@ -1,29 +1,24 @@
-Study Title: Adjusted versus Targeted Fortification in Extremely Low Birth Weight Preterm Infants: Fortin Study-A Randomized Clinical Trial.
+Study Title: The Effect of Individual Attitude toward Healthy Nutrition on Adherence to a High-UFA and High-Protein Diet: Results of a Randomized Controlled Trial.
 
 Study Summary:
-Fortified human milk is the first choice for preterm infants. Although individualized fortification is recommended, the optimal method for this population remains uncertain. We conducted a comparative study assessing the growth effects of adjusted (AF) and targeted fortification (TF) in extremely low birth weight (ELBW) infants. This single-center, randomized, controlled clinical trial was conducted at a tertiary neonatal unit in Spain. Eligible participants were premature infants with a birthweight of <1000 g exclusively fed with human milk. A total of 38 patients were enrolled, 15 of them randomized to AF group and 23 to TF group. AF was based on blood urea nitrogen (BUN) concentration and TF on human milk analysis. The primary outcome was weight gain velocity (g/kg/day). No significant differences were found in weight gain velocity at 28 days, at 36 weeks of postmenstrual age, at discharge, nor during the intervention. Protein intake was significantly higher in the AF group (5.02 g/kg/day vs. 4.48 g/kg/day,= 0.001). No differences were found in the lipid, carbohydrate, and energy intake; in the weight z score change between the different time points; nor in the length and head circumference growth. Both AF and TF are comparable methods of fortification and provide the appropriate growth rate in ELBW infants.
+Despite beneficial cardiovascular effects, substantial long-term modulation of food pattern could only be achieved in a limited number of participants. The impact of attitude towards healthy nutrition (ATHN) on successful modulation of dietary behavior is unclear, especially in the elderly. We aimed to analyze whether the personal ATHN influences 12-month adherence to two different dietary intervention regimes within a 36-month randomized controlled trial. 502 subjects were randomized to an intervention group (IG; dietary pattern focused on high intake of unsaturated fatty acids (UFA), plant protein and fiber) or control group (CG; dietary recommendation in accordance with the German Society of Nutrition) within a 36-month dietary intervention trial. Sum scores for effectiveness, appreciation and practice of healthy nutrition were assessed using ATHN questionnaire during the trial (= 344). Linear regression models were used to investigate associations between ATHN and dietary patterns at baseline and at month 12. Retirement, higher education level, age and lower body mass index (BMI) were associated with higher ATHN sum scores. ATHN was similar in CG and IG. Higher baseline intake of polyunsaturated fatty acids (PUFA) and fiber as well as lower intake in saturated fatty acids (SFA) were associated with higher scores in practice in both groups. The intervention resulted in a stronger increase of UFA, protein and fiber in the IG after 12 months, while intake of SFA declined (< 0.01). Higher scores in appreciation were significantly associated with higher intake of fiber and lower intake of SFA in the CG at month 12, whereas no associations between ATHN and macronutrient intake were observed in the IG after 12 months. While ATHN appeared to play a role in general dietary behavior, ATHN did not affect the success of the specific dietary intervention in the IG at month 12. Thus, the dietary intervention achieved a substantial modification of dietary pattern in the IG and was effective to override the impact of the individual ATHN on dietary behavior.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16172904
+- DOI: 10.3390/nu16173044
 
 2. Keywords
-- blood urea nitrogen
-- growth
-- human milk
-- human milk fortification
-- individualized fortification
-- neonatal nutrition
-- preterm infants
+- attitude
+- healthy aging
+- healthy nutrition
 
 3. Key Findings
-- No significant differences were found in weight gain velocity at 28 days, at 36 weeks of postmenstrual age, at discharge, nor during the intervention
-- No differences were found in the lipid, carbohydrate, and energy intake; in the weight z score change between the different time points; nor in the length and head circumference growth
+- Findings extraction requires manual review
 
 This study provides insights into:
-- blood urea nitrogen assessment methods and outcomes
-- growth assessment methods and outcomes
-- human milk assessment methods and outcomes
+- attitude assessment methods and outcomes
+- healthy aging assessment methods and outcomes
+- healthy nutrition assessment methods and outcomes

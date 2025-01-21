@@ -1,30 +1,24 @@
-Study Title: Study protocol for a single-arm pilot trial investigating the feasibility of a multimodal digital technology for managing metabolic syndrome in patients with chronic obstructive pulmonary disease.
+Study Title: Nebulized fentanyl does not improve exercise capacity or dyspnoea in fibrosing interstitial lung disease.
 
 Study Summary:
-Individuals diagnosed with Chronic Obstructive Pulmonary Disease (COPD) are exposed to an increased risk of metabolic syndrome (MetS), which negatively affects their health outcomes and quality of life. Lifestyle interventions have shown promise in managing MetS. This study outlines the protocol for a web-based multimodal self-care program, Digital Metabolic Rehabilitation, for managing MetS in patients with COPD. The Digital Metabolic Rehabilitation is a single-arm pilot trial that integrates the Canadian Health Advanced by Nutrition and Graded Exercise (CHANGE) Program and a web-based wellness platform. The web-based wellness platform employed in this study is My Viva Plan (MVP)&#xae;, which integrates a holistic, multicomponent approach to promote wellness. The intervention will primarily focus on lifestyle changes for patients with COPD. Over 6&#xa0;months, participants will use the web-based wellness platform and engage in weekly online support group sessions. Fifty patients diagnosed with stage I-II COPD and MetS will participate. Blood tests, anthropometrics, body composition, physical function, muscle strength, physical activity, energy metabolism, quality of life and mental health will be assessed at baseline, 3, and 6&#xa0;months. The Digital Metabolic Rehabilitation program aims to explore whether a multimodal integrative intervention delivered through a web-based wellness platform can be implemented by patients with COPD with MetS. By combining the expertise of the CHANGE Program with the digital delivery format, the intervention seeks to enhance self-monitoring and foster better self-management practices. The protocol outlines a novel and potentially impactful intervention for managing MetS in patients with COPD.
+Exercise intolerance and exertional dyspnoea are hallmarks of fibrosing interstitial lung disease (FILD) and are associated with worse prognosis and quality of life. Activation of pulmonary vagal afferents influences the ventilatory pattern and contributes to the sensation of dyspnoea. We tested the hypothesis that nebulized fentanyl, which might attenuate aberrant pulmonary afferent activity in FILD, reduces ventilation and dyspnoea while extending exercise endurance time (EET). In this randomized, single-blind, placebo-controlled study, eight FILD patients (two males, 71&#xa0;&#xb1;&#xa0;6&#xa0;years of age) performed incremental cardiopulmonary cycle exercise tests following nebulization of either fentanyl citrate (100 &#xb5;g) or 0.9% saline. Previous work indicated that this dose was unlikely to produce central effects. Comparisons between treatment conditions at rest were undertaken using Student's paired t-test, and exercise data were evaluated with two-way ANOVA with repeated measures. Dyspnoea was assessed using the Borg dyspnoea scale. Resting respiratory variables were not different following treatment with fentanyl and saline; however, resting heart rate was lower following fentanyl (P&#xa0;=&#xa0;0.002) and remained lower throughout exercise compared with placebo (P&#xa0;=&#xa0;0.008). Fentanyl did not increase EET (placebo 334&#xa0;&#xb1;&#xa0;117&#xa0;s vs. fentanyl 348&#xa0;&#xb1;&#xa0;126&#xa0;s, P&#xa0;=&#xa0;0.250) although overall minute ventilation was reduced slightly (mean difference: -0.97 L/min, P&#xa0;=&#xa0;0.022). There were no differences in ratings of dyspnoea intensity or unpleasantness between the conditions either at rest or at end-exercise. Nebulized fentanyl did not improve EET or exercise dyspnoea but did decrease minute ventilation during exercise, although the extent of this reduction appears clinically insignificant. These findings suggest that nebulized fentanyl is unlikely to offer significant benefits for enhancing exercise capacity in FILD.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1016/j.ymeth.2024.10.003
+- Publication Date: 2025
+- DOI: 10.1113/EP092123
 
 2. Keywords
-- Chronic obstructive pulmonary disease
-- Dietary intake
-- Digital platform
-- Internet-based intervention
-- Lifestyle intervention
-- Metabolic syndrome
-- Mindfulness
-- Physical activity
-- Primary care
+- afferents
+- dyspnoea
+- exercise
 
 3. Key Findings
-- Findings extraction requires manual review
+- Previous work indicated that this dose was unlikely to produce central effects
 
 This study provides insights into:
-- Chronic obstructive pulmonary disease assessment methods and outcomes
-- Dietary intake assessment methods and outcomes
-- Digital platform assessment methods and outcomes
+- afferents assessment methods and outcomes
+- dyspnoea assessment methods and outcomes
+- exercise assessment methods and outcomes

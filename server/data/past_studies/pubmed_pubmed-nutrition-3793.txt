@@ -1,27 +1,26 @@
-Study Title: Observed Improvement in Cognition During a Personalized Lifestyle Intervention in People with Cognitive Decline.
+Study Title: Beta-hydroxy-beta-methylbutyrate supplementation and functional outcomes in multitrauma patients: A pilot randomized controlled trial.
 
 Study Summary:
-Alzheimer's disease (AD) is a chronic condition marked by progressive objective cognitive impairment (OCI). No monotherapy has substantially altered disease progression, suggesting the disease is multifactorial and may require a multimodal therapeutic approach. We sought to determine if cognitive function in a sample with OCI would change in response to a multimodal, individualized care plan based on potential contributors to cognitive decline (e.g., nutritional status, infection, etc.). Participants (n&#x200a;=&#x200a;34) were recruited from the San Diego, CA area. The multimodal intervention included lifestyle changes (i.e., movement, diet, and stress management), nutraceutical support, and medications. It was delivered pragmatically over four clinical visits, and outcome measures were gathered at four study visits, occurring at baseline, one, three, and six months (primary endpoint). Study participants received weekly phone calls for nutrition support throughout study participation. Outcome measures included the Cambridge Brain Sciences (CBS) battery, and the Montreal Cognitive Assessment (MoCA). At 6 months, mean MoCA scores improved from 19.6&#xb1;3.1 to 21.7&#xb1;6.2 (p&#x200a;=&#x200a;0.013). Significant improvement was observed in mean scores of the CBS memory domain [25.2 (SD 23.3) to 35.8 (SD 26.9); p&#x200a;<&#x200a;0.01] and CBS overall composite cognition score [24.5 (SD 16.1) to 29.7 (SD 20.5); p = 0.02]. All CBS domains improved. Multiple measures of cognitive function improved after six months of intervention. Our results support the feasibility and impact of a multimodal, individualized treatment approach to OCI, warranting further research.
+Beta-hydroxy-beta-methylbutyrate (HMB) is a nutrition supplement that may attenuate muscle wasting from critical illness. This trial aimed to determine feasibility of administering a blinded nutrition supplement in the intensive care unit (ICU) and continuing it after ICU discharge. Single-center, parallel-group, blinded, placebo-controlled, randomized feasibility trial. After traumatic injury necessitating admission to ICU, participants were randomized to receive an enteral study supplement of 3&#x2009;g of HMB (intervention) or placebo daily for 28 days or until hospital discharge. Primary outcome was feasibility of administering the study supplement, quantified as protocol adherence. Secondary outcomes included change in quadriceps muscle thickness, measured weekly until day 28 or hospital discharge by using ultrasound and analyzed by using a linear mixed model. Fifty randomized participants (intervention, n&#x2009;=&#x2009;26; placebo, n&#x2009;=&#x2009;24) showed comparable baseline characteristics. Participants received 862 (84.3%) of the 1022 prescribed supplements during hospitalization with 543 (62.8%) delivered via an enteral feeding tube. The median (IQR) number of study supplements successfully administered per participant was 19.5 (13.0-24.0) in the intervention group and 16.5 (8.5-23.5) in the placebo group. Marked loss of quadriceps muscle thickness occurred in both groups, with the point estimate favoring attenuated muscle loss with the intervention, albeit with wide CIs (mean intervention difference after 28 days, 0.26&#x2009;cm [95% CI, -0.13 to 0.64]). A blinded, placebo-controlled, randomized clinical trial of daily enteral HMB supplementation for up to 28 days in hospital is feasible. Any effect of HMB supplementation to attenuate muscle wasting after traumatic injury remains uncertain.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3233/JAD-230004
+- DOI: 10.1002/jpen.2527
 
 2. Keywords
-- Alzheimer&#x2019;s disease
-- Cambridge Brain Sciences
-- Montreal Cognitive Assessment
-- clinical trial
-- dementia
-- mild cognitive impairment
+- beta-hydroxy-beta-methylbutyrate
+- critical illness
+- enteral nutrition
+- muscle mass
+- nutrition therapy
 
 3. Key Findings
-- Findings extraction requires manual review
+- Fifty randomized participants (intervention, n&#x2009;=&#x2009;26; placebo, n&#x2009;=&#x2009;24) showed comparable baseline characteristics
 
 This study provides insights into:
-- Alzheimer&#x2019;s disease assessment methods and outcomes
-- Cambridge Brain Sciences assessment methods and outcomes
-- Montreal Cognitive Assessment assessment methods and outcomes
+- beta-hydroxy-beta-methylbutyrate assessment methods and outcomes
+- critical illness assessment methods and outcomes
+- enteral nutrition assessment methods and outcomes

@@ -1,24 +1,26 @@
-Study Title: Ultrasound-guided stellate ganglion block benefits the postoperative recovery of patients undergoing laparoscopic colorectal surgery: a single-center, double-blinded, randomized controlled clinical trial.
+Study Title: Randomized controlled trial of two internet-based written therapies for world trade center workers and survivors with persistent PTSD symptoms.
 
 Study Summary:
-With the increasing prevalence of colorectal cancer (CRC), optimizing perioperative management is of paramount importance. This study investigates the potential of stellate ganglion block (SGB), known for its stress response-mediating effects, in improving postoperative recovery. We postulate that preoperative SGB may enhance the postoperative recovery of patients undergoing laparoscopic CRC surgery. We conducted a randomized controlled trial of 57 patients undergoing laparoscopic colorectal cancer surgery at a single center. Patients, aged 18-70&#xa0;years, were randomly assigned to receive either preoperative SGB or standard care. SGB group patients received 10&#xa0;mL of 0.2% ropivacaine under ultrasound guidance prior to surgery. Primary outcome was time to flatus, with secondary outcomes encompassing time to defecation, lying in bed time, visual analog scale (VAS) pain score, hospital stays, patient costs, intraoperative and postoperative complications, and 3-year mortality. A per-protocol analysis was used. Twenty-nine patients in the SGB group and 28 patients in the control group were analyzed. The SGB group exhibited a significantly shorter time to flatus (mean [SD] hour, 20.52 [9.18] vs. 27.93 [11.69]; p&#x2009;=&#x2009;0.012), accompanied by decreased plasma cortisol levels (mean [SD], postoperatively, 4.01 [3.42] vs 7.75 [3.13], p&#x2009;=&#x2009;0.02). Notably, postoperative pain was effectively managed, evident by lower VAS scores at 6&#xa0;h post-surgery in SGB-treated patients (mean [SD], 4.70 [0.91] vs 5.35 [1.32]; p&#x2009;=&#x2009;0.040). Furthermore, patients in the SGB group experienced reduced hospital stay length (mean [SD], day, 6.61 [1.57] vs 8.72 [5.13], p&#x2009;=&#x2009;0.042). Preoperative SGB emerges as a promising approach to enhance the postoperative recovery of patients undergoing laparoscopic CRC surgery. ChiCTR1900028404, Principal investigator: Xia Feng, Date of registration: 12/20/2019.
+Posttraumatic stress disorder (PTSD) remains prevalent among individuals exposed to the 9/11 World Trade Center (WTC) terrorist attacks. The present study compared an Internet-based, therapist-assisted psychotherapy for PTSD to an active control intervention in WTC survivors and recovery workers with WTC-related PTSD symptoms (n = 105; 75% syndromal PTSD). Participants were randomized to integrative testimonial therapy (ITT), focused on WTC-related trauma, or modified present-centered therapy (I-MPCT), each comprising 11 assigned written narratives. The primary outcome was baseline-to-post-treatment change in PTSD symptoms on the PTSD Checklist for DSM-5 (PCL-5). Secondary measures included PTSD symptom clusters, depressive/anxiety symptoms, functioning, and quality of life. A significant main effect of time was observed for the primary outcome (average "large" effect size improvement, d = 1.49). Significant and "moderate-to-large" main effects of time were also observed for all PTSD symptom clusters, depressive symptoms, quality of life, and mental health-related functioning (d range=0.62-1.33). Treatment and treatment-by-time interactions were not significant. In planned secondary analyses incorporating 3-month follow-up measures, ITT was associated with significantly greater reductions than I-MPCT in PTSD avoidance and negative alterations in cognitions and mood, anxiety, and mental health-related functioning. Both therapies significantly lowered PTSD symptoms, suggesting they may benefit hard-to-reach individuals with chronic WTC-related PTSD symptoms.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12871-024-02518-5
+- DOI: 10.1016/j.psychres.2024.115885
 
 2. Keywords
-- Colorectal surgery
-- ERAS
-- Stellate ganglion block
+- Integrative testimonial therapy
+- Internet-based psychotherapy
+- Modified present-centered therapy
+- Posttraumatic stress disorder
+- Written psychotherapy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Colorectal surgery assessment methods and outcomes
-- ERAS assessment methods and outcomes
-- Stellate ganglion block assessment methods and outcomes
+- Integrative testimonial therapy assessment methods and outcomes
+- Internet-based psychotherapy assessment methods and outcomes
+- Modified present-centered therapy assessment methods and outcomes

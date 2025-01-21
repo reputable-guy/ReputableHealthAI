@@ -1,20 +1,27 @@
-Study Title: Effect of Lifestyle on Reducing Risk Factors for Type 2 Diabetes among Arab Canadian Muslim Women: A Randomized Control Trial.
+Study Title: Shatavari supplementation in postmenopausal women alters the skeletal muscle proteome and pathways involved in training adaptation.
 
 Study Summary:
-This study aimed to investigate whether modifiable risk factors for type 2 diabetes (T2D) can be reduced by an intensive healthy lifestyle intervention designed for Arab Muslim women of Middle Eastern descent (AWMD) who are at high risk for this disease. We hypothesized that among Canadian AWMD, the intervention would (a) reduce the identified health risk factors for T2D (body mass index [BMI], &#x2265;30 kg&#xb7;m-2; fasting blood glucose [FBG], &#x2265;5.6 mmol&#xb7;L-1; and waist circumference [WC], &#x2265;80 cm); (b) improve anthropometric measurements; (c) improve lifestyle factors (physical activity level [steps per day] and dietary habits); and (d) improve cardiovascular fitness and reduce blood pressure. After informed consent, 60 participants were randomized to either an exercise and nutrition group (ENG; n = 30) or a control group (CON; n = 30). ENG attended a women-only supervised exercise program that presented Arabic music and traditional Lebanese Dabka three times a week in a Mosque gym for 12 wk. A nutritionist was available 1 h&#xb7;wk-1 for nutrition education. The CON followed their typical day. ENG and CON had similar increased risk profiles for diabetes at baseline. Large significant pre/posttreatment interaction effects were found for BMI, FBG, and WC with a reduced diabetes risk for ENG compared with CON for BMI (1,58) = 1184.8, P < 0.001), FBG (1,58) = 187.7, P < 0.001), and WC (1,58) = 326.4, P < 0.001). The ENG had significantly more participants reach postintervention target values (BMI: &#x3c7;2(1) = 16.48, P = 0.001; FBG: &#x3c7;2(1) = 52.26, P < 0.001; WC: &#x3c7;2(1) = 4.29, P = 0.038) compared with the CON. Adherence to the program was 100%. Modifiable risk factors for T2D were reduced by using a culturally sensitive intervention program with high adherence through weight loss, regular exercise, and nutrition education.
+Shatavari is an understudied, widely available herbal supplement. It contains steroidal saponins and phytoestrogens. We previously showed that six weeks of shatavari supplementation improved handgrip strength and increased markers of myosin contractile function. Mechanistic insights into shatavari's actions are limited. Therefore, we performed proteomics on vastus lateralis (VL) samples that remained from our original study. In a randomised double-blind trial, women (68.5&#x2009;&#xb1;&#x2009;6&#xa0;years) ingested either placebo or shatavari (equivalent to 26,500&#xa0;mg/d fresh weight) for six weeks. Tandem mass tag global proteomic analysis of VL samples was conducted (N&#x2009;=&#x2009;7 shatavari, N&#x2009;=&#x2009;5 placebo). Data were normalized to total peptides and scaled using a reference sample. Data were filtered using a 5% FDR. For each protein, the pre to post supplementation difference was expressed as log2 fold change. Welch's t tests with Benjamini-Hochberg corrections were performed for each protein. Pathway enrichment (PADOG, CAMERA) was interrogated in Reactome (v85). No individual protein was significantly different between supplementation conditions. Both PADOG and CAMERA indicated that pathways related to (1) Integrin/MAPK signalling, (2) metabolism/insulin secretion; (3) cell proliferation/senescence/DNA repair/cell death; (4) haemostasis/platelets/fibrin; (5) signal transduction; (6) neutrophil degranulation and (7) chemical synapse function were significantly upregulated. CAMERA indicated pathways related to translation/amino acid metabolism, viral infection, and muscle contraction were downregulated. Our analyses indicate that shatavari may support muscle adaptation responses to exercise. These data provide useful signposts for future investigation of shatavari's utility in conserving and enhancing musculoskeletal function in older age. NCT05025917 30/08/21, retrospectively registered.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1249/MSS.0000000000003311
+- DOI: 10.1007/s00394-023-03310-w
 
 2. Keywords
-
+- Asparagus racemosus
+- Nutrition
+- Proteomics
+- Skeletal muscle
 
 3. Key Findings
-- Large significant pre/posttreatment interaction effects were found for BMI, FBG, and WC with a reduced diabetes risk for ENG compared with CON for BMI (1,58) = 1184
+- We previously showed that six weeks of shatavari supplementation improved handgrip strength and increased markers of myosin contractile function
+- Both PADOG and CAMERA indicated that pathways related to (1) Integrin/MAPK signalling, (2) metabolism/insulin secretion; (3) cell proliferation/senescence/DNA repair/cell death; (4) haemostasis/platelets/fibrin; (5) signal transduction; (6) neutrophil degranulation and (7) chemical synapse function were significantly upregulated
+- CAMERA indicated pathways related to translation/amino acid metabolism, viral infection, and muscle contraction were downregulated
 
 This study provides insights into:
-- General research methodology and outcomes
+- Asparagus racemosus assessment methods and outcomes
+- Nutrition assessment methods and outcomes
+- Proteomics assessment methods and outcomes

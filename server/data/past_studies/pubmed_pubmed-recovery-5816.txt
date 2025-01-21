@@ -1,20 +1,26 @@
-Study Title: Effect of different lung recruitment strategies and airway device on oscillatory mechanics in children under general anaesthesia.
+Study Title: The clinical efficacy of Medial Sustain Nail(MSN) and Proximal femoral nail anti-rotation(PFNA) for fixation of medial comminuted trochanteric fractures: a prospective randomized controlled trial.
 
 Study Summary:
-Atelectasis has been reported in 68 to 100% of children undergoing general anaesthesia, a phenomenon that persists into the recovery period. Children receiving recruitment manoeuvres have less atelectasis and fewer episodes of oxygen desaturation during emergence. The optimal type of recruitment manoeuvre is unclear and may be influenced by the airway device chosen. We aimed to investigate the different effects on lung mechanics as assessed by the forced oscillation technique (FOT) utilising different recruitment strategies: repeated inflations vs. one sustained inflation and different airway devices, a supraglottic airway device vs. a cuffed tracheal tube. Pragmatic enrolment with randomisation to the recruitment strategy. We conducted this single-centre trial between February 2020 and March 2022. Seventy healthy patients (53 boys) aged between 2 and 16&#x200a;years undergoing general anaesthesia were included. Forced oscillations (5&#x200a;Hz) were superimposed on the ventilator waveform using a customised system connected to the anaesthesia machine. Pressure and flow were measured at the inlet of the airway device and used to compute respiratory system resistance and reactance. Measurements were taken before and after recruitment, and again at the end of surgery. The primary endpoint measured is the change in respiratory reactance. Statistical analysis (linear model with recruitment strategy and airway device as factors) did not show any significant difference in resistance and reactance between before and after recruitment. Baseline reactance was the strongest predictor for a change in reactance after recruitment: prerecruitment Xrs decreased by mean (standard error) of 0.25 (0.068)&#x200a;cmH 2 O&#x200a;s&#x200a;l -1 per &#x200a;1&#x200a;cmH 2 O -1 &#x200a;s&#x200a;l -1 increase in baseline Xrs ( P &#x200a;<&#x200a;0.001). After correcting for baseline reactance, the change in reactance after recruitment was significantly lower for sustained inflation compared with repeated inflation by mean (standard error) 0.25 (0.101)&#x200a;cmH 2 O ( P &#x200a;=&#x200a;0.0166). Although there was no significant difference between airway devices, this study demonstrated more effective recruitment via repeated inflations than sustained inflation in anaesthetised children. Australian New Zealand Clinical Trials Registry: ACTRN12619001434189.
+To evaluate the clinical efficacy of the Medial Sustain Nail (MSN) for medial comminuted trochanteric fractures fixation in comparison to Proximal Femoral Nail Antirotation (PFNA) through a clinical study. A non-inferiority randomized controlled trial was conducted at a single centre between July 2019 and July 2020. Fifty patients diagnosed comminuted trochanteric fractures were randomly assigned to either the MSN group (n&#x2009;=&#x2009;25) or the PFNA group (n&#x2009;=&#x2009;25). A total of forty-three patients were included in the final study analysis. The primary outcome measure was Short Form 36 health surgery physical component summary (SF-36 PCS) score. Secondary outcomes included the Oxford Hip Scores (OHS), weight bearing, complication relate to implant and so on. This study was not blined to surgeons, but to patients and data analysts. The MSN demonstrated significantly better functional outcomes as measured by SF-36 PCS and OHS at six&#xa0;months postoperative compared to PFNA (p&#x2009;<&#x2009;0.05). Union of fractures in the MSN group reached 90.9% at three&#xa0;months after surgery, whereas the PFNA group achieved a union rate of 57.1% (p&#x2009;<&#x2009;0.05). Furthermore, weight-bearing time of MSN group was earlier than PFNA group (p&#x2009;<&#x2009;0.05). Additionally, complications related to implant usage were more prevalent in the PFNA group (33.3%) compared to the MSN group (4.5%) (p&#x2009;<&#x2009;0.05). MSN exhibited superior quality of life outcomes compared to PFNA at six&#xa0;months postoperative. This indicates that MSN effectively reconstructs medial femoral support in patients with comminuted trochanteric fractures, which facilitates early weight-bearing and accelerates the recovery process. Trial registration number: NCT01437176, Date of the trial registration:2011-9-1, Date of commencement of the study:2011-9, Date of enrolment/recruitment of the study subjects:2019-7.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/EJA.0000000000001999
+- DOI: 10.1007/s00264-024-06220-6
 
 2. Keywords
-
+- Clinical efficacy
+- Comminuted trochanteric fractures
+- Medial support
+- Medical sustain nail
+- Proximal femoral nail anti-rotation
 
 3. Key Findings
-- Although there was no significant difference between airway devices, this study demonstrated more effective recruitment via repeated inflations than sustained inflation in anaesthetised children
+- The MSN demonstrated significantly better functional outcomes as measured by SF-36 PCS and OHS at six&#xa0;months postoperative compared to PFNA (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- General research methodology and outcomes
+- Clinical efficacy assessment methods and outcomes
+- Comminuted trochanteric fractures assessment methods and outcomes
+- Medial support assessment methods and outcomes

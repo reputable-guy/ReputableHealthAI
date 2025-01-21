@@ -1,27 +1,25 @@
-Study Title: Association between sleep quality with maternal and neonatal outcomes during the covid-19 pandemic.
+Study Title: Brain compensatory mechanisms in depression and memory complaints in fibromyalgia: the role of theta oscillatory activity.
 
 Study Summary:
-Sleep disorders during pregnancy can impact maternal and neonatal outcomes. The objective of this study is to examine the relationship between sleep quality and maternal and neonatal outcomes during the COVID-19 pandemic. This prospective cohort study was conducted at the Educational-Therapeutic Center of Shohadaye Yaftabad Referral Hospital in Tehran, Iran, from December 2020 to September 2022. A total of 198 eligible participants were randomly assigned to either the sleep disorders group or the no sleep disorders group. Data were collected through demographic questionnaires, the Corona Disease Anxiety Scale (CDAS) questionnaire, the Pittsburgh Sleep Quality Index (PSQI), and the checklist for maternal and neonatal outcomes. At baseline, the sleep disorders and no sleep disorders groups were similar in terms of age, body mass index (before pregnancy), education level, employment status, gravida, parity, abortion, and history of COVID-19. Within the sleep disorders group, there was a statistically significant, direct linear correlation between sleep disorders and FBS 34-36 weeks (r&#x2009;=&#x2009;0.33, P&#x2009;<&#x2009;0.001) as well as Corona Disease Anxiety (CDA) (r&#x2009;=&#x2009;0.35, P&#x2009;<&#x2009;0.001). The linear regression results indicated that for every unit increase in sleep disorders, the risk of FBS 34-36 weeks increased by 1.09 times (&#x3b2;&#x2009;=&#x2009;1.09, P&#x2009;<&#x2009;0.001). Additionally, sleep disorders increased the risk of CDA by 1.36 times (&#x3b2;&#x2009;=&#x2009;1.36, P&#x2009;<&#x2009;0.001). The results showed no statistically significant differences in terms of birth weight, type of delivery (vaginal or cesarean section), gestational age (preterm or full term), length of labor stages (first and second stage), Apgar score at minutes 1 and 5, and NICU admission between the two groups. Based on the results, a certain degree of correlation exists between sleep quality and FBS at 34-36 weeks and CDA. These findings underscore the need for future public health guidelines to formulate detailed strategies to improve sleep quality during the COVID-19 pandemic.
+The different clinical presentations of fibromyalgia syndrome (FMS) might play independent roles in the unclear etiology of cognitive impairments and depressive symptoms seen in patients with FMS. Understanding how these clinical presentations are associated with the clinical and neurophysiological aspects of FMS is important for the development of effective treatments. To explore the relationship of memory complaints and depressive symptoms with the different clinical and neurophysiological characteristics of FMS. Cross-sectional data analysis from a randomized clinical trial. Baseline demographics and data on physical fitness, sleep, anxiety, depression, cortical excitability, and pain (clinical and mechanistic) from 63 subjects with FMS were used. Multiple linear and logistic association models were constructed. Final regression models including different sets of predictions were statistically significant (P&#x2009;<&#x2009;.001), explaining approximately 50% of the variability in cognitive complaints and depression status. Older subjects had higher levels of anxiety, poorer sleep quality, lower motor threshold, and higher relative theta power in the central area and were more likely to have clinical depression. Higher anxiety, pain, and theta power were associated with a higher likelihood of memory complaints. Depression symptoms seem to be associated with transcranial magnetic stimulation-indexed motor threshold and psychosocial variables, whereas memory complaints are associated with pain intensity and higher theta oscillations. These mechanisms might be catalyzed or triggered by some behavioral and clinical features, such as older age, sleep disruption, and anxiety. The correlation with clinical variables suggests that the increasing of theta oscillations is a compensatory response in patients with FMS, which can be explored in future studies to improve the treatment of FMS. ClinicalTrials.gov ID NCT03371225.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12884-024-06479-y
+- DOI: 10.1093/pm/pnae030
 
 2. Keywords
-- COVID-19 pandemic
-- Maternal outcomes
-- Neonatal outcomes
-- Pregnant women
-- Sleep disorder
+- cognition
+- depression
+- electroencephalogram
+- fibromyalgia
 
 3. Key Findings
-- The linear regression results indicated that for every unit increase in sleep disorders, the risk of FBS 34-36 weeks increased by 1
-- The results showed no statistically significant differences in terms of birth weight, type of delivery (vaginal or cesarean section), gestational age (preterm or full term), length of labor stages (first and second stage), Apgar score at minutes 1 and 5, and NICU admission between the two groups
+- Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 pandemic assessment methods and outcomes
-- Maternal outcomes assessment methods and outcomes
-- Neonatal outcomes assessment methods and outcomes
+- cognition assessment methods and outcomes
+- depression assessment methods and outcomes
+- electroencephalogram assessment methods and outcomes

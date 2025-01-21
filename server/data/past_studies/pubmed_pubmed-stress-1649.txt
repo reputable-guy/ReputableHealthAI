@@ -1,26 +1,20 @@
-Study Title: The impact of hydrogen inhalation therapy on blood reactive oxygen species levels: A randomized controlled study.
+Study Title: Dexmedetomidine attenuates inflammatory response and chronic pain following video-assisted thoracoscopic surgery for lung cancer.
 
 Study Summary:
-Reactive Oxygen Species (ROS) play a key role in physiological processes. However, the imbalance between ROS and antioxidants in favor of the former causes oxidative stress linked to numerous pathologies. Due to its unique attributes, including distinguished permeability and selective antioxidant capability, molecular hydrogen (H) has become an essential therapeutic agent. Hydrogen Inhalation Therapy (HIT) has come to light as a promising strategy to counteract oxidative stress. In this randomized controlled study, we aimed to evaluate the effectiveness of HIT in reducing blood ROS levels. 37 participants with elevated ROS levels (d-ROMs value&#xa0;>&#xa0;350 U.CARR) were enrolled in the study. Participants were divided into test and control groups. The test group participants received HIT, and then their blood ROS levels were measured immediately post-treatment and after 24&#xa0;h. Their results were compared to those of the control group participants who did not undergo HIT. The test group demonstrated a significant reduction in blood ROS levels after the treatment. These findings suggested the efficacy of HIT in reducing oxidative stress.
+The objective of the present study was to evaluate the effect of dexmedetomidine administration during video-assisted thoracoscopic surgery for lung cancer on perioperative inflammatory response and chronic post-surgical pain. A cohort of 152 patients with lung cancer scheduled for elective video-assisted thoracoscopic surgery participated in this randomized controlled trial. Patients were randomly divided into 2 groups and administered an equivalent volume of dexmedetomidine (n&#xa0;=&#xa0;63) or normal saline (n&#xa0;=&#xa0;63). Dexmedetomidine was administered at a dose of 0.6&#xa0;&#x3bc;g/kg 10&#xa0;minutes before anesthesia induction and maintained at 0.5&#xa0;&#x3bc;g/kg/h until 0.5&#xa0;hours before surgery completed. Anesthesia and postoperative pain management protocols were standardized for both groups. The analysis included vital signs, numerical rating scales of pain, blood inflammatory and oxidative stress biomarkers, pain type and location, patient-controlled intravenous analgesia usage, consumption of general anesthetics and pain rescue medications, as well as complications. The administration of dexmedetomidine resulted in decreased levels of inflammatory cytokines (interleukin-1 beta, interleukin-6, alongside tumor necrosis factor-alpha) and oxidative stress biomarkers (reactive oxygen species alongside malondialdehyde) but elevated levels of interleukin-10 and superoxide dismutase. In addition, the dexmedetomidine group showed lower postoperative numerical rating scale scores, reduced consumption of anesthetics, faster chest-tube removal, fewer patient-controlled intravenous analgesia presses, and shorter postoperative hospital stays. The administration of dexmedetomidine effectively attenuated surgical inflammation, oxidative stress, and postoperative pain, thereby promoting patient recovery after lung cancer surgery without increasing the risk of adverse effects or complications.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.freeradbiomed.2024.07.010
+- DOI: 10.1016/j.surg.2024.06.001
 
 2. Keywords
-- Hydrogen inhalation therapy
-- Molecular hydrogen
-- Oxidative stress
-- Randomized controlled study
-- Reactive oxygen species
+
 
 3. Key Findings
-- The test group demonstrated a significant reduction in blood ROS levels after the treatment
+- In addition, the dexmedetomidine group showed lower postoperative numerical rating scale scores, reduced consumption of anesthetics, faster chest-tube removal, fewer patient-controlled intravenous analgesia presses, and shorter postoperative hospital stays
 
 This study provides insights into:
-- Hydrogen inhalation therapy assessment methods and outcomes
-- Molecular hydrogen assessment methods and outcomes
-- Oxidative stress assessment methods and outcomes
+- General research methodology and outcomes

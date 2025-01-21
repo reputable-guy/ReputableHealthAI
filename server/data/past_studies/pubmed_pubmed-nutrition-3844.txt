@@ -1,28 +1,26 @@
-Study Title: Self-monitoring of blood glucose two-weekly versus weekly in gestational diabetes on nutrition therapy: A randomized trial.
+Study Title: Analysis of risk factors for parenteral nutrition-associated cholestasis in preterm infants: a multicenter observational study.
 
 Study Summary:
-To evaluate 4-point per day self-monitoring of blood glucose (SMBG) every 2&#x2009;weeks compared with every week. A total of 104 patients with lifestyle-controlled gestational diabetes (GDMA1) were randomized to 2-weekly or weekly 4-point per day (fasting on awakening and 2-h post-meals) SMBG. Primary outcome was the change in glycated hemoglobin (HbA1c) level from enrollment to 36&#x2009;weeks of pregnancy across trial arms. The non-inferiority margin was an HbA1c increase of 0.2%. The mean difference for change in HbA1c from enrollment to 36&#x2009;weeks was 0.003% (95% confidence interval [CI] -0.098% to +0.093%), within the 0.2% non-inferiority margin. The change in HbA1c level increased significantly within both trial arms-0.275%&#x2009;&#xb1;&#x2009;0.241% (P&#x2009;<&#x2009;0.001) in 2-weekly arm versus 0.277%&#x2009;&#xb1;&#x2009;0.236% (P&#x2009;<&#x2009;0.001) in the weekly arm. Participants randomized to 2-weekly SMBG were significantly less likely to receive anti-glycemic treatment-5/52 (9.6%) versus 14/50 (28.0%) (relative risk 0.34, 95% CI 0.13-0.88; P&#x2009;=&#x2009;0.017). All secondary outcomes-maternal weight gain, preterm delivery, cesarean delivery, birthweight, and neonatal admission-were not significantly different. In GDMA1, 2-weekly is non-inferior to weekly SMBG on the change in HbA1c level. Two-weekly SMBG appeared to be adequate for monitoring women with GDMA1. This study was registered in ISRCTN registry on March 25, 2022 with trial identification number: ISRCTN13404790 (https://doi.org/10.1186/ISRCTN13404790). The first participant was recruited on April 12, 2022.
+It is proposed that the development of parenteral nutrition-associated cholestasis (PNAC) was significantly associated with preterm birth, low birth weight, infection, etc.; however, the etiology and pathogenesis of PNAC are not fully understood. Most of the studies examining PNAC-associated risk factors were single-center studies with relatively small sample sizes. To analyze the risk factors associated with PNAC in preterm infants in China. This is a retrospective multicenter observational study. Clinical data on the effect of multiple oil-fat emulsions (soybean oil-medium chain triglycerides-olive oil-fish oil, SMOF) in preterm infants were collected from a prospective multicenter randomized controlled study. A secondary analysis was performed in which preterm infants were divided into the PNAC group and the non-PNAC group based on the PNAC status. A total of 465 cases very preterm infants or very low birth weight infants were included in the study in which 81 cases were assigned to the PNAC group and 384 cases were assigned to the non-PNAC group. The PNAC group had a lower mean gestational age, lower mean birth weight, longer duration of invasive and non-invasive mechanical ventilation, a longer duration oxygen support, and longer hospital stay (P&#x2009;<&#x2009;0.001 for all). The PNAC group had higher respiratory distress syndrome, hemodynamically significant patent ductus arteriosus, necrotizing enterocolitis (NEC) with stage II or higher,&#xa0;surgically treated NEC, late-onset sepsis, metabolic bone disease, and extrauterine growth retardation (EUGR) compared to the non-PNAC group (P&#x2009;<&#x2009;0.05 for all). In contrast with the non-PNAC group, the PNAC group received a higher maximum dose of amino acids and fat emulsion, more medium/long-chain fatty emulsion, less SMOF, had a longer duration of parenteral nutrition, lower rates of breastfeeding, higher incidence of feeding intolerance (FI), more accumulated days to achieve total enteral nutrition, less accumulated days of total calories up to standard 110&#xa0;kcal/kg/day and slower velocity of weight growth (P&#x2009;<&#x2009;0.05 for all). Logistic regression analysis indicated that the maximum dose of amino acids (OR, 5.352; 95% CI, 2.355 to 12.161), EUGR (OR, 2.396; 95% CI, 1.255 to 4.572), FI (OR, 2.581; 95% CI, 1.395 to 4.775), surgically treated NEC (OR, 11.300; 95% CI, 2.127&#x2009;~&#x2009;60.035), and longer total hospital stay (OR, 1.030; 95% CI, 1.014 to 1.046) were independent risk factors for the development of PNAC. SMOF (OR, 0.358; 95% CI, 0.193 to 0.663) and breastfeeding (OR, 0.297; 95% CI, 0.157 to 0.559) were protective factors for PNAC. PNAC can be reduced by optimizing the management of enteral and parenteral nutrition and reducing gastrointestinal comorbidities in preterm infants.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1002/ijgo.14861
+- DOI: 10.1186/s12887-023-04068-0
 
 2. Keywords
-- HbA1c
-- blood sugar profile
-- cesarean delivery
-- diet
-- gestational diabetes
-- glycated hemoglobin
-- self-monitoring blood glucose
+- Multiple oil-fat emulsions
+- Nutrition
+- Parenteral nutrition-associated cholestasis
+- Preterm infant
+- Risk factor
 
 3. Key Findings
-- Findings extraction requires manual review
+- Logistic regression analysis indicated that the maximum dose of amino acids (OR, 5
 
 This study provides insights into:
-- HbA1c assessment methods and outcomes
-- blood sugar profile assessment methods and outcomes
-- cesarean delivery assessment methods and outcomes
+- Multiple oil-fat emulsions assessment methods and outcomes
+- Nutrition assessment methods and outcomes
+- Parenteral nutrition-associated cholestasis assessment methods and outcomes

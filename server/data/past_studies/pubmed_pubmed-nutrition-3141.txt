@@ -1,27 +1,59 @@
-Study Title: Relationships of B12 and Homocysteine with Outcomes in the SURE-PD, SURE-PD3, and STEADY-PDIII Trials.
+Study Title: Developing a Youth-Led Digital Hypertension Education Intervention for Adults With Hypertension: Qualitative Study on Refinement and Acceptability.
 
 Study Summary:
-DATATOP was a study of early Parkinson's disease (PD) conducted in the 1980&#x200a;s, before mandatory folic acid fortification in the United States. Our analysis of its baseline serum samples revealed a geometric mean vitamin B12 of 369&#x200a;pg/mL and homocysteine (tHcy) of 9.5&#x3bc;mol/l. We also found that low B12 predicted greater worsening of ambulatory capacity (AC) and elevated tHcy (>15&#x3bc;mol/L) predicted greater declines in cognitive function. We sought to measure B12 and tHcy in contemporary trial participants with early PD who had not started dopaminergic treatment and to determine whether these analytes were associated with clinical progression. We measured B12 and tHcy from baseline and end-of-study blood samples from three recent clinical trials. Baseline geometric mean B12 levels for these studies ranged from 484- 618&#x200a;pg/ml and for tHcy ranged from 7.4- 10&#x3bc;mol/L. Use of B12-containing supplements ranged from 41- 61%, and those taking supplements had higher B12 and lower tHcy. Those who began levodopa, but were not taking B12-supplements, had greater end-of-study tHcy. There was no association of baseline tHcy&#x200a;>&#x200a;15&#x3bc;mol/L with annualized change in Montreal Cognitive Assessment and no association of baseline B12 tertiles with change in AC. In these longitudinal trials, B12 levels were higher than for DATATOP, due in large part to increased B12-supplement intake, while tHcy levels were similar. Initiation of levodopa was associated with increases of tHcy in those not taking a B12-containing supplement. These smaller studies did not replicate prior findings of low B12 and elevated tHcy with features of progression, possibly due to higher baseline B12.
+Hypertension affects one-third of adults in the United States and is the leading risk factor for death. Underserved populations are seen disproportionately in the emergency department (ED) and tend to have worse blood pressure (BP) control. For adults, a lack of hypertension knowledge is a common barrier to hypertension control, while social support is a strong facilitator, and providing information that is culturally sensitive and relevant is especially important in this context. The youth experience increased confidence when given the responsibility to provide health education and care navigation to others. As such, we planned a randomized controlled trial (RCT) for the effectiveness of a digital youth-led hypertension education intervention for adult patients in the ED with hypertension, focusing on change in BP and hypertension knowledge. In preparation for an RCT, we conducted a formative study to determine acceptable and easily comprehensible ways to present hypertension information to adults with hypertension and optimal ways to engage youth to support adults on how to achieve better hypertension control. After creating an intervention prototype with 6 weekly self-guided hypertension online modules, we recruited 12 youth (adolescents, aged 15-18 years) for 3 focus groups and 10 adult ED patients with hypertension for individual online interviews to garner feedback on the prototype. After completing a brief questionnaire, participants were asked about experiences with hypertension, preferences for a hypertension education intervention, and acceptability, feasibility, obstacles, and solutions for intervention implementation with youth and adults. The moderator described and showed participants the prototyped intervention process and materials and asked for feedback. Questionnaire data were descriptively summarized, and qualitative data were analyzed using the template organizing style of analysis by 3 study team members. Participants showed great interest in the intervention prototype, thought their peers would find it acceptable, and appreciated its involvement of youth. Youth with family members with hypertension reported that their family members need more support for their hypertension. Youth suggested adding more nutrition education activities to the intervention, such as a sodium tracker and examples of high-sodium foods. Adults discussed the need for a hypertension support intervention for themselves and the expected benefits to youth. They mentioned the overwhelming amount of hypertension information available and appreciated the intervention's concise content presentation. They suggested adding more mental health and smoking cessation resources, information about specific hypertension medications, and adding active links for health care information. Based on focus groups and interviews with participants, a youth-led digital hypertension intervention is an acceptable strategy to engage both adults with hypertension and youth. Incorporating participant suggestions into the intervention may improve its clarity, engagement, and impact when used in a subsequent RCT.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3233/JPD-240035
+- DOI: 10.2196/54909
 
 2. Keywords
-- Nutrition
-- cognitive impairment
-- gait instability
-- leucine-rich repeat kinase 2
-- neuroprotection
+- USA
+- United States
+- acceptability
+- adolescent
+- adolescents
+- adult
+- adults
+- blood pressure
+- care navigation
+- digital health
+- digital health intervention
+- dyad intervention
+- effectiveness
+- emergency department
+- engagement
+- formative study
+- health education
+- health knowledge
+- health promotion
+- hypertension
+- intervention development
+- nutrition education
+- online module
+- online modules
+- prototype
+- qualitative research
+- refinement
+- self-guided
+- support
+- support intervention
+- supports
+- teen
+- teenager
+- teenagers
+- teens
+- youth
+- youth-led
 
 3. Key Findings
-- Our analysis of its baseline serum samples revealed a geometric mean vitamin B12 of 369&#x200a;pg/mL and homocysteine (tHcy) of 9
-- We also found that low B12 predicted greater worsening of ambulatory capacity (AC) and elevated tHcy (>15&#x3bc;mol/L) predicted greater declines in cognitive function
+- The moderator described and showed participants the prototyped intervention process and materials and asked for feedback
+- Participants showed great interest in the intervention prototype, thought their peers would find it acceptable, and appreciated its involvement of youth
 
 This study provides insights into:
-- Nutrition assessment methods and outcomes
-- cognitive impairment assessment methods and outcomes
-- gait instability assessment methods and outcomes
+- USA assessment methods and outcomes
+- United States assessment methods and outcomes
+- acceptability assessment methods and outcomes

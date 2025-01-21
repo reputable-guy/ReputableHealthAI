@@ -1,28 +1,24 @@
-Study Title: Randomized Controlled Trial of Telementoring During Resource-Limited Patient Care Simulation Improves Caregiver Performance and Patient Survival.
+Study Title: The effects of green tea tablets and metformin on ovulation and menstrual cycle regularity in women with polycystic ovary syndrome.
 
 Study Summary:
-To determine the impact of telementoring on caregiver performance during a high-fidelity medical simulation model (HFMSM) of a critically ill patient in a resource-limited setting. A two-center, randomized, controlled study using a HFMSM of a patient with community-acquired pneumonia complicated by acute respiratory distress syndrome. A notional clinic in a remote location staffed by a single clinician and nonmedical assistant. Clinicians with limited experience managing critically ill patients. Telemedicine (TM) support. The primary outcome was clinical performance as measured by accuracy, reliability, and efficiency of care. Secondary outcomes were patient survival, procedural quality, subjective assessment of the HFMSM, and perceived workload. TM participants (= 11) performed better than non-TM (NTM,= 12) in providing expected care (accuracy), delivering care more consistently (reliability), and without consistent differences in efficiency (timeliness of care). Accuracy: TM completed 91% and NTM 42% of expected tasks and procedures. Efficiency: groups did not differ in the mean (&#xb1; sd) minutes it took to obtain an advanced airway successfully (TM 15.2&#x2009;&#xb1;&#x2009;10.5 vs. NTM 22.8&#x2009;&#xb1;&#x2009;8.4,= 0.10) or decompress a tension pneumothorax with a needle (TM 0.7&#x2009;&#xb1;&#x2009;0.5 vs. NTM 0.6&#x2009;&#xb1;&#x2009;0.9,= 0.65). TM was slower than NTM in completing thoracostomy (22.3&#x2009;&#xb1;&#x2009;10.2 vs. 12.3&#x2009;&#xb1;&#x2009;4.8,= 0.03). Reliability: TM performed 13 of 17 (76%) tasks with more consistent timing than NTM. TM completed 68% and NTM 29% of procedural quality metrics. Eighty-two percent of the TM participants versus 17% of the NTM participants simulated patients survived (= 0.003). The groups similarly perceived the HFMSM as realistic, managed their patients with personal ownership, and experienced comparable workload and stress. Remote expertise provided with TM to caregivers in resource-limited settings improves caregiver performance, quality of care, and potentially real patient survival. HFMSM can be used to study interventions in ways not possible with real patients.
+Polycystic ovary syndrome is the most common cause of oligo-ovulation and anovulation among women of reproductive age, contributing to infertility. This study aimed to compare the effects of green tea tablets and metformin on ovulation, menstrual cycle regularity, and antioxidant biomarkers in women with polycystic ovary syndrome (PCOS). In this clinical trial study, 94 women with PCOS were randomly assigned to three groups: green tea (= 33), metformin (= 29), and control (= 32). Menstrual status and oxidative stress parameters, including total antioxidant capacity, thiol, and lipid peroxidation, were compared before and 3 months after the intervention among all three groups. Data analysis was conducted using SPSS software version 22 and employing the analysis of variance and paired t-tests. Following the intervention, the mean menstrual cycle duration in the green tea, metformin, and control groups was 32.22 &#xb1; 12.78, 48.72 &#xb1; 37.06, and 48.53 &#xb1; 31.04 days, respectively (= 0.040). There was no statistically significant difference between the three groups in terms of biochemical, hormonal, and antioxidant indices before and after the intervention (> 0.05). The intake of green tea tablets was associated with better outcomes in regulating the menstrual cycle in women with PCOS.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/CCE.0000000000001090
+- DOI: 10.25122/jml-2022-0066
 
 2. Keywords
-- disaster medicine
-- high-fidelity simulation training
-- military medicine
-- patient simulation
-- technology assessment
-- telemedicine
-- wilderness medicine
+- green tea
+- metformin
+- polycystic ovary syndrome
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- disaster medicine assessment methods and outcomes
-- high-fidelity simulation training assessment methods and outcomes
-- military medicine assessment methods and outcomes
+- green tea assessment methods and outcomes
+- metformin assessment methods and outcomes
+- polycystic ovary syndrome assessment methods and outcomes

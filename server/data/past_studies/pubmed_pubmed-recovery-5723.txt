@@ -1,26 +1,26 @@
-Study Title: Exoskeleton rehabilitation robot training for balance and lower limb function in sub-acute stroke patients: a pilot, randomized controlled trial.
+Study Title: Effectiveness of Intermittent Theta Burst Stimulation to Enhance Upper Extremity Recovery After Stroke: A Pilot Study.
 
 Study Summary:
-This pilot study aimed to investigate the effects of REX exoskeleton rehabilitation robot training on the balance and lower limb function in patients with sub-acute stroke. This was a pilot, single-blind, randomized controlled trial. Twenty-four patients with sub-acute stroke (with the course of disease ranging from 3 weeks to 3 months) were randomized into two groups, including a robot group and a control group. Patients in control group received upright bed rehabilitation (n&#x2009;=&#x2009;12) and those in robot group received exoskeleton rehabilitation robot training (n&#x2009;=&#x2009;12). The frequency of training in both groups was once a day (60&#xa0;min each) for 5 days a week for a total of 4 weeks. Besides, the two groups were evaluated before, 2 weeks after and 4 weeks after the intervention, respectively. The primary assessment index was the Berg Balance Scale (BBS), whereas the secondary assessment indexes included the Fugl-Meyer Lower Extremity Motor Function Scale (FMA-LE), the Posture Assessment Scale for Stroke Patients (PASS), the Activities of Daily Living Scale (Modified Barthel Index, MBI), the Tecnobody Balance Tester, and lower extremity muscle surface electromyography (sEMG). The robot group showed significant improvements (P&#x2009;<&#x2009;0.05) in the primary efficacy index BBS, as well as the secondary efficacy indexes PASS, FMA-LE, MBI, Tecnobody Balance Tester, and sEMG of the lower limb muscles. Besides, there were a significant differences in BBS, PASS, static eye-opening area or dynamic stability limit evaluation indexes between the robotic and control groups (P&#x2009;<&#x2009;0.05). This is the first study to investigate the effectiveness of the REX exoskeleton rehabilitation robot in the rehabilitation of patients with stroke. According to our results, the REX exoskeleton rehabilitation robot demonstrated superior potential efficacy in promoting the early recovery of balance and motor functions in patients with sub-acute stroke. Future large-scale randomized controlled studies and follow-up assessments are needed to validate the current findings. URL: https://www.chictr.org.cn/index.html.Unique identifier: ChiCTR2300068398.
+To first investigate the effectiveness of modified constraint-&#x131;nduced movement therapy (mCIMT) in low-functioning patients with stroke (PwS). Second, we aimed to investigate the efficiency of intermittent theta-burst stimulation (iTBS), applied on intermittent days, in addition to the mCIMT in PwS. A randomized, sham-controlled, single-blinded study. Outpatient clinic. Fifteen PwS (age [mean&#xb1;SD]: 66.3&#xb1;9.2 years; 53% female) who were in the first 1 to 12 months after the incident were included in the study. PwS were divided into 3 groups: (1) mCIMT alone; (2) mCIMT + sham iTBS; (3) mCIMT + iTBS. Each group received 15 sessions of mCIMT (1 hour/session, 3 sessions/week). iTBS was applied with 600 pulses on impaired M1 before mCIMT. Upper extremity (UE) impairment was assessed with the Fugl-Meyer Test (FMT-UE), whereas the motor function was evaluated with the Wolf-Motor Function Test (WMFT). Motor Activity Log-28 (MAL-28) was used to evaluate the amount of use and how well (How Well Scale) the impaired UE movements. With-in-group analysis revealed that all groups had statistically significant improvements based on the FMT-UE and MAL-28 (p<.05). However, the performance time and arm strength variables of WMFT were only increased in the mCIMT + iTBS group (p<.05). The only between-group difference was observed in the intracortical facilitation in favor of the mCIMT + iTBS group (p<.05). The effect size of iTBS was f=0.18. Our findings suggest that mCIMT with and without the application of iTBS has increased the UE motor function in low-functioning PwS. iTBS applied on intermittent days may have additional benefits as an adjunct therapy for facilitating cortical excitability, increasing the speed and strength of the impaired UE as well as decreasing disability.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12984-024-01391-0
+- DOI: 10.1016/j.apmr.2024.05.025
 
 2. Keywords
-- Balance function
-- Lower limb function
-- Rehabilitation robot
+- Motor-evoked potentials
+- Neurological rehabilitation
+- Rehabilitation
 - Stroke
+- Transcranial magnetic stimulation
 
 3. Key Findings
-- The robot group showed significant improvements (P&#x2009;<&#x2009;0
-- According to our results, the REX exoskeleton rehabilitation robot demonstrated superior potential efficacy in promoting the early recovery of balance and motor functions in patients with sub-acute stroke
+- With-in-group analysis revealed that all groups had statistically significant improvements based on the FMT-UE and MAL-28 (p<
 
 This study provides insights into:
-- Balance function assessment methods and outcomes
-- Lower limb function assessment methods and outcomes
-- Rehabilitation robot assessment methods and outcomes
+- Motor-evoked potentials assessment methods and outcomes
+- Neurological rehabilitation assessment methods and outcomes
+- Rehabilitation assessment methods and outcomes

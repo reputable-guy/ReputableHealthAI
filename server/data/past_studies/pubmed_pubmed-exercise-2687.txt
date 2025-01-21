@@ -1,26 +1,27 @@
-Study Title: Assessing the efficacy of tocotrienol-rich fraction vitamin E in obese children with non-alcoholic fatty liver disease: a single-blind, randomized clinical trial.
+Study Title: Evaluating the Efficacy of a Digital Therapeutic (CT-152) as an Adjunct to Antidepressant Treatment in Adults With Major Depressive Disorder: Protocol for the MIRAI Remote Study.
 
 Study Summary:
-Childhood obesity is a growing concern, and non-alcoholic fatty liver disease (NAFLD) is a significant consequence. Currently, there are no approved drugs to treat NAFLD in children. However, a recent study explored the potential of vitamin E enriched with tocotrienol (TRF) as a powerful antioxidant for NAFLD. The aims of the present study were to investigate the effectiveness and safety of TRF in managing children with obesity and NAFLD. A total of 29 patients aged 10 to 18 received a daily oral dose of 50&#xa0;mg TRF for six months (January 2020 to February 2022), and all had fatty liver disease were detected by ultrasonography and abnormally high alanine transaminase levels (at least two-fold higher than the upper limits for their respective genders). Various parameters, including biochemical markers, FibroScan, LiverFASt, DNA damage, and cytokine expression, were monitored. APO-A1 and AST levels decreased significantly from 1.39&#x2009;&#xb1;&#x2009;0.3 to 1.22&#x2009;&#xb1;&#x2009;0.2&#xa0;g/L (P&#x2009;=&#x2009;0.002) and from 30&#x2009;&#xb1;&#x2009;12 to 22&#x2009;&#xb1;&#x2009;10&#xa0;g/L (P&#x2009;=&#x2009;0.038), respectively, in the TRF group post-intervention. Hepatic steatosis was significantly reduced in the placebo group from 309.38&#x2009;&#xb1;&#x2009;53.60 db/m to 277.62&#x2009;&#xb1;&#x2009;39.55 db/m (p&#x2009;=&#x2009;0.048), but not in the TRF group. Comet assay analysis showed a significant reduction in the DNA damage parameters in the TRF group in the post-intervention period compared to the baseline, with tail length decreasing from 28.34&#x2009;&#xb1;&#x2009;10.9 to 21.69&#x2009;&#xb1;&#x2009;9.84; (p&#x2009;=&#x2009;0.049) and with tail DNA (%) decreasing from 54.13&#x2009;&#xb1;&#x2009;22.1to 46.23&#x2009;&#xb1;&#x2009;17.9; (p&#x2009;=&#x2009;0.043). Pro-inflammatory cytokine expression levels were significantly lower in the TRF group compared to baseline levels for IL-6 (2.10 6.3 to 0.7 1.0&#xa0;pg/mL; p&#x2009;=&#x2009;0.047&#xa0;pg/mL) and TNF-1 (1.73 5.5&#xa0;pg/mL to 0.7 0.5&#xa0;pg/mL; p&#x2009;=&#x2009;0.045). The study provides evidence that TRF supplementation may offer a risk-free treatment option for children with obesity and NAFLD. The antioxidant and anti-inflammatory properties of TRF offer a promising adjuvant therapy for NAFLD treatment. In combination with lifestyle modifications such as exercise and calorie restriction, TRF could play an essential role in the prevention of NAFLD in the future. However, further studies are needed to explore the long-term effects of TRF supplementation on NAFLD in children. The study has been registered with the International Clinical Trial Registry under reference number (NCT05905185) retrospective registration on (15/06/2023).
+Major depressive disorder (MDD) is common worldwide and can be highly disabling. People with MDD face many barriers to treatment and may not experience full symptom relief even when treated. Therefore, new treatment modalities are needed for MDD. Digital therapeutics (DTx) may provide people with MDD an additional treatment option. This study aimed to describe a phase 3 remote, multicenter, randomized, masked, sham-controlled trial evaluating the efficacy of a smartphone app-based DTx (CT-152) in adult participants diagnosed with MDD, used as an adjunct to antidepressant therapy (ADT). Participants aged 22-64 years with a current primary diagnosis of MDD and an inadequate response to ADT were included. Participants were randomized 1:1 to CT-152 or a sham DTx. CT-152 is a smartphone app-based DTx that delivers a cognitive-emotional and behavioral therapeutic intervention. The core components of CT-152 are the Emotional Faces Memory Task exercises, brief lessons to learn and apply key therapeutic skills, and SMS text messaging to reinforce lessons and encourage engagement with the app. The sham DTx is a digital working memory exercise with emotionally neutral stimuli designed to match CT-152 for time and attention. Participants took part in the trial for up to 13 weeks. The trial included a screening period of up to 3 weeks, a treatment period of 6 weeks, and an extension period of 4 weeks to assess the durability of the effect. Sites and participants had the option of an in-person or remote screening visit; the remaining trial visits were remote. Efficacy was evaluated using the Montgomery-&#xc5;sberg Depression Rating Scale, the Generalized Anxiety Disorder-7, Clinical Global Impression-Severity scale, the Patient Health Questionnaire-9, and the World Health Organization Disability Assessment Schedule 2.0. The durability of the effect was evaluated with the Montgomery-&#xc5;sberg Depression Rating Scale and Generalized Anxiety Disorder-7 scale. Adverse events were also assessed. Satisfaction, measured by the Participant and Healthcare Professional Satisfaction Scales, and health status, measured by the EQ-5D-5L, were summarized using descriptive statistics. This study was initiated in February 2021 and had a primary completion date in October 2022. This represents the methodological design for the first evaluation of CT-152 as an adjunct to ADT. This study protocol is methodologically robust and incorporates many aspects of conventional pivotal pharmaceutical phase 3 trial design, such as randomization and safety end points. Novel considerations included the use of a sham comparator, masking considerations for visible app content, and outcome measures relevant to DTx. The rigor of this methodology will provide a more comprehensive understanding of the effectiveness of CT-152. ClinicalTrials.gov NCT04770285; https://clinicaltrials.gov/study/NCT04770285. RR1-10.2196/56960.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12887-024-04993-8
+- DOI: 10.2196/56960
 
 2. Keywords
-- Anti-inflammatory agent
-- Antioxidants
-- Non-alcoholic fatty liver disease
-- Oxidative stress
-- Tocotrienols
+- Emotional Faces Memory Task
+- adherence
+- cognitive-emotional training
+- digital placebo
+- mobile phone
+- sham control
 
 3. Key Findings
-- Comet assay analysis showed a significant reduction in the DNA damage parameters in the TRF group in the post-intervention period compared to the baseline, with tail length decreasing from 28
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Anti-inflammatory agent assessment methods and outcomes
-- Antioxidants assessment methods and outcomes
-- Non-alcoholic fatty liver disease assessment methods and outcomes
+- Emotional Faces Memory Task assessment methods and outcomes
+- adherence assessment methods and outcomes
+- cognitive-emotional training assessment methods and outcomes

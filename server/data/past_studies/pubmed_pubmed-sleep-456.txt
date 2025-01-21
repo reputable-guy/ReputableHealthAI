@@ -1,26 +1,20 @@
-Study Title: Analgesic Effect and Sleep Quality of Low-Dose Dexmedetomidine in Cardiac Surgical Patients After Ultrafast-Track Extubation: A Randomized Clinical Trial.
+Study Title: Behavioral Intervention that Extends Sleep Duration Leads to Greater Self-Control in School-Aged Children.
 
 Study Summary:
-To compare the analgesic and sleep quality effects of dexmedetomidine infusion versus placebo in patients undergoing cardiac surgery with ultra-fast track extubation. The randomized, double-blind clinical trial study. At a single academic center hospital. We included patients aged 25 to 65 scheduled for elective cardiac surgery under general anesthesia with cardiopulmonary bypass from October 2021 to December 2022. After immediate extubation in the operating room, the patients who were allocated at first after providing their consent to either the dexmedetomidine group (Dex) or the placebo group (Placebo) received continuous infusion of dexmedetomidine (0.2 &#x3bc;g/kg/h) or saline for 12 hours postoperatively. The groups' demographic and perioperative variables were not statistically significant. Total morphine consumption in milligrams at 12 and 24 hours after administered study drug, total sleep time in hours by BIS value &#x2264;85, and sleep quality with the Richard-Campbell Sleep Questionnaire were compared. The analysis included 22 Dex and 23 Placebo patients. The consumption of morphine was not statistically different between the Dex and Placebo groups at 12 and 24 hours (p = 0.707 and p = 0.502, respectively). The Dex group had significantly longer sleep time (8.7 h [7.8, 9.5]) than the Placebo group (5.8 h [2.9, 8.5]; p = 0.007). The Dex group also exhibited better sleep quality (7.9 [6.7, 8.7] vs 6.6 [5.2, 8.0]; p = 0.038). Sedation with low-dose dexmedetomidine infusion for ultra-fast track extubation following cardiac surgery enhances sleep duration and quality.
+Short sleep and evening phase preference associate with impaired self-control, yet few studies have assessed the efficacy of sleep extension for improving this behavioral domain. Thus, this secondary analysis of a behavioral sleep intervention measured whether an intervention that enhanced children's sleep also affected self-control. Differences by chronotype were also explored. Sixty-seven children (8-11 yr), who reportedly slept <9.5 hr/d, were randomized to either a control or sleep intervention condition (i.e., 4-session behavioral intervention to enhance sleep by 1-1.5 hr/night). Chronotype was assessed using the Child Chronotype Questionnaire at baseline, and self-control was assessed using the Self-Control Rating Scale (SCRS, a caregiver report) at baseline and 8 weeks postrandomization. Total sleep time (TST) was measured using wrist actigraphy for 1 week at both baseline and 8 weeks postrandomization. Partial correlations and mixed-model ANOVAs were used for statistical analyses, with age as a covariate. At baseline, children with shorter TST (r = -0.29, p = 0.02) and an evening preference (r = 0.26, p = 0.049) were perceived as having lower self-control by their caregivers. Significant condition*time interaction effects were found for TST ( p < 0.001) and SCRS score ( p = 0.046): From baseline to follow-up, children randomized to the sleep intervention exhibited a significant increase in TST and were perceived as having greater self-control by their caregiver; children randomized to the control condition exhibited no change in TST or in SCRS score. The condition*chronotype*time interaction effect was not significant. A brief sleep intervention that enhanced TST also resulted in enhanced caregiver reported self-control in school-age children. Results add to the growing evidence for the importance of sleep health in children.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1053/j.jvca.2024.06.019
+- DOI: 10.1097/DBP.0000000000001303
 
 2. Keywords
-- analgesic effect
-- cardiac surgery
-- dexmedetomidine
-- sleep quality
-- ultrafast-track extubation
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Significant condition*time interaction effects were found for TST ( p < 0
 
 This study provides insights into:
-- analgesic effect assessment methods and outcomes
-- cardiac surgery assessment methods and outcomes
-- dexmedetomidine assessment methods and outcomes
+- General research methodology and outcomes

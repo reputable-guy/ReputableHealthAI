@@ -1,25 +1,26 @@
-Study Title: Workforce Concerns: Professional Self Care, Personal Readiness, Impact of the Pandemic, and Other Factors that Impact the Workforce.
+Study Title: An Egg Intervention Improves Ponderal But Not Linear Growth Among Infants 6-12 mo of Age in Rural Bangladesh.
 
 Study Summary:
-Physician burnout is pervasive and takes a heavy toll on individuals and the healthcare system. Post-coronavirus disease 2019 the negative impact of organizational culture on physician burnout has been highlighted. Substantial research has accrued identifying steps organizations can take to pivot and develop leaders committed to physician well-being. Physicians can also proactively explore research in sleep, nutrition, physical activity, stress management, and social connections. Positive mindset has a powerful protective effect in medicine, especially in the emerging areas of self-valuation, self-compassion, and positive psychology. Physician coaching can accelerate positive behavior change. Committed physician leaders are needed for sustained culture change to occur.
+Animal source foods are rich in multiple nutrients. Regular egg consumption may improve infant growth in low- and middle-income countries. To assess the impact of daily egg consumption on linear growth among 6-12-mo olds in rural Bangladesh. We conducted a 2 &#xd7; 4 factorial cluster-randomized controlled trial allocating clusters (n = 566) to treatment for enteric pathogens or placebo and a daily egg, protein supplement, isocaloric supplement, or control. All arms received nutrition education. Here, we compare the effect of the egg intervention versus control on linear growth, a prespecified aim of the trial. Infants were enrolled at 3 mo. We measured length and weight at 6 and 12 mo and visited households weekly to distribute eggs and monitor compliance. We used linear regression models to compare 12-mo mean length, weight, and z-scores for length-for-age (LAZ), weight-for-length, and weight-for-age (WAZ), and log-binomial or robust Poisson regression to compare prevalence of stunting, wasting, and underweight between arms. We used generalized estimating equations to account for clustering and adjusted models for baseline measures of outcomes. We enrolled 3051 infants (n = 283 clusters) across arms, with complete 6 and 12 mo anthropometry data from 1228 infants (n = 142 clusters) in the egg arm and 1109 infants (n = 141 clusters) in the control. At baseline, 18.5%, 6.0%, and 16.4% were stunted, wasted, and underweight, respectively. The intervention did not have a statistically significant effect on mean LAZ (&#x3b2;: 0.05, 95% confidence interval [CI]: -0.01, 0.10) or stunting prevalence (&#x3b2;: 0.98, 95% CI: 0.89, 1.13) at 12 mo. Mean weight (&#x3b2;: 0.07 kg, 95% CI: 0.02, 0.11) and WAZ (&#x3b2;: 0.06, 95% CI: 0.02, 0.11) were significantly higher in the egg compared with control arms. Provision of a daily egg for 6 mo to infants in rural Bangladesh improved ponderal but not linear growth. NCT03683667, https://clinicaltrials.gov/ct2/show/NCT03683667.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.pcl.2024.03.001
+- DOI: 10.1016/j.tjnut.2024.05.006
 
 2. Keywords
-- COVID-19 and physician well-being
-- Pediatrician burnout and wellness
-- Physician burnout
-- Well-being centered leadership
+- Bangladesh
+- animal source foods
+- eggs
+- growth
+- infants
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 and physician well-being assessment methods and outcomes
-- Pediatrician burnout and wellness assessment methods and outcomes
-- Physician burnout assessment methods and outcomes
+- Bangladesh assessment methods and outcomes
+- animal source foods assessment methods and outcomes
+- eggs assessment methods and outcomes

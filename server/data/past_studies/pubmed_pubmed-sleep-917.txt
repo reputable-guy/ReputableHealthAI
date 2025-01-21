@@ -1,26 +1,27 @@
-Study Title: Telemedicine management of obstructive sleep apnea disorder in China: a randomized, controlled, non-inferiority trial.
+Study Title: The effects of insufficient sleep and adequate sleep on cognitive function in healthy adults.
 
 Study Summary:
-Previous studies assessed different components of telemedicine management pathway for OSA instead of the whole pathway. This randomized, controlled, and non-inferiority trial aimed to assess whether telemedicine management is clinically inferior to in-person care in China. Adults suspected of OSA were randomized to telemedicine (web-based questionnaires, self-administered home sleep apnea test [HSAT], automatically adjusting positive airway pressure [APAP], and video-conference visits) or in-person management (paper questionnaires, in-person HSAT set-up, APAP, and face-to-face visits). Participants with an apnea-hypopnea index (AHI)&#x2009;&#x2265;&#x2009;15 events/hour received APAP for 3&#xa0;months. The non-inferiority analysis was based on the change in Functional Outcomes of Sleep Questionnaire (FOSQ) score and APAP adherence. Cost-effectiveness analysis was performed. In the modified intent-to-treat analysis set (n&#x2009;=&#x2009;111 telemedicine, 111 in-person), FOSQ scores improved 1.73 (95% confidence interval [CI], 1.31-2.14) points with telemedicine and 2.05 (1.64-2.46) points with in-person care. The lower bound of the one-sided 95% non-inferiority CI for the difference in change between groups of&#x2009;-&#x2009;0.812 was larger than the non-inferiority threshold of&#x2009;-&#x2009;1. APAP adherence at 3&#xa0;months was 243.3 (223.1-263.5) minutes/night for telemedicine and 241.6 (221.3-261.8) minutes/night for in-person care. The lower bound of the one-sided 95% non-inferiority CI of&#x2009;-&#x2009;22.2&#xa0;min/night was higher than the non-inferiority delta of&#x2009;-&#x2009;45&#xa0;min/night. Telemedicine had lower total costs than in-person management (CNY 1482.7&#x2009;&#xb1;&#x2009;377.2 vs. 1912.6&#x2009;&#xb1;&#x2009;681.3; p&#x2009;<&#x2009;0.0001), driven by patient costs, but no significant difference in QALYs. Functional outcomes and adherence were not clinically inferior in patients managed by a comprehensive telemedicine approach compared to those receiving in-person care in China. https://www.chictr.org.cn , Registration number ChiCTR2000030546. Retrospectively registered on March 06, 2020.
+Although sleep affects a range of waking behaviors, the majority of studies have focused on sleep loss with relatively little attention on sustained periods of adequate sleep. The goal of this study was to use an experimental design to examine the effect of both of these sleep patterns on cognitive performance in healthy adults. This study used a randomized crossover design. Participants who regularly slept 7-9&#xa0;hours/night completed two 6-week intervention conditions, adequate sleep (maintenance of habitual bed/wake times) and insufficient sleep (reduction in sleep of 1.5&#xa0;hours relative to adequate sleep), separated by a 2-6weeks (median=43days) washout period. Cognitive functioning was evaluated at baseline and endpoint of each intervention using the NIH Toolbox Cognition Battery. General linear models contrasted scores following each condition to the baseline of the first condition; the baseline of the second condition was included to evaluate practice effects. Sixty-five participants (age 35.9&#xa0;&#xb1;&#xa0;4.9years, 89% women, 52% non-White race/ethnicity) completed study procedures. There was improvement in performance on the List Sorting Working Memory task after the adequate sleep condition that exceeded practice effects. Cognitive performance after insufficient sleep did not reach the level expected with practice and did not differ from baseline. A similar pattern was found on the Flanker Inhibitory Control and Attention task. These findings contribute to our understanding of the complex interplay between sleep and cognition and demonstrate that consistent, stable sleep of at least 7&#xa0;hours/night improves working memory and response inhibition in healthy adults. The manuscript reports on data from two clinical trials: Impact of Sleep Restriction on Performance in Adults (URL: https://clinicaltrials.gov/ct2/show/NCT02960776, ID Number: NCT02960776) and Impact of Sleep Restriction in Women (URL: https://clinicaltrials.gov/ct2/show/NCT02835261, ID Number: NCT02835261).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s11325-024-02994-6
+- DOI: 10.1016/j.sleh.2023.11.011
 
 2. Keywords
-- Cost-effectiveness
-- Home sleep apnea test
-- Non-inferior analysis
-- Obstructive sleep apnea
-- Telemedicine
+- Adequate sleep
+- Cognition
+- Insufficient sleep
+- Sleep restriction
+- Stable sleep
+- Working memory
 
 3. Key Findings
-- Findings extraction requires manual review
+- A similar pattern was found on the Flanker Inhibitory Control and Attention task
 
 This study provides insights into:
-- Cost-effectiveness assessment methods and outcomes
-- Home sleep apnea test assessment methods and outcomes
-- Non-inferior analysis assessment methods and outcomes
+- Adequate sleep assessment methods and outcomes
+- Cognition assessment methods and outcomes
+- Insufficient sleep assessment methods and outcomes

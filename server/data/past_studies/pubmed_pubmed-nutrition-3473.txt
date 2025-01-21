@@ -1,28 +1,28 @@
-Study Title: Smartphone-delivered multicomponent lifestyle medicine intervention for improving mental health in a nonclinical population: a randomized controlled trial.
+Study Title: Feasibility of caregiver-administered anthropometric measurements of children under age 5: evidence from Zambia.
 
 Study Summary:
-To prevent the exacerbation of mental health burdens, a growing body of research has recommended a balanced approach that emphasizes both the delivery of mental health treatments to individuals with common mental disorders (CMDs) and the strengthening of protective factors for CMDs among nonclinical populations. This randomized controlled trial (RCT) evaluated the efficacy of a smartphone-delivered multicomponent lifestyle medicine (LM) intervention, Lifestyle Hub, for improving mental health among a nonclinical population of Chinese adults. A total of 106 participants with Patient Health Questionnaire-9 total score&#x2009;<&#x2009;10 and Generalized Anxiety Disorder 7-Item Scale <8 were randomly assigned to either the Lifestyle Hub intervention group (LH,&#x2009;=&#x2009;53) or the waitlist control group (WL,&#x2009;=&#x2009;53). Lifestyle Hub is an 8-week smartphone-delivered multicomponent LM intervention developed based on the transtheoretical model. The intervention components included lifestyle psychoeducation, physical activity, diet and nutrition, stress management, sleep management, and motivation and goal-setting techniques. Assessments were conducted at baseline, immediate post-intervention, and 1-month follow-up (LH only). The linear mixed effect model based on the intention-to-treat principle indicated that Lifestyle Hub significantly improved overall mental health, depressive symptoms, anxiety symptoms, stress, insomnia severity, overall health-promoting behaviors, dietary quality, and stress management compared to the WL group at immediate post-intervention (&#x2009;=&#x2009;0.13-0.56). No significant between-group differences were observed in terms of functional impairment, health-related quality of life, health responsibility, physical activity level, spiritual growth, and interpersonal relations. The intervention gains in the LH group were maintained at 1-month follow-up. The LH participants indicated that Lifestyle Hub was an acceptable intervention for improving mental health, although a significantly higher level of study attrition was observed in the LH group (20.8%) relative to the WL group (5.7%). Lifestyle Hub may serve as an efficacious and acceptable intervention for improving mental health in nonclinical adult populations. To extend the benefits of LM interventions at the population level, future studies are warranted to examine a stepped-care approach to delivering LM interventions.: This randomized controlled trial was pre-registered with ClinicalTrials.gov (NCT04295369).
+Accurate measurement of children's anthropometry is of central importance for the assessment of nutritional status as well as for the evaluation of nutrition-specific interventions. Social distancing requirements during the recent Covid-19 pandemic made administration of standard assessor-led measurement protocols infeasible in many settings, creating demand for alternative assessment modalities. To assess the feasibility and reliability of caregiver-administered anthropometric assessments of children under age 5. We compared standard and caregiver-administered assessments within an ongoing nutrition trial in Zambia (NCT05120427). We developed a "no-contact" protocol whereby trained staff verbally instruct caregivers from an appropriate distance to measure the height, weight and MUAC of their children. We captured measurements of height, weight and MUAC among a sample of caregivers and infants in Zambia using both the "no-contact" protocol and a standard assessor-led protocol.&#xa0;We analyzed each anthropometric variable, comparing means between protocol group, the proportions yielding standardized z-scores outside the plausible&#x2009;&#xb1;&#x2009;6SD range and the proportions of children classified stunted, underweight and wasted. Anthropometric measurements were captured for 76 children using both the no-contact protocol and the standard protocol. An additional 1430 children were assessed by the standard protocol only and an additional&#xa0;748&#xa0;children by the no-contact protocol only. For the 76 children measured by both methods, we find no differences in average height, weight and MUAC between caregivers and interviewer assessments. The estimated kappa for the binary stunting and underweight classifications were 0.84 and 0.93, respectively. In the larger samples&#xa0;measured only following one protocol, we find no differences in average outcomes after adjusting for child, caregiver and household characteristics. Anthropometric measurement protocols administered by caregivers with verbal instruction from trained assessors are a promising alternative to standard protocols in situations where study staff are unable to come in close contact with study participants. Clinical trials registration This study was conducted within a larger trial registered at clinicaltrials.gov as trial NCT05120427. https://clinicaltrials.gov/ct2/show/NCT05120427 .
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpubh.2023.1231981
+- DOI: 10.1186/s12963-024-00322-4
 
 2. Keywords
-- lifestyle
-- mental health
-- mood
-- randomized controlled trial
-- self-help
-- smartphone-based intervention
+- Anthropometry
+- Caregiver-administered measurement
+- Height
+- MUAC
+- Measurement
+- Self-measurement
+- Weight
 
 3. Key Findings
-- The linear mixed effect model based on the intention-to-treat principle indicated that Lifestyle Hub significantly improved overall mental health, depressive symptoms, anxiety symptoms, stress, insomnia severity, overall health-promoting behaviors, dietary quality, and stress management compared to the WL group at immediate post-intervention (&#x2009;=&#x2009;0
-- The LH participants indicated that Lifestyle Hub was an acceptable intervention for improving mental health, although a significantly higher level of study attrition was observed in the LH group (20
+- Findings extraction requires manual review
 
 This study provides insights into:
-- lifestyle assessment methods and outcomes
-- mental health assessment methods and outcomes
-- mood assessment methods and outcomes
+- Anthropometry assessment methods and outcomes
+- Caregiver-administered measurement assessment methods and outcomes
+- Height assessment methods and outcomes

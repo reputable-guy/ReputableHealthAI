@@ -1,27 +1,31 @@
-Study Title: Pilot trial testing the effects of exercise on chemotherapy-induced peripheral neurotoxicity (CIPN) and the interoceptive brain system.
+Study Title: A whole-food, plant-based intensive lifestyle intervention improves glycaemic control and reduces medications in individuals with type 2 diabetes: a randomised controlled trial.
 
 Study Summary:
-Chemotherapy-induced peripheral neurotoxicity (CIPN) is a prevalent, dose-limiting, tough-to-treat toxicity involving numbness, tingling, and pain in the extremities with enigmatic pathophysiology. This randomized controlled pilot study explored the feasibility and preliminary efficacy of exercise during chemotherapy on CIPN and the role of the interoceptive brain system, which processes bodily sensations. Nineteen patients (65&#x2009;&#xb1;&#x2009;11 years old, 52% women; cancer type: breast, gastrointestinal, multiple myeloma) starting neurotoxic chemotherapy were randomized to 12 weeks of exercise (home-based, individually tailored, moderate intensity, progressive walking, and resistance training) or active control (nutrition education). At pre-, mid-, and post-intervention, we assessed CIPN symptoms (primary clinical outcome: CIPN-20), CIPN signs (tactile sensitivity using monofilaments), and physical function (leg strength). At pre- and post-intervention, we used task-free ("resting") fMRI to assess functional connectivity in the interoceptive brain system, involving the salience and default mode networks. The study was feasible (74-89% complete data across measures) and acceptable (95% retention). We observed moderate/large beneficial effects of exercise on CIPN symptoms (CIPN-20, 0-100 scale:&#x2009;-&#x2009;7.9&#x2009;&#xb1;&#x2009;5.7, effect size [ES]&#x2009;=&#x2009;&#x2009;-&#x2009;0.9 at mid-intervention;&#x2009;-&#x2009;4.8&#x2009;&#xb1;&#x2009;7.3, ES&#x2009;=&#x2009;-&#x2009;0.5 at post-intervention), CIPN signs (ES&#x2009;=&#x2009;&#x2009;-&#x2009;1.0 and&#x2009;-&#x2009;0.1), and physical function (ES&#x2009;=&#x2009;0.4 and 0.3). Patients with worse CIPN after neurotoxic chemotherapy had lower functional connectivity within the default mode network (R&#x2009;=&#x2009;40-60%) and higher functional connectivity within the salience network (R&#x2009;=&#x2009;20-40%). Exercise tended to increase hypoconnectivity and decrease hyperconnectivity seen in CIPN (R&#x2009;=&#x2009;12%). Exercise during neurotoxic chemotherapy is feasible and may attenuate CIPN symptoms and signs, perhaps via changes in interoceptive brain circuitry. Future work should test for replication with larger samples. Registered Jan 2017 on ClinicalTrials.gov as NCT03021174.
+We conducted the largest and longest clinical trial comparing a whole-food, plant-based intervention with standard medical care (SMC) in individuals with type 2 diabetes. We randomised (parallel-arm; computerised 1:1 randomisation ratio) 169 adults aged 18-75 years with type 2 diabetes in the Marshall Islands to an intensive whole-food, plant-based intervention with moderate exercise (PB+Ex) or SMC for 24 weeks. The PB+Ex intervention included 12 weeks of meals, exercise sessions and group classes. Primary outcomes were glycaemic control (HbA, glucose, insulin and HOMA-IR) and glucose-lowering medication use. Secondary outcomes included lipids, blood pressure, heart rate and C-reactive protein. Only lab analysts were blinded. Compared with SMC (n=90 randomised; n=70 analysed), the PB+Ex (n=79 randomised; n=66 analysed) intervention decreased HbAby an additional 14 mmol/mol (1.3%) at week 12 (-22 vs -7 mmol/mol [-2.0% vs -0.7%]; p<0.0001) and 8 mmol/mol (0.7%) at week 24 (-16 vs -8 mmol/mol [-1.4% vs -0.7%]; p=0.01). Concomitantly, 63% of medicated PB+Ex participants reduced their glucose-lowering medications (vs 24%; p=0.006), and 23% of PB+Ex participants with a baseline HbA<75 mmol/mol (<9%) achieved remission. Additionally, the PB+Ex intervention reduced weight (-2.7 kg; p<0.0001), C-reactive protein (-11 nmol/l; p=0.005) and cardiovascular medication use compared with SMC. At intermediate timepoints, it improved glucose, insulin, HOMA-IR, cholesterol, triglycerides and heart rate, but not at week 24. A whole-food, plant-based lifestyle intervention was more effective for improving glycaemic control than SMC. It also reduced the need for diabetes and cardiovascular medications and induced diabetes remission in some participants. Therefore, it is an effective, evidence-based lifestyle option for individuals with type 2 diabetes. ClinicalTrials.gov NCT03862963 FUNDING: This research was funded by the Department of the Army (W81XWH-05-1-0547). CJH received support through a National Institutes of Health Predoctoral T32 Obesity Fellowship (T32 HL105349).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1007/s00520-024-08855-y
+- Publication Date: 2025
+- DOI: 10.1007/s00125-024-06272-8
 
 2. Keywords
-- Brain
-- Chemotherapy-induced peripheral neurotoxicity (CIPN)
-- Exercise
-- FMRI
-- Interoception
-- Neuropathy
+- Cardiovascular disease
+- Diabetes remission
+- Diet
+- Dietary intervention
+- Glycaemic control
+- Lifestyle intervention
+- Nutrition
+- Plant-based diet
+- Randomised controlled trial
+- Type 2 diabetes
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Brain assessment methods and outcomes
-- Chemotherapy-induced peripheral neurotoxicity (CIPN) assessment methods and outcomes
-- Exercise assessment methods and outcomes
+- Cardiovascular disease assessment methods and outcomes
+- Diabetes remission assessment methods and outcomes
+- Diet assessment methods and outcomes

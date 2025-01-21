@@ -1,27 +1,25 @@
-Study Title: Evaluating the impact of adjunct bright light therapy on subjective sleep quality in major depressive disorder.
+Study Title: A randomized, double-blinded, vehicle-controlled clinical trial of topical cryosim-1, a synthetic TRPM8 agonist, in prurigo nodularis.
 
 Study Summary:
-Sleep disturbances are a fundamental feature of depression, with their persistence after remission serving as a key risk factor for recurrence of depressive episodes, suicide, and hypnotics abuse. Though Adjunct Bright Light Therapy (BLT) has shown efficacy in treating depression by improving sleep duration and timing, its impact on subjective sleep quality remains underexplored. This study investigates the effect of adjunct BLT on the subjective experience of sleep quality of Major Depressive Disorder (MDD) inpatients. A randomized controlled trial was undertaken with 100 MDD consecutively admitted inpatients on consistent antidepressant regimens. Participants were divided into two groups; Group A, received pharmacotherapy augmented with BLT, Group B, received pharmacotherapy alone. The Hamilton Depression Rating Scale assessed depressive symptoms, while the Pittsburgh Sleep Quality Index (PSQI) evaluated subjective sleep quality. While both groups displayed enhanced depressive symptomatology, only Group A manifested significant improvement in perceived sleep quality (PSQI scores: A T0 8.05&#xa0;&#xb1;&#xa0;5.07 vs. T1 5.64&#xa0;&#xb1;&#xa0;3.64, p&#xa0;<&#xa0;0.001; B T0 7.11&#xa0;&#xb1;&#xa0;3.17 vs. T1 6.50&#xa0;&#xb1;&#xa0;3.04, p&#xa0;=&#xa0;0.072). Study limitations include its single-site design, lack of objective sleep measurement, and exclusive SSRI use, suggesting caution in generalizing findings. Further, the absence of placebo control and unmeasured expectancy effects may influence treatment outcomes. These findings underscore the criticality of subjective sleep quality in clinical evaluations and highlight the potential of adjunct BLT as an augmentation therapeutic strategy to ameliorate sleep perception in MDD patients, emphasizing its potential role in enhancing therapeutic outcomes.
+Prurigo nodularis (PN) is an intensively pruritic skin disease that negatively influences quality of life. Cryosim-1 (Intrinsic IB Spot) is a synthetic, selective transient receptor potential melastatin 8 agonist. To investigate the efficacy and safety of cryosim-1 in PN patients. A randomized, double-blinded, placebo-controlled clinical trial including 30 patients was conducted. The numerical rating scale (NRS) of pruritus was evaluated before and 2&#x2009;h after cryosim-1 application at every visit. At week 8, the mean pruritus NRS before serum application (4.7&#x2009;&#xb1;&#x2009;0.4 treatment, 6.1&#x2009;&#xb1;&#x2009;0.5 placebo; p&#x2009;=&#x2009;0.045) and 2&#x2009;h after serum application (2.8&#x2009;&#xb1;&#x2009;0.4 treatment, 4.3&#x2009;&#xb1;&#x2009;0.5 placebo; p&#x2009;=&#x2009;0.031) were significantly lower in the treatment group, and the mean NRS for sleep disorder was significantly lower in the treatment group (2.2&#x2009;&#xb1;&#x2009;0.5 treatment, 4.2&#x2009;&#xb1;&#x2009;0.8 placebo; p&#x2009;=&#x2009;0.031). The mean satisfaction scales for pruritus improvement were significantly higher in the treatment group (7.2&#x2009;&#xb1;&#x2009;0.6) than in the placebo group (4.0&#x2009;&#xb1;&#x2009;0.9; p&#x2009;=&#x2009;0.005). There was no difference in TEWL between the two groups, and no adverse reactions were reported. Cryosim-1 is a safe and effective topical treatment for PN patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jad.2023.12.057
+- DOI: 10.1111/jocd.16079
 
 2. Keywords
-- Depression
-- Insomnia
-- Light therapy
-- Mood disorders
-- Sleep quality
-- Subjective sleep
+- cold cream
+- gels
+- patient satisfaction
+- topical treatment
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Depression assessment methods and outcomes
-- Insomnia assessment methods and outcomes
-- Light therapy assessment methods and outcomes
+- cold cream assessment methods and outcomes
+- gels assessment methods and outcomes
+- patient satisfaction assessment methods and outcomes

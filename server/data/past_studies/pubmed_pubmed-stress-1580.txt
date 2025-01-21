@@ -1,36 +1,26 @@
-Study Title: Cognitive-behavioral treatment for insomnia and mindfulness-based stress reduction in nurses with insomnia: a non-inferiority internet delivered randomized controlled trial.
+Study Title: Resonant breathing improves self-reported symptoms and wellbeing in people with Long COVID.
 
 Study Summary:
-Insomnia is a highly prevalent sleep disorder frequently comorbid with mental health conditions in nurses. Despite the effectiveness of evidence-based cognitive behavioral therapy for insomnia (CBT-I), there is a critical need for alternative approaches. This study investigated whether internet-delivered mindfulness-based stress reduction (IMBSR) for insomnia could be an alternative to internet-delivered CBT-I (ICBT-I). The hypothesis was that the IMBSR would be noninferior to the ICBT-I in reducing the severity of insomnia among nurses with insomnia. Additionally, it was expected that ICBT-I would produce a greater reduction in the severity of insomnia and depression than IMBSR. Among 240 screened nurses, 134 with insomnia were randomly allocated (IMBSR,=&#xa0;67; ICBT-I,= 67). The assessment protocol comprised clinical interviews and self-reported outcome measures, including the Insomnia Severity Index (ISI), Patient Health Questionnaire-9 (PHQ-9), the 15-item Five Facet Mindfulness Questionnaire (FFMQ), and the Client Satisfaction Questionnaire (CSQ-I). The retention rate was 55% with 77.6% (&#xa0;=&#xa0;104) of participants completing the study. At post-intervention, the noninferiority analysis of the ISI score showed that the upper limit of the 95% confidence interval was 4.88 (&#xa0;=&#xa0;0.46), surpassing the pre-specified noninferiority margin of 4 points. Analysis of covariance revealed that the ICBT-I group had significantly lower ISI (Cohen's= 1.37) and PHQ-9 (Cohen's= 0.71) scores than did the IMBSR group. In contrast, the IMBSR group showed a statistically significant increase in the FFMQ-15 score (Cohen's d = 0.67). Within-group differences showed that both the IMBSR and ICBT-I were effective at reducing insomnia severity and depression severity and improving mindfulness. Overall, nurses demonstrated high levels of satisfaction and adherence to both interventions. The IMBSR significantly reduced insomnia severity and depression, but the findings of this study do not provide strong evidence that the IMBSR is at least as effective as the ICBT-I in reducing insomnia symptoms among nurses with insomnia. The ICBT-I was found to be significantly superior to the IMBSR in reducing insomnia severity, making it a recommended treatment option for nurses with insomnia.
+Long COVID involves debilitating symptoms, many of which mirror those observed with dysautonomia, and care must be taken with rehabilitation for autonomic dysfunction to avoid post-exertional malaise/post-exertional symptom exacerbation. Resonant breathing (breathing slowly at a defined rate of breaths per minute) requires less exertion and can potentially improve autonomic function. The objective of this work was to report on the impact of a resonant breathing program on self-reported symptoms and wellbeing in people with Long COVID. A retrospective analysis of de-identified data was completed in a convenience sample of people with Long COVID, who participated in the Meo Health (formerly known as Stasis HP) resonant breathing program. Participants completed baseline and follow up surveys. Data were available for 99 participants. Most measures of symptoms and wellbeing improved at follow up, with the largest differences per participant seen in sense of wellness (47.3%,&#x2009;<&#x2009;0.0001), ability to focus (57.5%,&#x2009;<&#x2009;0.0001), ability to breathe (47.5%,&#x2009;<&#x2009;0.0001), ability to control stress (61.8%,&#x2009;<&#x2009;0.0001) and sleep quality (34.9%,&#x2009;=&#x2009;0.0002). Most (92%) participants reported improvement at follow up on the Patient Global Impression of Change Scale. Self-reported symptoms and wellbeing improved in people with Long COVID completing resonant breathing. Resonant breathing can be considered as an option within the broader treatment plan of people with Long COVID.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7717/peerj.17491
+- DOI: 10.3389/fresc.2024.1411344
 
 2. Keywords
-- CBT-I
-- COVID-19
-- Digital health
-- Insomnia
-- Internet intervention
-- MBSR
-- Mindfulness
-- Nursing
-- Randomized controlled trial
-- Sleep disorders
+- Long COVID
+- autonomic dysfunction
+- autonomic nervous system
+- rehabilitation
+- resonant breathing
 
 3. Key Findings
-- At post-intervention, the noninferiority analysis of the ISI score showed that the upper limit of the 95% confidence interval was 4
-- Analysis of covariance revealed that the ICBT-I group had significantly lower ISI (Cohen's= 1
-- In contrast, the IMBSR group showed a statistically significant increase in the FFMQ-15 score (Cohen's d = 0
-- Within-group differences showed that both the IMBSR and ICBT-I were effective at reducing insomnia severity and depression severity and improving mindfulness
-- Overall, nurses demonstrated high levels of satisfaction and adherence to both interventions
-- The ICBT-I was found to be significantly superior to the IMBSR in reducing insomnia severity, making it a recommended treatment option for nurses with insomnia
+- Findings extraction requires manual review
 
 This study provides insights into:
-- CBT-I assessment methods and outcomes
-- COVID-19 assessment methods and outcomes
-- Digital health assessment methods and outcomes
+- Long COVID assessment methods and outcomes
+- autonomic dysfunction assessment methods and outcomes
+- autonomic nervous system assessment methods and outcomes

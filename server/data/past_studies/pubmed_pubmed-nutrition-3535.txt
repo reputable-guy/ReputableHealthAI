@@ -1,25 +1,24 @@
-Study Title: Evaluation of School Wellness Policies in Low-Income California Districts After the 2016 USDA Final Rule.
+Study Title: Preterm Formula, Fortified or Unfortified Human Milk for Very Preterm Infants, the PREMFOOD Study: A Parallel Randomised Feasibility Trial.
 
 Study Summary:
-Districts with federal nutrition programs must have an updated local school wellness policy (LSWP) to promote nutrition, physical activity, and student wellness. This study evaluates factors associated with LSWP quality among low-income districts. In 2018, we collected LSWPs from websites of 200 randomly selected, county-stratified, low-income-serving California public districts. Multivariable linear regression assessed associations between district characteristics, model LSWP use (national, state, none), and adoption date on policy quality. On the WellSAT 3.0 scale of 0-100, mean (95% CI) comprehensiveness was 65.0 (63.2-66.7) and strength was 37.3 (35.3-39.2). Nearly verbatim adoption of model LSWPs was high&#xa0;(68.5% state model, 13.0% a national model). Half were adopted before mandated updates. District size (&#x2265;1000 students) and national model LSWP adoption were associated with higher comprehensive scores. National model LSWP adoption was associated with higher strength scores in updated policies compared with those not updated. LSWPs have improved school food and activity environments, but district engagement in LSWP is low. Integration into education frameworks that reduce learning barriers could provide synergy for re-engagement. High adoption of model policies and low update compliance indicate little district engagement in LSWP. Mixed methods studies of districts with high-quality LSWP are needed.
+Uncertainty exists regarding optimal supplemental diet for very preterm infants if the mother's own milk (MM) is insufficient. We evaluated feasibility for a randomised controlled trial (RCT) powered to detect important differences in health outcomes. In this open, parallel, feasibility trial, we randomised infants 25+0-31+6 weeks of gestation by opt-out consent to one of three diets: unfortified human milk (UHM) (unfortified MM and/or unfortified pasteurised human donor milk (DM) supplement), fortified human milk (FHM) (fortified MM and/or fortified DM supplement), and unfortified MM and/or preterm formula (PTF) supplement from birth to 35+0 weeks post menstrual age. Feasibility outcomes included opt-outs, adherence rates, and slow growth safety criteria. We also obtained anthropometry, and magnetic resonance imaging body composition data at term and term plus 6 weeks (opt-in consent). Of 35 infants randomised to UHM, 34 to FHM, and 34 to PTF groups, 21, 19, and 24 infants completed imaging at term, respectively. Study entry opt-out rate was 38%; 6% of parents subsequently withdrew from feeding intervention. Two infants met predefined slow weight gain thresholds. There were no significant between-group differences in term total adipose tissue volume (mean [SD]: UHM: 0.870 L [0.35 L]; FHM: 0.889 L [0.31 L]; PTF: 0.809 L [0.25 L], p = 0.66), nor in any other body composition measure or anthropometry at either timepoint. Randomisation to UHM, FHM, and PTF diets by opt-out consent was acceptable to parents and clinical teams, associated with safe growth profiles and no significant differences in body composition. Our data provide justification to proceed to a larger RCT.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/josh.13422
+- DOI: 10.1159/000535498
 
 2. Keywords
-- data-driven decision-making in school health
-- health policy and legislation
-- nutrition
-- vulnerable students
+- Clinical outcomes
+- Clinical trial
+- Nutrition
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- data-driven decision-making in school health assessment methods and outcomes
-- health policy and legislation assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- Clinical outcomes assessment methods and outcomes
+- Clinical trial assessment methods and outcomes
+- Nutrition assessment methods and outcomes

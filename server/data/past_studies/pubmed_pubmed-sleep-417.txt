@@ -1,28 +1,26 @@
-Study Title: Post-COVID Conditions in US Primary Care: A PRIME Registry Comparison of Patients With COVID-19, Influenza-Like Illness, and Wellness Visits.
+Study Title: Longer-term effect of physical activity intervention on sleep quality: a secondary analysis of cluster randomized controlled trial.
 
 Study Summary:
-COVID-19 is a condition that can lead to other chronic conditions. These conditions are frequently diagnosed in the primary care setting. We used a novel primary care registry to quantify the burden of post-COVID conditions among adult patients with a COVID-19 diagnosis across the United States. We used the American Family Cohort, a national primary care registry, to identify study patients. After propensity score matching, we assessed the prevalence of 17 condition categories individually and cumulatively, comparing patients having COVID-19 in 2020-2021 with (1) historical control patients having influenza-like illness in 2018 and (2) contemporaneous control patients seen for wellness or preventive visits in 2020-2021. We identified 28,215 patients with a COVID-19 diagnosis and 235,953 historical control patients with influenza-like illness. The COVID-19 group had higher prevalences of breathing difficulties (4.2% vs 1.9%), type 2 diabetes (12.0% vs 10.2%), fatigue (3.9% vs 2.2%), and sleep disturbances (3.5% vs 2.4%). There were no differences, however, in the postdiagnosis monthly trend in cumulative morbidity between the COVID-19 patients (trend = 0.026; 95% CI, 0.025-0.027) and the patients with influenza-like illness (trend = 0.026; 95% CI, 0.023-0.027). Relative to contemporaneous wellness control patients, COVID-19 patients had higher prevalences of breathing difficulties and type 2 diabetes. Our findings show a moderate burden of post-COVID conditions in primary care, including breathing difficulties, fatigue, and sleep disturbances. Based on clinical registry data, the prevalence of post-COVID conditions in primary care practices is lower than that reported in subspecialty and hospital settings.
+To examine the longer-term effect of physical activity (PA) intervention on sleep quality and whether the effect was heterogeneous between daytime nappers and non-nappers. This study was a secondary analysis of a cluster randomized controlled trial in China. Eight villages were randomized 1:1 to intervention or control group. The intervention group received an 8-week PA intervention, while the control group did not. The primary outcome of this study was the change in the Pittsburgh Sleep Quality Index (PSQI) global score at 24 months. The 511 participants had a mean age of 70.94 years (SD 5.73) and 55.6% were female. The intervention showed improvements in the PSQI global score at 8 weeks (adjusted mean difference -1.05; p&#x2005;=&#x2005;.002), and the effect diminished at 24 months (-0.64; p&#x2005;=&#x2005;.06). There were statistically significant improvements in the PSQI global score for daytime nappers, but not for non-nappers at 8 weeks (adjusted mean difference -0.98; p&#x2005;=&#x2005;.01 vs. -1.27; p&#x2005;=&#x2005;.05), 12 months (-0.86; p&#x2005;=&#x2005;.03 vs. -0.84; p&#x2005;=&#x2005;.21), and 24 months (-0.80; p&#x2005;=&#x2005;.04 vs. -0.14; p&#x2005;=&#x2005;.84), although these improvements were below the minimum detectible level of the PSQI which is 1 point. The 8-week PA intervention was effective in improving sleep quality, while the effect was diminished and below the minimum detectible level of the PSQI which is 1 point after 24 months. The effect of PA intervention on sleep quality was more pronounced in daytime nappers. Additional interventions (e.g. focusing on multiple behavioral interventions such as PA and a healthy diet) are needed to maintain the beneficial effect of PA on sleep quality in the general older populations. Further research is required to confirm the mechanisms of the effect of napping and develop tailored interventions. Conceptualizing a physical activity intervention model among rural older adults in China: a socio-ecological model-based approach, https://www.chictr.org.cn/showprojEN.html?proj=123704, registered at Chinese Clinical Trial Registry on April 20, 2021 (identifier: ChiCTR2100045653).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1370/afm.3131
+- DOI: 10.1093/sleep/zsae165
 
 2. Keywords
-- chronic illness
-- family practice
-- long COVID
-- morbidity
-- post-COVID conditions
-- post-infectious disorders
-- primary health care
+- cluster randomized controlled trial
+- daytime napping
+- long-term effect
+- physical activity intervention
+- sleep quality
 
 3. Key Findings
-- Findings extraction requires manual review
+- The intervention showed improvements in the PSQI global score at 8 weeks (adjusted mean difference -1
 
 This study provides insights into:
-- chronic illness assessment methods and outcomes
-- family practice assessment methods and outcomes
-- long COVID assessment methods and outcomes
+- cluster randomized controlled trial assessment methods and outcomes
+- daytime napping assessment methods and outcomes
+- long-term effect assessment methods and outcomes

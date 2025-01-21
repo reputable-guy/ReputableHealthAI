@@ -1,26 +1,20 @@
-Study Title: Co-administration of probiotics and vitamin D reduced disease severity and complications in patients with Parkinson's disease: a randomized controlled clinical trial.
+Study Title: Mobile Mindfulness Intervention for Psychological Distress Among Intensive Care Unit Survivors: A Randomized Clinical Trial.
 
 Study Summary:
-Probiotics have beneficial effects on the nervous system by modulating the gut-brain axis. Additionally, vitamin D supplementation presents a potential way for ameliorating neuropsychological disorders, particularly in regions with a high prevalence of vitamin D deficiency. The current clinical trial aimed to investigate the role of co-administered supplementation of probiotics and Vitamin D on the different inflammatory aspects of patients with Parkinson's disease. Forty-six patients with PD were recruited From the Functional Neurosurgery Research Center, Tehran, Iran. These patients were randomly allocated to one of the two treatment groups: Group A, who received probiotic/vitamin D supplements (n&#x2009;=&#x2009;23), and Group B who received placebo capsules (n&#x2009;=&#x2009;23) for 12 weeks. As primary outcomes, Interferon-Gamma (IFN-&#x3b3;), interleukin 1 beta (IL-1&#x3b2;), IL-6, IL-10, Tumor Necrosis Factor-Alpha (TNF-&#x3b1;), total antioxidant capacity (TAC), and malondialdehyde (MDA) in serum were evaluated at the baseline and the end of the trial. Moreover, Additional questionnaire-based factors including gastrointestinal symptom rating scale (GSRS), Beck Anxiety Inventory (BAI), and Unified Parkinson's Disease Rating Scale (UPDRS) were evaluated. Our findings demonstrated that the consumption of probiotic/vitamin D supplements leads to a significant decrease in IL-1&#x3b2;, INF-&#x3b3;, IL-6, and MDA levels, while showing a significant increase in IL-10 and TAC levels compared to the placebo group (P&#x2009;<&#x2009;0.05). Additionally, it leads to a significant decrease in the disease severity, anxiety, and gastrointestinal problems in PD patients in comparison to the placebo group (P&#x2009;<&#x2009;0.05). Given the acknowledged role of inflammation in the pathogenesis of Parkinson's disease on one hand, and the recognized anti-inflammatory and antioxidant effects associated with probiotics and vitamin D on the other hand, the concurrent administration of probiotics and vitamin D supplements emerges as a promising and potentially effective treatment option for individuals with PD.
+Although psychological distress is common among survivors of critical illness, there are few tailored therapies. To determine the optimal method for delivering a mindfulness intervention via a mobile app for critical illness survivors. This randomized clinical trial used a 2&#x2009;&#xd7;&#x2009;2&#x2009;&#xd7;&#x2009;2 factorial design and was conducted at 3 sites among survivors of critical illness with elevated postdischarge symptoms of depression. The study was conducted between August 2019 and July 2023. Participants were randomized to 1 of 8 different groups as determined by 3 two-level intervention component combinations: intervention introduction method (mobile app vs therapist call), mindfulness meditation dose (once daily vs twice daily), and management of increasing symptoms (mobile app vs therapist call). The primary outcome was the 9-item Patient Health Questionnaire (PHQ-9) depression scale score (range, 0-27) at 1 month. Secondary outcomes included anxiety (7-item Generalized Anxiety Disorder) and posttraumatic stress disorder (Posttraumatic Stress Scale) symptoms at 1 and 3 months, adherence, and feasibility. General linear models were used to compare main effects and interactions of the components among intervention groups. A formal decisional framework was used to determine an optimized intervention version. A total of 247 participants (mean [SD] age, 50.2 [15.4] years; 104 [42.1%] women) were randomized. Twice-daily meditation compared with once-daily meditation was associated with a 1.2 (95% CI, 0.04-2.4)-unit lower mean estimated PHQ-9 score at 1 month and a 1.5 (95% CI, 0.1-2.8)-unit lower estimated mean score at 3 months. The other 2 intervention components had no main effects on the PHQ-9. Across-group adherence was high (217 participants [87.9%] using the intervention at trial conclusion) and retention was strong (191 [77.3%] and 182 [73.7%] at 1 and 3 months, respectively). A mindfulness intervention for survivors of critical illness that included an app-based introduction, twice-daily guided meditation, and app-based management of increasing depression symptoms was optimal considering effects on psychological distress symptoms, adherence, and feasibility. ClinicalTrials.gov Identifier: NCT04038567.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00213-024-06606-9
+- DOI: 10.1001/jamainternmed.2024.0823
 
 2. Keywords
-- Inflammation
-- Oxidative stress
-- Parkinson&#x2019;s disease
-- Probiotic
-- Vitamin D
+
 
 3. Key Findings
-- Our findings demonstrated that the consumption of probiotic/vitamin D supplements leads to a significant decrease in IL-1&#x3b2;, INF-&#x3b3;, IL-6, and MDA levels, while showing a significant increase in IL-10 and TAC levels compared to the placebo group (P&#x2009;<&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Inflammation assessment methods and outcomes
-- Oxidative stress assessment methods and outcomes
-- Parkinson&#x2019;s disease assessment methods and outcomes
+- General research methodology and outcomes

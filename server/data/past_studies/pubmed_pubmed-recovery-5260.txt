@@ -1,25 +1,27 @@
-Study Title: The efficacy of loco-regional ropivacaine analgesia via intercostal catheters after lung resection: a randomized, double-blind, placebo-controlled, superiority study.
+Study Title: Reduced brain connectivity underlying value-based choices and outcomes in stimulant use disorder.
 
 Study Summary:
-Postoperative pain remains a burden for patients after minimally invasive anatomic lung resection. Current guidelines recommend the intraoperative placement of intercostal catheters to promote faster recovery. This trial aimed to determine the analgesic efficacy of continuous loco-regional ropivacaine application via intercostal catheter and establish this method as a possible standard of care. Between December 2021 and October 2023, patients were randomly assigned to receive ropivacaine 0.2% or a placebo through an intercostal catheter with a flow rate of 6-8&#x2009;ml/h for 72&#x2009;h after surgery. Patients were undergoing anatomic VATS lung resection under general anaesthesia for confirmed or suspected stage I lung cancer (UICC, 8th edition). The sample size was calculated to assess a difference in numerical rating scale associated with pain reduction of 1.5 points. Fourteen patients were included in the ropivacaine group, whereas the placebo group comprised 18 participants. Patient characteristics and preoperative pain scores were similar in both groups. There was no statistically significant difference in postoperative pain scores and morphine consumption between the 2 groups. The mean numerical rating scale when coughing during the first 24&#x2009;h postoperatively was 4.9 (SD: 2.2) in the ropivacaine group and 4.3 (SD: 2.4); P&#x2009;=&#x2009;0.47 in the placebo group. We were unable to determine any effect of administered ropivacaine on the postoperative pulmonary function (FEV1, PEF). Our preliminary results suggest that continuous loco-regional ropivacaine administration via surgically placed intercostal catheter has no positive effect on postoperative pain scores or morphine requirements. NCT04939545.
+Patients with stimulant use disorder (SUD) show impairments when making value-based choices that are associated with disruptions in neural processing across brain networks. Making optimal choices requires learning from outcomes to update knowledge and further optimise ongoing behaviour. The optimal functioning of neural systems that underpin the ability to make favourable choices is an essential component for life functioning, and successful recovery in patients with SUD. Therefore, we sought to investigate the neural processes that underpin value-based choices in SUD patients. We hypothesise that patients with SUD have reduced functional connectivity while making financial choices during a probabilistic reinforcement learning task. We investigated connectivity associated with loss and reward value-based choices and their outcomes in patients with SUD and healthy control participants during a pharmacological magnetic resonance imaging study. Participants received a single dose of a dopamine receptor agonist, pramipexole, and a dopamine receptor antagonist, amisulpride, in a randomised, double-blind, placebo-controlled, balanced, crossover design. Functional task-related connectivity was analysed taking a whole brain connectomics approach to identify networks that are differentially modulated by dopaminergic receptor functioning. SUD patients showed widespread reductions in connectivity during both reward and loss value-based choices and outcomes, which were negatively correlated with the duration of stimulant drug use. Disturbances to functional brain connectivity in SUD patients during task performance were not modulated acutely by either amisulpride or pramipexole. Reductions in brain connectivity, particularly when making value-based choices and processing outcomes, may underlie learning impairments in SUD patients. Given that acute dopaminergic modulation did not improve brain connectivity impairments in SUD patients, it is likely that alternative treatments are needed.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/ejcts/ezae342
+- DOI: 10.1016/j.nicl.2024.103676
 
 2. Keywords
-- Intercostal catheter
-- Minimally invasive lung surgery
-- Regional anaesthesia
-- Video-assisted thoracoscopic surgery
+- Addiction
+- Connectivity
+- Learning
+- Loss
+- Reward
+- fMRI
 
 3. Key Findings
-- Findings extraction requires manual review
+- SUD patients showed widespread reductions in connectivity during both reward and loss value-based choices and outcomes, which were negatively correlated with the duration of stimulant drug use
 
 This study provides insights into:
-- Intercostal catheter assessment methods and outcomes
-- Minimally invasive lung surgery assessment methods and outcomes
-- Regional anaesthesia assessment methods and outcomes
+- Addiction assessment methods and outcomes
+- Connectivity assessment methods and outcomes
+- Learning assessment methods and outcomes

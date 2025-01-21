@@ -1,27 +1,34 @@
-Study Title: Effectiveness of an interactive online group intervention based on pain neuroscience education and graded exposure to movement in breast cancer survivors with chronic pain: a randomised controlled trial.
+Study Title: Effectiveness of a Digital Health Intervention Leveraging Reinforcement Learning: Results From the Diabetes and Mental Health Adaptive Notification Tracking and Evaluation (DIAMANTE) Randomized Clinical Trial.
 
 Study Summary:
-To evaluate the effectiveness, compared with usual care, of an interactive online group programme combining pain neuroscience education (PNE) and graded exposure to movement (GEM) for improving quality of life and pain experience in breast cancer survivors with chronic pain. This single-blind randomised controlled trial included a sample of 49 breast cancer survivors who were randomly assigned to two groups (experimental: n&#x2009;=&#x2009;22 and control: n&#x2009;=&#x2009;27). The experimental group received a 12-week person-centred online programme based on pain neuroscience education and therapeutic yoga as gradual exposure to movement, while the control group continued with their usual care. The primary outcome was quality of life (FACT-B&#x2009;+&#x2009;4); the secondary outcomes were related to the experience of chronic pain (pain intensity, pain interference, catastrophizing, pain self-efficacy, kinesiophobia, and fear avoidance behaviours). All variables were assessed at four time points (T0, baseline; T1, after PNE sessions; T2, after yoga sessions; T3, at 3-month follow-up). For data analysis, ANOVA (2&#x2009;&#xd7;&#x2009;4) analysis of variance (95% CI) was used when outcomes were normally distributed. If not, within-group and between-group comparisons were calculated. Thirty-six participants were included in the analysis (control group, 22; experimental group, 14). A significant time&#xa0;*&#xa0;group effect was observed in favour of the experimental group regarding the global quality of life score (p&#x2009;=&#x2009;0.010, &#x3b7;&#x2009;=&#x2009;0.124). Significant differences in favour of the experimental group were observed for pain intensity, pain interference, catastrophizing, and pain self-efficacy. These differences persisted at follow-up. An online intervention based on PNE and GEM appears to be more effective than usual care for improving quality of life in breast cancer survivors with chronic pain, as a time per group interaction was reported. In addition, the intervention also significantly improved the participants' experience of chronic pain. However, due to the study limitations further research is needed. Trial record: NCT04965909 (26/06/2021).
+Digital and mobile health interventions using personalization via reinforcement learning algorithms have the potential to reach large number of people to support physical activity and help manage diabetes and depression in daily life. The Diabetes and Mental Health Adaptive Notification and Tracking Evaluation (DIAMANTE) study tested whether a digital physical activity intervention using personalized text messaging via reinforcement learning algorithms could increase step counts in a diverse, multilingual sample of people with diabetes and depression symptoms. From January 2020 to June 2022, participants were recruited from 4 San Francisco, California-based public primary care clinics and through web-based platforms to participate in the 24-week randomized controlled trial. Eligibility criteria included English or Spanish language preference and a documented diagnosis of diabetes and elevated depression symptoms. The trial had 3 arms: a Control group receiving a weekly mood monitoring message, a Random messaging group receiving randomly selected feedback and motivational text messages daily, and an Adaptive messaging group receiving text messages selected by a reinforcement learning algorithm daily. Randomization was performed with a 1:1:1 allocation. The primary outcome, changes in daily step counts, was passively collected via a mobile app. The primary analysis assessed changes in daily step count using a linear mixed-effects model. An a priori subanalysis compared the primary step count outcome within recruitment samples. In total, 168 participants were analyzed, including those with 24% (40/168) Spanish language preference and 37.5% (63/168) from clinic-based recruitment. The results of the linear mixed-effects model indicated that participants in the Adaptive arm cumulatively gained an average of 3.6 steps each day (95% CI 2.45-4.78; P<.001) over the 24-week intervention (average of 608 total steps), whereas both the Control and Random arm participants had significantly decreased rates of change. Postintervention estimates suggest that participants in the Adaptive messaging arm showed a significant step count increase of 19% (606/3197; P<.001), in contrast to 1.6% (59/3698) and 3.9% (136/3480) step count increase in the Random and Control arms, respectively. Intervention effectiveness differences were observed between participants recruited from the San Francisco clinics and those recruited via web-based platforms, with the significant step count trend persisting across both samples for participants in the Adaptive group. Our study supports the use of reinforcement learning algorithms for personalizing text messaging interventions to increase physical activity in a diverse sample of people with diabetes and depression. It is the first to test this approach in a large, diverse, and multilingual sample. ClinicalTrials.gov NCT03490253; https://clinicaltrials.gov/study/NCT03490253. RR2-10.1136/bmjopen-2019-034723.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00520-024-08887-4
+- DOI: 10.2196/60834
 
 2. Keywords
-- Breast cancer
-- Graded exposure to movement
-- Pain neuroscience education
-- Quality of life
-- Therapeutic exercise
-- Yoga
+- SMS
+- depression
+- diabetes
+- digital health
+- exercise
+- machine learning
+- mobile phone
+- physical activity
+- reinforcement learning
+- steps
+- text messages
+- walking
 
 3. Key Findings
-- Findings extraction requires manual review
+- The results of the linear mixed-effects model indicated that participants in the Adaptive arm cumulatively gained an average of 3
+- Postintervention estimates suggest that participants in the Adaptive messaging arm showed a significant step count increase of 19% (606/3197; P<
 
 This study provides insights into:
-- Breast cancer assessment methods and outcomes
-- Graded exposure to movement assessment methods and outcomes
-- Pain neuroscience education assessment methods and outcomes
+- SMS assessment methods and outcomes
+- depression assessment methods and outcomes
+- diabetes assessment methods and outcomes

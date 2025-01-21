@@ -1,28 +1,20 @@
-Study Title: An 18-month multimodal intervention trial for preventing dementia: J-MINT PRIME Tamba.
+Study Title: Nonsteroidal Anti-Inflammatory Drugs Do Not Affect the Bone Metabolic Response to Exercise.
 
 Study Summary:
-The number of people with dementia is increasing in Japan, and establishing evidence for preventing dementia is necessary. This study was a randomized controlled trial in cognitively normal community-dwelling older adults aged 65 to 85 with diabetes and/or hypertension. Participants were randomly assigned in a 1:1 ratio. The intervention group underwent 90&#xa0;min of group-based weekly physical exercise, cognitive training, nutritional counseling, and vascular risk management for 18 months. The primary endpoint was the change in a cognitive composite score calculated by averaging the z-scores of seven neuropsychological tests from baseline to 18 months. We randomly assigned 203 participants to two groups, and 178 (87.7%) completed the 18-month follow-up. There was a significant group difference in the cognitive composite score change at 18 months (mean difference 0.16, 95% confidence interval: 0.04 to 0.27; p&#xa0;=&#xa0;0.009). An 18-month multimodal intervention for older adults at risk of dementia could improve their cognitive function. The trial was registered in the Clinical Trial Registration System (UMIN000041938). Japan-Multimodal Intervention Trial for Prevention of Dementia (J-MINT) PRIME Tamba was a randomized controlled trial to prevent dementia. We provided a multifactorial intervention based on the Finnish Geriatric Intervention Study to Prevent Cognitive Impairment and Disability (FINGER) trial methodology. The primary outcome, the cognitive composite score, improved with our intervention. Executive function/processing speed and memory improved in the intervention group. Intervention adherence was high, and no serious adverse events occurred.
+Nonsteroidal anti-inflammatory drugs (NSAID) are associated with increased stress fracture risk, potentially due to inhibiting the adaptive bone formation responses to exercise. This study investigated if a single, maximal dose of three different NSAID alters bone formation biomarker response to strenuous exercise. In a randomized, counterbalanced order, 12 participants (10 male, 2 female), performed four bouts of plyometric jumps, each separated by at least 1 wk. Two hours before exercise, participants consumed either placebo or NSAID: ibuprofen (800 mg), celecoxib (200 mg), flurbiprofen (100 mg). Blood was collected before (PRE), and at 0, 15, 60, 120, and 240 min postexercise. Parathyroid hormone, ionized calcium, procollagen type 1 N-terminal propeptide, bone alkaline phosphatase, osteocalcin, C-terminal telopeptide of type 1 collagen, tartrate-resistant acid phosphatase, and sclerostin were measured. Prostaglandin E2 metabolite and creatinine were measured in urine. Data were analyzed using repeated-measures ANOVA and area under the curve analysis. Data are mean &#xb1; SD. There was an exercise effect for procollagen type 1 N-terminal propeptide, bone alkaline phosphatase, osteocalcin, C-terminal telopeptide of type 1 collagen, tartrate-resistant acid phosphatase, sclerostin, osteoprotegerin, parathyroid hormone, and ionized calcium (all P < 0.05), but no NSAID treatment effect for any biomarker (all P > 0.05). Area under the curve analyses were not different for any biomarker ( P > 0.05). Prostaglandin E2 metabolite was higher during the placebo trial (322 &#xb1; 153 pg&#xb7;mg -1 creatinine, P < 0.05) compared with ibuprofen (135 &#xb1; 83 pg&#xb7;mg -1 ), celecoxib (202 &#xb1; 107 pg&#xb7;mg -1 ), and flurbiprofen (159 &#xb1; 74 pg&#xb7;mg -1 ). Plyometric exercise induced changes in bone metabolism, but the responses were unaltered by consuming NSAID 2 h before exercise.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/alz.14170
+- DOI: 10.1249/MSS.0000000000003553
 
 2. Keywords
-- J&#x2010;MINT PRIME Tamba
-- World&#x2010;Wide FINGERS
-- cognitive function
-- dementia
-- multimodal intervention
-- prevention
-- randomized controlled trial
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- J&#x2010;MINT PRIME Tamba assessment methods and outcomes
-- World&#x2010;Wide FINGERS assessment methods and outcomes
-- cognitive function assessment methods and outcomes
+- General research methodology and outcomes

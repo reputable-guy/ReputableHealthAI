@@ -1,26 +1,20 @@
-Study Title: Evaluation of the Teaching Recovery Techniques intervention among newcomer students in Swedish schools: a randomised controlled trial turned into a feasibility study.
+Study Title: Preoperative high dose of dexamethasone in emergency laparotomy: randomized clinical trial.
 
 Study Summary:
-During recent years, Europe has faced the arrival of migrants whereof a considerable group of youth present mental health problems, such as symptoms of post-traumatic stress disorder (PTSD). Schools offer a safe environment for mental health interventions to these groups, yet there is limited research on the impact of school-based interventions addressing mental health problems in newcomer youths, especially in the Swedish context. This cluster randomized controlled trial (RCT) aimed to explore the effectiveness of the Teaching Recovery Techniques (TRT) intervention among newcomer students with PTSD symptoms in Swedish secondary schools. Nine schools were randomly assigned to TRT or a wait list control group prior to the baseline assessment. Follow-up data were collected immediately following the intervention and three months post-intervention. In total, 531 students were approached, of which 61 gave consent and were eligible to be included in the study: 55 in TRT and 6 in the control condition. Given the low number of participants in the control condition, we merely analyzed students who had received TRT. We report on feasibility of recruitment, data collection, intervention delivery and intervention effectiveness. In terms of intervention effectiveness, within subjects ANOVAs revealed significant reductions in PTSD symptoms and general mental health problems from baseline to the three months-follow-up (p&#x2009;<&#x2009;0.001). Our results indicate that TRT is a promising school-based intervention for newcomer students with PTSD symptoms. For a successful implementation of TRT in the school context, schools need to be engaged and the implementation should be managed by a local coordinator. ISRCTN, ISRCTN48178969, Retrospectively registered 20/12/2019.
+Patients undergoing emergency laparotomy present with a profound inflammatory response, which could be an independent pathophysiological component in prolonged recovery. The aim of this study was to investigate the effects of a single preoperative high dose of intravenous dexamethasone on the inflammatory response and recovery after emergency laparotomy. In this double-blinded placebo-controlled trial, patients were prospectively stratified according to surgical pathology (intestinal obstruction and perforated viscus) and randomized to preoperative 1&#x2005;mg/kg dexamethasone or placebo at a ratio of 1 : 1. The primary outcome was C-reactive protein on postoperative day 1. Secondary outcomes were postoperative recovery, morbidity, and mortality. A total of 120 patients were included in the trial. On postoperative day 1, the C-reactive protein response was significantly lower in the dexamethasone group (a median of 170 versus 220&#x2005;mg/l for dexamethasone and for placebo respectively; P = 0.015; mean difference = 49 (95% c.i. 13 to 85)&#x2005;mg/l) and when stratified according to intestinal obstruction (a median of 60 versus 160&#x2005;mg/l for dexamethasone and for placebo respectively; P = 0.002) and perforated viscus (a median of 230 versus 285&#x2005;mg/l for dexamethasone and for placebo respectively; P = 0.035). Dexamethasone administration was associated with improved recovery (better haemodynamics, better pulmonary function, less fatigue, and earlier mobilization). Furthermore, the dexamethasone group had a lower 90-day mortality rate (7% versus 23% for dexamethasone and for placebo respectively; relative risk 0.33 (95% c.i. 0.11 to 0.93); P = 0.023) and a decreased incidence of postoperative major complications (27% versus 45% for dexamethasone and for placebo respectively; relative risk 0.62 (95% c.i. 0.37 to 1.00); P = 0.032). A single preoperative high dose of intravenous dexamethasone significantly reduces the inflammatory response after emergency laparotomy and is associated with enhanced recovery and improved outcome. NCT04791566 (http://www.clinicaltrials.gov).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12889-024-19412-x
+- DOI: 10.1093/bjs/znae130
 
 2. Keywords
-- Mental health problems
-- Newcomers
-- Post-traumatic stress disorder (PTSD)
-- School context
-- Teaching recovery techniques (TRT)
+
 
 3. Key Findings
-- In terms of intervention effectiveness, within subjects ANOVAs revealed significant reductions in PTSD symptoms and general mental health problems from baseline to the three months-follow-up (p&#x2009;<&#x2009;0
+- Patients undergoing emergency laparotomy present with a profound inflammatory response, which could be an independent pathophysiological component in prolonged recovery
 
 This study provides insights into:
-- Mental health problems assessment methods and outcomes
-- Newcomers assessment methods and outcomes
-- Post-traumatic stress disorder (PTSD) assessment methods and outcomes
+- General research methodology and outcomes

@@ -1,25 +1,28 @@
-Study Title: Transcutaneous electric nerve stimulation of acupuncture points improves tolerance in adults undergoing diagnostic upper gastrointestinal endoscopy: a single-center, double-blinded, randomized controlled trial.
+Study Title: 'Does it matter how old I feel?' The role of subjective age in a psychosocial intervention for improving depressive symptomatology among older adults in Brazil (PROACTIVE).
 
 Study Summary:
-Oesophagogastroduodenoscopy (OGDS) is the most common diagnostic procedure for upper gastrointestinal diseases. It often causes discomfort and anxiety, which are only mitigated by systemic sedation. However, sedation poses additional risks of adverse cardiopulmonary events, increased medical costs, and prolonged recovery. Transcutaneous electrical nerve stimulation of acupuncture points (Acu-TENS) is a non-invasive and innovative approach that induces analgesic effect during endoscopy. This trial is the first to be reported in English that explores the potential of Acu-TENS to increase patient tolerance during non-sedated elective diagnostic OGDS. A double-blinded randomized controlled trial involving 348 subjects was conducted at a tertiary hospital to evaluate the success rate of OGDS with Acu-TENS. Subjects aged 18-75&#xa0;years scheduled for their first elective diagnostic OGDS were randomized into the intervention (Acu-TENS) and placebo arms. OGDS success was assessed based on subjects' satisfaction ratings on a Likert scale and procedure's technical adequacy. Secondary measures included subjects' willingness to undergo future OGDS under similar conditions, procedure duration, and the endoscopist's perceived ease of the procedure. OGDS success rates were significantly higher with Acu-TENS (77.8%) than with the placebo (68.0%; odds ratio [OR] 1.64, 95% confidence interval [CI] 1.01-2.66, p&#x2009;=&#x2009;0.043). Subjects who received Acu-TENS expressed higher willingness for future OGDS (78.9%) than those who received the placebo (68.6%; OR 1.71, 95% CI 1.04-2.79, p&#x2009;=&#x2009;0.031). Procedure duration were significantly shorter in the intervention arm (6.0&#xa0;min) than in the placebo arm (10.0&#xa0;min; p&#x2009;=&#x2009;0.002). No adverse effects were reported, and endoscopists perceived similar procedure ease in both arms. Acu-TENS improved OGDS success and enhanced patients' experiences during non-sedated OGDS. It demonstrated safety with no side effects and reduced the procedure completion time. It could be used as an adjunct in non-sedated diagnostic OGDS.
+Depression is a prevalent mental health condition that also often affects older adults. The PROACTIVE psychosocial intervention was developed to reduce depressive symptomatology among older adults within primary care settings in Brazil. An important psychological marker that affects individuals' aging experience relates to how old people feel. Known as subjective age, this marker has been shown to be a risk factor for experiencing greater depressive symptoms if individuals report feeling older than their (chronological) age. In this study, we perform secondary analyses of the PROACTIVE cluster-randomized controlled trial to examine the role of subjective age. The sample included 715 Brazilian older adults (74% female,68.6,= 6.9, age range: 60-94 years) randomized to intervention (= 360, 74% female,68.4,= 6.6, age range: 60-89 years) or control (= 355, 74% female,68.9,= 7.2, age range: 60-94 years) arms. Here our primary outcome was depressive symptoms at the 8-month follow-up assessed with the 9-item Patient Health Questionnaire (PHQ-9) as a continuous variable. Our previous analyses demonstrated improved recovery from depression at follow-up in the intervention compared with the control arm. Relevant main effects and interactions in regression models for PHQ-9 presented here found that those reporting older subjective age had worse depressive symptoms at follow-up but that they benefitted more from the intervention when initial levels of depression were high. For participants who reported younger subjective ages the intervention showed positive effects that were independent of initial levels of depression. Our findings emphasize the importance of investigating possible underlying mechanisms that can help clarify the impact of mental health interventions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00464-024-10841-8
+- DOI: 10.1080/13607863.2024.2342959
 
 2. Keywords
-- Acupuncture point
-- OGDS
-- TENS
-- Tolerance
+- PROACTIVE psychosocial intervention
+- Subjective age
+- depression
+- felt age
+- older adults
 
 3. Key Findings
-- It demonstrated safety with no side effects and reduced the procedure completion time
+- Our previous analyses demonstrated improved recovery from depression at follow-up in the intervention compared with the control arm
+- Relevant main effects and interactions in regression models for PHQ-9 presented here found that those reporting older subjective age had worse depressive symptoms at follow-up but that they benefitted more from the intervention when initial levels of depression were high
+- For participants who reported younger subjective ages the intervention showed positive effects that were independent of initial levels of depression
 
 This study provides insights into:
-- Acupuncture point assessment methods and outcomes
-- OGDS assessment methods and outcomes
-- TENS assessment methods and outcomes
+- PROACTIVE psychosocial intervention assessment methods and outcomes
+- Subjective age assessment methods and outcomes
+- depression assessment methods and outcomes

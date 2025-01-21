@@ -1,27 +1,27 @@
-Study Title: Is One Enough? The Effectiveness of a Single Session of Education and Exercise Compared to Multiple Sessions of a Multimodal Physiotherapy Intervention for Adults With Spinal Disorders in an Advanced Practice Physiotherapy Model of Care: A Randomized Controlled Trial.
+Study Title: Impact of Aficamten on Disease and Symptom Burden in Obstructive Hypertrophic Cardiomyopathy: Results From SEQUOIA-HCM.
 
 Study Summary:
-To assess the effectiveness of a single session of education and exercise compared with multiple sessions of a multimodal physiotherapy intervention for adults with spinal disorders in an advanced practice physiotherapy specialized spine model of care.Pragmatic randomized controlled trial.We randomized patients with spinal disorders, who were referred for a spinal surgery consultation and triaged as nonsurgical cases by an advanced practice physiotherapist, to a single session of education and prescription of an exercise program (n = 52) or multiple sessions (6 in total) of a multimodal physiotherapy intervention (n = 54). The primary outcomes were the short form Brief Pain Inventory pain severity scale (BPI-S) and the Brief Pain Inventory pain interference scale (BPI-I), and secondary outcomes included disability, quality of life, catastrophization, and satisfaction. Linear mixed models were used to assess differences between groups across time points at 6, 12, and 26 weeks.There were no significant between-group differences on the BPI-S and only a significant improvement at 6 weeks on the BPI-I in the multiple-session group (mean difference: -0.96/10; 95% CI, -1.87 to -0.05). There were no other statistically significant differences between groups, except for satisfaction where participants in the multiple-session group reported statistically significantly greater satisfaction on the 9-item Visit-Specific Satisfaction Questionnaire and the MedRisk questionnaire. Both groups saw significant improvements over time on all outcomes except for the BPI-S.Adding supervised multimodal physiotherapy sessions did not result in better clinical outcomes when compared to a single session of education and exercise. Patients were more satisfied with the multiple-session approach..
+Aficamten is a cardiac myosin inhibitor that mitigates left ventricular outflow gradients in obstructive hypertrophic cardiomyopathy (oHCM). The clinical efficacy of aficamten across multiple outcome domains in oHCM has not been fully defined. This responder analysis from the SEQUOIA-HCM (Phase 3 Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic oHCM) trial characterizes the clinical impact of aficamten. Patients who were symptomatic of oHCM were randomized to aficamten (n&#xa0;=&#xa0;142) or placebo (n&#xa0;=&#xa0;140) daily for 24&#xa0;weeks. Outcomes assessed included the proportion of patients with complete hemodynamic response (rest and Valsalva gradient&#xa0;<30&#xa0;mm&#xa0;Hg and&#xa0;<50&#xa0;mm&#xa0;Hg, respectively), relief in limiting symptoms (&#x2265;1&#xa0;improvement in NYHA functional class and/or&#xa0;&#x2265;10-point change in Kansas City Cardiomyopathy Questionnaire-Clinical Summary Score), enhanced exercise capacity (&#x2265;1.5&#xa0;mL/kg/min change in peak oxygen uptake), and&#xa0;&#x2265;50% reduction in N-terminal pro-B-type natriuretic peptide. Eligibility for septal reduction therapy was also evaluated. At 24&#xa0;weeks, patients treated with aficamten vs placebo showed significant improvement in limiting symptoms (71% vs 42%), were more likely to have complete hemodynamic response (68% vs 7%), demonstrated enhanced exercise capacity (47% vs 24%), and showed a decrease&#xa0;&#x2265;50% in N-terminal pro-B-type natriuretic peptide (84% vs 8%) (P&#xa0;&#x2264; 0.002 for all). An improvement in&#xa0;&#x2265;1 of these outcome measures was achieved in 97% of patients treated with aficamten (vs 59% placebo), including 23% on aficamten who achieved all 4 outcomes compared with none in placebo. Among 32 patients receiving aficamten and 29 patients receiving placebo who were eligible for septal reduction therapy, 28 (88%) from the aficamten group were no longer eligible at 24&#xa0;weeks compared with 15 (52%) from the placebo group (P&#xa0;=&#xa0;0.002). Treatment with aficamten was associated with substantial improvements across a broad range of clinically relevant efficacy measures. These results underscore the wide-ranging potential of aficamten for treatment of patients with symptomatic oHCM (Phase 3 Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults with oHCM [SEQUOIA-HCM]; NCT05186818).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2519/jospt.2024.12618
+- DOI: 10.1016/j.jacc.2024.09.003
 
 2. Keywords
-- advanced practice
-- health care system
-- musculoskeletal
-- pain
-- physiotherapy
-- specialized care
+- aficamten
+- cardiac myosin inhibitor
+- clinical trial
+- hypertrophic cardiomyopathy
+- obstructive hypertrophic cardiomyopathy
+- therapy
 
 3. Key Findings
-- Findings extraction requires manual review
+- At 24&#xa0;weeks, patients treated with aficamten vs placebo showed significant improvement in limiting symptoms (71% vs 42%), were more likely to have complete hemodynamic response (68% vs 7%), demonstrated enhanced exercise capacity (47% vs 24%), and showed a decrease&#xa0;&#x2265;50% in N-terminal pro-B-type natriuretic peptide (84% vs 8%) (P&#xa0;&#x2264; 0
 
 This study provides insights into:
-- advanced practice assessment methods and outcomes
-- health care system assessment methods and outcomes
-- musculoskeletal assessment methods and outcomes
+- aficamten assessment methods and outcomes
+- cardiac myosin inhibitor assessment methods and outcomes
+- clinical trial assessment methods and outcomes

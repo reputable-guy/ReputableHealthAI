@@ -1,30 +1,27 @@
-Study Title: Association between parenteral nutrition-containing intravenous lipid emulsion and bloodstream infections in patients with single-lumen central venous access: A secondary analysis of a randomized trial.
+Study Title: Inflammatory Mediators and Type 2 Diabetes Risk Factors before and in Response to Lifestyle Intervention among Latino Adolescents with Obesity.
 
 Study Summary:
-Distinguishing primary bloodstream infections (BSIs) related to central venous access devices (CVADs) from those that occur through other mechanisms, such as a damaged mucosal barrier, is difficult. Secondary analysis was conducted on data from patients with CVADs that were collected for a large, randomized trial. Patients were divided into two groups: those who received parenteral nutrition (PN)-containing intravenous lipid emulsion (ILE) and those who did not have PN-containing ILE. This study investigated the influence of PN-containing ILE (ILE PN) on primary BSIs in patients with a CVAD. Of the 807 patients, 180 (22%) received ILE PN. Most (627/807; 73%) were recruited from the hematology and hematopoietic stem cell transplant unit, followed by surgical (90/807; 11%), trauma and burns (61/807; 8%), medical (44/807; 5%), and oncology (23/807; 3%). When primary BSI was differentiated as a central line-associated BSI (CLABSI) or mucosal barrier injury laboratory-confirmed BSI (MBI-LCBI), the incidence of CLABSI was similar in the ILE PN and non-ILE PN groups (15/180 [8%] vs 57/627 [9%]; P&#x2009;=&#x2009;0.88) and the incidence of MBI-LCBI was significantly different between groups (31/180 [17%] ILE PN vs 41/627 [7%] non-ILE PN; P&#x2009;<&#x2009;0.01). Our data indicate that twice as many primary BSIs in ILE PN patients are due to MBIs than CVADs. It is important to consider the MBI-LCBI classification, as some CLABSI prevention efforts aimed at CVADs for the ILE PN population may be better directed to gastrointestinal tract protection interventions.
+Obesity is associated with chronic inflammation that may contribute to T2D among youth. We examined the association between inflammatory biomarkers and insulin sensitivity and &#x3b2;-cell function and response to lifestyle intervention among Latino youth with obesity. Latino youth (n = 64) were randomized to six months of lifestyle intervention (INT, n = 40) or usual care (UC, n = 24). INT included nutrition education and physical activity. UC involved meeting with a pediatric endocrinologist and registered dietitian to discuss healthy lifestyles. At baseline, multiple linear regression assessed fasting serum interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-&#x3b1;), monocyte chemoattractant protein-1 (MCP-1), high-molecular weight adiponectin (HMW Adpn), IL-10, IL-1 receptor antagonist (IL-1ra) as predictors of insulin sensitivity (whole-body insulin sensitivity index, WBISI) and &#x3b2;-cell function (oral disposition index, oDI). Changes in outcomes between groups were assessed using covariance pattern models. At baseline, MCP-1 (&#x3b2; &#xb1; SE, -0.12 &#xb1; 0.05,= 0.027) and IL-1ra (-0.03 &#xb1; 0.01,= 0.005) were negatively associated with WBISI. Treatment effects were not observed for inflammatory markers. WBISI was significantly increased among both INT (from 1.8 &#xb1; 0.2 to 2.6 &#xb1; 0.4,= 0.005) and UC (from 1.6 &#xb1; 0.2 to 2.8 &#xb1; 0.5,= 0.002) with no significant differences between the groups. Obesity-related inflammatory mediators were associated with T2D risk factors but were unaffected by lifestyle intervention among Latino youth.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1002/jpen.2530
+- DOI: 10.3390/nu15112442
 
 2. Keywords
-- administration, intravenous
-- catheter-related infections
-- catheterization, central venous
-- central venous catheters
-- clinical nursing research
-- fat emulsion, intravenous
-- mucosal barrier injury laboratory-confirmed bloodstream infection
-- parenteral nutrition
-- vascular access devices
+- adipokine
+- diabetes prevention
+- exercise
+- inflammation
+- nutrition
+- pediatric obesity
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- administration, intravenous assessment methods and outcomes
-- catheter-related infections assessment methods and outcomes
-- catheterization, central venous assessment methods and outcomes
+- adipokine assessment methods and outcomes
+- diabetes prevention assessment methods and outcomes
+- exercise assessment methods and outcomes

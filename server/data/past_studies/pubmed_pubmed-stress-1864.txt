@@ -1,24 +1,28 @@
-Study Title: Symptoms as a Predictor of the Placebo-Controlled Efficacy of PCI in Stable Coronary Artery Disease.
+Study Title: The Comparison of Individual and Group Hybrid Telerehabilitation Methods in Women with Urinary Incontinence.
 
 Study Summary:
-Placebo-controlled evidence from ORBITA-2 (Objective Randomised Blinded Investigation with Optimal Medical Therapy of Angioplasty in Stable Angina-2) found that percutaneous coronary intervention (PCI) in stable coronary artery disease with little or no antianginal medication relieved angina, but residual symptoms persisted in many patients. The reason for this was unclear. This ORBITA-2 secondary analysis investigates the relationship between presenting symptoms and disease severity (anatomic, noninvasive, and invasive ischemia) and the ability of symptoms to predict the placebo-controlled efficacy of PCI. Prerandomization symptom severity and nature were assessed using the ORBITA smartphone application and symptom and quality of life questionnaires including the World Health Organization Rose angina questionnaire (Rose). Disease severity was assessed using quantitative coronary angiography, stress echocardiography, fractional flow reserve, and instantaneous wave-free ratio. Bayesian ordinal regression was used. At prerandomization, the median number of daily angina episodes was 0.8 (Q1-Q3: 0.4-1.6), 64% had Rose angina, quantitative coronary angiography diameter stenosis was 61% (Q1-Q3: 49%-74%), stress echocardiography score was 1.0 (Q1-Q3: 0.0-2.7), fractional flow reserve was 0.63 (Q1-Q3: 0.49-0.75), and instantaneous wave-free ratio was 0.78 (Q1-Q3: 0.55-0.87). There was little relationship between symptom severity and nature and disease severity: angina&#xa0;symptom score with quantitative coronary angiography ordinal correlation coefficient: 0.06 (95% credible interval [CrI]: 0.00-0.08); stress echocardiography: 0.09 (95% CrI: 0.02-0.10); fractional flow reserve: 0.04 (95%&#xa0;CrI:&#xa0;-0.03 to 0.07); and instantaneous wave-free ratio: 0.04 (95% CrI:&#xa0;-0.01 to 0.07). However, Rose angina and&#xa0;guideline-based typical angina were strong predictors of placebo-controlled PCI efficacy (angina symptom score: OR: 1.9; 95% CrI: 1.6-2.1; probability of interaction [Pr]&#xa0;=&#xa0;99.9%; and OR: 1.8; 95% CrI: 1.6-2.1; Pr&#xa0;=&#xa0;99.9%, respectively). Although symptom severity and nature were poorly associated with disease severity, the nature of symptoms powerfully predicted the placebo-controlled efficacy of PCI.
+The aim is to compare the effects of the progressive training program (PTP), a new protocol, with two different hybrid telerehabilitation methods, on the parameters related to urinary incontinence in women with urinary incontinence. A total of 50 participants with stress or mixed urinary incontinence participated in this two-arm, parallel-group, randomized, non-inferiority trial. Individual hybrid training (IHT) or group hybrid training (GHT) was given to women for 8&#xa0;weeks. The Power, Endurance, Repetitions, Fast contractions, and Every Contraction Timed (PERFECT) scheme and surface electromyography were used to assess pelvic floor muscle function, whereas quality of life, exercise adherence, and symptoms were assessed by questionnaires and a 3-day bladder diary. An intention-to-treat analysis was performed. Linear mixed model analysis with the factors "time" and "group" was used to determine the effects of IHT and GHT. The primary outcome was changes in pelvic floor muscle function as evaluated using the PERFECT scheme and surface electromyography at the 4th and 8th weeks relative to baseline. No statistical difference was found between the groups except for "power" of the PERFECT scheme and "nocturnal urination frequency" (p&#x2009;>&#x2009;0.05). The GHT showed significant improvement in P and nocturnal urination frequency at the end of the 8th week (p&#x2009;<&#x2009;0.05). From baseline to week 8, the effect size for the P value was found to be small (Cohen's d&#x2009;=&#x2009;0.33). Eight&#xa0;weeks of PTP did not lead to different results in incontinence-related parameters in either of the training methods. It may be better to conduct GHT in terms of implementing PTP in incontinence and training programs in terms of time, staff workload, and applicability.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jacc.2024.04.016
+- DOI: 10.1007/s00192-024-05808-1
 
 2. Keywords
-- percutaneous coronary intervention
-- stable angina
-- stable coronary artery disease
+- Pelvic floor
+- Surface electromyography
+- Telerehabilitation
+- Urinary incontinence
+- Video conferencing
 
 3. Key Findings
-- Placebo-controlled evidence from ORBITA-2 (Objective Randomised Blinded Investigation with Optimal Medical Therapy of Angioplasty in Stable Angina-2) found that percutaneous coronary intervention (PCI) in stable coronary artery disease with little or no antianginal medication relieved angina, but residual symptoms persisted in many patients
+- No statistical difference was found between the groups except for "power" of the PERFECT scheme and "nocturnal urination frequency" (p&#x2009;>&#x2009;0
+- The GHT showed significant improvement in P and nocturnal urination frequency at the end of the 8th week (p&#x2009;<&#x2009;0
+- From baseline to week 8, the effect size for the P value was found to be small (Cohen's d&#x2009;=&#x2009;0
 
 This study provides insights into:
-- percutaneous coronary intervention assessment methods and outcomes
-- stable angina assessment methods and outcomes
-- stable coronary artery disease assessment methods and outcomes
+- Pelvic floor assessment methods and outcomes
+- Surface electromyography assessment methods and outcomes
+- Telerehabilitation assessment methods and outcomes

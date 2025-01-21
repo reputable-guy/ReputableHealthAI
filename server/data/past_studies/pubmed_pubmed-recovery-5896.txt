@@ -1,26 +1,26 @@
-Study Title: Rapid Intravenous Glyceryl Trinitrate in Ischemic Damage (RIGID): A potential neuroprotection strategy for acute ischemic stroke (AIS) patients.
+Study Title: Long-term remission and survival in patients with relapsed or refractory multiple myeloma after treatment with LCAR-B38M CAR T cells: 5-year follow-up of the LEGEND-2 trial.
 
 Study Summary:
-Despite advances in intravenous thrombolysis and endovascular thrombectomy, numerous acute ischemic stroke survivors continue to experience various disability levels. The nitric oxide (NO) donor, Glyceryl Trinitrate (GTN), has been identified as a potential neuroprotective agent against ischemic damage. We evaluated the safety and feasibility of intravenous GTN in AIS patients. Subsequently, we conducted a secondary analysis to assess for possible efficacy of GTN as a neuroprotectant. We conducted a prospective, double-blind, randomized controlled trial in the Stroke Intervention & Translational Center (SITC) in Beijing Luhe Hospital, Capital Medical University (ChiCTR2100046271). AIS patients within 24&#xa0;h of stroke onset were evenly divided into GTN or control groups (n&#xa0;=&#xa0;20 each). The GTN group received intravenous GTN (5&#xa0;mg in 50&#xa0;ml saline at a rate of 0.4&#xa0;mg/h for 12.5&#xa0;h/day over 2 days), while controls were administered an equivalent volume of 0.9% saline. Both groups followed standard Stroke Guidelines for treatment. Safety measures focused on SBP<110&#xa0;mmHg and headache occurrence. Efficacy was assessed via the 90-day modified rankin score (mRS) and the national institutes of health stroke score (NIHSS). Of the 40 AIS patients, baseline characteristics such as age, gender, risk factors, and pre-mRS scores showed no significant difference between the groups. Safety measures of SBP<110&#xa0;mmHg and headache occurrence were comparable. Overall, 90-day mRS (1 vs. 1) and NIHSS (1 vs. 1) did not significantly differ between groups. However, the GTN-treated group had a benefit in enhancing NIHSS recovery (&#x25b3;NIHSS 4.5 vs. 3, p&#xa0;=&#xa0;0.028), indicating that GTN may augment recovery. Subgroup analyses revealed a benefit in the GTN group at the 90-day NIHSS score and &#x25b3;NIHSS follow up for non-thrombolysis patients (1 vs. 2, p&#xa0;=&#xa0;0.016; 5 vs. 2, p&#xa0;=&#xa0;0.001). Moreover, the GTN group may benefit mild stroke patients in NIHSS score at 90 day and &#x25b3;NIHSS observed at 90 days (1 vs. 1, p&#xa0;=&#xa0;0.025; 3 vs. 2 p&#xa0;=&#xa0;0.002). Overall, while preliminary data suggest GTN might aid recovery in NIHSS improvement, the evidence is tempered due to sample size limitations. The RIGID study confirms the safety and feasibility of intravenous GTN administration for AIS patients. Preliminary data also suggest that the GTN group may provide improvement in NIHSS recovery compared to the control group. Furthermore, a potential benefit for non-thrombolysis patients and those with mild stroke symptoms was identified, suggesting a possible potential role as a tailored intervention in specific AIS subgroups. Due to the limited sample size, further larger RCT will be necessary to replicate these results. TRIAL REGISTRATION: www.chictr.org.cn, identifier: ChiCTR2100046271.
+The autologous anti-B-cell maturation antigen (BCMA) chimeric antigen receptor (CAR) T-cell therapy LCAR-B38M has been approved for the treatment of relapsed and refractory multiple myeloma in many countries across the world under the name ciltacabtagene autoleucel. LEGEND-2 was the first-in-human trial of LCAR-B38M and yielded deep and durable therapeutic responses. Here, we reported the outcomes in LEGEND-2 after a minimal 5-year follow-up. Participants received an average dose of 0.5&#x2009;&#xd7;&#x2009;10cells/kg LCAR-B38M in split or single unfractionated infusions after cyclophosphamide-based lymphodepletion therapy. Investigator-assessed response, survival, safety and pharmacokinetics were evaluated. Seventy-four participants enrolled and had a median follow-up of 65.4 months. The 5-year progression-free survival (PFS) and overall survival (OS) rates were 21.0% and 49.1%, with progressive flattening of the survival curves over time. Patients with complete response (CR) had longer PFS and OS, with 5-year rates of 28.4% and 65.7%, respectively. Twelve patients (16.2%) remained relapse-free irrespective of baseline high-risk cytogenetic abnormality and all had normal humoral immunity reconstituted. An ongoing CR closely correlated with several prognostic baseline indices including favorable performance status, immunoglobulin G subtype, and absence of extramedullary disease, as well as a combination cyclophosphamide and fludarabine preconditioning strategy. Sixty-two (83.8%) suffered progressive disease (PD) and/or death; however, 61.1% of PD patients could well respond to subsequent therapies, among which, the proteasome inhibitor-based regimens benefited the most. Concerning the safety, hematologic and hepatic function recovery were not significantly different between non-PD and PD/Death groups. A low rate of second primary malignancy (5.4%) and no severe virus infection were observed. The patients who tested positive for COVID-19 merely presented self-limiting symptoms. In addition, a sustainable CAR T population of one case with persistent remission was delineated, which was enriched with indolently proliferative and lowly cytotoxic CD4/CD8 double-negative functional T lymphocytes. These data, representing the longest follow-up of BCMA-redirected CAR T-cell therapy to date, demonstrate long-term remission and survival with LCAR-B38M for advanced myeloma. LEGEND-2 was registered under the trial numbers NCT03090659, ChiCTRONH-17012285.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.neurot.2024.e00365
+- DOI: 10.1186/s13045-024-01530-z
 
 2. Keywords
-- Intravenous thrombolysis
-- Neuroprotection
-- Nitric oxide
-- Randomized controlled trial
+- CAR T-cell therapy
+- LCAR-B38M
+- Long-persisting CAR T cell
+- Long-term follow-up
+- Relapsed and refractory multiple myeloma
 
 3. Key Findings
-- Of the 40 AIS patients, baseline characteristics such as age, gender, risk factors, and pre-mRS scores showed no significant difference between the groups
-- Subgroup analyses revealed a benefit in the GTN group at the 90-day NIHSS score and &#x25b3;NIHSS follow up for non-thrombolysis patients (1 vs
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Intravenous thrombolysis assessment methods and outcomes
-- Neuroprotection assessment methods and outcomes
-- Nitric oxide assessment methods and outcomes
+- CAR T-cell therapy assessment methods and outcomes
+- LCAR-B38M assessment methods and outcomes
+- Long-persisting CAR T cell assessment methods and outcomes

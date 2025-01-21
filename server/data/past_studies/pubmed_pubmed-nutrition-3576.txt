@@ -1,30 +1,26 @@
-Study Title: Feasibility of Telehealth and Innovative Technologies to Limit Excessive Gestational Weight Gain.
+Study Title: Impact of a video-based nutrition education program on the nutrition knowledge of students and parents: evidence from the North Region of Cameroon.
 
 Study Summary:
-To test the feasibility of using telehealth to deliver nutritional counseling by tracking gestational weight gain remotely using Bluetooth weight scales. Quasi-experimental feasibility study. One-on-one nutritional counseling was conducted remotely via a telehealth platform using a registered dietitian. Twenty-nine pregnant individuals ages 18 years or older, between 12 and 27&#xa0;weeks' gestation, with a prepregnancy body mass index of&#xa0;&#x2265;30&#xa0;kg/m, singleton fetus, and English proficiency were recruited for the study. Among the 29 potential participants, 20 completed the initial survey and met the criteria; 11 completed the study. This study tested the feasibility of using telehealth to deliver nutritional counseling for 30 minutes, once a week, for 6&#xa0;weeks. Self-weighing was tracked through a preconfigured Bluetooth scale given to study participants that enabled weight data to be automatically uploaded each time the scale was used. Among the 11 study participants receiving Bluetooth scales, adherence to self-weighing was high (81%). All five participants randomized to nutritional counseling found that telehealth visits with a registered dietitian were easy to use and helpful. Although participants who received nutritional counseling gained 2.5 lb less than those who did not receive nutritional counseling (p&#xa0;= .523), there was no significant difference between the intervention group and historical control individuals (p&#xa0;= .716). Incorporating telehealth for nutrition counseling and accurate remote weight data collection may be part of a comprehensive strategy to address gestational weight gain in high-risk pregnant populations. Further research with larger samples is needed.
+Schools are an attractive platform for improving the dietary knowledge, attitudes and behaviors of children and their families, yet limited nutrition knowledge amongst educators can impede nutrition education efforts. Information and communication technology (ICT) can potentially overcome this barrier, yet there is limited evidence for its effectiveness in school settings in low- and middle-income countries. We implemented a randomized field experiment in 50 schools in the North Region of Cameroon to assess the effectiveness of a school-based nutrition education program at improving the nutrition knowledge of fifth and sixth grade students and their parents. We evaluate the relative effectiveness of video-based versus typical classroom instruction. Nutrition knowledge is assessed using a pre-post questionnaire and analyzed using analysis of covariance. We find that students exposed to the video treatment improved their nutrition knowledge scores by 0.45 standard deviation more (equivalent to an additional 1.3 out of 14 correct answers) than students that received traditional classroom instruction. There is no differential impact of video on the nutrition knowledge scores of parents. Videos can improve knowledge gains compared with typical classroom instruction, but questions remain as to the conditions under which videos and other ICT are most effective as instructional tools.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.nwh.2023.08.002
+- DOI: 10.1177/17579759231206795
 
 2. Keywords
-- BMI
-- body mass index
-- gestational weight gain
-- nutritional counseling
-- obesity
-- pregnancy
-- registered dietitian
-- self-monitoring
-- telehealth
+- Africa
+- education (including health education)
+- evaluation
+- nutrition
+- school setting
 
 3. Key Findings
-- All five participants randomized to nutritional counseling found that telehealth visits with a registered dietitian were easy to use and helpful
+- Findings extraction requires manual review
 
 This study provides insights into:
-- BMI assessment methods and outcomes
-- body mass index assessment methods and outcomes
-- gestational weight gain assessment methods and outcomes
+- Africa assessment methods and outcomes
+- education (including health education) assessment methods and outcomes
+- evaluation assessment methods and outcomes

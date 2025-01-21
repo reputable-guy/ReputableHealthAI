@@ -1,26 +1,27 @@
-Study Title: Where's the Joy in That? Sexual Minority College Students Report Lower Physical Activity Engagement and Enjoyment Compared to Heterosexual Students.
+Study Title: Effects of combined aerobic and resistance training on the inflammatory profile of children with overweight/obesity: A randomized clinical trial.
 
 Study Summary:
-Sexual minority (e.g. non-heterosexual) individuals are at greater risk for negative health outcomes, often linked to inadequate physical activity (PA). The purpose of this study was to assess PA levels and PA enjoyment among college students, by sexual orientation. Data were collected from a volunteer sample of college students enrolled in general health and wellness courses offered at a large, Northeastern U.S. university via an online survey. Participants self-reported demographic information, PA levels using the Global Physical Activity Questionnaire (GPAQ), and PA enjoyment using a 7-item Physical Activity Enjoyment scale (PACES). Among participants (&#x2009;=&#x2009;1471), independent sample t-tests showed that sexual minority (SM) students reported significantly lower mean MET-mins/week of MPA (568.09&#x2009;&#xb1;&#x2009;488.12 vs.&#x2009;=&#x2009;469.95&#x2009;&#xb1;&#x2009;471.51;&#x2009;=&#x2009;.006) and VPA (1089.54&#x2009;&#xb1;&#x2009;1110.64 vs.&#x2009;=&#x2009;628.93&#x2009;&#xb1;&#x2009;942.78;&#x2009;<&#x2009;.001), ST days/week (1.93&#x2009;&#xb1;&#x2009;1.90 vs.&#x2009;=&#x2009;1.00&#x2009;&#xb1;&#x2009;1.60;&#x2009;<&#x2009;.001), and reported lower total PACES score (7.80&#x2009;&#xb1;&#x2009;1.92 vs.&#x2009;=&#x2009;6.87&#x2009;&#xb1;&#x2009;2.14;&#x2009;<&#x2009;.001) compared to heterosexual students. Bootstrap mediation analyses with 5000 samples revealed that PACES has direct and indirect mediation effects on the association between sexual orientation status and MET-mins/week of MPA and VPA, and ST days/week. The current findings provide evidence of the underlying mechanisms linked to the physical activity disparities experienced by SM college students compared to heterosexual students. Additionally, PACES can serve as a facilitator to promote PA engagement among SM students. These findings can inform future intervention work to target PA enjoyment for meaningful behavior change.
+We assessed the effects of a 20-week combined (aerobic and resistance) exercise training programme on the inflammatory profile of prepubertal children with overweight or obesity. Totally 109 participants (10.1&#x2009;&#xb1;&#x2009;1.1&#x2009;years, 41% girls) were randomly allocated to an exercise or control group. Adiponectin, C-reactive protein, epidermal growth factor, insulin-like growth factor-1, interleukin (IL)-1&#x3b2;, IL-6, leptin, tumour necrosis factor-&#x3b1; and vascular endothelial growth factor A (VEGFA) were analysed in plasma. Total white blood cell (WBC) count and immune subpopulations (eosinophils, basophils, neutrophils, lymphocytes and monocytes) were also determined. No intervention effect was found for any of the analysed biomarkers (all p&#x2009;&#x2265;&#x2009;0.05). We observed a significant sex by intervention interaction for IL-1&#x3b2; (p&#x2009;=&#x2009;0.03). When stratifying the sample by sex, the exercise programme induced a significant effect on IL-1&#x3b2; levels (mean Z-score difference, 0.66 [95% confidence interval 0.32-1.01]) in girls, but not in boys. A lower number of girls in the exercise group showed a meaningful reduction in IL-1&#x3b2; (i.e., &#x2265;0.2 standard deviations) than in the control group (15% vs. 85%, p&#x2009;=&#x2009;0.01). This exercise programme failed to improve the inflammatory profile in prepubertal children with overweight/obesity. Future studies should explore the effect of longer exercise interventions and in combination with diet.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/02701367.2024.2383944
+- DOI: 10.1111/ijpo.13152
 
 2. Keywords
-- Exercise
-- LGBTQ
-- mediation
-- young adult
+- adipokines
+- cytokines
+- growth factors
+- physical exercise
+- youth
 
 3. Key Findings
-- Among participants (&#x2009;=&#x2009;1471), independent sample t-tests showed that sexual minority (SM) students reported significantly lower mean MET-mins/week of MPA (568
-- Bootstrap mediation analyses with 5000 samples revealed that PACES has direct and indirect mediation effects on the association between sexual orientation status and MET-mins/week of MPA and VPA, and ST days/week
+- No intervention effect was found for any of the analysed biomarkers (all p&#x2009;&#x2265;&#x2009;0
+- A lower number of girls in the exercise group showed a meaningful reduction in IL-1&#x3b2; (i
 
 This study provides insights into:
-- Exercise assessment methods and outcomes
-- LGBTQ assessment methods and outcomes
-- mediation assessment methods and outcomes
+- adipokines assessment methods and outcomes
+- cytokines assessment methods and outcomes
+- growth factors assessment methods and outcomes

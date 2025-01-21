@@ -1,20 +1,25 @@
-Study Title: Iadademstat in combination with azacitidine in patients with newly diagnosed acute myeloid leukaemia (ALICE): an open-label, phase 2a dose-finding study.
+Study Title: Erector spinae plane block versus paravertebral block on postoperative quality of recovery in obese patients undergoing laparoscopic sleeve gastrectomy: a randomized controlled trial.
 
 Study Summary:
-Iadademstat is a potent, selective, oral inhibitor of both the enzymatic and scaffolding activities of the transcriptional repressor lysine-specific demethylase 1 (LSD1; also known as KDM1A) that showed promising early activity and safety in a phase 1 trial and strong preclinical synergy with azacitidine in acute myeloid leukaemia cell lines. Therefore, we aimed to investigate the combination of iadademstat and azacitidine for the treatment of adult patients with newly diagnosed acute myeloid leukaemia. The open-label, phase 2a, dose-finding ALICE study was conducted at six hospitals in Spain and enrolled patients aged 18 years or older with newly diagnosed acute myeloid leukaemia not eligible for intensive chemotherapy and an ECOG performance status of 0-2. In the dose escalation portion of the trial, patients received a starting dose of iadademstat at 90 &#x3bc;g/mper day (with de-escalation to 60 &#x3bc;g/mper day and escalation up to 140 &#x3bc;g/mper day) orally, for 5 days on, 2 days off weekly, with azacitidine 75 mg/msubcutaneously, for seven of 28 days. The primary objectives were safety (analysed in the safety analysis set; all patients who received at least one dose of study treatment) and establishing the recommended phase 2 dose; secondary objectives included response rates in the efficacy analysis set (all patients who had at least one efficacy assessment). This study is registered on EudraCT (EudraCT 2018-000482-36) and has been completed. Between Nov 12, 2018, and Sept 30, 2021, 36 patients with newly diagnosed acute myeloid leukaemia were enrolled; the median age was 76 (IQR 74-79) years, all patients were White, 18 (50%) were male, and 18 (50%) were female, and all had intermediate-risk or adverse-risk acute myeloid leukaemia. The median follow-up was 22 (IQR 16-31) months. The most frequent (&#x2265;10%) adverse events considered to be related to treatment were decreases in platelet (25 [69%]) and neutrophil (22 [61%]) counts (all grade 3-4) and anaemia (15 [42%]; of which ten [28%] were grade 3-4). Three patients had treatment-related serious adverse events (one fatal grade 5 intracranial haemorrhage, one grade 3 differentiation syndrome, and one grade 3 febrile neutropenia). Based on safety, pharmacokinetic and pharmacodynamic data, and efficacy, the recommended phase 2 dose of iadademstat was 90 &#x3bc;g/mper day with azacitidine. 22 (82%; 95% CI 62-94) of 27 patients in the efficacy analysis set had an objective response. 14 (52%) of 27 patients had complete remission or complete remission with incomplete haematological recovery; of these, ten of 11 evaluable for measurable residual disease achieved negativity. In the safety analysis set, 22 (61%) of 36 patients had an objective response. The combination of iadademstat and azacitidine has a manageable safety profile and shows promising responses in patients with newly diagnosed acute myeloid leukaemia, including those with high-risk prognostic factors. Oryzon Genomics and Spain's Ministerio de Ciencia, Innovacion y Universidades (MICIU)-Agencia Estatal de Investigacion (AEI).
+To compare the impact of erector spinae plane block (ESPB) and paravertebral block (PVB) on the quality of postoperative recovery (QoR) of patients following laparoscopic sleeve gastrectomy (LSG). A total of 110 patients who underwent elective LSG under general anesthesia were randomly assigned to receive either ultrasound-guided bilateral ESPB or PVB at T8 levels. Before anesthesia induction, 40 mL of 0.33% ropivacaine was administered. The primary outcome was the QoR-15 score at 24 hours postoperatively. At 24 hours postoperatively, the QoR-15 score was comparable between the ESPB and PVB groups (131 (112-140)124 (111-142.5),&#xa0;=&#xa0;0.525). Consistently, there was no significant difference in QoR-15 scores at 48 hours postoperatively, numerical rating scale (NRS) pain scores at any postoperative time points, time to first ambulation, time to first anal exhaust, postoperative cumulative oxycodone consumption, and incidence of postoperative nausea and vomiting (PONV) between the two groups (all&#xa0;>&#xa0;0.05). No nerve block-related complications were observed in either group. In patients undergoing LSG, preoperative bilateral ultrasound-guided ESPB yields comparable postoperative recovery to preoperative bilateral ultrasound-guided PVB.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/S2352-3026(24)00132-7
+- DOI: 10.7717/peerj.17431
 
 2. Keywords
-
+- Erector spinae plane block
+- Laparoscopic sleeve gastrectomy
+- Paravertebral block
+- Quality of recovery
 
 3. Key Findings
-- Iadademstat is a potent, selective, oral inhibitor of both the enzymatic and scaffolding activities of the transcriptional repressor lysine-specific demethylase 1 (LSD1; also known as KDM1A) that showed promising early activity and safety in a phase 1 trial and strong preclinical synergy with azacitidine in acute myeloid leukaemia cell lines
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Erector spinae plane block assessment methods and outcomes
+- Laparoscopic sleeve gastrectomy assessment methods and outcomes
+- Paravertebral block assessment methods and outcomes

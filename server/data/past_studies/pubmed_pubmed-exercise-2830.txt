@@ -1,26 +1,26 @@
-Study Title: Effectiveness of Hybrid Form Impulse Therapy (HFIT) Compared to Traditional Transcutaneous Electronic Nerve Stimulation (TENS) in Patients with Chronic Low Back and Knee Pain: A Randomized Controlled Trial.
+Study Title: Assessing the Impact of Non-Exhaust Emissions on the Asthmatic Airway (IONA) Protocol for a Randomised Three-Exposure Crossover Study.
 
 Study Summary:
-Physical therapy (PT) and conservative care are recommended first-line treatments for musculoskeletal (MSK) pain. While essential to high-quality care, these solutions often do not provide immediate or sufficient pain relief. Traditional transcutaneous electronic nerve stimulation (TENS) devices are often recommended; however, there is mixed evidence behind their effectiveness. A novel approach called hybrid form impulse therapy (HFIT) incorporates a priming pulse with a traditional TENS pulse width and frequency. This randomized controlled trial (RCT) aimed to compare the effectiveness of HFIT versus traditional TENS versus usual care among members of a digital MSK program. A three-arm RCT comparing HFIT versus TENS versus usual care was conducted. A total of 325 people with chronic back or knee pain who were members of a digital MSK program consisting of PT-guided exercise therapy, education, and coaching were randomized. Outcomes including pain, function, anxiety, and depression were examined at 1, 2, and 4 weeks (primary endpoint). Engagement was measured through exercise therapy (ET) sessions completed. Unadjusted and adjusted logistic generalized estimating equations were conducted. Adjusted per-protocol results at 4 weeks showed significantly lower odds of achieving pain improvement for both TENS (OR: 0.42, 95% CI: [0.19, 0.92]) and usual care (OR: 0.35, 95% CI: [0.17, 0.72]) groups, compared to HFIT group. Both HFIT and usual care users had significantly higher engagement than the TENS users (p=0.026 and p=0.002, respectively). No adverse events were reported throughout the study. More participants of a digital MSK program who were randomized to the HFIT group experienced meaningful pain improvement at 4 weeks than participants who used TENS and usual care. HFIT can be an effective, non-pharmaceutical solution for relief as a complement to first-line treatments for patients with chronic back and knee pain.
+People living with asthma are disproportionately affected by air pollution, with increased symptoms, medication usage, hospital admissions, and the risk of death. To date, there has been a focus on exhaust emissions, but traffic-related air pollution (TRAP) can also arise from the mechanical abrasion of tyres, brakes, and road surfaces. We therefore created a study with the aim of investigating the acute impacts of non-exhaust emissions (NEEs) on the lung function and airway immune status of asthmatic adults. A randomised three-condition crossover panel design will expose adults with asthma using a 2.5 h intermittent cycling protocol in a random order at three locations in London, selected to provide the greatest contrast in the NEE components within TRAP. Lung function will be monitored using oscillometry, fractional exhaled nitric oxide, and spirometry (the primary outcome is the forced expiratory volume in one second). Biomarkers of inflammation and airborne metal exposure will be measured in the upper airway using nasal lavage. Symptom responses will be monitored using questionnaires. Sources of exhaust and non-exhaust concentrations will be established using source apportionment via the positive matrix factorisation of high-time resolution chemical measures conducted at the exposure sites. Collectively, this study will provide us with valuable information on the health effects of NEE components within ambient PMand PM, whilst establishing a biological mechanism to help contextualise current epidemiological observations.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/JPR.S461343
+- DOI: 10.3390/ijerph21070895
 
 2. Keywords
-- HFIT
-- chronic pain
-- neuromodulation
-- noninvasive treatment
-- pain
+- air pollution
+- exercise
+- public health
+- traffic
+- wheeze
 
 3. Key Findings
-- Adjusted per-protocol results at 4 weeks showed significantly lower odds of achieving pain improvement for both TENS (OR: 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- HFIT assessment methods and outcomes
-- chronic pain assessment methods and outcomes
-- neuromodulation assessment methods and outcomes
+- air pollution assessment methods and outcomes
+- exercise assessment methods and outcomes
+- public health assessment methods and outcomes

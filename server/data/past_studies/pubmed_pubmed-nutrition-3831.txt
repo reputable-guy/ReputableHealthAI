@@ -1,25 +1,25 @@
-Study Title: Improving Adherence to a Mediterranean Ketogenic Nutrition Program for High-Risk Older Adults: A Pilot Randomized Trial.
+Study Title: Infants Fed Breastmilk or 2'-FL Supplemented Formula Have Similar Systemic Levels of Microbiota-Derived Secondary Bile Acids.
 
 Study Summary:
-(1) Background: Mediterranean ketogenic nutrition (MKN) may directly target multiple neurobiological mechanisms associated with dementia risk in older adults. Despite its promise, this type of nutrition can be challenging to learn and adhere to in a healthy manner. Our team used the National Institutes of Health Obesity Related Behavioral Intervention Trials (NIH ORBIT) model to develop and pilot a program to help older adults with memory concerns use MKN. (2) Methods: Using a two-arm, randomized design, we evaluated an MKN Adherence (MKNA) program compared to an MKN education (MKNE) program (= 58). The primary difference between study arms involved the use of motivational interviewing (MI) strategies and behavior change techniques (BCT) only in the MKNA arm. Participants were included if they evidenced subjective memory concerns or objective memory impairment on the Montreal Cognitive Assessment (Score 19 &#x2264; 26). Primary outcomes examined included feasibility, acceptability, adherence, and clinical outcomes associated with the program. (3) Results: Overall, there was relatively high program completion in both groups, with 79% of participants completing the 6-week program. The recruitment protocol required adjustment but was successful in reaching the target sample size. Retention (82%) and session attendance (91%) were higher in the MKNA arm compared to the MKNE (retention = 72%; attendance = 77%). Overall, most participants in both groups rated the program as "excellent" using the client satisfaction questionnaire. Participants in the MKNA arm evidenced higher objective and self-reported adherence to MKN during the 6-week program. Further, there was some evidence of clinical benefits of the program, although these effects diminished as adherence decreased in the 3 months follow-up. (4) Discussion: This pilot trial demonstrated that the MKN program incorporating MI and BCT strategies may better engage and retain participants than a nutrition education program alone, although participants in both groups reported high satisfaction.
+Human milk represents an optimal source of nutrition during infancy. Milk also serves as a vehicle for the transfer of growth factors, commensal microbes, and prebiotic compounds to the immature gastrointestinal tract. These immunomodulatory and prebiotic functions of milk are increasingly appreciated as critical factors in the development of the infant gut and its associated microbial community. Advances in infant formula composition have sought to recapitulate some of the prebiotic and immunomodulatory functions of milk through human milk oligosaccharide (HMO) fortification, with the aim of promoting healthy development both within the gastrointestinal tract and systemically. Our objective was to investigate the effects of feeding formulas supplemented with the HMO 2'-fucosyllactose (2'-FL) on serum metabolite levels relative to breastfed infants. A prospective, randomized, double-blinded, controlled study of infant formulas (64.3 kcal/dL) fortified with varying levels of 2'-FL and galactooligosaccharides (GOS) was conducted [0.2 g/L 2'-FL + 2.2 g/L GOS; 1.0 g/L 2'-FL + 1.4 g/L GOS]. Healthy singleton infants age 0-5 days and with birth weight > 2490 g were enrolled (= 201). Mothers chose to either exclusively formula-feed or breastfeed their infant from birth to 4 months of age. Blood samples were drawn from a subset of infants at 6 weeks of age (= 35-40 per group). Plasma was evaluated by global metabolic profiling and compared to a breastfed reference group (HM) and a control formula (2.4 g/L GOS). Fortification of control infant formula with the HMO 2'-FL resulted in significant increases in serum metabolites derived from microbial activity in the gastrointestinal tract. Most notably, secondary bile acid production was broadly increased in a dose-dependent manner among infants receiving 2'-FL supplemented formula relative to the control formula. 2'-FL supplementation increased secondary bile acid production to levels associated with breastfeeding. Our data indicate that supplementation of infant formula with 2'-FL supports the production of secondary microbial metabolites at levels comparable to breastfed infants. Thus, dietary supplementation of HMO may have broad implications for the function of the gut microbiome in systemic metabolism. This trial was registered at with the U.S. National library of Medicine as NCT01808105.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15102329
+- DOI: 10.3390/nu15102339
 
 2. Keywords
-- Mediterranean
-- diet
-- ketogenic
-- nutrition
+- breastfeeding
+- human milk oligosaccharide
+- metabolomics
+- pediatric nutrition
 
 3. Key Findings
-- (4) Discussion: This pilot trial demonstrated that the MKN program incorporating MI and BCT strategies may better engage and retain participants than a nutrition education program alone, although participants in both groups reported high satisfaction
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Mediterranean assessment methods and outcomes
-- diet assessment methods and outcomes
-- ketogenic assessment methods and outcomes
+- breastfeeding assessment methods and outcomes
+- human milk oligosaccharide assessment methods and outcomes
+- metabolomics assessment methods and outcomes

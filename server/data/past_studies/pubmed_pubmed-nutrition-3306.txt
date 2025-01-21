@@ -1,26 +1,28 @@
-Study Title: An Egg Intervention Improves Ponderal But Not Linear Growth Among Infants 6-12 mo of Age in Rural Bangladesh.
+Study Title: The impact of healthy nutrition education based on traffic light labels on food selection, preference, and consumption in patients with acute coronary syndrome: a randomized clinical trial.
 
 Study Summary:
-Animal source foods are rich in multiple nutrients. Regular egg consumption may improve infant growth in low- and middle-income countries. To assess the impact of daily egg consumption on linear growth among 6-12-mo olds in rural Bangladesh. We conducted a 2 &#xd7; 4 factorial cluster-randomized controlled trial allocating clusters (n = 566) to treatment for enteric pathogens or placebo and a daily egg, protein supplement, isocaloric supplement, or control. All arms received nutrition education. Here, we compare the effect of the egg intervention versus control on linear growth, a prespecified aim of the trial. Infants were enrolled at 3 mo. We measured length and weight at 6 and 12 mo and visited households weekly to distribute eggs and monitor compliance. We used linear regression models to compare 12-mo mean length, weight, and z-scores for length-for-age (LAZ), weight-for-length, and weight-for-age (WAZ), and log-binomial or robust Poisson regression to compare prevalence of stunting, wasting, and underweight between arms. We used generalized estimating equations to account for clustering and adjusted models for baseline measures of outcomes. We enrolled 3051 infants (n = 283 clusters) across arms, with complete 6 and 12 mo anthropometry data from 1228 infants (n = 142 clusters) in the egg arm and 1109 infants (n = 141 clusters) in the control. At baseline, 18.5%, 6.0%, and 16.4% were stunted, wasted, and underweight, respectively. The intervention did not have a statistically significant effect on mean LAZ (&#x3b2;: 0.05, 95% confidence interval [CI]: -0.01, 0.10) or stunting prevalence (&#x3b2;: 0.98, 95% CI: 0.89, 1.13) at 12 mo. Mean weight (&#x3b2;: 0.07 kg, 95% CI: 0.02, 0.11) and WAZ (&#x3b2;: 0.06, 95% CI: 0.02, 0.11) were significantly higher in the egg compared with control arms. Provision of a daily egg for 6 mo to infants in rural Bangladesh improved ponderal but not linear growth. NCT03683667, https://clinicaltrials.gov/ct2/show/NCT03683667.
+Acute Coronary Syndrome is the most common heart disease and the most significant cause of death and disability-adjusted life years worldwide. Teaching a healthy eating style is one preventive measure to prevent the disease's recurrence. This study aimed to determine the effect of healthy nutrition education with the help of traffic light labels on food selection, preference, and consumption in patients with acute coronary syndrome. This randomized, single-blinded clinical trial was conducted with 139 participants (66 in the intervention group and 73 in the control group) from January 2021 to August 2021 in Shaheed Rajaie Hospital, Tehran, Iran. The control group received standard training. The intervention group, besides this, received additional bedside training with an educational poster on traffic light labels from the research team during their final hospitalization days. Data were collected using a researcher-made questionnaire on food selection, preference, and consumption. The Brunner-Munzel test showed no significant difference between the two groups in terms of selection (P&#x2009;=&#x2009;0.127), preference (P&#x2009;=&#x2009;0.852), and food consumption (P&#x2009;=&#x2009;0.846) in the baseline, while after the intervention, there were significant differences in selection (P&#x2009;>&#x2009;0.001), preference (P&#x2009;>&#x2009;0.001), and consumption (p&#x2009;<&#x2009;0.004). Comparing the difference between the two groups in the difference between the before and after scores for selection (p&#x2009;<&#x2009;0.001), preference (p&#x2009;<&#x2009;0.001), and food consumption (p&#x2009;=&#x2009;0.011) with the Brunner-Munzel test indicated a significant difference in all outcome variables. Teaching healthy eating styles with the help of traffic light labels affected food selection, preference, and consumption and led to healthier diets in these patients. Clinical trial registration: It was prospectively registered in the Iran Clinical Trials Registration Center on this date 30/10/2020 (IRCT20200927048857N1).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.tjnut.2024.05.006
+- DOI: 10.1186/s12889-024-18805-2
 
 2. Keywords
-- Bangladesh
-- animal source foods
-- eggs
-- growth
-- infants
+- Acute coronary syndrome
+- Food consumption
+- Food preference
+- Healthy eating style
+- Healthy food selection
+- Traffic light labels
 
 3. Key Findings
-- Findings extraction requires manual review
+- The Brunner-Munzel test showed no significant difference between the two groups in terms of selection (P&#x2009;=&#x2009;0
+- 011) with the Brunner-Munzel test indicated a significant difference in all outcome variables
 
 This study provides insights into:
-- Bangladesh assessment methods and outcomes
-- animal source foods assessment methods and outcomes
-- eggs assessment methods and outcomes
+- Acute coronary syndrome assessment methods and outcomes
+- Food consumption assessment methods and outcomes
+- Food preference assessment methods and outcomes

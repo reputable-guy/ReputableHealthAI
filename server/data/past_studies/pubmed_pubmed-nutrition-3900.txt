@@ -1,26 +1,26 @@
-Study Title: HIV matters when diagnosing TB in young children: an ancillary analysis in children enrolled in the INPUT stepped wedge cluster randomized study.
+Study Title: Ultra-processed food consumption and BMI-Z among children at risk for obesity from low-income households.
 
 Study Summary:
-Children under age five years, particularly those living with HIV (CLHIV), are at risk for rapid progression of tuberculosis (TB). We aimed to describe TB clinical presentations, diagnostic pathways and treatment outcomes in CLHIV compared to children without HIV in Cameroon and Kenya. This sub-analysis of a cluster-randomized trial evaluating the integration of pediatric TB services from May 2019 to March 2021 enrolled children age&#x2009;<&#x2009;5 years with TB. We estimated the HIV infection rate with 95% confidence interval (CI). We compared TB clinical presentations, diagnostic pathways and treatment outcomes in CLHIV and children without HIV. Finally, we investigated whether HIV infection was associated with a shorter time to TB diagnosis (&#x2264;&#x2009;3 months from symptoms onset) after adjusting for covariates. Univariable and multivariable logistic regression analysis were performed with adjusted odds ratios (AORs) presented as measures of the association of covariates with HIV status and with shorter time to TB diagnosis. We enrolled 157 children with TB (mean age was 1.5 years) and 22/157 (14.0% [9.0-20.4%]) were co-infected with HIV. CLHIV were more likely to initially present with acute malnutrition (AOR 3.16 [1.14-8.71], p&#x2009;=&#x2009;0.027). Most TB diagnoses (140/157, 89%) were made clinically with pulmonary TB being the most common presentation; however, there was weak evidence of more frequent bacteriologic confirmation of TB in CLHIV, 18% vs. 9% (p&#x2009;=&#x2009;0.067), due to the contribution of lateral-flow urine lipoarabinomannan to the diagnosis. HIV positivity (AOR: 6.10 [1.32-28.17], p&#x2009;=&#x2009;0.021) was independently associated with a shorter time to TB diagnosis as well as fatigue (AOR: 6.58 [2.28-18.96], p&#x2009;=&#x2009;0.0005), and existence of a household contact diagnosed with TB (AOR: 5.60 [1.58-19.83], p&#x2009;=&#x2009;0.0075), whereas older age (AOR: 0.35 [0.15-0.85], p&#x2009;=&#x2009;0.020 for age 2-5 years), night sweats (AOR: 0.24 [0.10-0.60], p&#x2009;=&#x2009;0.0022) and acute malnutrition (AOR: 0.36 [0.14-0.92], p&#x2009;=&#x2009;0.034) were associated with a delayed diagnosis. The case fatality rate was 9% (2/22) in CLHIV and 4% (6/135) in children without HIV, p&#x2009;=&#x2009;0.31. These results altogether advocate for better integration of TB services into all pediatric entry points with a special focus on nutrition services, and illustrate the importance of non-sputum-based TB diagnostics especially in CLHIV. NCT03862261, first registration 05/03/2019.
+To evaluate the association between baseline ultra-processed food consumption in early childhood and child BMI Z-score over 36&#x2009;months. We conducted a prospective cohort analysis as a secondary data analysis of the Growing Right Onto Wellness randomised trial. Dietary intake was measured via 24-h diet recalls. The primary outcome was child BMI-Z, measured at baseline and at 3-, 9-, 12-, 24- and 36-month timepoints. Child BMI-Z was modelled using a longitudinal mixed-effects model, adjusting for covariates and stratifying by age. Among 595 children, median (Q1-Q3) baseline age was 4.3 (3.6-5.0) years, 52.3% of the children were female, 65.4% had normal weight, 33.8% were overweight, 0.8% were obese and 91.3% of parents identified as Hispanic. Model-based estimates suggest that, compared with low ultra-processed consumption (300 kcals/day), high ultra-processed intake (1300 kcals/day) was associated with a 1.2 higher BMI-Z at 36&#x2009;months for 3-year-olds (95% CI&#x2009;=&#x2009;0.5, 1.9; p&#x2009;<&#x2009;0.001) and a 0.6 higher BMI-Z for 4-year-olds (95% CI&#x2009;=&#x2009;0.2, 1.0; p&#x2009;=&#x2009;0.007). The difference was not statistically significant for 5-year-olds or overall. In 3- and 4-year-old children, but not in 5-year-old children, high ultra-processed food intake at baseline was significantly associated with higher BMI-Z at 36-month follow-up, adjusting for total daily kcals. This suggests that it might not be only the total number of calories in a child's daily intake that influences child weight status, but also the number of calories from ultra-processed foods.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1186/s12879-023-08216-w
+- DOI: 10.1111/ijpo.13037
 
 2. Keywords
-- Case finding
-- HIV
-- Malnutrition
-- Pediatrics
-- Tuberculosis
+- childhood obesity
+- cohort study
+- nutrition
+- racial and ethnic minority groups
+- ultra-processed foods
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Case finding assessment methods and outcomes
-- HIV assessment methods and outcomes
-- Malnutrition assessment methods and outcomes
+- childhood obesity assessment methods and outcomes
+- cohort study assessment methods and outcomes
+- nutrition assessment methods and outcomes

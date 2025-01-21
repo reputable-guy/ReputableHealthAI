@@ -1,28 +1,28 @@
-Study Title: Fascia Iliaca Block Combined with Low-dose Spinal Anesthesia for Hip Fracture Surgery in the Elderly: Effects on Severe Hypotension and Analgesia. A Randomized Controlled Trial.
+Study Title: Exploring the association between adherence to home-based exercise recommendations and recovery of nonspecific low back pain: a prospective cohort study.
 
 Study Summary:
-Hip fracture surgeries in elderly patients often require spinal or general anesthesia, posing risks of severe hypotension and inadequate pain management. The optimal anesthesia type for minimizing these risks remains undetermined. Preliminary studies suggest that a combination of fascia iliaca block (FIB) and low-dose low-specific-gravity spinal anesthesia (LLSA) might offer a solution, but comprehensive evidence is lacking. This study aimed to assess the efficacy of combining FIB with LLSA for reducing severe hypotension and enhancing analgesia during hip fracture surgery in elderly patients. A prospective, randomized controlled trial was conducted. An operating theatre of a tertiary hospital. The study comprised 68 patients. They were separated into 2 equal parallel groups 34 patients each: the FIB+LLSA group and the general anesthesia (GA) group. Patients aged 75-96 undergoing primary hip arthroplasty for hip fracture were randomized to receive either FIB+LLSA or GA. The primary outcome was the incidence of severe hypotension; secondary outcomes included postoperative pain, use of rescue analgesia, vasopressor dosage, and complications. We found a significantly lower incidence of severe hypotension in the FIB+LLSA group compared to the GA group (32.4% vs 67.6%). Additionally, postoperative pain scores were significantly lower, and the need for rescue analgesia was reduced in the FIB+LLSA group. Vasopressor use during surgery was also significantly lower in the FIB+LLSA group. The hospital stay was shorter in the FIB+LLSA group, with an average of 5.9 days compared to 6.7 days in the GA group. The study's limitations include its single-center nature, which may limit the generalizability of the findings. Additionally, the inability to conduct a double-blind study could introduce biases, though measures were taken to minimize this. The sample size might not be sufficient to determine the broader implications of LLSA. Combining FIB with LLSA for elderly patients undergoing hip fracture surgery significantly reduces the incidence of severe intraoperative hypotension and postoperative pain. It also decreases the need for rescue analgesia and shortens hospital stays, suggesting that FIB+LLSA could be a beneficial regional anesthesia technique for elderly hip fracture surgery patients, aligning with enhanced recovery protocols.
+Adherence to home-based exercise (HBE) recommendations is critical in physiotherapy for patients with low back pain (LBP). However, limited research has explored its connection with clinical outcomes. This study examined how adherence to HBE relates to changes in physical function, pain intensity, and recovery from LBP in patients undergoing physiotherapy treatment. Data from a multicenter cluster randomized controlled trial in the Netherlands involving patients with LBP from 58 primary care physiotherapy practices were used. Adherence to HBE was assessed with the Exercise Adherence Scale (EXAS) at each treatment session. Previously identified adherence trajectories served as a longitudinal measure of adherence and included the classes "declining adherence" (12% of participants), "stable adherence" (45%), and "increasing adherence" (43%). The main outcomes included disability (Oswestry Disability Index), pain (Numeric Pain Rating Scale), and recovery (pain-free for >&#x2009;4 weeks), which were measured at baseline and after three months. Linear and binomial logistic regression analyses adjusted for confounders were used to examine adherence-outcome relationships. In the parent trial, 208 participants were included. EXAS scores were available for 173 participants, collected over a median of 4.0 treatment sessions (IQR 3.0 to 6.0). Forty-five (28.5%) patients considered themselves to have recovered after three months. The median changes in the Oswestry Disability Index and Numeric Pain Rating Scale were -&#x2009;8 (IQR -&#x2009;1 to -20) and -&#x2009;2 (IQR -&#x2009;0.5 to -4), respectively. The mean EXAS scores varied among patient classes: "declining adherence" (46.0, SD 19.4), "stable adherence" (81.0, SD 12.4), and "increasing adherence" (39.9, SD 25.3), with an overall mean of 59.2 (SD 25.3). No associations between adherence and changes in physical functioning or pain were found in the regression analyses. No association between adherence to HBE recommendations and changes in clinical outcomes in patients with LBP was found. These findings suggest that the relationship between adherence to HBE recommendations and treatment outcomes may be more complex than initially assumed. Further research using detailed longitudinal data combined with qualitative methods to investigate patient motivation and beliefs may lead to a deeper understanding of the relationship between adherence and clinical outcomes in patients with LBP.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-
+- DOI: 10.1186/s12891-024-07705-6
 
 2. Keywords
-- anesthesia
-- elderly
-- fascia iliaca block
-- hypotension
-- low-dose spinal anesthesia
-- randomized controlled trial
-- Hip fracture
+- Adherence
+- Disability
+- Exercise
+- Home-based exercise
+- Low back pain
 
 3. Key Findings
-- We found a significantly lower incidence of severe hypotension in the FIB+LLSA group compared to the GA group (32
+- Linear and binomial logistic regression analyses adjusted for confounders were used to examine adherence-outcome relationships
+- No associations between adherence and changes in physical functioning or pain were found in the regression analyses
+- No association between adherence to HBE recommendations and changes in clinical outcomes in patients with LBP was found
 
 This study provides insights into:
-- anesthesia assessment methods and outcomes
-- elderly assessment methods and outcomes
-- fascia iliaca block assessment methods and outcomes
+- Adherence assessment methods and outcomes
+- Disability assessment methods and outcomes
+- Exercise assessment methods and outcomes

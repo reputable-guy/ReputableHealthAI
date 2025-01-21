@@ -1,27 +1,25 @@
-Study Title: Effects of vitamin D3, omega-3s, and a simple strength training exercise program on bone health: the DO-HEALTH randomized controlled trial.
+Study Title: Prevention of Parenteral Nutrition-associated Cholestasis Using Reduced Dose Soybean Lipid Emulsion: A Multicenter Randomized Trial.
 
 Study Summary:
-Evidence on the effects of Vitamin D, omega-3s, and exercise on areal bone mineral density (aBMD) in healthy older adults is limited. We examined whether vitamin D3, omega-3s, or a simple home-based exercise program (SHEP), alone or in combination, over 3 years, improve lumbar spine (LS), femoral neck (FN), or total hip (TH) aBMD assessed by DXA. Areal BMD was a secondary outcome in DO-HEALTH, a 3-year, multicenter, double-blind, randomized 2&#x2009;&#xd7;&#x2009;2&#x2009;&#xd7;&#x2009;2 factorial design trial in generally healthy older adults age&#x2009;&#x2265;&#x2009;70&#xa0;years. The study interventions were vitamin D3 (2000IU/d), omega-3s (1&#xa0;g/d), and SHEP (3&#x2009;&#xd7;&#x2009;30&#xa0;min/wk), applied alone or in combination in eight treatment arms. Mixed effects models were used, adjusting for age, sex, BMI, prior fall, study site, and baseline level of the outcome. Main effects were assessed in the absence of an interaction between the interventions. Subgroup analyses by age, sex, physical activity level, dietary calcium intake, serum 25(OH)D levels, and fracture history were conducted. DXA scans were available for 1493 participants (mean age 75&#xa0;years; 80.4% were physically active, 44% had 25(OH)D levels <20&#xa0;ng/mL). At the LS and FN sites, none of the treatments showed a benefit. At the TH, vitamin D versus no vitamin D treatment showed a significant benefit across 3&#xa0;years (difference in adjusted means [AM]: 0.0035 [95% CI, 0.0011, 0.0059] g/cm). Furthermore, there was a benefit for vitamin D versus no vitamin D treatment on LS aBMD in the male subgroup (interaction P&#x2009;=&#x2009;.003; &#x2206;AM: 0.0070 [95% CI, 0.0007, 0.0132] g/cm). Omega-3s and SHEP had no benefit on aBMD in healthy, active, and largely vitamin D replete older adults. Our study suggests a small benefit of 2000&#xa0;IU vitamin D daily on TH aBMD overall and LS aBMD among men; however, effect sizes were very modest and the clinical impact of these findings is unclear.
+Reducing soybean lipid emulsion (SLE) dose may prevent parenteral nutrition-associated cholestasis (PNAC) but effects on growth and neurodevelopment are unknown. The purpose of this study was to evaluate the effect of reduced dose SLE on growth and neurodevelopment. Surgical neonates at 4 centers were randomized to standard SLE (3&#xa0;g/kg/day) or reduced SLE (1&#xa0;g/kg/day) over a 12-week period. Bilirubin levels and growth parameters were measured baseline and weekly while on study. The effects of time and group on direct bilirubin and growth were evaluated with a linear mixed effects model. Neurodevelopmental outcomes were assessed at 12- and 24-months corrected gestational age. Twenty-one individuals were randomized (standard dose&#xa0;=&#xa0;9, reduced dose&#xa0;=&#xa0;12). Subjects in the reduced dose group had slower rates of direct bilirubin increase and overall levels decreased earlier than those in the standard dose group. There was a trend toward a faster direct bilirubin decrease in the reduced dose group (p&#xa0;=&#xa0;0.07&#xa0;at day 84). There were no differences in the rates of change in weight (p&#xa0;=&#xa0;0.352&#xa0;at day 84) or height Z-scores (p&#xa0;=&#xa0;0.11&#xa0;at day 84) between groups. One subject in the reduced dose group had abnormal neurodevelopmental testing at 24 months. Surgical neonates randomized to a reduced dose of SLE had improved trends in direct bilirubin levels without clinically significant differences in overall growth and neurodevelopment. Randomized Controlled Trial. II.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/jbmr/zjae054
+- DOI: 10.1016/j.jpedsurg.2024.03.030
 
 2. Keywords
-- DXA
-- aging
-- exercise
-- nutrition
-- osteoporosis
+- Cholestasis
+- Intestinal failure
+- Lipid emulsion
+- Parenteral nutrition
 
 3. Key Findings
-- At the LS and FN sites, none of the treatments showed a benefit
-- At the TH, vitamin D versus no vitamin D treatment showed a significant benefit across 3&#xa0;years (difference in adjusted means [AM]: 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- DXA assessment methods and outcomes
-- aging assessment methods and outcomes
-- exercise assessment methods and outcomes
+- Cholestasis assessment methods and outcomes
+- Intestinal failure assessment methods and outcomes
+- Lipid emulsion assessment methods and outcomes

@@ -1,20 +1,26 @@
-Study Title: Comparison of patient-controlled analgesia and sedation (PCAS) with remifentanil and propofol versus total intravenous anesthesia (TIVA) with midazolam, fentanyl, and propofol for colonoscopy.
+Study Title: The efficacy and safety of ciprofol and propofol in patients undergoing colonoscopy: A double-blind, randomized, controlled trial.
 
 Study Summary:
-Colonoscopy is a commonly performed gastroenterological procedure in patients associated with anxiety and pain. Various approaches have been used to provide sedation and analgesia during colonoscopy, including patient-controlled analgesia and sedation (PCAS). This study aims to evaluate the feasibility and efficiency of PCAS administered with propofol and remifentanil for colonoscopy. This randomized controlled trial was performed in an authorized and approved endoscopy center. A total of 80 outpatients were recruited for the colonoscopy studies. Patients were randomly allocated into PCAS and total intravenous anesthesia (TIVA) groups. In the PCAS group, the dose of 0.1&#x2009;ml/kg/min of the mixture was injected after an initial bolus of 3&#x2009;ml mixture (1&#x2009;ml containing 3&#x2009;mg of propofol and 10 &#x3bc;g of remifentanil). Each 1&#x2009;ml of bolus was delivered with a lockout time of 1&#x2009;min. In the TIVA group, patients were administered fentanyl 1 &#x3bc;g/kg, midazolam 0.02&#x2009;mg/kg, and propofol (dosage titrated). Cardiorespiratory parameters and auditory evoked response index were continuously monitored during the procedure. The recovery from anesthesia was assessed using the Aldrete scale and the Observer's Assessment of Alertness/Sedation Scale. The Visual Analogue Scale was used to assess the satisfaction of patients and endoscopists. No statistical differences were observed in the Visual Analogue Scale scores of the patients (9.58 vs 9.50) and the endoscopist (9.43 vs 9.30). A significant decline in the mean arterial blood pressure, heart rate, and auditory evoked response index parameters was recorded in the TIVA group (P < 0.05). The recovery time was significantly shorter in the PCAS group than in the TIVA group (P = 0.00). The combination of remifentanil and propofol could provide sufficient analgesia, better hemodynamic stability, lighter sedation, and faster recovery in the PCAS group of patients compared with the TIVA group.
+Propofol is a commonly utilized anesthetic for painless colonoscopy, but its usage is occasionally limited due to its potential side effects, including cardiopulmonary suppression and injection pain. To address this limitation, the novel compound ciprofol has been proposed as a possible alternative for propofol. This study sought to determine whether there are any differences in the safety and efficacy of propofol and ciprofol for painless colonoscopy. Randomized clinical trial. Single-centre, class A tertiary hospital, November 2021 to November 2022. Adult, American Society of Anesthesiologists Physical Status I to II and body mass index of 18 to 30&#xa0;kg&#xa0;mpatients scheduled to undergo colonoscopy. Consecutive patients were randomly allocated in a 1:1 ratio to receive sedation for colonoscopy with ciprofol (group C) or propofol (group P). The primary outcome was the success rate of colonoscopy. The secondary outcomes were onset time of sedation, operation time, recovery time and discharge time, patients and endoscopists satisfaction, side effects (e.g. injection pain, myoclonus, drowsiness, dizziness, procedure recall, nausea and vomiting) and incidence rate of cardiopulmonary adverse events. No significant difference was found in the success rate of colonoscopy between the two groups (ciprofol 96.3% vs. propofol 97.6%; mean difference&#xa0;-&#xa0;1.2%, 95% CI: -6.5% to 4.0%, P&#xa0;=&#xa0;0.650). However, group C showed prolonged sedation (63.4 vs. 54.8&#xa0;s, P&#xa0;<&#xa0;0.001) and fully alert times (9 vs 8&#xa0;min, P&#xa0;=&#xa0;0.013), as well as reduced incidences of injection pain (0 vs. 40.2%, P&#xa0;<&#xa0;0.001), respiratory depression (2.4% vs. 13.4%, P&#xa0;=&#xa0;0.021) and hypotension (65.9% vs. 80.5%, P&#xa0;=&#xa0;0.034). Patients satisfaction was also higher in Group C (10 vs 9, P&#xa0;<&#xa0;0.001). Ciprofol can be used independently for colonoscopy. When comparing the sedation efficacy of ciprofol and propofol, a 0.4&#xa0;mg&#xa0;kgdose of ciprofol proved to be equal to a 2.0&#xa0;mg&#xa0;kgdose of propofol, with fewer side effects and greater patient satisfaction during the procedure.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000037411
+- DOI: 10.1016/j.jclinane.2024.111474
 
 2. Keywords
-
+- Ciprofol
+- Colonoscopy
+- Propofol
+- Sedation
 
 3. Key Findings
-- Findings extraction requires manual review
+- No significant difference was found in the success rate of colonoscopy between the two groups (ciprofol 96
+- However, group C showed prolonged sedation (63
 
 This study provides insights into:
-- General research methodology and outcomes
+- Ciprofol assessment methods and outcomes
+- Colonoscopy assessment methods and outcomes
+- Propofol assessment methods and outcomes

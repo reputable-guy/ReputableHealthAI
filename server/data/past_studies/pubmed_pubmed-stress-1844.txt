@@ -1,20 +1,26 @@
-Study Title: Effect of Lanthanum Carbonate on Serum Phosphate, Oxidative Stress, and Vascular Dysfunction in CKD: A Mechanistic Randomized Controlled Trial.
+Study Title: Association Between Lifetime Interpersonal Violence and Post-COVID-19 Condition Among Women in Kentucky, 2020-2022.
 
 Study Summary:
-A key mechanism contributing to vascular dysfunction in CKD is increased oxidative stress. Lanthanum carbonate did not discernibly affect vascular endothelial function, arterial stiffness, or markers of endothelial oxidative stress. Vascular endothelial dysfunction and arterial stiffness are common in CKD and independently predict cardiovascular disease. Elevated serum phosphorus, even within the normal range, associates with cardiovascular disease and mortality in CKD. Excess phosphorus may increase oxidative stress leading to vascular dysfunction. This is a randomized double-blind trial in which we compared lanthanum carbonate, a noncalcium phosphate binder, with placebo on vascular function and endothelial and circulating measures of oxidative stress and inflammation in 54 participants with CKD 3b&#x2013;4 and normal phosphorus levels. Primary end points were change in brachial artery flow-mediated dilation (FMD) and carotid-to-femoral pulse-wave velocity (cfPWV) at 12 weeks. Mechanistic end points were changes from baseline in FMDafter ascorbic acid infusion and circulating and endothelial markers of oxidative stress and inflammation. The age was 65&#xb1;8 years and eGFR was 38&#xb1;14 ml/min per 1.73 m. At 12 weeks, serum phosphorus did not change with lanthanum (3.44&#xb1;0.47 versus 3.44&#xb1;0.52 mg/dl;= 0.94) but tended to increase with placebo (3.42&#xb1;0.80 versus 3.74&#xb1;1.26 mg/dl;= 0.09). FMDand cfPWV did not change from baseline in either group: FMDlanthanum 3.13%&#xb1;2.87% to 2.73%&#xb1;2.48% versus placebo 3.74%&#xb1;2.86% to 3.09%&#xb1;2.49% (= 0.67); CfPWV lanthanum 1214&#xb1;394 to 1216&#xb1;322 cm/s versus placebo 993&#xb1;289 to 977&#xb1;254 cm/s (= 0.77). Ascorbic acid infusion to inhibit oxidative stress did not differentially affect FMD. Circulating and endothelial markers of oxidative stress and inflammation did not differ between groups. Lanthanum carbonate did not discernibly affect vascular endothelial function, arterial stiffness, or markers of endothelial oxidative stress among participants with CKD 3b&#x2013;4 and normophosphatemia.
+The COVID-19 pandemic increased the risk of interpersonal violence. We investigated the association between lifetime interpersonal violence experience and risk of post-COVID-19 condition (the persistence of symptoms of COVID-19 and severity of health problems associated with COVID-19 that last a few weeks, months, or years) among women with lifetime interpersonal violence experience. Women participants aged &#x2265;18 years in Kentucky's Wellness, Health & You-COVID-19 study completed online quantitative surveys about the impacts of the pandemic, developing COVID-19, and symptoms of post-COVID-19 condition. We conducted cross-sectional analyses estimating rate ratios of developing COVID-19 and symptoms of post-COVID-19 condition during the pandemic (October 13, 2020-February 28, 2022). Of the analytic sample (N&#x2009;=&#x2009;938), 342 (36.5%) disclosed a history of lifetime interpersonal violence. Compared with women with no lifetime interpersonal violence experience, women with lifetime interpersonal violence experience had significantly more distress because of the pandemic, defined as family financial challenges (&#x2009;=&#x2009;.001), symptoms of mental health challenges (&#x2009;<&#x2009;.001), and negative coping behaviors (&#x2009;<&#x2009;.001). While experiencing lifetime interpersonal violence was not significantly associated with either receiving COVID-19 vaccinations (adjusted rate ratio [aRR]&#x2009;=&#x2009;1.10; 95% CI, 0.75-1.61) or developing COVID-19 (aRR&#x2009;=&#x2009;1.15; 95% CI, 0.92-1.44), experiencing lifetime interpersonal violence was associated with an increased rate of developing symptoms of post-COVID-19 condition (aRR&#x2009;=&#x2009;2.09; 95% CI, 1.19-3.65). Symptoms of post-COVID-19 condition may be linked to lifetime interpersonal violence experience, possibly through stress or violence-associated trauma. Future research is needed to assess the negative effects of the pandemic, prioritizing people with lifetime interpersonal violence experience.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.34067/KID.0000000000000465
+- DOI: 10.1177/00333549241236638
 
 2. Keywords
-
+- COVID-19
+- chronic stress
+- interpersonal violence
+- post&#x2013;COVID-19 condition
+- trauma
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- COVID-19 assessment methods and outcomes
+- chronic stress assessment methods and outcomes
+- interpersonal violence assessment methods and outcomes

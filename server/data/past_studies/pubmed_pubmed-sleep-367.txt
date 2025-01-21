@@ -1,25 +1,28 @@
-Study Title: Stress Drives Soccer Athletes'&#xa0;Wellness and Movement: Using Convergent Cross-Mapping to Identify Causal Relationships in a Dynamic Environment.
+Study Title: Pharmacokinetics, safety, and efficacy of daridorexant in Japanese subjects: Results from phase 1 and 2 studies.
 
 Study Summary:
-Prediction of athlete wellness is difficult-or, many sports-medicine practitioners and scientists would argue, impossible. Instead, one settles for correlational relationships of variables gathered at fixed moments in time. The issue may be an inherent mismatch between usual methods of data collection and analysis and the complex nature of the variables governing athlete wellness. Variables such as external load, stress, muscle soreness, and sleep quality may affect each other and wellness in a dynamic, nonlinear, way over time. In such an environment, traditional data-collection methods and statistics will fail to capture causal effects. If we are to move this area of sport science forward, a different approach is required. We analyzed data from 2 different soccer teams that showed no significance between player load and wellness or among individual measures of wellness. Our analysis used methods of attractor reconstruction to examine possible causal relationships between GPS/accelerometer-measured external training load and wellness variables. Our analysis showed that player self-rated stress, a component of wellness, seems a fundamental driving variable. The influence of stress is so great that stress can predict other components of athlete wellness, and, in turn, self-rated stress can be predicted by observing a player's load data. We demonstrate the ability of nonlinear methods to identify interactions between and among variables to predict future athlete stress. These relationships are indicative of the causal relationships playing out in athlete wellness over the course of a soccer season.
+Daridorexant is a dual orexin receptor antagonist for the treatment of insomnia. We report results from the first two randomised, double-blind clinical studies of daridorexant in Japanese subjects. In the Phase 1 study, daridorexant (10, 25, 50&#x2009;mg) or placebo were administered in the morning for 4&#x2009;days in 24 young (mean age 26.9&#x2009;years) and 24 older (mean age 69.7&#x2009;years) healthy Japanese adults. Daridorexant reached a peak plasma concentration within 1.0&#x2009;h across every dose and age group. For all doses, the mean plasma concentration of daridorexant showed a similar change between the age groups. Exposure parameters increased dose-dependently with minimal/no accumulation upon repeated dosing. The terminal half-life was ~8&#x2009;h. In the Phase 2, four-period, four-way crossover study, 47 Japanese subjects (mean age 50.4&#x2009;years) with insomnia disorder were randomised to receive four treatments (daridorexant 10, 25, 50&#x2009;mg, placebo) during four treatment periods, each consisting of two treatment nights (5-12 day washout between treatment periods). Subjects continued their fourth treatment for 12 further days. A statistically significant dose-response relationship (multiple-comparison procedure-modelling, p&#x2009;<&#x2009;0.0001) was found in the reduction of polysomnography-measured wake after sleep onset (WASO; primary endpoint) and latency to persistent sleep (secondary endpoint) from baseline to days 1/2. Statistically significant dose-response relationships were also observed for secondary subjective endpoints from baseline to days 1/2 (sWASO, latency to sleep onset). All daridorexant doses were well tolerated, with no treatment discontinuations and no next-morning residual effects. These results supported further investigation of daridorexant in Japanese patients with insomnia disorder.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1123/ijspp.2024-0007
+- Publication Date: 2025
+- DOI: 10.1111/jsr.14302
 
 2. Keywords
-- attractor reconstruction
-- football
-- prediction
+- Japanese
+- daridorexant
+- elderly
+- insomnia
+- orexin receptor antagonist
+- pharmacokinetics
 
 3. Key Findings
-- We analyzed data from 2 different soccer teams that showed no significance between player load and wellness or among individual measures of wellness
-- Our analysis showed that player self-rated stress, a component of wellness, seems a fundamental driving variable
+- For all doses, the mean plasma concentration of daridorexant showed a similar change between the age groups
+- 0001) was found in the reduction of polysomnography-measured wake after sleep onset (WASO; primary endpoint) and latency to persistent sleep (secondary endpoint) from baseline to days 1/2
 
 This study provides insights into:
-- attractor reconstruction assessment methods and outcomes
-- football assessment methods and outcomes
-- prediction assessment methods and outcomes
+- Japanese assessment methods and outcomes
+- daridorexant assessment methods and outcomes
+- elderly assessment methods and outcomes

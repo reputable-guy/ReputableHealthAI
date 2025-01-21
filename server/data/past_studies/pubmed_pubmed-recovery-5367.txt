@@ -1,20 +1,25 @@
-Study Title: Association of leucine and other branched chain amino acids with clinical outcomes in malnourished inpatients: a secondary analysis of the randomized clinical trial EFFORT.
+Study Title: The association of midregional pro-adrenomedullin (MR-proADM) at ICU admission and fluid overload in patients post elective cardiac surgery.
 
 Study Summary:
-The essential branched-chain amino acids leucine, isoleucine and valine are considered anabolic and stimulate protein synthesis in the muscles as well in the liver. They also promote muscle recovery and contribute to glucose homeostasis. Recent studies in critically ill patients have demonstrated that depletion of plasma leucine is associated with increased mortality, but data in the non-critical care setting is lacking. This secondary analysis of the randomized controlled Effect of early nutritional support on Frailty, Functional Outcomes, and Recovery of malnourished medical inpatients Trial (EFFORT), investigated the impact of leucine, isoleucine, and valine metabolism on clinical outcomes. The primary endpoint was 180-day all-cause mortality. Among 238 polymorbid patients with available metabolite measurements, low serum leucin levels were associated with a doubled risk of 180-day all-cause mortality in a fully adjusted regression model (adjusted HR 2.20 [95% CI 1.46-3.30], p&#x2009;<&#x2009;0.001). There was also an association with mortality for isoleucine (1.56 [95% CI 1.03-2.35], p&#x2009;=&#x2009;0.035) and valine (1.69 [95% CI 1.13-2.53], p&#x2009;=&#x2009;0.011). When comparing effects of nutritional support on mortality in patients with high and low levels of leucine, there was no evidence of significant differences in effectiveness of the intervention. The same was true for isoleucine and valine. Our data suggest that depletion of leucine, isoleucine, and valine among malnourished polymorbid patients is associated with increases in long-term mortality. However, patients with low metabolite levels did not show a pronounced benefit from nutritional support. Further research should focus on the clinical effects of nutritional support in patients with depleted stores of essential branched-chain amino acids. clinicaltrials.gov as NCT02517476 (registered 7 August 2015).
+Postoperative fluid overload (FO) after cardiac surgery is common and affects recovery. Predicting FO could help optimize fluid management. This post-hoc analysis of the HERACLES randomized controlled trial evaluated the predictive value of MR-proADM for FO post-cardiac surgery. MR-proADM levels were measured at four different timepoints in 33 patients undergoing elective cardiac surgery. Patients were divided into FO (>&#x2009;5% weight gain) and no-FO at ICU discharge. The primary outcome was the predictive power of MR-proADM at ICU admission for FO at discharge. Secondary outcomes included the predictive value of MR-proADM for FO on day 6 post-surgery and changes over time. The association between MR-proADM and FO at ICU discharge or day 6 post-surgery was not significant (crude odds ratio (cOR): 4.3 (95% CI 0.5-40.9, p&#x2009;=&#x2009;0.201) and cOR 1.1 (95% CI 0.04-28.3, p&#x2009;=&#x2009;0.954)). MR-proADM levels over time did not differ significantly between patients with and without FO at ICU discharge (p&#x2009;=&#x2009;0.803). MR-proADM at ICU admission was not associated with fluid overload at ICU discharge in patients undergoing elective cardiac surgery. MR-proADM levels over time were not significantly different between groups, although elevated levels were observed in patients with FO.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1038/s41430-024-01507-8
+- Publication Date: 2024
+- DOI: 10.1038/s41598-024-71918-x
 
 2. Keywords
-
+- Cardiac surgery
+- Critical care
+- Fluid overload
+- MR-proADM
 
 3. Key Findings
-- Recent studies in critically ill patients have demonstrated that depletion of plasma leucine is associated with increased mortality, but data in the non-critical care setting is lacking
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Cardiac surgery assessment methods and outcomes
+- Critical care assessment methods and outcomes
+- Fluid overload assessment methods and outcomes

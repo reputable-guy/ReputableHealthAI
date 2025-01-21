@@ -1,25 +1,29 @@
-Study Title: Continuous glucose monitoring versus conventional glucose monitoring in the ICU: A randomized controlled trial.
+Study Title: Effectiveness of drama and music therapies as health communication interventions for reducing anxiety and posttraumatic disorders among children-victims of flood.
 
 Study Summary:
-This study evaluated the clinical utility of continuous glucose monitoring system (CGMS) in critically ill patients. In this randomized controlled trial, we randomly assigned critically ill participants with diabetes or stress-induced hyperglycemia to the CGMS group (n&#xa0;=&#xa0;48) or to the conventional point-of-care monitoring (POCM) group (n&#xa0;=&#xa0;48). The glucose values and clinical outcome were compared between the two group. The primary endpoint was 28-day mortality after intensive care unit admission. The 28-day mortality was not significantly different between the CGMS and POCM group (20.8% vs 31.3%, P&#xa0;=&#xa0;0.25). The mean glucose, time-weighted average glucose, glucose standard deviation and time in range (3.9-10.0) were significantly improved in the CGMS group (all P&#xa0;<&#xa0;0.05). Compared with conventional POCM, CGMS did not decrease the 28-day mortality in critically ill participants with diabetes or stress-induced hyperglycemia. But CGMS may improve the glycemic control and may be increasingly used in critically ill patients.
+This study examined the usefulness of drama and music therapies as communication strategies for reducing symptoms of post-traumatic stress disorder (PTSD) and generalised anxiety disorder (GAD) among school children (aged 10-16) who were victims of the 2022 floods in Nigeria. The researchers randomly assigned the children to control (n&#xa0;=&#xa0;122) drama therapy (n&#xa0;=&#xa0;120) and music therapy (n&#xa0;=&#xa0;120) groups. The result of the study revealed that after the intervention, school children in the drama and music therapies (unlike those in the control group) reported a significant reduction in their PTSD and GAD symptoms; the reduction achieved statistical significance (p&#xa0;=&#xa0;0.001, &#x3b7;&#xa0;=&#xa0;0.48). Further results revealed a significant interactive effect of gender (p&#xa0;=&#xa0;0.001) with boys reporting a significant reduction more than girls. The results showed that drama therapy contributed more to reducing PTSD symptoms, while music therapy contributed more to reducing GAD symptoms. The difference did not achieve statistical significance (p&#xa0;=&#xa0;0.23). The researchers conclude that both drama and music therapies were associated with reduced symptoms, indicating the interventions may be beneficial therapies.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jcrc.2024.154894
+- DOI: 10.1016/j.ctcp.2024.101890
 
 2. Keywords
-- Continuous glucose monitoring system
-- Glycemic variability
-- Intensive care unit
-- Mortality
+- Drama therapy
+- Floods
+- GAD
+- Music therapy
+- PTSD
+- School children
 
 3. Key Findings
-- Findings extraction requires manual review
+- The result of the study revealed that after the intervention, school children in the drama and music therapies (unlike those in the control group) reported a significant reduction in their PTSD and GAD symptoms; the reduction achieved statistical significance (p&#xa0;=&#xa0;0
+- Further results revealed a significant interactive effect of gender (p&#xa0;=&#xa0;0
+- The results showed that drama therapy contributed more to reducing PTSD symptoms, while music therapy contributed more to reducing GAD symptoms
 
 This study provides insights into:
-- Continuous glucose monitoring system assessment methods and outcomes
-- Glycemic variability assessment methods and outcomes
-- Intensive care unit assessment methods and outcomes
+- Drama therapy assessment methods and outcomes
+- Floods assessment methods and outcomes
+- GAD assessment methods and outcomes

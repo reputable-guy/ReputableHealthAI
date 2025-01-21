@@ -1,27 +1,25 @@
-Study Title: A phase 3, randomized, placebo-controlled, trial to evaluate the efficacy and safety of bedtime sublingual cyclobenzaprine (TNX-102 SL) in military-related posttraumatic stress disorder.
+Study Title: Transcutaneous electrical nerve stimulation in the management of restless legs syndrome symptoms: A single-blind, parallel-group clinical study.
 
 Study Summary:
-Sleep disturbances in posttraumatic stress disorder (PTSD) are a potential target for improving PTSD severity with pharmacotherapy. TNX-102 SL is a bedtime sublingual formulation of cyclobenzaprine with potent binding and antagonist activity at 5-HT, &#x3b1;-adrenergic, Hhistaminergic, and Mmuscarinic receptors, which play roles in the pharmacological management of sleep disturbances. This Phase 3 trial evaluated the efficacy and safety of TNX-102 SL in patients with military-related PTSD. Early and sustained improvements in sleep were associated with TNX-102 SL treatment by PROMIS Sleep Disturbance scale and Clinician Administered PTSD Scale (CAPS-5) "sleep disturbance" item, establishing a sleep quality benefit. Primary analysis comparing change from baseline in CAPS-5 total severity between TNX-102 SL and placebo at week 12 was not significant; however, week 4 was associated with an improvement. Secondary analyses showed TNX-102 SL treatment was associated with benefits on the Clinician Global Impression of Improvement at week 4 and the Patient Global Impression of Change at week 12. Time since trauma exposure was a discriminator of CAPS-5 treatment response in the subgroup &#x2264; 9 years since the index event. This study provides preliminary evidence that TNX-102 SL is well-tolerated and may promote recovery from PTSD by addressing sleep-related symptoms.
+The aim of this study was to investigate the additional effect of transcutaneous electrical nerve stimulation (TENS) on the control of the symptoms of restless legs syndrome (RLS). A total of 46 randomly selected patients diagnosed with RLS were divided into two groups in a single-blind study to either receive pramipexole (0.25&#x2009;mg daily) plus 10 sessions of TENS or only pramipexole (0.25&#x2009;mg daily) for 4&#x2009;weeks. The severity of the symptoms was determined according to the International Restless Legs Syndrome Rating Scale (IRLSRS) and the Pittsburgh sleep quality index (PSQI) at the beginning of the treatment, post-treatment, and at an 8 week follow-up. A significant time interaction was observed between the groups for all measurement outcomes, revealing differences in favour of the experimental group's IRLSRS and PSQI scores. A notable improvement was also observed in the IRLSRS and PSQI scores in both groups at the end of treatment and during the 8 week follow-up period. In comparison with pramipexole monotherapy, the results of this study showed that the use of TENS therapy combined with a low dose of pramipexole (0.25&#x2009;mg daily) is therapeutically beneficial in the treatment of RLS over an 8 week follow-up period.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.psychres.2024.115764
+- DOI: 10.1111/jsr.14167
 
 2. Keywords
-- Hyperarousal
-- Memory consolidation
-- Military trauma
-- Pharmacotherapy
-- Sleep quality
-- Time since trauma
+- neuromodulation
+- restless legs syndrome
+- sleep quality
+- transcutaneous electrical nerve stimulation
 
 3. Key Findings
-- Secondary analyses showed TNX-102 SL treatment was associated with benefits on the Clinician Global Impression of Improvement at week 4 and the Patient Global Impression of Change at week 12
+- In comparison with pramipexole monotherapy, the results of this study showed that the use of TENS therapy combined with a low dose of pramipexole (0
 
 This study provides insights into:
-- Hyperarousal assessment methods and outcomes
-- Memory consolidation assessment methods and outcomes
-- Military trauma assessment methods and outcomes
+- neuromodulation assessment methods and outcomes
+- restless legs syndrome assessment methods and outcomes
+- sleep quality assessment methods and outcomes

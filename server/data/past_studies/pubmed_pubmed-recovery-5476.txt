@@ -1,20 +1,27 @@
-Study Title: Protocol for a feasibility randomised controlled trial of the 'Outdoor' mobility intervention for older adults after hip fracture.
+Study Title: Clinical and safety outcomes of BeEAM (Bendamustine, Etoposide, Cytarabine, Melphalan) versus CEM (Carboplatin, Etoposide, Melphalan) in lymphoma patients as a conditioning regimen before autologous hematopoietic cell transplantation.
 
 Study Summary:
-A high proportion of patients do not regain outdoor mobility after hip fracture. Rehabilitation explicitly targeting outdoor mobility is needed to enable these older adults to recover activities which they value most. The overarching aim of this study is to determine the feasibility of a randomised controlled trial which aims to assess the clinical- and cost-effectiveness of an intervention designed to enable recovery of outdoor mobility among older adults after hip fracture (the OUTDOOR intervention). This is a protocol for a multi-centre pragmatic parallel group (allocation ratio 1:1) randomised controlled assessor-blinded feasibility trial. Adults aged 60 years or more, admitted to hospital from- and planned discharge to- home, with self-reported outdoor mobility in the three-months pre-fracture, surgically treated for hip fracture, and who are able to consent and participate, are eligible. Individuals who require two or more people to support mobility on discharge will be excluded. Screening and consent (or consent to contact) will take place in hospital. Baseline assessment and randomisation will follow discharge from hospital. Participants will then receive usual care (delivered by physiotherapy, occupational therapy, or therapy assistants), or usual care plus the OUTDOOR intervention. The OUTDOOR intervention includes a goal-orientated outdoor mobility programme (supported by up to six in-person visits), therapist-led motivational dialogue (supported by up to four telephone calls), supported by a past-patient led video where recovery experiences are shared, and support to transition to independent ongoing recovery. Therapists delivering the OUTDOOR intervention (distinct from those supporting usual care) will receive training in motivational interviewing and behaviour change techniques. Baseline demographics will be collected. Patient reported outcome measures including health related quality of life, activities of daily living, pain, community mobility, falls related self-efficacy, resource use, readmissions, and mortality will be collected at baseline, 6-weeks, 12-weeks, and 6-months (for those enrolled early in the trial) post-randomisation. Exercise adherence (6- and 12- weeks) and intervention acceptability (12-weeks) will be collected. A subset of 20 participants will also support accelerometery data collection for 10 days at each time point. The trial findings will be disseminated to patients and the public, health professionals and researchers through publications, presentations and social media channels. The trial has been registered at ISRCTN16147125. 3.0.
+Autologous stem cell transplantation (ASCT) is a pivotal treatment for lymphoma patients. The BeEAM regimen (Bendamustine, Etoposide, Cytarabine, Melphalan) traditionally relies on cryopreservation, whereas the CEM regimen (Carboplatin, Etoposide, Melphalan) has been optimized for short-duration administration without the need for cryopreservation. This study rigorously compares the clinical and safety profiles of the BeEAM and CEM regimens. A controlled, randomized clinical trial was conducted with 58 lymphoma patients undergoing ASCT at the International Medical Center (IMC) in Cairo, Egypt. Patients were randomly assigned to either the BeEAM (n&#x2009;=&#x2009;29) or CEM (n&#x2009;=&#x2009;29) regimen, with an 18-month follow-up period. Clinical and safety outcomes were meticulously compared, focusing on time to engraftment for neutrophils and platelets, side effects, length of hospitalization, transplant-related mortality (TRM), and survival rates. The findings demonstrate a significant advantage for the CEM regimen. Neutrophil recovery was markedly faster in the CEM group, averaging 8.5&#xa0;days compared to 14.5&#xa0;days in the BeEAM group (p&#x2009;<&#x2009;0.0001). Platelet recovery was similarly expedited, with 11&#xa0;days in the CEM group versus 23&#xa0;days in the BeEAM group (p&#x2009;<&#x2009;0.0001). Hospitalization duration was substantially shorter for CEM patients, averaging 18.5&#xa0;days compared to 30&#xa0;days for those on BeEAM (p&#x2009;<&#x2009;0.0001). Furthermore, overall survival (OS) was significantly higher in the CEM group at 96.55% (95% CI: 84.91-99.44%) compared to 79.31% (95% CI: 63.11-89.75%) in the BeEAM group (p&#x2009;=&#x2009;0.049). Progression-free survival (PFS) was also notably superior in the CEM group, at 86.21% (95% CI: 86.14-86.28%) versus 62.07% (95% CI: 61.94-62.20%) in the BeEAM group (p&#x2009;=&#x2009;0.036). The CEM regimen might demonstrate superiority over the BeEAM regimen, with faster neutrophil and platelet recovery, reduced hospitalization time, and significantly improved overall and progression-free survival rates. Future studies with longer duration and larger sample sizes are warranted. This study is registered on ClinicalTrials.gov under the registration number NCT05813132 ( https://clinicaltrials.gov/ct2/show/NCT05813132 ). (The first submitted registration date: is March 16, 2023).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0306871
+- DOI: 10.1186/s12885-024-12694-9
 
 2. Keywords
-
+- Autologous transplantation
+- BeEAM protocol
+- CEM protocol
+- DMSO
+- Lymphoma
+- Non-cryopreservation
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Autologous transplantation assessment methods and outcomes
+- BeEAM protocol assessment methods and outcomes
+- CEM protocol assessment methods and outcomes

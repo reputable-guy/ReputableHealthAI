@@ -1,27 +1,25 @@
-Study Title: Comparison of hypotension between propofol and remimazolam-propofol combinations sedation for day-surgery hysteroscopy: a prospective, randomized, controlled trial.
+Study Title: Efficacy of tissue-bone homeostasis manipulation on the gait and knee function for the patients with knee osteoarthritis: a randomized controlled trial.
 
 Study Summary:
-A combination of remimazolam and propofol could produce more stable sedation. A good medication regimen should consider not only efficacy but also safety, especially hypotension. The aim of the current study was to compare the incidence and amount of hypotension by propofol versus remimazolam-propofol combinations in day-surgery hysteroscopy. Patients were randomly assigned to receive either propofol (Group P, n&#x2009;=&#x2009;125) or remimazolam-propofol combinations (Group RP, n&#x2009;=&#x2009;125) at a 1:1 ratio. Intravenous injection of sufentanil 0.1ug/kg were administered before sedative medication. In group P, a bolus of 2.5&#xa0;mg/kg propofol was administered. In group RP, intravenous anesthesia was commenced with 0.125&#xa0;mg/kg remimazolam and 1&#xa0;mg/kg propofol. After loss of consciousness, propofol was maintained at 6&#xa0;mg/kg/h. The primary outcomes were the incidence and amount of hypotension during surgery. Hypotension was defined as a MAP less than 65mmHg for at least 1&#xa0;min. The amount of hypotension was assessed by time-weighted average intraoperative MAP under a threshold of 65 mmHg. The secondary outcomes were various anesthesia related parameters and some adverse events. In group P, 25 patients (20.0%) experienced hypotension during hysteroscopy compared with 9 patients (7.2%) in group RP, for a difference of 12.8% (RR 2.778, 95%CI [1.352-5.709]). The combination of remimazolam and propofol resulted in significantly lower TWA (Time Weighted Average) threshold 0.14 (0.10-0.56) mmHg in group RP compared to 0.31 (0.15-0.67) mmHg in group P. The total dose of propofol was nearly double in group P compared to group RP. A significantly higher frequency of injection pain and low oxygen saturation was observed in the group P than that of the group RP. Hiccup was observed only in group RP. The incidences of body movement, bradycardia and vomiting were no significant difference between groups. The incidence and amount of hypotension by remimazolam-propofol combinations was significantly less than that by propofol sedation in day-surgery hysteroscopy. The optimization of medication regimen would attenuate the harm of hypotension and contribute to patients' rapid recovery in day surgery. Chinese Clinical Trial Registry, ChiCTR2400079888 (date: 15/01/2024).
+Knee osteoarthritis (KOA) was characterized by pain and limited joint function, which seriously affected the quality of life of patients. The vast majority of KOA was closely related to degeneration of the patellofemoral joint and abnormal patellar movement trajectory. Tissue-bone homeostasis manipulation (TBHM) could correct abnormal patellar movement trajectory on the basis of loosening soft tissue. However, there was little strong evidence to verify its efficacy on the patients with KOA. The study objective was to explore the efficacy of the TBHM on gait and knee function in the patients with KOA. Sixty KOA patients were randomly assigned to either the joint mobilization (n&#x2009;=&#x2009;30) or TBHM (n&#x2009;=&#x2009;30) group. The joint mobilization group received joint mobilization, while the TBHM group received TBHM. For two groups, the patients participated in 30&#xa0;min rehabilitation sessions thrice per week for 12&#xa0;weeks. The primary outcome was biomechanical gait outcomes during walking, including step length, step velocity, double support, knee range of motion (ROM), and knee adduction moment (KAM). The secondary outcomes were the Western Ontario and McMaster Index (WOMAC) and 36-Item short- form health survey (SF-36), which reflected improvements in knee function and quality of life, respectively. At baseline and 12&#xa0;weeks, evaluations were conducted and compared between groups. After a 12-week intervention, significant group differences were observed in KAM (p&#x2009;=&#x2009;0.018), WOMAC-Pain (p&#x2009;=&#x2009;0.043) and WOMAC-Stiffness (p&#x2009;=&#x2009;0.026). A noteworthy finding was the presence of a significant interaction effect between group and time specifically observed in step velocity during gait (p&#x2009;=&#x2009;0.046), WOMAC-Function (p&#x2009;=&#x2009;0.013) and SF-36 (p&#x2009;=&#x2009;0.027). Further analysis revealed a significant difference in step velocity (p&#x2009;=&#x2009;0.034), WOMAC-Function (p&#x2009;=&#x2009;0.025) and SF-36 (p&#x2009;=&#x2009;0.042) during post-assessment between the two groups. Moreover, a significant time effect was observed across all outcomes of the two groups (p&#x2009;<&#x2009;0.05). The TBHM intervention has better improved the gait, knee function, and quality of life in the patients with KOA. ITMCTR, ITMCTR2200005507. Registered 06/01/2022, http://itmctr.ccebtcm.org.cn/zh-CN/Home/ProjectView?pid=09cdadad-0aef-41ee-81bd-a8dceb63f7f5 .
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12871-024-02746-9
+- DOI: 10.1186/s12891-024-07896-y
 
 2. Keywords
-- Day surgery
-- Hypotension
-- Hysteroscopy
-- Intravenous sedation
-- Propofol
-- Remimazolam
+- Function recovery
+- Gait
+- Knee osteoarthritis
+- Manipulative therapy
 
 3. Key Findings
-- Findings extraction requires manual review
+- Further analysis revealed a significant difference in step velocity (p&#x2009;=&#x2009;0
 
 This study provides insights into:
-- Day surgery assessment methods and outcomes
-- Hypotension assessment methods and outcomes
-- Hysteroscopy assessment methods and outcomes
+- Function recovery assessment methods and outcomes
+- Gait assessment methods and outcomes
+- Knee osteoarthritis assessment methods and outcomes

@@ -1,27 +1,27 @@
-Study Title: The prognostic value of patient-reported outcomes in allogeneic hematopoietic stem cell transplantation: exploratory analysis of a randomized nutrition intervention trial.
+Study Title: Participatory intervention to improve nutrition and physical activity of school-age children in Mexico.
 
 Study Summary:
-Whether patient-reported outcomes (PROs) can predict overall survival (OS) and non-relapse mortality (NRM) among recipients of allogeneic stem cell transplantation (allo-HSCT), is unclear. We performed an exploratory analysis of the prognostic value of patient-reported outcomes (PROs) among 117 recipients of allogeneic stem cell transplantation (allo-HSCT) who participated in a randomized nutrition intervention trial. Cox proportional hazards models were used to investigate possible associations between PROs collected pre-allo-HSCT (baseline) using scores from the EORTC Quality of Life Questionnaire-Core 30 (QLQ-C30) and 1-year overall survival (OS), whereas logistic regression was used to study associations between these PROs and 1-year non-relapse mortality (NRM). Multivariable analyses indicated that only the Hematopoietic Cell Transplantation Comorbidity Index (HCT-CI) and the European Bone Marrow Transplantation (EBMT) risk score were associated with 1-year OS. In the multivariable model including clinical-sociodemographic factors for 1-year NRM, our analysis showed that living alone (p=0.009), HCT-CI (p=0.016), EBMT risk score (p=0.002), and stem cell source (p=0.046) could be associated with 1-year NRM. Moreover, in the multivariable model, our analysis showed that only appetite loss from the QLQ-C30 was associated with 1-year NRM (p=0.026). In conclusion, in this specific setting, our analysis suggests that the commonly used HCT-CI and EBMT risk scores could be predictive for both 1-year OS and 1-year NRM, whereas baseline PROs in general were not.
+Obesity is one of the major public health problems of the 21st century, affecting every country in the world. In Mexico, the prevalence of overweight and obesity in children (5 to 11&#xa0;years) was 35.5%. Childhood obesity is a chronic disease itself; and is associated with other chronic conditions. To assess the effect and feasibility of a participatory intervention to improve nutrition and physical activity within the school environment in children in public elementary schools in Mexico. The present study is a cluster trial. The intervention focused on; changes in food offered, training the schools' food service staff, promoting water consumption and physical activity at the community level, implementing healthy spaces inside the school, improving the quality of physical education within schools, among others. The main outcomes will focus on rate of weight gain, time devoted to physical activity, sedentary behaviors, diet quality and response feeding behaviors. We also will assess the time and personnel involved in the intervention development, maintenance, and dissemination. Findings from this trial will generate new translational knowledge in Mexico; if the results are positive, this participatory intervention could serve as a basis for designing multidimensional interventions that could be scaled up at the national level.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1007/s00277-023-05149-x
+- DOI: 10.1016/j.cct.2023.107138
 
 2. Keywords
-- Allogeneic stem cell transplantation
-- EORTC QLQ-C30
-- Overall survival
-- Patient-reported outcomes
+- Children
+- Mexico
+- Nutrition
+- Obesity
+- Participatory intervention
+- Physical activity
 
 3. Key Findings
-- Multivariable analyses indicated that only the Hematopoietic Cell Transplantation Comorbidity Index (HCT-CI) and the European Bone Marrow Transplantation (EBMT) risk score were associated with 1-year OS
-- In the multivariable model including clinical-sociodemographic factors for 1-year NRM, our analysis showed that living alone (p=0
-- Moreover, in the multivariable model, our analysis showed that only appetite loss from the QLQ-C30 was associated with 1-year NRM (p=0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Allogeneic stem cell transplantation assessment methods and outcomes
-- EORTC QLQ-C30 assessment methods and outcomes
-- Overall survival assessment methods and outcomes
+- Children assessment methods and outcomes
+- Mexico assessment methods and outcomes
+- Nutrition assessment methods and outcomes

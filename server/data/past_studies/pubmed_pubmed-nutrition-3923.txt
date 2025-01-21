@@ -1,30 +1,31 @@
-Study Title: "Own doctor" presence in a web-based lifestyle intervention for adults with obesity and hypertension: A randomized controlled trial.
+Study Title: The Implementation of a Nutrition Intervention in Food Pantries: The Spirit of SWAP.
 
 Study Summary:
-Online interventions have long been shown to be an effective means to promote a healthy lifestyle, thereby helping to control body weight and blood pressure figures. Likewise, using video modeling is also considered an effective way to guide patients through behavioral interventions. Nonetheless, to the best of our knowledge, this study is the first to analyze how the presence of patients' "own doctor" in the audiovisual content of a web-based lifestyle program (") aimed at promoting regular physical exercise and healthy eating behavior, compared with an "unknown doctor," influences the outcomes of adults with obesity and hypertension. A total of 132 patients were randomly assigned either to the experimental (= 70) or control (= 62) group ("own doctor" or "unknown doctor", respectively). The body mass index, systolic and diastolic blood pressure, number of antihypertensive drugs used, physical activity level, and quality of life was assessed and compared at baseline and post-intervention (12 weeks). The intention-to-treat analysis showed intragroup significant improvements in both groups in terms of the body mass index (control group: mean difference -0.3, 95% CI [-0.5, -0.1],= 0.002; experimental group: -0.4 [-0.6, -0.2],< 0.001) and systolic blood pressure (control group: -2.3 [-4.4, -0.2],= 0.029; experimental group: -3.6 [-5.5, -1.6],< 0.001). In addition, there were also significant improvements in the experimental group for the diastolic blood pressure (-2.5 [-3.7, -1.2],< 0.001), physical activity (479 [9, 949],= 0.046), and quality of life (5.2 [2.3, 8.2],= 0.001). However, when comparing the experimental with the control group, no between-group significant differences were found in these variables. This study suggests that the presence of patients' "own doctor" in the audiovisual content of a web-based intervention, aimed at promoting a healthy lifestyle among adults with obesity and hypertension, do not show significant additional benefits over the efficacy of e-counseling. ClinicalTrials.gov NCT04426877. First Posted: 11/06/2020. https://clinicaltrials.gov/ct2/show/NCT04426877.
+Food insecurity, affecting approximately 10% of the U.S. population, with up to 40% or higher in some communities, is associated with higher rates of chronic conditions and inversely associated with diet quality. Nutrition interventions implemented at food pantries are an effective strategy to increase healthy food choices and improve health outcomes for people experiencing food and nutrition insecurity. Supporting Wellness at Pantries (SWAP), a stoplight nutrition ranking system, can facilitate healthy food procurement and distribution at pantries.Guided by the RE-AIM Framework, this study assesses the implementation and outcomes of SWAP as nutritional guidance and institutional policy intervention, to increase procurement and distribution of healthy foods in pantries. Method. Mixed-methods evaluation included observations, process forms, and in-depth interviews. Food inventory assessments were conducted at baseline and 2-year follow-up.Two large pantries in New Haven, Connecticut, collectively reaching more than 12,200 individuals yearly, implemented SWAP in 2019. Implementation was consistent prepandemic at both pantries. Due to COVID-mandated distribution changes, pantries adapted SWAP implementation during the pandemic while still maintaining the "spirit of SWAP." One pantry increased the percentage of Green foods offered. Challenges to healthy food distribution are considered. Discussion. This study has implications for policy, systems, and environmental changes. It shows the potential for SWAP adoption at pantries, which can serve as a guide for continued healthy food procurement and advocacy. Maintaining the "spirit of SWAP" shows promising results for food pantries looking to implement nutrition interventions when standard practice may not be possible.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3389/fpubh.2023.1115711
+- DOI: 10.1177/15248399221112454
 
 2. Keywords
-- e-Health
-- healthy lifestyle
-- hypertension
-- multimedia
+- RE-AIM, REACH: Racial and Ethnic Approaches to Community Health
+- SWAP: Supporting Wellness at Pantries
+- chronic disease prevention
+- community intervention
+- food insecurity
+- food pantries
+- health promotion
 - nutrition
-- obesity
-- physical activity
-- web-based
+- nutrition security
+- program implementation
 
 3. Key Findings
-- The intention-to-treat analysis showed intragroup significant improvements in both groups in terms of the body mass index (control group: mean difference -0
-- However, when comparing the experimental with the control group, no between-group significant differences were found in these variables
+- Findings extraction requires manual review
 
 This study provides insights into:
-- e-Health assessment methods and outcomes
-- healthy lifestyle assessment methods and outcomes
-- hypertension assessment methods and outcomes
+- RE-AIM, REACH: Racial and Ethnic Approaches to Community Health assessment methods and outcomes
+- SWAP: Supporting Wellness at Pantries assessment methods and outcomes
+- chronic disease prevention assessment methods and outcomes

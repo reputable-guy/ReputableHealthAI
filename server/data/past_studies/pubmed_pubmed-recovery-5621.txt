@@ -1,31 +1,24 @@
-Study Title: Short- and long-term effects of imatinib in hospitalized COVID-19 patients: A randomized trial.
+Study Title: Clinical efficacy and safety of transvaginal natural orifice transluminal endoscopic surgery for benign adnexal disease: a prospective trial.
 
 Study Summary:
-We studied the short- and long-term effects of imatinib in hospitalized COVID-19 patients. Participants were randomized to receive standard of care (SoC) or SoC with imatinib. Imatinib dosage was 400&#xa0;mg daily until discharge (max 14 days). Primary outcomes were mortality at 30 days and 1 year. Secondary outcomes included recovery, quality of life and long COVID symptoms at 1 year. We also performed a systematic review and meta-analysis of randomized trials studying imatinib for 30-day mortality in hospitalized COVID-19 patients. We randomized 156 patients (73 in SoC and 83 in imatinib). Among patients on imatinib, 7.2% had died at 30 days and 13.3% at 1 year, and in SoC, 4.1% and 8.2% (adjusted HR 1.35, 95% CI 0.47-3.90). At 1 year, self-reported recovery occurred in 79.0% in imatinib and in 88.5% in SoC (RR 0.91, 0.78-1.06). We found no convincing difference in quality of life or symptoms. Fatigue (24%) and sleep issues (20%) frequently bothered patients at one year. In the meta-analysis, imatinib was associated with a mortality risk ratio of 0.73 (0.32-1.63; low certainty evidence). The evidence raises doubts regarding benefit of imatinib in reducing mortality, improving recovery and preventing long COVID symptoms in hospitalized COVID-19 patients.
+There is a scarcity of prospective clinical research evidence regarding the utilization of transvaginal natural orifice translumenal endoscopic surgery (vNOTES) as a treatment option for ovarian cysts. The objective of this study was to assess the feasibility and safety of employing vNOTES for the management of ovarian cysts. Our study included women between the ages of 18 and 70 who intended to undergo surgical intervention for benign lesions. Stratified blocked randomization was employed to allocate participants into groups. The main objective was to assess whether the assigned group adhered to the recommended surgical technique for ovarian cystectomy or adnexectomy, without any deviation to alternative surgical methods. A total of 196 patients were included in the study, with all surgeries in each group being conducted according to the assigned procedures. Among them, the ovarian cystectomy layer included 58 cases in the vNOTES group and 58 cases in the conventional laparoscopy (CL) groups. The adnexectomy layer included 40 cases in the vNOTES group and 40 cases in the CL group. Utilizing a sensitivity analysis, the two-sided 95% lower confidence limit was determined to be 5.5% for the disparity in proportions between the vNOTES groups and CL groups. These lower limits fell below the predetermined non-inferiority margin of 10%. The study findings demonstrate that vNOTES was not inferior to CL in terms of adnexectomy or ovarian cystectomy. vNOTES can be considered a more minimally invasive surgical approach, as it results in reduced postoperative pain, faster recovery, and absence of visible incisions. Overall, vNOTES proves to be a safe, feasible, and less invasive treatment option. This study retrospectively registered with the China Clinical Trial Registry with the registration number ChiCTR2100052223(22-10-2021).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jinf.2024.106217
+- DOI: 10.1186/s12905-024-03226-5
 
 2. Keywords
-- COVID-19
-- Clinical Trials
-- Imatinib
-- Immunomodulatory effects
-- Long COVID patient outcomes
-- Post-COVID
-- Post-acute COVID syndrome
-- Randomized controlled trial
-- SARS-CoV-2 infection
-- Tyrosine kinase inhibitors
+- Ovarian cyst
+- Prospective randomized controlled trial
+- vNOTES
 
 3. Key Findings
-- We found no convincing difference in quality of life or symptoms
+- Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 assessment methods and outcomes
-- Clinical Trials assessment methods and outcomes
-- Imatinib assessment methods and outcomes
+- Ovarian cyst assessment methods and outcomes
+- Prospective randomized controlled trial assessment methods and outcomes
+- vNOTES assessment methods and outcomes

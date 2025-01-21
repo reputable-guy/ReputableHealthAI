@@ -1,26 +1,28 @@
-Study Title: A 90- followed by a 30-min nap reduces fatigue whereas a 30- followed by a 90-min nap maintains cognitive performance in night work: A randomized crossover-pilot study.
+Study Title: Venous blood gases in the assessment of respiratory failure in patients undergoing sleep studies: a randomized study.
 
 Study Summary:
-To investigate the effects of combinations of brief naps (a 90- followed by a 30-min nap vs. a 30- followed by a 90-min nap) on sleep inertia, reducing sleepiness and fatigue, and maintaining performance during night hours. This randomized, comparative, repeated-measure, cross-over study investigated subjective and cognitive performance in 12 healthy females, evaluated in three experimental nap conditions: 1) from 22:30 to 00:00 and 02:30 to 03:00 (Pre90-NAP group), 2) from 23:30 to 00:00 and 02:30 to 04:00 (Pre30-NAP) group, and 3) no naps (NO-NAP group). Participants' body temperature, psychomotor vigilance task (PVT) and Uchida-Kraepelin test (UKT) scores, and subjective feelings of drowsiness and fatigue were evaluated. Sleep state was determined by an actigraphy monitoring device worn by participants. Regardless of timing, both 90-min naps were associated with sleep inertia, and both 30-min naps with minimal sleep inertia. Reaction times were shorter and fewer errors were committed at 2&#xa0;h post-nap in the Pre30-NAP and Pre90-NAP groups compared with those at the same time in the NO-NAP group. Adding a 90-min nap to a 30-min nap reduced subjective fatigue and shortened reaction times, and adding a 30-min nap to a 90-min nap was effective in maintaining performance, suggesting a synergistic effect. Taking two naps during a night work can mitigate sleepiness and fatigue, and maintain performance. A 90- followed by a 30-min nap reduced fatigue and reaction time, and a 30- followed by a 90-min nap maintained cognitive performance in the early morning.
+Venous blood gases (VBGs) are not consistently considered suitable surrogates for arterial blood gases (ABGs) in assessing acute respiratory failure due to variable measurement error. The physiological stability of patients with chronic ventilatory failure may lead to improved agreement in this setting. Adults requiring ABGs for sleep or ventilation titration studies had VBGs drawn before or after each ABG, in a randomized order. Veno-arterial correlation and agreement were examined for carbon dioxide tension (PCO), pH, oxygen tension (PO), and oxygen saturation (SO). We analyzed 115 VBG-ABG pairs from 61 patients. Arterial and venous measures were correlated (< .05) for PCO(= .84) and pH (= .72), but not for POor SO. Adjusted mean veno-arterial differences (95% limits of agreement) were +5.0&#x2009;mmHg (-4.4 to +14.4) for PCO; -0.02 (-0.09 to +0.04) for pH; -34.3&#x2009;mmHg (-78.5 to +10.0) for PO; and -23.9% (-61.3 to +13.5) for SO. VBGs obtained from the dorsal hand demonstrated a lower mean PCOveno-arterial difference (< .01). A venous PCOthreshold of &#x2265; 45.8&#x2009;mmHg was > 95% sensitive for arterial hypercapnia, so measurements below this can exclude the diagnosis without an ABG. A venous PCOthreshold of &#x2265; 53.7&#x2009;mmHg was > 95% specific for arterial hypercapnia, so such readings can be assumed diagnostic. The area under the receiver operating characteristic curve of 0.91 indicated high discriminatory capacity. A venous PCO< 45.8&#x2009;mmHg or &#x2265; 53.7&#x2009;mmHg would exclude or diagnose hypercapnia, respectively, in patients referred for sleep studies, but VBGs are poor surrogates for ABGs where precision is important. Registry: Australian New Zealand Clinical Trials Register; Name: A comparison of arterial and blood gas analyses in sleep studies; URL: https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=372717; Identifier: ACTRN12617000562370. Lindstrom SJ, McDonald CF, Howard ME, et&#xa0;al. Venous blood gases in the assessment of respiratory failure in patients undergoing sleep studies: a randomized study.. 2024;20(8):1259-1266.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.03.010
+- DOI: 10.5664/jcsm.11128
 
 2. Keywords
-- Actigraphy
-- Alertness
-- Nap sleep
-- Night shift work
-- Psychomotor vigilance task
+- arterial blood gases
+- blood gas analysis
+- chronic respiratory failure
+- mechanical ventilation
+- polysomnography
+- ventilation
 
 3. Key Findings
-- Findings extraction requires manual review
+- VBGs obtained from the dorsal hand demonstrated a lower mean PCOveno-arterial difference (<
+- 91 indicated high discriminatory capacity
 
 This study provides insights into:
-- Actigraphy assessment methods and outcomes
-- Alertness assessment methods and outcomes
-- Nap sleep assessment methods and outcomes
+- arterial blood gases assessment methods and outcomes
+- blood gas analysis assessment methods and outcomes
+- chronic respiratory failure assessment methods and outcomes

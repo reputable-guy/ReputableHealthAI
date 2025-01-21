@@ -1,20 +1,21 @@
-Study Title: Restoring of Interhemispheric Symmetry in Patients With Stroke Following Bilateral or Unilateral Robot-Assisted Upper-Limb Rehabilitation: A Pilot Randomized Controlled Trial.
+Study Title: Impact of PIPAC-Oxaliplatin on Functional Recovery, Good Days, and Survival in a Refractory Colorectal and Appendiceal Carcinomatosis: Secondary Analysis of the US PIPAC Collaborative Phase 1 Trial.
 
 Study Summary:
-Bilateral robotic rehabilitation has proven helpful in the recovery of upper limb motor function in patients with stroke, but its effects on the cortical reorganization mechanisms underlying recovery are still unclear. This pilot Randomized Controlled Trial (RCT) aimed to evaluate the effects on the interhemispheric balance of unilateral or bilateral robotic treatments in patients with subacute stroke, using Quantitative Electroencephalography (qEEG). 19 patients with ischemic stroke underwent a 30-session upper limb neurorehabilitation intervention using a bilateral upper limb exoskeleton. Each patient was randomly assigned to the bilateral (BG, n=10) or unilateral treatment group (UG, n=9). EEG evaluations were performed before (T0) and right after (T [Formula: see text] the first treatment session, after 30 treatment sessions (T1), and at 1-week follow-up (T2), in both eyes open and eyes closed conditions. From the acquired EEG data, the pairwise-derived Brain Symmetry Index (pdBSI) was computed. In addition, clinical evaluation was performed at T0 and T1 with validated clinical scales. After the treatment, a significant improvement in clinical and EEG evaluations was observed for both groups, but only the BG showed reduced pdBSI in delta and theta bands. In the cluster of sensorimotor channels, there was no significant difference between groups. The observed changes were not maintained at follow-up. No significant changes were observed in the pdBSI after a single rehabilitation session. Results suggest that balancing of interhemispheric symmetry comes along with a clinical improvement in the upper extremity and that the pdBSI can be used to investigate the mechanisms of neuronal plasticity involved in robotic rehabilitation after stroke.
+Pressurized intraperitoneal aerosolized chemotherapy (PIPAC) is a novel, minimally invasive, safe, and repeatable method to treat carcinomatosis. Evidence regarding the clinical benefit (quality of life and survival) of PIPAC compared with that of conventional standard therapy (ST) is lacking. This is the secondary analysis of the phase 1 US-PIPAC trial for refractory colorectal and appendiceal carcinomatosis. A PIPAC cohort was compared with a retrospective cohort of consecutive patients receiving ST. The primary outcome was number of&#xa0;good days (number of days alive and out of the hospital). The secondary outcomes were overall survival (OS), progression-free survival (PFS), health-related quality of life (HRQoL), and objective functional recovery (daily step count). The study included 32 patients (PIPAC, 12; ST, 20) with similar baseline characteristics. Compared with the ST cohort, the PIPAC cohort had lower median inpatient hospital stays (> 24 h) within 6 months (0 vs 1; p = 0.015) and 1 year (1 vs 2; p = 0.052) and higher median good days at 6 months (181 vs 131&#xa0;days; p = 0.042) and 1 year (323 vs 131&#xa0;days; p = 0.032). There was no worsening of HRQoL after repeated PIPACs. Step counts diminished immediately after PIPAC but returned to baseline within 2-4 weeks. Kaplan-Meier analysis demonstrated a favorable association between receipt of PIPAC and OS (median, 11.3 vs 5.1 months; p = 0.036). Compared with ST, PIPAC was associated with higher number of good days, reduced hospitalization burden, and longer OS without a negative impact on HRQoL with repeated PIPACs. These findings are foundational for evaluation of PIPAC in a randomized clinical trial.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1109/TNSRE.2024.3460485
+- DOI: 10.1245/s10434-024-15980-9
 
 2. Keywords
 
 
 3. Key Findings
-- After the treatment, a significant improvement in clinical and EEG evaluations was observed for both groups, but only the BG showed reduced pdBSI in delta and theta bands
+- Kaplan-Meier analysis demonstrated a favorable association between receipt of PIPAC and OS (median, 11
+- These findings are foundational for evaluation of PIPAC in a randomized clinical trial
 
 This study provides insights into:
 - General research methodology and outcomes

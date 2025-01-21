@@ -1,29 +1,21 @@
-Study Title: Latarjet procedure restores range of motion at 6&#xa0;months postoperatively: a prospective cohort study using motion capture analysis.
+Study Title: Robotic versus laparoscopic distal gastrectomy for resectable gastric cancer: a randomized phase 2 trial.
 
 Study Summary:
-There is a common concern that range of motion (ROM) is negatively affected by the Latarjet procedure. We hypothesize that the Latarjet procedure results in full recovery of ROM postoperatively and significantly improved patient-reported outcome measures. Patient data were prospectively collected from a randomized controlled trial to analyze outcomes after open Latarjet procedure. Inclusion criteria involved a minimum follow-up of 6 months and unilateral shoulder instability. Study outcome was assessed by postoperative ROM at 6 months postoperatively and compared to the preoperative ROM of the ipsilateral shoulder as well as the ROM of the unaffected contralateral shoulder. All ROM measurements were performed using a motion capture system to ensure consistent and reliable measurements. The study included a total of 84 patients. ROM was measured in external rotation with the shoulder adducted (ER1), external rotation with the shoulder abducted 90&#xb0; (ER2), internal rotation with the arm abducted 90&#xb0; (IR2), and active forward elevation (AE). The mean difference in ROM between the operated arm vs. the contralateral healthy arm at 6 months postoperatively was 3.4&#xb0; in ER1 (P&#xa0;=&#xa0;.19), 4.2&#xb0; in ER2 (P&#xa0;=&#xa0;.086), 2.2&#xb0; in IR2 (P&#xa0;=&#xa0;.36), and 2.4&#xb0; in AE (P&#xa0;=&#xa0;.045). Subanalysis of patients with and without sling use revealed no significant difference in ROM between the operated shoulder and the contralateral shoulder at 6 months in either group, with the exception of ER2 in the sling group. In this latter group, ROM was 71&#xb0; in the operated arm and 79&#xb0; in the contralateral arm (P&#xa0;=&#xa0;.0094). Mean preoperative pain score was 25.7 (95% CI 21.4-30.1) vs. 13.0 postoperatively at 6 months (95% CI 9.50-16.5) (P&#xa0;<&#xa0;.00001). Mean preoperative Single Assessment Numeric Evaluation instability was 42.9 (95% CI 38.4-47.3) vs. 86.2 postoperatively at 6 months (95% CI 83.6-88.7) (P&#xa0;<&#xa0;.00001). Mean preoperative Rowe score was 38.5 (95% CI 34.3-42.7) vs. 84.3 at postoperative month 6 (95% CI 81.1-87.4) (P&#xa0;<&#xa0;.00001). Latarjet procedure performed for anterior instability using a capsular repair results in complete ROM recovery in ER1, ER2, and IR2 at 6 months postoperatively, with only a slight discrepancy in active elevation. Sling use after the Latarjet procedure results in no benefit over postoperative recovery without the use of a sling. Sling use negatively affects the ROM in ER2, taking as reference the contralateral arm of the same patient, when compared to patients who did not use a sling postoperatively.
+Robotic surgery may be an alternative to laparoscopic surgery for gastric cancer (GC). However, randomized controlled trials (RCTs) reporting the differences in survival between these two approaches are currently lacking. From September 2017 to January 2020, 300 patients with cT1-4a and N0/+ were enrolled and randomized to either the robotic (RDG) or laparoscopic distal gastrectomy (LDG) group (NCT03313700). The primary endpoint was 3-year disease-free survival (DFS); secondary endpoints reported here are the 3-year overall survival (OS) and recurrence patterns. The remaining secondary outcomes include intraoperative outcomes, postoperative recovery, quality of lymphadenectomy, and cost differences, which have previously been reported. There were 283 patients in the modified intention-to-treat analysis (RDG group: n&#x2009;=&#x2009;141; LDG group: n&#x2009;=&#x2009;142). The trial has met pre-specified endpoints. The 3-year DFS rates were 85.8% and 73.2% in the RDG and LDG groups, respectively (p&#x2009;=&#x2009;0.011). Multivariable Cox regression model including age, tumor size, sex, ECOG PS, lymphovascular invasion, histology, pT stage, and pN stage showed that RDG was associated with better 3-year DFS (HR: 0.541; 95% CI: 0.314-0.932). The RDG also improved the 3-year cumulative recurrence rate (RDG vs. LDG: 12.1% vs. 21.1%; HR: 0.546, 95% CI: 0.302-0.990). Compared to LDG, RDG demonstrated non-inferiority in 3-year DFS rate.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jse.2024.03.070
+- DOI: 10.1038/s41467-024-49013-6
 
 2. Keywords
-- Glenohumeral stabilization
-- apprehension
-- biomechanics
-- dislocation
-- kinematics modeling
-- subluxation
-- subtle or minor instability
-- unstable painful shoulder
+
 
 3. Key Findings
-- Subanalysis of patients with and without sling use revealed no significant difference in ROM between the operated shoulder and the contralateral shoulder at 6 months in either group, with the exception of ER2 in the sling group
+- Multivariable Cox regression model including age, tumor size, sex, ECOG PS, lymphovascular invasion, histology, pT stage, and pN stage showed that RDG was associated with better 3-year DFS (HR: 0
+- Compared to LDG, RDG demonstrated non-inferiority in 3-year DFS rate
 
 This study provides insights into:
-- Glenohumeral stabilization assessment methods and outcomes
-- apprehension assessment methods and outcomes
-- biomechanics assessment methods and outcomes
+- General research methodology and outcomes

@@ -1,27 +1,27 @@
-Study Title: Effects of consecutive bed bathing with weak versus ordinary pressure on skin barrier recovery of hospitalised older adults: A within-person randomised controlled trial.
+Study Title: Quality-of-life outcomes of the ROBOtic-assisted versus Conventional Open Partial nephrectomy (ROBOCOP) II trial.
 
 Study Summary:
-Wiping pressure (WP [mmHg]) during bed baths is essential to maintain skin integrity and care quality for older adults. However, effects of different wiping pressures on skin barrier recovery over multiple days remain unclear. This study evaluated and compared the effects of consecutive bed bathing with weak pressure and that with ordinary pressure on skin barrier recovery of hospitalised older adults. This within-person, randomised, controlled trial involved 254 forearms (127 patients) and was conducted at a general hospital. Forearms were blinded and randomly assigned a site and sequence of two bed bathing sessions: wiping three times with weak (10&#x2264;WP<20) and ordinary pressure (20&#x2264;WP<30) once per day for 2 consecutive days. The skin barrier was assessed daily based on transepidermal water loss (TEWL) and stratum corneum hydration (SCH) before and 15&#xa0;min after the interventions. Dry skin was assessed using the overall dry skin score. A linear mixed model showed that the time courses of TEWL and SCH differed significantly between groups. Impaired skin barrier function caused by ordinary pressure on the first day did not recover to baseline values the next day, whereas weak pressure did not cause significant changes. During subgroup analyses, TEWL of patients with dry skin was more likely to increase with ordinary pressure. Despite decreased skin barrier recovery experienced by older adults, our findings suggest the safety of weak pressure and highlight the importance of WP during bed baths. Weak pressure is particularly desirable for patients with dry skin. UMIN000048838.
+To comprehensively compare quality-of-life (QoL) outcomes between open partial nephrectomy (OPN) and robot-assisted PN (RAPN) from the randomised ROBOtic-assisted versus Conventional Open Partial nephrectomy (ROBOCOP) II trial, as QoL data comparing OPN and RAPN are virtually non-existent, especially not from randomised controlled trials (RCTs). The ROBOCOP II was a single-centre, open-label RCT between OPN and RAPN. The pre-planned analyses of QoL outcomes are presented. Data were analysed descriptively in a modified intention-to-treat population. A total of 50 patients underwent surgery. At postoperative Day 90 (POD90), there was no significant difference for the Kidney Disease Quality of Life-Short Form questionnaire score (mean [sd] OPN 72&#x2009;[20] vs RAPN 76&#x2009;[15], P&#x2009;=&#x2009;0.850), while there were advantages for RAPN in the subdomains of 'Pain' (P&#x2009;=&#x2009;0.006) and 'Physical functioning' (P&#x2009;=&#x2009;0.011) immediately after surgery. For the European Organisation for Research and Treatment of Cancer quality of life questionnaire 30-item core there were overall advantages directly after surgery (mean [sd] score OPN 63&#x2009;[20] vs RAPN 75&#x2009;[17], P&#x2009;=&#x2009;0.031), as well as for the subdomains 'Fatigue' (P&#x2009;=&#x2009;0.026), 'Pain' (P&#x2009;=&#x2009;0.002) and 'Constipation' (P&#x2009;=&#x2009;0.045) but no differences at POD90. There were no differences for the EuroQoL five Dimensions five Levels questionnaire at POD90 (mean [sd] score OPN 70&#x2009;[22] vs RAPN 72&#x2009;[17], P&#x2009;=&#x2009;1.0) or at any other time point. Finally, no significant differences were found for the overall Convalescence and Recovery Evaluation questionnaire score at POD90 (mean [sd] OPN 84&#x2009;[13] vs RAPN 86&#x2009;[10], P&#x2009;=&#x2009;0.818) but less pain in the RAPN group (P&#x2009;=&#x2009;0.017) directly after surgery. Pain and physical functioning as subdomains of QoL are improved after RAPN compared to OPN in the early postoperative course, while there are no differences anymore after 3&#x2009;months.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jtv.2024.05.008
+- DOI: 10.1111/bju.16407
 
 2. Keywords
-- Aged
-- Bed bath
-- Hygiene
-- Nursing care
-- Skin barrier function
-- Skin care
+- evidence&#x2010;based medicine
+- kidney cancer
+- partial nephrectomy
+- quality of life
+- randomised controlled trial
+- robot&#x2010;assisted&#x2010;surgery
 
 3. Key Findings
-- A linear mixed model showed that the time courses of TEWL and SCH differed significantly between groups
+- Finally, no significant differences were found for the overall Convalescence and Recovery Evaluation questionnaire score at POD90 (mean [sd] OPN 84&#x2009;[13] vs RAPN 86&#x2009;[10], P&#x2009;=&#x2009;0
 
 This study provides insights into:
-- Aged assessment methods and outcomes
-- Bed bath assessment methods and outcomes
-- Hygiene assessment methods and outcomes
+- evidence&#x2010;based medicine assessment methods and outcomes
+- kidney cancer assessment methods and outcomes
+- partial nephrectomy assessment methods and outcomes

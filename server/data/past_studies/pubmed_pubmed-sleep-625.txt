@@ -1,27 +1,26 @@
-Study Title: Preventing postpartum insomnia: findings from a three-arm randomized-controlled trial of cognitive behavioral therapy for insomnia, a responsive bassinet, and sleep hygiene.
+Study Title: Impact of increased protein intake in older adults: a 12-week double-blind randomised controlled trial.
 
 Study Summary:
-Insomnia symptoms are common during the perinatal period and are linked to adverse outcomes. This single-blind three-arm randomized-controlled trial examined whether two interventions targeting different mechanisms prevent postpartum insomnia. Participants were nulliparous females 26-32 weeks gestation with Insomnia Severity Index (ISI) scores&#x2005;&#x2265;&#x2005;8, recruited in Australia and randomized 1:1:1 to: (1) a responsive bassinet (RB) designed to support infant sleep and reduce maternal sleep disruption until 6 months postpartum, (2) therapist-assisted cognitive behavioral therapy for insomnia (CBT-I) delivered during pregnancy and postpartum, or (3) a sleep hygiene booklet (control; CTRL). Outcomes were assessed at baseline (T1), 35-36 weeks gestation (T2), and 2, 6, and 12 months postpartum (T3-T5). The primary outcome was ISI scores averaged T3-T5. Primary analyses were regressions controlling for baseline outcomes. One hundred and twenty-seven participants (age M&#x2005;&#xb1;&#x2005;SD&#x2005;=&#x2005;32.62&#x2005;&#xb1;&#x2005;3.49) were randomized (RB&#x2005;=&#x2005;44, CBT-I&#x2005;=&#x2005;42, CTRL&#x2005;=&#x2005;41). Both interventions were feasible and well-accepted, with few related adverse events reported. Compared to CTRL, the average ISI across T3-T5 was lower for CBT-I (p&#x2005;=&#x2005;.014, effect size [ES]&#x2005;=&#x2005;0.56, medium) but not RB (p&#x2005;=&#x2005;.270, ES&#x2005;=&#x2005;0.25, small). Exploratory findings on maternal insomnia diagnosis, sleep disturbance, sleep-related impairment, beliefs and attitudes about sleep, depression, anxiety, as well as infant sleep outcomes were also presented. CBT-I but not RB reduced prenatal insomnia (very large effect) and prevented postpartum insomnia (medium effect). Further research is needed to examine the effects of both CBT-I and RB on other outcomes such as sleep-related well-being, postpartum depression, and maternal postpartum sleep duration. The Study for Mother-Infant Sleep (The SMILE Project): reducing postpartum insomnia using an infant sleep intervention and a maternal sleep intervention in first-time mothers. https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=377927, Australian New Zealand Clinical Trials Registry: ACTRN12619001166167.
+Emerging evidence suggests health-promoting properties of increased protein intake. There is increased interest in plant protein but a dearth of information in relation to its impact on muscle function. The objective of the present work was to examine the impact of intake of different types of proteins on muscle functional parameters including handgrip strength, biomarkers of metabolic health, sleep quality and quality of life in a group of older adults. Healthy men and women aged 50&#xa0;years and older entered a double-blinded, randomised, controlled nutritional intervention study with three parallel arms: high plant protein, high dairy protein and low protein. Participants consumed once daily a ready-to-mix shake (containing 20&#xa0;g of protein in high protein groups) for 12&#xa0;weeks. Changes in handgrip and leg strength, body composition, metabolic health, quality of life and sleep quality were analysed by linear mixed models in an intention-to-treat approach. Eligible participants (n&#xa0;=&#x2009;171) were randomly assigned to the groups (plant: n&#xa0;=&#x2009;60, dairy: n&#xa0;=&#x2009;56, low protein: n&#xa0;=&#x2009;55) and 141 completed the study. Handgrip strength increased after the intervention (Ptime&#xa0;=&#x2009;0.038), with no significant difference between the groups. There was no significant difference between groups for any other health outcomes. In a population of older adults, increasing protein intake by 20&#xa0;g daily for 12&#xa0;weeks (whether plant-based or dairy-based) did not result in significant differences in muscle function, body composition, metabolic health, sleep quality or quality of life, compared with the low protein group.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/sleep/zsae106
+- DOI: 10.1093/ageing/afae031
 
 2. Keywords
-- cognitive behavioral therapy
-- insomnia
-- pediatrics&#x2014;infants
-- postpartum depression
-- pregnancy
-- women&#x2019;s health
+- handgrip
+- muscle function
+- older people
+- plant-protein
+- protein
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- cognitive behavioral therapy assessment methods and outcomes
-- insomnia assessment methods and outcomes
-- pediatrics&#x2014;infants assessment methods and outcomes
+- handgrip assessment methods and outcomes
+- muscle function assessment methods and outcomes
+- older people assessment methods and outcomes

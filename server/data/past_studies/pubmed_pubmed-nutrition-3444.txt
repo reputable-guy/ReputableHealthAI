@@ -1,29 +1,26 @@
-Study Title: The Impact of Glucomannan, Inulin, and Psyllium Supplementation (Soloways) on Weight Loss in Adults with FTO, LEP, LEPR, and MC4R Polymorphisms: A Randomized, Double-Blind, Placebo-Controlled Trial.
+Study Title: Effects of a Novel Applet-Based Personalized Dietary Intervention on Dietary Intakes: A Randomized Controlled Trial in a Real-World Scenario.
 
 Study Summary:
-This study aimed to determine the impact of a fiber supplement on body weight and composition in individuals with obesity with specific genetic polymorphisms. It involved 112 adults with obesity, each with at least one minor allele in the FTO, LEP, LEPR, or MC4R polymorphism. Participants were randomized to receive either a fiber supplement (glucomannan, inulin, and psyllium) or a placebo for 180 days. The experimental group showed significant reductions in body weight (treatment difference: -4.9%; 95% CI: -6.9% to -2.9%;< 0.01) and BMI (treatment difference: -1.4 kg/m; 95% CI: -1.7 to -1.2;< 0.01) compared to placebo. Further significant decreases in fat mass (treatment difference: -13.0%; 95% CI: -14.4 to -11.7;< 0.01) and visceral fat rating (treatment difference: -1.3; 95% CI: -1.6 to -1.0;< 0.01) were noted. Homozygous minor allele carriers experienced greater decreases in body weight (treatment difference: -3.2%; 95% CI: -4.9% to -1.6%;< 0.01) and BMI (treatment difference: -1.2 kg/m; 95% CI: -2.0 to -0.4;< 0.01) compared to heterozygous allele carriers. These carriers also had a more significant reduction in fat mass (treatment difference: -9.8%; 95% CI: -10.6 to -9.1;< 0.01) and visceral fat rating (treatment difference: -0.9; 95% CI: -1.3 to -0.5;< 0.01). A high incidence of gastrointestinal events was reported in the experimental group (74.6%), unlike the placebo group, which reported no side effects. Dietary supplementation with glucomannan, inulin, and psyllium effectively promotes weight loss and improves body composition in individuals with obesity, particularly those with specific genetic polymorphisms.
+The objective of this study was to assess the feasibility and effectiveness of a novel WeChat applet-based personalized dietary intervention aimed at promoting healthier dietary intakes. A two-arm parallel, randomized, controlled trial was conducted in a real-world scenario and involved a total of 153 participants (the intervention group,= 76; the control group,= 77), lasting for 4 months in Shanghai, China. The intervention group had access to visualized nutrition evaluations through the applet during workday lunch time, while the control group received no interventions. A total of 3413 lunch dietary intake records were captured through the applet. Linear mixed models were utilized to assess the intervention effects over time. At baseline, the participants' lunchtime dietary intakes were characterized by insufficient consumption of plant foods (86.9% of the participants) and excessive intake of animal foods (79.7% of the participants). Following the commencement of the intervention, the intervention group showed a significant decrease in the animal/plant food ratio (&#x3b2; = -0.03/week,= 0.024) and the consumption of livestock and poultry meat (&#x3b2; = -1.80 g/week,= 0.035), as well as a borderline significant increase in the consumption of vegetables and fruits (&#x3b2; = 3.22 g/week,= 0.055) and plant foods (&#x3b2; = 3.26 g/week,= 0.057) over time at lunch compared to the control group. The applet-based personalized dietary intervention was feasible and effective in improving dietary intakes and, consequently, possibly may manage body weight issues in real-world scenarios.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16040557
+- DOI: 10.3390/nu16040565
 
 2. Keywords
-- dietary fibers
-- genetic polymorphisms
-- glucomannan
-- inulin
-- obesity
+- behavioral nutrition interventions
+- dietary intakes
+- nutrition translation
 - personalized nutrition
-- psyllium
-- weight management
+- randomized control trial (RCT)
 
 3. Key Findings
-- The experimental group showed significant reductions in body weight (treatment difference: -4
+- Following the commencement of the intervention, the intervention group showed a significant decrease in the animal/plant food ratio (&#x3b2; = -0
 
 This study provides insights into:
-- dietary fibers assessment methods and outcomes
-- genetic polymorphisms assessment methods and outcomes
-- glucomannan assessment methods and outcomes
+- behavioral nutrition interventions assessment methods and outcomes
+- dietary intakes assessment methods and outcomes
+- nutrition translation assessment methods and outcomes

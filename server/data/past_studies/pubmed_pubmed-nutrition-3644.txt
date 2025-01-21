@@ -1,29 +1,26 @@
-Study Title: Effects of nutritional therapy on gastrointestinal microbial digestion and barrier defense markers in elderly patients with diabetes.
+Study Title: Anticancer assessment and antibiofilm potential ofmushroom originated from Serbia.
 
 Study Summary:
-We sought to investigate the effects of gastrointestinal nutrition therapy on gastrointestinal microbial digestion and barrier defense markers in elderly patients with diabetes. A total of 120 elderly patients with type 2 diabetes were enrolled at our hospital between January 2020 and December 2022. The participants in this study were randomly allocated into either the nutritional group (n&#x2009;=&#x2009;60) who underwent gastrointestinal nutrition therapy or the control group (n&#x2009;=&#x2009;60) who underwent conventional T2DM diet management for a period of 12&#xa0;weeks. Clinical data, as well as small intestinal permeability measured by the lactulose-mannitol urine test, plasma circulating IL-6 and zonulin levels measured by ELISA, and expressions of ZO-1 and Claudin-3 in blood analyzed through Western blotting were collected. The nutrition group demonstrated a higher proportion of patients achieving HbA1c&#x2009;<&#x2009;7% compared to the control group (P&#x2009;<&#x2009;0.05). Moreover, the nutrition group exhibited a greater reduction in fasting and postprandial blood glucose levels compared to the control group (P&#x2009;<&#x2009;0.05). The concentrations of formate-tetrahydrofolate ligase and acetic CoA transferase were significantly increased in the nutrition group compared to the control group (P&#x2009;<&#x2009;0.05). Fecal analysis revealed higher levels of acetic acid and butyric acid in the nutrition group compared to the control group (P&#x2009;<&#x2009;0.05). The ratio of lactulose to mannitol was higher in the nutrition group compared to the control group (P&#x2009;<&#x2009;0.05). Furthermore, the nutrition group showed lower levels of IL-6 and zonulin compared to the control group (P&#x2009;<&#x2009;0.05). Personalized gastrointestinal nutrition therapy was found to enhance the production of short-chain fatty acids and preserve intestinal permeability, leading to improved gastrointestinal microbial digestion and barrier defense in elderly patients with diabetes.
+(Bull.) Murrill is a well-known edible mushroom consumed in nutrition as delicacy. It has been used in traditional medicine because of its beneficial effects on human wellness, such as antimicrobial, antioxidant, and anticancer potential. The present study determined the phenolic profile ofethanolic extract (LSE) by high-performance liquid chromatographic method. Tolerance of two probiotic bacterial strains229v,subsp.and probiotic yeaston LSE was analyzed in terms of viability and biofilm formation. Effects of extract on colorectal (HCT-116) and cervical (HeLa) cancer cells viability was determined using MTT test in concentration range: 1-500&#x2009;&#x3bc;g/mL after 24 and 72&#x2009;h. Redox parameters (superoxide anion radicals, nitrites, and reduced glutathione) were evaluated using NBT, Griess, and GSH assays in the concentration range of 1-500&#x2009;&#x3bc;g/mL after 24 and 72&#x2009;h. Antimigratory activity was determined by wound healing method using selected concentrations of 10 and 50&#x2009;&#x3bc;g/mL after 24&#x2009;h. Untreated cells were considered as control. As control cell line, we used healthy fibroblasts (MRC-5). Our results demonstrated abundance of LSE in phenolics, with rosmarinic acid as the main component. LSE induced low tolerance of tested planktonic probiotic strains, with no affection on their ability to form biofilm. No significant cytotoxicity on tested cancer cells was observed, with prooxidative and antimigratory effects noticed. Extract exerted significant antimigratory activity on cancer cells without effect on planktonic and probiotic cultures in biofilm. These results indicate potential application ofethanolic extract as natural protector of probiotics with prominent ability to suppress cancer cell motility.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.1007/s40520-023-02518-4
+- Publication Date: 2024
+- DOI: 10.1002/fsn3.3577
 
 2. Keywords
-- Barrier defense
-- Diabetes mellitus
-- Elderly patients
-- Gastrointestinal nutrition therapy
-- Intestinal microbes
+- antibiofilm activity
+- migration
+- mushroom
+- phenolic profile
+- probiotics
 
 3. Key Findings
-- The nutrition group demonstrated a higher proportion of patients achieving HbA1c&#x2009;<&#x2009;7% compared to the control group (P&#x2009;<&#x2009;0
-- Fecal analysis revealed higher levels of acetic acid and butyric acid in the nutrition group compared to the control group (P&#x2009;<&#x2009;0
-- Furthermore, the nutrition group showed lower levels of IL-6 and zonulin compared to the control group (P&#x2009;<&#x2009;0
-- Personalized gastrointestinal nutrition therapy was found to enhance the production of short-chain fatty acids and preserve intestinal permeability, leading to improved gastrointestinal microbial digestion and barrier defense in elderly patients with diabetes
+- Our results demonstrated abundance of LSE in phenolics, with rosmarinic acid as the main component
 
 This study provides insights into:
-- Barrier defense assessment methods and outcomes
-- Diabetes mellitus assessment methods and outcomes
-- Elderly patients assessment methods and outcomes
+- antibiofilm activity assessment methods and outcomes
+- migration assessment methods and outcomes
+- mushroom assessment methods and outcomes

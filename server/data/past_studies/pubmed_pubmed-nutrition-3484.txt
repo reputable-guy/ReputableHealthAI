@@ -1,28 +1,29 @@
-Study Title: Effects of a Comprehensive Dietary Intervention Program, Promoting Nutrition Literacy, Eating Behavior, Dietary Quality, and Gestational Weight Gain in Chinese Urban Women with Normal Body Mass Index during Pregnancy.
+Study Title: Association of Glutamine and Glutamate Metabolism with Mortality among Patients at Nutritional Risk-A Secondary Analysis of the Randomized Clinical Trial EFFORT.
 
 Study Summary:
-In urban Chinese women with normal body weight during pregnancy, we implemented a comprehensive dietary intervention program aimed at enhancing nutrition literacy, dietary quality, and gestational weight gain. The methods included both online and offline health education on prenatal nutrition, weekly weight monitoring, family back education practices, and real-time dietary guidance. The intervention was delivered to randomly assigned control and intervention group participants from gestational week 12 to week 24. The intervention group (= 44; 100% complete data) showed significant differences (mean (SD)) compared to the control group (= 42; 95.5% complete data) in nutrition literacy (53.39 &#xb1; 6.60 vs. 43.55 &#xb1; 9.58,< 0.001), restrained eating (31.61 &#xb1; 7.28 vs. 28.79 &#xb1; 7.96,< 0.001), Diet Quality Distance (29.11 &#xb1; 8.52 vs. 40.71 &#xb1; 7.39,< 0.001), and weight gain within the first 12 weeks of intervention (4.97 &#xb1; 1.33 vs. 5.98 &#xb1; 2.78,= 0.029). However, there was no significant difference in the incidence of gestational diabetes (2 (4.5%) vs. 4 (9.5%),= 0.629). Participants in the intervention group reported an overall satisfaction score of 4.70 &#xb1; 0.46 for the intervention strategy. These results emphasize the positive role of comprehensive dietary intervention in promoting a healthy diet during pregnancy.
+Glutamine and its metabolite glutamate serve as the main energy substrates for immune cells, and their plasma levels drop during severe illness. Therefore, glutamine supplementation in the critical care setting has been advocated. However, little is known about glutamine metabolism in severely but not critically ill medical patients. We investigated the prognostic impact of glutamine metabolism in a secondary analysis of the(EFFORT), a randomized controlled trial comparing individualized nutritional support to usual care in patients at nutritional risk. Among 234 patients with available measurements, low plasma levels of glutamate were independently associated with 30-day mortality (adjusted HR 2.35 [95% CI 1.18-4.67,= 0.015]). The impact on mortality remained consistent long-term for up to 5 years. No significant association was found for circulating glutamine levels and short- or long-term mortality. There was no association of glutamate nor glutamine with malnutrition parameters or with the effectiveness of nutritional support. This secondary analysis found glutamate to be independently prognostic among medical inpatients at nutritional risk but poorly associated with the effectiveness of nutritional support. In contrast to ICU studies, we found no association between glutamine and clinical outcome.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16020217
+- DOI: 10.3390/nu16020222
 
 2. Keywords
-- digital
-- eating behavior
-- health literacy
-- intervention
-- nutrition
-- pregnancy
-- weight
+- biomarker
+- glutamate
+- glutamine
+- individualized nutrition support
+- malnutrition
+- polymorbid patient
 
 3. Key Findings
-- The intervention group (= 44; 100% complete data) showed significant differences (mean (SD)) compared to the control group (= 42; 95
+- No significant association was found for circulating glutamine levels and short- or long-term mortality
+- This secondary analysis found glutamate to be independently prognostic among medical inpatients at nutritional risk but poorly associated with the effectiveness of nutritional support
+- In contrast to ICU studies, we found no association between glutamine and clinical outcome
 
 This study provides insights into:
-- digital assessment methods and outcomes
-- eating behavior assessment methods and outcomes
-- health literacy assessment methods and outcomes
+- biomarker assessment methods and outcomes
+- glutamate assessment methods and outcomes
+- glutamine assessment methods and outcomes

@@ -1,26 +1,26 @@
-Study Title: Should handgrip strength be considered when choosing the administration mode of oral nutritional supplements in geriatric patients? A secondary analysis of the MEDPass Trial.
+Study Title: Effectiveness of the Therapeutic Lifestyle Change Diet Intervention to Improve Biochemical Markers of Cardiovascular Diseases in HIV-Infected Patients with Dyslipidemia.
 
 Study Summary:
-It is important to individualize nutrition therapy and to identify whether certain patient groups benefit from a specific intervention such as oral nutritional supplements (ONS). This study investigated whether patients with weak handgrip strength (HGS) benefit better from ONS administration in the Medication Pass Nutritional Supplement Program (MEDPass) mode regarding the individual coverage of energy and protein requirements throughout their hospitalization. A secondary analysis of the intention-to-treat data set of the randomized controlled MEDPass trial was conducted. Weak HGS was defined as <27 kg for men and <16 kg for women. Linear mixed-effect models adjusted for the stratification factors energy density of ONS and nutritional risk screening 2002 score were used to address the aim of the study. We included 188 participants. Energy and protein coverage did not differ between the patients with weak or normal HGS depending on ONS administration mode (P = 0.084, P = 0.108). Patients with weak HGS and MEDPass administration mode tended to have the lowest energy and protein coverage (estimated mean, 77.2%; 95% confidence interval [CI], 69.3%-85% and estimated mean, 95.1%; 95% CI, 85.3%-105%, respectively). Patients with weak HGS and conventional ONS administration had the highest energy and protein coverage (estimated mean, 90%; 95% CI, 82.8%-97.2% and estimated mean, 110.2%; 95% CI, 101.3%-119%, respectively). No clear recommendations regarding the mode of ONS administration depending on HGS can be made. In clinical practice, appetite and satiety in patients with weak HGS should be monitored, and the ONS administration mode should be adjusted accordingly.
+This randomized controlled trial study aimed to investigate the effectiveness of therapeutic lifestyle change (TLC) diet intervention by the registered dietitians. Eighty-two people living with HIV (PLHIV) with dyslipidemia were randomly allocated to the intervention group as well as another 82 PLHIV with dyslipidemia to the control group. Participants in the intervention group were instructed to meet the registered dietitians every 2 weeks at weeks 0, 2, 4, 6, and 12 (a totally of 12 weeks) to receive individual medical nutrition therapy according to the TLC diet principles, while the participants in the control group only received routine health care service. Triglycerides, total cholesterol, and LDL cholesterol of the intervention group were significantly lower than those of the control group at the endpoint (p &lt; 0.05). In addition, these biomarkers and C-reactive protein of the intervention group were significantly lower when compared with their baseline (p &lt; 0.05). The overall dietary habits of participants in the intervention group were significantly improved at the end of the study (p &lt; 0.05). The medical nutrition therapy intervention based on the TLC diet is effective in improving blood lipid profiles among PLHIV with dyslipidemia.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.nut.2024.112429
+- DOI: 10.1159/000538578
 
 2. Keywords
-- Energy
-- Handgrip strength
-- MEDPass
-- Malnutrition
-- Oral nutritional supplements
+- Dyslipidemia
+- Food habits
+- Human immunodeficiency virus
+- Medical nutrition therapy
+- Therapeutic lifestyle change diet
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Energy assessment methods and outcomes
-- Handgrip strength assessment methods and outcomes
-- MEDPass assessment methods and outcomes
+- Dyslipidemia assessment methods and outcomes
+- Food habits assessment methods and outcomes
+- Human immunodeficiency virus assessment methods and outcomes

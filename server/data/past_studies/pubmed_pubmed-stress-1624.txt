@@ -1,20 +1,27 @@
-Study Title: 'I'm So Proud of How Hard You're Trying': A Photovoice Analysis of Youth Mental Health and Wellness in Wisconsin.
+Study Title: The effect of music on stress recovery.
 
 Study Summary:
-Understanding youth and young adult mental health and well-being is critical to addressing rates of suicide among this population. This qualitative study sought to gather additional perspectives of students across Wisconsin using photovoice methods to enhance understanding of their experiences and to inform future policies and programs. A total of 11 youth and young adults ages 14 to 26 participated by taking pictures in response to given prompts and then discussing those pictures within a virtual focus group. Spanning the social-ecological framework, 4 themes emerged from the photographs and discussion: (1) individual-level factors drive mental health and well-being; (2) the support of interpersonal relationships is crucial; (3) school-related factors are predominant sources of stress; (4) policies, culture, and systems influence well-being. This study highlights the unique experiences of youth and young adults and underscores the impact of systems and structures on their mental health and well-being.
+Previous research has suggested beneficial effects of music in reducing stress levels. However, there is no consistent conclusion demonstrating that music can contribute to stress recovery, primarily due to limitations in stress measurement, and inconsistent methodology within existing studies. Our study explores whether relaxing music, especially when self-selected, outperforms non-music acoustic, and silence conditions, fostering both subjective and biological stress recovery. One hundred and five healthy female participants underwent the Trier Social Stress Test (TSST) before being randomly allocated to one of four conditions: condition 1 (n = 25) listened to researcher-selected relaxing music; condition 2 (n = 27) listened to self-selected relaxing music; condition 3 (n = 26) listened to the sound of rippling water; and condition 4 (n = 27) remained in silence. Stress parameters were repeatedly measured nine times before and after the TSST. Saliva samples were collected for cortisol and saliva alpha-amylase (sAA) analysis, Movisens equipment was used to measure heart rate (HR) and skin conductance levels (SCL), and Visual Analogue Scales (VAS) were used for subjective stress measurement. The examination of SCL, and VAS scores revealed no significant changes following the four relaxation interventions. Although sAA displayed a significant main effect of condition, post hoc tests did not pinpoint specific differences. HR recovery patterns varied among the four relaxation interventions, with the sound of rippling water condition exhibiting a later significant decrease compared to the other conditions. Exploratory analyses revealed that cortisol levels continued increase in all conditions during intervention phase except the researcher-selected music condition. The subjective and biological stress markers did not exhibit better recovery after the music stimulus, except for a tendency in the researcher-selected music condition to mitigate the continued increase in cortisol levels after the stress test. Our study provides the first evidence comparing the impact of researcher- and participant-selected music with silence and a non-music acoustic stimulus, on both subjective and biological stress recovery. Our findings contribute to a more nuanced understanding of the impact of music on stress recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-
+- DOI: 10.1016/j.psyneuen.2024.107137
 
 2. Keywords
-
+- Participant-selected music
+- Researcher-selected music
+- Salivary alpha-amylase
+- Salivary cortisol
+- Stress recovery
 
 3. Key Findings
-- Findings extraction requires manual review
+- The examination of SCL, and VAS scores revealed no significant changes following the four relaxation interventions
+- Exploratory analyses revealed that cortisol levels continued increase in all conditions during intervention phase except the researcher-selected music condition
 
 This study provides insights into:
-- General research methodology and outcomes
+- Participant-selected music assessment methods and outcomes
+- Researcher-selected music assessment methods and outcomes
+- Salivary alpha-amylase assessment methods and outcomes

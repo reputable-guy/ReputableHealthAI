@@ -1,20 +1,27 @@
-Study Title: The Effects of Perineural Dexamethasone on Rebound Pain After Nerve Block in Patients With Unicompartmental Knee Arthroplasty: A Randomized Controlled Trial.
+Study Title: The efficacy of heart rate variability biofeedback training on sleep disorders and impact of fibromyalgia: Results of a phase II randomized controlled trial.
 
 Study Summary:
-A single nerve block provides excellent analgesia in a short time, but rebound pain after the nerve block dissipates has attracted researchers' attention. The aim of this study was to evaluate the effect of perineural dexamethasone on rebound pain after sciatic nerve block and femoral nerve block in patients undergoing unicompartmental knee arthroplasty (UKA). In a double-blinded fashion, we recruited 72 patients undergoing UKA, each of whom received sciatic and femoral nerve block. Patients were randomly assigned to 2 groups (n=36): X (ropivacaine only) and D (ropivacaine combined with dexamethasone). The primary outcome was the incidence of rebound pain. The secondary outcomes were rebound pain score, the duration of rebound pain, the duration of nerve block, pain score, sufentanil consumption and rescue analgesic, patient-controlled intravenous analgesia, distance walked, sleep quality score, C-reactive protein levels, and adverse effects. Compared with group X, the incidence of rebound pain in group D was higher, the rebound pain score was higher and the duration of the nerve block was prolonged ( P <0.05). At 12, 16, and 20 hours postoperatively, the pain scores at rest in group D were lower. At 32 and 36 hours postoperatively, the pain scores at rest in group D were higher ( P <0.05). Furthermore, patients in group D had lower levels of C-reactive protein after surgery ( P <0.05). The addition of dexmedetomidine to ropivacaine for UKA effectively prolonged the duration of nerve block and decreased C-reactive protein levels, but increased the incidence of rebound pain and rebound pain score, and had no beneficial effects on the postoperative analgesia.
+Fibromyalgia syndrome (FMs) is a chronic, musculoskeletal pain disorder characterized by sleep disturbances, fatigue, and cognitive dysfunction. Heart rate variability biofeedback (HRV-BF) aiming to improve self-regulation and strengthen the parasympathetic nervous system has been shown to be effective in several pain syndromes, but its efficacy in FMs has not been adequately investigated. This Phase II trial aimed to assess the feasibility and preliminary measurement of the improvement induced by HRV-BF in FMs. Sixty-four patients with FMs were recruited. Patients were randomly assigned to either the experimental group (EG) or the control group (CG). The EG received 10 HRV-BF training sessions in addition to pharmacological standard therapy. The CG received standard therapies for 10&#xa0;weeks. The FMs impact on daily life, sleep regularity, sense of coherence, depression symptoms and pain has been assessed as primary outcomes, quality of life as secondary. 23 (71.9%) of EG patients completed the intervention and 20 (62.5%) of the CG were re-evaluated at time T1. No side effects were reported. It was not found any statistical differences between groups over time in primary and secondary outcomes. The HRV-BF intervention did not demonstrate efficacy in both primary and secondary outcomes. However, it is quite feasible in terms of drop-out rate and side effects. Further studies with larger sample sizes are needed to determine its actual efficacy. gov with code: NCT04121832.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/AJP.0000000000001220
+- DOI: 10.1016/j.jpsychores.2024.111664
 
 2. Keywords
-
+- Biofeedback
+- Fibromyalgia
+- Heart rate variability
+- Impact of fibromyalgia
+- Pilot study
+- Sleep disturbance
 
 3. Key Findings
-- Findings extraction requires manual review
+- It was not found any statistical differences between groups over time in primary and secondary outcomes
 
 This study provides insights into:
-- General research methodology and outcomes
+- Biofeedback assessment methods and outcomes
+- Fibromyalgia assessment methods and outcomes
+- Heart rate variability assessment methods and outcomes

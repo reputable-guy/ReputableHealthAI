@@ -1,27 +1,31 @@
-Study Title: Delaying post-exercise carbohydrate intake impairs next-day exercise capacity but not muscle glycogen or molecular responses.
+Study Title: Assessing and Enhancing Movement Quality Using Wearables and Consumer Technologies: Thematic Analysis of Expert Perspectives.
 
 Study Summary:
-To investigate how delayed post-exercise carbohydrate intake affects muscle glycogen, metabolic- and mitochondrial-related molecular responses, and subsequent high-intensity interval exercise (HIIE) capacity. In a double-blind cross-over design, nine recreationally active men performed HIIE (10&#x2009;&#xd7;&#x2009;2-min cycling, ~94% W&#x2d9;) in the fed state, on two occasions. During 0-3&#x2009;h post-HIIE, participants drank either carbohydrates ("Immediate Carbohydrate" [IC], providing 2.4&#x2009;g/kg) or water ("Delayed Carbohydrate" [DC]); total carbohydrate intake over 24 h post-HIIE was matched (~7&#x2009;g/kg/d). Skeletal muscle (sampled pre-HIIE, post-HIIE, +3 h, +8 h, +24&#x2009;h) was analyzed for whole-muscle glycogen and mRNA content, plus signaling proteins in cytoplasmic- and nuclear-enriched fractions. After 24&#x2009;h, participants repeated the HIIE protocol until failure, to test subsequent HIIE capacity; blood lactate, heart rate, and ratings of perceived effort (RPE) were measured throughout. Muscle glycogen concentrations, and relative changes, were similar between conditions throughout (p&#x2009;>&#x2009;0.05). Muscle glycogen was reduced from baseline (mean&#x2009;&#xb1;&#x2009;SD mmol/kg&#x2009;dm; IC: 409&#x2009;&#xb1;&#x2009;166; DC: 352&#x2009;&#xb1;&#x2009;76) at post-HIIE (IC: 253&#x2009;&#xb1;&#x2009;96; DC: 214&#x2009;&#xb1;&#x2009;82), +3&#x2009;h (IC: 276&#x2009;&#xb1;&#x2009;62; DC: 269&#x2009;&#xb1;&#x2009;116) and +&#x2009;8&#x2009;h (IC: 321&#x2009;&#xb1;&#x2009;56; DC: 269&#x2009;&#xb1;&#x2009;116), returning to near-baseline by +24&#x2009;h. Several genes (PGC-1&#x251;, p53) and proteins (p-ACC, p-P38 MAPK) elicited typical exercise-induced changes irrespective of condition. Delaying carbohydrate intake reduced next-day HIIE capacity (5&#x2009;&#xb1;&#x2009;3 intervals) and increased RPE (~2 ratings), despite similar physiological responses between conditions. Molecular responses to HIIE (performed in the fed state) were not enhanced by delayed post-exercise carbohydrate intake. Our findings support immediate post-exercise refueling if the goal is to maximize next-day HIIE capacity and recovery time is &#x2264;24&#x2009;h.
+Improvements in movement quality (ie, how well an individual moves) facilitate increases in movement quantity, subsequently improving general health and quality of life. Wearable technology offers a convenient, affordable means of measuring and assessing movement quality for the general population, while technology more broadly can provide constructive feedback through various modalities. Considering the perspectives of professionals involved in the development and implementation of technology helps translate user needs into effective strategies for the optimal application of consumer technologies to enhance movement quality. This study aimed to obtain the opinions of wearable technology experts regarding the use of wearable devices to measure movement quality and provide feedback. A secondary objective was to determine potential strategies for integrating preferred assessment and feedback characteristics into a technology-based movement quality intervention for the general, recreationally active population. Semistructured interviews were conducted with 12 participants (age: mean 42, SD 9 years; 5 males) between August and September 2022 using a predetermined interview schedule. Participants were categorized based on their professional roles: commercial (n=4) and research and development (R&D; n=8). All participants had experience in the development or application of wearable technology for sports, exercise, and wellness. The verbatim interview transcripts were analyzed using reflexive thematic analysis in QSR NVivo (release 1.7), resulting in the identification of overarching themes and subthemes. Three main themes were generated as follows: (1) "Grab and Go," (2) "Adjust and Adapt," and (3) "Visualize and Feedback." Participants emphasized the importance of convenience to enhance user engagement when using wearables to collect movement data. However, it was suggested that users would tolerate minor inconveniences if the benefits were perceived as valuable. Simple, easily interpretable feedback was recommended to accommodate diverse audiences and aid understanding of their movement quality, while avoiding excessive detail was advised to prevent overload, which could deter users. Adaptability was endorsed to accommodate progressions in user movement quality, and customizable systems were advocated to offer variety, thereby increasing user interest and engagement. The findings indicate that visual feedback representative of the user (ie, an avatar) should be used, supplemented with concise text or audible instructions to form a comprehensive, multimodal feedback system. The study provides insights from wearable technology experts on the use of consumer technologies for enhancing movement quality. The findings recommend the prioritization of user convenience and simplistic, multimodal feedback centered around visualizations, and an adaptable system suitable for a diverse audience. Emphasizing individualized feedback and user-centric design, this study provides valuable findings around the use of wearables and other consumer technologies to enhance movement quality among the general population. These findings, in conjunction with those of future research into user perspectives, should be applied in practical settings to evaluate their effectiveness in enhancing movement quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/apha.14215
+- DOI: 10.2196/56784
 
 2. Keywords
-- carbohydrates
 - exercise
-- mRNA
-- muscle glycogen
-- nutrition
-- signaling
+- motor learning
+- motor skill
+- movement assessment
+- movement skills
+- physical activity
+- qualitative
+- sensors
+- skill development
+- wellness
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- carbohydrates assessment methods and outcomes
 - exercise assessment methods and outcomes
-- mRNA assessment methods and outcomes
+- motor learning assessment methods and outcomes
+- motor skill assessment methods and outcomes

@@ -1,20 +1,26 @@
-Study Title: Biological sex as a tailoring variable for exercise prescription in hospitalized older adults.
+Study Title: Inspiratory muscle strength training to improve cardiometabolic health in patients with type 2 diabetes mellitus: protocol for the diabetes inspiratory training clinical trial.
 
 Study Summary:
-Sex-based differences in the clinical presentation and outcomes are well-established in patients hospitalized for geriatric syndromes. We aimed to investigate sex differences in response to in-hospital exercise on function, strength, cognition, and quality of life in acute care admissions. 570 patients (mean age 87 years, 298 females [52.3%]) admitted to acute care for elderly units were randomized to multicomponent exercise emphasizing progressive resistance training or usual care. Functional assessments included Short Physical Performance Battery (SPPB), grip strength, Mini-Mental State Examination (MMSE), and health-related quality of life (EQ-VAS). Exercising females showed more significant SPPB improvements than males (between-group difference 1.48 points, p&#x2009;=&#x2009;0.027), exceeding the minimal clinically significant difference. While female participants significantly increased handgrip strength and male patients improved cognition after in-hospital exercise compared to the control group (all p&#x2009;<&#x2009;0.001), no sex differences occurred. Females demonstrate more excellent physical function improvements compared to male older patients. Findings highlight the importance of tailored exercise incorporating patient factors like biological sex in geriatric medicine. NCT04600453.
+Type 2 diabetes mellitus (T2DM) is a complex, chronic metabolic disease that carries with it a high prevalence of comorbid conditions, making T2DM one of the leading causes of death in the U.S. Traditional lifestyle interventions (e.g., diet, exercise) can counter some adverse effects of T2DM, however, participation in these activities is low with reasons ranging from physical discomfort to lack of time. Thus, there is a critical need to develop novel management strategies that effectively reduce cardiometabolic disease risk and address barriers to adherence. High-resistance inspiratory muscle strength training (IMST) is a time-efficient and simple breathing exercise that significantly reduces systolic and diastolic BP and improves vascular endothelial function in adults with above-normal blood pressure. Herein we describe the study protocol for a randomized clinical trial to determine the effects of a 6-week IMST regimen on glycemic control and insulin sensitivity in adults with T2DM. Our primary outcome measures include fasting plasma glucose, fasting serum insulin, and insulin resistance utilizing homeostatic model assessment for insulin resistance (HOMA-IR). Secondary outcome measures include resting systolic BP and endothelium-dependent dilation. Further, we will collect plasma for exploratory proteomic analyses. This trial seeks to establish the cardiometabolic effects of 6 weeks of high-resistance IMST in patients with T2DM.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jnha.2024.100377
+- DOI: 10.3389/fendo.2024.1383131
 
 2. Keywords
-
+- endothelial function
+- glycemic control
+- inspiratory muscle strength training
+- insulin sensitivity
+- type 2 diabetes mellitus
 
 3. Key Findings
-- Exercising females showed more significant SPPB improvements than males (between-group difference 1
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- endothelial function assessment methods and outcomes
+- glycemic control assessment methods and outcomes
+- inspiratory muscle strength training assessment methods and outcomes

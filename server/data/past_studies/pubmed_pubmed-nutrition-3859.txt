@@ -1,30 +1,27 @@
-Study Title: Exploring choices of early nutritional support for patients with sepsis based on changes in intestinal microecology.
+Study Title: Are inflammatory markers associated with sarcopenia-related traits in older adults with sarcopenia? - A cross-sectional analysis of the ENHANce study.
 
 Study Summary:
-Sepsis exacerbates intestinal microecological disorders leading to poor prognosis. Proper modalities of nutritional support can improve nutrition, immunity, and intestinal microecology. To identify the optimal modality of early nutritional support for patients with sepsis from the perspective of intestinal microecology. Thirty patients with sepsis admitted to the intensive care unit of the General Hospital of Ningxia Medical University, China, between 2019 and 2021 with indications for nutritional support, were randomly assigned to one of three different modalities of nutritional support for a total of 5 d: Total enteral nutrition (TEN group), total parenteral nutrition (TPN group), and supplemental parenteral nutrition (SPN group). Blood and stool specimens were collected before and after nutritional support, and changes in gut microbiota, short-chain fatty acids (SCFAs), and immune and nutritional indicators were detected and compared among the three groups. In comparison with before nutritional support, the three groups after nutritional support presented: (1) Differences in the gut bacteria (Enterococcus increased in the TEN group, Campylobacter decreased in the TPN group, and Dialister decreased in the SPN group; all< 0.05); (2) different trends in SCFAs (the TEN group showed improvement except for Caproic acid, the TPN group showed improvement only for acetic and propionic acid, and the SPN group showed a decreasing trend); (3) significant improvement of the nutritional and immunological indicators in the TEN and SPN groups, while only immunoglobulin G improved in the TPN group (all< 0.05); and (4) a significant correlation was found between the gut bacteria, SCFAs, and nutritional and immunological indicators (all< 0.05). TEN is recommended as the preferred mode of early nutritional support in sepsis based on clinical nutritional and immunological indicators, as well as changes in intestinal microecology.
+To explore the relationship between inflammatory markers and sarcopenia-related traits in sarcopenic older adults. Baseline data of the ongoing Exercise and Nutrition for Healthy AgeiNg (ENHANce) study were used for a secondary, exploratory, cross-sectional analysis. ENHANce is a 5-armed triple blinded randomized controlled trial, in older adults (>65y) with sarcopenia defined according to the revised criteria of the European Working Group of Sarcopenia in Older People (EWGSOP2) aiming to assess the effect of combined anabolic interventions (protein supplement, omega-3 supplement and physical exercise) on physical performance, compared to single/placebo interventions. Inflammatory markers C-reactive protein (hs-CRP), albumin, interleukin-1&#x3b2; (IL-1&#x3b2;), IL-6, IL-8, and tumour necrosis factor-&#x3b1; (TNF-&#x3b1;) were assessed at baseline. Spearman's rho (&#x3c1;) correlation coefficients were calculated to associate these inflammatory markers with baseline sarcopenia-defining parameters (handgrip strength, chair stand test, appendicular lean mass [aLM], gait speed, Short Physical Performance Battery), physical activity (step count) and quality of life (SF-36, SarQoL). We included 40 sarcopenic subjects (15 men/25 women, age 77.1&#xa0;&#xb1;&#xa0;6.8&#xa0;years). Contrary to expectations, the pro-inflammatory IL-1&#x3b2; correlated positively with handgrip strength (&#x3c1;: 0.376; p&#xa0;=&#xa0;0.024) and IL-6 with aLM (&#x3c1;: 0.334; p&#xa0;=&#xa0;0.0433). IL-6 inversely correlated with step count (&#x3c1;:-0.358; p&#xa0;=&#xa0;0.048). Subgroup analysis revealed important gender differences. IL-8 inversely correlated with handgrip strength in women (&#x3c1;: -0.425; p&#xa0;=&#xa0;0.034) but not in men. In contrast, pro-inflammatory cytokines CRP (&#x3c1;: -0.615; p&#xa0;=&#xa0;0.019), IL-6 (&#x3c1;: -0.604; p&#xa0;=&#xa0;0.029) and TNF-&#x3b1; (&#x3c1;: -0.615; p&#xa0;=&#xa0;0.025) inversely correlated with the SF-36 physical component score in men but not in women. Although Inflammageing might play a role in sarcopenia-related traits, this exploratory study highlights an important role of gender. Future research should take this into account when elucidating the Inflammageing-sarcopenia interplay.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3748/wjg.v29.i13.2034
+- DOI: 10.1016/j.exger.2023.112196
 
 2. Keywords
-- Intestinal microecology
-- Nutritional and immunological indicators
-- Nutritional support
-- Sepsis
-- Short-chain fatty acids
-- Supplemental parenteral nutrition
-- Total enteral nutrition
-- Total parenteral nutrition
+- CRP
+- Inflammageing
+- Interleukin
+- Older adults
+- Sarcopenia
+- TNF-&#x3b1;
 
 3. Key Findings
-- 05); (2) different trends in SCFAs (the TEN group showed improvement except for Caproic acid, the TPN group showed improvement only for acetic and propionic acid, and the SPN group showed a decreasing trend); (3) significant improvement of the nutritional and immunological indicators in the TEN and SPN groups, while only immunoglobulin G improved in the TPN group (all< 0
-- 05); and (4) a significant correlation was found between the gut bacteria, SCFAs, and nutritional and immunological indicators (all< 0
+- Subgroup analysis revealed important gender differences
 
 This study provides insights into:
-- Intestinal microecology assessment methods and outcomes
-- Nutritional and immunological indicators assessment methods and outcomes
-- Nutritional support assessment methods and outcomes
+- CRP assessment methods and outcomes
+- Inflammageing assessment methods and outcomes
+- Interleukin assessment methods and outcomes

@@ -1,29 +1,27 @@
-Study Title: Effect of Peanut Butter Intake on Sleep Health in Firefighters: A Randomized Controlled Trial.
+Study Title: Repeated electrical vestibular nerve stimulation (VeNS) reduces severity in moderate to severe insomnia; a randomised, sham-controlled trial; the modius sleep study.
 
 Study Summary:
-Sleep is often impaired in firefighters due to the psychologically and physiologically intense nature of their work and working shift schedules. Peanut butter is affordable and a substantial source of monounsaturated fatty acids, which may aid sleep health. Thus, this study sought to determine if a daily serving of peanut butter consumed before bedtime for seven weeks altered sleep quality and quantity among full-time firefighters. Forty firefighters (peanut butter group = 20; control group = 20) participated in this eight-week randomized controlled trial. All participants completed a subjective questionnaire on mood, focus, and alertness twice daily and wore an Actigraph wristwatch to measure sleep variables, including latency, efficiency, time in bed, time asleep, wake after sleep onset, number of awakenings, and time spent awake. After a baseline week, the peanut butter group consumed two tablespoons of peanut butter two hours prior to bedtime for seven weeks. Compared to the control group, the peanut butter group did not demonstrate significant changes (> 0.05) in sleep measures or subjective feelings of mood, focus, or alertness after consuming peanut butter for seven weeks. Therefore, peanut butter as a source of peanuts did not alter sleep quality or quantity in this group of firefighters.
+Insomnia is a prevalent health concern in the general population associated with a range of adverse health effects. New, effective, safe and low-cost treatments, suitable for long-term use, are urgently required. Previous studies have shown the potential of electrical vestibular nerve stimulation (VeNS) in improving insomnia symptoms, however only one sham-controlled trial has been conducted on people with chronic insomnia. Repeated VeNS delivered by the Modius Sleep device prior to sleep onset will show superior improvement in Insomnia Severity Index (ISI) scores over a 4-week period compared to sham stimulation. In this double-blinded, multi-site, randomised, sham-controlled study, 147 participants with moderate to severe insomnia (ISI&#x2265;15) were recruited and allocated a VeNS or a sham device (1:1 ratio) which they were asked to use at home for 30&#xa0;min daily (minimum 5 days per week) for 4 weeks. After 4 weeks, mean ISI score reduction was 2.26 greater in the VeNS treatment group than the sham group (p&#xa0;=&#xa0;0.002). In the per protocol analysis, the treatment group had a mean ISI score decrease of 5.8 (95&#xa0;% CI [-6.8, -4.81], approaching the clinically meaningful threshold of a 6-point reduction, with over half achieving a clinically significant decrease. Furthermore, the treatment group showed superior improvement to the sham group in the SF-36 (Quality of Life) energy/fatigue component (PP p&#xa0;=&#xa0;0.004, effect size 0.26; ITT p&#xa0;=&#xa0;0.006, effect size 0.22). Modius sleep has the potential to provide a viable, non-invasive and safe clinically meaningful alternative treatment option for insomnia.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/ijerph21050571
+- DOI: 10.1016/j.brs.2024.05.010
 
 2. Keywords
-- VAS
-- actigraphy
-- monounsaturated fatty acids
-- peanuts
-- shift work
-- sleep awakenings
-- sleep efficiency
-- sleep latency
+- Brain
+- Insomnia
+- Quality of life
+- RCT
+- Sleep
+- Vestibular stimulation
 
 3. Key Findings
-- Findings extraction requires manual review
+- Furthermore, the treatment group showed superior improvement to the sham group in the SF-36 (Quality of Life) energy/fatigue component (PP p&#xa0;=&#xa0;0
 
 This study provides insights into:
-- VAS assessment methods and outcomes
-- actigraphy assessment methods and outcomes
-- monounsaturated fatty acids assessment methods and outcomes
+- Brain assessment methods and outcomes
+- Insomnia assessment methods and outcomes
+- Quality of life assessment methods and outcomes

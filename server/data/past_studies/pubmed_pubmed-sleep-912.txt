@@ -1,27 +1,26 @@
-Study Title: The effects of insufficient sleep and adequate sleep on cognitive function in healthy adults.
+Study Title: Effects of lavender essential oil inhalation aromatherapy on depression and sleep quality in stroke patients: A single-blind randomized controlled trial.
 
 Study Summary:
-Although sleep affects a range of waking behaviors, the majority of studies have focused on sleep loss with relatively little attention on sustained periods of adequate sleep. The goal of this study was to use an experimental design to examine the effect of both of these sleep patterns on cognitive performance in healthy adults. This study used a randomized crossover design. Participants who regularly slept 7-9&#xa0;hours/night completed two 6-week intervention conditions, adequate sleep (maintenance of habitual bed/wake times) and insufficient sleep (reduction in sleep of 1.5&#xa0;hours relative to adequate sleep), separated by a 2-6weeks (median=43days) washout period. Cognitive functioning was evaluated at baseline and endpoint of each intervention using the NIH Toolbox Cognition Battery. General linear models contrasted scores following each condition to the baseline of the first condition; the baseline of the second condition was included to evaluate practice effects. Sixty-five participants (age 35.9&#xa0;&#xb1;&#xa0;4.9years, 89% women, 52% non-White race/ethnicity) completed study procedures. There was improvement in performance on the List Sorting Working Memory task after the adequate sleep condition that exceeded practice effects. Cognitive performance after insufficient sleep did not reach the level expected with practice and did not differ from baseline. A similar pattern was found on the Flanker Inhibitory Control and Attention task. These findings contribute to our understanding of the complex interplay between sleep and cognition and demonstrate that consistent, stable sleep of at least 7&#xa0;hours/night improves working memory and response inhibition in healthy adults. The manuscript reports on data from two clinical trials: Impact of Sleep Restriction on Performance in Adults (URL: https://clinicaltrials.gov/ct2/show/NCT02960776, ID Number: NCT02960776) and Impact of Sleep Restriction in Women (URL: https://clinicaltrials.gov/ct2/show/NCT02835261, ID Number: NCT02835261).
+Post-stroke depression (PSD) has major implications for rehabilitation, motor recovery, activities of daily living, social and interpersonal functioning, and mortality. In view of the side effects of antidepressants, aromatherapy, a widely used non-pharmacological therapy, has received growing attention in recent years for its benefits of reduced complications, accessibility, and effectiveness. This study was designed to assess the effects of inhalation aromatherapy with lavender essential oil on depression and sleep quality in patients with PSD. Forty patients with PSD were enrolled and randomized into experimental and placebo groups. Experimental-group patients inhaled microencapsulated lavender essential oil every night at bedtime over a period of 4 weeks. A nonwoven bag containing 2.3&#xa0;g of microcapsules with about 1.5&#xa0;g of lavender essential oil was placed on or under the patient's pillow, depending on the patient's scent sensitivity. Placebo-group patients used the empty nonwoven bags for the same period as the experimental group. The 17-item Hamilton Rating Scale for Depression (HAMD-17), the Zung Self-Rating Depression Scale (SDS), and the Pittsburgh Sleep Quality Index (PSQI) were used to measure outcomes. The HAMD-17 score, SDS score, and PSQI score showed statistically significant differences between both groups before and after intervention (P&#xa0;&#x2264;&#xa0;0.01). The improvement in the experimental group was more marked than in the placebo group (P&#xa0;<&#xa0;0.05). Lavender essential oil inhalation aromatherapy may help reduce depression and improve sleep quality in patients with PSD.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleh.2023.11.011
+- DOI: 10.1016/j.ctcp.2024.101828
 
 2. Keywords
-- Adequate sleep
-- Cognition
-- Insufficient sleep
-- Sleep restriction
-- Stable sleep
-- Working memory
+- Aromatherapy
+- Depression
+- Inhalation
+- Lavender essential oil
+- Stroke
 
 3. Key Findings
-- A similar pattern was found on the Flanker Inhibitory Control and Attention task
+- The HAMD-17 score, SDS score, and PSQI score showed statistically significant differences between both groups before and after intervention (P&#xa0;&#x2264;&#xa0;0
 
 This study provides insights into:
-- Adequate sleep assessment methods and outcomes
-- Cognition assessment methods and outcomes
-- Insufficient sleep assessment methods and outcomes
+- Aromatherapy assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Inhalation assessment methods and outcomes

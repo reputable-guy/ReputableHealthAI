@@ -1,26 +1,26 @@
-Study Title: A cross-sectional study on stool- and gastrointestinal-related outcomes of Mexican infants consuming different formulae.
+Study Title: Administration of Free Amino Acids Improves Exogenous Amino Acid Availability when Compared with Intact Protein in Critically Ill Patients: A Randomized Controlled Study.
 
 Study Summary:
-Immaturities present at birth, such as in the gut microbiome and digestive, nervous, and immune system, resolve with time. Nevertheless, this may result in mild digestive symptoms early in life, particularly in formula-fed infants. Formula composition and processing may impact this discomfort. This study therefore aimed to assess stool characteristics and gastrointestinal symptoms of healthy infants fed different formulae. A multicenter, cross-sectional, observational trial was performed in Mexico between November 2019 and January 2022, where exclusively formula-fed infants (n&#x2009;=&#x2009;342, aged 1-4 months) were studied in four groups based on their existing formula use. Feeding was continued per practice following label instructions. For 7 days, parents/caregivers were requested to record fecal characteristics, using the Amsterdam Infant Stool Scale, and rate gastrointestinal symptoms. Stool samples were collected to determine pH, dry matter content, and fecal calprotectin levels. Most infants had a soft/formed stool consistency, although odds for hard stools were different between groups. Gastrointestinal symptom scores revealed significant differences for burping and diarrhea, while other symptoms did not differ between groups. No significant differences between groups were found for stool frequency, dry matter content, and fecal pH. Although calprotectin was within the expected healthy ranges, significant differences among groups were seen. Furthermore, calprotectin significantly correlated with the severity of the gastrointestinal symptoms burping, flatulence, abdominal distension, and diarrhea. Differences in stool characteristics and specific differences in gastrointestinal symptoms were observed between different formula brand users. This may potentially be explained by the different composition and processing of the formulae, although there are multiple factors that influence the assessed outcomes. The study was registered in the Netherlands Trial Registry (NL7805), linked to https://trialsearch.who.int/ , on 11/06/2019.
+Protein digestion and amino acid absorption appear compromised in critical illness. The provision of enteral feeds with free amino acids rather than intact protein may improve postprandial amino acid availability. Our objective was to quantify the uptake of diet-derived phenylalanine after the enteral administration of intact protein compared with an equivalent amount of free amino acids in critically ill patients. Sixteen patients who were mechanically ventilated in intensive care unit (ICU) at risk of malabsorption received a primed continuous infusion of L-[ring-H]-phenylalanine and L-[ring-3,5-H]-tyrosine after an overnight fast. Patients were randomly allocated to receive 20 g intrinsically L-[1-C]-phenylalanine-labeled milk protein or an equivalent amount of amino acids labeled with free L-[1-C]-phenylalanine via a nasogastric tube over a 2-h period. Protein digestion and amino acid absorption kinetics and whole-body protein net balance were assessed throughout a 6-h period. After enteral nutrient infusion, both plasma phenylalanine and leucine concentrations increased (P-time < 0.001), with a more rapid and greater rise after free amino acid compared with intact protein administration (P-time &#xd7; treatment = 0.003). Diet-derived phenylalanine released into the circulation was 25% greater after free amino acids compared with intact protein administration [68.7% (confidence interval {CI}: 62.3, 75.1%) compared with 43.8% (CI: 32.4, 55.2%), respectively; P < 0.001]. Whole-body protein net balance became positive after nutrient administration (P-time < 0.001) and tended to be more positive after free amino acid in provision (P-time &#xd7; treatment = 0.07). The administration of free amino acids as opposed to intact protein further increases postprandial plasma amino acid availability in critically ill patients, allowing more diet-derived phenylalanine to become available to peripheral tissues. This trial was registered at clinicaltrials.gov as NCT04791774.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12887-023-04426-y
+- DOI: 10.1016/j.tjnut.2023.12.015
 
 2. Keywords
-- Digestive symptoms
-- Fecal characteristics
-- Infant formula
-- Infant nutrition
+- absorption
+- critical illness
+- digestion
+- protein nutrition
+- stable isotopes
 
 3. Key Findings
-- Gastrointestinal symptom scores revealed significant differences for burping and diarrhea, while other symptoms did not differ between groups
-- No significant differences between groups were found for stool frequency, dry matter content, and fecal pH
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Digestive symptoms assessment methods and outcomes
-- Fecal characteristics assessment methods and outcomes
-- Infant formula assessment methods and outcomes
+- absorption assessment methods and outcomes
+- critical illness assessment methods and outcomes
+- digestion assessment methods and outcomes

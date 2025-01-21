@@ -1,32 +1,25 @@
-Study Title: Effects of low-dose acetylsalicylic acid on the inflammatory response to experimental sleep restriction in healthy humans.
+Study Title: Implementation of Coaching to Address Burnout in Emergency Clinicians.
 
 Study Summary:
-Sleep deficiencies, such as manifested in short sleep duration or insomnia symptoms, are known to increase the risk for multiple disease conditions involving immunopathology. Inflammation is hypothesized to be a mechanism through which deficient sleep acts as a risk factor for these conditions. Thus, one potential way to mitigate negative health consequences associated with deficient sleep is to target inflammation. Few interventional sleep studies investigated whether improving sleep affects inflammatory processes, but results suggest that complementary approaches may be necessary to target inflammation associated with sleep deficiencies. We investigated whether targeting inflammation through low-dose acetylsalicylic acid (ASA, i.e., aspirin) is able to blunt the inflammatory response to experimental sleep restriction. 46 healthy participants (19F/27M, age range 19-63&#xa0;years) were studied in a double-blind randomized placebo-controlled crossover trial with three protocols each consisting of a 14-day at-home monitoring phase followed by an 11-day (10-night) in-laboratory stay (sleep restriction/ASA, sleep restriction/placebo, control sleep/placebo). In the sleep restriction/ASA condition, participants took low-dose ASA (81&#xa0;mg/day) daily in the evening (22:00) during the at-home phase and the subsequent in-laboratory stay. In the sleep restriction/placebo and control sleep/placebo conditions, participants took placebo daily. Each in-laboratory stay started with 2 nights with a sleep opportunity of 8&#xa0;h/night (23:00-07:00) for adaptation and baseline measurements. Under the two sleep restriction conditions, participants were exposed to 5 nights of sleep restricted to a sleep opportunity of 4&#xa0;h/night (03:00-07:00) followed by 3 nights of recovery sleep with a sleep opportunity of 8&#xa0;h/night. Under the control sleep condition, participants had a sleep opportunity of 8&#xa0;h/night throughout the in-laboratory stay. During each in-laboratory stay, participants had 3&#xa0;days of intensive monitoring (at baseline, 5th day of sleep restriction/control sleep, and 2nd day of recovery sleep). Variables, including pro-inflammatory immune cell function, C-reactive protein (CRP), and actigraphy-estimated measures of sleep, were analyzed using generalized linear mixed models. Low-dose ASA administration reduced the interleukin (IL)-6 expression in LPS-stimulated monocytes (p<0.05 for condition*day) and reduced serum CRP levels (p<0.01 for condition) after 5 nights of sleep restriction compared to placebo administration in the sleep restriction condition. Low-dose ASA also reduced the amount of cyclooxygenase (COX)-1/COX-2 double positive cells among LPS-stimulated monocytes after 2 nights of recovery sleep following 5 nights of sleep restriction compared to placebo (p<0.05 for condition). Low-dose ASA further decreased wake after sleep onset (WASO) and increased sleep efficiency (SE) during the first 2 nights of recovery sleep (p<0.001 for condition and condition*day). Baseline comparisons revealed no differences between conditions for all of the investigated variables (p>0.05 for condition). This study shows that inflammatory responses to sleep restriction can be reduced by preemptive administration of low-dose ASA. This finding may open new therapeutic approaches to prevent or control inflammation and its consequences in those experiencing sleep deficiencies. ClinicalTrials.gov NCT03377543.
+Factors including sleep disturbances, shift work, secondary traumatization, and workplace violence make emergency nurses uniquely susceptible to burnout. A recent study cited nearly half of emergency registered nurses (49.3%) experienced moderate to severe burnout. There is an urgent need for evidence-based solutions to address burnout and turnover in emergency nurses. The objective of this quality improvement project was to determine the effectiveness of a wellness coaching program for reducing burnout and turnover in emergency nurses and advanced practice providers. Baseline assessments of burnout and turnover intention were measured at the beginning of the coaching program and measured again upon completion of the coaching program. Eight registered nurses and 2 advanced practice providers from an emergency department in a west coast community hospital completed 6 to 8&#xa0;weeks of wellness coaching led by a board-certified nurse coach. The wellness coaching program was an evidence-based, modular curriculum in which participants chose the number and length of sessions. An average of 6 hours of individualized, 1-on-1 wellness coaching was completed over 7.5&#xa0;weeks. The project resulted in a large reduction in emotional exhaustion and turnover intention, no effect on depersonalization, and a small reduction in lack of personal achievement (Cohen's d&#xa0;= 0.79, 1.53,&#xa0;-0.18, and&#xa0;-0.35). Ninety percent of clinicians agreed or strongly agreed that coaching helped improve their burnout and said they would consider it again in the future. This quality improvement project demonstrates wellness coaching was an evidence-based solution for improving burnout and turnover in emergency nurses. More investigation is needed to determine duration of reduction of these outcomes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.bbi.2024.07.023
+- DOI: 10.1016/j.jen.2024.06.007
 
 2. Keywords
-- Acetylsalicylic acid
-- Actigraphy
-- C-reactive protein (CRP)
-- Cyclooxygenase-1 (COX-1)
-- Cyclooxygenase-2 (COX-2)
-- Inflammation
-- Interleukin-6 (IL-6)
-- Low-dose aspirin
-- Monocytes
-- Recovery sleep
-- Sleep restriction
+- Burnout
+- Emergency department
+- Nursing
+- Wellness coaching
 
 3. Key Findings
-- Baseline comparisons revealed no differences between conditions for all of the investigated variables (p>0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Acetylsalicylic acid assessment methods and outcomes
-- Actigraphy assessment methods and outcomes
-- C-reactive protein (CRP) assessment methods and outcomes
+- Burnout assessment methods and outcomes
+- Emergency department assessment methods and outcomes
+- Nursing assessment methods and outcomes

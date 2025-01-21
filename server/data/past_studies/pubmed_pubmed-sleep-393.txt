@@ -1,26 +1,26 @@
-Study Title: Performance Investigation of Somfit Sleep Staging Algorithm.
+Study Title: Effects of an 8-week high-dose vitamin D supplementation on fatigue and neuropsychiatric manifestations in post-COVID syndrome: A randomized controlled trial.
 
 Study Summary:
-To investigate accuracy of the sleep staging algorithm in a new miniaturized home sleep monitoring device - Compumedics&#xae; Somfit. Somfit is attached to patient's forehead and combines channels specified for a pulse arterial tonometry (PAT)-based home sleep apnea testing (HSAT) device with the neurological signals. Somfit sleep staging deep learning algorithm is based on convolutional neural network architecture. One hundred and ten participants referred for sleep investigation with suspected or preexisting obstructive sleep apnea (OSA) in need of a review were enrolled into the study involving simultaneous recording of full overnight polysomnography (PSG) and Somfit data. The recordings were conducted at three centers in Australia. The reported statistics include standard measures of agreement between Somfit automatic hypnogram and consensus PSG hypnogram. Overall percent agreement across five sleep stages (N1, N2, N3, REM, and wake) between Somfit automatic and consensus PSG hypnograms was 76.14 (SE: 0.79). The percent agreements between different pairs of sleep technologists' PSG hypnograms varied from 74.36 (1.93) to 85.50 (0.64), with interscorer agreement being greater for scorers from the same sleep laboratory. The estimate of kappa between Somfit and consensus PSG was 0.672 (0.002). Percent agreement for sleep/wake discrimination was 89.30 (0.37). The accuracy of Somfit sleep staging algorithm varied with increasing OSA severity - percent agreement was 79.67 (1.87) for the normal subjects, 77.38 (1.06) for mild OSA, 74.83 (1.79) for moderate OSA and 72.93 (1.68) for severe OSA. Agreement between Somfit and PSG hypnograms was non-inferior to PSG interscorer agreement for a number of scorers, thus confirming acceptability of electrode placement at the center of the forehead. The directions for algorithm improvement include additional arousal detection, integration of motion and oximetry signals and separate inference models for individual sleep stages.
+This study evaluated the effectiveness of high-dose vitamin D supplementation in alleviating fatigue and neuropsychiatric symptoms in post-COVID syndrome. In an 8-week, double-blind, randomized, placebo-controlled trial, 80 patients with post-COVID fatigue or neuropsychiatric symptoms were enrolled. Participants were randomly assigned to receive either 60,000 IU of vitamin D weekly (n&#x2009;=&#x2009;40) or a placebo (n&#x2009;=&#x2009;40) for 8&#x2009;weeks. Clinical outcomes were assessed using the 11-item Chalder Fatigue Scale (CFQ-11); 21-item Depression, Anxiety, and Stress Scale (DASS-21); Pittsburgh Sleep Quality Index (PSQI); Addenbrooke's Cognitive Examination III (ACE); and Trail Making Test A and B (TMT-A and TMT-B). Baseline and 8-week measurements of inflammatory markers, including interleukin 6 (IL-6) and C-reactive protein (CRP), were also collected. Significant improvements were found in the vitamin D group for CFQ (coefficient -3.5, P&#x2009;=&#x2009;0.024), DASS-anxiety (-2.0, P&#x2009;=&#x2009;0.011), and ACE (2.1, P&#x2009;=&#x2009;0.012). No significant differences were observed in PSQI, DASS-depression, TMT, IL-6, or CRP levels. The incidence of adverse events was comparable between groups, with no serious adverse events reported. High-dose vitamin D supplementation may benefit patients with post-COVID syndrome by reducing fatigue, alleviating anxiety, and improving cognitive symptoms, with minimal side effects.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/NSS.S463026
+- DOI: 10.1111/pcn.13716
 
 2. Keywords
-- deep learning
-- forehead electroencephalography
-- home sleep apnea testing
-- interscorer agreement
-- polysomnography
+- COVID&#x2010;19
+- fatigue
+- neuropsychiatric symptoms
+- post&#x2010;COVID syndrome
+- vitamin D
 
 3. Key Findings
-- Findings extraction requires manual review
+- Significant improvements were found in the vitamin D group for CFQ (coefficient -3
 
 This study provides insights into:
-- deep learning assessment methods and outcomes
-- forehead electroencephalography assessment methods and outcomes
-- home sleep apnea testing assessment methods and outcomes
+- COVID&#x2010;19 assessment methods and outcomes
+- fatigue assessment methods and outcomes
+- neuropsychiatric symptoms assessment methods and outcomes

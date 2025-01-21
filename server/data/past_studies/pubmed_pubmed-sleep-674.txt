@@ -1,26 +1,27 @@
-Study Title: The effect of circadian timing program for evening-chronotype individuals with obesity on obesity management and sleep quality: A randomized controlled trial.
+Study Title: A Pilot Randomized Trial of Combined Cognitive-Behavioral Therapy and Exercise Training Versus Exercise Training Alone for the Management of Chronic Insomnia in Obstructive Sleep Apnea.
 
 Study Summary:
-The study aimed to investigate the effect of the circadian timing program (S&#x130;ZAP) developed for evening-chronotype individuals with obesity on obesity management and sleep quality. This single-site, randomized controlled trial with an experimental research design was registered in ClinicalTrials.gov. It was reported in accordance with the "Consolidated Standards of Reporting Trials" (CONSORT) randomized controlled trial guidelines. The study sample consisted of 38 evening-chronotype individuals with first-degree obesity, with 19 individuals in each study group. The intervention group's sleep hygiene training was conducted and their lifestyle changes were ensured through S&#x130;ZAP. The control group followed their normal daily lifestyle. No intervention was made in terms of the dietary practices of both groups. Study data were collected using the personal information form, the anthropometric measurement form, the Horne and Ostberg Morning and Evening Questionnaire (MEQ), the Impact of weight on quality of life-lite (IWQOL-lite), the Pittsburgh Sleep Quality Index (PSQI), the Epworth Sleepiness Scale (ESS), the sleep diary, and the data tracked via the website and smart bracelets. It was determined that the participants in the S&#x130;ZAP group had a statistically significant decrease in the anthropometric measurements and daytime sleepiness (p&#xa0;<&#xa0;0.05). The sleep quality scores and the scores of the bodily functions sub-dimension of the quality of life scale were significantly better in the intervention group than in the control group (p&#xa0;<&#xa0;0.05). It was found that S&#x130;ZAP is effective in obesity management in evening-chronotype individuals and increases weight loss success and sleep quality.
+Insomnia treatment among individuals with comorbid insomnia and obstructive sleep apnea is suboptimal. In a pilot randomized controlled trial, 19 individuals with comorbid insomnia and obstructive sleep apnea were allocated to one of two arms: EX + EX, consisting of two 8-week phases of exercise training (EX), or RE + CBTiEX, encompassing 8&#xa0;weeks of relaxation training (RE) followed by 8&#xa0;weeks of combined cognitive-behavioral therapy and exercise&#xa0;(CBTiEX). Outcomes included Insomnia Severity Index (ISI), polysomnography, and cardiorespiratory fitness measures. A mixed-model analysis of variance revealed a Group &#xd7; Time interaction on peak oxygen consumption change, F(1, 14) = 10.1, p = .007, and EX increased peak oxygen consumption (p = .03, g' = -0.41) and reduced ISI (p = .001, g' = 0.82) compared with RE (p = .49, g = 0.16) post-8&#xa0;weeks. Post-16&#xa0;weeks, there was a significant Group &#xd7; Time interaction (p = .014) driven by RE + CBTiEX yielding a larger improvement in ISI (p = .023, g' = 1.48) than EX + EX (p = .88, g' < 0.1). Objective sleep was unchanged. This study showed promising effects of regular EX alone and combined with cognitive-behavioral therapy for insomnia on ISI in comorbid insomnia and obstructive sleep apnea.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.04.017
+- DOI: 10.1123/jsep.2023-0139
 
 2. Keywords
-- Chronotype
-- Circadian misalignment
-- Obesity
-- Sleep quality
-- evening chronotype
+- CBTi
+- COMISA
+- CPET
+- EEG
+- ISI
 
 3. Key Findings
-- It was found that S&#x130;ZAP is effective in obesity management in evening-chronotype individuals and increases weight loss success and sleep quality
+- A mixed-model analysis of variance revealed a Group &#xd7; Time interaction on peak oxygen consumption change, F(1, 14) = 10
+- This study showed promising effects of regular EX alone and combined with cognitive-behavioral therapy for insomnia on ISI in comorbid insomnia and obstructive sleep apnea
 
 This study provides insights into:
-- Chronotype assessment methods and outcomes
-- Circadian misalignment assessment methods and outcomes
-- Obesity assessment methods and outcomes
+- CBTi assessment methods and outcomes
+- COMISA assessment methods and outcomes
+- CPET assessment methods and outcomes

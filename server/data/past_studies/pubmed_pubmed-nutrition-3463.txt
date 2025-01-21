@@ -1,22 +1,29 @@
-Study Title: Five-Year Mortality Outcomes for Eating As Treatment (EAT), a Health Behavior Change Intervention to Improve Nutrition in Patients With Head and Neck Cancer: A Stepped-Wedge, Randomized Controlled Trial.
+Study Title: Using Mobile Technology for Family-Based Prevention in Families with Low Incomes: Lessons from a Randomized Controlled Trial of a Childhood Obesity Prevention Program.
 
 Study Summary:
-Malnutrition affects up to 80% of patients with head and neck cancer (HNC) and is associated with higher burden of disease, poorer treatment outcomes, and greater mortality. The Eating As Treatment (EAT) intervention is a behavioral intervention previously demonstrated to be effective in improving nutritional status, depression, and quality of life in patients with HNC. This article examines the effects of the EAT intervention on 5-year mortality among participants. A multicenter, stepped-wedge, randomized controlled trial was conducted in 5 Australian hospitals. Dietitians were trained to deliver EAT, a combination of motivational interviewing and cognitive behavior therapy strategies, to patients with HNC receiving radiation therapy. Secondary analyses of survival benefit on an intention-to-treat basis were performed. Differences in proportions of 5-year all-cause mortality between the control and EAT intervention arms were analyzed using multivariable logistic regression, and 5-year survival rates were analyzed using Cox proportional hazards regression. Analyses controlled for temporal effects (study duration), hospital site (clustering), and baseline nutritional status differences. Overall, there were 64 deaths in the 5 years after enrollment, 36 (24%) among those assigned to the control condition and 28 (18%) among those assigned to EAT. Logistic regression showed statistically significant reduced odds in favor of EAT (odds ratio, 0.33; 95% CI, 0.11-0.96), with an absolute risk reduction of 17% (95% CI, 0.01-0.33) and a relative risk reduction of 55% (95% CI, 0.22-0.92), resulting in a number needed to treat of 6 (95% CI, 4-13). Survival analysis revealed that risk of death was significantly reduced by the EAT intervention (hazard ratio, 0.39; 0.16-0.96). Participation in EAT provided a statistically and clinically meaningful survival benefit, likely via improved nutrition during radiation therapy. This survival benefit strengthens the finding of the main trial, showing that a behavioral intervention focused on nutrition could improve HNC outcomes. Replication studies using stepped-wedge designs for implementation into clinical practice may be warranted.
+Researchers are increasingly using web-based technologies to deliver family-based, prevention programming. Few studies have examined the success of such approaches for families with low incomes. The purpose of this study was to describe the level of in-class and online engagement in a childhood obesity prevention program for parents with low incomes, to examine the demographic correlates of parent engagement, and to examine dosage effects on parental feeding outcomes as a function of online exposure. All participants attended in-class nutrition education classes (Eating Smart &#xb7; Being Active) as part of the Expanded Food and Nutrition Education Program (EFNEP) in Colorado and Washington State (classes were offered in English and Spanish). Participants in this analysis were 168 parents from a larger cluster randomized controlled trial who had been randomly assigned to also receive a newly developed, mobile-based version of an efficacious, feeding-focused, childhood obesity prevention program. Results showed that despite high levels of in-person attendance (70%), participants only accessed 47% of the videos (online content). Older parents and parents of girls showed higher levels of in-person attendance; currently employed parents showed lower levels. Online engagement varied as a function of ethnicity and acculturation: non-Hispanic parents accessed the most videos, low-acculturated Hispanic parents accessed the second most, and highly acculturated Hispanic parents accessed the least. In contrast, low-acculturated Hispanic parents showed the highest in-person attendance. For all but one outcome, significant online program effects were found only for parents who accessed at least half of the videos. Implications for mobile-based, family-based prevention programs for parents with low incomes are considered.ClinicalTrials.gov Identifier: NCT03170700; Registration Date: March 08, 2017.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ijrobp.2024.01.205
+- DOI: 10.1007/s11121-023-01637-8
 
 2. Keywords
-
+- Childhood obesity
+- EFNEP
+- Feeding
+- Mobile technology
+- Parenting education
 
 3. Key Findings
-- The Eating As Treatment (EAT) intervention is a behavioral intervention previously demonstrated to be effective in improving nutritional status, depression, and quality of life in patients with HNC
-- Logistic regression showed statistically significant reduced odds in favor of EAT (odds ratio, 0
-- Survival analysis revealed that risk of death was significantly reduced by the EAT intervention (hazard ratio, 0
+- Results showed that despite high levels of in-person attendance (70%), participants only accessed 47% of the videos (online content)
+- Older parents and parents of girls showed higher levels of in-person attendance; currently employed parents showed lower levels
+- In contrast, low-acculturated Hispanic parents showed the highest in-person attendance
+- For all but one outcome, significant online program effects were found only for parents who accessed at least half of the videos
 
 This study provides insights into:
-- General research methodology and outcomes
+- Childhood obesity assessment methods and outcomes
+- EFNEP assessment methods and outcomes
+- Feeding assessment methods and outcomes

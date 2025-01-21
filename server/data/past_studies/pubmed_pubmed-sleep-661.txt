@@ -1,25 +1,31 @@
-Study Title: The effect of exercise on sleep habits of children with type 1 diabetic: a randomized clinical trial.
+Study Title: Digital Remote Monitoring Using an mHealth Solution for Survivors of Cancer: Protocol for a Pilot Observational Study.
 
 Study Summary:
-Adequate sleep and exercise are important components of the human lifestyle. Paying attention to these two factors is very important to improve the condition of children with type 1 diabetes. Therefore, this study aimed to investigate the effect of exercise on sleep habits in children with type 1 diabetes. 62 children with type 1 diabetes participated in this clinical trial. They will be divided into the intervention group (31) and the control group (31). Sleep habits were measured using the Children's Sleep Habits Questionnaire (CSHQ). All children's parents completed the CSHQ. The intervention for the experimental group consisted of 8 weeks of regular exercise program. The exercise program was prepared as an educational video and provided to parents. Paired sample t-test and ANCOVA test were used with SPSS 23. 62 children with an average age of 9.32&#x2009;&#xb1;&#x2009;2.02 were studied. Fifty-four and eight% of the children were girls and the rest were boys. The analysis of the variance test showed a significant difference (F&#x2009;=&#x2009;144.72, P&#x2009;&#x2264;&#x2009;0.01) between the average score of the sleep habits of the control group (62.45&#x2009;&#xb1;&#x2009;5.12) and the experimental group (47.06&#x2009;&#xb1;&#x2009;4.39). Sleep habits in the experimental group improved after 8 weeks of exercise training using educational videos. Exercise as a non-pharmacological treatment is an effective way to manage diabetes and improve sleep quality in diabetic children.
+Healthy lifestyle interventions have a positive impact on multiple disease trajectories, including cancer-related outcomes. Specifically, appropriate habitual physical activity, adequate sleep, and a regular wholesome diet are of paramount importance for the wellness and supportive care of survivors of cancer. Mobile health (mHealth) apps have the potential to support novel tailored lifestyle interventions. This observational pilot study aims to assess the feasibility of mHealth multidimensional longitudinal monitoring in survivors of cancer. The primary objective is to test the compliance (user engagement) with the monitoring solution. Secondary objectives include recording clinically relevant subjective and objective measures collected through the digital solution. This is a monocentric pilot study taking place in Bangor, Wales, United Kingdom. We plan to enroll up to 100 adult survivors of cancer not receiving toxic anticancer treatment, who will provide self-reported behavioral data recorded via a dedicated app and validated questionnaires and objective data automatically collected by a paired smartwatch over 16 weeks. The participants will continue with their normal routine surveillance care for their cancer. The primary end point is feasibility (eg, mHealth monitoring acceptability). Composite secondary end points include clinically relevant patient-reported outcome measures (eg, the Edmonton Symptom Assessment System score) and objective physiological measures (eg, step counts). This trial received a favorable ethical review in May 2023 (Integrated Research Application System 301068). This study is part of an array of pilots within a European Union funded project, entitled "GATEKEEPER," conducted at different sites across Europe and covering various chronic diseases. Study accrual is anticipated to commence in January 2024 and continue until June 2024. It is hypothesized that mHealth monitoring will be feasible in survivors of cancer; specifically, at least 50% (50/100) of the participants will engage with the app at least once a week in 8 of the 16 study weeks. In a population with potentially complex clinical needs, this pilot study will test the feasibility of multidimensional remote monitoring of patient-reported outcomes and physiological parameters. Satisfactory compliance with the use of the app and smartwatch, whether confirmed or infirmed through this study, will be propaedeutic to the development of innovative mHealth interventions in survivors of cancer. PRR1-10.2196/52957.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12887-024-04760-9
+- DOI: 10.2196/52957
 
 2. Keywords
-- Children
-- Exercise
-- Sleep habits
-- Type 1 diabetes
+- actigraphy
+- artificial intelligence
+- cancer
+- circadian
+- digital health
+- mHealth
+- mobile health
+- mobile phone
+- remote monitoring
+- survivorship
 
 3. Key Findings
-- The analysis of the variance test showed a significant difference (F&#x2009;=&#x2009;144
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Children assessment methods and outcomes
-- Exercise assessment methods and outcomes
-- Sleep habits assessment methods and outcomes
+- actigraphy assessment methods and outcomes
+- artificial intelligence assessment methods and outcomes
+- cancer assessment methods and outcomes

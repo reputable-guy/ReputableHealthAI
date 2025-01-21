@@ -1,27 +1,24 @@
-Study Title: Two-year scale-up dissemination study of a multi-strategic community-wide intervention promoting physical activity: a single-arm pre-post hybrid effectiveness-implementation trial.
+Study Title: Progressive resistance training improves single-leg vertical jump after anterior cruciate ligament reconstruction: Non-randomized controlled trial study.
 
 Study Summary:
-Intervention trials that have demonstrated significant effects may not always replicate those effects when scaled up. This study aimed to test whether scaling-up a successful cluster randomized trial (the COMMUNICATE study, 9 intervention communities), which promoted population-level physical activity (PA), could promote PA in a broader citywide setting (29 communities) after two years, as a mid-term evaluation of the six-year scaled-up trial. This is a single-arm, pre-post comparison of a multi-strategic community-wide intervention covering the entire Unnan City, Japan. The intervention for middle-aged and older people consisted of three components: information delivery, education, and support delivery. The intervention method followed the COMMUNICATE study but adapted and introduced new initiatives tailored to local resources. A baseline survey (n&#x2009;=&#x2009;3,718) among randomly selected residents aged 40-79&#xa0;years in 2016 and a follow-up survey with the same respondents two years later were conducted. The primary outcome was the change in the percentage of people who practiced the recommended levels of PA, analyzed with a generalized linear mixed model to account for clusters at individual and community levels. Additionally, we examined the dose-response relation of the effect based on the intervention doses in each community. The RE-AIM framework assessed intervention dissemination and implementation. The two-year intervention was implemented in all communities, reaching and involving various groups. The rate of people engaged in PA significantly increased in two years (adjusted change:&#x2009;+&#x2009;8.0 percentage points [95% confidence interval: 6.1, 10.0]). Based on the type of PA, only muscle-strengthening activity showed a significant increase (+&#x2009;11.5% points [9.6, 13.5]), whereas walking (-1.8% points [-3.6, 0.1]) and flexibility activities (+&#x2009;0.3% points [-1.5, 2.0]) did not. The increase in PA in higher-dose areas was not significantly different but slightly larger than that in lower-dose areas (+&#x2009;8.4% points vs.&#x2009;+&#x2009;7.6% points, adjusted difference in change: 0.8% points [-3.8, 5.5]). The scaled-up citywide intervention promoted PA, especially muscle-strengthening activity. Collaboration with diverse organizations in different settings is crucial for multi-faceted interventions and requires balancing uncertainty in its implementation quality and quantity owing to collaborative decision-making. UMIN-CTR, UMIN000024682. Registered 02 November 2016, https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000028377.
+The study was investigating the effect of a progressive resistance training program on the recovery of patients with anterior cruciate ligament reconstruction in terms of kinematics, kinetics and muscle strength. Longitudinal cohort study. Hospital laboratory. Of the 42 patients were finally included: 22 patients in the progressive resistance training group and 20 in the control group. Questionnaire, single-leg vertical jump, and muscle strength were collected preoperatively and at 16, 28 weeks, and 1 year postoperatively. At 28 weeks, the height of the single-leg vertical jump for the injured knee was 203 and 157&#xa0;mm (p&#xa0;=&#xa0;0.045) and the peak knee flexion angle after landing for the injured knee was 31&#xb0;and 23&#xb0; (p&#xa0;=&#xa0;0.027) in the progressive resistance training and control groups, respectively. The progressive resistance training group showed a significant increase in the knee extensor symmetry index after the 24-week exercise training compared from 58% preoperatively to 79% (p&#xa0;=&#xa0;0.001) after training completion, which lasted up to 1 year postoperatively. Progressive resistance training significantly improved knee extensor symmetry, single-leg vertical jump height, and peak knee flexion angle after landing, outperforming the control group across all measures.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1186/s12966-024-01684-6
+- Publication Date: 2025
+- DOI: 10.1016/j.ptsp.2024.10.006
 
 2. Keywords
-- Dissemination
+- Asymmetry
+- Biomechanics
 - Exercise
-- RE-AIM
-- Resistance training
-- Scale-up
 
 3. Key Findings
-- Intervention trials that have demonstrated significant effects may not always replicate those effects when scaled up
-- Based on the type of PA, only muscle-strengthening activity showed a significant increase (+&#x2009;11
+- The progressive resistance training group showed a significant increase in the knee extensor symmetry index after the 24-week exercise training compared from 58% preoperatively to 79% (p&#xa0;=&#xa0;0
 
 This study provides insights into:
-- Dissemination assessment methods and outcomes
+- Asymmetry assessment methods and outcomes
+- Biomechanics assessment methods and outcomes
 - Exercise assessment methods and outcomes
-- RE-AIM assessment methods and outcomes

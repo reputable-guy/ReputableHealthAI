@@ -1,25 +1,34 @@
-Study Title: The influence of prehabilitation in patients with liver cirrhosis before liver transplantation: a randomized clinical trial.
+Study Title: The Hombres Saludables Physical Activity Web-Based and Mobile Phone Intervention: Pilot Randomized Controlled Trial With Latino Men.
 
 Study Summary:
-The high prevalence of liver cirrhosis in Slovakia leads to a great need for transplant treatment. The outcome of liver transplantation is influenced by several factors. The main objective of this study is to test the effectiveness of prehabilitation compared to standard of care. Prospective, double-arm, randomized, open-registry study. Patient in F. D. Roosevelt Teaching Hospital, Slovakia, Bansk&#xe1; Bystrica. The participants consisted of patients with liver cirrhosis (55 men, 25 women). The patients were randomized to the active prehabilitation group (N.=39) or the standard of care group (SOC) (N.=41). SOC represents the standard of care for patients prior to liver transplantation, consisting of a formal oral interview lasting 30 minutes. In addition to SOC, each patient with decompensated liver cirrhosis also underwent a prehabilitation intervention that included rehabilitation and nutrition support. Patients completed the exercises under the supervision of a physician during hospitalisation. After one month, the liver frailty index improved in the prehabilitation group (P=0.05). No improvement in MELD (Model of End Stage Liver Disease) was found in the group that underwent the prehabilitation program (P=0.28), and no improvement was found in the Child-Pugh score after one month (P=0.13). In the prehabilitation groups compared with the SOC group, differences were not found in the MELD score (P=0.11). Better clinical outcomes according to the Child-Pugh score was found for the prehabilitation group compared with the SOC group (P=0.02). According to LFI, there was no difference between the groups (P=0.26). Very low adherence was found after three months. Only three patients in the SOC group and six patients in the prehabilitation group came to the check-up. Due to low adherence after 3 months in patients with liver cirrhosis, it is not possible to make an adequate comparison between groups after three months. Despite the great effort to maintain adherence, it was not possible to draw a conclusion about the effectiveness of prehabilitation in patients before liver transplantation compared to standard of care because the main problem in Slovak patients with liver cirrhosis is low adherence. More studies are needed to identify the barriers that lead to low adherence in patients with liver cirrhosis. A promising result was found due to improvement of the Liver Frailty Index and the Child-Pugh Score after one month in the prehabilitation group.
+Owing to structural-level, interpersonal-level, and individual-level barriers, Latino men have disproportionately high rates of physical inactivity and experience related chronic diseases. Despite these disparities, few physical activity (PA) interventions are culturally targeted for Latino men. This study reported the feasibility and acceptability of Hombres Saludables PA intervention for Latino men. We also reported the preliminary efficacy of the intervention on PA change and provided the results of the exploratory moderator and mediator analysis. We completed a 6-month, single-blind, pilot randomized controlled trial of Hombres Saludables with Latino men aged between 18 and 65 years. Men were randomized to either (1) a theory-driven, individually tailored, internet-based and SMS text message-based, Spanish-language PA intervention arm or (2) a nutrition and wellness attention contact control arm that was also delivered via the web and SMS text message. We assessed the primary study outcomes of feasibility using participant retention and acceptability using postintervention survey and open-ended interview questions. We measured the preliminary efficacy via change in minutes of moderate to vigorous PA per week using ActiGraph wGT3X-BT accelerometry (primary measure) and self-reported minutes per week using 7-day Physical Activity Recall. Participants completed the assessments at study enrollment and after 6 months. The 38 participants were predominantly Dominican (n=8, 21%) or Guatemalan (n=5, 13%), and the mean age was 38.6 (SD 12.43) years. Retention rates were 91% (21/23) for the PA intervention arm and 100% (15/15) for the control arm. Overall, 95% (19/20) of the intervention arm participants reported that the Hombres study was somewhat to very helpful in getting them to be more physically active. Accelerometry results indicated that participants in the intervention group increased their PA from a median of 13 minutes per week at study enrollment to 34 minutes per week at 6 months, whereas the control group participants showed no increases. On the basis of self-reports, the intervention group was more likely to meet the US PA guidelines of 150 minutes per week of moderate to vigorous PA at 6-month follow-up, with 42% (8/19) of the intervention participants meeting the PA guidelines versus 27% (4/15) of the control participants (odds ratio 3.22, 95% CI 0.95-13.69). Exploratory analyses suggested conditional effects on PA outcomes based on baseline stage of motivational readiness, employment, and neighborhood safety. The PA intervention demonstrated feasibility and acceptability. Results of this pilot study indicate that the Hombres Saludables intervention is promising for increasing PA in Latino men and suggest that a fully powered trial is warranted. Our technology-based PA intervention provides a potentially scalable approach that can improve health in a population that is disproportionately affected by low PA and related chronic disease. ClinicalTrials.gov NCT03196570; https://classic.clinicaltrials.gov/ct2/show/NCT03196570. RR2-10.2196/23690.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.23736/S1973-9087.23.08130-3
+- Publication Date: 2023
+- DOI: 10.2196/39310
 
 2. Keywords
-
+- Hispanic
+- Latino
+- SMS text messaging
+- eHealth
+- expert system
+- internet
+- mHealth
+- men
+- mobile health
+- mobile phone
+- physical activity
+- social media
 
 3. Key Findings
-- No improvement in MELD (Model of End Stage Liver Disease) was found in the group that underwent the prehabilitation program (P=0
-- 28), and no improvement was found in the Child-Pugh score after one month (P=0
-- In the prehabilitation groups compared with the SOC group, differences were not found in the MELD score (P=0
-- Better clinical outcomes according to the Child-Pugh score was found for the prehabilitation group compared with the SOC group (P=0
-- Very low adherence was found after three months
-- A promising result was found due to improvement of the Liver Frailty Index and the Child-Pugh Score after one month in the prehabilitation group
+- Accelerometry results indicated that participants in the intervention group increased their PA from a median of 13 minutes per week at study enrollment to 34 minutes per week at 6 months, whereas the control group participants showed no increases
+- The PA intervention demonstrated feasibility and acceptability
 
 This study provides insights into:
-- General research methodology and outcomes
+- Hispanic assessment methods and outcomes
+- Latino assessment methods and outcomes
+- SMS text messaging assessment methods and outcomes

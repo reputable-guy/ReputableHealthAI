@@ -1,44 +1,27 @@
-Study Title: Effects of a Digital Mental Health Intervention on Perceived Stress and Rumination in Adolescents Aged 13 to 17 Years: Randomized Controlled Trial.
+Study Title: The effects of web-based animation-supported progressive relaxation exercises applied to individuals with epilepsy on fatigue and sleep quality: A randomized controlled study.
 
 Study Summary:
-Although adolescents report high levels of stress, they report engaging in few stress management techniques. Consequently, developing effective and targeted programs to help address this transdiagnostic risk factor in adolescence is particularly important. Most stress management programs for adolescents are delivered within schools, and the evidence for these programs is mixed, suggesting a need for alternative options for stress management among adolescents. The aim of the study is to test the short-term effects of a self-guided digital mental health intervention (DMHI) designed for adolescents on perceived stress and rumination (ie, brooding). This was a 12-week, 2-arm decentralized randomized controlled trial of adolescents aged 13 to 17 years who presented with elevated levels of perceived stress and brooding. Participants were randomly assigned to engage with a self-guided DMHI (Happify for Teens) or to a waitlist control. Participants assigned to the intervention group were given access to the program for 12 weeks. Happify for Teens consists of various evidence-based activities drawn from therapeutic modalities such as cognitive behavioral therapy, positive psychology, and mindfulness, which are then organized into several programs targeting specific areas of concern (eg, Stress Buster 101). Participants in the waitlist control received access to this product for 12 weeks upon completing the study. Participants in both groups completed measures of perceived stress, brooding, optimism, sleep disturbance, and loneliness at baseline, 4 weeks, 8 weeks, and 12 weeks. Changes in outcomes between the intervention and waitlist control groups were assessed using repeated-measures multilevel models. Of the 303 participants included in data analyses, 132 were assigned to the intervention and 171 to the waitlist. There were significantly greater improvements in the intervention condition for perceived stress (intervention: B=-1.50; 95% CI -1.82 to -1.19; P<.001 and control: B=-0.09; 95% CI -0.44 to 0.26; P=.61), brooding (intervention: B=-0.84; 95% CI -1.00 to -0.68; P<.001 and control: B=-0.30; 95% CI -0.47 to -0.12; P=.001), and loneliness (intervention: B=-0.96; 95% CI -1.2 to -0.73; P<.001 and control: B=-0.38; 95% CI: -0.64 to -0.12; P=.005) over the 12-week study period. Changes in optimism and sleep disturbance were not significantly different across groups (Ps&#x2265;.096). Happify for Teens was effective at reducing perceived stress, rumination, and loneliness among adolescents over 12 weeks when compared to a waitlist control group. Our data reveal the potential benefits of DMHIs for adolescents, which may present a more scalable, destigmatized, and cost-effective alternative to school-based programs. ClinicalTrials.gov NCT04567888; https://clinicaltrials.gov/ct2/show/NCT04567888. RR2-10.2196/25545.
+The study was conducted to determine the effects of Progressive Relaxation Exercise, supported by mobile-based animation, on fatigue and sleep quality of individuals with epilepsy. The study was conducted in a randomized controlled design with a pretest-posttest model on epileptic individuals who applied to Giresun University, Faculty of Medicine, Neurology Outpatient Clinic between February and December 2022. By using power analysis, the sample of the study was determined as 60 epilepsy patients (30 in the Control Group, 30 in the Experimental Group). The data were collected by face-to-face interview technique with the Personal Information Form, Pittsburgh Sleep Quality Index (PSQI), and Fatigue Severity Scale (FSS). Frequencies, percentages, arithmetic mean, standard deviations, Pearson Correlation Analysis, Paired t-Test, Student's t-Test, and Chi-Square Test were used in the evaluation of the study data. When the Control Group's mean scores in the pre-test and post-tests, which were performed with an interval of 6 weeks, were compared, a statistically significant difference was detected between the FSS and PSQI scores (p>0.05). The mean Fatigue Severity Scale score was found to be 5.24 &#xb1; 0.69 before the Progressive Relaxation Exercises and 3.82 &#xb1; 0.77 after the exercises. The mean scores of the individuals on the Fatigue Severity Scale after the relaxation exercises were found to be lower at a statistically significant level than the mean scores before the relaxation exercises (p<0.001). The differences between subjective sleep quality (p<0.001), sleep latency (p<0.001), daytime dysfunction (p<0.001), and total sleep quality (p<0.001) score averages after the Progressive Relaxation Exercises were statistically significant compared to the pre-exercises status. When the post-test scores of the participants in the Experimental Group was examined, significant, moderate, and positive differences were detected between the FSS and Total PSQI scores (r: 0.373-p: 0.042), Subjective Sleep Quality (r: 0.487-p: 0.006), which is one of the sub-dimensions of PSQI, Sleeping Pill Use (r: 0.531-p: 0.003), and Daytime Dysfunction (r: 0.461-p: 0.01) scores. It was determined that individuals with epilepsy experience fatigue and deterioration in sleep quality and there is a reciprocal relationship between the severity of fatigue and sleep quality in these individuals. Progressive Relaxation Exercises applied with the animation-supported web-based mobile intervention technique reduce the fatigue levels of individuals and increase sleep quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/54282
+- DOI: 10.1016/j.yebeh.2024.109734
 
 2. Keywords
-- DMHI
-- RCT
-- adolescent
-- adolescents
-- brooding
-- controlled trial
-- controlled trials
-- digital health
-- digital intervention
-- digital mental health intervention
-- mHealth
-- mental health
-- mobile health
-- mobile phone
-- randomized
-- randomized controlled trial
-- rumination
-- stress
-- stress management
-- teen
-- teenager
-- teenagers
-- teens
+- Epilepsy
+- Mobile-Based Progressive Relaxation Exercise
+- fatigue
+- nursing
+- sleep quality
 
 3. Key Findings
-- Findings extraction requires manual review
+- The mean Fatigue Severity Scale score was found to be 5
+- The mean scores of the individuals on the Fatigue Severity Scale after the relaxation exercises were found to be lower at a statistically significant level than the mean scores before the relaxation exercises (p<0
 
 This study provides insights into:
-- DMHI assessment methods and outcomes
-- RCT assessment methods and outcomes
-- adolescent assessment methods and outcomes
+- Epilepsy assessment methods and outcomes
+- Mobile-Based Progressive Relaxation Exercise assessment methods and outcomes
+- fatigue assessment methods and outcomes

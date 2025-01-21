@@ -1,28 +1,29 @@
-Study Title: A study on improving cancer-related fatigue and disease-related psychological variables in patients with cervical cancer based on online mindfulness-based stress reduction: a randomized controlled trial.
+Study Title: Perturbational complexity index in assessing responsiveness to rTMS treatment in patients with disorders of consciousness: a cross-over randomized controlled trial study.
 
 Study Summary:
-The persistent destructive power of cancer-related fatigue (CRF) has been regarded as the biggest influencing factor affecting the postoperative physical and mental health of patients with cervical cancer. During this process, patients might also experience different feelings of disease-related psychological. Therefore, this study aimed to adopt mindfulness-based stress reduction (MBSR) to intervene in patients with cervical cancer, and conducted follow-up for 3 and 6 months to observe the effects of changes in CRF, uncertainty in illness, coping styles, sense of coherence (SOC), and perceived social support (PSS). A randomized controlled trial was conducted in ShengJing Hospital of China Medical University. A total of 102 patients were selected, and 78 patients completed the whole process, including 40 in the experimental group and 38 in the control group. Data were collected according to Cancer Fatigue Scale, Medical Coping Modes Questionnaire, Multidimensional Scale of Perceived Social Support, and Sense of Coherence-13. The change trend and difference of the two groups of research data were compared by repeated measurement analysis of variance. Bonferroni test was used for multiple tests between groups. The CRF, SOC, and coping styles of the MBSR group showed a decreasing trend (P&#x2009;<&#x2009;0.001) at after MBSR, 3 months follow-up, and 6 months follow-up compared to the before MBSR. However, the uncertainty in illness of the MBSR group showed a decreasing trend (P&#x2009;<&#x2009;0.001) at after MBSR compared to the before MBSR, and it rose in 3 months follow-up and 6 months follow-up. MBSR can effectively alleviate the fatigue of CRF after treatment, while improving their psychological environment. Medical workers can consider implementing online MBSR for patients with cervical cancer in their daily rehabilitation nursing, which is beneficial for their recovery. China Clinical Trial Registration Center ChiCTR2000040122 (https//www.chictr.org.cn/). Registered on November 21, 2020.
+Disorders of Consciousness (DoC) caused by severe brain injuries represent a challenging clinical entity, which is easy to misdiagnosis and lacks effective treatment options. Repetitive Transcranial Magnetic Stimulation (rTMS) is a non-invasive neuroelectric stimulation method that shows promise in improving consciousness for DoC, especially in minimally conscious state (MCS). However, there is little evidence of its effectiveness, especially in RCT studies. Twenty MCS patients participated in a double-blind, randomized, crossover, sham-controlled clinical study to evaluate the safety and efficacy of rTMS for MCS. Subjects were randomized into two groups: one group received rTMS-active for 10 consecutive days (n&#x2009;=&#x2009;10), and the other group received rTMS-sham for 10 consecutive days (n&#x2009;=&#x2009;10). After a 10-day washout period, the two groups were crossed over and received the opposite treatment. the rTMS protocol consisted of 2,000 pulses per day in the left dorsolateral prefrontal cortex (L-DLPFC), sent at 10&#xa0;Hz. The stimulation intensity was 90% of the resting motor threshold. Coma Recovery Scale Revised (CRS-R), the main evaluation index, was evaluated before and after each phase in a double-blind manner. Meanwhile RS-EEG and TMS-EEG data were acquired and relative alpha power (RAP), and perturbational complexity index based on state transitions (PCIst) were caculated. One-way ANOVA revealed significantly higher scores in rTMS-active treatment compared to rTMS-sham across various measures, including CRS-R total score, RAP, PCIst (all P&#x2009;<&#x2009;0.05). Among the 20 MCS patients, 7 (35%) were identified as responders following rTMS treatment. Compared to rTMS-sham, responder scores for CRS-R, RAP, and PCIst (all P&#x2009;<&#x2009;0.05) were significantly elevated after rTMS-active treatment. Conversely, there was no significant difference observed in non-responders. Furthermore, post-hoc analysis revealed that baseline PCIst was significantly higher in responders than non-responders. Upon a 6-month follow-up, CRS-R scores significantly increased in all 20 patients (P&#x2009;=&#x2009;0.026). However, the responder group exhibited a more favorable prognosis compared to the non-responder group (P&#x2009;=&#x2009;0.031). Applying 10&#xa0;Hz rTMS to L-DLPFC significantly increased consciousness level in MCS patients. PCIst is a neurophysiological index that has the potential to evaluate and predict therapeutic efficacy. www. gov , identifier: NCT05187000.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12905-024-03368-6
+- DOI: 10.1186/s12984-024-01455-1
 
 2. Keywords
-- A randomized controlled trial
-- Cancer related fatigue
-- Cervical cancer
-- Coping styles
-- Mindfulness-based stress reduction
-- Sense of coherence
+- Disorders of consciousness
+- EEG
+- Minimally conscious state
+- Perturbational complexity index
+- Randomized control trial
+- Repetitive transcranial magnetic stimulation
+- TMS-EEG
 
 3. Key Findings
-- The CRF, SOC, and coping styles of the MBSR group showed a decreasing trend (P&#x2009;<&#x2009;0
-- However, the uncertainty in illness of the MBSR group showed a decreasing trend (P&#x2009;<&#x2009;0
+- One-way ANOVA revealed significantly higher scores in rTMS-active treatment compared to rTMS-sham across various measures, including CRS-R total score, RAP, PCIst (all P&#x2009;<&#x2009;0
+- Furthermore, post-hoc analysis revealed that baseline PCIst was significantly higher in responders than non-responders
 
 This study provides insights into:
-- A randomized controlled trial assessment methods and outcomes
-- Cancer related fatigue assessment methods and outcomes
-- Cervical cancer assessment methods and outcomes
+- Disorders of consciousness assessment methods and outcomes
+- EEG assessment methods and outcomes
+- Minimally conscious state assessment methods and outcomes

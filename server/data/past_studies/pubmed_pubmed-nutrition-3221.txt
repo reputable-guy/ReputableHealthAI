@@ -1,26 +1,21 @@
-Study Title: Replacement of the massive amino acid losses induced by hemodialysis: A new treatment option proposal for a largely underestimated issue.
+Study Title: An open-label, randomized controlled trial to assess a ketogenic diet in critically ill patients with sepsis.
 
 Study Summary:
-A series of interesting literature reports acknowledges the notable loss of essential and non-essential amino acids (EAAs and NEAAs) during hemodialysis sessions. These losses may exceed 800&#xa0;g/year, thus contributing towards accelerating the onset of malnutrition in hemodialysis patients (HD). A novel tailored amino acid formula for oral administration was developed to replace total amounts of each individual amino acid lost during dialysis diffusive/convective HD strategies, monitoring the effects produced on nutritional and hematological status. A three-month randomized double-blind study was conducted on 30 subjects over the age of 70 years extrapolated from a total population of 86 hemodialysis patients. The 30 patients were randomly assigned to two groups: a treatment group of 15 HD patients (TG) to whom a novel mixture containing 5.4&#xa0;g of AAs was administered solely on interdialytic days, and a control group of 15 HD patients (CG) who received no amino acid supplementation. The AAs mixture was administered post-dialysis at an extended interval from the end of solute and compartmental rebound to replace AA losses and optimize their role in protein anabolism. The results obtained highlighted a significant improvement in protein intake g/kg/day (Protein Catabolic Rate, p&#xa0;=&#xa0;0.014), and increased IgG (p&#xa0;=&#xa0;0.008) and C3 serum levels (p&#xa0;=&#xa0;0.003) in the TG group alone. Fat mass losses were initially confirmed by means of bioelectrical impedance analysis (BIA) (p&#xa0;=&#xa0;0.011) and plicometry (p&#xa0;<&#xa0;0.001) in the CG group alone, although the main objective was to preserve nutritional status and, particularly, muscle mass. The study was extended to investigate the effects produced on anemia, yielding evidence of continued positive effects three months after the end of the study in the TG group alone based on an increase in Hb levels from 11.2&#xa0;&#xb1;&#xa0;0.6 to 12.1&#xa0;&#xb1;&#xa0;0.6 (p&#xa0;=&#xa0;0.004) associated with a reduced demand for erythropoietin i.v. from 12928&#xa0;&#xb1;&#xa0;9033 to 9286&#xa0;&#xb1;&#xa0;5398 U.I/week (p&#xa0;=&#xa0;0.012) and iron i.v. from 75.9&#xa0;&#xb1;&#xa0;55 to 71.4&#xa0;&#xb1;&#xa0;33.4&#xa0;mg/week (p&#xa0;=&#xa0;0.045). The results obtained following oral administration of this novel tailored AA replacement mixture aimed at reinstating the high AA losses produced during hemodialysis suggest the mixture should be prescribed as a standard procedure to all HD patients.
+Patients with sepsis experience metabolic and immunologic dysfunction that may be amplified by standard carbohydrate-based nutrition. A ketogenic diet (KD) may offer an immunologically advantageous alternative, although clinical evidence is limited. We conducted a single-center, open-label, randomized controlled trial to assess whether a KD could induce stable ketosis in critically ill patients with sepsis. Secondary outcomes included assessment of feasibility and safety of KD, as well as explorative analysis of clinical and immunological characteristics. Forty critically ill adults were randomized to either a ketogenic or standard high-carbohydrate diet. Stable ketosis was achieved in all KD patients, with significant increases in &#x3b2;-hydroxybutyrate levels compared with controls [mean difference 1.4 milimoles per liter; 95% confidence interval (CI): 1.0 to 1.8;< 0.001). No major adverse events or harmful metabolic side effects (acidosis, dysglycemia, or dyslipidemia) were observed. After day 4, none of the patients in the KD group required insulin treatment, whereas in the control group, insulin dependency ranged between 35% and 60% (= 0.009). There were no differences in 30-day survival, but ventilation-free [incidence rate ratio (IRR) 1.7; 95% CI: 1.5 to 2.1;< 0.001], vasopressor-free (IRR 1.7; 95% CI: 1.5 to 2.0;< 0.001), dialysis-free (IRR 1.5; 95% CI: 1.3 to 1.8;< 0.001), and intensive care unit-free days (IRR 1.7; 95% CI: 1.4 to 2.1;< 0.001) were higher in the ketogenic group. Next-generation sequencing of CD4/CD8T cells and protein analyses showed reduced immune dysregulation, with decreased gene expression of T-cell activation and signaling markers and lower pro-inflammatory cytokine secretion. This trial demonstrated the safe induction of a stable ketogenic state in sepsis, warranting larger trials to investigate potential benefits in sepsis-related organ dysfunction.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.clnesp.2024.06.025
+- DOI: 10.1126/scitranslmed.adn9285
 
 2. Keywords
-- Aminoacids
-- Hemodialysis
-- Nutrition
-- Replacement
-- Sarcopenia
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Next-generation sequencing of CD4/CD8T cells and protein analyses showed reduced immune dysregulation, with decreased gene expression of T-cell activation and signaling markers and lower pro-inflammatory cytokine secretion
+- This trial demonstrated the safe induction of a stable ketogenic state in sepsis, warranting larger trials to investigate potential benefits in sepsis-related organ dysfunction
 
 This study provides insights into:
-- Aminoacids assessment methods and outcomes
-- Hemodialysis assessment methods and outcomes
-- Nutrition assessment methods and outcomes
+- General research methodology and outcomes

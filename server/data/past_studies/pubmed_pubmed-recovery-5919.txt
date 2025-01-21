@@ -1,24 +1,26 @@
-Study Title: A Model for Providing Psychological Support to Healthcare Leaders and Teams in Times of Crisis.
+Study Title: Effect of preoperative immunonutrition on postoperative short-term clinical outcomes in patients with gastric cancer cachexia: a prospective randomized controlled trial.
 
 Study Summary:
-Pre-pandemic, the healthcare workforce was already at risk for higher burnout than the general population and, in some roles (e.g., physicians, nurses), at higher risk for clinical distress and suicide. Studies of healthcare workforce well-being during and after past pandemics reflect that distress can persist after a pandemic subsides, if adequate support within the workplace is not forthcoming and accessible. The current report presents the rationale for and development of a wellness consult service to provide support to leaders and teams in an academic medical center during the COVID-19 pandemic and now as teams work to recover and rebuild after years of significant pandemic and other stressors. Healthcare workers who participated in supportive Listening Sessions or Interactive Workshops facilitated by the wellness consult service were invited to complete an anonymous post-session survey. Between March 2020 and November 2022, 185 leaders and teams participated in 342 supportive Listening Sessions and Interactive Workshops. Of the respondents to the post-session survey (N = 701), 89% rated the intervention as "good to excellent" and 84% were likely or very likely to recommend this service. Leaders rated the experience more highly than non-leaders (F (1,307) = 13.99, p < 0.001) and were more likely to report feeling emotionally supported (F (1,304) = 19.836, p < 0.001). Supporting leader and team well-being may be critical to post-pandemic recovery of the healthcare workforce. The current report presents a feasible, theory-driven model for doing so, which was rated as highly satisfactory by participants.
+Although current guidelines(ESPEN guideline: Clinical nutrition in surgery and other guidelines) recommend preoperative immunonutrition for cachectic gastric cancer patients, the strength of the recommendation is weak, and the level of evidence is low. The benefits of preoperative immunonutrition still remain controversial. 112 patients with gastric cancer cachexia were enrolled in the study and randomly assigned in a 1:1 ratio to receive either preoperative enteral immunonutrition support (IN, n&#x2009;=&#x2009;56) or standard enteral nutrition support (SEN, n&#x2009;=&#x2009;56). The primary endpoint was the incidence of infectious complications, and the secondary endpoints included the nutritional indicators, inflammatory markers, immune parameters, postoperative recovery and complications and gastrointestinal intolerance reactions. The incidence of postoperative infectious complications(P&#x2009;=&#x2009;0.040) and overall complications (P&#x2009;=&#x2009;0.049)was significantly lower in the IN group compared to the SEN group. In terms of laboratory inflammatory indexes, patients in the IN group demonstrated significantly lower levels of white blood cells (WBC), C-reactive protein (CRP), and interleukin-6 (IL-6), as well as higher levels of lymphocytes (LYMPH) and immunoglobulin A (IgA), compared to patients in the SEN group, with statistically significant differences. In terms of clinical outcomes, the IN group had a shorter duration of antibiotic use (P&#x2009;=&#x2009;0.048), shorter hospital stay (P&#x2009;=&#x2009;0.018), and lower total hospital costs (P&#x2009;=&#x2009;0.034) compared to the SEN group. The IN group also experienced significantly less weight loss after surgery (P&#x2009;=&#x2009;0.043). Preoperative administration of immunonutrition formula has a positive impact on the incidence of infectious complications in patients with gastric cancer cachexia after surgery. It improves patients' inflammatory and immune status, shortens hospital stays, and reduces healthcare costs. Preoperative use of immunonutrition may contribute to the improvement of prognosis in this high-risk population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s40596-024-01965-z
+- DOI: 10.1186/s12957-024-03348-y
 
 2. Keywords
-- Healthcare
-- Leader
-- Workforce well-being
+- Cancer cachexia
+- Enteral nutrition
+- Gastric cancer
+- Immunonutrition
+- Preoperative intervention
 
 3. Key Findings
-- Findings extraction requires manual review
+- In terms of laboratory inflammatory indexes, patients in the IN group demonstrated significantly lower levels of white blood cells (WBC), C-reactive protein (CRP), and interleukin-6 (IL-6), as well as higher levels of lymphocytes (LYMPH) and immunoglobulin A (IgA), compared to patients in the SEN group, with statistically significant differences
 
 This study provides insights into:
-- Healthcare assessment methods and outcomes
-- Leader assessment methods and outcomes
-- Workforce well-being assessment methods and outcomes
+- Cancer cachexia assessment methods and outcomes
+- Enteral nutrition assessment methods and outcomes
+- Gastric cancer assessment methods and outcomes

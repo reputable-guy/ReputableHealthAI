@@ -1,29 +1,26 @@
-Study Title: The Effect of Iron-Fortified Lentils on Blood and Cognitive Status among Adolescent Girls in Bangladesh.
+Study Title: Effect of a Center-Based Early Childhood Care and Education Program on Child Nutritional Status: A Secondary Analysis of a Stepped-Wedge Cluster Randomized Controlled Trial in Rural Sindh, Pakistan.
 
 Study Summary:
-Iron deficiency is highly prevalent in South Asia, especially among women and children in Bangladesh. Declines in cognitive performance are among the many functional consequences of iron deficiency. We tested the hypothesis that, over the course of a 4-month iron fortification trial, cognitive performance would improve, and that improvement would be related to improvements in iron status. Participants included 359 adolescent girls attending Bangladesh Rural Advancement Committee (BRAC) clubs as a subsample of a larger double-blind, cluster-randomized community trial in which participants were assigned to one of three conditions: a condition in which no lentils were supplied (NL, n = 118, but which had the usual intake of lentils), a control (non-fortified) lentil condition (CL, n = 124), and an iron-fortified lentil condition (FL, n = 117). In the FL and CL conditions, approximately 200 g of cooked lentils were served five days per week for a total of 85 feeding days. In addition to biomarkers of iron status, five cognitive tasks were measured at baseline (BL) and endline (EL): simple reaction time task (SRT), go/no-go task (GNG), attentional network task (ANT), the Sternberg memory search Task (SMS), and a cued recognition task (CRT). Cognitive performance at EL was significantly better for those in the FL relative to the CL and NL conditions, with this being true for at least one variable in each task, except for the GNG. In addition, there were consistent improvements in cognitive performance for those participants whose iron status improved. Although there were overall declines in iron status from BL to EL, the declines were smallest for those in the FL condition, and iron status was significantly better for those in FL condition at EL, relative to those in the CL and NL conditions. the provision of iron-fortified lentils provided a protective effect on iron status in the context of declines in iron status and supported higher levels of cognitive performance for adolescent girls at-risk of developing iron deficiency.
+High-quality early childhood care and education (ECCE) programs can positively impact children's development. However, as an unintended consequence, ECCE attendance may also affect children's nutritional status. We evaluated the effect of a center-based ECCE intervention on child nutritional outcomes in rural Pakistan. This study utilized data from a stepped-wedge cluster randomized controlled trial of a center-based ECCE program that trained female youth to run high-quality preschools for children aged 3.5-5.5 y (Youth Leaders for Early Childhood Assuring Children are Prepared for School (LEAPS) program) in rural Sindh, Pakistan. The program did not include any school meals. A total of 99 village clusters were randomized to receive the LEAPS intervention in 3 steps, and repeated cross-sectional surveys were conducted to assess the impact on children (age: 4.5-5.5 y) at 4- time points. ITT analyses with multilevel mixed-effect models were used to estimate the effect of the intervention on child anthropometric outcomes. The analysis included 3858 children with anthropometric data from 4 cross-sectional survey rounds. The LEAPS intervention was found to have a positive effect on child height-for-age z score (mean difference: 0.13 z-scores; 95% confidence interval [CI]: 0.02, 0.24). However, there was a negative effect on weight-based anthropometric indicators, -0.29 weight-for-height z score (WHZ) (95% CI: -0.42, -0.15), -0.13 BMI z score (BMIZ) (95% CI: -0.23, -0.03), and -0.16 mid-upper arm circumference-for-age z score MUACZ (95% CI: -0.25, -0.05). An exploratory analysis suggested that the magnitude of the negative effect of LEAPS on WHZ, BMIZ, and weight-for-age z score (WAZ) was greater in the survey round during the COVID-19 lockdown. The LEAPS intervention positively affected child linear growth but had negative effects on multiple weight-based anthropometric measures. ECCE programs in low- and middle-income country settings should evaluate the integration of nutrition-specific interventions (eg school lunch, counseling on healthy diets) and infection control strategies to promote children's healthy growth and development. clinicaltrials.gov, NCT03764436, https://clinicaltrials.gov/ct2/show/NCT03764436.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.3390/nu15235001
+- Publication Date: 2024
+- DOI: 10.1016/j.tjnut.2023.12.008
 
 2. Keywords
-- Bangladesh
-- adolescence
-- cognition
-- community nutrition
-- international nutrition
-- iron deficiency
-- iron fortification
-- memory
+- Pakistan
+- anthropometry
+- child development
+- children
+- preschool
 
 3. Key Findings
-- Findings extraction requires manual review
+- The LEAPS intervention was found to have a positive effect on child height-for-age z score (mean difference: 0
 
 This study provides insights into:
-- Bangladesh assessment methods and outcomes
-- adolescence assessment methods and outcomes
-- cognition assessment methods and outcomes
+- Pakistan assessment methods and outcomes
+- anthropometry assessment methods and outcomes
+- child development assessment methods and outcomes

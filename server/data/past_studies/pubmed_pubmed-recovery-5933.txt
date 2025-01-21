@@ -1,27 +1,20 @@
-Study Title: BI-REAL: A 12-session DBT skills group intervention adapted for bipolar disorder - A feasibility randomised pilot trial.
+Study Title: Postoperative C5 Palsy after Anterior or Posterior Decompression for Degenerative Cervical Myelopathy: A Subgroup Analysis of the Multicenter, Prospective, Randomized, Phase III, CSM-Protect Clinical Trial.
 
 Study Summary:
-International guidelines endorse psychological treatment for Bipolar Disorder (BD); however, the absence of a recognised gold-standard intervention requires further research. A Dialectical Behaviour Therapy (DBT) skills group intervention with 12 sessions was developed. This pilot randomised controlled trial (RCT) aims to evaluate the feasibility, acceptability, and outcomes variance of Bi-REAL - Respond Effectively, Assertively, and Live mindfully, tailored for individuals with BD, in preparation for a future RCT. 52 participants (female&#xa0;=&#xa0;62.7&#xa0;%; mean age&#xa0;=&#xa0;43.2&#xa0;&#xb1;&#xa0;11.1) with BD were randomised by blocks to either the experimental group (EG; n&#xa0;=&#xa0;26; Bi-REAL + Treatment as Usual, TAU) receiving 12 weekly 90-minutes sessions, or the control group (CG; n&#xa0;=&#xa0;26, TAU). Feasibility and acceptability were assessed with a multimethod approach (qualitative interviews, semi-structured clinical interviews and a battery of self-report questionnaires - candidate main outcomes Bipolar Recovery Questionnaire (BRQ) and brief Quality of Life for Bipolar Disorder (QoL.BD)). All participants were evaluated at baseline (T0), post-intervention (T1) and 3-month follow-up (T2). Acceptability was supported by participants' positive feedback and ratings of the sessions and programme overall, as well as the treatment attendance (86.25&#xa0;% of sessions attended). The trial overall retention rate was 74.5&#xa0;%, with CG having a higher dropout rate across the 3-timepoints (42.31&#xa0;%). A significant Time&#xa0;&#xd7;&#xa0;Group interaction effect was found for BRQ and QoL.BD favouring the intervention group (p&#xa0;<&#xa0;.05). The assessors were not blind at T1 (only at T2). Recruitment plan was impacted due to COVID-19 restrictions and replication is questionable. High attrition rates in the CG. The acceptability of Bi-REAL was sustained, and subsequent feasibility testing will be necessary to establish whether the retention rates of the overall trial improve and if feasibility is confirmed, before progressing to a definitive trial.
+Retrospective cohort study of prospectively accrued data. To evaluate a large, prospective, multicentre dataset of surgically treated degenerative cervical myelopathy (DCM) cases on the contemporary risk of C5 palsy with surgical approach. The influence of surgical technique on postoperative C5 palsy after decompression for DCM is intensely debated. Comprehensive, covariate-adjusted analyses are needed using contemporary data. Patients with moderate to severe DCM were prospectively enrolled in the multicenter, randomized, Phase III CSM-Protect clinical trial and underwent either anterior or posterior decompression between Jan 31, 2012 and May 16, 2017. The primary outcome was the incidence of postoperative C5 palsy, defined as the onset of muscle weakness by at least one grade in manual muscle test at the C5 myotome with slight or absent sensory disruption after cervical surgery. Two comparative cohorts were made based on the anterior or posterior surgical approach. Multivariate hierarchical mixed-effects logistic regression was used to estimate odds ratios (OR) with 95% confidence intervals (CI) for C5 palsy. A total of 283 patients were included, and 53.4% underwent posterior decompression. The total incidence of postoperative C5 palsy was 7.4% and was significantly higher in patients who underwent posterior decompression compared with anterior decompression (11.26% vs. 3.03%, P =0.008). After multivariable regression, the posterior approach was independently associated with greater than four times the likelihood of postoperative C5 palsy ( P =0.017). Rates of C5 palsy recovery were comparable between the two surgical approaches. The odds of postoperative C5 palsy are significantly higher after posterior decompression compared to anterior decompression for DCM. This may influence surgical decision-making when there is equipoise in deciding between anterior and posterior treatment options for DCM. Therapeutic Level-II.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jad.2024.04.033
+- DOI: 10.1097/BRS.0000000000005007
 
 2. Keywords
-- Bipolar disorder
-- DBT-ST
-- Emotion regulation
-- Pilot RCT
-- Recovery
-- Skills training
+
 
 3. Key Findings
-- A significant Time&#xa0;&#xd7;&#xa0;Group interaction effect was found for BRQ and QoL
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Bipolar disorder assessment methods and outcomes
-- DBT-ST assessment methods and outcomes
-- Emotion regulation assessment methods and outcomes
+- General research methodology and outcomes

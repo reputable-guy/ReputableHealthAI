@@ -1,27 +1,27 @@
-Study Title: Kavalactones support motivation to move during intensive training in males preparing for military special operations forces.
+Study Title: The effect of massage on cramp frequency, cramp severity, and sleep quality of hemodialysis patients: A randomized controlled trial.
 
 Study Summary:
-Military special operators, elite athletes, and others requiring uninterrupted optimal performance currently lack options for sleep and mood support without performance-inhibiting effects. Kavalactones, derived from the root of the kava plant (Forst), have been shown to elevate mood and wellbeing by producing a feeling of relaxation without addiction or cognitive impairment. In this placebo-controlled, crossover study (NCT05381025), we investigated the effects of 2 weeks of kavalactones use on cortisol (diurnal salivary), sleep (RSQ-W; Restorative Sleep Questionnaire, Weekly), mood (DASS-21; Depression Anxiety Stress Scale-21), and motivation state to expend (Move) or conserve (Rest) energy (CRAVE; Cravings for Rest and Volitional Energy Expenditure, Right Now) in a cohort of 15 healthy, physically fit young males engaged in a rigorous, two-a-day preparation class for special operations forces qualification. Cortisol, sleep, and mood were within normal, healthy parameters in this cohort at baseline. This remained unchanged with kavalactones use with no significant findings of clinical interest. However, a statistically similar, positive slope for within-group Move scores was seen in both groups during kavalactones loading (first group Move slope 2.25, second group Move slope 3.29,&#x2009;=&#x2009;0.299). This trend was seen regardless of order and with no apparent effects on the Rest metric (all&#x2009;&#x2265;&#x2009;0.05). Moreover, a significant between-group difference appeared after 1 week of kavalactones use in the first phase (0.044) and persisted through the end of the first loading period (&#x2009;=&#x2009;0.022). Following the 10-day washout, this between-groups divergence remained significant (&#x2009;=&#x2009;0.038) but was reversed by 1 week after the crossover (0.072), with Move scores once again statistically similar between groups and compared to baseline at study end. Furthermore, the group taking kavalactones first never experienced a significant decrease in Move motivation state (lowest mean score 21.0, highest 28.6, all&#x2009;&#x2265;&#x2009;0.05), while the group receiving kavalactones in the last 2 weeks of the study had Move scores that were statistically lower than baseline (lowest mean score 8.6, highest 25.9, all&#x2009;&#x2264;&#x2009;0.05) at all time points but the last (&#x2009;=&#x2009;0.063) after 2 weeks of kavalactones exposure. We report a novel finding that kavalactones may support performance by maintaining or rescuing the desire to expend energy in the context of significant physical and mental strain in well-conditioned individuals, even in a context of already normal cortisol, sleep, and mood.
+Leg muscle cramps and compromised sleep patterns are prevalent issues experienced by individuals undergoing hemodialysis treatment. The aim of this study was to assess the impact of massage therapy on hemodialysis patients experiencing cramping, specifically focusing on the frequency and severity of cramps, as well as the quality of sleep. This research involved 36 hemodialysis patients. The intervention group received intradialytic massage targeting the lower extremities, administered three times a week for a total of six sessions over a 2-week period. Data collection utilized a Patient Information Form, the Pittsburgh Sleep Quality Index, the Visual Analog Scale, and a Patient Follow-Up Form. The study revealed a significant reduction in both the frequency and severity of cramps experienced by patients in the intervention group during hemodialysis sessions and at home, from the end of one session to the beginning of the next, compared to the control group (p&#x2009;<&#x2009;0.05). This effect was observed over the course of six dialysis sessions. Additionally, there was a notable decrease in the mean total score of the Pittsburgh Sleep Quality Index (PSQI) among participants in the intervention group, declining from 9.00&#x2009;&#xb1;&#x2009;3.79 prior to massage therapy to 5.94&#x2009;&#xb1;&#x2009;2.84 post-massage (p&#x2009;<&#x2009;0.001). Conversely, no significant change was observed in the control group, highlighting a notable disparity between the intervention and control groups in terms of sleep quality improvement. The investigation revealed that employing intradialytic massage on the lower extremities led to a reduction in both the frequency and severity of cramps, while also eliciting a positive impact on the sleep quality of patients undergoing hemodialysis.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/15502783.2024.2377194
+- DOI: 10.1111/hdi.13169
 
 2. Keywords
-- Cortisol
-- Piper methysticum
-- dietary supplement
-- exercise
-- kava
-- motivation state
+- hemodialysis
+- massage therapy
+- muscle cramps
+- pain
+- sleep quality
 
 3. Key Findings
-- Findings extraction requires manual review
+- The study revealed a significant reduction in both the frequency and severity of cramps experienced by patients in the intervention group during hemodialysis sessions and at home, from the end of one session to the beginning of the next, compared to the control group (p&#x2009;<&#x2009;0
+- The investigation revealed that employing intradialytic massage on the lower extremities led to a reduction in both the frequency and severity of cramps, while also eliciting a positive impact on the sleep quality of patients undergoing hemodialysis
 
 This study provides insights into:
-- Cortisol assessment methods and outcomes
-- Piper methysticum assessment methods and outcomes
-- dietary supplement assessment methods and outcomes
+- hemodialysis assessment methods and outcomes
+- massage therapy assessment methods and outcomes
+- muscle cramps assessment methods and outcomes

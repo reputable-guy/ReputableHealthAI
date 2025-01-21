@@ -1,25 +1,26 @@
-Study Title: Symptom clusters and their impact on quality of life in multiple myeloma survivors: Secondary analysis of BMT CTN 0702 trial.
+Study Title: Melatonin treatment has consistent but transient beneficial effects on sleep measures and pain in patients with severe chronic pain: the DREAM-CP randomised controlled trial.
 
 Study Summary:
-Autologous haematopoietic cell transplantation (autoHCT) and continuous post-transplant maintenance therapy are the standard of care in transplant-eligible multiple myeloma (MM) patients. We sought to describe symptom burden and identify symptom clusters occurring in MM patients after autoHCT using data from the BMT CTN 0702 randomized controlled trial comparing the outcomes of three treatment interventions after an autoHCT in 758&#x2009;MM patients. We analysed individual transplant-related symptoms assessed via the FACT-BMT questionnaire at enrolment and annually for 4-year post-autoHCT. We also described the effect the individual symptoms and symptom clusters have on quality of life (QoL). We identified three stable symptom clusters: malaise symptom cluster (lack of energy, feeling ill, having pain, experiencing nausea, loss of appetite), physical symptom cluster (having skin problems, tremors, worsening eyesight, change in taste, shortness of breath, frequent colds) and emotional symptom cluster (feeling sad, being nervous, experiencing sleep problems). Malaise and emotional symptom clusters have a greater impact on QoL than the physical symptoms cluster. Identifying these symptoms warrant additional support in terms of psychosocial support, in addition to treatment of the physical symptoms themselves.
+Sleep disturbance is a major issue for patients with chronic pain. Melatonin has been shown to improve symptoms of fibromyalgia, but its efficacy in other chronic non-malignant pain conditions is not fully known. Hence, we determined the effect of melatonin in patients with severe noncancer chronic pain. This was a randomised double-blinded crossover trial of modified-release melatonin as Circadin&#x2122; compared with placebo. Sixty male and female subjects with chronic severe pain were randomised to receive either 2 mg of Circadin&#x2122; or placebo before sleep for 6 weeks, followed by a >4 week washout, then crossing over to the other treatment. Sleep disturbance, quality, and latency were measured using three different validated sleep assessment tools. The primary outcome measure was self-reported sleep disturbance after 6 weeks of treatment. Adverse events were also recorded. Sleep disturbance after 6 weeks was not significantly altered by melatonin treatment, but differences between melatonin and placebo treatment periods after 3 weeks were seen: sleep disturbance (P=0.014), latency (P=0.04), overall sleep quality (P=0.004), and effect of pain on sleep (P=0.032). Pain intensity scores improved during both treatment periods (both P<0.001). There were no differences in adverse events between treatment periods. Circadin&#x2122; treatment did not improve sleep disturbance in patients with severe chronic pain compared with placebo at 6 weeks, but there were consistent improvements in aspects of sleep in the shorter term. Given its favourable safety profile, it could be beneficial for some patients with chronic pain. ISRCTN12861060.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/bjh.19326
+- DOI: 10.1016/j.bja.2024.01.012
 
 2. Keywords
-- multiple myeloma
-- quality of life
-- symptom burden
-- symptom clusters
+- chronic pain
+- clinical trial
+- crossover
+- melatonin
+- sleep
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- multiple myeloma assessment methods and outcomes
-- quality of life assessment methods and outcomes
-- symptom burden assessment methods and outcomes
+- chronic pain assessment methods and outcomes
+- clinical trial assessment methods and outcomes
+- crossover assessment methods and outcomes

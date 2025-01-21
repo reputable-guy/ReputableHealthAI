@@ -1,20 +1,28 @@
-Study Title: Reducing BMI below the obesity threshold in adolescents treated with once-weekly subcutaneous semaglutide 2.4 mg.
+Study Title: Self-monitoring of blood glucose two-weekly versus weekly in gestational diabetes on nutrition therapy: A randomized trial.
 
 Study Summary:
-The aim of this study was to examine how improvement in BMI with the glucagon-like peptide-1 receptor agonist semaglutide translated to changes in BMI category in a post hoc analysis of the double-blind, phase 3a randomized controlled Semaglutide Treatment Effect in People with obesity (STEP) TEENS trial. Adolescents with obesity received once-weekly subcutaneous semaglutide 2.4 mg or placebo plus lifestyle intervention, which comprised counseling in healthy nutrition and a goal of 60 minutes of moderate- to high-intensity physical activity per day. Achievement of an improvement in BMI category and attainment of normal-weight or overweight BMI by week 68 were analyzed using logistic regression models. In the overall population, 44.9% of participants receiving semaglutide achieved weight reduction resulting in reclassification to a normal-weight or overweight BMI category versus 12.1% receiving placebo at week 68 (odds ratio: 22.7; 95% CI: 7.6-67.9). The proportion of semaglutide-treated participants in obesity class III decreased from 37.3% to 13.6% but increased with placebo. The odds ratio for achieving an improvement of at least one BMI category was significantly greater with semaglutide versus placebo (23.5; 95% CI: 9.9-55.5); an improvement of at least one BMI category was seen in 73.7% of participants receiving semaglutide compared with 19.0% of participants receiving placebo. Semaglutide was highly effective in reducing BMI category. While on treatment, most trial participants' BMI improved by at least one category, and >40% reached a category below the obesity threshold.
+To evaluate 4-point per day self-monitoring of blood glucose (SMBG) every 2&#x2009;weeks compared with every week. A total of 104 patients with lifestyle-controlled gestational diabetes (GDMA1) were randomized to 2-weekly or weekly 4-point per day (fasting on awakening and 2-h post-meals) SMBG. Primary outcome was the change in glycated hemoglobin (HbA1c) level from enrollment to 36&#x2009;weeks of pregnancy across trial arms. The non-inferiority margin was an HbA1c increase of 0.2%. The mean difference for change in HbA1c from enrollment to 36&#x2009;weeks was 0.003% (95% confidence interval [CI] -0.098% to +0.093%), within the 0.2% non-inferiority margin. The change in HbA1c level increased significantly within both trial arms-0.275%&#x2009;&#xb1;&#x2009;0.241% (P&#x2009;<&#x2009;0.001) in 2-weekly arm versus 0.277%&#x2009;&#xb1;&#x2009;0.236% (P&#x2009;<&#x2009;0.001) in the weekly arm. Participants randomized to 2-weekly SMBG were significantly less likely to receive anti-glycemic treatment-5/52 (9.6%) versus 14/50 (28.0%) (relative risk 0.34, 95% CI 0.13-0.88; P&#x2009;=&#x2009;0.017). All secondary outcomes-maternal weight gain, preterm delivery, cesarean delivery, birthweight, and neonatal admission-were not significantly different. In GDMA1, 2-weekly is non-inferior to weekly SMBG on the change in HbA1c level. Two-weekly SMBG appeared to be adequate for monitoring women with GDMA1. This study was registered in ISRCTN registry on March 25, 2022 with trial identification number: ISRCTN13404790 (https://doi.org/10.1186/ISRCTN13404790). The first participant was recruited on April 12, 2022.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1002/oby.23808
+- DOI: 10.1002/ijgo.14861
 
 2. Keywords
-
+- HbA1c
+- blood sugar profile
+- cesarean delivery
+- diet
+- gestational diabetes
+- glycated hemoglobin
+- self-monitoring blood glucose
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- HbA1c assessment methods and outcomes
+- blood sugar profile assessment methods and outcomes
+- cesarean delivery assessment methods and outcomes

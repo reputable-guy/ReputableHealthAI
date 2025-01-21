@@ -1,26 +1,27 @@
-Study Title: Effect of remote ischemic preconditioning intervention on serum levels of microRNA-582-5p/HMGB1 in patients with acute cerebral infarction.
+Study Title: Trauma exposure across the lifespan among individuals engaged in treatment with medication for opioid use disorder: differences by gender, PTSD status, and chronic pain.
 
 Study Summary:
-Acute cerebral infarction (ACI) contributes to disability and death accross the globe. Remote ischemic preconditioning (RIPC) reduces cerebral infarct size and improves neurological function in ACI. We conducted this research to reveal the effects of RIPC intervention on serum levels of microRNA-582-5p (miR-582-5p)/high mobility group box-1 protein (HMGB1), inflammation, oxidative stress and neurological function in patients with ACI. In this study, 158 patients with ACI were prospectively selected and randomized into the control (administered symptomatic medication alone) and the RIPC (underwent RIPC of the limbs based on medication) groups, with their clinical baseline data documented. Serum levels of miR-582-5p, and HMGB1 and inflammatory factors [tumor necrosis factor alpha (TNF-&#x3b1;)/interleukin-1beta (IL-1&#x3b2;)/IL-10] were assessed by RT-qPCR/ELISA, followed by comparisons of oxidative stress indices [glutathione-peroxidase (GSH-Px)/catalase (CAT)/superoxide dismutase (SOD)] using a fully automatic biochemical analyzer. Correlations between serum miR-582-5p with serum HMGB1, and between their levels with TNF-&#x3b1;/IL-1&#x3b2;/IL-10 were analyzed by Pearson analysis. The NIHSS score/Barthel Index scale were used to assess neurological function/daily living ability. Intervention safety for ACI patients was evaluated. RIPC intervention increased serum miR-582-5p levels and decreased serum HMGB1 levels in ACI patients. RIPC intervention significantly reduced inflammation (diminished TNF-&#x3b1;/IL-1&#x3b2; levels, increased IL-10 level) and oxidative stress (elevated GSH-Px/CAT/SOD levels) in ACI patients. Serum miR-582-5p was negatively correlated with TNF-&#x3b1; and IL-1&#x3b2; levels, while positively correlated with IL-10 level, while HMGB1 was positively correlated with TNF-&#x3b1; and IL-1&#x3b2; levels, while negatively correlated with IL-10 level. miR-582-5p was negatively correlated with HMGB1. RIPC intervention improved neurological function (reduced NIHSS, increased Barthel scores) in ACI patients to some extent. RIPC had certain effectiveness and safety in the treatment of ACI. After RIPC intervention, serum miR-582-5p levels were increased, HMGB1 levels were decreased, and inflammation and oxidative stress were reduced in ACI patients, which mitigated neurological deficits, improved patients' ability to perform life activities, and exerted neuroprotective effects to some extent.
+There is&#xa0;little study of lifetime trauma exposure among individuals engaged in medication treatment&#xa0;for opioid use disorder (MOUD).&#xa0;A multisite study provided the opportunity to examine the prevalence of lifetime trauma and differences by gender, PTSD status, and chronic pain. A cross-sectional study examined baseline data from participants (N&#x2009;=&#x2009;303) enrolled in a randomized controlled trial of a mind-body intervention as an adjunct to MOUD. All participants were stabilized on MOUD. Measures included the Trauma Life Events Questionnaire (TLEQ), the Brief Pain Inventory (BPI), and the Posttraumatic Stress Disorder Checklist (PCL-5). Analyses involved descriptive statistics, independent sample t-tests, and linear and logistic regression. Participants were self-identified as women (n&#x2009;=&#x2009;157), men (n&#x2009;=&#x2009;144), and non-binary (n&#x2009;=&#x2009;2). Fifty-seven percent (n&#x2009;=&#x2009;172) self-reported chronic pain, and 41% (n&#x2009;=&#x2009;124) scored above the screening cut-off for PTSD. Women reported significantly more intimate partner violence (85%) vs 73%) and adult sexual assault (57% vs 13%), while men reported more physical assault (81% vs 61%) and witnessing trauma (66% vs 48%). Men and women experienced substantial childhood physical abuse, witnessed intimate partner violence as children, and reported an equivalent exposure to accidents as adults. The number of traumatic events predicted PTSD symptom severity and PTSD diagnostic status. Participants with chronic pain, compared to those without chronic pain, had significantly more traumatic events in childhood (85% vs 75%). The study found a high prevalence of lifetime trauma among people in MOUD. Results highlight the need for comprehensive assessment and mental health services to address trauma among those in MOUD treatment. NCT04082637.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.clineuro.2024.108291
+- DOI: 10.1186/s13011-024-00608-8
 
 2. Keywords
-- Acute cerebral infarction
-- HMGB1
-- Inflammation
-- MicroRNA-582&#x2013;5p
-- Remote ischemic preconditioning
+- Chronic pain
+- Gender differences
+- Medication treatment
+- Opioid use disorder
+- Post-traumatic stress disorder
+- Trauma
 
 3. Key Findings
-- Findings extraction requires manual review
+- The study found a high prevalence of lifetime trauma among people in MOUD
 
 This study provides insights into:
-- Acute cerebral infarction assessment methods and outcomes
-- HMGB1 assessment methods and outcomes
-- Inflammation assessment methods and outcomes
+- Chronic pain assessment methods and outcomes
+- Gender differences assessment methods and outcomes
+- Medication treatment assessment methods and outcomes

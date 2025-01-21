@@ -1,28 +1,31 @@
-Study Title: Collaborative model of care between orthopaedics and allied healthcare professionals (CONNACT) in knee osteoarthritis: Effectiveness-implementation hybrid randomized controlled trial of a community-based, multidisciplinary, stratified intervention.
+Study Title: Accuracy of energy and nutrient intake estimation versus observed intake using 4 technology-assisted dietary assessment methods: a randomized crossover feeding study.
 
 Study Summary:
-To compare the clinical and cost effectiveness of the Collaborative Model of Care between Orthopaedics and Allied Healthcare Professionals (CONNACT), a community-based, stratified, multidisciplinary intervention consisting of exercise, education, psychological and nutrition delivered through a chronic care model to usual hospital care in adults with knee osteoarthritis (OA). Pragmatic, parallel-arm, single-blinded superiority RCT trial. Community-dwelling, ambulant adults with knee OA (Kellgren-Lawrence grade > 1; Knee Injury and OA Outcome Score (KOOS) &#x2264;75) were enrolled. Primary outcome was KOOSat 12-months; secondary outcomes included: quality of life, physical performance measures, symptom satisfaction, psychological outcomes, dietary habits, and global perceived effect. Intention-to-treat analysis using generalized linear model (GLM) and regression modeling were conducted. Economic evaluation through a societal approach was embedded. 110 participants (55 control, 55 intervention) were randomized. No between-group difference found for the primary outcome (MD [95%CI]: -1.86 [-9.11. 5.38]), although both groups demonstrated within-group improvement over 12-months. Among the secondary outcomes, the CONNACT group demonstrated superior dietary change (12 months) and physical performance measures (3 months), and global perceived effect (6 months). While there was no between-group difference in total cost, significant productivity gains (reduced indirect cost) were seen in the CONNACT group. CONNACT was not superior to usual care at 1 year. Further efforts are needed to understand the underlying contextual and implementation factors in order to further improve and refine such community-based, stratified care models moving forward. Clinicaltrials.gov Identifier: NCT03809975. Registered January 18, 2019. https://clinicaltrials.gov/ct2/show/NCT03809975.
+Technology-assisted 24-h dietary recalls (24HRs) have been widely adopted in population nutrition surveillance. Evaluations of 24HRs inform improvements, but direct comparisons of 24HR methods for accuracy in reference to a measure of true intake are rarely undertaken in a single study population. To compare the accuracy of energy and nutrient intake estimation of 4 technology-assisted dietary assessment methods relative to true intake across breakfast, lunch, and dinner. In a controlled feeding study with a crossover design, 152 participants [55% women; mean age 32 y, standard deviation (SD) 11; mean body mass index 26 kg/m, SD 5] were randomized to 1 of 3 separate feeding days to consume breakfast, lunch, and dinner, with unobtrusive weighing of foods and beverages consumed. Participants undertook a 24HR the following day [Automated Self-Administered Dietary Assessment Tool-Australia (ASA24); Intake24-Australia; mobile Food Record-Trained Analyst (mFR-TA); or Image-Assisted Interviewer-Administered 24-hour recall (IA-24HR)]. When assigned to IA-24HR, participants referred to images captured of their meals using the mobile Food Record (mFR) app. True and estimated energy and nutrient intakes were compared, and differences among methods were assessed using linear mixed models. The mean difference between true and estimated energy intake as a percentage of true intake was 5.4% (95% CI: 0.6, 10.2%) using ASA24, 1.7% (95% CI: -2.9, 6.3%) using Intake24, 1.3% (95% CI: -1.1, 3.8%) using mFR-TA, and 15.0% (95% CI: 11.6, 18.3%) using IA-24HR. The variances of estimated and true energy intakes were statistically significantly different for all methods (P < 0.01) except Intake24 (P = 0.1). Differential accuracy in nutrient estimation was present among the methods. Under controlled conditions, Intake24, ASA24, and mFR-TA estimated average energy and nutrient intakes with reasonable validity, but intake distributions were estimated accurately by Intake24 only (energy and protein). This study may inform considerations regarding instruments of choice in future population surveillance. This trial was registered at Australian New Zealand Clinical Trials Registry as ACTRN12621000209897.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.joca.2024.04.018
+- DOI: 10.1016/j.ajcnut.2024.04.030
 
 2. Keywords
-- Community
-- Knee osteoarthritis
-- Randomized control trial
-- Service model
-- Stratified
+- Automated Self-Administered Dietary Assessment Tool
+- Intake24
+- controlled feeding
+- dietary assessment
+- dietary measurement error
+- image-assisted
+- interview-administered dietary recall
+- mobile food record
+- mobile technology
+- validation
 
 3. Key Findings
-- No between-group difference found for the primary outcome (MD [95%CI]: -1
-- 38]), although both groups demonstrated within-group improvement over 12-months
-- Among the secondary outcomes, the CONNACT group demonstrated superior dietary change (12 months) and physical performance measures (3 months), and global perceived effect (6 months)
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Community assessment methods and outcomes
-- Knee osteoarthritis assessment methods and outcomes
-- Randomized control trial assessment methods and outcomes
+- Automated Self-Administered Dietary Assessment Tool assessment methods and outcomes
+- Intake24 assessment methods and outcomes
+- controlled feeding assessment methods and outcomes

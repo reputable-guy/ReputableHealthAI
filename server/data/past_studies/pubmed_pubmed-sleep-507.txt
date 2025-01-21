@@ -1,27 +1,26 @@
-Study Title: No add-on therapeutic benefit of at-home anodal tDCS of the primary motor cortex to mindfulness meditation in patients with fibromyalgia.
+Study Title: Community-based intervention for obstructive sleep apnea in the general population: a randomized controlled trial.
 
 Study Summary:
-This study investigated the efficacy of combining at-home anodal transcranial direct current stimulation (tDCS) of the left primary motor cortex (M1) with mindfulness meditation (MM) in fibromyalgia patients trained in mindfulness. Thirty-seven patients were allocated to receive ten daily sessions of MM paired with either anodal or sham tDCS over the primary motor cortex. Primary outcomes were pain intensity and quality of life. Secondary outcomes were psychological impairment, sleep quality, mood, affective pain, mindfulness level, and transcranial magnetic stimulation (TMS) measures of cortical excitability. Outcomes were analyzed pre- and post-treatment, with a one-month follow-up. We found post-tDCS improvement in all clinical outcomes, including mindfulness level, except for positive affect and stress, in both groups without significant difference between active and sham conditions. No significant group*time interaction was found for all clinical and TMS outcomes. Our findings demonstrate no synergistic or add-on efffect of anodal tDCS of the left M1 compared to the proper effect of MM in patients with fibromyalgia. Our findings challenge the potential of combining anodal tDCS of the left M1 and MM in fibromyalgia.
+To investigate the engagement and health outcomes of community-based intervention for obstructive sleep apnea (OSA) in the general population. We conducted a 3-month randomized controlled trial in two communities in southern China. We initially screened the general population for high-risk OSA and further diagnosis using home sleep testing. Eligible participants were randomly (1:1) assigned to either a control or continuous positive airway pressure-based integrated intervention group. The primary outcomes were multimodal indicators reflecting health outcomes, including health-related quality of life (Short Form-36 [SF-36]), sleep-related symptoms, and cardiometabolic risk. Of the 2484 participants screened, 1423 identified as having high-risk OSA were considered for telephone invitations to participate in the trial. Of these, 401 participants responded positively (28.2%), 279 were diagnosed with OSA, and 212 were randomized. The intervention significantly improved several domains of SF-36, including physical functioning (intergroup difference, 2.8; p&#x2005;=&#x2005;.003), vitality (2.3; p&#x2005;=&#x2005;.031), and reported health transition (6.8; p&#x2005;=&#x2005;.005). Sleep-related symptoms, including Epworth Sleepiness Scale (-0.7; p&#x2005;=&#x2005;.017), Fatigue Severity Scale (-3.0; p&#x2005;=&#x2005;.022), Insomnia Severity Index (-1.8; p&#x2005;<&#x2005;.001), and Pittsburgh Sleep Quality Index (-0.7; p&#x2005;=&#x2005;.032), also showed significant improvements. Although the intervention did not significantly alter glycolipid metabolism, ventricular function, or cardiac structural remodeling, it achieved a significant reduction in systolic (-4.5 mmHg; p&#x2005;=&#x2005;.004) and diastolic blood pressure (BP; -3.7 mmHg; p&#x2005;<&#x2005;.001). Community-based intervention for previously undiagnosed OSA in the general population yielded improvements in health-related quality of life, sleep-related symptoms, and BP. However, engagement in the intervention program was low. "Community Intervention Trial for OSA";URL: https://www.chictr.org.cn/showprojEN.html?proj=144927;Trial identification number: ChiCTR2100054800.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.clinph.2024.05.018
+- DOI: 10.1093/sleep/zsae132
 
 2. Keywords
-- Fibromyalgia
-- Home-based therapy
-- Mindfulness meditation
-- Pain
-- Transcranial direct current stimulation
+- community-based intervention
+- engagement
+- general population
+- health outcomes
+- obstructive sleep apnea
 
 3. Key Findings
-- We found post-tDCS improvement in all clinical outcomes, including mindfulness level, except for positive affect and stress, in both groups without significant difference between active and sham conditions
-- No significant group*time interaction was found for all clinical and TMS outcomes
+- 032), also showed significant improvements
 
 This study provides insights into:
-- Fibromyalgia assessment methods and outcomes
-- Home-based therapy assessment methods and outcomes
-- Mindfulness meditation assessment methods and outcomes
+- community-based intervention assessment methods and outcomes
+- engagement assessment methods and outcomes
+- general population assessment methods and outcomes

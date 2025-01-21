@@ -1,26 +1,24 @@
-Study Title: Dexmedetomidine for Reducing Mortality in Patients With Septic Shock: A Randomized Controlled Trial (DecatSepsis).
+Study Title: Burnout and career satisfaction in young neuro-oncology investigators: Results of the Society for Neuro-Oncology Young Investigator Survey.
 
 Study Summary:
-Sepsis, especially septic shock, and its complications have been linked to the hyperadrenergic stress response. Does decatecholaminization with dexmedetomidine lower the in-hospital mortality in patients with septic shock? This open-label randomized controlled trial assessed the effects of a heart rate (HR)-calibrated dexmedetomidine infusion on in-hospital mortality in patients with septic shock and HR of > 90 beats/min, regardless of whether they are receiving mechanical ventilation. Dexmedetomidine was infused for 48&#xa0;h to maintain the HR at 60 to 90 beats/min. Mechanically ventilated patients received conventional sedation in both groups. Other outcomes were the norepinephrine equivalent dose, the need for additional vasopressor, Acute Physiology and Chronic Health Evaluation (APACHE) II score, persistent atrial fibrillation (AF), and C-reactive protein (CRP) level. In 90 patients of either sex, dexmedetomidine reduced the mean HR over the first 3&#xa0;days in the ICU by 11.2 beats/min (95%&#xa0;CI, -17 to -5 beats/min; P&#xa0;< .001). The in-hospital mortality risk ratio (RR) was 0.68 (95%&#xa0;CI, 0.43-1.07; P&#xa0;= .091). The dexmedetomidine group received a norepinephrine equivalent dose of 0.55 &#x3bc;m/kg/min (interquartile range [IQR], 0.37-0.82 &#x3bc;m/kg/min) vs&#xa0;0.61 &#x3bc;m/kg/min (IQR, 0.47-0.89 &#x3bc;m/kg/min; P&#xa0;= .121). Dexmedetomidine reduced the epinephrine infusion rescue (relative risk reduction, 0.6; 95%&#xa0;CI, 0.06-0.93; P&#xa0;= .025). The RR of persistent AF was 0.47 (95%&#xa0;CI, 0.21-0.99; P&#xa0;= .05). Dexmedetomidine reduced the median APACHE II score on the third day by -6 (95%&#xa0;CI, -10 to -2; P&#xa0;= .003) and the mean CRP concentration by -40&#xa0;mg/dL (95%&#xa0;CI, -78 to -3.4&#xa0;mg/dL; P&#xa0;= .033). The study was underpowered to detect a reduction in in-hospital mortality or norepinephrine equivalent dose in patients with septic shock with dexmedetomidine. However, dexmedetomidine may reduce epinephrine infusion rescue, persistent AF, APACHE II score, and CRP. ClinicalTrials.gov; No.: NCT05283083; URL: www. gov.
+Burnout is a syndrome characterized by emotional exhaustion, depersonalization, and a reduced sense of accomplishment, which commonly arises from chronic workplace stress in the medical field. Given the higher risk of burnout in younger age groups reported in some studies, the Society for Neuro-Oncology (SNO) Young Investigator (YI) and Wellness Committees combined efforts to examine burnout in the SNO YI membership to better understand and address their needs. We distributed an anonymous online survey to SNO members in 2019. Only those meeting the definition of a YI were asked to complete the survey. The survey consisted of questions about personal and professional characteristics as well as the validated Maslach Burnout Inventory-Human Services Survey (MBI-HSS) questionnaire. Statistical analyses included descriptive statistics, univariate and multivariate analyses, and incorporation of previously defined burnout profiles. Data were analyzed for 173 participants who self-identified as YI. Measures of burnout showed that YI members scored higher on emotional exhaustion and depersonalization compared to normative population but similar to those in a prior SNO general membership survey. With respect to burnout profiles, 30% of YI respondents classified as overextended and 15% as burnout. Organizational challenges were the most common contributors to stress. Similar to results from a previous survey completed by general SNO membership, the prevalence of burnout among neuro-oncology clinical and research YI is high, and is mainly characterized by overextension, warranting interventions at institutional and organizational levels.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.chest.2024.06.3794
+- DOI: 10.1093/nop/npae018
 
 2. Keywords
-- dexmedetomidine
-- mortality
-- randomized controlled trial
-- sepsis
-- septic shock
+- burnout
+- neuro-oncology
+- young investigator
 
 3. Key Findings
-- Findings extraction requires manual review
+- Measures of burnout showed that YI members scored higher on emotional exhaustion and depersonalization compared to normative population but similar to those in a prior SNO general membership survey
 
 This study provides insights into:
-- dexmedetomidine assessment methods and outcomes
-- mortality assessment methods and outcomes
-- randomized controlled trial assessment methods and outcomes
+- burnout assessment methods and outcomes
+- neuro-oncology assessment methods and outcomes
+- young investigator assessment methods and outcomes

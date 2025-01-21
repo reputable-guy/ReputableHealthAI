@@ -1,27 +1,30 @@
-Study Title: Eliminating children's tobacco smoke exposure: a pathway to bioverified abstinence among low-income maternal smokers in the Babies Living Safe and Smokefree (BLiSS) trial.
+Study Title: Association between parenteral nutrition-containing intravenous lipid emulsion and bloodstream infections in patients with single-lumen central venous access: A secondary analysis of a randomized trial.
 
 Study Summary:
-Identifying behavioral pathways to smoking cessation in high-risk populations, such as low-income maternal smokers, could reduce tobacco disparities. The previous&#xa0;"BLiSS" multilevel intervention trial demonstrated efficacy of the BLiSS intervention in facilitating low-income maternal smokers' bioverified abstinence. This present study examined four putative pathways measured at 3-month end of treatment (Time 2) that could account for the observed intervention effect on smoking abstinence through 12 months (Time 2 - Time 3). Nutritionists in community clinics delivering safety net nutrition promotion programs across Philadelphia, Pennsylvania, USA, were trained by trial principal investigators to deliver a brief tobacco intervention informed by the American Academy of Pediatrics best practice guidelines ("Ask, Advise, Refer [AAR]"). After referral, 396 eligible participants were randomized to either a multimodal behavioral intervention (AAR&#x2009;+&#x2009;MBI) or a parallel attention control (AAR&#x2009;+&#x2009;control). Random effects regression analysis tested mediation. Elimination of children's tobacco smoke exposure (TSE) at Time 2 was the only significant mediator of longitudinal smoking abstinence through Time 3. AAR&#x2009;+&#x2009;MBI mothers were more likely to eliminate their children's TSE by Time 2 (OR&#x2009;=&#x2009;2.11, 95%CI 1.30, 3.42), which was significantly associated with Time 3 abstinence (OR&#x2009;=&#x2009;6.72, CI 2.28, 19.80). Modeling showed a significant total effect of AAR&#x2009;+&#x2009;MBI on abstinence (OR&#x2009;=&#x2009;6.21, CI 1.86, 20.71), a direct effect of AAR&#x2009;+&#x2009;MBI on abstinence (OR&#x2009;=&#x2009;4.80, CI 1.45, 15.94) and an indirect effect through TSE elimination (OR&#x2009;=&#x2009;1.29, CI 1.06, 1.57). Integrating smoking cessation interventions with counseling prior to the quit attempt that is designed to facilitate adoption of smokefree home policies and efforts to eliminate children's TSE could enhance the likelihood of long-term abstinence in populations of smokers with elevated challenges quitting smoking.
+Distinguishing primary bloodstream infections (BSIs) related to central venous access devices (CVADs) from those that occur through other mechanisms, such as a damaged mucosal barrier, is difficult. Secondary analysis was conducted on data from patients with CVADs that were collected for a large, randomized trial. Patients were divided into two groups: those who received parenteral nutrition (PN)-containing intravenous lipid emulsion (ILE) and those who did not have PN-containing ILE. This study investigated the influence of PN-containing ILE (ILE PN) on primary BSIs in patients with a CVAD. Of the 807 patients, 180 (22%) received ILE PN. Most (627/807; 73%) were recruited from the hematology and hematopoietic stem cell transplant unit, followed by surgical (90/807; 11%), trauma and burns (61/807; 8%), medical (44/807; 5%), and oncology (23/807; 3%). When primary BSI was differentiated as a central line-associated BSI (CLABSI) or mucosal barrier injury laboratory-confirmed BSI (MBI-LCBI), the incidence of CLABSI was similar in the ILE PN and non-ILE PN groups (15/180 [8%] vs 57/627 [9%]; P&#x2009;=&#x2009;0.88) and the incidence of MBI-LCBI was significantly different between groups (31/180 [17%] ILE PN vs 41/627 [7%] non-ILE PN; P&#x2009;<&#x2009;0.01). Our data indicate that twice as many primary BSIs in ILE PN patients are due to MBIs than CVADs. It is important to consider the MBI-LCBI classification, as some CLABSI prevention efforts aimed at CVADs for the ILE PN population may be better directed to gastrointestinal tract protection interventions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1007/s10865-023-00423-9
+- Publication Date: 2023
+- DOI: 10.1002/jpen.2530
 
 2. Keywords
-- Cessation
-- Children&#x2019;s secondhand smoke exposure
-- Disparities
-- Maternal
-- Tobacco
+- administration, intravenous
+- catheter-related infections
+- catheterization, central venous
+- central venous catheters
+- clinical nursing research
+- fat emulsion, intravenous
+- mucosal barrier injury laboratory-confirmed bloodstream infection
+- parenteral nutrition
+- vascular access devices
 
 3. Key Findings
-- The previous&#xa0;"BLiSS" multilevel intervention trial demonstrated efficacy of the BLiSS intervention in facilitating low-income maternal smokers' bioverified abstinence
-- Modeling showed a significant total effect of AAR&#x2009;+&#x2009;MBI on abstinence (OR&#x2009;=&#x2009;6
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cessation assessment methods and outcomes
-- Children&#x2019;s secondhand smoke exposure assessment methods and outcomes
-- Disparities assessment methods and outcomes
+- administration, intravenous assessment methods and outcomes
+- catheter-related infections assessment methods and outcomes
+- catheterization, central venous assessment methods and outcomes

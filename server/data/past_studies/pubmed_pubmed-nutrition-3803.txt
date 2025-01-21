@@ -1,24 +1,20 @@
-Study Title: Nutritional strategies for correcting low glucose values in patients with postbariatric hypoglycaemia: A randomized controlled three-arm crossover trial.
+Study Title: Effectiveness of a Lifestyle Intervention for People With a Severe Mental Illness in Dutch Outpatient Mental Health Care: A Randomized Clinical Trial.
 
 Study Summary:
-To evaluate the efficacy of nutritional hypoglycaemia correction strategies in postbariatric hypoglycaemia (PBH) after Roux-en-Y gastric bypass (RYGB). In a randomized, controlled, three-arm crossover trial, eight post-RYGB adults (mean [SD] 7.0 [1.4] years since surgery) with PBH ingested a solid mixed meal (584&#x2009;kcal, 85&#x2009;g carbohydrates, 21&#x2009;g fat, 12&#x2009;g protein) to induce hypoglycaemia on three separate days. Upon reaching plasma glucose of less than 3.0&#x2009;mmol/L, hypoglycaemia was corrected with 15&#x2009;g of glucose (G15), 5&#x2009;g of glucose (G5) or a protein bar (P10, 10&#x2009;g of protein) in random order. The primary outcome was percentage of time spent in the target plasma glucose range (3.9-5.5&#x2009;mmol/L) during 40&#x2009;minutes after correction. Postcorrection time spent in the target glucose range did not differ significantly between the interventions (P&#x2009;=&#x2009;.161). However, postcorrection time with glucose less than 3.9&#x2009;mmol/L was lower after G15 than P10 (P&#x2009;=&#x2009;.007), whereas time spent with glucose more than 5.5&#x2009;mmol/L, peak glucose and insulin 15&#x2009;minutes postcorrection were higher after G15 than G5 and P10 (P&#x2009;<&#x2009;.001). Glucagon 15&#x2009;minutes postcorrection was higher after P10 than after G15 and G5 (P&#x2009;=&#x2009;.002 and P&#x2009;=&#x2009;.003, respectively). G15 resulted in rebound hypoglycaemia (<&#x2009;3.0&#x2009;mmol/L) in three of eight cases (38%), while no rebound hypoglycaemia occurred with G5 and P10. Correcting hypoglycaemia with 15&#x2009;g of glucose should be reconsidered in post-RYGB PBH. A lower dose appears to sufficiently increase glucose levels outside the critical range in most cases, and complementary nutrients (e.g. proteins) may provide glycaemia-stabilizing benefits. NTC05250271 (ClinicalTrials.gov).
+People with a severe mental illness (SMI) have a life expectancy reduced by 10 to 20 years compared with the general population, primarily attributable to cardiometabolic disorders. Lifestyle interventions for people with SMI can improve health and reduce cardiometabolic risk. To evaluate the effectiveness of a group-based lifestyle intervention among people with SMI in outpatient treatment settings compared with treatment as usual (TAU). The Severe Mental Illness Lifestyle Evaluation (SMILE) study is a pragmatic cluster randomized clinical trial performed in 8 mental health care centers with 21 flexible assertive community treatment teams in the Netherlands. Inclusion criteria were SMI, age of 18 years or older, and body mass index (calculated as weight in kilograms divided by height in meters squared) of 27 or greater. Data were collected from January 2018 to February 2020, and data were analyzed from September 2020 to February 2023. Weekly 2-hour group sessions for 6 months followed by monthly 2-hour group sessions for another 6 months, delivered by trained mental health care workers. The intervention targeted overall lifestyle changes, emphasizing establishing a healthy diet and promoting physical activity. TAU (control) did not include structured interventions or advice on lifestyle. Crude and adjusted linear mixed models and multivariable logistic regression analyses were performed. The main outcome was body weight change. Secondary outcomes included changes in body mass index, blood pressure, lipid profiles, fasting glucose level, quality of life, self-management ability, and lifestyle behaviors (physical activity and health, mental health, nutrition, and sleep). The study population included 11 lifestyle intervention teams (126 participants) and 10 TAU teams (98 participants). Of 224 included patients, 137 (61.2%) were female, and the mean (SD) age was 47.6 (11.1) years. From baseline to 12 months, participants in the lifestyle intervention group lost 3.3 kg (95% CI, -6.2 to -0.4) more than those in the control group. In the lifestyle intervention group, people with high attendance rates lost more weight than participants with medium and low rates (mean [SD] weight loss: high, -4.9 [8.1] kg; medium, -0.2 [7.8] kg; low, 0.8 [8.3] kg). Only small or no changes were found for secondary outcomes. In this trial, the lifestyle intervention significantly reduced weight from baseline to 12 months in overweight and obese adults with SMI. Tailoring lifestyle interventions and increasing attendance rates might be beneficial for people with SMI. Netherlands Trial Register Identifier: NTR6837.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1111/dom.15175
+- DOI: 10.1001/jamapsychiatry.2023.1566
 
 2. Keywords
-- Roux-en-Y gastric bypass
-- nutrition
-- postbariatric hypoglycaemia
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Only small or no changes were found for secondary outcomes
 
 This study provides insights into:
-- Roux-en-Y gastric bypass assessment methods and outcomes
-- nutrition assessment methods and outcomes
-- postbariatric hypoglycaemia assessment methods and outcomes
+- General research methodology and outcomes

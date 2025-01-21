@@ -1,26 +1,28 @@
-Study Title: Evaluation of the Effectiveness of a Group CBT-Based Intervention Aiming to Reduce Self-Stigma and Improve Recovery-Related Outcomes in People with Severe Mental Disorders: Randomised Controlled Trial.
+Study Title: Postoperative recovery in peroral versus intravenous antibiotic treatment following laparoscopic appendectomy for complicated appendicitis: a substudy of a cluster randomized cluster crossover non-inferiority study.
 
 Study Summary:
-Self-stigma is a major barrier to personal and clinical recovery in people with mental illness. Although psychosocial interventions have been developed to reduce self-stigma, the exploration of group CBT-based interventions for hospitalised patients are less represented. The purpose of this trial is to investigate the effectiveness of a group CBT-based intervention aiming to reduce self-stigma and improve recovery-related outcomes such as self-esteem, stigma resistance and sense of coherence, which comes down to saying, "I am what I am". A total of 104 patients admitted to the inpatient therapy were recruited to participate in a randomised controlled clinical trial, and 77 participants (46 in the intervention group and 31 in the control group) completed the trial. Constructs of interest were measured before and after the intervention. The results showed that the evaluated intervention was effective in improving sense of coherence and stigma resistance, compared to treatment as usual (TAU). The level of self-stigma significantly decreased in both the intervention and control groups, but no statistically significant difference was observed between the groups. The limitations of the study include: the lack of assessment of the sustainability of the effects of therapy (follow-up), the presence of intensive interventions of the ward's programme and patients pre-qualified for the ward based on admission criteria. The intervention "I am what I am," has proven to be effective, especially in increasing the level of personal resources needed to build clinical and personal recovery and to counteract the negative consequences of self-stigma.
+Acute appendicitis is the most common cause of abdominal pain requiring surgery, usually managed with laparoscopic appendectomy. In Denmark, the standard postoperative treatment for complicated cases involves intravenous antibiotics. This study compares peroral versus intravenous antibiotics in the context of fast-track surgery and Enhanced Recovery After Surgery (ERAS) protocols. Our objective is to evaluate the impact of peroral versus intravenous antibiotics on patient-reported outcomes following laparoscopic appendectomy for complicated appendicitis. This was a sub-study within a broader Danish cluster-randomized non-inferiority trial conducted at Zealand University Hospital, focusing on adult patients undergoing laparoscopic appendectomy for complicated appendicitis. Participants were randomized into two groups: one receiving a three-day course of peroral antibiotics and the other intravenous antibiotics after surgery. Recovery quality was assessed on the third postoperative day using the Quality of Recovery-15 (QoR-15) questionnaire. The study included 54 patients, 23 in the peroral and 31 in the intravenous groups. The peroral group reported significantly better recovery outcomes, with higher QoR-15 scores (mean difference of 12 points, p&#x2009;<&#x2009;0.001). They also experienced shorter hospital stays, averaging 47 h less than the intravenous group (p&#x2009;<&#x2009;0.001). No significant differences between the groups were observed in readmissions or severe postoperative complications. Peroral antibiotic administration after laparoscopic appendectomy for complicated appendicitis significantly improves patient recovery and reduces hospital stay compared to intravenous antibiotics. These results advocate a potential shift towards peroral antibiotic use in postoperative care, aligning with ERAS principles. ClinicalTrials.gov NCT04803422.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s11126-024-10092-9
+- DOI: 10.1007/s00423-024-03491-w
 
 2. Keywords
-- Anti-stigma intervention
-- CBT-based group intervention
-- Internalised stigma
-- Sense of coherence
-- Stigma resistance
+- Acute surgery
+- Complicated appendicitis
+- Laparoscopic appendectomy
+- Postoperative antibiotics
+- QoR-15
+- Quality of recovery
+- Recovery
 
 3. Key Findings
-- The results showed that the evaluated intervention was effective in improving sense of coherence and stigma resistance, compared to treatment as usual (TAU)
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Anti-stigma intervention assessment methods and outcomes
-- CBT-based group intervention assessment methods and outcomes
-- Internalised stigma assessment methods and outcomes
+- Acute surgery assessment methods and outcomes
+- Complicated appendicitis assessment methods and outcomes
+- Laparoscopic appendectomy assessment methods and outcomes

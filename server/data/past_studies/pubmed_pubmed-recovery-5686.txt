@@ -1,26 +1,25 @@
-Study Title: Microvascular recovery with ultrasound in myocardial infarction post-PCI trial.
+Study Title: Effect ofSupplementation on Indices of Exercise-Induced Muscle Damage after Eccentric Protocol of Upper Limbs in Apparently Healthy Volunteers.
 
 Study Summary:
-Persistent microvascular obstruction (MVO) after successful percutaneous coronary intervention (PCI) in acute ST segment elevation myocardial infarction (STEMI) has been well-described. MVO predicts lack of recovery of left ventricular function and increased mortality. Sonothrombolysis utilizing diagnostic ultrasound induced cavitation of commercially available microbubble contrast has been effective at reducing infarct size and improving left ventricular ejection fraction (LVEF) when performed both pre- and post-PCI. However, the effectiveness of post-PCI sonothrombolysis alone after successful PCI has not been demonstrated. A prospective randomized controlled trial was performed in 50 consecutive consenting patients with anterior STEMI who underwent a continuous microbubble infusion immediately following successful PCI. Intermittent high mechanical index (MI) impulses were applied only in the sonthrombolysis group. Delayed enhancement magnetic resonance imaging (MRI) was performed at 48&#xa0;h and again at 6-8&#xa0;weeks to assess for differences in infarct size, LVEF, and MVO. There were no differences between groups in age, gender, and cardiovascular risk factors. Significant (>&#xa0;2 segments) MVO following successful PCI was observed in 66% of patients. Although sonothrombolysis reduced the extent of MVO acutely, there were no differences in infarct size, LVEF, or extent of MVO by MRI at 48&#xa0;h. Twenty-eight patients returned for a follow up MRI at 6-8&#xa0;weeks. LVEF improved only in the sonothrombolysis group (&#x2206;LVEF 7.81&#xa0;&#xb1;&#xa0;4.57% with sonothrombolysis vs. 1.77&#xa0;&#xb1;&#xa0;7.02% for low MI only, p&#xa0;=&#xa0;.011). Post-PCI sonothrombolysis had minimal effect on reducing myocardial infarct size but improved left ventricular systolic function in patients with acute anterior wall STEMI.
+Spirulina is a supplement with antioxidant and anti-inflammatory properties that may enhance performance and recovery after intense exercise. The present study aimed to investigate the effects ofon physical performance, and recovery markers after intense eccentric exercise in healthy moderately physically active volunteers. In a double-blind crossover design, participants were supplemented either with spirulina (42 mg KgBW per day) or a placebo for 15 days before conducting an eccentric exercise protocol using the non-dominant arm. A six-week washout period was required between conditions. Performance and mobility markers such as isometric peak torque (PTQ), ligament range of motion (ROM), and perceived muscle discomfort (VAS) were assessed and blood samples (CK, LDH) were obtained at 1, 24, 48, and 72 h post-exercise. No significant differences were noticed between the two conditions on any of the investigated markers, indicating that spirulina supplementation has no positive effect on isometric muscle performance or alleviation of exercise-induced muscle damage (EIMD) symptoms in the specific population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/echo.15860
+- DOI: 10.3390/nu16111651
 
 2. Keywords
-- ST elevation myocardial infarction
-- left ventricular ejection fraction
-- magnetic resonance imaging
-- microvascular obstruction
-- sonothrombolysis
+- eccentric
+- exercise
+- inflammation
+- muscle damage
 
 3. Key Findings
-- However, the effectiveness of post-PCI sonothrombolysis alone after successful PCI has not been demonstrated
+- Findings extraction requires manual review
 
 This study provides insights into:
-- ST elevation myocardial infarction assessment methods and outcomes
-- left ventricular ejection fraction assessment methods and outcomes
-- magnetic resonance imaging assessment methods and outcomes
+- eccentric assessment methods and outcomes
+- exercise assessment methods and outcomes
+- inflammation assessment methods and outcomes

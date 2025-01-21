@@ -1,20 +1,26 @@
-Study Title: Neoadjuvant Exercise Therapy in Prostate Cancer: A Phase 1, Decentralized Nonrandomized ControlledTrial.
+Study Title: Effectiveness of McKenzie exercises plus stabilization exercises versus McKenzie exercises alone on disability, pain, and range of motion in patients with nonspecific chronic neck pain: A randomized clinical trial.
 
 Study Summary:
-Observational data have shown that postdiagnosis exercise is associated with reduced risk of prostate cancer death. The feasibility and tumor biological activity of exercise therapy is not known. To identify recommended phase 2 dose of exercise therapy for patients with prostate cancer. This single-center, phase 1a dose-finding trial was conducted at a tertiary cancer center using a patientcentric, decentralized platform and included 53 inactive men with treatment-naive localized prostate cancer scheduled to undergo surgical resection between June 2019 and January 2023. Data were analyzed in June 2024. Six escalated exercise therapy dose levels ranging from 90 to 450 minutes per week of individualized, moderate-intensity treadmill walking, allocated using adaptive continual reassessment. All exercise therapy sessions were conducted remotely with real-time monitoring. Feasibility was evaluated by relative exercise dose intensity (REDI). A dose level was considered feasible if 70% or more of patients achieved an REDI of 75% or greater. Activity end points were changes in tumor cell proliferation (Ki67) and plasma prostate-specific antigen levels between pretreatment and postintervention. Safety and changes in patient physiology were also assessed. A total of 53 men were enrolled (median [IQR] age, 61 [56-66] years). All dose levels were feasible (&#x2265;75% REDI). The mean (95% CI) changes in Ki67 were 5.0% (-4.3% to 14.0%) for 90 minutes per week, 2.4% (-1.3% to 6.2%) for 150 minutes per week, -1.3% (-5.8% to 3.3%) for 225 minutes per week, -0.2% (-4.0% to 3.7%) for 300 minutes per week, -2.6% (-9.2% to 4.1%) for 375 minutes per week, and 2.2% (-0.8% to 5.1%) for 450 minutes per week. Changes in prostate-specific antigen levels were 1.0 ng/mL (-1.8 to 3.8) for 90 minutes per week, 0.2 ng/mL (-1.1 to 1.5) for 150 minutes per week, -0.5 ng/mL (-1.2 to 0.3) for 225 minutes per week, -0.2 (-1.7 to 1.3) for 300 minutes per week, -0.7 ng/mL (-1.7 to 0.4) for 375 minutes per week, and -0.9 ng/mL (-2.4 to 0.7) for 450 minutes per week. No serious adverse events were observed. Overall, 225 minutes per week (approximately 45 minutes per treatment at 5 times weekly) was selected as the recommended phase 2 dose. The results of this nonrandomized clinical trial suggest that neoadjuvant exercise therapy is feasible and safe with promising activity in localized prostate cancer. ClinicalTrials.gov Identifier: NCT03813615.
+Chronic nonspecific neck pain is a common disorder that causes disability and reduced quality of life. Effective conservative treatment options are needed to manage this condition. This randomized trial compared the efficacy of McKenzie exercises alone versus McKenzie plus cervical and scapulothoracic stabilization training for patients with chronic nonspecific neck pain. A randomized controlled trial was conducted in an outpatient physical therapy clinic. 76 patients with chronic (> 3 months) neck pain were randomized to 6 weeks of either McKenzie exercises alone (n= 38) or McKenzie plus stabilization exercise (n= 38). The McKenzie protocol included posture correction, range of motion exercises, and lateral neck stretches. The stabilization program added targeted exercises for the neck and scapula. The combination of McKenzie plus stabilization exercises resulted in significantly greater reduction in current neck pain intensity compared to McKenzie alone at 6 weeks (mean difference: -1.2 points on 0-10 scale, 95% CI -1.8 to -0.6; p< 0.001). Neck disability improved in both groups. Cervical range of motion also improved more with the addition of stabilization, except for extension. Adding specific cervical and scapulothoracic stabilization exercises to a standard McKenzie protocol led to clinically meaningful reductions in neck pain compared to McKenzie therapy alone in patients with chronic nonspecific neck pain. This combined approach can improve outcomes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1001/jamaoncol.2024.2156
+- DOI: 10.3233/BMR-230352
 
 2. Keywords
-
+- Cervicalgia
+- Musculoskeletal diseases
+- exercise therapy
+- manual therapy
+- randomized controlled trial
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Cervicalgia assessment methods and outcomes
+- Musculoskeletal diseases assessment methods and outcomes
+- exercise therapy assessment methods and outcomes

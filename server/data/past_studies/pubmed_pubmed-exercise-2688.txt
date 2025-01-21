@@ -1,28 +1,20 @@
-Study Title: Effects of low-volume court-based sprint interval training on anaerobic capacity and sport-specific performance in competitive tennis players.
+Study Title: Novel biomarkers in the saliva of healthy young males and females in a randomized crossover study on sedentary time: An exploratory analysis.
 
 Study Summary:
-Sprint interval training (SIT) is a potent exercise strategy to enhance athletes' anaerobic capacity in a time-efficient manner. This study aimed to investigate the impact of low-volume, court-based SIT on the anaerobic capacity and sport-specific performance in competitive tennis players. Twenty-four competitive collegiate tennis players were randomly assigned to either the SIT group (n&#x2009;=&#x2009;12; three sessions per week of court-based repeated-sprint training) or the traditional endurance training (ET) group (n&#x2009;=&#x2009;12; three sessions per week of 45-min continuous treadmill running, n&#x2009;=&#x2009;12) for a 6-weeks intervention. Baseline and post-intervention assessments included the Wingate Anaerobic Test, elimination rate of blood lactate (BLAer), tennis-specific repeated sprint ability (RSA), and the Yo-Yo Intermittent Recovery Test Level 2 (YoYo-IR2). The results showed that SIT group demonstrated significant improvements in peak and average power during the Wingate test (p&#x2009;=&#x2009;0.07; p&#x2009;<&#x2009;0.001), along with a notable increase in YoYo-IR2 performance (7.8% increase, p&#x2009;=&#x2009;0.04). Significant decreases were observed in both mean (5.1% decrease, p&#x2009;=&#x2009;0.02) and sum RSA time (5.2% decrease, p&#x2009;=&#x2009;0.02) in the tennis-specific RSA assessments. Additionally, the SIT group showed significantly higher effective training time and TRIMP in the 90-100% HRmax zone compared to the ET group (p&#x2009;<&#x2009;0.01). This study underscores the potential benefits of low-volume, court-based SIT in enhancing anaerobic capacity and sport-specific performance in competitive tennis players, in comparison to traditional ET.
+Several known biomarkers have been used to understand the physiological responses of humans to various short and long-term interventions such as exercise or dietary interventions. However, little exploratory work has been conducted to identify novel biomarkers in human saliva that could enable non-invasive physiological research to understand acute responses to interventions such as reducing sedentary time. The purpose of this study was to identify novel biomarkers in the saliva (cytokines, growth factors and vascular factors) that respond to prolonged (4 hours) and interrupted sitting (4 hours of sitting interrupted by 3 minutes of walking at 60% of maximal heart rate every 27 minutes) in young, healthy males and females. We also sought to determine whether responsive biomarkers would differ by sex. Participants (n = 24, 21.2 &#xb1; 2.2 years, 50% female) completed a prolonged sitting (PS) session and an interrupted sitting (IS) session in random order. Individual saliva samples were pooled into a male sample and a female sample to identify responsive biomarkers using a human cytokine antibody membrane array (42 targets). Several novel biomarkers were responsive in both sexes (e.g., IL-8, Angiogenin, VEGF, and EGF), in females only (e.g., TNF-&#x3b1; and IL-13), and in males only (e.g., IL-3, RANTES, and IL-12p40/p70). Importantly, several biomarkers appear to be responsive to the 4-hour prolonged and interrupted sitting sessions (e.g., TNF-&#x3b1;, IL-8, IL-3, RANTES, EGF, Angiogenin, and VEGF). This work highlights new directions for researchers aiming to investigate the effect of short-term or acute interventions on different physiological pathways using non-invasive methods. Our work clearly indicates that human saliva samples can provide a wealth of insight into physiological responses, and that a number of biomarkers can be used to understand changes induced by acute interventions such as interrupting prolonged sitting.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-70198-9
+- DOI: 10.1371/journal.pone.0308838
 
 2. Keywords
-- Blood lactate clearance
-- Repeated sprint ability
-- Sports specific training
-- Tennis training
-- Wingate test
-- YoYo-IR2
+
 
 3. Key Findings
-- The results showed that SIT group demonstrated significant improvements in peak and average power during the Wingate test (p&#x2009;=&#x2009;0
-- Additionally, the SIT group showed significantly higher effective training time and TRIMP in the 90-100% HRmax zone compared to the ET group (p&#x2009;<&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Blood lactate clearance assessment methods and outcomes
-- Repeated sprint ability assessment methods and outcomes
-- Sports specific training assessment methods and outcomes
+- General research methodology and outcomes

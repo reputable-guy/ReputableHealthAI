@@ -1,26 +1,20 @@
-Study Title: Recovery effect of self-myofascial release treatment using different type of a foam rollers.
+Study Title: Postoperative Complications and Mobilization Following Major Abdominal Surgery With Versus Without Fitness Tracker-based Feedback (EXPELLIARMUS): A Student-led Multicenter Randomized Controlled Clinical Trial of the CHIR-Net SIGMA Study Group.
 
 Study Summary:
-Among athletes, foam rolling is popular technique of myofascial release aimed to support recovery processes and counteract delayed onset muscle soreness. However, there is no consensus on the optimal parameters of the roller texture used in the procedure. The study aimed to determine whether using rollers with different textures and hardness (smooth/soft, grooved/mid, serrated/hard) in myofascial release affects post-exertional restitution rate and the level of perceived DOMS (Delayed Onset Muscle Soreness) after intense anaerobic exercise. The study involved 60 healthy and physically active men randomly divided into three experimental groups and one control group (passive rest)-each consisting of 15 individuals: STH-rolling with a smooth roller; G-rolling with a grooved roller; TP-rolling with a serrated roller; Pass-passive rest group. After performing a exercise test (one-minute high-intensity squat), blood lactate (LA), creatine kinase (CK) and pain perception (VAS Scale) were monitored. The analysis of the average LA concentration in the blood 30&#xa0;min post-exercise showed a statistical difference for all rolling groups compared to the passive rest group: STH (p&#x2009;<&#x2009;0.001), G (p&#x2009;<&#x2009;0.001), TP (p&#x2009;=&#x2009;0.035). No statistically significant differences were found between the CK measurement results in individual assessments. Statistically significant differences in VAS values were observed between G (p&#x2009;=&#x2009;0.013) and TP (p&#x2009;=&#x2009;0.006) groups and the Pass group at 48&#xa0;h, as well as between STH (p&#x2009;=&#x2009;0.003); G (p&#x2009;=&#x2009;0.001); TP (p&#x2009;<&#x2009;0.001) groups and the Pass group at 72&#xa0;h. Based on statistical data, a strong influence (&#x3b7;&#x2009;=&#x2009;0.578) of time on the quadriceps VAS variable was noted. The research results confirm the effectiveness of rolling in supporting immediate and prolonged recovery. The conducted studies indicate a significantly better pace of post-exertional recovery after a rolling procedure lasting at least 120&#xa0;s. The texture and hardness of the tool used did not matter with such a duration of the treatment.
+To determine whether daily postoperative step goals and feedback through a fitness tracker (FT) reduce the rate of postoperative complications after surgery. Early and enhanced postoperative mobilization has been advocated to reduce postoperative complications, but it is unknown whether FT alone can reduce morbidity. EXPELLIARMUS was performed at 11 University Hospitals across Germany by the student-led clinical trial network SIGMA. Patients undergoing major abdominal surgery were enrolled, equipped with an FT, and randomly assigned to the experimental (visible screen) or control intervention (blackened screen). The experimental group received daily step goals and feedback through the FT. The primary end point was postoperative morbidity within 30&#x2009;days using the Comprehensive Complication Index (CCI). All trial visits were performed by medical students in the hospital with the opportunity to consult a surgeon-facilitator who also obtained informed consent. After discharge, medical students performed the 30-day postoperative visit through telephone and electronic questionnaires. A total of 347 patients were enrolled. Baseline characteristics were comparable between the 2 groups. The mean age of patients was 58 years, and 71% underwent surgery for malignant disease, with the most frequent indications being pancreatic, colorectal, and hepatobiliary malignancies. Roughly one-third of patients underwent laparoscopic surgery. No imputation for the primary end point was necessary as data completeness was 100%. There was no significant difference in the CCI between the 2 groups in the intention-to-treat analysis (mean&#xb1;SD CCI experimental group: 23&#xb1;24 vs. control: 22&#xb1;22; 95% CI: -6.1, 3.7; P=0.628). All secondary outcomes, including quality of recovery, 6-minute walking test, length of hospital stay, and step count until postoperative day 7 were comparable between the 2 groups. Daily step goals combined with FT-based feedback had no effect on postoperative morbidity. The EXPELLIARMUS shows that medical students can successfully conduct randomized controlled trials in surgery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-66577-x
+- DOI: 10.1097/SLA.0000000000006232
 
 2. Keywords
-- Creatine kinase
-- Lactate clearance
-- Myofascial release
-- Regeneration
+
 
 3. Key Findings
-- The analysis of the average LA concentration in the blood 30&#xa0;min post-exercise showed a statistical difference for all rolling groups compared to the passive rest group: STH (p&#x2009;<&#x2009;0
-- No statistically significant differences were found between the CK measurement results in individual assessments
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Creatine kinase assessment methods and outcomes
-- Lactate clearance assessment methods and outcomes
-- Myofascial release assessment methods and outcomes
+- General research methodology and outcomes

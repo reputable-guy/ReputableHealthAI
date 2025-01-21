@@ -1,28 +1,28 @@
-Study Title: Effect of mindfulness-based stress reduction (MBSR) program on depression, emotion regulation, and sleep problems: A randomized controlled trial study on depressed elderly.
+Study Title: Effect of neuronavigated repetitive Transcranial Magnetic Stimulation on pain, cognition and cortical excitability in fibromyalgia syndrome.
 
 Study Summary:
-Entering old age is associated with various physical and psychological disabilities. Therefore, the aim of this study is to determine the effect of mindfulness-based stress reduction program on emotion regulation and sleep problems in depressed elderly. This study was a clinical trial conducted on 60 elderly individuals with depression using purposive sampling. These elderly were referred by geriatricians and were included in the study based on the inclusion criteria. The participants were randomly assigned to two groups: the Mindfulness-Based Stress Reduction (MBSR) group and the control group. Both groups completed the Geriatric Depression Scale (GDS), the Gratz and Roemer Emotion Regulation Questionnaire, and the Pittsburgh Sleep Quality Index before and after the intervention. The MBSR sessions were held for the experimental group in 8 sessions of 90&#xa0;min each, once a week. Finally, all the data were analyzed using SPSS software version 26 through descriptive and analytical statistics such as mean and standard deviation, t-tests and mixed analysis of covariance (ANCOVA) with repeated measures. The results showed that the MBSR intervention led to a significant reduction in depression symptoms (p&#x2009;<&#x2009;0.001) and improvement in emotion regulation and sleep quality (p&#x2009;<&#x2009;0.001) among the elderly participants with depression in the intervention group. The results of this study showed that MBSR can be effective in reducing depression levels, improving emotion regulation, and sleep quality among depressed elderly individuals compared to the control group. Caregivers and psychotherapists of nursing homes can use care programs such as MBSR program to improve the physical and mental condition of the elderly. First Registration: 13/01/2022, Registration Number: IRCT20211118053099N1, Access: https://www.irct.ir/trial/61207 .
+Fibromyalgia syndrome is a widespread chronic pain condition identified by body-wide pain, fatigue, cognitive fogginess, and sleep issues. In the past decade, repetitive transcranial magnetic stimulation has emerged as a potential management tool.. In the present study, we enquired whether repetitive transcranial magnetic stimulation could modify pain, corticomotor excitability, cognition, and sleep. Study is a randomized, sham-controlled, double-blind, clinical trial; wherein after randomizing thirty-four fibromyalgia patients into active or sham therapy (n&#x2009;=&#x2009;17 each), each participant received repetitive transcranial magnetic stimulation therapy. In active therapy was given at 1&#xa0;Hz for 20 sessions were delivered on dorsolateral prefrontal cortex (1200 pulses, 150 pulses per train for 8 trains); while in sham therapy coil was placed at right angle to the scalp with same frequency. Functional magnetic resonance imaging was used to identify the therapeutic site. Pain intensity, corticomotor excitability, cognition, and sleep were examined before and after therapy. Baseline demographic and clinical parameters for both active and sham groups were comparable. In comparison to sham, active repetitive transcranial magnetic stimulation showed significant difference in pain intensity (P&#x2009;<&#x2009;0.001, effect size&#x2009;=&#x2009;0.29, large effect) after intervention. Other parameters of pain perception, cognition, and sleep quality also showed a significant improvement after the therapy in active therapy group only, as compared to sham. Findings suggest that repetitive transcranial magnetic stimulation intervention is effective in managing pain alongside cognition and sleep disturbances in patients of fibromyalgia. It may prove to be an important tool in relieving fibromyalgia-associated morbidity.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12889-024-17759-9
+- DOI: 10.1007/s10072-024-07317-x
 
 2. Keywords
-- Depression
-- Elderly
-- Emotional regulation
-- MBSR
-- Mindfulness-based stress reduction
-- Sleep quality
+- Chronic Pain
+- Cognition and Sleep
+- Dorsolateral Prefrontal Cortex
+- Fibromyalgia Syndrome
+- Randomized Controlled Trial
+- Repetitive Transcranial Magnetic Stimulation
 
 3. Key Findings
-- The results showed that the MBSR intervention led to a significant reduction in depression symptoms (p&#x2009;<&#x2009;0
-- The results of this study showed that MBSR can be effective in reducing depression levels, improving emotion regulation, and sleep quality among depressed elderly individuals compared to the control group
+- In comparison to sham, active repetitive transcranial magnetic stimulation showed significant difference in pain intensity (P&#x2009;<&#x2009;0
+- Other parameters of pain perception, cognition, and sleep quality also showed a significant improvement after the therapy in active therapy group only, as compared to sham
 
 This study provides insights into:
-- Depression assessment methods and outcomes
-- Elderly assessment methods and outcomes
-- Emotional regulation assessment methods and outcomes
+- Chronic Pain assessment methods and outcomes
+- Cognition and Sleep assessment methods and outcomes
+- Dorsolateral Prefrontal Cortex assessment methods and outcomes

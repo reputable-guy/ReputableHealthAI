@@ -1,27 +1,28 @@
-Study Title: Actual and imagined music-cued gait training for people with multiple sclerosis: a multicentre qualitative study.
+Study Title: Evaluation of the "15 Minute Challenge": A Workplace Health and Wellbeing Program.
 
 Study Summary:
-To explore the experiences and acceptability of music-cued motor imagery (MCMI), music-cued gait training (MCGT), and combined MCMI and MCGT (MCMI-MCGT) in people with multiple sclerosis (pwMS). We also aimed to explore participants' self-rated health status postintervention and gather recommendations for further programme development. Qualitative study alongside the double-blind randomised controlled real and imagined gait training with music-cueing (RIGMUC) multicentre trial of MCMI, MCGT and MCMI-MCGT. PwMS recruited for the RIGMUC trial from Departments of Neurology at Medical Universities of Innsbruck and Graz and Clinic for Rehabilitation Muenster, Austria. All 132 pwMS with mild to moderate disability randomised into the trial were included in the analysis. Participants practised home-based MCMI, MCGT or MCMI-MCGT for 30&#x2009;min, 4&#xd7;/week, for 4 weeks. Three trained researchers conducted weekly semistructured telephone interviews during the intervention period, supporting adherence, addressing problems, sharing experiences and assessing intervention acceptability. Follow-up interviews at 4-week postintervention aimed to understand participants' self-rated changes in walking, fatigue and overall health compared with their prestudy condition. Investigator triangulation was employed among the researchers to enhance trustworthiness and credibility. Using thematic analysis, we identified five themes: (1) empowerment, (2) remaining in sync, (3) interconnection between imagined and actual walking, (4) sustaining focus and (5) real-world transfer. Participants appreciated and found the imagined and actual MCGT innovative. Problems included concentration issues, early fatigue in advanced disability and difficulty synchronising with music cues. Positive changes in walking, fatigue and overall health postinterventions were reported offering valuable insights for programme development. A participatory study to codevelop a music-cued exercise programme for pwMS seems appropriate as participants appreciated the innovation and effectiveness of both imagined and actual MCGT. Future studies should also investigate pwMS' potential and limitations in enhancing their MCMI abilities with intensive therapist-supported practice. DRKS00023978.
+The 15 Minute Challenge is an mHealth workplace wellness initiative, employing gamification to promote physical activity, aiming to enhance health outcomes and overall well-being. This retrospective cohort study evaluated the effectiveness of the program among employees at various Australian, New Zealand, and UK workplaces. Real-world data from 11,575 participants across 73 companies were analyzed. The program encouraged daily 15 min physical activity sessions over six weeks. Participants self-reported their physical activity and fitness, energy, overall health, sleep quality, and mood at baseline and 6 weeks. Program satisfaction, engagement rates, and adherence to the program were also assessed. Effectiveness was evaluated using multi-level mixed-effects linear regression analyses. The intervention showed significant increases in physical activity, with 95% of participants meeting or exceeding international physical activity guidelines, up from 57% at baseline (< 0.05). Self-reported fitness, energy, overall health, sleep quality, and mood significantly improved (between 7.1 and 14.0% improvement; all< 0.05). High satisfaction was reported, with 92% of participants recommending the program. The 15 Minute Challenge effectively increased physical activity levels and improved self-reported health outcomes among participating employees. The high satisfaction rates and significant health improvements highlight the potential of workplace wellness programs to combat sedentary behavior and promote a healthier, more active lifestyle.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/bmjopen-2024-086555
+- DOI: 10.3390/healthcare12131255
 
 2. Keywords
-- Fatigue
-- Gait
-- Multiple sclerosis
-- Patient Satisfaction
-- QUALITATIVE RESEARCH
-- REHABILITATION MEDICINE
+- ehealth
+- exercise
+- gamification
+- lifestyle
+- mHealth
+- physical activity
+- workplace
 
 3. Key Findings
-- Participants appreciated and found the imagined and actual MCGT innovative
+- The intervention showed significant increases in physical activity, with 95% of participants meeting or exceeding international physical activity guidelines, up from 57% at baseline (< 0
 
 This study provides insights into:
-- Fatigue assessment methods and outcomes
-- Gait assessment methods and outcomes
-- Multiple sclerosis assessment methods and outcomes
+- ehealth assessment methods and outcomes
+- exercise assessment methods and outcomes
+- gamification assessment methods and outcomes

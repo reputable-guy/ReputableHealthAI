@@ -1,25 +1,26 @@
-Study Title: Effects of acupressure on sleep quality and anxiety of patients with second- or third-degree burns: a randomized sham-controlled trial.
+Study Title: Does a self-reported sleep duration reflect actigraphy reported sleep duration in female football players?
 
 Study Summary:
-Although acupressure is proposed to boost sleep quality and alleviate anxiety in various disorders, no trials have yet documented these consequences in burn victims. Considering the high importance of managing sleep quality and anxiety among burn patients utilizing adjunctive non-pharmacological measures, this study sought to investigate the impacts of acupressure on sleep quality and anxiety among a population of Iranian patients with burn injuries. This trial was performed on 72 patients with second- or third-degree burns, who were divided into two equal arms to receive routine care plus 10-minute acupressure on either real acupoints (i.e., Yintang and Shen men) or sham points for three consecutive nights. Sleep quality and anxiety were investigated at baseline (T1) and on the fourth day (T2) by using St. Mary's Hospital Sleep Questionnaire (SMHSQ) and Spielberger's State-Trait Anxiety Inventory for State Anxiety (STAI-S), respectively. The mean scores of SMHSQ and STAI-S were significantly lower in the real acupressure arm at T2 (P&#x2009;<&#x2009;0.001 in two cases), implying better sleep quality improvement and higher anxiety alleviation. Also, the reduction in mean changes of SMHSQ and STAI-S scores from T1 to T2 was significantly more in the real acupressure arm (P&#x2009;<&#x2009;0.001 in two cases). Acupressure, as a low-cost complementary method, could be potentially helpful in enhancing sleep quality and decreasing the anxiety of burn patients. Additional long-term trials are required to identify the sustainability of the findings. IRCT20130424013110N13 (Registration date: 19/03/2021, https://www.irct.ir/trial/55076 ).
+Sleep is often compromised in female athletes, and the monitoring of female athletes' sleep is an important preventative and educational tool. With self-reporting of sleep common practice for athletes as part of a daily wellness assessment, there is a need to understand whether sleep indices are being reported accurately, and thus whether self-report data are useful. This study aimed to compare the agreement between self-reported and actigraphy reported sleep duration in female football players, with the intention of informing best practice for athlete monitoring. Twenty-two female footballers (mean age 19.5&#x2009;&#xb1;&#x2009;1.3&#x2009;years) provided a daily self-report across 7&#x2009;days, whilst also wearing an actigraph across the same testing period. Agreement between the two measures was assessed using Bland-Altman limits of agreement, with acceptable limits of agreement defined as&#x2009;<30&#x2009;minutes. Results showed evident disagreement between the two methods, with a mean bias of -0.54 (32 min, 95% CI -0.66 to -0.43) and a potential disagreement range of over 2 h (Lower 95% limits of agreement -1.49 to upper 95% limits of agreement 0.40). Coaches using self-reported sleep durations as a monitoring tool for female footballers should interpret the results with caution and be aware of the potential for inaccuracies in this measure. As such, where possible, coaches should consider other methods of sleep monitoring, rather than solely relying on a self-report, to ensure they are operating with optimal practice within situational constraints.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12906-023-04292-2
+- DOI: 10.1080/24733938.2023.2297903
 
 2. Keywords
-- Acupressure
-- Anxiety
-- Burn
-- Sleep Hygiene
+- Athletes
+- actigraphy
+- monitoring
+- self-report
+- sleep
 
 3. Key Findings
-- Findings extraction requires manual review
+- Results showed evident disagreement between the two methods, with a mean bias of -0
 
 This study provides insights into:
-- Acupressure assessment methods and outcomes
-- Anxiety assessment methods and outcomes
-- Burn assessment methods and outcomes
+- Athletes assessment methods and outcomes
+- actigraphy assessment methods and outcomes
+- monitoring assessment methods and outcomes

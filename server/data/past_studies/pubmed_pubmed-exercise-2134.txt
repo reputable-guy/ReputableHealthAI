@@ -1,25 +1,27 @@
-Study Title: Knee-ankle kinematics and coupling responses to SportsMetrics training programs in females athletes with dynamic knee valgus: A sport-specific approach.
+Study Title: Effects of intradialytic bicycle ergometer exercise on transcription factors NF-&#x138;B and Nrf2 in patients with chronic kidney disease: A randomized crossover clinical trial.
 
 Study Summary:
-This study aimed to investigate the impact of SportsMetrics programs on knee and ankle kinematics, as well as knee-ankle coupling responses during double leg landings among female athletes with dynamic knee valgus (ligament dominance). Eighty-four female athletes, including 30 volleyball players, 30 basketball players, and 24 soccer players, were randomly divided into two equal training (TG) and a control groups (CG). The TG underwent 18 sessions of SportsMetrics exercises, while the CG maintained their regular exercise routine. Dynamic knee valgus, lower limb kinematics, and coordination were assessed using the double leg squat and landing error scoring system tests. The main outcome measures encompassed knee sagittal and frontal kinematics, ankle sagittal kinematics, as well as knee-ankle coordination and its variability. Significant reduction in knee range of motion in the frontal plane was observed across all three sports during landing. The SportsMetrics program tailored for basketball players led to a specific increase in knee flexion. The implementation of SportsMetrics effectively modifies ACL injury risk factors, addressing dynamic knee valgus and landing techniques in female athletes. Female athletes displaying dynamic knee valgus are advised to incorporate sport-specific SportsMetrics programs into their training regimens for optimal results.
+To evaluate the effects of an intradialytic aerobic exercise training program on the expression of transcription factors nuclear factor &#x3ba;appa B (NF-&#x3ba;B) and nuclear factor erythroid 2-related factor 2 (Nrf2), related to inflammatory and antioxidant pathways, respectively, in patients with chronic kidney disease (CKD) on hemodialysis. This was a longitudinal, randomized clinical trial with a washout period and crossover performed with 33 patients randomized into two groups: Exercise (individualized intradialytic aerobic exercise on an adapted stationary exercise bike) three times per week for three months and control (without exercise). After the washout period (1 month), the exercise group became the control, and the other group performed the exercises for another three months. Blood sample collection, food intake, and anthropometry were evaluated at the beginning and end of each study phase. Nrf2, its target gene NAD(P)H quinone oxidoreductase 1 (NQO1), and NF-&#x3ba;B transcription factors were evaluated by quantitative real-time polymerase chain reaction (qRT-PCR) and the inflammatory cytokines tumor necrosis factor-&#x3b1; (TNF-&#x3b1;) and interleukin-6 (IL-6) by ELISA assay. Eighteen patients [11 men, 44.1&#xa0;&#xb1;&#xa0;8.4 years, 17.3 (6.6-124) months on HD] completed all the study. The obtained data revealed that the intervention did not affect Nrf2, NQO1, and NF-&#x3ba;B mRNA expression. Also, TNF-&#x3b1; levels were not changed. However, IL-6 showed a tendency to decrease after the exercise intervention (p&#xa0;=&#xa0;0.054). In hemodialysis patients, three months of intradialytic aerobic exercise did not modulate the transcription factors associated with inflammation (NF-&#x3ba;B) and antioxidant activity (Nrf2 and NQO1). NCT04375553.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jbmt.2024.07.043
+- DOI: 10.1016/j.jbmt.2024.08.003
 
 2. Keywords
-- Kinematics
-- Knee abduction
-- Landing coordination
-- Vector coding
+- Chronic kidney disease
+- Hemodialysis
+- Inflammation
+- Oxidative stress
+- Physical exercise
 
 3. Key Findings
-- Findings extraction requires manual review
+- The obtained data revealed that the intervention did not affect Nrf2, NQO1, and NF-&#x3ba;B mRNA expression
+- However, IL-6 showed a tendency to decrease after the exercise intervention (p&#xa0;=&#xa0;0
 
 This study provides insights into:
-- Kinematics assessment methods and outcomes
-- Knee abduction assessment methods and outcomes
-- Landing coordination assessment methods and outcomes
+- Chronic kidney disease assessment methods and outcomes
+- Hemodialysis assessment methods and outcomes
+- Inflammation assessment methods and outcomes

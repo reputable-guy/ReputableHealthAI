@@ -1,27 +1,30 @@
-Study Title: Effects of Bifidobacterium breve 207-1 on regulating lifestyle behaviors and mental wellness in healthy adults based on the microbiome-gut-brain axis: a randomized, double-blind, placebo-controlled trial.
+Study Title: A multidomain lifestyle intervention to maintain optimal cognitive functioning in Dutch older adults-study design and baseline characteristics of the FINGER-NL randomized controlled trial.
 
 Study Summary:
-Our study aimed to explore the efficacy of Bifidobacterium breve 207-1 on specific neurotransmitters and hormones and the ability to regulate lifestyle behaviors in healthy adults. In total, 120 healthy adults with high mental stress, overweight, insomnia, and constipation were randomly assigned to receive low-dose B. breve 207-1 (LD, n&#x2009;=&#x2009;40), high-dose B. breve 207-1 (HD, n&#x2009;=&#x2009;40), or placebo (n&#x2009;=&#x2009;40) for 28 days. Fecal and blood samples were collected and questionnaires were answered before and after the trial. Neurotransmitters and serum hormones were detected using enzyme-linked immunosorbent assay. The gut microbiota composition was assessed using 16&#xa0;S rRNA sequencing. Short-chain fatty acids (SCFAs) concentrations were determined via gas chromatography-mass spectrometry (GC-MS). The primary outcome of our study was changes in mental wellness, including neurotransmitters, the hypothalamic-pituitary-adrena (HPA) axis hormones, and the psychological scales. The results showed that &#x3b3;-aminobutyric acid (GABA) increased significantly and the HPA axis hormones were suppressed overall in the probiotic groups while 5-hydroxytryptamine (5-HT) did not change significantly. However, there was no significant change in mood scale scores. The secondary outcome focused on the ability of 207-1 to regulate the body and lifestyle of healthy adults (e.g., sleep, diet, exercise, etc.). The PSQI scores in the probiotics groups significantly decreased, indicating improved sleep quality. Meanwhile, the probiotic groups had a slight increase in exercise consumption while dietary intake stabilized. By physical examination, the participants showed weight loss although no statistically significant difference was observed between the groups. Then, validated by gut microbiota, changes in the gut microbiota were observed under the effective intervention of 207-1 while short-chain fatty acids (SCFAs) increased in the LD group, particularly acetic and propionic acids. There was a slight decrease in alpha-diversity in the HD group. Bifidobacterium breve 207-1 entered the organism and affected neurotransmitter and the HPA axis hormone levels via the microbiome-gut-brain axis. Meanwhile, 207-1 supplementation improved daily lifestyle behaviors in healthy adults, which may in turn lead to changes in their bodies (e.g. weight and lipid metabolism). However, this study did not find significant mood-modulating efficacy. The mechanism of the overall study is unclear, but we hypothesize that SCFAs may be the key pathway, and more experiments are needed for validation in the future. This trial was retrospectively registered in the Chinese Clinical Trial Registry under the accession number ChiCTR2300069453 on March 16, 2023.
+Evidence on the effectiveness of multidomain lifestyle interventions to prevent cognitive decline in older people without dementia is mixed. Embedded in the World-Wide FINGERS initiative, FINGER-NL aims to investigate the effectiveness of a 2-year multidomain lifestyle intervention on cognitive functioning in older Dutch at risk individuals. Multi-center, randomized, controlled, multidomain lifestyle intervention trial with a duration of 24&#xa0;months. 1210 adults between 60-79&#xa0;years old with presence of&#x2009;&#x2265;&#x2009;2 modifiable risk factors and&#x2009;&#x2265;&#x2009;1 non-modifiable risk factor for cognitive decline were recruited between January 2022 and May 2023 via the Dutch Brain Research Registry and across five study sites in the Netherlands. Participants were randomized to either a high-intensity or a low-intensity intervention group. The multidomain intervention comprises a combination of 7 lifestyle components (physical activity, cognitive training, cardiovascular risk factor management, nutritional counseling, sleep counseling, stress management, and social activities) and 1 nutritional product (Souvenaid&#xae;) that could help maintain cognitive functioning. The high-intensity intervention group receives a personalized, supervised and hybrid intervention consisting of group meetings (on-site and online) and individual sessions guided by a trained lifestyle coach, and access to a digital intervention platform that provides custom-made training materials and selected lifestyle apps. The low-intensity intervention group receives bi-monthly online lifestyle-related health advice via the digital intervention platform. Primary outcome is 2-year change on a cognitive composite score covering processing speed, executive function, and memory. Within 17&#xa0;months, participant recruitment has been successfully completed (N&#x2009;=&#x2009;1210; mean age: 67.7&#xa0;years (SD: 4.6); 64% female). Modifiable risk factors commonly present at baseline were physical inactivity (89%), low mental/cognitive activity (50%), low social engagement (39%), hypertension (39%) and high alcohol consumption (39%). The mean body mass index of participants was 28.3 (SD: 4.2) and the total serum cholesterol was 5.4&#xa0;mmol/L (SD: 1.2). Baseline lifestyle and clinical measurements showed successful recruitment of participants with sufficient potential for prevention. Results of FINGER-NL will provide further insight into the efficacy of a multidomain lifestyle intervention to prevent cognitive decline in older adults. ClinicalTrials.gov (ID: NCT05256199)/2022-01-11.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00394-024-03447-2
+- DOI: 10.1186/s13195-024-01495-8
 
 2. Keywords
-- Bifidobacterium
-- 5-HT
-- GABA
-- Gut microbiota
-- HPA axis
+- Alzheimer&#x2019;s disease
+- Cognitive impairment
+- Dementia
+- Intervention
+- Lifestyle
+- Multidomain
+- Prevention
+- Randomized controlled trial
+- Risk factors
 
 3. Key Findings
-- The results showed that &#x3b3;-aminobutyric acid (GABA) increased significantly and the HPA axis hormones were suppressed overall in the probiotic groups while 5-hydroxytryptamine (5-HT) did not change significantly
-- By physical examination, the participants showed weight loss although no statistically significant difference was observed between the groups
+- Baseline lifestyle and clinical measurements showed successful recruitment of participants with sufficient potential for prevention
 
 This study provides insights into:
-- Bifidobacterium assessment methods and outcomes
-- 5-HT assessment methods and outcomes
-- GABA assessment methods and outcomes
+- Alzheimer&#x2019;s disease assessment methods and outcomes
+- Cognitive impairment assessment methods and outcomes
+- Dementia assessment methods and outcomes

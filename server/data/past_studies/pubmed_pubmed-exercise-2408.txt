@@ -1,27 +1,25 @@
-Study Title: Impact of Aficamten on Disease and Symptom Burden in Obstructive Hypertrophic Cardiomyopathy: Results From SEQUOIA-HCM.
+Study Title: Greater lactate accumulation does not alter peripheral concentrations of key appetite-regulating neuropeptides.
 
 Study Summary:
-Aficamten is a cardiac myosin inhibitor that mitigates left ventricular outflow gradients in obstructive hypertrophic cardiomyopathy (oHCM). The clinical efficacy of aficamten across multiple outcome domains in oHCM has not been fully defined. This responder analysis from the SEQUOIA-HCM (Phase 3 Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic oHCM) trial characterizes the clinical impact of aficamten. Patients who were symptomatic of oHCM were randomized to aficamten (n&#xa0;=&#xa0;142) or placebo (n&#xa0;=&#xa0;140) daily for 24&#xa0;weeks. Outcomes assessed included the proportion of patients with complete hemodynamic response (rest and Valsalva gradient&#xa0;<30&#xa0;mm&#xa0;Hg and&#xa0;<50&#xa0;mm&#xa0;Hg, respectively), relief in limiting symptoms (&#x2265;1&#xa0;improvement in NYHA functional class and/or&#xa0;&#x2265;10-point change in Kansas City Cardiomyopathy Questionnaire-Clinical Summary Score), enhanced exercise capacity (&#x2265;1.5&#xa0;mL/kg/min change in peak oxygen uptake), and&#xa0;&#x2265;50% reduction in N-terminal pro-B-type natriuretic peptide. Eligibility for septal reduction therapy was also evaluated. At 24&#xa0;weeks, patients treated with aficamten vs placebo showed significant improvement in limiting symptoms (71% vs 42%), were more likely to have complete hemodynamic response (68% vs 7%), demonstrated enhanced exercise capacity (47% vs 24%), and showed a decrease&#xa0;&#x2265;50% in N-terminal pro-B-type natriuretic peptide (84% vs 8%) (P&#xa0;&#x2264; 0.002 for all). An improvement in&#xa0;&#x2265;1 of these outcome measures was achieved in 97% of patients treated with aficamten (vs 59% placebo), including 23% on aficamten who achieved all 4 outcomes compared with none in placebo. Among 32 patients receiving aficamten and 29 patients receiving placebo who were eligible for septal reduction therapy, 28 (88%) from the aficamten group were no longer eligible at 24&#xa0;weeks compared with 15 (52%) from the placebo group (P&#xa0;=&#xa0;0.002). Treatment with aficamten was associated with substantial improvements across a broad range of clinically relevant efficacy measures. These results underscore the wide-ranging potential of aficamten for treatment of patients with symptomatic oHCM (Phase 3 Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults with oHCM [SEQUOIA-HCM]; NCT05186818).
+The potential mechanisms involved in lactate's role in exercise-induced appetite suppression require further examination. We used sodium bicarbonate (NaHCO) supplementation in a double-blind, placebo-controlled, randomized crossover design to explore lactate's role on neuropeptide Y (NPY), agouti-related peptide (AgRP), and alpha-melanocyte-stimulating hormone (&#x3b1;-MSH) concentrations. Twelve adults (7 males; 24.2&#x2009;&#xb1;&#x2009;3.4 kg&#xb7;m; 42.18&#x2009;&#xb1;&#x2009;8.56 mL&#xb7;kg&#xb7;min) completed two identical high-intensity interval training sessions following ingestion of NaHCO(BICARB) or sodium chloride (PLACEBO) pre-exercise. Blood lactate, acylated ghrelin, NPY, AgRP, &#x3b1;-MSH, and appetite perceptions were measured pre-exercise, 0-, 30-, 60-, and 90-min postexercise. Free-living energy intake (electronic food diaries) was measured the day before, of, and after each experimental session. In BICARB, blood lactate was greater postexercise (< 0.002,> 0.70), though acylated ghrelin was similar (= 0.075, [Formula: see text] = 0.206) at all time points postexercise (> 0.034,< 0.22). NPY (= 0.006, [Formula: see text] > 0.509) and AgRP (< 0.001, [Formula: see text] > 0.488) had main effects of time increasing following exercise and returning to baseline, with no differences between sessions (NPY:= 0.0.192, [Formula: see text] = 0.149; AgRP:= 0.422, [Formula: see text] = 0.060). &#x3b1;-MSH had no main effect of time (= 0.573, [Formula: see text] = 0.063) or session (= 0.269, [Formula: see text] = 0.110). Appetite perceptions were similar during BICARB and PLACEBO (= 0.007,= 0.28), increasing in both sessions postexercise (< 0.088,> 0.57). Energy intake had a main effect of day (= 0.025, [Formula: see text] = 0.825), where the experimental session day was greater than the day before (= 0.010,= 0.59) with no other differences between days (> 0.260,< 0.38). The lower accumulation of lactate than our previous work did not generate exercise-induced appetite suppression as there were no differences in acylated ghrelin, appetite perceptions, or peripheral concentrations of neuropeptides.Current evidence supports lactate's role in exercise-induced appetite suppression. Here, we demonstrate a smaller degree of lactate accumulation with sodium bicarbonate ingestion and HIIT than our previous work and no subsequent suppression of acylated ghrelin concentrations, subjective appetite perceptions, or peripheral concentrations of neuropeptides. These results suggest either changes in central appetite-regulating neuropeptides are not reflected peripherally or the smaller magnitude of lactate accumulation did not generate exercise-induced appetite suppression as seen previously.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jacc.2024.09.003
+- DOI: 10.1152/japplphysiol.00559.2024
 
 2. Keywords
-- aficamten
-- cardiac myosin inhibitor
-- clinical trial
-- hypertrophic cardiomyopathy
-- obstructive hypertrophic cardiomyopathy
-- therapy
+- appetite-regulation
+- food intake
+- gut hormones
+- neuropeptides
 
 3. Key Findings
-- At 24&#xa0;weeks, patients treated with aficamten vs placebo showed significant improvement in limiting symptoms (71% vs 42%), were more likely to have complete hemodynamic response (68% vs 7%), demonstrated enhanced exercise capacity (47% vs 24%), and showed a decrease&#xa0;&#x2265;50% in N-terminal pro-B-type natriuretic peptide (84% vs 8%) (P&#xa0;&#x2264; 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- aficamten assessment methods and outcomes
-- cardiac myosin inhibitor assessment methods and outcomes
-- clinical trial assessment methods and outcomes
+- appetite-regulation assessment methods and outcomes
+- food intake assessment methods and outcomes
+- gut hormones assessment methods and outcomes

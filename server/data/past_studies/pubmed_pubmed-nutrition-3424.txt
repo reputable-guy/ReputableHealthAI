@@ -1,20 +1,27 @@
-Study Title: Does intradialytic oral nutrition impact hemodialysis patients' quality of life, appetite, and safety? A pilot study of a crossover clinical trial.
+Study Title: Diet quality and blood pressure among pregnant women with overweight or obesity: A secondary analysis of two randomized controlled trials.
 
 Study Summary:
-Introduction: due to the catabolic characteristics of hemodialysis (HD), patients should consume foods or supplements during this treatment to meet their energy requirements and maintain a neutral nitrogen balance; however, there are some outcomes in which the effect of intradialytic oral nutrition (ION) is scarcely known. Objectives: this study aims to evaluate the effect of two types of ION (liquid and solid) on Quality of Life (QoL), appetite, and safety in HD patients. Methods: a pilot randomized, crossover clinical trial was performed in 18 patients on chronic HD. One group received ION for 18 HD sessions, after the crossover continued for 18 more sessions in the control group, and vice versa. We recorded QoL, appetite, systolic blood pressure (SBP), and intradialytic hypotension (IH) events. Results: clinical improvement was observed for most QoL components. Regardless of the consistency of supplementation, SBP increased to 4.10 mmHg. Both study groups reported a "very good-to-good" appetite. Conclusion: favorable clinical changes were observed in QoL scores during the study. Five of six IH events were reported for patients in the ION group, and SBP increased within the safe range (&#x2264; 10 mmHg); appetite remained stable in both groups. Therefore, we concluded that this strategy, regardless of implementation consistency, is safe to be used in stable patients.
+Maternal obesity is a significant risk factor for hypertensive disorders of pregnancy. High diet quality may protect against this, yet data regarding the relationship between diet quality and blood pressure among pregnant women with raised body mass index (BMI) is limited. This is a secondary analysis (n&#x2009;=&#x2009;543) of women with BMI &#x2265;25&#x2009;kg/mfrom two randomized controlled trials; PEARS (Pregnancy Exercise and nutrition Research Study with smartphone application support) and ROLO (Randomized cOntrol trial of LOw glycemic index diet to prevent macrosomia in euglycemic women). Blood pressure was measured at 10-18&#x2009;weeks and 28&#x2009;weeks of pregnancy. Mean arterial pressure was calculated as (diastolic blood pressure[systolic blood pressure&#x2009;&#x2009;diastolic blood pressure]). Diet quality was assessed using 3-day food diaries, and Alternative Healthy Eating Index for Pregnancy (AHEI-P) scores were generated, quantifying alignment of food intakes with dietary guidelines in first and early third trimesters. The cohort was divided based on AHEI-P tertiles to explore differences at an alpha significance value of <0.05. The mean age of the group was 32.21&#x2009;&#xb1;&#x2009;4.39&#x2009;years with a median body mass index (BMI) of 28.13 (IQR 3.47) kg/m. Mean arterial pressures in the first and third trimesters were 81.07&#x2009;&#xb1;&#x2009;9.00&#x2009;mmHg and 82.33&#x2009;&#xb1;&#x2009;7.53&#x2009;mmHg, respectively. Rates of elevated blood pressure (&#x2265;120/80&#x2009;mmHg) were 22.33% in trimester 1 and 24.48% in early trimester 3. Mean AHEI-P scores in trimester 1 and early trimester 3 were 53.90&#x2009;&#xb1;&#x2009;10.43 and 54.05&#x2009;&#xb1;&#x2009;10.76, respectively. There was no correlation between AHEI-P score and blood pressure and no differences in blood pressure between AHEI-P tertiles at either timepoint (all P-values&#x2009;<0.05). A higher proportion of those with elevated early third trimester blood pressure had a BMI of &#x2265;30&#x2009;kg/mcompared with those with normal blood pressure (40.31% vs 28.64%, P&#x2009;=&#x2009;0.016). While diet remains an important factor in maternal health and wellbeing, we did not find a relationship between diet quality as measured by AHEI-P and blood pressure among pregnant women with BMI &#x2265;25&#x2009;kg/m. High BMI remains a risk factor for hypertensive disorders of pregnancy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.20960/nh.04703
+- DOI: 10.1111/aogs.14821
 
 2. Keywords
-- Nutrici&#xf3;n oral intradial&#xed;tica. Hipotensi&#xf3;n intradial&#xed;tica. Calidad de vida. Apetito. Presi&#xf3;n arterial.
+- Alternative Healthy Eating Index
+- body mass index
+- dietary quality
+- hypertension
+- obesity
+- overweight
 
 3. Key Findings
-- Therefore, we concluded that this strategy, regardless of implementation consistency, is safe to be used in stable patients
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Nutrici&#xf3;n oral intradial&#xed;tica. Hipotensi&#xf3;n intradial&#xed;tica. Calidad de vida. Apetito. Presi&#xf3;n arterial. assessment methods and outcomes
+- Alternative Healthy Eating Index assessment methods and outcomes
+- body mass index assessment methods and outcomes
+- dietary quality assessment methods and outcomes

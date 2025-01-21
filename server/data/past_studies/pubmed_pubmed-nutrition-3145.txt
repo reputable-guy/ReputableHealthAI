@@ -1,20 +1,28 @@
-Study Title: Higher energy delivery is associated with improved long-term survival among adults with major burn injury: A multicenter, multinational, observational study.
+Study Title: Digitizing Survivorship Care Plans Through the POST-Treatment Health Outcomes of Cancer Survivors (POSTHOC) Mobile App: Protocol for a Phase II Randomized Controlled Trial.
 
 Study Summary:
-Numerous feeding strategies have been used to mitigate the catabolism of major burn injury. Whether higher energy and/or protein delivery results in better long-term outcomes is unknown. We performed a secondary analysis of data from adults with major burn injuries enrolled in the Randomized Trial of Enteral Glutamine to Minimize the Effects of Burn Injury at 54 burn centers in 18 countries. The sample was restricted to those who were mechanically ventilated within 72 hours of injury and for &#x2265;7 days. Our key exposure was adequacy of energy, and protein ([Delivered i /Prescribed i ] &#xd7; 100) was categorized into three groups each: low, 0% to 50%; moderate, &#x2265;50% to 79%; and high, &#x2265;80%. We also analyzed adequacy using restricted cubic splines. Primary and secondary outcomes included 6-month mortality and functional outcomes (i.e., 36-Item Short-Form Health Survey, Katz Index of Independence in Activities of Daily Living, Lawton Activities of Daily Living scores), respectively. Regression models were adjusted for age, body mass index, Charlson Comorbidity Index, baseline Acute Physiology and Chronic Health Evaluation II and modified Sequential Organ Failure Assessment scores, burn size, energy/protein adequacy, and study site. A total of 493 participants met the cohort restriction criteria; 336 participants were alive at 6 months. 36-Item Short-Form Health Survey, Katz Index of Independence in Activities of Daily Living, and Lawton Instrumental Activities of Daily Living Scale were completed by 218, 216, and 215 participants, respectively. The mean &#xb1; SD age was 48 &#xb1; 17 years, and 74% were male. The mean &#xb1; SD burn size was 41% &#xb1; 18% total body surface area. Participants who received 25% of recommended calories had nearly four times the hazard of death during the 6-month follow-up period than participants who received 100% of prescribed calories (adjusted hazard ratio, 3.89; 95% confidence interval, 1.35-11.20) ( p = 0.02). There was no significant association between protein and 6-month mortality or energy/protein delivery and 6-month functional outcomes. There was a positive association between higher doses of energy and 6-month survival. This relationship conflicts somewhat with several energy studies among critically ill and non-burn-injured patients. The lack of consistent evidence on optimal nutrition for critically injured patients, a fundamental component of burn care, suggests potential for a randomized trial of lower versus higher energy to improve long-term outcomes after burn injury. Therapeutic/Care Management; Level III.
+Survivorship care plans (SCPs) are provided at the completion of cancer treatment to aid in the transition from active treatment to long-term survivorship. They describe the details of a patient's diagnosis and treatment and offer recommendations for follow-up appointments, referrals, and healthy behaviors. The plans are currently paper-based and become outdated as soon as a patient's health status changes. There is a need to digitize these plans to improve their accessibility, modifiability, and longevity. With current technology, SCPs can be linked to mobile devices and activity trackers so that patients can track health behaviors and compare them to their clinical goals, taking charge of their own health. A mobile app, POSTHOC (POST-Treatment Health Outcomes of Cancer Survivors), that digitizes the SCP was developed, with goals of integrating it with wearable technologies and electronic medical records. Herein, we are conducting a randomized controlled trial that evaluates the POSTHOC app versus the traditional SCP on total symptom burden in the early posttreatment period. We will recruit 54 patients who have recently completed curative therapy for cancer (any type) in person and remotely. They will be randomized 2:1, POSTHOC:usual care (unblinded). Those randomized to the POSTHOC group will receive their SCP via the app and will choose to focus on nutrition or exercise for the duration of the study based on their individual plan and personal preferences. Those randomized to the control group will get a paper-based plan. At baseline, 6 weeks, and 12 weeks, we will evaluate patient-reported outcomes, including total symptom burden (web-based questionnaire), diet (24-hour Automated Self-Administered [ASA24]), and physical activity (Fitbit Charge 6 [Google LLC]). We will also collect quantitative and qualitative feedback on the usability of the app from those in the POSTHOC arm to improve the app for future implementation studies, with a specific focus on patient-provider communication. For feasibility, we will calculate the percentage of patients who used the POSTHOC app at least 3 times per week. We will use linear mixed models to evaluate the effects of the POSTHOC app versus those of usual care on other outcomes at weeks 6 and 12. This trial is open to accrual in the University of Maryland Medical System as of March 2024, and as of July 3, 2024, a total of 20 participants have consented. This study is among the first to digitize the SCP in a mobile app and test the effects of a mobile health-delivered behavioral health intervention on symptom burden in cancer survivors. Our results will provide evidence about the effects of health self-management on symptoms. This knowledge will be integral to larger randomized controlled studies, integration with the electronic medical record, and nationwide implementation. ClinicalTrials.gov NCT05499663; https://clinicaltrials.gov/ct2/show/NCT05499663. DERR1-10.2196/59222.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/TA.0000000000004432
+- DOI: 10.2196/59222
 
 2. Keywords
-
+- clinical trial
+- mHealth
+- mobile health
+- mobile phone
+- oncology
+- posttreatment
+- symptoms
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- clinical trial assessment methods and outcomes
+- mHealth assessment methods and outcomes
+- mobile health assessment methods and outcomes

@@ -1,26 +1,25 @@
-Study Title: Effects of a Long-Term Supervised Schroth Exercise Program on the Severity of Scoliosis and Quality of Life in Individuals with Adolescent Idiopathic Scoliosis: A Randomized Clinical Trial Study.
+Study Title: Effects of progessive. constant protocol whole-body vibration on muscle activation, pain, disability and functional performance in non-specific chronic low back pain patients: a randomized clinical trial.
 
 Study Summary:
-: Adolescent Idiopathic Scoliosis (AIS) affects individuals aged 10-18 years and is characterized by spinal deformity, three-dimensional axis deformation, and vertebral rotation. Schroth method exercises and braces have been shown to reduce the Cobb angle and halt spinal deformity progression. The aim of this study was to investigate the impact of a 12-month, supervised Schroth exercise program on scoliosis severity and quality of life in adolescents with AIS.: Eighty adolescents with AIS (aged 10-17 years) were prescribed a brace and were divided into two groups. The intervention group followed a supervised Schroth exercise program three times a week for 12 months in addition to wearing a brace. The control group used only the brace. Outcomes included the Cobb angle of the main curvature and the sum of curves using radiography, the maximum angle of trunk rotation (ATR maximum, using a scoliometer), and quality of life with the Scoliosis Research Society-22 (SRS-22) questionnaire. Evaluations were conducted at baseline, after 12 months, and 6 months post-intervention. A multivariate analysis of covariance (MANCOVA) was used for statistical analysis (-Value < 0.05).: The intervention group showed statistically significant improvement compared to the control group in the 12th month in Cobb angle (mean differences, 95% CI: -3.65 (-5.81, -1.53),-Value < 0.001, Cohen's d = 0.30), ATR maximum (mean differences, 95% CI: -3.05 (-3.86, -2.23),-Value < 0.001, Cohen's d = 0.74), and SRS-22 score (mean differences, 95% CI: 0.87 (0.60, 1.13),-Value < 0.001, Cohen's d = 0.58). Differences in ATR maximum and SRS-22 score remained significant at the 18-month measurement. No significant differences were found between groups in the sum of curves (-Value > 0.05).: A 12-month supervised Schroth exercise program in AIS patients undergoing brace treatment significantly improves scoliosis severity (Cobb angle and ATR maximum) and quality of life. Improvements were greater than those in shorter-duration studies, suggesting a linear dose-response relationship. Further clinical studies are needed to clarify the impact of long-term Schroth programs.
+Non-specific chronic low back pain (NSCLBP) is a prevalent condition causing significant disability and functional impairment. Whole-body vibration exercise (WBVE) has emerged as a new treatment method, but additional research is necessary to determine the optimal parameters of WBVE that would be beneficial for patients experiencing chronic low back pain (CLBP). This study aims to investigate the effects of two type of WBVE (constantprogressive) on pain, disability, functional performance, and muscle activity in patients with NSCLBP. Thirty-two individuals diagnosed with chronic low back pain (CLBP) without any specific causes were enrolled and randomly assigned to one of two intervention groups: a constant/fixed protocol WBVE group or a progressive protocol WBVE group. Participants underwent WBVE sessions for around 30 min, thrice weekly over a period of 8 weeks. Primary outcomes assessed included pain intensity, functional disability, functional performance, and electromyographic activity of core musculature, measured at baseline and upon completion of the intervention period. Temporal changes of each outcome variable across different periods and between groups were measured with repeated measures 2&#xd7;2 mixed ANOVA. Further, the paired-test was performed to compare pre- and post-treatment values within each group. Significant improvements were observed in both the constant and progressive WBVE protocol groups. Pain intensity decreased by 64.2% (&#xa0;<&#xa0;0.001) in the constant group and by 61.1% (&#xa0;<&#xa0;0.001) in the progressive group. Functional disability decreased by 48.1% (&#xa0;<&#xa0;0.001) in the constant group and by 53.3% (&#xa0;<&#xa0;0.001) in the progressive group. Functional performance improved by 16.5% (&#xa0;<&#xa0;0.001) in the constant group and by 16.9% (&#xa0;<&#xa0;0.001) in the progressive group. Electromyography (EMG) demonstrated significant improvements across all measured variables except % maximum voluntary isometric contraction (%MVIC) of external obliques (EO) in both intervention groups with time (&#xa0;<&#xa0;0.001). There was no statistically significant difference in the magnitude of improvement between the constant and progressive WBVE protocols (&#xa0;>&#xa0;0.05), indicating both modalities' effectiveness in ameliorating CLBP symptoms and associated functional impairments. The study demonstrates that both progressive and constant WBVE protocols are equally effective in reducing pain and disability in NSCLBP patients. These findings support the inclusion of progressive WBVE in clinical practice, offering a flexible treatment option that can be tailored to individual patient needs, ensuring both tolerability and effectiveness. This contributes valuable evidence towards optimizing WBVE protocols for managing NSCLBP.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/medicina60101637
+- DOI: 10.7717/peerj.18390
 
 2. Keywords
-- Schroth exercises
-- adolescent idiopathic scoliosis
-- conservative treatment
-- physical therapy
+- Muscle strength
+- Musculoskeletal pain
+- Sensorimotor therapy
+- Surface EMG
 
 3. Key Findings
-- : The intervention group showed statistically significant improvement compared to the control group in the 12th month in Cobb angle (mean differences, 95% CI: -3
-- No significant differences were found between groups in the sum of curves (-Value > 0
+- Electromyography (EMG) demonstrated significant improvements across all measured variables except % maximum voluntary isometric contraction (%MVIC) of external obliques (EO) in both intervention groups with time (&#xa0;<&#xa0;0
 
 This study provides insights into:
-- Schroth exercises assessment methods and outcomes
-- adolescent idiopathic scoliosis assessment methods and outcomes
-- conservative treatment assessment methods and outcomes
+- Muscle strength assessment methods and outcomes
+- Musculoskeletal pain assessment methods and outcomes
+- Sensorimotor therapy assessment methods and outcomes

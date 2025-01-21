@@ -1,27 +1,26 @@
-Study Title: The impact of nursing sustainable prevention program on heat strain among agricultural elderly workers in the context of climate change.
+Study Title: Effect of casozepine administration on stress in dogs during a veterinary examination - A randomized placebo-controlled trial.
 
 Study Summary:
-This study assesses a geriatric nursing-led sustainable heat prevention program for elderly agricultural workers. It targets those aged 60 and above, addressing the heightened risk of heat strain in the era of climate change. A community-based quasi-experimental design involved 120 elderly agricultural workers, divided into intervention and control groups. The program, spanning three months, included education on hydration, rest, protective clothing, and recognition of heat-related illnesses. The intervention led by geriatric nursing professionals showed significant improvements in heat strain metrics. The Heat Strain Score Index (HSSI) and the Observational-Perceptual Heat Strain Risk Assessment (OPHSRA) Index indicated increased safety levels and reduced risk categories among participants. The study demonstrates the effectiveness of a geriatric nursing-led, tailored prevention program in reducing heat strain among elderly agricultural workers. It highlights the crucial role of nursing in adapting healthcare practices to the challenges posed by climate change. ClinicalTrials.gov, ID NCT06192069 retrospectively registered.
+The aim of the study was to investigate the stress-reducing effect of a casozepine before a veterinary examination in dogs. It should be examined whether the dogs are less stressed during a standardized veterinary examination after an oral application of casozepine over 2 days and whether the administration has an influence on the salivary concentrations of the stress hormones vasopressin and cortisol. Across the study group (n=36), a significantly lower stress score (P=0.0026) and lower mean (P=0.01) and maximum (P=0.024) pulse rates were seen at follow-up after casozepine administration, in contrast to the placebo group (n=26). Salivary vasopressin concentrations increased during follow-up in the placebo group (P=0.04), whereas they remained the same in the casozepine group. Cortisol concentrations increased during follow-up in the casozepin group (P=0.01). The results indicate that although dogs in both groups remained excited at follow-up, short-term casozepine administration before a veterinary visit had a weak stress-reducing effect in dogs based on subjective stress scoring and pulse rate.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.gerinurse.2024.05.021
+- DOI: 10.1016/j.tvjl.2024.106148
 
 2. Keywords
-- Aged
-- Climate change
-- Geriatric nursing
-- Heat stress disorders
-- Occupational health
+- Casozepine
+- Dog
+- Saliva
+- Stress
+- Veterinarian
 
 3. Key Findings
-- The intervention led by geriatric nursing professionals showed significant improvements in heat strain metrics
-- The Heat Strain Score Index (HSSI) and the Observational-Perceptual Heat Strain Risk Assessment (OPHSRA) Index indicated increased safety levels and reduced risk categories among participants
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Aged assessment methods and outcomes
-- Climate change assessment methods and outcomes
-- Geriatric nursing assessment methods and outcomes
+- Casozepine assessment methods and outcomes
+- Dog assessment methods and outcomes
+- Saliva assessment methods and outcomes

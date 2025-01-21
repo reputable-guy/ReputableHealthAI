@@ -1,30 +1,26 @@
-Study Title: Modifications of lung microbiota structure in traumatic brain injury ventilated patients according to time and enteral feeding formulas: a prospective randomized study.
+Study Title: Developing a telehealth medical nutrition therapy (MNT) service for adults living in rural Australia at risk of cardiovascular disease: An intervention development study.
 
 Study Summary:
-Specialized diets enriched with immune nutrients could be an important supplement in patients (pts) with acute traumatic brain injury (TBI). Omega-3 and arginine may interact with immune response and microbiota. No data are available about the role of the specialized diets in modulating the lung microbiota, and little is known about the influence of lung microbiota structure in development of ventilator-associated pneumonia (VAP) in TBI pts. The aims of this study are to evaluate the impact of specific nutrients on the lung microbiota and the variation of lung microbiota in TBI pts developing VAP. A cohort of 31 TBI pts requiring mechanical ventilation in ICU was randomized for treatment with specialized (16pts) or standard nutrition (15pts). Alpha and beta diversity of lung microbiota were analyzed from bronco Alveolar Lavage (BAL) samples collected at admission and 7&#xa0;days post-ICU admission in both groups. A further analysis was carried out on the same samples retrospectively grouped in VAP or no VAP pts. None developed VAP in the first week. Thereafter, ten out of thirty-one pts developed VAP. The BAL microbiota on VAP group showed significant differences in beta diversity and Staphylococcus and Acinetobacter Genera were high. The specialized nutrition had influence on beta diversity that reached statistical significance only in Bray-Curtis distance. Our data suggest that TBI patients who developed VAP during ICU stay have different structures of BAL microbiota either at admission and at 7&#xa0;days post-ICU admission, while no correlation has been observed between different enteral formulas and microbiota composition in terms of richness and evenness. These findings suggest that targeting the lung microbiota may be a promising approach for preventing infections in critically ill patients.
+Receiving medical nutrition therapy (MNT) from an accredited practising dietitian (APD) can reduce diet-related cardiovascular disease (CVD) risk factors. However, people living in rural areas of Australia experience barriers to accessing dietitians because of their remote location. Telehealth has the potential to improve dietetic access in rural areas; however, there is limited research into the development and delivery of telehealth MNT interventions specific to these areas. The present study describes the development of the Healthy Rural Hearts (HealthyRHearts) telehealth MNT intervention, which was developed as a part of the HealthyRHearts randomised control trial, set in primary care practices in rural areas of the Hunter New England and Central Coast Primary Health Network. The aim of HealthyRHearts is to improve diet-related risk factors for CVD in rural adults at moderate to high CVD risk using a telehealth MNT intervention delivered by an APD. The study describes the development of the HealthyRHearts telehealth MNT intervention, using the 14-item GUIDance for rEporting of intervention Development (GUIDED) checklist and the Template for Intervention Description and Replication (TIDieR) framework to guide description. HealthyRHearts is a complex intervention that aims to translate a telehealth MNT intervention for CVD prevention into rural and remote primary care settings. The intervention is designed to be implemented across multiple sites of varying characteristics and needs, with the ability to accommodate individual complexities within the rural context and target population. Participants are adults aged 45-75 years who are assessed as moderate to high risk of CVD by their general practitioner (GP). Consenting participants are referred to the intervention by their GPs and receive five telehealth MNT consultations with an APD over 6-months. APDs are trained in the intervention protocol including intervention materials, resources and behaviour change counselling strategies. Using the GUIDED and TIDieR frameworks to guide description of the HealthyRHearts intervention development process facilitates detailed description of decision-making pathways for each element of the intervention design. The comprehensive description of the intervention development process for HealthyRHearts is intended to facilitate replication, iteration and optimisation of the intervention for rural contexts.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1186/s13054-023-04531-5
+- DOI: 10.1111/jhn.13193
 
 2. Keywords
-- Alfa diversity
-- Arginine
-- Beta diversity
-- Lung microbiota
-- Mechanical ventilation
-- Omega 3
-- Specialized nutrition
-- TBI
-- VAP
+- cardiovascular
+- intervention development
+- nutrition
+- prevention
+- rural
 
 3. Key Findings
-- The BAL microbiota on VAP group showed significant differences in beta diversity and Staphylococcus and Acinetobacter Genera were high
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Alfa diversity assessment methods and outcomes
-- Arginine assessment methods and outcomes
-- Beta diversity assessment methods and outcomes
+- cardiovascular assessment methods and outcomes
+- intervention development assessment methods and outcomes
+- nutrition assessment methods and outcomes

@@ -1,26 +1,26 @@
-Study Title: Effect of antihypertensive agents on sleep apnea and ambulatory blood pressure in patients with hypertension: A randomized controlled trial.
+Study Title: Effects of esketamine on postoperative fatigue syndrome in patients after laparoscopic resection of gastric carcinoma: a randomized controlled trial.
 
 Study Summary:
-Obstructive sleep apnea (OSA) and hypertension are common conditions that may be linked through sympathetic activation and water retention. We hypothesized that diuretics, which reduce the body water content, may be more effective than amlodipine, a blood pressure (BP)-lowering agent implicated with edema, in controlling OSA in patients with hypertension. We also aimed to compare the effects of these treatments on ambulatory blood pressure monitoring (ABPM). In a randomized, double-blind clinical trial, we compared the effects of chlorthalidone/amiloride 25/5&#xa0;mg with amlodipine 10&#xa0;mg on OSA measured by portable sleep monitor and BP measured by ABPM. The study included participants older than 40 who had moderate OSA (10-40 apneas/hour of sleep) and BP within the systolic range of 140-159&#xa0;mmHg or diastolic range of 90-99&#xa0;mmHg. The individuals in the experimental groups were comparable in age, gender, and other relevant characteristics. Neither the combination of diuretics nor amlodipine alone reduced the AHI after 8 weeks of treatment (AHI 26.3 with diuretics and 25.0 with amlodipine. P&#xa0;=&#xa0;0.713). Both treatments significantly lowered office, 24-h, and nighttime ABP, but the two groups had no significant difference. Chlorthalidone associated with amiloride and amlodipine are ineffective in decreasing the frequency of sleep apnea episodes in patients with moderate OSA and hypertension. Both treatments have comparable effects in lowering both office and ambulatory blood pressure. The notion that treatments could offer benefits for both OSA and hypertension remains to be demonstrated. TRIAL REGISTRATION CLINICALTRIALS. NCT01896661.
+Despite the implementation of various postoperative management strategies, the prevalence of postoperative fatigue syndrome (POFS) remains considerable among individuals undergoing laparoscopic radical gastrectomy. While the N-methyl-D-aspartic acid receptor antagonist esketamine has demonstrated efficacy in enhancing sleep quality and alleviating postoperative pain, its impact on POFS remains uncertain. Consequently, the objective of this study is to ascertain whether perioperative administration of esketamine can effectively mitigate the occurrence of POFS in patients undergoing laparoscopic radical gastrectomy. A total of 133 patients diagnosed with gastric cancer were randomly assigned to two groups, namely the control group (Group C) (n&#x2009;=&#x2009;66) and the esketamine group (Group E) (n&#x2009;=&#x2009;67), using a double-blind method. The Group C received standardized anesthesia, while the Group E received esketamine in addition to the standardized anesthesia. The primary outcome measure assessed was the Christensen fatigue score at 3 days after the surgical procedure, while the secondary outcomes included the disparities in postoperative fatigue, postoperative pain, sleep quality, and adverse reactions between the two groups. In the group receiving esketamine, the fatigue scores of Christensen on the third day after surgery were significantly lower compared to the Group C (estimated difference, -0.70; 95% CI, -1.37 to -0.03; P&#x2009;=&#x2009;0.040). Additionally, there was a significant decrease in the occurrence of fatigue in the Group E compared to the Group C on the first and third days following surgery (P&#x2009;<&#x2009;0.05). Also, compared to individuals who had distal gastrectomy, those who had entire gastrectomy demonstrated a higher degree of postoperative tiredness reduction with esketamine. Furthermore, the Group E exhibited reduced postoperative pain and improved sleep in comparison to the Group C. Both groups experienced similar rates of adverse events. The use of esketamine during the perioperative period can improve POFS after laparoscopic radical gastrectomy, without adverse reactions. Registered in the Chinese Clinical Trial Registry (ChiCTR2300072167) on 05/06 /2023.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.05.035
+- DOI: 10.1186/s12871-024-02513-w
 
 2. Keywords
-- Amiloride
-- Amlodipine
-- Chlorthalidone
-- Hypertension
-- OSA
+- Esketamine
+- Gastric carcinoma
+- Postoperative fatigue syndrome
+- Randomized controlled trial
 
 3. Key Findings
-- The notion that treatments could offer benefits for both OSA and hypertension remains to be demonstrated
+- While the N-methyl-D-aspartic acid receptor antagonist esketamine has demonstrated efficacy in enhancing sleep quality and alleviating postoperative pain, its impact on POFS remains uncertain
+- Also, compared to individuals who had distal gastrectomy, those who had entire gastrectomy demonstrated a higher degree of postoperative tiredness reduction with esketamine
 
 This study provides insights into:
-- Amiloride assessment methods and outcomes
-- Amlodipine assessment methods and outcomes
-- Chlorthalidone assessment methods and outcomes
+- Esketamine assessment methods and outcomes
+- Gastric carcinoma assessment methods and outcomes
+- Postoperative fatigue syndrome assessment methods and outcomes

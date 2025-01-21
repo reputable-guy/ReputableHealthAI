@@ -1,26 +1,28 @@
-Study Title: Chronic Mild Sleep Restriction Does Not Lead to Marked Neuronal Alterations Compared With Maintained Adequate Sleep in Adults.
+Study Title: "Following the Breath:" A Trauma-Informed Intervention for Educator Wellness in Rural Montana.
 
 Study Summary:
-Sleep restriction (SR) has been shown to upregulate neuronal reward networks in response to food stimuli, but prior studies were short-term and employed severe SR paradigms. Our goal was to determine whether mild SR, achieved by delaying bedtimes by 1.5 h, influences neuronal networks responsive to food stimuli compared with maintained adequate sleep (AS) >7 h/night. A randomized controlled crossover study with 2 6-wk phases, AS (&#x2265;7 h sleep/night) and SR (-1.5 h/night relative to screening), was conducted. Adults with AS duration, measured using wrist actigraphy over a 2-wk screening period, and self-reported good sleep quality were enrolled. Resting-state and food-stimulated functional neuroimaging (fMRI) was performed at the endpoint of each phase. Resting-state fMRI data analyses included a priori region-of-interest seed-based functional connectivity, whole-brain voxel-wise analyses, and network analyses. Food task-fMRI analyses compared brain activity patterns in response to food cues between conditions. Paired-sample t tests tested differences between conditions. Twenty-six participants (16 males; age 29.6 &#xb1; 5.3 y, body mass index 26.9 &#xb1; 4.0 kg/m) contributed complete data. Total sleep time was 7 h 30 &#xb1; 28 min/night during AS compared with 6 h 12 &#xb1; 26 min/night during SR. We employed different statistical approaches to replicate prior studies in the field and to apply more robust approaches that are currently advocated in the field. Using uncorrected P value of <0.01, cluster &#x2265;10-voxel thresholds, we replicated prior findings of increased activation in response to foods in reward networks after SR compared with AS (right insula, right inferior frontal gyrus, and right supramarginal gyrus). These findings did not survive more rigorous analytical approaches (Gaussian Random Field theory correction at 2-tailed voxel P < 0.001, cluster P < 0.05). The results suggest that mild SR leads to increased reward responsivity to foods but with low confidence given the failure to meet significance from rigorous statistical analyses. Further research is necessary to inform the mechanisms underlying the role of sleep on food intake regulation. This trial was registered at clinicaltrials.gov as NCT02960776.
+Given the prevalence of mental health issues for both educators and adolescents in rural Montana, this project is designed to help mitigate the impact of stressors by providing coping strategies linked to improvements in overall mental health outcomes for teachers, which may ultimately lead to improved co-regulation of students and classroom climate. The immediate goal of this pilot study was to measure physical and mental health outcomes of educators resulting from a remotely-delivered trauma-informed yoga intervention. Findings suggest improvements in participants' depression and anxiety levels, trauma symptoms, sleep quality, and non-significant changes in heart rate variability and cortisol levels.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1016/j.tjnut.2023.12.016
+- Publication Date: 2023
+- DOI: 10.3390/educsci13010023
 
 2. Keywords
-- fMRI
-- food
-- functional connectivity
-- obesity
-- sleep duration
+- burnout
+- intervention
+- mental health
+- rural education
+- stress
+- teachers
+- trauma
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- fMRI assessment methods and outcomes
-- food assessment methods and outcomes
-- functional connectivity assessment methods and outcomes
+- burnout assessment methods and outcomes
+- intervention assessment methods and outcomes
+- mental health assessment methods and outcomes

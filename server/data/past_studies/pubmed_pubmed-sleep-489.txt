@@ -1,27 +1,26 @@
-Study Title: [Cognitive behavioral therapy in the treatment of patients with chronic migraine and concomitant chronic insomnia: a prospective, randomized trial].
+Study Title: The performance of a post-induction fentanyl-test in predicting postoperative respiratory adverse events in children after adenotonsillectomy.
 
 Study Summary:
-To evaluate the effectiveness of a multidisciplinary program, including Cognitive behavioral therapy (CBT), in the treatment of patients with chronic migraine (CM) and concomitant chronic insomnia (CI). The study included 96 patients with CM and CI, average age 35.7&#xb1;8.6. All patients underwent clinical interviews and testing using clinical and psychological techniques. Patients were randomized into two groups: group 1 received study treatment (an multudisciplinary program including CBT for pain and insomnia, combined with standard treatment for migraine), group 2 received standard treatment for migraine (preventive and acute pharmacotherapy for migraine, recommendations about lifestyle and sleep hygiene). All patients were assessed for clinical and psychological parameters before treatment and at 3, 6, 12 and 18 months follow-up. At 3 month follow-up a statistically significant improvement was observed in group 1: a decrease in the frequency of headaches and the use of painkillers, parameters on the Insomnia Severity Index (ITI), the State-Trait Anxiety Inventory (STAI), the Beck Depression Inventory, and the Migraine Disability Assessment (MIDAS) (<0.05). At 6, 12 and 18 months follow-up the achieved improvements were maintained. At 3 month follow-up, group 2 showed a statistically significant improvement in only 4 parameters: a decrease in the frequency of headaches and painkiller use, and parameters for ITI and MIDAS. These parameters increased to values that were not statistically significantly different from the parameters before treatment in group 2 at 6 month follow-up. At 3 month follow-up in group 165% of patients achieved clinical effect (CE) according to CM (headache frequency decreased by 50% or more), in group 2 - 40%, which was not statistically significantly different (>0.001); in group 1, 76% of patients achieved CE according to CI (ITI decreased by 8 points or more), which is statistically significantly more than in group 2 with 45% of patients with CE (<0.001). At 18 month follow-up, in group 1, 81.5% of patients achieved CE according to CM, which is statistically significantly more than in group 2 with 33% of patients with CE (<0.001); in group 1, 85% of patients achieved CE according to CI, which is statistically significantly more than in group 2, where 38% of patients had CE (<0.001). High effectiveness of CBT in patients with CM and combined CI was noted.
+Postoperative respiratory adverse events (PRAE) occurred more frequently in children having adenotonsillectomy than the general surgical population, and can require escalation of care. This study aims to assess the usefulness of postinduction fentanyl-test to predict PRAE in children with obstructive sleep apnea after adenotonsillectomy. Two hundred and forty patients with obstructive sleep apnea undergoing adenotonsillectomy were included in this study. The oxygen saturation during sleep was monitored the night before adenotonsillectomy. Fentanyl-test was conducted under spontaneous breath after anesthesia induction with sevoflurane. Fentanyl-induced reduction in respiratory rate (FRR) was defined as the percentage of reduction in respiratory rate after 1 mcg/kg fentanyl administration. PRAE in the postanesthesia care unit included both respiratory complications and medical interventions. Receiver operating characteristic analysis was used to assess the usefulness of fentanyl-test in predicting PRAE. Of the 240 children undergoing elective adenotonsillectomy, 38 children (16%) experienced PRAE in postanesthesia care unit. The areas under receiver operating characteristic curve for FRR and nadir pulse oxygen saturation were 0.756 and 0.692, respectively. FRR greater than 53% best predicted PRAE in postanesthesia care unit, with a sensitivity of 68% and a specificity of 72%. Patients with FRR > 53% exhibited a significantly longer duration of desaturation requiring supplementary oxygen than those with FRR &#x2266; 53% (< .001). We suggest that postinduction fentanyl-test is a feasible evaluation for children undergoing adenotonsillectomy to predict early PRAE, especially for those who have not undergone polysomnography. Registry: ClinicalTrials.gov; Name: Effects of Individualized Opioid Analgesia Versus Conventional Opioid Analgesia After Adenotonsillectomy in Children; URL: https://clinicaltrials.gov/study/NCT04527393; Identifier: NCT04527393. Liu H-E, He L. The performance of a post-induction fentanyl-test in predicting postoperative respiratory adverse events in children after adenotonsillectomy.. 2024;20(11):1749-1754.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.17116/jnevro2024124052110
+- DOI: 10.5664/jcsm.11262
 
 2. Keywords
-- chronic insomnia
-- chronic migraine
-- cognitive behavioral therapy
-- medication-overused headache
-- multidisciplinary treatment
-- therapy
+- OSA
+- adenotonsillectomy
+- adverse events
+- opioids
+- pediatric
 
 3. Key Findings
-- At 3 month follow-up, group 2 showed a statistically significant improvement in only 4 parameters: a decrease in the frequency of headaches and painkiller use, and parameters for ITI and MIDAS
+- Findings extraction requires manual review
 
 This study provides insights into:
-- chronic insomnia assessment methods and outcomes
-- chronic migraine assessment methods and outcomes
-- cognitive behavioral therapy assessment methods and outcomes
+- OSA assessment methods and outcomes
+- adenotonsillectomy assessment methods and outcomes
+- adverse events assessment methods and outcomes

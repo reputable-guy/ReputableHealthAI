@@ -1,22 +1,28 @@
-Study Title: Diets, Lifestyles and Metabolic Risk Factors among Corporate Information Technology (IT) Employees in South India.
+Study Title: Changes in polyunsaturated fatty acids during treatment of malnourished children may be insufficient to reach required essential fatty acid levels - A randomised controlled trial.
 
 Study Summary:
-(1) Information Technology (IT) Business Process Outsourcing (BPO), the largest employment sector of India, contributes to rapid economic growth. However, the work of IT employees is sedentary, and the food environments of their worksites expose them to an obesogenic environment. This study aimed to assess their metabolic and lifestyle risk factors. (2) Methods: To examine the health and nutrition status of IT employees, anthropometric, biochemical and clinical assessments were conducted among 183 employees from three IT organizations of varied operational sizes. Their health-, diet- and physical activity-related practices were assessed using a questionnaire. The prevalence of MetS was assessed. Selected biomarker levels were assessed and associated with their self-perceived stress levels. (3) Results: The median age of the employees was 30 years (26-35 years). While 44.02% of employees were overweight, 16.85% of employees were obese. About 3.89% of employees were found to be diabetic, and HDL-C levels were lower than recommended in 64.93% of employees. In all, 29.87% of the study population were considered to have metabolic syndrome since they had metabolic risk scores &#x2265; 3. Those with metabolic syndrome were significantly older (= 0.000), and levels of MDA (= 0.003), homocysteine (= 0.001), IL-6 (= 0.017) and IL-4 (= 0.000) were significantly higher among them. Although the prevalence of MetS was significantly lower among those aged >30 years, the lifestyle risk factors were significantly higher among them. (4) Conclusions: The assessed parameters indicate a high risk of developing NCDs among employees in the IT industry in India. This shows the need for the modification of lifestyle and workplace food and physical activity environments.
+Severe acute malnutrition (SAM) is a global concern. Studies on the impact of ready-to-use therapeutic foods (RUTFs) on polyunsaturated fatty acids (PUFA) are almost non-existent. The aim was to investigate the change in whole-blood PUFA and nutrition and health markers among Cambodian children with SAM after treatment with RUTFs. The trial was an 8-week randomised clinical trial of the effectiveness of locally produced fish-based RUTF (L-RUTF) vs standard milk-based RUFT (S-RUTF). Whole-blood fatty acids were analysed using dried blood spots. Nutrition and health markers were assessed using anthropometric assessment and blood samples for markers of inflammation. The trial was conducted at the National Pediatric Hospital, Phnom Penh, Cambodia, with one hundred and twenty-one 6-59-month-old children in treatment for SAM. L-RUTF had a higher content of n-3 PUFA and a higher content of arachidonic acid (AA) and docosahexaenoic acid (DHA), while S-RUTF had the highest content of n-6 PUFA. At baseline, the children presented with a Mead acid level in whole-blood of around 0.08% of total fatty acids (FA%) and an omega-3 index of &#x223c;0.91&#xa0;&#xb1;&#xa0;0.44. After eight weeks of S-RUTF treatment, linoleic acid (LA), AA, n-6/n-3 PUFA ratio, and Mead acid levels were increased. The L-RUTF intervention did not change the whole-blood PUFAs from baseline. At discharge, the children in the L-RUTF group had a lower n-6/n-3 PUFA ratio than the children in the S-RUTF group, driven by a lower alpha-linolenic acid (ALA) (0.20 vs 0.27 FA%, p&#xa0;=&#xa0;0.004) and lower LA (15.77 vs 14.21 FA%, p&#xa0;=&#xa0;0.018) with no significant differences in AA or DHA levels. Weight-for-height z-score at discharge was negatively associated with total PUFA (&#x3b2;&#xa0;-1.4 FA%, 95%CI.&#xa0;-2.7;&#xa0;-0.1), n-6 LCPUFA (&#x3b2;&#xa0;-1.3 FA%, 95%CI.&#xa0;-1.3;&#xa0;-0.3), and AA (&#x3b2;&#xa0;-0.6 FA%, 95%CI.&#xa0;-1.0;&#xa0;-0.2). Age-adjusted height was negatively associated with the Mead acid:AA ratio (&#x3b2;&#xa0;-1.2 FA%, 95%CI.&#xa0;-2.2;&#xa0;-0.2). No significant change was seen in inflammation markers within groups or between groups during treatment, and n-3 and n-6 PUFAs were not associated with markers of inflammation or haemoglobin status at discharge. The trial found that whole-blood markers of PUFA status were low in children at admission and discharge from SAM treatment, indicating that the currently recommended composition of RUTFs are not able to correct their compromised essential fatty acid status. The higher content of DHA and AA in L-RUTF did not give rise to any improvement in PUFA status. No changes in health markers or associations between PUFA and health markers were found. ClinicalTrials.gov: NCT02907424.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15153404
+- DOI: 10.1016/j.clnu.2023.08.003
 
 2. Keywords
-- employee health
-- workplace wellness
+- Cambodia
+- Changes in fatty acids
+- Polyunsaturated fatty acids
+- Severe acutely malnourished children
+- Treatment
+- Whole-blood
 
 3. Key Findings
-- 89% of employees were found to be diabetic, and HDL-C levels were lower than recommended in 64
+- The trial found that whole-blood markers of PUFA status were low in children at admission and discharge from SAM treatment, indicating that the currently recommended composition of RUTFs are not able to correct their compromised essential fatty acid status
+- No changes in health markers or associations between PUFA and health markers were found
 
 This study provides insights into:
-- employee health assessment methods and outcomes
-- workplace wellness assessment methods and outcomes
+- Cambodia assessment methods and outcomes
+- Changes in fatty acids assessment methods and outcomes
+- Polyunsaturated fatty acids assessment methods and outcomes

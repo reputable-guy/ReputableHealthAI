@@ -1,26 +1,26 @@
-Study Title: Identifying the Mechanisms of a Peripherally Limited Exercise Phenotype in Patients With Heart Failure With Preserved Ejection Fraction.
+Study Title: The effect of individualised post-exercise blood flow restriction on recovery following strenuous resistance exercise: A randomised controlled trial.
 
 Study Summary:
-We identified peripherally limited patients using cardiopulmonary exercise testing and measured skeletal muscle oxygen transport and utilization during invasive single leg exercise testing to identify the mechanisms of the peripheral limitation. Forty-five patients with heart failure with preserved ejection fraction (70&#xb1;7 years, 27 females) completed seated upright cardiopulmonary exercise testing and were defined as having a (1) peripheral limitation to exercise if cardiac output/oxygen consumption (VO) was elevated (&#x2265;6) or 5 to 6 with a stroke volume reserve >50% (n=31) or (2) a central limitation to exercise if cardiac output/VOslope was &#x2264;5 or 5 to 6 with stroke volume reserve <50% (n=14). Single leg knee extension exercise was used to quantify peak leg blood flow (Doppler ultrasound), arterial-to-venous oxygen content difference (femoral venous catheter), leg VO, and muscle oxygen diffusive conductance. In a subset of participants (n=36), phosphocreatine recovery time was measured by magnetic resonance spectroscopy to determine skeletal muscle oxidative capacity. Peak VOduring cardiopulmonary exercise testing was not different between groups (central: 13.9&#xb1;5.7 versus peripheral: 12.0&#xb1;3.1 mL/min per kg;=0.135); however, the peripheral group had a lower peak arterial-to-venous oxygen content difference (central: 13.5&#xb1;2.0 versus peripheral: 11.1&#xb1;1.6 mLO/dL blood;<0.001). During single leg knee extension, there was no difference in peak leg VO(=0.306), but the peripherally limited group had greater blood flow/VOratio (=0.024), lower arterial-to-venous oxygen content difference (central: 12.3&#xb1;2.5 versus peripheral: 10.3&#xb1;2.2 mLO/dL blood;=0.013), and lower muscle oxygen diffusive conductance (=0.021). A difference in magnetic resonance spectroscopy-derived phosphocreatine recovery time was not detected (=0.199). Peripherally limited patients with heart failure with preserved ejection fraction identified by cardiopulmonary exercise testing have impairments in oxygen transport and utilization at the level of the skeletal muscle quantified by invasive knee extension exercise testing, which includes an increased blood flow/V&#x307;Oratio and poor muscle diffusive capacity. URL: https://www.clinicaltrials.gov; Unique identifier: NCT04068844.
+The purpose was to clarify the effect of individualised post-exercise blood flow restriction (PE-BFR) on measures of recovery following strenuous resistance exercise. Twenty resistance-trained adults were randomised to a PE-BFR or control (CON) group and completed a fatigue protocol of five sets of 10 repetitions of maximal intensity concentric and eccentric seated knee extension exercise. Participants then lied supine with cuffs applied to the upper thigh and intermittently inflated to 80% limb occlusion pressure (PE-BFR) or 20&#x2009;mmHg (CON) for 30&#x2009;min (3&#x2009;&#xd7;&#x2009;5&#x2009;min per leg). Peak torque (PT), time-to-peak torque (TTP), countermovement jump height (CMJ), muscle soreness (DOMS) and perceived recovery (PR) were measured pre-fatigue, immediately post-fatigue and at 1, 24, 48 and 72 h post-fatigue. Using a linear mixed-effect model, PE-BFR was found to have greater recovery of CMJ at 48 h (mean difference [MD]=-2.8, 95% confidence interval [CI] -5.1, 0.5,&#x2009;=&#x2009;0.019), lower DOMS at 48 (MD&#x2009;=&#x2009;3.0, 95% CI 1.2, 4.9,&#x2009;=&#x2009;0.001) and 72 h (MD&#x2009;=&#x2009;1.95, 95% CI -1.2, 1.5,&#x2009;=&#x2009;0.038) and higher PR scores at 24 (MD&#x2009;=&#x2009;-1.7, 95% CI -3.4, -0.1,&#x2009;=&#x2009;0.038), 48 (MD&#x2009;=&#x2009;-3.1, 95% CI -4.8, -1.5,&#x2009;<&#x2009;0.001) and 72 h (MD&#x2009;=&#x2009;-2.2, 95% CI -3.8, -0.5,&#x2009;=&#x2009;0.011). These findings suggest that individualised PE-BFR accelerates recovery after strenuous exercise.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1161/CIRCHEARTFAILURE.123.011693
+- DOI: 10.1080/02640414.2024.2383073
 
 2. Keywords
-- exercise test
-- heart failure
-- magnetic resonance imaging
-- muscle, skeletal
-- stroke volume
+- Occlusion
+- athlete
+- fatigue
+- performance
+- soreness
 
 3. Key Findings
-- Findings extraction requires manual review
+- Using a linear mixed-effect model, PE-BFR was found to have greater recovery of CMJ at 48 h (mean difference [MD]=-2
 
 This study provides insights into:
-- exercise test assessment methods and outcomes
-- heart failure assessment methods and outcomes
-- magnetic resonance imaging assessment methods and outcomes
+- Occlusion assessment methods and outcomes
+- athlete assessment methods and outcomes
+- fatigue assessment methods and outcomes

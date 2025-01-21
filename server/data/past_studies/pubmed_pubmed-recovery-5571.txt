@@ -1,25 +1,27 @@
-Study Title: Continuous cuff pressure control on middle-aged and elderly patients undergoing endoscopic submucosal dissection of the esophagus effect of airway injury.
+Study Title: The effect of music on stress recovery.
 
 Study Summary:
-Assessment of the effect of continuous cuff pressure control on airway injury in middle-aged and elderly patients undergoing endoscopic submucosal dissection (ESD). A total of 104 eligible middle-aged and elderly patients requiring esophageal ESD from July 2022-September 2023 at the First Affiliated Hospital of Nanchang University were selected and randomly divided into two groups: the group undergoing general anesthesia tracheal intubation with continuous control of cuff pressure after intubation (Group A, n&#x2009;=&#x2009;51) and the group undergoing general anesthesia tracheal intubation with continuous monitoring without control of cuff pressure (Group B, n&#x2009;=&#x2009;53). After endotracheal intubation in Group A, under the guidance of an automatic cuff pressure controller, the air was used to inflate the tracheal cuff until the cuff pressure was 25-30cmHO. The cuff pressure after intubation was recorded, and then the cuff pressure parameters were directly adjusted in the range of 25-30cmHO until tracheal extubation after the operation. After endotracheal intubation, patients in Group B inflated the tracheal cuff with clinical experience, then monitored and recorded the cuff pressure with a handheld cuff manometer and instructed the cuff not to be loosened after being connected to the handheld cuff manometer-continuous monitoring until the tracheal extubation, but without any cuff pressure regulation. The patients of the two groups performed esophageal ESD. The left recumbent position was taken before the operation, and the cuff's pressure was recorded. Then, insert the gastrointestinal endoscope to find the lesion site and perform appropriate COinflation to display the diseased esophageal wall for surgical operation fully. After determining the location, the cuff pressure of the two groups was recorded when the cuff pressure was stable. After the operation, the upper gastrointestinal endoscope was removed and the cuff pressure of the two groups was recorded. Postoperative airway injury assessment was performed in both groups, and the incidence of sore throat, hoarseness, cough, and blood in sputum was recorded. The incidence of postoperative airway mucosal injury was also observed and recorded in both groups: typical, episodic congestion spots and patchy local congestion. The incidence of normal airway mucosa in Group A was higher than that in Group B (P&#x2009;<&#x2009;0.05). In comparison, the incidence of occasional hyperemia and local plaque congestion in Group A was lower than in Group B (P&#x2009;<&#x2009;0.05). Continuous cuff pressure control during operation can reduce airway injury in patients with esophageal ESD and accelerate their early recovery after the operation.
+Previous research has suggested beneficial effects of music in reducing stress levels. However, there is no consistent conclusion demonstrating that music can contribute to stress recovery, primarily due to limitations in stress measurement, and inconsistent methodology within existing studies. Our study explores whether relaxing music, especially when self-selected, outperforms non-music acoustic, and silence conditions, fostering both subjective and biological stress recovery. One hundred and five healthy female participants underwent the Trier Social Stress Test (TSST) before being randomly allocated to one of four conditions: condition 1 (n = 25) listened to researcher-selected relaxing music; condition 2 (n = 27) listened to self-selected relaxing music; condition 3 (n = 26) listened to the sound of rippling water; and condition 4 (n = 27) remained in silence. Stress parameters were repeatedly measured nine times before and after the TSST. Saliva samples were collected for cortisol and saliva alpha-amylase (sAA) analysis, Movisens equipment was used to measure heart rate (HR) and skin conductance levels (SCL), and Visual Analogue Scales (VAS) were used for subjective stress measurement. The examination of SCL, and VAS scores revealed no significant changes following the four relaxation interventions. Although sAA displayed a significant main effect of condition, post hoc tests did not pinpoint specific differences. HR recovery patterns varied among the four relaxation interventions, with the sound of rippling water condition exhibiting a later significant decrease compared to the other conditions. Exploratory analyses revealed that cortisol levels continued increase in all conditions during intervention phase except the researcher-selected music condition. The subjective and biological stress markers did not exhibit better recovery after the music stimulus, except for a tendency in the researcher-selected music condition to mitigate the continued increase in cortisol levels after the stress test. Our study provides the first evidence comparing the impact of researcher- and participant-selected music with silence and a non-music acoustic stimulus, on both subjective and biological stress recovery. Our findings contribute to a more nuanced understanding of the impact of music on stress recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10388-024-01061-z
+- DOI: 10.1016/j.psyneuen.2024.107137
 
 2. Keywords
-- Airway injury
-- Cuff pressure
-- Endoscopic submucosal dissection
-- Esophagus
+- Participant-selected music
+- Researcher-selected music
+- Salivary alpha-amylase
+- Salivary cortisol
+- Stress recovery
 
 3. Key Findings
-- Findings extraction requires manual review
+- The examination of SCL, and VAS scores revealed no significant changes following the four relaxation interventions
+- Exploratory analyses revealed that cortisol levels continued increase in all conditions during intervention phase except the researcher-selected music condition
 
 This study provides insights into:
-- Airway injury assessment methods and outcomes
-- Cuff pressure assessment methods and outcomes
-- Endoscopic submucosal dissection assessment methods and outcomes
+- Participant-selected music assessment methods and outcomes
+- Researcher-selected music assessment methods and outcomes
+- Salivary alpha-amylase assessment methods and outcomes

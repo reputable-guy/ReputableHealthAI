@@ -1,27 +1,27 @@
-Study Title: Comparative effects of cognitive and instability resistance training versus instability resistance training on balance and cognition in elderly women.
+Study Title: Effect of combined Tai Chi and repetitive transcranial magnetic stimulation for sleep disturbance in older adults: A randomized controlled trial.
 
 Study Summary:
-This study investigates the effects of integrated instability resistance training and cognitive training (IRCT) versus isolated instability resistance training (IRT) on balance, gait, muscle strength, and cognitive functions in elderly women.This randomized controlled trial included 36 participants, with 18 in the IRCT group and 18 in the IRT group. The sample size was estimated to achieve a statistical power of 0.95 with a large effect size (0.40; n&#x2009;=&#x2009;12 each group). The closed-eye single-leg stand test was measured for static balance, the closed-eye stepping test, and the Timed Up and Go Test (TUGT) were measured for dynamic balance. Dual-task balance was assessed by combining the TUGT with cognitive tasks (TUGT-C) and motor tasks (TUGT-M). Gait performance was evaluated using a gait function system. Lower limb muscle strength was measured with the 30-Second Chair Stand Test. Cognitive function was assessed through the Trail Making Test (TMT), Digit Span Test (DST), Stroop Color and Word Test (Stroop), and Digit Symbol Substitution Test (DSST). Results IRCT group showed better improvements in both cognitive (p&#x2009;<&#x2009;0.001) and motor (p&#x2009;=&#x2009;0.812 for baseline; p&#x2009;<&#x2009;0.001 for post-intervention) dual-task abilities, IRCT also experienced better enhancement in certain cognitive functions, particularly in the TMT (p&#x2009;=&#x2009;0.001) and DSST (p&#x2009;=&#x2009;0.022) compared to the IRT group. Both groups demonstrated enhancements in walking abilities as shown on selective markers of the gait performance test (p&#x2009;<&#x2009;0.05) and leg muscle strength via 30-Second Chair (p&#x2009;<&#x2009;0.001 for time main effect). These results suggest that combining cognitive exercises with physical training more effectively addresses the complex challenges associated with aging in women. The study highlights the potential of comprehensive training approaches in boosting health and quality of life for the elderly, with implications for developing tailored exercise programs focused on reducing fall risks and enhancing quality of life in this population.
+Novel approaches to improve sleep disturbance in older adults are needed. Our study comprises a pioneering attempt to test the efficacy of Tai Chi (TC) combined with repetitive transcranial magnetic stimulation (rTMS) in improving sleep disturbance in older adults. The influence of baseline depressive symptoms was tested in a subset of the sample. In the randomized controlled trial, 152 participants were each allocated to one of the following groups: (1) TC plus active rTMS (n&#xa0;=&#xa0;38), (2) TC plus sham rTMS (n&#xa0;=&#xa0;38), (3) TC alone (n&#xa0;=&#xa0;38), and (4) low-intensity physical exercise (PE) control group (n&#xa0;=&#xa0;38). Four-week interventions were conducted for each group. The outcomes included insomnia severity, actigraphy-assessed and self-reported sleep parameters, mood states, and quality of life. Assessments were carried out at baseline (T0), post-intervention (T1), and 3-month follow-up (T2). Of the 152 randomized participants, the mean (SD) age was 67.68 (4.98) years, with 112 female (73.68%). The findings revealed that TC plus active rTMS induced a significant reduction in actigraphy-assessed sleep onset latency compared to TC plus sham rTMS at T1 and T2. In the subsample without depressive symptoms, the combination treatment exhibited a greater benefit in actigraphy-assessed sleep efficiency and wake time after sleep onset compared to both variables in the PE group and in the sham comparator group at T1, respectively. The other subsample with depressive symptoms showed the improvements with TC plus active rTMS, TC plus sham rTMS, and TC alone differed significantly from PE at T1 and T2. This study has demonstrated the positive effect of TC combined with rTMS on sleep disturbance in older adults. Specific sample characteristics should be considered when applying TC, either alone or combined with rTMS.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-77536-x
+- DOI: 10.1016/j.jpsychires.2024.10.025
 
 2. Keywords
-- Cognitive training
-- Dual-task performance
-- Gait
-- Older women
-- Randomized controlled trial
+- Older adults
+- Repetitive transcranial magnetic stimulation
+- Sleep disturbance
+- Tai Chi
 
 3. Key Findings
-- Results IRCT group showed better improvements in both cognitive (p&#x2009;<&#x2009;0
-- Both groups demonstrated enhancements in walking abilities as shown on selective markers of the gait performance test (p&#x2009;<&#x2009;0
+- The findings revealed that TC plus active rTMS induced a significant reduction in actigraphy-assessed sleep onset latency compared to TC plus sham rTMS at T1 and T2
+- The other subsample with depressive symptoms showed the improvements with TC plus active rTMS, TC plus sham rTMS, and TC alone differed significantly from PE at T1 and T2
+- This study has demonstrated the positive effect of TC combined with rTMS on sleep disturbance in older adults
 
 This study provides insights into:
-- Cognitive training assessment methods and outcomes
-- Dual-task performance assessment methods and outcomes
-- Gait assessment methods and outcomes
+- Older adults assessment methods and outcomes
+- Repetitive transcranial magnetic stimulation assessment methods and outcomes
+- Sleep disturbance assessment methods and outcomes

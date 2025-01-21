@@ -1,27 +1,26 @@
-Study Title: A low-fat diet improves fatigue in multiple sclerosis: Results from a randomized controlled trial.
+Study Title: Effect of Personalized Sodium Replacement on Fluid and Sodium Balance and Thermophysiological Strain During and After Ultraendurance Running in the Heat.
 
 Study Summary:
-Fatigue can be a disabling multiple sclerosis (MS) symptom with no effective treatment options. Determine whether a low-fat diet improves fatigue in people with MS (PwMS). We conducted a 16-week randomized controlled trial (RCT) and allocated PwMS to a low-fat diet (active, total daily fat calories not exceeding 20%) or wait-list (control) group. Subjects underwent 2 weeks of baseline diet data collection (24-hour diet recalls (24HDRs)), followed by randomization. The active group received 2 weeks of nutrition counseling and underwent a 12-week low-fat diet intervention. One set of three 24HDRs at baseline and week 16 were collected. We administered a food frequency questionnaire (FFQ) and Modified Fatigue Impact Scale (MFIS) every 4 weeks. The control group continued their pre-study diet and received diet training during the study completion. We recruited 39 PwMS (20-active; 19-control). The active group decreased their daily caloric intake by 11% (95% confidence interval (CI): -18.5%, -3.0%) and the mean MFIS by 4.0 (95% CI: -12.0, 4.0) compared to the control (intent-to-treat). Sensitivity analysis strengthened the association with a mean MFIS difference of -13.9 (95% CI: -20.7, -7.2). We demonstrated a significant reduction in fatigue with a low-fat dietary intervention in PwMS.
+To investigate the effect of personalized sweat sodium replacement on drinking behavior, sodium and water balance, and thermophysiological responses during and after&#xa0;ultraendurance running in hot conditions. Nine participants (7&#xa0;male, 2 female) completed two 5-hour treadmill runs (60% maximum oxygen uptake, 30&#xb0;C ambient temperature), in a double-blind randomized crossover design, consuming sodium chloride (SODIUM) capsules to replace 100% of previously assessed losses or placebo (PLACEBO). Fluid was consumed ad libitum. No effect of SODIUM was observed for ad libitum fluid intake or net fluid balance (P > .05). Plasma sodium concentration increased in both trials, but to a greater extent in SODIUM at 2.5&#xa0;hours (mean [SD]: 4 [4]&#xa0;mmol&#xb7;L-1 vs 1 [5]&#xa0;mmol&#xb7;L-1; P < .05) and postexercise (4 [3]&#xa0;mmol&#xb7;L-1 vs 1 [5]&#xa0;mmol&#xb7;L-1; P < .05). Plasma volume change was not different between trials (P > .05) but was strongly correlated with sodium balance in SODIUM (r = .880, P < .01). No effect of sodium replacement was observed for heart rate, rectal temperature, thermal comfort, perceived exertion, or physiological strain index. During the 24&#xa0;hours postexercise, ad libitum fluid intake was greater following SODIUM (2541 [711]&#xa0;mL vs 1998 [727]&#xa0;mL; P = .04), as was urinary sodium excretion (NaCl: 66 [35]&#xa0;mmol, Pl: 21 [12]&#xa0;mmol; P < .01). Personalized sweat sodium replacement during ultraendurance running in hot conditions, with ad libitum fluid intake, exacerbated the rise in plasma sodium concentration compared to no sodium replacement but did not substantially influence overall body-water balance or thermophysiological strain. A large sodium deficit incurred during exercise leads to substantial renal sodium conservation postexercise.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.1177/13524585231208330
+- Publication Date: 2024
+- DOI: 10.1123/ijspp.2023-0295
 
 2. Keywords
-- Multiple sclerosis
-- actigraphy
-- clinical trial
-- fatigue
-- low-fat diet
-- randomized controlled trial
+- electrolytes
+- exertional heat stress
+- hydration
+- personalized nutrition
+- sweat sodium
 
 3. Key Findings
-- We demonstrated a significant reduction in fatigue with a low-fat dietary intervention in PwMS
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Multiple sclerosis assessment methods and outcomes
-- actigraphy assessment methods and outcomes
-- clinical trial assessment methods and outcomes
+- electrolytes assessment methods and outcomes
+- exertional heat stress assessment methods and outcomes
+- hydration assessment methods and outcomes

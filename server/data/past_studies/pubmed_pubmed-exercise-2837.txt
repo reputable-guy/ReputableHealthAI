@@ -1,24 +1,26 @@
-Study Title: Cohort scheduling of freshman exercise physiology majors improves social integration and perceptions of faculty but not academic performance.
+Study Title: The effect of individualised post-exercise blood flow restriction on recovery following strenuous resistance exercise: A randomised controlled trial.
 
 Study Summary:
-Cohort scheduling intentionally places students in the same sections of several classes (e.g., biology, algebra, and writing) with a consistent peer group and is typically done for small groups (<30 students) to enable better interaction among students. The goal of this study was to compare cohort scheduling to traditional scheduling methods among freshmen in a physiology-related program. Outcomes included retention to the university and major, semester grades, and institutional integration and perceived group cohesion. Incoming freshmen (= 209) were randomized into control (= 43; scheduled with traditional methods) and intervention (= 166; coenrolled in first-year seminar course, biology, and medical terminology) groups. Outcomes were collected via surveys or requested from the university registrar. There was no significant difference in the likelihood of retention to the university or major and no differences between groups in pass/fail rates for the first-year seminar or biology courses. At the end of the semester, there were no differences between groups in Perceived Cohesion for Small Groups (= 0.102) or the Institutional Integration Scale (= 0.357). However, the intervention group scored higher on the Institutional Integration Scale's subscales related to social integration and faculty. Cohort scheduling did not impact retention to the university or major but improved secondary outcomes related to retention, specifically social integration and student perceptions of faculty.Compared with traditional scheduling methods, cohort scheduling freshman in physiology programs does not improve retention but improves students' social integration and perceptions of faculty.
+The purpose was to clarify the effect of individualised post-exercise blood flow restriction (PE-BFR) on measures of recovery following strenuous resistance exercise. Twenty resistance-trained adults were randomised to a PE-BFR or control (CON) group and completed a fatigue protocol of five sets of 10 repetitions of maximal intensity concentric and eccentric seated knee extension exercise. Participants then lied supine with cuffs applied to the upper thigh and intermittently inflated to 80% limb occlusion pressure (PE-BFR) or 20&#x2009;mmHg (CON) for 30&#x2009;min (3&#x2009;&#xd7;&#x2009;5&#x2009;min per leg). Peak torque (PT), time-to-peak torque (TTP), countermovement jump height (CMJ), muscle soreness (DOMS) and perceived recovery (PR) were measured pre-fatigue, immediately post-fatigue and at 1, 24, 48 and 72 h post-fatigue. Using a linear mixed-effect model, PE-BFR was found to have greater recovery of CMJ at 48 h (mean difference [MD]=-2.8, 95% confidence interval [CI] -5.1, 0.5,&#x2009;=&#x2009;0.019), lower DOMS at 48 (MD&#x2009;=&#x2009;3.0, 95% CI 1.2, 4.9,&#x2009;=&#x2009;0.001) and 72 h (MD&#x2009;=&#x2009;1.95, 95% CI -1.2, 1.5,&#x2009;=&#x2009;0.038) and higher PR scores at 24 (MD&#x2009;=&#x2009;-1.7, 95% CI -3.4, -0.1,&#x2009;=&#x2009;0.038), 48 (MD&#x2009;=&#x2009;-3.1, 95% CI -4.8, -1.5,&#x2009;<&#x2009;0.001) and 72 h (MD&#x2009;=&#x2009;-2.2, 95% CI -3.8, -0.5,&#x2009;=&#x2009;0.011). These findings suggest that individualised PE-BFR accelerates recovery after strenuous exercise.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1152/advan.00070.2024
+- DOI: 10.1080/02640414.2024.2383073
 
 2. Keywords
-- cohort scheduling
-- freshman
-- retention
+- Occlusion
+- athlete
+- fatigue
+- performance
+- soreness
 
 3. Key Findings
-- Findings extraction requires manual review
+- Using a linear mixed-effect model, PE-BFR was found to have greater recovery of CMJ at 48 h (mean difference [MD]=-2
 
 This study provides insights into:
-- cohort scheduling assessment methods and outcomes
-- freshman assessment methods and outcomes
-- retention assessment methods and outcomes
+- Occlusion assessment methods and outcomes
+- athlete assessment methods and outcomes
+- fatigue assessment methods and outcomes

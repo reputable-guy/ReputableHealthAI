@@ -1,26 +1,25 @@
-Study Title: Telehealth-delivered recovery-orientated well-being plan group program for bipolar disorder: a pilot randomised feasibility and acceptability study.
+Study Title: Effects of auricular vagus nerve stimulation and electrical earlobe stimulation on motor-evoked potential changes induced by paired associative stimulation.
 
 Study Summary:
-Psychological interventions may assist in the management of bipolar disorder, but few studies have assessed the use of group therapy programs using telehealth. The present study aimed to assess the feasibility and acceptability of a well-being group program for people living with bipolar disorder designed to be delivered via telehealth (Zoom platform) using a randomised controlled pilot design. Participants were randomly assigned to either the 8-week well-being plan treatment condition or the wait-list control condition. They were administered a structured diagnostic instrument to confirm bipolar disorder diagnosis followed by a set of self-report questionnaires relating to mood, quality of life, personal recovery, and stigma. A total of 32 participants (16 treatment; 16 control) were randomised with 12 participants completing the intervention, and 13 the control condition. The program appeared acceptable and feasible (75% retention rate) with a mean attendance being reported of 7.25 sessions attended out of a possible 8 sessions. Participants reported high levels of satisfaction overall with the intervention, with a mean score of 9.18 out of 10. Preliminary evidence suggests that delivery of the group program online is feasible and acceptable for participants living with bipolar disorder. As the program was designed to prevent relapse over time, further research is needed to determine if the program may be helpful in improving symptom outcomes over a longer follow-up period.
+Paired associative stimulation (PAS) is a combination of transcranial magnetic stimulation (TMS) and peripheral nerve stimulation (PNS). PAS can induce long-term potentiation (LTP)-like plasticity in humans, manifested as motor-evoked potential (MEP) enhancement. We have developed a variant of PAS ("high-PAS"), which consists of high-frequency PNS and high-intensity TMS and targets spinal plasticity and promotes rehabilitation after spinal cord injury (SCI). Vagus nerve stimulation (VNS) promotes LTP-like plasticity and enhances recovery in SCI and stroke in humans and animals when combined with repetitive motor training. We combined high-PAS with simultaneous noninvasive transcutaneous auricular VNS (aVNS) to determine if aVNS enhances the extent of PAS-induced MEP amplitude increase. Sixteen healthy participants were stimulated for 20&#x2009;min in four different sessions (PAS, PAS&#x2009;+&#x2009;aVNS, PAS&#x2009;+&#x2009;shamVNS, and aVNS) in a randomized single-blind setup. MEPs were measured before, immediately after, and at 30, 60, and 90&#x2009;min post-stimulation. Stimulation protocols with PAS significantly potentiated MEPs (p&#xa0;=&#x2009;0.005) when compared with aVNS (p&#xa0;=&#x2009;0.642). Although not significant, MEP enhancement observed after PAS (43.5%) is further increased by aVNS (49.7%) and electrical earlobe stimulation (63.9%). Our aVNS setup failed to significantly enhance the effect of PAS, but sham VNS revealed a trend towards enhanced plasticity. Optimization of auricular VNS stimulation setup is required for possible tests of patients with SCI.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1017/S1352465824000316
+- DOI: 10.1111/ejn.16539
 
 2. Keywords
-- bipolar disorder
-- cognitive behaviour therapy
-- group therapy
-- psychotherapy
-- wellbeing plan
+- motor&#x2010;evoked potential
+- peripheral nerve stimulation
+- spinal plasticity
+- transcranial magnetic stimulation
 
 3. Key Findings
-- Findings extraction requires manual review
+- Our aVNS setup failed to significantly enhance the effect of PAS, but sham VNS revealed a trend towards enhanced plasticity
 
 This study provides insights into:
-- bipolar disorder assessment methods and outcomes
-- cognitive behaviour therapy assessment methods and outcomes
-- group therapy assessment methods and outcomes
+- motor&#x2010;evoked potential assessment methods and outcomes
+- peripheral nerve stimulation assessment methods and outcomes
+- spinal plasticity assessment methods and outcomes

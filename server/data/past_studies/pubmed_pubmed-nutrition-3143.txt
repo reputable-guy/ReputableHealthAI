@@ -1,27 +1,25 @@
-Study Title: Multiphase optimization strategy to establish optimal delivery of nutrition-related services in healthcare settings: A step towards clinical trial.
+Study Title: In-person versus remote (mHealth) delivery for a responsive parenting intervention in rural Kenya: a cluster randomized controlled trial.
 
 Study Summary:
-Minorities living in the Southern US generally have greater incidence and prevalence of cardiometabolic diseases compared to other groups. Cardiometabolic disease prevalence and risk can be reduced by focusing on diet and lifestyle modifications. There is need for holistic and integrated care models for community-based healthcare organizations who are already working with minorities. This research aimed to select and optimize essential psychosocial and structural components to address diet behaviors among racial/ethnic minorities, and/or disadvantaged background young to middle aged adult populations in Mississippi. Nutrition360 was guided by a community-academic team using a participatory approach and included a preparation and two optimization phases to examine different approaches to dietary interventions utilizing the multiphase optimization strategy. Each intervention arm included three different modalities to identify the most feasible delivery method. The intervention was conducted at a community-based, outpatient healthcare center located in Jackson, MS. Eligible participants were between 25 and 50&#xa0;years old, residents of Jackson metropolitan area, at risk for cardiovascular disease-related premature mortality, and had internet access. Individuals who completed baseline surveys were randomly assigned to an intervention group and then to modality order. Co-primary outcomes were research participant burden and cost-effectiveness and secondary outcomes were attendance, and dietary measures. Thirty-one, African American individuals with a mean age of 40.5&#xa0;years completed baseline surveys and were randomized to an intervention program. The two most feasible and cost-effective interventions will be combined to further test this model's delivery in the real-world setting as part of the next optimization phase. ClinicalTrials.gov, NCT06286618. https://clinicaltrials.gov/study/NCT06286618.
+An estimated 43% of children under age 5 in low- and middle-income countries (LMICs) experience compromised development due to poverty, poor nutrition, and inadequate psychosocial stimulation. Numerous early childhood development (ECD) parenting interventions have been shown to be effective at improving ECD outcomes, at least in the short-term, but they are (a) still too expensive to implement at scale in low-resource and rural settings, and (b) their early impacts tend to fade over time. New approaches to deliver effective ECD parenting interventions that are low-cost, scalable, and sustainable are sorely needed. Our study will experimentally test a traditional in-person group-based delivery model for an evidence-based ECD parenting intervention against a hybrid-delivery model that increasingly substitutes in-person meetings with remote (mHealth) delivery via smartphones, featuring audiovisual content and WhatsApp social interactions and learning. We will assess the relative effectiveness and cost of this hybrid-delivery model compared to in-person delivery and will extend the interventions over two years to increase their ability to sustain changes in parenting behaviors and ECD outcomes longer-term. Our evaluation design is a cluster Randomized Controlled Trial (cRCT) across 90 villages and approximately 1200 households. Midline and endline surveys collected 12 and 24 months after the start of the interventions, respectively, will examine short- and sustained two-year intention-to-treat impacts on primary outcomes. We will also examine the mediating pathways using mediation analysis. We hypothesize that a hybrid-delivery ECD intervention will be lower in cost, but remote interactions among participants may be an inferior substitute for in-person visits, leaving open the question of the most cost-effective program. Our goal is to determine the best model to maximize the intervention's reach and sustained impacts to improve child outcomes. By integrating delivery into the ongoing operations of local Community Health Promoters (CHPs) within Kenya's rural health care system, and utilizing new low-cost technology, our project has the potential to make important contributions towards discovering potentially scalable, sustainable solutions for resource-limited settings. NCT06140017 (02/08/2024) AEARCTR0012704.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.cct.2024.107683
+- DOI: 10.1186/s12889-024-19828-5
 
 2. Keywords
-- Cardiometabolic health
-- Cardiovascular disease
-- Integrated care
-- Minority health
-- Multiphase optimization strategy
-- Nutrition
+- Early childhood development
+- Parenting intervention
+- Remote delivery
+- mHealth
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Cardiometabolic health assessment methods and outcomes
-- Cardiovascular disease assessment methods and outcomes
-- Integrated care assessment methods and outcomes
+- Early childhood development assessment methods and outcomes
+- Parenting intervention assessment methods and outcomes
+- Remote delivery assessment methods and outcomes

@@ -1,26 +1,25 @@
-Study Title: Sleep hygiene measures combined with mindfulness meditation in the management of sleep bruxism in children: A randomized controlled clinical trial.
+Study Title: PROVIT-CLOCK: A Potential Influence of Probiotics and Vitamin B7 Add-On Treatment and Metabolites on Clock Gene Expression in Major Depression.
 
 Study Summary:
-Sleep hygiene measures and meditation may reduce stress and improve sleep quality, but their effect on the occurrence of sleep bruxism in children has not yet been investigated. To explore the effects of sleep hygiene measures combined with mindfulness meditation (relaxation audio) in the management of probable sleep bruxism (SB) in children. This clinical trial (no. NCT04501237) randomized 36 children with 3-8&#x2009;years of age. Probable SB detection was performed according to the criteria established by the International Consensus on The Assessment of Bruxism-2018. Intervention group was instructed to practice sleep hygiene measures and mindfulness meditation (i.e., the use of a digital app to broadcast audio relaxation) each night before bedtime for 5&#x2009;weeks; control group did not receive guidance for therapies. Parents completed a bruxism diary for 5&#x2009;weeks, and the outcome was the number of SB episodes-day reported in the week (ranging from 0 to 7) in each period. A multilevel mixed-effects Poisson regression model was performed. A total of 32 children (mean age: 6.1&#x2009;years) completed the study. The children who received the therapies related to sleep hygiene measures and mindfulness meditation had a reduction in the SB incidence rate ratio (IRR)&#xa0;of 46% (IRR&#x2009;=&#x2009;0.54 [Confidence Interval 95%, 0.45-0.65]) during a 5-week observation period. The sensitivity analyses did not show relevant changes in the measure of the effect. Sleep hygiene measures combined with mindfulness meditation reduced the SB in children.
+An increasing body of evidence suggests a strong relationship between gut health and mental state. Lately, a connection between butyrate-producing bacteria and sleep quality has been discussed. The PROVIT study, as a randomized, double-blind, 4-week, multispecies probiotic intervention study, aims at elucidating the potential interconnection between the gut's metabolome and the molecular clock in individuals with major depressive disorder (MDD). The aim of the PROVIT-CLOCK study was to analyze changes in core clock gene expression during treatment with probiotic intervention versus placebo in fasting blood and the connection with the serum- and stool-metabolome in patients with MDD (n = 53). In addition to clinical assessments in the PROVIT study, metabolomics analyses with 1H nuclear magnetic resonance spectroscopy (stool and serum) and gene expression (RT-qPCR) analysis of the core clock genes ARNTL, PER3, CLOCK, TIMELESS, NR1D1 in peripheral blood mononuclear cells of fasting blood were performed. The gene expression levels of the clock gene CLOCK were significantly altered only in individuals receiving probiotic add-on treatment. TIMELESS and ARNTL gene expression changed significantly over the 4-week intervention period in both groups. Various positive and negative correlations between metabolites in serum/stool and core clock gene expression levels were observed. Changing the gut microbiome by probiotic treatment potentially influences CLOCK gene expression. The preliminary results of the PROVIT-CLOCK study indicate a possible interconnection between the gut microbiome and circadian rhythm potentially orchestrated by metabolites.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/ipd.13212
+- DOI: 10.1159/000538781
 
 2. Keywords
-- bruxism
-- children
-- mindfulness
-- sleep bruxism
-- sleep hygiene
+- Circadian clock genes
+- Gut-brain axis
+- Major depressive disorder
+- Randomized controlled trial
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- bruxism assessment methods and outcomes
-- children assessment methods and outcomes
-- mindfulness assessment methods and outcomes
+- Circadian clock genes assessment methods and outcomes
+- Gut-brain axis assessment methods and outcomes
+- Major depressive disorder assessment methods and outcomes

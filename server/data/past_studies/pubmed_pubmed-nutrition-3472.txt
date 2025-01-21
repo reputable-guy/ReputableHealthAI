@@ -1,28 +1,26 @@
-Study Title: Feasibility of caregiver-administered anthropometric measurements of children under age 5: evidence from Zambia.
+Study Title: Impact of Weight Management on Obesity-Driven Biomarkers of Prostate Cancer Progression.
 
 Study Summary:
-Accurate measurement of children's anthropometry is of central importance for the assessment of nutritional status as well as for the evaluation of nutrition-specific interventions. Social distancing requirements during the recent Covid-19 pandemic made administration of standard assessor-led measurement protocols infeasible in many settings, creating demand for alternative assessment modalities. To assess the feasibility and reliability of caregiver-administered anthropometric assessments of children under age 5. We compared standard and caregiver-administered assessments within an ongoing nutrition trial in Zambia (NCT05120427). We developed a "no-contact" protocol whereby trained staff verbally instruct caregivers from an appropriate distance to measure the height, weight and MUAC of their children. We captured measurements of height, weight and MUAC among a sample of caregivers and infants in Zambia using both the "no-contact" protocol and a standard assessor-led protocol.&#xa0;We analyzed each anthropometric variable, comparing means between protocol group, the proportions yielding standardized z-scores outside the plausible&#x2009;&#xb1;&#x2009;6SD range and the proportions of children classified stunted, underweight and wasted. Anthropometric measurements were captured for 76 children using both the no-contact protocol and the standard protocol. An additional 1430 children were assessed by the standard protocol only and an additional&#xa0;748&#xa0;children by the no-contact protocol only. For the 76 children measured by both methods, we find no differences in average height, weight and MUAC between caregivers and interviewer assessments. The estimated kappa for the binary stunting and underweight classifications were 0.84 and 0.93, respectively. In the larger samples&#xa0;measured only following one protocol, we find no differences in average outcomes after adjusting for child, caregiver and household characteristics. Anthropometric measurement protocols administered by caregivers with verbal instruction from trained assessors are a promising alternative to standard protocols in situations where study staff are unable to come in close contact with study participants. Clinical trials registration This study was conducted within a larger trial registered at clinicaltrials.gov as trial NCT05120427. https://clinicaltrials.gov/ct2/show/NCT05120427 .
+Excess body and visceral fat increase the risk of death from prostate cancer (PCa). This phase II study aimed to test whether weight reduction by > 5% total body weight counteracts obesity-driven PCa biomarkers. Forty men scheduled for prostatectomy were randomized into intervention (n = 20) or control (n = 20) arms. Intervention participants followed a weight management program for 4 to 16 weeks before and 6 months after surgery. Control participants received standardized educational materials. All participants attended visits at baseline, 1 week before surgery, and 6 months after surgery. Circulating immune cells, cytokines, and chemokines were evaluated. Weight loss, body composition/distribution, quality of life, and nutrition literacy were assessed. Prostate tissue samples obtained from biopsy and surgery were analyzed. From baseline to surgery (mean = 5 weeks), the intervention group achieved 5.5% of weight loss (95% CI, 4%-7%). Compared to the control, the intervention also reduced insulin, total cholesterol, LDL cholesterol, leptin, leptin:adiponectin ratio, and visceral adipose tissue. The intervention group had reduced c-peptide, plasminogen-activator-inhibitor-1, and T cell count from baseline to surgery. Myeloid-derived suppressor cells were not statistically different by group. Intervention group anthropometrics improved, including visceral and overall fat loss. No prostate tissue markers changed significantly. Quality of life measures of general and emotional health improved in the intervention group. The intervention group maintained or kept losing to a net loss of 11% initial body weight (95% CI, 8%-14%) at the study end. Our study demonstrated improvements in body composition, PCa biomarkers, and quality of life with a weight management intervention.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12963-024-00322-4
+- DOI: 10.1097/JU.0000000000003849
 
 2. Keywords
-- Anthropometry
-- Caregiver-administered measurement
-- Height
-- MUAC
-- Measurement
-- Self-measurement
-- Weight
+- obesity
+- prostate cancer
+- quality-of-life
+- visceral fat
+- weight loss
 
 3. Key Findings
-- Findings extraction requires manual review
+- Our study demonstrated improvements in body composition, PCa biomarkers, and quality of life with a weight management intervention
 
 This study provides insights into:
-- Anthropometry assessment methods and outcomes
-- Caregiver-administered measurement assessment methods and outcomes
-- Height assessment methods and outcomes
+- obesity assessment methods and outcomes
+- prostate cancer assessment methods and outcomes
+- quality-of-life assessment methods and outcomes

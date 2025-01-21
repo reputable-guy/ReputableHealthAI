@@ -1,20 +1,25 @@
-Study Title: Mind your pain: A single-arm feasibility study to assess a smartphone-based interoceptive attention training for patients with chronic low back pain.
+Study Title: Subjective Memory Complaints and the Effect of a Multidomain Lifestyle Intervention on Cognition: The FINGER Trial.
 
 Study Summary:
-People commonly cope with chronic low back pain (cLBP) by ignoring and distraction. Can mindful interoceptive exposure to the pain sensation itself and its phenomenological components be an alternative approach? Single-arm feasibility study in patients with cLBP using a 2-minute attention exercise guided by a smartphone app several times per day over 8 weeks. We assessed feasibility, pre/post pain, function, and psychological parameters using mixed methods: standard questionnaires, ecological momentary assessment, and exit interviews that included micro-phenomenology technique and subsequent reflexive thematic qualitative analysis. We enrolled 31 participants, mostly female, mean age 48, the majority had pain for >5 years; 29 completed. Mean pain intensity [0-10] improved from 4.8 &#xb1;1.7 to 3.1 &#xb1;1.9 (p < .0001); mean PEG scores (intensity and interference with daily life; range 0-30) improved from 13.7 &#xb1;6.2 to 8.4 &#xb1;6.6 (p < .0001); pain impact (9 items incl physical function) 22.3 &#xb1;8.7 to 19.7 &#xb1;8.1 (p = .0010). Twenty-one of 29 improved PEG score &#x2265;30%. There were significant improvements in PCS Rumination and MAIA Not-Worrying. Participants became aware of their usual habit of avoidance and the challenge of and resistance to focusing on pain. They were surprised how pain sensations varied over time, and that pain intensity and the threat value of pain could diminish by focusing on it. They described a variety of 3D pain shapes (e.g., football, pool ball, rod, nail, brick, stars) with a range of colors, transparency, temperature, and density that for some changed with mindful attention. Most struggled to find appropriate words for sensory awareness and attention regulation and found that the threat value of their pain diminished. Mindful interoceptive exposure to the sensations of their cLBP using a 2-minute attention exercise with a phone app-rather than ignoring and distracting from it-may be a beneficial intervention for cLBP. ClinicalTrials.gov #NCT06186193.
+Older people reporting subjective memory complaints (SMCs) may have a greater risk of cognitive decline. Multidomain lifestyle interventions are a promising strategy for the prevention of cognitive decline. The aim of this study was to investigate whether the presence of SMCs affects the efficacy of a 2-year multidomain lifestyle intervention on cognition. This study is part of the Finnish Geriatric Intervention Study to Prevent Cognitive Impairment and Disability (FINGER) project. Participants (a subsample of 568 individuals, baseline age 60-77 years) were randomized (1:1) to receive a 2-year multidomain lifestyle intervention group including dietary advice, exercise, cognitive training, and vascular risk management, or regular health advice control group. Cognitive performance was assessed at baseline and at 1- and 2-year visits, using a neuropsychological test battery, including tests assessing memory, executive functions, and processing speed. Participants rated the frequency of SMCs using the Prospective and Retrospective Memory Questionnaire. Having more retrospective SMCs was linked to a less favorable cognitive trajectory over 2 years. The difference between the intervention and control groups in annual change in tested memory performance was 0.077 (95% CI, 0.008-0.146) among those reporting more retrospective SMCs and -0.011 (-0.074 to 0.053) among those with less SMCs; interaction effect p&#x2005;=&#x2005;.019. No other interactions between SMCs and intervention allocation were observed. A lifestyle intervention may be beneficial for older adults with and without SMCs. Persons having more retrospective SMCs may benefit more from the intervention regarding memory functioning. Clinical Trials Registration Number: NCT01041989.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0307690
+- DOI: 10.1093/geronb/gbae179
 
 2. Keywords
-
+- Cognitive performance
+- Dementia
+- Early detection
+- Randomized controlled trial
 
 3. Key Findings
-- Most struggled to find appropriate words for sensory awareness and attention regulation and found that the threat value of their pain diminished
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Cognitive performance assessment methods and outcomes
+- Dementia assessment methods and outcomes
+- Early detection assessment methods and outcomes

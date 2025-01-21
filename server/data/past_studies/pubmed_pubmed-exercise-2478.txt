@@ -1,22 +1,26 @@
-Study Title: Effect of Combined Exercise and Nutrition Interventions During Inpatient Chemotherapy in Acute Leukemia and Malignant Lymphoma Patients: A Randomized Controlled Trial.
+Study Title: Feasibility and Effectiveness of a 12-Week Concurrent Exercise Training on Physical Performance, Muscular Strength, and Myokines in Frail Individuals Living in Nursing Homes: A Cluster Randomized Crossover Trial.
 
 Study Summary:
-The aim of the present study was to determine the effectiveness of combined exercise and nutrition interventions on physical function and quality of life (QOL) in patients with acute leukemia or malignant lymphoma (ML) during inpatient chemotherapy. The study was a randomized controlled trial where patients with acute leukemia or ML who were receiving inpatient chemotherapy and exercise therapy were divided into an intervention group (IG) and a control group (CG). Both groups underwent resistance training and aerobic exercise. The patients in the IG were instructed to take nutritional supplements twice a day. Assessment items were muscle strength (handgrip strength and knee extension strength), 6-min walking test, skeletal muscle mass, QOL, nutritional status, and fatigue. Two-way analysis of variance showed a significant interaction for bilateral handgrip strength and knee extension strength. No significant interactions were found for the other items. The results of the present study showed improved muscle strength in the IG compared to the CG, indicating the effectiveness of combined exercise and nutrition interventions during inpatient chemotherapy in patients with acute leukemia or ML.
+To examine the feasibility and effects of a 12-week exercise intervention on physical performance, muscular strength, and circulating myokines in frail individuals living in nursing homes. A cluster randomized, 2-period, 2-intervention crossover trial. Frail residents of 9 nursing homes were randomly assigned to either 12&#xa0;weeks of concurrent exercise training (n&#xa0;= 5, 29 participants) or usual care (n&#xa0;= 4, 17 participants). The concurrent exercise training consisted of resistance and aerobic exercises (3&#xa0;days/week). The usual care consisted of everyday routine and standard care. After a 4-week washout period, participants crossed to the other intervention. The feasibility outcomes included recruitment rate, dropout rate and reasons, harms during the trial, adherence to exercise, and implementation cost. The primary endpoint was the change in physical performance measured by the Short Physical Performance Battery (SPPB). The secondary endpoints were changes in muscular strength (eg, handgrip strength, isokinetic knee extension, and flexion strength) and serum myokines concentration (myostatin and decorin). From the 46 participants enrolled (aged 70-99&#xa0;years, 67.4% female), 34 completed the trial (26.1% dropout rate), the median adherence was 93.75%, and no adverse events occurred during the exercise sessions. The concurrent exercise training provided significant benefits over usual care on SPPB (B&#xa0;= 2.18; 95% CI, 1.35-3.00; P < .001), handgrip strength (B&#xa0;= 2.15; 95% CI, 1.00-3.30; P < .001), myostatin concentrations (B&#xa0;=&#xa0;-7.07; 95% CI,&#xa0;-13.48 to&#xa0;-0.66; P&#xa0;= .031) and myostatin-decorin ratio (B&#xa0;=&#xa0;-95.54; 95% CI,&#xa0;-158.30 to&#xa0;-32.78, P&#xa0;= .004). No significant between-group differences were found for the remaining secondary endpoints. This concurrent exercise training is feasible, well-tolerated, and effective in improving physical performance, handgrip strength, myostatin, and myostatin-decorin ratio concentrations in frail older adults residing in nursing homes. These data reinforce the relevance of integrating exercise interventions in long-term care settings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/01635581.2024.2406043
+- DOI: 10.1016/j.jamda.2024.105271
 
 2. Keywords
-
+- Exercise
+- exerkines
+- frailty
+- long-term care
+- physical function
 
 3. Key Findings
-- Two-way analysis of variance showed a significant interaction for bilateral handgrip strength and knee extension strength
-- No significant interactions were found for the other items
-- The results of the present study showed improved muscle strength in the IG compared to the CG, indicating the effectiveness of combined exercise and nutrition interventions during inpatient chemotherapy in patients with acute leukemia or ML
+- No significant between-group differences were found for the remaining secondary endpoints
 
 This study provides insights into:
-- General research methodology and outcomes
+- Exercise assessment methods and outcomes
+- exerkines assessment methods and outcomes
+- frailty assessment methods and outcomes

@@ -1,29 +1,26 @@
-Study Title: Effectiveness of a novel diet in attenuation of clinical activity of disease in patients with ulcerative colitis: a randomized, clinical trial.
+Study Title: Intravenous Albumin Infusion Does not Augment the Response Rate to a Combination of Exclusive Enteral Nutrition and Intravenous Steroids in Acute Severe Ulcerative Colitis: A Randomised Controlled Trial.
 
 Study Summary:
-Dietary intake plays a pivotal role in ulcerative colitis (UC) initiation and prognosis. The aim of this study was to investigate the effect of a combined Mediterranean, low-FODMAP diet accompanied with partial enteral nutrition (PEN) on clinical and para-clinical characteristics of patients with UC. Fifty patients with active mild to moderate UC were received either a combined diet or a regular diet for 6&#xa0;weeks. Before and after the intervention, disease activity index, quality of life and some inflammatory and oxidative stress factors were measured using valid and reliable questionnaires and blood sampling. Disease activity index was significantly decreased in the combined diet group in comparison to control diet group (p&#x2009;=&#x2009;0.043), and baseline data (p&#x2009;<&#x2009;0.001). Moreover, the quality of life score increased significantly in the combined diet group compared to the control group, and the baseline data (p&#x2009;<&#x2009;0.001). Serum level of high sensitive C-reactive protein (hs-CRP) decreased significantly in the combined group (p&#x2009;<&#x2009;0.01), while it increased in the control group non-significantly. Serum total anti-oxidant capacity (TAC) changes were not statistically significant in two groups. This study indicates that this combination diet has the potential to be used as a safe and highly effective approach in patients with significant intestinal symptoms. Further clinical trial studies with different duration of intervention are needed to confirm these results.Trial registration: The study was registered on IRCT.ir with registration number of IRCT20100524004010N38, on 25/04/2023.
+Overall, 30-40% patients with acute severe ulcerative colitis [ASUC] fail intravenous [IV] steroids, requiring medical rescue therapy/colectomy. Low baseline albumin predicts steroid non-response, and exclusive enteral nutrition [EEN] has been shown to improve steroid response and albumin levels. Albumin infusion, due to its anti-inflammatory and antioxidant properties, might further improve steroid response in ASUC, which was evaluated in the present study. In this open-label, randomised, controlled trial, patients with ASUC were randomised in 1:1 ratio to either albumin&#x2005;+&#x2005;standard of care [SOC]&#x2005;+&#x2005;EEN [Albumin arm] or SOC&#x2005;+&#x2005;EEN [SOC arm], over January 2021-February 2023. Both arms received 5 days of EEN with 400 mg IV hydrocortisone/day. Patients in the Albumin arm were administered 5 days of 20% weight/volume [w/v] intravenous albumin [100 ml]. Primary outcome was first, steroid failure [need for rescue medical therapy or colectomy] and second, proportion of patients with adverse events. In all, 61 patients [albumin: 30, SOC: 31][mean age 31.6&#x2005;&#xb1;&#x2005;0.4 years, male 57.4%], were included. Baseline characteristics were comparable. There was no difference in steroid failure between Albumin and SOC arms (10/30 [33.33%] vs 13/31[41.94%], p&#x2005;=&#x2005;0.49). No adverse events were reported with albumin infusions. Colectomy rate [10% vs 9.68%, p&#x2005;=&#x2005;1], response to salvage medical therapy [88.89% vs 76.92%, p&#x2005;=&#x2005;0.62] and median [interquartile range] duration of hospitalisation [10.5 [7-16] vs 10 [7-20], p&#x2005;=&#x2005;0.43] were also comparable. The long-term composite outcome of colectomy and re-admission rates was numerically higher in the Albumin than the SOC arm [37.04% vs 17.86%, p&#x2005;>&#x2005;0.05], although this did not reach statistical significance. There was no benefit of intravenous albumin infusion as an adjunct to IV steroids and EEN in patients with ASUC.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-64512-8
+- DOI: 10.1093/ecco-jcc/jjae094
 
 2. Keywords
-- Diet
-- EN
-- IBD
-- Low-FODMAP diet
-- Mediterranean diet
-- Nutrition
-- UC
-- Ulcerative colitis
+- Inflammatory bowel disease
+- colectomy
+- hospitalisation
+- hydrocortisone
+- inflammation
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Diet assessment methods and outcomes
-- EN assessment methods and outcomes
-- IBD assessment methods and outcomes
+- Inflammatory bowel disease assessment methods and outcomes
+- colectomy assessment methods and outcomes
+- hospitalisation assessment methods and outcomes

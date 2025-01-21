@@ -1,28 +1,27 @@
-Study Title: Early Cognitive Function after Deep Sedation Using Different Anesthetic Agents in Pediatric Patients: A Prospective, Randomized Controlled Trial.
+Study Title: The Association of the Essential Amino Acids Lysine, Methionine, and Threonine with Clinical Outcomes in Patients at Nutritional Risk: Secondary Analysis of a Randomized Clinical Trial.
 
 Study Summary:
-: The impact of anesthetic agents on memory and cognitive function following general anesthesia is of great interest, particularly regarding their effects on the developing pediatric brain. While numerous studies have examined the relationship between anesthetic drugs and brain function, research focusing on early cognitive function following sedation remains limited.: This study was a prospective, randomized controlled trial involving 148 pediatric patients scheduled for hematological procedures, specifically bone marrow aspiration (BMA) and intrathecal chemotherapy (ITC). Patients were divided into two groups based on the primary anesthetic used: the inhalational sedation group (IHG), in which sevoflurane was used, and the intravenous sedation group (IVG), which received propofol infusion. Apart from the main anesthetic agent, all sedation methods were consistent across both groups. A cognitive function test administered before sedation involved memorizing four distinct images, each associated with a different number. Then, the patients were asked to identify the omitted image upon awakening in the recovery room. Herein, this pre- vs. post-sedation test is called the early recognition assessment (ERA) tool. The primary outcome was the correct response rate after sedation for the two groups. Secondary outcomes included the sedation score, the behavior response score, and the correct response rates according to the number of sedation procedures.: This study included 130 patients in the final analysis, with 74 originally assigned to each group. The initial cognitive assessment revealed no significant difference in performance between the anesthetic agents. In addition, no differences were observed in the rates of correct responses or post-sedation scores after repeated procedures. However, the IVG demonstrated higher behavior response scores compared to the IHG.: There were no significant differences in the rates of correct responses using the ERA tool between the two groups, irrespective of the number of sedation procedures performed. While some differences were noted in preoperative, intraoperative, and post-anesthesia care, these did not significantly impact the cognitive outcomes measured.
+Lysine, methionine, and threonine are essential amino acids with vital functions for muscle and connective tissue health, metabolic balance, and the immune system. During illness, the demand for these amino acids typically increases, which puts patients at risk for deficiencies with harmful clinical consequences. In a secondary analysis of the Effect of Early Nutritional Support on Frailty, Functional Outcomes, and Recovery of Malnourished Medical Inpatients Trial (EFFORT), which compared individualized nutritional support to usual care nutrition in patients at nutritional risk, we investigated the prognostic impact of the lysine, methionine, and threonine metabolism. We had complete clinical and amino acid data in 237 patients, 58 of whom reached the primary endpoint of death at 30 days. In a model adjusted for comorbidities, sex, nutritional risk, and trial intervention, low plasma methionine levels were associated with 30-day mortality (adjusted HR 1.98 [95% CI 1.16 to 3.36],= 0.01) and with a decline in functional status (adjusted OR 2.06 [95% CI 1.06 to 4.01],= 0.03). The results for lysine and threonine did not show statistically significant differences regarding clinical outcomes. These findings suggest that low levels of methionine may be critical during hospitalization among patients at nutritional risk. Further studies should investigate the effect of supplementation of methionine in this patient group to improve outcomes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/medicina60081342
+- DOI: 10.3390/nu16162608
 
 2. Keywords
-- anesthetic agent
-- cognitive function
-- inhalation
-- intravenous
-- pediatrics
-- sedation
+- biomarker
+- malnutrition
+- mortality
+- muscle health
+- nutritional support
+- sarcopenia
 
 3. Key Findings
-- The initial cognitive assessment revealed no significant difference in performance between the anesthetic agents
-- However, the IVG demonstrated higher behavior response scores compared to the IHG
+- Findings extraction requires manual review
 
 This study provides insights into:
-- anesthetic agent assessment methods and outcomes
-- cognitive function assessment methods and outcomes
-- inhalation assessment methods and outcomes
+- biomarker assessment methods and outcomes
+- malnutrition assessment methods and outcomes
+- mortality assessment methods and outcomes

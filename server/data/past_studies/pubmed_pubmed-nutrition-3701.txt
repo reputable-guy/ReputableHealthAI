@@ -1,20 +1,26 @@
-Study Title: Feasibility and impact of school-based nutrition education interventions on the diets of adolescent girls in Ethiopia: a non-masked, cluster-randomised, controlled trial.
+Study Title: Coordinated Approach: Comprehensive Policy and Action Planning.
 
 Study Summary:
-Adolescence is a critical period of physical and psychological development, especially for girls, because poor nutrition can affect their wellbeing as well as that of their children. We aimed to assess the feasibility and impact of a package of nutrition education interventions delivered through public primary schools on the diets of adolescent girls in Ethiopia. In this non-masked, cluster-randomised, controlled trial, primary schools (clusters) in the Southern Nations, Nationalities, and People's Region and Somali region of Ethiopia were randomly allocated to the intervention group (nutrition information provided during flag ceremonies, classroom lessons, school club meetings, peer group mentoring, BMI measurement and counselling, and parent-teacher meetings) or the control group (standard academic curriculum on health and nutrition) by use of computer-generated pseudo-random numbers. Duration of the school-based interventions was 4 months, and the key messages were related to dietary diversity (eating a variety of foods), energy adequacy (eating breakfast and healthy snacks), and healthy food choices (avoiding junk foods). Adolescent girls were eligible for participation if aged 10-14 years and enrolled in grades 4-8 in a study school. Data were collected with two independent cross-sectional surveys: baseline before the start of implementation and endline 1&#xb7;5 years later. The primary outcome of impact was dietary diversity score, defined as the number of food groups (out of ten) consumed over the previous 24 h using a list-based method, and minimum dietary diversity, defined as the proportion of girls who consumed foods from at least five of the ten food groups, in the intention-to-treat population. We also assessed intervention exposure as a measure of feasibility. We estimated intervention effects using linear regression models for mean differences at endline, with SEs clustered at the school level, and controlled for adolescent age, region, household food security, and wealth. The trial is registered with ClinicalTrials.Gov, NCT04121559, and is complete. 27 primary schools were randomly allocated to the intervention group and 27 to the control group. Between March 22 and April 29, 2021, 536 adolescent girls participated in the endline survey (270 in the intervention group and 266 in the control group), with median age of 13&#xb7;3 years (IQR 12&#xb7;1-14&#xb7;0). At endline, the dietary diversity score was 5&#xb7;37 (SD 1&#xb7;66) food groups in the intervention group and 3&#xb7;98 (1&#xb7;43) food groups in the control group (adjusted mean difference 1&#xb7;33, 95% CI 0&#xb7;90-1&#xb7;75, p<0&#xb7;0001). Increased minimum dietary diversity was also associated with the intervention (182 [67%] of 270 in the intervention group vs 76 [29%] of 266 in the control group; adjusted odds ratio 5&#xb7;37 [95% CI 3&#xb7;04-9&#xb7;50], p<0&#xb7;0001). 256 (95%) of 270 adolescent girls in the intervention group were exposed to at least one of the five in-school intervention components. Integrating nutrition interventions into primary schools in Ethiopia was feasible and increased dietary diversity incrementally among adolescent girls, but could be limited in changing other food choice behaviours, such as junk food consumption, based on nutrition education alone. Bill & Melinda Gates Foundation.
+Schools play a vital role in student health, and a collaborative approach may affect health factors such as physical activity (PA) and nutrition. There is a lack of recent literature synthesizing collaborative approaches in K-12 settings. We present updated evidence about interventions that used a coordinated school health approach to support K-12 student PA and nutrition in the United States. A 2-phase literature review search included a search of systematic reviews for individual qualifying studies (2010-2018), followed by a search for individual articles (2010-2020) that evaluated a coordinated approach or use of school wellness councils, committees, or teams to address PA and/or nutrition. We identified 35 articles describing 30 studies and grouped them by intervention type. Interventions demonstrated promising findings for environmental changes and student dietary and PA behaviors. Coordinated and multicomponent interventions demonstrated significant improvements or null results, indicating that implementation of programs and/or policies to promote healthier eating and PA practices may support and do not appear to hinder environmental or behavioral outcomes. Schools can use a coordinated approach to implement opportunities for PA and nutrition; this may influence students' PA and dietary behaviors.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/S2352-4642(23)00168-2
+- DOI: 10.1111/josh.13376
 
 2. Keywords
-
+- coordinated approach
+- nutrition
+- physical activity
+- school health
 
 3. Key Findings
-- Bill & Melinda Gates Foundation
+- Interventions demonstrated promising findings for environmental changes and student dietary and PA behaviors
+- Coordinated and multicomponent interventions demonstrated significant improvements or null results, indicating that implementation of programs and/or policies to promote healthier eating and PA practices may support and do not appear to hinder environmental or behavioral outcomes
 
 This study provides insights into:
-- General research methodology and outcomes
+- coordinated approach assessment methods and outcomes
+- nutrition assessment methods and outcomes
+- physical activity assessment methods and outcomes

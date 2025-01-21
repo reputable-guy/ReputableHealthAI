@@ -1,20 +1,25 @@
-Study Title: Clinical Comparison between HD-tDCS and tDCS for Improving Upper Limb Motor Function: A Randomized, Double-Blinded, Sham-Controlled Trial.
+Study Title: The Effect of Depth of Anesthesia on Postoperative Pain in Laparoscopic Sleeve Gastrectomy: A Randomized Controlled Trial.
 
 Study Summary:
-Stroke is a common and frequently occurring disease among middle-aged and elderly people, with approximately 55%-75% of patients remaining with upper limb dysfunction. How to promote the recovery of motor function at an early stage is crucial to the life of the patient. This study aimed to investigate whether high-definition transcranial direct current stimulation (HD-tDCS) of the primary motor cortex (M1) functional area in poststroke patients in the subacute phase is more effective in improving upper limb function than conventional tDCS. This randomized, sham-controlled clinical trial included 69 patients with subcortical stroke. They were randomly divided into the HD-tDCS, anodal tDCS (a-tDCS), and sham groups. Each group received 20 sessions of stimulation. The patients were assessed using the Action Research Arm Test, Fugl-Meyer score for upper extremities, Motor Function Assessment Scale, and modified Barthel index (MBI) pretreatment and posttreatment. The intragroup comparison scores improved after 4 weeks of treatment. The HD-tDCS group showed a slightly greater, but nonsignificant improvement as compared to a-tDCS group in terms of mean change observed in function of trained items. The MBI score of the HD-tDCS group was maintained up to 8 weeks of follow-up and was higher than that in the a-tDCS group. Both HD-tDCS and a-tDCS can improve upper limb motor function and daily activities of poststroke patients in the subacute stage. This trial is registered with ChiCTR2000031314.
+Patients with obesity are more sensitive to pain and more likely to have acute postoperative pain (APP). Studies have shown that the depth of anesthesia may affect the incidence of APP. The purpose of the study was to look into the connection between APP and depth of anesthesia in patients with obesity undergoing laparoscopic sleeve gastrectomy. This is a prospective, double-blinded randomized clinical trial, 90 patients undergoing laparoscopic sleeve gastrectomy were randomly divided into two groups: the light anesthesia group (Bispectral Index of 50, BIS 50) and the deep anesthesia group (BIS 35). The degree of pain was evaluated by the visual analogue scale (VAS) at 0, 12, 24, 48, and 72&#xa0;h after surgery. The use of analgesics, grade of postoperative nausea and vomiting (PONV), and the Quality of Recovery-15 (QoR-15) score were recorded. The VAS scores at rest or coughing at 0, 12, and 24&#xa0;h after surgery in the BIS 35 group were lower than those in the BIS 50 group (P&#x2009;<&#x2009;0.05). Fewer patients in the deep anesthesia group needed analgesia during the recovery period, and patient satisfaction was higher on the 3rd day after surgery (P&#x2009;<&#x2009;0.015, P&#x2009;<&#x2009;0.032, respectively). For patients with obesity, maintaining a deeper depth of anesthesia during surgery is beneficial to reduce APP causes less need for additional analgesic drugs, and improves patient satisfaction.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1155/2024/2512796
+- DOI: 10.1007/s11695-024-07207-3
 
 2. Keywords
-
+- Acute postoperative pain
+- Anaesthetic depth
+- Laparoscopic sleeve gastrectomy
+- Obesity
 
 3. Key Findings
-- The HD-tDCS group showed a slightly greater, but nonsignificant improvement as compared to a-tDCS group in terms of mean change observed in function of trained items
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Acute postoperative pain assessment methods and outcomes
+- Anaesthetic depth assessment methods and outcomes
+- Laparoscopic sleeve gastrectomy assessment methods and outcomes

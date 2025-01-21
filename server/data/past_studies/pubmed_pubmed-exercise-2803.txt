@@ -1,20 +1,26 @@
-Study Title: Impact of eccentric cycling in coronary rehabilitation program: a pragmatic randomized controlled trial versus conventional rehabilitation.
+Study Title: Comparison of the effects of pelvic floor muscle training and modified pilates exercises in elderly women with stress urinary incontinence: A randomized clinical trial.
 
 Study Summary:
-This randomized controlled trial examined the feasibility of adding eccentric exercise to a conventional cardiac rehabilitation program (CCRP) for coronary heart disease patients. Ninety-three patients were randomly assigned to either the MIX group (eccentric ergometer + CCRP) or the CON group (concentric ergometer + CCRP) for 7 weeks. Training effectiveness was assessed based on "good responders" showing improved functional capacities, such as 6-minute walk test (6MWT) distance and maximal voluntary contraction of the plantar flexors (ankle MVC). Safety was monitored with a visual analog scale for muscle soreness, perceived exertion, and heart rate during training. The proportion of good responders was similar between groups (26% in MIX, 29% in CON, P=0.744). Both groups improved in 6MWT (CON: 12.6%, MIX: 16.14%) and ankle MVC (CON: 15.5%, MIX: 11.30%), with no significant differences. Exercise tolerance did not differ significantly between the groups, but perceived effort was significantly lower in the MIX group (P<0.0001) compared to the CON group. Integrating eccentric exercise into cardiac rehabilitation is safe and well-tolerated. Nevertheless, this study did not find significant advantages over conventional programs for coronary heart disease patients. Further research should explore specific patient groups or conditions where eccentric exercise may be more beneficial, emphasizing personalized prescriptions and gradual workload progression for better cardiac rehabilitation outcomes.
+The aim of this study was to compare the effects of pelvic floor muscle training (PFMT) and modified pilates exercises (MPE) in elderly women with stress urinary incontinence (SUI). Both randomized groups [Group 1: PFMT (n&#xa0;=&#xa0;17), Group 2: MPE (n&#xa0;=&#xa0;17)] performed their exercises twice a week for 12&#xa0;weeks. Incontinence Severity Index (ISI), Urogenital Distress Inventory-Short Form (UDI-6) and Incontinence Impact Questionnaire-Short Form (IIQ-7) were used to assess SUI frequency and level of exposure from symptoms, electromyography (EMG) device was used to assess PFM activation response and a stabilizer was used to assess transversus abdominis (TrA) muscle strength. The assessments were performed at baseline and at week 12. While in-group assessment there were statistically significant differences in ISI, UDI-6, IIQ-7 in both groups at week 12 (p&#xa0;<&#xa0;0.05); in the assessment between groups, there were statistically significant difference for EMG-work avarage (U&#xa0;=&#xa0;60.00, P&#xa0;=&#xa0;0.02), EMG-work peak (U&#xa0;=&#xa0;62,50, P&#xa0;=&#xa0;0.03) and EMG-rest peak (U&#xa0;=&#xa0;61,50, P&#xa0;=&#xa0;0.03) in favor of Group 1 and TrA muscle strength (U&#xa0;=&#xa0;61.00, P&#xa0;=&#xa0;0.02) in favor of Group 2 from baseline to week 12 (p&#xa0;<&#xa0;0.05). In summary, MPE can be considered alternative and safe exercise in clinic for elderly women with SUI who do not want to receive PFMT for various reasons.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.23736/S1973-9087.24.08364-3
+- DOI: 10.1016/j.ejogrb.2024.07.033
 
 2. Keywords
-
+- Aging
+- Exercise
+- Pelvic floor
+- Urinary incontinence
+- Women
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Aging assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- Pelvic floor assessment methods and outcomes

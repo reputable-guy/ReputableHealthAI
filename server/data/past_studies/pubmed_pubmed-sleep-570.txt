@@ -1,21 +1,28 @@
-Study Title: Differential posttraumatic stress disorder symptom cluster response to stellate ganglion block: secondary analysis of a randomized controlled trial.
+Study Title: Daridorexant for patients with chronic insomnia disorder: number needed to treat, number needed to harm, and likelihood to be helped or harmed.
 
 Study Summary:
-Empirically supported treatments for posttraumatic stress disorder (PTSD) exist, but research suggests these therapies are less effective, acceptable, and feasible to deliver to active duty service members (SMs) compared to civilians. Stellate ganglion block (SGB) procedure, in which a local anesthetic is injected around the cervical sympathetic chain or stellate ganglion to temporarily inhibit sympathetic nervous activity, is gaining popularity as an alternative PTSD treatment in military settings. However, it is unknown whether certain PTSD symptoms are more responsive to SGB than others. The current study involved a secondary analysis of data collected from a previous randomized controlled trial of SGB compared to sham (normal saline) injection (N&#x2009;=&#x2009;113 SMs). PTSD symptoms were assessed via clinical interview and self-report at baseline and 8 weeks post-SGB or sham. Logistic regression analyses showed that the marked alterations in arousal and reactivity PTSD symptom cluster demonstrated the greatest symptom severity reductions after SGB, relative to sham. The reexperiencing cluster also showed pronounced response to SGB in clinician-rated but not self-reported outcomes. Post-hoc item-level analyses suggested that arousal and reactivity cluster findings were driven by reductions in hypervigilance, concentration difficulties, and sleep disturbance, whereas clinician-rated reexperiencing cluster findings were driven by reductions in physiological reactions to trauma cues, emotional reactions to trauma cues, and intrusions. Our findings align with a burgeoning literature positioning SGB as a potential novel or adjunctive PTSD treatment. Results could guide future hypothesis-driven research on mediators of therapeutic change during SGB for PTSD symptoms in SMs.
+Appraise the evidence for daridorexant 50&#x2009;mg and 25&#x2009;mg versus placebo when treating chronic insomnia disorder in terms of number needed to treat (NNT), number needed to harm (NNH), and likelihood to be helped or harmed (LHH). NNT, NNH, and LHH were calculated from a 3-month pivotal Phase 3 study (&#x2009;=&#x2009;930; randomized 1:1:1 to daridorexant 50&#x2009;mg, daridorexant 25&#x2009;mg, or placebo once nightly). Wakefulness after sleep onset, latency to persistent sleep, self-reported total sleep time, Insomnia Daytime Symptoms and Impacts Questionnaire (IDSIQ), and Insomnia Severity Index were used for the NNT efficacy analysis. NNH safety analysis was performed using rates of adverse events (AEs) occurring in&#x2009;>1% of the participants in any arm. LHH was assessed for all NNT estimates, contrasting them with NNH estimates for somnolence, headache, and fatigue AEs. NNT estimates for daridorexant 50&#x2009;mg versus placebo were&#x2009;<10 for clinically meaningful thresholds across all outcomes. NNT estimates for daridorexant 25&#x2009;mg versus placebo were not as robust as those observed for daridorexant 50&#x2009;mg, with many values exceeding 10. NNH estimates for daridorexant 50&#x2009;mg and 25&#x2009;mg versus placebo did not show a statistically significant treatment difference except for falls, where NNH was negative for the daridorexant 50&#x2009;mg group (-44 [95% CI -328; -21]; rate of falls was greater with placebo than for daridorexant 50&#x2009;mg). All LHH ratios at Months 1 and 3 were&#x2009;>1 (except for daridorexant 25&#x2009;mg for the IDSIQ alert/cognition domain), indicating that patients were more likely to respond to daridorexant 50&#x2009;mg and 25&#x2009;mg than to experience an AE of somnolence, headache, or fatigue. Daridorexant 50&#x2009;mg and 25&#x2009;mg have a favorable benefit-risk ratio over 3&#x2009;months. Daridorexant 50&#x2009;mg demonstrated more robust (lower) NNT estimates versus placebo than daridorexant 25&#x2009;mg.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41398-024-02926-8
+- DOI: 10.1080/00325481.2024.2359891
 
 2. Keywords
-
+- Number needed to treat
+- chronic insomnia disorder
+- daridorexant
+- efficacy
+- likelihood to be helped or harmed
+- number needed to harm
+- safety
 
 3. Key Findings
-- Logistic regression analyses showed that the marked alterations in arousal and reactivity PTSD symptom cluster demonstrated the greatest symptom severity reductions after SGB, relative to sham
-- The reexperiencing cluster also showed pronounced response to SGB in clinician-rated but not self-reported outcomes
+- Daridorexant 50&#x2009;mg demonstrated more robust (lower) NNT estimates versus placebo than daridorexant 25&#x2009;mg
 
 This study provides insights into:
-- General research methodology and outcomes
+- Number needed to treat assessment methods and outcomes
+- chronic insomnia disorder assessment methods and outcomes
+- daridorexant assessment methods and outcomes

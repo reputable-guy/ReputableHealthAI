@@ -1,25 +1,25 @@
-Study Title: Effects of combining rehabilitation training on the recovery of athletic ability after reconstruction of injured ligament.
+Study Title: Effects of different forced-air warming systems on the core temperature of patients: a manikin and multi-center clinical study.
 
 Study Summary:
-This paper aims to investigate the impact of conventional rehabilitation training and neuromuscular electrical stimulation (NMES) on the recovery of motor abilities in patients following ligament injury reconstruction. Forty postoperative patients who underwent surgery for anterior cruciate ligament reconstruction (ACLR) were randomly allocated to either the conventional rehabilitation group or the NMES group. The NMES group received NMES treatment in addition to the conventional rehabilitation program starting from eight weeks postoperatively. Various parameters, including knee joint function, stability, and balance, were compared between the two groups at eight weeks and 12&#x2009;weeks postoperatively. Compared to the data at eight weeks postoperatively, both groups exhibited significant improvements in all measured indicators at 12&#x2009;weeks postoperatively (&#x2009;<&#x2009;0.05). In the 12week after the surgery, the NMES group demonstrated a Lysholm score of 93.18&#x2009;&#xb1;&#x2009;3.67 points, an IKDC score of 84.65&#x2009;&#xb1;&#x2009;2.33 points, a KT-2000 measurement of 0.88&#x2009;&#xb1;&#x2009;0.45&#x2009;mm, a thigh circumference difference of -1.33&#x2009;&#xb1;&#x2009;0.55&#x2009;cm, a knee flexion angle of 130.12&#x2009;&#xb1;&#x2009;4.21&#xb0;, a single-leg standing time of 60.12&#x2009;&#xb1;&#x2009;9.33&#x2009;s, a YBT score of 70.26&#x2009;&#xb1;&#x2009;2.68 points, and a Bulgarian split squat 1RM size of 58.07&#x2009;&#xb1;&#x2009;6.85&#x2009;kg; all of these results were significantly superior to those observed in the conventional group (&#x2009;<&#x2009;0.05). NMES significantly enhances the recovery of athletic ability in patients following postoperative ACLR and can be effectively applied in clinical practice.
+The use of forced-air warming (FAW) blankets is widely recognized for preventing shivering and hypothermia in patients under general anesthesia. Various types of products are currently available for hospitals, and we have conducted a preliminary evaluation of insulation equipment based on expert opinions and initial parameters. However, we lack real-world experiments and accurate clinical data to validate these parameters and the accuracy of our decision-making results. This study aims to confirm the effectiveness of different FAW systems by assessing the thermal protection and operational characteristics of the equipment in both experimental and clinical settings, thereby enhancing our evaluation database. In the manikin test, we conducted six tests including heat distribution and heating rate, heater outlet temperature stability, etc. In the clinical study, patients were randomly assigned to four groups [Group A (Bair Hugger Therapy, 3&#xa0;M, St. Paul, MN, USA; 63500); Group B (EQUATORlevel I, Smith Medical ASD, MN, USA; Snuggle Warm, SW-2013); Group C (Jiang Men Da Cheng Medical Devices Co., Ltd, China; IOB-006); and Group D (Shang Hai Nest Tech Medical Materials Co., Ltd, China; BH-017)], with each group comprising 30 individuals. At the start of anesthesia induction, the FAW blanket was activated and set to 43&#xa0;&#xb0;C until the completion of surgery. The primary endpoint was the average core body temperature during surgery. Secondary endpoints included hemodynamic and surgical variables, adverse events, and recovery metrics. In the manikin test, the observed results of the experimental parameters (heat distribution, air pressure difference, and hole observation test) for Group A are superior to those of the other groups. In the clinical study, although the mean perioperative core body temperature remained above 36&#xa0;&#xb0;C across all groups [Group A: 36.31&#x2009;&#xb1;&#x2009;0.04; Group B: 36.26&#x2009;&#xb1;&#x2009;0.06; Group C: 36.17&#x2009;&#xb1;&#x2009;0.03; Group D: 36.25&#x2009;&#xb1;&#x2009;0.05], patients in Group A maintained higher temperatures compared to the other groups (p&#x2009;<&#x2009;0.001). Among patients undergoing laparoscopic radical resection of colorectal cancer with general anesthesia, all four FAW systems effectively prevented perioperative hypothermia. However, the system in Group A minimized heat loss more effectively than the others, providing superior thermal protection. ChiCTR2200065394, 03/11/2022.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/03091902.2024.2386992
+- DOI: 10.1186/s12871-024-02734-z
 
 2. Keywords
-- Rehabilitation
-- athletic capacity
-- injured ligament reconstruction
-- knee joint
+- Core temperature
+- Forced-air warming blanket
+- Hypothermia
+- Radical resection of colorectal cancer
 
 3. Key Findings
-- In the 12week after the surgery, the NMES group demonstrated a Lysholm score of 93
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Rehabilitation assessment methods and outcomes
-- athletic capacity assessment methods and outcomes
-- injured ligament reconstruction assessment methods and outcomes
+- Core temperature assessment methods and outcomes
+- Forced-air warming blanket assessment methods and outcomes
+- Hypothermia assessment methods and outcomes

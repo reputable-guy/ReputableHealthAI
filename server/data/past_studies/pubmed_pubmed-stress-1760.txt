@@ -1,26 +1,20 @@
-Study Title: Acute physiological responses of blood flow restriction between high-intensity interval repetitions in trained cyclists.
+Study Title: Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation.
 
 Study Summary:
-Blood flow restriction (BFR) is increasingly being used to enhance aerobic performance in endurance athletes. This study examined physiological responses to BFR applied in recovery phases within a high-intensity interval training (HIIT) session in trained cyclists. Eleven competitive road cyclists (mean&#xa0;&#xb1;&#xa0;SD, age: 28&#xa0;&#xb1;&#xa0;7&#xa0;years, body mass: 69&#xa0;&#xb1;&#xa0;6&#xa0;kg, peak oxygen uptake: 65&#xa0;&#xb1;&#xa0;9&#xa0;mL &#xb7;&#xa0;kg&#xa0;&#xb7; min) completed two randomised crossover conditions: HIIT with (BFR) and without (CON) BFR applied during recovery phases. HIIT consisted of six 30-s cycling bouts at an intensity equivalent to 85% of maximal 30-s power (523&#xa0;&#xb1;&#xa0;93&#xa0;W), interspersed with 4.5-min recovery. BFR (200&#xa0;mmHg, 12&#xa0;cm cuff width) was applied for 2-min in the early recovery phase between each interval. Pulmonary gas exchange (V&#x307;O, V&#x307;CO, and V&#x307;E), tissue oxygen saturation index (TSI), heart rate (HR), and serum vascular endothelial growth factor concentration (VEGF) were measured. Compared to CON, BFR increased V&#x307;COand V&#x307;E during work bouts (both p&#xa0;<&#xa0;0.05, dz&#xa0;<&#xa0;0.5), but there was no effect on V&#x307;O, TSI, or HR (p&#xa0;>&#xa0;0.05). In early recovery, BFR decreased TSI, V&#x307;O, V&#x307;CO, and V&#x307;E (all p&#xa0;<&#xa0;0.05, dz&#xa0;>&#xa0;0.8) versus CON, with no change in HR (p&#xa0;>&#xa0;0.05). In late recovery, when BFR was released, V&#x307;O, V&#x307;CO, V&#x307;E, and HR increased, but TSI decreased versus CON (all p&#xa0;<&#xa0;0.05, dz&#xa0;>&#xa0;0.8). There was a greater increase in VEGF at 3-h post-exercise in BFR compared to CON (p&#xa0;<&#xa0;0.05, dz&#xa0;>&#xa0;0.8). Incorporating BFR into HIIT recovery phases altered physiological responses compared to exercise alone.
+Whether proton-pump inhibitors are beneficial or harmful for stress ulcer prophylaxis in critically ill patients undergoing invasive ventilation is unclear. In this international, randomized trial, we assigned critically ill adults who were undergoing invasive ventilation to receive intravenous pantoprazole (at a dose of 40 mg daily) or matching placebo. The primary efficacy outcome was clinically important upper gastrointestinal bleeding in the intensive care unit (ICU) at 90 days, and the primary safety outcome was death from any cause at 90 days. Multiplicity-adjusted secondary outcomes included ventilator-associated pneumonia,infection, and patient-important bleeding. A total of 4821 patients underwent randomization in 68 ICUs. Clinically important upper gastrointestinal bleeding occurred in 25 of 2385 patients (1.0%) receiving pantoprazole and in 84 of 2377 patients (3.5%) receiving placebo (hazard ratio, 0.30; 95% confidence interval [CI], 0.19 to 0.47; P<0.001). At 90 days, death was reported in 696 of 2390 patients (29.1%) in the pantoprazole group and in 734 of 2379 patients (30.9%) in the placebo group (hazard ratio, 0.94; 95% CI, 0.85 to 1.04; P&#x2009;=&#x2009;0.25). Patient-important bleeding was reduced with pantoprazole; all other secondary outcomes were similar in the two groups. Among patients undergoing invasive ventilation, pantoprazole resulted in a significantly lower risk of clinically important upper gastrointestinal bleeding than placebo, with no significant effect on mortality. (Funded by the Canadian Institutes of Health Research and others; REVISE ClinicalTrials.gov number, NCT03374800.).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ejsc.12107
+- DOI: 10.1056/NEJMoa2404245
 
 2. Keywords
-- cardiorespiratory
-- physiology
-- recovery
-- stress
-- training
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- cardiorespiratory assessment methods and outcomes
-- physiology assessment methods and outcomes
-- recovery assessment methods and outcomes
+- General research methodology and outcomes

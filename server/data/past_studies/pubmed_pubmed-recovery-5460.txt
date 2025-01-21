@@ -1,25 +1,26 @@
-Study Title: Nutritional support in hospitalised patients with diabetes and risk for malnutrition: a secondary analysis of an investigator-initiated, Swiss, randomised controlled multicentre trial.
+Study Title: Low-dose sufentanil does not affect tolerance to LBNP-induced central hypovolemia or blood pressure responses during a cold pressor test.
 
 Study Summary:
-The main objective of this study was to investigate the effects of nutritional support on mortality in hospitalised patients with diabetes and nutritional risk participating in the(EFFORT) trial. Secondary analysis of a Swiss-wide multicentre, randomised controlled trial. Patients with diabetes and risk for malnutrition. Individualised nutritional support versus usual care. 30-day all-cause mortality. Of the 2028 patients included in the original trial, 445 patients were diagnosed with diabetes and included in this analysis. In terms of efficacy of nutritional therapy, there was a 25% lower risk for mortality in patients with diabetes receiving nutritional support compared with controls (7% vs 10%, adjusted HR 0.75 (95% CI 0.39 to 1.43)), a finding that was not statistically significant but similar to the overall trial effects with no evidence of interaction (p=0.92). Regarding safety of nutritional therapy, there was no increase in diabetes-specific complications associated with nutritional support, particularly there was no increase in risk for hyperglycaemia (adjusted OR 0.97, 95% CI 0.56 to 1.67 p=0.90). Patients with diabetes and malnutrition in the hospital setting have a particularly high risk for adverse outcomes and mortality. Individualised nutritional support reduced mortality in this secondary analysis of a randomized trial, but this effect was not significant calling for further large-scale trials in this vhighly ulnerable patient population. NCT02517476.
+Hemorrhage is a leading cause of death in the prehospital setting. Since trauma-induced pain often accompanies a hemorrhagic insult, the administered pain medication must not interfere with critical autonomic regulation of arterial blood pressure and vital organ perfusion. The purpose of this study was to test two unrelated hypotheses:) sublingual sufentanil (Dsuvia) impairs tolerance to progressive central hypovolemia and) sublingual sufentanil attenuates pain sensation and the accompanying cardiovascular responses to a noxious stimulus. Twenty-nine adults participated in this double-blinded, randomized, crossover, placebo-controlled trial. After sublingual administration of sufentanil (30 &#x3bc;g) or placebo, participants completed a progressive lower-body negative pressure (LBNP) challenge to tolerance (). After a recovery period, participants completed a cold pressor test (CPT;). Addressing the first aim, tolerance to LBNP was not different between trials (= 0.495). Decreases in systolic blood pressure from baseline to the end of LBNP also did not differ between trials (time< 0.001, trial= 0.477, interaction= 0.587). Finally, increases in heart rate from baseline to the end of LBNP did not differ between trials (time< 0.001, trial= 0.626, interaction= 0.424). Addressing the second aim, sufentanil attenuated perceived pain (< 0.001) in response to the CPT, though the magnitude of the change in mean blood pressure during the CPT (= 0.078) was not different between trials. These data demonstrate that sublingual sufentanil does not impair tolerance to progressive central hypovolemia. Additionally, sublingual sufentanil attenuates perceived pain, but not the accompanying mean blood pressure responses to the CPT.Addressing two unique aims, we observed that sublingual sufentanil administration does not impair tolerance or cardiovascular responses to lower-body negative pressure (LBNP)-induced progressive central hypovolemia. Second, despite pain perception being reduced, sublingual sufentanil did not attenuate mean blood pressure responses to a cold pressor test (CPT).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/bmjopen-2024-084754
+- DOI: 10.1152/ajpregu.00003.2024
 
 2. Keywords
-- DIABETES & ENDOCRINOLOGY
-- NUTRITION & DIETETICS
-- Nutritional support
-- Randomized Controlled Trial
+- LBNP
+- cardiovascular
+- cold pressor test
+- hemorrhage
+- sufentanil
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- DIABETES & ENDOCRINOLOGY assessment methods and outcomes
-- NUTRITION & DIETETICS assessment methods and outcomes
-- Nutritional support assessment methods and outcomes
+- LBNP assessment methods and outcomes
+- cardiovascular assessment methods and outcomes
+- cold pressor test assessment methods and outcomes

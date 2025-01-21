@@ -1,30 +1,27 @@
-Study Title: Effects of a Tai Chi rehabilitation program implemented using a hybrid online and offline mode on oxidative stress and inflammatory responses in patients with coronary heart disease: a randomized controlled trial.
+Study Title: Honey Added to Yogurt with Bifidobacterium animalis subsp. lactis DN-173 010/CNCM I-2494 Supports Probiotic Enrichment but Does Not Reduce Intestinal Transit Time in Healthy Adults: A Randomized, Controlled, Crossover Trial.
 
 Study Summary:
-Coronary heart disease (CHD) is the leading cause of death in both developed and many developing countries. Exercise training is a fundamental component of cardiac rehabilitation programs for patients with CHD. This study aims to investigate the effects of a Tai Chi rehabilitation program, which is provided through a hybrid online and offline mode, on oxidative stress and inflammatory responses in patients with CHD. A total of 34 patients with coronary heart disease were randomly assigned to two groups: an experiment group (&#x2009;=&#x2009;14, age 62.07&#x2009;&#xb1;&#x2009;9.076&#x2009;years) and a control group (&#x2009;=&#x2009;20, age 61.90&#x2009;&#xb1;&#x2009;9.700&#x2009;years). The experiment group underwent a 12-week Tai Chi cardiac rehabilitation program (TCCRP), while the control group followed a conventional exercise rehabilitation program (CERP) consisting of 1-h sessions, 3 times per week, for a total of 36 sessions. Participants were studied at baseline and post-intervention. The main assessments include the levels of Malondialdehyde (MDA), Superoxide dismutase (SOD), Tumor necrosis factor (TNF-&#x3b1;) and Interleukin-10 (IL&#x2009;-&#x2009;10) in blood samples. Pearson correlation analysis was used, and the differences between the two groups were subsequently tested using two-way repeated ANOVA. Statistical significance was defined as a two-sided-value of <0.05. The key finding of the study reveals that MDA was significantly reduced by 1.027&#x2009;nmoL/mL. Additionally, the TCCRP showed significant improvements in SOD and IL-10, with values of 10.110&#x2009;U/mL and 2.441&#x2009;pg./mL, respectively. Notably, a significant positive correlation was found between SOD and IL-10 (&#x2009;=&#x2009;0.689,&#x2009;=&#x2009;0.006), while MDA showed a significant positive correlation with TNF-a (&#x2009;=&#x2009;0.542,&#x2009;=&#x2009;0.045). In contrast, the ECRP group only showed a significant improvement in SOD. The study conducted a 12-week program on TCCRP, which utilized a hybrid online and offline model for individuals with coronary heart disease. The program showed promising results in alleviating oxidative stress and inflammation, possibly by regulating the balance between oxidative and antioxidative factors, as well as pro-inflammatory and anti-inflammatory factors.
+Honey improves probiotic survival in vitro. However, if this effect translates to humans has not been investigated. We aimed to determine effects of honey plus yogurt containing the probiotic Bifidobacterium animalis subsp. lactis DN-173 010/CNCM I-2494 (B.&#xa0;animalis) on intestinal transit time, probiotic enrichment, digestive health, mood, and cognition in adults. Sixty-six healthy adults (34 female; 33.6 &#xb1; 9.8 y; 24.6 &#xb1; 3.0 kg/m) in a crossover trial were randomly assigned to 2-wk yogurt conditions in a counterbalanced order with &#x2265;4-wk washout: 1) Honey (HON): yogurt plus honey and 2) Negative Control (NC): heat-treated yogurt plus sugar. Of the participants, n = 62 completed the trial, and n = 37 (17 female; 32.0 &#xb1; 8.3 y; 25.0 &#xb1; 2.9 kg/m) elected to enroll in a third condition (a nonrandomized study extension) after &#x2265;4-wk washout with a reference Positive Control (PC): yogurt plus sugar. At baseline and end of each of the 3 conditions, intestinal transit time was measured with dye capsules; probiotic abundance with fecal DNA 16S sequencing; digestive health with symptom/function records, Bristol stool consistency, Gastrointestinal Tolerability, and Gastrointestinal Quality of Life Index; mood with Positive and Negative Affect Schedule-Short Form, Depression Anxiety Stress Scales-42, Patient-Reported Outcomes Measurement Information System questionnaires, and an emotional image task; and cognition with a spatial reconstruction task. Data were analyzed using linear mixed-effects models (LMMs) with significance at P &#x2264; 0.05. Baseline and end data were included in the LMM, with fixed effects being treatment, time, treatment by time interaction, and baseline covariate, and the random effect being the participant. B.&#xa0;animalis was enriched in HON (d = 3.54; P = 0.0002) compared to controls with linear discriminant analysis effect size. Intestinal transit time, gastrointestinal health, mood, and cognition did not differ between conditions (LMM: Ps > 0.05). Yogurt + honey enriched B.&#xa0;animalis but did not reduce intestinal transit time or have other functional gastrointestinal, mood, or cognitive effects in adults. This trial was registered at www. gov as NCT04187950 and NCT04901390.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpubh.2024.1369675
+- DOI: 10.1016/j.tjnut.2024.05.028
 
 2. Keywords
-- Tai Chi
-- coronary heart disease
-- inflammatory response
-- oxidative stress
-- randomized controlled trial
+- anxiety
+- cognition
+- depression
+- mood
+- regularity
+- stress
 
 3. Key Findings
-- Additionally, the TCCRP showed significant improvements in SOD and IL-10, with values of 10
-- Notably, a significant positive correlation was found between SOD and IL-10 (&#x2009;=&#x2009;0
-- 006), while MDA showed a significant positive correlation with TNF-a (&#x2009;=&#x2009;0
-- In contrast, the ECRP group only showed a significant improvement in SOD
-- The program showed promising results in alleviating oxidative stress and inflammation, possibly by regulating the balance between oxidative and antioxidative factors, as well as pro-inflammatory and anti-inflammatory factors
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Tai Chi assessment methods and outcomes
-- coronary heart disease assessment methods and outcomes
-- inflammatory response assessment methods and outcomes
+- anxiety assessment methods and outcomes
+- cognition assessment methods and outcomes
+- depression assessment methods and outcomes

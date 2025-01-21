@@ -1,25 +1,28 @@
-Study Title: A comparative study of university training of sports and physical activity kinesiologist.
+Study Title: The long-term effects of different telerehabilitation programs on respiratory, exercise, and activity-related parameters in COVID-19 survivors: a randomized controlled trial in T&#xfc;rkiye.
 
 Study Summary:
-In Italy, Legislative Decree No. 36/2021 and Ministerial Decree (MD) No. 1649/2023 have redefined the professional landscape of the physical activity and health sectors, emphasizing interdisciplinary and wellness-oriented education. The current disparity in the weighting of formative elements among the biomedical, psycho-pedagogical, and Exercise and Sport Sciences (ESS) fields in the configuration of degree courses in ESS has led to a need for reform. MD No. 1649/2023 offers an opportunity to reform these courses to emphasize interdisciplinary and wellness-oriented objectives, including at least 20 ECTS credits of practical activities in ESS disciplines. However, the impact of practical and laboratory activities on future kinesiologists has never been studied. This study aims to evaluate the impact of physical activity habits on the performance and self-assessment of ESS students. A sample of 56 students enrolled in the Master of Science in Sport Science and Techniques at the University of Salerno was divided into "active" and "inactive" groups based on their physical activity levels, according to WHO guidelines. Both groups underwent anthropometric and functional tests, including the Squat Jump (SJ) and Countermovement Jump (CMJ). Descriptive statistics and t-tests assessed the differences between and within groups. The "active" group exhibited significantly higher performance in SJ (15.7% higher) and CMJ (18.5% higher) compared to the "inactive" group. Both groups showed significant improvements in jump height from SJ to CMJ, with the "active" group improving by 11.04% and the 'non-active' group by 7.38%. Continuous physical activity enhances functional efficiency, with significant gains in explosive and reactive strength. Practical, evidence-based training is crucial for future kinesiologists to provide specialized services and promote health, underscoring the importance of integrating substantial practical activities in ESS degree courses.
+The long-term outcomes of different telerehabilitation gains for discharged COVID-19 patients are largely uncertain, and this point needs to be explored. This study aimed to research the effectiveness of telerehabilitation and compare the long-term results of videoconferencing-guided synchronous telerehabilitation and mobile application-guided asynchronous telerehabilitation programs, as well as determine the correlation between clinical and hemodynamic parameters. Exercise programs including aerobic exercises, strengthening exercises, and pulmonary exercises were given to COVID-19 patients discharged from the Kartal Dr. L&uuml;tfi Kirdar City Hospital in Istanbul, T&uuml;rkiye between August 2021 and January 2022, by videoconferencing or mobile application telerehabilitation. All patients underwent programs three times per week for 8 weeks. Lower extremity strength and functional status were assessed using a 30-second sit-to-stand test (30 s STS); physical activity level was assessed using the International Physical Activity Questionnaire short form (IPAQ); pulse oximetry was used to determine oxygen saturation and heart rate; and dyspnea and fatigue were assessed using a modified Borg Rating of Perceived Exertion Scale. Baseline, post-treatment, and long-term data were analyzed. A total of 27 patients completed the study. Significant improvement was seen in all parameters in long-term results with telerehabilitation programs (p<0.05). Especially in the between-group effect at rest (p=0.031) and post-exertion oxygen saturation (p=0.004), there were significant differences in favor of videoconferencing. Oxygen saturation was negatively correlated with dyspnea and fatigue (p<0.05). Post-exercise, dyspnea showed a moderate positive correlation with fatigue (r=0.582, p=0.001) and heart rate (r=0.412, p=0.033), while it exhibited a moderate negative correlation with 30 s STS (r=-0.424, p=0.027) and IPAQ (r=-0.401, p=0.038). Both methods generally provide positive gains in clinical and hemodynamic parameters, but the videoconferencing results were slightly better. Saturation at rest and dyspnea after exertion can provide a brief prediction about the cardiopulmonary system. Our findings are important for individuals who have access problems to the clinic and city center, and can be used for follow-up and treatment approaches.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13102-024-01016-y
+- DOI: 10.22605/RRH8757
 
 2. Keywords
-- Degree courses
-- Disciplinary knowledge
-- IPAQ
-- Squat Jump
+- dyspnea
+- fatigue
+- oxygen saturation
+- sit-to-stand
+- telerehabilitation
+- COVID-19
+- Turkiye
 
 3. Key Findings
-- Both groups showed significant improvements in jump height from SJ to CMJ, with the "active" group improving by 11
+- Post-exercise, dyspnea showed a moderate positive correlation with fatigue (r=0
 
 This study provides insights into:
-- Degree courses assessment methods and outcomes
-- Disciplinary knowledge assessment methods and outcomes
-- IPAQ assessment methods and outcomes
+- dyspnea assessment methods and outcomes
+- fatigue assessment methods and outcomes
+- oxygen saturation assessment methods and outcomes

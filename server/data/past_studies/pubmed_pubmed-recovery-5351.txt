@@ -1,20 +1,24 @@
-Study Title: Effects of alteplase and aspirin on functional outcomes in patients with acute ischemic stroke and mild non-disabling neurological deficit.
+Study Title: Insights on prevalence and incidence of anemia and rapid up-titration of oral heart failure treatment from the STRONG-HF study.
 
 Study Summary:
-Investigate the effect of Alteplase and Aspirin on the functional outcomes of patients with acute ischemic stroke with mild non-disabling neurological deficit. In this single-center, randomized controlled study, we selected 60 patients with acute ischemic stroke with mild non-disabling neurological deficit admitted to our hospital from January 2021 to January 2022, and randomly divided them into the study group (n&#x2005;=&#x2005;30) and the control group (n&#x2005;=&#x2005;30), the control group was given the Aspirin treatment, the study group was given the Alteplase treatment, and the changes in neurological recovery, daily living ability, exercise ability, balance ability, cognitive function, and short-term prognosis outcomes were observed in these 2 groups. The factors influencing the short-term outcome of Alteplase therapy in patients with acute ischemic stroke were analyzed. The National Institutes of Health Neurological Deficit Score (NIHSS) scores at T1 and T2 of the study group were lower than those in the control group, but the scores of Barthel indicators (BI), Fugl-Meyer Motor Assessment Scale (FMA), Berg Balance Scale (BBS) and Montreal Cognitive Assessment Scale (MoCA) of the study group were higher than those in the control group, and the difference was statistically significant (P&#x2005;<&#x2005;.05). The short-term prognostic outcomes of these 2 groups were not significantly different (P&#x2005;>&#x2005;.05). The effect of the use of Alteplase or Aspirin on short-term functional outcomes in patients with acute ischemic stroke and mild non-disabling neurological deficit is not much different.
+Anemia is one of the most frequent comorbidities in patients with heart failure (HF), which potentially can interfere with the effect of guideline-recommended HF medical therapy and can be associated with the use of neurohormonal blockers. The aim of this analysis was to determine the prevalence and changes of anemia status in the STRONG-HF study, its association with clinical endpoints, and possible interaction of the presence of anemia with the efficacy and safety of high-intensity HF treatment. The design and main results of the study have been previously described. Patients were randomized within 2&#xa0;days prior to anticipated hospital discharge after HF worsening in a 1:1 fashion to either high-intensity care (HIC) or usual care (UC). Baseline characteristics, clinical and safety outcomes, and treatment effect of HIC vs. UC on the primary and secondary outcomes were compared in groups based on baseline anemia. In addition, dynamics of hemoglobin during the study follow-up and predictors of incident anemia at 90&#xa0;days were investigated. The proportion of anemia in 1077 STRONG-HF patients at enrollment was 27.2%, while at 90&#xa0;days, it changed to 32.1%. The primary composite outcome occurred in 18.2% of patients without baseline anemia, and 22.5% of patients with baseline anemia (unadjusted HR 1.27; 95% CI 0.90-1.80), a difference that did not reach statistical significance. However, patients with baseline anemia had significantly less improvement of EQ-VAS questionnaire values from baseline to day 90 (adjusted LS-Mean difference -2.34 (-4.37, -0.31), P&#x2009;=&#x2009;0.02). During the study, anemia developed in 19.4 and 14.6% in HIC and UC groups, respectively. The opposite phenomenon-recovery of anemia-occurred in 27.6 and 28.8% in HIC and UC groups (P&#x2009;=&#x2009;0.1379). The predictors of incident anemia at 90&#xa0;days were male sex, geographical region other than Europe, ischemic etiology, higher glucose, and elevated uric acid at baseline. The percentages of optimal doses of renin-angiotensin system inhibitors, beta-blockers, and mineralocorticoid receptor antagonists were not different between anemic and non-anemic patients. High-intensity care strategy did not increase rate of incident anemia at 90&#xa0;days and reduced the rate of primary and secondary endpoints regardless of baseline hemoglobin. Hemoglobin level and status of anemia have a dynamic nature in the acute HF patients in the post-discharge period dependent on multiple factors. High-intensity HF treatment is safe and beneficial regardless of baseline hemoglobin level and presence of anemia. The improvement of quality of life is significantly lower in anemic HF patients implying specific attention to correction of this condition.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000037307
+- DOI: 10.1007/s00392-024-02518-y
 
 2. Keywords
-
+- Anemia
+- Guideline-directed medical therapy
+- Heart failure
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Anemia assessment methods and outcomes
+- Guideline-directed medical therapy assessment methods and outcomes
+- Heart failure assessment methods and outcomes

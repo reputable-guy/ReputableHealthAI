@@ -1,29 +1,31 @@
-Study Title: Long-term night-to-night variability of sleep-disordered breathing using a radar-based home sleep apnea test: a prospective cohort study.
+Study Title: Association between multiple sleep dimensions in obstructive sleep apnea and an early sign of atherosclerosis.
 
 Study Summary:
-Night-to-night variability of sleep-disordered breathing limits the diagnostic accuracy of a single measurement. Multiple recordings using a reliable, affordable method could reduce the uncertainty and avoid misdiagnosis, which could be possible with radar-based home sleep apnea testing (HSAT). We recruited consecutive patients with suspected sleep-disordered breathing and performed contactless radar-based HSAT with automated scoring (Sleepiz One; Sleepiz AG, Zurich, Switzerland) over 10 nights. During the first night, patients were simultaneously measured with peripheral arterial tonometry. Twenty-four of the 28 included patients could achieve a minimum of 4 measurements. The failure rate was 16% (37 of 238 measurements). The apnea-hypopnea index (AHI) and oxygen desaturation index were consistently lower with radar-based HSAT compared with peripheral arterial tonometry. The variability of the AHI was considerable, with a standard error of measurement of 5.2 events/h (95% confidence interval [CI]: 4.6-5.7 events/h) and a minimal detectable difference of 14.4 events/h (95% CI: 12.7-15.9 events/h). Alcohol consumption partially accounted for the variability, with an AHI increase of 1.7 events/h (95% CI: 0.6-2.8 events/h) for each standard drink. Based on a single measurement, 17% of patients were misdiagnosed and 32% were misclassified for sleep-disordered breathing severity. After 5 measurements, the mean AHI of the measured nights stabilized with no evidence of substantial changes with additional measurements. Night-to-night variability is considerable and stable over 10 nights. HSAT using radar-based methods over multiple nights is feasible and well tolerated by patients. It could offer lower costs and allow for multiple-night testing to increase accuracy. However, validation and reducing the failure rate are necessary for implementation in the clinical routine. Registry: ClinicalTrials.gov; Name: Recording of Multiple Nights Using a New Contactless Device (Sleepiz One Connect) in Obstructive Sleep Apnea; URL: https://clinicaltrials.gov/study/NCT05134402; Identifier: NCT05134402. Tschopp S, Borner U, Caversaccio M, Tschopp K. Long-term night-to-night variability of sleep-disordered breathing using a radar-based home sleep apnea test: a prospective cohort study.. 2024;20(7):1079-1086.
+We investigated the associations between multiple sleep dimensions in obstructive sleep apnea (OSA) and carotid intima-media thickness (CIMT), an early sign of atherosclerosis, in participants from the Shanghai Sleep Health Study. We performed secondary analysis of SSHS in a group of subjects who underwent ultrasound evaluation from 2018 to 2022. Multiple sleep dimensions were measured using standard polysomnography. CIMT was measured from ultrasound images as an early sign of atherosclerosis. Multivariable-adjusted linear regression and logistic regression analyses were performed to detect associations between sleep traits in OSA and CIMT. CIMT was found to increase with increasing severity of OSA (< .001). When adjusted for conventional risk factors, microarousal index and hypoxic burden were positively correlated with CIMT, while slow-wave sleep and mean apnea-hypopnea event duration showed a negative correlation with CIMT (all< .01). In binary logistic regression analysis, participants with a high microarousal index, less slow-wave sleep, higher hypoxic burden, and shorter mean apnea-hypopnea event duration showed a higher prevalence of thick CIMT with no evidence of interaction by age, sex, or body mass index (-interaction > .05). Patients with more severe sleep fragmentation, more severe hypoxemia, and increased arousability were more likely to have increased CIMT after adjusting for potential confounders. It is important to evaluate novel indices of sleep fragmentation, hypoxemia, and arousability in OSA for early detection and prevention of cardiovascular disease, including stroke. Registry: Chinese Clinical Trial Registry; Name: Establishing Bio-bank and Cohort of OSAHS in Hospital-based Population; URL: http://www.chictr.org.cn/showproj.aspx?proj=43057; Identifier: ChiCTR1900025714. Huang W, Zhou E, Zhang J, et&#xa0;al. Association between multiple sleep dimensions in obstructive sleep apnea and an early sign of atherosclerosis.. 2024;20(7):1093-1104.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.5664/jcsm.11070
+- DOI: 10.5664/jcsm.11090
 
 2. Keywords
-- Sleepiz
-- WatchPAT
-- diagnosis
-- home sleep apnea testing
-- night-to-night variability
+- carotid intima-media thickness
+- event duration
+- hypoxic burden
+- microarousal index
 - obstructive sleep apnea
-- peripheral arterial tonometry
-- sleep-disordered breathing
+- slow-wave sleep
+- stroke
 
 3. Key Findings
-- Findings extraction requires manual review
+- CIMT was found to increase with increasing severity of OSA (<
+- When adjusted for conventional risk factors, microarousal index and hypoxic burden were positively correlated with CIMT, while slow-wave sleep and mean apnea-hypopnea event duration showed a negative correlation with CIMT (all<
+- In binary logistic regression analysis, participants with a high microarousal index, less slow-wave sleep, higher hypoxic burden, and shorter mean apnea-hypopnea event duration showed a higher prevalence of thick CIMT with no evidence of interaction by age, sex, or body mass index (-interaction >
+- Patients with more severe sleep fragmentation, more severe hypoxemia, and increased arousability were more likely to have increased CIMT after adjusting for potential confounders
 
 This study provides insights into:
-- Sleepiz assessment methods and outcomes
-- WatchPAT assessment methods and outcomes
-- diagnosis assessment methods and outcomes
+- carotid intima-media thickness assessment methods and outcomes
+- event duration assessment methods and outcomes
+- hypoxic burden assessment methods and outcomes

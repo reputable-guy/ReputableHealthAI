@@ -1,20 +1,24 @@
-Study Title: Concurrent tDCS-fMRI after stroke reveals link between attention network organization and motor improvement.
+Study Title: Evaluation of surgical condition during laparoscopic gynaecological surgery in patients with moderate vs. deep neuromuscular block in low-pressure pneumoperitoneum.
 
 Study Summary:
-Restoring motor function after stroke necessitates involvement of numerous cognitive systems. However, the impact of damage to motor and cognitive network organization on recovery is not well understood. To discover correlates of successful recovery, we explored imaging characteristics in chronic stroke subjects by combining noninvasive brain stimulation and fMRI. Twenty stroke survivors (6&#xa0;months or more after stroke) were randomly assigned to a single session of transcranial direct current stimulation (tDCS) or sham during image acquisition. Twenty healthy subjects were included as controls. tDCS was limited to 10&#xa0;min at 2&#xa0;mA to serve as a mode of network modulation rather than therapeutic delivery. Fugl-Meyer Assessments (FMA) revealed significant motor improvement in the chronic stroke group receiving active stimulation (p&#x2009;=&#x2009;0.0005). Motor changes in this group were correlated in a data-driven fashion with imaging features, including functional connectivity (FC), surface-based morphometry, electric field modeling and network topology, focusing on relevant regions of interest. We observed stimulation-related changes in FC in supplementary motor (p&#x2009;=&#x2009;0.0029), inferior frontal gyrus (p&#x2009;=&#x2009;0.0058), and temporo-occipital (p&#x2009;=&#x2009;0.0095) areas, though these were not directly related to motor improvement. The feature most strongly associated with FMA improvement in the chronic stroke cohort was graph topology of the dorsal attention network (DAN), one of the regions surveyed and one with direct connections to each of the areas with FC changes. Chronic stroke subjects with a greater degree of motor improvement had lower signal transmission cost through the DAN (p&#x2009;=&#x2009;0.029). While the study was limited by a small stroke cohort with moderate severity and variable lesion location, these results nevertheless suggest a top-down role for higher order areas such as attention in helping to orchestrate the stroke recovery process.
+The significant effect of deep neuromuscular block (NMB) in laparoscopic surgery is still controversial, especially in lower-pressure pneumoperitoneum. This study investigates the effect of deep neuromuscular block on intraabdominal pressure (IAP), surgical space quality, post-operative abdominal pain, and shoulder tip pain in laparoscopic gynaecological surgery. This is a randomised, double-blinded control trial which randomised samples to moderate NMB (train-of-four count [TOF] of 1 or 2) or deep NMB (post-tetanic count [PTC] of 1 or 2). Surgery began with IAP 8 mmHg but was allowed to increase the pressure if the surgical condition was unfavourable. The surgical condition was rated on a 4-point scale. Post-operative abdominal pain and shoulder tip pain was assessed using a numerical rating scale for pain, with 0 defined as no pain and 10 severe pain at recovery area (time 0), 30 minutes, and 24 hours post-operation. Seventy patients completed the study. The rate of increasing IAP between the 2 groups ( P = 0.172) is not significant, but deep NMB requires less pressure - mean highest IAP of 10.31 (&#xb1; 1.39) mmHg, moderate NMB 11.54 (&#xb1; 1.69) mmHg. The mean surgical space condition score was significantly better in the deep NMB group at 2.4 (&#xb1; 0.7) compared to moderate NMB at 3.2 (&#xb1; 0.66), P < 0.005. There was a significantly lower post-operative abdominal pain score in deep NMB but no significant difference in shoulder tip pain score between the 2 groups. Deep NMB enables the usage of lower IAP in laparoscopic surgery without interfering with surgical space condition, and it reduces the post-operative abdominal pain score in 24 hours compared to moderate NMB.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-70083-5
+- DOI: 10.5114/ait.2024.141209
 
 2. Keywords
-
+- deep neuromuscular block
+- lower-pressure pneumoperitoneum
+- laparoscopic surgery
 
 3. Key Findings
-- Fugl-Meyer Assessments (FMA) revealed significant motor improvement in the chronic stroke group receiving active stimulation (p&#x2009;=&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- deep neuromuscular block assessment methods and outcomes
+- lower-pressure pneumoperitoneum assessment methods and outcomes
+- laparoscopic surgery assessment methods and outcomes

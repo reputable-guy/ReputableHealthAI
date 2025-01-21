@@ -1,28 +1,26 @@
-Study Title: Effect of daridorexant on sleep architecture in patients with chronic insomnia disorder: a pooled post hoc analysis of two randomized phase 3 clinical studies.
+Study Title: The effect of circadian timing program for evening-chronotype individuals with obesity on obesity management and sleep quality: A randomized controlled trial.
 
 Study Summary:
-Post hoc analysis to evaluate the effect of daridorexant on sleep architecture in people with insomnia, focusing on features associated with hyperarousal. We studied sleep architecture in adults with chronic insomnia disorder from two randomized phase 3 clinical studies (Clinicaltrials.gov: NCT03545191 and NCT03575104) investigating 3 months of daridorexant treatment (placebo, daridorexant 25 mg, daridorexant 50 mg). We analyzed sleep-wake transition probabilities, EEG spectra, and sleep spindle properties including density, dispersion, and slow oscillation phase coupling. The wake EEG similarity index (WESI) was determined using a machine learning algorithm analyzing the spectral profile of the EEG. At month 3, daridorexant 50 mg decreased wake-to-wake transition probabilities (p&#x2005;<&#x2005;.05) and increased the probability of transitions from wake-to-N1 (p&#x2005;<&#x2005;.05), N2 (p&#x2005;<&#x2005;.05), and REM sleep (p&#x2005;<&#x2005;.05), as well as from N1-to-N2 (p&#x2005;<&#x2005;.05) compared to baseline and placebo. Daridorexant 50 mg decreased relative beta power during wake (p&#x2005;=&#x2005;.011) and N1 (p&#x2005;<&#x2005;.001) compared to baseline and placebo. During the wake, relative alpha power decreased (p&#x2005;<&#x2005;.001) and relative delta power increased (p&#x2005;<&#x2005;.001) compared to placebo. Daridorexant did not alter EEG spectra bands in N2, N3, and REM stages or in sleep spindle activity. Daridorexant decreased the WESI score during wake compared to baseline (p&#x2005;=&#x2005;.004). Effects with 50 mg were consistent between months 1 and 3 and less pronounced with 25 mg. Daridorexant reduced EEG features associated with hyperarousal as indicated by reduced wake-to-wake transition probabilities and enhanced spectral features associated with drowsiness and sleep during wake and N1. ClinicalTrials.gov NCT03545191: study to assess the efficacy and safety of ACT-541468 (daridorexant) in adult and elderly participants with insomnia disorder. URL: Study Details | study to assess the efficacy and safety of ACT-541468 (daridorexant) in adult and elderly participants with insomnia disorder | ClinicalTrials.gov ClinicalTrials.gov NCT03575104:study to assess the efficacy and safety of ACT-541468 (daridorexant) in adult and elderly participants who experience difficulties sleeping. URL: study details | study to assess the efficacy and safety of ACT-541468 (daridorexant) in adult and elderly participants who experience difficulties sleeping | ClinicalTrials.gov.
+The study aimed to investigate the effect of the circadian timing program (S&#x130;ZAP) developed for evening-chronotype individuals with obesity on obesity management and sleep quality. This single-site, randomized controlled trial with an experimental research design was registered in ClinicalTrials.gov. It was reported in accordance with the "Consolidated Standards of Reporting Trials" (CONSORT) randomized controlled trial guidelines. The study sample consisted of 38 evening-chronotype individuals with first-degree obesity, with 19 individuals in each study group. The intervention group's sleep hygiene training was conducted and their lifestyle changes were ensured through S&#x130;ZAP. The control group followed their normal daily lifestyle. No intervention was made in terms of the dietary practices of both groups. Study data were collected using the personal information form, the anthropometric measurement form, the Horne and Ostberg Morning and Evening Questionnaire (MEQ), the Impact of weight on quality of life-lite (IWQOL-lite), the Pittsburgh Sleep Quality Index (PSQI), the Epworth Sleepiness Scale (ESS), the sleep diary, and the data tracked via the website and smart bracelets. It was determined that the participants in the S&#x130;ZAP group had a statistically significant decrease in the anthropometric measurements and daytime sleepiness (p&#xa0;<&#xa0;0.05). The sleep quality scores and the scores of the bodily functions sub-dimension of the quality of life scale were significantly better in the intervention group than in the control group (p&#xa0;<&#xa0;0.05). It was found that S&#x130;ZAP is effective in obesity management in evening-chronotype individuals and increases weight loss success and sleep quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/sleep/zsae098
+- DOI: 10.1016/j.sleep.2024.04.017
 
 2. Keywords
-- EEG analysis
-- insomnia
-- neurobiology of sleep and arousal
-- sleep and the brain
-- sleep spindles
-- sleep&#x2013;wake mechanisms
-- sleep&#x2013;wake physiology
+- Chronotype
+- Circadian misalignment
+- Obesity
+- Sleep quality
+- evening chronotype
 
 3. Key Findings
-- Daridorexant reduced EEG features associated with hyperarousal as indicated by reduced wake-to-wake transition probabilities and enhanced spectral features associated with drowsiness and sleep during wake and N1
+- It was found that S&#x130;ZAP is effective in obesity management in evening-chronotype individuals and increases weight loss success and sleep quality
 
 This study provides insights into:
-- EEG analysis assessment methods and outcomes
-- insomnia assessment methods and outcomes
-- neurobiology of sleep and arousal assessment methods and outcomes
+- Chronotype assessment methods and outcomes
+- Circadian misalignment assessment methods and outcomes
+- Obesity assessment methods and outcomes

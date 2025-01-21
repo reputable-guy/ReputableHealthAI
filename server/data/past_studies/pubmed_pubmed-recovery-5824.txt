@@ -1,29 +1,27 @@
-Study Title: Enhancement of mineral density and mechanical properties in root caries treated with silver diammine fluoride and glass ionomer cement, with emphasis on silver ion distribution.
+Study Title: Effects of photobiomodulation applied at different times on functional performance and ergogenic response of rugby athletes: Randomized clinical trial.
 
 Study Summary:
-This study aimed to measure the distribution of silver ion (Ag), mineral recovery, and nanohardness in carious lesions and comprehensively evaluate the degree of dentin restoration. Sixty human teeth with root caries were randomly assigned to the control, silver diammine fluoride (SDF) [Safo], and SDF+Glass ionomer cement (GIC) treatment [Safo+Fuji] groups. Micro-computed tomography (micro-CT) was performed at five time points for each sample before/after treatment to evaluate mineral density within and around carious lesions. Three months following treatment, 12 samples were selected for synchrotron radiation X-ray fluorescence analysis to evaluate Agdistribution, while 15 samples were selected for nanoindentation. Data were analyzed using Dunnett's T3 test for micro-CT and Wilcoxon rank sum test with Bonferroni correction (p = 0.017) for nanoindentation. The correlation between hardness and mineral change was analyzed using the Spearman rank correlation coefficient. The Safo and Safo+Fuji groups showed significantly higher mineral recovery rates than did the control group (p < 0.001). In the Safo group, Agaccumulated in the deeper layers rather than the superficial layer of caries. In the Safo+Fuji group, Agwas found evenly distributed throughout caries, with only a few Agdetected in the GIC layer. Hardness in the Safo+Fuji group was significantly higher compared with the Safo group at depths in the range of 10-50 &#xb5;m. In the presence of GICs, SDF exhibited high remineralization capacity when diffusing throughout carious lesions over time. Combined treatment with SDF and GIC could strengthen root dentin even in the presence of caries. We found that combination treatment with SDF and GIC could increase mineral density in caries and improve the hardness of the tooth structure compared with fluoride-based agents alone. These findings might pave the way for future clinical trials to determine the therapeutic potential of nanotechnology-based restorative materials.
+Photobiomodulation (PBM) is indicated to accelerate the recovery of athletes and reduce muscle damage caused by physical exercise. The objective of this study was to establish the best time to apply photobiomodulation to increase the functional performance and ergogenic response of rugby athletes. Randomized crossover clinical trial with 18 rugby athletes of both sexes. The interventions were carried out from January to May 2019. The blood levels of creatine kinase (CK) and lactate, and performance in the Modified Star Excursion Balance Test, Single Hop Test, Triple Hop Test, Bangsbo Sprint test (BST), and Yo-Yo intermittent recovery level 1 (YoyoIR1) were evaluated. The athletes underwent two blocks of exercises with the BST and Yoyo-IR1, as well as the random application of four interventions: without application of photobiomodulation (CO), pre-exercise photobiomodulation (PBpre), PBM during the exercise interval (PBint), or post-exercise photobiomodulation (PBpos). The photobiomodulation using light-emitting diodes (850&#xa0;nm, 8&#xa0;J/cm) lasted 10&#xa0;min and was applied to the quadriceps, hamstrings, and triceps surae muscles. The results were compared between groups and times, and the effect size for the interventions was established. No differences were found between groups in CK, lactate, and performance in the functional tests between groups and times. Only the PBpre presented improved performance in the first Yoyo-1R1 test (p&#xa0;<&#xa0;0.01), while the PBint improved in the second Yoyo-IR1 test and BST (p&#xa0;<&#xa0;0.05). The PBM did not change muscle damage markers or performance in the functional tests. For an ergogenic response, photobiomodulation applied before exercise improves performance, which can be maintained when PBM is performed in the exercise interval.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jdent.2024.105041
+- DOI: 10.1016/j.jbmt.2023.11.052
 
 2. Keywords
-- Dental caries
-- Dentin restoration
-- Glass ionomer cement
-- Micro-computed tomography
-- Silver diammine fluoride
-- Synchrotron radiation X-ray fluorescence analysis
+- Athletic performance
+- Phototherapy
+- Physical therapy modalities
+- Prevention
+- Recovery
 
 3. Key Findings
-- The Safo and Safo+Fuji groups showed significantly higher mineral recovery rates than did the control group (p < 0
-- In the Safo+Fuji group, Agwas found evenly distributed throughout caries, with only a few Agdetected in the GIC layer
-- We found that combination treatment with SDF and GIC could increase mineral density in caries and improve the hardness of the tooth structure compared with fluoride-based agents alone
+- Photobiomodulation (PBM) is indicated to accelerate the recovery of athletes and reduce muscle damage caused by physical exercise
+- No differences were found between groups in CK, lactate, and performance in the functional tests between groups and times
 
 This study provides insights into:
-- Dental caries assessment methods and outcomes
-- Dentin restoration assessment methods and outcomes
-- Glass ionomer cement assessment methods and outcomes
+- Athletic performance assessment methods and outcomes
+- Phototherapy assessment methods and outcomes
+- Physical therapy modalities assessment methods and outcomes

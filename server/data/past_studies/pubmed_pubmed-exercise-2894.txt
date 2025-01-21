@@ -1,26 +1,25 @@
-Study Title: Affordable web-based foot-ankle exercise program proves effective for diabetic foot care in a randomized controlled trial with economic evaluation.
+Study Title: Do the effects last? A comparison between internal and external focus of attention instructions on golf putting accuracy over multiple days.
 
 Study Summary:
-The aim of this study was to shed light on a crucial issue through a comprehensive evaluation of the cost-effectiveness and cost-utility of a cutting-edge web-based foot-ankle therapeutic exercise program (SOPeD) designed for treating modifiable risk factors for ulcer prevention in individuals with diabetes-related peripheral neuropathy (DPN). In this randomized controlled trial, 62 participants diagnosed with DPN were assigned to the SOPeD software or received usual care for diabetic foot. Primary outcomes were DPN symptoms and severity, foot pain and function, and quality-adjusted life years (QALYs). Between-group comparisons provided 95% confidence intervals. The study also calculated incremental cost-effectiveness and cost-utility ratios (ICERs), analyzed direct costs from a healthcare perspective, and performed a sensitivity analysis to assess uncertainty. The web-based intervention effectively reduced foot pain, improved foot function and showed favorable cost-effectiveness, with ICERs ranging from (USD) $5.37-$148.71 per improvement in different outcomes. There is a high likelihood of cost-effectiveness for improving DPN symptoms and severity, foot pain, and function, even when the minimum willingness-to-pay threshold was set at $1000.00 USD. However, the intervention did not prove to be cost-effective in terms of QALYs. This study reveals SOPeD's effectiveness in reducing foot pain, improving foot function, and demonstrating cost-effectiveness in enhancing functional and clinical outcomes. SOPeD stands as a potential game-changer for modifiable risk factors for ulcers, with our findings indicating a feasible and balanced integration into public health systems. Further studies and considerations are vital for informed decisions to stakeholders and the successful implementation of this preventive program on a larger scale.Trial Registration: ClinicalTrials.gov, NCT04011267. Registered on 8 July 2019.
+The role of attentional focus is a well-explored topic in exercise sciences. Studies generally indicate that external focus (EF) enhances motor performance and learning compared with internal focus (IF). However, most studies only included one or two experimental days which limits participants' exposure to the focus conditions. This raises the question of whether the superiority of EF varies over time. Accordingly, in this pre-registered within-subject study, we examined the effects of focus instructions on golf-putting performance over four days, with 48-72 h between them. On each day, participants performed 15 putts under three instructional conditions: (1) EF, (2) IF, and (3) control, in a randomized and counterbalanced order. We observed trivial differences in performance between conditions but considerable improvements from day 1 to day 4. When using an exploratory analysis, we found that participants performed better under EF and control conditions compared with the IF condition on day 1, but not on subsequent days. Since IF instructions are more commonly used in practice, we speculate that the two other focus conditions were experienced as more novel, potentially accounting for their superiority on Day 1. Nevertheless, our results question the significance of employing EF to enhance performance.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-67176-6
+- DOI: 10.7717/peerj.17718
 
 2. Keywords
-- Cost-effectiveness
-- Diabetic neuropathies
-- Foot exercise therapy
-- Prevention
-- Rehabilitation technology
+- Attentional focus
+- Golf putting
+- Learning strategies
+- Motor performance
 
 3. Key Findings
-- The web-based intervention effectively reduced foot pain, improved foot function and showed favorable cost-effectiveness, with ICERs ranging from (USD) $5
+- When using an exploratory analysis, we found that participants performed better under EF and control conditions compared with the IF condition on day 1, but not on subsequent days
 
 This study provides insights into:
-- Cost-effectiveness assessment methods and outcomes
-- Diabetic neuropathies assessment methods and outcomes
-- Foot exercise therapy assessment methods and outcomes
+- Attentional focus assessment methods and outcomes
+- Golf putting assessment methods and outcomes
+- Learning strategies assessment methods and outcomes

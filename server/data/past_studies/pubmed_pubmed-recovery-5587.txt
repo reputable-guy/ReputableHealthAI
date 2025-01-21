@@ -1,27 +1,26 @@
-Study Title: Differences in the Cellular Immune Response during and after Treatment of Sudanese Patients with Post-kala-azar Dermal Leishmaniasis, and Possible Implications for Outcome.
+Study Title: Early Predictors of Recovery From Nonoperatively Treated Achilles Tendon Rupture: 1&#x2009;Year Follow-Up Study.
 
 Study Summary:
-The host cellular immune response associated with two treatments for post-kala-azar dermal leishmaniasis (PKDL) - paromomycin plus miltefosine (Arm 1), and liposomal amphotericin B plus miltefosine (Arm 2) - was examined in Sudanese patients before treatment (D0), at the end of treatment (D42), and during the post-treatment period (D180). Whole blood samples were stimulated with soluble Leishmania antigen for 24&#xa0;h (whole blood assay [WBA]) and the concentrations of Th1/Th2/Th17-associated cytokines, IP-10, PDL-1 and granzyme B were determined. The Arm 1 treatment (98.2% cure rate) induced a Th1/Th2/Th17 response, while the Arm 2 treatment (80% cure rate) induced a Th1/Th2 response. Five Arm 2 patients relapsed and showed lower IFN-&#x3b3;, TNF and IL-1&#x3b2; concentrations at D0 than non-relapsers in this Arm. In patients with low-IFN-&#x3b3;-production at D0, Arm 1 treatment led to a better host immune response and clinical outcome than Arm 2 treatment. A Th1/Th2/Th17 response was associated with a higher cure rate. Patients with low IFN-&#x3b3;, TNF and IL-1&#x3b2; before treatment are more likely to relapse if they undergo Arm 2-type treatment. Determining IFN-&#x3b3;, TNF and IL-10 levels prior to treatment could help predict patients at higher risk of relapse/recovery from PKDL. ClinicalTrials.gov NCT03399955, Registered 17 January 2018, https://clinicaltrials.gov/study/ NCT03399955.
+To investigate early structural and mechanical predictors of plantarflexor muscle strength and the magnitude of Achilles tendon (AT) nonuniform displacement at 6 and 12&#x2009;months after AT rupture. Thirty-five participants (28 males and 7 females; mean&#x2009;&#xb1;&#x2009;SD age 41.7&#x2009;&#xb1;&#x2009;11.1&#x2009;years) were assessed for isometric plantarflexion maximal voluntary contraction (MVC) and AT nonuniformity at 6 and 12&#x2009;months after rupture. Structural and mechanical AT and plantarflexor muscle properties were measured at 2&#x2009;months. Limb asymmetry index (LSI) was calculated for all variables. Multiple linear regression was used with the 6 and 12&#x2009;month MVC LSI and 12&#x2009;month AT nonuniformity LSI as dependent variables and AT and plantarflexor muscle properties at 2&#x2009;months as independent variables. The level of pre- and post-injury sports participation was inquired using Tegner score at 2 and 12&#x2009;months (scale 0-10, 10&#x2009;=&#x2009;best possible score). Subjective perception of recovery was assessed with Achilles tendon total rupture score (ATRS) at 12&#x2009;months (scale 0-100, 100=best possible score). Achilles tendon resting angle (ATRA) symmetry at 2&#x2009;months predicted MVC symmetry at 6 and 12&#x2009;months after rupture (&#x3b2;&#x2009;=&#x2009;2.530, 95% CI 1.041-4.018, adjusted R&#x2009;=&#x2009;0.416, p&#x2009;=&#x2009;0.002; &#x3b2;&#x2009;=&#x2009;1.659, 95% CI 0.330-2.988, adjusted R&#x2009;=&#x2009;0.418, p&#x2009;=&#x2009;0.016, respectively). At 12&#x2009;months, participants had recovered their pre-injury level of sports participation (Tegner 6&#x2009;&#xb1;&#x2009;2 points). The median (IQR) ATRS score was 92 (7) points at 12&#x2009;months. Greater asymmetry of ATRA in the early recovery phase may be a predictor of plantarflexor muscle strength deficits up to 1&#x2009;year after rupture. This research is a part of "nonoperative treatment of Achilles tendon rupture in Central Finland: a prospective cohort study" that has been registered in ClinicalTrials.gov (NCT03704532).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s44197-024-00270-0
+- DOI: 10.1111/sms.14700
 
 2. Keywords
-- Cytokines
-- Leishmaniasis
-- Outcome
-- PKDL
-- Treatment
-- Whole blood assay
+- Achilles tendon resting angle
+- shear wave elastography
+- strength deficit
+- tendon nonuniformity
+- ultrasonography
 
 3. Key Findings
-- Five Arm 2 patients relapsed and showed lower IFN-&#x3b3;, TNF and IL-1&#x3b2; concentrations at D0 than non-relapsers in this Arm
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cytokines assessment methods and outcomes
-- Leishmaniasis assessment methods and outcomes
-- Outcome assessment methods and outcomes
+- Achilles tendon resting angle assessment methods and outcomes
+- shear wave elastography assessment methods and outcomes
+- strength deficit assessment methods and outcomes

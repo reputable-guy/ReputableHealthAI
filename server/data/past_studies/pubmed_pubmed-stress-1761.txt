@@ -1,26 +1,26 @@
-Study Title: Exercise responses to repeated cycle sprints with continuous and intermittent hypoxic exposure.
+Study Title: Acute physiological responses of blood flow restriction between high-intensity interval repetitions in trained cyclists.
 
 Study Summary:
-We examine the impact of the acute manipulation of oxygen availability during discrete phases (active and passive) of a repeated-sprint cycling protocol on performance, physiological, and perceptual responses. On separate days, twelve trained males completed four sets of five 5-s 'all out' cycle sprints (25-s inter-sprint recovery and 5-min interset rest) in four randomized conditions: normobaric hypoxia (inspired oxygen fraction of 12.9%) applied continuously (C-HYP), intermittently during only the sets of sprints (I-HYP) or between-sets recovery periods (I-HYP), or not at all (C-NOR). Peak and mean power output, peripheral oxygen saturation, heart rate, blood lactate concentration, exercise-related sensations, and vastus lateralis muscle oxygenation using near-infrared spectroscopy were assessed. Peak and mean power output was &#x223c;4%-5% lower for C-HYP compared to C-NOR (P&#xa0;&#x2264;&#xa0;0.050) and I-HYP(P&#xa0;&#x2264;&#xa0;0.027). Peripheral oxygen saturation was lower during C-HYP and I-HYPcompared with C-NOR and I-HYPduring sets of sprints (&#x223c;83-85 vs. &#x223c;95%-97%; P&#xa0;<&#xa0;0.001), while lower values were obtained for C-HYP and I-HYPthan C-NOR and I-HYPduring between-sets rest period (&#x223c;84-85 vs. &#x223c;96%; P&#xa0;<&#xa0;0.001). Difficulty in breathing was &#x223c;21% higher for C-HYP than C-NOR (P&#xa0;=&#xa0;0.050). Ratings of perceived exertion (P&#xa0;=&#xa0;0.435), limb discomfort (P&#xa0;=&#xa0;0.416), heart rate (P&#xa0;=&#xa0;0.605), blood lactate concentration (P&#xa0;=&#xa0;0.976), and muscle oxygenation-derived variables (P&#xa0;=&#xa0;0.056 to 0.605) did not differ between conditions. In conclusion, the method of hypoxic exposure application (continuous vs. intermittent) affects mechanical performance, while internal demands remained essentially comparable during repeated cycle sprints.
+Blood flow restriction (BFR) is increasingly being used to enhance aerobic performance in endurance athletes. This study examined physiological responses to BFR applied in recovery phases within a high-intensity interval training (HIIT) session in trained cyclists. Eleven competitive road cyclists (mean&#xa0;&#xb1;&#xa0;SD, age: 28&#xa0;&#xb1;&#xa0;7&#xa0;years, body mass: 69&#xa0;&#xb1;&#xa0;6&#xa0;kg, peak oxygen uptake: 65&#xa0;&#xb1;&#xa0;9&#xa0;mL &#xb7;&#xa0;kg&#xa0;&#xb7; min) completed two randomised crossover conditions: HIIT with (BFR) and without (CON) BFR applied during recovery phases. HIIT consisted of six 30-s cycling bouts at an intensity equivalent to 85% of maximal 30-s power (523&#xa0;&#xb1;&#xa0;93&#xa0;W), interspersed with 4.5-min recovery. BFR (200&#xa0;mmHg, 12&#xa0;cm cuff width) was applied for 2-min in the early recovery phase between each interval. Pulmonary gas exchange (V&#x307;O, V&#x307;CO, and V&#x307;E), tissue oxygen saturation index (TSI), heart rate (HR), and serum vascular endothelial growth factor concentration (VEGF) were measured. Compared to CON, BFR increased V&#x307;COand V&#x307;E during work bouts (both p&#xa0;<&#xa0;0.05, dz&#xa0;<&#xa0;0.5), but there was no effect on V&#x307;O, TSI, or HR (p&#xa0;>&#xa0;0.05). In early recovery, BFR decreased TSI, V&#x307;O, V&#x307;CO, and V&#x307;E (all p&#xa0;<&#xa0;0.05, dz&#xa0;>&#xa0;0.8) versus CON, with no change in HR (p&#xa0;>&#xa0;0.05). In late recovery, when BFR was released, V&#x307;O, V&#x307;CO, V&#x307;E, and HR increased, but TSI decreased versus CON (all p&#xa0;<&#xa0;0.05, dz&#xa0;>&#xa0;0.8). There was a greater increase in VEGF at 3-h post-exercise in BFR compared to CON (p&#xa0;<&#xa0;0.05, dz&#xa0;>&#xa0;0.8). Incorporating BFR into HIIT recovery phases altered physiological responses compared to exercise alone.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ejsc.12146
+- DOI: 10.1002/ejsc.12107
 
 2. Keywords
-- altitude training
-- environmental stress
-- hypoxia
-- internal load
-- repeated&#x2010;sprint ability
+- cardiorespiratory
+- physiology
+- recovery
+- stress
+- training
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- altitude training assessment methods and outcomes
-- environmental stress assessment methods and outcomes
-- hypoxia assessment methods and outcomes
+- cardiorespiratory assessment methods and outcomes
+- physiology assessment methods and outcomes
+- recovery assessment methods and outcomes

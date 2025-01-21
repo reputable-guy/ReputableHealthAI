@@ -1,20 +1,28 @@
-Study Title: Long-Term Effects of Three Different Exercise Training Modes on Cardiorespiratory Fitness of Female Flamenco Dancers.
+Study Title: Effects of percussive massage therapy on fascia echo intensity and fascia thickness in firefighters with chronic non-specific low back pain: a randomized controlled trial.
 
 Study Summary:
-It is well established that high-intensity interval training (HIIT) is effective in enhancing athletes' performance and improving the health of recreational exercisers. However, there is a dearth of comprehensive recommendations regarding the integration of HIIT into the exercise routines of flamenco dancers. Therefore, this study aimed to evaluate how three different 10-week training programs--including traditional flamenco training (control group, CG) alone or combined with HIIT or muscular strength and endurance training (MSET)--impact the cardiovascular fitness (maximal oxygen consumption, VO2max) of female flamenco dancers, specifically focusing on the effectiveness of additional training methods. A group of 33 trained female flamenco dancers was randomly divided into three groups: HIIT (n=11), MSET (n=11), and a control group (CG, n=11). VO2max was assessed through breath-by-breath gas analysis during an incremental treadmill test. All participants, including the control group, engaged in uniform choreography sessions at moderate intensity (55-60% of reserve heart rate [HRR], 50 min/day, twice a week). In addition, the HIIT and MSET groups underwent supplementary training sessions twice a week (40 min/day) for 10 weeks, utilizing different techniques and intensities (HIIT: 80-90% of HRmax; MSET: 55-75% of HRmax). A statistically significant 19.7% improvement in aerobic capacity (VO2max) was observed in the HIIT group (p&#x2264;0.05), with large effect sizes (ES) compared to MSET (p=0.011; ES=2.423) and CG (p=0.034; ES=1.664). These findings indicate that HIIT training, when integrated with dance lessons, enhances aerobic capacity more effectively compared to traditional dance training alone or traditional dance training supplemented with MSET. Therefore, integrating HIIT into dance training programs as supplementary training may be particularly effective in improving aerobic capacity for female flamenco dancers.
+Chronic non-specific low back pain (CNSLBP) is prevalent among firefighters and may negatively affect their job performance. Alterations in the thoracolumbar fascia (TLF) structure are associated with CNSLBP. Percussive massage therapy (PT) has demonstrated potential in modifying fascial properties and alleviating pain. However, its effects on TLF structure in CNSLBP patients have not been thoroughly investigated. This study evaluates the effects of 6 weeks of PT on TLF echo intensity, thickness, pain, and disability in firefighters with CNSLBP, utilizing ultrasound imaging as a primary assessment tool. This six-week randomized controlled trial involved 38 firefighters with CNSLBP. Participants were randomly assigned 1:1 to either the PT group (receiving PT and core stability exercise) or the control group (receiving only core stability exercise). TLF echo intensity and thickness were measured using ultrasound imaging, and disability was assessed using the Roland-Morris Disability Questionnaire (RMQ) at baseline and post-intervention. Pain was measured using the Visual Analog Scale (VAS) at baseline, immediately after the first intervention, three weeks post-intervention, and post-intervention. Paired t-tests were conducted to analyze within-group changes in RMQ and ultrasound data, while ANCOVA was used to assess between-group differences, and repeated measures ANOVA for VAS scores. Participants in the PT and control groups were aged 26.6&#xb1;4.1 and 23.6&#xb1;1.7 years, respectively, with BMI of 23.1&#xb1;1.8 and 21.8&#xb1;1.2 kg/m&#xb2;. The PT group showed significant reductions in bilateral TLF echo intensity post-intervention (left side: mean difference -6.4, 95% CI -9.7 to -3.1, p&#x2009;<&#x2009;0.001, effect size 0.67; right side: mean difference &#x2009;-7.6, 95% CI -11.8 to -3.3, p&#x2009;<&#x2009;0.01, effect size 0.60). Changes in TLF thickness were not statistically significant (p&#x2009;>&#x2009;0.05). The PT group demonstrated significantly lower VAS scores than the control group (mean difference -&#x2009;0.626, 95% CI -1.087 to -0.165, p&#x2009;=&#x2009;0.009, effect size 0.63). RMQ scores decreased by -1.3 (95% CI -2.1 to -0.4, p&#x2009;<&#x2009;0.01, effect size 0.5). Six weeks of percussive massage therapy significantly reduced thoracolumbar fascia echo intensity, alleviated pain, and improved functional disability in firefighters with chronic non-specific low back pain, but was not effective in altering fascia thickness. Percussive massage therapy emerges as an effective and safe strategy for managing chronic non-specific low back pain in firefighters. Retrospectively registered in Thai Clinical Trials Registry (TCTR20221223001) on December 22, 2022.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.21091/mppa.2024.03014
+- DOI: 10.1186/s12906-024-04687-9
 
 2. Keywords
-
+- Core stability exercise
+- Fascia thickness
+- Low back pain
+- Percussive massage
+- Thoracolumbar fascia
 
 3. Key Findings
-- Findings extraction requires manual review
+- Percussive massage therapy (PT) has demonstrated potential in modifying fascial properties and alleviating pain
+- The PT group showed significant reductions in bilateral TLF echo intensity post-intervention (left side: mean difference -6
+- The PT group demonstrated significantly lower VAS scores than the control group (mean difference -&#x2009;0
 
 This study provides insights into:
-- General research methodology and outcomes
+- Core stability exercise assessment methods and outcomes
+- Fascia thickness assessment methods and outcomes
+- Low back pain assessment methods and outcomes

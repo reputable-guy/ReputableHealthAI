@@ -1,27 +1,21 @@
-Study Title: The Influence of Acute Oral Lactate Supplementation on Responses to Cycle Ergometer Exercise: A Randomized, Crossover Pilot Clinical Trial.
+Study Title: Sensorimotor functioning changes in response to global exercise versus handwriting upper limb exercise training in Parkinson's disease, results from a phase II randomised controlled trial.
 
 Study Summary:
-The purpose of this study was to investigate the potential ergogenic effects of an oral lactate supplement. For this double-blind, randomized, placebo-controlled crossover design, fifteen recreational exercisers (nine males, six females) ingested a placebo or a commercially available lactate supplement prior to cycle ergometer exercise. Primary outcomes included peak oxygen uptake (VO; via indirect calorimetry), VOat the ventilatory threshold, and work rate at the lactate threshold (arterialized venous blood from a heated hand) determined during incremental exercise to fatigue, and power output during a 20-min cycling time trial. Compared with placebo, the oral lactate supplement (19 &#xb1; 1 mg/kg body mass) did not influence VO(placebo: 44.3 &#xb1; 7.8 vs. oral lactate: 44.3 &#xb1; 7.1 mL/kg/min (mean &#xb1; SD);= 0.87), VOat the ventilatory threshold (placebo: 1.63 &#xb1; 0.25 vs. oral lactate: 1.65 &#xb1; 0.23 L/min;= 0.82), or work rate at the lactate threshold (placebo: 179 &#xb1; 69 vs. oral lactate: 179 &#xb1; 59 W;= 0.41). Throughout the 20-min time trial, the work rate was slightly greater (4%) with oral lactate (204 &#xb1; 41 W) compared with placebo (197 &#xb1; 41 W; main effect of treatment= 0.02). Collectively, these data suggest that this commercially available lactate supplement did not acutely influence the physiological responses to incremental cycle ergometer exercise but elicited a modest ergogenic effect during the short-duration time trial.
+People with Parkinson's disease (PwPD) present motor alterations which can impact daily life tasks that require speed and/or accuracy of movement. A sub analysis of NCT01439022, aiming to estimate the extent to which two different exercise training protocols (global and handwriting upper limb exercise training) impact reaction time, travel speed, and accuracy in PwPD. Seventy PwPD, right-side dominant were randomised 1:1 into two six-month training protocol groups; 35 PwPD performed global exercise training and 35 performed specific training (handwriting upper limb exercise movements). Assessments of speed-accuracy and trade-off were carried out at baseline, after 3 and 6 months of training, and at a 12-month follow-up. The current study used data from a previous publication of a randomised controlled trial that included a 6-month self-managed community exercise programme for PwPD. For the present study we included only the participants who completed the Fitts' task during the baseline assessment. In the upper limb assessments, no main effects were found for the number of touches, but the exercise group showed a marginal increase over time on the left side. Error averages on the left side decreased significantly for the exercise group from baseline to 6 and 12 months. The exercise group also presented a lower Error CoV and the Reaction Time CoV increased on the right side. Significant findings for Fitts r on the left side indicated lower values for the exercise group, with improvements continuing at 12 months. We report the potential of global exercise interventions to facilitate improvements in reaction time and travel speed, as well as other motor control metrics, with lasting effects at 12 months, particularly on the non-dominant side.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16162624
+- DOI: 10.1371/journal.pone.0309217
 
 2. Keywords
-- FTP20
-- VO2peak
-- ergogenic
-- ergolytic
-- performance
-- supplement
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- In the upper limb assessments, no main effects were found for the number of touches, but the exercise group showed a marginal increase over time on the left side
+- Significant findings for Fitts r on the left side indicated lower values for the exercise group, with improvements continuing at 12 months
 
 This study provides insights into:
-- FTP20 assessment methods and outcomes
-- VO2peak assessment methods and outcomes
-- ergogenic assessment methods and outcomes
+- General research methodology and outcomes

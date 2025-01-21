@@ -1,21 +1,26 @@
-Study Title: Effectiveness of date seed on glycemia and advanced glycation end-products in type 2 diabetes: a randomized placebo-controlled trial.
+Study Title: The effects of a web-based 24-hour movement behavior lifestyle education program on mental health and psychological well-being in parents of children with autism spectrum disorder: A randomized controlled trial.
 
 Study Summary:
-Type 2 diabetes mellitus (T2DM) is a chronic medical condition affecting more than 95% of people with diabetes. Traditionally, some medicinal plants have been considered as an effective approach in management of T2DM. This trial evaluated the effects of date seed powder (DSP) on glycemia indices and oxidative stress in T2DM patients. In this trail, 43 patients with T2DM were randomized to two groups: either 5&#x2009;g/d of the DSP or placebo for 8 weeks. Levels of glycemic indices, lipolpolysaccharide (LPS), and soluble receptor for advanced glycation end products (s-RAGE), as well as other parameters associated with oxidative stress were assessed at baseline and after 8 weeks. Independent t-test and analysis of covariance (ANCOVA) were used for between-groups comparisons at baseline and the post-intervention phase, respectively. The results showed that supplementation with DSP significantly decreased HbA1c (-0.30&#x2009;&#xb1;&#x2009;0.48%), insulin (-1.70&#x2009;&#xb1;&#x2009;2.21&#x2009;&#x3bc;U/ml), HOMA-IR (-1.05&#x2009;&#xb1;&#x2009;0.21), HOMA-B (-0.76&#x2009;&#xb1;&#x2009;21.21), lipopolysaccharide (LPS) (-3.68&#x2009;&#xb1;&#x2009;6.05&#x2009;EU/mL), and pentosidine (118.99&#x2009;&#xb1;&#x2009;21.67&#x2009;pg/mL) (P&#x2009;<&#x2009;0.05, ANCOVA adjusted for baseline and confounding factors). On the other hand, DSP supplementation significantly increased total antioxidant capacity (TAC) (0.50&#x2009;&#xb1;&#x2009;0.26&#x2009;mmol/L), superoxide dismutase (SOD) (0.69&#x2009;&#xb1;&#x2009;0.32&#x2009;U/ml), and s-RAGE (240.13&#x2009;&#xb1;&#x2009;54.25&#x2009;pg/mL) compared to the placebo group. FPG, hs-CRP, GPx, CML, and uric acid had no significant within- or between-group changes. Supplementation of DSP could be considered an effective strategy to improve glycemic control and oxidative stress in T2DM patients (Registration ID at www.irct.ir : IRCT20150205020965N10).
+Compared with parents of neurotypical children or children diagnosed with other disabilities, parents of children with autism spectrum disorder (ASD) often experience poorer mental health, greater stress, and more depression and anxiety symptoms. This study aimed to assess the effects of a web-based 24-h movement behavior lifestyle education program on mental health and psychological well-being in parents of children with ASD. This study employed a randomized controlled trial utilizing the Health Action Process Approach (HAPA) as a theoretical framework. A total of 318 parents of children with ASD were enrolled and randomly assigned to the experimental or control group. The experimental group received an 8-week web-based 24-h movement behavior lifestyle education program, while the control group followed their usual routine. Two instruments, the Depression Anxiety and Stress Scale (DASS-21) and the Satisfaction With Life Scale (SWLS), were used to measure mental health and psychological well-being, respectively. The data were collected at two time points-at the beginning and the end of the intervention. Compared with the baseline and control groups, the experimental group demonstrated significant improvements in all outcome measures (p&#xa0;<&#xa0;0.01). There were significant differences in the DASS-21 and SWLS scores between the two groups before and after the intervention (p&#xa0;&#x2264;&#xa0;0.01). This study represents the first randomized controlled trial involving a web-based 24-h movement behavior lifestyle education program specifically designed to address the mental health and psychological well-being of parents of children with ASD. The findings confirm the potential impact of 24-h movement behavior lifestyle education as a functional and effective strategy for parents of children with ASD.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41387-024-00287-1
+- DOI: 10.1016/j.ctcp.2024.101865
 
 2. Keywords
-
+- 24-H movement behavior
+- Autism spectrum disorder
+- Lifestyle education
+- Mental health
+- Psychological well-being
 
 3. Key Findings
-- The results showed that supplementation with DSP significantly decreased HbA1c (-0
-- 05, ANCOVA adjusted for baseline and confounding factors)
+- Compared with the baseline and control groups, the experimental group demonstrated significant improvements in all outcome measures (p&#xa0;<&#xa0;0
 
 This study provides insights into:
-- General research methodology and outcomes
+- 24-H movement behavior assessment methods and outcomes
+- Autism spectrum disorder assessment methods and outcomes
+- Lifestyle education assessment methods and outcomes

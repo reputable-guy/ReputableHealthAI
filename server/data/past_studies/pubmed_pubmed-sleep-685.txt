@@ -1,20 +1,25 @@
-Study Title: Can an intervention integrating sports and medicine improve children's health more effectively? Monitoring based on sleep, body mass index, and heart rate variability.
+Study Title: Effectiveness of an online recovery training for employees exposed to blurred boundaries between work and non-work: Bayesian analysis of a randomised controlled trial.
 
 Study Summary:
-Theoretical studies have suggested that the integration of sports and medicine with one another could positively affect children's health. By monitoring the variation characteristics of children's sleep, body mass index (BMI), and heart rate variability (HRV), we explored and compared the influences of and differences between two interventions - physical exercise and an intervention integrating sports and medicine - on improving children's health. We conducted a randomised controlled study, where we randomly divided 136 children into the physical exercise group (PEG), the integration of sports and medicine group (ISMG), and the control group. We measured sleep, BMI, and HRV at baseline and week eight. After the eight-week intervention, the sleep scores in the PEG and the ISMG were significantly lower than in the control group, while the scores in the ISMG were significantly lower than in the PEG. After the eight-week intervention, the BMI of both the PEG and the ISMG was significantly lower than that of the control group, without a significand difference between the two intervention groups. After the eight-week intervention, the standard deviation of normal-to-normal intervals (SDNN), root mean square differences of the standard deviation (RMSSD), low-frequency of normal (LFn), and high-frequency of normal (HFn) in the PEG and the ISMG were significantly higher than those in the control group, again without a significant difference between the two intervention groups. After intervention, sleep, BMI, and HRV of the three groups were correlated with one another to different degrees, but the correlation coefficient of the two exercise groups was higher. Based on the interventions, we observed a significant correlation between sleep, BMI, and HRV in children. Regular physical exercise or an intervention integrating sports and medicine could synergistically improve sleep, BMI, and HRV in this population, with the latter having a better effect on improving sleep quality.
+Blurred work-non-work boundaries can have negative effects on mental health, including sleep. In a randomised control trial, we aimed to assess the effectiveness of an online recovery training programme designed to improve symptoms of insomnia in a working population exposed to blurred boundaries. 128 participants with severe insomnia symptoms (Insomnia Severity Index &#x2265;15) and working under blurred work and non-work conditions (segmentation supplies <2.25) were randomly assigned to either the recovery intervention or a waitlist control group (WLC). The primary outcome was insomnia severity, assessed at baseline, after 2&#x2009;months (T2) and 6&#x2009;months (T3). A greater reduction in insomnia was observed in the intervention compared with the WLC group at both T2 (=1.51; 95% CI=1.12 o 1.91) and T3 (=1.63; 95% CI=1.23 to 2.03]. This was shown by Bayesian analysis of covariance (ANCOVA), whereby the ANCOVA model yielded the highest Bayes factor (=3.23&#xd7;e] and a 99.99% probability. Likewise, frequentist analysis revealed significantly reduced insomnia at both T2 and T3. Beneficial effects were found for secondary outcomes including depression, work-related rumination, and mental detachment from work. Study attrition was 16% at T2 and 44% at T3. The recovery training was effective in reducing insomnia symptoms, work related and general indicators of mental health in employees exposed to blurred boundaries, both at T2 and T3. In addition to demonstrating the intervention's effectiveness, this study exemplifies the utilisation of the Bayesian approach in a clinical context and shows its potential to empower recipients of interventional research by offering insights into result probabilities, enabling them to draw informed conclusions. German Clinical Trial Registration (DRKS): DRKS00006223, https://drks.de/search/de/trial/DRKS00006223.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7189/jogh.14.04040
+- DOI: 10.1136/bmjment-2024-301016
 
 2. Keywords
-
+- Data Interpretation, Statistical
+- Depression & mood disorders
+- Sleep
 
 3. Key Findings
-- Findings extraction requires manual review
+- Likewise, frequentist analysis revealed significantly reduced insomnia at both T2 and T3
+- Beneficial effects were found for secondary outcomes including depression, work-related rumination, and mental detachment from work
 
 This study provides insights into:
-- General research methodology and outcomes
+- Data Interpretation, Statistical assessment methods and outcomes
+- Depression & mood disorders assessment methods and outcomes
+- Sleep assessment methods and outcomes

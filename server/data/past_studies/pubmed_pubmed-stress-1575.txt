@@ -1,20 +1,35 @@
-Study Title: Telehealth Parenting Program and Salivary Epigenetic Biomarkers in Preschool Children With Developmental Delay: NIMHD Social Epigenomics Program.
+Study Title: Effect of oxygen supplementation on cognitive performance among HEMS providers after acute exposure to altitude: the HEMS II randomized clinical trial.
 
 Study Summary:
-Children with developmental delays are at a heightened risk of experiencing mental health challenges, and this risk is exacerbated among racially minoritized children who face disproportionate adversity. Understanding the impact of parenting interventions on biological markers associated with these risks is crucial for mitigating long-term health disparities. To examine the effect of 20 weeks of an internet-based parent-child interaction training (iPCIT) program on biomarkers associated with aging and chronic inflammation among preschoolers with developmental delay at 12-month follow-up. An observational secondary analysis of data from a randomized clinical trial conducted from March 17, 2016, to December 15, 2020, to assess changes in salivary DNA methylation (DNAm)-derived biomarkers following iPCIT intervention. Participants were recruited from 3 Part C early intervention sites in a large southeastern US city. Eligible participants included children recruited within 3 months of their third birthday who had a Child Behavior Checklist Externalizing Problems T score greater than 60 and provided saliva in at least 1 study wave. Data analysis was conducted May 2023 to April 2024. Participants received either iPCIT (a telehealth therapeutic intervention focused on enhancing the parent-child relationship and addressing behavioral challenges in young children) or referrals as usual. DNAm at the 12-month follow-up was assessed using the Infinium HumanMethylationEPIC Bead Chip Assay to derive biomarkers DunedinPACE, C-reactive protein (CRP), and interleukin-6 (IL-6). Analyses were intent-to-treat and used path analysis. A total of 71 children (mean [SD] age, 36.27 [0.61] months 51 male [71.8%] and 20 female [28.2%]) were analyzed, of whom 34 received iPCIT and 37 received referrals as usual. The iPCIT group had a slower pace of aging (&#x3b2;&#x2009;=&#x2009;0.26; 95% CI, 0.06 to 0.50; P&#x2009;=&#x2009;.03) and less DNAm-derived CRP (&#x3b2;&#x2009;=&#x2009;0.27; 95% CI, 0.05 to 0.49; P&#x2009;=&#x2009;.01) relative to the control condition at the 12-month follow-up. These associations remained significant after accounting for baseline DNAm score, child demographics, and symptom severity, and were independent of predicted buccal epithelial cell proportion for both DunedinPACE and CRP. There was no association with DNAm-derived IL-6 (&#x3b2;&#x2009;=&#x2009;0.14; 95% CI, -0.08 to 0.36; P&#x2009;=&#x2009;.21). In this study of a parenting intervention, iPCIT, the association of intervention with decreased molecular markers of inflammation and biological aging suggests their potential to modify aspects of the biological embedding of stress. Understanding the systemic biological impact of such interventions offers insights into addressing health disparities and promoting resilience among vulnerable populations. ClinicalTrials.gov Identifier: NCT03260816.
+Emergency medical services (EMS) providers transiently ascend to high altitude for primary missions and secondary transports in mountainous areas in helicopters that are unpressurised and do not have facilities for oxygen supplementation. The decrease in cerebral oxygen saturation can lead to impairment in attention and reaction time as well as in quality of care during acute exposure to altitude. The primary aim of the current study was to investigate the effect of oxygen supplementation on cognitive performance in Helicopter EMS (HEMS) providers during acute exposure to altitude. This interventional, randomized, controlled, double-blind, cross-over clinical trial was conducted in October 2021. Each trial used a simulated altitude scenario equivalent to 4000&#xa0;m, in which volunteers were exposed to hypobaric hypoxia with a constant rate of ascent of 4&#xa0;m/s in an environmental chamber under controlled, replicable, and safe conditions. Trials could be voluntarily terminated at any time. Inclusion criteria were being members of emergency medical services and search and rescue services with an age between 18 and 60&#xa0;years and an American Society of Anesthesiologists physical status class I. Each participant conducted 2 trials, one in which they were exposed to altitude with oxygen supplementation (intervention trial) and the other in which they were exposed to altitude with ambient air supplementation (control trial). Measurements included peripheral oxygen saturation (SpO), cerebral oxygenation (ScO), breathing and heart rates, Psychomotor Vigilance Test (PVT), Digit-Symbol Substitution Test (DSST), n-Back test (2-BACK), the Grooved Pegboard test, and questionnaires on subjective performance, stress, workload, and positive and negative affect. Paired t-tests were used to compare conditions (intervention vs. control). Data were further analyzed using generalized estimating equations (GEE). A total of 36 volunteers (30 men; mean [SD] age, 36 [9] years; mean [SD] education, 17 [4] years) were exposed to the intervention and control trials. The intervention trials, compared with the control trials, had higher values of SpO(mean [SD], 97.9 [1.6] %&#xa0;vs. 86 [2.3]&#xa0;%, t-test, p&#x2009;=&#x2009;0.004) and ScO(mean [SD], 69.9 [5.8] %&#xa0;vs. 62.1 [5.2]&#xa0;%, paired t-test, p&#x2009;=&#x2009;0.004). The intervention trials compared with the control trials had a shorter reaction time (RT) on the PVT after 5&#xa0;min (mean [SD], 277.8 [16.7] ms vs. 282.5 [15.3] ms, paired t-test, p&#x2009;=&#x2009;0.006) and after 30&#xa0;min (mean [SD], 276.9 [17.7] ms vs. 280.7 [15.0] ms, paired t-test, p&#x2009;=&#x2009;0.054) at altitude. While controlling for other variables, there was a RT increase of 0.37&#xa0;ms for each % of SpOdecrease. The intervention trials showed significantly higher values for DSST number of correct responses (with a difference of mean [SD], 1.2 [3.2], paired t-test, p&#x2009;=&#x2009;0.035). Variables in the intervention trials were otherwise similar to those in the control trials for DSST number of incorrect responses, 2-BACK, and the Grooved Pegboard test. This randomized clinical trial found that oxygen supplementation improves cognitive performance among HEMS providers during acute exposure to 4000 m altitude. The use of oxygen supplementation may allow to maintain attention and timely reaction in HEMS providers. The impact of repeated altitude ascents on the same day, sleep-deprivation, and additional stressors should be investigated. Trial registration NCT05073406, ClinicalTrials.gov trial registration.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1001/jamanetworkopen.2024.24815
+- DOI: 10.1186/s13049-024-01238-6
 
 2. Keywords
-
+- Altitude
+- Attention
+- Brain
+- Cognition
+- Helicopter emergency medical services
+- Hypobaric hypoxia
+- Motor skills
+- Oxygen supplementation
+- Processing speed
+- Reaction time
+- Stress
+- Working memory
+- Workload
 
 3. Key Findings
-- Findings extraction requires manual review
+- The intervention trials showed significantly higher values for DSST number of correct responses (with a difference of mean [SD], 1
+- This randomized clinical trial found that oxygen supplementation improves cognitive performance among HEMS providers during acute exposure to 4000 m altitude
 
 This study provides insights into:
-- General research methodology and outcomes
+- Altitude assessment methods and outcomes
+- Attention assessment methods and outcomes
+- Brain assessment methods and outcomes

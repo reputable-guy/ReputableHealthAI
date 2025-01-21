@@ -1,21 +1,24 @@
-Study Title: Effects of brief remote high ventilation breathwork with retention on mental health and wellbeing: a randomised placebo-controlled trial.
+Study Title: Dose-response of daridorexant in insomnia disorder: An analysis of Phase 2 and 3 studies.
 
 Study Summary:
-High ventilation breathwork with retention (HVBR) has been growing in popularity over the past decade and might be beneficial for mental and physical health. However, little research has explored the potential therapeutic effects of brief, remotely delivered HVBR and the tolerability profile of this technique. Accordingly, we investigated the effects of a fully-automated HVBR protocol, along with its tolerability, when delivered remotely in a brief format. This study (NCT06064474) was the largest blinded randomised-controlled trial on HVBR to date in which 200 young, healthy adults balanced for gender were randomly allocated in blocks of 2 by remote software to 3&#xa0;weeks of 20&#xa0;min daily HVBR (fast breathing with long breath holds) or a placebo HVBR comparator (15 breaths/min with short breath holds). The trial was concealed as a 'fast breathwork' study wherein both intervention and comparator were masked, and only ~&#x2009;40% guessed their group assignment with no difference in accuracy between groups. Both groups reported analogous credibility and expectancy of benefit, subjective adherence, positive sentiment, along with short- and long-term tolerability. At post-intervention (primary timepoint) for stress level (primary outcome), we found no significant group&#x2009;&#xd7;&#x2009;time interaction, F(1,180)&#x2009;=&#x2009;1.98, p&#x2009;=&#x2009;0.16, &#x3b7;&#x2009;=&#x2009;0.01, d&#x2009;=&#x2009;0.21), nor main effect of group, (F&#x2009;=&#x2009;0.35, p&#x2009;=&#x2009;0.55, &#x3b7;&#x2009;<&#x2009;0.01) but we did find a significant main effect of time, (F&#x2009;=&#x2009;13.0, p&#x2009;<&#x2009;0.01, &#x3b7;&#x2009;=&#x2009;0.07). There was a significant improvement in stress pre-post-intervention in both groups, however there was no significant difference in such improvement between groups. In addition to stress at follow-up, we found no significant group x time interactions for secondary trait outcomes of anxiety, depression, mental wellbeing, and sleep-related impairment. This was also the case for state positive and negative affect after the first session of breathwork and at post-intervention. Brief remote HVBR therefore may not be more efficacious at improving mental health than a well-designed active comparator in otherwise healthy, young adults.
+Daridorexant is approved for the treatment of insomnia at two dose levels (25 and 50&#xa0;mg). Dose-efficacy and -safety response relationships were evaluated using Phase 2 and 3 data. Data (N&#xa0;=&#xa0;2153) from one Phase 2 (daridorexant 5, 10, 25, 50&#xa0;mg, placebo once daily for 1 month) and two Phase 3 studies (daridorexant 10 and 25 or 25 and 50&#xa0;mg, placebo once daily for 3 months) were pooled. Dose-response analyses at 1 month of double-blind treatment were performed using a linear regression and a two-stage meta-analysis approach. Efficacy endpoints were polysomnography-derived wake after sleep onset, latency to persistent sleep (LPS), self-reported total sleep time and the Insomnia Daytime Symptoms and Impacts Questionnaire total score (only Phase 3 data for the latter). Safety endpoints were the incidence of total adverse events (AEs) and AEs corresponding to somnolence/fatigue. Dose-responses for all efficacy endpoints were significant in the observed dose range (both statistical approaches, p&#xa0;<&#xa0;0.01). All dose-response relationships were linear except for LPS (two-stage meta-analysis) which showed a change in slope above 10&#xa0;mg without reaching a plateau. No significant dose-response was observed for any AE (both approaches, p&#xa0;>&#xa0;0.05). The incidence of AEs corresponding to somnolence/fatigue was low at all doses and, without linear assumption (two-stage meta-analysis) there was no dose-dependency (p&#xa0;=&#xa0;0.369). The data support the use of 50&#xa0;mg as the preferred daridorexant dose in patients with insomnia disorder to provide the greatest opportunity for efficacy with no increased risk for AEs, including somnolence/fatigue, compared to lower doses.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-64254-7
+- DOI: 10.1016/j.sleep.2024.07.019
 
 2. Keywords
-
+- Daridorexant
+- Dose response
+- Insomnia disorder
 
 3. Key Findings
-- At post-intervention (primary timepoint) for stress level (primary outcome), we found no significant group&#x2009;&#xd7;&#x2009;time interaction, F(1,180)&#x2009;=&#x2009;1
-- In addition to stress at follow-up, we found no significant group x time interactions for secondary trait outcomes of anxiety, depression, mental wellbeing, and sleep-related impairment
+- All dose-response relationships were linear except for LPS (two-stage meta-analysis) which showed a change in slope above 10&#xa0;mg without reaching a plateau
 
 This study provides insights into:
-- General research methodology and outcomes
+- Daridorexant assessment methods and outcomes
+- Dose response assessment methods and outcomes
+- Insomnia disorder assessment methods and outcomes

@@ -1,21 +1,25 @@
-Study Title: Repeated caffeine intake suppresses cerebral grey matter responses to chronic sleep restriction in an Aadenosine receptor-dependent manner: a double-blind randomized controlled study with PET-MRI.
+Study Title: Improved physical functioning, sleep, work productivity and overall health-related quality of life with bimekizumab in patients with axial spondyloarthritis: results from two phase 3 studies.
 
 Study Summary:
-Evidence has shown that both sleep loss and daily caffeine intake can induce changes in grey matter (GM). Caffeine is frequently used to combat sleepiness and impaired performance caused by insufficient sleep. It is unclear (1) whether daily use of caffeine could prevent or exacerbate the GM alterations induced by 5-day sleep restriction (i.e. chronic sleep restriction, CSR), and (2) whether the potential impact on GM plasticity depends on individual differences in the availability of adenosine receptors, which are involved in mediating effects of caffeine on sleep and waking function. Thirty-six healthy adults participated in this double-blind, randomized, controlled study (age&#x2009;=&#x2009;28.9&#x2009;&#xb1;&#x2009;5.2 y/; F:M&#x2009;=&#x2009;15:21; habitual level of caffeine intake&#x2009;<&#x2009;450&#xa0;mg; 29 homozygous C/C allele carriers of rs5751876 of ADORA2A, an Aadenosine receptor gene variant). Each participant underwent a 9-day laboratory visit consisting of one adaptation day, 2 baseline days (BL), 5-day sleep restriction (5&#xa0;h time-in-bed), and a recovery day (REC) after an 8-h sleep opportunity. Nineteen participants received 300&#xa0;mg caffeine in coffee through the 5&#xa0;days of CSR (CAFF group), while 17 matched participants received decaffeinated coffee (DECAF group). We examined GM changes on the 2nd BL Day, 5th CSR Day, and REC Day using magnetic resonance imaging and voxel-based morphometry. Moreover, we used positron emission tomography with [F]-CPFPX to quantify the baseline availability of Aadenosine receptors (AR) and its relation to the GM plasticity. The results from the voxel-wise multimodal whole-brain analysis on the Jacobian-modulated T1-weighted images controlled for variances of cerebral blood flow indicated a significant interaction effect between caffeine and CSR in four brain regions: (a) right temporal-occipital region, (b) right dorsomedial&#xa0;prefrontal cortex (DmPFC), (c) left&#xa0;dorsolateral prefrontal cortex (DLPFC), and&#xa0;(d) right thalamus. The post-hoc analyses on the signal intensity of these GM clusters indicated that, compared to BL, GM on the CSR day&#xa0;was increased in the DECAF group in all clusters&#xa0; but decreased in the thalamus, DmPFC, and DLPFC in the CAFF group. Furthermore, lower baseline subcortical AR availability predicted a larger GM reduction in the CAFF group after CSR of all brain regions except for the thalamus. In conclusion, our data suggest an adaptive GM upregulation after 5-day CSR, while concomitant use of caffeine instead leads to a GM reduction. The lack of consistent association with individual AR availability may suggest that CSR and caffeine affect&#xa0;thalamic GM plasticity predominantly by a different mechanism. Future studies on the role of adenosine Areceptors in CSR-induced GM plasticity are warranted.
+To assess the impact of bimekizumab on physical functioning, sleep, work productivity and overall health-related quality of life (HRQoL) in patients with non-radiographic (nr-) and radiographic (r-) axial spondyloarthritis (axSpA) in the phase 3 studies BE MOBILE 1 and 2. Patients were randomised to subcutaneous bimekizumab 160&#x2009;mg or placebo every 4 weeks; from Week 16, all patients received bimekizumab 160&#x2009;mg every 4 weeks. We report the following outcomes to Week 52: Bath Ankylosing Spondylitis Functional Index (BASFI), Medical Outcomes Study Sleep Scale Revised (MOS-Sleep-R) Index II, Work Productivity and Activity Impairment: axSpA (WPAI:axSpA), Short Form-36 Physical and Mental Component Summary (SF-36 PCS/MCS) and Ankylosing Spondylitis Quality of Life (ASQoL). At Week 16, bimekizumab-randomised patients demonstrated significantly greater improvement from baseline versus placebo in BASFI, SF-36 PCS and ASQoL (p<0.001), and numerically greater improvements in MOS-Sleep-R Index II and WPAI:axSpA scores. Higher proportions of bimekizumab-randomised versus placebo-randomised patients at Week 16 achieved increasingly stringent thresholds for improvements in BASFI (0 to &#x2264;4), and thresholds for meaningful improvements in SF-36 PCS (&#x2265;5-point increase from baseline) and ASQoL (&#x2265;4-point decrease from baseline). Responses were sustained or further improved to Week 52, where 60%-70% of bimekizumab-treated patients achieved BASFI &#x2264;4&#x2009;and meaningful improvements in SF-36 PCS and ASQoL, regardless of whether originally randomised to bimekizumab or placebo. Bimekizumab treatment led to early improvements in physical function, sleep, work productivity and overall HRQoL at Week 16 in patients across the full axSpA disease spectrum. Improvements were sustained to Week 52. NCT03928704; NCT03928743.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-61421-8
+- DOI: 10.1136/rmdopen-2024-004202
 
 2. Keywords
-
+- Biological Therapy
+- Health-Related Quality Of Life
+- Patient Reported Outcome Measures
+- Spondylitis, Ankylosing
 
 3. Key Findings
-- The results from the voxel-wise multimodal whole-brain analysis on the Jacobian-modulated T1-weighted images controlled for variances of cerebral blood flow indicated a significant interaction effect between caffeine and CSR in four brain regions: (a) right temporal-occipital region, (b) right dorsomedial&#xa0;prefrontal cortex (DmPFC), (c) left&#xa0;dorsolateral prefrontal cortex (DLPFC), and&#xa0;(d) right thalamus
-- The post-hoc analyses on the signal intensity of these GM clusters indicated that, compared to BL, GM on the CSR day&#xa0;was increased in the DECAF group in all clusters&#xa0; but decreased in the thalamus, DmPFC, and DLPFC in the CAFF group
+- At Week 16, bimekizumab-randomised patients demonstrated significantly greater improvement from baseline versus placebo in BASFI, SF-36 PCS and ASQoL (p<0
 
 This study provides insights into:
-- General research methodology and outcomes
+- Biological Therapy assessment methods and outcomes
+- Health-Related Quality Of Life assessment methods and outcomes
+- Patient Reported Outcome Measures assessment methods and outcomes

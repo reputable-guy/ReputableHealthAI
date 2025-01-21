@@ -1,27 +1,28 @@
-Study Title: Reduced brain connectivity underlying value-based choices and outcomes in stimulant use disorder.
+Study Title: Impact of diverse aerobic exercise plans on glycemic control, lipid levels, and functional activity in stroke patients with type 2 diabetes mellitus.
 
 Study Summary:
-Patients with stimulant use disorder (SUD) show impairments when making value-based choices that are associated with disruptions in neural processing across brain networks. Making optimal choices requires learning from outcomes to update knowledge and further optimise ongoing behaviour. The optimal functioning of neural systems that underpin the ability to make favourable choices is an essential component for life functioning, and successful recovery in patients with SUD. Therefore, we sought to investigate the neural processes that underpin value-based choices in SUD patients. We hypothesise that patients with SUD have reduced functional connectivity while making financial choices during a probabilistic reinforcement learning task. We investigated connectivity associated with loss and reward value-based choices and their outcomes in patients with SUD and healthy control participants during a pharmacological magnetic resonance imaging study. Participants received a single dose of a dopamine receptor agonist, pramipexole, and a dopamine receptor antagonist, amisulpride, in a randomised, double-blind, placebo-controlled, balanced, crossover design. Functional task-related connectivity was analysed taking a whole brain connectomics approach to identify networks that are differentially modulated by dopaminergic receptor functioning. SUD patients showed widespread reductions in connectivity during both reward and loss value-based choices and outcomes, which were negatively correlated with the duration of stimulant drug use. Disturbances to functional brain connectivity in SUD patients during task performance were not modulated acutely by either amisulpride or pramipexole. Reductions in brain connectivity, particularly when making value-based choices and processing outcomes, may underlie learning impairments in SUD patients. Given that acute dopaminergic modulation did not improve brain connectivity impairments in SUD patients, it is likely that alternative treatments are needed.
+This study aimed to assess the effects of Low-to-Moderate Intensity Continuous Training (LMICT), Moderate-Intensity Interval Training (MIIT), and Reduced-Exertion High-Intensity Training (REHIT) on blood glucose regulation, functional recovery, and lipid levels in individuals who have experienced a stroke and are diagnosed with Type 2 Diabetes Mellitus (T2DM). Forty-two T2DM stroke patients were randomly allocated to four groups: LMICT, MIIT, REHIT, and a control group (CON). Participants continuously monitored their blood glucose levels throughout the intervention using continuous glucose monitoring (CGM) devices. The study comprised two exercise intervention cycles: the first lasting from Day 3 to Day 14 and the second from Day 15 to Day 28, with the initial two days serving as contrasting periods. Primary outcomes encompassed CGM-derived blood glucose measurements, the Barthel Index (BI), Fugl-Meyer Assessment lower-extremity subscale (FMA-LE), and alterations in triglycerides (TG), total cholesterol (TC), high-density lipoprotein cholesterol (HDL-c), and low-density lipoprotein cholesterol (LDL-c). Compared with the CON, the MIIT group showed significant improvements in mean glucose (MG), glucose standard deviation (SD), time above range (TAR), and time in range (TIR). The REHIT group exhibited significantly reduced time below range (TBR), glucose SD, and coefficient of variation (CV). Regarding lipid levels, although the REHIT group achieved a significant reduction in TG levels compared with the CON, the overall effects of LMICT, MIIT, and REHIT on lipid profiles were relatively modest. Concerning functional recovery, the REHIT group significantly improved the BI and FMA-LE. Although the short-term quantitative impact of exercise on lipid levels may be limited, both REHIT and MIIT significantly improved glycemic management and reduced glucose variability in post-stroke patients with Type 2 Diabetes Mellitus. Additionally, REHIT notably enhanced functional recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.nicl.2024.103676
+- DOI: 10.3389/fendo.2024.1389538
 
 2. Keywords
-- Addiction
-- Connectivity
-- Learning
-- Loss
-- Reward
-- fMRI
+- aerobic exercise training
+- continuous glucose monitoring
+- functional activity
+- glycemic variability
+- lipid levels
+- stroke
+- type 2 diabetes mellitus
 
 3. Key Findings
-- SUD patients showed widespread reductions in connectivity during both reward and loss value-based choices and outcomes, which were negatively correlated with the duration of stimulant drug use
+- Compared with the CON, the MIIT group showed significant improvements in mean glucose (MG), glucose standard deviation (SD), time above range (TAR), and time in range (TIR)
 
 This study provides insights into:
-- Addiction assessment methods and outcomes
-- Connectivity assessment methods and outcomes
-- Learning assessment methods and outcomes
+- aerobic exercise training assessment methods and outcomes
+- continuous glucose monitoring assessment methods and outcomes
+- functional activity assessment methods and outcomes

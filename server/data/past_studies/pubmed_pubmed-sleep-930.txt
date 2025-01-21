@@ -1,26 +1,28 @@
-Study Title: Effects of qigong exercise on physical fitness and patient-reported health outcomes in lung cancer survivors.
+Study Title: A randomized controlled mHealth trial that evaluates social comparison-oriented gamification to improve physical activity, sleep quantity, and quality of life in young adults.
 
 Study Summary:
-The aim of this study was to investigate the effects of a three-month Guolin Qigong (GQ) intervention on physical fitness and patient-reported health outcomes among patients with lung cancer. This pilot study was a non-randomized controlled trial. Eligible participants who were over 18&#xa0;years of age and diagnosed with stage I-IV lung cancer were enrolled in the study and received either the GQ intervention or usual care (UC). Participants in the GQ group performed GQ at least twice a week (one&#xa0;hour per session) for three&#xa0;months. Physical fitness (chair stand, arm curl, sit and reach, back scratch, 8-foot up and go, 6-min walk test) was assessed at baseline, post-intervention, six&#xa0;months, and 12&#xa0;months. Self-reported quality of life and sleep (European Organization for Research and Treatment of Cancer Quality of Life questionnaire and Pittsburgh Sleep Quality Index) were assessed at baseline, post-intervention, and six&#xa0;months. Forty-nine participants (65% females, 59.1&#x2009;&#xb1;&#x2009;7.0&#xa0;years old, ranging from 39 to 71&#xa0;years old) were enrolled in the study, and 25 participants completed all tests at 12-month follow-up (13 in GQ vs. 12 in UC; 68% females, 59.3&#x2009;&#xb1;&#x2009;5.5&#xa0;years old). Compared to the UC group, results for the chair stand and arm curl tests improved significantly in the GQ group from baseline to post-intervention (P&#x2009;=&#x2009;0.024 and P&#x2009;=&#x2009;0.041, respectively). Similarly, the 8-foot up and go test improved in the GQ group from baseline to post-intervention and 12&#xa0;months (P&#x2009;=&#x2009;0.004 and P&#x2009;=&#x2009;0.008, respectively) when compared to the UC group. Between-group analyses also revealed a statistically significant improvement in global health status/quality of life from baseline to six&#xa0;months (P&#x2009;=&#x2009;0.018) and quality of sleep from baseline to post-intervention (P&#x2009;=&#x2009;0.034) in favor of the GQ group. GQ had a beneficial effect on lower and upper body strength, locomotor performance (speed, agility, and balance while moving), quality of sleep, and quality of life among lung cancer survivors, but further randomized controlled trials are warranted to confirm these findings. The trial has been registered in the Chinese Clinical Trial Registry (ChiCTR2200059145).
+The integration of gamification in mHealth interventions presents a novel approach to enhance user engagement and health outcomes. This study aims to evaluate whether comparison-oriented gamification can effectively improve various aspects of health and well-being, including physical activity, sedentary behavior, sleep, and overall quality of life among young adults. Potential 107 young adults (from 19 to 28 years old) participated in an 8-week trial. Participants were assigned to either a gamified mHealth intervention (LevantApp) with daily leaderboards and progress bars (n&#xa0;=&#xa0;53, 26&#xa0;% dropped-out), or a control condition without gamification (n&#xa0;=&#xa0;52, 29&#xa0;% dropped-out). Physical activity (number of steps, moderate and moderate-to-vigorous physical activity -MVPA-) and sleep quantity were measured objectively via accelerometry and subjectively using the International Physical Activity Questionnaire(IPAQ), Pittsburgh Sleep Quality Index(PSQI), Sedentary Behavior Questionnaire(SBQ), and Short Form Health Survey(SF-36). This mHealth intervention with social comparison-oriented gamification significantly improved moderate physical activity to a greater extent than the control group. Additionally, the intervention group showed improvements in the number of steps, moderate physical activity, sedentary time, emotional wellbeing, and social functioning. However, no significant group by time interaction was observed. No significant differences were observed in sleep quality or quantity. s: The LevantApp gamified mHealth intervention was effective in improving moderate physical activity, physical functioning, and role-emotional in young adults. No significant effects were found on step counts, MVPA or sleep, suggesting that while gamification can enhance specific aspects of physical activity and quality of life, its impact may vary across different outcomes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00520-023-08296-z
+- DOI: 10.1016/j.psychsport.2024.102590
 
 2. Keywords
-- Lung cancer
-- Physical fitness
-- Qigong
-- Quality of life
-- Sleep
+- Motivation
+- Physical activity
+- Sedentary behavior
+- Steps
+- Wearable device
+- mHealth
 
 3. Key Findings
-- Between-group analyses also revealed a statistically significant improvement in global health status/quality of life from baseline to six&#xa0;months (P&#x2009;=&#x2009;0
+- Additionally, the intervention group showed improvements in the number of steps, moderate physical activity, sedentary time, emotional wellbeing, and social functioning
+- No significant effects were found on step counts, MVPA or sleep, suggesting that while gamification can enhance specific aspects of physical activity and quality of life, its impact may vary across different outcomes
 
 This study provides insights into:
-- Lung cancer assessment methods and outcomes
-- Physical fitness assessment methods and outcomes
-- Qigong assessment methods and outcomes
+- Motivation assessment methods and outcomes
+- Physical activity assessment methods and outcomes
+- Sedentary behavior assessment methods and outcomes

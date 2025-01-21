@@ -1,20 +1,26 @@
-Study Title: Did diet compliance and remission reduce oxidative stress in celiac patients?
+Study Title: The impact of WeChat online education and care on the mental distress of caregivers and satisfaction of elderly postoperative colorectal cancer patients.
 
 Study Summary:
-We aimed to examine the effect of remission status on thiol-disulfide homeostasis in celiac patients and thus to indirectly determine the effect of oxidative stress and inflammation caused by non-compliance with the diet. Between February 2019 and December 2021, 117 patients diagnosed with celiac disease were included in this prospective randomized and controlled study. In addition to routine tests of celiac patients, thiol and disulfide measurements were made from the blood both at the beginning of the study and at the end of the first year. While 52 of the patients (44.4%) were in remission, 65 patients (55.6%) were not. There was an evident increase in native thiol levels of the patients who were initially not in remission but went into at the end of the first year (347.4&#xb1;46.7 &#x3bc;mol/L vs. 365.3&#xb1;44.0 &#x3bc;mol/L; p=0.001). Mean plasma disulfide levels of patients with celiac going into remission became reduced in the first year from the level of 14.5&#xb1;5.1 &#x3bc;mol/L down to 8.9&#xb1;4.2 &#x3bc;mol/L (p<0.001). In celiac patients who entered remission, disulfide and anti-tissue transglutaminase immunoglobulin A levels decreased in a correlation (r=0.526; p<0.001). Not being in remission in celiac disease leads to increased oxidative stress, and thiol-disulfide homeostasis is an indirect indicator of this. Additionally, providing remission in celiac patients reduces oxidative stress.
+WeChat-based nursing interventions alleviate mental distress. This study intended to investigate the effect of WeChat online education and care (WOEC) on the mental health of caregivers and the satisfaction of elderly postoperative colorectal cancer (CRC) patients. In total, 92 elderly postoperative CRC patients and 92 caregivers were randomly separated into the WOEC group (46 patients and 46 caregivers) and the control care group (46 patients and 46 caregivers). Caregivers received corresponding intervention for 8 weeks. Beck depression inventory (BDI) and beck anxiety inventory (BAI) of caregivers, and self-report satisfaction (SRS) of patients were assessed. In caregivers, BDI scores at 8 weeks after enrollment (W8) (P = 0.024) and BAI score at W8 (P = 0.009), depression severity at W8 (P = 0.036), as well as anxiety severity at 4 weeks after enrollment (W4) (P = 0.028) and W8 (P = 0.047) were declined in the WOEC group versus the control care group. Regarding patients, SRS scores at W4 (P = 0.044) and W8 (P = 0.025), the satisfaction degree at W4 (P = 0.033) and W8 (P = 0.034), as well as the satisfied and very satisfied rates at W4 (P = 0.031) and W8 (P = 0.029) were elevated in the WOEC group versus the control care group. By subgroup analyses, WOEC exhibited favorable effects on reducing mental stress in caregivers of patients with eastern cooperative oncology group performance status at enrollment <3, and in caregivers with an education level of high school & university and above. WOEC effectively relieves mental stress in caregivers of elderly postoperative CRC patients, and also elevates satisfaction in these patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1590/1806-9282.20231120
+- DOI: 10.1016/j.clinre.2024.102372
 
 2. Keywords
-
+- Anxiety and depression
+- Caregivers
+- Elderly postoperative colorectal cancer patients
+- Satisfaction
+- WeChat online education and care
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Anxiety and depression assessment methods and outcomes
+- Caregivers assessment methods and outcomes
+- Elderly postoperative colorectal cancer patients assessment methods and outcomes

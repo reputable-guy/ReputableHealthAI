@@ -1,27 +1,26 @@
-Study Title: Quantifying the Enhancement of Sarcopenic Skeletal Muscle Preservation Through a Hybrid Exercise Program: Randomized Controlled Trial.
+Study Title: Effects of a single bout of exercise on human hemocytes and serum interleukin 3, erythropoietin, and soluble transferrin receptor in a hot and humid environment.
 
 Study Summary:
-Sarcopenia is characterized by the loss of skeletal muscle mass and muscle function with increasing age. The skeletal muscle mass of older people who endure sarcopenia may be improved via the practice of strength training and tai chi. However, it remains unclear if the hybridization of strength exercise training and traditional Chinese exercise will have a better effect. We designed a strength training and tai chi exercise hybrid program to improve sarcopenia in older people. Moreover, explainable artificial intelligence was used to predict postintervention sarcopenic status and quantify the feature contribution. To assess the influence of sarcopenia in the older people group, 93 participated as experimental participants in a 24-week randomized controlled trial and were randomized into 3 intervention groups, namely the tai chi exercise and strength training hybrid group (TCSG; n=33), the strength training group (STG; n=30), and the control group (n=30). Abdominal computed tomography was used to evaluate the skeletal muscle mass at the third lumbar (L3) vertebra. Analysis of demographic characteristics of participants at baseline used 1-way ANOVA and &#x3c7;2 tests, and repeated-measures ANOVA was used to analyze experimental data. In addition, 10 machine-learning classification models were used to calculate if these participants could reverse the degree of sarcopenia after the intervention. A significant interaction effect was found in skeletal muscle density at the L3 vertebra, skeletal muscle area at the L3 vertebra (L3 SMA), grip strength, muscle fat infiltration, and relative skeletal muscle mass index (all P values were <.05). Grip strength, relative skeletal muscle mass index, and L3 SMA were significantly improved after the intervention for participants in the TCSG and STG (all P values were <.05). After post hoc tests, we found that participants in the TCSG experienced a better effect on L3 SMA than those in the STG and participants in the control group. The LightGBM classification model had the greatest performance in accuracy (88.4%), recall score (74%), and F1-score (76.1%). The skeletal muscle area of older adults with sarcopenia may be improved by a hybrid exercise program composed of strength training and tai chi. In addition, we identified that the LightGBM classification model had the best performance to predict the reversion of sarcopenia.
+Exercise in humid and hot environments (HHEs) may result in decreased perception, motor performance, and memory owing to endogenous heat production and exogenous load. However, whether a single bout of exercise (SBOE) intensity affects the magnitude of changes in the levels of hemocytes remains controversial. In this article, we aimed to investigate the effects of a SBOE of varying intensities on blood cells in HHE. Thirty-two volunteers were randomly divided into a quiet control group (QC), 55% VOmax intensity exercise group (HHE55%), 70% VOmax intensity exercise group (HHE70%), and 85% VOmax intensity exercise group (HHE85%). The participants in the exercise groups were assigned to perform an SBOE on the treadmill under HHE conditions for 30 min, whereas participants in the QC remained still under HHE conditions for 30 min (temperature: 28-32 &#xb0;C, relative humidity: 85-95%). The net body mass (NBM), perfusion index (PI), mean corpuscular volume (MCV), platelet (PLT), and plateletcrit (PCT) values were affected significantly by the exercise intensity (< 0.01) the hemoglobin (HGB) and neutrophil count (NE) were affected significantly by exercise intensity (< 0.05). After an SBOE, compared with that before exercise, the sublingual temperature (ST) of all groups, the NBM and MCV of all exercise groups, the PI of the HHE55% and HHE70% groups, the HGB, hematocrit (HCT), and NE of the HHE70% group, the red blood cell count (RBC), PLT, and PCT of the HHE70% and HHE85% groups, and the white blood cell count (WBC) of HHE85% changed very significantly (< 0.01). The PCT of QC, blood oxygen saturation (SaO), and soluble transferrin receptor (sTfR) levels in the HHE55% group, the lymphocyte count (LY) in the HHE70% group, and the HGB and HCT in the HHE85% group changed significantly (< 0.05). Low- and moderate-intensity SBOE in HHE could increase the serum EPO and serum sTfR levels and decrease the serum IL-3 levels. Conversely, a high-intensity load could increase the risk of inflammation. Therefore, low-intensity exercise may be more appropriate for an SBOE in HHE.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/58175
+- DOI: 10.7717/peerj.18603
 
 2. Keywords
-- explainable artificial intelligence
-- older adults
-- physical exercise program
-- sarcopenia
-- tai chi
+- Hemocytes
+- Hot and humid environment
+- Intensity
+- Serum hematopoietic factors
+- Single bout of exercise
 
 3. Key Findings
-- A significant interaction effect was found in skeletal muscle density at the L3 vertebra, skeletal muscle area at the L3 vertebra (L3 SMA), grip strength, muscle fat infiltration, and relative skeletal muscle mass index (all P values were <
-- After post hoc tests, we found that participants in the TCSG experienced a better effect on L3 SMA than those in the STG and participants in the control group
+- Findings extraction requires manual review
 
 This study provides insights into:
-- explainable artificial intelligence assessment methods and outcomes
-- older adults assessment methods and outcomes
-- physical exercise program assessment methods and outcomes
+- Hemocytes assessment methods and outcomes
+- Hot and humid environment assessment methods and outcomes
+- Intensity assessment methods and outcomes

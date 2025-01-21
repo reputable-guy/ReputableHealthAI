@@ -1,25 +1,28 @@
-Study Title: Efficacy of high dose systemic versus combined (systemic and intratympanic) corticosteroid therapy in idiopathic sudden sensorineural hearing loss: A prospective randomized trial and risk factor analysis.
+Study Title: A dietary intervention for postmenopausal hot flashes: A potential role of gut microbiome. An exploratory analysis.
 
 Study Summary:
-The pathophysiology and the proper treatment of idiopathic sudden sensorineural hearing loss (ISSNHL) are an ongoing subject of debate. Locally or systemic administered corticosteroids are the most accepted drugs of treatment in reference to ISSNHL (idiopathic sudden sensorineural hearing loss), however, no strong evidence nor guidelines regarding their effectiveness yet exists. In our prospective, randomized, controlled trial 78 participants were enrolled. Patients were randomly assigned based on the day of admission to two groups according to treatment: group SS (n&#xa0;=&#xa0;43) received intravenous systemic methylprednisolone alone, and group CT (n&#xa0;=&#xa0;35) received intratympanic dexamethasone + systemic methylprednisolone. The primary outcome was to compare the hearing outcomes between the treatment groups based on different, widely accepted categories (Siegel, Kanzaki, modified Siegel and PTA4 gain). In consideration of the secondary outcome, we examined the effect of the various risk factors on the hearing improvement. No differences were detected regarding hearing improvement between the two groups, based on any criteria [Siegel's criteria (p&#xa0;=&#xa0;0.604); Kanzaki's criteria (p&#xa0;=&#xa0;0.720); modified Siegel's criteria (p&#xa0;=&#xa0;0.524) and PTA 4 gain (p&#xa0;=&#xa0;0.569)]. However, several clinical factors such as vertigo (p&#xa0;=&#xa0;0.039), or cardiovascular comorbidity (p&#xa0;=&#xa0;0.02) and the severity of initial hearing loss (p&#xa0;=&#xa0;0.033) were found to bear a significant impact upon the hearing outcome. To the best of our knowledge, this is the first randomized controlled trial comparing high dose systemic and combination corticosteroid therapy in ISSNHL patients. Our findings suggest coexisting cardiovascular comorbidity, vertigo and severity of the initial hearing loss may bear a significantly higher impact upon hearing improvement, than the additional intratympanic steroid administration. The presented trial was registered in the European Union Drug Regulating Authorities Clinical Trials Database (name: Combinated systemic and intratympanic steroid therapy in idiopathic sudden sensorineural hearing loss, No.: 2017-000658-20) and with the ethical approval of The National Institute of Pharmacy and Nutrition (OGY&#xc9;I) (protocol No.: 7621, on 2017.02.16.).
+This study examined the role of gut microbiome changes in mediating the effects of a dietary intervention on the frequency and severity of postmenopausal vasomotor symptoms METHODS: Postmenopausal women (n&#xa0;=&#xa0;84) reporting &#x2265;2 moderate-to-severe hot flashes daily were randomly assigned, in 2 successive cohorts, to an intervention including a low-fat, vegan diet and cooked soybeans (&#xbd; cup [86&#xa0;g] daily) or to stay on their usual diet. Over a 12-week period, frequency and severity of hot flashes were recorded with a mobile application. In a subset of 11 women, gut microbiome was analyzed at baseline and after 12 weeks of the dietary intervention (low-fat vegan diet with soybeans), using deep shotgun metagenomic sequencing. Differences in the microbiome between baseline and 12 weeks were assessed by comparing alpha diversity with Wilcoxon signed rank tests, beta diversity with permanovaFL, and taxon abundance with Wilcoxon signed rank tests. Pearson correlations were used to assess the association between changes in hot flashes and gut bacteria. In the subset for which microbiome testing was done, total hot flashes decreased by 95 % during the dietary intervention (p&#xa0;=&#xa0;0.007); severe hot flashes disappeared (from 0.6 to 0.0/day; p&#xa0;=&#xa0;0.06); and moderate-to-severe hot flashes decreased by 96 % (p&#xa0;=&#xa0;0.01). Daytime and nighttime hot flashes were reduced by 96 % (p&#xa0;=&#xa0;0.01) and 94 % (p&#xa0;=&#xa0;0.004), respectively. Alpha and beta diversity did not significantly differ in the intervention group between baseline and 12 weeks. Two families (Enterobacteriaceae and Veillonellaceae), 5 genera (Erysipelatoclostridium, Fusicatenibacter, Holdemanella, Intestinimonas, and Porphyromonas), and 6 species (Clostridium asparagiforme, Clostridium innocuum, Bacteroides thetaiotaomicron, Fusicatenibacter saccharivorans, Intestinimonas butyriciproducens, Prevotella corporis, and Streptococcus sp.) were differentially abundant, but after correction for multiple comparisons, these differences were no longer significant. Changes in the relative abundance of Porphyromonas and Prevotella corporis were associated with the reduction in severe day hot flashes both unadjusted (r&#xa0;=&#xa0;0.61; p&#xa0;=&#xa0;0.047; and r&#xa0;=&#xa0;0.69; p&#xa0;=&#xa0;0.02), respectively), and after adjustment for changes in body mass index (r&#xa0;=&#xa0;0.63; p&#xa0;=&#xa0;0.049; and r&#xa0;=&#xa0;0.73; p&#xa0;=&#xa0;0.02), respectively). Changes in relative abundance of Clostridium asparagiforme were associated with the reduction in total severe hot flashes (r&#xa0;=&#xa0;0.69; p&#xa0;=&#xa0;0.019) and severe night hot flashes (r&#xa0;=&#xa0;0.82; p&#xa0;=&#xa0;0.002) and the latter association remained significant after adjustment for changes in body mass index (r&#xa0;=&#xa0;0.75; p&#xa0;=&#xa0;0.01). This exploratory analysis revealed potential associations between changes in vasomotor symptoms in response to a diet change and changes in the gut microbiome. Larger randomized clinical trials are needed to investigate these findings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.amjoto.2023.104099
+- DOI: 10.1016/j.ctim.2023.103002
 
 2. Keywords
-- Intratympanic injection
-- Risk factor
-- Steroid
-- Sudden hearing loss
+- Diet
+- Gut microbiome
+- Hot flashes
+- Menopause
+- Nutrition
+- Plant-based
+- Vegan
 
 3. Key Findings
-- 033) were found to bear a significant impact upon the hearing outcome
+- This exploratory analysis revealed potential associations between changes in vasomotor symptoms in response to a diet change and changes in the gut microbiome
 
 This study provides insights into:
-- Intratympanic injection assessment methods and outcomes
-- Risk factor assessment methods and outcomes
-- Steroid assessment methods and outcomes
+- Diet assessment methods and outcomes
+- Gut microbiome assessment methods and outcomes
+- Hot flashes assessment methods and outcomes

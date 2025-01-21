@@ -1,20 +1,27 @@
-Study Title: Effects of Sports Bras and Breast Volume on Pulmonary System and Respiratory Symptom Responses to Exercise in Healthy Females.
+Study Title: Efficacy of providing energy expenditure information to guide weight loss interventions in people with obesity: A randomized controlled trial.
 
 Study Summary:
-This study assessed the individual and combined effects of sports bras and breast volume on pulmonary system and respiratory symptom responses to exercise in recreationally active females. Twenty-three healthy females (18-27 yr; bra sizes 32B-36DDD) were divided into small and large breast volume groups (SBV and LBV, respectively) around median volume (324 mL; mean &#xb1; SD SBV: 284 &#xb1; 38 mL vs LBV: 560 &#xb1; 97 mL; P < 0.001, g = 3.84). Participants completed three 5-min bouts of constant-load cycle exercise at 30%, 60%, and 90% of their peak power output while wearing a high-support sports bra, low-support sports bralette, or their personal (self-selected) sports bra in randomized order. Measurements included ventilation, breathing pattern, respiratory pressures, diaphragm electromyogram (EMGdi), and ratings of perceived exertion (RPE), breathlessness (intensity and unpleasantness), and chest tightness due to bra. Compared with low-support and personal sports bras, the high-support sports bra evoked stronger sensations of restricted breathing and chest tightness ("slight" to "moderate" restriction in n = 7 (30%) vs n = 1 (4%) in low-support and personal bras; P = 0.014). There was, however, no evidence of greater concomitant inspiratory constraints, EMGdi, or inspiratory muscle pressure generation in either bra (all P > 0.05). Notably, LBV compared with SBV, participants reported greater RPE ( P = 0.037, &#x3b7;p2 = 0.20), breathlessness intensity ( P = 0.039, &#x3b7;p2 = 0.20), and unpleasantness ( P = 0.041; &#x3b7;p2 = 0.19), which, in the setting of comparable pulmonary system responses to exercise, was likely driven by stronger perceived chest tightness and/or bra awareness in LBV participants. Despite evoking mild-to-moderately severe chest tightness due to bra during exercise, correctly fitted sports bras, whether low- or high-support, do not impose a physiological burden to the respiratory system and its response to mild-to-heavy intensity exercise in otherwise healthy females.
+Resting energy expenditure (REE) and metabolic fuel utilization (carbohydrate or fat) proxied by respiratory quotient (RQ) from indirect calorimetry enables more precise measurement of energy needs and fat oxidation capacity. The study compared the effectiveness of providing energy expenditure information during diet and exercise weight intervention versus standard of care (SOC) on weight loss outcomes. Fifty-two participants with obesity were recruited from a specialist weight loss service, randomized 1:1 to intervention (INT) or SOC only. Participants in INT received four-weekly dietetic counselling, using biofeedback from energy expenditure data to recommend caloric restriction and physical activity goals, in addition to SOC. The primary outcome was the mean difference in weight loss between both groups after 24&#x2009;weeks. Secondary outcomes include participant acceptability and tolerability using indirect calorimetry. Participants in the INT group demonstrated additional weight loss (-2.3&#x2009;kg [95% CI: -3.1, -1.5]; p&#x2009;<.001), reduced waist circumference (-3.9&#x2009;cm [95% CI: -5.48, -2.26]; p&#x2009;<.001), and decreased body fat percentage (-1.5% [95% CI:-2.31, -0.72], p&#x2009;<.001), compared to SOC, after adjusting for baseline body mass index, age, and sex. Forty-two percent (10/24) of participants in INT group achieved the minimum clinically significant threshold of 5% weight loss from baseline, compared to 8% (2/26) in the SOC group (p&#x2009;=&#x2009;.007). Participant acceptability and tolerability of indirect calorimetry were high, with mean scores of 4.5&#x2009;&#xb1;&#x2009;0.6 and 4.2&#x2009;&#xb1;&#x2009;0.7 (5-point Likert scale). The study establishes the safety and practical integration of biofeedback using indirect calorimetry promoting improved self-regulation and enhancing weight loss.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2025
-- DOI: 10.1249/MSS.0000000000003561
+- DOI: 10.1111/cob.12703
 
 2. Keywords
-
+- diet
+- energy expenditure
+- exercise
+- fat oxidation
+- indirect calorimetry
+- obesity
 
 3. Key Findings
-- Findings extraction requires manual review
+- Participants in the INT group demonstrated additional weight loss (-2
 
 This study provides insights into:
-- General research methodology and outcomes
+- diet assessment methods and outcomes
+- energy expenditure assessment methods and outcomes
+- exercise assessment methods and outcomes

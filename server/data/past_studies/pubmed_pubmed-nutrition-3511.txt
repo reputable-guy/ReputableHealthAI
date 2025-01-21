@@ -1,20 +1,26 @@
-Study Title: Enhancements to a Telewellness Program for People With Physical Disabilities: Mindfulness, Exercise, and Nutrition To Optimize Resilience (MENTOR 2.0).
+Study Title: Basic carbohydrate counting and glycemia in young people with type 1 diabetes in India: A randomized controlled trial.
 
 Study Summary:
-This study evaluated the National Center on Health, Physical Activity and Disability (NCHPAD) Mindfulness, Exercise, and Nutrition To Optimize Resilience (MENTOR) program for people with physical disabilities. This retrospective evaluation of MENTOR 2.0, an 8-week online group health promotion program, was based on improvements from its first implementation (MENTOR 1.0). Baseline and postassessments included the Godin Leisure-Time Exercise Questionnaire (GLTEQ), NCHPAD Wellness Assessment (NWA), Connor-Davidson Resilience Scale, and Mindfulness Attention Awareness Scale. Estimates and corresponding 95% CIs from linear mixed models were provided to compare baseline and postassessment scores and effect sizes using Cohen d. Among 116 participants (mean age, 53 y; 63% female), postassessment scores increased significantly in the overall NWA and in all 15 NWA domains (effect size, 0.30-0.69). The overall NWA score was 7.59 (95% CI, 5.63-9.56) units higher at postassessment compared with baseline. Scores for GLTEQ health contribution increased significantly among participants with low baseline scores (31.37 [95% CI, 12.97-49.77]) (effect size, 0.50). Mindfulness and resilience scores both showed improvement (0.16 [95% CI, 0.01-0.31]; effect size, 0.15) and (0.72 [95% CI, -0.25 to 1.68]; effect size 0.09), respectively, but only the change in mindfulness was significant. MENTOR 2.0 advanced the evaluation of this online telewellness program for people with physical disabilities by demonstrating consistent results with MENTOR 1.0. We reported improvements in GLTEQ, especially among those with lower baseline scores; in multiple areas of wellness, including physical, mental, and emotional/spiritual health; and in mindfulness and resilience, although the improvements in these 2 constructs were small.
+The aim of this study was to evaluate the effect on glycemic control and acceptability of basic carbohydrate counting (BCC) in children and young adults with type 1 diabetes (T1DM). Ninety-two children and young adults (6-25 y of age) with T1DM were randomized to receive either routine nutrition education (RNE), which addressed food groups, glycemic index, and effects of food and exercise on glycemia, or learn BCC with personalized portion size education. A continuous glucose monitoring study and glycosylated hemoglobin (HbA1c) were performed at baseline and after 12 wk. The primary outcome was a change in time-in-range from baseline through 12 wk. A questionnaire on the acceptability of BCC was administered. At 12 wk, there was no significant difference in change in time-in-range between the two groups (BCC group: 1.2 &#xb1; 12.2; RNE group: 1.9 &#xb1; 12.3; P = 0.786). No significant changes were observed in the percentage of time that blood glucose was >180 or >250 mg/dL; <70 or <54 mg/dL; glycemic variability, percentage of nights with hypoglycemia and HbA1c. In subgroup analysis, there was a significant decrease in HbA1c in the BCC group among participants with higher maternal education (-0.5 versus 0.2, P = 0.042). The total score on the acceptability questionnaire was higher in the BCC group (P = 0.022). Among children and young adults in our region with T1DM, BCC provided flexibility in food choices and perception of greater ease of insulin adjustment. Although BCC was equivalent to RNE in terms of glycemic control, larger studies may reveal benefit in outcomes in certain subgroups.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.5888/pcd21.230181
+- DOI: 10.1016/j.nut.2023.112318
 
 2. Keywords
-
+- Carbohydrate exchange
+- Continuous glucose monitoring
+- Medical nutrition therapy
+- Time in range
+- Type 1 diabetes
 
 3. Key Findings
-- Mindfulness and resilience scores both showed improvement (0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Carbohydrate exchange assessment methods and outcomes
+- Continuous glucose monitoring assessment methods and outcomes
+- Medical nutrition therapy assessment methods and outcomes

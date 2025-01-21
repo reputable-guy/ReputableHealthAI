@@ -1,26 +1,20 @@
-Study Title: Behavioural therapy for shift work disorder improves shift workers' sleep, sleepiness and mental health: A pilot randomised control trial.
+Study Title: Neuromodulation with aerobic exercise reduces fatigue in systemic lupus erythematosus: a randomised, sham-controlled, double-blind study.
 
 Study Summary:
-The present study evaluates the efficacy of behavioural therapy adapted for shift work disorder with a randomised control design in a healthcare population. Forty-three night shift workers (m. age: 34&#x2009;years; 77% women) experiencing shift work disorder were randomised to either the behavioural therapy for shift work disorder (BT-SWD) or a waiting-list control group offered after the waiting period. Participants completed questionnaires on insomnia, sleepiness and mental health pre- and post-treatment, pre- and post-waiting, and at follow-up, and a sleep diary. As night shift workers alternate between sleeping during the day after their night shifts and transitioning to nighttime sleep on days off, insomnia severity and sleep variables were analysed for daytime and nighttime sleep. The BT-SWD involved sleep restriction therapy, stimulus control and fixed sleep periods in the dark. Statistical analyses were performed under intent-to-treat and per-protocol approaches. Repeated-measures two-way ANCOVA analysis, controlling for age, sex and pre-treatment daytime total sleep time, was performed with Bonferroni corrections, and between-group effect sizes computed. Fourteen participants dropped out after randomisation. Under the intent-to-treat analysis, BT-SWD participants had a significant greater decrease in daytime insomnia severity and an increase in daytime total sleep time at post-treatment than the control group, with large between-group effect sizes (-1.25 and 0.89). These corresponding results were also significant with large effect sizes under the per-protocol analysis. Sleepiness, anxiety and depression levels improved at post-treatment and maintained at follow-up when the BT-SWD treated controls were added to the BT-SWD group. The behavioural therapy for shift work disorder can be used to improve the sleep and mental health of healthcare night workers.
+Transcranial direct current stimulation (tDCS) combined with aerobic exercise (tDCS-AE) effectively reduces fatigue in patients with fibromyalgia. However, no study has assessed this method in systemic lupus erythematosus (SLE) patients with significant fatigue. Therefore, we evaluated the safety and efficacy of tDCS-AE for significant fatigue symptoms in adult female SLE patients. This randomised, sham-controlled, double-blind study included 25 patients with SLE in remission or low disease activity (SLEDAI-2K &#xa3;4) and with significant fatigue [&#x2265;36 points on the Fatigue Severity Scale (FSS) or &#x2265;38 points on the Modified Fatigue Scale (MFIS)]. The patients received sham or tDCS for five consecutive days. The anode and cathode were positioned at M1 and Fp2, respectively (international 10-20 EEG system). tDCS was applied at an intensity of 2mA, and density of 0.057mA/cm2 in the tDCS-AE group. Both groups underwent combined low-intensity treadmill exercise. FSS, MFIS, pain visual analogue scale, physical activity, and sleep quality were evaluated at baseline and on days 7, 30, and 60. Adherence and safety were assessed using a standardised questionnaire. Improvement in fatigue levels was observed in both groups. However, a sustained reduction in fatigue levels on days 30 and 60 occurred only with tDCS-AEs (p<0.05). No significant differences were observed in pain level, sleep quality, or physical activity. No disease flares occurred and the adverse effects were mild and transient. Finally, the patient's adherence to the treatment was satisfactory. Despite isolated AEs, there was an improvement in fatigue, however, only tDCS-AE maintained significant and sustained improvement.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/jsr.14162
+- DOI: 10.55563/clinexprheumatol/yvrdgm
 
 2. Keywords
-- behavioural therapy
-- healthcare
-- insomnia
-- shift work disorder
-- treatment
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- behavioural therapy assessment methods and outcomes
-- healthcare assessment methods and outcomes
-- insomnia assessment methods and outcomes
+- General research methodology and outcomes

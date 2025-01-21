@@ -1,26 +1,21 @@
-Study Title: Effect of Dapagliflozin on Accelerometer-Based Measures of Physical Activity in Patients With Heart Failure: An Analysis of the DETERMINE Trials.
+Study Title: Early Motion and Directed Exercise (EMADE) following ankle fracture fixation: a pragmatic randomized controlled trial.
 
 Study Summary:
-Wearable accelerometers can quantify the frequency and intensity of physical activity during everyday life and may provide complementary data to established functional outcome measures on the effect of heart failure therapies on functional limitations. In a voluntary substudy of the DETERMINE trials (Dapagliflozin Effect on Exercise Capacity Using a 6-Minute Walk Test in Patients With Heart Failure), patients wore a waist-worn triaxial accelerometer for as long as possible (ideally for 24 h/d for 7 days) at 3 points during the trial, between the screening visit and randomization (baseline data), and during weeks 8 and 14 to 16. Accelerometer outcomes included the change from baseline to week 16 in the total number of steps, time spent in light-to-vigorous physical activity, time spent in moderate-to-vigorous physical activity, movement intensity during walking, number of vector magnitude units' and total activity counts. Adequate baseline and week 16 accelerometer data were available for 211 of 817 (26%) randomized patients (defined as &#x2265;10 hours of wear time for &#x2265;3 days). Dapagliflozin had a favorable effect on the mean change from baseline at 16 weeks in the number of steps (between-group difference, 778 [95% CI, 240-1315]), time spent in moderate-to-vigorous physical activity (0.16 [95% CI, 0.03-0.29] hours), and in the mean vector magnitude units (25 [95% CI, 0.1-49] counts per minute). There were no between-group differences in the other accelerometer outcomes of interest. In this exploratory analysis of the DETERMINE trials, dapagliflozin had a beneficial effect on selected accelerometer-based measures of physical activity in patients with heart failure across the entire left ventricular ejection fraction spectrum, yet did not improve 6-minute walk distance, as previously reported. These data suggest that accelerometer-based measurements of everyday activity may provide complementary information to 6-minute walk distance and identify beneficial effects of treatment not detected by 6-minute walk distance. URL: https://www.clinicaltrials.gov; Unique identifiers: NCT03877237 and NCT03877224.
+This study aimed to compare the outcomes of two different postoperative management approaches following surgical fixation of ankle fractures: traditional cast immobilization versus the Early Motion and Directed Exercise (EMADE) programme. A total of 157 patients aged 18 years or older who underwent successful open reduction and internal fixation (ORIF) of Weber B (AO44B) ankle fractures were recruited to this randomized controlled trial. At two weeks post-surgical fixation, participants were randomized to either light-weight cast-immobilization or the EMADE programme, consisting of progressive home exercises and weekly advice and education. Both groups were restricted to non-weightbearing until six weeks post-surgery. The primary outcome was assessed using the Olerud-Molander Ankle Score (OMAS) questionnaire at 12 weeks post-surgery, with secondary measures at two, six, 24, and 52 weeks. Exploratory cost-effectiveness analyses were also performed. Overall, 130 participants returned their 12-week OMAS questionnaires. The mean OMAS was significantly higher in the EMADE group compared with the immobilized group (62.0 (SD 20.9) vs 48.8 (SD 22.5)), with a clinically meaningful mean difference of 13.2 (95% CI 5.66 to 20.73; p < 0.001). These differences were maintained at week 24, with convergence by week 52. No intervention-related adverse events, including instability, were reported. The EMADE programme demonstrated an accelerated recovery compared to traditional six-week cast immobilization for those who have undergone ORIF surgery to stabilize Weber B (AO44B) ankle fractures. The study found the EMADE intervention to be safe.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1161/CIRCHEARTFAILURE.124.012349
+- DOI: 10.1302/0301-620X.106B9.BJJ-2023-1433.R1
 
 2. Keywords
-- accelerometry
-- exercise
-- sodium-glucose transporter 2 inhibitors
-- walk test
-- wearable electronic devices
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- The EMADE programme demonstrated an accelerated recovery compared to traditional six-week cast immobilization for those who have undergone ORIF surgery to stabilize Weber B (AO44B) ankle fractures
+- The study found the EMADE intervention to be safe
 
 This study provides insights into:
-- accelerometry assessment methods and outcomes
-- exercise assessment methods and outcomes
-- sodium-glucose transporter 2 inhibitors assessment methods and outcomes
+- General research methodology and outcomes

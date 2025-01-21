@@ -1,26 +1,20 @@
-Study Title: Effects of Pilates method on quality of life, fatigue and sleep quality among breast cancer women receiving hormone therapy - Two-arm randomized clinical trial.
+Study Title: Generalized Camera-Based Infant Sleep-Wake Monitoring in NICUs: A Multi-Center Clinical Trial.
 
 Study Summary:
-To analyze the effect of the Pilates method on the quality of life, fatigue, and sleep quality of patients undergoing adjuvant clinical treatment with hormone therapy for breast cancer. A randomized two-arm clinical trial with 34 breast cancer women that were randomized into two groups: a) Intervention group, who performed 16 weeks of mat Pilates; b) Control group, who maintained their daily routine activities and received three educational sessions. The questionnaires for each variable were applied before the intervention, after the intervention, and six months after the end of the intervention. Quality of life was assessed by The European Organization for Research and Treatment of Cancer Quality of Life Questionnaire C30 (EORTC QLQ-C30), fatigue by the Functional Assessment of Cancer Therapy-Fatigue (FACT-F), and sleep quality by the Pittsburgh Sleep Quality Index. The fatigue variable presented a time effect (p&#xa0;=&#xa0;0.034) regardless of the analyzed group, in which a difference was found between baseline and the post-intervention period (p&#xa0;=&#xa0;0.037). The variable sleep showed an effect of time (p&#xa0;=&#xa0;0.025), presenting a difference between the baseline period and six months, with improvement for all participants (p&#xa0;=&#xa0;0.004). Global health also showed a positive change also for all participants, with an isolated effect of time (p&#xa0;=&#xa0;0.024). Interventions based on the Pilates method may bring positive results in quality of life, fatigue, and sleep quality in patients undergoing adjuvant treatment for breast cancer, but further studies on the subject are needed to prove the results in a larger number of patients.
+The infant sleep-wake behavior is an essential indicator of physiological and neurological system maturity, the circadian transition of which is important for evaluating the recovery of preterm infants from inadequate physiological function and cognitive disorders. Recently, camera-based infant sleep-wake monitoring has been investigated, but the challenges of generalization caused by variance in infants and clinical environments are not addressed for this application. In this paper, we conducted a multi-center clinical trial at four hospitals to improve the generalization of camera-based infant sleep-wake monitoring. Using the face videos of 64 term and 39 preterm infants recorded in NICUs, we proposed a novel sleep-wake classification strategy, called consistent deep representation constraint (CDRC), that forces the convolutional neural network (CNN) to make consistent predictions for the samples from different conditions but with the same label, to address the variances caused by infants and environments. The clinical validation shows that by using CDRC, all CNN backbones obtain over 85% accuracy, sensitivity, and specificity in both the cross-age and cross-environment experiments, improving the ones without CDRC by almost 15% in all metrics. This demonstrates that by improving the consistency of the deep representation of samples with the same state, we can significantly improve the generalization of infant sleep-wake classification.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jbmt.2023.09.002
+- DOI: 10.1109/JBHI.2024.3371687
 
 2. Keywords
-- Motor activity
-- Neoplasm breast
-- Quality of life
+
 
 3. Key Findings
-- 034) regardless of the analyzed group, in which a difference was found between baseline and the post-intervention period (p&#xa0;=&#xa0;0
-- The variable sleep showed an effect of time (p&#xa0;=&#xa0;0
-- Global health also showed a positive change also for all participants, with an isolated effect of time (p&#xa0;=&#xa0;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Motor activity assessment methods and outcomes
-- Neoplasm breast assessment methods and outcomes
-- Quality of life assessment methods and outcomes
+- General research methodology and outcomes

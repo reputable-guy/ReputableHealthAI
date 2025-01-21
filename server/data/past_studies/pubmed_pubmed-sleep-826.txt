@@ -1,26 +1,20 @@
-Study Title: A Comparison of the Rates of Clock-Based Nocturnal Hypoglycemia and Hypoglycemia While Asleep Among People Living with Diabetes: Findings from the Hypo-METRICS Study.
+Study Title: The Role of the Pediatrician in the Promotion of Healthy, Active Living.
 
 Study Summary:
-Nocturnal hypoglycemia is generally calculated between 00:00 and 06:00. However, those hours may not accurately reflect sleeping patterns and it is unknown whether this leads to bias. We therefore compared hypoglycemia rates while asleep with those of clock-based nocturnal hypoglycemia in adults with type 1 diabetes (T1D) or insulin-treated type 2 diabetes (T2D).Participants from the Hypo-METRICS study wore a blinded continuous glucose monitor and a Fitbit Charge 4 activity monitor for 10 weeks. They recorded details of episodes of hypoglycemia using a smartphone app. Sensor-detected hypoglycemia (SDH) and person-reported hypoglycemia (PRH) were categorized as nocturnal (00:00-06:00&#x2009;h) versus diurnal and while asleep versus awake defined by Fitbit sleeping intervals. Paired-sample Wilcoxon tests were used to examine the differences in hypoglycemia rates.A total of 574 participants [47% T1D, 45% women, 89% white, median (interquartile range) age 56 (45-66) years, and hemoglobin A1c 7.3% (6.8-8.0)] were included. Median sleep duration was 6.1&#x2009;h (5.2-6.8), bedtime and waking time &#x223c;23:30 and 07:30, respectively. There were higher median weekly rates of SDH and PRH while asleep than clock-based nocturnal SDH and PRH among people with T1D, especially for SDH <70&#x2009;mg/dL (1.7 vs. 1.4,&#x2009;<&#x2009;0.001). Higher weekly rates of SDH while asleep than nocturnal SDH were found among people with T2D, especially for SDH <70&#x2009;mg/dL (0.8 vs. 0.7,&#x2009;<&#x2009;0.001).Using 00:00 to 06:00 as a proxy for sleeping hours may underestimate hypoglycemia while asleep. Future hypoglycemia research should consider the use of sleep trackers to record sleep and reflect hypoglycemia while asleep more accurately. The trial registration number is NCT04304963.
+Few children and adolescents meet federal nutrition or physical activity recommendations, and many experience poor or inadequate sleep and negative health effects from screen use and social media. These lifestyle factors exacerbate physical and mental health risks for children and adolescents. This clinical report provides guidance to help pediatricians address the nutritional, physical activity, sleep, media and screen use, and social-emotional factors that affect child and adolescent health and wellness. The recommendations in this clinical report aim to promote health and wellness practices for infants, children, and adolescents across several domains of influence, including the individual, interpersonal, institutional, community, and public policy levels.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1089/dia.2023.0522
+- DOI: 10.1542/peds.2023-065480
 
 2. Keywords
-- Continuous glucose monitoring
-- Fitbit
-- Hypo-METRICS
-- Nocturnal hypoglycemia
-- Sleep tracking
+
 
 3. Key Findings
-- Higher weekly rates of SDH while asleep than nocturnal SDH were found among people with T2D, especially for SDH <70&#x2009;mg/dL (0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Continuous glucose monitoring assessment methods and outcomes
-- Fitbit assessment methods and outcomes
-- Hypo-METRICS assessment methods and outcomes
+- General research methodology and outcomes

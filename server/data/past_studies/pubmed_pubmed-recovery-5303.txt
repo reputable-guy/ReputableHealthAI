@@ -1,22 +1,25 @@
-Study Title: A study comparing brain wave patterns of fentanyl and ketamine in adult patients undergoing minimally invasive surgery.
+Study Title: Acustimulation combined with pharmacological prophylaxis versus pharmacological prophylaxis alone in postoperative nausea and vomiting (PONV) prophylaxis among patients undergoing laparoscopy abdominal surgery: a research protocol for a randomised controlled trial.
 
 Study Summary:
-This study aimed to investigate and compare the neurophysiological impacts of two widely used anesthetic agents, Fentanyl and Ketamine, on EEG power spectra during different stages of anesthesia in adult patients undergoing minimally invasive surgery. EEG data were collected from patients undergoing anesthesia with either Fentanyl or Ketamine. The data were analyzed for relative power spectrum and fast-to-slow wave power ratios, alongside Spectral Edge Frequency 95% (SEF95), at 3 key stages: pre-anesthesia, during stable anesthesia, and post-anesthesia. EEG Relative Power Spectrum: Initially, both groups exhibited similar EEG spectral profiles, establishing a uniform baseline (P&#x2005;>&#x2005;.05). Upon anesthesia induction, the Fentanyl group showed a substantial increase in delta band power (P&#x2005;<&#x2005;.05), suggesting deeper anesthesia, while the Ketamine group maintained higher alpha and beta band activity (P&#x2005;<&#x2005;.05), indicative of a lighter sedative effect. Fast and Slow Wave Power Ratios: The Fentanyl group exhibited a marked reduction in the fast-to-slow wave power ratio during anesthesia (P&#x2005;<&#x2005;.05), persisting post-anesthesia (P&#x2005;<&#x2005;.05) and indicating a lingering effect on brain activity. Conversely, the Ketamine group demonstrated a more stable ratio (P&#x2005;>&#x2005;.05), conducive to settings requiring rapid cognitive recovery. Spectral Edge Frequency 95% (SEF95): Analysis showed a significant decrease in SEF95 values for the Fentanyl group during anesthesia (P&#x2005;<&#x2005;.05), reflecting a shift towards lower frequency power. The Ketamine group experienced a less pronounced decrease (P&#x2005;>&#x2005;.05), maintaining a higher SEF95 value that suggested a lighter level of sedation. The study highlighted the distinct impacts of Fentanyl and Ketamine on EEG power spectra, with Fentanyl inducing deeper anesthesia as evidenced by shifts towards lower frequency activity and a significant decrease in SEF95 values. In contrast, Ketamine's preservation of higher frequency activity and more stable SEF95 values suggests a lighter, more dissociative anesthetic state. These findings emphasize the importance of EEG monitoring in anesthesia for tailoring anesthetic protocols to individual patient needs and optimizing postoperative outcomes.
+This study evaluates the efficacy of integrating percutaneous electrical nerve stimulation at the pericardium 6 (PC6) acupuncture point through a wearable acustimulation device with standard pharmacological prophylaxis to prevent postoperative nausea and vomiting (PONV) compared with pharmacological prophylaxis alone in patients undergoing laparoscopic abdominal surgery. This prospective study will enrol 302 patients scheduled for elective laparoscopic surgery. Participants will be randomly allocated to one of two groups: acustimulation combined with pharmacological prophylaxis or sham stimulation combined with pharmacological prophylaxis. Randomisation will involve a computer-generated sequence, with allocation concealment implemented through sealed envelopes. The acustimulation group will receive electrical stimulation at the PC6 point starting 30&#x2009;min before surgery and continuing until discharge from the postanaesthesia care unit. Sham group will wear a wristband that does not provide stimulation. The primary outcome is the incidence of PONV. Secondary outcomes include the severity of PONV, incidence rates of nausea and vomiting at different postoperative intervals and indices of gastrointestinal functional recovery. Exploratory outcomes will assess haemodynamic parameters, baroreflex sensitivity, hospital stay duration, costs and both short-term and long-term postoperative recovery. All participants will provide written informed consent. The study has been approved by the Ethics Committee of Peking Union Medical Hospital (approval number: I-23PJ1712). Results will be published open access. NCT06241547.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000038049
+- DOI: 10.1136/bmjopen-2024-088633
 
 2. Keywords
-
+- Acupuncture
+- Adult anaesthesia
+- Randomized Controlled Trial
+- SURGERY
 
 3. Key Findings
-- Upon anesthesia induction, the Fentanyl group showed a substantial increase in delta band power (P&#x2005;<&#x2005;
-- Conversely, the Ketamine group demonstrated a more stable ratio (P&#x2005;>&#x2005;
-- Spectral Edge Frequency 95% (SEF95): Analysis showed a significant decrease in SEF95 values for the Fentanyl group during anesthesia (P&#x2005;<&#x2005;
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Acupuncture assessment methods and outcomes
+- Adult anaesthesia assessment methods and outcomes
+- Randomized Controlled Trial assessment methods and outcomes

@@ -1,20 +1,28 @@
-Study Title: Early versus late parenteral nutrition in term and late preterm infants: a randomised controlled trial.
+Study Title: Randomized Controlled Trial of Telementoring During Resource-Limited Patient Care Simulation Improves Caregiver Performance and Patient Survival.
 
 Study Summary:
-There is limited evidence regarding the optimal time to commence parenteral nutrition (PN) in term and late preterm infants. Single-centre, non-blinded, exploratory randomised controlled trial. A level-3 neonatal unit in a stand-alone paediatric hospital. Infants born &#x2265;34 weeks of gestation and &#x2264;28 days, who needed PN. Eligible infants were randomised on day 1 or day 2 of admission. Early (day 1 or day 2 of admission, N=30) or late (day 6 of admission, N=30) PN. Plasma phenylalanine and F-isoprostane levels on day 4 and day 8 of admission. Secondary outcomes were amino-acid and fatty-acid profiles on day 4 and day 8, and clinical outcomes. The postnatal age at randomisation was similar between the groups (2.3 (SD 0.8) vs 2.3 (0.7) days, p=0.90). On day 4, phenylalanine levels in early-PN infants were higher than in late-PN (mean (SD) 62.9 (26.7) vs 45.5 (15.3) &#xb5;mol/L; baseline-adjusted percentage difference 25.8% (95% CI 11.6% to 39.9%), p<0.001). There was no significant difference in phenylalanine levels between the two groups on day 8. There was no significant difference between the groups for F-isoprostane levels on day 4 (early-PN mean (SD) 389 (176) vs late-PN 419 (291) pg/mL; baseline-adjusted percentage difference: -4.4% (95% CI -21.5% to 12.8%) p=0.62) and day 8 (mean (SD) 305 (125) vs 354 (113) pg/mL; adjusted mean percentage difference -16.1 (95% CI -34.1 to 1.9) p=0.09).Postnatal growth restriction for weight was less severe in the early-PN group (change in weight z-score from baseline to discharge: -0.6 (0.6) vs -1.0 (0.6); p=0.02). The incidence of hyperglycaemia was greater in the early-PN group (20/30 (66.7%) vs 11/30 (36.7%), p=0.02). The timing of the commencement of PN did not seem to affect the degree of oxidative stress in critically ill term and late preterm infants. The effect of transiently high plasma phenylalanine with early PN on clinical outcomes requires further investigation. ACTRN12620000324910.
+To determine the impact of telementoring on caregiver performance during a high-fidelity medical simulation model (HFMSM) of a critically ill patient in a resource-limited setting. A two-center, randomized, controlled study using a HFMSM of a patient with community-acquired pneumonia complicated by acute respiratory distress syndrome. A notional clinic in a remote location staffed by a single clinician and nonmedical assistant. Clinicians with limited experience managing critically ill patients. Telemedicine (TM) support. The primary outcome was clinical performance as measured by accuracy, reliability, and efficiency of care. Secondary outcomes were patient survival, procedural quality, subjective assessment of the HFMSM, and perceived workload. TM participants (= 11) performed better than non-TM (NTM,= 12) in providing expected care (accuracy), delivering care more consistently (reliability), and without consistent differences in efficiency (timeliness of care). Accuracy: TM completed 91% and NTM 42% of expected tasks and procedures. Efficiency: groups did not differ in the mean (&#xb1; sd) minutes it took to obtain an advanced airway successfully (TM 15.2&#x2009;&#xb1;&#x2009;10.5 vs. NTM 22.8&#x2009;&#xb1;&#x2009;8.4,= 0.10) or decompress a tension pneumothorax with a needle (TM 0.7&#x2009;&#xb1;&#x2009;0.5 vs. NTM 0.6&#x2009;&#xb1;&#x2009;0.9,= 0.65). TM was slower than NTM in completing thoracostomy (22.3&#x2009;&#xb1;&#x2009;10.2 vs. 12.3&#x2009;&#xb1;&#x2009;4.8,= 0.03). Reliability: TM performed 13 of 17 (76%) tasks with more consistent timing than NTM. TM completed 68% and NTM 29% of procedural quality metrics. Eighty-two percent of the TM participants versus 17% of the NTM participants simulated patients survived (= 0.003). The groups similarly perceived the HFMSM as realistic, managed their patients with personal ownership, and experienced comparable workload and stress. Remote expertise provided with TM to caregivers in resource-limited settings improves caregiver performance, quality of care, and potentially real patient survival. HFMSM can be used to study interventions in ways not possible with real patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/bmjpo-2024-002579
+- DOI: 10.1097/CCE.0000000000001090
 
 2. Keywords
-- Neonatology
+- disaster medicine
+- high-fidelity simulation training
+- military medicine
+- patient simulation
+- technology assessment
+- telemedicine
+- wilderness medicine
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Neonatology assessment methods and outcomes
+- disaster medicine assessment methods and outcomes
+- high-fidelity simulation training assessment methods and outcomes
+- military medicine assessment methods and outcomes

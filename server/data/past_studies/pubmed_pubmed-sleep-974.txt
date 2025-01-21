@@ -1,26 +1,25 @@
-Study Title: Trial Readiness of Cavernous Malformations With Symptomatic Hemorrhage, Part I: Event Rates and Clinical Outcome.
+Study Title: Effectiveness of a Social Networking Site Based Automatic Mobile Message Providing System on Glycemic Control in Patients with Type 2 Diabetes Mellitus.
 
 Study Summary:
-Cerebral cavernous malformation with symptomatic hemorrhage (SH) are targets for novel therapies. A multisite trial-readiness project (https://www.clinicaltrials.gov; Unique identifier: NCT03652181) aimed to identify clinical, imaging, and functional changes in these patients. We enrolled adult cerebral cavernous malformation patients from 5 high-volume centers with SH within the prior year and no planned surgery. In addition to clinical and imaging review, we assessed baseline, 1- and 2-year National Institutes of Health Stroke Scale, modified Rankin Scale, European Quality of Life 5D-3 L, and patient-reported outcome-measurement information system, Version 2.0. SH and asymptomatic change rates were adjudicated. Changes in functional scores were assessed as a marker for hemorrhage. One hundred twenty-three, 102, and 69 patients completed baseline, 1- and 2-year clinical assessments, respectively. There were 21 SH during 178.3 patient years of follow-up (11.8% per patient year). At baseline, 62.6% and 95.1% of patients had a modified Rankin Scale score of 1 and National Institutes of Health Stroke Scale score of 0 to 4, respectively, which improved to 75.4% (=0.03) and 100% (=0.06) at 2 years. At baseline, 74.8% had at least one abnormal patient-reported outcome-measurement information system, Version 2.0 domain compared with 61.2% at 2 years (=0.004). The most common abnormal European Quality of Life 5D-3 L domains were pain (48.7%), anxiety (41.5%), and participation in usual activities (41.4%). Patients with prospective SH were more likely than those without SH to display functional decline in sleep, fatigue, and social function patient-reported outcome-measurement information system, Version 2.0 domains at 2 years. Other score changes did not differ significantly between groups at 2 years. The sensitivity of scores as an SH marker remained poor at the time interval assessed. We report SH rate, functional, and patient-reported outcomes in trial-eligible cerebral cavernous malformation with SH patients. Functional outcomes and patient-reported outcomes generally improved over 2 years. No score change was highly sensitive or specific for SH and could not be used as a primary end point in a trial.
+This study investigated the effectiveness of a social networking site (SNS)-based automatic mobile message providing system on glycemic control in patients with type 2 diabetes mellitus (T2DM). A 3-month, randomized, open-label, controlled, parallel-group trial was conducted. One hundred and ten participants with T2DM were randomized to a mobile message system (MMS) (n=55) or control group (n=55). The MMS group received protocolbased automated messages two times per day for 10 weeks regarding diabetes self-management through KakaoTalk SNS messenger. The primary outcome was the difference in the change in glycated hemoglobin (HbA1c) levels (%) from baseline to week 12. HbA1c levels were more markedly decreased in the MMS group (8.4%&#xb1;0.7% to 8.0%&#xb1;1.1%) than in the control group (8.5%&#xb1;0.8% to 8.4%&#xb1;0.8%), resulting in a significant between-group difference (P=0.027). No differences were observed in changes in fasting glucose levels, lipid profiles, and the number of participants who experienced hypoglycemia, or in changes in lifestyle behavior between groups. However, the self-monitoring of blood glucose frequency was significantly increased in the MMS group compared to the control group (P=0.003). In addition, sleep duration was increased in the MMS group, but was not changed in the control group. An SNS-based automatic mobile message providing system was effective in improving glycemic control in patients in T2DM. Studies which based on a more individualized protocol, and investigate longer beneficial effect and sustainability will be required in the future.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.1161/STROKEAHA.123.044068
+- Publication Date: 2024
+- DOI: 10.3803/EnM.2023.1871
 
 2. Keywords
-- cavernous angioma
-- intracranial hemorrhage
-- patient-reported outcome
-- quality of life
-- trial readiness
+- Diabetes mellitus, type 2
+- Glycated hemoglobin
+- Randomized controlled trial
+- Social networking site
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- cavernous angioma assessment methods and outcomes
-- intracranial hemorrhage assessment methods and outcomes
-- patient-reported outcome assessment methods and outcomes
+- Diabetes mellitus, type 2 assessment methods and outcomes
+- Glycated hemoglobin assessment methods and outcomes
+- Randomized controlled trial assessment methods and outcomes

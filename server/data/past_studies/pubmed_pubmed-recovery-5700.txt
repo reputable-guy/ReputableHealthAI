@@ -1,26 +1,26 @@
-Study Title: Does whole-body vibration improve risk of falls, balance, and heart rate variability in post-COVID-19 patients? A randomized clinical trial.
+Study Title: Feasibility of the enhanced neuromuscular blockade recovery protocol with selective use of sugammadex in thyroid surgery with intraoperative neuromonitoring.
 
 Study Summary:
-Whole-Body Vibration (WBV) can be a therapeutic recovery strategy for patients hospitalized for COVID-19. To evaluate the effects of a 36-session WBV protocol on the risk of falls, balance, mobility and heart rate variability (HRV). A randomized clinical trial. 13 patients affected by COVID-19, trained with WBV, 3&#xd7;/week on alternate days, totaling 36 sessions, were evaluated before and after the intervention. WBV training at 2&#xa0;mm and 4&#xa0;mm amplitude resulted in a reduction in the risk of falls when compared to Sham (p&#xa0;=&#xa0;0.023), with effect size of 0.530. No changes were observed for mobility and balance outcomes (p&#xa0;=&#xa0;0.127) or for any of the HRV variables (p&#xa0;=&#xa0;0.386). WBV training reduced the risk of falls in post-COVID patients. No changes were observed regarding balance and mobility, nor for HRV.
+To investigate feasibility of utilizing enhanced neuromuscular blocking agents with selective recovery protocol during thyroid surgery with intraoperative neuromonitoring (IONM). Two-hundred and ninety patients were randomized into two groups: group A 0.3&#x2009;mg/kg rocuronium and group B 0.6&#x2009;mg/kg. Sugammadex 2&#x2009;mg/kg was injected if needed followed initial vagal stimulation (V0). Electromyography signals from vagus and recurrent laryngeal nerves before and after resection were recorded as V1, V2, R1, and R2. In group B, 30 patients (20.7%) had V0 signals <100&#x2009;&#x3bc;V, compared to 9 (6.2%) in group A. After sugammadex administration, 144 patients (99.3%) in both groups achieved positive V1 signals. Group B demonstrated a shorter surgical time from rocuronium injection to V2 stimulation compared to group A, accompanied by a significantly lower incidence of intraoperative body movement (0 vs. 16 patients). 0.6&#x2009;mg/kg rocuronium with selective use 2&#x2009;mg/kg sugammadex for IONM in thyroid surgery can meet both anesthesia and surgery demands.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jbmt.2024.03.013
+- DOI: 10.1002/hed.27826
 
 2. Keywords
-- Autonomic nervous system diseases
-- Complementary therapeutic methods
-- Exercise
-- Lung diseases
-- SARS-CoV-2
+- intraoperative neural monitoring
+- neuromuscular blockade
+- recurrent laryngeal nerve
+- sugammadex
+- thyroid surgery
 
 3. Key Findings
-- Findings extraction requires manual review
+- Group B demonstrated a shorter surgical time from rocuronium injection to V2 stimulation compared to group A, accompanied by a significantly lower incidence of intraoperative body movement (0 vs
 
 This study provides insights into:
-- Autonomic nervous system diseases assessment methods and outcomes
-- Complementary therapeutic methods assessment methods and outcomes
-- Exercise assessment methods and outcomes
+- intraoperative neural monitoring assessment methods and outcomes
+- neuromuscular blockade assessment methods and outcomes
+- recurrent laryngeal nerve assessment methods and outcomes

@@ -1,27 +1,26 @@
-Study Title: Zibotentan in Microvascular Angina: A Randomized, Placebo-Controlled, Crossover Trial.
+Study Title: Digoxin and exercise effects on skeletal muscle Na,K-ATPase isoform gene expression in healthy humans.
 
 Study Summary:
-Microvascular angina is associated with dysregulation of the endothelin system and impairments in myocardial blood flow, exercise capacity, and health-related quality of life. The G allele of the noncoding single nucleotide polymorphismenhances expression of the endothelin-1 gene () in human vascular cells, potentially increasing circulating concentrations of Endothelin-1 (ET-1). Whether zibotentan, an oralreceptor selective antagonist, is efficacious and safe for the treatment of microvascular angina is unknown. Patients with microvascular angina were enrolled in this double-blind, placebo-controlled, sequential crossover trial of zibotentan (10 mg daily for 12 weeks). The trial population was enriched to ensure a G allele frequency of 50% for thesingle nucleotide polymorphism. Participants and investigators were blinded to genotype. The primary outcome was treadmill exercise duration (seconds) using the Bruce protocol. The primary analysis estimated the mean within-participant difference in exercise duration after treatment with zibotentan versus placebo. A total of 118 participants (mean&#xb1;SD; years of age 63.5 [9.2]; 71 [60.2%] females; 25 [21.2%] with diabetes) were randomized. Among 103 participants with complete data, the mean exercise duration with zibotentan treatment compared with placebo was not different (between-treatment difference, -4.26 seconds [95% CI, -19.60 to 11.06]=0.5871). Secondary outcomes showed no improvement with zibotentan. Zibotentan reduced blood pressure and increased plasma concentrations of ET-1. Adverse events were more common with zibotentan (60.2%) compared with placebo (14.4%;<0.001). Among patients with microvascular angina, short-term treatment with a relatively high dose (10 mg daily) of zibotentan was not beneficial. Target-related adverse effects were common. URL: https://www.clinicaltrials.gov; Unique identifier: NCT04097314.
+In muscle, digoxin inhibits Na,K-ATPase (NKA) whereas acute exercise can increase NKA gene expression, consistent with training-induced increased NKA content. We investigated whether oral digoxin increased NKA isoform mRNA expression (qPCR) in muscle at rest, during and post-exercise in 10 healthy adults, who received digoxin (DIG, 0.25&#xa0;mg per day) or placebo (CON) for 14 days, in a randomised, double-blind and cross-over design. Muscle was biopsied at rest, after cycling 20&#xa0;min (10&#xa0;min each at 33%, then 67%), then to fatigue at 90%and 3&#xa0;h post-exercise. No differences were found between DIG and CON for NKA &#x3b1;or &#x3b2;isoform mRNA. Both &#x3b1;(354%, P&#xa0;=&#xa0;0.001) and &#x3b2;mRNA (P&#xa0;=&#xa0;0.008) were increased 3&#xa0;h post-exercise, with &#x3b1;and &#x3b2;mRNA unchanged, whilst &#x3b1;mRNA declined at fatigue (-43%, P&#xa0;=&#xa0;0.045). In resting muscle, total &#x3b2; mRNA (&#x2211;(&#x3b2;+&#x3b2;+&#x3b2;)) increased in DIG (60%, P&#xa0;=&#xa0;0.025) and also when transcripts for each isoform were normalised to CON then either summed (P&#xa0;=&#xa0;0.030) or pooled (n&#xa0;=&#xa0;30, P&#xa0;=&#xa0;0.034). In contrast, total &#x3b1; mRNA (&#x2211;(&#x3b1;+&#x3b1;+&#x3b1;), P&#xa0;=&#xa0;0.348), normalised then summed (P&#xa0;=&#xa0;0.332), or pooled transcripts (n&#xa0;=&#xa0;30, P&#xa0;=&#xa0;0.717) did not differ with DIG. At rest, NKA &#x3b1;and &#x3b2;protein abundances were unchanged by DIG. Post-exercise, &#x3b1;and &#x3b2;proteins were unchanged, but &#x3b1;declined at 3&#xa0;h (19%, P&#xa0;=&#xa0;0.020). In conclusion, digoxin did not modify gene expression of individual NKA isoforms at rest or with exercise, indicating NKA gene expression was maintained consistent with protein abundances. However, elevated resting muscle total &#x3b2; mRNA with digoxin suggests a possible underlying &#x3b2; gene-stimulatory effect. HIGHLIGHTS: What is the central question of this study? Na,K-ATPase (NKA) in muscle is important for Na/Khomeostasis. We investigated whether the NKA-inhibitor digoxin stimulates increased NKA gene expression in muscle and exacerbates NKA gene responses to exercise in healthy adults. What is the main finding and its importance? Digoxin did not modify exercise effects on muscle NKA &#x3b1;and &#x3b2;gene transcripts, which comprised increased post-exercise &#x3b1;and &#x3b2;mRNA and reduced &#x3b1;mRNA during exercise. However, in resting muscle, digoxin increased NKA total &#x3b2; isoform mRNA expression. Despite inhibitory-digoxin or acute exercise stressors, NKA gene regulation in muscle is consistent with the maintenance of NKA protein contents.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1161/CIRCULATIONAHA.124.069901
+- DOI: 10.1113/EP091962
 
 2. Keywords
-- angina with no obstructive coronary arteries
-- endothelin receptor antagonist
-- exercise test
-- genetics
-- microvascular angina
-- pharmacotherapy
+- Na+,K+&#x2010;pump
+- digoxin
+- exercise
+- mRNA
+- skeletal muscle
 
 3. Key Findings
-- Secondary outcomes showed no improvement with zibotentan
+- No differences were found between DIG and CON for NKA &#x3b1;or &#x3b2;isoform mRNA
 
 This study provides insights into:
-- angina with no obstructive coronary arteries assessment methods and outcomes
-- endothelin receptor antagonist assessment methods and outcomes
-- exercise test assessment methods and outcomes
+- Na+,K+&#x2010;pump assessment methods and outcomes
+- digoxin assessment methods and outcomes
+- exercise assessment methods and outcomes

@@ -1,25 +1,26 @@
-Study Title: Effects of aerobic training on cardiopulmonary fitness in patients with long COVID-19: a randomized controlled trial.
+Study Title: The influence of assistance in home-based exercise programmes for individuals with intellectual disabilities.
 
 Study Summary:
-Long COVID-19 is characterized by systemic deterioration of the entire body, leading to significant physical and mental disorders. Exercise training has the potential to improve persistent symptoms and cardiopulmonary functions. This was a single-center, randomized, controlled trial. Twenty-four patients aged 18 to 75&#xa0;years who had a history of SARS-CoV-2 infection and long COVID symptoms. Patients were randomly allocated in a 1:1 ratio to receive either a 4-week exercise training program or an attention control group. The training group participated in 12 supervised aerobic sessions on a cycling ergometer over 4&#xa0;weeks. The outcomes were to assess the impact of a 4-week aerobic exercise on the persistent symptoms and cardiopulmonary fitness, the surrogate endpoints of COVID-19 recovery and cardiopulmonary health. After the 4-week intervention, significant reductions were observed in the total number of symptoms in the training group. Specifically, 67.8% of patients in the training group exhibited reduced or completely resolved symptoms, in comparison to 16.7% in the control group (P&#x2009;=&#x2009;0.013). After adjusting for gender, significant improvements in the training group were observed for exercise time (P&#x2009;=&#x2009;0.028), maximum load (P&#x2009;=&#x2009;0.01), and peak VO(P&#x2009;=&#x2009;0.001), as well as Opulse (P&#x2009;=&#x2009;0.042) and maximum heart rate (P&#x2009;=&#x2009;0.007). The score of Short Form-12, depression, anxiety, perceived stress, and insomnia did not show significant changes between groups (P&#x2009;>&#x2009;0.05). A supervised aerobic training program has the potential to alleviate persistent symptoms and improve exercise tolerance in patients with long COVID-19. Further research is necessary to confirm these effects in a large population. This intervention could be easily implemented in non-hospital settings, potentially benefiting a broader range of individuals. ClinicalTrials.gov NCT05961462. Registered on July 25, 2023.
+Regular physical activity (PA) decreases the risk of comorbidities associated with a sedentary lifestyle in individuals with intellectual disabilities (IDs). They also may experience additional barriers that may prevent PA, including access, proper instruction and support. At-home PA programming is a feasible alternative to long-term adherence. This study aimed to determine (1) how an at-home DVD programme affects PA adherence and (2) the extent to which caregiver support influences PA. Thirty-one adolescent or adult-aged participants with mild or moderate ID were randomised into a DVD or control group exercise intervention. Participants were given autonomy to choose what type of PA modality from the intervention they would like to participate in. Caregiver support during the PA was also measured. The two-way repeated-measures MANOVA demonstrated that the intervention DVD group was statistically significant, with a large effect size in PA minutes (P&#xa0;=&#xa0;0.014, &#x3b7;P&#xa0;=&#xa0;0.236) and rate of perceived exertion (P&#xa0;=&#xa0;0.002, &#x3b7;P&#xa0;=&#xa0;0.342) compared with the control group. The findings demonstrated that using an adapted DVD increased PA minutes and the rate of perceived exertion without high levels of caregiver support.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13063-024-08473-3
+- DOI: 10.1111/jir.13191
 
 2. Keywords
-- Cardiopulmonary function
-- Exercise training
-- Long COVID-19
-- Persistent symptoms
+- Caregiver support
+- DVD
+- Exercise
+- Peer modelling
 
 3. Key Findings
-- Findings extraction requires manual review
+- The two-way repeated-measures MANOVA demonstrated that the intervention DVD group was statistically significant, with a large effect size in PA minutes (P&#xa0;=&#xa0;0
+- The findings demonstrated that using an adapted DVD increased PA minutes and the rate of perceived exertion without high levels of caregiver support
 
 This study provides insights into:
-- Cardiopulmonary function assessment methods and outcomes
-- Exercise training assessment methods and outcomes
-- Long COVID-19 assessment methods and outcomes
+- Caregiver support assessment methods and outcomes
+- DVD assessment methods and outcomes
+- Exercise assessment methods and outcomes

@@ -1,28 +1,29 @@
-Study Title: Developing an 8-Week, Tele-Education Weight Control and Exercise Programme, and Evaluating Its Effects on Weight and Pain Reduction in Patients With Obesity and Knee Osteoarthritis: A Double-Blinded Randomised Clinical Trial.
+Study Title: Effects of Oral Nutritional Supplement with &#x3b2;-Hydroxy-&#x3b2;-methylbutyrate (HMB) on Biochemical and Hematological Indices in Community-Dwelling Older Adults at Risk of Malnutrition: Findings from the SHIELD Study.
 
 Study Summary:
-Knee osteoarthritis (OA) is a leading cause of disability among the elderly and is often exacerbated by obesity. Research supports weight loss and exercise therapy as key strategies for managing knee OA-related disability. Concurrently, telemedicine is becoming a popular healthcare approach. This study aimed to develop and evaluate an 8-week tele-education programme's impact on weight control and knee OA outcomes. Participants with knee OA and obesity were included. Baseline data on pain (VAS index), physical activity (GPAQ questionnaire), and quality of life (EQ5D and KOOS questionnaires) were collected. Performance tests, including the 30-second Chair Stand test (30CST) and the Timed Up-and-Go test (TUG), were recorded. Participants were randomly divided into two groups: a control group receiving oral advice on diet and exercise, and an intervention group receiving educational videos on nutrition, lifestyle changes, physical activity, individualised exercises, and psychosocial support. Evaluations were repeated after 8&#xa0;weeks. Data from 25 of 30 participants were analysed. In the intervention group, body composition, waist, and abdominal circumference decreased significantly (p&#xa0;<&#xa0;0.05). The KOOS questionnaire showed significant improvements in pain, activity, and daily tasks (p&#xa0;=&#xa0;0.00). The EQ5D questionnaire and health satisfaction also showed positive results within the intervention group (p&#xa0;=&#xa0;0.00) and between groups (p&#xa0;=&#xa0;0.008). The pain index improved significantly within (p&#xa0;=&#xa0;0.00) and between groups (p&#xa0;=&#xa0;0.02). Functional test results were significant within the intervention group (p&#xa0;=&#xa0;0.00) and between groups (p&#xa0;=&#xa0;0.017 for 30CST and p&#xa0;=&#xa0;0.004 for TUG). An 8-week tele-education programme for weight control and exercise therapy in knee OA patients significantly improved body composition, quality of life, and functional performance. Given the costs of obesity and knee OA on both people and the health system, tele-education can be a cost-effective treatment strategy.
+Malnutrition may result in abnormal biochemical and hematological indices. This planned prespecified analysis investigated the effects of a specialized oral nutritional supplement (ONS) on biochemical and hematological indices in community-dwelling older adults at risk of malnutrition. In the Strengthening Health in ELDerly through nutrition (SHIELD) study, 811 older adults aged 65 years and above took part in this randomized, double-blind, placebo-controlled, multi-center study. Participants were randomly allocated to either a complete and balanced specialized ONS (each serving provides 262 kcal, 10.5 g protein, 7.75 &#xb5;g vitamin D, and 0.74 g calcium &#x3b2;-hydroxy-&#x3b2;-methylbutyrate) and dietary counselling (intervention group) or a placebo and dietary counselling (placebo group). Both groups consumed study products twice a day for 180 days. Data were collected at baseline, day 90, and day 180. Blood analysis results at follow-up visits were analyzed using repeated measures analysis of covariance with adjustments for confounders. Overall, when compared with the placebo group, the intervention group showed significantly greater urea (6.0 mmol/L vs. 5.4 mmol/L,< 0.001), urea to creatinine ratio (4.39 vs. 4.26,< 0.001), prealbumin (24.9 mg/dL vs. 24.0 mg/dL,< 0.001), vitamin B(480.0 pmol/L vs. 420.1 pmol/L,< 0.001), and globulin levels (26.8 g/L vs. 26.5 g/L,= 0.032). The intervention group also had a significantly higher absolute reticulocyte count (62.0 &#xd7; 10/&#xb5;L vs. 58.2 &#xd7; 10/&#xb5;L, overall< 0.001) and mean platelet volume (10.0 fL vs. 9.9 fL, overall= 0.003). Furthermore, significant improvements were seen in total protein at day 90 (71.7 g/L vs. 71.1 g/L,= 0.017) and in absolute monocyte count at day 90 (0.50 &#xd7; 10/&#xb5;L vs. 0.47 &#xd7; 10/&#xb5;L,= 0.009) in the intervention group. In conclusion, daily consumption of a specialized ONS for six months led to significant improvements in biochemical and hematological indices in community-dwelling older adults at risk of malnutrition.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/msc.1926
+- DOI: 10.3390/nu16152495
 
 2. Keywords
-- exercise
-- knee osteoarthritis
-- obesity
-- pain control
-- telemedicine
-- weight control
+- aging
+- biochemical indices
+- hematological indices
+- malnutrition
+- older adults
+- oral nutritional supplement
+- &#x3b2;-hydroxy-&#x3b2;-methylbutyrate (HMB)
 
 3. Key Findings
-- The KOOS questionnaire showed significant improvements in pain, activity, and daily tasks (p&#xa0;=&#xa0;0
-- The EQ5D questionnaire and health satisfaction also showed positive results within the intervention group (p&#xa0;=&#xa0;0
+- Blood analysis results at follow-up visits were analyzed using repeated measures analysis of covariance with adjustments for confounders
+- Overall, when compared with the placebo group, the intervention group showed significantly greater urea (6
 
 This study provides insights into:
-- exercise assessment methods and outcomes
-- knee osteoarthritis assessment methods and outcomes
-- obesity assessment methods and outcomes
+- aging assessment methods and outcomes
+- biochemical indices assessment methods and outcomes
+- hematological indices assessment methods and outcomes

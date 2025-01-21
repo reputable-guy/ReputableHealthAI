@@ -1,26 +1,30 @@
-Study Title: The Effect of Effort During a Resistance Exercise Session on Glycemic Control in Individuals Living With Prediabetes or Type 2 Diabetes: Protocol for a Crossover Randomized Controlled Trial.
+Study Title: Effects of home-based exercise alone or combined with cognitive training on cognition in community-dwelling older adults: A randomized clinical trial.
 
 Study Summary:
-Type 2 diabetes (T2D) is preceded by prediabetes, and these conditions place a great burden on patients and society. These conditions are significantly associated with poor glycemic control, which is improved by resistance exercise. It has been suggested that resistance exercise should be performed with a high degree of effort to improve glucose metabolism, but this is associated with negative psychological responses that might lead to lower long-term adherence. This study aimed to investigate the effect of the degree of effort during a resistance exercise session on glycemic control and psychological responses in individuals living with prediabetes or T2D. This study will be a crossover, 3-arm, randomized controlled trial. A total of 15 participants living with prediabetes or T2D will be thoroughly familiarized with 7 resistance exercises; afterward, they will perform 3 randomized experimental sessions, each lasting approximately 48 hours each, separated by at least 4 washout days. In 2 of these sessions, supervised resistance exercise will be performed, but the sessions will differ in the degree of effort in each set (high vs low) and will be equalized in terms of total weight lifted and session duration. For this, proximity to failure will be manipulated by changing the number of sets per exercise, the number of repetitions per set, and the resting interval between sets and exercises. Participants will also complete a sedentary (control) session, where they will not perform any exercise. In response to each session, psychological responses will be assessed (exertion, affect, enjoyment, self-efficacy, and discomfort). Glycemic control will be assessed by a continuous glucose monitoring device every 5 minutes, throughout the approximately 48 hours of each experimental session. Food and drink will be individually prescribed by a registered dietitian nutritionist and provided to participants, in order to control for the confounding effect of energy intake and diet composition. Physical activity levels will be assessed by accelerometry. Randomization will be done using the opaque, sequentially numbered envelopes technique. Participants and researchers will be blinded for continuous glucose monitoring and accelerometry data, and data will be analyzed by a blinded statistician. This study has been funded, and data collection is expected to take place between June 2024 and May 2025. Final manuscript submission should happen by August 2025. The results of this project might encourage individuals living with prediabetes and T2D to engage in resistance exercise while better informing exercise specialists on how to best incorporate resistance exercise in their client's or patient's routine. ClinicalTrials.gov NCT06208189; https://clinicaltrials.gov/study/NCT06208189. PRR1-10.2196/63598.
+Structured and supervised physical exercise and cognitive training are two efficient ways to enhance cognition in older adults. Performing both within a combined intervention could maximize their effect on cognition due to their potential synergy on brain functions. During the COVID-19 pandemic, these interventions were particularly relevant due to the collateral impact of social restrictions regarding physical activity and the level of cognitive stimulation. However, the benefits of remotely monitored intervention combining physical exercise and cognitive training for older adult cognition remain to be demonstrated. 127 older adults (age: 65.20&#xa0;&#xb1;&#xa0;7.95) were randomized in two arms, encouraging self-engagement in six months of home-based physical exercise alone or combined with cognitive training, monitored by phone once a week. Neuropsychological assessment was performed under videoconference supervision at baseline and after three and six months. Composite Z-scores were calculated for processing speed, executive functioning, working, and episodic memory to assess changes after three and six months of training. The weekly metabolic expenditure of self-reported activities was estimated using the compendium of physical activity to distinguish participants performing higher and lower doses of exercise (median split). 106 participants (83.46&#xa0;%) completed the 6-month training. Results showed a greater Z-score change in executive functioning for participants in the combined arm than those who only exercised (F&#xa0;=&#xa0;4.127, p&#xa0;=&#xa0;0.046, &#x3b7;&#xa0;=&#xa0;0.050). Group x Exercise dose interaction was observed for episodic memory Z-score change (F&#xa0;=&#xa0;6.736, p&#xa0;=&#xa0;0.011, &#x3b7;&#xa0;=&#xa0;0.070), with a greater improvement for participants performing higher doses of exercise compared to those who performed a lower dose, only in exercise alone arm. Performing a higher dose of exercise increased the working memory Z-score change in both intervention arms compared to a lower dose (F&#xa0;=&#xa0;7.391, p&#xa0;=&#xa0;0.008, &#x3b7;&#xa0;=&#xa0;0.076). Remote combined training may lead to larger improvement in executive functioning than exercise alone. Physical exercise showed a dose-related improvement in working and episodic memory performances. The combination of cognitive interventions mitigated the effects of exercise on episodic memory. These results suggest that home-based exercise and cognitive training may help improve older adults' cognition. COVEPIC was retrospectively registered on December 03, 2020. NCT04635462 - https://clinicaltrials.gov/ct2/show/record/NCT04635462?term=NCT04635462&draw=2&rank=1.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/63598
+- DOI: 10.1016/j.exger.2024.112628
 
 2. Keywords
-- diabetes
-- glucose
-- insulin resistance
-- resistance exercise
-- weight training
+- Aging
+- COVID-19
+- Cognition
+- Cognitive training
+- Home-based training
+- Physical exercise
+- Remote monitoring
 
 3. Key Findings
-- Food and drink will be individually prescribed by a registered dietitian nutritionist and provided to participants, in order to control for the confounding effect of energy intake and diet composition
+- However, the benefits of remotely monitored intervention combining physical exercise and cognitive training for older adult cognition remain to be demonstrated
+- Results showed a greater Z-score change in executive functioning for participants in the combined arm than those who only exercised (F&#xa0;=&#xa0;4
+- Physical exercise showed a dose-related improvement in working and episodic memory performances
 
 This study provides insights into:
-- diabetes assessment methods and outcomes
-- glucose assessment methods and outcomes
-- insulin resistance assessment methods and outcomes
+- Aging assessment methods and outcomes
+- COVID-19 assessment methods and outcomes
+- Cognition assessment methods and outcomes

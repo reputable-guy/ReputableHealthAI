@@ -1,26 +1,20 @@
-Study Title: Ovarian function recovery in breast cancer patients receiving adjuvant anastrozole treatment: updated results from the phase 3 DATA trial.
+Study Title: Hydromorphone combined with ropivacaine for erector spinae plane block in patients undergoing modified radical mastectomy: A prospective randomized controlled trial.
 
 Study Summary:
-Patients with chemotherapy-induced ovarian function failure (CIOFF) may experience ovarian function recovery (OFR). Earlier, we showed that OFR during treatment with anastrozole impacted the prognosis of hormone receptor-positive (HR+) breast cancer (BC) patients with CIOFF. Here, we present the long-term follow-up results. Postmenopausal women with HR+&#x2009;BC who were 45-57&#xa0;years of age and received chemotherapy were identified from the phase 3 DATA study (NCT00301457) on the extended use of anastrozole. Eligible patients were categorised into two groups: patients with CIOFF and definitely postmenopausal patients. Patients with CIOFF were monitored for OFR. Disease-free survival (DFS), distant recurrence-free survival (DRFS), and overall survival (OS) were compared between patients with OFR and patients without OFR using multivariable Cox regression analyses, including OFR as a time-dependent covariate. BC-specific mortality (BCSM) was compared between groups using the Fine and Gray method. This study included 656 patients: 395 patients with CIOFF and 261 definitely postmenopausal patients. OFR occurred in 39 (12%) of 329 patients with CIOFF who were monitored for OFR. The median follow-up time was 13.3&#xa0;years. Patients with OFR experienced a deterioration in DFS (hazard ratio (HR)&#x2009;=&#x2009;1.54; 95% confidence interval (CI) 0.85-2.81), DRFS (HR&#x2009;=&#x2009;1.51; 95% CI 0.73-3.11), OS (HR&#x2009;=&#x2009;1.64; 95% CI 0.75-3.55), and BCSM (subdistribution HR&#x2009;=&#x2009;1.98; 95% CI 0.84-4.63) when compared with patients without OFR. In patients with CIOFF, OFR during treatment with anastrozole was associated with a deterioration in BC outcomes. These findings underscore the importance of adequate ovarian function suppression in this subgroup of patients.
+Combining hydromorphone with ropivacaine in ultrasound-guided erector spinae plane blocks enhances postoperative analgesia and reduces interleukin-6 expression in breast surgery patients. In this study, breast cancer patients undergoing modified radical mastectomy were randomized into 3 groups for anesthesia (30 patients in each group): standard general (group C), Erector Spinae Plane Block (ESPB) with ropivacaine (group R), and ESPB with ropivacaine plus hydromorphone (group HR). Diagnosis: Breast cancer patients. Postsurgery, pain levels, IL-6, anesthetic doses, additional analgesia needs, and recovery milestones were compared to evaluate the efficacy of the ESPB enhancements. The 3 groups were not significantly different in baseline characteristics, operation time, number of cases with postoperative nausea, and serum IL-6 concentrations at T1 (the time of being returned to the ward after surgery). At T2 (at 6:00 in the next morning after surgery), the serum IL-6 concentration in group HR was significantly lower than that in groups R and C (P&#x2005;<&#x2005;.05); the intraoperative doses of remifentanil, sufentanil, and propofol were significantly lower in groups HR and R than those in group C (P&#x2005;<&#x2005;.05); Groups HR and R had significantly lower visual analog scale scores at T3 (4 hours postoperatively), T4 (12 hours postoperatively), and T5 (24 hours postoperatively) than those in group C (P&#x2005;<&#x2005;.05); the proportions of patients receiving postoperative remedial analgesia were significantly lower in groups HR and R than in group C (P&#x2005;<&#x2005;.05); groups HR and R had significantly lower proportions of patients with postoperative nausea than group C (P&#x2005;<&#x2005;.05); the time to the first anal exhaust and the time to the first ambulation after surgery were significantly shorter in groups HR and R than those in group C (P&#x2005;<&#x2005;.05). Hydromorphone combined with ropivacaine for ESPB achieved a greater postoperative analgesic effect for patients receiving MRM under general anesthesia. The combined analgesia caused fewer adverse reactions and inhibited the expression level of the inflammatory factor IL-6 more effectively, thereby facilitating postoperative recovery. ESPB using hydromorphone with ropivacaine improved pain control post-MRM, reduced adverse effects, and more effectively suppressed IL-6, enhancing recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10549-024-07411-w
+- DOI: 10.1097/MD.0000000000038758
 
 2. Keywords
-- Aromatase inhibitors
-- Breast neoplasms
-- Chemotherapy-induced amenorrhea
-- Chemotherapy-induced ovarian function failure
-- Ovarian function recovery
+
 
 3. Key Findings
-- Earlier, we showed that OFR during treatment with anastrozole impacted the prognosis of hormone receptor-positive (HR+) breast cancer (BC) patients with CIOFF
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Aromatase inhibitors assessment methods and outcomes
-- Breast neoplasms assessment methods and outcomes
-- Chemotherapy-induced amenorrhea assessment methods and outcomes
+- General research methodology and outcomes

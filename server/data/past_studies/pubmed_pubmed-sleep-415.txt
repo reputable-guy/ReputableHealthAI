@@ -1,26 +1,27 @@
-Study Title: Longer-term effect of physical activity intervention on sleep quality: a secondary analysis of cluster randomized controlled trial.
+Study Title: Prevalence and Associated Factors of Burnout in Pediatric General Surgery Fellows.
 
 Study Summary:
-To examine the longer-term effect of physical activity (PA) intervention on sleep quality and whether the effect was heterogeneous between daytime nappers and non-nappers. This study was a secondary analysis of a cluster randomized controlled trial in China. Eight villages were randomized 1:1 to intervention or control group. The intervention group received an 8-week PA intervention, while the control group did not. The primary outcome of this study was the change in the Pittsburgh Sleep Quality Index (PSQI) global score at 24 months. The 511 participants had a mean age of 70.94 years (SD 5.73) and 55.6% were female. The intervention showed improvements in the PSQI global score at 8 weeks (adjusted mean difference -1.05; p&#x2005;=&#x2005;.002), and the effect diminished at 24 months (-0.64; p&#x2005;=&#x2005;.06). There were statistically significant improvements in the PSQI global score for daytime nappers, but not for non-nappers at 8 weeks (adjusted mean difference -0.98; p&#x2005;=&#x2005;.01 vs. -1.27; p&#x2005;=&#x2005;.05), 12 months (-0.86; p&#x2005;=&#x2005;.03 vs. -0.84; p&#x2005;=&#x2005;.21), and 24 months (-0.80; p&#x2005;=&#x2005;.04 vs. -0.14; p&#x2005;=&#x2005;.84), although these improvements were below the minimum detectible level of the PSQI which is 1 point. The 8-week PA intervention was effective in improving sleep quality, while the effect was diminished and below the minimum detectible level of the PSQI which is 1 point after 24 months. The effect of PA intervention on sleep quality was more pronounced in daytime nappers. Additional interventions (e.g. focusing on multiple behavioral interventions such as PA and a healthy diet) are needed to maintain the beneficial effect of PA on sleep quality in the general older populations. Further research is required to confirm the mechanisms of the effect of napping and develop tailored interventions. Conceptualizing a physical activity intervention model among rural older adults in China: a socio-ecological model-based approach, https://www.chictr.org.cn/showprojEN.html?proj=123704, registered at Chinese Clinical Trial Registry on April 20, 2021 (identifier: ChiCTR2100045653).
+Pediatric surgeons are experiencing burnout at similar rates to other subspecialists; however, little is known about the prevalence of burnout in pediatric general surgery fellows. This study aims to determine the prevalence of burnout in pediatric general surgery trainees. The Maslach Burnout Inventory and a survey of personal and training characteristics were distributed to current and recently graduated pediatric surgery fellows. Higher Maslach Burnout Inventory subscores of emotional exhaustion (EE) and depersonalization (DP) indicate higher levels of burnout. Descriptive statistics were used to describe respondent characteristics. Burnout, as a dichotomous variable, was compared by chi-square test, and subscale scores werecompared by nonparametric tests for a variety of factors. The response rate was 41% (52/126); 15% were first-year fellows, 54% were second-year fellows, and 31% were recent graduates. The majority were 30-39 y old (83%) and female (71%). The median [IQR] scores for EE, DP, and personal accomplishment were 23 [17-36], 8 [2-12.3], and 38 [34-41], respectively, with no significant differences by training year. Eighteen percent of respondents met burnout criteria based on high-risk EE subscores in combination with high-risk DP subscores, and 44% and 23.1% of respondents had high-risk EE and DP subscores, respectively. Factors associated with higher EE subscores were fewer hours of sleep and taking home call. Pediatric surgery fellows experience high levels of burnout along with a high frequency of high-risk EE and DP scores. Lack of sleep and home call may be contributory, and efforts to combat burnout should specifically address these factors.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/sleep/zsae165
+- DOI: 10.1016/j.jss.2024.06.037
 
 2. Keywords
-- cluster randomized controlled trial
-- daytime napping
-- long-term effect
-- physical activity intervention
-- sleep quality
+- Burnout
+- Graduate medical education
+- Maslach burnout inventory
+- Pediatric surgery
+- Surgery fellow
+- Wellness
 
 3. Key Findings
-- The intervention showed improvements in the PSQI global score at 8 weeks (adjusted mean difference -1
+- Findings extraction requires manual review
 
 This study provides insights into:
-- cluster randomized controlled trial assessment methods and outcomes
-- daytime napping assessment methods and outcomes
-- long-term effect assessment methods and outcomes
+- Burnout assessment methods and outcomes
+- Graduate medical education assessment methods and outcomes
+- Maslach burnout inventory assessment methods and outcomes

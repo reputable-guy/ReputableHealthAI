@@ -1,26 +1,26 @@
-Study Title: Carbohydrate Counting vs. Fixed Meal Plan in Indian Children with Type 1 Diabetes Mellitus: A Randomized Controlled Trial.
+Study Title: A Quantitative Meta-Analysis and Qualitative Meta-Synthesis of Aged Care Residents' Experiences of Autonomy, Being Controlled, and Optimal Functioning.
 
 Study Summary:
-To study the impact of carbohydrate counting vs. fixed-meal plan on glycemic control, quality of life (QoL) and diabetes-related emotional distress in children with Type 1 diabetes mellitus (T1DM). Children aged 6-18 y with T1DM of duration >1 y were eligible for the study if they were on multiple daily injections of insulin and regularly monitoring blood glucose. Those with celiac disease, hypothyroidism, any underlying chronic renal/liver/systemic disease or HbA1c >13% were excluded. Both groups received education on diabetes management and healthy diet. In the intervention arm, parents were taught to quantify carbohydrate content and modify insulin doses according to insulin-carbohydrate ratio. The control arm had dietary prescription according to recommended dietary allowance and food exchange list. Standard validated questionnaires were used to assess the QoL and emotional distress related to diabetes. One hundred twenty five patients (61 intervention, 64 controls) were enrolled and 91.8% and 84.3%, respectively, completed 6-mo follow-up. There was a reduction in HbA1c in both the groups, but was not statistically significant within or between groups {Intervention: 8.9 (1.4) to 8.6 (1.5) vs. control: 9.1 (1.6) to 8.8 (1.9), [95% CI 8.3-9.3 vs. 8.3-9.0, intention to treat (ITT), p&#xa0;= 0.63]}. There was a significant reduction in diabetes distress in the intervention group; DAWN Problem Areas in Diabetes Questionnaire (PAID) score with a median (interquartile range) of 21 (11-33) vs. control: 27 (20-40), (p&#xa0;=&#xa0;0.04). Patients in the carbohydrate-counting group demonstrated lower diabetes distress scores and less emotional burnout compared to fixed-meal plan over a 6 mo period though overall glycemic control was comparable between groups.
+The poor mental health of adults living in aged care needs addressing. Improvements to nutrition and exercise are important, but mental health requires a psychological approach. Self-determination theory finds that autonomy is essential to wellbeing while experiences of being controlled undermine it. A review of existing quantitative data could underscore the importance of autonomy in aged care, and a review of the qualitative literature could inform ways to promote autonomy and avoid control. Testing these possibilities was the objective of this research. We conducted a mixed-methods systematic review of studies investigating autonomy, control, and indices of optimal functioning in aged care settings. The search identified 30 eligible reports (19 quantitative, 11 qualitative), including 141 quantitative effect sizes, 84 qualitative data items, and N = 2,668. Quantitative effects were pooled using three-level meta-analytic structural equation models, and the qualitative data were meta-synthesized using a grounded theory approach. As predicted, the meta-analysis showed a positive effect of aged care residents' autonomy and their wellness, r = 0.33 [95% CI: 0.27, 0.39], and a negative effect of control, r = -0.16 [95% CI: -0.27, -0.06]. The meta-synthesis revealed seven primary and three sub-themes describing the nuanced ways autonomy, control, and help seeking are manifest in residential aged care settings. The results suggest that autonomy should be supported, and unnecessary external control should be minimized in residential aged care, and we discuss ways the sector could strive for both aims.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s12098-023-04850-z
+- DOI: 10.1093/geront/gnad135
 
 2. Keywords
-- Glycemic control
-- HbA1c
-- Insulin carbohydrate ratio
-- Medical nutrition therapy
-- PAID score
+- Motivation
+- Nursing home
+- Self-determination theory
+- Systematic review
 
 3. Key Findings
-- Patients in the carbohydrate-counting group demonstrated lower diabetes distress scores and less emotional burnout compared to fixed-meal plan over a 6 mo period though overall glycemic control was comparable between groups
+- As predicted, the meta-analysis showed a positive effect of aged care residents' autonomy and their wellness, r = 0
+- The meta-synthesis revealed seven primary and three sub-themes describing the nuanced ways autonomy, control, and help seeking are manifest in residential aged care settings
 
 This study provides insights into:
-- Glycemic control assessment methods and outcomes
-- HbA1c assessment methods and outcomes
-- Insulin carbohydrate ratio assessment methods and outcomes
+- Motivation assessment methods and outcomes
+- Nursing home assessment methods and outcomes
+- Self-determination theory assessment methods and outcomes

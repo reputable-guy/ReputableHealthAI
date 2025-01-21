@@ -1,27 +1,27 @@
-Study Title: Telerehabilitation improves cardiorespiratory and muscular fitness and body composition in older people with post-COVID-19 syndrome.
+Study Title: Exercise-Induced Oxygen Desaturation Increases Arterial Stiffness in Patients with COPD During the 6WMT.
 
 Study Summary:
-The effects of post-coronavirus disease 2019 (COVID-19) syndrome on the cardiorespiratory and muscular fitness in older people are of utmost relevance. This study aimed to evaluate the effects of a 12-week telerehabilitation programme on cardiorespiratory and muscular fitness and body composition in older patients with post-COVID-19 syndrome. One hundred twenty older patients with post-COVID-19 syndrome were randomly assigned to one of two groups: patients who carried out the telerehabilitation programme (n&#xa0;=&#xa0;60; age: 65.0&#xa0;&#xb1;&#xa0;5.2; female: 14.2%) and a control group (n&#xa0;=&#xa0;60; age: 64.3&#xa0;&#xb1;&#xa0;5.0; female: 24.5%). An incremental cardiopulmonary exercise testing, isokinetic strength test, and bioelectrical impedance analysis were performed to compare cardiorespiratory and muscle strength responses and body composition between telerehabilitation and control groups. A significant increase in the cardiopulmonary exercise testing duration was found in the telerehabilitation group compared to the control group (mean difference&#xa0;=&#xa0;88.9&#xa0;s, P&#xa0;=&#xa0;0.001). Peak oxygen uptake increased in the telerehabilitation group (mean difference&#xa0;=&#xa0;3.0&#xa0;mL&#xb7;kg&#xb7;min, P&#xa0;<&#xa0;0.001) and control group (mean difference&#xa0;=&#xa0;1.9&#xa0;mL&#xb7;kg&#xb7;min, P&#xa0;<&#xa0;0.001). Power output in cycle ergometer (mean difference&#xa0;=&#xa0;25.9 watts, P&#xa0;<&#xa0;0.001), fat free mass (mean difference&#xa0;=&#xa0;2.1&#xa0;kg, P&#xa0;=&#xa0;0.004), soft lean mass (mean difference&#xa0;=&#xa0;2.1&#xa0;kg, P&#xa0;=&#xa0;0.003), and skeletal muscle mass (mean difference&#xa0;=&#xa0;1.4&#xa0;kg, P&#xa0;=&#xa0;0.003) only increased in the telerehabilitation group. A significant increase in the power output was observed in the telerehabilitation group compared with the control group in both lower limbs after isokinetic strength test of the leg extension at a speed of 60&#xb0; (right: mean difference&#xa0;=&#xa0;18.7 watts, P&#xa0;=&#xa0;0.012; left: mean difference&#xa0;=&#xa0;15.3 watts, P&#xa0;=&#xa0;0.010). The peak torque of right leg extension increased only in the telerehabilitation group after isokinetic strength test at a speed of 60&#xb0; (mean difference&#xa0;=&#xa0;13.1&#xa0;N&#xb7;m, P&#xa0;<&#xa0;0.001). A significant increase in the power output was observed in the telerehabilitation group compared with the control group in the left leg extension after isokinetic strength test at a speed of 180&#xb0; (mean difference&#xa0;=&#xa0;30.2 watts, P&#xa0;=&#xa0;0.003). The telerehabilitation programme improved cardiorespiratory and muscular fitness, and body composition in older patients with post-COVID-19 syndrome to a greater extent than a control group. The telerehabilitation programmes may be an alternative to improve the sequelae of post-COVID-19 syndrome in older patients.
+Given the established impact of exercise in reducing arterial stiffness and the potential for intermittent hypoxia to induce its elevation, this study aims to understand how oxygen desaturation during exercise affects arterial stiffness in individuals with COPD. We enrolled patients with stable COPD from China-Japan Friendship Hospital from November 2022 to June 2023. The 6-minute walk test (6-MWT) was performed with continuous blood oxygen saturation (SpO) monitoring in these patients. The patients were classified into three groups: non-exercise induced desaturation (EID), mild-EID and severe-EID, according to the changes in SpOduring the 6-MWT. The Cardio-Ankle Vascular Index (CAVI) and the change in CAVI (&#x394;CAVI, calculated as CAVI before 6MWT minus CAVI after the 6MWT) were measured before and immediately after the 6MWT to assess the acute effects of exercise on arterial stiffness. GOLD Stage, pulmonary function, and other functional outcomes were also measured in this study. A total of 37 patients with stable COPD underwent evaluation for changes in CAVI (&#x394;CAVI) before and after the 6-MWT. Stratification based on revealed three subgroups: non-EID (n=12), mild-EID (n=15), and severe-EID (n=10). The &#x394;CAVI values was -0.53 (-0.95 to -0.31) in non-EID group, -0.20 (-1.45 to 0.50) in mild-EID group, 0.6 (0.08 to 0.73) in severe-EID group. Parametric tests indicated significant differences in &#x394;CAVI among EID groups (p = 0.005). Pairwise comparisons demonstrated significant distinctions between mild-EID and severe-EID groups, as well as between non-EID and severe-EID groups (p = 0.048 and p = 0.003, respectively). Multivariable analysis, adjusting for age, sex, GOLD stage, diffusion capacity, and blood pressure, identified severe-EID as an independent factor associated with &#x394;CAVI (B = 1.118, p = 0.038). Patients with COPD and severe-EID may experience worsening arterial stiffness even during short periods of exercise.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/jcsm.13530
+- DOI: 10.2147/COPD.S465843
 
 2. Keywords
-- Exercise capacity
-- Muscle strength
-- Peak oxygen uptake
-- Randomized&#x2010;controlled trial
-- Skeletal muscle mass
-- Ventilatory efficiency
+- COPD
+- arterial stiffness
+- exercise-induced oxygen desaturation
+- rehabilitation
 
 3. Key Findings
-- A significant increase in the cardiopulmonary exercise testing duration was found in the telerehabilitation group compared to the control group (mean difference&#xa0;=&#xa0;88
+- Stratification based on revealed three subgroups: non-EID (n=12), mild-EID (n=15), and severe-EID (n=10)
+- Parametric tests indicated significant differences in &#x394;CAVI among EID groups (p = 0
+- Pairwise comparisons demonstrated significant distinctions between mild-EID and severe-EID groups, as well as between non-EID and severe-EID groups (p = 0
 
 This study provides insights into:
-- Exercise capacity assessment methods and outcomes
-- Muscle strength assessment methods and outcomes
-- Peak oxygen uptake assessment methods and outcomes
+- COPD assessment methods and outcomes
+- arterial stiffness assessment methods and outcomes
+- exercise-induced oxygen desaturation assessment methods and outcomes

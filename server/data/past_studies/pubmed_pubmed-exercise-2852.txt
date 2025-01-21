@@ -1,20 +1,28 @@
-Study Title: Efficacy of high-intensity interval training versus continuous training on serum myonectin and lipid outcomes in adults with metabolic syndrome: A post-hoc analysis of a clinical trial.
+Study Title: Validity of Cardiopulmonary Exercise Testing for Assessing Aerobic Capacity in Neuromuscular Diseases.
 
 Study Summary:
-Myonectin is a myokine with potential effects on the lipid metabolism; however, its regulation by exercise in humans remains unclear. We aimed to compare the efficacy of high-intensity interval training low-volume (HIIT) versus moderate-intensity continuous training (MICT) on serum myonectin, serum lipids, appendicular fat and lean mass, and intramuscular lipids in humans. Secondary analysis of a controlled, randomized, clinical trial in adults of both sexes with metabolic syndrome, who underwent a supervised, three-times/week, 12-week treadmill program. HIIT (n = 29) consisted of six intervals with one-minute, high-intensity phases at 90% of peak oxygen consumption (VO2peak) for a total of 22 min. MICT (n = 31) trained at 60% of VO2peak for 36 min. Serum myonectin was measured using a human enzyme-linked immunosorbent assay. Lipid profile was determined by enzymatic methods and free fatty acids (FFA) were measured by gas chromatography. Fat and lean mass were assessed by dual-energy X-ray absorptiometry. Intramuscular lipids were measured through proton magnetic resonance spectroscopy. Subjects had a mean age of 50.8&#xb1;6.0 years and body mass index of 30.6&#xb1;4.0 kg/m2. Compared to MICT, HIIT was not superior at increasing serum myonectin (p = 0.661) or linoleic acid (p = 0.263), reducing palmitic (p = 0.286) or stearic acid (p = 0.350), or improving lipid profile (all p>0.05), appendicular fat mass index -AFMI- (p = 0.713) or appendicular lean mass percentage -ALM- (p = 0.810). Compared to baseline, only HIIT significantly increased myonectin (p = 0.042), with a large effect size, although both interventions reduced AFMI and increased ALM with a large effect size. Lipid profile, FFA and intramuscular lipids did not change in any intervention group (p>0.05). Compared to MICT, HIIT low volume did not demonstrate superiority in improving serum lipids. The fact that both training types reduced AFMI without paralleled significant changes in serum myonectin suggests that this myokine may have a minor effect on short-middle-term exercise-induced fat mobilization.
+To determine the content validity of cardiopulmonary exercise testing (CPET) for assessing peak oxygen uptake (VO) in neuromuscular diseases (NMD). Baseline assessment of a randomized controlled trial. Academic hospital. Eighty-six adults (age: 58.0&#xb1;13.9 y) with Charcot-Marie-Tooth disease (n=35), postpolio syndrome (n=26), or other NMD (n=25). Not applicable. Workload, gas exchange variables, heart rate, and ratings of perceived exertion were measured during CPET on a cycle ergometer, supervised by an experienced trained assessor. Muscle strength of the knee extensors was assessed isometrically with a fixed dynamometer. Criteria for confirming maximal cardiorespiratory effort during CPET were established during 3 consensus meetings of an expert group. The percentage of participants meeting these criteria was assessed to quantify content validity. The following criteria were established for maximal cardiorespiratory effort: a plateau in oxygen uptake (VO) as the primary criterion, or 2 of 3 secondary criteria: (1) peak respiratory exchange ratio (RER) &#x2265;1.10 (2), peak heart rate &#x2265;85% of predicted maximal heart rate; and (3) peak rating of perceived exertion (RPE) &#x2265;17 on the 6-20 Borg scale. These criteria were attained by 71 participants (83%). VO, RER&#x2265;1.10, peak heart rate &#x2265;85%, and RPE&#x2265;17 were attained by 31%, 73%, 69%, and 72% of the participants, respectively. Peak workload, VO, and knee extension muscle strength were significantly higher, and body mass index was lower (all P<.05), in participants with maximal cardiorespiratory effort than other participants. Most people with NMD achieved maximal cardiorespiratory effort during CPET. This study provides high quality evidence of sufficient content validity of VOas a maximal aerobic capacity measure. Content validity may be lower in more severely affected people with lower physical fitness.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0307256
+- DOI: 10.1016/j.apmr.2024.07.006
 
 2. Keywords
-
+- Aerobic exercise
+- Cardiorespiratory fitness
+- Maximal exercise test
+- Measurement properties
+- Neuromuscular disorders
+- Rehabilitation
+- VO(2max)
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Aerobic exercise assessment methods and outcomes
+- Cardiorespiratory fitness assessment methods and outcomes
+- Maximal exercise test assessment methods and outcomes

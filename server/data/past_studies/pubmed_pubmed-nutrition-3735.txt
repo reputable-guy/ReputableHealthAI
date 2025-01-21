@@ -1,25 +1,29 @@
-Study Title: Early time-restricted eating advances sleep in late sleepers: a pilot randomized controlled trial.
+Study Title: The Association between Nutrition, Physical Activity, and Cardiometabolic Health at 6 Months following a Hypertensive Pregnancy: A BPSub-Study.
 
 Study Summary:
-This study evaluated the effects of early time-restricted eating (eTRE) on shifting the timing of sleep among late sleepers. Primary outcomes included actigraphy- and sleep diary-derived sleep onset, midsleep phase, and wake time with total sleep time as a secondary outcome. Fifteen healthy adults with habitual late sleep timing were randomized to receive either eTRE or sleep and nutrition hygiene (control) via a single 30-minute synchronous video session. Participants completed an initial 1-week baseline phase followed by a 2-week intervention phase. Measures included continuous sleep monitoring and sleep and nutrition diaries. Linear mixed-effects modeling demonstrated that eTRE significantly advanced sleep timing compared with controls. Self-reported sleep onset (56.1 [95% confidence interval: 20.5, 91.7] minutes), midpoint (19.5 [7.2, 31.9] minutes), and offset (42.2 [2.9, 81.5] minutes) each moved earlier in eTRE as compared with controls. Similarly, objectively determined sleep onset (66.5 [29.6, 103.4] minutes), midpoint (21.9 [9.1, 34.7] minutes), and offset (39.3 [1.3, 77.3] minutes) each moved earlier in eTRE as compared with controls. Total sleep time showed a nonsignificant increase in the eTRE group as compared with controls. Late sleepers who were instructed in a single session about eTRE significantly advanced their sleep timing, especially sleep onset. eTRE shows potential as a clinical strategy for advancing sleep timing in late sleepers. Registry: Chinese Clinical Trial Registry; Name: FAST Asleep: It's All About Timing; URL: https://www.chictr.org.cn/showproj.html?proj=122504; Identifier: ChiCTR2100043691. Blum DJ, Hernandez B, Zeitzer JM. Early time-restricted eating advances sleep in late sleepers: a pilot randomized controlled trial.. 2023;19(12):2097-2106.
+Hypertensive disorders of pregnancy (HDP) complicate 5-10% of pregnancies, with resultant lifelong increased risks of cardiovascular disease (CVD). We aimed to describe lifestyle behaviours at 6 months post-HDP in four HDP subgroups, and their association with markers of cardiometabolic health. Subgroups were chronic hypertension (CH), gestational hypertension (GH), preeclampsia, and preeclampsia superimposed on chronic hypertension (CH + PE). The BPstudy is a multi-site, three-arm, randomised controlled trial. At 6 months postpartum, the NSW Population Health Survey and BPsurveys collected lifestyle behaviours and demographic data. Body mass index (BMI), waist circumference, and blood pressure (BP) were also assessed. Descriptive statistics, ANOVA and Spearman's correlation coefficients were used. Of 484 women (16% CH, 23% GH, 55% preeclampsia, and 6% CH + PE), 62% were overweight or obese. Only 6% met the recommended five vegetable and two fruit serves per day, and 43% did not meet the recommended 150 min of moderate-vigorous physical activity in five sessions per week. Adherence to both diet and physical activity recommendations was correlated with more favourable cardiometabolic outcomes, including lower BMI, waist circumference, and systolic and diastolic BP. Lifestyle interventions that improve diet and physical activity post-HDP are needed to reduce BP, BMI, and long-term CVD in this high-risk population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.5664/jcsm.10754
+- DOI: 10.3390/nu15153294
 
 2. Keywords
-- early time-restricted eating
-- sleep
-- treatment
+- blood pressure
+- body mass index
+- hypertensive disorders of pregnancy
+- lifestyle
+- nutrition
+- physical activity
+- postpartum
+- waist circumference
 
 3. Key Findings
-- Linear mixed-effects modeling demonstrated that eTRE significantly advanced sleep timing compared with controls
-- Total sleep time showed a nonsignificant increase in the eTRE group as compared with controls
+- Findings extraction requires manual review
 
 This study provides insights into:
-- early time-restricted eating assessment methods and outcomes
-- sleep assessment methods and outcomes
-- treatment assessment methods and outcomes
+- blood pressure assessment methods and outcomes
+- body mass index assessment methods and outcomes
+- hypertensive disorders of pregnancy assessment methods and outcomes

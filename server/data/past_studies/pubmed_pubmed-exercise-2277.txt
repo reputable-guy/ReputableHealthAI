@@ -1,27 +1,24 @@
-Study Title: Effects of exercise referral schemes enhanced with behavioural self-management strategies on functional capacity and self-reported disability in community-dwelling older adults. Secondary results from the SITLESS multi-country, three-armed randomized controlled trial.
+Study Title: Examining the effect of salbutamol use in ozone air pollution by people with exercise-induced bronchoconstriction.
 
 Study Summary:
-Exercise referral schemes (ERS) are an effective strategy for increasing physical activity (PA) in older adults. Behavioural self-management strategies (SMS) may augment the maintenance of PA and associated benefits in this population, resulting in preservation of the functional capacity and prevention of disability over the long-term. The primary aim was to investigate the long-term (22-months) effects of ERS enhanced with SMS on functional capacity assessed by the Short Physical Performance Battery (SPPB) compared to ERS (primary comparison) and a control condition (CTRL).Secondarily, between-group effects after 4 and 16&#xa0;months on the SPPB and self-reported disability outcomes were investigated. 1360 physically inactive community-dwelling older adults &#x2265;65&#xa0;years from four European countries were randomized into (i) 16&#xa0;weeks ERS enhanced with SMS (ERS-SMS), (ii) ERS alone and (iii) CTRL. In addition to SPPB, self-reported function and disability were assessed by the short-form late life function and disability index and with a six-item activity of daily living questionnaire. No long-term effects were found for the SPPB-score in ERS-SMS vs ERS (0.21 point, 95% CI [-0.04, 0.46]). Significant group &#xd7; time effects were observed for the SPPB-score after 4&#xa0;months in favour of ERS-SMS over CTRL (0.51 point, 95% CI [0.29, 0.73]) and ERS (0.46 point, 95% CI [0.24, 0.68]). The study did demonstrate differences, in favour of ERS&#x2009;+&#x2009;SMS, but on SPPB these were small, and not sustained over time. The additional effect of SMS was inconsistent and uncertain.
+Previous studies based on animal models have raised concerns about salbutamol use in ozone air pollution with regard to ozone related lung injury. We conducted a double-blind, randomized, placebo-controlled crossover study including 18 subjects diagnosed with EIB by a eucapnic voluntary hyperpnea (EVH) test. Participants completed 30&#x2009;min of standardized moderate to vigorous exercise in four conditions: ozone plus salbutamol; room air plus salbutamol; ozone plus placebo medication; and room air plus placebo medication. Spirometry, fraction of exhaled nitric oxide, and symptoms were measured before, immediately after, 30&#x2009;min after and 1&#x2009;h after exercise. Measurements between the four conditions were compared using percent change from pre to post exercise. There was a statistically significant difference between the salbutamol and placebo medication groups for spirometric variables including FEV1 (Estimate&#x2009;=&#x2009;6.3, 95% CI: 4.23-8.37, p&#x2009;<&#x2009;0.001). No differences were observed between ozone and room air exposures. There were no significant differences in FeNO response between experimental conditions. We found that salbutamol improved pulmonary function in individuals with EIB when exercising in ozone and did not increase eosinophilic airway inflammation as indicated by FeNO. This evidence suggests that it is safe for people with EIB to continue to use salbutamol as proscribed when ozone levels are elevated.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/ageing/afae225
+- DOI: 10.14814/phy2.70117
 
 2. Keywords
-- aged
-- disability
+- Airway
+- asthma
 - exercise
-- older people
-- physical function
-- resistance training
 
 3. Key Findings
-- No long-term effects were found for the SPPB-score in ERS-SMS vs ERS (0
+- We found that salbutamol improved pulmonary function in individuals with EIB when exercising in ozone and did not increase eosinophilic airway inflammation as indicated by FeNO
 
 This study provides insights into:
-- aged assessment methods and outcomes
-- disability assessment methods and outcomes
+- Airway assessment methods and outcomes
+- asthma assessment methods and outcomes
 - exercise assessment methods and outcomes

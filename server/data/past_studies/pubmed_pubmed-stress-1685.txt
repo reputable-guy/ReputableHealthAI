@@ -1,29 +1,28 @@
-Study Title: A single-blinded, randomized, parallel intervention to evaluate genetics and omics-based personalized nutrition in general population via an e-commerce tool: The PREVENTOMICS e-commerce study.
+Study Title: Urine metabolomics unravel the effects of short-term dietary interventions on oxidative stress and inflammation: a randomized controlled crossover trial.
 
 Study Summary:
-Personalized nutrition (PN) has been proposed as a strategy to increase the effectiveness of dietary recommendations and ultimately improve health status. We aimed to assess whether including omics-based PN in an e-commerce tool improves dietary behavior and metabolic profile in general population. A 21-wk parallel, single-blinded, randomized intervention involved 193 adults assigned to a control group following Mediterranean diet recommendations (n = 57, completers = 36), PN (n = 70, completers = 45), or personalized plan (PP, n = 68, completers = 53) integrating a behavioral change program with PN recommendations. The intervention used metabolomics, proteomics, and genetic data to assist participants in creating personalized shopping lists in a simulated e-commerce retailer portal. The primary outcome was the Mediterranean diet adherence screener (MEDAS) score; secondary outcomes included biometric and metabolic markers and dietary habits. Volunteers were categorized with a scoring system based on biomarkers of lipid, carbohydrate metabolism, inflammation, oxidative stress, and microbiota, and dietary recommendations delivered accordingly in the PN and PP groups. The intervention significantly increased MEDAS scores in all volunteers (control-3 points; 95% confidence interval [CI]: 2.2, 3.8; PN-2.7 points; 95% CI: 2.0, 3.3; and PP-2.8 points; 95% CI: 2.1, 3.4; q < 0.001). No significant differences were observed in dietary habits or health parameters between PN and control groups after adjustment for multiple comparisons. Nevertheless, personalized recommendations significantly (false discovery rate < 0.05) and selectively enhanced the scores calculated with biomarkers of carbohydrate metabolism (&#x3b2;: -0.37; 95% CI: -0.56, -0.18), oxidative stress (&#x3b2;: -0.37; 95% CI: -0.60, -0.15), microbiota (&#x3b2;: -0.38; 95% CI: -0.63, -0.15), and inflammation (&#x3b2;: -0.78; 95% CI: -1.24, -0.31) compared with control diet. Integration of personalized strategies within an e-commerce-like tool did not enhance adherence to Mediterranean diet or improved health markers compared with general recommendations. The metabotyping approach showed promising results and more research is guaranteed to further promote its application in PN. This trial was registered at clinicaltrials.gov as NCT04641559 (https://clinicaltrials.gov/study/NCT04641559?cond=NCT04641559&rank=1).
+Dietary biomarkers in urine remain elusive when evaluating diet-induced oxidative stress and inflammation. In our previous study, we conducted a randomized controlled crossover trial to compare the short-term (4-weeks) effects of the balanced Korean diet (BKD) with Western diets, including the 2010 dietary guidelines for Americans (2010 DGA) and typical American diet (TAD), on various metabolic indices in obese Korean adults. Building on this work, the current research focuses on the impact of these dietary interventions on oxidative stress (d-ROMs and BAP) and inflammation (CRP, TNF-&#x3b1;, IL-6, IL-1&#x3b2;, MCP-1) biomarkers in serum, and the concurrent urine metabolomes. Each dietary regimen was in silico and experimentally examined for their antioxidant levels using ABTS, DPPH, and FRAP assays, as well as total flavonoid (TFC) and total phenolic (TPC) contents. We assessed post-intervention variations in oxidative stress and inflammation biomarkers in serum, as well as the urine metabolite profiles for the participants (n&#x2009;=&#x2009;48, average age: 41&#xa0;years). Antioxidant contents and associated total antioxidant capacity (TAC) were significantly higher for the recommended diets (BKD and 2010 DGA) compared to TAD (p&#x2009;<&#x2009;0.05). Butanol extracts from recommended diets (BKD and 2010 DGA) showed significantly higher antioxidant activity compared to TAD in ABTS (p&#x2009;<&#x2009;0.01), DPPH, and FRAP (p&#x2009;<&#x2009;0.05) assays. Consistent results were observed in total phenolic and flavonoid contents, mirroring their respective antioxidant activities. Following the intervention period, oxidative stress & inflammation markers in serum varied marginally, however, the urine metabolite profiles were clearly demarcated for the BKD and Western dietary groups (PC1&#x2009;=&#x2009;5.41%). For BKD group, the pre- and post-intervention urine metabolite profiles were clearly segregated (PLS2&#x2009;=&#x2009;2.93%). Compared to TAD, urine extracts from the recommended dietary group showed higher abundance of benzoic acid & phenolic derivatives (VIP&#x2009;>&#x2009;0.7, p&#x2009;<&#x2009;0.05). Metabolites associated with oxidative stress were observed higher in the urine samples from Western dietary groups compared to BKD. Urine metabolomics data delineated the post-intervention effects of three dietary interventions which corroborates the respective findings for their effects on metabolic indices.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ajcnut.2024.04.004
+- DOI: 10.1038/s41598-024-65742-6
 
 2. Keywords
-- dietary patterns
-- genome-wide association studies
-- health status
-- healthy diets
-- lifestyle intervention
-- physiologic characterization
-- precision nutrition
-- targeted nutrition
+- Balanced Korean diet
+- LC&#x2013;MS/MS
+- Oxidative stress
+- Serum biomarkers
+- Urine metabolomics
+- Western diet
 
 3. Key Findings
-- The metabotyping approach showed promising results and more research is guaranteed to further promote its application in PN
+- Butanol extracts from recommended diets (BKD and 2010 DGA) showed significantly higher antioxidant activity compared to TAD in ABTS (p&#x2009;<&#x2009;0
+- Compared to TAD, urine extracts from the recommended dietary group showed higher abundance of benzoic acid & phenolic derivatives (VIP&#x2009;>&#x2009;0
 
 This study provides insights into:
-- dietary patterns assessment methods and outcomes
-- genome-wide association studies assessment methods and outcomes
-- health status assessment methods and outcomes
+- Balanced Korean diet assessment methods and outcomes
+- LC&#x2013;MS/MS assessment methods and outcomes
+- Oxidative stress assessment methods and outcomes

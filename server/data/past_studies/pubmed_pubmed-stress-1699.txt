@@ -1,28 +1,30 @@
-Study Title: Simplified echocardiographic assessment of regional left ventricular wall motion pattern in patients with takotsubo and acute coronary syndrome: The randomized blinded Two-chamber Apical Kinesis Observation (TAKO) study.
+Study Title: Evaluating Yoga-Based Intervention Versus the American Diabetes Association Exercise Regimen in Conjunction With Standard Care for Autonomic Neuropathy in Diabetes Mellitus: An Exploratory Clinical Trial.
 
 Study Summary:
-Differentiating Takotsubo cardiomyopathy (TTC) from acute coronary syndrome involving the left anterior descending coronary artery (LAD-ACS) is difficult due to left ventricular apical wall motion abnormality pattern in both and typically requires an invasive coronary angiography (ICA) study for diagnostic confirmation. To identify differences in the regional wall motion abnormality (RWMA) pattern using a comprehensive comparative analysis of the transthoracic echocardiographic (TTE) findings in patients with TTC versus LAD-ACS. This was a retrospective, randomized, blinded comparison study including a derivation cohort of 105 patients with TTC (N=52) or LAD-ACS (N=53) with concomitant TTE and ICA identified from our institutional database. A comprehensive echocardiographic wall motion analysis was performed (unblinded) to search for subtle differences in RWMA patterns by marking the exact locations of the end-systolic hinge points (HP) - defined as the intersection between the normal and abnormal regional myocardial thickening - in all apical views. The HP location relative to mitral annulus in each apical view was compared for symmetry and the apical 2-chamber (A2C) view was identified as having the most consistent, quantitative difference between TTC and LAD-ACS. This A2C quantitative model was then prospectively studied in a randomized, blinded, validation cohort of 30 subjects with either TTC or LAD-ACS by eight echocardiographic readers with all levels of clinical experience. In the unblinded derivation cohort, the A2C view showed that the ratio (1.02) and the absolute distance between the anterior HP (3.57 cm) and the inferior HP (3.53 cm) in TTC was significantly different than the ratio (0.761) and the absolute differences between the AHP (4.5 cm) and the IHP (5.93 cm) in LAD-ACS. An AHP: IHP of 0.96 for men and 0.84 for women was able to correctly categorize 84.8% of male and 91.7% of female patients. When applied to the validation cohort, the model showed fairly accurate results with a 74% prediction rate in diagnosing TTC in female patients. We propose a relatively simple 2-D TTE diagnostic tool emphasizing subtle differences in the RWMA pattern in the A2C view alone as a semi-quantitative imaging parameter to help differentiate TTC from LAD-ACS.
+Diabetic autonomic neuropathy (DAN) is a prevalent yet often overlooked complication of diabetes mellitus (DM), impacting multiple organs and substantially elevating the risk of morbidity and mortality. This study aimed to assess the effectiveness of yoga-based intervention (YBI) compared to the American Diabetes Association exercise regimen (ADA Ex. Regime) and standard care for treating autonomic neuropathy in type 2 DM. This open-label exploratory clinical trial featured two parallel study arms: Group A (Intervention), which received YBI alongside standard care, and Group B, which adhered to the ADA Ex. Regime in conjunction with standard care. A total of 80 participants aged 35-60, diagnosed with type 2 DM and autonomic neuropathy, were equally allocated to both groups. Data collection included nerve conduction velocity (NCV) tests, autonomic function tests (AFTs), as well as evaluations of depression and quality of life. YBI demonstrated a drop in parasympathetic tone compared to the ADA Ex. Regime. Following a six-month intervention, the sympathetic activity indicator (SD2) exhibited a significantly lower value in the YBI group than in the ADA Ex. Regime group, indicating a positive effect (p < 0.05), while the ADA Ex. Regime&#xa0;showed more improvement in certain areas of NCV (e.g., left and right peroneal NCV, right and left peroneal F-latency), notable differences were observed in alkaline phosphatase levels, depression scores, and WHO-5 wellness, all reaching statistical significance at p < 0.05. The study findings observed that a 24-week YBI significantly reduced in symptoms of diabetic neuropathy and stress. Although the ADA Ex. Regime&#xa0;demonstrated greater improvement in specific aspects of NCV compared to YBI, YBI outperformed the ADA Ex. Regime in enhancing WHO-5 wellness and reducing depression symptoms.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.cpcardiol.2024.102731
+- DOI: 10.7759/cureus.61329
 
 2. Keywords
-- Acute coronary syndrome
-- Chest pain
-- Echocardiography
-- Stress cardiomyopathy
-- Takotsubo
-- Wall motion abnormality
+- adae
+- depression
+- diabetes mellitus
+- diabetic autonomic neuropathy
+- nerve conduction velocity
+- quality of life
+- yoga-based intervention
 
 3. Key Findings
-- In the unblinded derivation cohort, the A2C view showed that the ratio (1
-- When applied to the validation cohort, the model showed fairly accurate results with a 74% prediction rate in diagnosing TTC in female patients
+- YBI demonstrated a drop in parasympathetic tone compared to the ADA Ex
+- Regime&#xa0;showed more improvement in certain areas of NCV (e
+- Regime&#xa0;demonstrated greater improvement in specific aspects of NCV compared to YBI, YBI outperformed the ADA Ex
 
 This study provides insights into:
-- Acute coronary syndrome assessment methods and outcomes
-- Chest pain assessment methods and outcomes
-- Echocardiography assessment methods and outcomes
+- adae assessment methods and outcomes
+- depression assessment methods and outcomes
+- diabetes mellitus assessment methods and outcomes

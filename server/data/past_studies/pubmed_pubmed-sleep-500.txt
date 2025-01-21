@@ -1,20 +1,32 @@
-Study Title: Tirzepatide for the Treatment of Obstructive Sleep Apnea and Obesity.
+Study Title: Impact of National Lockdown Measures on the Association Between Social Media Use and Sleep Disturbance During COVID-19: A Meta-Analysis of 21 Nations.
 
 Study Summary:
-Obstructive sleep apnea is characterized by disordered breathing during sleep and is associated with major cardiovascular complications; excess adiposity is an etiologic risk factor. Tirzepatide may be a potential treatment. We conducted two phase 3, double-blind, randomized, controlled trials involving adults with moderate-to-severe obstructive sleep apnea and obesity. Participants who were not receiving treatment with positive airway pressure (PAP) at baseline were enrolled in trial 1, and those who were receiving PAP therapy at baseline were enrolled in trial 2. The participants were assigned in a 1:1 ratio to receive either the maximum tolerated dose of tirzepatide (10 mg or 15 mg) or placebo for 52 weeks. The primary end point was the change in the apnea-hypopnea index (AHI, the number of apneas and hypopneas during an hour of sleep) from baseline. Key multiplicity-controlled secondary end points included the percent change in AHI and body weight and changes in hypoxic burden, patient-reported sleep impairment and disturbance, high-sensitivity C-reactive protein (hsCRP) concentration, and systolic blood pressure. At baseline, the mean AHI was 51.5 events per hour in trial 1 and 49.5 events per hour in trial 2, and the mean body-mass index (BMI, the weight in kilograms divided by the square of the height in meters) was 39.1 and 38.7, respectively. In trial 1, the mean change in AHI at week 52 was -25.3 events per hour (95% confidence interval [CI], -29.3 to -21.2) with tirzepatide and -5.3 events per hour (95% CI, -9.4 to -1.1) with placebo, for an estimated treatment difference of -20.0 events per hour (95% CI, -25.8 to -14.2) (P<0.001). In trial 2, the mean change in AHI at week 52 was -29.3 events per hour (95% CI, -33.2 to -25.4) with tirzepatide and -5.5 events per hour (95% CI, -9.9 to -1.2) with placebo, for an estimated treatment difference of -23.8 events per hour (95% CI, -29.6 to -17.9) (P<0.001). Significant improvements in the measurements for all prespecified key secondary end points were observed with tirzepatide as compared with placebo. The most frequently reported adverse events with tirzepatide were gastrointestinal in nature and mostly mild to moderate in severity. Among persons with moderate-to-severe obstructive sleep apnea and obesity, tirzepatide reduced the AHI, body weight, hypoxic burden, hsCRP concentration, and systolic blood pressure and improved sleep-related patient-reported outcomes. (Funded by Eli Lilly; SURMOUNT-OSA ClinicalTrials.gov number, NCT05412004.).
+During the COVID-19 pandemic, the extensive lockdown measures implemented for disease mitigation triggered a surge in round-the-clock social media use, giving rise to widespread concerns regarding its impact on sleep health. This meta-analysis examined the association between social media use and sleep disturbance during the pandemic, along with potential moderators. The dataset included 43 independent samples comprising 68,247 residents of 21 countries across 7 world regions. The three-level mixed-effects meta-analysis revealed a weak, positive overall effect size (= 0.1296, 95% confidence interval: 0.0764-0.1828,= 90). The magnitude of the effect size varied by the type of social media use: compulsive use exhibited a moderately strong effect size, whereas information-focused use showed marginal significance. The effect size was more pronounced in countries imposing stricter (vs. less strict) lockdown measures. Lockdown status also moderated this association, with a marginally significant effect size observed during lockdowns but a significant effect size after lockdowns. For demographics, samples involving emerging adults demonstrated moderately strong effect sizes, whereas those involving the general population had modest effect sizes. Notably, the interaction between the type of social media use and lockdown status was significant. Specifically, the positive association with information-focused use was significant only during lockdowns, whereas that with general use was significant after, but not during, lockdowns. However, compulsive use showed a moderately strong effect size both during and after lockdowns. These findings underscored the importance of considering multiple factors-such as the type of social media use, context, and demographics-when studying social media use and sleep health.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1056/NEJMoa2404881
+- DOI: 10.1089/cyber.2023.0571
 
 2. Keywords
-
+- digital communication
+- online platform
+- sleep disorder
+- sleep quality
+- sleep wellness
+- social networking
+- virtual community
+- web-based interaction
 
 3. Key Findings
-- Findings extraction requires manual review
+- The three-level mixed-effects meta-analysis revealed a weak, positive overall effect size (= 0
+- The magnitude of the effect size varied by the type of social media use: compulsive use exhibited a moderately strong effect size, whereas information-focused use showed marginal significance
+- For demographics, samples involving emerging adults demonstrated moderately strong effect sizes, whereas those involving the general population had modest effect sizes
+- However, compulsive use showed a moderately strong effect size both during and after lockdowns
 
 This study provides insights into:
-- General research methodology and outcomes
+- digital communication assessment methods and outcomes
+- online platform assessment methods and outcomes
+- sleep disorder assessment methods and outcomes

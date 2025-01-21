@@ -1,27 +1,28 @@
-Study Title: Effect of antioxidant-rich kindergarten meals on oxidative stress biomarkers in healthy 5-6-year-old children: a randomized controlled trial.
+Study Title: The effect of resilience training with mHealth application based on micro-learning method on the stress and anxiety of nurses working in intensive care units: a randomized controlled trial.
 
 Study Summary:
-As children spend up to 9&#xa0;h a day in kindergarten, the main purpose of our study was to evaluate the effect of antioxidant-rich kindergarten meals on oxidative stress biomarkers (OSBs) in healthy children. In the randomized control trial with a follow-up, healthy 5-6-year-old children from six kindergartens were randomly divided into a prototype group (PG, n&#x2009;=&#x2009;40) and a control group (CG, n&#x2009;=&#x2009;17). PG followed a 2-week antioxidant-rich kindergarten meal plan (breakfast, lunch, and two snacks), and CG followed their standard kindergarten meal plans. Outside the kindergartens, participants ate as usual. We used a consecutive 7-day dietary record inside and outside the kindergarten and the national dietary assessment tool OPEN to assess the total dietary antioxidant capacity (dTAC) of the consumed foods. Malondialdehyde (MDA), 8-hydroxy-2-deoxyguanosine (8-OHdG), and four F2-isoprostane were measured in fasting urine on days 1 and 15. We also measured total antioxidant power (PAT) and hydroperoxides (d-ROMs) in fasting serum on day 15 and obtained the value of the oxidative stress index (OSI). We used a Welch two-sample t-test and multiple regression analysis to compare the prototype and control groups and a nonparametric Wilcoxon signed rank exact test to compare pre- and post-intervention results in urine. Antioxidant-rich kindergarten meals contributed to a significantly (p&#x2009;<&#x2009;0.05) higher intake of dTAC in PG participants compared to standard meals in CG participants (8.6 vs. 2.8&#xa0;mmol/day). We detected a negative correlation between dTAC intake and d-ROMs and between dTAC intake and OSI (r&#x2009;=&#x2009;&#x2009;-&#x2009;0.29, p&#x2009;=&#x2009;0.043 and r&#x2009;=&#x2009;&#x2009;-&#x2009;0.31, p&#x2009;=&#x2009;0.032, respectively). A significant decrease in urinary 8-iso-15-prostaglandin-F-2 alpha was detected in PG participants between days 1 and 15; however, no other intra-individual significant differences in urinary OSBs were found.&#xa0; Conclusion: Antioxidant-rich food in kindergarten is warranted due to its potential health-protective effect. Additionally, we present original data on the average levels of urinary and serum OSBs in healthy 5-6-year-old children.&#xa0; Trial registration: The study was registered at ClinicalTrials.gov, on February 5, 2020 ( https://clinicaltrials.gov/ct2/show/NCT04252105 ). What is Known: &#x2022; Kindergartens are recognized as promising environments for public health measures. &#x2022; A diet rich in antioxidants can reduce OSBs and, consequently, the risk of developing NCDs. What is New: &#x2022; Antioxidant-rich kindergarten diet can ensure a protective intake of dTAC in children. &#x2022; Original data on serum oxidative stress biomarkers (d-ROMs, PAT, and OSI) and urinary oxidative stress biomarkers (MDA, 8-OHdG, and F2 isoprostanes) in healthy 5-6-year-old children.
+Nurses in intensive care units (ICUs) face high stress and anxiety, impacting their well-being and productivity. Addressing this, this study evaluated the impact of resilience training via a mHealth application based on micro-learning on ICU nurses' stress and anxiety levels. This study, a single-blind randomized controlled trial conducted in 2022-23, involved sixty ICU nurses from two Tehran hospitals. Nurses were chosen through purposive sampling and divided into intervention and control groups by simple randomization. The intervention group was taught resilience via an educational mHealth application based on micro-learning, with data collected using the anxiety and stress subscales of DASS-21. Before the intervention, there were no significant differences in stress and anxiety scores between the intervention and control groups (P&#x2009;>&#x2009;0.05). Upon utilizing the mHealth application, the intervention group exhibited significant reductions in stress, from 10.77&#x2009;&#xb1;&#x2009;3.33 to 9.00&#x2009;&#xb1;&#x2009;1.66 (P&#x2009;=&#x2009;0.001), and in anxiety, from 9.43&#x2009;&#xb1;&#x2009;3.35 to 7.93&#x2009;&#xb1;&#x2009;0.98 (P&#x2009;<&#x2009;0.001). In contrast, the control group experienced a slight increase in stress levels, from 10.10&#x2009;&#xb1;&#x2009;2.19 to 10.73&#x2009;&#xb1;&#x2009;2.15 (P&#x2009;=&#x2009;0.002), and in anxiety levels, from 9.10&#x2009;&#xb1;&#x2009;1.63 to 10.23&#x2009;&#xb1;&#x2009;1.65 (P&#x2009;<&#x2009;0.0001). The micro-learning-based mHealth application for resilience training significantly reduced ICU nurses' stress and anxiety, recommending its adoption as an innovative educational method. The study has been registered in the Iranian Registry of Clinical Trials (No. IRCT20221225056916N1, Date: 04/29/2023).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00431-024-05576-6
+- DOI: 10.1186/s12909-024-05427-w
 
 2. Keywords
-- Antioxidant-rich diet
-- Dietary antioxidant capacity
-- F2-isoprostanes
-- Kindergarten diet
-- Oxidative stress biomarkers
-- Reactive oxygen metabolites
+- Anxiety
+- Intensive care
+- Micro-learning
+- Nurses
+- Resilience
+- Stress
+- mHealth
 
 3. Key Findings
-- A significant decrease in urinary 8-iso-15-prostaglandin-F-2 alpha was detected in PG participants between days 1 and 15; however, no other intra-individual significant differences in urinary OSBs were found
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Antioxidant-rich diet assessment methods and outcomes
-- Dietary antioxidant capacity assessment methods and outcomes
-- F2-isoprostanes assessment methods and outcomes
+- Anxiety assessment methods and outcomes
+- Intensive care assessment methods and outcomes
+- Micro-learning assessment methods and outcomes

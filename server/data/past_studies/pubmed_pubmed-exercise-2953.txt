@@ -1,26 +1,20 @@
-Study Title: DNA Methylation of BDNF and RASA2 Genes Is Associated With Cognitive Function in Postmenopausal Women With Breast Cancer.
+Study Title: The effects of moderate-intensity aerobic exercise on cognitive function in individuals with stroke-induced mild cognitive impairment: a randomized controlled pilot study.
 
 Study Summary:
-To determine associations among DNA methylation of brain-derived neurotrophic factor (BDNF) and RAS p21 protein activator 2 (RASA2) genes with processing speed and perceived cognitive function. This was a cross-sectional, secondary analysis of baseline data from a randomized controlled trial, the Exercise Program in Cancer and Cognition Study. Data included M values for DNA methylation of the BDNF and RASA2 genes; processing speed, objectively measured using the Grooved Pegboard and Digit Vigilance Test scores; and perceived cognitive function, self-reported using the Patient Assessment of Own Functioning Inventory. Regression analysis was conducted. Greater methylation of cg21291635 of the BDNF gene (p = 0.01) and cg20247102 of the RASA2 gene (p = 0.013) were associated with poorer processing speed, whereas greater methylation of cg20108357 of the BDNF gene (p < 0.001) and cg00567892 of the RASA2 gene (p = 0.019) were associated with better perceived cognitive function. Gene methylation variations were demonstrated, suggesting the genes' potential roles and two possible distinct mechanisms of cognitive function in cancer.&nbsp.
+To assess the impact of moderate-intensity aerobic exercise on working memory in stroke-induced mild cognitive impairment (MCI). Randomized, double-blind controlled study. Twenty MCI patients from the Fifth Affiliated Hospital of Guangzhou Medical University (December 2021 to February 2023), aged 34-79, 2-12 months post-stroke, were divided into an experimental group (EG) and a control group (CG), each with 10 participants. The EG underwent standard rehabilitation plus 40 minutes of aerobic exercise, while the CG received only standard therapy, 5 times weekly for 2 weeks. Working memory was tested using the n-back task, and overall cognitive function was measured with the MOCA and MMSE Scales before and after the intervention. The EG showed higher 3-back correctness (71.80&#x2009;&#xb1;&#x2009;14.53 vs 56.50&#x2009;&#xb1;&#x2009;13.66), MOCA scores (27.30&#x2009;&#xb1;&#x2009;1.57 vs 24.00&#x2009;&#xb1;&#x2009;3.13), and improved visuospatial/executive (4.60&#x2009;&#xb1;&#x2009;0.52 vs 3.30&#x2009;&#xb1;&#x2009;1.06) and delayed recall (4.30&#x2009;&#xb1;&#x2009;0.82 vs 3.00&#x2009;&#xb1;&#x2009;1.56) on the MOCA scale compared with the CG. Moderate-intensity aerobic exercise may enhance working memory, visuospatial/executive, and delayed recall functions in stroke-induced MCI patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1188/24.ONF.349-360
+- DOI: 10.2340/jrm.v56.33001
 
 2. Keywords
-- DNA methylation
-- breast cancer
-- cognition
-- perceived cognitive function
-- processing speed
+
 
 3. Key Findings
-- Gene methylation variations were demonstrated, suggesting the genes' potential roles and two possible distinct mechanisms of cognitive function in cancer
+- The EG showed higher 3-back correctness (71
 
 This study provides insights into:
-- DNA methylation assessment methods and outcomes
-- breast cancer assessment methods and outcomes
-- cognition assessment methods and outcomes
+- General research methodology and outcomes

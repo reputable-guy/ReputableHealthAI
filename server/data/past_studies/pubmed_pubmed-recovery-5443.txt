@@ -1,20 +1,25 @@
-Study Title: The effect of compression stockings on the complaints well-being and sleep quality of pregnant women with restless legs syndrome: a randomized controlled study.
+Study Title: Fidelity of Enhanced Recovery Protocol Implementation With Assessment of Hospital-Specific Materials.
 
 Study Summary:
-The aim of this study was to determine the effect of compression stockings on complaints, well-being, and sleep quality in pregnant women with restless legs syndrome. This randomized placebo-controlled study was conducted on 63 pregnant women (placebo group [PG]=31; experimental group [EG]=32) at the Perinatology Outpatient Clinic of a Health Research and Application Centre in Turkey. Pregnant women in the experimental group wore compression stockings when they got up in the morning for 3 weeks and took them off at bedtime. Placebo group women wore a placebo stocking. Data were collected using the restless legs syndrome Severity Rating Scale, the Pittsburgh Sleep Quality Index, the World Health Organization-5 Well-Being Index, and the Application Satisfaction Form on the 22nd day of the first interview. Statistical significance was accepted as p<0.05. Post-test mean scores of both the experimental group and placebo group in the restless legs syndrome Severity Rating Scale (post-test:;8.87&#xb1;5.27, 12.19&#xb1;5.60; pre-test:;21.28&#xb1;5.63, 21.0&#xb1;5.61; p<0.05), the Pittsburgh Sleep Quality Index (post-test:;5.34&#xb1;3.28, 6.12&#xb1;3.12; pre-test:;10.15&#xb1;4.23, 9.61&#xb1;4.59; p<0.05), and Well-Being Index (post-test:;18.06&#xb1;4.59, 19.00&#xb1;4.47; pre-test:;12.71&#xb1;5.85, 15.09&#xb1;5.62; p<0.05) showed recovery according to the pre-tests. However, the post-test restless legs syndrome Severity Rating Scale of the experimental group was lower than that of the placebo group (p<0.05). The effect of their application started in 3.93&#xb1;1.74 days on average in the experimental group, while it started in 5.09&#xb1;1.55 days in the placebo group (p<0.05). Both applications reduced the severity of restless legs syndrome in pregnant women and increased sleep quality and well-being. However, compression stockings were more effective in reducing restless legs syndrome severity. Nurses can use compression and placebo stockings in the care of pregnant women with restless legs syndrome. NCT05795868.
+Variability in implementation of enhanced recovery protocols (ERPs) often reduces the effects of an intervention on clinical outcomes. This study aimed to evaluate hospital-level implementation fidelity to a pediatric gastrointestinal surgery ERP by assessing site-specific implementation materials. This document analysis study operationalized implementation fidelity as adherence to the creation of specified materials at each study site. During the 12-mo implementation phase within the stepped-wedge cluster randomized control trial, ENhanced Recovery In CHildren Undergoing Surgery, study sites were provided with materials (e.g., order sets), access to peer-counseling, and given key ERP elements spanning multiple phases of care. Sixteen of the 18 total study sites submitted implementation materials, including 14 anesthesia protocols, 11 order sets, and 16 sets of patient/family education materials. These materials were assessed and graded for fidelity using prespecified criteria. Hospital-level fidelity scores could range from 0 to a maximum score of 18, and were categorized as either high or low, based on whether the score was above or below/equal to the median. Descriptive statistics and Wilcoxon rank sum test were used for analysis. The overall hospital-level median fidelity score for inclusion of ERP elements in the implementation materials was 10.5. The median score was 12.8 at nine high-fidelity sites and was 5.6 at nine low-fidelity sites (P&#xa0;<&#xa0;0.01). Higher adherence was noted for avoiding prolonged fasting (n&#xa0;=&#xa0;16/18 hospitals; 89%) and preventing nausea and vomiting (n&#xa0;=&#xa0;16/18 hospitals; 89%) in anesthesia protocols and/or order sets. Lower adherence was noted for incorporation of minimally invasive surgical techniques (n&#xa0;=&#xa0;2/18 hospitals, 11%) and of preoperative optimization of medical comorbidities (n&#xa0;=&#xa0;0/18 hospitals, 0%) in implementation materials. Despite substantial resources to promote ERP elements, there was wide variation in fidelity for incorporating ERPs into implementation materials among hospital sites. Development of high-fidelity implementation materials for complex ERPs for gastrointestinal surgery in children may require longer than 12&#xa0;months. Additional implementation strategies, resources, and modification of implementation-focused materials may be needed.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1590/1806-9282.20240145
+- DOI: 10.1016/j.jss.2024.07.087
 
 2. Keywords
-
+- Enhanced recovery protocols
+- Fidelity
+- Implementation
+- Implementation materials
 
 3. Key Findings
-- 05) showed recovery according to the pre-tests
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Enhanced recovery protocols assessment methods and outcomes
+- Fidelity assessment methods and outcomes
+- Implementation assessment methods and outcomes

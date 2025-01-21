@@ -1,20 +1,27 @@
-Study Title: Ketamine vs Electroconvulsive Therapy for Treatment-Resistant Depression: A Secondary Analysis of a Randomized Clinical Trial.
+Study Title: Effect of acupressure in the third eye point (EX-HN 3) on psychological distress, comfort and physiologic parameters among patients undergoing coronary angiography.
 
 Study Summary:
-The ELEKT-D: Electroconvulsive Therapy (ECT) vs Ketamine in Patients With Treatment Resistant Depression (TRD) (ELEKT-D) trial demonstrated noninferiority of intravenous ketamine vs ECT for nonpsychotic TRD. Clinical features that can guide selection of ketamine vs ECT may inform shared decision-making for patients with TRD. To evaluate whether selected clinical features were associated with differential improvement with ketamine vs ECT. This secondary analysis of an open-label noninferiority randomized clinical trial was a multicenter study conducted at 5 US academic medical centers from April 7, 2017, to November 11, 2022. Analyses for this study, which were not prespecified in the trial protocol, were conducted from May 10 to Oct 31, 2023. The study cohort included patients with TRD, aged 21 to 75 years, who were in a current nonpsychotic depressive episode of at least moderate severity and were referred for ECT by their clinicians. Eligible participants were randomized 1:1 to receive either 6 infusions of ketamine or 9 treatments with ECT over 3 weeks. Association between baseline factors (including 16-item Quick Inventory of Depressive Symptomatology Self-Report [QIDS-SR16], Montgomery-Asberg Depression Rating Scale [MADRS], premorbid intelligence, cognitive function, history of attempted suicide, and inpatient vs outpatient status) and treatment response were assessed with repeated measures mixed-effects model analyses. Among the 365 participants included in this study (mean [SD] age, 46.0 [14.5] years; 191 [52.3%] female), 195 were randomized to the ketamine group and 170 to the ECT group. In repeated measures mixed-effects models using depression levels over 3 weeks and after false discovery rate adjustment, participants with a baseline QIDS-SR16&#x2009;score of 20 or less (-7.7 vs -5.6 points) and those starting treatment as outpatients (-8.4 vs -6.2 points) reported greater reduction in the QIDS-SR16 with ketamine vs ECT. Conversely, those with a baseline QIDS-SR16 score of more than 20 (ie, very severe depression) and starting treatment as inpatients reported greater reduction in the QIDS-SR16 earlier in course of treatment (-8.4 vs -6.7 points) with ECT, but scores were similar in both groups at the end-of-treatment visit (-9.0 vs -9.9 points). In the ECT group only, participants with higher scores on measures of premorbid intelligence (-14.0 vs -11.2 points) and with a comorbid posttraumatic stress disorder diagnosis (-16.6 vs -12.0 points) reported greater reduction in the MADRS score. Those with impaired memory recall had greater reduction in MADRS during the second week of treatment (-13.4 vs -9.6 points), but the levels of MADRS were similar to those with unimpaired recall at the end-of-treatment visit (-14.3 vs -12.2 points). Other results were not significant after false discovery rate adjustment. In this secondary analysis of the ELEKT-D randomized clinical trial of ECT vs ketamine, greater improvement in depression was observed with intravenous ketamine among outpatients with nonpsychotic TRD who had moderately severe or severe depression, suggesting that these patients may consider ketamine over ECT for TRD.
+The present study aimed to investigate the effect of acupressure on comfort, anxiety, stress, depression, and vital signs in patients undergoing coronary angiography. This randomized clinical trial was conducted on patients who underwent coronary angiography in Tehran, Iran. Seventy patients were randomly assigned to the intervention and control groups. The intervention protocol consisted of 20 min of acupressure applied to the Yintang point, and standard medical care was applied to the control group. Depression, Anxiety, and Stress questionnaire (DASS-21), General Comfort Questionnaire (GCQ) questionnaires, and standard monitoring were used as data collection tools before and after intervention, as well as after angiography. Data were analyzed using an independent sample t-test, chi-squared, and analysis of variance of repeated measures in SPSS software, and the level of significance was set at 0.05. The results showed that before acupressure, there was no statistically significant difference between the two groups. Anxiety and stress scores and comfort levels decreased significantly after the intervention (p < 0.001), while no significant difference was observed in the depression score (p = 0.873). There was a significant decrease in the blood pressure, breathing rate, and heart rate in the intervention group. Acupressure can reduce the anxiety and stress of angiography candidates and make them more comfortable. It also reduces the blood pressure, breathing rate, and heart rate. Further studies at different pressure points and on a larger and more detailed scale are necessary.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1001/jamanetworkopen.2024.17786
+- DOI: 10.1016/j.explore.2024.103021
 
 2. Keywords
-
+- Acupressure
+- Anxiety
+- Comfort
+- Coronary angiography
+- Depression
+- Stress
 
 3. Key Findings
-- The ELEKT-D: Electroconvulsive Therapy (ECT) vs Ketamine in Patients With Treatment Resistant Depression (TRD) (ELEKT-D) trial demonstrated noninferiority of intravenous ketamine vs ECT for nonpsychotic TRD
+- The results showed that before acupressure, there was no statistically significant difference between the two groups
 
 This study provides insights into:
-- General research methodology and outcomes
+- Acupressure assessment methods and outcomes
+- Anxiety assessment methods and outcomes
+- Comfort assessment methods and outcomes

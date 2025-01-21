@@ -1,28 +1,27 @@
-Study Title: Digital Intervention Promoting Physical Activity in People Newly Diagnosed with Parkinson's Disease: Feasibility and Acceptability of the Knowledge, Exercise-Efficacy and Participation (KEEP) Intervention.
+Study Title: Efficacy of exercise with the hybrid assistive limb lumbar type on physical function in mobility-limited older adults: A 5-week randomized controlled trial.
 
 Study Summary:
-Exercise promotion interventions for people with Parkinson's disease (PD) are often offered on a face-to-face basis, follow a generic "one-size-fit-all" approach, and are not typically delivered at diagnosis. Considering PD's heterogenous nature, the existing evidence on the merits of exercise on symptom management and the expressed wishes of people living with PD for access to timely and tailored evidence-based information, there is a demand for interventions that are easily accessible, scalable and co-designed with people living with PD. Evaluate the feasibility and acceptability of a co-designed digital intervention promoting exercise and physical activity, in people newly diagnosed with PD. Thirty people living with PD for less than one year participated in an assessor-blinded randomized feasibility trial from June 2022 to April 2023. The intervention group received the 8-week Knowledge, Exercise Efficacy and Participation (KEEP) intervention comprising 6 interactive digital modules and 4 online live group discussions facilitated by a specialist physiotherapist. Assessments were performed at baseline, post intervention and at 6-month follow up. Thirty participants were recruited to target with a 64% recruitment rate (30/47). All but one participant completed the 6-month follow-up assessment. There was high retention (97%), module completion (91%), and online discussion attendance (88%). Outcome measure collection was feasible, including accelerometer data with a daily average wear time of 23.9 hours (SD:0.295). The KEEP intervention was feasible and acceptable in people newly diagnosed with PD. A larger trial is needed to assess intervention efficacy and correlation between knowledge, self-efficacy, and activity levels.
+Sarcopenia and frailty often worsen in older adults because of declines in activities of daily living and social connections that are associated with chronic diseases and traumatic injuries such as falls and fractures. Exercise intervention for sarcopenia can take >3&#xa0;months to improve muscle mass, muscle strength, and walking speed. Thus, a specialized intervention system for shorter periods of time is needed. In this study, we aimed to evaluate the short-term efficacy of an exercise program using the wearable cyborg Hybrid Assistive Limb (HAL) lumbar type in physical function in mobility-limited older adults who do not require transition to long-term care. This randomized, single-blind, parallel-group study involved 79 community-dwelling older adults with physical frailty or locomotive syndrome assigned to an intervention group (n&#xa0;=&#xa0;40) with the HAL lumbar type exercise program or a control group (n&#xa0;=&#xa0;39) without the exercise program. The intervention group underwent trunk training (including trunk and hip flexion, standing and sitting from a single sitting position, and squats) and gait training (treadmill and parallel bars) twice a week for 5&#xa0;weeks while wearing the HAL lumbar type. The 10-m usual and maximum walking speeds, Timed Up and Go test results, 5-times chair-standing test results, 5-question Geriatric Locomotive Function Scale (GLFS-5) scores, body-fat percentage, and muscle mass were measured before and after the intervention and analyzed using the intention-to-treat method. The intervention (23&#xa0;% male; mean age, 74.7&#xa0;&#xb1;&#xa0;4.7&#xa0;years) and control (21&#xa0;% male; mean age, 75.1&#xa0;&#xb1;&#xa0;4.1&#xa0;years) groups did not differ significantly in baseline characteristics. Seventy-seven participants completed the program; two withdrew for personal reasons. The mean difference (standard error) between the groups for the primary outcome (usual walking speed) was 0.35 (0.04) m/s; the time-by-group interaction was significant (p&#xa0;<&#xa0;0.001). Secondary outcomes (maximum walking speed, Timed Up and Go test results, 5-times chair-standing test results, and GLFS-5 scores) significantly improved in the intervention group. Body composition was unchanged in both groups. A 5-week exercise program using the HAL lumbar type is a promising option for community-dwelling older adults with limited mobility who do not require nursing care, resulting in clinically meaningful improvements in most physical functions within a short period.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3233/JPD-240071
+- DOI: 10.1016/j.exger.2024.112536
 
 2. Keywords
-- Parkinson&#x2019;s disease
-- Physical activity
-- co-design
-- digital health
-- exercise promotion
-- feasibility study
-- physical literacy
+- Biofeedback
+- Exercise
+- Frailty
+- Hybrid assistive limb
+- Sarcopenia
+- Walking speed
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Parkinson&#x2019;s disease assessment methods and outcomes
-- Physical activity assessment methods and outcomes
-- co-design assessment methods and outcomes
+- Biofeedback assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- Frailty assessment methods and outcomes

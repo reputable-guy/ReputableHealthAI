@@ -1,27 +1,27 @@
-Study Title: Replacement of dietary saturated with unsaturated fatty acids is associated with beneficial effects on lipidome metabolites: a secondary analysis of a randomized trial.
+Study Title: Expanding school wellness policies to encompass the Whole School, Whole Community, Whole Child model.
 
 Study Summary:
-The effects of replacing dietary saturated fatty acids (SFAs) with monounsaturated fatty acids (MUFAs) and/or polyunsaturated fatty acids (PUFAs) on the plasma lipidome in relation to the cardiometabolic disease (CMD) risk is poorly understood. We aimed to assess the impact of substituting dietary SFAs with unsaturated fatty acids (UFAs) on the plasma lipidome and examine the relationship between lipid metabolites modulated by diet and CMD risk. Plasma fatty acid (FA) concentrations among 16 lipid classes (within-class FAs) were measured in a subgroup from the Dietary Intervention and VAScular function (DIVAS) parallel randomized controlled trial (n = 113/195), which consisted of three 16-wk diets enriched in SFAs (target SFA:MUFA:n-6PUFA ratio = 17:11:4% total energy [TE]), MUFAs (9:19:4% TE), or a MUFA/PUFA mixture (9:13:10% TE). Similar lipidomics analyses were conducted in the European Prospective Investigation into Cancer and Nutrition (EPIC)-Potsdam study (specific case/cohorts: n = 775/1886 for type 2 diabetes [T2D], n = 551/1671 for cardiovascular disease [CVD]). Multiple linear regression and multivariable Cox models identified within-class FAs sensitive to replacement of dietary SFA with UFA in DIVAS and their association with CMD risk in EPIC-Potsdam. Elastic-net regression models identified within-class FAs associated with changes in CMD risk markers post-DIVAS interventions. DIVAS high-UFA interventions reduced plasma within-class FAs associated with a higher CVD risk in EPIC-Potsdam, especially SFA-containing glycerolipids and sphingolipids (e.g., diacylglycerol (20:0) z-score = -1.08; SE = 0.17; P value < 10), whereas they increased those inversely associated with CVD risk. The results on T2D were less clear. Specific sphingolipids and phospholipids were associated with changes in markers of endothelial function and ambulatory blood pressure, whereas higher low-density lipoprotein cholesterol concentrations were characterized by higher plasma glycerolipids containing lauric and stearic acids. These results suggest a mediating role of plasma lipid metabolites in the association between dietary fat and CMD risk. Future research combining interventional and observational findings will further our understanding of the role of dietary fat in CMD etiology. This trial was registered in ClinicalTrials.gov as NCT01478958.
+Schools influence children's developmental outcomes across multiple domains, including academic, social, emotional, behavioral, and physical. School district wellness policies are powerful mechanisms that set clear expectations for health-related practices in school buildings and the surrounding community. A current challenge is that many health-related school policies are narrow, siloed, and reactive instead of proactive. In this paper, we: (a) describe how written food, nutrition, and physical activity district and state policies were strengthened in the United States in response to specific concerns about childhood obesity; (b) present how schools have historically addressed policies concerning children's social, emotional, and behavioral health; and (c) propose using the Whole School, Whole Community, Whole Child (WSCC) model to strengthen the coordination and integration of school wellness policies. We conclude by describing recently developed tools to assist school districts in implementing the WSCC model. The Wellness School Assessment Tool (WellSAT) WSCC is a quantitative measure that districts can use to code their current written policies for alignment with the WSCC model. The WSCC Policy and Practice Blueprints are action planning tools that lead school and district leaders through a series of activities to strengthen the implementation of coordinated and integrated policies and practices. By using the WSCC model and accompanying implementation tools, schools can support the development of the whole child.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.ajcnut.2023.03.024
+- DOI: 10.3389/fpubh.2023.1143474
 
 2. Keywords
-- EPIC-Potsdam
-- cardiovascular disease
-- dietary fat
-- lipidomics
-- randomized controlled trial
-- type 2 diabetes
+- WSCC model
+- behavioral health
+- nutrition
+- physical activity
+- school health
+- wellness policies
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- EPIC-Potsdam assessment methods and outcomes
-- cardiovascular disease assessment methods and outcomes
-- dietary fat assessment methods and outcomes
+- WSCC model assessment methods and outcomes
+- behavioral health assessment methods and outcomes
+- nutrition assessment methods and outcomes

@@ -1,27 +1,20 @@
-Study Title: Cardiorespiratory Fitness Benefits of High-Intensity Interval Training After Stroke: A Randomized Controlled Trial.
+Study Title: Cognitive Behavioral Therapy for Insomnia in Pain Management for Nonspecific Chronic Spinal Pain: A Randomized Clinical Trial.
 
 Study Summary:
-Limited evidence supports the effects of short-interval high-intensity interval training (HIIT) for improving cardiorespiratory fitness (V&#x307;Opeak) after stroke. We aimed to compare the effects of 12 weeks of short-interval HIIT versus moderate-intensity continuous training (MICT) on V&#x307;Opeak, cardiovascular risk factors, and mobility outcomes among individuals &#x2265;6 months poststroke. This study was a multi-site, 12-week randomized controlled trial (NCT03614585) with an 8-week follow-up. Participants were randomized into 3 d/wk of HIIT (10&#xd7;1 minute 80%-100% heart rate reserve interspersed with 1 minute 30% heart rate reserve [19 minutes]) or MICT (20-30 minutes 40%-60% heart rate reserve). Secondary outcomes of the trial, including V&#x307;Opeak, cardiovascular risk factors (carotid-femoral pulse wave velocity, blood pressure, and waist-hip ratio), and mobility (6-minute walk test, 10 m gait speed), were reported. Linear mixed model analyses with a group&#xd7;study time point interaction evaluated between-group differences. Of the 305 potential participants, 82 consented (mean [SD] age 64.9 [9.3] years, 32 females [39%], 1.8 [1.2] years poststroke) and were randomized to HIIT (n=42, mean [SD] baseline V&#x307;Opeak 17.3 [5.9] mL/kg&#xb7;min) or MICT (n=40, mean [SD] baseline V&#x307;Opeak 17.2 [6.0] mL/kg&#xb7;min). Participants attended 82% of visits (n=2417/2952). No adverse events occurred during the study period. A significant group&#xd7;study time point interaction was found (&#x3c7;=8.46;=0.015) for V&#x307;Opeak at 12 weeks (mean difference, 1.81 [95% CI, 0.58-3.04];=0.004) whereby the HIIT group had greater gains in V&#x307;Opeak (&#x2206;3.52 mL/kg&#xb7;min [95% CI, 2.47-4.57];<0.001) compared with the MICT group (&#x2206;1.71 mL/kg&#xb7;min [95% CI, 0.55-2.86];=0.001). There was no between-group difference in V&#x307;Opeak (mean difference, 1.08 [95% CI, -0.26 to 2.42];=0.11) at 8-week follow-up. No group&#xd7;study time point interactions were found for cardiovascular risk factors or mobility outcomes. Short-interval HIIT may be an effective alternative to MICT for improving V&#x307;Opeak at 12 weeks postintervention. URL: https://clinicaltrials.gov; Unique identifier: NCT03614585.
+Insomnia is highly prevalent in patients with nonspecific chronic spinal pain (nCSP). Given the close interaction between insomnia and pain, targeting sleep problems during therapy could improve treatment outcomes. To evaluate the effectiveness of cognitive behavioral therapy for insomnia (CBTi) integrated in best-evidence pain management (BEPM) vs BEPM only in patients with nCSP and insomnia. A multicenter randomized clinical trial with 1-year follow-up was conducted between April 10, 2018, and April 30, 2022. Data and statistical analysis were performed between May 1, 2022, and April 24, 2023. Patients with nCSP and insomnia were evaluated using self-report and at-home polysomnography, to exclude underlying sleep pathologic factors. Participants were treated at the University Hospital Brussels or University Hospital Ghent, Belgium. Intention-to-treat analysis was performed. Participants were randomized to either CBTi-BEPM or BEPM only. Both groups received 18 treatment sessions over 14 weeks. The CBTi-BEPM treatment included 6 CBTi sessions and 12 BEPM sessions. The BEPM treatment included pain neuroscience education (3 sessions) and exercise therapy (9 sessions in the CBTi-BEPM group, 15 sessions in the BEPM-only group). The primary outcome was change in mean pain intensity (assessed with Brief Pain Inventory [BPI]) at 12 months after the intervention. Exploratory secondary outcomes included several pain- and sleep-related outcomes. Blinded outcome assessment took place at baseline, posttreatment, and at 3-, 6-, and 12-month follow-up. A total of 123 patients (mean [SD] age, 40.2 [11.18] years; 84 women [68.3%]) were included in the trial. In 99 participants (80.5%) with 12-month BPI data, the mean pain intensity at 12 months decreased by 1.976 points (reduction of 40%) in the CBTi-BEPM group and 1.006 points (reduction of 24%) points in the BEPM-only group. At 12 months, there was no significant difference in pain intensity change between groups (mean group difference, 0.970 points; 95% CI, -0.051 to 1.992; Cohen d, 2.665). Treatment with CBTi-BEPM resulted in a response for BPI average pain with a number needed to treat (NNT) of 4 observed during 12 months. On a preliminary basis, CBTi-BEPM was, consistently over time and analyses, more effective than BEPM only for improving insomnia severity (Cohen d, 4.319-8.961; NNT for response ranging from 2 to 4, and NNT for remission ranging from 5 to 12), sleep quality (Cohen d, 3.654-6.066), beliefs about sleep (Cohen d, 5.324-6.657), depressive symptoms (Cohen d, 2.935-3.361), and physical fatigue (Cohen d, 2.818-3.770). No serious adverse effects were reported. In this randomized clinical trial, adding CBTi to BEPM did not further improve pain intensity reduction for patients with nCSP and comorbid insomnia more than BEPM alone. Yet, as CBTi-BEPM led to significant and clinically important changes in insomnia severity and sleep quality, CBTi integrated in BEPM should be considered in the treatment of patients with nCSP and comorbid insomnia. Further research can investigate the patient characteristics that moderate the response to CBTi-BEPM in terms of pain-related outcomes, as understanding of these moderators may be of utmost clinical importance. Clinical Trials.gov Identifier: NCT03482856.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1161/STROKEAHA.124.046564
+- DOI: 10.1001/jamanetworkopen.2024.25856
 
 2. Keywords
-- cardiorespiratory fitness
-- exercise
-- high-intensity interval training
-- risk factors
-- stroke
+
 
 3. Key Findings
-- A significant group&#xd7;study time point interaction was found (&#x3c7;=8
-- No group&#xd7;study time point interactions were found for cardiovascular risk factors or mobility outcomes
+- Findings extraction requires manual review
 
 This study provides insights into:
-- cardiorespiratory fitness assessment methods and outcomes
-- exercise assessment methods and outcomes
-- high-intensity interval training assessment methods and outcomes
+- General research methodology and outcomes

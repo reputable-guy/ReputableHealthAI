@@ -1,25 +1,20 @@
-Study Title: The Impact of a Lifestyle Intervention on Cardiometabolic Risk Factors among Postpartum Hispanic Women with Overweight and Obesity in a Randomized Controlled Trial (Proyecto Mam&#xe1;).
+Study Title: Airway Stents for Excessive Central Airway Collapse: A Randomized Controlled Open-label Trial.
 
 Study Summary:
-Maternal overweight or obesity has been associated with metabolic syndrome through 1 year postpartum, but it remains unknown whether a culturally-modified, motivationally-targeted, and individually-tailored Lifestyle Intervention could improve postpartum cardiometabolic health among Hispanic women with overweight or obesity. Proyecto Mam&#xe1; was a randomized controlled trial conducted in Western Massachusetts from 2014 to 2020 in which Hispanic women with overweight/obesity were randomized to a Lifestyle Intervention (LI) involving diet and exercise or to a comparison Health and Wellness Intervention (HW). Biomarkers of cardiovascular risk (i.e., lipids, C-reactive protein) and insulin resistance (fasting insulin, glucose, HbA1c, homeostasis model assessment [HOMA-IR], leptin, adiponectin) were measured at baseline (early pregnancy), mid-pregnancy, and 6 weeks, 6 months, and 12 months postpartum. Generalized linear mixed effect models were used to evaluate differences in the change in biomarkers over the course of postpartum follow-up time. In intent-to-treat analyses among eligible women (LI; n=51, HW; n=58) there were no significant differences in changes in biomarkers of CVD risk or insulin resistance over the postpartum year; for example, the intervention effect for total cholesterol was 6.98 (SE: 6.36, p=0.27) and for HbA1c was -0.01 (SE: 0.4, p=0.85). In pooled analyses, regardless of intervention arm, women who participated in any vigorous activity had less of an increase in HbA1c (intervention effect = -0.17, SE: 0.05, p=0.002) compared to those with no vigorous activity, and similarly beneficial associations with other cardiovascular risk biomarkers (p<0.05). Women who participated in vigorous activity, regardless of their assigned intervention arm, had more favorable changes in biomarkers of insulin resistance.
+Short-term airway stent placement (stent evaluation) has been employed to evaluate whether patients with excessive central airway collapse (ECAC) will benefit from tracheobronchoplasty. Although retrospective studies have explored the impact of stent placement on ECAC, prospective randomized controlled trials are absent. This was a randomized open-label trial comparing patients receiving airway stent placement and standard medical treatment (intervention group) versus standard medical treatment alone (control group) for ECAC. At baseline, patients' respiratory symptoms, self-reported measures, and functional capabilities were assessed. Follow-up evaluations occurred 7 to 14 days postintervention, with an option for the control group to crossover to stent placement. Follow-up evaluations were repeated in the crossover patients. The study enrolled 17 patients in the control group [medical management (MM)] and 14 patients in the intervention group. At follow-up, 15 patients in the MM crossed over to the stent group, resulting in a total of 29 patients in the combined stent group (CSG). Subjectively (shortness of breath and cough), 45% of the CSG exhibited improvement with the intervention compared with just 12% in the MM. The modified St. George Respiratory Questionnaire score in the CSG improved significantly from 61.2 at baseline to 52.5 after stent placement (-8.7, P = 0.04). With intervention, the 6-minute walk test in CSG improved significantly from 364 meters to 398 meters (34&#x2009;m, P < 0.01). The MM did not show a significant change in the St. George Respiratory Questionnaire score or 6-minute walk test distance. Short-term airway stent placement in patients with ECAC significantly improves respiratory symptoms, quality of life, and exercise capacity.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10995-024-03978-4
+- DOI: 10.1097/LBR.0000000000000980
 
 2. Keywords
-- Cardiometabolic biomarkers
-- Exercise
-- High BMI
-- Pregnant
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Cardiometabolic biomarkers assessment methods and outcomes
-- Exercise assessment methods and outcomes
-- High BMI assessment methods and outcomes
+- General research methodology and outcomes

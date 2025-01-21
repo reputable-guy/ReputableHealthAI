@@ -1,29 +1,26 @@
-Study Title: Serum proteomic profiling of physical activity reveals CD300LG as a novel exerkine with a potential causal link to glucose homeostasis.
+Study Title: Short-Term Effects of Cold Therapy and Kinesio Taping on Pain Relief and Upper Extremity Functionality in Individuals with Rotator Cuff Tendonitis: A Randomized Study.
 
 Study Summary:
-Physical activity has been associated with preventing the development of type 2 diabetes and atherosclerotic cardiovascular disease. However, our understanding of the precise molecular mechanisms underlying these effects remains incomplete and good biomarkers to objectively assess physical activity are lacking. We analyzed 3072 serum proteins in 26 men, normal weight or overweight, undergoing 12 weeks of a combined strength and endurance exercise intervention. We estimated insulin sensitivity with hyperinsulinemic euglycemic clamp, maximum oxygen uptake, muscle strength, and used MRI/MRS to evaluate body composition and organ fat depots. Muscle and subcutaneous adipose tissue biopsies were used for mRNA sequencing. Additional association analyses were performed in samples from up to 47,747 individuals in the UK Biobank, as well as using two-sample Mendelian randomization and mice models. Following 12 weeks of exercise intervention, we observed significant changes in 283 serum proteins. Notably, 66 of these proteins were elevated in overweight men and positively associated with liver fat before the exercise regimen, but were normalized after exercise. Furthermore, for 19.7 and 12.1% of the exercise-responsive proteins, corresponding changes in mRNA expression levels in muscle and fat, respectively, were shown. The protein CD300LG displayed consistent alterations in blood, muscle, and fat. Serum CD300LG exhibited positive associations with insulin sensitivity, and to angiogenesis-related gene expression in both muscle and fat. Furthermore, serum CD300LG was positively associated with physical activity and negatively associated with glucose levels in the UK Biobank. In this sample, the association between serum CD300LG and physical activity was significantly stronger in men than in women. Mendelian randomization analysis suggested potential causal relationships between levels of serum CD300LG and fasting glucose, 2 hr glucose after an oral glucose tolerance test, and HbA1c. Additionally, Cd300lg responded to exercise in a mouse model, and we observed signs of impaired glucose tolerance in male, but not female,knockout mice. Our study identified several novel proteins in serum whose levels change in response to prolonged exercise and were significantly associated with body composition, liver fat, and glucose homeostasis. Serum CD300LG increased with physical activity and is a potential causal link to improved glucose levels. CD300LG may be a promising exercise biomarker and a therapeutic target in type 2 diabetes. South-Eastern Norway Regional Health Authority, Simon Fougners Fund, Diabetesforbundet, Johan Selmer Kvanes' legat til forskning og bekjempelse av sukkersyke. The UK Biobank resource reference 53641. Australian National Health and Medical Research Council Investigator Grant (APP2017942). Australian Research Council Discovery Early Career Award (DE220101226). Research Council of Norway (Project grant: 325640 and Mobility grant: 287198). The Medical Student Research Program at the University of Oslo. Novo Nordisk Fonden Excellence Emerging Grant in Endocrinology and Metabolism 2023 (NNF23OC0082123). clinicaltrials.gov: NCT01803568.
+: Rotator cuff tendonitis (RCT) is one of the most common shoulder pathologies. It causes pain, limits shoulder joint movements, and impairs function. Despite various treatment methods, there are currently no specific guidelines regarding the most effective intervention for RCT. To the best of our knowledge, no studies have compared the effects of Kinesio taping (KT) and cold therapy (CT) on individuals with RCT. To this end, this study aimed to investigate and compare the short-term effects of KT and CT on pain relief and upper extremity functionality in individuals with RCT.: One hundred and fourteen individuals were assessed for eligibility. Fifty-two individuals with RCT who met the inclusion criteria and agreed to participate were randomly allocated into either the KT or the CT group. A standardized home exercise program was given to all the participants. Their pain intensity, upper extremity function, shoulder range of motion (ROM), and grip strength were evaluated initially and after the three days of KT or CT applications.: All the assessment values significantly improved in the KT group. In the CT group, only the pain scores (except for the numerical rating scale (NRS) pain score during activity) were significantly improved in the CT group at the end of the third day of application compared to the initial values (< 0.05). For all the measurement outcomes, the effects of time&#x2009;&#xd7;&#x2009;group interactions were statistically significant (< 0.05) in favor of the KT group, except for the resting pain (= 0.688).: The findings suggest that KT and CT could be used as adjunctive modalities to exercise for resting and night pain relief in patients with RCT. KT also had positive effects on the activity pain, function, ROM, and grip strength. The use of KT along with an exercise program could be a more effective therapeutic choice than the use of CT for improving night pain, activity pain, and upper extremity function during the short-term rehabilitation of RCT patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7554/eLife.96535
+- DOI: 10.3390/medicina60081188
 
 2. Keywords
-- Mendelian randomization
-- Olink
-- diabetes
-- exercise
-- human
-- insulin resistance
-- medicine
-- proteomics
+- Kinesio taping
+- cold
+- function
+- pain
+- rotator cuff tendonitis
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Mendelian randomization assessment methods and outcomes
-- Olink assessment methods and outcomes
-- diabetes assessment methods and outcomes
+- Kinesio taping assessment methods and outcomes
+- cold assessment methods and outcomes
+- function assessment methods and outcomes

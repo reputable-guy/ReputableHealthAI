@@ -1,27 +1,26 @@
-Study Title: Discontinuation of medication treatment for opioid use disorder after a successful course: The discontinuation phase of the CTN-0100 (RDD) trial.
+Study Title: Rapid Intravenous Glyceryl Trinitrate in Ischemic Damage (RIGID): A potential neuroprotection strategy for acute ischemic stroke (AIS) patients.
 
 Study Summary:
-Buprenorphine, and extended-release naltrexone, are effective in decreasing opioid use, morbidity and mortality. The available evidence suggests that these medications should be used for long term treatment; however, patients often ask how long they need to be on medication, and whether it would be safe to discontinue. There are sparse data to guide us. The CTN-0100 trial will address this gap in our knowledge by studying participants who have decided to discontinue buprenorphine and extended-release naltrexone for OUD. The trial is a multicenter, randomized, non-blinded study. Participants are stable adult volunteers, on sublingual buprenorphine, extended-release buprenorphine, or extended-release naltrexone, expressing an interest in discontinuing medication. Participants on buprenorphine must be stable for at least 1&#xa0;year and participants on extended-release naltrexone must be stable for at least 6&#xa0;months. Participants are engaged in the study for up to 96&#xa0;weeks, including a flexible taper period, and are then transitioned to follow-up within the trial. All participants are randomly assigned to the study Medical Management (MM) or to MM plus Connections (CHESS health) digital smartphone application aimed at recovery and abstinence (MMD). Sublingual Buprenorphine participants are also randomized (2&#xa0;&#xd7;&#xa0;2 design) to a taper using either sublingual or extended-release buprenorphine. It is hoped that this trial will provide a rich source of data on management of patients discontinuing medication for opioid use disorder (MOUD) to inform future research and practice. The trial will shed light on which strategies are most likely to lead to long-term success (absence of relapse), and what participant characteristics distinguish those who can safely discontinue MOUD from those who remain at risk of relapse should they discontinue. gov Identifier: NCT04464980.
+Despite advances in intravenous thrombolysis and endovascular thrombectomy, numerous acute ischemic stroke survivors continue to experience various disability levels. The nitric oxide (NO) donor, Glyceryl Trinitrate (GTN), has been identified as a potential neuroprotective agent against ischemic damage. We evaluated the safety and feasibility of intravenous GTN in AIS patients. Subsequently, we conducted a secondary analysis to assess for possible efficacy of GTN as a neuroprotectant. We conducted a prospective, double-blind, randomized controlled trial in the Stroke Intervention & Translational Center (SITC) in Beijing Luhe Hospital, Capital Medical University (ChiCTR2100046271). AIS patients within 24&#xa0;h of stroke onset were evenly divided into GTN or control groups (n&#xa0;=&#xa0;20 each). The GTN group received intravenous GTN (5&#xa0;mg in 50&#xa0;ml saline at a rate of 0.4&#xa0;mg/h for 12.5&#xa0;h/day over 2 days), while controls were administered an equivalent volume of 0.9% saline. Both groups followed standard Stroke Guidelines for treatment. Safety measures focused on SBP<110&#xa0;mmHg and headache occurrence. Efficacy was assessed via the 90-day modified rankin score (mRS) and the national institutes of health stroke score (NIHSS). Of the 40 AIS patients, baseline characteristics such as age, gender, risk factors, and pre-mRS scores showed no significant difference between the groups. Safety measures of SBP<110&#xa0;mmHg and headache occurrence were comparable. Overall, 90-day mRS (1 vs. 1) and NIHSS (1 vs. 1) did not significantly differ between groups. However, the GTN-treated group had a benefit in enhancing NIHSS recovery (&#x25b3;NIHSS 4.5 vs. 3, p&#xa0;=&#xa0;0.028), indicating that GTN may augment recovery. Subgroup analyses revealed a benefit in the GTN group at the 90-day NIHSS score and &#x25b3;NIHSS follow up for non-thrombolysis patients (1 vs. 2, p&#xa0;=&#xa0;0.016; 5 vs. 2, p&#xa0;=&#xa0;0.001). Moreover, the GTN group may benefit mild stroke patients in NIHSS score at 90 day and &#x25b3;NIHSS observed at 90 days (1 vs. 1, p&#xa0;=&#xa0;0.025; 3 vs. 2 p&#xa0;=&#xa0;0.002). Overall, while preliminary data suggest GTN might aid recovery in NIHSS improvement, the evidence is tempered due to sample size limitations. The RIGID study confirms the safety and feasibility of intravenous GTN administration for AIS patients. Preliminary data also suggest that the GTN group may provide improvement in NIHSS recovery compared to the control group. Furthermore, a potential benefit for non-thrombolysis patients and those with mild stroke symptoms was identified, suggesting a possible potential role as a tailored intervention in specific AIS subgroups. Due to the limited sample size, further larger RCT will be necessary to replicate these results. TRIAL REGISTRATION: www.chictr.org.cn, identifier: ChiCTR2100046271.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.cct.2024.107543
+- DOI: 10.1016/j.neurot.2024.e00365
 
 2. Keywords
-- Automated psychosocial intervention
-- Buprenorphine
-- Naltrexone
-- Opioid use disorder
-- Opioids
-- Treatment
+- Intravenous thrombolysis
+- Neuroprotection
+- Nitric oxide
+- Randomized controlled trial
 
 3. Key Findings
-- Findings extraction requires manual review
+- Of the 40 AIS patients, baseline characteristics such as age, gender, risk factors, and pre-mRS scores showed no significant difference between the groups
+- Subgroup analyses revealed a benefit in the GTN group at the 90-day NIHSS score and &#x25b3;NIHSS follow up for non-thrombolysis patients (1 vs
 
 This study provides insights into:
-- Automated psychosocial intervention assessment methods and outcomes
-- Buprenorphine assessment methods and outcomes
-- Naltrexone assessment methods and outcomes
+- Intravenous thrombolysis assessment methods and outcomes
+- Neuroprotection assessment methods and outcomes
+- Nitric oxide assessment methods and outcomes

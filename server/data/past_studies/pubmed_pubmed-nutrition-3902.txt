@@ -1,27 +1,25 @@
-Study Title: Expanding school wellness policies to encompass the Whole School, Whole Community, Whole Child model.
+Study Title: Identifying women who may benefit from higher dose omega-3 supplementation during pregnancy to reduce their risk of prematurity: exploratory analyses from the ORIP trial.
 
 Study Summary:
-Schools influence children's developmental outcomes across multiple domains, including academic, social, emotional, behavioral, and physical. School district wellness policies are powerful mechanisms that set clear expectations for health-related practices in school buildings and the surrounding community. A current challenge is that many health-related school policies are narrow, siloed, and reactive instead of proactive. In this paper, we: (a) describe how written food, nutrition, and physical activity district and state policies were strengthened in the United States in response to specific concerns about childhood obesity; (b) present how schools have historically addressed policies concerning children's social, emotional, and behavioral health; and (c) propose using the Whole School, Whole Community, Whole Child (WSCC) model to strengthen the coordination and integration of school wellness policies. We conclude by describing recently developed tools to assist school districts in implementing the WSCC model. The Wellness School Assessment Tool (WellSAT) WSCC is a quantitative measure that districts can use to code their current written policies for alignment with the WSCC model. The WSCC Policy and Practice Blueprints are action planning tools that lead school and district leaders through a series of activities to strengthen the implementation of coordinated and integrated policies and practices. By using the WSCC model and accompanying implementation tools, schools can support the development of the whole child.
+The risk factors for prematurity are multifactorial and include low omega-3 status. Omega-3 supplementation in pregnancy has been found to reduce prematurity risk, particularly among women with low omega-3 levels. This study aimed to identify maternal characteristics that predict whether women with a singleton pregnancy will benefit from omega-3 supplementation to reduce their risk of prematurity. Exploratory analyses of a multicentre, double-blind randomised trial. 6 tertiary care centres in four states in Australia. 5328 singleton pregnancies in 5305 women recruited before 20 weeks of gestation. Fish oil capsules containing 900 mg omega-3 long-chain polyunsaturated fatty acids per day versus vegetable oil capsules consumed from enrolment until 34 weeks' gestation. Early preterm birth (EPTB, <34 weeks' gestation) and preterm birth (PTB, <37 weeks' gestation) analysed using logistic regression models with interactions between treatment group and a range of maternal biological, clinical and demographic characteristics. Omega-3 supplementation reduced the odds of EPTB for women with low total omega-3 status in early pregnancy (OR=0.30, 95% CI 0.10-0.93). No additional maternal characteristics influenced whether omega-3 supplementation reduced the odds of EPTB. For PTB, women were more likely to benefit from omega-3 supplementation if they were multiparous (OR=0.65, 95% CI 0.49-0.87) or avoided alcohol in the lead up to pregnancy (OR=0.62, 95% CI 0.45-0.86). Our results support previous findings that women with low total omega-3 levels in early pregnancy are most likely to benefit from taking omega-3 supplements to reduce their risk of EPTB. Understanding how other maternal characteristics influence the effectiveness of omega-3 supplementation on reducing PTB requires further investigation. ACTRN12613001142729.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3389/fpubh.2023.1143474
+- DOI: 10.1136/bmjopen-2022-070220
 
 2. Keywords
-- WSCC model
-- behavioral health
-- nutrition
-- physical activity
-- school health
-- wellness policies
+- NEONATOLOGY
+- NUTRITION & DIETETICS
+- OBSTETRICS
+- PUBLIC HEALTH
 
 3. Key Findings
-- Findings extraction requires manual review
+- Omega-3 supplementation in pregnancy has been found to reduce prematurity risk, particularly among women with low omega-3 levels
 
 This study provides insights into:
-- WSCC model assessment methods and outcomes
-- behavioral health assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- NEONATOLOGY assessment methods and outcomes
+- NUTRITION & DIETETICS assessment methods and outcomes
+- OBSTETRICS assessment methods and outcomes

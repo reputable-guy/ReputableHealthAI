@@ -1,25 +1,26 @@
-Study Title: The effect of a 4-week, remotely administered, post-exercise passive leg heating intervention on determinants of endurance performance.
+Study Title: Effects of Rehabilitative Exercise and Neuromuscular Electrical Stimulation on Muscle Morphology and Dynamic Balance in Individuals with Chronic Ankle Instability.
 
 Study Summary:
-Post-exercise passive heating has been reported to augment adaptations associated with endurance training. The current study evaluated the effect of a 4-week remotely administered, post-exercise passive leg heating protocol, using an electrically heated layering ensemble, on determinants of endurance performance. Thirty recreationally trained participants were randomly allocated to either a post-exercise passive leg heating (PAH, n&#x2009;=&#x2009;16) or unsupervised training only control group (CON, n&#x2009;=&#x2009;14). The PAH group wore the passive heating ensemble for 90-120&#xa0;min/day, completing a total of 20 (16 post-exercise and 4 stand-alone leg heating) sessions across 4&#xa0;weeks. Whole-body (peak oxygen uptake, gas exchange threshold, gross efficiency and pulmonary oxygen uptake kinetics), single-leg exercise (critical torque and NIRS-derived muscle oxygenation), resting vascular characteristics (flow-mediated dilation) and angiogenic blood measures (nitrate, vascular endothelial growth factor and hypoxia inducible factor 1-&#x3b1;) were recorded to characterize the endurance phenotype. All measures were assessed before (PRE), at 2&#xa0;weeks (MID) and after (POST) the intervention. There was no effect of the intervention on test of whole-body endurance capacity, vascular function or blood markers (p&#x2009;>&#x2009;0.05). However, oxygen kinetics were adversely affected by PAH, denoted by a slowing of the phase II time constant; &#x3c4; (p&#x2009;=&#x2009;0.02). Furthermore, critical torque-deoxygenation ratio was improved in CON relative to PAH (p&#x2009;=&#x2009;0.03). We have demonstrated that PAH had no ergogenic benefit but instead elicited some unfavourable effects on sub-maximal exercise characteristics in recreationally trained individuals.
+Muscle atrophy caused by chronic ankle instability (CAI) can incur muscle weakness, altered movement patterns, and increased risk of injury. Previous studies have investigated the effects of rehabilitative exercises and neuromuscular electrical stimulation (NMES) on characteristics in CAI individuals, but few studies have examined their effects on foot and ankle muscle morphology. This study aimed to determine the effects of rehabilitative exercises and NMES on muscle morphology and dynamic balance in individuals with CAI.Participants with CAI (= 47) were randomly divided into control (CG), rehabilitative exercise (REG), NMES (NG), and rehabilitative exercise and NMES combined (RNG) groups. The six-week intervention program consisting of rehabilitative exercises and NMES was applied to groups excluding CG. Muscle morphology and dynamic balance were evaluated using a portable wireless diagnostic ultrasound device and dynamic balance tests. For statistical analysis, an effect size with 95% confidence interval was calculated to assess mean differences according to intervention.After six weeks, significant increases in morphology and dynamic balance were observed for all muscles except flexor hallucis longus (> 0.05) in the intervention groups except for CG. However, no significant changes were observed in the CG (> 0.05).These findings suggest that intervention programs may help prevent muscle atrophy and improve balance in CAI individuals.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00421-024-05558-4
+- DOI: 10.3390/medicina60071187
 
 2. Keywords
-- Endurance performance
-- Passive leg heating
-- Post-exercise
-- Temperate
+- chronic ankle instability
+- dynamic balance
+- muscle morphology
+- neuromuscular electrical stimulation
+- rehabilitative exercise
 
 3. Key Findings
-- We have demonstrated that PAH had no ergogenic benefit but instead elicited some unfavourable effects on sub-maximal exercise characteristics in recreationally trained individuals
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Endurance performance assessment methods and outcomes
-- Passive leg heating assessment methods and outcomes
-- Post-exercise assessment methods and outcomes
+- chronic ankle instability assessment methods and outcomes
+- dynamic balance assessment methods and outcomes
+- muscle morphology assessment methods and outcomes

@@ -1,25 +1,21 @@
-Study Title: Single Leg Hop Performance After Anterior Cruciate Ligament Reconstruction: Ready for Landing but Cleared for Take-Off?
+Study Title: Evaluating the Impact of Post-Esophagectomy Exercise on 2- and 5-Yr Survival: Findings from the PERFECT Trial.
 
 Study Summary:
-Understanding former professional football players engagement with health promoting behaviors (physical exercise, high quality diet, and good sleep hygiene) will be helpful for developing lifestyle interventions to improve their feelings of well-being, a relatively understudied facet of health among this population. Examine associations among health-promoting behaviors and subjective outcomes related to well-being among former National Football League (NFL) players. Cross-sectional. Online or hard-copy survey. Former NFL players. Self-reported health-promoting behaviors (exercise frequency, diet quality, sleep duration and disturbance) and factors related to well-being (PROMIS &#xae; Meaning and Purpose [MP], Self-Efficacy [SE], Ability to Participate in Social Roles and Activities [SRA]). Multivariable linear regression models were fit for each well-being-related factor with health-promoting behaviors as explanatory variables alongside select demographic, behavioral, and functional covariates. Models were fit for the full sample and separately for individual age groups: <30 years; 30-39 years; 40-49 years; 50-59 years; 60-69 years; and 70+ years. A total of 1,784 former NFL players (aged 52.3&#xb1;16.3 years) completed the survey. Lower sleep disturbance was associated with better MP (&#x3b2;[standard error]=-0.196[0.024]), SE (&#x3b2;[standard error]=-0.185[0.024]), and SRA (&#x3b2;[standard error]=-0.137[0.017]) in the full sample and almost all the individual age groups. More frequent moderate-to-vigorous exercise was associated with higher MP (&#x3b2;[standard error]=0.068[0.025]) and SRA (&#x3b2;[standard error]=0.151[0.065]) in the full sample, and with better MP, SE, and SRA among select middle-aged groups (between 40-69 years old). Diet quality, resistance training exercise frequency, other wellness activity frequency, and sleep duration were not associated with well-being-related factors in the full-group and sparse significant associations were observed in individual age group models. Lower sleep disturbance and more frequent moderate-to-vigorous exercise frequency may be important targets for improving overall health and well-being among former NFL players.
+Despite recent treatment advances, esophageal cancer still has poor survival and a high morbidity. Exploratory evidence suggests that exercise can reduce cancer-related mortality and recurrence rates. Here, we investigated the effects of an exercise intervention in the first year after esophagectomy on survival in participants of the Physical ExeRcise Following Esophageal Cancer Treatment (PERFECT) trial. In the PERFECT trial, esophageal cancer patients who had undergone esophagectomy were randomized to a 12-wk exercise program (EX) or the control group (CG). We assessed 2- and 5-yr (progression-free) survival. (Un)adjusted Cox proportional-hazards models were used to calculate hazard ratios (HRs) for comparison between the trial arms. Sensitivity analyses, excluding patients with events within the exercise intervention period, were performed. In total, 120 participants (EX = 61; CG = 59) were included in the PERFECT trial. After 2-yr follow-up, no significant difference in the risk of death or progression between EX and CG was found (adjusted HR = 1.65 (95% confidence interval (CI), 0.75-3.63) and 1.38 (95% CI, 0.76-2.50), respectively). After excluding patients with events during the intervention period (EX = 8; CG = 4), 2-yr HRs for death (1.03; 95% CI, 0.41-2.56) and progression (1.26; 95% CI, 0.64-2.48) both decreased and remained insignificant. No significant effects were found on 5-yr mortality (1.03; 95% CI, 0.57-1.84) and progression (1.21; 95% CI, 0.72-2.04) either. Sensitivity analysis resulted in attenuated 5-yr HRs for mortality (0.82; 95% CI, 0.42-1.58) and progression (1.08; 95% CI, 0.61-1.92). The results indicate no benefit of a 12-wk exercise program in the first year post-esophagectomy on 2- and 5-yr (progression-free) survival in esophageal cancer patients. The absence of beneficial effects may be explained by the relatively short exercise program, which was performed after treatment completion.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.4085/1062-6050-0537.23
+- Publication Date: 2025
+- DOI: 10.1249/MSS.0000000000003559
 
 2. Keywords
-- Physical activity
-- diet quality
-- health-related quality of life
-- sleep hygiene
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- After 2-yr follow-up, no significant difference in the risk of death or progression between EX and CG was found (adjusted HR = 1
+- No significant effects were found on 5-yr mortality (1
 
 This study provides insights into:
-- Physical activity assessment methods and outcomes
-- diet quality assessment methods and outcomes
-- health-related quality of life assessment methods and outcomes
+- General research methodology and outcomes

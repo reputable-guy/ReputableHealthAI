@@ -1,20 +1,28 @@
-Study Title: Randomized Trial of Exercise and Nutrition on Chemotherapy Completion and Pathologic Complete Response in Women With Breast Cancer: The Lifestyle, Exercise, and Nutrition Early After Diagnosis Study.
+Study Title: Validation of Total Water Intake from the Automated Self-Administered 24-h Recall, 4-d Food Records, and a Food Frequency Questionnaire Using Doubly Labeled Water.
 
 Study Summary:
-Successful completion of chemotherapy is critical to improve breast cancer outcomes. Relative dose intensity (RDI), defined as the ratio of chemotherapy delivered to prescribed, is a measure of chemotherapy completion and is associated with cancer mortality. The effect of exercise and eating a healthy diet on RDI is unknown. We conducted a randomized trial of an exercise and nutrition intervention on RDI and pathologic complete response (pCR) in women diagnosed with breast cancer initiating chemotherapy. One hundred seventy-three women with stage I-III breast cancer were randomly assigned to usual care (UC; n = 86) or a home-based exercise and nutrition intervention with counseling sessions delivered by oncology-certified registered dietitians (n = 87). Chemotherapy dose adjustments and delays and pCR were abstracted from electronic medical records. T-tests and chi-square tests were used to examine the effect of the intervention versus UC on RDI and pCR. Participants randomly assigned to intervention had greater improvements in exercise and diet quality compared with UC (< .05). RDI was 92.9% &#xb1; 12.1% and 93.6% &#xb1; 11.1% for intervention and UC, respectively (= .69); the proportion of patients in the intervention versus UC who achieved &#x2265;85% RDI was 81% and 85%, respectively (= .44). The proportion of patients who had at least one dose reduction and/or delay was 38% intervention and 36% UC (= .80). Among 72 women who received neoadjuvant chemotherapy, women randomly assigned to intervention were more likely to have a pCR than those randomly assigned to UC (53%28%;= .037). Although a diet and exercise intervention did not affect RDI, the intervention was associated with a higher pCR in patients with hormone receptor-positive/human epidermal growth factor receptor 2-negative and triple-negative breast cancer undergoing neoadjuvant chemotherapy.
+Although prior evidence indicates that water intake is important for health, the ability to accurately measure community-dwelling intake is limited. Only a few studies have evaluated self-reported water intake against an objective recovery biomarker. The aim was to compare preformed water intakes (all sources including food) by multiple Automated Self-Administered 24-h recalls (ASA24s), food frequency questionnaires (FFQs), and 4-d food records (4DFRs) against a recovery biomarker, doubly labeled water (DLW), to assess measurement error. Over 1 y, 1082 women and men (50%), aged 50 to 74 y, were asked to complete 6 ASA24s, 2 FFQs, 2 unweighted 4DFRs, and an administration of DLW (n = 686). Geometric means of water intake by self-report tools were compared with DLW. Attenuation factors and correlation coefficients between self-reported and the recovery biomarker (DLW) were estimated. Mean water intakes by DLW were 2777 mL/d (interquartile range, 2350 to 3331) in women and 3243 mL/d (interquartile range, 2720 to 3838) in men. Compared with DLW, water intake was underestimated by 18% to 31% on ASA24s and 43% to 44% on 4DFRs. Estimated geometric means from FFQs differed from DLW by -1% to +13%. For a single ASA24, FFQ, and 4DFR, attenuation factors were 0.28, 0.27, and 0.32 and correlation coefficients were 0.46, 0.48, and 0.49, respectively. Repeated use of 6 ASA24s, 2 FFQs, and 2 4DFRs improved attenuation factors to 0.43, 0.32, and 0.39 and correlation coefficients to 0.58, 0.53, and 0.54, respectively. FFQs may better estimate population means for usual water intake compared with ASA24 and 4DFR. Similar attenuation factors and correlation coefficients across all self-report tools indicate that researchers have 3 feasible options if the goal is understanding intake-disease relationships. The findings are useful for planning future nutrition studies that set policy priorities for populations and to understand the health impact of water. This trial was registered at clinicaltrials.gov as NCT03268577.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1200/JCO.23.00871
+- DOI: 10.1016/j.tjnut.2023.08.027
 
 2. Keywords
-
+- 24-h recall
+- 4-d food record
+- dietary assessment
+- food frequency questionnaire
+- hydration
+- recovery biomarker
+- validation
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- 24-h recall assessment methods and outcomes
+- 4-d food record assessment methods and outcomes
+- dietary assessment assessment methods and outcomes

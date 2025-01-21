@@ -1,29 +1,26 @@
-Study Title: Post-Stroke Impairments of Manual Dexterity and Finger Proprioception: Their Contribution to Upper Limb Activity Capacity.
+Study Title: Cognitive Training to Reduce Memory Disturbance Associated With Postoperative Cognitive Impairment After Elective Noncardiac Surgery: An Experimental Study.
 
 Study Summary:
-Knowing how impaired manual dexterity and finger proprioception affect upper limb activity capacity is important for delineating targeted post-stroke interventions for upper limb recovery. To investigate whether impaired manual dexterity and finger proprioception explain variance in post-stroke activity capacity, and whether they explain more variance than conventional clinical assessments of upper limb sensorimotor impairments. Activity capacity and hand sensorimotor impairments were assessed using clinical measures in N&#x2009;=&#x2009;42 late subacute/chronic hemiparetic stroke patients. Dexterity was evaluated using the Dextrain Manipulandum to quantify accuracy of visuomotor finger force-tracking (N&#x2009;=&#x2009;36), timing of rhythmic tapping (N&#x2009;=&#x2009;36), and finger individuation (N&#x2009;=&#x2009;24), as well as proprioception (N&#x2009;=&#x2009;27). Stepwise multivariate and hierarchical linear regression models were used to identify impairments best explaining activity capacity. Dexterity and proprioceptive components significantly increased the variance explained in activity capacity: (i) Box and Block Test was best explained by baseline tonic force during force-tracking and tapping frequency (adjusted&#x2009;=&#x2009;.51); (ii) Motor Activity Log was best explained by success rate in finger individuation (adjusted&#x2009;=&#x2009;.46); (iii) Action Research Arm Test was best explained by release of finger force and proprioceptive measures (improved reaction time related to use of proprioception; adjusted&#x2009;=&#x2009;.52); and (iv) Moberg Pick-Up test was best explained by proprioceptive function (adjusted&#x2009;=&#x2009;.18). Models excluding dexterity and proprioception variables explained up to 19% less variance. Manual dexterity and finger proprioception explain unique variance in activity capacity not captured by conventional impairment measures and should be assessed when considering the underlying causes of post-stroke activity capacity limitations.URL: https://www.clinicaltrials.gov. Unique identifier: NCT03934073.
+Assess the efficiency of a cognitive training program using an artificial intelligence application to optimize cognitive reserve and reduce memory disturbance in patients aged 55 to 75 after Class II-III elective noncardiac surgery. Experimental with random assignment. The study was conducted on 80 patients undergoing surgery at the Teknon Medical Center Hospital in Barcelona, from April 2018 to June 2021. Both groups were evaluated with cognitive tests before surgery and 7 and 30 days after surgery. The experimental group was subjected to cognitive training for 10 days before surgery to improve their cognitive reserve. Significant differences were found between the study groups 30 days after surgery in the three screening tests (Mini-Cog, T@M, and MFE). The intervention group presented with fewer cognitive and memory alterations. Age and pre-existing comorbidities were not correlated with an impact on memory impairment or cognitive function. A cognitive training program based on artificial intelligence, prescribed and monitored by anesthesia nurses has a positive impact on increasing cognitive reserve and reducing memory disturbance in patients aged 55 to 75 undergoing Class II to III elective, noncardiac surgery. This intervention may serve as a prehabilitation strategy in patients with a risk of cognitive dysfunction evaluated by anesthesia nurses for the purpose of preserving their cognitive function and optimizing their recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/15459683241245416
+- DOI: 10.1016/j.jopan.2023.10.016
 
 2. Keywords
-- activity capacity
-- finger individuation
-- finger tapping
-- force
-- manual dexterity
-- neurorehabilitation
-- stroke
-- upper limb
+- anesthesia nurse
+- cognitive impairment
+- cognitive training
+- memory disturbance
+- postoperative cognitive dysfunction
 
 3. Key Findings
-- Findings extraction requires manual review
+- Significant differences were found between the study groups 30 days after surgery in the three screening tests (Mini-Cog, T@M, and MFE)
 
 This study provides insights into:
-- activity capacity assessment methods and outcomes
-- finger individuation assessment methods and outcomes
-- finger tapping assessment methods and outcomes
+- anesthesia nurse assessment methods and outcomes
+- cognitive impairment assessment methods and outcomes
+- cognitive training assessment methods and outcomes

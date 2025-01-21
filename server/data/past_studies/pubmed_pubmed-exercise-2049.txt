@@ -1,26 +1,28 @@
-Study Title: Variability in resistance training trajectories of breast cancer patients undergoing therapy.
+Study Title: Sex differences in the acute effect of caffeine on repeated sprint performance: A randomized controlled trial.
 
 Study Summary:
-In resistance training (RT), the change in volume-load from training sessions (TS) to TS is an indicator of training progress. Resulting growth trajectories are likely to differ between individuals. Understanding this variation is important for exercise planning in general, but even more for clinical populations. We investigated this variation in breast cancer patients undergoing treatment. Data of 69 patients from two randomized controlled trails were investigated. They conducted a 12-week RT program. We fitted a quadratic Bayesian regression model to the baseline standardized volume-load over the course of the intervention. We allowed all parameters to vary both between exercises and between individuals. We observed a positive linear component of 0.093 (95% uncertainty interval (UI) 0.058 to 0.120) and a negative quadratic component of&#x2009;-&#x2009;0.002 (95% UI -0.008 to 0.001) for the mean trajectory of the change in volume-load. For the different exercises, we observed a dispersion for both the linear (0.043, 95% UI 0.018 to 0.082) and the quadratic component (0.002, 95% UI&#x2009;<&#x2009;0.001 to 0.004). Variation between individual appears to be approximately four times larger. We also observed between-exercise variation within individuals. Extrapolation of the regression model indicates training progression stagnates after 20.6 TS (95% UI 14.8 to 44.4). There is substantial variation in RT response between breast cancer patients undergoing tumor therapy and in-between exercises. The non-linear trajectory indicates that training progression will eventually plateau, demanding periodization and timely modification. BEATE Study: NCT01106820, Date: April 20, 2010; BEST Study: NCT01468766, Date: November 9, 2011.
+This study aimed to examine sex differences in acute caffeine intake on repeated sprint performance. Fifty-two resistance-trained individuals (age: 24.6&#xa0;&#xb1;&#xa0;4.5&#xa0;years and sex (female/male): 26/26) participated in a randomized, triple-blind, cross-over, and placebo-controlled study. Participants ingested 3&#xa0;mg/kg caffeine or placebo and, after 60&#xa0;min, performed 4 Wingate tests (Wt), consisting of a 30 s all-out lower-body sprint against an individualized resisted load, with 90&#xa0;s rest periods between sprints. Mean (W) and peak (W) power showed an interaction between sprint and supplement (P&#xa0;=&#xa0;0.038, &#x3b7;&#xa0;=&#xa0;0.095 and P&#xa0;<&#xa0;0.001, &#x3b7;&#xa0;=&#xa0;0.157, respectively), but only Wreported a supplement and sex interaction (P&#xa0;=&#xa0;0.049 and &#x3b7;&#xa0;=&#xa0;0.166). Caffeine increased Win Wt3 (3.5%, P&#xa0;=&#xa0;0.004, and g&#xa0;=&#xa0;1.059) and Wt4 (3.9%, P&#xa0;=&#xa0;0.012, and g&#xa0;=&#xa0;1.091) compared to placebo. Whereas, for W, caffeine increased Win the Wt1 (2.9%, P&#xa0;=&#xa0;0.050 and g&#xa0;=&#xa0;1.01) and Wt2 (3.2%, P&#xa0;=&#xa0;0.050, and g&#xa0;=&#xa0;1.01) in males and in Wt3 (5.2%, P&#xa0;=&#xa0;0.008, and g&#xa0;=&#xa0;1.79) and Wt4 (8.1%, P&#xa0;=&#xa0;0.004, and g&#xa0;=&#xa0;2.27) in female participants compared to placebo. No statistically significant sex differences were found in time to reach W, fatigue index. Acute caffeine intake stimulated a similar ergogenic effect on repeated sprint performance in men and women, except in peak power output, where caffeine increased performance during the first sprints in males and the last sprints in female participants.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00520-024-09001-4
+- DOI: 10.1002/ejsc.12233
 
 2. Keywords
-- Adjuvant tumor treatment
-- Bayesian statistics
-- Exercise oncology
-- Hierarchical model
-- Response variability
+- caffeine
+- ergogenic substances
+- high&#x2010;intensity exercise
+- sex&#x2010;specific response
+- sports nutrition
+- sports performance
 
 3. Key Findings
-- Findings extraction requires manual review
+- Mean (W) and peak (W) power showed an interaction between sprint and supplement (P&#xa0;=&#xa0;0
+- No statistically significant sex differences were found in time to reach W, fatigue index
 
 This study provides insights into:
-- Adjuvant tumor treatment assessment methods and outcomes
-- Bayesian statistics assessment methods and outcomes
-- Exercise oncology assessment methods and outcomes
+- caffeine assessment methods and outcomes
+- ergogenic substances assessment methods and outcomes
+- high&#x2010;intensity exercise assessment methods and outcomes

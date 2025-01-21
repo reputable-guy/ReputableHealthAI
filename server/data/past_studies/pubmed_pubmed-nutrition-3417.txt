@@ -1,25 +1,29 @@
-Study Title: Evaluation of a Sparkling Water Promotion Intervention on Sales at Convenience Stores in the Southeastern US.
+Study Title: Improving lifestyle behaviors during chemotherapy for breast cancer: The Lifestyle, Exercise, and Nutrition Early After Diagnosis (LEANer) Trial.
 
 Study Summary:
-This study investigated the feasibility of in-store signage promoting sparkling water and the impact of this signage on sparkling water sales in convenience stores. We conducted a randomized control trial. Convenience stores in North Carolina. Twenty-four convenience stores in neighborhoods with a higher proportion of Supplemental Nutrition Assistance Program-eligible households. The 24 eligible stores were randomized to receive the in-store signage promoting sparkling water or to the control condition of no change. One poster was hung on the beverage cooler doors in front of the sparkling water selections at each of the 12 participating stores. Weekly sales data and fidelity checks were collected. The primary outcome measure was sales of total water, and the subanalysis was sales of sparkling water. T tests were conducted to assess changes in total water and sparkling water sales between intervention and control stores. In-store signage did not significantly increase sales of sparkling water, or all water, during the intervention. Signage alone may not be enough to impact healthy beverage purchasing, and signage should be paired with other promotional components to increase healthy beverage purchases in convenience stores.
+Little is known about improving physical activity (PA) and diet during and after chemotherapy for breast cancer. This secondary analysis examines changes in PA and diet quality during a yearlong intervention for patients with breast cancer undergoing chemotherapy and evaluates factors associated with these changes. Newly diagnosed patients with breast cancer (N&#xa0;=&#xa0;173) undergoing chemotherapy were randomized to a year-long nutrition and exercise intervention (n&#xa0;=&#xa0;87) or usual care (UC, n&#xa0;=&#xa0;86). Mixed models compared 1-year changes in PA and diet quality via the Healthy Eating Index (HEI)-2015 by study arm. Among the intervention group, baseline factors associated with change in PA and diet were assessed with multivariable linear and logistic regression. At 1 year, compared with UC, the intervention arm increased PA more (mean difference&#xa0;=&#xa0;136.1 minutes/week; 95% CI,&#xa0;90.2-182.0), participated in more strength training (56% vs. 15%; p&#xa0;<&#xa0;.001), and had suggestive improvements in HEI-2015 (mean difference&#xa0;=&#xa0;2.5; 95% CI, -0.3 to 5.3; p&#xa0;=&#xa0;.08). In the intervention arm, lower fatigue was associated with improved PA (p&#xa0;=&#xa0;.04) and higher education was associated with improved HEI-2015 (p&#xa0;=&#xa0;.001) at 1 year. Higher HEI-2015 (p&#xa0;=&#xa0;.04) and married/living with someone (p&#xa0;=&#xa0;.05) were associated with higher odds of participating in strength training at 1 year. This year-long lifestyle intervention for patients with breast cancer undergoing chemotherapy resulted in increases in PA and suggestive improvements in diet quality. Behavior change was associated with baseline fatigue, diet quality, education, and married/living with someone. Addressing these factors in interventions may improve uptake of lifestyle behaviors in trials during and after chemotherapy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jneb.2024.01.010
+- DOI: 10.1002/cncr.35280
 
 2. Keywords
-- behavioral economics
-- carbonated water
-- posters
-- sparkling water
+- breast cancer
+- chemotherapy
+- diet
+- exercise
+- lifestyle intervention
+- nutrition
+- physical activity
+- treatment
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- behavioral economics assessment methods and outcomes
-- carbonated water assessment methods and outcomes
-- posters assessment methods and outcomes
+- breast cancer assessment methods and outcomes
+- chemotherapy assessment methods and outcomes
+- diet assessment methods and outcomes

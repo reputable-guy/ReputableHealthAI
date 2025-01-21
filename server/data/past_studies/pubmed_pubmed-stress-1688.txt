@@ -1,26 +1,20 @@
-Study Title: App-Based Addiction Prevention at German Vocational Schools: Implementation and Reach for a Cluster-Randomized Controlled Trial.
+Study Title: The effects of acute versus repeated cannabidiol administration on trauma-relevant emotional reactivity: A double-blind, randomized, placebo-controlled trial.
 
 Study Summary:
-This article examines the implementation, participation rates, and potential determinants of participation in the digital addiction prevention program "ready4life." A two-arm cluster-randomized trial recruited German vocational students via class-based strategies. Intervention group received 16 weeks of in-app coaching; the control group received health behavior information, with coaching offered after 12 months. Potential determinants of participation were analyzed based on class and individual characteristics. Out of 525 contacted schools, 35 participated, enrolling 376 classes. Implementation during the pandemic required flexible adjustments, with 49.7% of introductions conducted in person, 43.1% digitally via online streaming, and 7.2% received a video link via email. Despite challenges, 72.3% of the vocational students downloaded the app, and 46.7% gave informed consent. Participation rates were highest among (associate) professionals, vocational grammar school classes, classes introduced by females, younger individuals, members of the project team, and classes introduced face-to-face. Female gender, lower social competencies, lifetime cannabis use, higher problematic internet use, and higher perceived stress were associated with higher individual participation. The study highlights the importance of proactive outreach and personalized interventions for addiction prevention programs in vocational schools. While reached students aligned with the aims of the app, tailored recruitment strategies could enhance engagement among under-represented groups. The trial was registered in the German Clinical Trials Register (DRKS): DRKS00022328; registration date 09.10.2020.
+Despite the widespread use and perceived efficacy of cannabidiol (CBD) as an anxiolytic, few controlled studies have evaluated the effects of CBD on anxiety-relevant indications, and only one has done so in the context of trauma-related symptoms. The current study was designed to address this gap in the literature. Participants were 42 trauma-exposed individuals (M= 23.12 years, SD= 6.61) who endorsed elevated stress. They were randomly assigned to take 300 mg of oral CBD or placebo daily for 1 week. Acute (i.e., following an initial 300 mg dose) and repeated (i.e., following 1 week of daily 300 mg dosing) effects of CBD were evaluated in relation to indicators of anxious arousal (i.e., anxiety, distress, heart rate) in response to idiographic trauma script presentation. The results of the current study suggest that relative to placebo, 300 mg CBD did not significantly reduce anxiety, B = 13.37, t(37) = 1.71, p =&#xa0;.096, d = 0.09, Bayes factor (BF) = 0.54; distress, B = 15.20, t(37) = 1.31, p =&#xa0;.197, d = 0.07, BF= 0.51; or heart rate, B = -1.09, t(36) = -0.32, p =&#xa0;.755, d = 0.02, BF= 0.29, evoked by idiographic trauma script presentation in the context of acute or repeated administration. These data suggest that CBD may not effectively reduce trauma-relevant emotional arousal; however, more work is needed to confidently assert such claims due to the small sample size. The current study extends the groundwork for additional studies in this important area.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s11121-024-01702-w
+- DOI: 10.1002/jts.23072
 
 2. Keywords
-- Addiction
-- Mobile app
-- Prevention
-- Reach
-- Vocational student
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Addiction assessment methods and outcomes
-- Mobile app assessment methods and outcomes
-- Prevention assessment methods and outcomes
+- General research methodology and outcomes

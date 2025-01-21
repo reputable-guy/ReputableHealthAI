@@ -1,27 +1,27 @@
-Study Title: A comparison of continuous, interval, and accumulated workouts with equalized exercise volume: excess post-exercise oxygen consumption in women.
+Study Title: Performance of the ChatGPT large language model for decision support in community pharmacy.
 
 Study Summary:
-Despite the well-known health benefits of exercise, women's participation in exercise is low worldwide. As women are at risk of developing various chronic diseases as they age, suggesting effective exercise methods that can maximize energy consumption is needed to prevent such conditions. Excess post-exercise oxygen consumption (EPOC) can maximize energy consumption. In this crossover, randomized controlled trial, we aimed to compare the EPOC for different exercise modalities including continuous exercise (CE), interval exercise (IE), and accumulated exercise (AE) that spent the homogenized energy expenditure during exercise in healthy women. Forty-four participants (age, 36.09&#x2009;&#xb1;&#x2009;11.73 years) were recruited and randomly allocated to three groups. The intensity of each modality was set as follows: CE was performed for 30&#xa0;min at 60% peak oxygen uptake (VOpeak). IE was performed once for 2&#xa0;min at 80% VOpeak, followed by 3&#xa0;min at 80% VOpeak, and 1&#xa0;min at 40% VOpeak, for a total of six times over 26&#xa0;min. AE was performed for 10&#xa0;min with a 60% VOpeak and was measured thrice a day. During exercise, energy metabolism was higher for IE and CE than that for AE. However, this was reversed for AE during EPOC. Consequently, the greatest energy metabolism was shown for AE during total time (exercise and EPOC). By encouraging regular exercises, AE can help maintain and improve body composition by increasing compliance with exercise participation, given its short exercise times, and by efficiently increasing energy consumption through the accumulation of EPOC. Clinical number (KCT0007298), 18/05/2022, Institutional Review Board of Konkuk University (7001355-202201-E-160).
+The aim of this study was to assess the ChatGPT-4 (ChatGPT) large language model (LLM) on tasks relevant to community pharmacy. ChatGPT was assessed with community pharmacy-relevant test cases involving drug information retrieval, identifying labelling errors, prescription interpretation, decision-making under uncertainty and multidisciplinary consults. Drug information on rituximab, warfarin, and St. John's wort was queried. The decision-support scenarios consisted of a subject with swollen eyelids and a maculopapular rash in a subject on lisinopril and ferrous sulfate. The multidisciplinary scenarios required the integration of medication management with recommendations for healthy eating and physical activity/exercise. The responses from ChatGPT for rituximab, warfarin, and St. John's wort were satisfactory and cited drug databases and drug-specific monographs. ChatGPT identified labeling errors related to incorrect medication strength, form, route of administration, unit conversion, and directions. For the patient with inflamed eyelids, the course of action developed by ChatGPT was comparable to the pharmacist's approach. For the patient with the maculopapular rash, both the pharmacist and ChatGPT placed a drug reaction to either lisinopril or ferrous sulfate at the top of the differential. ChatGPT provided customized vaccination requirements for travel to Brazil, guidance on management of drug allergies and recovery from a knee injury. ChatGPT provided satisfactory medication management and wellness information for a diabetic on metformin and semaglutide. LLMs have the potential to become a powerful tool in community pharmacy. However, rigorous validation studies across diverse pharmacist queries, drug classes and populations, and engineering to secure patient privacy will be needed to enhance LLM utility.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12905-024-03299-2
+- DOI: 10.1111/bcp.16215
 
 2. Keywords
-- Accumulated exercise
-- Continuous exercise
-- Excess post-exercise oxygen consumption
-- Homogenized energy expenditure
-- Interval exercise
-- Women
+- ChatGPT
+- artificial intelligence
+- drug information
+- generative AI
+- pharmacy
+- precision medicine
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Accumulated exercise assessment methods and outcomes
-- Continuous exercise assessment methods and outcomes
-- Excess post-exercise oxygen consumption assessment methods and outcomes
+- ChatGPT assessment methods and outcomes
+- artificial intelligence assessment methods and outcomes
+- drug information assessment methods and outcomes

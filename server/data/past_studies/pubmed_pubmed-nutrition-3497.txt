@@ -1,25 +1,26 @@
-Study Title: Continuous versus intermittent bolus infusion of calcium in preterm infants receiving total parenteral nutrition: a randomized blind clinical trial.
+Study Title: Effects of carbohydrate availability on cycling endurance at the maximal lactate steady state.
 
 Study Summary:
-Premature neonates need adequate nutritional support to provide sufficient essential nutrients for optimal growth. Calcium (Ca) is one of the important nutrients in parental nutrition support of premature infants. This study aimed to compare the effect of continuous and intermittent bolus infusion of Ca on the incidence of metabolic bone disease (MBD) in preterm infants. This randomized double-blind clinical trial was conducted on ninety preterm infants in the NICU of Al-Zahra Hospital in Tabriz, Iran. The preterm infants were randomly allocated to either a continuous infusion group (received 4-5&#xa0;ml/kg/day of Ca gluconate 10% by PN solution in a 24-h period) or an intermittent bolus administration group (received 1-2&#xa0;ml/kg/day Ca gluconate 10% three to four times per day). Serial serum levels of Ca, phosphorous, alkaline phosphatase (ALP), vitamin D and parathyroid hormone (PTH) were assessed on the 7th day, 30th day and 45th day of life. A total of 78 infants completed the study. The serum ALP level on the 45th day after birth was 753.28&#x2009;&#xb1;&#x2009;304.59 IU/L and 988.2&#x2009;&#xb1;&#x2009;341.3 IU/L in the continuous infusion and intermittent bolus administration groups, respectively (P&#x2009;<&#x2009;0.05). MBD in preterm infants with ALP levels above 900 IU/L on the 45th day of life was significantly lower in the continuous infusion group than in the intermittent bolus administration group (p&#x2009;<&#x2009;0.05). The mean serum levels of calcium, phosphorus, vitamin D and PTH in 45-day-old infants were not significantly different between the two groups. The MBD in preterm infants who received continuous infusion of Ca was lower than that in preterm infants who received intermittent bolus administration of Ca. The Iranian Registry of Clinical Trials ( http://www.irct.ir ) with the identification No. IRCT20210913052466N1.
+The impacts of carbohydrate (CHO) availability on time to task failure (TTF) and physiological responses to exercise at the maximal lactate steady state (MLSS) have not been studied. Ten participants (3 females, 7 males) completed this double-blinded, placebo-controlled study that involved a ramp incremental test, MLSS determination, and four TTF trials at MLSS, all performed on a cycle ergometer. With the use of a combination of nutritional (CHO, 7 g/kg, and placebo, PLA, 0 g/kg drinks) and exercise interventions [no exercise (REST) and glycogen-reducing exercise (EX)], the four conditions were expected to differ in preexercise CHO availability (REST> REST> EX> EX). TTF at MLSS was not improved by CHO loading, as REST(57.1 [16.6] min) and REST(57.1 [15.6] min) were not different (= 1.00); however, TTF was &#x223c;50% shorter in EX conditions compared with REST conditions on average (< 0.05), with EX(39.1 [9.2] min) &#x223c;90% longer than EX(20.6 [6.9] min;< 0.001). There were effects of condition for all perceptual and cardiometabolic variables when compared at isotime (< 0.05) and task failure (TF;< 0.05), except for ventilation, perceptual responses, and neuromuscular function measures, which were not different at TF (> 0.05). Blood lactate concentration was stable in all conditions for participants who completed 30 min of exercise. These findings indicate that TTF at MLSS is not enhanced by preexercise CHO supplementation, but recent intense exercise decreases TTF at MLSS even with CHO supplementation. Extreme fluctuations in diet and strenuous exercise that reduce CHO availability should be avoided before MLSS determination.Carbohydrate (CHO) loading did not increase participants' ability to cycle at their maximal lactate steady state (MLSS); however, performing a glycogen depletion task the evening before cycling at MLSS reduced the time to task failure, even when paired with a high dose of CHO. These diet and exercise interventions influenced blood lactate concentration ([BLa]) but not the stability of [BLa]. Activities that reduce CHO availability should be avoided before MLSS determination.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12887-023-04516-x
+- DOI: 10.1152/ajpregu.00178.2023
 
 2. Keywords
-- Alkaline phosphates
-- Calcium
-- Metabolic bone disease
-- Preterm infant
+- blood lactate concentration
+- critical intensity
+- exercise metabolism
+- performance fatiguability
+- sports nutrition
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Alkaline phosphates assessment methods and outcomes
-- Calcium assessment methods and outcomes
-- Metabolic bone disease assessment methods and outcomes
+- blood lactate concentration assessment methods and outcomes
+- critical intensity assessment methods and outcomes
+- exercise metabolism assessment methods and outcomes

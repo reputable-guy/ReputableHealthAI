@@ -1,26 +1,20 @@
-Study Title: Prognostic value of lymphocytes in patients with breast cancer receiving radiotherapy after breast-conserving surgery: A post hoc analysis of a phase III randomized trial.
+Study Title: Effect of Ondansetron on Postoperative Pain and Vomiting after Acute Appendicitis Surgery: A Placebo-Controlled Double-Blinded Randomized Clinical Trial.
 
 Study Summary:
-To evaluate the prognostic value of peripheral lymphocyte count (PLC) in the breast cancer patients after breast-conserving surgery (BCS) with radiotherapy (RT). This post hoc analysis was performed using data of 628 patients from a phase III, randomized controlled trial comparing hypofractionated RT (HFRT) with conventional fractionated RT (CFRT) after BCS. PLCs were obtained before, during, and after RT until the 1-year follow-up. The optimal cut-off PLCs were determined using the maxstat package in R. Survival rates were estimated using the Kaplan-Meier method and compared with the log-rank test. A total of 275 (46.1&#xa0;%) patients developed lymphopenia during RT, among them, 17 (2.8&#xa0;%) had grade 3 lymphopenia and no one developed grade 4 lymphopenia. With a median follow-up of 110.8&#xa0;months, patients with pre-RT PLCs of&#xa0;<&#xa0;1.77&#xa0;&#xd7;&#xa0;10/L had a significantly lower 10-year breast cancer-specific survival (BCSS) rate (P&#xa0;=&#xa0;0.013) and overall survival (OS) rate (P&#xa0;=&#xa0;0.026). Patients with a nadir PLC of&#xa0;<&#xa0;1.35&#xa0;&#xd7;&#xa0;10/L had a significantly poorer 10-year OS rate (P&#xa0;=&#xa0;0.048). Multivariate analysis showed that a pre-RT PLC of&#xa0;<&#xa0;1.77&#xa0;&#xd7;&#xa0;10/L was an independent factor influencing BCSS and OS, while the effect of the nadir PLC did not remain significant. Neither PLC nor lymphopenia recovery at post-RT 1, 3, and 6&#xa0;months and 1&#xa0;year was associated with survival. Radiation-induced lymphopenia in patients with breast cancer after BCS tends to be mild. The lower pre-RT PLC predicted poorer survival.
+Common postoperative complications following surgery, particularly acute appendicitis surgery, include postoperative pain and vomiting, which can cause discomfort and delay recovery time. A randomized double-blinded placebo-controlled clinical trial was conducted with 80 cases of acute appendicitis of American Society of Anesthesiologists (ASA) physical status I or II and aged 18-60&#x2009;y/o scheduled for appendectomy under general anesthesia. Patients were randomly divided into two equal groups: group A received 4&#x2009;mg of ondansetron IV (2&#x2009;ml) and group B received 2&#x2009;ml of normal slain IV (placebo). Pain according to VAS, nausea and vomiting according to clinical symptoms, shivering and sedation according to the Bedside Shivering Assessment Scale (BSAS), and the Ramsay Sedation Scale (RSS) at 2, 6, 12, and 24&#x2009;hours after surgery were evaluated and compared between the groups. There was a significant decline in the severity of pain only at 2&#x2009;hours after surgery between the ondansetron and control groups (5.3&#x2009;&#xb1;&#x2009;1.0 vs. 6.0&#x2009;&#xb1;&#x2009;1.0;=0.01), not showing a difference between the groups at 6, 12, and 24&#x2009;hours after appendectomy. Postoperative nausea and vomiting at 2 (5% vs. 25%;=0.03) and 6 (7.5% vs. 27.5%;=0.04) hours after appendectomy in the ondansetron group. At different times, the ondansetron and control groups did not differ in terms of pethidine consumption or sedation. In conclusion, our study found that ondansetron was effective in reducing postoperative vomiting after acute appendicitis surgery. However, it did not show a clinically significant effect on postoperative pain. This trial is registered with IRCT20230722058883N1.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.radonc.2024.110390
+- DOI: 10.1155/2024/6429874
 
 2. Keywords
-- Breast cancer
-- Breast-conserving surgery
-- Lymphocyte
-- Prognosis
-- Radiotherapy
+
 
 3. Key Findings
-- Multivariate analysis showed that a pre-RT PLC of&#xa0;<&#xa0;1
+- In conclusion, our study found that ondansetron was effective in reducing postoperative vomiting after acute appendicitis surgery
 
 This study provides insights into:
-- Breast cancer assessment methods and outcomes
-- Breast-conserving surgery assessment methods and outcomes
-- Lymphocyte assessment methods and outcomes
+- General research methodology and outcomes

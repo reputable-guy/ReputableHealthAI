@@ -1,20 +1,29 @@
-Study Title: Low versus standard calorie and protein feeding in ventilated adults with shock: a randomised, controlled, multicentre, open-label, parallel-group trial (NUTRIREA-3).
+Study Title: Lifestyle and the hypertensive disorders of pregnancy in nulliparous women in the United States: a secondary data analysis of the nuMom2b.
 
 Study Summary:
-The optimal calorie and protein intakes at the acute phase of severe critical illness remain unknown. We hypothesised that early calorie and protein restriction improved outcomes in these patients, compared with standard calorie and protein targets. The pragmatic, randomised, controlled, multicentre, open-label, parallel-group NUTRIREA-3 trial was performed in 61 French intensive care units (ICUs). Adults (&#x2265;18 years) receiving invasive mechanical ventilation and vasopressor support for shock were randomly assigned to early nutrition (started within 24 h after intubation) with either low or standard calorie and protein targets (6 kcal/kg per day and 0&#xb7;2-0&#xb7;4 g/kg per day protein vs 25 kcal/kg per day and 1&#xb7;0-1&#xb7;3 g/kg per day protein) during the first 7 ICU days. The two primary endpoints were time to readiness for ICU discharge and day 90 all-cause mortality. Key secondary outcomes included secondary infections, gastrointestinal events, and liver dysfunction. The trial is registered on ClinicalTrials.gov, NCT03573739, and is completed. Of 3044 patients randomly assigned between July 5, 2018, and 8 Dec 8, 2020, eight withdrew consent to participation. By day 90, 628 (41&#xb7;3%) of 1521 patients in the low group and 648 (42&#xb7;8%) of 1515 patients in the standard group had died (absolute difference -1&#xb7;5%, 95% CI -5&#xb7;0 to 2&#xb7;0; p=0&#xb7;41). Median time to readiness for ICU discharge was 8&#xb7;0 days (IQR 5&#xb7;0-14&#xb7;0) in the low group and 9&#xb7;0 days (5&#xb7;0-17&#xb7;0) in the standard group (hazard ratio [HR] 1&#xb7;12, 95% CI 1&#xb7;02 to 1&#xb7;22; p=0&#xb7;015). Proportions of patients with secondary infections did not differ between the groups (HR 0&#xb7;85, 0&#xb7;71 to 1&#xb7;01; p=0&#xb7;06). The low group had lower proportions of patients with vomiting (HR 0&#xb7;77, 0&#xb7;67 to 0&#xb7;89; p<0&#xb7;001), diarrhoea (0&#xb7;83, 0&#xb7;73 to 0&#xb7;94; p=0&#xb7;004), bowel ischaemia (0&#xb7;50, 0&#xb7;26 to 0&#xb7;95; p=0&#xb7;030), and liver dysfunction (0&#xb7;92, 0&#xb7;86-0&#xb7;99; p=0&#xb7;032). Compared with standard calorie and protein targets, early calorie and protein restriction did not decrease mortality but was associated with faster recovery and fewer complications. French Ministry of Health.
+Hypertensive disorders of pregnancy are a leading cause of maternal and fetal morbidity and mortality and a significant risk factor for future cardiovascular disease development in women. This study aimed to explore lifestyle wellness-related variables and how they impact the risk of hypertension in pregnancy. This is a secondary analysis of data from the prospective cohort study Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-To-Be (nuMoM2b). Data was collected&#xa0;through questionnaires, clinical evaluations, and medical records review at 8 academic medical centers in the United States. Four study visits were scheduled throughout the participant's pregnancy (visits one-four): 6-13, 16-21, and 22-29&#xa0;weeks gestation and birth. A series of statistical modeling and logistical regression were performed using 15 lifestyle variables related to sleep, nutrition, resilience, illness avoidance, and physical activity were selected as predictor variables with an outcome variable of hypertension. Of 9289 nulliparous participants considered for inclusion in our analyses, 1464 had any HDP during study participation, and 554 participants had complete data available for the study and were included in our final sample. Results were statistically significant at a level of p&#x2009;<&#x2009;0.05. Of the sleep variables, snoring at visit 1 increased the risk of hypertension in pregnancy. Greater vegetable consumption reported at visit one decreased risks of hypertension in pregnancy. Physical activity reported at visit two and visit three were associated with decreased risk of hypertension. Physical activity reported at visit three combined with more hours of sleep each night, or through napping habit reported at visit one decreased hypertension risk. Increased fish oil consumption combined with more hours of sleep at visit one increased odds of hypertension in pregnancy. Our results support that lifestyle wellness-related variables relating to sleep, physical activity and nutrition affect hypertension in pregnancy. The studied variables and others should be considered in future research and intervention development to reduce hypertension in pregnancy and improve maternal wellness.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/S2213-2600(23)00092-9
+- DOI: 10.1186/s12884-023-05522-8
 
 2. Keywords
-
+- Hypertension
+- Lifestyle
+- Nutrition
+- Physical activity
+- Preeclampsia
+- Pregnancy
+- Sleep
+- Wellness
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Hypertension assessment methods and outcomes
+- Lifestyle assessment methods and outcomes
+- Nutrition assessment methods and outcomes

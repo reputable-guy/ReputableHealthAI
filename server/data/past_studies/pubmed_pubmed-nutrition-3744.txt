@@ -1,25 +1,27 @@
-Study Title: The role of parents in behavioral treatment for adolescent obesity: design and rationale for the TEENS+ randomized clinical trial.
+Study Title: Effect of a texture-modified and controlled bolus volume diet on all-cause mortality in older persons with oropharyngeal dysphagia: Secondary analysis of a randomized controlled trial.
 
 Study Summary:
-There is an urgent need for innovative approaches to adolescent obesity treatment, particularly among individuals from racially and ethnically marginalized backgrounds, who face increased risk of obesity and its associated morbidity and mortality. There is a particular dearth of research on the long-term efficacy of adolescent obesity treatments. Further, research and clinical practice guidelines consistently recommend parents' inclusion in their adolescents' obesity treatment, yet the most effective strategy to engage parents in adolescent obesity treatment remains unclear. Towards that end, this investigation will conduct a fully-powered, randomized clinical trial to examine the efficacy of two distinct approaches to involving parents in their adolescents' obesity treatment. Participants will be 210 12-16 year old adolescents (body mass index [BMI]&#x2265;85percentile) and parents (BMI&#x2265;25 kg/m) with overweight or obesity. Dyads will be randomized to one of two 4-month treatments: 1) TEENS+Parents as Coaches (PAC), engaging parents as helpers in their child's weight management via parent skills training based on authoritative parenting, or 2) TEENS+Parent Weight Loss (PWL), engaging parents in their own behavioral weight management. All adolescents will participate in the TEENS+ protocol, which includes nutrition education with dietary goals, supervised physical activity, and behavioral support, and integrates motivational interviewing to enhance treatment engagement. Assessments of anthropometrics, dietary intake, physical activity, parenting and home environment variables will be completed at 0, 2, 4, 8, and 12 months with the primary endpoint at 12-month follow-up. Results of this investigation have the potential to significantly advance science in this area and ultimately inform clinical practice guidelines related to the role of parents in adolescent obesity treatment. Clinicaltrials.gov NCT03851796. Registered: February 22, 2019.
+Oropharyngeal dysphagia (OD) is common among older adults. Some studies have evaluated the efficacy of a texture-modified diet on mortality but with short-term follow-up. We aimed to evaluate the effect of a texture-modified diet and controlled bolus volume on all-cause mortality after 12 months in older persons with OD. This secondary analysis of a randomized clinical trial included patients aged &#x2265;60&#x2009;years with a diagnosis of OD. They were concurrently and randomly assigned to receive either a texture-modified food diet and controlled bolus volume (intervention group) or standard treatment (control group) with 12 months of follow-up. Secondary outcomes were oral intake, weight, handgrip strength, phase angle, and aspiration pneumonia. Kaplan-Meier analysis and the Cox proportional hazards model were used for mortality analysis. A total of 127 participants (intervention group: 64 and control group: 63) were recruited, with a mean age of 76 years. The probability of all-cause mortality was significantly lower in the intervention group (n&#x2009;=&#x2009;8, 12%) than in the control group (n&#x2009;=&#x2009;18, 29%) (hazard ratio&#x2009;=&#x2009;0.36 [95% CI&#x2009;=&#x2009;0.16-0.86]; P&#x2009;=&#x2009;0.01). There were 5 (7.9%) and 10 (16.1%) aspiration pneumonia events in the intervention and control groups, respectively (not significant) in 12 months of follow-up. Changes were observed in protein consumption (P&#x2009;=&#x2009;0.01), body weight (P&#x2009;=&#x2009;0.04), body mass index (P&#x2009;=&#x2009;0.004), handgrip strength (P&#x2009;=&#x2009;0.02), and phase angle (P&#x2009;=&#x2009;0.04) between the treatment groups. Compared with the standard treatment, the dietary intervention improved efficacy by limiting nutrition complications, aspiration pneumonia, and all-cause mortality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.1186/s12889-023-16421-0
+- Publication Date: 2024
+- DOI: 10.1002/ncp.11052
 
 2. Keywords
-- Adolescent
-- Obesity
-- Parent
-- Randomized clinical trial
+- aspiration pneumonia
+- dysphagia
+- mortality
+- nutrition therapy
+- older adult
+- texture&#x2010;modified diet
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Adolescent assessment methods and outcomes
-- Obesity assessment methods and outcomes
-- Parent assessment methods and outcomes
+- aspiration pneumonia assessment methods and outcomes
+- dysphagia assessment methods and outcomes
+- mortality assessment methods and outcomes

@@ -1,22 +1,27 @@
-Study Title: Exercise intervention in middle-aged and elderly individuals with insomnia improves sleep and restores connectivity in the motor network.
+Study Title: Assessing the Real-World, Long-Term Impact of Lemborexant on Sleep Quality in a Home-Based Clinical Study.
 
 Study Summary:
-Exercise is a potential treatment to improve sleep quality in middle-aged and elderly individuals. Understanding exercise-induced changes in functional plasticity of brain circuits that underlie improvements in sleep among middle-aged and older adults can inform treatment of sleep problems. The aim of the study is to identify the effects of a 12-week exercise program on sleep quality and brain functional connectivity in middle-aged and older adults with insomnia. The trial was registered with Chinese Clinical Trial Register (ChiCTR2000033652). We recruited 84 healthy sleepers and 85 individuals with insomnia. Participants with insomnia were assigned to receive either a 12-week exercise intervention or were placed in a 12-week waitlist control condition. Thirty-seven middle-aged and older adults in the exercise group and 30 in the waitlist group completed both baseline and week 12 assessments. We found that middle-aged and older adults with insomnia showed significantly worse sleep quality than healthy sleepers. At the brain circuit level, insomnia patients showed decreased connectivity in the widespread motor network. After exercise intervention, self-reported sleep was increased in the exercise group (P&#x2009;<&#x2009;0.001) compared to that in the waitlist group. We also found increased functional connectivity of the motor network with the cerebellum in the exercise group (P&#x2009;<&#x2009;0.001). Moreover, we observed significant correlations between improvement in subjective sleep indices and connectivity changes within the motor network. We highlight exercise-induced improvement in sleep quality and functional plasticity of the aging brain.
+Both subjective and objective evaluations are essential for the treatment of insomnia. Lemborexant has been shown to be effective in the long-term based solely on a subjective basis, and no long-term objective measures have been evaluated under natural sleep conditions. Small, lightweight sleep electroencephalogram (EEG) monitor was used, instead of polysomnography, to objectively evaluate sleep at home 4 and 12 weeks after lemborexant treatment. Adults and elderly subjects with insomnia disorder, per the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, were enrolled in this open-label, single-arm, single-center trial. Objective and subjective measures of sleep were prospectively assessed. Sleep disturbance, excessive sleepiness, and depressive symptoms were assessed using questionnaires. A total of 45 subjects were screened, of which 33 were enrolled. Paired t-tests were conducted to evaluate changes in sleep variables and compared with the baseline; subjects showed significant improvements in objective sleep efficiency (SE) and subjective sleep parameters at weeks 4 and 12 following treatment with lemborexant. When baseline values were taken into account, a repeated-multivariate analysis of variance (MANOVA) revealed statistically significant changes in the objective measures. Sleep disturbance, excessive sleepiness, and depressive symptoms improved after three months of lemborexant treatment. Furthermore, lemborexant therapy improved nocturnal sleep, when measured objectively using sleep EEG monitoring at home, and improved daytime sleepiness and depressive symptoms in older adults with insomnia disorder.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41398-024-02875-2
+- DOI: 10.2147/NSS.S448871
 
 2. Keywords
-
+- insomnia
+- lemborexant
+- objective sleep evaluation
+- portable sleep EEG monitoring
+- subjective sleep evaluation
 
 3. Key Findings
-- We found that middle-aged and older adults with insomnia showed significantly worse sleep quality than healthy sleepers
-- At the brain circuit level, insomnia patients showed decreased connectivity in the widespread motor network
-- We also found increased functional connectivity of the motor network with the cerebellum in the exercise group (P&#x2009;<&#x2009;0
+- Paired t-tests were conducted to evaluate changes in sleep variables and compared with the baseline; subjects showed significant improvements in objective sleep efficiency (SE) and subjective sleep parameters at weeks 4 and 12 following treatment with lemborexant
+- When baseline values were taken into account, a repeated-multivariate analysis of variance (MANOVA) revealed statistically significant changes in the objective measures
 
 This study provides insights into:
-- General research methodology and outcomes
+- insomnia assessment methods and outcomes
+- lemborexant assessment methods and outcomes
+- objective sleep evaluation assessment methods and outcomes

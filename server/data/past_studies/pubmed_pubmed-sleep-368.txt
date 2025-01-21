@@ -1,27 +1,25 @@
-Study Title: Daridorexant in Japanese patients with insomnia disorder: A phase 3, randomized, double-blind, placebo-controlled study.
+Study Title: Stress Drives Soccer Athletes'&#xa0;Wellness and Movement: Using Convergent Cross-Mapping to Identify Causal Relationships in a Dynamic Environment.
 
 Study Summary:
-This Phase 3 double-blind, placebo-controlled study evaluated the efficacy and safety of daridorexant in Japanese patients with insomnia disorder. 490 patients with insomnia disorder from 95 sites in Japan were randomized to daridorexant 50&#xa0;mg (n&#xa0;=&#xa0;163), 25&#xa0;mg (n&#xa0;=&#xa0;163) or placebo (n&#xa0;=&#xa0;164) for 4 weeks, followed by a 7-day placebo run-out and a 30-day safety follow-up. The primary efficacy endpoints, in hierarchical order, were change from baseline at Week 4 in subjective total sleep time (sTST) and subjective latency to sleep onset (sLSO), for daridorexant 50&#xa0;mg vs placebo. sTST and sLSO were also evaluated (secondary endpoints) for daridorexant 25&#xa0;mg vs placebo. Safety endpoints included adverse events and next-morning sleepiness (Visual Analog Scale, VAS). Daridorexant 50&#xa0;mg significantly increased sTST and decreased sLSO versus placebo at Week 4 (least-squares mean difference [LSMD]: sTST 20.3&#xa0;min [95&#xa0;% CI 11.4, 29.2] p&#xa0;<&#xa0;0.001; sLSO -10.7&#xa0;min [-15.8, -5.5] p&#xa0;<&#xa0;0.001). Daridorexant 25&#xa0;mg also significantly improved both endpoints versus placebo (LSMD: sTST 9.2&#xa0;min [0.3, 18.1] p&#xa0;=&#xa0;0.042; sLSO -7.2&#xa0;min [-12.3, -2.0] p&#xa0;=&#xa0;0.006). Overall incidence of adverse events was similar across groups (50&#xa0;mg: 22&#xa0;%; 25&#xa0;mg: 18&#xa0;%; placebo 23&#xa0;%); somnolence, the most common event, increased with increasing dose (50&#xa0;mg: 6.8&#xa0;%; 25&#xa0;mg: 3.7&#xa0;%; placebo 1.8&#xa0;%). However, daridorexant did not increase VAS next-morning sleepiness. No rebound or withdrawal-related symptoms were observed after treatment discontinuation. In Japanese patients with insomnia disorder, daridorexant (25 and 50&#xa0;mg) was well tolerated and significantly improved subjective sleep outcomes, with no evidence of residual effects.
+Prediction of athlete wellness is difficult-or, many sports-medicine practitioners and scientists would argue, impossible. Instead, one settles for correlational relationships of variables gathered at fixed moments in time. The issue may be an inherent mismatch between usual methods of data collection and analysis and the complex nature of the variables governing athlete wellness. Variables such as external load, stress, muscle soreness, and sleep quality may affect each other and wellness in a dynamic, nonlinear, way over time. In such an environment, traditional data-collection methods and statistics will fail to capture causal effects. If we are to move this area of sport science forward, a different approach is required. We analyzed data from 2 different soccer teams that showed no significance between player load and wellness or among individual measures of wellness. Our analysis used methods of attractor reconstruction to examine possible causal relationships between GPS/accelerometer-measured external training load and wellness variables. Our analysis showed that player self-rated stress, a component of wellness, seems a fundamental driving variable. The influence of stress is so great that stress can predict other components of athlete wellness, and, in turn, self-rated stress can be predicted by observing a player's load data. We demonstrate the ability of nonlinear methods to identify interactions between and among variables to predict future athlete stress. These relationships are indicative of the causal relationships playing out in athlete wellness over the course of a soccer season.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.07.037
+- DOI: 10.1123/ijspp.2024-0007
 
 2. Keywords
-- Daridorexant
-- Efficacy
-- Insomnia
-- Japan
-- Orexin
-- Safety
+- attractor reconstruction
+- football
+- prediction
 
 3. Key Findings
-- Findings extraction requires manual review
+- We analyzed data from 2 different soccer teams that showed no significance between player load and wellness or among individual measures of wellness
+- Our analysis showed that player self-rated stress, a component of wellness, seems a fundamental driving variable
 
 This study provides insights into:
-- Daridorexant assessment methods and outcomes
-- Efficacy assessment methods and outcomes
-- Insomnia assessment methods and outcomes
+- attractor reconstruction assessment methods and outcomes
+- football assessment methods and outcomes
+- prediction assessment methods and outcomes

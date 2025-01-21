@@ -1,21 +1,26 @@
-Study Title: Delayed Onset Muscle Soreness Following Acute Resistance Exercise in Untrained Females: A Comparative Study Between Vegans and Omnivores.
+Study Title: Hemodynamics and cerebral oxygenation during acute exercise in moderate normobaric hypoxia and with concurrent cognitive task in young healthy males.
 
 Study Summary:
-This study aimed to assess the levels of delayed onset muscle soreness (DOMS) markers in individuals adhering to vegan and omnivore diets after engaging in acute resistance exercise. A total of 54 untrained young, healthy, normal-body-weight women (age: 26.8&#xb1;4.1 years; body mass index: 22.5&#xb1;2.7&#x2009;kg/m) participated in the study. Participants were categorized into two groups: vegans (n=27) and omnivores (n=27) based on their dietary preferences, with all subjects having adhered to their respective diets for a minimum of 2 years. DOMS was induced by a single eccentric resistance exercise session, comprising four exercises (leg press, chest press, leg curls, and arm curls), each consisting of four sets of 10 repetitions. Various measurements, including dietary factors, state of wellness, body composition, muscle circumferences, muscle pressure point thresholds (PPTs), and muscle strength, were recorded both before and 48&#x2009;hours after the exercise session. The results showed that wellness and muscle circumferences remained unchanged or displayed similar changes between the vegan and omnivore groups following acute resistance exercise. However, notable differences were observed in PPTs in favor of vegans, specifically for the right biceps (95% CI: 1.4 to 10.2; p=0.01), the left vastus medialis (95% CI: 0.5 to 6.4; p=0.02), and the right vastus lateralis (95% CI: 3.2 to 12.1; p=0.001). Furthermore, significant differences in right grip strength were found in favor of vegans after the exercise session (95% CI: 3.1 to 26.2; p=0.01). In conclusion, our findings suggest that vegans may experience more favorable changes in DOMS levels following acute resistance exercise in comparison to omnivores. This discrepancy in DOMS markers may indicate enhanced muscle recovery in vegans.
+The present investigation aimed to study the cardiovascular responses and the cerebral oxygenation (Cox) during exercise in acute hypoxia and with contemporary mental stress. Fifteen physically active, healthy males (age 29.0&#xa0;&#xb1;&#xa0;5.9 years) completed a cardiopulmonary test on a cycle ergometer to determine the workload at their gas exchange threshold (GET). On a separate day, participants performed two randomly assigned exercise tests pedaling for 6 min at a workload corresponding to 80% of the GET: (1) during normoxia (NORMO), and (2) during acute, normobaric hypoxia at 13.5% inspired oxygen (HYPO). During the last 3 min of the exercise, they also performed a mental task (MT). Hemodynamics were assessed with impedance cardiography, and peripheral arterial oxygen saturation and Cox were continuously measured by near-infrared spectroscopy. The main results were that both in NORMO and HYPO conditions, the MT caused a significant increase in the heart rate and ventricular filling rate. Moreover, MT significantly reduced (74.8&#xa0;&#xb1;&#xa0;5.5&#xa0;vs. 62.0&#xa0;&#xb1;&#xa0;5.2 A.U.) Cox, while the reaction time (RT) increased (813.3&#xa0;&#xb1;&#xa0;110.2&#xa0;vs. 868.2&#xa0;&#xb1;&#xa0;118.1&#xa0;ms) during the HYPO test without affecting the correctness of the answers. We conclude that in young, healthy males, adding an MT during mild intensity exercise in both normoxia and acute moderate (normobaric) hypoxia induces a similar hemodynamic response. However, MT and exercise in HYPO cause a decrease in Cox and an impairment in RT.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1055/a-2350-8681
+- DOI: 10.1139/apnm-2023-0629
 
 2. Keywords
-
+- cardiac output
+- cerebral oxygenation
+- stroke volume
+- ventricular emptying rate
+- ventricular filling rate
 
 3. Key Findings
-- The results showed that wellness and muscle circumferences remained unchanged or displayed similar changes between the vegan and omnivore groups following acute resistance exercise
-- Furthermore, significant differences in right grip strength were found in favor of vegans after the exercise session (95% CI: 3
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- cardiac output assessment methods and outcomes
+- cerebral oxygenation assessment methods and outcomes
+- stroke volume assessment methods and outcomes

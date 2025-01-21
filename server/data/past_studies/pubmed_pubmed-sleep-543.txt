@@ -1,27 +1,27 @@
-Study Title: Comparison of the Effects of Combined Femoral and Sciatic Nerves Block versus General Anesthesia on Hemodynamic Stability and Postoperative Complication in Patients with Diabetic Foot: A Prospective, Double-Blind and Randomized Controlled Trial.
+Study Title: Association between fatigue and depressive symptoms in persons with post-COVID-19 condition: a post hoc analysis.
 
 Study Summary:
-Perioperative anesthetic management of patients with diabetic foot undergoing surgical treatment is challenging due to their poor cardiovascular health status. According to previous literature, general anesthesia and peripheral nerve block have their own advantages and disadvantages for such patients. We reported the effect of these two anesthesia techniques on perioperative hemodynamics and prognosis in these patients. This study employed a prospective randomized controlled design, where patients meeting the inclusion criteria were assigned to two groups: the general anesthesia group (GA group) and the peripheral nerve block group (PNB group). The primary outcomes were the differences in intraoperative hemodynamic stability and the incidence of postoperative complications between the two groups. The second outcomes were postoperative numerical rating scale scores, analgesic drug remedies, postoperative sleep conditions monitored by sleep bracelets and health status assessed by EQ-5D-5 L scores. One hundred and nine subjects were enrolled in this study, including 54 in the GA group and 55 in the PNB group. The baseline parameters of the two groups were comparable. The GA group exhibited a significantly higher incidence of hypotension, and Colloid intake and total fluid intake were significantly higher in the GA group than in the PNB group. Additionally, a larger proportion of patients in the GA group. The scores of postoperative pain during the 48 hours after surgery were significantly higher, and more patients needed tramadol for postoperative analgesia during the 24 h after surgery in the GA group than in the PNB group. Patients in the PNB group slept better, first feeding time, earlier out-of-bed activity and earlier discharge from the hospital, compared to the GA group. However, there was no obvious difference in postoperative complications between the two groups except pharyngeal pain. Peripheral nerve block is a better option in patients with diabetes undergoing elective below-knee surgery than general anesthesia.
+Post-COVID-19 Condition (PCC) is a prevalent, persistent and debilitating phenomenon occurring three or more months after resolution of acute COVID-19 infection. Fatigue and depressive symptoms are commonly reported in PCC. We aimed to further characterize PCC by assessing the relationship between fatigue and depressive symptom severity in adults with PCC. A post hoc analysis was conducted on data retrieved from a randomized, double-blinded, placebo-controlled study evaluating vortioxetine for cognitive deficits in persons with PCC. We sought to determine the relationship between baseline fatigue [i.e. Fatigue Severity Scale (FSS) total score] and baseline depressive symptom severity [i.e. 16-item Quick Inventory of Depressive Symptomatology (QIDS-SR-16) total score] in adults with PCC. The statistical analysis included baseline data from 142 participants. After adjusting for age, sex, education, employment status, history of major depressive disorder (MDD) diagnosis, self-reported physical activity, history of documented acute SARS-CoV-2 infection and body mass index (BMI), baseline FSS was significantly correlated with baseline QIDS-SR-16 (&#x3b2;&#x2009;=&#x2009;0.825,= .001). In our sample, baseline measures of fatigue and depressive symptoms are correlated in persons living with PCC. Individuals presenting with PCC and fatigue should be screened for the presence and severity of depressive symptoms. Guideline-concordant care should be prescribed for individuals experiencing clinically significant depressive symptoms. Fatigue and depressive symptom severity scores were not pre-specified as primary objectives of the study. Multiple confounding factors (i.e. disturbance in sleep, anthropometrics and cognitive impairment) were not collected nor adjusted for in the analysis herein. Unrestricted Research Grant from H. Lundbeck A/S, Copenhagen, Denmark. ClinicalTrials.gov Identifier: NCT05047952.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/DMSO.S465814
+- DOI: 10.1080/03007995.2024.2360647
 
 2. Keywords
-- diabetic foot
-- general anesthesia
-- hemodynamic
-- peripheral nerve block
-- postoperative complication
-- postoperative pain
+- Long COVID
+- Post COVID-19 condition
+- depression
+- fatigue
+- major depressive disorder
+- post-acute sequelae SARS-CoV-2 infection
 
 3. Key Findings
-- Findings extraction requires manual review
+- Multiple confounding factors (i
 
 This study provides insights into:
-- diabetic foot assessment methods and outcomes
-- general anesthesia assessment methods and outcomes
-- hemodynamic assessment methods and outcomes
+- Long COVID assessment methods and outcomes
+- Post COVID-19 condition assessment methods and outcomes
+- depression assessment methods and outcomes

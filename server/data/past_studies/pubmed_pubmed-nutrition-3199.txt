@@ -1,27 +1,27 @@
-Study Title: Anthropometric and sociodemographic variables, but not preconception or prenatal maternal nutrition supplementation, predict neurodevelopment in offspring of the 'Women First'&#xa0;trial.
+Study Title: Effectiveness of self-management program for gastric cancer patients: A randomized controlled trial comparing gain vs. loss message framing.
 
 Study Summary:
-Multiple factors influence infant and child neurodevelopment in low resource settings. In offspring of participants in the preconception maternal nutrition trial, Women First&#xa0;(WF), we examined the impact of providing a preconception (Arm 1) or prenatal (Arm 2) nutrient supplement (compared to controls, Arm 3) on neurodevelopmental outcomes at 24 months; predictors of neurodevelopment scores; and associations of infant anthropometrics with neurodevelopmental scores. Follow-up visits for anthropometry were conducted at 6-, 12-, 18-&#xa0;and 24-month&#xa0;of age. At 24-months, in a randomized subset,&#xa0;the Bayley Scales of Infant Development, 3rd&#xa0;edition (BSID-III), including cognitive, motor&#xa0;and social-emotional subscales,&#xa0;and the Family Care Indicators (FCI) questionnaire, assessing family and home environment, were completed. Multiple covariates (intervention arm, site, maternal sociodemographic characteristics, FCI subscales, birthweight&#xa0;and 6-24 months'&#xa0;change in anthropometry z-scores, (e.g., &#x394;LAZ) were evaluated by linear regression to predict BSID-III outcomes and to assess associations of anthropometric changes with BSID-III scores. The analysis consisted of 1386 infants (n&#x2009;=&#x2009;441, 486, 459 for Arms 1, 2&#xa0;and 3, respectively). None of the domain-specific BSID-III subscale scores differed by maternal intervention arm. Four covariates significantly predicted (p&#x2009;&#x2264;&#x2009;0.01) all 3 BSID-III subscales: secondary maternal education, &#x394;LAZ, birthweight >2500&#x2009;g, and FCI play materials. Linear growth was associated with all domains of neurodevelopment. The results underscore the multi-dimensional aspects of child development represented by the nurturing care framework, including prenatal maternal nutrition, post-natal growth, maternal education for responsive caregiving&#xa0;and opportunities for early learning.
+This study aims to evaluate the effectiveness of a self-management program using gain/loss-framed messages in patients with gastric cancer. In this randomized controlled trial, 69 patients with gastric cancer who underwent gastrectomy at a university hospital were assigned to the gain- or loss-framed message group. The self-management program consisted of: 1) face-to-face education, 2) gain/loss-framed text messages, and 3) self-monitoring of health behaviors. Health outcomes (i.e., nutritional status, physical activity, exercise intensity, and distress), and health behaviors (i.e., dietary habits, physical activity performance, and distress management) were measured, and a generalized estimating equation was used for the analysis. Nutritional status and dietary habits in the loss framed message group were statistically higher after the intervention compared to the counterpart (&#x3b2;&#xa0;=&#xa0;-1.72, p&#xa0;=&#xa0;.049; &#x3b2;&#xa0;=&#xa0;0.36, p&#xa0;=&#xa0;.033, respectively). There was no time-group interaction effect on physical activity, exercise intensity, physical activity performance, distress or distress management. A self-management program employing loss-framed messages was effective in promoting nutrition-related self-management among patients with gastric cancer. Message-framing is an effective communication technique that can be easily used in clinical settings, and a loss-message-framing strategy may enhance nutrition-related self-management in patients with gastric cancer.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/mcn.13703
+- DOI: 10.1016/j.pec.2024.108364
 
 2. Keywords
-- SQ&#x2010;LNS
-- infant neurodevelopment
-- linear growth
-- maternal nutrition supplement
-- nurturing care
-- preconception
+- Gastric cancer
+- Message framing
+- Patient education
+- Self-care
+- Self-management
+- Stomach cancer
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- SQ&#x2010;LNS assessment methods and outcomes
-- infant neurodevelopment assessment methods and outcomes
-- linear growth assessment methods and outcomes
+- Gastric cancer assessment methods and outcomes
+- Message framing assessment methods and outcomes
+- Patient education assessment methods and outcomes

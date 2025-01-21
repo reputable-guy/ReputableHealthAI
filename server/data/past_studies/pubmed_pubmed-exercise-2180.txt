@@ -1,28 +1,27 @@
-Study Title: The long-term effects of different telerehabilitation programs on respiratory, exercise, and activity-related parameters in COVID-19 survivors: a randomized controlled trial in T&#xfc;rkiye.
+Study Title: Examining Real-World Evidence of Depression-Related Symptom Reduction Through a Comprehensive Holistic Lifestyle Intervention.
 
 Study Summary:
-The long-term outcomes of different telerehabilitation gains for discharged COVID-19 patients are largely uncertain, and this point needs to be explored. This study aimed to research the effectiveness of telerehabilitation and compare the long-term results of videoconferencing-guided synchronous telerehabilitation and mobile application-guided asynchronous telerehabilitation programs, as well as determine the correlation between clinical and hemodynamic parameters. Exercise programs including aerobic exercises, strengthening exercises, and pulmonary exercises were given to COVID-19 patients discharged from the Kartal Dr. L&uuml;tfi Kirdar City Hospital in Istanbul, T&uuml;rkiye between August 2021 and January 2022, by videoconferencing or mobile application telerehabilitation. All patients underwent programs three times per week for 8 weeks. Lower extremity strength and functional status were assessed using a 30-second sit-to-stand test (30 s STS); physical activity level was assessed using the International Physical Activity Questionnaire short form (IPAQ); pulse oximetry was used to determine oxygen saturation and heart rate; and dyspnea and fatigue were assessed using a modified Borg Rating of Perceived Exertion Scale. Baseline, post-treatment, and long-term data were analyzed. A total of 27 patients completed the study. Significant improvement was seen in all parameters in long-term results with telerehabilitation programs (p<0.05). Especially in the between-group effect at rest (p=0.031) and post-exertion oxygen saturation (p=0.004), there were significant differences in favor of videoconferencing. Oxygen saturation was negatively correlated with dyspnea and fatigue (p<0.05). Post-exercise, dyspnea showed a moderate positive correlation with fatigue (r=0.582, p=0.001) and heart rate (r=0.412, p=0.033), while it exhibited a moderate negative correlation with 30 s STS (r=-0.424, p=0.027) and IPAQ (r=-0.401, p=0.038). Both methods generally provide positive gains in clinical and hemodynamic parameters, but the videoconferencing results were slightly better. Saturation at rest and dyspnea after exertion can provide a brief prediction about the cardiopulmonary system. Our findings are important for individuals who have access problems to the clinic and city center, and can be used for follow-up and treatment approaches.
+Depression is a global health concern, with various treatments available. In this study, participants (n = 430) were self-selected or medically referred to a residential lifestyle program at the Black Hills Health & Education Center (BHHEC), with a mean stay of 19 days. Individualized treatment plans included structured physical activity sessions, counseling sessions, and the provision of a vegan diet. Beck Depression Inventory-II, self-reported total exercise minutes, resistance exercise minutes, and sleep, along with the number of holistic treatments and counseling sessions, were evaluated. Paired samples t-tests indicated a significant decrease in depression scores over time (M= 20.14, M= 6.17,< .001). Results from the multiple linear regression that evaluated total exercise minutes, resistance exercise, number of treatments and counseling sessions, and average reported hours of nightly sleep on depression scores at time 2 indicated that average reported hours of nightly sleep were the only significant predictor of depression scores at time 2 (< .05). While depression scores significantly improved from baseline to post-assessment for all participants, it is possible that an unmeasured variable, or the synergistic intervention effect of the wellness program, accounted for changes in depressive symptoms over time. Future studies should incorporate sleep quality and assessing time spent in nature to explore these relationships further.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.22605/RRH8757
+- DOI: 10.1177/15598276241280883
 
 2. Keywords
-- dyspnea
-- fatigue
-- oxygen saturation
-- sit-to-stand
-- telerehabilitation
-- COVID-19
-- Turkiye
+- depression symptoms
+- exercise
+- lifestyle medicine
+- sleep
+- vegan diet
 
 3. Key Findings
-- Post-exercise, dyspnea showed a moderate positive correlation with fatigue (r=0
+- Paired samples t-tests indicated a significant decrease in depression scores over time (M= 20
+- Results from the multiple linear regression that evaluated total exercise minutes, resistance exercise, number of treatments and counseling sessions, and average reported hours of nightly sleep on depression scores at time 2 indicated that average reported hours of nightly sleep were the only significant predictor of depression scores at time 2 (<
 
 This study provides insights into:
-- dyspnea assessment methods and outcomes
-- fatigue assessment methods and outcomes
-- oxygen saturation assessment methods and outcomes
+- depression symptoms assessment methods and outcomes
+- exercise assessment methods and outcomes
+- lifestyle medicine assessment methods and outcomes

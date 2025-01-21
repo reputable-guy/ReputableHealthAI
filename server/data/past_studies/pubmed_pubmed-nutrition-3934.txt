@@ -1,30 +1,27 @@
-Study Title: Body Composition and Cardiometabolic Risk Markers in Children of Women who Took Part in a Randomized Controlled Trial of a Preconceptional Nutritional Intervention in Mumbai, India.
+Study Title: Protein-Energy Supplementation in Early-Life Decreases the Odds of Mental Distress in Later Adulthood in Guatemala.
 
 Study Summary:
-Maternal nutrition influences fetal development and may permanently alter ("program") offspring body composition and metabolism, thereby influencing later risk of diabetes and cardiovascular (cardiometabolic) disease. The prevalence of cardiometabolic disease is rising rapidly in India. To test the hypothesis that supplementing low-income Indian women with micronutrient-rich foods preconceptionally and during pregnancy has a beneficial impact on the children's body composition and cardiometabolic risk marker profiles. Follow-up of 1255 children aged 5-10 y whose mothers took part in the Mumbai Maternal Nutrition Project [Project "SARAS"; International Standard Randomised Controlled Trial Number (ISRCTN)62811278]. Mothers were randomly assigned to receive a daily micronutrient-rich snack or a control snack of lower micronutrient content, both made from local foods, in addition to normal diet, from before pregnancy until delivery. Children's body composition was assessed using anthropometry and DXA. Their blood pressure, plasma glucose, insulin, and lipid concentrations were measured. Outcomes were compared between allocation groups with and without adjustment for confounding factors. Overall, 15% of children were stunted, 34% were wasted, and 3% were overweight. In the intention-to-treat analysis, there were no differences in body composition or risk markers between children in the intervention and control groups. Among children whose mothers started supplementation&#xa0;&#x2265;3 mo before conception (the "per protocol" sample) the intervention increased adiposity among girls, but not boys. BMI in girls was increased relative to controls by 2% (95% CI: 1, 4; P&#xa0;=&#xa0;0.01); fat mass index by 10% (95% CI: 3, 18; P&#xa0;=&#xa0;0.004); and percent fat by 7% (95% CI: 1, 13; P&#xa0;=&#xa0;0.01) unadjusted, with similar results in adjusted models. Overall, supplementing women with micronutrient-rich foods from before pregnancy until delivery did not alter body composition or cardiometabolic risk markers in the children. Subgroup analyses showed that, if started &#x2265;3 mo before conception, supplementation may increase adiposity among female children.
+The prevalence of mental health concerns is growing worldwide, along with lack of access to and receipt of needed treatment. Current gaps in treatment provision have led to exploring alternative methods of prevention, with research linking nutrition and mental health, of particular relevance in low- and middle-income countries, with a high prevalence of undernutrition. To examine whether exposure to a protein-energy nutritional supplement during the first 1000 d of life decreased odds of mental distress in adulthood among men and women in Guatemala compared with receiving a low energy-no protein supplement or supplementation outside the 1000-d window. Data from participants (n&#xa0;=&#xa0;1249) in a longitudinal cohort protein-energy supplementation trial (early-life, supplementation data from 1969 to 1977, ages 0-7 y; life course, outcome data from 2017-2018 follow-up, ages 40-57 y) were analyzed for associations between nutrition in the first 1000 d and mental distress in adulthood (WHO Self-Reporting Questionnaire 20 [SRQ-20]), controlling for early-life variables and current life stress; life course variables (e.g. education) were examined as potential mediators of this relation. Generalized linear mixed models and zero-inflated Poisson generalized linear mixed models were utilized. Both partial and full supplementation with Atole during the first 1000 d were associated with 63% (95% CI: 0.16, 0.87) and 56% (95% CI: 0.19, 1.03) lower odds, respectively, of experiencing mental distress in adulthood. Results did not differ by sex. These inverse relations remained relatively unchanged (partial OR&#xa0;=&#xa0;0.34 [95% CI: 0.14, 0.83]; full OR&#xa0;=&#xa0;0.38 [95% CI: 0.16, 0.92]) after controlling for early-life and life course variables, including life stress. Protein-energy supplementation during the first 1000 d of life in Guatemala, where undernutrition is prevalent, may reduce the prevalence of later mental distress in adulthood. This effect appears to occur directly, rather than indirectly, through pathways of life course variables such as education, wealth, and marital status.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1093/jn/nxab443
+- DOI: 10.1093/jn/nxac005
 
 2. Keywords
-- DOHaD
-- India
-- children's body composition
-- children's glucose
-- children's insulin
-- children's lipids
-- maternal micronutrient supplementation
-- randomized controlled trial
+- adult mental distress
+- early childhood nutrition
+- longitudinal cohort
+- low- and middle- income countries
+- prevention
+- protein-energy supplementation
 
 3. Key Findings
-- Outcomes were compared between allocation groups with and without adjustment for confounding factors
-- Subgroup analyses showed that, if started &#x2265;3 mo before conception, supplementation may increase adiposity among female children
+- Findings extraction requires manual review
 
 This study provides insights into:
-- DOHaD assessment methods and outcomes
-- India assessment methods and outcomes
-- children's body composition assessment methods and outcomes
+- adult mental distress assessment methods and outcomes
+- early childhood nutrition assessment methods and outcomes
+- longitudinal cohort assessment methods and outcomes

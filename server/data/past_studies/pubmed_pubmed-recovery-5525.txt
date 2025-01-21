@@ -1,27 +1,26 @@
-Study Title: Programmed intermittent bolus versus continuous infusion for catheter-based erector spinae plane block on quality of recovery in thoracoscopic surgery: a single-centre randomised controlled trial.
+Study Title: A Tender Reduced-Intensity Conditioning for the Unfit: A Novel 4 Gy Total Body Irradiation-Based Conditioning Followed by Two-Step Haploidentical Stem Cell Transplant, Results of a Prospective Trial.
 
 Study Summary:
-Regional anaesthesia techniques, including the erector spinae fascial plane (ESP) block, reduce postoperative pain after video-assisted thoracoscopic surgery (VATS). Fascial plane blocks rely on spread of local anaesthetic between muscle layers, and thus, intermittent boluses might increase their clinical effectiveness. We tested the hypothesis that postoperative ESP analgesia with a programmed intermittent bolus (PIB) regimen is better than a continuous infusion (CI) regimen in terms of quality of recovery after VATS. We undertook a prospective, double-blinded, randomised, controlled trial involving 60 patients undergoing VATS. All participants received ESP block catheters and were randomly assigned to CI or PIB of local anaesthetic regimen for postoperative analgesia. The primary outcome was Quality of Recovery-15 (QoR-15) score 24 h after surgery. Secondary outcomes included postoperative respiratory function, opioid consumption, verbal rating pain score, time to first mobilisation, nausea, vomiting, and length of hospital stay. Overall QoR-15 scores at 24 h after VATS were similar (PIB 115.5 [interquartile range 107-125] vs CI 110 [93-128]; &#x394;<6, P=0.29). The only quality of recovery descriptor showing a significant difference was nausea and vomiting, which was favourable in the PIB group (10 [10-10] vs 10 [7-10]; P=0.03). Requirement for rescue antiemetics up to 24 h after surgery was lower in the PIB group (4 [14%] vs 11 [41%]; P=0.04). There were no differences in other secondary outcomes between groups. Delivering ESP block analgesia after VATS via a PIB regimen resulted in similar QoR-15 at 24 h compared with a CI regimen.
+Allogeneic hematopoietic stem cell transplant (HSCT) remains the only potentially curative treatment for many hematologic malignancies (HM). We previously developed a two-step approach that separates the lymphoid and myeloid portions of the graft, allowing a consistent T cell dosing and sparing the stem cells from the effect of post-transplant cyclophosphamide (CY). The two-step approach demonstrated safety and efficacy in patients treated with myeloablative and reduced-intensity conditioning. Here, we extended our two-step platform to older and less fit patients and explored the effects of using a high dose of T cells on disease relapse and transplant outcomes. Thirty-four patients with HM were treated. Median age was 68 years old and included a minority population constituting 32%. Eighty-two percent had a hematopoietic cell transplantation comorbidity index score &#x2265;3. Ninety-one percent were haploidentical, and the rest were matched-related donor HSCT. Following administration of fludarabine and 2 Gy total body irradiation (TBI) (13 patients) or 4 Gy TBI (21 patients) conditioning regimen, a fixed dose of 2 &#xd7; 10/kg CD3+ T cells was given, followed 2 days later by CY, then infusion of CD34-selected stem cells. Overall survival (OS) was 70% at 1 year and 48% at 3 years. The cumulative incidence (CI) of non-relapse mortality (NRM) and relapse were 22% and 33% at 3 years. However, the CI of relapse was much lower for patients treated with 4 Gy TBI versus those treated with 2 Gy TBI (11% versus 54%, P = .045), while NRM was similar (23% versus 15%, P = .399). This contributed to a high OS of 64% in patients who received 4 Gy TBI-based conditioning at 3 years, with median OS not reached, although this was not statistically significant (P = .68). The median time to neutrophil and platelet recovery was 12 and 17 days, respectively. The CI of grade II acute graft-versus-host-disease (aGVHD) was 22% and 26% at 100 days and 6 months, respectively. The CI of chronic GVHD (cGVHD) was 7.5% at 3 years. There was no grade III or IV aGVHD, no severe cGVHD, and no deaths attributable to GVHD. In conclusion, the two-step approach HSCT demonstrated a low disease relapse rate and high survival in patients treated with 4 Gy TBI-based conditioning, despite a generally older and more medically compromised patient population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.bja.2024.05.041
+- DOI: 10.1016/j.jtct.2024.07.019
 
 2. Keywords
-- continuous infusion
-- erector spinae plane block
-- peripheral nerve block
-- postoperative recovery
-- programmed intermittent bolus
-- regional anaesthesia
+- Cyclophosphamide tolerization
+- Haploidentical
+- Stem cell transplantation
+- Two-step approach
 
 3. Key Findings
-- Findings extraction requires manual review
+- The two-step approach demonstrated safety and efficacy in patients treated with myeloablative and reduced-intensity conditioning
+- In conclusion, the two-step approach HSCT demonstrated a low disease relapse rate and high survival in patients treated with 4 Gy TBI-based conditioning, despite a generally older and more medically compromised patient population
 
 This study provides insights into:
-- continuous infusion assessment methods and outcomes
-- erector spinae plane block assessment methods and outcomes
-- peripheral nerve block assessment methods and outcomes
+- Cyclophosphamide tolerization assessment methods and outcomes
+- Haploidentical assessment methods and outcomes
+- Stem cell transplantation assessment methods and outcomes

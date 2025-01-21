@@ -1,26 +1,28 @@
-Study Title: Predictors of the efficacy of His bundle pacing in patients with a prolonged PR interval: A stratified analysis of the HOPE-HF randomized controlled trial.
+Study Title: Safety and efficacy of motor imagery-based physical activity in high-risk pregnancy: A randomized controlled study.
 
 Study Summary:
-The randomized, double-blind, placebo-controlled HOPE-HF trial assessed the benefit of atrio-ventricular (AV) delay optimization delivered using His bundle pacing. It recruited patients with left ventricular ejection fraction &#x2264;40%, PR interval &#x2265;200&#x2009;ms, and baseline QRS &#x2264;140&#x2009;ms or right bundle branch block. Overall, there was no significant increase in peak oxygen uptake (VOmax) but there was significant improvement in heart failure specific quality of life. In this pre-specified secondary analysis, we evaluated the impact of baseline PR interval, echocardiographic E-A fusion, and the magnitude of acute high-precision haemodynamic response to pacing, on outcomes. All 167 randomized participants underwent measurement of PR interval, acute haemodynamic response at optimized AV delay, and assessment of presence of E-A fusion. We tested the impact of these baseline parameters using a Bayesian ordinal model on VOmax, quality of life and activity measures. There was strong evidence of a beneficial interaction between the baseline acute haemodynamic response and the blinded benefit of pacing for VO(Pr 99.9%), Minnesota Living With Heart Failure (MLWHF) (Pr 99.8%), MLWHF physical limitation score (Pr 98.9%), EQ-5D visual analogue scale (Pr 99.6%), and exercise time (Pr 99.4%). The baseline PR interval and the presence of baseline E-A fusion did not have this reliable ability to predict the clinical benefit of pacing over placebo across multiple endpoints. In the HOPE-HF trial, the acute haemodynamic response to pacing reliably identified patients who obtained clinical benefit. Patients with a long PR interval (&#x2265;200&#x2009;ms) and left ventricular impairment who obtained acute haemodynamic improvement with AV-optimized His bundle pacing were likely to obtain clinical benefit, consistent across multiple endpoints. Importantly, this gradation can be reliably tested for before randomization, but does require high-precision AV-optimized haemodynamic assessment to be performed.
+This study aimed to investigate the acute effects of motor imagery-based physical activity on maternal well-being, maternal blood pressure, heart rate, oxygen saturation, fetal heart rate, and uterine contractions in women with high-risk pregnancies. This randomized controlled trial was conducted in Izmir Tepecik Education and Research Hospital from August 2023 to January 2024. Seventy-six women with high-risk pregnancies were randomized into two groups: a motor imagery group (n&#x2009;=&#x2009;38, diaphragmatic-breathing exercise and motor imagery-based physical activity) and a control group (n&#x2009;=&#x2009;38, diaphragmatic-breathing exercise). Maternal well-being was determined using the Numerical Rating Scale-11. Digital sphygmomanometry was used to measure maternal heart rate and blood pressure, pulse oximetry for oxygen saturation, and cardiotocography for fetal heart rate and uterine contractions. Assessments were performed pre-intervention, mid-intervention, and post-intervention. There were no significant differences in baseline characteristics between groups (P&#x2009;>&#x2009;0.05). There was a significant main effect of time in terms of maternal well-being and maternal heart rate (P&#x2009;=&#x2009;0.001 and P&#x2009;=&#x2009;0.015). In addition, there was a significant main effect of the group on oxygen saturation (P&#x2009;=&#x2009;0.025). The overall group-by-time interaction was significant for maternal well-beingm with an effect size of 0.05 (P&#x2009;=&#x2009;0.041). The combination of diaphragmatic-breathing exercises and a motor imagery-based physical activity program in women with high-risk pregnancies was determined to have no adverse effects on the fetus, did not induce uterine contractions, and resulted in a significant improvement in maternal well-being and oxygen saturation. Thus, imagery-based physical activity can be used in high-risk pregnancies where physical activity and exercise are not recommended.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ejhf.3367
+- DOI: 10.1002/ijgo.15799
 
 2. Keywords
-- Atrio&#x2010;ventricular delay optimization
-- Conduction system pacing
-- Haemodynamic study
-- His&#xa0;bundle pacing
-- Physiological pacing
+- blood pressure
+- exercise
+- fetal
+- high&#x2010;risk pregnancy
+- motor imagery
+- vital signs
+- well&#x2010;being
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Atrio&#x2010;ventricular delay optimization assessment methods and outcomes
-- Conduction system pacing assessment methods and outcomes
-- Haemodynamic study assessment methods and outcomes
+- blood pressure assessment methods and outcomes
+- exercise assessment methods and outcomes
+- fetal assessment methods and outcomes

@@ -1,26 +1,25 @@
-Study Title: Impact of a Homestead Food Production Program on Dietary Diversity: Seasonal and Annual Results from the Cluster-Randomized FAARM Trial in Sylhet, Bangladesh.
+Study Title: Diet composition, adherence to calorie restriction, and cardiometabolic disease risk modification.
 
 Study Summary:
-Rice-predominant diets are common in Bangladesh, leading to widespread nutritional deficiencies. The Food and Agricultural Approaches to Reducing Malnutrition (FAARM) cluster-randomized controlled trial in rural Sylhet, Bangladesh evaluated a homestead food production intervention implemented 2015-2018 through Helen Keller International, aiming to improve child growth. We estimated the intervention's impact on women's and children's dietary diversity, a secondary trial objective. We collected dietary diversity throughout the trial (March 2015 to June 2020) at multiple times each year using standard, United Nations-endorsed, self-reported measures for women (10-food group scale) and children (7-food group scale). We included 28,282 observations of 2701 women (out of 2705 enrolled) and 17,445 observations of their 3257 children (aged 6-37 mo) in 96 settlements, 48 of which received the intervention. We estimated the intervention's impact on dietary diversity by year of intervention, overall periods following the start of the intervention, and seasonally, using multilevel regression with the control group as the counterfactual, controlling for seasonality, baseline dietary diversity, and clustering by settlement and repeated measures. At baseline, approximately one-third of women and children consumed a minimally diverse diet. Over the entire intervention and postintervention period, women's and children's odds of consuming a minimally diverse diet nearly doubled (odds ratio [OR] 1.8, P&#xa0;<&#xa0;0.001, for both). This benefit was barely present in the first year, increased in the second, and peaked in the last intervention year (OR 2.4 for women, OR 2.5 for children, both P < 0.001) before settling at around double the odds in postintervention years (P < 0.001). Dietary improvement was observed throughout the year for both women and children with incremental increases in nearly all food groups. The nutrition-sensitive agriculture intervention successfully increased dietary diversity in women and children, and these impacts persisted after the project closed, including during the early COVID 19 lockdown period. This trial was registered at clinicaltrials.gov as NCT02505711.
+Calorie restriction (CR) is a promising approach for attenuating the risk of age-related disease. However, the role of diet composition on adherence to CR and the effects of CR on cardiometabolic markers of healthspan remains unknown. We used the Geometric Framework for Nutrition approach to examine the association between macronutrient composition and CR adherence during the 2-year CALERIE trial. Adult participants without obesity were randomized to a 25% CR intervention or an ad&#xa0;libitum intake control. Correlations of cardiometabolic risk factors with macronutrient composition and standard dietary pattern indices [Alternate Mediterranean Diet Index (aMED), Dietary Inflammatory Index (DII), and Healthy Eating Index (HEI)] were also evaluated by Spearman's correlation at each time point. The mean age was 38.1&#x2009;&#xb1;&#x2009;7.2&#x2009;years at baseline and the mean BMI was 25.1&#x2009;&#xb1;&#x2009;1.7. The study population was 70% female. The CR group, but not the control, consumed a higher percentage reported energy intake from protein and carbohydrate and lower fat at 12&#x2009;months compared to baseline; comparable results were observed at 24 months. Protein in the background of higher carbohydrate intake was associated with greater adherence at 24&#x2009;months. There was no correlation between macronutrient composition and cardiometabolic risk factors in the CR group. However, statistically significant correlations were observed for the DII and HEI. These findings suggest that individual self-selected macronutrients have an interactive but not independent role in CR adherence. Additional research is required to examine the impact of varying macronutrient compositions on adherence to CR and resultant modification to cardiometabolic risk factors.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1016/j.tjnut.2023.10.014
+- Publication Date: 2023
+- DOI: 10.1111/acel.14018
 
 2. Keywords
-- gardening
-- infant and young child feeding
-- minimally diverse diet
-- nutrition-sensitive agriculture
-- seasonality
+- aging
+- calorie restriction
+- human
+- molecular biology of aging
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- gardening assessment methods and outcomes
-- infant and young child feeding assessment methods and outcomes
-- minimally diverse diet assessment methods and outcomes
+- aging assessment methods and outcomes
+- calorie restriction assessment methods and outcomes
+- human assessment methods and outcomes

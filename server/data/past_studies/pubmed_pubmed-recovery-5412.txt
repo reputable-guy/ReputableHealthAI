@@ -1,26 +1,20 @@
-Study Title: Impact of a package of point-of-care diagnostic tests, a clinical diagnostic algorithm and adherence training on antibiotic prescriptions for the management of non-severe acute febrile illness in primary health facilities during the COVID-19 pandemic in Burkina Faso.
+Study Title: Comparison of Therapeutic Effect of Apheresis Platelets and Buffy Coat-Derived Platelet Concentrates.
 
 Study Summary:
-To assess the impact of an intervention package on the prescription of antibiotic and subsequently the rate of clinical recovery for non-severe acute febrile illnesses at primary health centers. Patients over 6 months of age presenting to primary health care centres with fever or history of fever within the past 7 days were randomized to receive either the intervention package constituted of point-of-care tests including COVID-19 antigen tests, a diagnostic algorithm and training and communication packages, or the standard practice. The primary outcomes were antibiotic prescriptions at Day 0 (D0) and the clinical recovery at Day 7 (D7). Secondary outcomes were non-adherence of participants and parents/caregivers to prescriptions, health workers' non-adherence to the algorithm, and the safety of the intervention. A total of 1098 patients were enrolled. 551 (50.2%) were randomized to receive the intervention versus 547 (49.8%) received standard care. 1054 (96.0%) completed follow-up and all of them recovered at D7 in both arms. The proportion of patients with antibiotic prescriptions at D0 were 33.2% (183/551) in the intervention arm versus 58.1% (318/547) under standard care, risk difference (RD) -24.9 (95% CI -30.6 to -19.2, p&#x2009;<&#x2009;0.001), corresponding to one more antibiotic saved every four (95% CI: 3 to 5) consultations. This reduction was also statistically significant in children from 6 to 59 months (RD -34.5; 95% CI -41.7 to -27.3; p&#x2009;<&#x2009;0.001), patients over 18 years (RD -35.9; 95%CI -58.5 to -13.4; p&#x2009;=&#x2009;0.002), patients with negative malaria test (RD -46.9; 95% CI -53.9 to -39.8; p&#x2009;<&#x2009;0.001), those with a respiratory diagnosis (RD -48.9; 95% CI -56.9 to -41.0, p&#x2009;<&#x2009;0.001) and those not vaccinated against COVID-19 (-24.8% 95%CI -30.7 to -18.9, p-value: <0.001). A significant reduction in non-adherence to prescription by patients was reported (RD -7.1; 95% CI -10.9 to -3.3; p&#x2009;<&#x2009;0.001). The intervention was associated with significant reductions of antibiotic prescriptions and non-adherence, chiefly among patients with non-malaria fever, those with respiratory symptoms and children below 5 years of age. The addition of COVID-19 testing did not have a major impact on antibiotic use at primary health centers. Clinitrial.gov; NCT04081051 registered on 06/09/2019.
+The study aimed to investigate the difference in clinical efficacy between apheresis platelets and buffy coat-derived platelet concentrates infusion in patients with hematological diseases. A total of 218 patients with hematological diseases were enrolled in Xi'an Central Hospital, from January 2023 to October 2023, and randomly divided into two groups: 109 patients were treated with apheresis platelet transfusion (AP group) and 109 patients with buffy coat derived platelet concentrates (BC-PC group). Platelet counts were measured before and 24 hours after transfusion, and the corrected platelet ascending number (CCI) and platelet recovery rate (PPR) were calculated. The clinical efficacy and blood transfusion reaction were observed. After 24 hours of platelet transfusion, there was no significant difference in the platelet count between the AP and BC-PC groups (p > 0.05). However, CCI and PPR significantly differed between the two groups (p < 0.05). Moreover, the incidence of transfusion reaction in the AP group was significantly lower than in the BC-PC group. The clinical efficacy of buffy coat-derived platelet concentrates is lower than that of apheresis platelets, but it can also improve the patient's condition and quality of life. Therefore, clinicians could rationally use BC-PC, according to the actual situation of the patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12879-024-09787-y
+- DOI: 10.7754/Clin.Lab.2024.231149
 
 2. Keywords
-- Acute fever
-- Antibiotic prescription
-- COVID-19
-- Point-of-care tests
-- Respiratory tract infection
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Acute fever assessment methods and outcomes
-- Antibiotic prescription assessment methods and outcomes
-- COVID-19 assessment methods and outcomes
+- General research methodology and outcomes

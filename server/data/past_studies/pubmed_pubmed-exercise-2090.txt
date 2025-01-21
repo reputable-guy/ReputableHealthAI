@@ -1,25 +1,27 @@
-Study Title: FallFitness exercise program provided using the train-the-trainer approach for community-dwelling older adults: a randomized controlled trial.
+Study Title: Quantifying the Enhancement of Sarcopenic Skeletal Muscle Preservation Through a Hybrid Exercise Program: Randomized Controlled Trial.
 
 Study Summary:
-Falls and fall-related injuries remain a global challenge and threat to the health of older adults. Specific strength and balance exercises are effective in preventing falls among community-dwelling older adults. Nevertheless, provision of evidence-based fall prevention interventions to a broad population represents a healthcare challenge, indicating that new models for promoting exercise among community-dwelling older adults need to be addressed. Here, we aimed to evaluate the effects of a peer-led group-based exercise intervention provided using the train-the-trainer approach and targeting physical performance, activity level, handgrip strength, quality of life, fall-related self-efficacy, fear of falling, and falling techniques compared with a control group at 8-week follow-up. This randomized controlled trial (RCT) included trainers and participants who were recruited from four collaborating regional organizations for retired persons. The intervention was planned to be provided in five municipalities in Sweden, depending on the location of the registered trainers. Eligible participants included adults aged&#x2009;&#x2265;&#x2009;60 years who could walk independently and understand written and oral information in Swedish. The FallFitness multicomponent exercise program delivered weekly strength, balance, and falling techniques over eight weeks. It was evaluated using the train-the-trainer approach. Fourteen older adults were eligible for trainer education, and 101 participants were randomly allocated for the FallFitness exercise (n&#x2009;=&#x2009;50) or a control group (n&#x2009;=&#x2009;51). After 8 weeks of peer-led training, the short multicomponent exercise program significantly improved the physical activity levels (p&#x2009;=&#x2009;0.036) and backward and sideways falling techniques (p&#x2009;<&#x2009;0.001) compared to those in the control group. Fear of falling significantly decreased in the exercise group (p&#x2009;=&#x2009;0.009). Other outcomes in this study showed to be non-significant. The multicomponent exercise program provided in eight sessions using the train-the-trainer approach may be effective in promoting physical activity and the learning of motor skills and safe landing strategies. Furthermore, the FallFitness exercise program may reduce the fear of falling and may be both time- and cost-effective. ClinicalTrials.gov, NCT06265480 (20240208).
+Sarcopenia is characterized by the loss of skeletal muscle mass and muscle function with increasing age. The skeletal muscle mass of older people who endure sarcopenia may be improved via the practice of strength training and tai chi. However, it remains unclear if the hybridization of strength exercise training and traditional Chinese exercise will have a better effect. We designed a strength training and tai chi exercise hybrid program to improve sarcopenia in older people. Moreover, explainable artificial intelligence was used to predict postintervention sarcopenic status and quantify the feature contribution. To assess the influence of sarcopenia in the older people group, 93 participated as experimental participants in a 24-week randomized controlled trial and were randomized into 3 intervention groups, namely the tai chi exercise and strength training hybrid group (TCSG; n=33), the strength training group (STG; n=30), and the control group (n=30). Abdominal computed tomography was used to evaluate the skeletal muscle mass at the third lumbar (L3) vertebra. Analysis of demographic characteristics of participants at baseline used 1-way ANOVA and &#x3c7;2 tests, and repeated-measures ANOVA was used to analyze experimental data. In addition, 10 machine-learning classification models were used to calculate if these participants could reverse the degree of sarcopenia after the intervention. A significant interaction effect was found in skeletal muscle density at the L3 vertebra, skeletal muscle area at the L3 vertebra (L3 SMA), grip strength, muscle fat infiltration, and relative skeletal muscle mass index (all P values were <.05). Grip strength, relative skeletal muscle mass index, and L3 SMA were significantly improved after the intervention for participants in the TCSG and STG (all P values were <.05). After post hoc tests, we found that participants in the TCSG experienced a better effect on L3 SMA than those in the STG and participants in the control group. The LightGBM classification model had the greatest performance in accuracy (88.4%), recall score (74%), and F1-score (76.1%). The skeletal muscle area of older adults with sarcopenia may be improved by a hybrid exercise program composed of strength training and tai chi. In addition, we identified that the LightGBM classification model had the best performance to predict the reversion of sarcopenia.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12877-024-05575-0
+- DOI: 10.2196/58175
 
 2. Keywords
-- Falling techniques
-- Falls
-- Older adults
-- Public health
+- explainable artificial intelligence
+- older adults
+- physical exercise program
+- sarcopenia
+- tai chi
 
 3. Key Findings
-- Other outcomes in this study showed to be non-significant
+- A significant interaction effect was found in skeletal muscle density at the L3 vertebra, skeletal muscle area at the L3 vertebra (L3 SMA), grip strength, muscle fat infiltration, and relative skeletal muscle mass index (all P values were <
+- After post hoc tests, we found that participants in the TCSG experienced a better effect on L3 SMA than those in the STG and participants in the control group
 
 This study provides insights into:
-- Falling techniques assessment methods and outcomes
-- Falls assessment methods and outcomes
-- Older adults assessment methods and outcomes
+- explainable artificial intelligence assessment methods and outcomes
+- older adults assessment methods and outcomes
+- physical exercise program assessment methods and outcomes

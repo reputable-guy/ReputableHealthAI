@@ -1,30 +1,27 @@
-Study Title: Randomized Crossover Trial of 2-Week Ketone Ester Treatment in Patients With Type 2 Diabetes and Heart Failure With Preserved Ejection Fraction.
+Study Title: Effects of Velocity Loss During Bench-Press Training With Light Relative Loads.
 
 Study Summary:
-Heart failure with preserved ejection fraction (HFpEF) is a major cause of morbidity and mortality in patients with type 2 diabetes (T2D). Acute increases in circulating levels of ketone body 3-hydroxybutyrate have beneficial acute hemodynamic effects in patients without T2D with chronic heart failure with reduced ejection fraction. However, the cardiovascular effects of prolonged oral ketone ester (KE) treatment in patients with T2D and HFpEF remain unknown. A total of 24 patients with T2D and HFpEF completed a 6-week randomized, double-blind crossover study. All patients received 2 weeks of KE treatment (25 g D-&#xdf;-hydroxybutyrate-(R)-1,3-butanediol &#xd7; 4 daily) and isocaloric and isovolumic placebo, separated by a 2-week washout period. At the end of each treatment period, patients underwent right heart catheterization, echocardiography, and blood samples at trough levels of intervention, and then during a 4-hour resting period after a single dose. A subsequent second dose was administered, followed by an exercise test. The primary end point was cardiac output during the 4-hour rest period. During the 4-hour resting period, circulating 3-hydroxybutyrate levels were 10-fold higher after KE treatment (1010&#xb1;56 &#xb5;mol/L;<0.001) compared with placebo (91&#xb1;55 &#xb5;mol/L). Compared with placebo, KE treatment increased cardiac output by 0.2 L/min (95% CI, 0.1 to 0.3) during the 4-hour period and decreased pulmonary capillary wedge pressure at rest by 1 mm&#x2009;Hg (95% CI, -2 to 0) and at peak exercise by 5 mm&#x2009;Hg (95% CI, -9 to -1). KE treatment decreased the pressure-flow relationship (&#x2206; pulmonary capillary wedge pressure/&#x2206; cardiac output) significantly during exercise (<0.001) and increased stroke volume by 10 mL (95% CI, 0 to 20) at peak exercise. KE right-shifted the left ventricular end-diastolic pressure-volume relationship, suggestive of reduced left ventricular stiffness and improved compliance. Favorable hemodynamic responses of KE treatment were also observed in patients treated with sodium-glucose transporter-2 inhibitors and glucagon-like peptide-1 analogs. In patients with T2D and HFpEF, a 2-week oral KE treatment increased cardiac output and reduced cardiac filling pressures and ventricular stiffness. At peak exercise, KE treatment markedly decreased pulmonary capillary wedge pressure and improved pressure-flow relationship. Modulation of circulating ketone levels is a potential new treatment modality for patients with T2D and HFpEF. URL: https://www.clinicaltrials.gov; Unique Identifier: NCT05236335.
+This study explored the effects of 4 bench-press (BP) training programs with different velocity-loss (VL) thresholds (0%, 15%, 25%, and 50%) on strength gains and neuromuscular adaptations. Forty-six resistance-trained men (22.8 [4.4]&#xa0;y) were randomly assigned into 4 groups that differed in the VL allowed within the set: 0% (VL0), 15% (VL15), 25% (VL25), and 50% (VL50). Training loads (40%-55% 1-repetition maximum), frequency (2 sessions/wk), number of sets (3), and interset recovery (4&#xa0;min) were identical for all groups. Participants completed the following tests before and after an 8-week (16-session) BP training program: (1)&#xa0;maximal isometric test, (2)&#xa0;progressive loading test, and (3)&#xa0;fatigue test in the BP exercise. During all tests, triceps brachii muscle electromyography was assessed. After completing the resistance-training program, no significant group &#xd7; time interactions were noticed for isometric and dynamic BP strength variables. The dose-response relationship exhibited an inverted U-shaped relationship pattern, with VL25 showing the greatest effect sizes for almost all strength variables analyzed. The total number of repetitions performed during the training program increased as the VL magnitude increased. The group that trained with high VL threshold (50%), which performed a total of 876 repetitions, did not experience additional strength gains compared with those experienced by the 0%, 15%, and 25% of VL groups, which performed significantly fewer repetitions (48, 357, and 547, respectively). These findings suggest that when light loads (40%-55% 1-repetition maximum) are used, low and moderate VL thresholds (0%-25%) provide a higher training efficiency.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1161/CIRCULATIONAHA.124.069732
+- DOI: 10.1123/ijspp.2023-0529
 
 2. Keywords
-- 3-hydroxybutyrate
-- cardiac output
-- esters
-- exercise
-- heart failure, diastolic
-- hemodynamics
-- ketone ester
-- ketones
-- metabolism
+- level of effort
+- muscle strength
+- neuromuscular adaptations
+- resistance training
+- training prescription
+- velocity-based training
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- 3-hydroxybutyrate assessment methods and outcomes
-- cardiac output assessment methods and outcomes
-- esters assessment methods and outcomes
+- level of effort assessment methods and outcomes
+- muscle strength assessment methods and outcomes
+- neuromuscular adaptations assessment methods and outcomes

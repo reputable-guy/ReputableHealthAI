@@ -1,27 +1,27 @@
-Study Title: A randomized trial of retropubic vs single-incision sling among patients undergoing vaginal prolapse repair.
+Study Title: Change in Resting-State Functional Connectivity Following Working Memory Training in Individuals With Repetitive Negative Thinking.
 
 Study Summary:
-The choice of midurethral sling type may impact efficacy and complications in women undergoing transvaginal native tissue repair of pelvic organ prolapse. The primary aim was to determine if the single-incision sling is noninferior to retropubic sling for the management of stress urinary incontinence among patients undergoing reconstructive or obliterative native tissue vaginal repair. The secondary aims were to compare adverse events and surgeon ease of use with sling assignment. A multicenter, noninferiority, randomized trial of women with &#x2265; stage II pelvic organ prolapse and objectively confirmed stress urinary incontinence undergoing reconstructive or obliterative vaginal repair was performed. Women were randomized to concomitant single-incision (Altis sling, Coloplast Minneapolis, MN) with suprapubic sham incisions or retropubic slings. The primary dichotomous outcome was abnormal lower urinary tract function within 12 months postsurgery, defined as bothersome stress urinary incontinence symptoms (>1 Pelvic Floor Distress Inventory question no. 17); retreatment for stress urinary incontinence or treatment for urinary retention. Secondary outcomes were adverse events, Patient Global Impression of Improvement of bladder function, and surgeon ease of use (1, worst; 10, best). All subjects completed validated questionnaires and underwent a Pelvic Organ Prolapse Quantification, cough stress test, and postvoid residual preoperatively, at 6 weeks and 12 months postoperatively. Assuming a subjective cure rate for retropubic of 82%, 80% power, and 1-sided 5% significance level, we estimated that 127 patients in each arm were needed to declare noninferiority of the single-incision sling if the upper bound of the 95% confidence interval for the between-group difference per protocol in abnormal bladder function was <12%. Assuming a 10% loss to follow-up, the total enrollment goal was&#xa0;280. Between December 2018 and January 2023, 280 subjects were enrolled across 7 sites, and 255 were randomized: 126 were for single-incision, and 129 were for retropubic sling. There were no preoperative or operative characteristic differences between groups. Overall, 81% had reconstructive, and 19% had obliterative native tissue repairs. The primary outcome, abnormal lower urinary tract function at 12 months, occurred in 29 (25%) of single-incision vs 24 (20%) of the retropubic sling group (risk difference, 0.04472 [95% confidence interval,&#xa0;-0.03 to 0.1133]; P=.001 for noninferiority). Bothersome stress urinary incontinence occurred in 20% vs 17% (P=.27) and was retreated in 4% vs 2% (P=.44) of single-incision vs retropubic groups, respectively. Adverse events were reported in 24 (16%) of single-incision vs 14 (9%) of the retropubic group (95% confidence interval, 0.95-3.29; P=.70) and included de novo or worsening urgency incontinence symptoms, urinary tract infection, mesh exposure, need for prolonged catheter drainage, and de novo pain, without differences between groups. Patient Global Impression of Improvement (very satisfied and satisfied) was 71% vs 67% (P=.43), and median surgeon ease of sling use was 8 (7-10) vs 9 (8-10), P=.03 in single-incision vs retropubic, respectively. For women undergoing vaginal repair, single-incision was noninferior to retropubic sling for stress urinary incontinence symptoms, and complications, including treatment for urinary retention, did not differ.
+Repetitive negative thinking (RNT) symptoms, which are characterized by pervasive, uncontrollable negative thoughts, are common in individuals with mood, anxiety, and traumatic stress disorders. Inability to regulate the contents of working memory is a hypothesized etiological factor in RNT, which suggests that training to improve working memory may be beneficial. This study examined the effects of working memory training on resting-state functional connectivity (rsFC) in individuals with elevated RNT and whether such changes would be associated with clinical improvement. We conducted a secondary analysis of pre-post resting-state data collected as part of a randomized controlled trial (NCT04912089) of working memory training interventions (n&#xa0;= 42) compared with a waitlist control group (n&#xa0;= 23). We hypothesized that individuals who completed training would show increased rsFC between the 2 key intrinsic connectivity networks-the default mode network (posterior cingulate cortex) and the frontoparietal network (dorsolateral prefrontal cortex). We explored whether the magnitude of rsFC change was associated with change in RNT symptom severity. rsFC increased between the posterior cingulate cortex and regions including the frontal and parietal cortex in the training group compared with the waitlist group. Increased connectivity between the posterior cingulate cortex and superior frontal cortex was associated with RNT symptom reduction. These data provide evidence that working memory training can modulate neural circuitry at rest in individuals with RNT. Results are consistent with accounts of working memory training effects on large-scale neurocircuitry changes and suggest that these changes may contribute to clinical promise of this type of intervention on transdiagnostic RNT symptoms.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ajog.2024.04.036
+- DOI: 10.1016/j.bpsc.2024.04.017
 
 2. Keywords
-- colpocleisis
-- midurethral sling
-- native tissue vaginal repair
-- occult stress incontinence
-- single-incision sling
-- stress incontinence
+- Cognitive training
+- Functional connectivity
+- Repetitive negative thinking
+- Resting state
+- Working memory
+- fMRI
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- colpocleisis assessment methods and outcomes
-- midurethral sling assessment methods and outcomes
-- native tissue vaginal repair assessment methods and outcomes
+- Cognitive training assessment methods and outcomes
+- Functional connectivity assessment methods and outcomes
+- Repetitive negative thinking assessment methods and outcomes

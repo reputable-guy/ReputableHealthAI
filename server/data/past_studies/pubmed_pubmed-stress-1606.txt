@@ -1,25 +1,20 @@
-Study Title: The effect of music on pain, anxiety and satisfaction during nonstress testing.
+Study Title: Diagnostic Accuracy of Mental Health Screening Tools After Mild Traumatic Brain Injury.
 
 Study Summary:
-To determine the effect of instrumental music played during Nonstress Test (NST) on pain, anxiety and satisfaction. This research was planned as randomised controlled. The sample of the study consists of 64 pregnant women. In data collection, a survey form containing socio-demographic characteristics, State-Trait Anxiety Scale, Visual Analog Scale (VAS) and Evgeny Grinko-Valse piece were used as music. Among the groups where music was applied, satisfaction with the procedure was significantly high (X: 12.666, p: 0.049). No significant difference was detected between anxiety and pain conditions (p&#x2009;>&#x2009;0.05). The scale scores of the groups before and after the procedure were evaluated; Before the procedure, significant differences were detected between the groups in terms of trait anxiety and fear of pain. As a result of the evaluation made after the procedure, there are significant differences between state anxiety and fear of pain (p&#x2009;<&#x2009;0.05). It was determined that music played during the NST procedure reduced state and trait anxiety. Satisfaction levels are also higher among the group that is listened to music. A successful pregnancy is important for the health of mother and baby. Reducing anxiety and stress, especially during the examinations, ensures that the process continues successfully. It is recommended that music played during pregnancy examinations and screening tests be used in clinics and during the procedure to increase satisfaction and reduce anxiety.
+Mental health disorders are common after mild traumatic brain injury (mTBI) and likely exacerbate postconcussive symptoms and disability. Early detection could improve clinical outcomes, but the accuracy of mental health screening tools in this population has not been well established. To determine the diagnostic accuracy of the Patient Health Questionnaire-9 (PHQ-9), Generalizaed Anxiety Disorder-7 (GAD-7), and Primary Care PTSD (Posttramatic Stress Disorder) Screen for Diagnostic and Statistical Manual of Mental Disorders (Fifth Edition) (DSM-5) (PC-PTSD-5) in adults with mTBI. This diagnostic study was performed as a secondary analysis of a cluster randomized clinical trial. Self-report mental health screening tools (PHQ-9, GAD-7, and PC-PTSD-5) were administered online 12 weeks after mTBI and compared against a structured psychodiagnostic interview (Mini-International Neuropsychiatric Interview for DSM-5 (MINI) over videoconference at the same time. Adults with mTBI (N&#x2009;=&#x2009;537) were recruited from February 1, 2021, to October 25, 2022. Presence of a major depressive episode, anxiety disorders, and PTSD were determined by a blinded assessor with the MINI. Diagnostic accuracy statistics were derived for the PHQ-9, GAD-7, and PC-PTSD-5. Findings were disaggregated for participants with and without persistent postconcussion symptoms (PPCS) by International and Statistical Classification of Diseases, Tenth Revision criteria. Data were available for 499 of 537 trial participants, 278 (55.7%) of whom were female; the mean (SD) age was 38.8 (13.9) years. Each screening questionnaire had strong diagnostic accuracy in the overall sample for optimal cut points (area under the curve [AUC], &#x2265;0.80; sensitivity,&#x2009;0.55-0.94; specificity,&#x2009;0.64-0.94). The AUC (difference of 0.01-0.13) and specificity (difference,&#x2009;5-65 percentage points) were lower in those with PPCS present compared with PPCS absent, but the prevalence of at least 1 mental health disorder was 3 to 5&#x2009;times&#x2009;higher in patients with PPCS present. The GAD-7 had slightly better performance than the PC-PTSD-5 for detecting PTSD (AUC, 0.85 [95% CI, 0.80-0.89] vs&#x2009;0.80 [95% CI, 0.72-0.87]). The optimal cutoff on the PHQ-9 was 5 or more symptoms experienced on more than half of days; on the GAD-7, a total score of at least 7. The findings of this diagnostic study suggest that the PHQ-9, GAD-7 and PC-PTSD-5 accurately screen for mental health disorders in patients with mTBI. Future research should corroborate optimal test cutoffs for this population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/jep.14106
+- DOI: 10.1001/jamanetworkopen.2024.24076
 
 2. Keywords
-- anxiety
-- music
-- nonstress testing
-- pain
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- anxiety assessment methods and outcomes
-- music assessment methods and outcomes
-- nonstress testing assessment methods and outcomes
+- General research methodology and outcomes

@@ -1,26 +1,25 @@
-Study Title: Effect of dexmedetomidine infusion on postoperative sleep disturbances in women with breast cancer: A monocentric randomized-controlled double-blind trial.
+Study Title: Treatment Satisfaction With Omnipod DASH in Adults With Type 1 Diabetes: A Nonblinded 1:1 Randomized Controlled Trial.
 
 Study Summary:
-Most women with breast cancer are prone to postoperative sleep disturbances (POSD). Little is known about the differences between sevoflurane and propofol combined with dexmedetomidine on POSD in the same context. We investigated the effect of intra-operative sevoflurane or propofol combined with intravenous dexmedetomidine on the incidence of POSD and postoperative sleep structures. A monocentric, randomized-controlled, double-blind trial. Female patients undergoing radical surgery for breast cancer were randomly assigned to receive sevoflurane and placebo, sevoflurane and dexmedetomidine, propofol and placebo, or propofol and dexmedetomidine. Dexmedetomidine was administered at 1.0&#x2009;&#x3bc;g&#x2009;kginfusion 15&#x2009;min before induction, then infused at 0.4&#x2009;&#x3bc;g&#x2009;kg&#x2009;huntil the surgical drain started to be placed. The primary outcome was the incidence of POSD within the postoperative first three days (defined as an Athens Insomnia Scale score &#x2265; 6 points on at least one day of postoperative first three days). The secondary outcome was the duration of sleep structures, collected from the Fitbit Charge 2&#xae; smart bracelet (Fitbit, Inc., San Francisco, CA, USA). There were 188 women analyzed with the modified intention-to-treat method. The incidences of POSD in the dexmedetomidine and placebo groups were similar (p&#x2009;=&#x2009;0.649). In the sevoflurane sedation strategy, dexmedetomidine decreased nocturnal wakefulness on postoperative first day (p&#x2009;=&#x2009;0.001). In the propofol sedation strategy, dexmedetomidine increased nocturnal deep sleep on postoperative first (p&#x2009;<&#x2009;0.001) and third (p&#x2009;<&#x2009;0.001) days. Intra-operative infusion of dexmedetomidine had no significant effect on POSD but decreased nocturnal wakefulness in the sevoflurane group and increased nocturnal deep sleep in the propofol group. Registered at www.chictr.org.cn (ChiCTR2300070136).
+Omnipod DASH Insulin Management System is a tubeless insulin pump that overcomes the physical inconveniences of conventional tubed insulin pump therapy (IPT). We compared treatment satisfaction with Omnipod DASH System to usual care (multiple daily injections [MDIs] or tubed IPT) in adults with type 1 diabetes using self-monitoring blood glucose (SMBG). Adults with type 1 diabetes on MDI (n = 40) or IPT (n = 25) from 4 diabetes centers in Australia were randomly assigned in a 1:1 nonblinded manner to Omnipod DASH System (Omnipod group) or continue usual care (Usual Care group) for 12 weeks, followed by a further 12-week extension during which all participants used the device. The primary outcome was treatment satisfaction assessed by change in Diabetes Technology Questionnaire "current" (&#x394;DTQ-current) score at 12 weeks (study end). Secondary outcomes included &#x394;DTQ-current following extension and other participant-reported outcomes (PROs) measuring quality of life, burden of disease treatment, and glycemic and device-related outcomes at 12 weeks (study end) and 24 weeks (end extension). Treatment satisfaction improved more in the Omnipod group vs the Usual Care group (&#x394;DTQ-current score of 16.4 [21.2] vs 0.0 [12.8]; P < .001) at study end. Significantly greater improvements in other PROs and glycated hemoglobin A1c were also observed. Improvements in DTQ-current and other PROs comparing study end and end extension were similar. While percentage in time in range change from baseline did not differ at study end (-2.0 [12.7] %), it was significantly greater at end extension (5.6 [10.9] %; P = .016). The Omnipod DASH System resulted in greater treatment satisfaction at 12 weeks in adults with type 1 diabetes using SMBG that was sustained after 24 weeks of device use without compromising sleep quality and fear of hypoglycemia. Improvements in glycemia were also observed.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.accpm.2024.101358
+- DOI: 10.1210/clinem/dgae088
 
 2. Keywords
-- Breast cancer
-- Dexmedetomidine
-- Propofol
-- Sevoflurane
-- Sleep disturbance
+- Omnipod DASH system
+- quality of life
+- treatment satisfaction
+- tubeless insulin pump therapy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Breast cancer assessment methods and outcomes
-- Dexmedetomidine assessment methods and outcomes
-- Propofol assessment methods and outcomes
+- Omnipod DASH system assessment methods and outcomes
+- quality of life assessment methods and outcomes
+- treatment satisfaction assessment methods and outcomes

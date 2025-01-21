@@ -1,27 +1,20 @@
-Study Title: Impact of withholding early parenteral nutrition on 2-year mortality and functional outcome in critically ill adults.
+Study Title: Three-Year Outcomes of 6-Month Paliperidone Palmitate in Adults With Schizophrenia: An Open-Label Extension Study of a Randomized Clinical Trial.
 
 Study Summary:
-In critically ill adults, withholding parenteral nutrition until 1&#xa0;week after intensive care admission (Late-PN) facilitated recovery as compared with early supplementation of insufficient enteral nutrition with parenteral nutrition (Early-PN). However, the impact on long-term mortality and functional outcome, in relation to the estimated nutritional risk, remains unclear. In this prospective follow-up study of the multicenter EPaNIC randomized controlled trial, we investigated the impact of Late-PN on 2-year mortality (N&#x2009;=&#x2009;4640) and physical functioning, assessed by the 36-Item Short Form Health Survey (SF-36; in 3292 survivors, responding 819 [738-1058] days post-randomization). To account for missing data, we repeated the analyses in two imputed models. To identify potential heterogeneity of treatment effects, we investigated the impact of Late-PN in different nutritional risk subgroups as defined by Nutritional Risk Screening-2002-score, modified NUTrition Risk in the Critically Ill-score, and age (above/below 70&#xa0;years), and we evaluated whether there was statistically significant interaction between classification to a nutritional risk subgroup and the effect of the randomized intervention. Secondary outcomes were SF-36-derived physical and mental component scores (PCS & MCS). Two-year mortality (20.5% in Late-PN, 19.8% in Early-PN; P&#x2009;=&#x2009;0.54) and physical functioning (70 [40-90] in both study-arms; P&#x2009;=&#x2009;0.99) were similar in both groups, also after imputation of missing physical functioning data. Likewise, Late-PN had no impact on 2-year mortality and physical functioning in any nutritional risk subgroup. PCS and MCS were similar in both groups. Late-PN did not alter 2-year survival and physical functioning in adult critically ill patients, independent of anticipated nutritional risk.
+Long-acting injectable (LAI) antipsychotics have the potential to improve adherence and symptom control in patients with schizophrenia, promoting long-term recovery. Paliperidone palmitate (PP) once every 6 months is the first and currently only LAI antipsychotic with an extended dosing interval of 6 months. To assess long-term outcomes of PP received once every 6 months in adults with schizophrenia. In a 2-year open-label extension (OLE) study of a 1-year randomized clinical trial (RCT), eligible adults with schizophrenia could choose to continue PP every 6 months if they had not experienced relapse after receiving PP once every 3 or 6 months in the 1-year, international, multicenter, double-blind, randomized noninferiority trial. The present analysis focused on patients receiving PP every 6 months in the double-blind trial through the OLE study (November 20, 2017, to May 3, 2022). Patients received a dorsogluteal injection of PP on day 1 and once every 6 months up to month 30. End points included assessment of relapse and change from the double-blind trial baseline to the OLE end point in Positive and Negative Syndrome Scale (PANSS) total and subscale, Clinical Global Impression-Severity (CGI-S) Scale, and Personal Social Performance (PSP) Scale scores. Treatment-emergent adverse events (TEAEs), injection site evaluations, and laboratory tests were also assessed. Among 121 patients (83 [68.6%] male), mean (SD) age at baseline was 38.6 (11.24) years and mean (SD) duration of illness was 11.0 (9.45) years. At screening of the double-blind study, 101 patients (83.5%) were taking an oral antipsychotic and 20 (16.5%) were taking an LAI antipsychotic. Altogether, 5 of 121 patients (4.1%) experienced relapse during the 3-year follow-up; reasons for relapse were psychiatric hospitalization (2 [1.7%]), suicidal or homicidal ideation (2 [1.7%]), and deliberate self-injury (1 [0.8%]). Patients treated with PP every 6 months were clinically and functionally stable, and outcomes were well maintained, evidenced by stable scores on the PANSS (mean [SD] change, -2.6 [9.96] points), CGI-S (mean [SD] change, -0.2 [0.57] points), and PSP (mean [SD] change, 3.1 [9.14] points) scales over the 3-year period. In total, 101 patients (83.5%) completed the 2-year OLE. At least 1 TEAE was reported in 97 of 121 patients (80.2%) overall; no new safety or tolerability concerns were identified. In a 2-year OLE study of a 1-year RCT, results supported favorable long-term outcomes of PP once every 6 months for up to 3 years in adults with schizophrenia.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00134-024-07546-w
+- DOI: 10.1001/jamanetworkopen.2024.21495
 
 2. Keywords
-- Critical illness
-- Individualized medicine
-- Intensive care
-- Nutritional risk
-- Parenteral nutrition
-- Physical function
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Critical illness assessment methods and outcomes
-- Individualized medicine assessment methods and outcomes
-- Intensive care assessment methods and outcomes
+- General research methodology and outcomes

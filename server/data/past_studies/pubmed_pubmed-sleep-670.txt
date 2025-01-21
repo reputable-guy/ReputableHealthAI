@@ -1,26 +1,26 @@
-Study Title: Fecal Microbiota Transplantation Improves Clinical Symptoms of Fibromyalgia: An Open-Label, Randomized, Nonplacebo-Controlled Study.
+Study Title: Assessing the Feasibility and Efficacy of Pre-Sleep Dim Light Therapy for Adults with Insomnia: A Pilot Study.
 
 Study Summary:
-Fibromyalgia (FM) is a complex and poorly understood disorder characterized by chronic and widespread musculoskeletal pain, of which the etiology remains unknown. Now, the disorder of the gut microbiome is considered as one of the main causes of FM. This study aimed to investigate the potential benefits of fecal microbiota transplantation (FMT) in patients with FM. A total of 45 patients completed this open-label, randomized, nonplacebo-controlled clinical study. The numerical rating scale scores in the FMT group were slightly lower than the control group at 1 month (P&#xa0;>&#xa0;.05), and they decreased significantly at 2, 3, 6, and 12 months after treatment (P&#xa0;<&#xa0;.001). Besides, compared with the control group, the Widespread Pain Index, Symptom Severity, Hospital Anxiety and Depression Scale, and Pittsburgh Sleep Quality Index scores were significantly lower in the FMT group at different time points (P&#xa0;<&#xa0;.001). After 6 months of treatment, there was a significant increase in serotonin (5-hydroxytryptamine) and gamma-aminobutyric acid levels (P&#xa0;<&#xa0;.001), while glutamate levels significantly decreased in the FMT group (P&#xa0;<&#xa0;.001). The total effective rate was higher in the FMT group (90.9%) compared to the control group (56.5%) after 6 months of treatment (P&#xa0;<&#xa0;.05). FMT can effectively improve the clinical symptoms of FM. With the close relations between the changes in neurotransmitters and FM, certain neurotransmitters may serve as a diagnostic marker or potential target for FM patients. PERSPECTIVE: FMT is a novel therapy that aims to restore the gut microbial balance and modulate the gut-brain axis. It is valuable to further explore the therapeutic effect of FMT on FM. Furthermore, certain neurotransmitters may become a diagnostic marker or a new therapeutic target for FM patients.
+: Insomnia is increasingly recognized for its marked impact on public health and is often associated with various adverse health outcomes, including cardiovascular diseases and mental health disorders. The aim of this study was to investigate the efficacy of pre-sleep dim light therapy (LT) as a non-pharmacological intervention for insomnia in adults, assessing its influence on sleep parameters and circadian rhythms.: A randomized, open-label, two-arm clinical trial was conducted over two weeks with 40 participants aged 20-60 years, all of whom had sleep disorders (CRIS, KCT0008501). They were allocated into control and LT groups. The LT group received exposure to warm-colored light, minimizing the blue spectrum, before bedtime. The study combined subjective evaluation via validated, sleep-related questionnaires, objective sleep assessments via actigraphy, and molecular analyses of circadian clock gene expression in peripheral blood mononuclear cells. Baseline characteristics between the two groups were compared using an independent-test for continuous variables and the chi-squared test for categorical variables. Within-group differences were assessed using the paired-test. Changes between groups were analyzed using linear regression, adjusting for each baseline value and body mass index. The patterns of changes in sleep parameters were calculated using a linear mixed model.: The LT group exhibited significant improvements in sleep quality (difference in difference [95% CI]; -2.00 [-3.58, -0.43], and sleep efficiency (LT: 84.98 vs. control: 82.11,= 0.032), and an advanced Dim Light Melatonin Onset compared to the control group (approximately 30 min). Molecular analysis indicated a significant reduction in CRY1 gene expression after LT, suggesting an influence on circadian signals for sleep regulation.: This study provides evidence for the efficacy of LT in improving sleep quality and circadian rhythm alignment in adults with insomnia. Despite limitations, such as a small sample size and short study duration, the results underscore the potential of LT as a viable non-pharmacological approach for insomnia. Future research should expand on these results with larger and more diverse cohorts followed over a longer period to validate and further elucidate the value of LT in sleep medicine. Trial registration: The trial was registered with the Clinical Research Information Service (KCT0008501).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jpain.2024.104535
+- DOI: 10.3390/medicina60040632
 
 2. Keywords
-- 5-hydroxytryptamine
-- Fecal microbiota transplantation
-- chronic pain
-- fibromyalgia
-- neurotransmitters
+- clock gene expression
+- insomnia
+- light therapy
+- melatonin
+- sleep quality
 
 3. Key Findings
-- Findings extraction requires manual review
+- Molecular analysis indicated a significant reduction in CRY1 gene expression after LT, suggesting an influence on circadian signals for sleep regulation
 
 This study provides insights into:
-- 5-hydroxytryptamine assessment methods and outcomes
-- Fecal microbiota transplantation assessment methods and outcomes
-- chronic pain assessment methods and outcomes
+- clock gene expression assessment methods and outcomes
+- insomnia assessment methods and outcomes
+- light therapy assessment methods and outcomes

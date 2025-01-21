@@ -1,20 +1,25 @@
-Study Title: Palmitoylethanolamide Does Not Affect Recovery from Exercise-Induced Muscle Damage in Healthy Males.
+Study Title: Apalutamide for High-Risk Localized Prostate Cancer Following Radical Prostatectomy (Apa-RP).
 
 Study Summary:
-Strenuous eccentric exercise (EE) induces microstructural muscle damage, which decreases muscle performance. Palmitoylethanolamide (PEA) exerts analgesic and anti-inflammatory effects in clinical pain conditions and preclinical models of experimentally induced inflammation. This might hold clues for improved recovery from EE. Therefore, the current study evaluates the effect of PEA supplementation on functional and molecular responses to a single EE bout. Eleven healthy male participants were included in a double-blind crossover study in which they received PEA (350 mg Levagen+) or placebo (maltodextrin) supplements, in a randomized order. In each experimental condition, participants performed an acute bout of EE (24 &#xd7; 10 eccentric contractions of the knee extensors on an isokinetic dynamometer). At baseline, 24 (D1), 48 (D2), 72 (D3), and 120 h (D5) following EE, maximal voluntary contraction and jump height were measured. Blood samples were collected at baseline and on D1-D5, and muscle biopsies were collected at baseline and on D2. Perceived muscle soreness, sleep quality, and food intake were recorded daily. Muscle strength and jump height decreased following EE (up to ~40% and ~17%, respectively; Ptime < 0.05) in both conditions. This drop was accompanied by an increase in plasma creatine kinase and perceived muscle soreness ( Ptime < 0.05). Furthermore, EE, but not PEA, increased the expression of the myogenic marker Pax7 and of the catabolic markers p-FoxO1-3a, p62, and LC3BII/I ( Ptime < 0.05). PEA supplementation does not improve muscle soreness, muscle strength, and jump performance following a single EE bout. In addition, PEA supplementation had no effect on local or systemic markers of muscle damage, catabolism, or regeneration.
+Approximately 25% to 50% of patients with high-risk localized prostate cancer experience biochemical recurrence (BCR) within 2 years of radical prostatectomy. The Apa-RP study (NCT04523207) investigated whether adjuvant apalutamide plus androgen deprivation therapy (ADT) in high-risk patients who have undergone radical prostatectomy improved BCR-free survival. Apa-RP was a multicenter, open-label, single-arm, phase 2 study conducted in community urology practices in the US. High-risk patients who had radical prostatectomy received 12 cycles of apalutamide (240 mg daily; 28-day cycles) plus ADT. The primary end point was BCR-free survival. Secondary end points included testosterone recovery (&#x2265;150 ng/dL) and safety. One hundred eight patients were enrolled; median age was 66.0 years (range 46.0-77.0 years). Median preoperative PSA and baseline testosterone were 7.6 ng/mL (range 2.2-62.7 ng/mL) and 340.0 ng/dL (range 43.0-939.0 ng/dL), respectively. The BCR-free rate at 24 months (12 months after completion of planned therapy) was 100% (90% CI 93-100). Serum testosterone recovery rate (&#x2265;50 and &#x2265;150 ng/dL) 12 months after treatment completion was 96% (95% CI 88-98) and 77% (95% CI 66-85), respectively. Overall, 107 (99%) patients experienced treatment-emergent adverse events, with 24 (22%) experiencing grade 3 to 4 events. In Apa-RP, BCR-free survival was 100% with 77% of patients having testosterone recovery (&#x2265;150 ng/dL) within 12 months of actual treatment completion and a manageable safety profile. These results provide proof of concept that treatment intensification with 12 cycles of apalutamide plus ADT could become an option for patients with high-risk localized prostate cancer who have undergone radical prostatectomy. ClinicalTrials.gov Identifier: NCT04523207.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1249/MSS.0000000000003517
+- DOI: 10.1097/JU.0000000000004163
 
 2. Keywords
-
+- apalutamide
+- high-risk
+- localized prostate cancer
+- radical prostatectomy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- apalutamide assessment methods and outcomes
+- high-risk assessment methods and outcomes
+- localized prostate cancer assessment methods and outcomes

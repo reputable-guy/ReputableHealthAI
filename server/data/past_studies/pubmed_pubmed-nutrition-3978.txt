@@ -1,27 +1,28 @@
-Study Title: Underpinning the Food Matrix Regulation of Postexercise Myofibrillar Protein Synthesis by Comparing Salmon Ingestion With the Sum of Its Isolated Nutrients in Healthy Young Adults.
+Study Title: Infant blood concentrations of folate markers and catabolites are modified by 5,10-methylenetetrahydrofolate reductase C677T genotype and dietary folate source.
 
 Study Summary:
-Protein is most commonly consumed as whole foods as opposed to single nutrients. However, the food matrix regulation of the postprandial muscle protein synthetic response has received little attention. The purpose of this study was to assess the effects of eating salmon (SAL) and of ingesting the same nutrients as an isolated mixture of crystalline amino acids and fish oil (ISO) on the stimulation of postexercise myofibrillar protein synthesis (MPS) and whole-body leucine oxidation rates in healthy young adults. Ten recreationally active adults (24 &#xb1; 4 y; 5 men, 5 women) performed an acute bout of resistance exercise, followed by the ingestion of SAL or ISO in a crossover fashion. Blood, breath, and muscle biopsies were collected at rest and after exercise during primed continuous infusions of L-[ring-H]phenylalanine and L-[1-C]leucine. All data are presented as means &#xb1; SD and/or mean differences (95% CIs). Postprandial essential amino acid (EAA) concentrations peaked earlier (P = 0.024) in the ISO group than those in the SAL group. Postprandial leucine oxidation rates increased over time (P < 0.001) and peaked earlier in the ISO group (1.239 &#xb1; 0.321 nmol/kg/min; 63 &#xb1; 25 min) than those in the SAL group (1.230 &#xb1; 0.561 nmol/kg/min; 105 &#xb1; 20 min; P = 0.003). MPS rates for SAL (0.056 &#xb1; 0.022 %/h; P = 0.001) and ISO (0.046 &#xb1; 0.025 %/h; P = 0.025) were greater than the basal rates (0.020 &#xb1; 0.011 %/h) during the 0- to 5-h recovery period, with no differences between conditions (P = 0.308). We showed that the postexercise ingestion of SAL or ISO stimulate postexercise MPS rates with no differences between the conditions. Thus, our results indicate that ingesting protein from SAL as a whole-food matrix is similarly anabolic to ISO in healthy young adults. This trial was registered at www. gov as NCT03870165.
+Folate intake and polymorphisms in the methylenetetrahydrofolate reductase (MTHFR) gene may affect folate metabolism in infants. We investigated the association between infant's MTHFR C677T genotype, the dietary folate source, and concentrations of folate markers in the blood. We studied 110 breastfed infants (reference) and 182 infants who were randomly assigned to receive infant formulas enriched with either 78 &#x3bc;g folic acid or 81 &#x3bc;g (6S)-5-methyltetrahydrofolate (5-MTHF) per 100 g milk powder for 12 wk. The blood samples were available at the ages of <1 mo (baseline) and 16 wk. MTHFR genotype and concentrations of folate markers and catabolites [i.e., para-aminobenzoylglutamate (pABG)] were analyzed. At baseline, carriers of the TT genotype (vs. CC) had lower mean (SD) concentrations (all in nmol/L) of red blood cell (RBC) folate [1194 (507) vs. 1440 (521), P = 0.033) and plasma pABG [5.7 (4.9) vs. 12.5 (8.1), P < 0.001] but higher plasma 5-MTHF [33.9 (16.8) vs. 24.0 (12.6), P < 0.001]. Irrespective of the genotype, infant formula with 5-MTHF (vs. folic acid) caused a significant increase in RBC folate concentration [1278 (466) vs. 947 (552), P < 0.001]. In breastfed infants, plasma concentrations of 5-MTHF and pABG increased significantly by 7.7 (20.5) and 6.4 (10.5), respectively, from baseline to 16 wk. Infant formula that complies with the present EU legislation for folate intake increased RBC folate and plasma pABG concentrations at 16 wk (P < 0.001) than formula-fed infants. At 16 wk, plasma pABG concentrations remained &#x223c;50% lower in carriers of the TT (vs. the CC) genotype among all feeding groups. Folate intake from infant formula according to the present EU legislation increased RBC folate and plasma pABG concentrations in infants to a greater extent than breastfeeding, particularly in carriers of the TT genotype. However, this intake did not completely abolish the between-genotype differences in pABG. Whether these differences have any clinical relevance, however, remains unclear. This trial was registered at clinicaltrials.gov as NCT02437721.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.tjnut.2023.02.037
+- DOI: 10.1016/j.ajcnut.2022.09.002
 
 2. Keywords
-- dietary protein
-- leucine
-- nutrition
-- resistance exercise
-- skeletal muscle mass
-- stable isotopes
+- (6S)-5-methyltetrahydrofolate
+- 5,10-methylenetetrahydrofolate reductase
+- breastfeeding
+- folate catabolism
+- folate requirements
+- formula feeding
+- infant nutrition
 
 3. Key Findings
-- We showed that the postexercise ingestion of SAL or ISO stimulate postexercise MPS rates with no differences between the conditions
+- Findings extraction requires manual review
 
 This study provides insights into:
-- dietary protein assessment methods and outcomes
-- leucine assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- (6S)-5-methyltetrahydrofolate assessment methods and outcomes
+- 5,10-methylenetetrahydrofolate reductase assessment methods and outcomes
+- breastfeeding assessment methods and outcomes

@@ -1,26 +1,20 @@
-Study Title: Influence of the intelligent knee osteoarthritis lifestyle app (iKOALA) on knee joint pain.
+Study Title: The Potential of Real-Time Behavior and Well-Being Assessments to Improve Medical Student Wellness.
 
 Study Summary:
-The intelligent knee osteoarthritis lifestyle app (iKOALA) has been co-developed with target users to extend the support for physical activity (PA) and musculoskeletal health, beyond short-term structured rehabilitation, using personalised PA guidance, education, and social support. The purpose of this study was to assess the preliminary effectiveness and usability of the iKOALA digital intervention on indices of musculoskeletal (MSK) health, symptoms, and physical activity levels in a broad range of individuals with knee osteoarthritis (KOA) over 12 weeks to inform the design of a larger randomised controlled trial. Thirty-eight (33 female) participants living in the UK with a mean (SD) age of 58 (&#xb1;&#x2009;9) years diagnosed radiographically or clinically with KOA completed a 12-week user trial of the iKOALA. Participants completed an in-app physical activity questionnaire which intelligently recommended suitable strengthening and aerobic based activities to individuals. Throughout the trial, participants wore a physical activity monitor and were given access to functions within the app (physical activity (PA) reminders, information and education, symptom and PA tracking as well as social support forums) to support them in maintaining their PA plan. Participants completed a MSK questionnaire for chronic symptoms and quality of life (MSK-HQ) as well as an acute iKOALA symptoms questionnaire (confidence, fatigue, mood, pain during the day/night, sleep and ability to walk) in the week prior to starting and following completion of the trial. Physical activity levels were consistent over the 12 weeks with total daily steps of 9102 (&#xb1;&#x2009;3514) in week 1, 9576 (&#xb1;&#x2009;4214) in week 6 and 9596 (&#xb1;&#x2009;3694) in week 12. Group mean changes in all iKOALA MSK symptom scores and the total MSK-HQ (pre 33.1 (7.6) vs. post 40.2 (7.6)) score improved significantly (p&#x2009;<&#x2009;.001, 95% CI [-8.89, -5.16]) over the 12-week period. Physical activity levels were maintained at a high level throughout the 12 weeks. Significant improvements in mean MSK symptom scores and the total MSK-HQ score were also observed. Efforts to ensure more generalised reach amongst sex and socioeconomic status of the digital intervention in a randomised controlled clinical trial are warranted.
+Medical students experience psychological distress more frequently than age-matched peers. Tracking medical student well-being has typically been limited to once- or twice-per-year questionnaires. Ongoing, real-time assessment of student behavior and well-being could facilitate individualized, timely interventions. Faculty at the University of Vermont, in conjunction with the Larner College of Medicine Office of Medical Education, developed a novel smartphone app in 2021 called WE MD to track and support medical student wellness. The app included the following features: (1) nightly surveys assessing wellness-related behaviors (e.g., social interaction, sleep, exercise) and outcomes (i.e., mood, focus, stress, overall well-being); (2) health reports that enabled users to graph various combinations of their own behaviors and outcomes, allowing them to visualize trends and understand possible correlations between behaviors and outcomes; (3) a resource library with articles and educational videos related to specific wellness behaviors or outcomes; and (4) research-based "insights" or brief tips intended to promote healthy habits. Participants also received virtual "coins" for interacting with the app that could be exchanged for various items in an online store. The WE MD program enrolled a substantial portion of the medical school population (43%); most of the students used the app on a regular basis. Students found the app to be acceptable and appreciated many features and also provided feedback on how to improve the app. Information from the nightly survey data converged with established measures but also identified variability over time in wellness behaviors and outcomes. Data from the WE MD program suggest that app-based daily tracking of wellness behaviors and outcomes is a feasible, promising approach to promote student wellness and identify real-time patterns and risk periods for medical students. The app will be revised based on student feedback and adapted for use by students, residents, and faculty.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12891-024-07198-3
+- DOI: 10.1097/ACM.0000000000005642
 
 2. Keywords
-- Digital health
-- Knee osteoarthritis
-- Mobile application
-- Musculoskeletal
-- Physical activity
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Students found the app to be acceptable and appreciated many features and also provided feedback on how to improve the app
 
 This study provides insights into:
-- Digital health assessment methods and outcomes
-- Knee osteoarthritis assessment methods and outcomes
-- Mobile application assessment methods and outcomes
+- General research methodology and outcomes

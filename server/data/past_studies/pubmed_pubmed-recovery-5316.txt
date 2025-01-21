@@ -1,25 +1,26 @@
-Study Title: This is the first in-human trial and prospective case series of a novel single-port robotic system for gynaecological surgery: An IDEAL stage 2a study.
+Study Title: Alpha transcranial alternating current stimulation as add-on to neglect training: a randomized trial.
 
 Study Summary:
-The Shurui&#xae; system (SR-ENS-600) is a novel fully integrated single-port robotic system with bioinspired serpentine surgical manipulators and a camera. This was a single-centre prospective case-series study according to the IDEAL stage 2a guidelines to evaluate the feasibility, safety and potential efficacy of the Shurui&#xae; system for gynaecological surgeries and to improve the operating process. Ten patients with a gradient of surgical difficulty who had indications for laparoscopic surgery and who volunteered to participate in a clinical trial were enrolled in the study. All 10 subjects successfully completed the procedure without converting to other procedures. No serious complications were reported at the 3-month follow-up. Subjects recover faster after surgery and are highly satisfied with the incision. Gynaecological single-site laparoscopic surgery with the Shurui&#xae; system was technically feasible for well-selected patients with minimal alterations&#xa0;in technique. Further prospective multicenter large-sample studies are necessary. ChiCTR2300075431. URL: https://www.chictr.org.cn/showproj.html?proj=189995.
+Visuospatial neglect is a common and debilitating condition following unilateral stroke, significantly impacting cognitive functioning and daily life. There is an urgent need for effective treatments that can provide clinically relevant and sustained benefits. In addition to traditional stroke treatment, non-invasive brain stimulation, such as transcranial alternating current stimulation, shows promise as a complementary approach to enhance stroke recovery. In the current study, we aimed to evaluate the additive effects of multi-session transcranial alternating current stimulation at alpha frequency when combined with visual scanning training in chronic stroke patients with visuospatial neglect. In this double-blind randomized controlled trial, we compared the effects of active transcranial alternating current stimulation at alpha frequency to sham (placebo) transcranial alternating current stimulation, both combined with visual scanning training. Both groups received eighteen 40-minute training sessions over a 6-week period. A total of 22 chronic visuospatial neglect patients participated in the study (active group= 12, sham group= 10). The median age was 61.0 years, with a median time since stroke of 36.1 months. We assessed the patients at six time-points: at baseline, after the first, ninth and eighteenth training sessions, as well as 1 week and 3 months following the completion of the combined neuromodulation intervention. The primary outcome measure was the change in performance on a visual search task, specifically the star cancellation task. Secondary outcomes included performance on a visual detection task, two line bisection tasks and three tasks evaluating visuospatial neglect in daily living. We found significantly improved visual search (primary outcome) and visual detection performance in the neglected side in the active transcranial alternating current stimulation group, compared to the sham transcranial alternating current stimulation group. We did not observe stimulation effects on line bisection performance nor in daily living. Time effects were observed on all but one outcome measures. Multi-session transcranial alternating current stimulation combined with visual scanning training may be a more effective treatment for chronic visuospatial neglect than visual scanning training alone. These findings provide valuable insights into novel strategies for stroke recovery, even long after the injury, with the aim of enhancing cognitive rehabilitation outcomes and improving the overall quality of life for individuals affected by this condition.: ClinicalTrials.gov; registration number: NCT05466487; https://clinicaltrials.gov/ct2/show/NCT05466487.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/rcs.2657
+- DOI: 10.1093/braincomms/fcae287
 
 2. Keywords
-- enhanced recovery after surgery (ERAS)
-- minimally invasive gynaecological surgery (MIGS)
-- robotic&#x2010;assisted laparoscopic single&#x2010;site surgery (R&#x2010;LESS)
-- single&#x2010;port robot system (SPRS)
+- activities of daily living (ADL)
+- neglect
+- randomized controlled trial (RCT)
+- stroke
+- transcranial electrical stimulation (tES)
 
 3. Key Findings
-- Findings extraction requires manual review
+- We found significantly improved visual search (primary outcome) and visual detection performance in the neglected side in the active transcranial alternating current stimulation group, compared to the sham transcranial alternating current stimulation group
 
 This study provides insights into:
-- enhanced recovery after surgery (ERAS) assessment methods and outcomes
-- minimally invasive gynaecological surgery (MIGS) assessment methods and outcomes
-- robotic&#x2010;assisted laparoscopic single&#x2010;site surgery (R&#x2010;LESS) assessment methods and outcomes
+- activities of daily living (ADL) assessment methods and outcomes
+- neglect assessment methods and outcomes
+- randomized controlled trial (RCT) assessment methods and outcomes

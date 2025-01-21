@@ -1,20 +1,27 @@
-Study Title: Discovering the Potential Value of Coenzyme Q10 as an Adjuvant Treatment in Patients With Depression.
+Study Title: Promoting stress and anxiety recovery in older adults: assessing the therapeutic influence of biophilic green walls and outdoor view.
 
 Study Summary:
-Depressive disorder or mental cold is the most common mental disorder, and depression exists all over the world and in all countries and cultures. The results of several studies have shown that using compounds with antioxidant properties has been fruitful in patients with depression. Coenzyme Q10 (CoQ10) is a fat-soluble antioxidant and exerts its antioxidant effect by directly neutralizing free radicals or reducing tocopherol and preventing the inhibition of mitochondrial activity because of oxidative stress. This study aimed to investigate the effects of oral CoQ10 in patients with depression as an adjunctive treatment. Sixty-nine patients with moderate and severe depression were randomly divided into 2 CoQ10 groups (36) and placebo (33). The first group of patients received CoQ10 supplements at a dose of 200 mg daily for 8 weeks along with standard interventions and treatments for depression, and the second group received standard treatments for depression along with a placebo. The change in the score of Montgomery-&#xc5;sberg Depression Rating Scale depression scale was evaluated 4 and 8 weeks after the intervention. Also, at baseline and 8 weeks later at the end of the study, serum levels of total antioxidant capacity, total thiol groups, nitric oxide, malondialdehyde, and interleukin 6 were assessed. The changes in the depression score at the end of the study showed that, in the group receiving the CoQ10 supplement after 8 weeks, there was a reduction in depression symptoms, which was statistically significant compared with before the start of the study Meanwhile, no significant changes were observed in the patients of the placebo group in terms of symptom reduction. Compared with baseline and the placebo condition, serum levels of nitric oxide and total thiol groups significantly decreased and increased, respectively. Also, no statistically significant changes were observed for interleukin 6, malondialdehyde, and total antioxidant capacity. A dose of 200 mg of CoQ10 supplement daily for 8 weeks can reduce depression and fatigue, as well as improve the quality of life of patients with depression. In addition, CoQ10 can significantly improve inflammation and oxidative stress status in patients with depression.
+Previous research has already provided evidence regarding the favorable impact of green walls and outdoor views on stress reduction and anxiety alleviation. However, there has been limited exploration into the combined effects of green walls and outdoor views on older adults. In this study, a between-subjects experiment was conducted using virtual reality (VR) technology with 23 participants. Following exposure to stressors, each participant underwent four randomized sessions, each lasting 5&#x2009;min, in various virtual reality (VR) environments, encompassing non-biophilic and biophilic environments (including green walls, outdoor views, and their combination). Throughout the process, we measured physiological indicators of stress responses, including heart rate, heart rate variability, skin conductance levels, and blood pressure, using biometric sensors. Psychological changes in participants, including anxiety levels, were evaluated through the State-Trait Anxiety Inventory, recovery scales, and self-reported emotional assessments. In conclusion, in comparison to non-biophilic environments, older adults consistently exhibited lower stress levels, experienced superior anxiety relief, and demonstrated improved recovery in nature connectedness environments, with a notably faster recovery rate. These findings suggest that the incorporation of nature connectedness principles into the indoor environments of public activity spaces within older adults care facilities can significantly contribute to stress reduction and anxiety alleviation among older adults. Furthermore, these effects appear to be contingent on the specific types of nature connectedness environments. These results can provide substantial evidence to support the design of indoor common activity spaces within older adults care facilities.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/JCP.0000000000001845
+- DOI: 10.3389/fpubh.2024.1352611
 
 2. Keywords
-
+- biometric monitoring sensors
+- indoor public activity spaces
+- nature connectedness
+- older adults
+- physiological responses
+- virtual reality (VR)
 
 3. Key Findings
-- The changes in the depression score at the end of the study showed that, in the group receiving the CoQ10 supplement after 8 weeks, there was a reduction in depression symptoms, which was statistically significant compared with before the start of the study Meanwhile, no significant changes were observed in the patients of the placebo group in terms of symptom reduction
+- In conclusion, in comparison to non-biophilic environments, older adults consistently exhibited lower stress levels, experienced superior anxiety relief, and demonstrated improved recovery in nature connectedness environments, with a notably faster recovery rate
 
 This study provides insights into:
-- General research methodology and outcomes
+- biometric monitoring sensors assessment methods and outcomes
+- indoor public activity spaces assessment methods and outcomes
+- nature connectedness assessment methods and outcomes

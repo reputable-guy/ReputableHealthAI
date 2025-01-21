@@ -1,24 +1,27 @@
-Study Title: Non-invasive brain stimulation enhances the effect of physiotherapy for balance and mobility impairment in people with Multiple Sclerosis.
+Study Title: Clinical Efficacy of Virtual Reality Cave Automatic Virtual Environments (CAVE) for Chronic Musculoskeletal Pain in Older Adults: A Randomized Controlled Trial.
 
 Study Summary:
-Impairment of balance and gait is common in Multiple Sclerosis (MS). Non-invasive Brain Stimulation techniques are promising adjuncts to physical therapy to improve disability. To determine if combining transcranial direct current stimulation (tDCS) with conventional exercise therapy enhances balance and mobility in people with multiple sclerosis (PwMS) compared to exercise alone. In a double-blind randomised controlled trial, PwMS were randomised into a real or sham tDCS group. All patients received individualized exercise treatment. Twelve sessions of real (intensity 2mA, bipolar) or sham tDCS was administered over the primary motor area for 20 minutes followed by one hour of physiotherapy focusing on balance, strength, and mobility, twice a week for six weeks. Outcome measures included balance (Berg Balance Score), mobility (10m Walk Test), fatigue (Fatigue Severity Scale) and quality of life (Multiple Sclerosis Quality of Life - 54) performed 1 week before intervention, at week 7 (1-week post-intervention), and at six months post-intervention. Falls questionnaire was completed 1 week before intervention and at 6 months post-intervention. Generalised linear mixed model analysis was used to compare outcomes at different time points within groups (before and after exercise treatment) and between groups (sham vs real stimulation groups). Forty participants (mean age 54 and mean EDSS 3.5) were randomly allocated to receive real (n=19) or sham (n=21) stimulation, with 36 completing the post-intervention (real 17, sham 19) and 32 completing the 6-month assessments (real 15, sham 17). All participants had significantly improved balance and mobility scores post exercise treatment (within groups comparison, p<0.05). Between groups comparison found a small but significant improvement in the Berg Balance Score (mean improvement 1.9 and 2 points, p <0.05) and 10-metre Walk Test (mean improvement of 0.09 and 0.11m/s, p <0.05) in the real tDCS group compared to the sham group after six weeks of training and at six months follow-up, respectively. There was no benefit in fatigue, falls and QOL scores in the real stimulation group compared to the control group. Our results suggest that the addition of tDCS prior to exercise treatment provides a significant improvement in walking speed and balance in people with MS which lasts longer, compared to exercise alone. Further study is needed to optimize the use of this relatively inexpensive and well tolerated device for rehabilitation. Australia and New Zealand Clinical Trial Registry (ACTRN12628001836224).
+To assess whether tai chi assisted by the Cave Automatic Virtual Environment (CAVE), a novel virtual reality (VR) technology, was superior to tai chi alone in managing chronic pain in older adults. CAVE may offer a promising alternative to head-mounted displays in chronic pain treatment. The study was a 12-week, 2-arm, parallel, randomized controlled trial implemented in VR and non-VR groups (N&#xa0;= 80, each arm&#xa0;= 40). The VR group underwent an 8-week tai chi program in a 3-wall VR-CAVE with projections of nature scenes and music, whereas the control group received tai chi only. Community-dwelling older adults with chronic musculoskeletal pain were randomized (1:1) to VR and non-VR groups. Participants were assessed at baseline, posttreatment at 8&#xa0;weeks, and 12&#xa0;weeks. The primary outcome was the Brief Pain Inventory severity score at 8&#xa0;weeks, modeled within an intention-to-treat framework using generalized estimating equations. Participants had a mean age of 65.1 &#xb1; 5.6&#xa0;years, with 78.8% female and mean BPI-pain severity score of 4.4 &#xb1; 1.5. At 8&#xa0;weeks, the VR group demonstrated a statistically significant improvement in BPI severity score compared with the non-VR group (&#x3b2;&#xa0;=&#xa0;-0.75, 95% CI&#xa0;-1.48 to&#xa0;-0.03, P&#xa0;= .043), with the effect sustained to 12&#xa0;weeks (&#x3b2;&#xa0;=&#xa0;-1.18, 95% CI&#xa0;-1.90 to&#xa0;-0.46, P&#xa0;= .001). No major adverse events were reported. VR-CAVE tai chi was superior to non-VR tai chi for chronic musculoskeletal pain. Future trials that are longer-term, larger in scale, and include other forms of exercise will further inform VR-CAVE's role in post-acute and long-term rehabilitation.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.msard.2024.106149
+- DOI: 10.1016/j.jamda.2024.105344
 
 2. Keywords
-- Multiple sclerosis
-- Transcranial direct current stimulation, Balance
-- Walking, Exercise
+- Virtual reality
+- cave automatic virtual environment
+- chronic musculoskeletal pain
+- clinical trials
+- older adults
+- tai chi
 
 3. Key Findings
-- Between groups comparison found a small but significant improvement in the Berg Balance Score (mean improvement 1
+- At 8&#xa0;weeks, the VR group demonstrated a statistically significant improvement in BPI severity score compared with the non-VR group (&#x3b2;&#xa0;=&#xa0;-0
 
 This study provides insights into:
-- Multiple sclerosis assessment methods and outcomes
-- Transcranial direct current stimulation, Balance assessment methods and outcomes
-- Walking, Exercise assessment methods and outcomes
+- Virtual reality assessment methods and outcomes
+- cave automatic virtual environment assessment methods and outcomes
+- chronic musculoskeletal pain assessment methods and outcomes

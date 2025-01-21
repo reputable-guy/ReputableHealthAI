@@ -1,26 +1,27 @@
-Study Title: Exploring Associations Between Device-Based Occupational Sedentary Behavior and Need for Recovery in White Collar Workers: A Compositional Data-Analysis.
+Study Title: The 'Paths to everyday life' (PEER) trial - a qualitative study of mechanisms of change from the perspectives of individuals with mental health difficulties participating in peer support groups led by volunteer peers.
 
 Study Summary:
-White collar workers spend an increasing amount of time in occupational sedentary behavior (OSB) and are thereby at risk for adverse health outcomes. Nevertheless, the association between OSB and the need for recovery (NFR), an important indicator of wellbeing, is unknown and therefore examined. Baseline data from a cluster randomized controlled trial was used. A subgroup of 89 white collar workers wore a triaxial accelerometer for 7&#xa0;days. NFR was measured using the Questionnaire on the Experience and Evaluation of Work. Compositional data analysis was applied to determine the composition of different OSB bouts (short, medium and long) and occupational physical activity (OPA) (light, moderate and vigorous and standing). Linear regression analyses were performed to explore the associations between occupational compositions and NFR. Relatively more time spent in long OSB bouts was associated with a lower NFR (&#x3b2;: -11.30, 95% CI: -20.2 to -2.4). Short and medium OSB bouts and OPA were not associated with NFR. Associations between OSB bouts, OPA and NFR hinted at contrasting trends, suggesting the need to consider different bout lengths of OSB in future studies.
+Worldwide, peers support has been shown to play a crucial role in supporting people with mental illness in their personal recovery process and return to everyday life. Qualitiative studies underpinning the mechanisms of change in peer support has been reviewed. However, the findings are primeraly based on the perspectives of peer support workers employed in mental health services. Thus, qualitiative studies elucidating the mechanisms of change from the recipient perspective in mental health service independent civil society settings are higly needed to further contribute to the evidence of peer support. The 'Paths to every day life' (PEER) is evaluated in a randomized trial and is substantiated by qualitative studies investigating the experiences of PEER from the perspectives of the recipients and the facilitators of peer support. The purpose of this qualitative study underpinned by critical realism was to substantiate the PEER intervention program theory by gaining deeper insight into the change mechanisms and elaborate how, when, and under what circumstances the peer support groups potentially had or did not have an impact on personal recovery from the perspectives of the recipients of peer support. Eleven individuals were interviewed at the end of the ten-week group course. The semi-structured realist-inspired interviews were audio recorded and transcribed verbatim. The analysis was guided by reflective thematic analysis and through an abductive framework based on the program theory. Data were coded and analysed in Nvivo software. Four overarching themes were identified that informed and nuanced the program theory: 1) Connectedness as a prerequisite for engagement; 2) A sense of hope by working out new paths to recovery; 3) Seeing new sides of oneself; and 4) Sprout for change. This study substantiates the program theory and the quantitative results of the PEER trial by elaborating on mechanisms that were felt to be essential for the personal recovery process from the perspectives of the recipients of the group-based peer support. In addition, the study points out that the opportunities to act in everyday life depended on individual context and where the group participants were on their recovery journey. ClinicalTrials.gov identifier: NCT04639167.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/ijph.2024.1607322
+- DOI: 10.1186/s12888-024-05992-w
 
 2. Keywords
-- duration of prolonged sitting
-- low physical workload
-- office workers
-- sitting
-- triaxial accelerometer
+- Civil society
+- Mental health
+- Mental illness
+- Peer support
+- Personal recovery
+- Volunteer peers
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- duration of prolonged sitting assessment methods and outcomes
-- low physical workload assessment methods and outcomes
-- office workers assessment methods and outcomes
+- Civil society assessment methods and outcomes
+- Mental health assessment methods and outcomes
+- Mental illness assessment methods and outcomes

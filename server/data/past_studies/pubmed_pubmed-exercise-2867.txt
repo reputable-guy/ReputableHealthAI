@@ -1,26 +1,21 @@
-Study Title: Visceral fat mass dynamics in a 2-year randomized STrength versus ENdurance training trial in people with obesity.
+Study Title: The effect of ischemic preconditioning on repeated sprint cycling performance: a randomized crossover study.
 
 Study Summary:
-To compare the effectiveness of strength versus endurance training on reducing visceral fat in individuals with obesity. For the STrength versus ENdurance (STEN) 24-month randomized clinical trial, we assigned 239 participants with abdominal obesity to either strength or endurance training (two to three times a week, 60&#x2009;min/training session) in addition to standard nutritional counselling to promote a healthy diet. Changes in abdominal visceral adipose tissue (VAT) area quantified by magnetic resonance imaging after 12&#x2009;months were defined as a primary endpoint. Participants (aged 44&#x2009;years, 74% women, body mass index: 37&#x2009;kg/m, mean VAT volume: 4050&#x2009;cm) had an approximately 50% retention rate and a 30% good training programme adherence at 12&#x2009;months. There was no difference between strength and endurance training in VAT volume dynamics after 12 and 24&#x2009;months (p&#x2009;=&#x2009;.13). Only in the good adherence group did we find a trend for reduced VAT volume in both training regimens. Independently of the exercise programme, there was a continuous trend for moderate loss of abdominal subcutaneous AT volume, body fat mass, body mass index and improved parameters of insulin sensitivity. Although parameters of physical fitness improved upon both exercise interventions, the dynamics of resting energy expenditure, glucose and lipid metabolism parameters were not different between the intervention groups and did not significantly improve during the 2-year trial (p&#x2009;>&#x2009;.05). Despite heterogeneous individual training responses, strength and endurance training neither affected VAT volume nor key secondary endpoints differently.
+Ischemic preconditioning (IPC) has been suggested to improve exercise performance by 1-8%. Prior research concerning its impact on short-duration exercises, such as sprints, has been limited and yielded conflicting results. The aim of this study, which included a non-occlusion-based placebo control, was to determine whether IPC improves repeated sprint performance in a manner that accounted for psychophysiological effects. Twenty-two healthy males participated in this study, which employed a randomized crossover design. Following the 10-min baseline period, participants received intervention under four different conditions: 1) no-intervention control (CON); 2) non-occlusion-based placebo control (SHAM); 3) remote IPC (RIPC); and 4) local IPC (LIPC). Participants then performed a standardized repeated sprint cycling (5&#xd7;10s maximal cycling sprint, separated by a 40-s rest in each set). Repeated sprint performance, as indexed by average power output, peak power output, and total work, the improvement was observed in the RIPC and LIPC during the initial phase (set 1-3) when compared with CON (P<0.05). SHAM condition also showed an increase in peak power output in the set 1 (CON 9.97&#xb1;1.05 vs. SHAM 10.30&#xb1;1.13 w/kg, P<0.05), which may represent a psychophysiological component in the IPC-induced improvement. Higher lactate concertation was found in the SHAM and LIPC groups, than in the CON group, 5 minutes after the exercise (CON 15.72&#xb1;0.68 vs. SHAM 16.82&#xb1;0.41 vs. LIPC 17.19&#xb1;0.39 mmol/L, P<0.0001 for both, respectively). In conclusion, LIPC enhanced repeated sprint cycling performance during the initial phase, beyond what could be accounted for entirely by a psychophysiological effect. The improvement associated with RIPC, however, did not surpass the effect of a placebo intervention.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/dom.15767
+- DOI: 10.23736/S0022-4707.24.16015-X
 
 2. Keywords
-- body composition
-- clinical trial
-- exercise intervention
-- insulin resistance
-- randomized trial
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- SHAM condition also showed an increase in peak power output in the set 1 (CON 9
+- Higher lactate concertation was found in the SHAM and LIPC groups, than in the CON group, 5 minutes after the exercise (CON 15
 
 This study provides insights into:
-- body composition assessment methods and outcomes
-- clinical trial assessment methods and outcomes
-- exercise intervention assessment methods and outcomes
+- General research methodology and outcomes

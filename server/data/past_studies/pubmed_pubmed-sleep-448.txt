@@ -1,25 +1,27 @@
-Study Title: Effects of Short-Term Nighttime Carbohydrate Restriction Method on Exercise Performance and Fat Metabolism.
+Study Title: A 6-month educational program improves sleep behaviour in community-dwelling frail older adults: A randomised controlled trial.
 
 Study Summary:
-The sleep-low method has been proposed as a way to sleep in a low-glycogen state, increase the duration of low glycogen availability and sleep and temporarily restrict carbohydrates to improve exercise performance. However, long-term dietary restriction may induce mental stress in athletes. Therefore, if it can be shown that the effects of the sleep-low method can be achieved by restricting the carbohydrate intake at night (the nighttime carbohydrate restriction method), innovative methods could be developed to reduce weight in individuals with obesity and enhance athletes' performance with reduced stress and in a shorter duration when compared with those of previous studies. With this background, we conducted a study with the purpose of examining the intervention effects of a short-term intensive nighttime carbohydrate restriction method. A total of 22 participants were recruited among university students participating in sports club activities. The participants were assigned at random to groups, including a nighttime carbohydrate restriction group of 11 participants (6 males, 5 females; age 22.3 &#xb1; 1.23) who started a carbohydrate-restricted diet and a group of 11 participants (5 males, 6 females; age 21.9 &#xb1; 7.9) who continued with their usual diet. The present study had a two-group parallel design. In the first week, no dietary restrictions were imposed on either group, and the participants consumed their own habitual diets. In the second week, the total amount of calories and carbohydrate intake measured in the first week were divided by seven days, and the average values were calculated. These were used as the daily calorie and carbohydrate intakes in the second week. Only the nighttime carbohydrate restriction group was prohibited from consuming carbohydrates after 4:00 p.m. During the two-week study period, all participants ran for one hour each day before breakfast at a heart rate of 65% of their maximum heart rate. The results obtained from young adults participating in sports showed significant differences in peak oxygen consumption (V&#xb7;O2peak), work rate max, respiratory quotient (RQ), body weight and lean body mass after the intervention when compared with before the intervention in the nighttime carbohydrate restriction group (< 0.05). Our findings suggest that the nighttime carbohydrate restriction method markedly improves fat metabolism even when performed for a short period. This method can be used to reduce body weight in individuals with obesity and enhance athletes' performance. However, it is important to consider the intake of nutrition other than carbohydrates.
+The prevalence of sleep-related issues among older adults is a significant concern, with half of the older population reporting these problems. Consequently, strategies to improve sleep are needed for this population. This study aims to assess the effects of a health educational program on sleep behaviour among pre-frail or frail older adults residing in the community and to explore possible associations with frailty. This randomised controlled trial (NCT05610605) included a total of 197 community-dwelling older adults with frailty/pre-frailty, divided into control (n&#xa0;=&#xa0;88) and educational (n&#xa0;=&#xa0;109) groups, were assessed at baseline, after the 6-month educational program (6 months), and 6 months after the intervention (12 months). The intervention comprised four group sessions and six follow-up phone calls, focusing on frailty, physical activity, dietary habits, and cognitive training. Sleep quality was measured using the Pittsburgh Sleep Quality Index (PSQI) and wrist-worn accelerometry. At 6 months, a significant time-by-group interaction was found for self-reported [&#x3b2;&#xa0;=&#xa0;-0.449, 95%CI (-0.844, -0.053), p&#xa0;=&#xa0;0.026] and accelerometer-measured [&#x3b2;&#xa0;=&#xa0;0.505, 95%CI (0.085, 0.926), p&#xa0;=&#xa0;0.019] sleep efficiency, showing improved sleep efficiency in the intervention group vs. controls. A significant time-by-group interaction at 6 months was noted for sleep awakenings [&#x3b2;&#xa0;=&#xa0;-0.402, 95%CI (-0.825, -0.020), p&#xa0;=&#xa0;0.047]. The educational program led to a significant decrease in awakenings, while the control group experienced an increase. The change in the number of awakenings (Rs&#xa0;=&#xa0;0.183, p&#xa0;=&#xa0;0.020) at 6 months was significantly associated with changes in frailty. Moreover, a significant time-by-group interaction was reported at the 12-month assessment [&#x3b2;&#xa0;=&#xa0;-0.449, 95%CI (-0.844, -0.053), p&#xa0;=&#xa0;0.026] for self-reported sleep quality, indicating better results in the intervention group compared to controls. The educational program improved sleep quality and sleep efficiency while reducing the number of awakenings per night among community-dwelling frail older adults, offering a practical approach to addressing sleep-related challenges in this demographic.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16132138
+- DOI: 10.1016/j.sleep.2024.07.011
 
 2. Keywords
-- aerobic exercise
-- body composition
-- carbohydrate metabolism
-- dietary restrictions
+- Accelerometer
+- Actigraphy
+- Aging
+- Health education
+- Health promotion
+- Sleep disorders
 
 3. Key Findings
-- The results obtained from young adults participating in sports showed significant differences in peak oxygen consumption (V&#xb7;O2peak), work rate max, respiratory quotient (RQ), body weight and lean body mass after the intervention when compared with before the intervention in the nighttime carbohydrate restriction group (< 0
+- At 6 months, a significant time-by-group interaction was found for self-reported [&#x3b2;&#xa0;=&#xa0;-0
 
 This study provides insights into:
-- aerobic exercise assessment methods and outcomes
-- body composition assessment methods and outcomes
-- carbohydrate metabolism assessment methods and outcomes
+- Accelerometer assessment methods and outcomes
+- Actigraphy assessment methods and outcomes
+- Aging assessment methods and outcomes

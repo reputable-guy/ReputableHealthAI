@@ -1,25 +1,27 @@
-Study Title: Psychological Stress and Intraocular Pressure in Glaucoma: A Randomized Controlled Trial.
+Study Title: Altered oxidative neurometabolic response to methylene blue in bipolar disorder revealed by quantitative neuroimaging.
 
 Study Summary:
-To evaluate the intraocular pressure (IOP) behavior after applying a standardized protocol to induce psychological stress in patients with primary open-angle glaucoma (POAG). Randomized controlled trial. A total of 39 patients with POAG were included: 18 in the stress group and 21 in the control group. Patients were randomized to undergo the Trier Social Stress Test (TSST) or to be included in the control group. All participants were submitted to a modified diurnal tension curve (DTC) 1-4 weeks before randomization, with 3 IOP measurements performed between 8:00 am and 2:00 pm. We evaluated the response to the TSST by measuring the levels of salivary cortisol, salivary amylase, IOP, mean arterial pressure, and heart rate before, immediately after, and 40 minutes after the TSST. The State Trait Anxiety Inventory (STAI) was applied to evaluate the levels of anxiety at the same time intervals. Changes in IOP (mmHg), salivary cortisol and amylase, heart rate, mean arterial pressure, and STAI scores. At baseline, there were no significant differences between the groups regarding age (P&#xa0;=&#xa0;0.661), sex (P&#xa0;=&#xa0;0.669), salivary cortisol (P&#xa0;=&#xa0;0.104), and mean DTC IOP for the right (P&#xa0;=&#xa0;0.439) and left (P&#xa0;=&#xa0;0.576) eyes. We observed a significant mean IOP increase of 3.8 mmHg (right eye; P&#xa0;<&#xa0;0.001) and 4.1 mmHg (left eye; P&#xa0;<&#xa0;0.001) when we compared IOP measurements obtained during the DTC and immediately after TSST. Salivary cortisol (5.9 nmol/L; P&#xa0;=&#xa0;0.004), salivary amylase (323&#xa0;388 UL; P&#xa0;=&#xa0;0.004), mean arterial pressure (10.1 mmHg; P&#xa0;<&#xa0;0.001), and heart rate (12.9 bpm; P&#xa0;<&#xa0;0.001) also increased significantly after the TSST. In addition, 61.1% (11&#xa0;of 18) of the patients in the TSST group showed an IOP increase > 4 mmHg following the test. The STAI-state score significantly increased after the TSST compared to baseline (P&#xa0;<&#xa0;0.001) and decreased from poststress to the recovery period (P&#xa0;<&#xa0;0.001). Patients with POAG present significant elevations of IOP, salivary cortisol and amylase, mean arterial pressure, heart rate, and STAI scores after psychological stress induced by the TSST. Proprietary or commercial disclosure may be found in the Footnotes and Disclosures at the end of this article.
+Cerebral mitochondrial and hemodynamic abnormalities have been implicated in Bipolar Disorder pathophysiology, likely contributing to neurometabolic vulnerability-leading to worsen clinical outcomes and mood instability. To investigate neurometabolic vulnerability in patients with BD, we combined multi-modal quantitative MRI assessment of cerebral oxygenation with acute administration of Methylene Blue, a neurometabolic/hemodynamic modulator acting on cerebral mitochondria. Fifteen euthymic patients with chronic BD-type 1, and fifteen age/gender-matched healthy controls underwent two separate MRI sessions in a single-blinded randomized cross-over design, each after intravenous infusion of either MB (0.5&#xa0;mg/kg) or placebo. MRI-based measures of Cerebral Blood Flow and Oxygen Extraction Fraction were integrated to compute Cerebral Metabolic Rate of Oxygen in Frontal Lobe, Anterior Cingulate, and Hippocampus-implicated in BD neurometabolic pathophysiology. Inter-daily variation in mood rating was used to assess mood instability. A decrease in global CBF and CMROwas observed after acutely administrating MB to all participants. Greater regional CMROreductions were observed after MB, in patients compared to controls in FL (mean&#xa0;=&#xa0;-14.2&#xa0;&#xb1;&#xa0;19.5&#xa0;% versus 2.3&#xa0;&#xb1;&#xa0;14.8&#xa0;%), ACC (mean&#xa0;=&#xa0;-14.8&#xa0;&#xb1;&#xa0;23.7&#xa0;% versus 2.4&#xa0;&#xb1;&#xa0;15.7&#xa0;%). The effects on CMROin those regions were primarily driven by patients with longer disease duration and higher mood instability. Sample size; medications potentially impacting on response to MB. An altered neurometabolic response to MB, a mitochondrial/hemodynamic modulator, was observed in patients, supporting the hypothesis of vulnerability to neurometabolic stress in BD. Integrating quantitative imaging of cerebral oxygen metabolism with a mitochondrial-targeting pharmacological challenge could provide a novel biomarker of neurometabolic and cerebrovascular pathophysiology in BD.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ogla.2024.07.004
+- DOI: 10.1016/j.jad.2024.07.029
 
 2. Keywords
-- Glaucoma
-- Intraocular pressure
-- Psychological stress
+- Bipolar disorder
+- CMRO(2)
+- Cerebral blood flow
+- Mitochondria
+- Neuroimaging
+- Neuroprogression
 
 3. Key Findings
-- 1% (11&#xa0;of 18) of the patients in the TSST group showed an IOP increase > 4 mmHg following the test
-- Proprietary or commercial disclosure may be found in the Footnotes and Disclosures at the end of this article
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Glaucoma assessment methods and outcomes
-- Intraocular pressure assessment methods and outcomes
-- Psychological stress assessment methods and outcomes
+- Bipolar disorder assessment methods and outcomes
+- CMRO(2) assessment methods and outcomes
+- Cerebral blood flow assessment methods and outcomes

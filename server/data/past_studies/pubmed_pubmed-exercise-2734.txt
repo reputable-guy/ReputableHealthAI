@@ -1,26 +1,27 @@
-Study Title: Emerging Technologies and Open-Source Platforms for Remote Physical Exercise: Innovations and Opportunities for Healthy Population-A Narrative Review.
+Study Title: Effect of Single High-Dose Vitamin DSupplementation on Post-Ultra Mountain Running Heart Damage and Iron Metabolism Changes: A Double-Blind Randomized Controlled Trial.
 
 Study Summary:
-The emergence of tele-exercise as a response to the impact of technology on physical activity has opened up new possibilities for promoting physical health. By integrating innovative technologies and open-source platforms, tele-exercise encourages people to stay active. In our latest analysis, we delved into the scientific literature surrounding the use of tele-exercise technologies in training healthy individuals. After conducting an extensive search on the PubMed database using the keywords "tele-exercise" and "physical activity" (from 2020 to 2023), we identified 44 clinical trials that were applicable to tele-exercise, but less than 10% of them were aimed at healthy individuals, precisely 9.09% (four out of forty-four studies analyzed). Our review highlights the potential of tele-exercise to help maintain physical fitness and psychological well-being, especially when traditional fitness facilities are not an option. We also underscore the importance of interoperability, standardization, and the incorporation of biomechanics, exercise physiology, and neuroscience into the development of tele-exercise platforms. Nevertheless, despite these promising benefits, research has shown that there is still a significant gap in the knowledge concerning the definition and evaluation of training parameters for healthy individuals. As a result, we call for further research to establish evidence-based practices for tele-exercise in the healthy population.
+Exercise-induced inflammation can influence iron metabolism. Conversely, the effects of vitamin D, which possesses anti-inflammatory properties, on ultramarathon-induced heart damage and changes in iron metabolism have not been investigated. Thirty-five healthy long-distance semi-amateur runners were divided into two groups: one group received 150,000 IU of vitamin D24 h prior to a race (= 16), while the other group received a placebo (= 19). Serum iron, hepcidin (HPC), ferritin (FER), erythroferrone (ERFE), erythropoietin (EPO), neopterin (NPT), and cardiac troponin T (cTnT) levels were assessed. A considerable effect of ultramarathon running on all examined biochemical markers was observed, with a significant rise in serum levels of ERFE, EPO, HPC, NPT, and cTnT detected immediately post-race, irrespective of the group factor. Vitamin Dsupplementation showed a notable interaction with the UM, specifically in EPO and cTnT, with no other additional changes in the other analysed markers. In addition to the correlation between baseline FER and post-run ERFE, HPC was modified by vitamin D. The ultramarathon significantly influenced the EPO/ERFE/HPC axis; however, a single substantial dose of vitamin Dhad an effect only on EPO, which was associated with the lower heart damage marker cTnT after the run.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/healthcare12151466
+- DOI: 10.3390/nu16152479
 
 2. Keywords
-- healthy lifestyle
-- physical activity
-- tele-exercise
-- wellbeing
-- wellness
+- erythroferrone
+- erythropoietin
+- ferritin
+- iron
+- ultramarathon
+- vitamin D
 
 3. Key Findings
-- Findings extraction requires manual review
+- Vitamin Dsupplementation showed a notable interaction with the UM, specifically in EPO and cTnT, with no other additional changes in the other analysed markers
 
 This study provides insights into:
-- healthy lifestyle assessment methods and outcomes
-- physical activity assessment methods and outcomes
-- tele-exercise assessment methods and outcomes
+- erythroferrone assessment methods and outcomes
+- erythropoietin assessment methods and outcomes
+- ferritin assessment methods and outcomes

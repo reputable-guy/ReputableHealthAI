@@ -1,20 +1,20 @@
-Study Title: Flower therapy and perceived stress in primary health care nursing professionals: randomized clinical trial.
+Study Title: Routine Stress Testing After PCI in Patients With and Without Acute Coronary Syndrome: A Secondary Analysis of the POST-PCI Randomized Clinical Trial.
 
 Study Summary:
-To analyze the effectiveness of Bach flower therapy compared to placebo in reducing perceived stress levels in primary health care nursing professionals. Pragmatic, parallel randomized clinical trial conducted with 87 primary care nursing professionals with self-identified stress, from October 2021 to June 2022, in the cities of Osasco and S&#xe3;o Paulo, Brazil. The intervention group (n=43) received the collective flower formula, and the placebo group (n=44) received only the diluent. Data analysis was performed using the linear mixed model, and effect size was measured by partial Eta squared, significance level 5%. Data analysis showed a significant reduction in perceived stress levels within groups (p=0.038). However, there was no significant difference between the study groups (p=0.750). Participants in the intervention group reported a greater perception of changes than participants in the placebo group, but without statistical significance (p=0,089). The floral formula was not more effective than the placebo formula in reducing perceived stress. There was a significant stress reduction among nursing professionals in both study groups, although with a small effect size.
+The appropriate follow-up surveillance strategy for patients with acute coronary syndrome (ACS) who have undergone percutaneous coronary intervention (PCI) remains unknown. To assess clinical outcomes in patients with and without ACS who have undergone high-risk PCI according to a follow-up strategy of routine stress testing at 12 months after PCI vs standard care alone. The POST-PCI (Pragmatic Trial Comparing Symptom-Oriented vs Routine Stress Testing in High-Risk Patients Undergoing Percutaneous Coronary Intervention) trial was a randomized clinical trial that compared follow-up strategies of routine functional testing vs standard care alone 12 months after high-risk PCI. Patients were categorized as presenting with or without ACS. Patients were enrolled in the trial from November 2017 through September 2019, and patients were randomized from 11 sites in South Korea; data analysis was performed in 2022. Patients categorized as presenting with or without ACS were randomized to either a routine functional testing or standard care alone follow-up strategy 12 months after high-risk PCI. The primary outcome was a composite of death from any cause, myocardial infarction, or hospitalization for unstable angina at 2 years following randomization. Kaplan-Meier event rates through 2 years and Cox model hazard ratios (HRs) were generated, and interactions were tested. Of 1706 included patients, 350 patients (20.5%) were female, and the mean (SD) patient age was 64.7 (10.3) years. In total, 526 patients (30.8%) presented with ACS. Compared with those without ACS, patients with ACS had a 55% greater risk of the primary outcome (HR, 1.55; 95% CI, 1.03-2.33; P&#x2009;=&#x2009;.03) due to higher event rates in the first year. The 2-year incidences of the primary outcome were similar between strategies of routine functional testing or standard care alone in patients with ACS (functional testing: 16 of 251 [6.6%]; standard care: 23 of 275 [8.5%]; HR, 0.76; 95% CI, 0.40-1.44; P&#x2009;=&#x2009;.39) and in patients without ACS (functional testing: 30 of 598 [5.1%]; standard care: 28 of 582 [4.9%]; HR, 1.04; 95% CI, 0.62-1.74; P&#x2009;=&#x2009;.88) (P for interaction for ACS&#x2009;=&#x2009;.45). Although a landmark analysis suggested that the rates of invasive angiography and repeat revascularization were higher after 1 year in the routine functional testing group, the formal interactions between ACS status and either invasive angiography or repeat revascularization were not significant. Despite being at higher risk for adverse clinical events in the first year after PCI than patients without ACS, patients with ACS who had undergone high-risk PCI did not derive incremental benefit from routine surveillance stress testing at 12 months compared with standard care alone during follow-up. ClinicalTrials.gov Identifier: NCT03217877.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1590/1983-1447.2024.20230132.en
+- DOI: 10.1001/jamacardio.2024.1556
 
 2. Keywords
 
 
 3. Key Findings
-- Data analysis showed a significant reduction in perceived stress levels within groups (p=0
+- Findings extraction requires manual review
 
 This study provides insights into:
 - General research methodology and outcomes

@@ -1,27 +1,29 @@
-Study Title: The effect of laughter yoga and music intervention on depression, anxiety, and stress in the Rafsanjan-Iran aged: a randomized clinical trial study.
+Study Title: Effects of high-intensity interval training on sleep disturbances associated with posttraumatic stress disorder.
 
 Study Summary:
-This study aimed to compare the effects of laughter yoga and music intervention on depression, anxiety, and stress in aged individuals referred to Rafsanjan health centers. In this 3-arm randomized clinical trial, 91 depressed aged participants aged 60-75&#x2009;years, referred to Rafsanjan health centers, were randomly assigned to intervention and control groups. The study followed a parallel group design with an allocation ratio of 1:1. The laughter yoga intervention was conducted twice a week for eight weeks, and music intervention consisted of 30-min sessions twice a week for eight weeks. The control group received no intervention ('No treatment' concurrent control). Assessments for depressive symptoms (primary outcome), anxiety, and stress were conducted at baseline, post-intervention, and one month after the intervention. A total of 84 patients were analyzed in three groups included the laughter yoga intervention (&#x2009;=&#x2009;31), music intervention (&#x2009;=&#x2009;25), or control group (&#x2009;=&#x2009;28). Repeated measures ANOVA revealed a significant decrease in depressive and anxiety symptoms (&#x2009;<&#x2009;0.001) from pre-test to post-test and one-month follow-ups. The greatest impact of the intervention programs on stress was observed immediately after the intervention, but stress increased one month after the intervention programs (&#x2009;=&#x2009;0.125). Both laughter yoga and music interventions proved effective in improving depression, anxiety, and stress in aged individuals. However, laughter yoga intervention demonstrated a superior effect and better acceptance among elders.
+Sleep disturbances are common in individuals with posttraumatic stress disorder. Exercise interventions are a promising approach in the treatment of sleep disorders, but little is known about the efficacy of exercise interventions for sleep disturbances associated with posttraumatic stress disorder. A total of 40 individuals with posttraumatic stress disorder were randomized to six sessions of either high-intensity interval training or low-to-moderate-intensity training, administered within 12&#x2009;days. Sleep quality was assessed over 24&#x2009;days from baseline to post with the Pittsburgh Sleep Quality Index, a sleep log, and a waist-worn actigraphy. Analyses revealed that, regardless of group allocation, Pittsburgh Sleep Quality Index score improved significantly by 2.28 points for high-intensity interval training and 1.70 points for low-to-moderate-intensity training (d&#x2009;=&#x2009;0.56 for high-intensity interval training; 0.49 for low-to-moderate-intensity training) over time, while there were no significant changes in any sleep log or actigraphy measure. Analysis of a subsample of those affected by clinically significant sleep disturbances (n&#x2009;=&#x2009;24) revealed a significant time effect with no difference between exercise interventions: Pittsburgh Sleep Quality Index improved significantly by 2.65 points for high-intensity interval training and 2.89 points for low-to-moderate-intensity training (d&#x2009;=&#x2009;0.53 for high-intensity interval training; 0.88 for low-to-moderate-intensity training), and actigraphy measure of wake after sleep onset was reduced significantly by 14.39&#x2009;minutes for high-intensity interval training and 6.96&#x2009;minutes for low-to-moderate-intensity training (d&#x2009;=&#x2009;0.47 for high-intensity interval training; 0.11 for low-to-moderate-intensity training) from baseline to post. In our pilot study, we found an improvement in sleep quality from pre- to post-assessment. There were no significant differences between exercise groups. Further studies are needed to investigate whether the found time effects reflect the exercise intervention or unrelated factors.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1080/13607863.2024.2385454
+- Publication Date: 2025
+- DOI: 10.1111/jsr.14299
 
 2. Keywords
-- Psychosocial intervention
-- aging
-- laughter yoga
-- mental health
-- music intervention
+- exercise
+- high&#x2010;intensity interval training
+- linear mixed model
+- posttraumatic stress disorder
+- sleep disorders
 
 3. Key Findings
-- Repeated measures ANOVA revealed a significant decrease in depressive and anxiety symptoms (&#x2009;<&#x2009;0
-- However, laughter yoga intervention demonstrated a superior effect and better acceptance among elders
+- Analyses revealed that, regardless of group allocation, Pittsburgh Sleep Quality Index score improved significantly by 2
+- Analysis of a subsample of those affected by clinically significant sleep disturbances (n&#x2009;=&#x2009;24) revealed a significant time effect with no difference between exercise interventions: Pittsburgh Sleep Quality Index improved significantly by 2
+- In our pilot study, we found an improvement in sleep quality from pre- to post-assessment
+- Further studies are needed to investigate whether the found time effects reflect the exercise intervention or unrelated factors
 
 This study provides insights into:
-- Psychosocial intervention assessment methods and outcomes
-- aging assessment methods and outcomes
-- laughter yoga assessment methods and outcomes
+- exercise assessment methods and outcomes
+- high&#x2010;intensity interval training assessment methods and outcomes
+- linear mixed model assessment methods and outcomes

@@ -1,25 +1,26 @@
-Study Title: Teduglutide improves liver chemistries in short bowel syndrome-associated intestinal failure: Post hoc analysis.
+Study Title: Perioperative nutrition management in patients with spinal tuberculosis taking ERAS measures.
 
 Study Summary:
-Chronic hepatic complications are common in patients with short bowel syndrome-associated intestinal failure (SBS-IF). Teduglutide, a glucagon-like peptide-2 analogue, demonstrated efficacy in reducing parenteral nutrition and/or intravenous fluid dependence among patients with SBS-IF in phase 3 clinical studies. This was a post hoc analysis of pooled data from two separate randomized, double-blind, placebo-controlled, multinational phase 3 clinical studies. Adult patients with SBS-IF with parenteral nutrition and/or intravenous fluid dependence without liver disease at baseline were randomized to treatment with the glucagon-like peptide-2 analogue teduglutide (0.05 or 0.10&#x2009;mg/kg/day) or placebo subcutaneously once daily for 24 weeks. Mixed-effects models assessed the baseline predictors of change in liver chemistries. Between baseline and week 24, teduglutide treatment (n&#x2009;=&#x2009;109) was associated with least squares mean reductions in aspartate aminotransferase (-7.51 IU/L; P&#x2009;=&#x2009;0.014), alanine aminotransferase (-12.15&#x2009;IU/L; P&#x2009;=&#x2009;0.002), and bilirubin (-5.03&#x2009;&#xb5;mol/L [-0.057&#x2009;mg/dl]; P&#x2009;<&#x2009;0.001) compared with that of the placebo (n&#x2009;=&#x2009;59). These values were independent of reductions in parenteral nutrition and/or intravenous fluid dependence. Teduglutide treatment was associated with reductions in liver chemistries by week 24, which is beneficial for patients with SBS-IF beyond improvements in parenteral nutrition and/or intravenous fluid dependence. Future studies should examine how long-term teduglutide might mitigate the risk of liver disease in patients with SBS-IF.
+To explore the effect of nutrition management under ERAS concept in patients with spinal tuberculosis. The study was conducted in an orthopedic ward of a tertiary grade A special hospital in Beijing. The patients admitted from January 1, 2021 to June 27, 2023 were screened for inclusion. The qualified patients were randomized into experimental group or control group. The experimental group received perioperative nutrition management under the concept of ERAS while the control group received routine perioperative management in hospital. The data was collected on the next day of admission, the next day and the sixth day after operation, including laboratory indicators (lymphocyte count, hemoglobin level, etc), intraoperative bleeding volume, postoperative exhaust, defecation time, drainage volume, albumin infusion amount, nutritional risk score, length of stay, hospitalization costs, etc. Univariate analysis and multivariate analysis correcting for gender, age, and baseline values were performed using SPSS24.0. A total of 127 patients with spinal tuberculosis completed the study. Compared with the control group, the intraoperative blood loss (p=0.028) in the experimental group was significantly reduced, the postoperative exhaust time (p=0.012) and defecation time (p=0.012) were significantly shortened, and the nutritional status (p<0.001) was significantly improved. Besides, the results of multivariate analysis are robust after correcting potential confounding factors. Nutrition management under the concept of ERAS is helpful to reduce intraoperative bleeding, promote postoperative flatus and defecation, and improve nutritional status in patients with spinal tuberculosis, which may further improve their clinical outcome and prognosis.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ncp.11139
+- DOI: 10.6133/apjcn.202403_34(1).0005
 
 2. Keywords
-- glucagon&#x2010;like peptide&#x2010;2
-- parenteral nutrition
-- short bowel syndrome
-- &#xa0;liver function tests
+- accelerated rehabilitation surgery
+- nutrition management
+- perioperative period
+- randomized controlled trial
+- spinal tuberculosis
 
 3. Key Findings
-- Teduglutide, a glucagon-like peptide-2 analogue, demonstrated efficacy in reducing parenteral nutrition and/or intravenous fluid dependence among patients with SBS-IF in phase 3 clinical studies
+- Besides, the results of multivariate analysis are robust after correcting potential confounding factors
 
 This study provides insights into:
-- glucagon&#x2010;like peptide&#x2010;2 assessment methods and outcomes
-- parenteral nutrition assessment methods and outcomes
-- short bowel syndrome assessment methods and outcomes
+- accelerated rehabilitation surgery assessment methods and outcomes
+- nutrition management assessment methods and outcomes
+- perioperative period assessment methods and outcomes

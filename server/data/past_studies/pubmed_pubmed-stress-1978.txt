@@ -1,26 +1,36 @@
-Study Title: Implementation of a Mindful Walking Intervention in Breast Cancer Patients After Their Primary Oncologic Treatment: Results of a Qualitative Study Within a Randomized Controlled Trial.
+Study Title: A Web-Based and Mobile Intervention Program Using a Spaced Education Approach for Workplace Mental Health Literacy: Cluster Randomized Controlled Trial.
 
 Study Summary:
-Breast cancer survivors often suffer from diagnosis- and therapy-related long-term side effects, such as cancer related fatigue, restricted stress resilience and quality of life. Walking as a physical activity and mindfulness practice have been shown to be helpful in studies. The aim of this study was to compare the individual experiences and subjectively perceived effects of walking in combination with mindfulness practice with moderate walking alone in breast cancer patients. This paper focuses on the qualitative results of a mixed-methods pilot study. Breast cancer patients who had finished their primary oncologic treatment at least 6&#x2009;months ago were randomized to an 8-week group intervention program of either mindful walking or moderate walking. Within the qualitative study part, semi-structured focus group interviews (2 interviews per study arm) were conducted and analyzed using a qualitative content analysis approach. Audio recorded interviews were transcribed verbatim and pseudonymized. The subsequent data analysis was performed by using MAXQDA. A total of 51 women (mean age 55.8 [SD 10.9] years) were included in the RCT, among these 20 (mean age 56.7 [SD 12.0] years) participated in the focus group interviews (n&#x2009;=&#x2009;11 patients of the mindful walking group; n&#x2009;=&#x2009;9 patients of the walking group). Breast cancer patients in both groups described different effects in the complex areas of self-efficacy, coping, body awareness and self-reflection. While mindful walking primarily promoted body awareness and inner strength by mindfulness in breast cancer patients, moderate walking promoted self-efficacy by a confidence of their body and an easily integrated and accepted way of physical activity. Study interventions and the study setting triggered processes and reflections on one's own health and situation. However, mindful walking and moderate walking seem to address different resources. This important knowledge may help oncologists and other therapists to assess what type of interventions can best meet the needs and requirements of individual patients. DKRS00011521; prospectively registered 21.12.2016; https://drks.de/search/de/trial/DRKS00011521.
+Workplace mental health is an important global health concern. This unblinded, phase-III, wait-listed cluster randomized controlled trial aimed to examine the effectiveness of a mobile health (mHealth) psychoeducation program using a spaced education approach on mental health literacy (MHL) in the workplace. The main interest of this paper was the immediate and 3-month medium-term effect of the program on the MHL of workers. The purposely built mHealth platform was also evaluated as a health-related app. The mHealth platform was designed using the principle of spaced education as a psychoeducation intervention program, with various modules of web-based and mobile materials presented to the participant in a progressive manner. Short quizzes at the end of each module ensured adequate learning, and successful completion qualified the learner to progress to the next level. The trial recruited 456 employees of specific industries with high levels of work-related stress. Participants who were nested in different offices or units were allocated into the intervention and wait-listed control groups using a block randomization process, with the office or unit as the cluster. A separate sample of 70 individual raters were used for the evaluation of the mHealth platform. The Australian National MHL and Stigma Survey and the Mobile Apps Rating Scale were completed through a web-based self-reported survey to assess MHL and evaluate the app. The trial and follow-up data were analyzed by a generalized linear latent and mixed model with adjustments for the clustering effect of work sites and repeated measures. Of the 456 participants in the trial, 236 (51.8%) responded to the follow-up survey. Most MHL outcomes obtained significant results immediately after the intervention and across time. After adjusting for the clustering effect, the postintervention weighted mean scores were significantly higher in the intervention group than the control group for correct recognition of a mental health problem, help seeking, and stigmatization by 0.2 (SE 0.1; P=.003), 0.9 (SE 0.2; P<.001), and 1.8 (SE 0.4; P<.001), respectively. After adjusting for the clustering effect, significant differences across time were found in help-seeking intention (P=.01), stigmatization (P<.001), and social distancing (P<.001). The evaluation of the mHealth program resulted in average scores of the 4 major domains ranging from 3.8 to 4.2, with engagement having the lowest score. The mHealth psychoeducation intervention program using this platform had immediate and 3-month medium-term effects of retaining and improving MHL. The platform was evaluated to have satisfactory performance in terms of functionality, aesthetics, information content, and utility in enhancing MHL. It is anticipated that ongoing development in digital health will provide great benefits in improving the mental health of the global population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/15347354241237972
+- DOI: 10.2196/51791
 
 2. Keywords
-- breast cancer
-- coping
-- mindfulness
-- qualitative research
-- walking
+- digital health
+- intervention
+- mHealth
+- mental health literacy
+- mental wellness
+- mobile health
+- performance
+- promote
+- psychoeducation
+- randomized controlled trial
+- technology
+- web-based intervention
+- well-being
+- worker
+- workplace
 
 3. Key Findings
-- Findings extraction requires manual review
+- After adjusting for the clustering effect, significant differences across time were found in help-seeking intention (P=
 
 This study provides insights into:
-- breast cancer assessment methods and outcomes
-- coping assessment methods and outcomes
-- mindfulness assessment methods and outcomes
+- digital health assessment methods and outcomes
+- intervention assessment methods and outcomes
+- mHealth assessment methods and outcomes

@@ -1,28 +1,23 @@
-Study Title: Phase-Based Care in Community Mental Health: A Cost-Effective Innovation Using Algorithms, Rating Scales and Treatment Teams for Depression Management.
+Study Title: Sensory-motor training with virtual reality as a complementary intervention to manual therapy for persistent non-specific neck pain: a randomized controlled trial.
 
 Study Summary:
-This retrospective, observational report describes an innovative quality improvement process, Phase-based Care (PBC), that eliminated wait times and achieved positive clinical outcomes in a community mental health center's (CMHC) mood disorder clinic without adding staff. PBC accomplishes this by eliminating the ingrained cultural practice of routinely scheduling stable patients at rote intervals of 1-3&#xa0;months, regardless of clinical need or medical necessity. Based on four organizational transformations and using mathematical algorithms developed for this process, PBC re-allocates therapy and medical resources away from routinely scheduled appointments and front-loads those resources to patients in an acute phase of illness. To maintain wellness for patients in recovery, lower frequency and intensity approaches are used. This report describes the development of the PBC methodology focusing on the Rapid Recovery Clinic (RRC) comprised of 182 patients with a primary diagnosis of a mood disorder, the largest of the 14 PBC clinics created. Over an 18-month period, wait times were reduced from several months to less than one week and recovery rates, meaning no longer in an acute phase, were 63% and 78% at weeks 6 and 12, respectively for patients who engaged in the program.
+Persistent non-specific neck pain (NP) is a widespread condition described as a complex biopsychosocial disorder, characterized by physical and psychological symptoms. Virtual reality (VR) shows promise in NP treatment, potentially reducing pain, kinesiophobia, and improving range of motion (ROM) and motor control. The primary aim of the study was to assess the effectiveness of VR sensorimotor training, combined with manual therapy, in reducing the level of disability in persistent non-specific NP individuals. The secondary aim was to determine if this VR-enhanced approach also contributes to improvement in overall function, pain perception and kinesiophobia. Monocentric, single-blind, randomized controlled trial. We conducted this trial at San Raffaele Scientific Institute, Department of Rehabilitation and Functional Recovery, Milan, Italy. Forty NP participants were enrolled in the study and randomly allocated into two groups. The study involved a 6-week rehabilitation program, comprising 12 sessions of 45 minutes each, twice weekly. Both intervention groups underwent manual therapy as a consistent component of their treatment. The Experimental Group (VRT) was additionally engaged in sensorimotor rehabilitation exercises using Virtual Reality, whereas the Control Group (CT) performed the same exercises without VR. We assessed subjects at baseline (T0) and after six weeks of rehabilitation (T1). The primary outcome was the disability (Neck Disability Index) while the secondary outcomes were: pain perception (Numeric Rating Scale, NP and Disability Scale, Central Sensitization Inventory) function (Cervical Kinematics) and kinesiophobia (Tampa Scale of Kinesiophobia). Both groups demonstrated significant reduction in level of disability, pain perception, and kinesiophobia. Significant advancements in kinematics were observed: VRT group showed enhanced ROM during craniocervical rotation (P=0.039), lateral bending (P=0.001), flexion-extension (P=0.009), and mean velocity across movements (P<0.001), whereas CT group improved in maximal ROM during lateral bending rotation (P=0.001). Between-group analysis, after Bonferroni's correction for multiple comparisons, revealed that VRT group had significantly better outcomes in ROM during rotation (P=0.040), ratio of the primary over the secondary movement while performing rotation (P=0.021), and mean velocity during lateral bending (P=0.031). Sensorimotor training, combined with manual therapy, could enhance kinematic outcomes for NP patients, supporting the potential of VR in rehabilitation. This study highlighted that both groups demonstrated significant reduction in level of disability, pain perception, and kinesiophobia after sensorimotor training combined with manual therapy. It is important to underscore that in terms of reducing the level of neck disability, both interventions proved to be equally effective. This parity in efficacy is a critical finding, reaffirming the robustness of our therapeutic approaches for this specific outcome.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10597-024-01303-5
+- DOI: 10.23736/S1973-9087.24.08115-2
 
 2. Keywords
-- Behavioral health wait time
-- Community mental health
-- Delays in care
-- Federally qualified health centers
-- Mental health
-- Wait time
-- Waitlist
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Both groups demonstrated significant reduction in level of disability, pain perception, and kinesiophobia
+- Significant advancements in kinematics were observed: VRT group showed enhanced ROM during craniocervical rotation (P=0
+- Between-group analysis, after Bonferroni's correction for multiple comparisons, revealed that VRT group had significantly better outcomes in ROM during rotation (P=0
+- This study highlighted that both groups demonstrated significant reduction in level of disability, pain perception, and kinesiophobia after sensorimotor training combined with manual therapy
 
 This study provides insights into:
-- Behavioral health wait time assessment methods and outcomes
-- Community mental health assessment methods and outcomes
-- Delays in care assessment methods and outcomes
+- General research methodology and outcomes

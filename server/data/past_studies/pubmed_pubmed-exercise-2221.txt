@@ -1,27 +1,26 @@
-Study Title: Clinical Efficacy of Virtual Reality Cave Automatic Virtual Environments (CAVE) for Chronic Musculoskeletal Pain in Older Adults: A Randomized Controlled Trial.
+Study Title: Does Sleep Moderate the Effects of Exercise Training or Complex Mental and Social Activities on Cognitive Function in Adults With Chronic Stroke? Secondary Analysis of a Randomized Trial.
 
 Study Summary:
-To assess whether tai chi assisted by the Cave Automatic Virtual Environment (CAVE), a novel virtual reality (VR) technology, was superior to tai chi alone in managing chronic pain in older adults. CAVE may offer a promising alternative to head-mounted displays in chronic pain treatment. The study was a 12-week, 2-arm, parallel, randomized controlled trial implemented in VR and non-VR groups (N&#xa0;= 80, each arm&#xa0;= 40). The VR group underwent an 8-week tai chi program in a 3-wall VR-CAVE with projections of nature scenes and music, whereas the control group received tai chi only. Community-dwelling older adults with chronic musculoskeletal pain were randomized (1:1) to VR and non-VR groups. Participants were assessed at baseline, posttreatment at 8&#xa0;weeks, and 12&#xa0;weeks. The primary outcome was the Brief Pain Inventory severity score at 8&#xa0;weeks, modeled within an intention-to-treat framework using generalized estimating equations. Participants had a mean age of 65.1 &#xb1; 5.6&#xa0;years, with 78.8% female and mean BPI-pain severity score of 4.4 &#xb1; 1.5. At 8&#xa0;weeks, the VR group demonstrated a statistically significant improvement in BPI severity score compared with the non-VR group (&#x3b2;&#xa0;=&#xa0;-0.75, 95% CI&#xa0;-1.48 to&#xa0;-0.03, P&#xa0;= .043), with the effect sustained to 12&#xa0;weeks (&#x3b2;&#xa0;=&#xa0;-1.18, 95% CI&#xa0;-1.90 to&#xa0;-0.46, P&#xa0;= .001). No major adverse events were reported. VR-CAVE tai chi was superior to non-VR tai chi for chronic musculoskeletal pain. Future trials that are longer-term, larger in scale, and include other forms of exercise will further inform VR-CAVE's role in post-acute and long-term rehabilitation.
+Exercise (EX) or cognitive and social enrichment (ENRICH) are 2 strategies for promoting cognition poststroke. Whether sleep moderates the effects of EX or ENRICH on cognition in adults with chronic stroke is unknown. A 3-arm parallel randomized clinical trial among community-dwelling adults aged 55+ years with chronic stroke (ie, &#x2265;12 months since stroke). Participants were randomized to 2&#xd7; per week EX, ENRICH, or balance and tone control (BAT). At baseline, device-measured sleep duration and efficiency were measured using wrist-worn actigraphy; self-reported quality was measured by Pittsburgh Sleep Quality Index (PSQI). Participants were categorized at baseline as having good or poor device-measured duration, device-measured efficiency, or self-reported quality based on PSQI. The primary cognitive outcome was Alzheimer's Disease Assessment Scale Plus (ADAS-Cog-Plus) measured at baseline, 6 months (end of intervention), and 12 months (6-month follow-up). We examined if baseline sleep categorizations (ie, good vs poor) moderated the effects of EX or ENRICH on ADAS-Cog-Plus. We enrolled 120 participants in the trial (EX&#x2005;=&#x2005;34; ENRICH&#x2005;=&#x2005;34; BAT&#x2005;=&#x2005;52). Sleep quality (ie, device-measured sleep efficiency or self-reported sleep quality) categorization moderated effects of EX (but not ENRICH) on ADAS-Cog-Plus. Compared with BAT participants with poor sleep quality, EX participants with poor sleep quality had better ADAS-Cog-Plus performance at 6 months (estimated mean difference for those with poor device-measured sleep efficiency: -0.48; 95% CI [-0.85, -0.10]; p&#x2005;=&#x2005;.010); estimated mean difference for those with poor self-reported sleep quality: -0.38; 95% CI [-0.70, -0.07]; p&#x2005;=&#x2005;.014). There was no effect of EX on ADAS-Cog-Plus for participants with good sleep quality. Device-measured sleep duration did not moderate intervention effects. Exercise is particularly beneficial in improving cognitive function in adults with chronic stroke and poor sleep quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jamda.2024.105344
+- DOI: 10.1093/gerona/glae264
 
 2. Keywords
-- Virtual reality
-- cave automatic virtual environment
-- chronic musculoskeletal pain
-- clinical trials
-- older adults
-- tai chi
+- Cognitive function
+- Environmental enrichment
+- Exercise training
+- Sleep
+- Stroke
 
 3. Key Findings
-- At 8&#xa0;weeks, the VR group demonstrated a statistically significant improvement in BPI severity score compared with the non-VR group (&#x3b2;&#xa0;=&#xa0;-0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Virtual reality assessment methods and outcomes
-- cave automatic virtual environment assessment methods and outcomes
-- chronic musculoskeletal pain assessment methods and outcomes
+- Cognitive function assessment methods and outcomes
+- Environmental enrichment assessment methods and outcomes
+- Exercise training assessment methods and outcomes

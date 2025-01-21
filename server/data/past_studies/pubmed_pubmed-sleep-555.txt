@@ -1,20 +1,26 @@
-Study Title: Functional changes in sleep-related arousal after ketamine administration in individuals with treatment-resistant depression.
+Study Title: Real-time procedure information sharing as a means to reduce perioperative anxiety in families of children undergoing elective surgery - a randomized controlled study.
 
 Study Summary:
-The glutamatergic modulator ketamine is associated with changes in sleep, depression, and suicidal ideation (SI). This study sought to evaluate differences in arousal-related sleep metrics between 36 individuals with treatment-resistant major depression (TRD) and 25 healthy volunteers (HVs). It also sought to determine whether ketamine normalizes arousal in individuals with TRD and whether ketamine's effects on arousal mediate its antidepressant and anti-SI effects. This was a secondary analysis of a biomarker-focused, randomized, double-blind, crossover trial of ketamine (0.5&#x2009;mg/kg) compared to saline placebo. Polysomnography (PSG) studies were conducted one day before and one day after ketamine/placebo infusions. Sleep arousal was measured using spectral power functions over time including alpha (quiet wakefulness), beta (alert wakefulness), and delta (deep sleep) power, as well as macroarchitecture variables, including wakefulness after sleep onset (WASO), total sleep time (TST), rapid eye movement (REM) latency, and Post-Sleep Onset Sleep Efficiency (PSOSE). At baseline, diagnostic differences in sleep macroarchitecture included lower TST (p&#x2009;=&#x2009;0.006) and shorter REM latency (p&#x2009;=&#x2009;0.04) in the TRD versus HV group. Ketamine's temporal dynamic effects (relative to placebo) in TRD included increased delta power earlier in the night and increased alpha and delta power later in the night. However, there were no significant diagnostic differences in temporal patterns of alpha, beta, or delta power, no ketamine effects on sleep macroarchitecture arousal metrics, and no mediation effects of sleep variables on ketamine's antidepressant or anti-SI effects. These results highlight the role of sleep-related variables as part of the systemic neurobiological changes initiated after ketamine administration. Clinical Trials Identifier: NCT00088699.
+To investigate whether the surgical process information sharing system could alleviate the parental anxiety during a pediatric selective operation. Randomized controlled trial. A questionnaire survey was conducted one day before surgery for the enrolled participants. Family members assigned to the intervention group received real-time process information sharing through service reminders during the surgical period, while the control group received standard perioperative education. The Pittsburgh Sleep Quality Index (PSQI) was used to evaluate sleep quality during the perioperative period, and the State of Cohesion-13 Scale (SOC-13) and Self-rating Anxiety Scale (SAS) were used to assess anxiety levels. Satisfaction levels during the perioperative period were assessed through a follow-up survey conducted one day after surgery. The intervention group showed better scores in terms of PSQI, SOC-13, SAS, and postoperative satisfaction levels at various time points compared to the control group, with statistically significant differences observed (P&#x2009;<&#x2009;0.05). Real-time process information sharing is effective in reducing perioperative sleep disorders and anxiety among family members of pediatric patients, as well as improving satisfaction levels. This approach not only establishes a process and mechanism for effective doctor-patient communication but also helps implement continuous perioperative care, thereby optimizing internet healthcare services.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41398-024-02956-2
+- DOI: 10.1186/s12871-024-02581-y
 
 2. Keywords
-
+- Family
+- Family anxiety
+- Real-time surgical process
+- Satisfaction
+- Share
 
 3. Key Findings
-- Findings extraction requires manual review
+- The intervention group showed better scores in terms of PSQI, SOC-13, SAS, and postoperative satisfaction levels at various time points compared to the control group, with statistically significant differences observed (P&#x2009;<&#x2009;0
 
 This study provides insights into:
-- General research methodology and outcomes
+- Family assessment methods and outcomes
+- Family anxiety assessment methods and outcomes
+- Real-time surgical process assessment methods and outcomes

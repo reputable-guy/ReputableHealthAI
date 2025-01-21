@@ -1,29 +1,25 @@
-Study Title: Randomized trial of early exercise rehabilitation and its effects on patients with acute coronary syndrome.
+Study Title: Functional Outcomes of Immediate Weightbearing After Arthroscopic Lateral Ankle Ligament Repair: A Prospective Randomized Single-Center Trial.
 
 Study Summary:
-To assess the psychological and physiological benefits of early exercise rehabilitation in patients with acute coronary syndrome (ACS). Among 559 ACS-diagnosed patients at Fuzhou University Affiliated Provincial Hospital from January to December 2021, 200 eligible participants were assigned to two groups. The control group received standard care, while the experimental group received early exercise rehabilitation in addition to standard care. The outcomes measured included changes in depression levels (PHQ-9), fasting blood glucose, and troponin I (TnI) and N-terminal pro-B-type natriuretic peptide (NT-proBNP) levels. Data were analyzed using SPSS, with t tests and chi-square tests for group comparisons. In comparison to the control group, the experimental group demonstrated significant improvements in PHQ-9 scores (P&#x2009;<&#x2009;0.001) and lower fasting blood glucose levels before discharge (P&#x2009;=&#x2009;0.046). Additionally, the experimental group had notably reduced TnI levels at 72&#xa0;h after admission (P&#x2009;=&#x2009;0.001), especially among non-diabetic NSTEMI patients over 60 years old, who showed decreased TnI levels at the 48-hour mark (P&#x2009;=&#x2009;0.016). However, there were no significant differences in NT-ProBNP change values between the two groups (P&#x2009;>&#x2009;0.05). Subgroup analysis revealed enhanced outcomes in the intervention group for ACS patients without smoking or drinking history and no heart failure (P&#x2009;=&#x2009;0.025,P&#x2009;=&#x2009;0.014,P&#x2009;=&#x2009;0.018). Early exercise rehabilitation has notable benefits for ACS patients, including reduced depression, improved blood glucose control, and enhanced myocardial protection, especially in nondiabetic NSTEMI patients aged 60 and above.
+Previous studies have revealed that early postoperative rehabilitation of chronic lateral ankle instability is just as crucial as surgical intervention. Immediate weightbearing has yielded good clinical results; however, randomized controlled studies have been limited. To compare the clinical outcomes of patients with immediate weightbearing after lateral ankle ligament repair with those with delayed weightbearing after 2 weeks in a prospective randomized controlled study. Randomized controlled clinical trial; Level of evidence, 1. Patients who underwent arthroscopic anterior talofibular ligament repair between August 2021 and December 2022 were randomized into 2 groups-immediate weightbearing with a hard ankle brace and nonweightbearing casting for 2 weeks followed by cast removal and weightbearing. Primary outcomes were the ankle function scores as assessed using the visual analog scale at rest and during activities, the American Orthopaedic Foot & Ankle Society (AOFAS) score, and the Karlsson Ankle Functional Score (Karlsson score). Secondary outcomes were the time to return to unsupported walking, jogging, work, and exercise and change in the ankle range of motion (ROM) at 3-, 6-, and 12-month follow-ups. A total of 88 participants were included, consisting of 58 men and 30 women, with a mean age of 30.26 years. Computerized randomization resulted in 44 patients per group. These 2 groups displayed no difference in the AOFAS score, Karlsson score, and ankle ROM at all follow-ups. Patients who underwent immediate weightbearing had a significantly shorter time of returning to unsupported walking (< .001). No differences were observed in the time of returning to work, jogging, and sports exercise. For patients with chronic ankle instability after arthroscopic anterior talofibular ligament repair, immediate weightbearing allowed patients to return to unsupported walking more quickly and had no negative effects on the AOFAS score, Karlsson score, times of returning to normal life, jogging, sports exercise, and ankle ROM at 3-, 6-, and 12-month follow-ups compared with cast fixation. ChiCTR2100049612 (Chinese Clinical Trial Registry; https://www.chictr.org.cn/).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-77108-z
+- DOI: 10.1177/03635465241289946
 
 2. Keywords
-- Acute coronary syndrome
-- Cardiac function
-- Depression
-- Early exercise rehabilitation
-- Myocardial ischemia
-- Randomized controlled trial
+- arthroscopic repair
+- chronic lateral ankle instability
+- functional rehabilitation
+- weightbearing
 
 3. Key Findings
-- In comparison to the control group, the experimental group demonstrated significant improvements in PHQ-9 scores (P&#x2009;<&#x2009;0
-- 001), especially among non-diabetic NSTEMI patients over 60 years old, who showed decreased TnI levels at the 48-hour mark (P&#x2009;=&#x2009;0
-- Subgroup analysis revealed enhanced outcomes in the intervention group for ACS patients without smoking or drinking history and no heart failure (P&#x2009;=&#x2009;0
+- Previous studies have revealed that early postoperative rehabilitation of chronic lateral ankle instability is just as crucial as surgical intervention
 
 This study provides insights into:
-- Acute coronary syndrome assessment methods and outcomes
-- Cardiac function assessment methods and outcomes
-- Depression assessment methods and outcomes
+- arthroscopic repair assessment methods and outcomes
+- chronic lateral ankle instability assessment methods and outcomes
+- functional rehabilitation assessment methods and outcomes

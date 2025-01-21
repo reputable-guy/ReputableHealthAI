@@ -1,26 +1,20 @@
-Study Title: Subanesthetic Dose of Esketamine Improves the Sedative and Analgesic Effects of Dexmedetomidine and Remifentanil in Liposuction Anesthesia: A Prospective, Double-Blinded, Randomized Controlled Trial.
+Study Title: The Impact of Cardiopulmonary Rehabilitation on Ventriculoarterial Coupling in Post-Coronavirus Disease-2019 Patients.
 
 Study Summary:
-Esketamine have anesthetic and analgesic properties. This study aimed to observe the enhancing effect of subanesthetic doses of esketamine (0.15-0.3 mg/kg/h) with dexmedetomidine and remifentanil during anesthesia for liposuction surgery. A total of 155 subjects were randomized with a 1:1 ratio to Group E (esketamine-dexmedetomidine/remifentanil, n=78) or Group C (saline-dexmedetomidine/remifentanil group, n=77). The primary outcome was satisfaction of patient and surgical team with the procedure. The secondary outcomes were the postoperative Athens Insomnia Scale (AIS) and Hospital Anxiety and Depression Scale (HADS) scores, hemodynamic and respiratory changes, drug consumption, adverse event rates, and predictors associated with patient satisfaction. Patient and surgical team satisfaction with the procedure was significantly higher in Group E than in Group C (4.7 &#xb1; 0.6 vs 4.2 &#xb1; 0.7, P < 0.001; 4.7 &#xb1; 0.5 vs 4.4 &#xb1; 0.7, P = 0.005). The postoperative AIS (4 [1, 6] vs 5 [2, 9], P = 0.012) and HADS-A (1 [0, 3] vs 2 [0, 6], P = 0.012) scores were significantly lower in Group E than in Group C. Hemodynamic and respiratory parameters were more stable in Group E than in Group C, with the lower opioids consumption of sufentanil (0 [0, 4] vs 5 [2.5, 7.7], P < 0.001) and remifentanil (700 [480, 900] vs 800 [500, 1200], P = 0.023) in Group E compared to Group C. On ordinal logistics regression, postoperative sleep quality (OR, 0.70; 95% CI, 0.62-0.79), anxiety level (OR, 0.77; 95% CI, 0.62-0.95) and recovery time in post-anesthesia care unit (PACU) (OR, 0.69; 95% CI, 0.56-0.98) were identified as significant predictors associated with patient satisfaction. A subanesthetic dose of esketamine (0.15-0.3 mg/kg/h) as an adjuvant can improves the sedative and analgesic effects of dexmedetomidine and remifentanil during anesthesia for liposuction surgery. ChiCTR2400080363.
+Coronavirus disease-2019 (COVID-19) affects the cardiovascular system even after the acute phase of the disease. Cardiopulmonary rehabilitation may improve post-COVID-19 symptoms. This study aims to evaluate the impact of a cardiopulmonary rehabilitation program after acute COVID-19 on arterial stiffness, left ventricular function, and ventriculoarterial coupling (VAC). Forty-eight adults were examined 1 (T0) and 3-mo (T1) following recovery from COVID-19 and randomized 1:1 to participate or not in a 3-mo rehabilitation program. Matched subjects were enrolled as a non-COVID-19 group. Arterial stiffness was evaluated by carotid-femoral pulse wave velocity (PWV). Left ventricular (LV) systolic performance was evaluated with global longitudinal strain (GLS). The PWV/LV-GLS ratio was calculated as an index of VAC. High-sensitivity C reactive protein (hs-CRP) was measured. At T0, convalescent patients with COVID-19 had impaired PWV ( P =&#xa0;.001) and reduced VAC ( P =&#xa0;.001) compared to non-COVID-19 subjects. PWV (8.15&#xa0;&#xb1;&#xa0;1.37 to 6.55&#xa0;&#xb1;&#xa0;0.98 m/sec, P <&#xa0;.001) and LV-GLS (-19.67&#xa0;&#xb1;&#xa0;1.98 to&#xa0;-21.3&#xa0;&#xb1;&#xa0;1.93%, P <&#xa0;.001) improved only in convalescent patients with COVID-19 undergoing rehabilitation. Similarly, VAC was only improved in the rehabilitation group (-0.42&#xa0;&#xb1;&#xa0;0.11 to&#xa0;-0.31&#xa0;&#xb1;&#xa0;0.06 m&#xa0;&#xb7;&#xa0;sec -1 &#xa0;&#xb7;% -1 , P <&#xa0;.001). A significant improvement in VO 2max was noted after rehabilitation (15.70 [13.05, 21.45] to 18.30 [13.95, 23.75] ml&#xa0;&#xb7; kg -1 &#xa0;&#xb7;&#xa0;min -1 , P =&#xa0;.01). Finally, hs-CRP was improved in both groups with a significantly greater improvement in the rehabilitation group. A 3-mo rehabilitation program in convalesced patients with COVID-19 enhances the recovery of arterial stiffness, left ventricular function, and VAC, highlighting the beneficial mechanisms of rehabilitation in this patient population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/DDDT.S470891
+- DOI: 10.1097/HCR.0000000000000885
 
 2. Keywords
-- analgesia
-- esketamine
-- liposuction
-- satisfaction
-- sedation
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- analgesia assessment methods and outcomes
-- esketamine assessment methods and outcomes
-- liposuction assessment methods and outcomes
+- General research methodology and outcomes

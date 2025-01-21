@@ -1,21 +1,29 @@
-Study Title: Feasibility, acceptability, and efficacy of a positive emotion regulation intervention to promote resilience for healthcare workers during the COVID-19 pandemic: A randomized controlled trial.
+Study Title: Patient experience of the use of continuous positive airway pressure for the treatment of obstructive sleep apnea with or without telemedicine during COVID-19: a qualitative approach.
 
 Study Summary:
-Burnout poses a substantial, ongoing threat to healthcare worker (HCW) wellbeing and to the delivery of safe, quality healthcare. While systemic and organization-level changes in healthcare are critically important, HCWs also need individual-level skills to promote resilience. The objective of this trial is to test feasibility, acceptability, and efficacy of PARK, an online self-guided positive affect regulation intervention, in a sample of healthcare workers during the COVID-19 pandemic. In the context of the unprecedented rise in burnout during the COVID-19 pandemic, we conducted a randomized waitlist-controlled trial of the Positive Affect Regulation sKills (PARK) program-a five-week, online, self-guided coping skills intervention nested within an ongoing cohort of HCWs. N = 554 healthcare workers were randomly assigned to receive the intervention immediately or to receive the intervention after approximately 12 weeks. Outcomes included change in burnout, emotional wellbeing (positive affect, meaning and purpose, depression, anxiety) and sleep over approximately 12 weeks. Analyses included mixed-effects linear regression models comparing change over time in outcomes between intervention and control conditions. One third (n = 554) of the participants in the cohort of HCWs consented to participate and enrolled in PARK in April 2022. Compared to those who did not enroll, participants in the trial reported higher burnout, poorer emotional wellbeing, and poorer sleep at baseline (April, 2022; all ps < .05). Intent-to-treat analyses showed that participants randomly assigned to the intervention immediately (PARK-Now) improved significantly on anxiety (within-group change on PROMIS T-score = -0.63; p = .003) whereas those in the waitlist (PARK-Later) did not (within group T-score change 0.04, p = 0.90). The between-group difference in change, however, was not statistically significant (B = -0.67 p = 0.10). None of the other wellbeing outcomes changed significantly in the intervention group compared to the waitlist. Additional as-treated analyses indicated that those participants who completed all 5 of the weekly online lessons (N = 52; 9.4%) improved significantly more on the primary outcome of positive affect compared to those who enrolled in PARK but completed zero lessons (n = 237; 42.8%; B = 2.85; p = .0001). Online self-guided coping skills interventions like PARK can be effective in targeted samples and future work will focus on adaptations to increase engagement and tailor PARK for HCWs who could most benefit.
+Continuous positive airway pressure (CPAP) is considered effective treatment for moderate-severe obstructive sleep apnea (OSA). Clinicians measure adherence to treatment by the number of hours CPAP is used per 24 hours. There have been very few studies examining the patients' lived experience of CPAP and the barriers to use. This study examined the patients' experience of OSA, CPAP use and treatment during COVID-19. This CPAP patient experience qualitative study was part of a larger project. The overarching study was a 3-armed nonblinded randomized controlled trial of patients on CPAP for treatment of OSA using standard care or 1 of 2 telemedicine interventions. Patients who had completed the randomized controlled trial study were invited to be interviewed via telephone, about their OSA diagnosis, CPAP experiences, their experience of using telemedicine, and the impact of SARS-CoV-2 (COVID-19). Fifteen patients (5 from each arm of the trial) took part in a semistructured interview. Thematic analysis identified 3 themes: day to day living, standard hospital care vs telemedicine management, and living through COVID-19 with CPAP. All participants described significant symptoms caused by their OSA before diagnosis. Although CPAP treatment was often described as challenging, patients discussed the improvement in their symptoms with treatment. There were differing opinions on virtual appointments; however, the consensus was the use of telemedicine to support CPAP treatment was well received. COVID-19 appeared to have little effect on the patient experience. Jones TA, Roddis J, Stores R. Patient experience of the use of continuous positive airway pressure for the treatment of obstructive sleep apnea with or without telemedicine during COVID-19: a qualitative approach.. 2024;20(11):1739-1748.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0305172
+- DOI: 10.5664/jcsm.11266
 
 2. Keywords
-
+- COVID-19
+- continuous positive airway pressure
+- obstructive sleep apnea
+- patient experience
+- patient interview
+- qualitative
+- telemedicine
+- thematic analysis
 
 3. Key Findings
-- Intent-to-treat analyses showed that participants randomly assigned to the intervention immediately (PARK-Now) improved significantly on anxiety (within-group change on PROMIS T-score = -0
-- Additional as-treated analyses indicated that those participants who completed all 5 of the weekly online lessons (N = 52; 9
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- COVID-19 assessment methods and outcomes
+- continuous positive airway pressure assessment methods and outcomes
+- obstructive sleep apnea assessment methods and outcomes

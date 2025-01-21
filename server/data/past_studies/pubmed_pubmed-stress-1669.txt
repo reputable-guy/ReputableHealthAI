@@ -1,26 +1,29 @@
-Study Title: Reducing neuroendocrine psychosocial stress response through socio-emotional dyadic but not mindfulness online training.
+Study Title: Efficacy and Safety of TAS-303 in Female Patients With Stress Urinary Incontinence: A Phase 2, Randomized, Double-Blind, Placebo-Controlled Trial.
 
 Study Summary:
-Stress-related diseases pose significant health risks and show wide prevalence. Empirical evidence suggests that contemplative practices, such as socio-emotional dyadic mental exercises, hold promise in mitigating the adverse effects of stress and promoting psychosocial well-being. This study aimed to investigate the differential effects of two online contemplative mental training programs on the psychosocial stress response: the first involved classic mindfulness practices, while the second incorporated a socio-emotional dyadic approach known as Affect Dyad. The study was conducted as part of the longitudinal CovSocial project's phase 2 in the context of the COVID-19 pandemic. 140 individuals participated in the Trier Social Stress Task (TSST), where the psychosocial stress response was assessed with cortisol saliva samples and subjective stress questionnaires in a cross-sectional design after the active training groups finished their intervention period. Participants were randomly assigned to the socio-emotional training group, mindfulness-based training group, or a control group that did not receive any training. Both training programs consisted of a ten-week intervention period with a daily 12-minute app-based mental training practice and weekly 2-hour online coaching sessions led by mental training teachers. Results showed that the socio-emotional Dyad group but not the mindfulness-based group exhibited significantly lower cortisol levels at 10, 20, 30, and 40 minutes after the stressor as well as lower total cortisol output compared to the control group during the TSST, indicating a reduced hormonal stress response to a social stressor. Subjective markers did not show differences between the three groups. These findings indicate that the daily socio-emotional dyadic practice, which emphasizes non-judgmental and empathic listening as well as the acceptance of challenging emotions in the presence of others within one's daily life context, may serve as a protective factor against the adverse effects of psychosocial stress triggered by the fear of negative social judgments. Given the high prevalence of stress-related diseases, such online mental training programs based on dyadic practices may thus represent an efficient and scalable approach for stress reduction.
+We aimed to evaluate the therapeutic efficacy and safety of TAS-303, a highly selective noradrenaline reuptake inhibitor, in Japanese women with stress urinary incontinence (SUI). A double-blind, placebo-controlled, phase 2 study randomized women with SUI symptoms to once-daily oral administration of TAS-303 18 mg or placebo for 12 weeks. The primary endpoint was percent change from baseline to Week 12 in mean SUI episode frequency per 24 hours (SUIEF) in the per-protocol set. The secondary endpoints were the proportion of patients with &#x2265; 50% reduction in mean SUIEF, incontinence episode frequency, incontinence amount, health-related quality of life, and safety in the full analysis set. In total, 231 patients were randomized to TAS-303 (n = 116) or placebo (n = 115). At Week 12, TAS-303 had superior efficacy to placebo, with a least squares mean percent change in mean SUIEF of -57.7% vs -46.9%, respectively, in the per-protocol set (least squares mean difference -10.8%;= .036). TAS-303 showed some evidence of improved incontinence episode frequency, incontinence amount, and health-related quality of life (although not statistically significant) at Week 12 vs placebo in the full analysis set. The between-group difference in SUIEF improvement was more clearly confirmed in patients with &#x2265; 2 SUI episodes daily at baseline. All adverse events (AEs) with TAS-303 were mild or moderate; there were no serious AEs, AEs leading to discontinuation, or nervous system- or gastrointestinal-related (eg, nausea or vomiting) adverse drug reactions. Once-daily TAS-303 18 mg showed superior efficacy to placebo for the treatment of SUI in Japanese women, with an adequate safety profile. ClinicalTrials.gov: NCT04512053; Japan Registry of Clinical Trials: jRCT2080225307 (JapicCTI-205403 before site integration).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fendo.2024.1277929
+- DOI: 10.1097/JU.0000000000004024
 
 2. Keywords
-- app-based intervention
-- hypothalamic-pituitary-adrenal axis
-- mental training
-- randomized controlled trial
+- clinical trial
+- neurotransmitter uptake inhibitors
+- phase II
+- prospective studies
 - stress
+- urinary incontinence
+- women&#x2019;s health
 
 3. Key Findings
-- Results showed that the socio-emotional Dyad group but not the mindfulness-based group exhibited significantly lower cortisol levels at 10, 20, 30, and 40 minutes after the stressor as well as lower total cortisol output compared to the control group during the TSST, indicating a reduced hormonal stress response to a social stressor
+- TAS-303 showed some evidence of improved incontinence episode frequency, incontinence amount, and health-related quality of life (although not statistically significant) at Week 12 vs placebo in the full analysis set
+- Once-daily TAS-303 18 mg showed superior efficacy to placebo for the treatment of SUI in Japanese women, with an adequate safety profile
 
 This study provides insights into:
-- app-based intervention assessment methods and outcomes
-- hypothalamic-pituitary-adrenal axis assessment methods and outcomes
-- mental training assessment methods and outcomes
+- clinical trial assessment methods and outcomes
+- neurotransmitter uptake inhibitors assessment methods and outcomes
+- phase II assessment methods and outcomes

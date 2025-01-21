@@ -1,25 +1,26 @@
-Study Title: Tai Chi and Aerobic Exercise on Cancer-Related Dyspnea in Advanced Lung Cancer Patients: A Randomized Clinical Trial.
+Study Title: Sleep disorder risk, perceived control over sleep, and mental health symptoms in paramedicine students.
 
 Study Summary:
-Dyspnea, a prevalent and debilitating symptom in patients with advanced lung cancer, negatively affects symptom burden and prognosis. Physical activity has emerged as a promising non-pharmacological intervention for managing dyspnea. This study compared the effectiveness of two widely-recognized physical activity modalities, namely Tai Chi (TC) and aerobic exercise (AE) for treating dyspnea in patients with advanced lung cancer. Patients with advanced lung cancer (n=226) were randomized into TC, AE, or control groups. There was no baseline dyspnea requirement for patients. The AE group received two 60-minute supervised sessions and home-based exercises per month, the TC group received 60-minute sessions twice weekly, and the control group received exercise guidelines for 16 weeks. The primary outcome (sleep quality) of the study has been previously reported. In this secondary analysis, we focused on dyspnea outcomes, including overall and lung cancer-specific dyspnea. Assessments were conducted at baseline (T0), 16 weeks (T1), and one year (T2). Compared to the control group, TC significantly improved overall dyspnea at T1 (between-group difference, -8.69; P=0.03) and T2 (between-group difference, -11.45; P=0.01), but not AE. Both AE (between-group difference, -11.04; P=0.01) and TC (between-group difference, -14.19; P<0.001) significantly alleviated lung cancer-specific dyspnea at T2 compared with the control group. Both TC and AE alleviate dyspnea severity in patients with advanced lung cancer, and continuous exercise can yield substantial improvements. Due to its multi-component nature, Tai Chi has a greater effect on dyspnea.
+Paramedics commonly experience both poor sleep and mental health symptoms. Clarifying whether sleep or mental health symptoms are a challenge prior to commencement of employment is important, as early prevention and intervention initiatives during training could support these workers. Paramedicine students (n=53) were included, with sleep disorder screening (obstructive sleep apnea, insomnia and restless legs syndrome), and mental health outcomes (depressive symptoms: Patient Health Questionnaire-9, and anxiety symptoms: General Anxiety Disorder-7). Data were analysed using robust regression models, adjusted for age, sex, and shift work status. Meeting criteria for a sleep disorder (n=21) was associated with higher scores for anxiety (8.2 [95% CI: 5.9-10.5] v 4.6, [3.4-5.8]) and depressive symptoms (11.1 [8.6-13.6] v 4.4 [3.1-5.7)] compared to those who did not meet the criteria for a sleep disorder (n=32). Depressive symptoms were lower in those with perceived control over sleep (5.2 [3.2-7.2] v 9.8 [7.7-11.8]). There was no interaction between sleep disorder risk and perceived control over sleep on mental health symptoms. Investigation and management of factors contributing to low perceived control over sleep, together with early screening and management of sleep disorders, are likely to be important priorities to support paramedic student wellbeing prior to commencing shift work.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jpainsymman.2024.04.025
+- DOI: 10.2486/indhealth.2023-0135
 
 2. Keywords
-- Advanced lung cancer
-- Aerobic exercise
-- Dyspnea
-- Tai Chi
+- Cross-sectional study
+- Mental health
+- Paramedicine
+- Survey study
+- Wellness
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Advanced lung cancer assessment methods and outcomes
-- Aerobic exercise assessment methods and outcomes
-- Dyspnea assessment methods and outcomes
+- Cross-sectional study assessment methods and outcomes
+- Mental health assessment methods and outcomes
+- Paramedicine assessment methods and outcomes

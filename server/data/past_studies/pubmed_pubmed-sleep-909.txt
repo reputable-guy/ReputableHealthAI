@@ -1,20 +1,27 @@
-Study Title: The cortisol awakening response in a 3 month clinical trial of service dogs for veterans with posttraumatic stress disorder.
+Study Title: Pain in your day? Get sleep treatment anyway! The role of pain in insomnia treatment efficacy in women veterans.
 
 Study Summary:
-Recent literature suggests that service dogs may be a valuable complementary intervention option for posttraumatic stress disorder (PTSD) among military veterans due to the potential influence on stress response dysregulation. The aim of this short-term longitudinal study was to quantify the impact of service dogs in US military veterans with PTSD with particular attention to the cortisol awakening response. A sub aim of the study was to empirically evaluate the physiological effects of PTSD service dogs on veteran partners. We conducted a clinical trial (ID: NCT03245814) that assessed the cortisol awakening response for 245 participants at baseline and 3&#xa0;months follow-up across an intervention group (service dog: veterans n&#x2009;=&#x2009;88, partners n&#x2009;=&#x2009;46) and control group (usual care: n&#x2009;=&#x2009;73, partners n&#x2009;=&#x2009;38). A total of N&#x2009;=&#x2009;161 veterans and N&#x2009;=&#x2009;84 partners collected whole saliva samples via a passive drool collection immediately upon waking, 30&#xa0;min after waking, and 45&#xa0;min after waking on three consecutive weekdays at baseline and again at follow-up. Mixed model repeated measures (MMRM) with a fixed effect of the intervention group (service dog or control) were utilized. Covariates considered for the model included time of awakening, sleep duration, sleep efficiency, prior day experiences (measured via ecological momentary assessment), traumatic brain injury, age, gender, race, ethnicity, socioeconomic status, smoking status, alcohol use, physical health, and body mass index. A total of 3951 salivary samples were collected (veterans: 2613, partners: 1338). MMRM results demonstrated that veterans with a service dog had a statistically significant higher cortisol awakening response, including the area under the curve with respect to both increase (AUCi, &#x3b2;&#x2009;=&#x2009;1.46, p&#x2009;=&#x2009;0.046) and absolute increase (AINC, &#x3b2;&#x2009;=&#x2009;0.05, p&#x2009;=&#x2009;0.035). Results were not statistically significant for partners. Findings suggest that veterans with service dogs have a higher, less blunted CAR in comparison to veterans receiving usual care alone. In veterans with a blunted morning cortisol response, service dog placement could help boost their morning cortisol response.
+Insomnia and pain disorders are among the most common conditions affecting United States adults and veterans, and their comorbidity can cause detrimental effects to quality of life among other factors. Cognitive behavioural therapy for insomnia and related behavioural therapies are recommended treatments for insomnia, but chronic pain may hinder treatment benefit. Prior research has not addressed how pain impacts the effects of behavioural insomnia treatment in United States women veterans. Using data from a comparative effectiveness clinical trial of two insomnia behavioural treatments (both including sleep restriction, stimulus control, and sleep hygiene education), we examined the impact of pain severity and pain interference on sleep improvements from baseline to post-treatment and 3-month follow-up. We found no significant moderation effects of pain severity or interference in the relationship between treatment phase and sleep outcomes. Findings highlight opportunities for using behavioural sleep interventions in patients, particularly women veterans, with comorbid pain and insomnia, and highlight areas for future research.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-023-50626-y
+- DOI: 10.1111/jsr.14147
 
 2. Keywords
-
+- United States veterans
+- insomnia
+- insomnia treatment
+- pain
+- sleep
+- women
 
 3. Key Findings
-- MMRM results demonstrated that veterans with a service dog had a statistically significant higher cortisol awakening response, including the area under the curve with respect to both increase (AUCi, &#x3b2;&#x2009;=&#x2009;1
+- We found no significant moderation effects of pain severity or interference in the relationship between treatment phase and sleep outcomes
 
 This study provides insights into:
-- General research methodology and outcomes
+- United States veterans assessment methods and outcomes
+- insomnia assessment methods and outcomes
+- insomnia treatment assessment methods and outcomes

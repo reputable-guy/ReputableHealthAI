@@ -1,27 +1,21 @@
-Study Title: Is decreasing problematic mobile phone use a pathway for alleviating adolescent depression and sleep disorders? A randomized controlled trial testing the effectiveness of an eight-session mindfulness-based intervention.
+Study Title: Feasibility, acceptability, and efficacy of a positive emotion regulation intervention to promote resilience for healthcare workers during the COVID-19 pandemic: A randomized controlled trial.
 
 Study Summary:
-The present study aimed to evaluate the efficacy of a mindfulness-based cognitive therapy (MBCT) intervention in reducing problematic mobile phone use, depression, and sleep disorders among adolescents. Additionally, it sought to investigate whether the decrease in problematic mobile phone use acted as a mediator in the relationship between the MBCT intervention and adolescent depression and sleep disorders. In a randomized controlled trial, a total of 104 adolescents were randomly assigned to the mindfulness group (n = 52) or the wait-list control group (n = 52). The mindfulness group students completed eight 45-min sessions of mindfulness training in four weeks. The outcomes were measured at baseline, postintervention, and at the 2-month follow-up. Compared with the control group, the mindfulness group had significantly greater levels of mindfulness and lower levels of problematic mobile phone use, depression, and sleep disorders postintervention. The intervention effects were maintained at the 2-month follow-up. In addition, decreased problematic mobile phone use significantly mediated the association between the MBCT intervention and decreased depression and decreased sleep disorders. The findings suggest that MBCT could improve adolescent depression and sleep disorders and that decreasing problematic mobile phone use is an effective pathway accounting for the MBCT intervention effect on adolescent depression and sleep disorders.
+Burnout poses a substantial, ongoing threat to healthcare worker (HCW) wellbeing and to the delivery of safe, quality healthcare. While systemic and organization-level changes in healthcare are critically important, HCWs also need individual-level skills to promote resilience. The objective of this trial is to test feasibility, acceptability, and efficacy of PARK, an online self-guided positive affect regulation intervention, in a sample of healthcare workers during the COVID-19 pandemic. In the context of the unprecedented rise in burnout during the COVID-19 pandemic, we conducted a randomized waitlist-controlled trial of the Positive Affect Regulation sKills (PARK) program-a five-week, online, self-guided coping skills intervention nested within an ongoing cohort of HCWs. N = 554 healthcare workers were randomly assigned to receive the intervention immediately or to receive the intervention after approximately 12 weeks. Outcomes included change in burnout, emotional wellbeing (positive affect, meaning and purpose, depression, anxiety) and sleep over approximately 12 weeks. Analyses included mixed-effects linear regression models comparing change over time in outcomes between intervention and control conditions. One third (n = 554) of the participants in the cohort of HCWs consented to participate and enrolled in PARK in April 2022. Compared to those who did not enroll, participants in the trial reported higher burnout, poorer emotional wellbeing, and poorer sleep at baseline (April, 2022; all ps < .05). Intent-to-treat analyses showed that participants randomly assigned to the intervention immediately (PARK-Now) improved significantly on anxiety (within-group change on PROMIS T-score = -0.63; p = .003) whereas those in the waitlist (PARK-Later) did not (within group T-score change 0.04, p = 0.90). The between-group difference in change, however, was not statistically significant (B = -0.67 p = 0.10). None of the other wellbeing outcomes changed significantly in the intervention group compared to the waitlist. Additional as-treated analyses indicated that those participants who completed all 5 of the weekly online lessons (N = 52; 9.4%) improved significantly more on the primary outcome of positive affect compared to those who enrolled in PARK but completed zero lessons (n = 237; 42.8%; B = 2.85; p = .0001). Online self-guided coping skills interventions like PARK can be effective in targeted samples and future work will focus on adaptations to increase engagement and tailor PARK for HCWs who could most benefit.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1556/2006.2024.00034
+- DOI: 10.1371/journal.pone.0305172
 
 2. Keywords
-- adolescents
-- depression
-- mindfulness
-- mindfulness-based cognitive therapy
-- problematic mobile phone use
-- sleep disorders
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Intent-to-treat analyses showed that participants randomly assigned to the intervention immediately (PARK-Now) improved significantly on anxiety (within-group change on PROMIS T-score = -0
+- Additional as-treated analyses indicated that those participants who completed all 5 of the weekly online lessons (N = 52; 9
 
 This study provides insights into:
-- adolescents assessment methods and outcomes
-- depression assessment methods and outcomes
-- mindfulness assessment methods and outcomes
+- General research methodology and outcomes

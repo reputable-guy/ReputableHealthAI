@@ -1,25 +1,26 @@
-Study Title: Running is acceptable and efficacious in adults with non-specific chronic low back pain: the ASTEROID randomised controlled trial.
+Study Title: Association between physical activity and costs in very mild to moderately frail community-dwelling older adults: a cross-sectional study.
 
 Study Summary:
-Running is one of the most accessible forms of exercise, yet its suitability for adults with chronic low back pain (LBP) is unknown. This study assessed the efficacy and acceptability of running in adults with chronic LBP. This two-arm parallel (1:1) individually randomised controlled trial allocated 40 participants (mean (SD) age: 33 (6) years, female: 50%) with non-specific chronic LBP to a 12-week intervention or waitlist control. The intervention was a progressive run-walk interval programme comprising three 30-min sessions per week that were digitally delivered and remotely supported by an exercise physiologist. Efficacy outcomes were self-reported pain intensity (100-point visual analogue scale) and disability (Oswestry Disability Index). Acceptability outcomes were attrition, adherence and adverse events. At 12-week follow-up, the intervention improved average pain intensity (mean net difference (95% CI): -15.30 (-25.33, -5.27) points, p=0.003), current pain intensity (-19.35 (-32.01, -6.69) points, p=0.003) and disability (-5.20 (-10.12, -0.24) points, P=0.038), compared with control. There was no attrition, and mean (SD) training adherence was 70% (20%; ie, 2.1 of 3 sessions per week). Nine non-serious adverse events deemed likely study-related were reported (lower limb injury/pain: n=7, syncope associated with an underlying condition: n=1, LBP: n=1). A run-walk programme was considered an acceptable intervention by the participants to improve the pain intensity and disability in individuals aged 18-45 years with non-specific chronic LBP when compared with the control. An individualised and conservative run-walk programme should be considered a suitable form of physical activity for adults with chronic LBP. Australian New Zealand Clinical Trials Registry: ACTRN12622001276741. Registered on 29 September 2022.
+Physical activity (PA) plays a vital role in maintaining the functional ability that enables well-being in older age (healthy aging), potentially also saving costs for the healthcare system and society. The aim of this study was to examine the association between PA and healthcare and societal costs in a sample of very mild to moderately frail older adults. This cross-sectional study is a secondary analysis using baseline data from the PromeTheus randomized-controlled trial, which included 385 very mild to moderately frail community-dwelling older adults (70&#x2009;+&#x2009;years) from Germany. Participants self-reported their health-related resource use in the previous 6 months (FIMA questionnaire), which was monetarily valued using standardized unit costs. PA was also self-reported using the German Physical Activity Questionnaire for middle-aged and older adults (German-PAQ-50+) and categorized as 'insufficient'/'sufficient' or 'insufficient'/'moderate'/'high' in accordance with the World Health Organization guidelines for PA. Mean and median healthcare costs (including outpatient, inpatient, rehabilitation, formal care, and medication costs) and societal costs (healthcare costs plus informal care costs) for different PA groups were estimated using generalized linear models and quantile regression, with sociodemographic variables and physical capacity (Short Physical Performance Battery) as covariates. Of the sample, 24% were classified as insufficiently, 23% as moderately, and 54% as highly active. Sufficient PA, especially high PA, was associated with lower costs in the 6 months prior to data collection compared to insufficient PA (-&#x20ac;6,237, 95% CI [-10,656; -1,817] and -&#x20ac;8,333, 95% CI [-12,183; -4,483], respectively). The cost difference between PA intensity groups was largely driven by differences in informal care costs and decreased substantially when physical capacity was accounted for in the analyses; e.g., the mean difference in societal costs between sufficient and insufficient PA decreased from -&#x20ac;7,615 (95% CI [-11,404; -3,825]) to -&#x20ac;4,532 (95% CI [-7,930; -1,133]). Promoting PA throughout the lifespan as a means of promoting healthy aging and reducing dependency in old age could potentially provide economic benefits and help to mitigate the economic consequences of an aging population with increasing health and long-term care needs. Future longitudinal studies should attempt to disentangle the mediating and confounding role of physical capacity and health status in the association between PA and costs.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1136/bjsports-2024-108245
+- Publication Date: 2024
+- DOI: 10.1186/s12889-024-20253-x
 
 2. Keywords
-- Exercise training
+- Cost
+- Exercise
+- Frailty
+- Healthy aging
 - Physical activity
-- Physiology
-- Walking
 
 3. Key Findings
-- Findings extraction requires manual review
+- Future longitudinal studies should attempt to disentangle the mediating and confounding role of physical capacity and health status in the association between PA and costs
 
 This study provides insights into:
-- Exercise training assessment methods and outcomes
-- Physical activity assessment methods and outcomes
-- Physiology assessment methods and outcomes
+- Cost assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- Frailty assessment methods and outcomes

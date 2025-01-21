@@ -1,27 +1,26 @@
-Study Title: Improving adolescents' dietary behavior through teacher-delivered cancer prevention education: a school-based cluster randomized intervention trial in urban Rajasthan.
+Study Title: Preconception Micronutrient Supplementation Affects Maternal BMI and Body Composition Postpartum: A Randomized Controlled Trial in Vietnam.
 
 Study Summary:
-Dietary practices are one of the most common modifiable risk factors for cancers. Foods rich in dietary fibers are considered protective, meanwhile fast & junk foods are risk for common cancers. Adolescence period is marked by habit formation and is thus suited for delivering behavioral intervention. Schools offer an optimal setting for planning and executing these interventions to a large number of adolescents. To assess the effectiveness of a teacher-delivered cancer-prevention education in changing dietary behaviors of school going adolescents. A cluster randomized trial was conducted in government secondary and senior secondary schools with schools as clusters. A minimum required sample of 1032 students was estimated from 16 schools with 1:1 allocation in intervention and non-intervention groups. Dietary behaviors were recorded as dichotomous variable. The determinants were recorded as per theory of planned behavior framework using Likert-scale. Two teachers from each intervention school were trained to deliver cancer prevention education with focus on role of dietary behavior. Pre-post training assessment of teachers' knowledge towards common cancers was done using a self-administered questionnaire. Gender adjusted difference-in-difference analysis was done to assess intervention effect on both healthy and unhealthy behaviors. In selected schools all students from classes 8 to 10 were approached and a total of 1224 students were enrolled, of whom 1096 completed the study. The study recorded significant improvement in scores of students from intervention group compared to non-intervention group for their attitude, subjective norms, perceived behavioral control and intention towards consuming healthy and avoiding unhealthy foods. The intervention was effective in significantly improving the proportion of students limiting fried/fast/packed food & sugar sweetened beverages (OR:1.51, 95%CI:1.08,2.12,p:0.017), and consuming fruits & vegetables daily (OR:1.55, 95%CI:1.08,2.22, p:0.017) while adjusting effect of gender. Classroom-based cancer prevention education delivered through teachers during regular working hours is effective in improving dietary behaviors and its determinants among adolescent students. Thus, we recommend integrating a section focusing on the role of diet in cancer prevention and other lifestyle diseases in the existing school curriculum. The trial was registered under Clinical Trial Registry-India with registration number CTRI/2018/12/016586, dated-10/12/2018.
+Although there is growing evidence on the role of preconception nutrition for birth outcomes, limited evidence exists for its effects on maternal health. This study evaluates the impact of preconception micronutrient supplementation on maternal BMI (kg/m) and body composition at 6 to 7 y postpartum (PP). We followed females who participated in a randomized controlled trial of preconception supplementation in Vietnam and delivered live offspring (n = 1599). Females received weekly supplements containing either 2800 &#x3bc;g folic acid (FA) only, 60 mg iron and 2800 &#x3bc;g FA (IFA), or multiple micronutrients (MMs) (15 micronutrients including IFA) from baseline until conception followed by daily prenatal IFA supplements until delivery. Height, weight, mid-upper arm circumference, triceps skinfold, and waist-hip circumference were measured at recruitment and at 1, 2, and 6 to 7 y PP. Body fat was assessed using bioelectric impedance at 6 to 7 y PP (n = 867). Group comparisons were made using analysis of variance or chi-square tests and general linear models for adjusted models. At 6 to 7 y PP, we found significant differences (P < 0.05) by treatment group for mean percent fat (MM: 29.2%; IFA: 27.6%; FA: 27.8%), absolute fat mass (MM: 15.1 kg; IFA: 14.0 kg; FA: 14.3 kg), and prevalence of underweight based on BMI < 18.5 (MM: 5.8%; IFA: 10.3%; FA: 14.3%). Mean BMI and triceps skinfold thickness were higher in the MM group, but these differences were not statistically significant; the differences in absolute fat mass were also attenuated after controlling for body weight. No differences were observed for fat-free mass, prevalence of overweight (BMI >23), or other anthropometric measurements. Preconception MM supplementation was associated with lower prevalence of underweight and higher percent fat when compared with IFA and/or FA only. Preconception micronutrient interventions may have long-term effects on maternal health and merit further examination. This trial was registered at clinicaltrials.gov as NCT01665378.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12889-024-18114-8
+- DOI: 10.1016/j.tjnut.2024.02.024
 
 2. Keywords
-- Diet and cancer
-- Nutrition education
-- Processed food
-- Prospective study
-- School based intervention
-- Theory of planned behavior
+- Vietnam
+- maternal body composition
+- multiple micronutrient
+- preconception
+- randomized controlled trial
 
 3. Key Findings
-- Findings extraction requires manual review
+- At 6 to 7 y PP, we found significant differences (P < 0
 
 This study provides insights into:
-- Diet and cancer assessment methods and outcomes
-- Nutrition education assessment methods and outcomes
-- Processed food assessment methods and outcomes
+- Vietnam assessment methods and outcomes
+- maternal body composition assessment methods and outcomes
+- multiple micronutrient assessment methods and outcomes

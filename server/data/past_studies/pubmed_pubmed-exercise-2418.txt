@@ -1,27 +1,27 @@
-Study Title: The effect of the Smart Health Continuous Feedback For Elderly Exercise (SHe CoFFEE) program on mobility: a randomized controlled pilot study.
+Study Title: The Effects of Telerehabilitation-Based Exercise Therapy on Motor and Non-Motor Clinical Outcomes in Adults With Facial Palsy: A Randomized Controlled Trial.
 
 Study Summary:
-This study determined the effectiveness of a comprehensive home-based online exercise program called "Smart Health Continuous Feedback for elderly exercise (SHe CoFFEE)" on mobility. Sixty community-dwelling seniors were randomized in a 1:1 ratio to intervention or control group. Intervention was an 8-week "SHe CoFFEE" program, featuring continuous feedback, self-monitoring, and fall prevention exercises. The primary outcome was mobility, measured at 8&#x2009;weeks with the Timed Up and Go (TUG) test. Secondary outcomes included TUG at 4&#x2009;weeks, 10&#x2009;m walking test, 30-s chair stand test, falls efficacy scale, activity-specific balance confidence, and Euro Quality of Life 5 Dimensions 5 Levels. At 8&#x2009;weeks, the intervention group showed improved TUG scores compared with the control group (MD&#x2009;=&#x2009;-1.87, 95% CI, -2.60 to -1.14;&#x2009;=&#x2009;0.326) in the adjusted intention-to-treat analysis. The per-protocol analysis data showed similar results. All secondary outcomes apart from quality of life improved with intervention to a greater degree than in control. Smart healthcare and self-managed exercise programs may be viable for community-based health promotion and fall prevention in older adults unfamiliar with online technology.
+Recent case reports have emphasized the essential clinical contribution of telerehabilitation in the treatment of facial palsy. However, no randomized controlled trial has yet demonstrated the effects of telerehabilitation-based facial exercise therapy. Thus, we aimed to investigate the effectiveness of video exercise-based telerehabilitation on motor and non-motor clinical outcomes in adults with facial palsy. We conducted a randomized controlled trial with 40 peripheral facial palsy patients. Those in the experimental group (EG) received four weeks of telerehabilitation-based video exercises and routine care. Those in the control group (CG) received only routine care. All participants were evaluated with the Facial Disability Index (FDI), the Facial Clinimetric Evaluation Scale (FaCE), Short Form-12 (SF-12), the Hospital Anxiety and Depression Scale (HADS), the House-Brackmann Scale (H-B) and the Telemedicine Satisfaction and Usefulness Questionnaire (TSUQ), both before and after the interventions. Both groups demonstrated a significant improvement in FDI, FaCE, and SF-12 PCS scores (< .05). In addition, there was a significant improvement only in EG on the SF-12 MCS score (< .05), and there was a significant gain only in CG on the HADS-Depression score (< .05). While these results provide a further contribution to our understanding of telerehabilitation benefits in mental health variables related to quality of life for facial palsy patients, we found no EG and CG differences on the physical components of treatment.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpubh.2024.1442064
+- DOI: 10.1177/00315125241284677
 
 2. Keywords
 - exercise
-- information and communication technology
-- mobility
-- older adults
-- smart healthcare
+- facial paralysis
+- peripheral facial palsy
+- physical therapy
 
 3. Key Findings
-- At 8&#x2009;weeks, the intervention group showed improved TUG scores compared with the control group (MD&#x2009;=&#x2009;-1
-- The per-protocol analysis data showed similar results
+- However, no randomized controlled trial has yet demonstrated the effects of telerehabilitation-based facial exercise therapy
+- Both groups demonstrated a significant improvement in FDI, FaCE, and SF-12 PCS scores (<
+- While these results provide a further contribution to our understanding of telerehabilitation benefits in mental health variables related to quality of life for facial palsy patients, we found no EG and CG differences on the physical components of treatment
 
 This study provides insights into:
 - exercise assessment methods and outcomes
-- information and communication technology assessment methods and outcomes
-- mobility assessment methods and outcomes
+- facial paralysis assessment methods and outcomes
+- peripheral facial palsy assessment methods and outcomes

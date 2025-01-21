@@ -1,26 +1,27 @@
-Study Title: [Implementation of psychotherapeutic consultation at work (PT-A): expectations, announcement, and use : Results of the friaa-study].
+Study Title: Receiving self-compassion in the virtual world: Testing the potential value of biofeedback.
 
 Study Summary:
-Psychotherapeutic consultation at work (PT-A) offers easily accessible, short-term support for employees experiencing psychological stress. The aim of the study was to evaluate aspects of the implementation regarding announcement, access, and use of the PT&#x2011;A. The study was conducted as part of a&#xa0;randomized controlled trial (RCT) called "Early Intervention in the Workplace". Forty-six company actors answered a&#xa0;questionnaire about how the companies announced the PT&#x2011;A to their employees, the barriers in the announcement of the PT&#x2011;A, and the beneficial factors of using the PT&#x2011;A. The access routes of the 550 participating employees were used from the baseline data of the RCT. Seven company actors were qualitatively interviewed about their expectations of the PT&#x2011;A and 22&#xa0;participants of the RCT were interviewed about their experiences accessing and using the PT&#x2011;A. The company actors hoped that the PT&#x2011;A would have an impact on all levels of prevention. Most companies announced the PT&#x2011;A centrally (e.g., flyers and intranet) as well as through individual recommendations (e.g., through the company's social counselling and occupational health professionals). Employees appreciated the opportunity to participate anonymously in the central announcement. Advantages of the supportive access were seen in the accessibility of employees without treatment experience, employees with high levels of suffering, and employees who have not yet recognized their own need for treatment. The results suggest that it is useful to announce the PT&#x2011;A centrally to all employees but also to recommend it personally to affected employees. By using both methods, different PT&#x2011;A target groups can be reached and the advantages of anonymous participation are retained.
+Self-compassion training has been shown to deliver mental health benefits and preliminary evidence suggests it might also be possible to deliver these benefits effectively via virtual reality (VR) technology. However, which features of the VR training environment influence these training benefits remains poorly understood. This study was designed to provide the first empirical test of the potential value of visual biofeedback during self-compassion training. It was theorised that the provision of biofeedback may increase the benefits of training by increasing mindfulness, a core component of self-compassion. Sixty participants were randomly allocated to one of two experimental conditions, both of which comprised VR-based self-compassion training, but only one of which included visual biofeedback (a red pulsating light representing heart rate). Relative to scores at baseline, participants reported greater self-compassion, and lower self-criticism, anxiety, and stress after VR self-compassion training. However, the provision of biofeedback did not influence the strength of these training effects. These data provide further evidence that VR administered self-compassion training may deliver potentially important mental health benefits, but also meaningfully extends this literature by proving the first evidence that visual biofeedback does not influence the strength of these benefits.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00103-024-03909-2
+- DOI: 10.1016/j.brat.2024.104596
 
 2. Keywords
-- Early diagnosis
+- Biofeedback
 - Mental health
-- Prevention
-- Psychosomatic consultation at work
-- Workplace health promotion
+- Mindfulness
+- Self-compassion
+- Self-criticism
+- Virtual reality
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Early diagnosis assessment methods and outcomes
+- Biofeedback assessment methods and outcomes
 - Mental health assessment methods and outcomes
-- Prevention assessment methods and outcomes
+- Mindfulness assessment methods and outcomes

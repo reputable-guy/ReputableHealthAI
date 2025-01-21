@@ -1,26 +1,27 @@
-Study Title: Aerobic high-intensity interval training and maximal strength training in patients with unspecific musculoskeletal disorders improve V&#x307;Oand maximal strength more than moderate training.
+Study Title: Effects of variation in exercise training load on cognitive performances and neurotrophic biomarkers in patients with coronary artery disease.
 
 Study Summary:
-Improving peak oxygen uptake (V&#x307;O) and maximal strength are key objectives of rehabilitation for patients with unspecific musculoskeletal disorders (MSDs). Although high-intensity training yield superior outcomes for these factors, patients with MSDs may not tolerate high-intensity due to pain and fear. Therefore, we examined the effect and feasibility of incorporating aerobic high-intensity intervals (HIITs) and maximal strength training (MST) in a standard clinical rehabilitation program for patients with unspecific MSDs. 73 patients (45&#xa0;&#xb1;&#xa0;10&#xa0;years) with MSDs partaking in a standard, public, and 4-week rehabilitation program were randomized to high-intensity training (HG: 4&#xa0;&#xd7;&#xa0;4 minutes intervals at &#x223c;90% of maximal heart rate; HR, and 4&#xa0;&#xd7;&#xa0;4 repetitions leg press at &#x223c;90% of 1 repetition maximum; 1RM, with maximal intended velocity) or keep todays treatment of low-to moderate-intensity training (MG: various cycling, walking, and/or running activities at &#x223c;70%-80% of HRand 3&#xa0;&#xd7;&#xa0;8&#xa0;-&#xa0;10 repetitions leg press at &#x223c;75% of 1RM without maximal intended velocity). HG improved V&#x307;O(12&#xa0;&#xb1;&#xa0;7%) and leg press 1RM (43&#xa0;&#xb1;&#xa0;34%) more than moderate-intensity group (V&#x307;O; 5&#xa0;&#xb1;&#xa0;6%, 1RM; 19&#xa0;&#xb1;&#xa0;18%, both p&#xa0;<&#xa0;0.001). We observed that no adverse events and no between-group differences in dropout rate or self-reported quality of life (both p&#xa0;>&#xa0;0.05). There were positive correlations between improved V&#x307;Oand improved physical (p&#xa0;=&#xa0;0.024) and emotional (0.016) role functioning. We conclude that both high-intensity interval training and MST are feasible and improve V&#x307;Oand maximal strength more than standard low-to moderate-intensity treatment of patients with unspecific MSDs. Our findings suggest that high-intensity training should be implemented as a part of standard clinical care of this patient population.
+This study compared the effects of linear (LP) and nonlinear (NLP) training periodization on cognitive functions, neurotrophic biomarkers [plasma brain-derived neurotrophic factor (BDNF), insulin-like growth factor-1 (IGF-1)], and cathepsin-B in patients with coronary artery disease (CAD). Forty-four patients with CAD reported to our laboratory on two occasions to undergo testing procedures before and after training sessions, and were then blindly randomized to NLP or LP for 36 training sessions.included blood samples and a maximal cardiopulmonary exercise testing to get maximal oxygen uptake (V&#x307;o).included cognitive functions assessment. Thirty-nine patients completed the study (LP:= 20, NLP:= 19), with no observed changes in cognitive performances after the training intervention in either group. IGF-1 concentration decreased in both groups (time-effect:< 0.001), whereas BDNF concentration increased (time-effect:< 0.05) without group interaction, and cathepsin-B did not change after the intervention. Associations were found between &#x394;V&#x307;oand &#x394;BDNF (= 0.18,= 0.04), and &#x394;IGF-1 and &#x394;short-term/working memory (= 0.17,= 0.01) in the pooled sample, with &#x394;IGF-1 and &#x394;BDNF accounting for 10% of the variance in &#x394;short-term/working memory. In the LP group, associations were found between &#x394;V&#x307;oand &#x394;BDNF (= 0.45,= 0.02), &#x394;BDNF and &#x394;short-term/working memory (= 0.62,= 0.004), &#x394;IGF-1 and &#x394;short-term/working memory (= 0.31,= 0.01), and &#x394;IGF-1 and &#x394;executive function (= 0.22,= 0.04). This study indicates that linear and nonlinear training periodization led to an increase in BDNF, and a decrease in IGF-1, without change in cognitive function in individuals with stable CAD.We used a novel and supervised iso-energetic training, integrating both moderate- and high-intensity aerobic exercises. Our findings indicate that greater variation in training load did not yield cognitive enhancements, although both protocols exhibited positive effects on brain-derived neurotrophic factor (BDNF) levels. Moreover, this study establishes a clear positive association between short-term and working memory and neurotrophic biomarkers. In addition, the independent predictive value of change in insulin-like growth factor-1 (IGF-1) on improvement in short-term and working memory highlight the close relationship between neurotrophic markers and cognition. Consequently, our results advocate for exercise training interventions targeting neurotrophic biomarkers to enhance cognitive function among individuals with coronary artery disease.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ejsc.12126
+- DOI: 10.1152/japplphysiol.00636.2023
 
 2. Keywords
-- exercise
-- fibromyalgia
-- low back pain
-- maximal oxygen uptake
-- resistance training
+- aerobic exercise
+- cognitive function
+- coronary artery disease
+- secondary prevention
+- training periodization
 
 3. Key Findings
-- Findings extraction requires manual review
+- Associations were found between &#x394;V&#x307;oand &#x394;BDNF (= 0
+- In the LP group, associations were found between &#x394;V&#x307;oand &#x394;BDNF (= 0
 
 This study provides insights into:
-- exercise assessment methods and outcomes
-- fibromyalgia assessment methods and outcomes
-- low back pain assessment methods and outcomes
+- aerobic exercise assessment methods and outcomes
+- cognitive function assessment methods and outcomes
+- coronary artery disease assessment methods and outcomes

@@ -1,27 +1,25 @@
-Study Title: Effectiveness and safety of Sanhan Huashi granules versus nirmatrelvir-ritonavir in adult patients with COVID-19: A randomized, open-label, multicenter trial.
+Study Title: [Comparison of the effects of sciatic nerve block combined with continuted femoral nerve block or continuted adductor canal block on pain and motor function after total knee arthroplasty].
 
 Study Summary:
-Sanhan Huashi granules (SHG) demonstrated therapeutic effects against coronavirus disease 2019 (COVID-19) in observational studies. In order to compare the effectiveness and safety of SHG and nirmatrelvir-ritonavir in treating adults with mild-to-moderate COVID-19, we conducted a randomized, active-controlled, open-label, multi-center trial conducted between February and July in 2023. The patients were randomized in a 1:1 ratio to the SHG group and the nirmatrelvir-ritonavir group. A total of 400 participants were randomized, among which 200 participants ultimately received SHG and 198 received nirmatrelvir-ritonavir. The primary outcome was time to sustained clinical recovery through day 28. SHG significantly shortened the median time to sustained clinical recovery compared to nirmatrelvir-ritonavir (6.0 (95% CI, 5.0 to 6.0) vs. 8.0 (95% CI, 6.0 to 9.0) d; P&#xa0;=&#xa0;0.001), particularly for individual symptoms including fever, sore throat, cough and fatigue. No participants in either group died and incidence of severe COVID-19 showed no difference between two groups. Participants who received nirmatrelvir-ritonavir demonstrated a higher rate of virus clearance on day 5 compared to those received SHG (46.4% (95% CI, 39.1 to 53.7) vs. 65.6% (95% CI, 58.3 to 72.4); P&#xa0;<&#xa0;0.001). Most adverse events were mild in both groups. In summary, SHG was superior to nirmatrelvir-ritonavir in shortening the time to sustained clinical recovery in participants with mild-to-moderate COVID-19, despite a lower virus clearance rate observed after 5&#xa0;d of treatment (Chinese Clinical Trial Registry Identifier: ChiCTR2300067872).
+To compare the effect of sciatic nerve block (SNB) combined with continuted femoral nerve block (FNB) or continuted adductor canal block (ACB) on pain and motor function after total knee arthroplasty (TKA). A total of 60 patients with TKA-treated osteoarthritis of the knee who met the selection criteria were enrolled between November 2020 and February 2021 and randomised allocated into the study group (SNB combined with continuted ACB) and the control group (SNB combined with continuted FNB), with 30 cases in each group. There was no significant difference in gender, age, body mass, height, body mass index, preoperative Hospital for Special Surgery (HSS) score, femoral tibial angle, and medial proximal tibial angle between the two groups (>0.05). The operation time, the initial time to the ground, the initial walking distance, and the postoperative hospital stay were recorded. At 2, 4, 6, 12, 24, and 48 hours after operation, the numerical rating scale (NRS) score was used to evaluate the rest pain around the knee joint, the quadriceps femoris muscle strength was evaluated by the freehand muscle strength method, and the knee flexion and extension angles were measured. There was no significant difference in the operation time and initial walking distance between the two groups (>0.05); the initial time to the ground and postoperative hospital stay of the study group were significantly shorter than those of the control group (<0.05). Except for the 48-hour postoperative NRS score of the study group, which was significantly lower than that of the control group (<0.05), there was no significant difference in the NRS scores between the two groups at the remaining time points (>0.05). The quadriceps femoris muscle strength from 4 to 24 hours postoperatively and the knee extension angle from 2 to 6 hours postoperatively of the study group were significantly better than those of the control group (<0.05); the differences in the quadriceps femoris muscle strength and knee extension and flexion angles between the two groups at the remaining time points were not significant (>0.05). SNB combined with either continuted ACB or continuted FNB can effectively relieve pain in patients after TKA, and compared with combined continuted FNB, combined continuted ACB has less effect on quadriceps femoris muscle strength, and patients have better recovery of knee flexion and extension mobility.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.scib.2024.04.040
+- DOI: 10.7507/1002-1892.202402048
 
 2. Keywords
-- COVID-19
-- Nirmatrelvir&#x2013;Ritonavir
-- Sustained clinical recovery
-- Traditional Chinese medicine
+- Total knee arthroplasty
+- adductor canal block
+- femoral nerve block
+- sciatic nerve block
 
 3. Key Findings
-- Sanhan Huashi granules (SHG) demonstrated therapeutic effects against coronavirus disease 2019 (COVID-19) in observational studies
-- No participants in either group died and incidence of severe COVID-19 showed no difference between two groups
-- Participants who received nirmatrelvir-ritonavir demonstrated a higher rate of virus clearance on day 5 compared to those received SHG (46
+- Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 assessment methods and outcomes
-- Nirmatrelvir&#x2013;Ritonavir assessment methods and outcomes
-- Sustained clinical recovery assessment methods and outcomes
+- Total knee arthroplasty assessment methods and outcomes
+- adductor canal block assessment methods and outcomes
+- femoral nerve block assessment methods and outcomes

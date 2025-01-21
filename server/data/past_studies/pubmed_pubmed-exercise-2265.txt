@@ -1,20 +1,25 @@
-Study Title: Early Targeted Heart Rate Aerobic Exercise Reduces Proportion of Subacute Musculoskeletal Injuries After Recovery From Sport-Related Concussion.
+Study Title: Effects of two carbonic anhydrase inhibitors on exercise performance in acute hypoxia.
 
 Study Summary:
-There is greater risk of musculoskeletal (MSK) injury after clinical recovery from sport-related concussion (SRC). We determined whether aerobic exercise treatment within 10 days of SRC reduced the proportion of MSK injury in recovered adolescent athletes at 4 months since injury. Planned secondary analysis of a randomized trial of aerobic exercise versus stretching exercise in adolescents after SRC. Outpatient and hospital-based sports medicine centers. Aerobic exercise (n = 38, 58% male, 15.6 years) and stretching exercise (n = 25, 64% male, 15.9 years) participants completed a questionnaire at 3.5 and 3.3 months since recovery, respectively. Individualized subthreshold aerobic exercise versus placebo-like stretching. Proportion of MSK injury, subsequent concussion, and return to exercise training, school, and sport determined 3 months after clinical recovery from SRC. Overall, 24% of participants randomized to stretching experienced an MSK injury versus 5.3% of participants randomized to aerobic exercise. There was no difference in time to return to school, sport, or incidence of subsequent concussion. Stretching participants were 6.4 times (95% confidence interval 1.135-36.053) more likely to sustain MSK injury than aerobic exercise participants when controlling for the duration of exposure to sport and return to preinjury sport participation. All injuries were in male participants. Adolescent male athletes prescribed aerobic exercise within 10 days of SRC had a significantly lower proportion of individuals injured in the 3 months following clinical recovery when compared with stretching. This may be due to a habituation/rehabilitation effect of aerobic activities to improve autonomic, vestibular, and/or oculomotor function after SRC.
+Acute mountain sickness (AMS) occurs due to rapid altitude ascents and/or insufficient acclimatization. Acetazolamide (AZ) is commonly prescribed for AMS prophylaxis but inhibits exercise performance. Methazolamide (MZ), an analogous drug, has similar prophylactic benefits but does not impair isolated muscle mass exercise performance in normoxia. We sought to compare whole body exercise performance in acute hypoxia (fraction of inspired oxygen, [Formula: see text] = 0.15) between AZ, MZ, and placebo (PLA). Fifteen healthy participants completed five testing visits:for maximal exercise test,for familiarization, and-were the experimental visits. Each experimental visit involved a 5-km hypoxic cycling time trial (TT) performed after a 2-day dosing protocol of either AZ (250 mg three times a day), MZ (100 mg twice a day), or PLA (three times a day); the order was randomized and double-blinded. Before exercise, capillary blood samples were taken, and maximal voluntary contractions of quadriceps were performed. AZ and MZ resulted in a partially compensated metabolic acidosis at rest compared with PLA [capillary hydrogen ions (H) 47&#x2009;&#xb1;&#x2009;3, 43&#x2009;&#xb1;&#x2009;2, and 39&#x2009;&#xb1;&#x2009;2 nmol for AZ, MZ, and PLA respectively,< 0.01]. Time to complete 5 km with PLA (562&#x2009;&#xb1;&#x2009;32 s,< 0.01) was significantly faster than AZ and MZ (577&#x2009;&#xb1;&#x2009;38 vs. 581&#x2009;&#xb1;&#x2009;37 s, respectively), with no differences between AZ and MZ (= 0.96). There were no differences in average ventilation (124&#x2009;&#xb1;&#x2009;27, 127&#x2009;&#xb1;&#x2009;24, 127&#x2009;&#xb1;&#x2009;19 L/min) and oxyhemoglobin saturation (87&#x2009;&#xb1;&#x2009;2, 88&#x2009;&#xb1;&#x2009;2, 88&#x2009;&#xb1;&#x2009;3%) between AZ, MZ, and PLA, respectively (> 0.05). Overall, both AZ and MZ impair whole body exercise performance in acute normobaric hypoxia.Administration of acetazolamide (AZ) and methazolamide (MZ) both resulted in a significantly slower 5-km time trial in acute normobaric hypoxia compared with a placebo. Both drugs lead to a partially compensated metabolic acidosis, but ventilation and oxyhemoglobin saturation were not different across the conditions. Overall, acetazolamide and methazolamide both impaired whole body exercise performance in acute normobaric hypoxia but potentially have different mechanisms of action.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/JSM.0000000000001273
+- DOI: 10.1152/japplphysiol.00589.2024
 
 2. Keywords
-
+- acetazolamide
+- fatigue
+- methazolamide
+- time trial
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- acetazolamide assessment methods and outcomes
+- fatigue assessment methods and outcomes
+- methazolamide assessment methods and outcomes

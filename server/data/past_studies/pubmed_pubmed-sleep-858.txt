@@ -1,20 +1,25 @@
-Study Title: Responsive parenting and Black mothers' postpartum sleep: Secondary analysis of a randomized controlled trial.
+Study Title: Effects of metformin on glucose metabolism and mitochondrial function in patients with obstructive sleep apnea: A pilot randomized trial.
 
 Study Summary:
-To determine if an intervention designed to enhance early responsive parenting (RP) practices (e.g., reading infant cues, establishing bedtime routines) and promote infant sleep and soothing among Black families has secondary benefits for mothers' postpartum sleep. This preregistered secondary analysis of the Sleep Strong African American Families randomized controlled trial investigated effects of an RP intervention versus a safety control condition on self-reported maternal sleep difficulties at 8 and 16 weeks postpartum and on actigraph-measured maternal sleep at 8 weeks postpartum. The 212 randomized mothers were Black/African American (100%) and non-Hispanic (98.6%) and averaged 22.7 years (= 4.5) of age. Among 138 mothers with useable actigraph data, RP mothers had a mean 20 [95% CI: 2, 37] minutes longer actigraph-measured total sleep time than controls at 8 weeks postpartum, after adjusting for age and other covariates likely to influence mothers' sleep (= .04). Participation in the RP intervention did not significantly impact self-reported sleep difficulties or other actigraph-measured sleep parameters (e.g., efficiency) in either unadjusted or adjusted models, although RP effects on sleep difficulties and sleep efficiency were in the hypothesized directions. Interventions supporting responsive sleep parenting practices to increase infant sleep may also help first-time Black mothers get more sleep themselves during the postpartum period, even without an explicit focus on maternal sleep strategies. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+Obstructive sleep apnea (OSA) is associated with increased risk for diabetes, and standard treatment with positive airway pressure (PAP) device shows inconsistent effects on glucose metabolism. Metformin is known to treat and prevent diabetes, but its effects on skeletal muscle mitochondrial function are not completely understood. Here, we evaluate the effects of metformin on glucose metabolism and skeletal muscle mitochondrial function in patients with OSA. Sixteen adults with obesity (50.9&#x2009;&#xb1;&#x2009;6.7&#x2009;years, BMI: 36.5&#x2009;&#xb1;&#x2009;2.9&#x2009;kg/m) and moderate-to-severe OSA were provided with PAP treatment and randomized to 3&#x2009;months of placebo (n&#x2009;=&#x2009;8) or metformin (n&#x2009;=&#x2009;8) treatment in a double-blind parallel-group design. Whole body glucose metabolism was determined by oral glucose tolerance test. A skeletal muscle biopsy was obtained to evaluate mitochondrial respiratory capacity and expression of proteins related to mitochondrial dynamics and energy metabolism. Whole body insulin-sensitivity (Matsuda index) did not change in metformin or placebo treated groups. However, metformin treatment prevented increases in insulin release relative to placebo during follow-up. Insulin area under the curve (AUC) and insulin to glucose AUC ratio increased in placebo but remained unchanged with metformin. Furthermore, metformin treatment improved skeletal muscle mitochondrial respiratory capacity and dynamics relative to placebo. Metformin treatment prevented the decline in whole body glucose homeostasis and skeletal muscle mitochondrial function in patients with moderate to severe OSA. Patients with OSA may benefit from the addition of metformin to prevent diabetes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1037/hea0001363
+- DOI: 10.14814/phy2.15948
 
 2. Keywords
-
+- insulin sensitivity
+- metformin
+- mitochondrial function
+- obstructive sleep apnea
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- insulin sensitivity assessment methods and outcomes
+- metformin assessment methods and outcomes
+- mitochondrial function assessment methods and outcomes

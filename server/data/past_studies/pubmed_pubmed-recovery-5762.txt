@@ -1,26 +1,26 @@
-Study Title: Effect of bilateral low serratus anterior plane block on quality of recovery after trans-subxiphoid robotic thymectomy: Results of a randomized placebo-controlled trial.
+Study Title: Acute dose-response effect of photobiomodulation therapy on 5-km running performance in trained runners: a randomized, double-blind, placebo-controlled, crossover study.
 
 Study Summary:
-This study aimed to investigate the impact of ultrasound-guided, bilateral, low level (T8-T9) deep serratus anterior plane (DSAP) blocks on postoperative recovery quality and postoperative analgesia in patients undergoing trans-subxiphoid robotic thymectomy (TRT).39 patients undergoing TRT were randomized to receive either low DSAP block under general anesthesia (Group S) or the sham block (Group C) on each side. The primary outcome was the QoR-40 score at postoperative day (POD) 1. Secondary outcomes included numeric rating scale (NRS) scores over time, postoperative 48 hours opioid consumption, QoR-40 scores at POD 2, 30, and 90.The QoR-40 scores on POD1-2 were higher in Group S than in Group C [179.1 (4.9) vs 167.7 (2.8), P < 0.01; 187.7 (4.6) vs 178.1 (3), P < 0.01, respectively]. Pain scores were significantly lower in Group S, both during resting and motion at postoperative 6h, 12h, and 24h (P < 0.05 for each). The total amount of sufentanil consumed in the first 48 h was lower in Group S than in Group C [61.4 (4.9) vs 78.9 (4.6), P < 0.001].The bilateral low DSAP blocks enhanced the QoR-40 for 2 days postoperatively, relieved postsurgical pain, and reduced opioid consumption during the early postoperative period in patients undergoing TRT.
+Photobiomodulation therapy (PBMT) has been advocated as a potential intervention to improve muscle performance and recovery in the health and sports context. However, the short- and long-term effects of PBMT on endurance running performance remain under-researched and controversial. The purpose of this study was to investigate the acute dose-response effect of PBMT with light-emitting diodes (LEDs) on endurance performance and rating of perceived exertion (RPE; 6-20 Borg) during a 5-km running trial in recreational runners. In a crossover design, eighteen young adult runners (28.7&#x2009;&#xb1;&#x2009;7.8 years) were randomized to receive 1 of 4 PBMT conditions (placebo, 300, 900, and 1260 Joules [J]) 60&#xa0;min before the 5-km running trial on four occasions, separated by a 2-wk washout period. The treatments were applied to the quadriceps, hamstrings, and gastrocnemius muscles of both legs using a device containing 200 LEDs (100 red and 100 infrared). The following variables were assessed: endurance performance (i.e. total time, mean velocity, and velocity in the split distances at the initial 200&#xa0;m and every 400&#xa0;m lap) and RPE in the split distances at the initial 200&#xa0;m and every 400&#xa0;m lap. Data normality and homogeneity were tested using Shapiro-Wilk's and Levene's tests, respectively. Differences between treatment conditions were assessed using the analysis of variance tests (one- or two-way ANOVA, depending on the comparisons), complemented by the Bonferroni post hoc test. There were significant time effects for the running velocity and RPE in the split distances (p&#x2009;<&#x2009;0.0001), with no significant treatment-by-time interaction (running velocity, p&#x2009;=&#x2009;0.59; RPE, p&#x2009;=&#x2009;0.95). The mean velocity (p&#x2009;=&#x2009;0.997), total time (p&#x2009;=&#x2009;0.998), and total mean of the RPE (p&#x2009;=&#x2009;0.91) were similar between treatment conditions. In conclusion, acute PBMT with LEDs at doses of 300, 900, and 1260&#xa0;J is not recommended for improving endurance performance and RPE in the 5-km running trial in recreational runners.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7150/ijms.91797
+- DOI: 10.1007/s10103-024-04099-8
 
 2. Keywords
-- Anesthesia, Local
-- Pain Measurement
-- Quality of Life
-- Robot-Assisted Surgery
-- Thymectomy
+- Endurance performance
+- Light emitting diodes
+- Low-level light therapy
+- Phototherapy
+- Running
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Anesthesia, Local assessment methods and outcomes
-- Pain Measurement assessment methods and outcomes
-- Quality of Life assessment methods and outcomes
+- Endurance performance assessment methods and outcomes
+- Light emitting diodes assessment methods and outcomes
+- Low-level light therapy assessment methods and outcomes

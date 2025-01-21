@@ -1,28 +1,26 @@
-Study Title: Electroencephalography-based investigation of the effects of oral desmopressin on improving slow-wave sleep time in nocturnal polyuria patients (the DISTINCT study): A single-arm, open-label, single-assignment trial.
+Study Title: The Health4Life e-health intervention for modifying lifestyle risk behaviours of adolescents: secondary outcomes of a cluster randomised controlled trial.
 
 Study Summary:
-To investigate changes in subjective and objective sleep quality after desmopressin administration in patients with nocturia due to nocturnal polyuria (NP) using electroencephalography (EEG) and the Pittsburgh sleep quality index (PSQI). Twenty male patients (&#x2265;65 years old) with NP participated in this study. The inclusion criteria were nocturnal frequency&#x2009;&#x2265;&#x2009;2, NP index (NPi)&#x2009;&#x2265;&#x2009;0.33, first uninterrupted sleep period (FUSP)&#x2009;&#x2264;&#x2009;2.5&#x2009;h, serum sodium concentration&#x2009;&#x2265;&#x2009;135 mEq/L, and estimated glomerular filtration rate&#x2009;&#x2265;&#x2009;50&#x2009;mL/min/1.73 m. Participants were given 50&#x2009;&#x3bc;g of desmopressin to be taken orally once daily before bed. The primary endpoint was the change in the duration of slow-wave sleep (nonrapid eye movement sleep stages 3 and 4), as evaluated by EEG 28 days from the baseline. The visual analog scale (VAS) was used as an additional indicator of sleep quality. Analysis of data from 15 participants (median age: 74.0 [70.5, 76.0] years) revealed that from before to after desmopressin administration, significant decreases occurred in the median nocturnal frequency (3.0 [2.0, 4.0] to 1.5 [1.0, 2.0]) and NPi (0.445 [0.380, 0.475] to 0.360 [0.250, 0.430]). Furthermore, FUSP was significantly prolonged from 120.0 (94.0, 150.0) min to 210.0 (203.8, 311.3) min. Although the VAS scores improved, slow-wave sleep duration and the PSQI global score showed no significant differences (68.50 [47.50, 75.50] and 48.00 [38.00, 66.50]; 5.0 [5.0, 10.0] and 7.0 [5.0, 9.0] min, respectively). Oral administration of 50&#x2009;&#x3bc;g desmopressin improved nocturnal frequency and FUSP in older individuals with NP but did not significantly enhance sleep quality. In older adults, decreased nighttime urinary frequency may enhance quality of life; however, its influence on objective sleep quality may be limited.
+To investigate the effectiveness of a school-based multiple health behaviour change e-health intervention for modifying risk factors for chronic disease (secondary outcomes). Cluster randomised controlled trial. Students (at baseline [2019]: year 7, 11-14 years old) at 71 Australian public, independent, and Catholic schools. Health4Life: an e-health school-based multiple health behaviour change intervention for reducing increases in the six major behavioural risk factors for chronic disease: physical inactivity, poor diet, excessive recreational screen time, poor sleep, and use of alcohol and tobacco. It comprises six online video modules during health education class and a smartphone app. Comparison of Health4Life and usual health education with respect to their impact on changes in twelve secondary outcomes related to the six behavioural risk factors, assessed in surveys at baseline, immediately after the intervention, and 12 and 24 months after the intervention: binge drinking, discretionary food consumption risk, inadequate fruit and vegetable intake, difficulty falling asleep, and light physical activity frequency (categorical); tobacco smoking frequency, alcohol drinking frequency, alcohol-related harm, daytime sleepiness, and time spent watching television and using electronic devices (continuous). A total of 6640 year 7 students completed the baseline survey (Health4Life: 3610; control: 3030); 6454 (97.2%) completed at least one follow-up survey, 5698 (85.8%) two or more follow-up surveys. Health4Life was not statistically more effective than usual school health education for influencing changes in any of the twelve outcomes over 24 months; for example: fruit intake inadequate: odds ratio [OR], 1.08 (95% confidence interval [CI], 0.57-2.05); vegetable intake inadequate: OR, 0.97 (95% CI, 0.64-1.47); increased light physical activity: OR, 1.00 (95% CI, 0.72-1.38); tobacco use frequency: relative difference, 0.03 (95% CI, -0.58 to 0.64) days per 30 days; alcohol use frequency: relative difference, -0.34 (95% CI, -1.16 to 0.49) days per 30 days; device use time: relative difference, -0.07 (95% CI, -0.29 to 0.16) hours per day. Health4Life was not more effective than usual school year 7 health education for modifying adolescent risk factors for chronic disease. Future e-health multiple health behaviour change intervention research should examine the timing and length of the intervention, as well as increasing the number of engagement strategies (eg, goal setting) during the intervention. Australian New Zealand Clinical Trials Registry: ACTRN12619000431123 (prospective).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/nau.25476
+- DOI: 10.5694/mja2.52279
 
 2. Keywords
-- desmopressin
-- male
-- nocturia
-- nocturnal polyuria
-- sleep
-- slow&#x2010;wave sleep
+- Adolescent behavior
+- Alcohol&#x2010;related disorders
+- Chronic disease
+- Public health
+- Smoking
 
 3. Key Findings
-- 0] years) revealed that from before to after desmopressin administration, significant decreases occurred in the median nocturnal frequency (3
-- Although the VAS scores improved, slow-wave sleep duration and the PSQI global score showed no significant differences (68
+- Findings extraction requires manual review
 
 This study provides insights into:
-- desmopressin assessment methods and outcomes
-- male assessment methods and outcomes
-- nocturia assessment methods and outcomes
+- Adolescent behavior assessment methods and outcomes
+- Alcohol&#x2010;related disorders assessment methods and outcomes
+- Chronic disease assessment methods and outcomes

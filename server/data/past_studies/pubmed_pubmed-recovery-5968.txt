@@ -1,26 +1,26 @@
-Study Title: Force-Time Characteristics of Repeated Bouts of Depth Jumps and the Effects of Compression Garments.
+Study Title: Effect of postoperative intermittent boluses of subcostal quadratus lumborum block on pulmonary function recovery and analgesia after gastrectomy: a randomized controlled clinical trial.
 
 Study Summary:
-No studies have reported ground reaction force (GRF) profiles of the repeated depth jump (DJ) protocols commonly used to study exercise-induced muscle damage. Furthermore, while compression garments (CG) may accelerate recovery from exercise-induced muscle damage, any effects on the repeated bout effect are unknown. Therefore, we investigated the GRF profiles of 2 repeated bouts of damage-inducing DJs and the effects of wearing CG for recovery. Nonresistance-trained males randomly received CG (n = 9) or placebo (n = 8) for 72&#xa0;hours recovery, following 20 &#xd7; 20&#xa0;m sprints and 10 &#xd7; 10 DJs from 0.6&#xa0;m. Exercise was repeated after 14&#xa0;days. Using a 3-way (set &#xd7; bout &#xd7; group) design, changes in GRF were assessed with analysis of variance and statistical parametric mapping. Jump height, reactive strength, peak, and mean propulsive forces declined between sets (P < .001). Vertical stiffness, contact time, force at zero velocity, and propulsive duration increased (P < .05). According to statistical parametric mapping, braking (17%-25% of the movement) and propulsive forces (58%-81%) declined (P < .05). During the repeated bout, peak propulsive force and duration increased (P < .05), while mean propulsive force (P < .05) and GRF from 59% to 73% declined (P < .001). A repeated bout of DJs differed in propulsive GRF, without changes to the eccentric phase, or effects from CG.
+Following the gastrectomy, the reduction in pulmonary function is partly attributed to postoperative pain. Subcostal quadratus lumborum block (QLB) has recently emerged as a promising component in multimodal analgesia. We aimed to assess the impact of intermittent boluses of subcostal QLB on pulmonary function recovery and analgesic efficacy after gastrectomy. Sixty patients scheduled for gastrectomy were randomly assigned to either control group (multimodal analgesia) or intervention group (intermittent boluses of subcostal QLB plus multimodal analgesia). Two primary outcomes included the preservation of forced expiratory volume in the first second (FEV1) and the pain scores (0-10&#xa0;cm visual analog score) on coughing 24&#xa0;h postoperatively. We assessed the pulmonary function parameters, pain score, morphine consumption and number of rescue analgesia at a 24-h interval up to 72&#xa0;h (Day1, Day2, Day3 respectively) as secondary outcomes. 59 patients were analyzed in a modified intention-to-treat set. The preservation of FEV1 (median difference: 4.0%, 97.5% CI: -5.7 to 14.9, P&#xa0;=&#xa0;0.332) and pain scores on coughing (mean difference: 0.0&#xa0;cm, 97.5% CI: -1.1 to 1.2, P&#xa0;=&#xa0;0.924) did not differ significantly between two groups. In the intervention group, the recovery of forced vital capacity (FVC) was faster 72&#xa0;h after surgery (interaction effect of group*(Day3-Day0): estimated effect (&#x3b2;) =0.30&#xa0;L, standard error (SE) =0.13, P&#xa0;=&#xa0;0.025), pain scores at rest were lower in the first 3&#xa0;days (interaction effect of group*(Day1-Day0): &#x3b2; =&#xa0;-&#xa0;0.8&#xa0;cm, SE&#xa0;=&#xa0;0.4, P&#xa0;=&#xa0;0.035; interaction effect of group*(Day2-Day0): &#x3b2; =&#xa0;-&#xa0;1.0&#xa0;cm, SE&#xa0;=&#xa0;0.4, P&#xa0;=&#xa0;0.014; and interaction effect of group*(Day3-Day0): &#x3b2; =&#xa0;-&#xa0;1.0&#xa0;cm, SE&#xa0;=&#xa0;0.4, P values&#xa0;=&#xa0;0.009 respectively), intravenous morphine consumption was lower during 0-24&#xa0;h (median difference: -3&#xa0;mg, 95% CI -6 to -1, P&#xa0;=&#xa0;0.014) and in total 72&#xa0;h (median difference: -5&#xa0;mg, 95% CI -10 to -1, P&#xa0;=&#xa0;0.019), and the numbers of rescue analgesia was fewer during 24-48&#xa0;h (median difference: 0, 95% CI 0 to 0, P&#xa0;=&#xa0;0.043). Other outcomes didn't show statistical differences. Postoperative intermittent boluses of subcostal QLB did not confer advantages in terms of the preservation of FEV1 or pain scores on coughing 24&#xa0;h after gastrectomy. However, notable effects were observed in analgesia at rest and FVC recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1123/jab.2023-0221
+- DOI: 10.1016/j.jclinane.2024.111452
 
 2. Keywords
-- adaptation
-- muscle damage
-- performance
-- recovery
-- strength
+- FEV1
+- Gastrectomy
+- Pain management
+- Pulmonary function
+- Subcostal quadratus lumborum block
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- adaptation assessment methods and outcomes
-- muscle damage assessment methods and outcomes
-- performance assessment methods and outcomes
+- FEV1 assessment methods and outcomes
+- Gastrectomy assessment methods and outcomes
+- Pain management assessment methods and outcomes

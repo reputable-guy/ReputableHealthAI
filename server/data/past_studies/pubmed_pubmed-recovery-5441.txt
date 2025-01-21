@@ -1,25 +1,24 @@
-Study Title: Fidelity of Enhanced Recovery Protocol Implementation With Assessment of Hospital-Specific Materials.
+Study Title: Comparison of different immobilisation durations following open surgery for acute achilles tendon rupture: a prospective cohort study.
 
 Study Summary:
-Variability in implementation of enhanced recovery protocols (ERPs) often reduces the effects of an intervention on clinical outcomes. This study aimed to evaluate hospital-level implementation fidelity to a pediatric gastrointestinal surgery ERP by assessing site-specific implementation materials. This document analysis study operationalized implementation fidelity as adherence to the creation of specified materials at each study site. During the 12-mo implementation phase within the stepped-wedge cluster randomized control trial, ENhanced Recovery In CHildren Undergoing Surgery, study sites were provided with materials (e.g., order sets), access to peer-counseling, and given key ERP elements spanning multiple phases of care. Sixteen of the 18 total study sites submitted implementation materials, including 14 anesthesia protocols, 11 order sets, and 16 sets of patient/family education materials. These materials were assessed and graded for fidelity using prespecified criteria. Hospital-level fidelity scores could range from 0 to a maximum score of 18, and were categorized as either high or low, based on whether the score was above or below/equal to the median. Descriptive statistics and Wilcoxon rank sum test were used for analysis. The overall hospital-level median fidelity score for inclusion of ERP elements in the implementation materials was 10.5. The median score was 12.8 at nine high-fidelity sites and was 5.6 at nine low-fidelity sites (P&#xa0;<&#xa0;0.01). Higher adherence was noted for avoiding prolonged fasting (n&#xa0;=&#xa0;16/18 hospitals; 89%) and preventing nausea and vomiting (n&#xa0;=&#xa0;16/18 hospitals; 89%) in anesthesia protocols and/or order sets. Lower adherence was noted for incorporation of minimally invasive surgical techniques (n&#xa0;=&#xa0;2/18 hospitals, 11%) and of preoperative optimization of medical comorbidities (n&#xa0;=&#xa0;0/18 hospitals, 0%) in implementation materials. Despite substantial resources to promote ERP elements, there was wide variation in fidelity for incorporating ERPs into implementation materials among hospital sites. Development of high-fidelity implementation materials for complex ERPs for gastrointestinal surgery in children may require longer than 12&#xa0;months. Additional implementation strategies, resources, and modification of implementation-focused materials may be needed.
+In recent decades, early rehabilitation after Achilles tendon rupture (ATR) repair has been proposed. The aim of this prospective cohort study was to compare different immobilisation durations in order to determine the optimal duration after open surgery for ATR repair. This study included 1088 patients (mean age, 34.9&#x2009;&#xb1;&#x2009;5.9 years) who underwent open surgery for acute ATR repair. The patients were categorised into four groups (A, B, C, and D) according to postoperative immobilisation durations of 0, 2, 4, and 6 weeks, respectively. All patients received the same suture technique and a similar rehabilitation protocol after brace removal,; they were clinically examined at 2, 4, 6, 8, 10, 12, 14, and 16 weeks postoperatively, with a final follow-up at a mean of 19.0 months. The primary outcome was the recovery time for the one-leg heel-rise height (OHRH). Secondary outcomes included the time required to return to light exercise (LE) and the recovery times for the range of motion (ROM). Data regarding the surgical duration, complications, the visual analogue scale (VAS) score for pain, the Achilles tendon Total Rupture Score (ATRS), and the American Orthopaedic Foot and Ankle Society (AOFAS) Ankle-Hindfoot Scale score were also collected. The recovery times for OHRH, LE, and ROM were significantly shorter in groups A and B than in groups C and D (P&#x2009;<&#x2009;0.001). The VAS scores decreased over time, reaching 0 in all groups by 10 weeks. The mean scores in groups A and B were higher than those in the other groups at 2 and 4 weeks (P&#x2009;<&#x2009;0.001), whereas the opposite was true at 8 weeks (P&#x2009;<&#x2009;0.001). ATRS and the AOFAS Ankle-Hindfoot scale score increased across all groups over time, showing significant between-group differences from weeks 6 to 16 (P&#x2009;<&#x2009;0.001) and weeks 6 to 12 (P&#x2009;<&#x2009;0.001). The mean scores were better in groups A and B than in groups C and D. Thirty-eight complications (3.5%) were observed, including 20 re-ruptures and 18 superficial infections. All complications were resolved at the last follow-up, with no significant between-group differences. Immobilisation for 2 weeks after open surgery for ATR repair may be the optimal strategy for early rehabilitation with relatively minimal pain and other complications. ClinicalTrials.gov (NCT04663542).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jss.2024.07.087
+- DOI: 10.1186/s13018-024-04970-y
 
 2. Keywords
-- Enhanced recovery protocols
-- Fidelity
-- Implementation
-- Implementation materials
+- Achilles tendon rupture
+- Early functional mobilisation
+- Immobilisation duration
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Enhanced recovery protocols assessment methods and outcomes
-- Fidelity assessment methods and outcomes
-- Implementation assessment methods and outcomes
+- Achilles tendon rupture assessment methods and outcomes
+- Early functional mobilisation assessment methods and outcomes
+- Immobilisation duration assessment methods and outcomes

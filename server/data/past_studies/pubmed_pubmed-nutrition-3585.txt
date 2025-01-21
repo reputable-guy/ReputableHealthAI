@@ -1,32 +1,27 @@
-Study Title: Gastrointestinal Tolerance of an Infant Formula Manufactured from Extensively Hydrolysed Protein in Healthy Term Infants.
+Study Title: Reducing In-Hospital and 60-Day Mortality in Critically Ill Patients after Surgery with Strict Nutritional Supplementation: A Prospective, Single-Labeled, Randomized Controlled Trial.
 
 Study Summary:
-The evaluation of secondary parameters of a prospective, randomised, controlled, multicentre intervention trial aimed to analyse gastrointestinal tolerance of an infant formula manufactured from extensively hydrolysed whey protein (eHF) compared to intact cow's milk protein (control formula, CF) in healthy term infants. Infants &#x2264; 25 days of age, who were exclusively formula-fed, were randomised to receive eHF or CF for at least three months up to 120 days of age. An exclusively breastfed reference group (BF) was included for descriptive comparison. Infants' gastrointestinal tolerance was evaluated based on stool parameters, the Amsterdam Infant Stool Scale (AISS), the Infant Gastrointestinal Symptom Questionnaire (IGSQ), and sleeping patterns. Of 359 infants included, 297 randomised (eHF:= 149, CF:= 148) and 41 BF infants completed the study per protocol. All tolerance parameters were comparable between eHF and CF. Stool was predominantly soft and yellow in colour. Stool was more frequently green in eHF than CF. BF infants had more frequent stools, which were mainly watery or soft and yellow, and comparable IGSQ scores (descriptive). Irrespective of group, all gastrointestinal and sleep parameters showed signs of maturation with increasing age. In conclusion, eHF showed gastrointestinal tolerance as good as CF in healthy infants. Both formulae were well-tolerated.
+Malnutrition in critically ill patients is a global concern, especially those who undergo abdominal surgery, as it is associated to higher infectious complications, prolonged hospital stays, and increased morbidity. Despite the importance of proper nutrition, guidelines remain broad, and practical implementation is often inadequate. We aimed to assess the effects of strict nutritional provision and investigate the appropriate target for nutrition support. A prospective, randomized controlled trial was conducted in critically ill patients admitted to intensive care units following abdominal surgery. The intervention group received targeted protein and calories, with consultation from a nutritional support team upon admission. In total, 181 patients in the intervention and 144 in the control group were analyzed. The intervention group demonstrated improved nutrition provision and subsequently better clinical outcomes, including a reduced 60-day mortality (4.4 versus 15.3,= 0.001), postoperative complications (24.9 versus 47.2,< 0.001), and in-hospital mortality (5 versus 17.4,< 0.001). High modified nutrition risk in the critically ill scores [odds ratio (OR) = 2.658, 95% CI = 1.498-4.716] were associated with increased 60-day mortality, while active nutritional intervention (OR = 0.312, 95% CI = 0.111-0.873) was associated with lower mortality rates. Notably, the provision of targeted energy and protein alone did not exhibit a significant association with mortality outcomes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15214674
+- DOI: 10.3390/nu15214684
 
 2. Keywords
-- IGSQ
-- breastfed
-- digestibility
-- extensively hydrolysed whey protein
-- gastrointestinal tolerance
-- infant formula
-- infant nutrition
-- protein hydrolysate
-- sleeping
-- stool characteristics
+- NUTRIC score
+- abdominal surgery
+- critical illnesses
+- malnutrition
+- nutrition therapy
+- nutritional support
 
 3. Key Findings
-- Irrespective of group, all gastrointestinal and sleep parameters showed signs of maturation with increasing age
-- In conclusion, eHF showed gastrointestinal tolerance as good as CF in healthy infants
+- The intervention group demonstrated improved nutrition provision and subsequently better clinical outcomes, including a reduced 60-day mortality (4
 
 This study provides insights into:
-- IGSQ assessment methods and outcomes
-- breastfed assessment methods and outcomes
-- digestibility assessment methods and outcomes
+- NUTRIC score assessment methods and outcomes
+- abdominal surgery assessment methods and outcomes
+- critical illnesses assessment methods and outcomes

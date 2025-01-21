@@ -1,25 +1,26 @@
-Study Title: Effects of Nutritional Support Combined with Neuromuscular Electrical Stimulation on Muscle Strength and Thickness: A Randomized Controlled Trial in Healthy Young Adult Males.
+Study Title: Feasibility pilot study of a Japanese teaching kitchen program.
 
 Study Summary:
-In the management of post-injury patients with activity limitations, methods to prevent musculoskeletal disorders and hasten recovery are important. This randomized controlled, single-blinded study was a preliminary investigation of the combined effect of nutritional support with neuromuscular electrical stimulation (NMES) on muscle strength and thickness. Healthy young adult males (median age, 21 years) were enrolled; each of their hands was randomly assigned to one of the following four groups: Placebo, Nutrition, NMES, and Nutrition + NMES. All participants received whey protein or placebo (3x/week for 6 weeks) and NMES training (3x/week for 6 weeks) on the abductor digiti minimi (ADM) muscle of either the left or right hand. ADM muscle strength and thickness were analyzed at baseline and at week 7. We analyzed 38 hands (9 Placebo, 10 Nutrition, 9 NMES, 10 Nutrition + NMES). There was significantly greater muscle strengthening in the Nutrition + NMES group compared to the Placebo group or the NMES group, but no significant difference in gain of muscle thickness. The combined intervention may be effective in improving muscle strength. Future clinical trials targeting various muscles after sports-related injuries are warranted.
+This pilot study examined the feasibility of a new lifestyle modification program involving a "Teaching Kitchen" in Japan. Our goal was to explore (1) feasibility of the program; (2) acceptability for class frequency (weekly vs. bi-weekly); and (3) changes in biometrics, dietary intakes, and lifestyle factors. A total of 24 employees with obesity in a Japanese company were recruited. Participants were randomly divided into two groups (weekly or bi-weekly group), each attending the program consisting of four two-hour classes (lectures on nutrition, exercise, mindfulness, and culinary instructions). Participants were observed for changes in dietary intakes, biometrics, and health related quality of life over the subsequent 3 months. We tested the between-group differences in changes using linear mixed-effect models. The program completion rates were 83.3% in total (91.7% for weekly group and 75.0% for bi-weekly group). From baseline to post-intervention, significant decreases were observed in weight (< 0.001), body mass index (< 0.001), diastolic blood pressure (= 0.03), body fat mass (< 0.001), and dietary intakes in total fat (= 0.03) and sodium (= 0.008) among 17 participants who were available for measurements. Improvements in biometrics remained significant 1 month after the intervention (all&#x2264; 0.03 in 14 participants). Participants' health related quality of life was significantly improved in bodily pain, general health, vitality, and mental component score (all&#x2264; 0.047). The new Japanese Teaching Kitchen program is feasible with high program completion rates in Japanese office workers with obesity. While this was a small feasibility study, significant multiple improvements in dietary intakes, biometrics, and health related quality of life suggest that this line of inquiry warrants further exploration to address obesity and obesity-related diseases in Japan.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.18926/AMO/66156
+- DOI: 10.3389/fpubh.2023.1258434
 
 2. Keywords
-- electrical stimulation
-- healthy volunteers
-- muscle strength
-- whey protein
+- behavior modification program
+- diet
+- lifestyle modification
+- obesity
+- teaching kitchen
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- electrical stimulation assessment methods and outcomes
-- healthy volunteers assessment methods and outcomes
-- muscle strength assessment methods and outcomes
+- behavior modification program assessment methods and outcomes
+- diet assessment methods and outcomes
+- lifestyle modification assessment methods and outcomes

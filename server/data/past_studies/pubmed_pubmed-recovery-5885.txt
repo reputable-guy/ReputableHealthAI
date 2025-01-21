@@ -1,20 +1,25 @@
-Study Title: Efficacy of local infiltration analgesia on recovery after total hip arthroplasty using direct anterior approach under spinal anaesthesia: a randomized, double-blind, placebo-controlled trial.
+Study Title: Effect of Reliable Recovery on Health Care Costs and Productivity Losses in Emotional Disorders.
 
 Study Summary:
-The utilization of local infiltration analgesia (LIA) is a common practice in total hip arthroplasty (THA) procedures to mitigate postoperative pain and diminish the necessity for opioids. However, contemporary literature reports conflicting results. Our working hypothesis was that LIA renders better postoperative VAS-scores and reduces the need for oral analgetics. We performed a randomized, double-blind, placebo-controlled trial aimed at examining the effectiveness of LIA in THA. A total of 90 patients were included for statistical analysis. Our primary endpoint was the Visual Analogue Scale, VAS, (0: no pain, 10: unbearable pain) preoperatively, at the 1st, 2nd, 3rd, 4th and 12th hour postoperative intervals and at discharge. Our secondary endpoints included the postoperative opioid consumption, as well as patient satisfaction at 2 and 6 weeks postoperatively, measured using the Numeric Rating Scale, NRS. LIA has a tendency for superior results regarding VAS- Scores at 3 and 4 hours postoperatively. There were no notable statistical distinctions observed in terms of patients necessitating rescue opioid consumption. Patient satisfaction using the NRS at both the 2-week and 6-week postoperatively did not differ significantly between both groups. The administration of LIA could offer advantages during the initial stages of postoperative recovery, which could be particularly valuable in rapid recovery programs.
+Despite the high economic costs associated with emotional disorders, relatively few studies have examined the variation in costs according to whether the patient has achieved a reliable recovery. The aim of this study was to explore differences in health care costs and productivity losses between primary care patients from a previous randomized controlled trial (RCT)-PsicAP-with emotional symptoms who achieved a reliable recovery and those who did not after transdiagnostic cognitive-behavioral therapy (TD-CBT) plus treatment as usual (TAU) or TAU alone. Sociodemographic and cost data were obtained for 134 participants treated at five primary care centers in Madrid for the 12-month posttreatment period. Reliable recovery rates were higher in the patients who received TD-CBT&#x202f;+&#x202f;TAU versus TAU alone (66% vs. 34%, respectively; chi-square&#x202f;=&#x202f;13.78, df&#x202f;=&#x202f;1, p&#x202f;<&#x202f;.001). Patients who did not achieve reliable recovery incurred more costs, especially associated with general practitioner consultations (t&#x202f;=&#x202f;3.01, df&#x202f;=&#x202f;132, p&#x202f;=&#x202f;.003), use of emergency departments (t&#x202f;=&#x202f;2.20, df&#x202f;=&#x202f;132, p&#x202f;=&#x202f;.030), total health care costs (t&#x202f;=&#x202f;2.01, df&#x202f;=&#x202f;132, p&#x202f;=&#x202f;.040), and sick leaves (t&#x202f;=&#x202f;1.97, df&#x202f;=&#x202f;132, p&#x202f;=&#x202f;.048). These findings underscore the societal importance of achieving a reliable recovery in patients with emotional disorders, and further support the value of adding TD-CBT to TAU in the primary care setting.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.52628/90.1.12345
+- DOI: 10.1016/j.beth.2023.08.012
 
 2. Keywords
-
+- depression
+- health care costs
+- productivity losses
+- reliable recovery, anxiety
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- depression assessment methods and outcomes
+- health care costs assessment methods and outcomes
+- productivity losses assessment methods and outcomes

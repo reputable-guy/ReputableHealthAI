@@ -1,26 +1,25 @@
-Study Title: Exploring the effect of the menstrual cycle or oral contraception on elite athletes' training responses when workload is not objectively quantifiable: the MILS approach and findings from female Olympians.
+Study Title: The effect of mindfulness-based cognitive therapy on the Clinical efficacy and psychological state in patients with functional dyspepsia.
 
 Study Summary:
-Develop the Markov Index Load State (MILS) model, based on hidden Markov chains, to assess athletes' workload responses and investigate the effects of menstrual cycle (MC)/oral contraception (OC), sex steroids hormones and wellness on elite athletes' training. On a 7-month longitudinal follow-up, daily training (volume and perceived effort, n=2200) and wellness (reported sleep quality and quantity, fitness, mood, menstrual symptoms, n=2509) data were collected from 24 female rowers and skiers preparing for the Olympics. 51 MC and 54 OC full cycles relying on 214 salivary hormone samples were analysed. MC/OC cycles were normalised, converted in % from 0% (first bleeding/pill withdrawal day) to 100% (end). MILS identified three chronic workload response states: 'easy', 'moderate' and 'hard'. A cyclic training response linked to MC or OC (95% CI) was observed, primarily related to progesterone level (p=8.23e-03 and 5.72e-03 for the easy and hard state, respectively). MC athletes predominantly exhibited the 'easy' state during the cycle's first half (8%-53%), transitioning to the 'hard' state post-estimated ovulation (63%-96%). OC users had an increased 'hard' state (4%-32%) during pill withdrawal, transitioning to 'easy' (50%-60%) when on the pill. Wellness metrics influenced the training load response: better sleep quality (p=5.20e-04), mood (p=8.94e-06) and fitness (p=6.29e-03) increased the likelihood of the 'easy' state. Menstrual symptoms increased the 'hard' state probability (p=5.92e-02). The MILS model, leveraging hidden Markov chains, effectively analyses cumulative training load responses. The model identified cyclic training responses linked to MC/OC in elite female athletes.
+To observe the clinical therapeutic effect and mental state of mindfulness-based cognitive therapy (MBCT) in patients with functional dyspepsia (FD). In this study, 80 patients suffering from FD in an outpatient clinic were enrolled from January to December 2020. Patients were randomly allocated into the control group (conventional treatment) and observation group (MBCT treatment). Patients in the control group were prescribed rabeprazole and mosapiride, and patients in the observation group were given MBCT therapy in addition to the above drugs. After treatment for 8&#x2009;weeks, the changes in gastrointestinal symptom scores, anxiety, depression, mindfulness and sleep quality and gastric emptying testing were compared between these two groups. The observation group showed strikingly lower gastrointestinal symptom scores, SAS, SDS, PSQI, and SCL-90 scale scores, and higher FFMQ scale scores than the control group (&#x2009;<&#x2009;0.05). There was no conspicuous change in gastric emptying monitoring (&#x2009;>&#x2009;0.05). MBCT therapy can improve patients' gastrointestinal symptoms, attenuate their anxiety and depression levels, and ameliorate their sleep quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/bmjsem-2023-001810
+- DOI: 10.1080/00365521.2024.2368250
 
 2. Keywords
-- physical stress
-- rowing
-- skiing
-- statistics
-- women
+- Functional dyspepsia
+- anxiety and depression
+- gastrointestinal motility
+- mindfulness-based cognitive therapy
 
 3. Key Findings
-- Findings extraction requires manual review
+- The observation group showed strikingly lower gastrointestinal symptom scores, SAS, SDS, PSQI, and SCL-90 scale scores, and higher FFMQ scale scores than the control group (&#x2009;<&#x2009;0
 
 This study provides insights into:
-- physical stress assessment methods and outcomes
-- rowing assessment methods and outcomes
-- skiing assessment methods and outcomes
+- Functional dyspepsia assessment methods and outcomes
+- anxiety and depression assessment methods and outcomes
+- gastrointestinal motility assessment methods and outcomes

@@ -1,20 +1,27 @@
-Study Title: Comparison of Outcomes of Physical Therapy Exercises Combined with Either a Video-Based Smartphone Application System or a Written Exercise Program Handout in 34 Patients with Non-Specific Neck Pain.
+Study Title: Zibotentan in Microvascular Angina: A Randomized, Placebo-Controlled, Crossover Trial.
 
 Study Summary:
-BACKGROUND An exercise program was developed using risk factors for non-specific neck pain. This study aimed to compare the effects video-based versus image- and text-based remote home training performed using this exercise program in patients with non-specific neck pain. MATERIAL AND METHODS Among the 37 patients with non-specific neck pain recruited, 34 patients who satisfied the inclusion criteria were enrolled in this study. The participants were randomized into the experimental (n=17) and control (n=17) groups. The patients in the experimental group performed exercises using a video-based application system, whereas those in the control group performed exercises using an image- and text-based printout. In-home training was implemented for 6 weeks in both groups. The neck pain intensity, disability index, active range of motion (aROM), forward head posture (FHP), and compensatory neck flexion were measured before and after the intervention. The within-group and between-group differences were analyzed at the end of the interventions. RESULTS Improvements in pain intensity, cervical ROM, disability index, FHP, and compensatory neck flexion were observed after in-home training in the experimental group (P.05). Between-group comparison revealed that the experimental group exhibited greater improvement in pain intensity, cervical ROM, and FHP than the control group (P<.05). CONCLUSIONS The findings of this study suggest that the video-based home exercise program improved pain intensity, aROM, neck disability index, FHP, and compensatory neck flexion in patients with non-specific neck pain.
+Microvascular angina is associated with dysregulation of the endothelin system and impairments in myocardial blood flow, exercise capacity, and health-related quality of life. The G allele of the noncoding single nucleotide polymorphismenhances expression of the endothelin-1 gene () in human vascular cells, potentially increasing circulating concentrations of Endothelin-1 (ET-1). Whether zibotentan, an oralreceptor selective antagonist, is efficacious and safe for the treatment of microvascular angina is unknown. Patients with microvascular angina were enrolled in this double-blind, placebo-controlled, sequential crossover trial of zibotentan (10 mg daily for 12 weeks). The trial population was enriched to ensure a G allele frequency of 50% for thesingle nucleotide polymorphism. Participants and investigators were blinded to genotype. The primary outcome was treadmill exercise duration (seconds) using the Bruce protocol. The primary analysis estimated the mean within-participant difference in exercise duration after treatment with zibotentan versus placebo. A total of 118 participants (mean&#xb1;SD; years of age 63.5 [9.2]; 71 [60.2%] females; 25 [21.2%] with diabetes) were randomized. Among 103 participants with complete data, the mean exercise duration with zibotentan treatment compared with placebo was not different (between-treatment difference, -4.26 seconds [95% CI, -19.60 to 11.06]=0.5871). Secondary outcomes showed no improvement with zibotentan. Zibotentan reduced blood pressure and increased plasma concentrations of ET-1. Adverse events were more common with zibotentan (60.2%) compared with placebo (14.4%;<0.001). Among patients with microvascular angina, short-term treatment with a relatively high dose (10 mg daily) of zibotentan was not beneficial. Target-related adverse effects were common. URL: https://www.clinicaltrials.gov; Unique identifier: NCT04097314.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.12659/MSM.945349
+- DOI: 10.1161/CIRCULATIONAHA.124.069901
 
 2. Keywords
-
+- angina with no obstructive coronary arteries
+- endothelin receptor antagonist
+- exercise test
+- genetics
+- microvascular angina
+- pharmacotherapy
 
 3. Key Findings
-- Between-group comparison revealed that the experimental group exhibited greater improvement in pain intensity, cervical ROM, and FHP than the control group (P<
+- Secondary outcomes showed no improvement with zibotentan
 
 This study provides insights into:
-- General research methodology and outcomes
+- angina with no obstructive coronary arteries assessment methods and outcomes
+- endothelin receptor antagonist assessment methods and outcomes
+- exercise test assessment methods and outcomes

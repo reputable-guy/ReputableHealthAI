@@ -1,27 +1,20 @@
-Study Title: Effect of nutrition education integrating the health belief model and theory of planned behavior on dietary diversity of pregnant women in Southeast Ethiopia: a cluster randomized controlled trial.
+Study Title: Enhancements to a Telewellness Program for People With Physical Disabilities: Mindfulness, Exercise, and Nutrition To Optimize Resilience (MENTOR 2.0).
 
 Study Summary:
-Maternal anemia, miscarriage, low birth weight (LBW), preterm birth (PTB), intrauterine growth restriction (IUGR), prenatal and infant mortality, morbidity, and the risk of chronic disease later in life are all increased by a lack of dietary diversity during pregnancy. However, evidence for the effect of nutrition education on the dietary diversity score (DDS) among pregnant women was sparse in Ethiopia, particularly in the study areas. This study aimed to assess the effect of nutrition education on dietary diversity among pregnant women in urban settings in Southeast Ethiopia. A community-based two-arm parallel cluster randomized controlled trial was conducted among 447 randomly selected pregnant women attending antenatal care (224 intervention group and 223 control group) at health facilities from February to December 2021. A multistage cluster sampling technique, followed by systematic sampling, was used to select the pregnant women. Pregnant women who participated in the interventions were given nutrition education starting at 16 weeks of gestation and continuing for 6 months. We used a pre-tested, interviewer-administered, structured questionnaire to collect the data. A 24-hour qualitative dietary recall was used to calculate the dietary diversity score (DDS). A multivariable generalized estimating equation (GEE) model was conducted to evaluate the intervention effect. After the intervention, the proportion of adequate dietary diversity was 14.15% higher in the intervention arm compared to the control group (45.09% versus 30.94%, P&#x2009;=&#x2009;0.002). The overall difference in adequate dietary diversity between the two groups was 8.5%. After adjusting for background characteristics, the multivariable GEE binary logistic model revealed that having received intervention [(AOR&#x2009;=&#x2009;1.89, 95% CI: 1.27, 2.79)], being literate [(AOR&#x2009;=&#x2009;3.41, 95% CI: 1.13, 10.23)], and having high wealth [(AOR&#x2009;=&#x2009;1.60, 95% CI: 1.09, 2.35)] significantly improved adequate dietary diversity. The findings indicated that having received the intervention, being literate, and having a high level of wealth significantly improved maternal dietary diversity. Efforts should be made to increase nutrition education using the health belief model (HBM) and the theory of planned behavior (TPB). Moreover, there is a need to improve literacy and economic empowerment through income-generating activities to enhance adequate dietary diversification during pregnancy. Clinicaltrials.gov (PACTR202201731802989, Retrospectively registered on 24 January 2022).
+This study evaluated the National Center on Health, Physical Activity and Disability (NCHPAD) Mindfulness, Exercise, and Nutrition To Optimize Resilience (MENTOR) program for people with physical disabilities. This retrospective evaluation of MENTOR 2.0, an 8-week online group health promotion program, was based on improvements from its first implementation (MENTOR 1.0). Baseline and postassessments included the Godin Leisure-Time Exercise Questionnaire (GLTEQ), NCHPAD Wellness Assessment (NWA), Connor-Davidson Resilience Scale, and Mindfulness Attention Awareness Scale. Estimates and corresponding 95% CIs from linear mixed models were provided to compare baseline and postassessment scores and effect sizes using Cohen d. Among 116 participants (mean age, 53 y; 63% female), postassessment scores increased significantly in the overall NWA and in all 15 NWA domains (effect size, 0.30-0.69). The overall NWA score was 7.59 (95% CI, 5.63-9.56) units higher at postassessment compared with baseline. Scores for GLTEQ health contribution increased significantly among participants with low baseline scores (31.37 [95% CI, 12.97-49.77]) (effect size, 0.50). Mindfulness and resilience scores both showed improvement (0.16 [95% CI, 0.01-0.31]; effect size, 0.15) and (0.72 [95% CI, -0.25 to 1.68]; effect size 0.09), respectively, but only the change in mindfulness was significant. MENTOR 2.0 advanced the evaluation of this online telewellness program for people with physical disabilities by demonstrating consistent results with MENTOR 1.0. We reported improvements in GLTEQ, especially among those with lower baseline scores; in multiple areas of wellness, including physical, mental, and emotional/spiritual health; and in mindfulness and resilience, although the improvements in these 2 constructs were small.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12937-023-00907-z
+- DOI: 10.5888/pcd21.230181
 
 2. Keywords
-- Dietary diversity
-- Ethiopia
-- GEE
-- Nutrition education
-- Pregnant women
+
 
 3. Key Findings
-- After adjusting for background characteristics, the multivariable GEE binary logistic model revealed that having received intervention [(AOR&#x2009;=&#x2009;1
-- The findings indicated that having received the intervention, being literate, and having a high level of wealth significantly improved maternal dietary diversity
+- Mindfulness and resilience scores both showed improvement (0
 
 This study provides insights into:
-- Dietary diversity assessment methods and outcomes
-- Ethiopia assessment methods and outcomes
-- GEE assessment methods and outcomes
+- General research methodology and outcomes

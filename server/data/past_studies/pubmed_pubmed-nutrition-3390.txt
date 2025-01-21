@@ -1,21 +1,27 @@
-Study Title: Metabolomic response to acute resistance exercise in healthy older adults by 1H-NMR.
+Study Title: Behavior change intervention to sustain iodide salt utilization in households in Ethiopia and study of the effect of iodine status on the growth of young children: community trial.
 
 Study Summary:
-The favorable health-promoting adaptations to exercise result from cumulative responses to individual bouts of physical activity. Older adults often exhibit anabolic resistance; a phenomenon whereby the anabolic responses to exercise and nutrition are attenuated in skeletal muscle. The mechanisms contributing to age-related anabolic resistance are emerging, but our understanding of how chronological age influences responsiveness to exercise is incomplete. The objective was to determine the effects of healthy aging on peripheral blood metabolomic response to a single bout of resistance exercise and whether any metabolites in circulation are predictive of anabolic response in skeletal muscle. Thirty young (20-35 years) and 49 older (65-85 years) men and women were studied in a cross-sectional manner. Participants completed a single bout of resistance exercise consisting of eight sets of 10 repetitions of unilateral knee extension at 70% of one-repetition maximum. Blood samples were collected before exercise, immediately post exercise, and 30-, 90-, and 180-minutes into recovery. Proton nuclear magnetic resonance spectroscopy was used to profile circulating metabolites at all timepoints. Serial muscle biopsies were collected for measuring muscle protein synthesis rates. Our analysis revealed that one bout of resistance exercise elicits significant changes in 26 of 33 measured plasma metabolites, reflecting alterations in several biological processes. Furthermore, 12 metabolites demonstrated significant interactions between exercise and age, including organic acids, amino acids, ketones, and keto-acids, which exhibited distinct responses to exercise in young and older adults. Pre-exercise histidine and sarcosine were negatively associated with muscle protein synthesis, as was the pre/post-exercise fold change in plasma histidine. This study demonstrates that while many exercise-responsive metabolites change similarly in young and older adults, several demonstrate age-dependent changes even in the absence of evidence of sarcopenia or frailty. Clinical trial registry: ClinicalTrials.gov NCT03350906.
+Monitoring systems in a broad range of countries are a notable effort to eliminate iodine deficiency disorders (IDDs). This study aimed to gather data on the amount of iodide present in table salt and how household consumption patterns affect children's iodine status and its effect on their growth. A single treatment arm community trial study design was designed. Lower community units (LCUs) were chosen at random from districts assigned either intervention or control. From a list of LCUs, 834 mothers and their paired children were chosen randomly. Urine and table salt samples were collected and examined in the national food and nutrition laboratory. The deference between arms was determined using a t test, and the generalized estimating equation (GEE) was used to forecast parameters. The mean iodide content in the table salt samples of 164 (98.1%) was 45.3 ppm and a standard deviation (SD) of 14.87, which were above or equal to the recommended parts per million (ppm). Between the baseline survey and the end-line survey, the mean urine iodine concentration (UIC) was 107.7 &#xb5;g/L (+/- 8.64 SD) and 260.9 &#xb5;g/L (+/- 149 SD). Children's urine iodine excretion (UIE) had inadequate iodine in 127 (15.2%) children at the beginning of the study, but only 11 (2.6%) of the intervention group still had inadequate iodine at the end. The childrens' mean height (Ht) was 83.1 cm (+/-10 SD) at baseline and 136.4 cm (+/-14 SD) at the end of the survey. Mothers knew a lot (72%) about adding iodized salt to food at the end of cooking, and 183 (21.9%) of them did so regularly and purposefully. A total of 40.5% of children in the intervention group had stunted growth at baseline, which decreased to 15.1% at the end of the study but increased in the control group to 51.1%. The mean difference (MD) of urine iodine concentration (UIC) between intervention and control groups was 97.56 &#xb5;g/L, with a standard error (SE) of 9.83 (&#xa0;=&#xa0;0.001). The end-line Ht of children in the intervention group was increased by 7.93 cm (&#xa0;=&#xa0;7.93,&#xa0;=&#xa0;0.005) compared to the control group. Our research has shown that mothers who embraced healthy eating habits had perceived improvements in both the iodine status and height growth of their children. In addition to managing and using iodine salt, it has also introduced options for other healthy eating habits that will also play a significant role in their children's future development. This sort of knowledge transfer intervention is essential for the sustainability of society's health. Therefore, this trial's implications revealed that the intervention group's iodine status and growth could essentially be improved while the control group continued to experience negative effects. ClinicalTrials.gov Identifier: NCT048460 1.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0301037
+- DOI: 10.7717/peerj.16849
 
 2. Keywords
-
+- Children growth
+- Cluster
+- Community trial
+- Iodine dietary intake
+- Table salt
+- Urine iodine concentration
 
 3. Key Findings
-- Our analysis revealed that one bout of resistance exercise elicits significant changes in 26 of 33 measured plasma metabolites, reflecting alterations in several biological processes
-- Furthermore, 12 metabolites demonstrated significant interactions between exercise and age, including organic acids, amino acids, ketones, and keto-acids, which exhibited distinct responses to exercise in young and older adults
+- Therefore, this trial's implications revealed that the intervention group's iodine status and growth could essentially be improved while the control group continued to experience negative effects
 
 This study provides insights into:
-- General research methodology and outcomes
+- Children growth assessment methods and outcomes
+- Cluster assessment methods and outcomes
+- Community trial assessment methods and outcomes

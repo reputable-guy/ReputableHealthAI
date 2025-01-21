@@ -1,27 +1,26 @@
-Study Title: Which training load indicators are greater correlated with maturation and wellness variables in elite U14 soccer players?
+Study Title: Indices of Sleep Health Are Associated With Timing and Duration of Eating in Young Adults.
 
 Study Summary:
-Monitoring of training load is done to improve physical performance and minimize the incidence of injuries. The study examined the correlation between accumulated training load parameters based on periods with maturity (i.e., maturity offset and peak height velocity -PHV- and wellness variables -e.g., stress and sleep quality-). The second aim was to analyze the multi-linear regression between the above indicators. Twenty elite young U14 soccer players (M&#x2009;=&#x2009;13.26&#x2009;&#xb1;&#x2009;0.52 years, 95% CI [13.02, 13.51]) were evaluated over 26 weeks (early, mid, and end-season) to obtain stress, sleep quality, and measures of workload in the season (accumulated acute workload [AW], accumulated chronic workload [CW], accumulated acute: chronic workload ratio [ACWLR], accumulated training monotony [TM], accumulated training strain [TS]). The analysis revealed a moderate, statistically significant negative correlation between sleep quality and training monotony (r = -0.461, p&#x2009;<&#x2009;0.05). No significant correlations were observed between other variables (p&#x2009;>&#x2009;0.05). In the multi-linear regression analysis, maturity, PHV, sleep, and stress collectively accounted for variances of 17% in AW, 17.1% in CW, 11% in ACWLR, 21.3% in TM, and 22.6% in TS. However, individual regression coefficients for these predictors were not statistically significant (p&#x2009;>&#x2009;0.05), indicating limited predictive power. The study highlights the impact of sleep quality on training monotony, underscoring the importance of managing training load to mitigate the risks of overtraining. The non-significant regression coefficients suggest the complexity of predicting training outcomes based on the assessed variables. These insights emphasize the need for a holistic approach in training load management and athlete wellness monitoring.
+Limited data exist examining whether timing and/or duration of eating behaviors throughout the day affect sleep health. The aim of this study was to identify the relationship between eating behaviors and sleep in young adults without chronic diseases or conditions. This was a cross-sectional study using 7 days of baseline data from a randomized crossover trial. Participants included 52 young adults. The study took place in West Lafayette, Indiana, between April 2017 and May&#xa0;2018. Timing and duration of eating were assessed via 3 nonconsecutive, 24-hour dietary recalls. Bedtime, wake time, total sleep time, sleep latency, sleep efficiency, and wake after sleep onset were measured over 7 days via wrist actigraphy and sleep diaries. Two-way analyses of variance were applied to assess group differences based on timing of consumption (early vs late eating) and duration of eating (long: >13 hours, short: <11 hours, or standard: 11-13 hours) with post-hoc pairwise comparisons. Main effects of timing of consumption, but not duration of eating, were detected for wake time, bedtime, and sleep efficiency (all, P < .05). Specifically, participants with later eating patterns that included breakfast skipping had later wake times and later bedtimes than those with earlier eating patterns. In addition, those who had later eating patterns that included breakfast skipping and nighttime eating experienced lower sleep efficiency (mean [SE], 77.0% [2.3%]) vs those who consumed breakfast and no nighttime eating (mean [SE], 84.6% [1.4%]; P < .001) and those who skipped breakfast but had no nighttime eating (mean [SE], 84.2% [2.5]; P < .05). Those who consumed breakfast but also had nighttime eating had a mean (SE) sleep efficiency of 82.4% (1.4%) (P&#xa0;= .09). The timing of eating was associated with sleep-wake onset and sleep efficiency. This study provides the preliminary characterization of eating behaviors relative to sleep-wake cycles and highlights the need for experimental studies to understand whether manipulating the timing of eating occasions to better align with sleep-wake cycles could improve sleep health.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12887-024-04744-9
+- DOI: 10.1016/j.jand.2024.04.016
 
 2. Keywords
-- Football
-- Maturation
-- Monotony
-- Psychological states
-- RPE
-- Youth sports
+- Actigraphy
+- Chrononutrition
+- Eating windows
+- Meal timing
+- Sleep
 
 3. Key Findings
-- The analysis revealed a moderate, statistically significant negative correlation between sleep quality and training monotony (r = -0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Football assessment methods and outcomes
-- Maturation assessment methods and outcomes
-- Monotony assessment methods and outcomes
+- Actigraphy assessment methods and outcomes
+- Chrononutrition assessment methods and outcomes
+- Eating windows assessment methods and outcomes

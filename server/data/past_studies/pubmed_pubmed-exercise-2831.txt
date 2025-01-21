@@ -1,26 +1,27 @@
-Study Title: Effects of an exercise intervention in primary care after robot-assisted radical cystectomy for urinary bladder cancer: a randomised controlled trial.
+Study Title: Effect of 10-Week Whole-Body Vibration Training on Falls and Physical Performance in Older Adults: A Blinded, Randomized, Controlled Clinical Trial with 1-Year Follow-Up.
 
 Study Summary:
-After radical cystectomy physical activity is important to reduce risk of complications, but patients with urinary bladder cancer have difficulties in achieving general recommendations on physical activity and exercise. The aim of this randomised controlled trial was therefore to evaluate the effects of a physical exercise programme in primary care, following discharge from hospital after robot-assisted radical cystectomy for urinary bladder cancer. Patients with urinary bladder cancer scheduled for robot-assisted radical cystectomy at Karolinska University Hospital, Sweden between September 2019 and October 2022 were invited to join the study. At discharge, they were randomised to intervention or active control group. The intervention group was planned to start exercise with physiotherapist in primary care during the third week; the programme included aerobic and strengthening exercises, twice a week for 12 weeks, and daily walks. The control group received unsupervised home-based exercise with daily walks and a sit-to-stand exercise. Assessments were conducted before surgery, at discharge and after four months regarding the primary outcome physical function (Six-minute walk test), and secondary outcomes physical activity, pain, health-related quality of life, fatigue, and psychological wellbeing. Ninety patients were included, mean (sd) age 71.5 (8.5) years. An intention-to-treat analysis showed no intervention effect on the primary outcome physical function, or on pain or psychological wellbeing, but effect on physical activity with a difference from discharge to four months with a median (IQR) of 4790 (3000) and 2670 (4340) daily steps in the intervention and control group, respectively (p&#x2009;=&#x2009;0.046), and for fatigue, and health-related quality of life, in favour of the intervention group. Both the intervention and control groups improved physical function, but the patients who exercised in primary care experienced additional positive effects on physical activity, fatigue, and health-related quality of life. Hence, exercise in primary care after discharge from hospital could be a promising method after radical cystectomy for urinary bladder cancer. The study was registered in Clinical Trials with registration number NCT03998579, 20,190,607.
+Whole-body vibration training (WBV) training has shown positive effects on bone strength, muscle strength, and balance, but the evidence on fall prevention is not yet persuasive. This study aimed to evaluate the effectiveness of WBV training in preventing falls and improving physical performance among older adults at fall risk. The study was an assessor- and participant-blinded, randomized, and controlled 10-week training trial with a 10-month follow-up. One hundred and thirty older adults (mean age 78.5 years, 75% women) were randomly allocated into the WBV group (= 68) and the low-intensity wellness group (= 62). Falls were prospectively collected using monthly returned and verified diaries. Physical performance was evaluated at baseline before randomization, after the intervention, and follow-up with established methods. The data were analyzed on an intention-to-treat basis. Negative binomial regression was used to estimate the incidence rate ratios for falls, and Cox regression models were used to calculate the hazard ratios for fallers. Between-group differences in physical performance were estimated by generalized linear mixed models. The retention rate was 93%, and the mean adherence to the WBV training was 88% and 86% to the wellness training. Sixty-eight participants fell at least once, and there were 156 falls in total. In the WBV group, the incidence rate of falls was 1.5 (95% confidence interval 0.9 to 2.5) compared to the wellness group (= 0.11). The hazard ratio for fallers in the WBV group was 1.29 (0.78 to 2.15) (= 0.32). There was no between-group difference in physical performance after the training period, but by the end of the follow-up, WBV-related benefits appeared. The chair-rising capacity was maintained in the WBV group, while the benefit disappeared in the wellness group (= 0.004). Also, the 0.5-point difference in short physical performance battery (SPPB) score favored WBV training (= 0.009). In conclusion, progressive side-alternating WBV training was feasible and well-tolerated among fall-prone older adults. During the one-year follow-up, WBV training was associated with improved physical performance but did not prevent falls compared to chair-based group exercises.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12885-024-12647-2
+- DOI: 10.3390/ijerph21070866
 
 2. Keywords
-- Cancer
-- Physical rehabilitation
-- Primary care
-- Quality of life
-- Surgery
+- exercise
+- fall risk
+- fractures
+- muscle strength
+- physical functioning
+- prevention
 
 3. Key Findings
-- An intention-to-treat analysis showed no intervention effect on the primary outcome physical function, or on pain or psychological wellbeing, but effect on physical activity with a difference from discharge to four months with a median (IQR) of 4790 (3000) and 2670 (4340) daily steps in the intervention and control group, respectively (p&#x2009;=&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cancer assessment methods and outcomes
-- Physical rehabilitation assessment methods and outcomes
-- Primary care assessment methods and outcomes
+- exercise assessment methods and outcomes
+- fall risk assessment methods and outcomes
+- fractures assessment methods and outcomes

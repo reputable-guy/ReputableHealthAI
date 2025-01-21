@@ -1,25 +1,27 @@
-Study Title: The effect of visual feedback-based clinical monitoring application in patients with chronic low back pain: a randomized controlled trial.
+Study Title: The feasibility of a sleep education program for informal dementia care dyads: A pilot randomized controlled trial.
 
 Study Summary:
-No study has addressed the effect of patient-reported outcomes as a visual feedback tool during telerehabilitation. This study aimed to investigate the effect of a visual feedback-based monitoring application PhysioAnalyst on pain, pain catastrophizing, physical functions, quality of life, usability, satisfaction, and exercise adherence in individuals with chronic low back pain (CLBP). A single-blind, randomized controlled trial was conducted with 44 CLBP patients. Participants were randomized into two groups: the tele-assessment feedback group (TAFG) (n&#x2009;=&#x2009;22) and the control group (CG) (n&#x2009;=&#x2009;22). Participants were assessed before the intervention, at the 4th week and after the intervention. Individuals were assessed using the Visual Analog Scale (VAS), Nottingham Health Profile (NHP), Pain Catastrophizing Scale (PCS), Oswestry Disability Index (ODI), Telehealth Usability Questionnaire (TUQ), Telemedicine Satisfaction Questionnaire (TSQ), and Exercise Adaptation Rating Scale (EARS) via PhysioAnalyst. Individuals in the TAFG group received graph-based visual feedback on assessment data in week 4. The improvement in VAS, NHP, ODI, TUQ, TSQ, and EARS of individuals in TAFG was statistically significant (p&#x2009;<&#x2009;0.05). Only ODI and PCS scores in CG showed significant improvement (p&#x2009;<&#x2009;0.05). After the graphics-based visual feedback presented to the TAFG, the VAS, NHP-Emotional, NHP-Sleep, NHP-Total, PCS, TUQ, TSQ, ODI, and EARS scores gained more than CG (p&#x2009;<&#x2009;0.05). The results confirmed the additional contribution of telerehabilitation's graphics-based visual feedback in pain, pain catastrophizing, disability, quality of life, and exercise participation. Since the importance of continuity in long-term rehabilitation in patients with CLBP is comprehended, feedback to increase patient motivation can be added to telerehabilitation applications.
+Untreated sleep problems in both persons living with dementia (PLWD) and their family care partners (CP) impact their health and quality of life. This pilot study tested a sleep intervention program for both dyad members. Thirty dyads were randomized to a 5-session Care2Sleep intervention (n&#x2009;=&#x2009;15 dyads) or an information-only control group (n&#x2009;=&#x2009;15 dyads) delivered in-person or by video-telehealth by trained sleep educators. Care2Sleep is a manual-based program, incorporating key components of cognitive behavioral therapy for insomnia, daily light exposure and walking, and problem-solving for dementia-related behaviors. Adherence with Care2Sleep recommendations was assessed. Sleep outcomes included actigraphy-measured sleep efficiency (SE) and total wake time (TWT) for dyads, and the Pittsburgh Sleep Quality Index (PSQI) for CP. Other outcomes for CP included the Zarit Burden Interview (ZBI) and positive aspects of caregiving (PAC). Outcomes were measured at baseline, posttreatment, and 3-month follow-up. A 2 (group) by 3 (time) mixed model analysis of variance tested treatment effects. Study feasibility was demonstrated, with 13 dyads completing all five sessions of Care2Sleep program and 14 completing the control condition. In the Care2Sleep group, the dyads adhered to recommended sleep schedules of 76% for bedtime and 72% for get-up time for PLWD, and 69% for bedtime and 67% for get-up time for CP. There were several nonsignificant trends in outcomes from baseline to 3-month follow-up between the two groups. For example, SE increased by 3.2% more for PLWD and 3.2% more for CP with Care2Sleep versus control. TWT decreased by 14&#x2009;min more for PLWD and 12&#x2009;min more for CP with Care2Sleep versus control at the 3-month follow-up. CP in Care2Sleep also showed improvement in the PSQI, ZBI, and PAC scores. A dyadic approach to sleep improvement is feasible. Larger trials are needed to test effects of this intervention for PLWD and their family CP. gov: NCT03455569.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00586-023-08098-1
+- DOI: 10.1111/jgs.18720
 
 2. Keywords
-- Low back pain
-- Rehabilitation
-- Telerehabilitation
-- Visual feedback
+- behavioral intervention
+- caregiving
+- dementia
+- dyads
+- poor sleep
 
 3. Key Findings
-- Only ODI and PCS scores in CG showed significant improvement (p&#x2009;<&#x2009;0
+- Study feasibility was demonstrated, with 13 dyads completing all five sessions of Care2Sleep program and 14 completing the control condition
+- CP in Care2Sleep also showed improvement in the PSQI, ZBI, and PAC scores
 
 This study provides insights into:
-- Low back pain assessment methods and outcomes
-- Rehabilitation assessment methods and outcomes
-- Telerehabilitation assessment methods and outcomes
+- behavioral intervention assessment methods and outcomes
+- caregiving assessment methods and outcomes
+- dementia assessment methods and outcomes

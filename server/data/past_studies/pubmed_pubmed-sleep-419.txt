@@ -1,25 +1,28 @@
-Study Title: Effect of desflurane maintenance on postoperative sleep quality in patients undergoing elective breast surgery: A non-inferiority randomized controlled trial.
+Study Title: Post-COVID Conditions in US Primary Care: A PRIME Registry Comparison of Patients With COVID-19, Influenza-Like Illness, and Wellness Visits.
 
 Study Summary:
-Postoperative sleep disturbance (PSD) is prevalent in perioperative patients&#xff0c;and has significant impact on postoperative recovery and prognosis. The aim of this study was to investigate the effect of desflurane maintenance on postoperative sleep quality, in order to optimize patients' perioperative sleep management. A total of 118 patients undergoing elective breast surgery were randomized to receive either desflurane-based volatile anesthesia (desflurane group) or propofol-based total intravenous anesthesia (propofol group) for anesthesia maintenance. The primary outcome was the quality of sleep, which was assessed by the Pittsburgh Sleep Quality Index (PSQI) on 3 days after operation (POD3). Secondary outcomes were PSQI on postoperative day 7 (POD7) and 30 (POD30), and postoperative anxiety, depression, and pain score, as well as objective sleep parameters including total sleep time (TST), WASO (Wakefulness after sleep onset), REM (Rapid eye movement) and NREM (Non-rapid Eye Movement) measured by Fitbit Charge 2TM during the initial 3 postoperative days. The global PSQI scores on POD3 in the desflurane group was non-inferior to that in the propofol group [mean (SD) 8.47 (3.46) vs. 7.65 (3.16); mean difference (95&#xa0;% CI) 0.82 (-0.43, 2.07); p&#xa0;<&#xa0;0.001 for non-inferiority]. There were no significant differences in PSQI scores on POD3 and POD7. In addition, the score of anxiety, depression, and pain on the 3rd, 7th, and 30th day after surgery have no significant differences between the propofol and the desflurane group, respectively. The postoperative NREM was higher in the desflurane group than that in the propofol group. The effects of desflurane-based volatile anesthesia maintenance on postoperative sleep quality is not inferior to that of propofol-based total intravenous anesthesia, and these two drugs may have different effects on the sleep structure. ClinicalTrials.gov Identifier: NCT04805775.
+COVID-19 is a condition that can lead to other chronic conditions. These conditions are frequently diagnosed in the primary care setting. We used a novel primary care registry to quantify the burden of post-COVID conditions among adult patients with a COVID-19 diagnosis across the United States. We used the American Family Cohort, a national primary care registry, to identify study patients. After propensity score matching, we assessed the prevalence of 17 condition categories individually and cumulatively, comparing patients having COVID-19 in 2020-2021 with (1) historical control patients having influenza-like illness in 2018 and (2) contemporaneous control patients seen for wellness or preventive visits in 2020-2021. We identified 28,215 patients with a COVID-19 diagnosis and 235,953 historical control patients with influenza-like illness. The COVID-19 group had higher prevalences of breathing difficulties (4.2% vs 1.9%), type 2 diabetes (12.0% vs 10.2%), fatigue (3.9% vs 2.2%), and sleep disturbances (3.5% vs 2.4%). There were no differences, however, in the postdiagnosis monthly trend in cumulative morbidity between the COVID-19 patients (trend = 0.026; 95% CI, 0.025-0.027) and the patients with influenza-like illness (trend = 0.026; 95% CI, 0.023-0.027). Relative to contemporaneous wellness control patients, COVID-19 patients had higher prevalences of breathing difficulties and type 2 diabetes. Our findings show a moderate burden of post-COVID conditions in primary care, including breathing difficulties, fatigue, and sleep disturbances. Based on clinical registry data, the prevalence of post-COVID conditions in primary care practices is lower than that reported in subspecialty and hospital settings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.07.022
+- DOI: 10.1370/afm.3131
 
 2. Keywords
-- Breast surgery
-- Desflurane
-- Postoperative sleep quality
-- Propofol
+- chronic illness
+- family practice
+- long COVID
+- morbidity
+- post-COVID conditions
+- post-infectious disorders
+- primary health care
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Breast surgery assessment methods and outcomes
-- Desflurane assessment methods and outcomes
-- Postoperative sleep quality assessment methods and outcomes
+- chronic illness assessment methods and outcomes
+- family practice assessment methods and outcomes
+- long COVID assessment methods and outcomes

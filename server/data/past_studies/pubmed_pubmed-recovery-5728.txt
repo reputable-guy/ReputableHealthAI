@@ -1,21 +1,27 @@
-Study Title: The EC50 of propofol with different doses of dexmedetomidine during gastrointestinal endoscopy: A double-blind, placebo-controlled trial.
+Study Title: Comparison of propofol-esketamine versus propofol-sufentanil for deep sedation and analgesia in children with autism: A randomized double-blind clinical trial.
 
 Study Summary:
-The goal of this study was to evaluate the dose-response relationship between dexmedetomidine and propofol in sedating patients and to determine the optimal dosage of dexmedetomidine during gastrointestinal endoscopy. One hundred fifty patients were divided into 5 groups, each receiving a loading dose of dexmedetomidine (0.4, 0.6, 0.8, 1.0 &#xb5;g/kg) or saline, with propofol for sedation. The median effective concentration (EC50) of propofol was calculated using the modified Dixon up-and-down approach. Adverse effects, vital signs, procedure, and recovery times were recorded. The EC50 of propofol in groups NS, D0.4, D0.6, D0.8, and D1.0 were 3.02, 2.44, 1.97, 1.85, and 1.83 &#xb5;g/mL, respectively. Heart rate in the dexmedetomidine groups decreased more than the NS group (P&#x2005;<&#x2005;.001). The mean arterial pressure (MAP) in the NS group experienced a decline compared to groups D0.8 and D1.0 when the plasma concentration and effect-site concentration reached equilibrium. Additionally, the respiratory rate was found to be lower in groups NS, D0.4, D0.6, and D0.8 (P&#x2005;<&#x2005;.05). Recovery time in groups D0.8 and D1.0 was longer than the NS group (P&#x2005;<&#x2005;.05). Bruggemann comfort scales score was higher in group D1.0 (P&#x2005;<&#x2005;.05). No significant difference was found in the incidences of hypotension and bradycardia, and the dose of ephedrine and atropine. Respiratory depression was significantly reduced in groups D0.8 and D1.0 compared to the NS group. A single dose of 0.6 to 0.8 &#xb5;g/kg of dexmedetomidine should be recommended in combination with propofol for gastrointestinal endoscopy. And the EC50 of propofol is 1.97 to 1.85 &#xb5;g/mL.
+Propofol sedation, routinely used for endoscopic procedures, is safe and acceptable for children. Adjuvants, such as esketamine or sufentanil, are commonly added to improve the efficacy and safety of propofol sedation. This study aimed to compare the clinical efficacy and safety of propofol-esketamine (PE) versus propofol-sufentanil (PS) for deep sedation and analgesia in children with autism undergoing colonoscopy procedure. One hundred and twenty-four children with autism undergoing colonoscopy procedure were included in the study. Patients were randomly assigned to receive one of the two adjuvants: esketamine (0.3&#x2009;mg/kg) or sufentanil (0.2&#x2009;&#x3bc;g/kg), subsequently administered propofol 2.0&#x2009;mg/kg to induce anesthesia. Additional doses of propofol (0.5-1.0&#x2009;mg/kg) were administered as needed to ensure patient tolerance for the remaining duration of the procedure. Movement during the procedure, hemodynamic variables, the total dose of propofol, recovery time, and adverse events were recorded. The PE group exhibited a significantly lower incidence of severe movement during the procedure compared with the PS group (14.52% vs. 32.26%, p&#x2009;=&#x2009;0.020). The PE group showed significantly lower incidence of respiratory depression, hypotension, and severe injection pain of propofol than the PS group during the procedure (all p&#x2009;<&#x2009;0.05). The mean arterial pressure (MAP) decreased significantly after anesthesia induction in the PS group and remained lower than baseline (all p&#x2009;<&#x2009;0.05). Compared with the combination of low-dose sufentanil (0.2&#x2009;&#x3bc;g/mg) with propofol, the low-dose esketamine (0.3&#x2009;mg/kg) combined with propofol provided more stable hemodynamics, higher quality of sedation, and fewer adverse events in children with autism undergoing colonoscopy procedure.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000038421
+- DOI: 10.1002/aur.3172
 
 2. Keywords
-
+- anesthesia
+- autism
+- colonoscopy
+- esketamine
+- propofol
+- sufentanil
 
 3. Key Findings
-- Additionally, the respiratory rate was found to be lower in groups NS, D0
-- No significant difference was found in the incidences of hypotension and bradycardia, and the dose of ephedrine and atropine
+- The PE group showed significantly lower incidence of respiratory depression, hypotension, and severe injection pain of propofol than the PS group during the procedure (all p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- General research methodology and outcomes
+- anesthesia assessment methods and outcomes
+- autism assessment methods and outcomes
+- colonoscopy assessment methods and outcomes

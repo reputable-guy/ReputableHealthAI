@@ -1,27 +1,28 @@
-Study Title: Short-Term Cocoa Supplementation Influences Microbiota Composition and Serum Markers of Lipid Metabolism in Elite Male Soccer Players.
+Study Title: Developing an 8-Week, Tele-Education Weight Control and Exercise Programme, and Evaluating Its Effects on Weight and Pain Reduction in Patients With Obesity and Knee Osteoarthritis: A Double-Blinded Randomised Clinical Trial.
 
 Study Summary:
-Dietary strategies to improve arachidonic acid:eicosapentaenoic acid (AA:EPA) ratios are of interest due to potential reductions in inflammation and oxidative stress following exercise. The aim of this study was to investigate the impact of a novel dietary intervention, that is, the ingestion of 30&#xa0;g of dark chocolate, on blood lipid profiles and gut microbiota composition in elite male soccer players. Professional male soccer players were randomly assigned to the experimental group (DC) provided with 30&#xa0;g of dark chocolate or to the control group (WC), provided with 30&#xa0;g of white chocolate, for 30&#xa0;days. Before and after intervention, blood, fecal sample, and anthropometry data were collected. For each outcome, two-way repeated-measure analysis of variance was used to identify differences between baseline and endpoint (Week 4), considering treatment (dark chocolate, white chocolate) as intersubjects' factors. Metagenomic analysis was performed following the general guidelines, which relies on the bioBakery computational environment. DC group showed increased plasma polyphenols (from 154.7 &#xb1; 18.6&#xa0;&#x3bc;g gallic acid equivalents/ml to 185.11 &#xb1; 57.6&#xa0;&#x3bc;g gallic acid equivalents/ml, &#x394; pre vs. post = +30.41 &#xb1; 21.50) and significant improvements in lipid profiles: total cholesterol (&#x394; -32.47 &#xb1; 17.18&#xa0;mg/dl DC vs. &#x394; -2.84 &#xb1; 6.25&#xa0;mg/dl WC, Time &#xd7; Treatment interaction p < .001), triglycerides (&#x394; -6.32 &#xb1; 4.96&#xa0;mg/dl DC vs. &#x394; -0.42 &#xb1; 6.47&#xa0;mg/dl WC, Time &#xd7; Treatment interaction p < .001), low-density lipoprotein (&#x394; -18.42 &#xb1; 17.13&#xa0;mg/dl vs. &#x394; -2.05 &#xb1; 5.19&#xa0;mg/dl WC, Time &#xd7; Treatment interaction p < .001), AA/EPA ratio (&#x394; -5.26 &#xb1; 2.35; -54.1% DC vs. &#x394; -0.47 &#xb1; 0.73, -6.41% WC, Time &#xd7; Treatment interaction p < .001) compared with WC group. In addition, 4&#xa0;weeks of intervention showed a significant increase in high-density lipoprotein concentration in DC group (&#x394; + 3.26 &#xb1; 4.49&#xa0;mg/dl DC vs. &#x394; -0.79 &#xb1; 5.12&#xa0;mg/dl WC). Microbial communities in the DC group maintained a slightly higher microbial stability over time (exhibiting lower within-subject community dissimilarity). Ingesting 30&#xa0;g of dark chocolate over 4&#xa0;weeks positively improved AA:EPA ratio and maintained gut microbial stability. Dark chocolate ingestion represents an effective nutritional strategy to improve blood lipid profiles in professional soccer players. What Are the Findings? Ingesting 30&#xa0;g of dark chocolate for 4&#xa0;weeks positively influences blood lipid AA: EPA ratio while maintaining gut microbial stability. What This Study Adds? Dietary intake of specific foods such as dark chocolate represents an alternative strategy to support the health and recovery of elite soccer players. What Impact Might This Have on Clinical Practice in the Future? From a clinical and translational perspective, dark chocolate ingestion positively modulates favorable blood lipid profiles and polyunsaturated fatty acid metabolism while maintaining gut microbial stability. Dark chocolate ingestion may be considered as an effective nutritional strategy in elite sport environments during periods of high-intensity training and congested competitions. Further research is required to determine functional outcomes associated with the observed improvements in blood lipid profiles.
+Knee osteoarthritis (OA) is a leading cause of disability among the elderly and is often exacerbated by obesity. Research supports weight loss and exercise therapy as key strategies for managing knee OA-related disability. Concurrently, telemedicine is becoming a popular healthcare approach. This study aimed to develop and evaluate an 8-week tele-education programme's impact on weight control and knee OA outcomes. Participants with knee OA and obesity were included. Baseline data on pain (VAS index), physical activity (GPAQ questionnaire), and quality of life (EQ5D and KOOS questionnaires) were collected. Performance tests, including the 30-second Chair Stand test (30CST) and the Timed Up-and-Go test (TUG), were recorded. Participants were randomly divided into two groups: a control group receiving oral advice on diet and exercise, and an intervention group receiving educational videos on nutrition, lifestyle changes, physical activity, individualised exercises, and psychosocial support. Evaluations were repeated after 8&#xa0;weeks. Data from 25 of 30 participants were analysed. In the intervention group, body composition, waist, and abdominal circumference decreased significantly (p&#xa0;<&#xa0;0.05). The KOOS questionnaire showed significant improvements in pain, activity, and daily tasks (p&#xa0;=&#xa0;0.00). The EQ5D questionnaire and health satisfaction also showed positive results within the intervention group (p&#xa0;=&#xa0;0.00) and between groups (p&#xa0;=&#xa0;0.008). The pain index improved significantly within (p&#xa0;=&#xa0;0.00) and between groups (p&#xa0;=&#xa0;0.02). Functional test results were significant within the intervention group (p&#xa0;=&#xa0;0.00) and between groups (p&#xa0;=&#xa0;0.017 for 30CST and p&#xa0;=&#xa0;0.004 for TUG). An 8-week tele-education programme for weight control and exercise therapy in knee OA patients significantly improved body composition, quality of life, and functional performance. Given the costs of obesity and knee OA on both people and the health system, tele-education can be a cost-effective treatment strategy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1123/ijsnem.2024-0012
+- DOI: 10.1002/msc.1926
 
 2. Keywords
-- exercise metabolism
-- gut microbiome
-- human metabolism
-- sport nutrition
-- sport physiology
+- exercise
+- knee osteoarthritis
+- obesity
+- pain control
+- telemedicine
+- weight control
 
 3. Key Findings
-- DC group showed increased plasma polyphenols (from 154
-- In addition, 4&#xa0;weeks of intervention showed a significant increase in high-density lipoprotein concentration in DC group (&#x394; + 3
+- The KOOS questionnaire showed significant improvements in pain, activity, and daily tasks (p&#xa0;=&#xa0;0
+- The EQ5D questionnaire and health satisfaction also showed positive results within the intervention group (p&#xa0;=&#xa0;0
 
 This study provides insights into:
-- exercise metabolism assessment methods and outcomes
-- gut microbiome assessment methods and outcomes
-- human metabolism assessment methods and outcomes
+- exercise assessment methods and outcomes
+- knee osteoarthritis assessment methods and outcomes
+- obesity assessment methods and outcomes

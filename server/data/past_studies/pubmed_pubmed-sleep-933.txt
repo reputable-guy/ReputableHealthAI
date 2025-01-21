@@ -1,20 +1,24 @@
-Study Title: Mass spectrometry-detected MGUS is associated with obesity and other novel modifiable risk factors in a high-risk population.
+Study Title: Performance of the Rheumatoid Arthritis Impact of Disease (RAID) score in relation to flares in disease activity.
 
 Study Summary:
-Monoclonal gammopathy of undetermined significance (MGUS) is a premalignant condition of multiple myeloma with few known risk factors. The emergence of mass spectrometry (MS) for the detection of MGUS has provided new opportunities to evaluate its risk factors. In total, 2628 individuals at elevated risk for multiple myeloma were enrolled in a screening study and completed an exposure survey (PROMISE trial). Participant samples were screened by MS, and monoclonal proteins (M-proteins) with concentrations of &#x2265;0.2 g/L were categorized as MS-MGUS. Multivariable logistic models evaluated associations between exposures and MS outcomes. Compared with normal weight (body mass index [BMI] of 18.5 to <25&#xa0;kg/m2), obesity (BMI of &#x2265;30&#xa0;kg/m2) was associated with MS-MGUS, adjusting for age, sex, Black race, education, and income (odds ratio [OR], 1.73; 95% confidence interval [CI], 1.21-2.47; P&#xa0;= .003). High physical activity (&#x2265;73.5 metabolic equivalent of task (MET)-hours per week vs <10.5 MET-hours per week) had a decreased likelihood of MS-MGUS (OR, 0.45, 95%&#xa0;CI, 0.24-0.80; P&#xa0;= .009), whereas heavy smoking and short sleep had increased likelihood of MS-MGUS (>30 pack-years vs never smoker: OR, 2.19; 95%&#xa0;CI, 1.24-3.74; P&#xa0;= .005, and sleep <6 vs &#x2265;6 hours per day: OR, 2.11; 95%&#xa0;CI, 1.26-3.42; P&#xa0;= .003). In the analysis of all MS-detected monoclonal gammopathies, which are inclusive of M-proteins with concentrations of <0.2 g/L, elevated BMI and smoking were associated with all MS-positive cases. Findings suggest MS-detected monoclonal gammopathies are associated with a broader range of modifiable risk factors than what has been previously identified. This trial was registered at www.clinicaltrials.gov as #NCT03689595.
+To explore the performance of the EULAR-initiated patient-reported Rheumatoid Arthritis Impact of Disease (RAID) questionnaire in relation to flares in disease activity, including comparison with other disease activity outcomes. Patients with rheumatoid arthritis in sustained remission were randomised to continued stable treatment or tapering in the ARCTIC REWIND project. In patients with flares within 12 months, we compared RAID (total score and components) at the flare visit with the visit prior to and the visit following flare, using Wilcoxon signed-rank test. Similar analyses were performed for patient global assessment, Disease Activity Score (DAS) and C reactive protein (CRP). The discriminative accuracies of RAID, patient global assessment, DAS and CRP with respect to disease activity flares were assessed by receiver operating characteristic (ROC) analyses based on logistic regression models. Flare was defined as a combination of DAS >1.6, a DAS increase &#x2265;0.6&#x2009;and &#x2265;two swollen joints (of 44 examined) or could be recorded if patient and rheumatologist agreed that a clinically significant flare had occurred. In total, 248 patients were included in the analyses, with 56 flares. RAID, patient global assessment, DAS and CRP all changed significantly at the visits related to flare (p<0.001). Area under the curve (95% CI) values indicated that RAID (0.88 (0.83 to 0.93)) was significantly more accurate than CRP (0.76 (0.69 to 0.84)) in discriminating flare, and less accurate than patient global assessment (0.92 (0.87 to 0.97)) and DAS (0.94 (0.90 to 0.98)). The RAID components with highest and lowest discriminative accuracies were pain (0.91 (0.86 to 0.95)) and sleep (0.69 (0.59 to 0.79)). Disease activity flares were associated with a significant increase in median RAID, supporting its ability to respond to flare. NCT01881308.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1182/bloodadvances.2023010843
+- DOI: 10.1136/rmdopen-2023-003486
 
 2. Keywords
-
+- arthritis, rheumatoid
+- outcome assessment, health care
+- patient reported outcome measures
 
 3. Key Findings
-- Findings extraction requires manual review
+- Area under the curve (95% CI) values indicated that RAID (0
 
 This study provides insights into:
-- General research methodology and outcomes
+- arthritis, rheumatoid assessment methods and outcomes
+- outcome assessment, health care assessment methods and outcomes
+- patient reported outcome measures assessment methods and outcomes

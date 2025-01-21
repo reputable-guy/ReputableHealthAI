@@ -1,26 +1,26 @@
-Study Title: Editor's Choice - Bypass versus Angioplasty in Severe Ischaemia of the Leg (BASIL)-2 Trial: Analysis of the Timing and Causes of Death in Participants Randomised to an Infrapopliteal Vein Bypass or Best Endovascular Treatment First Revascularisation Strategy.
+Study Title: A single bout of jumping exercise does not modulate serum markers of bone formation or bone resorption throughout a 24&#xa0;h period.
 
 Study Summary:
-The Bypass versus Angioplasty in Severe Ischaemia of the Leg (BASIL)-2 trial enrolled participants with chronic limb threatening ischaemia who required an infrapopliteal, with or without a femoropopliteal, revascularisation procedure to restore limb perfusion. Participants randomised to a vein bypass (VB) first revascularisation strategy were over one third more likely than those randomised to a best endovascular treatment (BET) first revascularisation strategy to die from any cause during a median follow up of 40.0 (interquartile range 20.9, 60.6) months. The aim of the present study was to describe the timing and causes of death in BASIL-2 as a first step towards trying to better understand why randomisation to a VB first revascularisation strategy was associated with this excess mortality. A 10 person international panel comprising vascular and endovascular surgeons as well as vascular interventional radiologists, who had all been principal investigators in BASIL-2, took part in a modified Delphi consensus exercise to adjudicate the primary cause of death and, in particular, whether the cause was primarily cardiac or non-cardiac. In 151 of 168 deaths (89.9%), the Delphi panel achieved a consensus regarding the cause of death being probably cardiac or non-cardiac. In the BET group, 16 of 77 deaths (21%) were classified as probably cardiac compared with 32 of 91 (35%) in the VB group (unadjusted subdistribution hazard ratio 2.16, 95% confidence interval [CI] 1.20 - 3.87; unadjusted cause specific hazard ratio 2.15, 95% CI 1.19 - 3.90). At the point of randomisation, 64 of 344 (18.6%), 40 of 342 (11.7%), and 37 of 344 (10.8%) participants had a previous myocardial infarction (MI), percutaneous coronary intervention (PCI), and coronary artery bypass graft (CABG), respectively. There was no evidence of varying treatment effects for cause of death in subgroup analyses of previous PCI, CABG, or MI. The excess mortality observed in the VB first revascularisation strategy group in BASIL-2 was largely due to deaths that were adjudicated by the Delphi panel as probably primarily cardiac. These excess cardiac deaths were observed throughout follow up and there was no evidence of non-proportional hazards. Further work is ongoing to try to better understand the reasons for these findings.
+This randomized, cross-over trial assessed the effect of a single bout of high-impact exercise on serum markers of bone formation and bone resorption over a 24&#xa0;h period. Twenty healthy males and females performed a single bout of brief jumping exercise (EXC) or no exercise (CON), 55&#xa0;min following consumption of a standard breakfast. Blood markers of bone formation (P1NP) and bone resorption (CTX-I) were assessed before (t&#xa0;=&#xa0;0&#xa0;h) and over a 5&#xa0;h period after breakfast, and following 24&#xa0;h of post-exercise recovery (t&#xa0;=&#xa0;24&#xa0;h). Serum CTX-I concentrations decreased during the 5&#xa0;h postprandial period (time-effect, P&#xa0;<&#xa0;0.001) with no differences between conditions (time x condition, P&#xa0;=&#xa0;0.14). After a&#xa0;~&#xa0;16&#xa0;% decline during the first 30&#xa0;min following breakfast, serum P1NP concentrations gradually returned to baseline values during the 5&#xa0;h postprandial period, with no differences in the overall response between conditions (time-effect, P&#xa0;<&#xa0;0.001; time x condition, P&#xa0;=&#xa0;0.25). Fasted serum CTX-I concentrations decreased from 0.33&#xa0;&#xb1;&#xa0;0.15 and 0.35&#xa0;&#xb1;&#xa0;0.15&#xa0;ng/mL at baseline, to 0.31&#xa0;&#xb1;&#xa0;0.13 and 0.31&#xa0;&#xb1;&#xa0;0.16&#xa0;ng/mL at t&#xa0;=&#xa0;24&#xa0;h in CON and EXC, respectively, with no differences between conditions (time-effect, P&#xa0;<&#xa0;0.01; time x condition, P&#xa0;=&#xa0;0.70). Fasted serum P1NP concentrations did not change from baseline to t&#xa0;=&#xa0;24&#xa0;h in both CON (baseline: 76&#xa0;&#xb1;&#xa0;27&#xa0;ng/mL, t&#xa0;=&#xa0;24&#xa0;h: 79&#xa0;&#xb1;&#xa0;26&#xa0;ng/mL) and EXC (baseline: 80&#xa0;&#xb1;&#xa0;24&#xa0;ng/mL, t&#xa0;=&#xa0;24&#xa0;h: 77&#xa0;&#xb1;&#xa0;29&#xa0;ng/mL; time-effect, P&#xa0;=&#xa0;0.89), with no differences between conditions (time x condition, P&#xa0;=&#xa0;0.22). High-impact exercise does not modulate the concentrations of the serum marker of bone formation P1NP and the serum marker of bone resorption CTX-I throughout a 24&#xa0;h recovery period in healthy adults.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1016/j.ejvs.2024.07.029
+- Publication Date: 2024
+- DOI: 10.1016/j.bone.2024.117216
 
 2. Keywords
-- Best endovascular treatment
-- Chronic limb threatening ischaemia
-- Mortality
-- Randomised controlled trial
-- Vein bypass
+- Bone turnover markers
+- Carboxy-terminal crosslinking telopeptide of type I collagen
+- Glucagon-like peptide-1
+- High-impact exercise
+- Procollagen type I N propeptide
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Best endovascular treatment assessment methods and outcomes
-- Chronic limb threatening ischaemia assessment methods and outcomes
-- Mortality assessment methods and outcomes
+- Bone turnover markers assessment methods and outcomes
+- Carboxy-terminal crosslinking telopeptide of type I collagen assessment methods and outcomes
+- Glucagon-like peptide-1 assessment methods and outcomes

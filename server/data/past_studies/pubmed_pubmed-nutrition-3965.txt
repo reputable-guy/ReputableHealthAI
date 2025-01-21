@@ -1,20 +1,26 @@
-Study Title: Effect of Financial Incentives and Default Options on Food Choices of Adults With Low Income in Online Retail Settings: A Randomized Clinical Trial.
+Study Title: Infected pancreatic necrosis: outcomes and clinical predictors of mortality. A post hoc analysis of the MANCTRA-1 international study.
 
 Study Summary:
-Despite recent growth in online redemption of Supplemental Nutrition Assistance Program (SNAP) benefits, no previous work has tested the impact of economic and behavioral economic strategies on food purchasing behaviors in an online grocery retail setting among adults with low income. To examine the extent to which financial incentives and default shopping cart options influence fruit and vegetable purchases. This randomized clinical trial used an experimental online grocery store for adults who currently or have ever received SNAP benefits. From October 7 to December 2, 2021, participants were instructed to shop for a week's worth of groceries for their household, with a budget tailored to household size; no payment was taken. Random assignment to 1 of 4 conditions: no intervention, 50% discount on eligible fruits and vegetables, prefilled shopping carts with tailored fruit and vegetable items (ie, default options), or a combination of the discount and default options. The primary outcome was the percentage of nondiscounted dollars spent on eligible fruit and vegetables per basket. Of 2744 participants, mean (SD) age was 46.7 (16.0) years, and 1447 (52.7%) identified as women. A total of 1842 participants (67.1%) reported currently receiving SNAP benefits and 1492 (54.4%) reported shopping online for groceries in the previous 12 months. Participants spent a mean (SD) 20.5% (23.5%) of total dollars on eligible fruits and vegetables. Compared with no intervention, those in the discount condition spent 4.7% (98.3% CI, 1.7%-7.7%) of more total dollars on eligible fruits and vegetables; those in the default condition, 7.8% (98.3% CI, 4.8%-10.7%) more; and those in the combination condition, 13.0% (98.3% CI, 10.0%-16.0%) more (P&#x2009;<&#x2009;.001 for all). There was no difference between the discount and the default conditions (P&#x2009;=&#x2009;.06), but the effect in the combination condition was significantly larger than both discount and default conditions (P < .001). Default shopping cart items were purchased by 679 participants (93.4%) in the default condition and 655 (95.5%) in the combination condition, whereas 297 (45.8%) in the control and 361 (52.9%) in the discount conditions purchased those items (P < .001). No variation was observed by age, sex, or race and ethnicity, and results were similar when those who reported never shopping online for groceries were excluded. In this randomized clinical trial, financial incentives for fruits and vegetables and default options, especially in combination, led to meaningful increases in online fruit and vegetable purchases among adults with low income. ClinicalTrials.gov Identifier: NCT04766034.
+The identification of high-risk patients in the early stages of infected pancreatic necrosis (IPN) is critical, because it could help the clinicians to adopt more effective management strategies. We conducted a post hoc analysis of the MANCTRA-1 international study to assess the association between clinical risk factors and mortality among adult patients with IPN. Univariable and multivariable logistic regression models were used to identify prognostic factors of mortality. We identified 247 consecutive patients with IPN hospitalised between January 2019 and December 2020. History of uncontrolled arterial hypertension (p&#x2009;=&#x2009;0.032; 95% CI 1.135-15.882; aOR 4.245), qSOFA (p&#x2009;=&#x2009;0.005; 95% CI 1.359-5.879; aOR 2.828), renal failure (p&#x2009;=&#x2009;0.022; 95% CI 1.138-5.442; aOR 2.489), and haemodynamic failure (p&#x2009;=&#x2009;0.018; 95% CI 1.184-5.978; aOR 2.661), were identified as independent predictors of mortality in IPN patients. Cholangitis (p&#x2009;=&#x2009;0.003; 95% CI 1.598-9.930; aOR 3.983), abdominal compartment syndrome (p&#x2009;=&#x2009;0.032; 95% CI 1.090-6.967; aOR 2.735), and gastrointestinal/intra-abdominal bleeding (p&#x2009;=&#x2009;0.009; 95% CI 1.286-5.712; aOR 2.710) were independently associated with the risk of mortality. Upfront open surgical necrosectomy was strongly associated with the risk of mortality (p&#x2009;<&#x2009;0.001; 95% CI 1.912-7.442; aOR 3.772), whereas endoscopic drainage of pancreatic necrosis (p&#x2009;=&#x2009;0.018; 95% CI 0.138-0.834; aOR 0.339) and enteral nutrition (p&#x2009;=&#x2009;0.003; 95% CI 0.143-0.716; aOR 0.320) were found as protective factors. Organ failure, acute cholangitis, and upfront open surgical necrosectomy were the most significant predictors of mortality. Our study confirmed that, even in a subgroup of particularly ill patients such as those with IPN, upfront open surgery should be avoided as much as possible. Study protocol registered in ClinicalTrials.Gov (I.D. Number NCT04747990).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1001/jamanetworkopen.2023.2371
+- DOI: 10.1007/s13304-023-01488-6
 
 2. Keywords
-
+- Acute pancreatitis
+- Infected pancreatic necrosis
+- International study
+- Mortality
+- Organ failure
 
 3. Key Findings
-- Findings extraction requires manual review
+- 320) were found as protective factors
 
 This study provides insights into:
-- General research methodology and outcomes
+- Acute pancreatitis assessment methods and outcomes
+- Infected pancreatic necrosis assessment methods and outcomes
+- International study assessment methods and outcomes

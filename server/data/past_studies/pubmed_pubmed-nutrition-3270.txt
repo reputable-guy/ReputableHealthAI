@@ -1,21 +1,28 @@
-Study Title: Child Care Center Staff Readiness to Change in an Early Childhood Obesity Prevention Program.
+Study Title: Effect of a 12-Week High-Calorie-Expenditure Multimodal Exercise Program on Health Indices in Women With Overweight: Protocol for a Randomized Controlled Trial.
 
 Study Summary:
-The childcare center (CCC) setting has the potential to be a strong foundation that supports the introduction of sustainable healthy lifestyle behaviors to prevent childhood obesity. It is important to assess barriers and facilitators to healthy weight development initiatives via program evaluation, including measuring CCC staff readiness to change. The overall goal of this study was to assess the readiness level over 1 school year among CCC staff who participated in "Healthy Caregivers-Healthy Children" (HC2), a cluster randomized controlled trial that evaluated the effectiveness of a childhood obesity prevention program from 2015 to 2018 in 24 low-income, racially/ethnically diverse centers. A secondary outcome was to assess how a CCC's stage of readiness to change was associated with CCC nutrition and physical activity environment, measured via the Environment and Policy Assessment and Observation (EPAO) tool. Mixed-models analysis with the CCC as the random effect assessed the impact of readiness to change over time on EPAO outcomes. Eighty-eight CCC teachers and support staff completed the HC2 readiness to change survey in August 2015 and 68 in August 2016. Only teachers and staff randomized to the treatment arm of the trial were included. Readiness to change and the EPAO. Results showed the majority of CCC staff in advanced stages of readiness to change at both time points. For every increase in readiness to change stage over 1 year (eg, precontemplation to contemplation), there was a 0.28 increase in EPAO nutrition scores (95% confidence interval [CI], 0.04-0.53; P = .02) and a 0.52 increase in PA score (95% CI, 0.09-0.95; P = .02). This analysis highlights the importance between CCC staff readiness to change and the CCC environment to support healthy weight development. Future similar efforts can include consistent support for CCC staff who may not be ready for change to support successful outcomes.
+High-calorie-expenditure training is common among endurance athletes and is an effective strategy for weight loss. Although many training protocols include walking, running, cycling, and swimming according to a target heart rate, there is limited research on high-calorie-expenditure interventions with multimodal training programs using quantitative methods. The aims of this research protocol are to (1) develop a high-calorie-expenditure training program to cover target calorie expenditure according to the trainability of women classified as overweight (according to a BMI of 25-29.9 kg/m); (2) determine the effect of high-calorie-expenditure workouts on conditioning, glycemic variables, and body composition; and (3) evaluate the implementation of the intervention and results in comparison with outcomes obtained under a standard-calorie-expenditure training program. This is a randomized controlled trial with a pretest-posttest design. Participants include 33 women with a BMI in the overweight range (25-29.9) allocated to three groups: two intervention groups and one control group. The intervention will be conducted for 12 weeks. Participants in the first group will be assigned an exercise program with high energy expenditure of approximately 3000-3500 kilocalories/week in the form of 5 sessions per week with an intensity of 50%-75% maximum oxygen rate (VOmax) and 60%-80% target heart rate. The second group will be assigned an exercise program with a standard energy expenditure of approximately 1200-1500 kilocalories/week with 3 sessions per week at an intensity of 60%-75% VOmax, according to The American College of Sports Medicine guideline. The effects of the multimodal training program with daily tasks will be compared to those of the standard-calorie-expenditure and control (no exercise) conditions with respect to changes in glycemic indices and body composition. Daily calories will be calculated through the International Physical Activity Questionnaire and using Nutrition 4 software. Preliminary results show significant weight loss in both the high- and standard-calorie-expenditure groups (P=.003). Significant improvements were also found in muscle percentage (P=.05) and BMI (P=.05) for the high-calorie-expenditure group. Analyses are ongoing for glycemic indices, inflammation factors, and blood parameters. High-calorie-expenditure training can cause further weight loss than standard exercise, which can eventually lead to greater fat mass reduction and improvement in glycemic indices. These results demonstrate that, in some cases, it may be necessary to increase the activity of women and use multimodal exercise programs with increased volume and intensity to increase the expenditure of exercise and daily activity. We found a net effect of exercise and daily activity at the individual level, whereas the daily lifestyle and physical behaviors of the participants remained constant. Iranian Registry of Clinical Trials IRCT20220202053916N1; https://tinyurl.com/c8jxfw36. DERR1-10.2196/51599.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/PHH.0000000000001850
+- DOI: 10.2196/51599
 
 2. Keywords
-
+- IPAQ
+- International Physical Activity Questionnaire
+- body composition
+- high-calorie expenditure
+- metabolic health
+- multimodal exercise
 
 3. Key Findings
-- The childcare center (CCC) setting has the potential to be a strong foundation that supports the introduction of sustainable healthy lifestyle behaviors to prevent childhood obesity
-- Results showed the majority of CCC staff in advanced stages of readiness to change at both time points
+- Significant improvements were also found in muscle percentage (P=
+- We found a net effect of exercise and daily activity at the individual level, whereas the daily lifestyle and physical behaviors of the participants remained constant
 
 This study provides insights into:
-- General research methodology and outcomes
+- IPAQ assessment methods and outcomes
+- International Physical Activity Questionnaire assessment methods and outcomes
+- body composition assessment methods and outcomes

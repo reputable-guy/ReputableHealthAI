@@ -1,28 +1,26 @@
-Study Title: Effectiveness of the CANCER-AIMS intervention on nutritional status and symptom management in patients with gastric cancer following gastrectomy: A randomized controlled trial.
+Study Title: Feasibility and acceptability of a personalized, pre-filled online grocery cart to improve benefit redemption and diet quality of grocery purchases among participants of the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC).
 
 Study Summary:
-Dietary education and modification interventions are valuable and feasible strategies for enhancing nutritional status and managing symptoms in patients with gastric cancer following gastrectomy. In alignment with administrative policies prioritizing shorter hospital stays and enhanced postoperative self-management, the provision of a simplified nutritional management approach following gastrectomy holds promise for preventing weight loss and expanding resources for monitoring both the nutritional and symptomatic aspects of these patients. This study evaluated the effectiveness of an integrative approach involving the five sequential steps of Conversation, Assessment, Nutrition plan, Complications, Evaluation, and Reassurance or Removal (CANCER) into Altering Intake and Managing Symptoms (AIMS), with specific focus on enhancing nutritional status and symptom management. A single-blind, two-arm, randomized controlled trial. This study was conducted at a tertiary hospital in Shandong province, China. Patients with total or subtotal gastrectomy for gastric cancer. The participants were randomly assigned to either the intervention or control group in a 1:1 ratio. The intervention group received a 16-week CANCER-AIMS intervention program. The control group received usual routine care dietary guidance. Questionnaires and electronic medical records of each patient were used to assess dietary intake, dietary symptoms, and subjective and objective nutritional status. Outcomes were assessed at four specific time points: the day before discharge and at 4-, 8-, and 16-weeks following hospital discharge. Thirty-eight participants completed the study. The findings revealed significant interaction effects between group and time for dietary intake, dietary symptoms, and nutritional status between intervention and control groups (P&#x202f;<&#x202f;0.001). The intervention group had significantly higher dietary intake, fewer dietary symptoms, and better nutritional status post-intervention than the control group (P&#x202f;<&#x202f;0.001). Moreover, there were significant differences in dietary intake, dietary symptoms, and nutritional status according to time in both the intervention and control groups. The CANCER-AIMS intervention for patients with gastric cancer following gastrectomy may be efficient at enhancing nutritional intake, reducing negative dietary symptoms, and thus improving both their subjective and objective nutritional status.
+Most participants in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) do not fully redeem their benefits due to barriers like transportation, confusing product eligibility, and unclear labeling. Online food shopping enables choice architecture to promote benefit redemption and maximize diet quality. We conducted a mixed-methods pilot randomized-controlled trial to assess the feasibility and acceptability of a pre-filled online grocery shopping cart to improve WIC benefit redemption and diet quality of grocery purchases. Rhode Island WIC participants (n&#xa0;=&#xa0;24, mean age 29.4&#xa0;&#xb1;&#xa0;1.1 years, 75% Hispanic, 54% had never grocery shopped online) completed a baseline questionnaire and a simulated shopping episode (SSE), buying WIC and non-WIC items. After a week, we randomized participants into the intervention (personalized, modifiable carts pre-filled with 100% of the 2022 proposed WIC packages) or control (selected their items individually) groups before the second SSE. Both groups had WIC labels. We assessed feasibility using process data and percent agreement to feasibility questions, and acceptability via percent agreement to acceptability questions and post-intervention qualitative interviews. We conducted exploratory analyses to examine differences within and between groups at each timepoint for percent WIC benefit redemption and diet quality of grocery purchases, evaluated using the Grocery Purchase Quality Index-2016 (GPQI-2016) scores. Quantitative study measures suggest that the intervention was feasible and that the personalized, modifiable pre-filled cart was acceptable. These findings were supported during qualitative interviews, where participants highlighted time-savings, flexibility, and WIC labels as facilitators of WIC online shopping. Exploratory results showed significant increases in mean percent redemption of most WIC food categories and non-significant moderate increases in most GPQI-2016 scores. These measures are vital for the future adaptation of a full-scale efficacy trial in real-life settings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ijnurstu.2024.104873
+- DOI: 10.1016/j.appet.2024.107647
 
 2. Keywords
-- Diet
-- Gastrointestinal symptoms
-- Malnutrition
-- Randomized controlled trial
-- Stomach neoplasms
-- Symptom management
-- Telephone behavioral counseling
+- Choice architecture
+- Consumer behavior
+- Nutrition assistance programs
+- Online grocery shopping
+- WIC
 
 3. Key Findings
-- The findings revealed significant interaction effects between group and time for dietary intake, dietary symptoms, and nutritional status between intervention and control groups (P&#x202f;<&#x202f;0
+- Exploratory results showed significant increases in mean percent redemption of most WIC food categories and non-significant moderate increases in most GPQI-2016 scores
 
 This study provides insights into:
-- Diet assessment methods and outcomes
-- Gastrointestinal symptoms assessment methods and outcomes
-- Malnutrition assessment methods and outcomes
+- Choice architecture assessment methods and outcomes
+- Consumer behavior assessment methods and outcomes
+- Nutrition assistance programs assessment methods and outcomes

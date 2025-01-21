@@ -1,20 +1,28 @@
-Study Title: Could TREM-1 be a novel marker in the diagnosis of fibromyalgia?: A cross-sectional study.
+Study Title: Evaluation of the "15 Minute Challenge": A Workplace Health and Wellbeing Program.
 
 Study Summary:
-Triggering receptors expressed on myeloid cells-1 (TREM-1) are transmembrane molecules expressed in cells of the immune system. Activation of TREM-1 leads to the release of pro-inflammatory mediators, which act as amplifiers of inflammation and thereby contribute to the pathogenesis of various diseases, whether inflammatory or not. This study explored the role of TREM-1 in the etiopathogenic context of fibromyalgia syndrome (FMS) and its association with disease activity. This randomized controlled and observational study included 45 patients diagnosed with FMS according to the 2016 American College of Rheumatology criteria. Serum TREM-1 levels were assessed using ELISA, and disease activity was measured using various scales such as the fibromyalgia impact questionnaire (FIQ). Patients were divided into 2 groups according to disease severity based on the FIQ score. Compared to a control group of 46 healthy individuals, patients with FMS exhibited significantly elevated concentrations of TREM-1 (mean&#x2005;&#xb1;&#x2005;SD&#x2005;=&#x2005;216.97 pg/mL&#x2005;&#xb1;&#x2005;16.04), P&#x2005;<&#x2005;.05. The FIQ, Pittsburgh sleep quality index, hospital anxiety and depression scale, fatigue severity scale, and visual analog scale, which confirm symptoms such as pain, disease severity, sleep disturbance, depression, anxiety, and fatigue seen in FMS was significantly correlated with TREM-1 level (P&#x2005;<&#x2005;.001). The optimal threshold value for TREM-1 to disease activity was determined to be 182.250, showing (area under the curve) (CI (95%)): [0.940] (0.887-0.993), a sensitivity of 97% and a specificity of 89% according to the receiver operating characteristic analysis. The positive correlation of TREM-1 with various symptom severity scales and hematological inflammatory indices may be a suitable biomarker for the diagnosis of FMS and a potential therapeutic target.
+The 15 Minute Challenge is an mHealth workplace wellness initiative, employing gamification to promote physical activity, aiming to enhance health outcomes and overall well-being. This retrospective cohort study evaluated the effectiveness of the program among employees at various Australian, New Zealand, and UK workplaces. Real-world data from 11,575 participants across 73 companies were analyzed. The program encouraged daily 15 min physical activity sessions over six weeks. Participants self-reported their physical activity and fitness, energy, overall health, sleep quality, and mood at baseline and 6 weeks. Program satisfaction, engagement rates, and adherence to the program were also assessed. Effectiveness was evaluated using multi-level mixed-effects linear regression analyses. The intervention showed significant increases in physical activity, with 95% of participants meeting or exceeding international physical activity guidelines, up from 57% at baseline (< 0.05). Self-reported fitness, energy, overall health, sleep quality, and mood significantly improved (between 7.1 and 14.0% improvement; all< 0.05). High satisfaction was reported, with 92% of participants recommending the program. The 15 Minute Challenge effectively increased physical activity levels and improved self-reported health outcomes among participating employees. The high satisfaction rates and significant health improvements highlight the potential of workplace wellness programs to combat sedentary behavior and promote a healthier, more active lifestyle.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000038806
+- DOI: 10.3390/healthcare12131255
 
 2. Keywords
-
+- ehealth
+- exercise
+- gamification
+- lifestyle
+- mHealth
+- physical activity
+- workplace
 
 3. Key Findings
-- Findings extraction requires manual review
+- The intervention showed significant increases in physical activity, with 95% of participants meeting or exceeding international physical activity guidelines, up from 57% at baseline (< 0
 
 This study provides insights into:
-- General research methodology and outcomes
+- ehealth assessment methods and outcomes
+- exercise assessment methods and outcomes
+- gamification assessment methods and outcomes

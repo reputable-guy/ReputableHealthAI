@@ -1,25 +1,27 @@
-Study Title: Can an intervention designed to reduce repetitive negative thinking alter the response to a psychosocial stressor? A randomized controlled study.
+Study Title: Promoting stress and anxiety recovery in older adults: assessing the therapeutic influence of biophilic green walls and outdoor view.
 
 Study Summary:
-Prior research suggests that repetitive negative thinking (RNT) negatively impacts mental health by intensifying and prolonging emotional reactivity to stress. This study investigated whether an intervention designed to reduce RNT alters emotional reactivity. Young adults with high trait RNT (N&#xa0;=&#xa0;79) were randomly allocated to an RNT-focused intervention (smartphone app-based, 10 days) or a waiting list before exposure to a standardized stressor. The pre-registered analysis did not reveal a significant condition * time interaction for negative affect. However, exploratory analyses showed that whilst initial increases in negative affect in response to the stressor did not differ between conditions, participants in the intervention condition reported less negative affect throughout the following recovery phase. Additionally, participants in the intervention condition appraised their ability to cope with the stressor as higher and reported less RNT in the recovery phase. In contrast, the intervention did not affect biological stress responses. The findings indicate that RNT-focused interventions might have positive effects on mental health by breaking the self-reinforcing cycle of RNT, negative affect and maladaptive appraisals in response to stress. However, as findings are partly based on exploratory analyses, further research is needed to confirm whether reduced subjective stress reactivity mediates the effects of RNT-focused interventions on psychopathological symptoms.
+Previous research has already provided evidence regarding the favorable impact of green walls and outdoor views on stress reduction and anxiety alleviation. However, there has been limited exploration into the combined effects of green walls and outdoor views on older adults. In this study, a between-subjects experiment was conducted using virtual reality (VR) technology with 23 participants. Following exposure to stressors, each participant underwent four randomized sessions, each lasting 5&#x2009;min, in various virtual reality (VR) environments, encompassing non-biophilic and biophilic environments (including green walls, outdoor views, and their combination). Throughout the process, we measured physiological indicators of stress responses, including heart rate, heart rate variability, skin conductance levels, and blood pressure, using biometric sensors. Psychological changes in participants, including anxiety levels, were evaluated through the State-Trait Anxiety Inventory, recovery scales, and self-reported emotional assessments. In conclusion, in comparison to non-biophilic environments, older adults consistently exhibited lower stress levels, experienced superior anxiety relief, and demonstrated improved recovery in nature connectedness environments, with a notably faster recovery rate. These findings suggest that the incorporation of nature connectedness principles into the indoor environments of public activity spaces within older adults care facilities can significantly contribute to stress reduction and anxiety alleviation among older adults. Furthermore, these effects appear to be contingent on the specific types of nature connectedness environments. These results can provide substantial evidence to support the design of indoor common activity spaces within older adults care facilities.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.brat.2024.104547
+- DOI: 10.3389/fpubh.2024.1352611
 
 2. Keywords
-- Digital interventions
-- Emotional reactivity
-- Repetitive negative thinking
-- Stress response
+- biometric monitoring sensors
+- indoor public activity spaces
+- nature connectedness
+- older adults
+- physiological responses
+- virtual reality (VR)
 
 3. Key Findings
-- However, exploratory analyses showed that whilst initial increases in negative affect in response to the stressor did not differ between conditions, participants in the intervention condition reported less negative affect throughout the following recovery phase
+- In conclusion, in comparison to non-biophilic environments, older adults consistently exhibited lower stress levels, experienced superior anxiety relief, and demonstrated improved recovery in nature connectedness environments, with a notably faster recovery rate
 
 This study provides insights into:
-- Digital interventions assessment methods and outcomes
-- Emotional reactivity assessment methods and outcomes
-- Repetitive negative thinking assessment methods and outcomes
+- biometric monitoring sensors assessment methods and outcomes
+- indoor public activity spaces assessment methods and outcomes
+- nature connectedness assessment methods and outcomes

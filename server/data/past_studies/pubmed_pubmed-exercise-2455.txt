@@ -1,20 +1,25 @@
-Study Title: The effect of proprioceptive vestibular rehabilitation on sensory-motor symptoms and quality of life.
+Study Title: The acute effects of coffee ingestion on postural control and physical function in older adults: A randomised crossover trial.
 
 Study Summary:
-&#x2003;Peripheral vestibular hypofunction (PVH) is characterized by balance and gait disorders and vestibulo-autonomic findings. The vestibular system and proprioceptive system work together to regulate sensorimotor functions. Vestibular exercises are effective in PVH, but their superiority over each other is still unclear. &#x2003;This study aims to examine the effect of proprioceptive vestibular exercises on patients with PVH. &#x2003;30 individuals with unilateral PVH were assigned to 3 groups. Group 1 received proprioceptive vestibular rehabilitation, group 2 received standard vestibular rehabilitation. Both groups were given standard vestibular exercises as home exercises. No exercise was applied to the group 3. Patients were evaluated in terms of balance, functional mobility, posture, sensory profile, and quality of life. &#x2003;Although there was a significant intra-group difference in balance, functional mobility, and quality of life results in all groups (&#x2009;<&#x2009;0.05), the difference between groups was generally in favor of group 1 (&#x2009;<&#x2009;0.05). There was a significant difference between the groups in the posture analysis results (&#x2009;<&#x2009;0.05), while there was a significant difference in the 1st group (&#x2009;<&#x2009;0.05). There was a significant difference between the groups in the results of sensory sensitivity, sensory avoidance, and low recording (&#x2009;<&#x2009;0.05). There was no significant difference between the groups in sensory-seeking results (&#x2009;>&#x2009;0.05). There was a significant difference in quality of life between and within groups (&#x2009;<&#x2009;0.05). &#x2003;Proprioceptive vestibular rehabilitation is an effective method in PVH. We think that our study will guide clinicians and contribute to the literature. &#x2003;NCT04687371.
+Caffeine consumption can elicit improvements in aspects of physical function in older adults but also, negatively modify standing balance, potentially increasing fall risk. However, balance alterations and changes in physical function induced by commonly consumed caffeine vehicles such as coffee have not been investigated. Therefore, this study investigated coffee ingestion providing 3&#xa0;mg&#xb7;kg BWcaffeine on balance performance and physical function, in a group of older adults. In a randomised, crossover design, 22 older adults (Male n&#xa0;=&#xa0;10, Age: 68&#xa0;&#xb1;&#xa0;6&#xa0;years) completed bipedal standing balance and physical function assessments (Senior Fitness Test) under one of the following conditions: caffeinated coffee (COF), decaffeinated coffee (DEC), placebo (PLA) or a control (CON) (no fluid ingestion). Centre of pressure (COP) root mean square and power frequency were calculated to characterise postural performance and strategy, respectively. The complexity (i.e., regularity) of the COP signal was also determined by calculating sample entropy. Caffeinated coffee had limited effects on COP outcomes. Frequency of the COP in the anteroposterior direction was greater following COF compared to DEC (P&#xa0;=&#xa0;0.047;g&#xa0;=&#xa0;0.29) but there were no statistical differences between COF and PLA or CON (P&#xa0;>&#xa0;0.05). Furthermore, there were no significant performance differences between any conditions in all tests of physical function (P&#xa0;>&#xa0;0.05). This suggests that coffee has limited effects on balance performance or physical function but may influence both balance complexity and the strategy utilised to maintain upright stance. Overall, a strong cup of coffee does not significantly influence balance and measures of functional performance in healthy older adults.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1055/s-0044-1790568
+- DOI: 10.1016/j.exger.2024.112592
 
 2. Keywords
-
+- Balance performance
+- Ergogenic aids
+- Exercise
+- Functional performance
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Balance performance assessment methods and outcomes
+- Ergogenic aids assessment methods and outcomes
+- Exercise assessment methods and outcomes

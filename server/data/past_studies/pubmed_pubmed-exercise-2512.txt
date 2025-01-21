@@ -1,26 +1,25 @@
-Study Title: The effect of music therapy and breathing exercise on anxiety and pain in patients undergoing coronary angiography: A randomized controlled study.
+Study Title: Lung Tensioning Device Coil Treatment in Patients with Severe Emphysema: A Prospective Safety and Feasibility Trial (EFFORT).
 
 Study Summary:
-For over 50&#x2009;years, music therapy and breathing exercises have been widely utilized as interventions to help individuals cope with fatigue, stress and pain globally. To analyse the effects of music and breathing exercises on anxiety and pain in patients undergoing coronary angiography. This is a single-blind, randomized controlled trial. The sample comprised 165 patients: 55 in the control group, 55 in the breathing exercise group and 55 in the music therapy group. Patients in the music group listened to music during angiography, those in the breathing exercise group practised exercises 30&#x2009;min before the procedure and the control group received standard treatment. Anxiety levels were assessed before and after the procedure, and pain levels were measured post-procedure. The Consolidated Standards of Reporting Trials (CONSORT) checklist for reporting randomized trials was used to guide reporting. Anxiety scores rose significantly in the control group from 33.9&#x2009;&#xb1;&#x2009;4.2 pre-angiography to 37.7&#x2009;&#xb1;&#x2009;4.9 post-angiography. Conversely, the breathing group's anxiety scores decreased from 34.3&#x2009;&#xb1;&#x2009;3.5 before angiography to 31.7&#x2009;&#xb1;&#x2009;1.5 after angiography, and the music group exhibited a reduction from 32.3&#x2009;&#xb1;&#x2009;3.6 to 30.8&#x2009;&#xb1;&#x2009;1.6. Post-angiography, the control group reported a mean pain score of 64&#x2009;&#xb1;&#x2009;0.8&#x2009;mm, while the breathing and music groups had significantly lower scores of 35&#x2009;&#xb1;&#x2009;0.6 and 29&#x2009;&#xb1;&#x2009;0.8&#x2009;mm, respectively. Statistical analysis showed a highly significant difference in pain scores between the intervention and control groups. This study provides support for the beneficial effects of employing breathing exercises and music in alleviating pain and anxiety during coronary angiography procedures. Integrating these findings into clinical practice could be significant for improving patients' pain experiences and anxiety, enhancing the tolerance of invasive medical procedures.
+Currently, there is a lack of bronchoscopic lung volume reduction options that do not depend on fissure integrity. Endobronchial coils have been extensively studied to address this need but exhibited variable patient response and have been discontinued. Lung tension device (LTD) coils represent the next-generation coil treatment. This study aimed to evaluate safety, feasibility, and efficacy of LTD-coil treatment. Patients with advanced emphysema and hyperinflation were enrolled at two European sites. LTD-coils (Free Flow Medical, Fremont, CA, USA) were implanted in the two most destructed lobes, as determined by quantitative CT analysis, in two separate procedures. The primary endpoint was 3-month follow-up after the last treatment. Fourteen patients (50% male, median age 64 years, FEV1 23%predicted, RV 249%predicted) received LTD-coil treatment: 12 received bilateral and 2 unilateral treatment. Six serious respiratory adverse events occurred within the initial 3 months posttreatment, including one device-associated death. Treatment significantly reduced in- and expiratory volume of the treated lobes (-410 [-710, -340], p = 0.004 and -650 [-730, -190] mL, p < 0.001, respectively) and improved quality of life (SGRQ total score -4.6 [-21.0, -2.6], p < 0.001). However, at a group level, no significant improvements in pulmonary function or 6-min walk distance were observed. Responder rates ranged from 18% to 54% for the different endpoints. This first-in-human study shows that the new LTD-coil procedure is feasible with a safety profile comparable to the previous coil treatment. While the treatment effectively reduced lobar volume and modestly improved quality of life up to 3 months' follow-up, at a group level it did not significantly enhance pulmonary function or exercise capacity.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1111/nicc.13145
+- Publication Date: 2025
+- DOI: 10.1159/000541366
 
 2. Keywords
-- anxiety
-- breathing exercise
-- coronary angiography
-- music therapy
-- pain
+- Bronchoscopic lung volume reduction
+- Chronic obstructive pulmonary disease
+- Coils
+- Emphysema
 
 3. Key Findings
-- Statistical analysis showed a highly significant difference in pain scores between the intervention and control groups
+- Findings extraction requires manual review
 
 This study provides insights into:
-- anxiety assessment methods and outcomes
-- breathing exercise assessment methods and outcomes
-- coronary angiography assessment methods and outcomes
+- Bronchoscopic lung volume reduction assessment methods and outcomes
+- Chronic obstructive pulmonary disease assessment methods and outcomes
+- Coils assessment methods and outcomes

@@ -1,27 +1,27 @@
-Study Title: Behavior change intervention to sustain iodide salt utilization in households in Ethiopia and study of the effect of iodine status on the growth of young children: community trial.
+Study Title: The effect of nutrition education sessions on energy availability, body composition, eating attitude and sports nutrition knowledge in young female endurance athletes.
 
 Study Summary:
-Monitoring systems in a broad range of countries are a notable effort to eliminate iodine deficiency disorders (IDDs). This study aimed to gather data on the amount of iodide present in table salt and how household consumption patterns affect children's iodine status and its effect on their growth. A single treatment arm community trial study design was designed. Lower community units (LCUs) were chosen at random from districts assigned either intervention or control. From a list of LCUs, 834 mothers and their paired children were chosen randomly. Urine and table salt samples were collected and examined in the national food and nutrition laboratory. The deference between arms was determined using a t test, and the generalized estimating equation (GEE) was used to forecast parameters. The mean iodide content in the table salt samples of 164 (98.1%) was 45.3 ppm and a standard deviation (SD) of 14.87, which were above or equal to the recommended parts per million (ppm). Between the baseline survey and the end-line survey, the mean urine iodine concentration (UIC) was 107.7 &#xb5;g/L (+/- 8.64 SD) and 260.9 &#xb5;g/L (+/- 149 SD). Children's urine iodine excretion (UIE) had inadequate iodine in 127 (15.2%) children at the beginning of the study, but only 11 (2.6%) of the intervention group still had inadequate iodine at the end. The childrens' mean height (Ht) was 83.1 cm (+/-10 SD) at baseline and 136.4 cm (+/-14 SD) at the end of the survey. Mothers knew a lot (72%) about adding iodized salt to food at the end of cooking, and 183 (21.9%) of them did so regularly and purposefully. A total of 40.5% of children in the intervention group had stunted growth at baseline, which decreased to 15.1% at the end of the study but increased in the control group to 51.1%. The mean difference (MD) of urine iodine concentration (UIC) between intervention and control groups was 97.56 &#xb5;g/L, with a standard error (SE) of 9.83 (&#xa0;=&#xa0;0.001). The end-line Ht of children in the intervention group was increased by 7.93 cm (&#xa0;=&#xa0;7.93,&#xa0;=&#xa0;0.005) compared to the control group. Our research has shown that mothers who embraced healthy eating habits had perceived improvements in both the iodine status and height growth of their children. In addition to managing and using iodine salt, it has also introduced options for other healthy eating habits that will also play a significant role in their children's future development. This sort of knowledge transfer intervention is essential for the sustainability of society's health. Therefore, this trial's implications revealed that the intervention group's iodine status and growth could essentially be improved while the control group continued to experience negative effects. ClinicalTrials.gov Identifier: NCT048460 1.
+Nutrition knowledge plays a pivotal role in shaping dietary habits and food choices, particularly in the realm of sports nutrition. This study investigates the effects of a series of nutrition education sessions conducted by a registered dietitian on energy availability, various anthropometric measurements, eating attitudes, and sports nutrition knowledge in young female endurance athletes aged 15-18&#x2009;years (football, basketball, volleyball) who engage in training for more than 10&#x2009;h per week (&#x2009;=&#x2009;83). Participants were randomly divided into two groups with 45 individuals receiving six physical nutrition education lectures, and the remaining 38 participants receiving no nutrition education. Participants completed the low energy availability in females questionnaire (LEAF-Q), Eating Attitude Test (EAT-26), and Sports Nutrition Knowledge Questionnaire (SNKQ). Energy and nutrient intakes were evaluated through 3-day food records, while exercise energy expenditure was assessed using 3-day activity logs. All of the questionnaires were repeated after 6&#x2009;months. At baseline, the prevalence of LEA among athletes was determined to be 63.8%. In the intervention group, energy availability (EA) and SNKQ scores increased, and LEAF-Q scores decreased significantly (&#x2009;<&#x2009;0.05). However, there was no significant change in EAT-26 scores between the two groups. Energy intake, weight, fat-free mass, and resting metabolic rate have been increased significantly in the intervention group (&#x2009;<&#x2009;0,05). These findings suggest that nutrition education proves beneficial in enhancing dietary intake, positively influencing body composition, and improving nutrition knowledge, ultimately contributing to increased energy availability in female athletes over the short term.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7717/peerj.16849
+- DOI: 10.3389/fpubh.2024.1289448
 
 2. Keywords
-- Children growth
-- Cluster
-- Community trial
-- Iodine dietary intake
-- Table salt
-- Urine iodine concentration
+- body composition
+- eating attitude
+- low energy availability
+- nutrition education
+- sports nutrition knowledge
+- young female athletes
 
 3. Key Findings
-- Therefore, this trial's implications revealed that the intervention group's iodine status and growth could essentially be improved while the control group continued to experience negative effects
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Children growth assessment methods and outcomes
-- Cluster assessment methods and outcomes
-- Community trial assessment methods and outcomes
+- body composition assessment methods and outcomes
+- eating attitude assessment methods and outcomes
+- low energy availability assessment methods and outcomes

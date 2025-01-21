@@ -1,27 +1,27 @@
-Study Title: Nutrition self-efficacy intervention to improve nutritional status of Iranian older adults.
+Study Title: Peak timing of slowest growth velocity among young children coincides with highest ambient temperatures in Burkina Faso: a longitudinal study.
 
 Study Summary:
-Older adults are a vulnerable group that is at risk of poor nutritional status, which can lead to disease and increase their healthcare costs. Our study aimed to investigate the impact of a self-efficacy intervention on the nutritional status of older adults. A controlled before and after study was conducted on 110 older adults in the Mashhad, Iran, from 2020 to 2022. Participants were randomly allocated to the intervention (n&#x2009;=&#x2009;55) and control groups (n&#x2009;=&#x2009;55). Participants in the intervention group received educational training that was based on the self-efficacy theory. The control group received the routine care. Data collection tools included demographic information questionnaire, Mini Nutritional Assessment Questionnaire, and standard self-efficacy questionnaire. The questionnaires were completed at baseline (before intervention), instantly after the intervention, and at 3-months follow-up by participants in both groups. Data were analyzed using SPSS version 25 and the significance level was considered less than 0.05. The Mean of nutritional status in the intervention group, at the baseline, immediately after intervention and 3 months of follow-up were 25.1&#x2009;&#xb1;&#x2009;2.3, 28.3&#x2009;&#xb1;&#x2009;5.2 and 27.6&#x2009;&#xb1;&#x2009;6., respectively. This increase was significant (p&#x2009;<&#x2009;0.001). Our findings revealed that self-efficacy among participants in the intervention group significantly changed (P&#x2009;<&#x2009;0.001) across time from baseline through follow-up. There was no significant difference in the mean of self-efficacy and nutritional status in the control group during the study period (P&#x2009;>&#x2009;0.05). This current study provided a basis to examine in the effectiveness of such intervention using a properly powered randomized controlled study. Therefore, it can be concluded that self-efficacy interventions are a promising approach to improving the nutritional behaviors of the older adults. IRCT20160619028529N9.
+Seasonal cycles in climatic factors affect drivers of child growth and contribute to seasonal fluctuations in undernutrition. Current growth seasonality models are limited by categorical definitions of seasons that rely on assumptions about their timing and fail to consider their magnitude. We disentangle the relationship between climatic factors and growth indicators, using harmonic regression to determine how child growth is related to peaks in temperature, precipitation, and vegetation. Longitudinal anthropometric data collected between August 2014 and December 2016 from 5039 Burkinab&#xe8; children measured monthly from age 6 to 28 mo (108,580 observations) were linked with remotely sensed daily precipitation, vegetation, and maximum air temperature. Our models parsimoniously extract a cyclic signal with multiple potential peaks, to compare the magnitude and timing of seasonal peaks in climatic factors and morbidity with that of nadirs in growth velocity (cm/mo, kg/mo). Length and weight velocity were slowest twice a year, coinciding both times with the highest temperatures, and peak fever incidence. Length velocity is slowest 13 d after the first temperature peak in April, and 5 d after the second. Similarly, weight velocity is slowest 13 d before the first temperature peak, and 11 d before the second. The statistical relationship between temperature and anthropometry shows that when the current temperature is higher, weight velocity is lower (&#x3b2; = -0.0048; 95% CI: -0.0059, -0.0038), and length velocity is higher (&#x3b2; = 0.0088; 95% CI: 0.0070, 0.0105). Results suggest that child health and development are more affected by high temperatures than by other aspects of climatic seasonality such as rainfall. Emerging shifts in climatic conditions will pose challenges to optimal growth, highlighting the importance of changes that optimize the timing of nutrition interventions and address environmental growth-limiting conditions. Clinicaltrials.gov: NCT02071563.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s41043-024-00519-1
+- DOI: 10.1016/j.ajcnut.2023.09.021
 
 2. Keywords
-- Aged
-- Health education
-- Health promotion
-- Malnutrition
-- Self-efficacy
+- Burkina Faso
+- anthropometry
+- children
+- climate
+- growth
+- seasonality
 
 3. Key Findings
-- Our findings revealed that self-efficacy among participants in the intervention group significantly changed (P&#x2009;<&#x2009;0
-- Therefore, it can be concluded that self-efficacy interventions are a promising approach to improving the nutritional behaviors of the older adults
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Aged assessment methods and outcomes
-- Health education assessment methods and outcomes
-- Health promotion assessment methods and outcomes
+- Burkina Faso assessment methods and outcomes
+- anthropometry assessment methods and outcomes
+- children assessment methods and outcomes

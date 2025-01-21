@@ -1,28 +1,27 @@
-Study Title: Individualized Supplementation of Immunoactive Micronutrients and Severity of Upper Respiratory Infection Symptoms-A Randomized Intervention Study.
+Study Title: Effect of Lifestyle Counselling via a Mobile Application on Disease Activity Control in Inflammatory Arthritis: A Single-Blinded, Randomized Controlled Study.
 
 Study Summary:
-Certain micronutrients exhibit immunomodulatory effects. However, no intervention has yet investigated the effect of individualized supplementation on the severity of upper respiratory tract infections (URIs). Therefore, we investigated whether a personalized supplementation moderates the incidence and severity of URI. Selenium, zinc, and vitamin D were measured in dried blood spots from 59 healthy participants. Accordingly, a personalized supplement was provided with or without the respective micronutrients. We used WURSS-21 questionnaires to assess the disease status. The blood values converged during the intervention and micronutrients no longer differed between treated and untreated volunteers at the end of the intervention period. The incidence and severity of the illness did not significantly differ between the groups. However, when analyzing the WURSS-21 scores by the intention to treat, the initially randomized treatment arm revealed a significantly higher score than the placebo arm. Upon acute administration, individualized combinations of selenium, zinc and vitamin D do not reduce the number, or contribute to a milder course of URIs. Therefore, supplementation in acute infectious situations seems questionable. Further studies must address the habitual diet in more detail, to better understand the impact of individual micronutrient status on the prevention of URI.
+Mobile applications (apps) are a resource for information on lifestyle and nutrition which are associated to improved outcomes in inflammatory arthritis. The aim of this study was to explore whether targeted lifestyle counselling via an app improves disease activity in arthritis patients. Patients with rheumatoid arthritis (RA), spondyloarthritis (SpA), psoriatic arthritis (PsA) were randomized to 12 weeks of lifestyle counselling via an app (Mida, Midaia GmbH, Germany) pertaining to a healthy Mediterranean Diet, physical activity, and mental health. Disease activity was measured with specific instruments by a blinded physician and categorized (remission, low, moderate, high). Dietary adherence was assessed by the Mediterranean Diet Adherence Screener (MEDAS). Mixed effects logistic regression adjusted to baseline disease activity, age, and sex were calculated. Of 158 patients included (73% female, 53.3 &#xb1; 11.7 years), 74 were in the active counselling group (ACG). All showed improvement in low disease activity or remission. ACG patients had an odds ratio (OR) of 2.8 (95%-CI 1.1-7.2,= 0.035), while OR in the control group was not significant OR = 2.1 (0.9-5.0,= 0.097). The control group was less likely to reach a MEDAS >= 4 (OR = 0.16 (0.03-0.77),= 0.02), while this was not seen in the ACG (OR = 0.54 (0.06-4.63),= 0.6). Patients in the ACG showed a tendency towards improved adhesion to a Mediterranean Diet (MEDAS) (&#x3b2; = 0.35 (-0.05-0.74),= 0.086). This tendency was not observed in the control group (&#x3b2; = 0.09 (-0.29-0.46),= 0.64). Individualized lifestyle and dietary counselling via app may help to improve disease control in inflammatory arthritis patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16101400
+- DOI: 10.3390/nu16101488
 
 2. Keywords
-- WURSS-21
-- dried blood spots
-- personalized nutrition
-- selenium
-- upper respiratory tract infections
-- vitamin D
-- zinc
+- Mediterranean Diet
+- axial spondyloarthritis
+- healthy lifestyle
+- psoriatic arthritis
+- rheumatoid arthritis
 
 3. Key Findings
-- However, when analyzing the WURSS-21 scores by the intention to treat, the initially randomized treatment arm revealed a significantly higher score than the placebo arm
+- All showed improvement in low disease activity or remission
+- Patients in the ACG showed a tendency towards improved adhesion to a Mediterranean Diet (MEDAS) (&#x3b2; = 0
 
 This study provides insights into:
-- WURSS-21 assessment methods and outcomes
-- dried blood spots assessment methods and outcomes
-- personalized nutrition assessment methods and outcomes
+- Mediterranean Diet assessment methods and outcomes
+- axial spondyloarthritis assessment methods and outcomes
+- healthy lifestyle assessment methods and outcomes

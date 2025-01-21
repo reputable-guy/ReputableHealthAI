@@ -1,29 +1,27 @@
-Study Title: Randomized investigation of increased dialyzer membrane hydrophilicity on hemocompatibility and performance.
+Study Title: Resveratrol ameliorates mitochondrial biogenesis and reproductive outcomes in women with polycystic ovary syndrome undergoing assisted reproduction: a randomized, triple-blind, placebo-controlled clinical trial.
 
 Study Summary:
-Hemodialyzers should efficiently eliminate small and middle molecular uremic toxins and possess exceptional hemocompatibility to improve well-being of patients with end-stage kidney disease. However, performance and hemocompatibility get compromised during treatment due to adsorption of plasma proteins to the dialyzer membrane. Increased membrane hydrophilicity reduces protein adsorption to the membrane and was implemented in the novel FX CorAL dialyzer. The present randomized controlled trial compares performance and hemocompatibility profiles of the FX CorAL dialyzer to other commonly used dialyzers applied in hemodiafiltration treatments. This prospective, open, controlled, multicentric, interventional, crossover study randomized stable patients on post-dilution online hemodiafiltration (HDF) to FX CorAL 600, FX CorDiax 600 (both Fresenius Medical Care) and xevonta Hi 15 (B. Braun) each for 4 weeks. Primary outcome was &#x3b2;2-microglobulin removal rate (&#x3b2;2-m RR). Non-inferiority and superiority of FX CorAL versus comparators were tested. Secondary endpoints were RR and/or clearance of small and middle molecules, and intra- and interdialytic profiles of hemocompatibility markers, with regards to complement activation, cell activation/inflammation, platelet activation and oxidative stress. Further endpoints were patient reported outcomes (PROs) and clinical safety. 82 patients were included and 76 analyzed as intention-to-treat (ITT) population. FX CorAL showed the highest &#x3b2;2-m RR (76.28%), followed by FX CorDiax (75.69%) and xevonta (74.48%). Non-inferiority to both comparators and superiority to xevonta were statistically significant. Secondary endpoints related to middle molecules corroborated these results; performance for small molecules was comparable between dialyzers. Regarding intradialytic hemocompatibility, FX CorAL showed lower complement, white blood cell, and platelet activation. There were no differences in interdialytic hemocompatibility, PROs, or clinical safety. The novel FX CorAL with increased membrane hydrophilicity showed strong performance and a favorable hemocompatibility profile as compared to other commonly used dialyzers in clinical practice. Further long-term investigations should examine whether the benefits of FX CorAL will translate into improved cardiovascular and mortality endpoints. eMPORA III registration on 19/01/2021 at ClinicalTrials.gov (NCT04714281).
+This study was designed to examine the effect of resveratrol on mitochondrial biogenesis, oxidative stress (OS), and assisted reproductive technology (ART) outcomes in individuals with polycystic ovary syndrome (PCOS). Fifty-six patients with PCOS were randomly assigned to receive 800&#xa0;mg/day of resveratrol or placebo for 60 days. The primary outcome was OS in follicular fluid (FF). The secondary outcome involved assessing gene and protein expression related to mitochondrial biogenesis, mitochondrial DNA (mtDNA) copy number, and adenosine triphosphate (ATP) content in granulosa cells (GCs). ART outcomes were evaluated at the end of the trial. Resveratrol significantly reduced the total oxidant status (TOS) and oxidative stress index (OSI) in FF (P&#x2009;=&#x2009;0.0142 and P&#x2009;=&#x2009;0.0039, respectively) while increasing the total antioxidant capacity (TAC) (P&#x2009;<&#x2009;0.0009). Resveratrol consumption also led to significant increases in the expression of critical genes involved in mitochondrial biogenesis, including peroxisome proliferator-activated receptor gamma coactivator (PGC-1&#x3b1;) and mitochondrial transcription factor A (TFAM) (P&#x2009;=&#x2009;0.0032 and P&#x2009;=&#x2009;0.0003, respectively). However, the effect on nuclear respiratory factor 1 (Nrf-1) expression was not statistically significant (P&#x2009;=&#x2009;0.0611). Resveratrol significantly affected sirtuin1 (SIRT1) and PGC-1&#x3b1; protein levels (P&#x2009;<&#x2009;0.0001 and P&#x2009;=&#x2009;0.0036, respectively). Resveratrol treatment improved the mtDNA copy number (P&#x2009;<&#x2009;0.0001) and ATP content in GCs (P&#x2009;=&#x2009;0.0014). Clinically, the resveratrol group exhibited higher rates of oocyte maturity (P&#x2009;=&#x2009;0.0012) and high-quality embryos (P&#x2009;=&#x2009;0.0013) than did the placebo group. There were no significant differences between the groups in terms of chemical or clinical pregnancy rates (P&#x2009;>&#x2009;0.05). These findings indicate that resveratrol may be a promising therapeutic agent for patients with PCOS undergoing assisted reproduction. http://www.irct.ir ; IRCT20221106056417N1; 2023 February 09.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12882-024-03644-5
+- DOI: 10.1186/s13048-024-01470-9
 
 2. Keywords
-- Dialyzer
-- Hemocompatibility
-- Hemodiafiltration
-- Hydrophilicity
-- Membrane
-- Performance
+- Antioxidants
+- Assisted reproductive technique
+- Granulosa cells
+- Mitochondrial biogenesis
+- Polycystic ovary syndrome
+- Resveratrol
 
 3. Key Findings
-- FX CorAL showed the highest &#x3b2;2-m RR (76
-- Regarding intradialytic hemocompatibility, FX CorAL showed lower complement, white blood cell, and platelet activation
-- The novel FX CorAL with increased membrane hydrophilicity showed strong performance and a favorable hemocompatibility profile as compared to other commonly used dialyzers in clinical practice
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Dialyzer assessment methods and outcomes
-- Hemocompatibility assessment methods and outcomes
-- Hemodiafiltration assessment methods and outcomes
+- Antioxidants assessment methods and outcomes
+- Assisted reproductive technique assessment methods and outcomes
+- Granulosa cells assessment methods and outcomes

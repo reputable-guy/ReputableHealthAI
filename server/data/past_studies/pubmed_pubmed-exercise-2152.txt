@@ -1,25 +1,26 @@
-Study Title: Does Unilateral High-Load Resistance Training Influence Strength Change in the Contralateral Arm Also Undergoing High-Load Training?
+Study Title: Effect of low-frequency neuromuscular electrical stimulation combined with passive cycle ergometry on hemodynamics in healthy adults.
 
 Study Summary:
-Training one limb with a high-load has been shown to augment strength changes in the opposite limb training with a low-load (via cross-education of strength), indicating that within-subject models can be problematic when investigating strength changes. This study examined if the cross-education of strength from unilateral high-load training could augment the strength changes in the opposite arm undergoing the same unilateral high-load training. 160 participants were randomized to one of four groups: (1) training on the dominant arm followed by the non-dominant arm (D&#x2009;+&#x2009;ND), (2) training on the dominant arm only (D-Only), (3) training on the non-dominant arm only (ND-Only), and (4) a non-exercise control. All exercise groups performed 18 sessions of unilateral high-load elbow flexion exercise over 6&#x2009;weeks. Participants were compared for changes in 1RM strength and muscle thickness. Changes in strength of the non-dominant arm were greater in D&#x2009;+&#x2009;ND (2.7&#x2009;kg) and ND-Only (2.6&#x2009;kg) compared to D-Only (1.5&#x2009;kg) and control (-0.2&#x2009;kg), while the changes were greater in D-Only compared to control. The same finding was observed in the dominant arm. Only the arms being directly trained observed increases in muscle thickness. Unilateral high-load resistance training increased strength in the opposite untrained arm, without changes in muscle thickness. This cross-education of strength did not augment the strength changes in the contralateral arm undergoing the same unilateral high-load training. However, it does not necessarily indicate that within-subject models are methodologically sound to investigate strength change if both limbs are trained with a high-load.
+There have been few studies that have examined hemodynamic responses to low-frequency neuromuscular electrical stimulation (LF-NMES), and the effects of combining passive cycle ergometry are still unclear. The purpose of this study was to examine the effects of a combination of LF-NMES and passive cycle ergometry on hemodynamic responses with a primary focus on the Fick principle in healthy adults. A randomized, crossover trial was conducted to evaluate the responses to three types of supine exercises (LF-NMES alone, LF-NMES with passive cycle ergometry, and voluntary cycle ergometry) adjusted to the same exercise intensity as the oxygen consumption of 14 mL/kg/min in 13 healthy adult men. Blood pressure, heart rate, blood lactate concentration, stroke volume (SV), cardiac output (CO), and left ventricular end-diastolic volume (LVEDV) were measured during each exercise in all subjects. The arterial-venous oxygenation difference (A-V&#x307;odifference) was calculated based on Fick's equation. LVEDV, SV, and CO were lower, and the A-V&#x307;odifference and blood lactate concentration were higher in LF-NMES alone than those in voluntary cycle ergometry and LF-NMES with passive cycle ergometry (< 0.05). The blood lactate concentration was lower in LF-NMES with passive cycle ergometry than that in LF-NMES alone, but slightly higher than that in voluntary cycle ergometry (< 0.05). Hemodynamic and metabolic responses of exercise with LF-NMES alone seemed consistent with insufficient peripheral perfusion based on the elevation of A-V&#x307;odifference and blood lactate concentration. The findings suggest that combining passive cycle ergometry with LF-NMES improves the insufficient peripheral perfusion induced by LF-NMES alone.This is the first study to evaluate cardiac output, oxygen consumption, and A-V&#x307;odifference during LF-NMES of endurance exercise modality. LF-NMES alone may not demonstrate hemodynamic responses induced by voluntary endurance exercise, however, demonstrates those when combined with passive cycle ergometry. LF-NMES with passive cycle ergometry may be a more effective approach in cardiac rehabilitation for patients without the ability of voluntary exercise because it may increase cardiac output and venous return as represented by the LVEDV.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/sms.14772
+- DOI: 10.1152/ajpregu.00141.2024
 
 2. Keywords
-- bilateral transfer
-- cross education
-- interlimb transfer
-- within subject
+- endurance exercise
+- hemodynamics
+- neuromuscular electrical stimulation
+- passive cycle-ergometer
+- passive exercise
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- bilateral transfer assessment methods and outcomes
-- cross education assessment methods and outcomes
-- interlimb transfer assessment methods and outcomes
+- endurance exercise assessment methods and outcomes
+- hemodynamics assessment methods and outcomes
+- neuromuscular electrical stimulation assessment methods and outcomes

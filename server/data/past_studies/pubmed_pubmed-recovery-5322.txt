@@ -1,26 +1,31 @@
-Study Title: Hybrid 1 randomized controlled trial of an integrated stepped-care mental health intervention for traumatic injury patients.
+Study Title: Integrative Neuro-social cognitive Strategy Programme for Instilling REcovery (INSPIRE): a community-based cognitive remediation trial-study procotol.
 
 Study Summary:
-Annually, nearly 3 million individuals in the US are hospitalized after experiencing a traumatic injury (e.g., serious automobile crash, gunshot wound, stab injury). Many traumatically injured patients experience a trajectory of resilience. However, 20-40&#xa0;% develop mental health problems such as posttraumatic stress disorder and depression; population estimates exceed 600,000 patients annually. Most trauma centers do not provide direct services to address mental health recovery, but the 2022 American College of Surgeons guidelines have established this as a priority. Cost-effective interventions are needed that meet the needs of patients at each stage of the recovery process while achieving sustainability at the level of implementation. This protocol paper describes a study that rigorously tests the Trauma Resilience and Recovery Program (TRRP), a scalable, sustainable technology-enhanced intervention to support the mental health recovery of patients who have experienced a traumatic injury. We describe a randomized controlled trial with 1-year follow up of TRRP vs. enhanced usual care with 350 traumatically injured patients, including recruitment and retention procedures, assessment, implementation and fidelity monitoring, and statistical plans. Novel components of our design include integration of technology-based elements, use of a stepped-care model, and implementation in a trauma center that did not previously have a mental health program. Data collected address the impact of TRRP and inform improvements to the model and its implementation in preparation for large-scale testing and implementation initiatives. This body of work is critical to informing the field as it continues to move toward national standards and recommendations. NCT05497115Clinicaltrials.gov.
+Adults with schizophrenia experience a range of neurocognitive problems that affect their daily functioning. Evidence for the efficacy of cognitive remediation in schizophrenia has been established, but its implementation in under-resourced community-based settings is less well-studied. In recent years, interventions have also focused on the strategy-learning approach in favor of drill-and-practice. Moreover, there is an increasing recognition to address social cognition and negative symptoms alongside neurocognition. This study attempts to carry out cognitive remediation in a community mental health setting. The Neuropsychological and Educational Approach to Remediation (NEAR) is used as the cognitive remediation intervention. Neurocognitive and social cognitive games will be introduced during the computer-assisted cognitive exercises sessions. In addition, the instructional technique will foster the use of metacognition and cognitive strategies. Moreover, metamotivation training will be the focus of some bridging sessions to enhance motivation to engage in goal-directed learning behaviors. The aims of the study are to 1) investigate the effects of cognitive remediation on neurocognition, social cognition and functional outcomes of participants with schizophrenia/schizoaffective disorders in community mental health settings; and 2) explore the mediators for change (eg: metamotivation, metacognition and negative symptoms) in cognitive performance and functional outcomes. This randomized controlled trial will be conducted in three Singapore Anglican Community Services (SACS) centers, where standard psychiatric rehabilitation is delivered. Participants who are randomized to the experimental arm will receive cognitive remediation and psychiatric rehabilitation, while those randomized to the control arm will receive standard psychiatric rehabilitation only. Cognitive remediation is carried out three times a week for 12&#xa0;weeks. It consists of computer-assisted cognitive exercises, as well as bridging groups to aid transfer of learning to daily living. Baseline, post-intervention and eight-week follow-up measurements will be collected. Group by time differences in cognitive performance, negative symptoms, metamotivation, metacognition, functioning and recovery will be analyzed across the three time points. Mediators for improvement in cognitive performance and functioning will also be explored. Findings of this research will add to the body of knowledge about the key therapeutic ingredients within a strategy-based cognitive remediation program and improve its implementation within under-resourced community settings. This study has been registered with ClinicalTrials.gov (ID: NCT06286202). Date of registration: 29 February 2024. Date of last update: 21 May 2024.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.cct.2024.107694
+- DOI: 10.1186/s12888-024-06070-x
 
 2. Keywords
-- Depression
-- Digital health
-- PTSD
-- Stepped care
-- Traumatic injury
+- Cognitive performance
+- Cognitive remediation
+- Metacognition
+- Metamotivation
+- Neurocognition
+- Neuropsychological and Educational Approach to Remediation
+- Psychiatric rehabilitation
+- Schizophrenia
+- Social cognition
+- Strategy learning
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Depression assessment methods and outcomes
-- Digital health assessment methods and outcomes
-- PTSD assessment methods and outcomes
+- Cognitive performance assessment methods and outcomes
+- Cognitive remediation assessment methods and outcomes
+- Metacognition assessment methods and outcomes

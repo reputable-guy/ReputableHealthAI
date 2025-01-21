@@ -1,20 +1,26 @@
-Study Title: Effect of fetal lung maturation on the efficacy of acetaminophen for premature infants with patent ductus arteriosus.
+Study Title: Establishment and evaluation of a novel practical tool for the diagnosis of pre-sarcopenia in young people with diabetes mellitus.
 
 Study Summary:
-The objective of this study was to evaluate the effect of maturing fetal lung on clinical efficacy of acetaminophen in the treatment of premature infants with patent ductus arteriosus (PDA). A total of 441 premature infants admitted to our hospital from May 2020 to May 2021 were recruited, including 152 premature infants receiving fetal lung maturation (13 cases of PDA closure with drug use and 2 cases failed) and 289 cases without maturing fetal lung (17 cases of PDA closure and 8 cases failed). Finally, a total of 30 cases were enrolled in this clinical trial. All infants were divided into groups A and B according to whether fetal lung maturation was adopted before delivery. In group A, 13 infants received fetal lung maturation, and 17 in group B did not undergo fetal lung maturation. Infants in both groups were orally given with acetaminophen. After 3-day treatment, the second course of treatment was given immediately if PDA was not closed. The PDA closure rate and patency rate of PDA at the end of 2 treatment courses were statistically compared between 2 groups. The feeding intolerance, upper gastrointestinal bleeding, renal failure, necrotizing enterocolitis, bronchopulmonary dysplasia, periventricular-intraventricular hemorrhage, the age at total enteral nutrition and the length of hospital stay were also compared between 2 groups. After the 1st and 2nd treatment courses, the PDA closure rate in group A was 84.61%, significantly higher than 52.94% in group B (P&#x2005;<&#x2005;.05), whereas there was no significant difference in the PDA patency rate between 2 groups (P&#x2005;>&#x2005;.05). No significant differences were observed regarding the feeding intolerance, renal failure, necrotizing enterocolitis, periventricular-intraventricular hemorrhage, bronchopulmonary dysplasia, the length of hospital stay and the age at total enteral nutrition between 2 groups (all P&#x2005;>&#x2005;.05). In addition, the incidence of upper gastrointestinal bleeding in group A was 7.69%, slightly lower than 5.88% in group B (P&#x2005;>&#x2005;.05). Compared with premature infants untreated with fetal lung maturation interventions before delivery, premature infants who receive fetal lung maturation interventions combined with acetaminophen for PDA are likely to obtain a higher PDA closure rate and a lower incidence rate of the upper gastrointestinal bleeding.
+Sarcopenia has been recognized as a third category of complications in people with diabetes. However, few studies focus on the reduction of skeletal muscle mass in young people with diabetes. The aim of this study was to investigate risk factors of pre-sarcopenia in young patients with diabetes and establish a practical tool to diagnose pre-sarcopenia in those people. Patients (n&#x2009;=&#x2009;1246) enrolled from the National Health and Nutrition Examination Survey (NHANES) cycle year of 2011 to 2018 were randomly divided into the training set and validation set. The all-subsets regression analysis was used to select the risk factors of pre-sarcopenia. A nomogram model for the prediction of pre-sarcopenia in the diabetic population was established based on the risk factors. The model was evaluated by the area under the receiver operating characteristic curve for discrimination, calibration curves for calibration, and decision curve analysis curves for clinical utility. In this study, gender, height, and waist circumference were elected as predictive factors for pre-sarcopenia. The nomogram model presented excellent discrimination in training and validation sets with areas under the curve of 0.907 and 0.912, respectively. The calibration curve illustrated excellent calibration, and the decision curve analysis showed a wide range of good clinical utility. This study develops a novel nomogram that integrates gender, height, and waist circumference and can be used to easily predict pre-sarcopenia in diabetics. The novel screen tool is accurate, specific, and low-cost, highlighting its potential value in clinical application.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1097/MD.0000000000034011
+- DOI: 10.1186/s12967-023-04261-w
 
 2. Keywords
-
+- Diabetes mellitus
+- NHANES
+- Nomogram
+- Pre-sarcopenia
+- Skeletal muscle mass
 
 3. Key Findings
-- Findings extraction requires manual review
+- The calibration curve illustrated excellent calibration, and the decision curve analysis showed a wide range of good clinical utility
 
 This study provides insights into:
-- General research methodology and outcomes
+- Diabetes mellitus assessment methods and outcomes
+- NHANES assessment methods and outcomes
+- Nomogram assessment methods and outcomes

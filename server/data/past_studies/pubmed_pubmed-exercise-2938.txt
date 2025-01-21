@@ -1,25 +1,20 @@
-Study Title: Comparison of the effect of online physical exercise and computerized cognitive stimulation in patients with Alzheimer's disease during the Covid-19 pandemic.
+Study Title: The relationship between sustained hamstring pain and reorganisation of somatosensory representations: a randomised, controlled study.
 
 Study Summary:
-To investigate the effect of physical exercise alone and in combination with cognitive stimulation on cognition, physical function, and quality of life in patients with Alzheimer's Disease (PwAD). The study was a randomized controlled, single-blinded trial with pre-and post-treatment and follow-up assessments conducted at the private hospital and home environment in PwAD. Seventy-five (N&#xa0;=&#xa0;75) participants diagnosed with AD were enrolled, but sixty (N&#xa0;=&#xa0;60) participants (mean age 77.8 years, standard deviation (SD) 6.7) were randomized as physical exercise group (PEG) (n&#xa0;=&#xa0;20), physical exercise and cognitive stimulation group (PE&#xa0;+&#xa0;CSG) (n&#xa0;=&#xa0;20) and control group (CG) (n&#xa0;=&#xa0;20). Participants in PEG and PE&#xa0;+&#xa0;CSG performed an online supervised physical exercise program (SPEP) given biweekly for 12 weeks. Additionally, the cognitive stimulation (CS) program was offered for at least three or five days for 12 weeks for PE&#xa0;+&#xa0;CSG. No treatment was given for the CG. The primary outcome measures were cognition, balance, functional mobility (FM), upper extremity muscle strength (UEMS) and lower extremity muscle strength (LEMS), and quality of life (QoL). Furthermore, depression, basic activities of daily living (BADL) and instrumental activities of daily living (IADL) were measured secondarily. PE&#xa0;+&#xa0;CSG demonstrated significant improvement in cognition, balance, FM, UEMS, IADL and reduction in depression compared to the CG (p&#xa0;<&#xa0;0.05). Besides, participants in the PE&#xa0;+&#xa0;CSG had statistically superior QoL and IADL than the PEG (p&#xa0;<&#xa0;0.05). The addition of CS to the SPEP was a safe and effective method to gain statistically significant improvements in cognition, balance, FM, UEMS, IADL, and reduction in depression in PwAD.
+Recurrent hamstring injuries are highly prevalent amongst sporting populations. It has been hypothesised that pain from an initial hamstring injury may induce reorganisation of somatosensory representations that could contribute to reinjury. However, because of the cross-sectional nature of existing research, it remains unknown whether somatosensory changes are a cause or effect of pain or if they are driven by other potentially confounding factors. Here, we explored the effect of experimentally induced sustained hamstring pain on tasks that interrogate somatosensory and spatial representations. Fifty healthy participants were randomly allocated to an experimental group that performed an eccentric exercise protocol on the right hamstring to induce delayed onset muscle soreness or a control group performing a repetition-matched concentric exercise protocol. The tactile cortical representation was assessed using two-point discrimination and tactile localisation, whereas the proprioceptive representation was assessed using a left-right judgement task. Peripersonal spatial representations were assessed using an auditory localisation task. Assessments were performed at baseline and day 2. No between-group differences in tactile acuity were observed. However, improvements in left-right judgments and worsening of auditory localisation occurred in the experimental group compared with the control group. This study provides preliminary evidence showing that somatosensory changes occur in response to sustained hamstring pain. Experimentally induced, sustained hamstring pain elicited enhancements in proprioceptive processing and deficits in peripersonal spatial processing, suggesting a shift in the allocation of attentional resources from the external (peripersonal) to internal (body) environment. These findings may hold important implications for reinjury risk and rehabilitation following hamstring pain.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ctcp.2024.101881
+- DOI: 10.1097/j.pain.0000000000003312
 
 2. Keywords
-- Alzheimer's disease
-- Cognitive stimulation
-- Physical exercise
-- Telerehabilitation
+
 
 3. Key Findings
-- PE&#xa0;+&#xa0;CSG demonstrated significant improvement in cognition, balance, FM, UEMS, IADL and reduction in depression compared to the CG (p&#xa0;<&#xa0;0
+- However, because of the cross-sectional nature of existing research, it remains unknown whether somatosensory changes are a cause or effect of pain or if they are driven by other potentially confounding factors
 
 This study provides insights into:
-- Alzheimer's disease assessment methods and outcomes
-- Cognitive stimulation assessment methods and outcomes
-- Physical exercise assessment methods and outcomes
+- General research methodology and outcomes

@@ -1,29 +1,24 @@
-Study Title: Utilizing technology for diet and exercise change in complex chronic conditions across diverse environments (U-DECIDE): feasibility randomised controlled trial.
+Study Title: Poor Activities of Daily Living Predict Future Weight Loss in Older Adults After Hospital Discharge-Secondary Analysis of a Randomized Trial.
 
 Study Summary:
-Diet and exercise are important components of treatment for complex chronic conditions, however access to allied health support is limited. When available, support is often siloed and fragmented. Digital health incorporating patient choice may help to align health care services with preferences and goals. This study evaluated the implementation of a ubiquitously accessible patient-centred digital health diet and exercise service. U-DECIDE was a single-centre, 26-week randomised controlled trial set in kidney and liver disease clinics in a tertiary hospital in Brisbane, Australia. Participants were adults with a complex chronic condition referred for dietetic consultation with at least one feature of the metabolic syndrome. All participants received a dietary consultation, an activity monitor and usual care. Intervention participants were offered one text message per week and access to additional digital health options (increased text message frequency, nutrition app, exercise app, group-based diet and/or exercise video consultations). The primary outcome of feasibility was determined by safety (study-related serious adverse events: SRSAEs), recruitment (&#x2265;&#x2009;50% eligible patients), retention (&#x2265;&#x2009;70%), exposure uptake (&#x2265;&#x2009;75% of intervention group had greater access to health professional contact than comparator) and video consultation adherence (&#x2265;&#x2009;80% attendance). Secondary outcomes included process evaluation metrics and clinical outcomes. Of 67 participants (intervention n&#x2009;=&#x2009;33, comparator n&#x2009;=&#x2009;34), 37 (55%) were men, median (IQR) age was 51 (41-58) years. The most chosen digital health options were the nutrition app (n&#x2009;=&#x2009;29, 88%) and exercise video consultations (n&#x2009;=&#x2009;26, 79%). Only one participant chose no additional digital health options. The intervention group had no SRSAEs. The study exceeded targets for recruitment (52%), retention (81%) and exposure uptake (94%). Video consultation adherence was 42%. Engagement across digital health options was inconsistent. Digital health options incorporating patient choice were feasible and can be offered to people with complex chronic disease as a service model option. Australia and New Zealand Trials Register: Trial Registration Number: ACTRN12620001282976. Registered 27th November 2020.
+This study examined whether participants with poor activities of daily living (ADLs) at hospital discharge had increased weight loss after 6 months of follow-up and whether nutrition therapy can prevent this weight loss. This dietary randomized controlled trial (N = 104) examined community-dwelling older adults (66-95&#xa0;years) discharged from hospital and at risk for malnutrition, receiving either 6&#xa0;months of nutrition therapy (intervention) or only standard care (control). ADL was assessed using seven questions on self-care based on the Katz et al.'s method. At discharge, 45 (43%), 36 (35%), and 23 (22%) had high, medium, and poor ADL, respectively, with no differences between the control and intervention groups according to chi-square test. Participants in the control group with poor ADL had significantly higher weight loss than participants with high ADL (age- and sex-adjusted analysis of covariance: 3.6&#xa0;kg; 95% confidence interval [1.0, 6.1]&#xa0;kg, p = .007). No such difference was observed in the intervention group. Participants with poor ADL at hospital discharge develop lower body weight by around 3.5&#xa0;kg 6 months later when compared with participants with high ADL. Receiving nutrition therapy could help older adults with poor ADL to maintain body weight after hospital discharge.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1186/s12913-024-11383-4
+- Publication Date: 2025
+- DOI: 10.1123/japa.2023-0104
 
 2. Keywords
-- Complex chronic disease
-- Diet
-- Digital health
-- Exercise
-- Kidney disease
-- Liver disease
-- Metabolic syndrome
-- Telehealth
+- community-dwelling older adults
+- interventional study
+- nutritional therapy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Complex chronic disease assessment methods and outcomes
-- Diet assessment methods and outcomes
-- Digital health assessment methods and outcomes
+- community-dwelling older adults assessment methods and outcomes
+- interventional study assessment methods and outcomes
+- nutritional therapy assessment methods and outcomes

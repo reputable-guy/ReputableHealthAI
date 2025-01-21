@@ -1,26 +1,20 @@
-Study Title: Efficacy of WeChat-Based Digital Intervention Versus Metformin in Women With Polycystic Ovary Syndrome: Randomized Controlled Trial.
+Study Title: Efficacy and Safety of Adding 6 Weeks of Doxycycline to the Essential Package of Care to Treat Filarial Lymphedema: A Double-Blind, Randomized, Controlled Trial in Southern India.
 
 Study Summary:
-The first-line treatment for polycystic ovary syndrome (PCOS) is lifestyle modification. However, it is currently unknown whether digital medicine can assist patients with PCOS in maintaining a healthy lifestyle while alleviating PCOS symptoms. This study aims to evaluate the efficacy of WeChat-based digital intervention versus metformin treatment in women with PCOS and insulin resistance. A total of 80 women with PCOS and insulin resistance were recruited from an endocrinology clinic and randomly assigned to receive either a WeChat-based digital intervention (n=40, 50%) or metformin (n=40, 50%) for 12 weeks. The WeChat-based digital intervention consisted of 3 modules; a coach assisted the patients in using the intervention. The primary outcome was the change in a homeostatic model assessment for insulin resistance. At baseline and after the 12-week intervention, anthropometric parameters, menstruation frequency, sex hormone levels, metabolic factors, and body fat distribution were measured in the clinic. Furthermore, self-assessed web-based questionnaires on diet, exercise, sleep, anxiety, and depression were obtained. A total of 72 participants completed the follow-up (for a 90% follow-up rate), including 35 of 40 (88%) participants from the digital intervention group and 37 of 40 (93%) participants from the metformin group. The homeostatic model assessment for insulin resistance in the digital intervention group was significantly improved after 12 weeks of treatment with a mean change of -0.93 (95% CI -1.64 to -0.23), but no statistical difference was observed between the groups (least squares mean difference -0.20; 95% CI -0.98 to 0.58; P=.62). Both digital intervention and metformin treatment significantly improved menstruation frequency (digital intervention: P<.001; metformin: P<.001) and reduced body weight (digital intervention: P<.001; metformin: P<.001) and total fat mass (digital intervention: P<.001; metformin: P<.001). Furthermore, the digital intervention had a significant advantage over metformin in improving waist circumference (least squares mean difference -1.84; 95% CI -3.44 to -0.24; P=.03), waist-to-hip ratio (least squares mean difference -0.02; 95% CI -0.03 to 0.00; P=.03), total fat mass (least squares mean difference -1.59; 95% CI -2.88 to -0.30; P=.02), and dehydroepiandrosterone sulfate (least squares mean difference -69.73; 95% CI -129.70 to -9.75; P=.02). In terms of safety, the main adverse events were sensations of hunger in the digital intervention group (2/40, 5%) and gastrointestinal adverse events in the metformin group (12/40, 30%). Our data suggest that digital intervention is an effective treatment option for patients with PCOS, with an efficacy comparable to that of metformin, and that it can also alleviate the negative effects of medications and make it easier and more efficient to adhere to lifestyle treatments. WeChat-based digital interventions have the potential to provide a new path for the improvement and health of women with PCOS in China. ClinicalTrials.gov NCT05386706; https://clinicaltrials.gov/study/NCT05386706.
+Finding additional ways to manage lymphedema due to lymphatic filariasis (LF) is a primary concern for the Global Program to Eliminate Lymphatic Filariasis. The WHO-recommended Essential Package of Care (EPC) consists of skin hygiene, elevation of affected limbs, exercise, protective shoe ware, wound care, and supportive therapy for acute phases. The care program has been successful but often hard to maintain. A double-blind study reexamined previous findings that doxycycline treatment could improve the lymphedematous changes in LF patients. The present study was carried out in a semi-urban location of Kerala, southern India, where Brugia sp. is the predominant parasite, and LF mass drug administration had ceased in many areas. Two hundred individuals (aged 14-65 years; 142 females and 58 males) with lymphedema of stages 1-3 were instructed in the EPC and were randomly administered either 200 mg doxycycline or an identical-appearing placebo daily for 6 weeks. Data were collected at 0, 3, 6, 12, 18, and 24 months and included the state of the lymphedema (size, cleanliness, skin thickness and changes), occurrence of adenolymphangitis (ADL) attacks, and patients' quality of life (QOL). The results demonstrated no difference over time between the two arms of the study; virtually all patients of both groups showed either improvement or "no worsening" in the parameters during the 2-year study period. Importantly, this rigorous trial confirmed that the EPC is of substantial benefit to lymphedema patients by reducing acute ADL and improving their QOL and clinical condition.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/55883
+- DOI: 10.4269/ajtmh.24-0337
 
 2. Keywords
-- digital intervention
-- insulin resistance
-- metformin
-- polycystic ovary syndrome
-- women&#x2019;s health
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- The results demonstrated no difference over time between the two arms of the study; virtually all patients of both groups showed either improvement or "no worsening" in the parameters during the 2-year study period
 
 This study provides insights into:
-- digital intervention assessment methods and outcomes
-- insulin resistance assessment methods and outcomes
-- metformin assessment methods and outcomes
+- General research methodology and outcomes

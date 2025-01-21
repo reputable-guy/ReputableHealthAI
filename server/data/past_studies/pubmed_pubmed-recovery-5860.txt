@@ -1,20 +1,26 @@
-Study Title: Ghrelin for Neuroprotection in Post-Cardiac Arrest Coma: A Randomized Clinical Trial.
+Study Title: Preoperative ketamine administration for prevention of postoperative neurocognitive disorders after major orthopedic surgery in elderly patients: A multicenter randomized blinded placebo-controlled trial.
 
 Study Summary:
-Out-of-hospital cardiac arrest survival rates have markedly risen in the last decades, but neurological outcome only improved marginally. Despite research on more than 20 neuroprotective strategies involving patients in comas after cardiac arrest, none have demonstrated unequivocal evidence of efficacy; however, treatment with acyl-ghrelin has shown improved functional and histological brain recovery in experimental models of cardiac arrest and was safe in a wide variety of human study populations. To determine safety and potential efficacy of intravenous acyl-ghrelin to improve neurological outcome in patients in a coma after cardiac arrest. A phase 2, double-blind, placebo-controlled, multicenter, randomized clinical trial, Ghrelin Treatment of Comatose Patients After Cardiac Arrest: A Clinical Trial to Promote Cerebral Recovery (GRECO), was conducted between January 18, 2019, and October 17, 2022. Adult patients 18 years or older who were in a comatose state after cardiac arrest were assessed for eligibility; patients were from 3 intensive care units in the Netherlands. Expected death within 48 hours or unfeasibility of treatment initiation within 12 hours were exclusion criteria. Patients were randomized to receive intravenous acyl-ghrelin, 600 &#x3bc;g (intervention group), or placebo (control group) within 12 hours after cardiac arrest, continued for 7 days, twice daily, in addition to standard care. Primary outcome was the score on the Cerebral Performance Categories (CPC) scale at 6 months. Safety outcomes included any serious adverse events. Secondary outcomes were mortality and neuron-specific enolase (NSE) levels on days 1 and 3. A total of 783 adult patients in a coma after cardiac arrest were assessed for eligibility, and 160 patients (median [IQR] age, 68 [57-75] years; 120 male [75%]) were enrolled. A total of 81 patients (51%) were assigned to the intervention group, and 79 (49%) were assigned to the control group. The common odds ratio (OR) for any CPC improvement in the intervention group was 1.78 (95% CI, 0.98-3.22; P&#x2009;=&#x2009;.06). This was consistent over all CPC categories. Mean (SD) NSE levels on day 1 after cardiac arrest were significantly lower in the intervention group (34 [6] &#x3bc;g/L vs 56 [13] &#x3bc;g/L; P&#x2009;=&#x2009;.04) and on day 3 (28 [6] &#x3bc;g/L vs 52 [14] &#x3bc;g/L; P&#x2009;=&#x2009;.08). Serious adverse events were comparable in incidence and type between the groups. Mortality was 37% (30 of 81) in the intervention group vs 51% (40 of 79) in the control group (absolute risk reduction, 14%; 95% CI, -2% to 29%; P&#x2009;=&#x2009;.08). In patients in a coma after cardiac arrest, intravenous treatment with acyl-ghrelin was safe and potentially effective to improve neurological outcome. Phase 3 trials are needed for conclusive evidence. Clinicaltrialsregister.eu: EUCTR2018-000005-23-NL.
+Preventive anesthetic impact on the high rates of postoperative neurocognitive disorders in elderly patients is debated. The Prevention of postOperative Cognitive dysfunction by Ketamine (POCK) study aimed to assess the effect of ketamine on this condition. This is a multicenter, randomized, double-blind, interventional study. Patients &#x2265;60 years undergoing major orthopedic surgery were randomly assigned in a 1:1 ratio to receive preoperative ketamine 0.5&#x2009;mg/kg as an intravenous bolus (n&#x2009;=&#x2009;152) or placebo (n&#x2009;=&#x2009;149) in random blocks stratified according to the study site, preoperative cognitive status and age. The primary outcome was the proportion of objective delayed neurocognitive recovery (dNR) defined as a decline of one or more neuropsychological assessment standard deviations on postoperative day 7. Secondary outcomes included a three-month incidence of objective postoperative neurocognitive disorder (POND), as well as delirium, anxiety, and symptoms of depression seven days and three months after surgery. Among 301 patients included, 292 (97%) completed the trial. Objective dNR occurred in 50 (38.8%) patients in the ketamine group and 54 (40.9%) patients in the placebo group (OR [95% CI] 0.92 [0.56; 1.51], p&#x2009;=&#x2009;0.73) on postoperative day 7. Incidence of objective POND three months after surgery did not differ significantly between the two groups nor did incidence of delirium, anxiety, apathy, and fatigue. Symptoms of depression were less frequent in the ketamine group three months after surgery (OR [95% CI] 0.34 [0.13-0.86]). A single preoperative bolus of intravenous ketamine does not prevent the occurrence of dNR or POND in elderly patients scheduled for major orthopedic surgery. (Clinicaltrials.gov NCT02892916).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1001/jamaneurol.2024.1088
+- DOI: 10.1016/j.accpm.2024.101387
 
 2. Keywords
-
+- Delayed neurocognitive recovery
+- Frailty
+- Ketamine
+- Orthopaedic surgery
+- Postoperative neurocognitive disorder
 
 3. Key Findings
-- Despite research on more than 20 neuroprotective strategies involving patients in comas after cardiac arrest, none have demonstrated unequivocal evidence of efficacy; however, treatment with acyl-ghrelin has shown improved functional and histological brain recovery in experimental models of cardiac arrest and was safe in a wide variety of human study populations
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Delayed neurocognitive recovery assessment methods and outcomes
+- Frailty assessment methods and outcomes
+- Ketamine assessment methods and outcomes

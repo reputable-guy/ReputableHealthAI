@@ -1,34 +1,26 @@
-Study Title: Trauma-focused and personality disorder treatment for posttraumatic stress disorder and comorbid cluster C personality disorder: a randomized clinical trial.
+Study Title: Hemodynamics and cerebral oxygenation during acute exercise in moderate normobaric hypoxia and with concurrent cognitive task in young healthy males.
 
 Study Summary:
-Posttraumatic stress disorder (PTSD) is associated with high rates of cluster C personality disorders (PD), which may negatively affect PTSD treatment. It is unknown whether concurrent treatment for PTSD and comorbid PD leads to superior treatment effects, compared to standard trauma-focused treatment.The objective was to test the efficacy of adding personality disorder treatment (group schema therapy; GST) to individual trauma-focused treatment (imagery rescripting; ImRs).A two-arm randomized clinical trial (1:1 allocation ratio) was conducted between 2018 and 2023 at two sites of a mental health institution in the Netherlands. Raters were blind to treatment allocation. Adult outpatients with PTSD and comorbid cluster C personality disorders were randomized to receive either ImRs (12-18 sessions) or ImRs&#x2009;+&#x2009;GST (12-18 ImRs&#x2009;+&#x2009;52-58 GST). The main outcome was PTSD severity one year after start of treatment measured with the Clinician-Administered PTSD Scale for DSM-5.Of 130 patients (mean [SD] age&#x2009;=&#x2009;40.6 [11.2], 110 [85%] females), 66 were assigned to ImRs and 64 to ImRs&#x2009;+&#x2009;GST. At 12 months, there were large decreases in PTSD severity (=&#x2009;2.42, 95%CI&#x2009;=&#x2009;1.97-2.87;=&#x2009;2.44, 95%CI&#x2009;=&#x2009;1.99-2.90), but there was no significant difference between conditions (=&#x2009;0.02, 95%CI&#x2009;=&#x2009;-0.33-0.36,=&#x2009;.944). Reductions in personality disorder symptoms and all other secondary outcomes were observed in both conditions. There were no significant differences between conditions on any of the secondary outcomes at 12 months.The more intensive concurrent trauma-focused and personality disorder treatment (ImRs&#x2009;+&#x2009;GST) was not superior to trauma-focused treatment alone (ImRs) for patients with PTSD and comorbid CPD. This suggests that trauma-focused treatment is the preferred primary treatment in patients presenting with both internalizing personality disorder and PTSD, reserving the stepping up to more intensive psychotherapy aimed at the personality disorder as a second line of treatment.ClinicalTrials.gov identifier: NCT03833531.
+The present investigation aimed to study the cardiovascular responses and the cerebral oxygenation (Cox) during exercise in acute hypoxia and with contemporary mental stress. Fifteen physically active, healthy males (age 29.0&#xa0;&#xb1;&#xa0;5.9 years) completed a cardiopulmonary test on a cycle ergometer to determine the workload at their gas exchange threshold (GET). On a separate day, participants performed two randomly assigned exercise tests pedaling for 6 min at a workload corresponding to 80% of the GET: (1) during normoxia (NORMO), and (2) during acute, normobaric hypoxia at 13.5% inspired oxygen (HYPO). During the last 3 min of the exercise, they also performed a mental task (MT). Hemodynamics were assessed with impedance cardiography, and peripheral arterial oxygen saturation and Cox were continuously measured by near-infrared spectroscopy. The main results were that both in NORMO and HYPO conditions, the MT caused a significant increase in the heart rate and ventricular filling rate. Moreover, MT significantly reduced (74.8&#xa0;&#xb1;&#xa0;5.5&#xa0;vs. 62.0&#xa0;&#xb1;&#xa0;5.2 A.U.) Cox, while the reaction time (RT) increased (813.3&#xa0;&#xb1;&#xa0;110.2&#xa0;vs. 868.2&#xa0;&#xb1;&#xa0;118.1&#xa0;ms) during the HYPO test without affecting the correctness of the answers. We conclude that in young, healthy males, adding an MT during mild intensity exercise in both normoxia and acute moderate (normobaric) hypoxia induces a similar hemodynamic response. However, MT and exercise in HYPO cause a decrease in Cox and an impairment in RT.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/20008066.2024.2382652
+- DOI: 10.1139/apnm-2023-0629
 
 2. Keywords
-- PTSD
-- TEPT
-- avoidant
-- cluster C
-- evitaci&#xf3;n
-- imagery rescripting
-- obsesivo-compulsivo
-- obsessive-compulsive
-- personality disorder
-- reescritura de im&#xe1;genes
-- schema therapy
-- terapia de esquemas
-- trastorno de personalidad
+- cardiac output
+- cerebral oxygenation
+- stroke volume
+- ventricular emptying rate
+- ventricular filling rate
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- PTSD assessment methods and outcomes
-- TEPT assessment methods and outcomes
-- avoidant assessment methods and outcomes
+- cardiac output assessment methods and outcomes
+- cerebral oxygenation assessment methods and outcomes
+- stroke volume assessment methods and outcomes

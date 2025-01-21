@@ -1,28 +1,25 @@
-Study Title: Acute and Repeated Ashwagandha Supplementation Improves Markers of Cognitive Function and Mood.
+Study Title: Effects of nurse-led brief behavioral treatment for insomnia in adults: a randomized controlled trial.
 
 Study Summary:
-Ashwagandha has been reported to reduce stress and attenuate cognitive decline associated with inflammation and neurodegeneration in clinical populations. However, the effects as a potential nootropic nutrient in younger populations are unclear. This study examined the effects of liposomal ashwagandha supplementation on cognitive function, mood, and markers of health and safety in healthy young men and women. 59 men and women (22.7 &#xb1; 7 yrs., 74.9 &#xb1; 16 kg, 26.2 &#xb1; 5 BMI) fasted for 12 h, donated a fasting blood sample, and were administered the COMPASS cognitive function test battery (Word Recall, Word recognition, Choice Reaction Time Task, Picture Recognition, Digit Vigilance Task, Corsi Block test, Stroop test) and profile of mood states (POMS). In a randomized and double-blind manner, participants were administered 225 mg of a placebo (Gum Arabic) or ashwagandha () root and leaf extract coated with a liposomal covering. After 60-min, participants repeated cognitive assessments. Participants continued supplementation (225 mg/d) for 30 days and then returned to the lab to repeat the experiment. Data were analyzed using a general linear model (GLM) univariate analysis with repeated measures and pairwise comparisons of mean changes from baseline with 95% confidence intervals (CI). Ashwagandha supplementation improved acute and/or 30-day measures of Word Recall (correct and recalled attempts), Choice Reaction Time (targets identified), Picture Recognition ("yes" correct responses, correct and overall reaction time), Digit Vigilance (correct reaction time), Stroop Color-Word (congruent words identified, reaction time), and POMS (tension and fatigue) from baseline more consistently with several differences observed between groups. Results support contentions that ashwagandha supplementation (225 mg) may improve some measures of memory, attention, vigilance, attention, and executive function while decreasing perceptions of tension and fatigue in younger healthy individuals. Retrospectively registered clinical trial ISRCTN58680760.
+We examined the effects of nurse-led brief behavioral treatment for insomnia (BBTI) on insomnia severity, sleep status, daytime function, quality of life, psychological distress levels, treatment response, and insomnia remission in young and middle-aged Asian adults with insomnia symptoms. This 2-parallel, randomized controlled trial recruited 42 participants with insomnia symptoms randomly allocated to the nurse-led BBTI group or sleep hygiene group. The outcome measurements included the Insomnia Severity Index, sleep diary, Pittsburgh Sleep Quality Index, Epworth Sleepiness Scale, Brief Fatigue Inventory, RAND-36 Health Status Inventory, and the Depression, Anxiety, and Stress Scale-21. The measurement time points included baseline, the end of each week of the intervention period, and 1-month follow-up. Compared with the sleep hygiene group, participants in the BBTI group had significantly improved insomnia severity, sleep onset latency, sleep efficiency, sleep quality, daytime sleepiness, and the mental components of quality of life after completing nurse-led BBTI immediately and 1 month later (< .05). In addition, 52.4% and 71.4% of the participants achieved remission after completing nurse-led BBTI immediately and 1 month later, which was significantly higher than in the sleep hygiene group (14.3%,= .02; 14.3%,< .001, respectively). We suggested the relative effects of BBTI on declined insomnia severity and improved sleep status among young and middle-aged Asian adults with insomnia symptoms and confirmed the benefits of nurse-led BBTI in alleviating insomnia. Nurses should incorporate BBTI into insomnia care further to enhance the daytime function and quality of life of the population with insomnia symptoms. Registry: ClinicalTrials.gov; Name: Effects of Nurse-led Brief Behavioral Treatment for Insomnia: A Feasibility Randomized Controlled Trial; URL: https://clinicaltrials.gov/study/NCT05310136; Identifier: NCT05310136. Chang K-M, Lin C-J, Jan Y-W, et&#xa0;al. Effects of nurse-led brief behavioral treatment for insomnia in adults: a randomized controlled trial.2024;20(11):1763-1772.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16121813
+- DOI: 10.5664/jcsm.11256
 
 2. Keywords
-- attention
-- cognition
-- executive function
-- memory
-- mood
-- nootropic
-- vigilance
+- adults
+- behavioral therapy
+- insomnia
+- nurse-led
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- attention assessment methods and outcomes
-- cognition assessment methods and outcomes
-- executive function assessment methods and outcomes
+- adults assessment methods and outcomes
+- behavioral therapy assessment methods and outcomes
+- insomnia assessment methods and outcomes

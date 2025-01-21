@@ -1,26 +1,26 @@
-Study Title: A sensor platform based on SERS detection/janus textile for sweat glucose and lactate analysis toward portable monitoring of wellness status.
+Study Title: Time to reach equilibrium deep body temperatures in young and older adults resting in the heat: a descriptive secondary analysis.
 
 Study Summary:
-Herein we report a wearable sweat sensor of a Janus fabric based on surface enhanced Raman scattering (SERS) technology, mainly detecting the two important metabolites glucose and lactate. Janus fabric is composed of electrospinning PU on a piece of medical gauze (cotton), working as the unidirectional moisture transport component (R&#xa0;=&#xa0;1305%) to collect and transfer sweat efficiently. SERS tags with different structures act as the probe to recognize and detect the glucose and lactate in high sensitivity. Core-shell structured gold nanorods with DTNB inside (AuNRs@DTNB@Au) are used to detect lactate, while gold nanorods with MPBA (AuNRs@MPBA) are used to detect glucose. Through the characteristic SERS information, two calibration functions were established for the concentration determination of glucose and lactate. The concentrations of glucose and lactate in sweat of a 23 years volunteer during three-stage interval running are tested to be 95.5, 53.2, 30.5&#xa0;&#x3bc;M and 4.9, 13.9, 10.8&#xa0;mM, indicating the glucose (energy) consumption during exercise and the rapid accumulation of lactate at the early stage accompanied by the subsequent relief. As expected, this sensing system is able to provide a novel strategy for effective acquisition and rapid detection of essential biomarkers in sweat.
+It is commonly thought that steady-state thermoregulatory responses are achieved within 30-90 min of compensable heat stress. However, this assumption is based on measurements of whole body heat exchange during exercise, which stabilize (equilibrate) more rapidly than deep body temperatures, especially under resting conditions. To support the design of ecologically relevant heat exposure studies, we quantified equilibrium times for deep body temperature, as indexed by rectal temperature, in young and older adults resting in the heat. We also evaluated the lag in rectal temperature equilibrium relative to whole body heat storage (direct calorimetry). Equilibrium times were estimated with data from two laboratory-based trials (NCT04353076 and NCT04348630) in which 83 adults aged 19-80 yr (34 female) were exposed to simulated heat-wave conditions for 8-9 h. When assessed at the group level, it took rectal temperature 3.3 [bootstrap 95% confidence interval: 2.9-3.9] h to reach thermal equilibrium (<0.05&#xb0;C/h rate of change) in young adults exposed to 40&#xb0;C, 9% relative humidity (RH). In older adults, who were exposed to a greater range of conditions (31&#xb0;C-40&#xb0;C, 9-45% RH), equilibrium times were longer, ranging from 4.4 [3.8-5.3] to 5.2 [4.9-5.4] h. Furthermore, rectal temperature equilibrium was delayed 0.9 [0.5-1.4] and 1.8 [0.9-2.7] h compared with whole body heat storage in young and older adults, respectively (only assessed in 40&#xb0;C, 9% RH). Individual-level equilibrium times ranged from 1 to 8 h. These findings highlight the importance of ecologically relevant exposure durations in translational research assessing the physiological impacts of hot weather.Deep body (rectal) temperature took 3-5 h on average and up to 6-8 h at the individual level to reach thermal equilibrium in young and older adults resting in the heat. Furthermore, stable rectal temperatures were delayed by up to 2 h relative to the achievement of heat balance (0 kJ/min rate of heat storage). We provide the first quantification of the temporal profiles of thermal strain during extended rest in conditions simulating hot weather.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.bios.2024.116612
+- DOI: 10.1152/ajpregu.00089.2024
 
 2. Keywords
-- Glucose and lactate monitoring
-- Gold nanorods
-- Janus fabric
-- SERS detection
-- Sweat sensor
+- aging
+- climate change
+- extreme heat
+- thermal physiology
+- thermoregulation
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Glucose and lactate monitoring assessment methods and outcomes
-- Gold nanorods assessment methods and outcomes
-- Janus fabric assessment methods and outcomes
+- aging assessment methods and outcomes
+- climate change assessment methods and outcomes
+- extreme heat assessment methods and outcomes

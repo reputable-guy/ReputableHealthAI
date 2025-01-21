@@ -1,28 +1,27 @@
-Study Title: Three-arm clinical trial of improved flour targeting intestinal microbiota (MALINEA).
+Study Title: The dynamic responses of mood and sleep physiology to chronic sleep restriction and subsequent recovery sleep.
 
 Study Summary:
-The main objective of this project was to compare in the field conditions two strategies of re-nutrition of children with moderate acute malnutrition (MAM) aged from 6 to 24 months, targeting the microbiota in comparison with a standard regimen. A three-arm, open-label, pragmatic randomised trial was conducted in four countries (Niger, CAR, Senegal and Madagascar). Children received for 12 weeks either fortified blended flour (FBF control)&#x2009;=&#x2009;arm 1, or FBF&#x2009;+&#x2009;azithromycin (oral suspension of 20&#x2009;mg/kg/day daily given with a syringe) for the first 3 days at inclusion&#x2009;=&#x2009;arm 2 or mix FBF with inulin/fructo-oligosaccharides (6&#x2009;g/day if age &#x2265;12 months and 4&#x2009;g if age <12 months)&#x2009;=&#x2009;arm 3. For each arm, children aged from 6 to 11 months received 100&#x2009;g x 2 per day of flours and those aged from 12 to 24 months received 100&#x2009;g &#xd7; 3 per day of FBF. The primary endpoint was nutritional recovery, defined by reaching a weight-for-height z-score (WHZ)&#x2009;&#x2265;&#x2009;-1.5 within 12 weeks. Overall, 881 children were randomised (297, 290 and 294 in arm 1, arm 2 and arm 3, respectively). Three hundred and forty-four children were males (39%) and median/mean age were 14.6/14.4 months (SD&#x2009;=&#x2009;4.9, IQR&#x2009;=&#x2009;10.5-18.4). At inclusion, the three arms were comparable for all criteria, but differences were observed between countries. Overall, 44% (390/881) of the children recovered at week 12 from MAM, with no significant difference between the three arms (41.4%, 45.5% and 45.9%, in arm 1, arm 2 and arm 3, respectively, p&#x2009;=&#x2009;0.47). This study did not support the true advantages of adding a prebiotic or antibiotic to flour. When using a threshold of WHZ&#x2009;&#x2265;&#x2009;-2 as an exploratory endpoint, significant differences were observed between the three arms, with higher success rates in arms with antibiotics or prebiotics compared to the control arm (66.9%, 66.0% and 55.2%, respectively, p&#x2009;=&#x2009;0.005).
+Healthy sleep of sufficient duration preserves mood and disturbed sleep is a risk factor for a range of psychiatric disorders. As adults commonly experience chronic sleep restriction (SR), an enhanced understanding of the dynamic relationship between sleep and mood is needed, including whether susceptibility to SR-induced mood disturbance differs between sexes. To address these gaps, data from N&#x2005;=&#x2005;221 healthy adults who completed one of the two multi-day laboratory studies with identical 9-day SR protocols were analyzed. Participants randomized to the SR (n&#x2005;=&#x2005;205) condition underwent 5 nights of SR to 4 hours of time-in-bed and were then randomized to one of the seven sleep doses that ranged from 0 to 12 hours in 2 hours increments; participants randomized to the control (n&#x2005;=&#x2005;16) condition received 10 hours time-in-bed on all study nights. The Profile of Mood States (POMS) was used to assess mood every 2 hours during wakefulness and markers of sleep homeostasis (EEG slow-wave activity (SWA)) were derived via polysomnography. Mood progressively deteriorated across SR with marked disturbances in somatic mood components. Altered sleep physiology contributed to mood disturbance whereby increased EEG SWA was associated with increased POMS Total Mood Disturbance scores, a finding specific to males. The mood was restored in a dose-response fashion where improvements were greater with longer sleep doses. These findings suggest that when lifestyle and environmental factors are inhibited in the laboratory, the affective consequences of chronic sleep loss are primarily somatic mood disturbances. Altered sleep homeostasis may contribute to mood disturbance, yet sleep-dependent mechanisms may be sex-specific.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/mcn.13649
+- DOI: 10.1093/sleep/zsae091
 
 2. Keywords
-- Central African Republic
-- Madagascar
-- Niger
-- Senegal
-- malnutrition
-- microbiota
-- prebiotic
+- mood
+- recovery
+- sex differences
+- sleep physiology
+- sleep restriction
+- slow-wave activity
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Central African Republic assessment methods and outcomes
-- Madagascar assessment methods and outcomes
-- Niger assessment methods and outcomes
+- mood assessment methods and outcomes
+- recovery assessment methods and outcomes
+- sex differences assessment methods and outcomes

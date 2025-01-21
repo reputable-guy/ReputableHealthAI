@@ -1,20 +1,26 @@
-Study Title: Inflammation, physical activity, and disease-free survival in stage III colon cancer: Cancer and Leukemia Group B-Southwest Oncology Group 80702 (Alliance).
+Study Title: Head-neck cooling effects on central and peripheral fatigue, motor accuracy, and blood markers of stress in men with multiple sclerosis and healthy men: A randomized crossover study.
 
 Study Summary:
-Inflammation and insufficient physical inactivity contribute to individual-level risk of disease recurrence and death in stage III colon cancer. The extent to which increased inflammatory risk can be offset by sufficient physical activity remains unknown. This cohort study was nested within the Cancer and Leukemia Group B (now part of the Alliance for Clinical Trials in Oncology) and Southwest Oncology Group randomized trial. Inflammatory burden was quantified by high-sensitivity C-reactive protein, interleukin-6, and soluble tumor necrosis factor-&#x3b1; receptor 2 after recovery from tumor resection. Physical activity was measured during and after postoperative chemotherapy. The primary endpoint was disease-free survival. The 3-year disease-free survival rate was 88.4% among patients with low inflammation and sufficient physical activity (referent group for all comparisons), 84.9% with low inflammation and insufficient physical activity (absolute risk difference = -3.5 percentage points, 95% confidence interval [CI] = -11.3 to 4.3; P&#x2009;=&#x2009;.38), 78.0% with intermediate inflammation and insufficient physical activity (absolute risk difference = -10.4 percentage points, 95% CI = -17.4 to -3.3; P&#x2009;=&#x2009;.007), and 79.7% with high inflammation and insufficient physical activity (absolute risk difference = -8.7 percentage points, 95% CI = -15.7 to -1.6; P&#x2009;=&#x2009;.022). In contrast, the 3-year disease-free survival rate was 87.3% among patients with intermediate inflammation and sufficient physical activity (absolute risk difference = -1.1 percentage points, 95% CI = -7.5 to 5.3; P&#x2009;=&#x2009;.74) and 84.4% with high inflammation and sufficient physical activity (absolute risk difference = -4.0 percentage points, 95% CI = -12.3 to 4.3; P&#x2009;=&#x2009;.34). In this observational study of stage III colon cancer patients, physical activity was associated with improved disease-free survival despite high inflammation. Patients with intermediate or high inflammation who were physically active had disease-free survival rates that were not statistically significantly different from those with low inflammation.
+The present study aimed to investigate whether head and neck cooling (at 18 &#xb0;C next to the skin) and fatiguing submaximal exercise at a thermoneutral ambient temperature can induce peripheral and central responses in healthy men and those with multiple sclerosis (MS). A local head-neck cooling (at 18 &#xb0;C next to the skin) intervention in men with a relapsing-remitting form of MS (n = 18; age 30.9 &#xb1; 8.1 years) and healthy men (n = 22; age 26.7 &#xb1; 5.9 years) was assessed. Men in both groups performed 100 intermittent isometric knee extensions with 5 s contractions and 20 s of rest. The primary variables were measured before exercise, after 50 and 100 repetitions, and 1 h after recovery. The central activation ratio, maximal voluntary contraction, electrically induced force, electromyography, contractile properties, blood markers, muscle temperature, and perception of effort were measured. Compared with noncooled conditions, head and neck cooling increased the central capacity to activate exercising muscles but resulted in greater exercise-induced peripheral fatigue in men with MS (p < 0.05). Local cooling did not affect motor accuracy or the amplitude of electromyography signals; however, these factors were related to the intensity of the motor task (p > 0.05). The changes in central and peripheral fatigability induced by local cooling during submaximal exercise were more pronounced in men with MS than in healthy men (p < 0.05). Head and neck cooling enhances central activation of muscles during exercise, leading to improved exercise performance compared with noncooled conditions in men with MS.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/jnci/djae203
+- DOI: 10.1016/j.msard.2024.105840
 
 2. Keywords
-
+- Fatigability
+- Local cooling
+- Motor performance
+- Multiple sclerosis
+- Stress hormones
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Fatigability assessment methods and outcomes
+- Local cooling assessment methods and outcomes
+- Motor performance assessment methods and outcomes

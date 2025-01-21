@@ -1,25 +1,27 @@
-Study Title: Can extending time between vital sign checks improve sleep in hematopoietic stem cell transplant patients? Testing feasibility, acceptability, and preliminary efficacy.
+Study Title: Depressive Syndromes in Men With Hypogonadism in the TRAVERSE Trial: Response to Testosterone-Replacement Therapy.
 
 Study Summary:
-Patients undergoing hematopoietic stem cell transplant (HSCT) experience barriers to quality sleep. Frequent vital sign checks are necessary early posttransplant given risk of complications but can disrupt sleep. This study tested feasibility and acceptability of extending time between checking vitals (EVs) from every 4 to every 6&#xa0;h to improve sleep. HSCT patients ages 8-21 years (N&#xa0;=&#xa0;50, mean age&#xa0;=&#xa0;14.06, SD&#xa0;=&#xa0;3.58) and their caregivers were enrolled 1-2 days prior to transplant, and 40 patients completed the 15-day study (NCT04106089). Patients wore an actigraph to estimate sleep and provided self- and caregiver-report of sleep. Sleep was observed for nights 0 to +4 posttransplant, and patients were then randomized to EVs either Days +5 to +9 or +10 to +14. Patients were assessed daily for medical eligibility to receive EVs; on days patients were eligible, nightshift nurses (N&#xa0;=&#xa0;79) reported EV acceptability. Of 200 potential nights for EVs (5 nights x 40 patients), patients were eligible for EVs on 126 nights (63% of eligible nights), and patients received EVs on 116 (92%) of eligible nights. Most patients received EVs &#x2265;3 nights (n&#xa0;=&#xa0;26, 65%, median&#xa0;=&#xa0;3 nights). Most patients (85%), caregivers (80%), and nurses (84%) reported that patients used the additional 2&#xa0;h during EVs for sleep, with reporters indicating moderate to high acceptability. There was preliminary evidence of efficacy indicated by caregiver-reported sleep disturbance and actigraphy-estimated improvements in sleep efficiency during EVs. Extending time between vitals checks is highly acceptable to patients, caregivers, and nurses, and may offer a feasible approach to improve sleep in pediatric HSCT.
+The effect of testosterone on depressive symptoms in men with hypogonadism remains incompletely understood. We assessed the effects of testosterone-replacement therapy (TRT) in improving depressive symptoms in hypogonadal men with and without depressive symptoms enrolled in the TRAVERSE cardiovascular safety trial. A randomized, placebo-controlled, double-blind study was conducted at 316 trial sites. Participants included men, aged 45 to 80 years, with 2 fasting testosterone levels less than 300 ng/dL, 1 or more hypogonadal symptoms, cardiovascular disease (CVD), or increased risk of CVD. We evaluated 3 subgroups of participants: (1) men with rigorously defined, late-life-onset, low-grade persistent depressive disorder (LG-PDD, previously "dysthymia"); (2) all men with significant depressive symptoms (Patient Health Questionnaire-9 Score >4); and (3) all randomly assigned men. Intervention included 1.62% transdermal testosterone or placebo gel. Outcome measures included the proportions of participants (1) meeting criteria for LG-PDD or (2) with significant depressive symptoms; and changes in depressive symptoms, energy, sleep quality, and cognition in testosterone-treated vs placebo-treated men in the 3 subgroups. Of 5204 randomly assigned participants, 2643 (50.8%) had significant depressive symptoms, but only 49 (1.5%) met rigorous criteria for LG-PDD. Among those with LG-PDD, there was no significant difference in any outcome measure between the TRT and placebo groups, possibly reflecting low statistical power. In men with significant depressive symptoms (n = 2643) and in all randomly assigned participants (n = 5204), TRT was associated with modest but significantly greater improvements in mood and energy but not cognition or sleep quality. Depressive symptoms are common in middle-aged and older men with hypogonadism but LG-PDD is uncommon. TRT is associated with small improvements in mood and energy in hypogonadal men with and without significant depressive symptoms.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/pbc.30832
+- DOI: 10.1210/clinem/dgae026
 
 2. Keywords
-- hematopoietic stem cell transplant
-- intervention
-- pediatric
-- sleep
+- depressive symptoms
+- dysthymia/low-grade persistent depressive disorder
+- energy/fatigue
+- hypogonadism
+- major depressive disorder
+- sleep and cognition
 
 3. Key Findings
-- There was preliminary evidence of efficacy indicated by caregiver-reported sleep disturbance and actigraphy-estimated improvements in sleep efficiency during EVs
+- Findings extraction requires manual review
 
 This study provides insights into:
-- hematopoietic stem cell transplant assessment methods and outcomes
-- intervention assessment methods and outcomes
-- pediatric assessment methods and outcomes
+- depressive symptoms assessment methods and outcomes
+- dysthymia/low-grade persistent depressive disorder assessment methods and outcomes
+- energy/fatigue assessment methods and outcomes

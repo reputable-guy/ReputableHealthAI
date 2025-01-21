@@ -1,27 +1,27 @@
-Study Title: Altered oxidative neurometabolic response to methylene blue in bipolar disorder revealed by quantitative neuroimaging.
+Study Title: A Change-Point Method to Detect Meaningful Change in Return-to-Sport Progression in Athletes.
 
 Study Summary:
-Cerebral mitochondrial and hemodynamic abnormalities have been implicated in Bipolar Disorder pathophysiology, likely contributing to neurometabolic vulnerability-leading to worsen clinical outcomes and mood instability. To investigate neurometabolic vulnerability in patients with BD, we combined multi-modal quantitative MRI assessment of cerebral oxygenation with acute administration of Methylene Blue, a neurometabolic/hemodynamic modulator acting on cerebral mitochondria. Fifteen euthymic patients with chronic BD-type 1, and fifteen age/gender-matched healthy controls underwent two separate MRI sessions in a single-blinded randomized cross-over design, each after intravenous infusion of either MB (0.5&#xa0;mg/kg) or placebo. MRI-based measures of Cerebral Blood Flow and Oxygen Extraction Fraction were integrated to compute Cerebral Metabolic Rate of Oxygen in Frontal Lobe, Anterior Cingulate, and Hippocampus-implicated in BD neurometabolic pathophysiology. Inter-daily variation in mood rating was used to assess mood instability. A decrease in global CBF and CMROwas observed after acutely administrating MB to all participants. Greater regional CMROreductions were observed after MB, in patients compared to controls in FL (mean&#xa0;=&#xa0;-14.2&#xa0;&#xb1;&#xa0;19.5&#xa0;% versus 2.3&#xa0;&#xb1;&#xa0;14.8&#xa0;%), ACC (mean&#xa0;=&#xa0;-14.8&#xa0;&#xb1;&#xa0;23.7&#xa0;% versus 2.4&#xa0;&#xb1;&#xa0;15.7&#xa0;%). The effects on CMROin those regions were primarily driven by patients with longer disease duration and higher mood instability. Sample size; medications potentially impacting on response to MB. An altered neurometabolic response to MB, a mitochondrial/hemodynamic modulator, was observed in patients, supporting the hypothesis of vulnerability to neurometabolic stress in BD. Integrating quantitative imaging of cerebral oxygen metabolism with a mitochondrial-targeting pharmacological challenge could provide a novel biomarker of neurometabolic and cerebrovascular pathophysiology in BD.
+To explore how the change-point method can be used to analyze complex longitudinal data and detect when meaningful changes (change points) have occurred during rehabilitation. This design is a prospective single-case observational study of a football player in a professional club who sustained an acute lower-limb muscle injury during high-speed running in training. The rehabilitation program was entirely completed in the football club under the supervision of the club's medical team. Four wellness metrics and 5 running-performance metrics were collected before the injury and until the player returned to play. Data were collected over 130&#xa0;days. In the univariate analysis, the change points for stress, sleep, mood, and soreness were located on days 30, 47, 50, and 50, respectively. The change points for total distance, acceleration, maximum speed, deceleration, and high-speed running were located on days 32, 34, 37, 41, and 41, respectively. The multivariate analysis resulted in a single change point for the wellness metrics and running-performance metrics, on days 50 and 67, respectively. The univariate approach provided information regarding the sequence and time point of the change points. The multivariate approach provided a common change point for multiple metrics, information that would benefit clinicians to have a broad overview of the changes in the rehabilitation process. Clinicians may consider the change-point method to integrate and visualize data from multiple sources to evaluate athletes' progression along the return-to-sport continuum.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jad.2024.07.029
+- DOI: 10.1123/ijspp.2023-0178
 
 2. Keywords
-- Bipolar disorder
-- CMRO(2)
-- Cerebral blood flow
-- Mitochondria
-- Neuroimaging
-- Neuroprogression
+- complex systems
+- decision making
+- machine learning
+- nonlinearity
+- return to play
+- time-series analysis
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Bipolar disorder assessment methods and outcomes
-- CMRO(2) assessment methods and outcomes
-- Cerebral blood flow assessment methods and outcomes
+- complex systems assessment methods and outcomes
+- decision making assessment methods and outcomes
+- machine learning assessment methods and outcomes

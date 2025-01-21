@@ -1,27 +1,26 @@
-Study Title: Optimizing antidepressant benefits: Effect of theta burst stimulation treatment in physically active people with treatment-resistant depression.
+Study Title: Implementing changing behaviour towards aerobic and strength exercise: Results of a randomised, phase I study determining the safety, feasibility, and consumer-evaluation of an online exercise program in persons with multiple sclerosis.
 
 Study Summary:
-Theta burst stimulation (TBS) is a promising therapy for treatment-resistant major depressive disorder (MDD), but a significant proportion of individuals do not respond adequately, necessitating alternative approaches. This study explores whether individuals meeting minimum recommended physical activity levels demonstrate better responses to TBS compared to physically inactive individuals. Using data from a randomized controlled trial (n&#xa0;=&#xa0;43), participants were categorized as physically active or inactive based on baseline International Physical Activity Questionnaire (IPAQ) scores. Depression scores (Hamilton Rating Scale for Depression, 17-item; HRSD-17) were assessed at baseline, 4, and 6&#xa0;weeks of TBS treatment. A significant Time X Group effect adjusted for age and baseline depression was observed. Physically active individuals consistently exhibited lower depression scores across time points. At 4 and 6&#xa0;weeks, there was a significant increase in between-group differences, indicating that the physically active group derived greater benefits from treatment. At 6&#xa0;weeks, a significantly higher proportion of responders (&#x2265;50&#xa0;% HRSD-17 reduction) were observed in the physically active compared to inactive group. Physical activity significantly contributed to regression and logistic models predicting treatment response. These findings support the potential role of baseline physical activity in enhancing TBS therapy for MDD.
+Many people with MS do not meet the recommended exercise regime to elicit health benefits. This study aimed to determine the feasibility, safety, acceptability, and appropriateness of an exercise intervention delivered online to persons with MS that meets current exercise recommendations and behaviour change principles. Seventy-two participants (age: 43.3&#xa0;&#xb1;&#xa0;13.3&#xa0;years) with mild to moderate MS were stratified according to previous exercise behaviour and block-randomised into one of three groups: Control (CON; n&#xa0;=&#xa0;24), General Exercise (GE; n&#xa0;=&#xa0;24) who at screening did not meet current exercise recommendations, and Advanced Exercise, (AE; n&#xa0;=&#xa0;24) who at screening met the current exercise recommendations. GE and AE groups received a four-month online-supervised, behaviour change theory-based exercise program and were assessed at baseline, four-months, five-months, and eleven-months for physical activity participation. The feasibility of process, resources, management, and scientific outcomes was assessed. Of 198 potential participants, 143 met the eligibility criteria (72&#xa0;%), and 72 were randomised. Fifty-three participants completed the intervention (74&#xa0;% immediate retention), and 44 were retained at the six-month follow-up (61&#xa0;%). Personnel time was 369&#xa0;h, and total per-participant cost was Au$1036.20. Adherence rate to &#x2265;70&#xa0;% of exercise sessions was 73&#xa0;% (GE) and 38&#xa0;% (AE). The GE group observed a small magnitude of improvement in physical activity (d&#xa0;=&#xa0;-0.23). An online exercise program embedded with behaviour interventions for either GE or AE appears feasible, acceptable, appropriate and safe and may show long-term efficacy in increased exercise behaviours for persons with mild to moderate MS. ANZCRT number ACTRN12619000228189p.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jad.2024.09.024
+- DOI: 10.1016/j.cct.2024.107686
 
 2. Keywords
-- Major depressive disorder
-- Physical exercise
-- Predictors of response
-- Theta burst stimulation (TBS)
-- Transcranial magnetic stimulation (TMS)
-- Treatment resistant depression
+- Behavioural intervention
+- Exercise
+- Feasibility
+- Implementation
+- Multiple sclerosis
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Major depressive disorder assessment methods and outcomes
-- Physical exercise assessment methods and outcomes
-- Predictors of response assessment methods and outcomes
+- Behavioural intervention assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- Feasibility assessment methods and outcomes

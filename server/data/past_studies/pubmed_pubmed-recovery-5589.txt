@@ -1,26 +1,27 @@
-Study Title: The Influence of Piriform Recess Instillation with Lidocaine Before Bronchoscopy on Post-General Anesthesia Cough: A Randomized Controlled Trial.
+Study Title: Differences in the Cellular Immune Response during and after Treatment of Sudanese Patients with Post-kala-azar Dermal Leishmaniasis, and Possible Implications for Outcome.
 
 Study Summary:
-Postoperative cough is a common complication of general anesthesia after bronchoscopy. The aim of the present study was to determine the safety profile and efficacy of piriform recess instillation with lidocaine in reducing the incidence of coughing. To what extent could piriform recess instillation with lidocaine decrease the incidence of cough at 10min after extubation? Eighty-eight consecutive patients were equally randomized to a lidocaine group receiving piriform recess instillation with 2mL 2% lidocaine, and a normal saline group receiving piriform recess instillation with 2mL saline. The primary outcome was the incidence of cough after extubation, and the secondary outcomes were throat score at 10 min and 6 h after extubation assessed by the numerical rating scale, cough severity at 10 min and 6 h after extubation assessed by the Visual Analog Scale (VAS), 24 h 40-item Quality of Recovery Score (QoR-40), and subject-rated satisfaction score on a VAS. Compared with saline group, the incidence of cough in lidocaine group was significantly lower (63.6% vs 86.4%,=0.014). The sore throat score at 10 min after extubation was significantly lower (0[0,0] vs 1[0,2],<0.001). The subject-rated overall anesthesia satisfaction score was significantly higher (84.8[&#xb1;6.2] vs 76.6[&#xb1;8.6],<0.001). The severity of cough at 10 min after extubation was significantly lower (Mild: 36.4% vs 11.4%,=0.006; Severe: 9.1% vs 43.2%,<0.001). There was no significant difference in the sore throat score at 6 h after extubation, severity of cough at 6 h after extubation, or QoR-40 at 24 h after extubation between the two groups. Piriform recess instillation with lidocaine before bronchoscopy is a simple and effective method for reducing early cough intensity and alleviating early sore throat. At 6 hours, there were no differences observed between the groups. Chinese Clinical Trial Registry (identifier: ChiCTR2200067087).
+The host cellular immune response associated with two treatments for post-kala-azar dermal leishmaniasis (PKDL) - paromomycin plus miltefosine (Arm 1), and liposomal amphotericin B plus miltefosine (Arm 2) - was examined in Sudanese patients before treatment (D0), at the end of treatment (D42), and during the post-treatment period (D180). Whole blood samples were stimulated with soluble Leishmania antigen for 24&#xa0;h (whole blood assay [WBA]) and the concentrations of Th1/Th2/Th17-associated cytokines, IP-10, PDL-1 and granzyme B were determined. The Arm 1 treatment (98.2% cure rate) induced a Th1/Th2/Th17 response, while the Arm 2 treatment (80% cure rate) induced a Th1/Th2 response. Five Arm 2 patients relapsed and showed lower IFN-&#x3b3;, TNF and IL-1&#x3b2; concentrations at D0 than non-relapsers in this Arm. In patients with low-IFN-&#x3b3;-production at D0, Arm 1 treatment led to a better host immune response and clinical outcome than Arm 2 treatment. A Th1/Th2/Th17 response was associated with a higher cure rate. Patients with low IFN-&#x3b3;, TNF and IL-1&#x3b2; before treatment are more likely to relapse if they undergo Arm 2-type treatment. Determining IFN-&#x3b3;, TNF and IL-10 levels prior to treatment could help predict patients at higher risk of relapse/recovery from PKDL. ClinicalTrials.gov NCT03399955, Registered 17 January 2018, https://clinicaltrials.gov/study/ NCT03399955.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/DDDT.S458058
+- DOI: 10.1007/s44197-024-00270-0
 
 2. Keywords
-- bronchoscopy
-- cough
-- general anesthesia
-- lidocaine
-- piriform recess
+- Cytokines
+- Leishmaniasis
+- Outcome
+- PKDL
+- Treatment
+- Whole blood assay
 
 3. Key Findings
-- Findings extraction requires manual review
+- Five Arm 2 patients relapsed and showed lower IFN-&#x3b3;, TNF and IL-1&#x3b2; concentrations at D0 than non-relapsers in this Arm
 
 This study provides insights into:
-- bronchoscopy assessment methods and outcomes
-- cough assessment methods and outcomes
-- general anesthesia assessment methods and outcomes
+- Cytokines assessment methods and outcomes
+- Leishmaniasis assessment methods and outcomes
+- Outcome assessment methods and outcomes

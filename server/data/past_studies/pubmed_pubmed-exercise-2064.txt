@@ -1,27 +1,24 @@
-Study Title: The acute effects of whole-body vibration exercise on cortical activation in young adults: An fNIRS study.
+Study Title: Elastic Bands During Half-Squats as A Re-Warm-Up Strategy for Youth Soccer Players' Performance.
 
 Study Summary:
-Whole-body vibration (WBV) training has emerged as an alternative exercise modality for individuals unable to participate in regular physical activity. While previous studies demonstrated positive effects of WBV on physical outcomes, its impact on cognition remains relatively unexplored, despite studies suggesting cognitive benefits. This study aims to investigate the cortical activation patterns in the primary somatosensory cortex (S1) and dorsolateral prefrontal cortex (DLPFC) during WBV and a subsequent cognitive task. Oxygenated hemoglobin (HbO2) levels in the brain were measured using functional near-infrared spectroscopy (fNIRS). Cognitive functioning was assessed using the Stroop Color-Word Interference (CWIT) and Color-Block test (CBT). Twenty-four participants (21.50&#x202f;&#xb1;&#x202f;1.59 years, 11 female) were randomly assigned to one of twelve balanced orders, involving different frequencies (24&#x202f;Hz, 12&#x202f;Hz, control) and postures (sitting or standing) on a side-alternating vibration plate. HbO2 levels were lower at 12 and 24&#x202f;Hz versus control, most prominently in the left DLPFC. During the CWIT, HbO2 levels tended to be higher after WBV versus control. CWIT performance significantly improved after WBV versus control at 12&#x202f;Hz in sitting posture, and at 12 and 24&#x202f;Hz in standing posture. Our results point towards decreased cortical activation during WBV, especially in the left DLPFC, but beneficial effects as a consequence of WBV expressed in increased activation during the CWIT and improved cognitive performance, indicating cognitive readiness. These results underscore the potential efficacy of WBV as a cognitive-enhancing therapy. Replicating these findings in older adults would enhance the study's generalizability and practical implications.
+The study aimed to assess the immediate effects of re-warm-up strategies using half-squats with elastic looped bands on the performance of youth soccer players. A cross-over study design with repeated measures was implemented in field youth male soccer players (n = 20, age 15.7 &#xb1; 0.8 years). Following the first 45-min of match play, players were subjected to one of four re-warm-up (Re-w) interventions of equal duration: no Re-w (PAS), half-squat without elastic looped bands (SQ), half-squat with bands placed on the thighs (SQT), and half-squat with bands placed on the lower legs (SQL). These interventions were compared against a control condition (CON). The Re-w protocols were initiated 10-min after half-time, and players' performance was evaluated through vertical and horizontal jump tests, 20-m linear sprint, and T-agility test. Statistical analysis using ANOVA revealed that the SQT and SQL interventions significantly improved (p < 0.001) several performance metrics compared to the PAS and SQ conditions. These improvements were observed in squat jumps, unilateral squat jumps (both dominant and non-dominant legs), countermovement jumps, horizontal jumps, triple horizontal jumps, the 20-m linear sprint, and T-agility performance. In conclusion, SQT and SQL are equally effective to enhance performance as Re-w strategies after the 1-half of a soccer match. However, the lack of physiological data and 2-half assessments suggests the need for further research to confirm the persistence of these effects.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1016/j.bbr.2024.115381
+- Publication Date: 2024
+- DOI: 10.52082/jssm.2024.843
 
 2. Keywords
-- Cognition
-- DLPFC
-- Hemoglobin
-- Near infrared spectrometry
-- Oxygenation
-- Somatosensory cortex
+- Human physical conditioning
+- athletic performance
+- warm-up exercise
 
 3. Key Findings
-- While previous studies demonstrated positive effects of WBV on physical outcomes, its impact on cognition remains relatively unexplored, despite studies suggesting cognitive benefits
+- Statistical analysis using ANOVA revealed that the SQT and SQL interventions significantly improved (p < 0
 
 This study provides insights into:
-- Cognition assessment methods and outcomes
-- DLPFC assessment methods and outcomes
-- Hemoglobin assessment methods and outcomes
+- Human physical conditioning assessment methods and outcomes
+- athletic performance assessment methods and outcomes
+- warm-up exercise assessment methods and outcomes

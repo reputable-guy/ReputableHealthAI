@@ -1,27 +1,24 @@
-Study Title: Effects of Velocity Loss During Bench-Press Training With Light Relative Loads.
+Study Title: Can heartbeat recovery be improved with terminal non-cardioplegic warm blood perfusion prior to aortic unclamping in single-clamp technique coronary artery bypass surgery? A randomized controlled trial.
 
 Study Summary:
-This study explored the effects of 4 bench-press (BP) training programs with different velocity-loss (VL) thresholds (0%, 15%, 25%, and 50%) on strength gains and neuromuscular adaptations. Forty-six resistance-trained men (22.8 [4.4]&#xa0;y) were randomly assigned into 4 groups that differed in the VL allowed within the set: 0% (VL0), 15% (VL15), 25% (VL25), and 50% (VL50). Training loads (40%-55% 1-repetition maximum), frequency (2 sessions/wk), number of sets (3), and interset recovery (4&#xa0;min) were identical for all groups. Participants completed the following tests before and after an 8-week (16-session) BP training program: (1)&#xa0;maximal isometric test, (2)&#xa0;progressive loading test, and (3)&#xa0;fatigue test in the BP exercise. During all tests, triceps brachii muscle electromyography was assessed. After completing the resistance-training program, no significant group &#xd7; time interactions were noticed for isometric and dynamic BP strength variables. The dose-response relationship exhibited an inverted U-shaped relationship pattern, with VL25 showing the greatest effect sizes for almost all strength variables analyzed. The total number of repetitions performed during the training program increased as the VL magnitude increased. The group that trained with high VL threshold (50%), which performed a total of 876 repetitions, did not experience additional strength gains compared with those experienced by the 0%, 15%, and 25% of VL groups, which performed significantly fewer repetitions (48, 357, and 547, respectively). These findings suggest that when light loads (40%-55% 1-repetition maximum) are used, low and moderate VL thresholds (0%-25%) provide a higher training efficiency.
+The objective of this study is to investigate whether the use of antegrade perfusion with terminal non-cardioplegic warm blood (TNWB) before aortic unclamping in single-clamp technique coronary artery bypass has a positive impact on intraoperative heartbeat recovery. Between December 2022 and May 2023, 40 consecutive patients undergoing coronary artery bypass using single-clamp technique were randomized into one of two groups: the TNWB group received an antegrade perfusion with TNWB before removing the aortic cross-clamp (n&#x2009;=&#x2009;20), while the control group did not receive (n&#x2009;=&#x2009;20). The time intervals between coronary perfusion and the onset of the first heartbeats and sinus rhythms, occurrences of spontaneous sinus rhythm, intraoperative defibrillation requirements, as well as postoperative CK-MB and troponin T levels were recorded and subjected to analysis. In the TNWB group, the median onset of the first heartbeats after the initiation of coronary perfusion was 34&#xa0;s (4-100), while in the control group, it was 90&#xa0;s (15-340) (p&#x2009;<&#x2009;0.001). The median onset of the sinus rhythms was 100&#xa0;s (28-290) in the TNWB group and was 132&#xa0;s (45-350) in the control group (p&#x2009;=&#x2009;0.023). The occurrence of intraoperative arrhythmias was 15% in the TNWB group compared to 50% in the control group (p&#x2009;=&#x2009;0.018), and the incidence for internal defibrillation was 5% in the TNWB group and was 30% in the control group (p&#x2009;=&#x2009;0.037). The TNWB group showed the median CK-MB levels at 6&#xa0;h postoperative was 14.10 ng/mL (9.78-19.26), compared to 18.31 ng/mL (13.98-23.80) in the control group (p&#x2009;=&#x2009;0.045). During single clamp coronary artery bypass, administration TNWB into the aortic root before aortic unclamping has the potential to enhance heartbeat recovery, as evidenced by the shortened time to the initial heartbeat and the establishment of sinus beats following coronary perfusion. Trial registration number (Study ID): TCTR20231002003.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1123/ijspp.2023-0529
+- DOI: 10.1186/s13019-024-03006-0
 
 2. Keywords
-- level of effort
-- muscle strength
-- neuromuscular adaptations
-- resistance training
-- training prescription
-- velocity-based training
+- Heart beat recovery
+- Terminal non-cardioplegic warm blood perfusion
+- Terminal warm blood perfusion
 
 3. Key Findings
-- Findings extraction requires manual review
+- The TNWB group showed the median CK-MB levels at 6&#xa0;h postoperative was 14
 
 This study provides insights into:
-- level of effort assessment methods and outcomes
-- muscle strength assessment methods and outcomes
-- neuromuscular adaptations assessment methods and outcomes
+- Heart beat recovery assessment methods and outcomes
+- Terminal non-cardioplegic warm blood perfusion assessment methods and outcomes
+- Terminal warm blood perfusion assessment methods and outcomes

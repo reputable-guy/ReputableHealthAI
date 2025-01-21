@@ -1,26 +1,32 @@
-Study Title: Strategies to Increase Student Participation in School Meals in the United States: A Systematic Review.
+Study Title: Predictors of acute muscle loss in the intensive care unit: A secondary analysis of an in-bed cycling trial for critically ill patients.
 
 Study Summary:
-School meals play a critical role in promoting child nutrition and advancing equity. An understanding of which evidence-based strategies can increase meal participation is needed to improve student school meal consumption and foodservice finances. Our aim was to systematically review the evidence on interventions, initiatives, and policies to increase school meal participation in the United States. Four electronic databases were searched (PubMed, Academic Search Ultimate, Education Resources Information Center, and Thomson Reuters' Web of Science) to identify peer-reviewed and government studies conducted in the United States and published in English through January 2022. Qualitative studies; studies focused on snacks, afterschool meals, or universal free meals as the sole exposure; and studies conducted in schools not participating in the federal school meal programs or outside of the school year were excluded. Risk of bias was assessed using an adapted version of the Newcastle-Ottawa Scale. Articles were grouped according to type of intervention or policy and were narratively synthesized. Thirty-four articles met inclusion criteria. All studies examining alternative breakfast models (eg, breakfast in the classroom or grab-and-go breakfast) and restrictions on competitive foods found increases in meal participation. There is also some evidence that stronger nutrition standards do not negatively impact meal participation and, in some cases, may promote meal participation. There is limited evidence on other strategies, including taste tests, modified menu options, changes to the meal period length, changes to the cafeteria environment, and wellness policies. There is evidence that alternative breakfast models and restrictions on competitive foods promote meal participation. There is a need for additional rigorous evaluation of other strategies to promote meal participation.
+The purpose of this study was to assist clinicians to identify critically ill patients at greatest risk of acute muscle loss and to analyse the associations between protein intake and exercise on acute muscle loss. Secondary analysis of a single-centre randomised clinical trial of in-bed cycling using a mixed effects model was undertaken to examine the association between key variables and rectus femoris cross-sectional area (RFCSA). Groups were combined, and key variables for the cohort were modified Nutrition Risk in the Critically Ill (mNUTRIC) scores within the first days following intensive care unit admission, longitudinal RFCSA measurements, percent of daily recommended protein intake, and group allocation (usual care, in-bed cycling). RFCSA ultrasound measurements were taken at baseline and days 3, 7, and 10 to quantify acute muscle loss. All patients received usual care nutritional intake while in the intensive care unit. Patients allocated to the cycling group commenced in-bed cycling once safety criteria were met. Analysis included all 72 participants, of which 69% were male, with a mean (standard deviation) age of 56 (17) years. Patients received a mean (standard deviation) of 59% (26%) of the minimum protein dose recommended for critically ill patients. Mixed-effects model results indicated that patients with higher mNUTRIC scores experienced greater RFCSA loss (estimate&#xa0;=&#xa0;-0.41; 95% confidence interval [CI]&#xa0;=&#xa0;-0.59 to&#xa0;-0.23). RFCSA did not share a statistically significant association with cycling group allocation (estimate&#xa0;=&#xa0;-0.59, 95% CI&#xa0;=&#xa0;-1.53 to 0.34), the percentage of protein requirements received (estimate&#xa0;=&#xa0;-0.48; 95% CI&#xa0;=&#xa0;-1.16 to 0.19), or a combination of cycling group allocation and higher protein intake (estimate&#xa0;=&#xa0;0.33, 95% CI&#xa0;=&#xa0;-0.76 to 1.43). We found that a higher mNUTRIC score was associated with greater muscle loss, but we did not observe a relationship between combined protein delivery and in-bed cycling and muscle loss. The low protein doses achieved may have impacted the potential for exercise or nutrition strategies to reduce acute muscle loss. Australian and New Zealand Clinical Trials Registry (ACTRN 12616000948493).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.jand.2023.02.016
+- DOI: 10.1016/j.aucc.2022.12.015
 
 2. Keywords
-- Meal participation
-- School breakfast
-- School finance
-- School lunch
-- School meals
+- Critical care
+- Early ambulation
+- Exercise
+- In-bed cycling
+- Intensive care units
+- Nutrition
+- Physical therapy (specialty)
+- Physiotherapy
+- Protein
+- Rehabilitation
 
 3. Key Findings
-- All studies examining alternative breakfast models (eg, breakfast in the classroom or grab-and-go breakfast) and restrictions on competitive foods found increases in meal participation
+- Mixed-effects model results indicated that patients with higher mNUTRIC scores experienced greater RFCSA loss (estimate&#xa0;=&#xa0;-0
+- We found that a higher mNUTRIC score was associated with greater muscle loss, but we did not observe a relationship between combined protein delivery and in-bed cycling and muscle loss
 
 This study provides insights into:
-- Meal participation assessment methods and outcomes
-- School breakfast assessment methods and outcomes
-- School finance assessment methods and outcomes
+- Critical care assessment methods and outcomes
+- Early ambulation assessment methods and outcomes
+- Exercise assessment methods and outcomes

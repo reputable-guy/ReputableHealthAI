@@ -1,20 +1,25 @@
-Study Title: Ziftomenib in relapsed or refractory acute myeloid leukaemia (KOMET-001): a multicentre, open-label, multi-cohort, phase 1 trial.
+Study Title: Effects of aerobic training on cardiopulmonary fitness in patients with long COVID-19: a randomized controlled trial.
 
 Study Summary:
-Ziftomenib (KO-539) is an oral selective menin inhibitor with known preclinical activity in menin-dependent acute myeloid leukaemia models. The primary objective of this study was to determine the recommended phase 2 dose in patients with relapsed or refractory acute myeloid leukaemia based on safety, pharmacokinetics, pharmacodynamics, and preliminary activity. KOMET-001 is a multicentre, open-label, multi-cohort, phase 1/2 clinical trial of ziftomenib in adults with relapsed or refractory acute myeloid leukaemia. Results of the phase 1 study, conducted at 22 hospitals in France, Italy, Spain, and the USA, are presented here and comprise the dose-escalation (phase 1a) and dose-validation and expansion (phase 1b) phases. Eligible patients were aged 18 years or older, had relapsed or refractory acute myeloid leukaemia, and had an Eastern Cooperative Oncology Group performance status of 2 or less. For phase 1a, patients (all molecular subtypes) received ziftomenib (50-1000 mg) orally once daily in 28-day cycles. For phase 1b, patients with NPM1 mutations or with KMT2A rearrangements were randomly assigned (1:1) using third-party interactive response technology to two parallel dose cohorts (200 mg and 600 mg ziftomenib). Primary endpoints were maximum tolerated dose or recommended phase 2 dose in phase 1a, and safety, remission rates, and pharmacokinetics supporting recommended phase 2 dose determination in phase 1b. Analyses were performed in all patients who received at least one dose of ziftomenib (modified intention-to-treat population). Phase 1a/1b is complete. This trial is registered with ClinicalTrials.gov, NCT04067336, and the EU Clinical Trials register, EudraCT 2019-001545-41. From Sept 12, 2019, to Aug 19, 2022, 83 patients received 50-1000 mg ziftomenib (39 [47%] were male and 44 [53%] were female). Median follow-up was 22&#xb7;3 months (IQR 15&#xb7;4-30&#xb7;2). Of 83 patients, the most common grade 3 or worse treatment-emergent adverse events were anaemia (20 [24%]), febrile neutropenia (18 [22%]), pneumonia (16 [19%]), differentiation syndrome (12 [15%]), thrombocytopenia (11 [13%]), and sepsis (ten [12%]). Overall, 68 of 83 patients had serious adverse events, with two reported treatment-related deaths (one differentiation syndrome and one cardiac arrest). Differentiation syndrome rate and severity influenced the decision to halt enrolment of patients with KMT2A rearrangements. In Phase 1b, no responses were reported in patients treated at the 200 mg dose level. At the recommended phase 2 dose of 600 mg, nine (25%) of 36 patients with KMT2A rearrangement or NPM1 mutation had complete remission or complete remission with partial haematologic recovery. Seven (35%) of 20 patients with NPM1 mutation treated at the recommended phase 2 dose had a complete remission. Ziftomenib showed promising clinical activity with manageable toxicity in heavily pretreated patients with relapsed or refractory acute myeloid leukaemia. Phase 2 assessment of ziftomenib combination therapy in the upfront and relapsed or refractory setting is ongoing. Kura Oncology.
+Long COVID-19 is characterized by systemic deterioration of the entire body, leading to significant physical and mental disorders. Exercise training has the potential to improve persistent symptoms and cardiopulmonary functions. This was a single-center, randomized, controlled trial. Twenty-four patients aged 18 to 75&#xa0;years who had a history of SARS-CoV-2 infection and long COVID symptoms. Patients were randomly allocated in a 1:1 ratio to receive either a 4-week exercise training program or an attention control group. The training group participated in 12 supervised aerobic sessions on a cycling ergometer over 4&#xa0;weeks. The outcomes were to assess the impact of a 4-week aerobic exercise on the persistent symptoms and cardiopulmonary fitness, the surrogate endpoints of COVID-19 recovery and cardiopulmonary health. After the 4-week intervention, significant reductions were observed in the total number of symptoms in the training group. Specifically, 67.8% of patients in the training group exhibited reduced or completely resolved symptoms, in comparison to 16.7% in the control group (P&#x2009;=&#x2009;0.013). After adjusting for gender, significant improvements in the training group were observed for exercise time (P&#x2009;=&#x2009;0.028), maximum load (P&#x2009;=&#x2009;0.01), and peak VO(P&#x2009;=&#x2009;0.001), as well as Opulse (P&#x2009;=&#x2009;0.042) and maximum heart rate (P&#x2009;=&#x2009;0.007). The score of Short Form-12, depression, anxiety, perceived stress, and insomnia did not show significant changes between groups (P&#x2009;>&#x2009;0.05). A supervised aerobic training program has the potential to alleviate persistent symptoms and improve exercise tolerance in patients with long COVID-19. Further research is necessary to confirm these effects in a large population. This intervention could be easily implemented in non-hospital settings, potentially benefiting a broader range of individuals. ClinicalTrials.gov NCT05961462. Registered on July 25, 2023.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/S1470-2045(24)00386-3
+- DOI: 10.1186/s13063-024-08473-3
 
 2. Keywords
-
+- Cardiopulmonary function
+- Exercise training
+- Long COVID-19
+- Persistent symptoms
 
 3. Key Findings
-- Ziftomenib showed promising clinical activity with manageable toxicity in heavily pretreated patients with relapsed or refractory acute myeloid leukaemia
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Cardiopulmonary function assessment methods and outcomes
+- Exercise training assessment methods and outcomes
+- Long COVID-19 assessment methods and outcomes

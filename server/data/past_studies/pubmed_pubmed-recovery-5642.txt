@@ -1,24 +1,27 @@
-Study Title: Efficacy of predictive pain intervention in patients with aortic dissection.
+Study Title: Perioperative liberal drinking management promotes postoperative gastrointestinal function recovery after gynecological laparoscopic surgery: A randomized controlled trial.
 
 Study Summary:
-Aortic dissection is usually managed with interventional therapy, conservative therapy, and surgery to inhibit disease progression and improve prognoses. Nevertheless, the absence of meticulous and effective nursing during the treatment greatly increases the complication rates, which is detrimental to the recovery of patients. This study aimed to explore the efficacy of predictive pain intervention in the nursing process of patients with aortic dissection. Sixty patients with aortic dissection who were admitted to our hospital from December 2018 to December 2020 were observed in this study. Specifically, these patients were randomly and equally classified into Group A (patients who were given conventional nursing intervention) and Group B (patients who were given predictive pain intervention). Subsequently, the pain score, complication rates, and nursing satisfaction in the two groups were compared and analyzed. Compared with patients in Group A, patients in Group B had significantly lower pain scores (P< 0.05); complication rates were significantly lower in Group B than in Group A (6.67% vs. 23.33%, P< 0.05); patient satisfaction with care was significantly better in Group B compared to Group A (96.67% vs. 73.33%, P< 0.05). Predictive pain intervention is widely recognized as useful in the treatment of patients with aortic dissection. It has significant clinical application value as it can largely alleviate pain and is relatively safe for patients.
+This study aims to evaluate the effect of perioperative liberal drinking management, including preoperative carbohydrate loading (PCL) given 2&#xa0;h before surgery and early oral feeding (EOF) at 6&#xa0;h postoperatively, in enhancing postoperative gastrointestinal function and improving outcomes in gynecologic patients. The hypotheses are that the perioperative liberal drinking management accelerates the recovery of gastrointestinal function, enhances dietary tolerance throughout hospitalization, and ultimately reduces the length of hospitalization. A prospective randomized controlled trial. Operating room and gynecological ward in Wuhan Union Hospital. We enrolled 210 patients undergoing elective gynecological laparoscopic surgery, and 157 patients were included in the final analysis. Patients were randomly allocated in a 1:1:1 ratio into three groups, including the control, PCL, and PCL-EOF groups. The anesthetists and follow-up staff were blinded to group assignment. The primary outcome was the postoperative Intake, Feeling nauseated, Emesis, Examination, and Duration of symptoms (I-FEED) score (range 0 to 14, higher scores worse). Secondary outcomes included the incidence of I-FEED scores >2, and other additional indicators to monitor postoperative gastrointestinal function, including time to first flatus, time to first defecation, time to feces Bristol grade 3-4, and time to tolerate diet. Additionally, we collected other ERAS recovery indicators, including the incidence of PONV, complications, postoperative pain score, satisfaction score, and the quality of postoperative functional recovery at discharge. The PCL-EOF exhibited significantly enhanced gastrointestinal function recovery compared to control group and PCL group (p&#xa0;<&#xa0;0.05), with the lower I-FEED score (PCL: 0[0,1] vs. PCL-EOF: 0[0,0] vs. control: 1[0,2]) and the reduced incidence of I-FEED >2 (PCL:8% vs. PCL-EOF: 2% vs. control:21%). Compared to the control, the intervention of PCL-EOF protected patients from the incidence of I-FEED score&#xa0;>&#xa0;2 [HR:0.09, 95%CI (0.01-0.72), p&#xa0;=&#xa0;0.023], and was beneficial in promoting the patient's postoperative first flatus [PCL-EOF: HR:3.33, 95%CI (2.14-5.19),p&#xa0;<&#xa0;0.001], first defecation [PCL-EOF: HR:2.76, 95%CI (1.83-4.16), p&#xa0;<&#xa0;0.001], Bristol feces grade 3-4 [PCL-EOF: HR:3.65, 95%CI (2.36-5.63), p&#xa0;<&#xa0;0.001], first fluid diet[PCL-EOF: HR:2.76, 95%CI (1.83-4.16), p&#xa0;<&#xa0;0.001], and first normal diet[PCL-EOF: HR:6.63, 95%CI (4.18-10.50), p&#xa0;<&#xa0;0.001]. Also, the length of postoperative hospital stay (PCL-EOF: 5d vs. PCL: 6d and control: 6d, p&#xa0;<&#xa0;0.001), the total cost (PCL-EOF: 25052&#xa0;&#xb1;&#xa0;3650y vs. PCL: 27914&#xa0;&#xb1;&#xa0;4684y and control: 26799&#xa0;&#xb1;&#xa0;4775y, p&#xa0;=&#xa0;0.005), and postoperative VAS pain score values [POD0 (PCL-EOF: 2 vs. control: 4 vs. PCL: 4, p&#xa0;<&#xa0;0.001), POD1 (PCL-EOF: 1 vs. control: 3 vs. PCL: 2, p&#xa0;<&#xa0;0.001), POD2 (PCL-EOF: 1 vs. control:2 vs. PCL: 1, p&#xa0;<&#xa0;0.001), POD3 (PCL-EOF: 0 vs. control: 1 vs. PCL: 1, p&#xa0;<&#xa0;0.001)] were significantly reduced in PCL-EOF group. Our primary endpoint, I-FEED score demonstrated significant reduction with perioperative liberal drinking, serving as a protective intervention against I-FEED>2. Gastrointestinal recovery metrics, such as time to first flatus and defecation, also showed substantial improvements. Furthermore, the intervention enhanced postoperative dietary tolerance and expedited early recovery. ChiCTR2300071047(https://www.chictr.org.cn/).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3233/THC-231066
+- DOI: 10.1016/j.jclinane.2024.111539
 
 2. Keywords
-- Aortic dissection
-- efficacy
-- predictive pain intervention
+- ERAS
+- Early oral feeding
+- Liberal drinking management
+- Postoperative gastrointestinal function
+- Preoperative carbohydrate loading
 
 3. Key Findings
-- Findings extraction requires manual review
+- Our primary endpoint, I-FEED score demonstrated significant reduction with perioperative liberal drinking, serving as a protective intervention against I-FEED>2
+- Gastrointestinal recovery metrics, such as time to first flatus and defecation, also showed substantial improvements
 
 This study provides insights into:
-- Aortic dissection assessment methods and outcomes
-- efficacy assessment methods and outcomes
-- predictive pain intervention assessment methods and outcomes
+- ERAS assessment methods and outcomes
+- Early oral feeding assessment methods and outcomes
+- Liberal drinking management assessment methods and outcomes

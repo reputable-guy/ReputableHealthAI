@@ -1,22 +1,26 @@
-Study Title: Effect of Preoperative Bilateral Ultrasound-Guided Quadratus Lumborum Nerve Block on Quality of Recovery After Minimally Invasive Hysterectomy in an Enhanced Recovery After Surgery (ERAS) Setting.
+Study Title: Effects of transcutaneous electrical nerve stimulation on recovery of gastrointestinal motility after laparotomy: A&#xa0;randomized controlled trial.
 
 Study Summary:
-To assess the effect of preoperative bilateral ultrasound-guided quadratus lumborum nerve block (QLB) on quality of recovery after minimally invasive hysterectomy, in an enhanced recovery after surgery setting. Randomized, controlled, double-blinded trial (Canadian Task Force level I). University-affiliated tertiary medical center. All women undergoing an elective robotic or laparoscopic hysterectomy. Women with chronic pain, chronic anticoagulation, and body mass index >50 kg/mwere excluded. Patients were randomized with a 1:1 allocation, to one of the following 2 arms, and stratified based on robotic versus laparoscopic approach. 1. QLB: QLB (bupivacaine) + sham local trocar sites infiltration (normal saline) 2. Local infiltration: sham QLB (normal saline) + local infiltration (bupivacaine) MEASUREMENTS AND MAIN RESULTS: The primary outcome was defined as the quality of recovery score based on the validated questionnaire Quality of Recovery, completed 24 hours postoperatively. Secondary outcomes included dynamic pain scores, accumulated opioid consumption up to 24 hours, postoperative nausea and vomiting, surgical complications, length of hospital stay, time to first pain medication administration in the postanesthesia care unit, and adverse events. A total of 76 women were included in the study. Demographic characteristics were similar in both groups. Median age was 44 years (interquartile range 39-50), 47% of the participants were African American, and mean body mass index was 32.8 kg/m(standard deviation [SD] 8.1). The mean Quality of Recovery score was 179.1 (SD &#xb1; 10.3) in the QLB and 175.6 (SD &#xb1; 9.7) for the local anesthesia group (p = .072). All secondary outcomes were comparable between groups. QLBs do not significantly improve quality of recovery after elective robotic or laparoscopic hysterectomy compared with local anesthetic port site infiltration.
+Postoperative Ileus (POI) negatively impacts patient outcomes and increases healthcare costs. Transcutaneous electrical nerve stimulation (TENS) has been found to improve gastrointestinal (GI) motility following abdominal surgery. However, its effectiveness in this context is not well-established. This study was designed to evaluate the role of TENS on the recovery of GI motility after exploratory laparotomy. Patients undergoing exploratory laparotomy were randomized in a 1:1 ratio into control (standard treatment alone) and experimental (standard treatment&#xa0;+&#xa0;TENS) arms. TENS was terminated after 6&#xa0;days or after the passage of stool or stoma movement. The primary outcome was time for the first passage of stool/functioning stoma. Non-passage of stool or nonfunctioning stoma beyond 6&#xa0;days was labeled as prolonged POI. Patients were monitored until discharge. Median (interquartile range) time to first passage of stool/functioning stoma was 82.6 (49-115) hours in the standard treatment group and 50 (22-70.6) hours in the TENS group [p&#xa0;<&#xa0;0.001]. Prolonged POI was noted in 11 patients in the standard treatment group (35.5%) and one in the TENS group (3.2%) [p&#xa0;=&#xa0;0.003]. Postoperative hospital stay was similar in the two groups. TENS resulted in early recovery of GI motility by shortening the duration of POI without any improvement in postoperative hospital stay. CTRI/2021/10/037054.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jmig.2024.05.019
+- DOI: 10.1002/wjs.12233
 
 2. Keywords
-- Minimally invasive hysterectomy
-- Quadratus lumborum block
+- ERAS
+- abdominal surgery
+- ileus
+- laparotomy
+- pain
 
 3. Key Findings
-- Findings extraction requires manual review
+- Transcutaneous electrical nerve stimulation (TENS) has been found to improve gastrointestinal (GI) motility following abdominal surgery
 
 This study provides insights into:
-- Minimally invasive hysterectomy assessment methods and outcomes
-- Quadratus lumborum block assessment methods and outcomes
+- ERAS assessment methods and outcomes
+- abdominal surgery assessment methods and outcomes
+- ileus assessment methods and outcomes

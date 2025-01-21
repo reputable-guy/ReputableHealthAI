@@ -1,27 +1,26 @@
-Study Title: Two weeks of exercise alters neuronal extracellular vesicle insulin signaling proteins and pro-BDNF in older adults with prediabetes.
+Study Title: Effects of overnight-fasted versus fed-state exercise on the components of energy balance and interstitial glucose across four days in healthy adults.
 
 Study Summary:
-Adults with prediabetes are at risk for Alzheimer's Disease and Related Dementia (ADRD). While exercise may lower ADRD risk, the exact mechanism is unclear. We tested the hypothesis that short-term exercise would raise neuronal insulin signaling and pro-BDNF in neuronal extracellular vesicles (nEVs) in prediabetes. Twenty-one older adults (18F, 60.0&#x2009;&#xb1;&#x2009;8.6&#x2009;yrs.; BMI: 33.5&#x2009;&#xb1;&#x2009;1.1&#x2009;kg/m) with prediabetes (ADA criteria; 75&#x2009;g OGTT) were randomized to 12 supervised work-matched continuous (n&#x2009;=&#x2009;13, 70% HR) or interval (n&#x2009;=&#x2009;8, 90% HRand 50% HRfor 3&#x2009;min each) sessions over 2-wks for 60&#x2009;min/d. Aerobic fitness (VOpeak) and body weight were assessed. After an overnight fast, whole-body glucose tolerance (total area under the curve, tAUC) and insulin sensitivity (SIis) were determined from a 120&#x2009;min 75&#x2009;g OGTT. nEVs were acquired from 0 and 60&#x2009;min time-points of the OGTT, and levels of insulin signaling proteins (i.e., p-IRS-1, total-/p-Akt, pERK1/2, pJNK1/2, and pp38) and pro-BNDF were measured. OGTT stimulatory effects were calculated from protein differences (i.e., OGTT 60-0&#x2009;min). Adults were collapsed into a single group as exercise intensity did not affect nEV outcomes. Exercise raised VOpeak (+1.4&#x2009;&#xb1;&#x2009;2.0&#x2009;mL/kg/min, p&#x2009;=&#x2009;0.008) and insulin sensitivity (p&#x2009;=&#x2009;0.01) as well as decreased weight (-0.4&#x2009;&#xb1;&#x2009;0.9&#x2009;kg, p&#x2009;=&#x2009;0.04) and whole-body glucose tAUC(p&#x2009;=&#x2009;0.02). Training lowered 0-min pro-BDNF (704.1&#x2009;&#xb1;&#x2009;1019.0 vs. 414.5&#x2009;&#xb1;&#x2009;533.5, p&#x2009;=&#x2009;0.04) and increased OGTT-stimulated tAkt (-51.8&#x2009;&#xb1;&#x2009;147.2 vs. 95&#x2009;&#xb1;&#x2009;204.5&#x2009;a.u., p&#x2009;=&#x2009;0.01), which was paralleled by reduced pAkt/tAkt at 60&#x2009;min of the OGTT (1.3&#x2009;&#xb1;&#x2009;0.2 vs. 1.2&#x2009;&#xb1;&#x2009;0.1&#x2009;a.u., p&#x2009;=&#x2009;0.04). Thus, 2&#x2009;weeks of exercise altered neuronal insulin signaling responses to glucose ingestion and lowered pro-BNDF among adults with prediabetes, thereby potentially lowering ADRD risk.
+Exercise is an essential component of body mass management interventions. Overnight-fasted exercise (FASTex) acutely enhances fat oxidation compared with fed exercise (FEDex). However, consistent FASTex training does not typically further enhance body mass loss, suggesting the induction of energy compensation responses. The present study aimed to test the effects of FASTex or FEDex on the components of energy balance (i.e., energy intake (EI), energy expenditure (EE), and appetite) and interstitial glucose metrics across four days. Twelve (10 men, 2 women) healthy, physically active participants (age 22.6&#xa0;+&#xa0;1.2 years (mean&#xa0;&#xb1;&#xa0;SD); BMI 22.5&#xa0;&#xb1;&#xa0;2.8&#xa0;kg &#x22c5; m) were studied twice, across four days, after a 75-min run either FASTex or FEDex. Daily EI was obtained after subtracting leftovers from the provided food. Daily fasting appetite was measured by visual analogue scales. Activity- and total- EE (AEE & TEE, respectively) were estimated by combining heart rate and accelerometry. Continuous glucose monitoring was used to capture daily interstitial glucose metrics and Likert scales were utilised to quantify fatigue, stress, sleep quality, and muscle soreness levels. No differences between conditions were observed for EI (FASTex&#xa0;=&#xa0;15.0&#xa0;&#xb1;&#xa0;0.1 vs FEDex&#xa0;=&#xa0;15.0&#xa0;&#xb1;&#xa0;0.4&#xa0;MJ&#x22c5;day; p&#xa0;=&#xa0;0.865), AEE (FASTex&#xa0;=&#xa0;7.6&#xa0;&#xb1;&#xa0;1.1 vs FEDex 7.8&#xa0;&#xb1;&#xa0;1.3&#xa0;MJ&#x22c5;day; p&#xa0;=&#xa0;0.223) and TEE (FASTex&#xa0;=&#xa0;15.9&#xa0;&#xb1;&#xa0;3.4 vs 14.9&#xa0;&#xb1;&#xa0;4.5&#xa0;MJ&#x22c5;day; p&#xa0;=&#xa0;0.136). Additionally, no condition effects for appetite (p&#xa0;>&#xa0;0.05) and interstitial glucose (p&#xa0;=&#xa0;0.074) were observed. FASTex did not differ from FEDex in the response of components of energy balance or interstitial glucose across four days, suggesting that both exercise approaches could be used interchangeably.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1111/acel.14369
+- Publication Date: 2024
+- DOI: 10.1016/j.appet.2024.107716
 
 2. Keywords
-- aging
-- glucose tolerance
-- insulin sensitivity
-- obesity
-- physical activity
-- type 2 diabetes
+- Appetite
+- Carbohydrate
+- Continuous glucose monitoring
+- Energy expenditure
+- Energy intake
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- aging assessment methods and outcomes
-- glucose tolerance assessment methods and outcomes
-- insulin sensitivity assessment methods and outcomes
+- Appetite assessment methods and outcomes
+- Carbohydrate assessment methods and outcomes
+- Continuous glucose monitoring assessment methods and outcomes

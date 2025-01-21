@@ -1,27 +1,25 @@
-Study Title: Effects of food bar chewing duration on the physiologic, metabolic, and perceptual responses to moderate-intensity running.
+Study Title: Effects of early nutritional intervention on oral mucositis and basic conditions in patients receiving radiotherapy for head and neck cancer: Randomized controlled trial (ChiCTR2000031418).
 
 Study Summary:
-Chewing duration can affect food particle size, gastric processing, and postprandial glycemia, but these effects have not been investigated with exercise. This study examined how the chewing duration of a food bar impacts glycemic and metabolic responses, gastrointestinal (GI) symptoms, psychological affect, and performance during endurance running. This randomized, unblinded, crossover study had 15 males (35.2&#x2009;&#xb1;&#x2009;7.4&#xa0;years, VO: 56.1&#x2009;&#xb1;&#x2009;5.2&#xa0;ml/kg/min) attend three laboratory visits. Visit 1 required a VOtest, 10&#xa0;min familiarization run at 60% VO, and familiarization time-to-exhaustion (TTE) test (10&#xa0;min at 90% VO, followed by TTE at 100% VO). Visits 2 and 3 consisted of a 60&#xa0;min run at 60% VO, followed by TTE testing. Participants were fed 45&#xa0;g of a bar (180&#xa0;kcal, 4&#xa0;g fat, 33&#xa0;g carbohydrate, 3&#xa0;g protein, 1&#xa0;g fiber) in 9&#xa0;g servings 30&#xa0;min before running, and 27&#xa0;g of bar in 9&#xa0;g servings at three timepoints during the 60&#xa0;min run. Participants consumed the servings in 20 (20CHEW) or 40 (40CHEW) masticatory cycles, at 1 chew/second. Outcomes included blood glucose, substrate use, GI symptoms, perceived exertion (RPE), overall feeling, and TTE. Post-prandial blood glucose, GI symptoms, and RPE increased over time, but there were no significant between-condition or condition-by-time effects. TTE showed no significant between-condition effect (20CHEW: 288&#x2009;&#xb1;&#x2009;133&#xa0;s; 40CHEW: 335&#x2009;&#xb1;&#x2009;299&#xa0;s; p&#x2009;=&#x2009;0.240). Overall feeling demonstrated a time-by-condition effect (p&#x2009;=&#x2009;0.006), suggesting possible better maintenance over time with 40CHEW. Cumulatively, the results suggest that extended chewing minimally impacts physiology, perceptions, and performance during 60&#xa0;min moderate-intensity running.
+This study aims to observe the effects of early nutritional intervention on radiation-induced oral mucositis (OM) and the nutritional status of patients with head and neck cancer (HNC) receiving radiotherapy. Eligible patients receiving radiotherapy for HNC were randomly divided into an early nutritional intervention group (enteral nutritional intervention was administered at the beginning of radiotherapy) and a late nutritional intervention group (enteral nutritional intervention was administered at the beginning of eating restriction) in a 1:1 ratio. The primary endpoint was radiation-induced OM. Secondary endpoints included nutrition-related indicators, immune function, overall survival (OS), progression-free survival (PFS), quality of life, and other radiotherapy-induced adverse effects. A total of 100 patients were enrolled between 2020 and 2021, including 50 each in the early nutritional intervention group and in the late group. The incidence of Grade-III/IV OM was lower in the early treatment group than in the late treatment group (2% vs 14%, P&#xa0;=&#xa0;0.059). By week 7 weight loss was significantly lower in the early group than in the late group (1.08&#xa0;kg, 95% CI: 0.08-2.09, P&#xa0;=&#xa0;0.035). Regarding the PG-SGA scores after receiving radiotherapy, the early group comprised more well-nourished and fewer malnourished patients than those in the late group (P&#xa0;=&#xa0;0.002). The scores of the immune function indices of T cell CD3, CD4/CD8, and B cell CD19were slightly higher in the early group than in the late group; however, the difference was not statistically significant (all P&#xa0;>&#xa0;0.05). PFS and OS were better in the early group than in the late group; however, the differences were not statistically significant (P&#xa0;>&#xa0;0.05). Early nutritional intervention can effectively improve the nutritional status and reduce the incidence of high-grade OM in patients with HNC receiving radiotherapy. Chinese Clinical Trials Registry (http://www.chictr.org.cn). ChiCTR2000031418.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00421-024-05521-3
+- DOI: 10.1016/j.clnu.2024.05.029
 
 2. Keywords
-- Carbohydrate
-- Exercise
-- Gut
-- Metabolism
-- Sport nutrition
+- Head and neck cancer
+- Nutritional intervention
+- Oral mucositis
+- Radiotherapy
 
 3. Key Findings
-- TTE showed no significant between-condition effect (20CHEW: 288&#x2009;&#xb1;&#x2009;133&#xa0;s; 40CHEW: 335&#x2009;&#xb1;&#x2009;299&#xa0;s; p&#x2009;=&#x2009;0
-- Overall feeling demonstrated a time-by-condition effect (p&#x2009;=&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Carbohydrate assessment methods and outcomes
-- Exercise assessment methods and outcomes
-- Gut assessment methods and outcomes
+- Head and neck cancer assessment methods and outcomes
+- Nutritional intervention assessment methods and outcomes
+- Oral mucositis assessment methods and outcomes

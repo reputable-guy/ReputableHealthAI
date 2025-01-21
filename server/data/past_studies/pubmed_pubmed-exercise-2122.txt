@@ -1,25 +1,26 @@
-Study Title: Clinical effects of walking exercise program for older adults applied with an exercise assist robot (Bot Fit): A randomized controlled trial.
+Study Title: The efficacy of myofascial release at the cervicothoracic region in patients with rotator cuff repairs: A randomized controlled pilot study.
 
 Study Summary:
-Interval walking exercise (IWE) consists of repeated walking for 3&#xa0;min with high intensity, followed by 3&#xa0;min of walking with low intensity. A wearable robot is an exoskeleton system that is worn on the body and helps the body move. The purpose of this study is to verify the effects of performing IWE using Bot Fit (Samsung Electronics, Korea) on older adults. The experimental group (EG; n&#xa0;=&#xa0;10) performed the IWE program with Bot Fit, and the control group (CG; n&#xa0;=&#xa0;12) performed the IWE program without Bot Fit, three times a week for six weeks. Both groups were evaluated for spatio-temporal parameters, pelvic movement, function, muscle power, and waist-to-hip ratio (WHR) at before, after three weeks and after six weeks of exercise. There was a significant difference between the two groups in the pelvic tilt range after six weeks of exercise (P&#xa0;<&#xa0;0.05). The pelvic rotation range showed a significant difference after six weeks of exercise in the EG (P&#xa0;<&#xa0;0.01). During the stance phase, rectus abdominis (RA) muscle power and its contraction ratio significantly increased after six weeks of exercise in the EG (P&#xa0;<&#xa0;0.05). The WHR was significantly lower after six weeks of exercise in EG than in the CG (P&#xa0;<&#xa0;0.05). Bot Fit maximizes the normal walking effect, promotes correct posture and physical activity to prevent falls, improves quality of life (QOL). It has shown clinical effects and has been used for successful aging of older adults.
+Coactivation between tonic and phasic muscles is essential for correct posture and movement. Impaired movement patterns and postural changes facilitate the flexor response to protect painful tissue in the injured area. Tone changes between tonic and phasic muscles lead to an imbalance in the rotator cuff (RC) muscles. A randomized controlled pilot study. The purpose of this study is to determine the effects of applying myofascial release (MFR) to the muscles in the cervicothoracic region for the treatment of fascia limitations in patients with postoperative RC tear. A total of 20 patients were randomly divided into 2 groups. The patients in the control group performed exercises, whereas those in the MFR group performed exercises in addition to MFR. Pain intensity, grip strength, pectoralis minor flexibility, Constant Murley Score (CMS), and Short Form-36 (SF-36) score were evaluated. Pain intensity was recorded before and after the MFR sessions. There were no significant differences between the groups regarding pain, grip strength, pectoralis minor flexibility, CMS values, or SF-36 score (p&#xa0;>&#xa0;0.05). There were significant differences in pain levels measured before and after all MFR sessions. Moreover, a significant decrease is shown between the first and last sessions in the MFR group (p&#xa0;<&#xa0;0.05). MFR can be useful, especially in postoperative RC patients who have pain in the early period. Significant reductions in pain intensity after MFR can help prepare patients for exercise and reduce pain-related medication use.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jbmt.2024.04.056
+- DOI: 10.1016/j.jbmt.2024.06.006
 
 2. Keywords
-- Aged
-- Exercise
-- Robotic
-- Wearable Electronic device
+- Myofascial restrictions
+- Pain
+- Physiotherapy
+- Rotator cuff repair
+- Soft tissue mobilization
 
 3. Key Findings
-- The pelvic rotation range showed a significant difference after six weeks of exercise in the EG (P&#xa0;<&#xa0;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Aged assessment methods and outcomes
-- Exercise assessment methods and outcomes
-- Robotic assessment methods and outcomes
+- Myofascial restrictions assessment methods and outcomes
+- Pain assessment methods and outcomes
+- Physiotherapy assessment methods and outcomes

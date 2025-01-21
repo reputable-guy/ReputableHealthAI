@@ -1,27 +1,30 @@
-Study Title: Emotion-focused therapy for women with premenstrual dysphoric disorder: a randomized clinical controlled trial.
+Study Title: Comparing the effect of two systems-level interventions on perinatal generalized anxiety disorder and posttraumatic stress disorder symptoms.
 
 Study Summary:
-Premenstrual dysphoric disorder (PMDD) is a debilitating condition, affecting women of reproductive age. It is characterized by severe periodic physical and psychological symptoms, which end after the onset of menstruation. This study aimed to evaluate the effectiveness of emotion-focused therapy (EFT) for PMDD patients. A total of 48 PMDD women, in the age range of 18-44 years, were randomly assigned to two intervention and control groups. The intervention group participated in 16 weeks of EFT treatment, while the control group was selected based on the waiting list (waitlist control group) and followed-up after three months. Forty-four patients finally completed this study. The participants completed the Premenstrual Syndrome Screening Tool (PSST), Difficulties in Emotion Regulation Scale (DERS), and Depression Anxiety Stress Scale-21 (DASS-21) in the first premenstrual period before treatment, the first premenstrual period after treatment, and the premenstrual period three months after treatment. Based on the repeated measure analysis of variances, the total score of DERS and the total score of PSST decreased significantly (P&#x2009;<&#x2009;0.05). Also, in DASS-21, the scores of depression and stress subscales reduced significantly (P&#x2009;<&#x2009;0.05), while there was no significant decrease in the score of anxiety subscale (P&#x2009;>&#x2009;0.05). Based on the present results, EFT can be an effective treatment for alleviating the symptoms of PMDD. This treatment can reduce the emotion regulation difficulties of women with PMDD and alleviate the symptoms of depression and stress. Iranian Registry of Clinical Trials, IRCT ID: IRCT20220920055998N1, Registered on: 12/2/2023.
+The Massachusetts Child Psychiatry Access Program for Moms and PRogram In Support of Moms are designed to help obstetric practices address perinatal depression. The PRogram in Support of Moms includes the statewide Massachusetts Child Psychiatry Access Program for Moms program, plus proactive implementation support. The goal of this study was to understand the impact of these programs on perinatal generalized anxiety disorder and posttraumatic stress disorder symptoms among individuals screening positive for depression. We conducted a secondary analysis of 2017-2022 data from a cluster randomized controlled trial of Massachusetts Child Psychiatry Access Program for Moms vs PRogram In Support of Moms. We included participants completing a generalized anxiety disorder or posttraumatic stress disorder screen at baseline (n=254) with antenatal Edinburgh Postnatal Depression Scale scores &#x2265;10. We assessed changes in generalized anxiety disorder and posttraumatic stress disorder symptoms from pregnancy (4-25 weeks of gestational age or 32-40 weeks of gestational age), 4-12 weeks postpartum, and 11-13 months postpartum. We conducted a difference-in-difference analysis to compare symptom change from pregnancy to postpartum. We used adjusted linear mixed models with repeated measures to examine the impact of the Massachusetts Child Psychiatry Access Program for Moms and PRogram In Support of Moms on changes in the Generalized Anxiety Disorder 7 and the Posttraumatic Stress Disorder Checklist. Mean Generalized Anxiety Disorder 7 scores decreased by 3.6 (Massachusetts Child Psychiatry Access Program for Moms) and 6.3 (PRogram In Support of Moms) points from pregnancy to 4-12 weeks postpartum. Mean Posttraumatic Stress Disorder Checklist scores decreased by 6.2 and 10.0 points, respectively, at 4-12 weeks postpartum among individuals scree ning positive on the Generalized Anxiety Disorder 7 (n=83) or Posttraumatic Stress Disorder Checklist (n=58) in pregnancy. Generalized Anxiety Disorder 7 and Posttraumatic Stress Disorder Checklist scores decreased among both groups at 11-13 months postpartum. These changes were clinically meaningful. PRogram In Support of Moms conferred a statistically significant greater decrease (2.7 points) on the Generalized Anxiety Disorder 7 than the Massachusetts Child Psychiatry Access Program for Moms at 4-12 weeks postpartum. No differences were found between the Massachusetts Child Psychiatry Access Program for Moms and PRogram In Support of Moms in Posttraumatic Stress Disorder Checklist or Generalized Anxiety Disorder 7 change at 11-13 months, although both were associated with a reduction in generalized anxiety disorder and posttraumatic stress disorder symptoms at 4-12 weeks and 11-13 months postpartum. Both the Massachusetts Child Psychiatry Access Program for Moms and PRogram In Support of Moms could help to improve symptoms for individuals experiencing co-occurring symptoms of depression, generalized anxiety disorder, or posttraumatic stress disorder. PRogram In Support of Moms may confer additional benefits in the early postpartum period, although this difference was not clinically significant.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12888-024-05681-8
+- DOI: 10.1016/j.ajogmf.2024.101426
 
 2. Keywords
-- Anxiety
-- Depression
-- Difficulties in emotion regulation
-- Emotion-focused therapy
-- Premenstrual dysphoric disorder
-- Stress
+- anxiety
+- intervention
+- mental health
+- obstetric
+- perinatal
+- postpartum
+- posttraumatic stress disorder
+- pregnancy
+- randomized controlled trial
 
 3. Key Findings
-- Findings extraction requires manual review
+- No differences were found between the Massachusetts Child Psychiatry Access Program for Moms and PRogram In Support of Moms in Posttraumatic Stress Disorder Checklist or Generalized Anxiety Disorder 7 change at 11-13 months, although both were associated with a reduction in generalized anxiety disorder and posttraumatic stress disorder symptoms at 4-12 weeks and 11-13 months postpartum
 
 This study provides insights into:
-- Anxiety assessment methods and outcomes
-- Depression assessment methods and outcomes
-- Difficulties in emotion regulation assessment methods and outcomes
+- anxiety assessment methods and outcomes
+- intervention assessment methods and outcomes
+- mental health assessment methods and outcomes

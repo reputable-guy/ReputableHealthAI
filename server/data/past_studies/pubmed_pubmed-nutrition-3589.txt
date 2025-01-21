@@ -1,26 +1,25 @@
-Study Title: Perioperative Enteral Immunonutrition Support for the Immune Function and Intestinal Mucosal Barrier in Gastric Cancer Patients Undergoing Gastrectomy: A Prospective Randomized Controlled Study.
+Study Title: The Effect of Dietary Advice Aimed at Increasing Protein Intake on Oral Health and Oral Microbiota in Older Adults: A Randomized Controlled Trial.
 
 Study Summary:
-The impact of perioperative immunonutrition on patients undergoing radical gastrectomy remains undetermined. This study aimed to assess the influence of enteral immunonutrition support on postoperative immune function and intestinal mucosal barrier function following radical gastrectomy, contrasting findings with a control group to furnish evidence for perioperative enteral nutrition support. In this prospective randomized trial, 65 patients who underwent radical gastrectomy between June 2022 and June 2023 were included. Participants were allocated to either the study group (receiving enteral immunonutrition) or the control group (not receiving enteral immunonutrition). We compared postoperative rehabilitation and complications between the groups, analyzed the intestinal mucosal barrier function markers on the 3rd and 7th postoperative days, and delved deeper into peripheral blood cell immunity, inflammation, and nutritional indicators. The cohort consisted of 30 patients in the study group and 35 in the control group, with no significant differences in demographic attributes between the two groups. On the 3rd postoperative day, the diamine oxidase, D-lactic acid, and endotoxin levels in the study group were significantly lower than those in the control group (= 0.029,= 0.044, and= 0.010, respectively). By the 7th postoperative day, these levels continued to be significantly diminished in the study group (= 0.013,= 0.033, and= 0.004, respectively). The times to first flatus (= 0.012) and first bowel movement (= 0.012) were significantly shorter in the study group. Moreover, postoperative complications in the study group were fewer than in the control group (= 0.039). On the 7th postoperative day, the study group had lower peripheral white blood cell (WBC) levels (= 0.020) and neutrophil-lymphocyte ratios (NLR) (= 0.031), but displayed elevated albumin levels (= 0.006). One month post-surgery, the CD4+T and CD8+T counts were significantly greater in the study group (= 0.003 and= 0.012, respectively). Correlation analyses indicated that NLR and complications were associated with endotoxin levels. Administering perioperative enteral immunonutrition enhances postoperative immune and intestinal mucosal barrier functions in patients undergoing radical gastrectomy. This effect leads to diminished inflammatory responses, a decreased rate of postoperative complications, and accelerated patient recovery.
+Nutrition and oral health are closely related, especially in older adults in whom poor nutrition may lead to oral microbial perturbations, exacerbating poor oral health. In a 6-month randomized controlled trial, we evaluated the effects on oral microbiota and on oral health of dietary advice aimed at increasing protein intake to &#x2265;1.2 g/kg adjusted body weight/day (g/kg aBW/d) in community-dwelling older adults with low habitual protein intake (<1.0 g/kg aBW/d). Food intake was measured via 24 h dietary recalls, oral health was measured via questionnaires, and oral microbial composition was assessed via the 16S rRNA sequencing of tongue swabs. Mean baseline protein intake was 0.8 g/kg aBW/day in both groups. In the high protein group (= 47), participants increased their protein intake to mean 1.2 g/kg aBW/day at the 6-month follow-up. Protein intake in the control group (= 43) remained at 0.9 g/kg a BW/day. The intervention did not affect self-reported oral health. While it caused moderate shifts in oral microbiota alpha- and beta-diversity measures, abundances of individual bacterial taxa were not affected. In conclusion, our intervention did not affect self-reported oral health within a period of 6 months, nor did it substantially affect the tongue microbiota composition.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15214566
+- DOI: 10.3390/nu15214567
 
 2. Keywords
-- immune function
-- immunonutrition
-- inflammatory response
-- intestinal mucosal barrier
-- perioperative period of gastric cancer
+- older adults
+- oral health
+- oral microbiota
+- protein intake
 
 3. Key Findings
-- Correlation analyses indicated that NLR and complications were associated with endotoxin levels
+- Findings extraction requires manual review
 
 This study provides insights into:
-- immune function assessment methods and outcomes
-- immunonutrition assessment methods and outcomes
-- inflammatory response assessment methods and outcomes
+- older adults assessment methods and outcomes
+- oral health assessment methods and outcomes
+- oral microbiota assessment methods and outcomes

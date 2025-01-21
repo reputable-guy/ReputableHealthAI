@@ -1,26 +1,29 @@
-Study Title: Improving Lower Limb Function and Frailty in Frail Older Patients with Acute Myocardial Infarction After Percutaneous Coronary Intervention: A Randomized Controlled Study of Neuromuscular Electrical Stimulation.
+Study Title: Physiological Adaptations to Progressive Endurance Exercise Training in Adult and Aged Rats: Insights from the Molecular Transducers of Physical Activity Consortium (MoTrPAC).
 
 Study Summary:
-A global public health problem, frailty is closely associated with poor prognosis after percutaneous coronary intervention (PCI) in older patients with acute myocardial infarction (AMI). Although exercise intervention is the most commonly used method to reverse and alleviate frailty, its application is restricted in patients with acute myocardial infarction following PCI due to cardiovascular instability and autonomic imbalance. Consequently, there is a need for a new practical intervention to address frailty syndrome in these patients. This study aimed to investigate the effect of neuromuscular electrical stimulation in frail older AMI patients post-PCI. A single-blind, randomized controlled trial was carried out in the Department of Cardiovascular Medicine from March to October 2023. A total of 100 eligible participants were randomly divided into two groups: experimental (n&#xa0;=&#xa0;50) and control (n&#xa0;=&#xa0;50) groups, respectively. Both groups received usual care. The experimental group underwent neuromuscular electrical stimulation (NMES) on bilateral quadriceps and gastrocnemius muscles for 30 minutes daily from day 1 to day 7 after surgery. The primary outcomes measured included the frailty score, lower limb muscle strength, and lower limb muscle quality. Secondary outcomes included the activities of daily living score, inflammatory markers, and length of hospital stay. All participants were included in an intention-to-treat analysis after the study ended. The frailty scores of the two groups exhibited a gradual decrease over time, and the scores of the experimental group were lower than those of the control group at 4 and 7 days after surgery (P<0.001). Concurrently, the lower limb muscle strength showed an increasing trend over the time in the experimental group and a decreasing trend in the control group, and the scores of the experimental group surpassed those of the control group (p<0.001). Moreover, a statistical difference was observed in the lower limb muscle mass across the groups after 7 days postoperatively compared with baseline on both sides (p<0.05). Neuromuscular electrical stimulation has the potential to enhance lower limb function and alleviate frailty in elderly patients with acute myocardial infarction after PCI. These findings introduce a novel intervention approach for frailty management in the elderly population.
+While regular physical activity is a cornerstone of health, wellness, and vitality, the impact of endurance exercise training on molecular signaling within and across tissues remains to be delineated. The Molecular Transducers of Physical Activity Consortium (MoTrPAC) was established to characterize molecular networks underlying the adaptive response to exercise. Here, we describe the endurance exercise training studies undertaken by the Preclinical Animal Sites Studies component of MoTrPAC, in which we sought to develop and implement a standardized endurance exercise protocol in a large cohort of rats. To this end, Adult (6-mo) and Aged (18-mo) female (n&#xa0;=&#xa0;151) and male (n&#xa0;=&#xa0;143) Fischer 344 rats were subjected to progressive treadmill training (5 d/wk, &#x223c;70%-75% VO2max) for 1, 2, 4, or 8 wk; sedentary rats were studied as the control group. A total of 18 solid tissues, as well as blood, plasma, and feces, were collected to establish a publicly accessible biorepository and for extensive omics-based analyses by MoTrPAC. Treadmill training was highly effective, with robust improvements in skeletal muscle citrate synthase activity in as little as 1-2 wk and improvements in maximum run speed and maximal oxygen uptake by 4-8 wk. For body mass and composition, notable age- and sex-dependent responses were observed. This work in mature, treadmill-trained rats represents the most comprehensive and publicly accessible tissue biorepository, to date, and provides an unprecedented resource for studying temporal-, sex-, and age-specific responses to endurance exercise training in a preclinical rat model.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/CIA.S460805
+- DOI: 10.1093/function/zqae014
 
 2. Keywords
-- PCI
-- acute myocardial infarction
-- frailty
-- neuromuscular electrical stimulation
-- older
+- aging
+- biorepository
+- body composition
+- citrate synthase
+- maximal oxygen uptake
+- skeletal muscle
+- training
+- treadmill
 
 3. Key Findings
-- Concurrently, the lower limb muscle strength showed an increasing trend over the time in the experimental group and a decreasing trend in the control group, and the scores of the experimental group surpassed those of the control group (p<0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- PCI assessment methods and outcomes
-- acute myocardial infarction assessment methods and outcomes
-- frailty assessment methods and outcomes
+- aging assessment methods and outcomes
+- biorepository assessment methods and outcomes
+- body composition assessment methods and outcomes

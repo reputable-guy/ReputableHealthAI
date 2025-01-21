@@ -1,29 +1,27 @@
-Study Title: The Impact of Nasal Intubation on Feeding Outcomes in Neonates Requiring Cardiac Surgery: A Randomized Control Trial.
+Study Title: The impact of higher protein dosing on outcomes in critically ill patients with acute kidney injury: a post hoc analysis of the EFFORT protein trial.
 
 Study Summary:
-Neonates who require surgery for congenital heart disease (CHD) frequently have difficulty with oral feeds post-operatively and may require a feeding tube at hospital discharge. The purpose of this study was to determine the effect of oral or nasal intubation route on feeding method at hospital discharge. This was a non-blinded randomized control trial of 62 neonates who underwent surgery for CHD between 2018 and 2021. Infants in the nasal (25 patients) and oral (37 patients) groups were similar in terms of pre-operative risk factors for feeding difficulties including completed weeks of gestational age at birth (39 vs 38&#xa0;weeks), birthweight (3530 vs 3100&#xa0;g), pre-operative PO intake (92% vs 81%), and rate of pre-operative intubation (22% vs 28%). Surgical risk factors were also similar including Society of Thoracic Surgeons-European Association for Cardio-Thoracic Surgery category (3.9 vs 4.1), shunt placement (32% vs 41%), cardiopulmonary bypass time (181 vs 177&#xa0;min), and cross-clamp time (111 vs 105&#xa0;min). 96% of nasally intubated patients took full oral feeds by discharge as compared with 78% of orally intubated infants (p&#x2009;=&#x2009;0.05). Nasally intubated infants reach full oral feeds an average of 3&#xa0;days earlier than their orally intubated peers. In this cohort of patients, nasally intubated infants reach oral feeds more quickly and are less likely to require supplemental tube feeding in comparison to orally intubated peers. Intubation route is a potential modifiable risk factor for oral aversion and appears safe in neonates. The study was approved by the University of Virginia Institutional Review Board for Health Sciences Research and was retrospectively registered on clinicaltrials.gov (NCT05378685) on May 18, 2022.
+Based on low-quality evidence, current nutrition guidelines recommend the delivery of high-dose protein in critically ill patients. The EFFORT Protein trial showed that higher protein dose is not associated with improved outcomes, whereas the effects in critically ill patients who developed acute kidney injury (AKI) need further evaluation. The overall aim is to evaluate the effects of high-dose protein in critically ill patients who developed different stages of AKI. In this post hoc analysis of the EFFORT Protein trial, we investigated the effect of high versus usual protein dose (&#x2265;&#x2009;2.2 vs.&#x2009;&#x2264;&#x2009;1.2&#xa0;g/kg body weight/day) on time-to-discharge alive from the hospital (TTDA) and 60-day mortality and in different subgroups in critically ill patients with AKI as defined by the Kidney Disease Improving Global Outcomes (KDIGO) criteria within 7&#xa0;days of ICU admission. The associations of protein dose with incidence and duration of kidney replacement therapy (KRT) were also investigated. Of the 1329 randomized patients, 312 developed AKI and were included in this analysis (163 in the high and 149 in the usual protein dose group). High protein was associated with a slower time-to-discharge alive from the hospital (TTDA) (hazard ratio 0.5, 95% CI 0.4-0.8) and higher 60-day mortality (relative risk 1.4 (95% CI 1.1-1.8). Effect modification was not statistically significant for any subgroup, and no subgroups suggested a beneficial effect of higher protein, although the harmful effect of higher protein target appeared to disappear in patients who received kidney replacement therapy (KRT). Protein dose was not significantly associated with the incidence of AKI and KRT or duration of KRT. In critically ill patients with AKI, high protein may be associated with worse outcomes in all AKI stages. Recommendation of higher protein dosing in AKI patients should be carefully re-evaluated to avoid potential harmful effects especially in patients who were not treated with KRT. This study is registered at ClinicalTrials.gov (NCT03160547) on May 17th 2017.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1007/s00246-023-03322-7
+- Publication Date: 2023
+- DOI: 10.1186/s13054-023-04663-8
 
 2. Keywords
-- Congenital
-- Congenital heart disease outcomes
-- Critical care outcomes
-- Enteral nutrition
-- Gastrostomy
-- Heart defects
-- Intubation
-- Supplementary feeding
+- Acute kidney injury
+- Critical illness
+- Nutrition support
+- Protein
+- Randomized trial
+- Registry trial
 
 3. Key Findings
-- Findings extraction requires manual review
+- The EFFORT Protein trial showed that higher protein dose is not associated with improved outcomes, whereas the effects in critically ill patients who developed acute kidney injury (AKI) need further evaluation
 
 This study provides insights into:
-- Congenital assessment methods and outcomes
-- Congenital heart disease outcomes assessment methods and outcomes
-- Critical care outcomes assessment methods and outcomes
+- Acute kidney injury assessment methods and outcomes
+- Critical illness assessment methods and outcomes
+- Nutrition support assessment methods and outcomes

@@ -1,24 +1,26 @@
-Study Title: Inflammation in Obesity-Related HFpEF: The STEP-HFpEF Program.
+Study Title: Oral but Not Topical Sodium Bicarbonate Improves Repeated Sprint Performance During Simulated Soccer Match Play Exercise in Collegiate Athletes.
 
 Study Summary:
-Inflammation is thought to be an important mechanism for the development and progression of obesity-related heart failure with preserved ejection fraction (HFpEF). In the STEP-HFpEF Program, once-weekly 2.4&#xa0;mg semaglutide improved heart failure-related symptoms, physical limitations, and exercise function, reduced the levels of C-reactive protein (CRP), a biomarker of inflammation, and reduced body weight in participants with obesity-related HFpEF. However, neither the prevalence nor the clinical characteristics of patients who have various magnitudes of inflammation in the context of obesity-related HFpEF have been well described. Furthermore, whether the beneficial effects of semaglutide on the various HF efficacy endpoints in the STEP-HFpEF Program are modified by the baseline levels of inflammation has not been fully established. Finally, the relationship between weight reduction and changes in CRP across the STEP-HFpEF Program have not been fully defined. This study sought to: 1) evaluate baseline characteristics and clinical features of patients with obesity-related HFpEF that have various levels of inflammation in the STEP-HFpEF Program; 2) determine if the effects of weekly semaglutide 2.4 mg vs placebo across all key outcomes are influenced by baseline levels of inflammation assessed by CRP levels; and 3) determine the relationship between change in CRP and weight loss in the STEP-HFpEF Program. This was a secondary analysis of pooled data from 2 international, double-blind, placebo-controlled, randomized trials (STEP-HFpEF and STEP-HFpEF DM). The outcomes were change in the dual primary endpoints (health status [measured by the Kansas City Cardiomyopathy Questionnaire-Clinical Summary Score (KCCQ-CSS)] and body weight) from baseline to 52&#xa0;weeks according to baseline CRP levels. Additional efficacy endpoints included change in 6-minute walk distance (6MWD), a hierarchical composite endpoint that included death, heart failure events, and differences in the change in the KCCQ-CSS and 6MWD, and levels of CRP in semaglutide- vs placebo-treated patients. Patients were stratified into 3 categories based on baseline CRP levels (<2,&#xa0;&#x2265;2 to&#xa0;<10, and&#xa0;&#x2265;10&#xa0;mg/L). In total, 1,145 patients were randomized, of which 71% of patients had evidence of inflammation (CRP&#xa0;&#x2265;2&#xa0;mg/L). At baseline, those with higher levels of inflammation were younger, were more likely to be female, and had higher body mass index, worse health status (KCCQ-CSS), and shorter 6MWD. Semaglutide vs placebo led to reductions in HF-related symptoms and physical limitations as well as body weight, and to improvements in 6MWD and the hierarchical composite endpoint that were consistent across baseline CRP categories (all P interaction nonsignificant). Semaglutide also reduced CRP to a greater extent than placebo regardless of baseline CRP levels (P interaction&#xa0;=&#xa0;0.32). Change in CRP from baseline to 52&#xa0;weeks was similar regardless of the magnitude of weight loss (P interaction&#xa0;=&#xa0;0.91). Inflammation is highly prevalent in obesity-related HFpEF. Semaglutide consistently improved HF-related symptoms, physical limitations, and exercise function, and reduced body weight across the categories of baseline CRP. Semaglutide also reduced inflammation, regardless of either baseline CRP or magnitude of weight loss during the trials. (Research Study to Investigate How Well Semaglutide Works in People Living With Heart&#xa0;Failure and Obesity [STEP-HFpEF; NCT04788511]; Research Study to Look at How Well Semaglutide Works in People Living With Heart&#xa0;Failure, Obesity and Type 2 Diabetes [STEP HFpEF DM; NCT04916470]).
+This study investigated the effect of oral and topical sodium bicarbonate (SB) on soccer-specific performance during simulated soccer exercise. In a block randomized, double-blind, crossover design, 10 collegiate male soccer players (stature: 181.7 &#xb1; 3.2&#xa0;cm, body mass: 81.7 &#xb1; 10.5&#xa0;kg) performed soccer-specific performance tests (countermovement jumps, Illinois agility, 8 &#xd7; 25&#xa0;m repeated sprints) throughout a 90-min soccer-specific aerobic field test (SAFT90) following 0.3&#xa0;g/kg body mass SB in capsules (SB-ORAL), 0.9036&#xa0;g/kg body mass PR Lotion (SB-LOTION), or placebo capsules and lotion (PLA). Soccer-specific performance tests were conducted pre-SAFT90, during half-time and post-SAFT90. Blood samples were analyzed for acid-base balance (pH; bicarbonate, HCO3-) and strong ions (sodium, Na+; potassium, K+). Average sprint times were quicker for SB-ORAL than PLA during half-time (3.7%; p = .049; g = .57) and post-SAFT90 (4.9%; p = .041; g = .66). SB-ORAL increased pH and HCO3- prewarm-up and during half-time (p < .05), and lowered K+ during half-time (p = .035) compared with PLA. SB-LOTION increased pH (p = .019) and lowered K+ (p = .012) during half-time compared with PLA. SB-LOTION increased Na+ postexercise compared with PLA (p = .008). Repeated sprint times during simulated soccer exercise improved for SB-ORAL, which might have been mechanistically underpinned by elevated blood buffering capacity and greater regulation of strong ion concentration. Consuming SB in capsules is a more effective strategy than topical SB application for improving blood buffering capacity and repeated sprint performance throughout competitive soccer matches.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jacc.2024.08.028
+- DOI: 10.1123/ijsnem.2024-0059
 
 2. Keywords
-- heart failure with preserved ejection fraction
-- inflammation
-- semaglutide
+- acid&#x2013;base balance
+- agility
+- ergogenic aids
+- lotion
+- strong ions
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- heart failure with preserved ejection fraction assessment methods and outcomes
-- inflammation assessment methods and outcomes
-- semaglutide assessment methods and outcomes
+- acid&#x2013;base balance assessment methods and outcomes
+- agility assessment methods and outcomes
+- ergogenic aids assessment methods and outcomes

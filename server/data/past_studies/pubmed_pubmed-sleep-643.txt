@@ -1,26 +1,27 @@
-Study Title: Self-Selected Versus Assigned Target to Reduce Smartphone Use and Improve Mental Health: Protocol for a Randomized Controlled Trial.
+Study Title: Routine, Routine, Routine: Sleep Regularity and its Association with Sleep Metrics in Professional Rugby Union Athletes.
 
 Study Summary:
-Smartphones have become integral to people's lives, with a noticeable increase in the average screen time, both on a global scale and, notably, in India. Existing research links mobile consumption to sleep problems, poor physical and mental health, and lower subjective well-being. The comparative effectiveness of monetary incentives given for self-selected versus assigned targets on reducing screen time and thereby improving mental health remains unanswered. This study aims to assess the impact of monetary incentives and target selection on mobile screen time reduction and mental health. We designed a 3-armed randomized controlled trial conducted with employees and students at an educational institution in India. The study is conducted digitally over 12 weeks, including baseline (2 weeks), randomization (1 week), intervention (5 weeks), and postintervention (4 week) periods. We emailed the employees and students to inquire about their interest in participation. Those who expressed interest received detailed study information and consent forms. After securing consent, participants were asked to complete the initial survey and provide their mobile screen time during the baseline period. At the beginning of the intervention period, the participants were randomly allocated into 1 of 3 study groups in a 2:2:1 ratio (self-selected vs assigned vs control). Participants in the self-selected group were presented with 3 target options: 10%, 20%, and 30%, and they were asked to self-select a target to reduce their mobile screen time from their baseline average mobile screen time. Participants in the assigned group were given a target to reduce their mobile screen time from their baseline average mobile screen time. The assigned target was set as the average of the targets selected by participants in the self-selected group. During the intervention period, participants in the self-selected and assigned group were eligible to receive a monetary incentive of INR (Indian Rupee) 50 (US $0.61) per day for successfully attaining their target. Participants in the control group neither received nor selected a target for reducing their mobile screen time and did not receive any monetary incentives during the intervention period. All participants received information regarding the advantages of reducing mobile screen time. As an incentive, all participants would receive INR 500 (US $6.06) upon completion of the study and a chance to win 1 of 2 lotteries valued at INR 5000 (US $60.55) for consistently sharing their mobile screen time data. Currently, the study intervention is being rolled out. Enrollment occurred between August 21, 2023, and September 2, 2023; data collection concluded in November 2023. We expect that results will be available by early 2024. The monetary incentives and self-selected versus assigned targets might be effective interventions in reducing mobile screen time among working professionals and students. AsPredicted 142497; https://aspredicted.org/hr3nn.pdf. DERR1-10.2196/53756.
+Maintaining a consistent sleep and wake time is often reported as a key component of circadian rhythmicity and quality sleep. However, the impact of sleep onset and offset time variability on overall sleep outcomes are underreported in elite athlete populations. This study investigated the relationship between sleep onset and offset time variability using the sleep regularity index (SRI) and measures of sleep and well-being in professional rugby union athletes. Twenty-three professional male rugby union athletes (mean&#x2009;&#xb1;&#x2009;SD, age: 23&#x2009;&#xb1;&#x2009;3 y) underwent sleep monitoring via wrist actigraphy for three weeks during a pre-season phase of training and completed a daily wellness questionnaire. Median SRI was calculated and used to stratify the trainees into two quantile groups: >76.4 SRI (Regular, n&#x2009;=&#x2009;11) and <&#x2009;76.4 SRI (Irregular, n&#x2009;=&#x2009;12). The regular sleep group showed significantly longer total sleep duration (p&#x2009;=&#x2009;0.02, d&#x2009;=&#x2009;0.97) compared to the irregular group (7:42&#x2009;&#xb1;&#x2009;0:29 vs. 7:18&#x2009;&#xb1;&#x2009;0:20&#xa0;h: min per night, respectively). Furthermore, while not statistically significant, the regular sleep group showed greater sleep efficiency and less wake episodes compared to irregular sleepers, as demonstrated by moderate effect sizes (d&#x2009;=&#x2009;0.71 and 0.69, respectively). The results from this study indicate that minimizing variability in sleep onset and offset time is beneficial for increasing sleep duration and may improve sleep efficiency during pre-season training in elite male rugby union athletes. This study provides evidence for the importance of including sleep-wake routines as a key component of sleep education interventions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/53756
+- DOI: 10.1186/s40798-024-00709-5
 
 2. Keywords
-- mental health
-- mobile phone
-- monetary incentives
-- screen time
-- target selection
+- SRI
+- Sleep Behavior
+- Sleep Efficiency
+- Sleep Hygiene
+- Sleep Variation
 
 3. Key Findings
-- Enrollment occurred between August 21, 2023, and September 2, 2023; data collection concluded in November 2023
+- The regular sleep group showed significantly longer total sleep duration (p&#x2009;=&#x2009;0
+- Furthermore, while not statistically significant, the regular sleep group showed greater sleep efficiency and less wake episodes compared to irregular sleepers, as demonstrated by moderate effect sizes (d&#x2009;=&#x2009;0
 
 This study provides insights into:
-- mental health assessment methods and outcomes
-- mobile phone assessment methods and outcomes
-- monetary incentives assessment methods and outcomes
+- SRI assessment methods and outcomes
+- Sleep Behavior assessment methods and outcomes
+- Sleep Efficiency assessment methods and outcomes

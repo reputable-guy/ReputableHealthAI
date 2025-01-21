@@ -1,25 +1,27 @@
-Study Title: Effect of pelvic floor muscle exercise combined with infrared physiotherapy on postpartum urinary incontinence.
+Study Title: Pilot trial testing the effects of exercise on chemotherapy-induced peripheral neurotoxicity (CIPN) and the interoceptive brain system.
 
 Study Summary:
-Scientific treatments for postpartum urinary incontinence, including pelvic floor muscle exercises (such as Kegel exercises) and infrared therapy, can effectively improve pelvic floor and urethral function, thus enhancing quality of life. However, clinical research on the combined use of these interventions for postpartum urinary incontinence is limited. To investigate the combining efficacy of pelvic floor muscle exercises with infrared physiotherapy on postpartum urinary incontinence. Clinical information of 102 patients with postpartum urinary incontinence (June 2021-June 2022) were collected and analyzed. Patients were randomly divided into control (conventional intervention) and observation (pelvic floor muscle exercises combined with infrared physiotherapy) groups, with 52 and 50 cases respectively. We compared pelvic floor muscle strength, urodynamic indicators, leakage volume, quality of life, and overall clinical efficacy between the two groups. Before intervention, both groups had similar pelvic floor function scores and urodynamic indicators. Post-intervention, the pelvic floor function scores in the observation group were significantly lower than control. The urodynamic indicator levels of the observation group were markedly higher than control after 2 months of intervention. Leakage volume was similar before intervention, while the observation group had significantly lower volumes after 1 and 2 months of intervention. Quality of life scores were similar initially, but after 2 months, the observation group scored higher. The observation group showed notably better pelvic floor rehabilitation at 2 months post-intervention. Combining pelvic floor muscle exercise with infrared physiotherapy has been shown to be a highly effective approach in enhancing pelvic floor muscle strength and improving the quality of life for postpartum women experiencing urinary incontinence. This combined therapy also demonstrates positive effects on urodynamic indicators, reducing leakage volume, and facilitating pelvic floor rehabilitation.
+Chemotherapy-induced peripheral neurotoxicity (CIPN) is a prevalent, dose-limiting, tough-to-treat toxicity involving numbness, tingling, and pain in the extremities with enigmatic pathophysiology. This randomized controlled pilot study explored the feasibility and preliminary efficacy of exercise during chemotherapy on CIPN and the role of the interoceptive brain system, which processes bodily sensations. Nineteen patients (65&#x2009;&#xb1;&#x2009;11 years old, 52% women; cancer type: breast, gastrointestinal, multiple myeloma) starting neurotoxic chemotherapy were randomized to 12 weeks of exercise (home-based, individually tailored, moderate intensity, progressive walking, and resistance training) or active control (nutrition education). At pre-, mid-, and post-intervention, we assessed CIPN symptoms (primary clinical outcome: CIPN-20), CIPN signs (tactile sensitivity using monofilaments), and physical function (leg strength). At pre- and post-intervention, we used task-free ("resting") fMRI to assess functional connectivity in the interoceptive brain system, involving the salience and default mode networks. The study was feasible (74-89% complete data across measures) and acceptable (95% retention). We observed moderate/large beneficial effects of exercise on CIPN symptoms (CIPN-20, 0-100 scale:&#x2009;-&#x2009;7.9&#x2009;&#xb1;&#x2009;5.7, effect size [ES]&#x2009;=&#x2009;&#x2009;-&#x2009;0.9 at mid-intervention;&#x2009;-&#x2009;4.8&#x2009;&#xb1;&#x2009;7.3, ES&#x2009;=&#x2009;-&#x2009;0.5 at post-intervention), CIPN signs (ES&#x2009;=&#x2009;&#x2009;-&#x2009;1.0 and&#x2009;-&#x2009;0.1), and physical function (ES&#x2009;=&#x2009;0.4 and 0.3). Patients with worse CIPN after neurotoxic chemotherapy had lower functional connectivity within the default mode network (R&#x2009;=&#x2009;40-60%) and higher functional connectivity within the salience network (R&#x2009;=&#x2009;20-40%). Exercise tended to increase hypoconnectivity and decrease hyperconnectivity seen in CIPN (R&#x2009;=&#x2009;12%). Exercise during neurotoxic chemotherapy is feasible and may attenuate CIPN symptoms and signs, perhaps via changes in interoceptive brain circuitry. Future work should test for replication with larger samples. Registered Jan 2017 on ClinicalTrials.gov as NCT03021174.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.3233/THC-240831
+- Publication Date: 2024
+- DOI: 10.1007/s00520-024-08855-y
 
 2. Keywords
-- Pelvic floor muscle exercise
-- infrared physiotherapy
-- postpartum urinary incontinence
-- quality of life
+- Brain
+- Chemotherapy-induced peripheral neurotoxicity (CIPN)
+- Exercise
+- FMRI
+- Interoception
+- Neuropathy
 
 3. Key Findings
-- The observation group showed notably better pelvic floor rehabilitation at 2 months post-intervention
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Pelvic floor muscle exercise assessment methods and outcomes
-- infrared physiotherapy assessment methods and outcomes
-- postpartum urinary incontinence assessment methods and outcomes
+- Brain assessment methods and outcomes
+- Chemotherapy-induced peripheral neurotoxicity (CIPN) assessment methods and outcomes
+- Exercise assessment methods and outcomes

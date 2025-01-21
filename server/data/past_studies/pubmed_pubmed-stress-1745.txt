@@ -1,26 +1,26 @@
-Study Title: Myocardial Blood Flow by Magnetic Resonance in Patients With Suspected Coronary Stenosis: Comparison to PET and Invasive Physiology.
+Study Title: Using Virtual Reality to teach ultrasound-guided needling skills for regional anaesthesia: A randomised controlled trial.
 
 Study Summary:
-Despite recent guideline recommendations, quantitative perfusion (QP) estimates of myocardial blood flow from cardiac magnetic resonance (CMR) have only been sparsely validated. Furthermore, the additional diagnostic value of utilizing QP in addition to the traditional visual expert interpretation of stress-perfusion CMR remains unknown. The aim was to investigate the correlation between myocardial blood flow measurements estimated by CMR, positron emission tomography, and invasive coronary thermodilution. The second aim is to investigate the diagnostic performance of CMR-QP to identify obstructive coronary artery disease (CAD). Prospectively enrolled symptomatic patients with >50% diameter stenosis on computed tomography angiography underwent dual-bolus CMR and positron emission tomography with rest and adenosine-stress myocardial blood flow measurements. Subsequently, an invasive coronary angiography (ICA) with fractional flow reserve and thermodilution-based coronary flow reserve was performed. Obstructive CAD was defined as both anatomically severe (>70% diameter stenosis on quantitative coronary angiography) or hemodynamically obstructive (ICA with fractional flow reserve &#x2264;0.80). About 359 patients completed all investigations. Myocardial blood flow and reserve measurements correlated weakly between estimates from CMR-QP, positron emission tomography, and ICA-coronary flow reserve (r<0.40 for all comparisons). In the diagnosis of anatomically severe CAD, the interpretation of CMR-QP by an expert reader improved the sensitivity in comparison to visual analysis alone (82% versus 88% [=0.03]) without compromising specificity (77% versus 74% [=0.28]). In the diagnosis of hemodynamically obstructive CAD, the accuracy was only moderate for a visual expert read and remained unchanged when additional CMR-QP measurements were interpreted. CMR-QP correlates weakly to myocardial blood flow measurements by other modalities but improves diagnosis of anatomically severe CAD. URL: https://www.clinicaltrials.gov; Unique identifier: NCT03481712.
+We previously designed and validated a virtual reality-based simulator to help train novices in ultrasound-guided needling skills necessary for safe and competent ultrasound-guided regional anaesthesia. This study was designed to compare the performance and error rates of novices trained by a human faculty aided with the assistance of this virtual reality simulator (virtual reality-assisted training), versus novices trained wholly by humans (conventional training). In this single centre, randomised controlled study, we used a standardised teaching protocol, rigorous blinding, iterative training of assessors, and validated global rating scale and composite error score checklists to assess skills learning of novice participants. We recruited 45 novices and scored 270 assessments of performance and error rates. Inter-rater correlation coefficient of reliability of scoring between assessors for the global rating scale was 0.84 (95%CI 0.68-0.92) and for the composite error score checklist was 0.87 (95%CI 0.73-0.93). After adjustment for age, sex, Depression, Anxiety and Stress-21, and baseline score, there was no statistical difference for virtual reality-assisted training compared to conventional training in final global rating score (average treatment effect -3.30 (95%CI-13.07-6.48), p&#xa0;=&#xa0;0.51) or in the final composite error score (average treatment effect 1.14 (95%CI -0.60-2.88), p&#xa0;=&#xa0;0.20). Realism in the virtual reality simulator was similar to real-life when measured by the Presence Questionnaire, all components p&#xa0;>&#xa0;0.79; and task workload assessed by the NASA-Task Load Index was not statistically different between groups, average treatment effect 5.02 (95%CI -3.51-13.54), p&#xa0;=&#xa0;0.25. Results were achieved in the virtual reality-assisted group with half the human faculty involvement. Novices trained using a hybrid, virtual reality-assisted teaching program showed no superiority to novices trained using a conventional teaching program, but with less burden on teaching resources.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1161/CIRCIMAGING.124.016635
+- DOI: 10.1016/j.jclinane.2024.111535
 
 2. Keywords
-- constriction, pathologic
-- coronary angiography
-- coronary artery disease
-- fractional flow reserve, myocardial
-- myocardial perfusion imaging
+- Medical education
+- Regional anaesthesia
+- Ultrasonography
+- Ultrasound
+- Virtual reality
 
 3. Key Findings
-- Findings extraction requires manual review
+- Novices trained using a hybrid, virtual reality-assisted teaching program showed no superiority to novices trained using a conventional teaching program, but with less burden on teaching resources
 
 This study provides insights into:
-- constriction, pathologic assessment methods and outcomes
-- coronary angiography assessment methods and outcomes
-- coronary artery disease assessment methods and outcomes
+- Medical education assessment methods and outcomes
+- Regional anaesthesia assessment methods and outcomes
+- Ultrasonography assessment methods and outcomes

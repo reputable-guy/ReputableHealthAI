@@ -1,20 +1,33 @@
-Study Title: Assessing the Impact of a Handwashing Knowledge and Practices Program among Poor Households in Rural Bangladesh: A Cluster-Randomized Pre-Post Study.
+Study Title: Polygenic scores of diabetes-related traits in subgroups of type 2 diabetes in India: a cohort study.
 
 Study Summary:
-Improvement in hand hygiene has been strongly associated with positive outcomes in maternal and child health. Although Bangladesh has a high level of awareness of key hygiene messages, the practice of handwashing, the most effective hygiene behavior, is low. Suchana, a multisectoral nutrition program, aims to increase knowledge and practices around various water, sanitation, and hygiene settings in Sylhet region, the northeast of rural Bangladesh. This study aimed to investigate the changes in indicators related to handwashing knowledge and practices among Suchana beneficiaries in final compared with baseline evaluations. Data were derived from the baseline and final cross-sectional evaluation survey. The following handwashing knowledge and practices were considered: handwashing before preparing food, before eating food and feeding children, before serving food, after defecation, and after touching animals. The descriptive findings indicate that Suchana intervention improved handwashing knowledge and practices in the intervention area compared with the control. The odds of having knowledge of hand washing before preparing food (adjusted odds ratio [aOR]: 1.60; 95% CI: 1.30-1.98), before eating food and feeding children (aOR: 1.68; 95% CI: 1.25-2.25), before serving food (aOR: 1.35; 95% CI: 1.04-1.76), after defecation (aOR: 1.74; 95% CI: 1.25-2.41), and after touching animals (aOR: 1.67; 95% CI: 1.29-2.16) were higher in intervention area than the control area. Similarly, the impact on maternal handwashing practices at final evaluation indicated successful effects of the intervention. These results suggest scaling-up of similar interventions for larger populations living in vulnerable areas of rural Bangladesh.
+A machine-learning approach identified five subgroups of diabetes in Europeans which included severe autoimmune diabetes (SAID), severe insulin-deficient diabetes (SIDD), severe insulin-resistant diabetes (SIRD), mild obesity-related diabetes (MOD) and mild age-related diabetes (MARD) with partially distinct genetic aetiologies. We previously validated four of the non-autoimmune subgroups in people with young-onset type 2 diabetes (T2D) from the Indian WellGen study. Here, we aimed to apply European-derived centroids and genetic risk scores (GRSs) to the unselected (for age) WellGen to test their applicability and investigate the genetic aetiology of the Indian T2D subgroups. We applied European derived centroids and GRSs to T2D participants of Indian ancestry (WellGen, n&#xa0;=&#xa0;2217, 821 genotyped) and compared them with normal glucose tolerant controls (Pune Maternal Nutrition Study, n&#xa0;=&#xa0;461). SIDD was the predominant subgroup followed by MOD, whereas SIRD and MARD were less frequent. Weighted-GRS for T2D, obesity and lipid-related traits associated with T2D. We replicated some of the previous associations of GRS for T2D, insulin secretion, and BMI with SIDD and MOD. Unique to Indian subgroups was the association of GRS for (a) proinsulin with MOD and MARD, (b) liver-lipids with SIDD, SIRD and MOD, and (c) opposite effect of beta-cell GRS with SIDD and MARD, obesity GRS with MARD compared to Europeans. Genetic variants of fucosyltransferases were associated with T2D and MOD in Indians but not Europeans. The similarities emphasise the applicability of some of the European-derived GRSs to T2D and its subgroups in India while the differences highlight the need for large-scale studies to identify aetiologies in diverse ancestries. The data provide robust evidence for genetically distinct aetiologies for the T2D subgroups and at least partly mirror those seen in Europeans. Vetenskapsr&#xe5;det, Diabetes Wellness, and Hj&#xe4;rt-Lungfonden (Sweden), DST (India), Wellcome Trust, Crafoord Foundation and Albert P&#xe5;hlsson Foundation.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.4269/ajtmh.21-0555
+- DOI: 10.1016/j.lansea.2023.100182
 
 2. Keywords
-
+- Genetics of subgroups
+- India
+- MARD
+- MOD
+- Mild age-related diabetes
+- Mild obesity-related diabetes
+- SIDD
+- SIRD
+- Severe insulin-deficient diabetes
+- Severe insulin-resistant diabetes
+- Subgroups
+- Type 2 diabetes
 
 3. Key Findings
-- Similarly, the impact on maternal handwashing practices at final evaluation indicated successful effects of the intervention
+- Vetenskapsr&#xe5;det, Diabetes Wellness, and Hj&#xe4;rt-Lungfonden (Sweden), DST (India), Wellcome Trust, Crafoord Foundation and Albert P&#xe5;hlsson Foundation
 
 This study provides insights into:
-- General research methodology and outcomes
+- Genetics of subgroups assessment methods and outcomes
+- India assessment methods and outcomes
+- MARD assessment methods and outcomes

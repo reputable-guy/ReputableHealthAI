@@ -1,20 +1,25 @@
-Study Title: A Randomized Controlled Trial of&#xa0;Precision Nutrition Counseling for&#xa0;Service Members at Risk for&#xa0;Metabolic Syndrome.
+Study Title: Efficacy of high dose systemic versus combined (systemic and intratympanic) corticosteroid therapy in idiopathic sudden sensorineural hearing loss: A prospective randomized trial and risk factor analysis.
 
 Study Summary:
-Metabolic syndrome (MetS) is a threat to the active component military as it impacts health, readiness, retention, and cost to the Military Health System. The most prevalent risk factors documented in service members' health records are high blood pressure (BP), low high-density lipoprotein cholesterol, and elevated triglycerides. Other risk factors include abdominal obesity and elevated fasting blood glucose. Precision nutrition counseling and wellness software applications have demonstrated positive results for weight management when coupled with high levels of participant engagement and motivation. In this prospective randomized controlled trial, trained registered dietitians conducted nutrition counseling using results of targeted sequencing, biomarkers, and expert recommendations to reduce the risk for MetS. Upon randomization, the treatment arm initiated six weekly sessions and the control arm received educational pamphlets. An eHealth application captured diet and physical activity. Anthropometrics and BP were measured at baseline, 6 weeks, and 12&#x2009;weeks, and biomarkers were measured at baseline and 12&#x2009;weeks. The primary outcome was a change in weight at 12&#x2009;weeks. Statistical analysis included descriptive statistics and t-tests or analysis of variance with significance set at P&#x2009;<&#x2009;.05. Overall, 138 subjects enrolled from November 2019 to February 2021 between two military bases; 107 completed the study. Demographics were as follows: 66% male, mean age 31&#x2009;years, 66% married, and 49% Caucasian and non-Hispanic. Weight loss was not significant between groups or sites at 12&#x2009;weeks. Overall, 27% of subjects met the diagnostic criteria for MetS on enrollment and 17.8% upon study completion. High deleterious variant prevalence was identified for genes with single-nucleotide polymorphisms linked to obesity (40%), cholesterol (38%), and BP (58%). Overall, 65% of subjects had low 25(OH)D upon enrollment; 45% remained insufficient at study completion. eHealth app had low adherence yet sufficient correlation with a valid reference. Early signs of progress with weight loss at 6&#x2009;weeks were not sustained at 12&#x2009;weeks. DNA-based nutrition counseling was not efficacious for weight loss.
+The pathophysiology and the proper treatment of idiopathic sudden sensorineural hearing loss (ISSNHL) are an ongoing subject of debate. Locally or systemic administered corticosteroids are the most accepted drugs of treatment in reference to ISSNHL (idiopathic sudden sensorineural hearing loss), however, no strong evidence nor guidelines regarding their effectiveness yet exists. In our prospective, randomized, controlled trial 78 participants were enrolled. Patients were randomly assigned based on the day of admission to two groups according to treatment: group SS (n&#xa0;=&#xa0;43) received intravenous systemic methylprednisolone alone, and group CT (n&#xa0;=&#xa0;35) received intratympanic dexamethasone + systemic methylprednisolone. The primary outcome was to compare the hearing outcomes between the treatment groups based on different, widely accepted categories (Siegel, Kanzaki, modified Siegel and PTA4 gain). In consideration of the secondary outcome, we examined the effect of the various risk factors on the hearing improvement. No differences were detected regarding hearing improvement between the two groups, based on any criteria [Siegel's criteria (p&#xa0;=&#xa0;0.604); Kanzaki's criteria (p&#xa0;=&#xa0;0.720); modified Siegel's criteria (p&#xa0;=&#xa0;0.524) and PTA 4 gain (p&#xa0;=&#xa0;0.569)]. However, several clinical factors such as vertigo (p&#xa0;=&#xa0;0.039), or cardiovascular comorbidity (p&#xa0;=&#xa0;0.02) and the severity of initial hearing loss (p&#xa0;=&#xa0;0.033) were found to bear a significant impact upon the hearing outcome. To the best of our knowledge, this is the first randomized controlled trial comparing high dose systemic and combination corticosteroid therapy in ISSNHL patients. Our findings suggest coexisting cardiovascular comorbidity, vertigo and severity of the initial hearing loss may bear a significantly higher impact upon hearing improvement, than the additional intratympanic steroid administration. The presented trial was registered in the European Union Drug Regulating Authorities Clinical Trials Database (name: Combinated systemic and intratympanic steroid therapy in idiopathic sudden sensorineural hearing loss, No.: 2017-000658-20) and with the ethical approval of The National Institute of Pharmacy and Nutrition (OGY&#xc9;I) (protocol No.: 7621, on 2017.02.16.).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1093/milmed/usad276
+- DOI: 10.1016/j.amjoto.2023.104099
 
 2. Keywords
-
+- Intratympanic injection
+- Risk factor
+- Steroid
+- Sudden hearing loss
 
 3. Key Findings
-- Precision nutrition counseling and wellness software applications have demonstrated positive results for weight management when coupled with high levels of participant engagement and motivation
+- 033) were found to bear a significant impact upon the hearing outcome
 
 This study provides insights into:
-- General research methodology and outcomes
+- Intratympanic injection assessment methods and outcomes
+- Risk factor assessment methods and outcomes
+- Steroid assessment methods and outcomes

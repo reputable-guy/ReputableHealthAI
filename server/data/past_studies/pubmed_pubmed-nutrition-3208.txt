@@ -1,26 +1,27 @@
-Study Title: Lifestyle Medicine for the Health Care Worker, Workplace, and Community Well-Being: A Butterfly Effect.
+Study Title: Impact of withholding early parenteral nutrition on 2-year mortality and functional outcome in critically ill adults.
 
 Study Summary:
-Description Burnout is a prevalent and expensive problem in the US, and the National Plan For Health Workforce Well-Being included a goal to institutionalize well-being as a long-term value. Lifestyle Medicine (LM), an evidence-based practice using behavioral interventions to treat, prevent, and reverse certain chronic conditions, can achieve this goal. Implementing small changes in the workplace that support lifestyle medicine has a butterfly effect on both workplace and community well-being. Furthermore, the health of health care workers (HCWs) and patients improves, and health care costs decrease. This can be done with LM wellness programs or LM training for HCWs. LM wellness programs help the individual HCWs' and patients' well-being through the implementation of the 6 pillars of lifestyle medicine (nutrition, diet, stress reduction, social connection, avoiding/reducing toxins, restorative sleep) on an institutional level. LM initiatives, like LM training, help HCWs and their patients embark on this journey of optimal well-being, disease prevention, treatment, or reversal. Aligning policies to support evidence-based lifestyle changes that improve mood and stress reduction would support restorative rest, leaving HCWs less drained and allowing for more energy to be spent devoted to other lifestyle pillars. The Lifestyle Medicine Residency Curriculum is an example of an LM training program that leads to successful lifestyle change in residents' lives, improving their ability to coach patients. Finally, health care delivery that supports lifestyle medicine, such as shared medical appointments, is in alignment with the trend towards a value-based system for the improvement of public health.
+In critically ill adults, withholding parenteral nutrition until 1&#xa0;week after intensive care admission (Late-PN) facilitated recovery as compared with early supplementation of insufficient enteral nutrition with parenteral nutrition (Early-PN). However, the impact on long-term mortality and functional outcome, in relation to the estimated nutritional risk, remains unclear. In this prospective follow-up study of the multicenter EPaNIC randomized controlled trial, we investigated the impact of Late-PN on 2-year mortality (N&#x2009;=&#x2009;4640) and physical functioning, assessed by the 36-Item Short Form Health Survey (SF-36; in 3292 survivors, responding 819 [738-1058] days post-randomization). To account for missing data, we repeated the analyses in two imputed models. To identify potential heterogeneity of treatment effects, we investigated the impact of Late-PN in different nutritional risk subgroups as defined by Nutritional Risk Screening-2002-score, modified NUTrition Risk in the Critically Ill-score, and age (above/below 70&#xa0;years), and we evaluated whether there was statistically significant interaction between classification to a nutritional risk subgroup and the effect of the randomized intervention. Secondary outcomes were SF-36-derived physical and mental component scores (PCS & MCS). Two-year mortality (20.5% in Late-PN, 19.8% in Early-PN; P&#x2009;=&#x2009;0.54) and physical functioning (70 [40-90] in both study-arms; P&#x2009;=&#x2009;0.99) were similar in both groups, also after imputation of missing physical functioning data. Likewise, Late-PN had no impact on 2-year mortality and physical functioning in any nutritional risk subgroup. PCS and MCS were similar in both groups. Late-PN did not alter 2-year survival and physical functioning in adult critically ill patients, independent of anticipated nutritional risk.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.36518/2689-0216.1816
+- DOI: 10.1007/s00134-024-07546-w
 
 2. Keywords
-- behavioral interventions
-- health care workers (HCW)
-- lifestyle medicine
-- wellness programs
-- workplace health promotion
+- Critical illness
+- Individualized medicine
+- Intensive care
+- Nutritional risk
+- Parenteral nutrition
+- Physical function
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- behavioral interventions assessment methods and outcomes
-- health care workers (HCW) assessment methods and outcomes
-- lifestyle medicine assessment methods and outcomes
+- Critical illness assessment methods and outcomes
+- Individualized medicine assessment methods and outcomes
+- Intensive care assessment methods and outcomes

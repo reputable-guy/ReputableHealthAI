@@ -1,20 +1,32 @@
-Study Title: The Effects of a Novel Sodium Bicarbonate Ingestion System on Repeated 4&#xa0;km Cycling Time Trial Performance in Well-Trained Male Cyclists.
+Study Title: Unraveling the impact of therapeutic drug monitoring via machine learning for patients with sepsis.
 
 Study Summary:
-A novel sodium bicarbonate (SB) product has come to market named the "Bicarb System" (M-SB; Maurten AB, Gothenburg, Sweden). It claims to minimise gastrointestinal (GI) discomfort whilst still improving exercise performance. To investigate the effects of M-SB ingestion on repeated 4&#xa0;km cycling time trials (TT1 and TT2) in well-trained male cyclists. The study recruited ten well-trained cyclists (maximal oxygen uptake (): 67&#x2009;&#xb1;&#x2009;4&#xa0;ml&#xa0;kg&#xa0;minBM; peak power output (PPO) at: 423&#x2009;&#xb1;&#x2009;21 W) to take part in this randomised, crossover and double-blinded study. Following one visit to determine, participants completed a second visit to identify individual time to peak blood bicarbonate (HCO) (ITTP) in a rested state. Visit three was a familiarisation trial mimicking the experimental procedures. Visits four to seven consisted of completing 2&#x2009;&#xd7;&#x2009;4&#xa0;km cycling TTs separated by 45&#xa0;min passive recovery, following one of either: 0.3&#xa0;g&#xa0;kgBM M-SB, 0.21&#xa0;g&#xa0;kgBM sodium chloride (placebo; PLA) in vegetarian capsules (size 00), or a control trial (CON). Supplements (M-SB or placebo) were ingested pre-exercise at their respective ITTP. Performance in TT1 was faster in the M-SB condition compared with TT1 in CON (-&#x2009;5.1&#xa0;s; p&#x2009;=&#x2009;0.004) and PLA (-&#x2009;3.5&#xa0;s; p&#x2009;<&#x2009;0.001). In TT2, performance was also significantly faster in the M-SB condition compared with CON (-&#x2009;4.4&#xa0;s; p&#x2009;=&#x2009;0.018) or PLA (-&#x2009;4.1&#xa0;s; p&#x2009;=&#x2009;0.002). Total aggregated GI symptoms were generally low and not significantly different between PLA and the M-SB conditions for a range of symptoms. The ingestion of M-SB improves repeated 4&#xa0;km cycling TT performance and the recovery of acid-base balance&#xa0;between bouts, whilst causing minimal GI discomfort.
+Clinical studies investigating the benefits of beta-lactam therapeutic drug monitoring (TDM) among critically ill patients are hindered by small patient groups, variability between studies, patient heterogeneity, and inadequate use of TDM. Accordingly, definitive conclusions regarding the efficacy of TDM remain elusive. To address these challenges, we propose an innovative approach that leverages data-driven methods to unveil the concealed connections between therapy effectiveness and patient data, collected through a randomized controlled trial (DRKS00011159; 10th October 2016). Our findings reveal that machine learning algorithms can successfully identify informative features that distinguish between healthy and sick states. These hold promise as potential markers for disease classification and severity stratification, as well as offering a continuous and data-driven "multidimensional" Sequential Organ Failure Assessment (SOFA) score. The positive impact of TDM on patient recovery rates is demonstrated by unraveling the intricate connections between therapy effectiveness and clinically relevant data via machine learning.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s40279-024-02083-4
+- DOI: 10.1016/j.xcrm.2024.101681
 
 2. Keywords
-
+- Mahalanobis distance
+- SOFA score
+- beta-lactam antibiotics
+- intensive care unit
+- machine learning
+- mathematical similarity
+- piperacillin/tazobactam
+- sepsis
+- septic shock
+- state space approach
+- therapeutic drug monitoring
 
 3. Key Findings
-- Findings extraction requires manual review
+- The positive impact of TDM on patient recovery rates is demonstrated by unraveling the intricate connections between therapy effectiveness and clinically relevant data via machine learning
 
 This study provides insights into:
-- General research methodology and outcomes
+- Mahalanobis distance assessment methods and outcomes
+- SOFA score assessment methods and outcomes
+- beta-lactam antibiotics assessment methods and outcomes

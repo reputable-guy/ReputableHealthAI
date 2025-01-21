@@ -1,27 +1,31 @@
-Study Title: Associations between enteral nutrition and outcomes in the SUP-ICU trial: Results of exploratory post hoc analyses.
+Study Title: A theoretical explanation for how a nutrition counseling and medically tailored meal delivery program benefitted participants living with lung cancer.
 
 Study Summary:
-Enteral nutrition may affect risks of gastrointestinal bleeding, pneumonia and mortality in critically ill patients and may also modify the effects of pharmacological stress ulcer prophylaxis. We undertook post hoc analyses of the stress ulcer prophylaxis in the intensive care unit trial to assess for any associations and interactions between enteral nutrition and pantoprazole. Extended Cox models with time-varying co-variates and competing events were used to assess potential associations, adjusted for baseline severity of illness. Potential interactions between daily enteral nutrition and allocation to pantoprazole on outcomes were similarly assessed. Enteral nutrition was associated with lower risk of clinically important gastrointestinal bleeding (cause-specific hazard ratio [HR]: 0.29, 95% confidence interval: [CI] 0.19-0.44, p&#x2009;<&#x2009;.001), higher risk of pneumonia (HR: 1.44, 95% CI: 1.14-1.82, p&#x2009;=&#x2009;.003), and lower risk of all-cause mortality (HR: 0.22, 95% CI: 0.18-0.27, p&#x2009;<&#x2009;.001). Enteral nutrition with allocation to pantoprazole was associated with a lower risk of mortality (HR: 0.27, 95% CI: 0.21-0.35, p&#x2009;<&#x2009;.001), similar to enteral nutrition with allocation to placebo (HR: 0.17, 95% CI: 0.13-0.23, p&#x2009;<&#x2009;.001). Allocation to pantoprazole with no enteral nutrition had little effect on mortality (HR: 0.83, 95% CI: 0.63-1.09, p&#x2009;=&#x2009;.179), whilst allocation to pantoprazole and receipt of enteral nutrition was mostly compatible with increased all-cause mortality (HR: 1.27, 95% CI: 0.99-1.64, p&#x2009;=&#x2009;.061). The test of interaction between enteral nutrition and pantoprazole treatment allocation for all-cause mortality was statistically significant (p&#x2009;=&#x2009;.024). Enteral nutrition was associated with an increased risk of pneumonia and a reduced risk of gastrointestinal bleeding. The interaction between pantoprazole and enteral nutrition suggesting an increased risk of mortality requires further study.
+The purpose of this study was to assess participants' perceptions and experiences while participating in a Food is Medicine medically tailored meal plus intensive nutrition counseling intervention to create a theoretical explanation about how the intervention worked. This interpretive qualitative study included the use of semi-structured interviews with active participants in a randomized controlled trial aimed at understanding how a medically tailored meal plus nutrition counseling intervention worked for vulnerable individuals with lung cancer treated at four cancer centers across the USA. During the 8-month long study, participants in the intervention arm were asked to be interviewed, which were recorded, transcribed verbatim, and analyzed using conventional content analysis with principles of grounded theory. Twenty individuals participated. Data analysis resulted in a theoretical explanation of the intervention's mechanism of action. The explanatory process includes three linked and propositional categories leading to patient resilience: engaging in treatment, adjusting to diagnosis, and active coping. The medically tailored meals plus nutrition counseling engaged participants throughout treatment, which helped participants adjust to their diagnosis, leading to active coping through intentional self-care, behavior change, and improved quality of life. These findings provide evidence that a Food is Medicine intervention may buffer some of the adversity related to the diagnosis of lung cancer and create a pathway for participants to experience post-traumatic growth, develop resilience, and change behaviors to actively cope with lung cancer. Medically tailored meals plus intensive nutrition counseling informed by motivational interviewing supported individuals' adjustment to their diagnosis and resulted in perceived positive behavior change.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/aas.14471
+- DOI: 10.1007/s00520-024-08616-x
 
 2. Keywords
-- critical illness
-- enteral feeding
-- gastrointestinal bleeding
-- mortality
-- pneumonia
-- proton pump inhibitor
+- Active coping
+- Food is Medicine
+- Lung cancer
+- Medical nutrition therapy
+- Medically tailored meals
+- Motivational interviewing
+- Nutrition intervention
+- Nutrition security
+- Post-traumatic growth
+- Quality of life
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- critical illness assessment methods and outcomes
-- enteral feeding assessment methods and outcomes
-- gastrointestinal bleeding assessment methods and outcomes
+- Active coping assessment methods and outcomes
+- Food is Medicine assessment methods and outcomes
+- Lung cancer assessment methods and outcomes

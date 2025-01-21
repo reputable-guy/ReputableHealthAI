@@ -1,26 +1,26 @@
-Study Title: Early Incorporation to Palliative Care (EPC) in Patients With Advanced Non-Small Cell Lung Cancer: The PACO Randomized Clinical Trial.
+Study Title: Reverse-engineered exclusive enteral nutrition in pediatric Crohn's disease: A pilot trial.
 
 Study Summary:
-Patients with non-small cell lung cancer (NSCLC) experience a considerable disease burden, evident in symptomatic and psychological spheres. Advanced cancer represents a complex scenario for patients and the healthcare team. Early palliative care (EPC) has been proven as a clinically meaningful strategy in this context by several randomized trials but not in a resource-limited setting. This study aimed to evaluate the effect of EPC compared with standard oncological care (SOC) in patients with metastatic NSCLC in Mexico. A prospective, randomized clinical trial was conducted at Instituto Nacional de Cancerologia in Mexico. All patients had histologically confirmed metastatic NSCLC without previous treatment. Patients were randomly assigned (1:1) to receive SOC or SOC&#x2005;+&#x2005;EPC. The EPC group was introduced to the palliative care team at baseline after randomization, which was integrated by psychologists, bachelor's in nutrition, specialized nurses, and physicians. Patients randomized to this arm had programmed visits to meet with the team at baseline and through the 2nd, 4th-, and 6th cycles thereafter. The primary endpoint was overall survival (OS); secondary outcomes included quality of life (QoL), anxiety and depression, and symptom intensity. They were assessed using the instruments EORTC QLQ-C30 questionnaire, Edmonton Symptom Assessment Scale (ESAS), and the Hospital Anxiety and Depression Scale (HADS) (clinicaltrials.gov [NCT01631565]). Questionnaires were completed at baseline, at 2nd, 4th, and 6th cycles of treatment. Between March 2012 and June 2015, 201 patients were assessed for eligibility and 146 were enrolled and allocated to receive EPC (73) or SOC (73). Median OS for patients in the EPC vs SOC arm was 18.1 months (95% CI, 7.9-28.4) and 10.5 months (95% CI, 4.7-16.2) (P&#x2005;=&#x2005;.029). Having a poor performance status (HR 1.7 [1.2-2.5]; P&#x2005;=&#x2005;.004) and allocation to the control group (HR 1.5 [1.03-2.3]; P&#x2005;=&#x2005;.034) were independently associated with a worse OS. Those patients with a global QoL&#x2005;>&#x2005;70 at baseline had a better OS if they were In the EPC arm (38.7 months (95% CI, 9.9-67.6) vs SOC 21.4 months (95% CI, 12.4-30.3)). Mean QoL had a numerical improvement in patients allocated to EPC after 6 cycles of follow-up, nonetheless this difference was not statistically significant (55.1&#x2005;&#xb1;&#x2005;23.7 vs 56.9&#x2005;&#xb1;&#x2005;25.3; P&#x2005;=&#x2005;.753). There were no significant differences in anxiety and depression at all study points. EPC is associated with a significant improvement in OS, although, we observed that the greatest benefit of providing EPC was observed in those with a global QoL&#x2005;>&#x2005;70 at baseline. This study did not identify significant changes in terms of QoL or symptom burden between the study groups after follow-up. Evidence robustly suggests that EPC should be considered part of the multidisciplinary treatment of metastatic NSCLC patients since diagnosis. According to our study, EPC can be implemented in low- or middle-income countries (LMIC).
+In pediatric Crohn's disease (CD), commercial formulas used as exclusive enteral nutrition (EEN) are effective at inducing remission. This study aims to assess the impact of a whole-food blended smoothie as EEN on CD activity and the intestinal microbiome. A 4-week prospective trial assessed the impact of EEN with a whole-food smoothie on newly diagnosed mild-to-moderate active pediatric CD. The smoothie with a multivitamin were developed to meet age-appropriate nutritional requirements. Assessment over 4 weeks included Pediatric Crohn's Disease Activity Index (PCDAI), serum laboratories, fecal calprotectin (FCP), and stool collection for metagenomic shotgun sequencing and microbiota composition analysis. Clinical remission was defined as PCDAI&#x2009;&#x2264;&#x2009;10 at week 4. Ten participants were enrolled with median age 14.5 years, and 8 completed the trial. Baseline mean PCDAI was 26.3&#x2009;&#xb1;&#x2009;9.1 and mean FCP 1149&#x2009;&#xb1;&#x2009;718&#x2009;&#xb5;g/g. At week 4, 80% of participants achieved clinical remission. FCP decreased by over half in 60% of participants, with FCP below 250&#x2009;&#xb5;g/g in 60% and below 100&#x2009;&#xb5;g/g in 40%. Microbiome analysis showed a significant increase in species richness over 4 weeks (p&#x2009;=&#x2009;0.01). Compared to baseline, the relative abundance at week 2 and at week 4 was significantly increased for Bifidobacterium and Streptococcus and decreased for Blautia (p&#x2009;<&#x2009;0.05 for all). A whole-food blended smoothie was effective for inducing clinical remission and decreasing FCP in pediatric CD similar to commercial EEN formulas. Further research may give insight into data-driven whole-food dietary approaches for CD management. gov NCT03508193.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/oncolo/oyae050
+- DOI: 10.1002/jpn3.12196
 
 2. Keywords
-- anxiety
-- depression
-- palliative care
-- quality of life
-- survival
+- diet
+- inflammatory bowel disease
+- microbiome
+- treatment
+- whole&#x2010;food
 
 3. Key Findings
-- Findings extraction requires manual review
+- Microbiome analysis showed a significant increase in species richness over 4 weeks (p&#x2009;=&#x2009;0
 
 This study provides insights into:
-- anxiety assessment methods and outcomes
-- depression assessment methods and outcomes
-- palliative care assessment methods and outcomes
+- diet assessment methods and outcomes
+- inflammatory bowel disease assessment methods and outcomes
+- microbiome assessment methods and outcomes

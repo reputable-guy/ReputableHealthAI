@@ -1,27 +1,26 @@
-Study Title: The effect of exergame rehabilitation on the quality of life of cancer patients undergoing abdominal surgery: a randomized controlled trial.
+Study Title: The Effect of High-Intensity Interval Training on Quality of Life and Incidence of Chemotherapy Side Effects in Women With Breast Cancer.
 
 Study Summary:
-Exergames, which combine digital games and physical exercise, have become increasingly popular for rehabilitation in the health domain. This study aimed to assess the effectiveness of exergame rehabilitation on the quality of life of cancer patients undergoing abdominal surgery. This randomized controlled trial evaluated the effectiveness of exergame rehabilitation on the quality of life of cancer patients who had undergone abdominal surgery. Seventy postoperative patients were included, and data collection took place between January 2023 and May 2023. The patients were randomly assigned to either an exergame rehabilitation program (n&#x2009;=&#x2009;35) or a traditional rehabilitation program (n&#x2009;=&#x2009;35). The assessed outcome was the quality of life, and data collection occurred at three different time points: upon admission, 48&#xa0;h postoperatively, and on the 7th day after surgery. Quality of life was evaluated using the WHOQOL-BREF Scale. At the third assessment, a statistically significant difference was observed between the two groups (p&#x2009;=&#x2009;0.016), indicating that the intervention group had a higher quality of life than the control group. The study showed a positive effect of exergames on the population under investigation. By the 7th day after surgery, the intervention group demonstrated an improvement in their quality of life compared to the control group. Center of Open Science OSF https://osf.io/286zb/ , registered in July, 2023.
+Women with breast cancer (BC) experience multiple symptoms related to neoadjuvant chemotherapy (NAC) treatment that impair their functioning and quality of life (QoL). This study aimed to explore the effect of high-intensity aerobic interval training (HIIT) on quality of life and NAC side effects in women with BC. 56 patients (48.56 (7.84) years, range 35-64&#x2009;years) diagnosed locally advanced (stage II-III) ER&#x2009;+&#x2009;BC receiving doxorubicin/cyclophosphamide-based NAC were randomly assigned to the HIIT group and a control group (CG) for 6&#x2009;months. The HIIT group performed 2 to 3 HIIT sessions per week according to the study protocol (4&#x2009;&#xd7;&#x2009;4&#x2009;minutes at 85%-95% peak heart rate (HR)). The CG followed the standard of care instructions by the oncologists. To assess the QoL participants completed the EORTC QLQ-C30 with the additional BC module of QLQ BR-23. Weekly self-reports on NAC side effects were collected through online survey. Study data were analyzed for 37 participants (nHIIT&#x2009;=&#x2009;17, nCON&#x2009;=&#x2009;20) who reported at least 14 (60%) weeks. HIIT was effective to reduce BC symptom scale outcomes (ES&#x2009;=&#x2009;0.113,&#x2009;=&#x2009;.048), and alleviate systemic therapy side effects (ES&#x2009;=&#x2009;0.154,&#x2009;=&#x2009;.020) and cancer related symptoms (ES&#x2009;=&#x2009;0.124,&#x2009;=&#x2009;.038). The most common side effect participants experienced at least 1 to 4&#x2009;days/week was pain (average 50.9% and 56.8% for HIIT and CG, respectively), followed by sleep disturbances (average 50.9% and 49.9%, respectively). About 31% in both groups experienced sleep disturbances 5 to 7 days/week. The NAC induced physical, social and fatigue side effects had significantly lower incidence in HIIT group, while psychological side effects were significantly more common in training group. HIIT is an effective physical exercise program to maintain higher quality of life and help to reduce some of NAC induced side effects for women with BC.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00520-024-09005-0
+- DOI: 10.1177/15347354241297385
 
 2. Keywords
-- Exergames
-- Games
-- Neoplasms
-- Quality of life
-- Rehabilitation
+- breast cancer
+- chemotherapy
+- high intensity interval training
+- quality of life
+- side effects
 
 3. Key Findings
-- The study showed a positive effect of exergames on the population under investigation
-- By the 7th day after surgery, the intervention group demonstrated an improvement in their quality of life compared to the control group
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Exergames assessment methods and outcomes
-- Games assessment methods and outcomes
-- Neoplasms assessment methods and outcomes
+- breast cancer assessment methods and outcomes
+- chemotherapy assessment methods and outcomes
+- high intensity interval training assessment methods and outcomes

@@ -1,26 +1,26 @@
-Study Title: Colorectal cancer screening: results from the World Trade Center Health Registry cohort.
+Study Title: Comparison of the Safety and Efficacy of Remimazolam Besylate versus Dexmedetomidine for Patients Undergoing Fiberoptic Bronchoscopy: A Prospective, Randomized Controlled Trial.
 
 Study Summary:
-Little is known about colorectal cancer screening in 9/11 World Trade Center (WTC)-exposed populations. We utilized survey data from the WTC Health Registry (WTCHR) to examine associations between enrollees' characteristics and colorectal cancer (CRC) screening. We studied 22,061 enrollees aged 50-75 who completed the WTCHR follow-up survey in 2015-2016. Those with a history of CRC were excluded. Screening was defined as a self-reported, routine colonoscopy or sigmoidoscopy during the 12-month period prior to the survey. Multivariable log binomial regression identified factors associated with screening in the 12&#xa0;months preceding the survey. We also&#xa0;stratified by age group. Of 22,061 enrollees, 23% were screened, with largely similar rates across age groups. Higher screening percentages were seen in selected groups including non-Hispanic Black enrollees (26.4%), males (24.3%), those married/living with a partner (24.1%), those with a higher household income (&#x2265;&#x2009;$150&#xa0;k, 25.4%), those who received services from the WTC Health Program (25.6%), and those with greater perceived social support (24.4%). On multivariable analyses, non-Hispanic Black enrollees [adjusted relative risk (aRR)&#x2009;=&#x2009;1.30, 95% confidence interval (CI) 1.19-1.42] were significantly more likely to report screening, even after stratifying by age group. Hispanic enrollees, those with a higher household income, those with increased perceived social support, and those with diagnosed medical conditions under 70&#xa0;years old were also associated with screening. We found that non-Hispanic Black compared with non-Hispanic White enrollees were more likely to obtain screening for CRC. Continued efforts to promote health and wellness of WTC-exposed population is essential.
+Remimazolam besylate is a novel ultra-short-acting benzodiazepine that is rapidly hydrolyzed to zolpidem propionic acid by tissue lipases. We designed this study to compare the safety and efficacy of remimazolam besylate alfentanil versus dexmedetomidine-alfentanil for fiberoptic bronchoscopy (FB). One hundred and twenty patients undergoing FB into this prospective randomized controlled trial were divided into two groups. The anesthesia induction consisted of 6 mg/kg/h of remimazolam besylate in the RA group and 0.5 &#x3bc;g/kg of dexmedetomidine in the DA group. 1-2 mg/kg/h of remimazolam besylate or 0.2-0.7 &#xb5;g/kg/h of dexmedetomidine were administered to maintain during FB. The lowest oxygen saturation, success rate of FB, hemodynamics, time metrics, bronchoscopy feasibility, drug dose requirements, patient and bronchoscopist satisfaction scores, occurrence of intraoperative awareness, number of patients willing to repeat FB with the same sedation regimen, and occurrence and severity of adverse events. The lowest oxygen saturation during the FB was significantly higher in the RA group (= 0.001). Compared with the variables in the DA group, peripheral oxygen saturation, systolic blood pressure, and diastolic blood pressure were significantly lower at T2 and T3 in the RA group (< 0.05). Heart rates were significantly higher from T2 to T4 in the DA group (< 0.05). More patients experienced bradycardia in the DA group (= 0.041). Compared with time metrics in the DA group, the induction time, fully-alert time, and recovery room-leaving time were all significantly shorter in the RA group (< 0.05). The bronchoscopy feasibility scores in the RA group were significantly lower at T2, whereas they were lower at T3 in the DA group (< 0.05). Remimazolam besylate is superior to dexmedetomidine when combined with alfentanil during FB, promoting faster patients' recovery, better operative conditions and respiratory stability with similar rates of occurrence and severity of adverse events.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10552-024-01895-z
+- DOI: 10.2147/DDDT.S460949
 
 2. Keywords
-- Cancer screening
-- Colorectal cancer
-- Rescue and recovery worker
-- WTC disaster
-- World Trade Center (WTC)
+- alfentanil
+- dexmedetomidine
+- fiberoptic bronchoscopy
+- propofol
+- remimazolam besylate
 
 3. Key Findings
-- We found that non-Hispanic Black compared with non-Hispanic White enrollees were more likely to obtain screening for CRC
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cancer screening assessment methods and outcomes
-- Colorectal cancer assessment methods and outcomes
-- Rescue and recovery worker assessment methods and outcomes
+- alfentanil assessment methods and outcomes
+- dexmedetomidine assessment methods and outcomes
+- fiberoptic bronchoscopy assessment methods and outcomes

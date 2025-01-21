@@ -1,20 +1,27 @@
-Study Title: ACE gene polymorphisms (rs4340) II and DI are more responsive to the ergogenic effect of caffeine than DD on aerobic power, heart rate, and perceived exertion in a homogeneous Brazilian group of adolescent athletes.
+Study Title: The effect of a selenium-based anti-inflammatory strategy on postoperative functional recovery in high-risk cardiac surgery patients - A nested sub-study of the sustain CSX trial.
 
 Study Summary:
-The purpose of this study was to verify the association between angiotensin-converting enzyme (ACE) genotypes DD, DI, and II and caffeine (CAF) ingestion on endurance performance, heart rate, ratio of perceived exertion (RPE), and habitual caffeine intake (HCI) of adolescent athletes. Seventy-four male adolescent athletes (age: DD=16&#xb1;1.7; DI=16&#xb1;2.0; II=15&#xb1;1.7 years) ingested CAF (6 mg/kg) or placebo (PLA) one hour before performing the Yo-Yo Intermittent Recovery level 1 (Yo-Yo IR1) test. No difference was found among groups for HCI. However, CAF increased the maximal distance covered and VO2max in DI and II genotype carriers compared to PLA (DD: &#x394;=31 m and 0.3 mL&#xb7;kg-1&#xb7;min-1; DI: &#x394;=286 m and 1.1 mL&#xb7;kg-1&#xb7;min-1; II: &#x394;=160 m and 1.4 mL&#xb7;kg-1&#xb7;min-1). Heart rate of DI and II genotype carriers increased with CAF compared to PLA, while RPE was higher in the II and lower in the DD genotypes. The correlations between HCI and maximal distance covered or VO2max were significant in the II genotype carriers with CAF. CAF increased endurance capacity, heart rate, and RPE in adolescent athletes with allele I, while endurance performance and aerobic power had a positive correlation to HCI in the II genotype group. These findings suggested that DD genotype were less responsive to CAF and that genetic variations should be taken into account when using CAF supplementation to enhance exercise performance.
+The cardiac surgery-related ischemia-reperfusion-related oxidative stress triggers the release of cytotoxic reactive oxygen and nitrogen species, contributing to organ failure and ultimately influencing patients' short- and long-term outcomes. Selenium is an essential co-factor for various antioxidant enzymes, thereby contributing to the patients' endogenous antioxidant and anti-inflammatory defense mechanisms. Given these selenium's pleiotropic functions, we investigated the effect of a high-dose selenium-based anti-inflammatory perioperative strategy on functional recovery after cardiac surgery. This prospective study constituted a nested sub-study of the SUSTAIN CSX trial, a double-blinded, randomized, placebo-controlled multicenter trial to investigate the impact of high-dose selenium supplementation on high-risk cardiac surgery patients' postoperative recovery. Functional recovery was assessed by 6-min walk distance, Short Form-36 (SF-36) and Barthel Index questionnaires. 174 patients were included in this sub-study. The mean age (SD) was 67.3 (8.9) years, and 78.7&#xa0;% of the patients were male. The mean (SD) predicted 30-day mortality by the European System for Cardiac Operative Risk Evaluation II score was 12.6&#xa0;% (9.4&#xa0;%). There was no difference at hospital discharge and after three months in the 6-min walk distance between the selenium and placebo groups (131&#xa0;m [IQR: not performed - 269] vs. 160&#xa0;m [IQR: not performed - 252], p&#xa0;=&#xa0;0.80 and 400&#xa0;m [IQR: 299-461] vs. 375&#xa0;m [IQR: 65-441], p&#xa0;=&#xa0;0.48). The SF-36 and Barthel Index assessments also revealed no clinically meaningful differences between the selenium and placebo groups. A perioperative anti-inflammatory strategy with high-dose selenium supplementation did not improve functional recovery in high-risk cardiac surgery patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1590/1414-431X2024e13217
+- DOI: 10.1016/j.lfs.2024.122841
 
 2. Keywords
-
+- Anti-inflammatory strategies
+- Cardiac surgery
+- Functional recovery
+- Inflammation
+- Nutrition
+- Selenium
 
 3. Key Findings
-- No difference was found among groups for HCI
+- The SF-36 and Barthel Index assessments also revealed no clinically meaningful differences between the selenium and placebo groups
 
 This study provides insights into:
-- General research methodology and outcomes
+- Anti-inflammatory strategies assessment methods and outcomes
+- Cardiac surgery assessment methods and outcomes
+- Functional recovery assessment methods and outcomes

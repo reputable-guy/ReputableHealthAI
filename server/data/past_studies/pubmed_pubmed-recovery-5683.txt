@@ -1,26 +1,26 @@
-Study Title: Evaluation of the clinical efficacy of ultra-fast track anesthesia for endoscopic thoracic sympathectomy of palmar hyperhidrosis.
+Study Title: Prognostic value of lymphocytes in patients with breast cancer receiving radiotherapy after breast-conserving surgery: A post hoc analysis of a phase III randomized trial.
 
 Study Summary:
-In this study, we investigated the safety and practicability of ultra-fast track anesthesia (UFTA) for endoscopic thoracic sympathectomy (ETS). A total of 72 patients with palmar hyperhidrosis undergoing ETS were randomly divided into three groups: the UFTA group (group I), the group undergoing single-lumen tracheal intubation with local infiltration anesthesia technique (group II), and the group undergoing single-lumen tracheal intubation with routine anesthesia (group III). Mean arterial pressure (MAP) and heart rate (HR) were recorded for all three groups at the following six time points: Before anesthetics administration (T0), the time of intubating or inserting laryngeal mask airway (T1), the time of incising skin (T2), the time of disconnecting of the right sympathetic nerve (T3), the time of disconnecting of the left sympathetic nerve (T4), the time of withdrawing the tracheal tube or laryngeal mask airway (T5), and the time of transferring the patient to a post-anesthesia care unit (PACU) (T6). The three groups were compared from the following perspectives: surgery duration; anesthesia recovery duration, that is, the duration from discontinuation of anesthesia to extubating the tracheal tube; the dose of propofol and remifentanil per kilogram body mass per unit time interval (the time at the end of the procedure, which lasted from anesthesia induction to incision suturing); and the visual analog scale (VAS) in the resting state in the PACU. Based on pairwise comparisons, the average HR and average MAP values of the three groups differed significantly from T2 to T6 (p&#x2009;<&#x2009;0.05). As demonstrated by the correlation analysis between remifentanil and propofol with HR and MAP, the doses of the total amount of remifentanil and propofol were lower, and group I used less remifentanil and propofol than group II. No patient in group I experienced throat discomfort following surgery. Patients in groups II and III experienced a range of postoperative discomfort. The VAS scores of groups I and II were significantly lower than those of group III, with group I lower than group II. When utilized in ETS, UFTA can provide effective anesthesia for minor traumas. It is safe, effective, and consistent with the enhanced recovery philosophy of fast-track surgery departments.
+To evaluate the prognostic value of peripheral lymphocyte count (PLC) in the breast cancer patients after breast-conserving surgery (BCS) with radiotherapy (RT). This post hoc analysis was performed using data of 628 patients from a phase III, randomized controlled trial comparing hypofractionated RT (HFRT) with conventional fractionated RT (CFRT) after BCS. PLCs were obtained before, during, and after RT until the 1-year follow-up. The optimal cut-off PLCs were determined using the maxstat package in R. Survival rates were estimated using the Kaplan-Meier method and compared with the log-rank test. A total of 275 (46.1&#xa0;%) patients developed lymphopenia during RT, among them, 17 (2.8&#xa0;%) had grade 3 lymphopenia and no one developed grade 4 lymphopenia. With a median follow-up of 110.8&#xa0;months, patients with pre-RT PLCs of&#xa0;<&#xa0;1.77&#xa0;&#xd7;&#xa0;10/L had a significantly lower 10-year breast cancer-specific survival (BCSS) rate (P&#xa0;=&#xa0;0.013) and overall survival (OS) rate (P&#xa0;=&#xa0;0.026). Patients with a nadir PLC of&#xa0;<&#xa0;1.35&#xa0;&#xd7;&#xa0;10/L had a significantly poorer 10-year OS rate (P&#xa0;=&#xa0;0.048). Multivariate analysis showed that a pre-RT PLC of&#xa0;<&#xa0;1.77&#xa0;&#xd7;&#xa0;10/L was an independent factor influencing BCSS and OS, while the effect of the nadir PLC did not remain significant. Neither PLC nor lymphopenia recovery at post-RT 1, 3, and 6&#xa0;months and 1&#xa0;year was associated with survival. Radiation-induced lymphopenia in patients with breast cancer after BCS tends to be mild. The lower pre-RT PLC predicted poorer survival.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/jocd.16425
+- DOI: 10.1016/j.radonc.2024.110390
 
 2. Keywords
-- endoscopic thoracic sympathectomy (ETS)
-- enhanced recovery
-- local infiltration anesthesia
-- palmar hyperhidrosis
-- ultra&#x2010;fast track anesthesia (UFTA) technique
+- Breast cancer
+- Breast-conserving surgery
+- Lymphocyte
+- Prognosis
+- Radiotherapy
 
 3. Key Findings
-- As demonstrated by the correlation analysis between remifentanil and propofol with HR and MAP, the doses of the total amount of remifentanil and propofol were lower, and group I used less remifentanil and propofol than group II
+- Multivariate analysis showed that a pre-RT PLC of&#xa0;<&#xa0;1
 
 This study provides insights into:
-- endoscopic thoracic sympathectomy (ETS) assessment methods and outcomes
-- enhanced recovery assessment methods and outcomes
-- local infiltration anesthesia assessment methods and outcomes
+- Breast cancer assessment methods and outcomes
+- Breast-conserving surgery assessment methods and outcomes
+- Lymphocyte assessment methods and outcomes

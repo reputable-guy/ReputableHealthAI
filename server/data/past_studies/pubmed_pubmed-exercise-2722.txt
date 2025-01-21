@@ -1,20 +1,26 @@
-Study Title: Use of artificial intelligence-guided echocardiography to detect cardiac dysfunction and heart valve disease in rural and remote areas: Rationale and design of the AGILE-echo trial.
+Study Title: The Effect of 12 Weeks of Rebound Therapy Exercise Training on Walking Ability of Spinal Cord Injury Patients.
 
 Study Summary:
-Transthoracic echocardiography (TTE) is essential in the diagnosis of cardiovascular diseases (CVD), including but not limited to heart failure (HF) and heart valve disease (HVD). However, its dependence on expert acquisition means that its accessibility in rural areas may be limited, leading to delayed management decisions and potential missed diagnoses. Artificial intelligence-guided (AI)-TTE offers a solution by permitting non-expert image acquisition. The impact of AI-TTE on the timing of diagnosis and early initiation of cardioprotection is undefined. AGILE-Echo (use of Artificial intelligence-Guided echocardiography to assIst cardiovascuLar patient managEment) is a randomized-controlled trial conducted in 5 rural and remote areas around Australia. Adults with CV risk factors and exercise intolerance, or concerns regarding HVD are randomized into AI-TTE or usual care (UC). AI-TTE participants may have a cardiovascular problem excluded, identified (leading to AI-guided interventions) or unresolved (leading to conventional TTE). UC participants undergo usual management, including referral for standard TTE. The primary endpoint is a composite of HVD or HF diagnosis at 12-months. Subgroup analysis, stratified based on age range and sex, will be conducted. All statistical analyses will be conducted using R. Of the first 157 participants, 78 have been randomized into AI-TTE (median age 68 [IQR 17]) and 79 to UC (median age 65 [IQR 17], P = .034). HVD was the primary concern in 37 participants (23.6%) while 84.7% (n = 133) experienced exercise intolerance. The overall 10-year HF incidence risk was 13.4% and 20.0% (P = .089) for UC and AI-TTE arm respectively. Atrial remodeling, left ventricular remodeling and valvular regurgitation were the most common findings. Thirty-three patients (42.3%) showed no abnormalities. This randomized-controlled trial of AI-TTE will provide proof-of-concept for the role of AI-TTE in identifying pre-symptomatic HF or HVD when access to TTE is limited. Additionally, this could promote the usage of AI-TTE in rural or remote areas, ultimately improving health and quality of life of community dwelling adults with risks, signs or symptoms of cardiac dysfunction.
+Walking ability is a crucial factor for recovery and rehabilitation of spinal cord injury (SCI) patients. The aim of this study was to investigate the effect of 12 weeks of rebound therapy on walking parameters in SCI patients. Thirty members of Isfahan Spinal Cord Injury Association participated in this experimental study using a convenience sampling method. This study was approved by the ethics committee of the University of Isfahan (IR.UI.REC.1400.118). The participants were randomly assigned to control and rebound groups using a matched randomization method. Data were collected before and after 12 weeks of rebound therapy exercise (three sessions per week) in the walking laboratory, using a seven-camera 3D motion capturing system (Qualisys motion analysis). The final data were analyzed using repeated measures ANOVA in SPSS software (significance level< .05). Rebound therapy training significantly improved all dependent variables (< .05) except hip rotation, indicating its effectiveness for enhancing walking ability. Given the importance of walking function, we recommend the use of rebound therapy training as an exercise rehabilitation method for spinal cord injury patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ahj.2024.08.004
+- DOI: 10.46292/sci23-00078
 
 2. Keywords
-
+- exercise rehabilitation
+- rebound therapy
+- spinal cord injury
+- trampoline
+- walking
 
 3. Key Findings
-- 3%) showed no abnormalities
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- exercise rehabilitation assessment methods and outcomes
+- rebound therapy assessment methods and outcomes
+- spinal cord injury assessment methods and outcomes

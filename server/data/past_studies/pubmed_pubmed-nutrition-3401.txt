@@ -1,20 +1,26 @@
-Study Title: Multidisciplinary management based on clinical nursing pathway model for the treatment of hypertensive intracerebral hemorrhage: A randomized controlled trial.
+Study Title: Plasma beta-hydroxy-beta-methylbutyrate availability after enteral administration during critical illness after trauma: An exploratory study.
 
 Study Summary:
-To explore the effectiveness of multidisciplinary management based on a clinical nursing pathway model for the treatment of hypertensive intracerebral hemorrhage (HICH). A total of 124 patients with HICH admitted to our hospital between February 2021 and June 2023 were selected as research subjects in this randomized, controlled, unblinded study. They were divided into Control-group and Study-group using a random number table method, with 62 cases in each group. The Control-group received routine care and the Study-group adopted a multidisciplinary management approach based on the clinical nursing pathway model. A multidisciplinary intervention group including 1 attending physician, 1 psychotherapist, 1 nutritionist, 1 rehabilitation specialist, and 4 responsible nurses was constructed. From preoperative to postoperative day, patients were provided with psychological intervention, health education, respiratory tract management, and specific care for patients who were restless. One to 3 days after operation, the patients and their family members were guided in basic postoperative care and nutrition care. From the 4th day after surgery to the 1st day before discharge, patients were guided for rehabilitation exercises. Patients also received discharge advices upon discharge. Activities of daily living, neurological function, stress response indicators, incidence of complications, and nursing satisfaction before and after the intervention were compared between the 2 groups. After the intervention, the activities of daily living and neurological function of the 2 groups were significantly improved compared to before the intervention, and the Study-group was significantly higher than the Control-group (P&#x2005;<&#x2005;.05). After intervention, the levels of stress response indicators in both groups significantly decreased compared to before the intervention, and the Study-group was significantly lower than the Control-group (P&#x2005;<&#x2005;.05). The incidence of complications in the Study-group (3.23%) was lower than that in the Control-group (15.00%) (P&#x2005;<&#x2005;.05). Nursing satisfaction in the Study-group (95.16%) was higher than that in the Control-group (83.33%) (P&#x2005;<&#x2005;.05). Our findings indicate that adopting a multidisciplinary management approach based on clinical nursing pathways to intervene in patients with HICH can reduce stress response levels, reduce the risk of complications, and facilitate the recovery of neurological function and activities of daily living with high patient satisfaction.
+During critical illness skeletal muscle wasting occurs rapidly. Although beta-hydroxy-beta-methylbutyrate (HMB) is a potential treatment to attenuate this process, the plasma appearance and muscle concentration is uncertain. This was an exploratory study nested within a blinded, parallel group, randomized clinical trial in which critically ill patients after trauma received enteral HMB (3&#x2009;g daily) or placebo. Plasma samples were collected at 0, 60, and 180&#x2009;min after study supplement administration on day 1. Needle biopsies of the vastus lateralis muscle were collected (baseline and day 7 of the HMB treatment intervention period). An external standard curve was used to calculate HMB concentrations in plasma and muscle. Data were available for 16 participants (male n&#x2009;=&#x2009;12 (75%), median [interquartile range] age 50 [29-58] years) who received placebo and 18 participants (male n&#x2009;=&#x2009;14 (78%), age 49 [34-55] years) who received HMB. Plasma HMB concentrations were similar at baseline but increased after HMB (T&#x2009;=&#x2009;60&#x2009;min: placebo 0.60 [0.44-1.31] &#x2009;&#xb5;M; intervention 51.65 [22.76-64.72] &#x2009;&#xb5;M). Paired muscle biopsies were collected from 11 participants (placebo n&#x2009;=&#x2009;7, HMB n&#x2009;=&#x2009;4). Muscle HMB concentrations were similar at baseline between groups (2.35 [2.17-2.95]; 2.07 [1.78-2.31]&#x2009;&#xb5;M). For participants in the intervention group who had the repeat biopsy within 4&#x2009;h of HMB administration, concentrations were greater (7.2 and 12.3&#x2009;&#xb5;M) than those who had the repeat biopsy >4&#x2009;h after HMB (2.7 and 2.1&#x2009;&#xb5;M). In this exploratory study, enteral HMB administration increased plasma HMB availability. The small sample size limits interpretation of the muscle HMB findings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000037644
+- DOI: 10.1002/jpen.2622
 
 2. Keywords
-
+- critical illness
+- enteral nutrition
+- nutrition therapy
+- skeletal muscle
+- &#x3b2;&#x2010;hydroxy&#x2010;&#x3b2;&#x2010;methylbutyrate
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- critical illness assessment methods and outcomes
+- enteral nutrition assessment methods and outcomes
+- nutrition therapy assessment methods and outcomes

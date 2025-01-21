@@ -1,28 +1,26 @@
-Study Title: Impact of Hypoglossal Nerve Stimulation on Consumer Sleep Technology Metrics and Patient Symptoms.
+Study Title: A 90- followed by a 30-min nap reduces fatigue whereas a 30- followed by a 90-min nap maintains cognitive performance in night work: A randomized crossover-pilot study.
 
 Study Summary:
-Obstructive sleep apnea (OSA) is usually assessed at discrete and infrequent timepoints. Wearable consumer sleep technologies (CST) may allow for more granular and longitudinal assessments of OSA therapy responses and OSA-related symptoms. In this case series, we enrolled hypoglossal nerve stimulator (HGNS) patients who had an effective treatment response for an 8-week study using a wearable CST. Participants started with "HGNS-on," were randomized to turn off HGNS therapy during either week 4 or 5 ("HGNS-off"), followed by a return to therapy, "HGNS-resume." Participants completed validated symptom questionnaires assessing sleepiness, insomnia symptoms, functional status, and overall sleep health (Satisfaction, Alertness, Timing, Efficiency, and Duration, SATED) each week. CST metrics and survey scores were compared between HGNS treatment phases. Associations between CST metrics and survey scores were assessed. Seven participants with a total of 304 nights of CST data showed no statistically significant changes in total sleep time (TST), wake time after sleep onset, or sleep efficiency (SE) across the study periods. During HGNS-off, survey scores indicated significantly worsened OSA-related symptom scores. Two participants had significantly higher heart rate variability (HRV) during HGNS-off (by 3.3 and 6.3&#x2009;ms) when compared to HGNS active therapy periods. Amongst CST metrics, SATED scores correlated with TST (r&#x2009;=&#x2009;0.434, p&#x2009;<&#x2009;0.0001), HRV (r&#x2009;=&#x2009;-0.486, p&#x2009;<&#x2009;0.0001), and SE (r&#x2009;=&#x2009;0.320, =&#x2009;0.0014). In addition, FOSQ-10 scores correlated with average HR during sleep (r&#x2009;=&#x2009;-0.489, p&#x2009;<&#x2009;0.001). A 1-week HGNS therapy withdrawal period impacted OSA-related sleep symptoms. Sleep-related metrics measured by a wearable CST correlated with symptom scores indicating potential value in the use of CSTs for longitudinal sleep-tracking in OSA patients. 4 Laryngoscope, 134:3406-3411, 2024.
+To investigate the effects of combinations of brief naps (a 90- followed by a 30-min nap vs. a 30- followed by a 90-min nap) on sleep inertia, reducing sleepiness and fatigue, and maintaining performance during night hours. This randomized, comparative, repeated-measure, cross-over study investigated subjective and cognitive performance in 12 healthy females, evaluated in three experimental nap conditions: 1) from 22:30 to 00:00 and 02:30 to 03:00 (Pre90-NAP group), 2) from 23:30 to 00:00 and 02:30 to 04:00 (Pre30-NAP) group, and 3) no naps (NO-NAP group). Participants' body temperature, psychomotor vigilance task (PVT) and Uchida-Kraepelin test (UKT) scores, and subjective feelings of drowsiness and fatigue were evaluated. Sleep state was determined by an actigraphy monitoring device worn by participants. Regardless of timing, both 90-min naps were associated with sleep inertia, and both 30-min naps with minimal sleep inertia. Reaction times were shorter and fewer errors were committed at 2&#xa0;h post-nap in the Pre30-NAP and Pre90-NAP groups compared with those at the same time in the NO-NAP group. Adding a 90-min nap to a 30-min nap reduced subjective fatigue and shortened reaction times, and adding a 30-min nap to a 90-min nap was effective in maintaining performance, suggesting a synergistic effect. Taking two naps during a night work can mitigate sleepiness and fatigue, and maintain performance. A 90- followed by a 30-min nap reduced fatigue and reaction time, and a 30- followed by a 90-min nap maintained cognitive performance in the early morning.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/lary.31398
+- DOI: 10.1016/j.sleep.2024.03.010
 
 2. Keywords
-- consumer sleep technology
-- hypoglossal nerve stimulator
-- obstructive sleep apnea
-- sleep quality
-- sleep symptoms
-- wearables
+- Actigraphy
+- Alertness
+- Nap sleep
+- Night shift work
+- Psychomotor vigilance task
 
 3. Key Findings
-- Seven participants with a total of 304 nights of CST data showed no statistically significant changes in total sleep time (TST), wake time after sleep onset, or sleep efficiency (SE) across the study periods
-- During HGNS-off, survey scores indicated significantly worsened OSA-related symptom scores
+- Findings extraction requires manual review
 
 This study provides insights into:
-- consumer sleep technology assessment methods and outcomes
-- hypoglossal nerve stimulator assessment methods and outcomes
-- obstructive sleep apnea assessment methods and outcomes
+- Actigraphy assessment methods and outcomes
+- Alertness assessment methods and outcomes
+- Nap sleep assessment methods and outcomes

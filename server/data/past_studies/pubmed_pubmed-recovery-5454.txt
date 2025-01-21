@@ -1,26 +1,25 @@
-Study Title: The Effect of Postoperative Analgesia on the Day-Case Rate of Laparoscopic Cholecystectomy: A Randomised Pilot Study of the Laparoscopic-Assisted Right Subcostal Transversus Abdominis Plane Block plus Local Anaesthetic Wound Infiltration versus Local Anaesthetic Wound Infiltration only.
+Study Title: Effects of a pro-resolving drug in COVID-19: preclinical studies to a randomized, placebo-controlled, phase Ib/IIa trial in hospitalized patients.
 
 Study Summary:
-The transversus abdominis plane (TAP) block and local anaesthetic infiltration (LAI) of port sites provide adequate analgesia after laparoscopic cholecystectomy (LC). Little is known if the two techniques affect the day-case (DC) rate of LC. We tested the appropriateness of the research design in view of a larger randomised controlled trial (RCT) - laparoscopic-assisted right subcostal TAP block plus local anaesthetic wound infiltration (STALA) versus LAI. Sixty patients having DC LC were randomised into STALA and LAI. Participants received bupivacaine 0.5% 30 mL. Pain scores were evaluated with the Visual Analogue Scale (VAS) score, at 1 h post-surgery and at discharge. Need of postoperative intravenous (IV) opioids, DC rate, and Quality of Recovery-15 questionnaires were compared between groups and were considered as measures of efficacy of the interventions and follow-up in a definitive trial. Twenty-nine participants were randomised to STALA, and 31 to LAI. Subjects in LAI group were all women (p = 0.0007) and younger (43.8 vs. 37.7 years, p = 0.023). Median VAS scores were 0 versus 1 at 1 h (p = 0.60), 0 versus 1.5 at discharge (p = 0.55). The need of IV opioids was 15/29 (51.7%) versus 13/31 (41.9%; p = 0.60). The DC rate was 93.1% versus 93.5% (p = 0.39). Fifty (83.3%) participants responded the questionnaires. The laparoscopically guided right subcostal TAP block provided no additional benefit to LAI on pain control after LC and DC rate. Despite the appropriate design, our findings do not support a larger RCT.
+Pro-resolving molecules may curb disease caused by viruses without altering the capacity of the host to deal with infection. AP1189 is a melanocortin receptor-biased agonist endowed with pro-resolving and anti-inflammatory activity. We evaluated the preclinical and early clinical effects of treatment with AP1189 in the context of COVID-19. C57BL/6j mice were infected intranasally with MHV-A59 or hK18-ACE2 mice with SARS-CoV-2. AP1189 (10&#xa0;mg&#xb7;kg, BID, s.c.) was given to the animals from day 2 and parameters evaluated at day 5. Human PBMCs from health donors were infected with SARS-CoV-2 in presence or absence of AP1189 and production of cytokines quantified. In the clinical study, 6 patients were initially given AP1189 (100&#x2009;mg daily for 14&#x2009;days) and this was followed by a randomized (2:1), placebo-controlled, double-blind trial that enrolled 54 hospitalized COVID-19 patients needing oxygen support. The primary outcome was the time in days until respiratory recovery, defined as a SpO&#xa0;&#x2265;&#x2009;93% in ambient air. Treatment with AP1189 attenuated pulmonary inflammation in mice infected with MHV-A59 or SARS-CoV-2 and decreased the release of CXCL10, TNF-&#x3b1; and IL-1&#x3b2; by human PBMCs. Hospitalized COVID-19 patients already taking glucocorticoids took a median time of 6&#xa0;days until respiratory recovery when given placebo versus 4&#xa0;days when taking AP1189 (P&#xa0;=&#x2009;0.017). Treatment with AP1189 was associated with less disease caused by beta-coronavirus infection both in mice and in humans. This is the first demonstration of the effects of a pro-resolving molecule in the context of severe infection in humans.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1159/000540947
+- DOI: 10.1111/bph.17322
 
 2. Keywords
-- Laparoscopic cholecystectomy
-- Local anaesthesia
-- Pain control
-- Randomised trial
-- Transversus abdominis plane block
+- COVID&#x2010;19
+- melanocortin
+- resolution of inflammation
+- resolution pharmacology
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Laparoscopic cholecystectomy assessment methods and outcomes
-- Local anaesthesia assessment methods and outcomes
-- Pain control assessment methods and outcomes
+- COVID&#x2010;19 assessment methods and outcomes
+- melanocortin assessment methods and outcomes
+- resolution of inflammation assessment methods and outcomes

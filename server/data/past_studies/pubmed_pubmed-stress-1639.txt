@@ -1,27 +1,27 @@
-Study Title: Kavalactones support motivation to move during intensive training in males preparing for military special operations forces.
+Study Title: A Pilot Randomized Control Trial of the Striving Towards EmPowerment and Medication Adherence (STEP-AD) Intervention for Black Women Living with HIV.
 
 Study Summary:
-Military special operators, elite athletes, and others requiring uninterrupted optimal performance currently lack options for sleep and mood support without performance-inhibiting effects. Kavalactones, derived from the root of the kava plant (Forst), have been shown to elevate mood and wellbeing by producing a feeling of relaxation without addiction or cognitive impairment. In this placebo-controlled, crossover study (NCT05381025), we investigated the effects of 2 weeks of kavalactones use on cortisol (diurnal salivary), sleep (RSQ-W; Restorative Sleep Questionnaire, Weekly), mood (DASS-21; Depression Anxiety Stress Scale-21), and motivation state to expend (Move) or conserve (Rest) energy (CRAVE; Cravings for Rest and Volitional Energy Expenditure, Right Now) in a cohort of 15 healthy, physically fit young males engaged in a rigorous, two-a-day preparation class for special operations forces qualification. Cortisol, sleep, and mood were within normal, healthy parameters in this cohort at baseline. This remained unchanged with kavalactones use with no significant findings of clinical interest. However, a statistically similar, positive slope for within-group Move scores was seen in both groups during kavalactones loading (first group Move slope 2.25, second group Move slope 3.29,&#x2009;=&#x2009;0.299). This trend was seen regardless of order and with no apparent effects on the Rest metric (all&#x2009;&#x2265;&#x2009;0.05). Moreover, a significant between-group difference appeared after 1 week of kavalactones use in the first phase (0.044) and persisted through the end of the first loading period (&#x2009;=&#x2009;0.022). Following the 10-day washout, this between-groups divergence remained significant (&#x2009;=&#x2009;0.038) but was reversed by 1 week after the crossover (0.072), with Move scores once again statistically similar between groups and compared to baseline at study end. Furthermore, the group taking kavalactones first never experienced a significant decrease in Move motivation state (lowest mean score 21.0, highest 28.6, all&#x2009;&#x2265;&#x2009;0.05), while the group receiving kavalactones in the last 2 weeks of the study had Move scores that were statistically lower than baseline (lowest mean score 8.6, highest 25.9, all&#x2009;&#x2264;&#x2009;0.05) at all time points but the last (&#x2009;=&#x2009;0.063) after 2 weeks of kavalactones exposure. We report a novel finding that kavalactones may support performance by maintaining or rescuing the desire to expend energy in the context of significant physical and mental strain in well-conditioned individuals, even in a context of already normal cortisol, sleep, and mood.
+Black women living with HIV (BWLWH) face adversities associated with lower HIV medication adherence, viral non-suppression, and mental health symptoms (e.g., post-traumatic stress disorder) such as trauma/violence, racism, HIV-related discrimination/stigma, and gender-related stressors. We developed the first intervention based in cognitive behavioral therapy and culturally congruent coping for BWLWH to increase medication adherence and decrease PTSD symptoms by enhancing resilience, self-care, engagement in care, and coping for trauma, racism, HIV-related discrimination/stigma, and gender-related stressors. A pilot randomized control trial was conducted with BWLWH and histories of trauma who were at risk for their HIV viral load remaining or becoming detectable (i.e., below 80% medication adherence, detectable viral load in the past year, and/or missed HIV-related appointments). 119 BWLWH were assessed at baseline and 70 met inclusion criteria, completed one session of Life-Steps adherence counseling, and were randomized to either nine sessions of STEP-AD (Striving Towards EmPowerment and Medication Adherence) or ETAU (enhanced treatment as usual consisting of biweekly check-ins). Women completed a post intervention follow up assessment (3&#xa0;months post baseline) and 3-month post intervention follow-up (6&#xa0;months post baseline). Via STATA the difference-in-difference methodology with mixed models compared STEP-AD to ETAU on changes in outcomes over time. BWLWH in STEP-AD compared to E-TAU had significantly higher ART adherence (estimate&#x2009;=&#x2009;9.36 p&#x2009;=&#x2009;0.045) and lower likelihood of being clinically diagnosed with PTSD (OR&#x2009;=&#x2009;.07, estimate&#x2009;=&#x2009;- 2.66, p&#x2009;=&#x2009;0.03) as well as borderline significance on higher CD4 count (estimate&#x2009;=&#x2009;161.26, p&#x2009;=&#x2009;0.05). Our findings suggest preliminary efficacy of STEP-AD in improving ART adherence, mental health, and immune function.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/15502783.2024.2377194
+- DOI: 10.1007/s10461-024-04408-w
 
 2. Keywords
-- Cortisol
-- Piper methysticum
-- dietary supplement
-- exercise
-- kava
-- motivation state
+- Black women
+- Cognitive behavioral therapy
+- HIV
+- Intervention
+- Medication adherence
+- Trauma
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Cortisol assessment methods and outcomes
-- Piper methysticum assessment methods and outcomes
-- dietary supplement assessment methods and outcomes
+- Black women assessment methods and outcomes
+- Cognitive behavioral therapy assessment methods and outcomes
+- HIV assessment methods and outcomes

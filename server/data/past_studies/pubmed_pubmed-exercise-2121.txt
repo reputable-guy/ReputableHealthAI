@@ -1,25 +1,27 @@
-Study Title: Comparing the effect of stretching and compression exercises on flexion relaxation ratio of back muscles in patients having deep gluteal syndrome: A randomized trial.
+Study Title: Biomarkers of Frailty in Patients with Advanced Chronic Liver Disease Undergoing a Multifactorial Intervention Consisting of Home Exercise, Branched-Chain Amino Acids, and Probiotics.
 
 Study Summary:
-Different treatments have been proposed for patients with deep gluteal syndrome (DGS). Stretching and compression exercises are commonly used to treat DGS. To compare the effects of compression or stretching exercises on the flexion-relaxation response (electromyography signals of back muscles) in patients with DGS. In this clinical trial with parallel groups, forty-five eligible patients were randomly allocated into three groups; compression exercise (ICE) (n&#xa0;=&#xa0;15), stretching exercise (ISE) (n&#xa0;=&#xa0;15) and control group (n&#xa0;=&#xa0;15). All treatment groups (control, ICE and ISE) underwent 10 sessions of physiotherapy treatment at a frequency of three per week. The flexion-relaxation ratio (FRR) for back muscles was investigated as the primary outcome measure. No significant differences were detected in FRR of back muscles at the end of the study between three study groups (all p&#xa0;>&#xa0;0.05). In all groups after interventions, no significant changes in FRR compared to the baseline values were observed (within changes were not significant; all p&#xa0;>&#xa0;0.05). The pairwise comparisons of the between groups revealed that the disability scores in the ISE group compared to ICE, were significantly lower (F&#xa0;=&#xa0;5.53; df&#xa0;=&#xa0;2; P&#xa0;=&#xa0;0.009). Neither stretching nor compression exercises affected FRR more than the control group in DGS patients. Between-group analyses suggest that ISE only has a more significant effect on improving the disability of patients with the deep gluteal syndrome. The trial was retrospectively registered in the "IRANIAN" Registry of Clinical Trials (www.irct.ir) on January 10, 2017 as IRCT201604178035N4. URL of the record: https://en.irct.ir/trial/8473.
+Frailty in cirrhosis or advanced chronic liver disease (ACLD) is a relevant prognostic factor. In the present study, we aimed to analyze potential biomarkers associated with frailty and its improvement in patients with ACLD. We analyzed the serum of outpatients with ACLD who participated in a previous study (Rom&#xe1;n, Hepatol Commun 2024) in which frailty was assessed using the liver frailty index (LFI), and patients who were frail or prefrail were randomized to a multifactorial intervention (home exercise, branched-chain amino acids, and probiotics) or control for 12 months. We determined a biomarker battery of inflammation, bacterial translocation, and liver damage in blood and urine and blood metabolomics byH-NMR. Thirty-seven patients were included. According to the LFI, 32 patients were frail or prefrail, and 5 were robust. At baseline, LFI correlated with LBP, sCD163, mtDNA, FGF-21, urinary NGAL, urinary claudin-3, and the metabolites mannose, ethanol, and isoleucine. During the study, patients in the intervention group showed an improvement in LFI and a decrease in CRP, LBP, sCD163, and ccK18 compared to the control group. Metabolomics showed a decrease in dimethyl sulfone and creatinine and an increase in malonate, ornithine, isoleucine, and valine in the intervention group. We conclude that frailty in patients with ACLD is associated with biomarkers of systemic inflammation, bacterial translocation, and liver damage, and alterations of amino acid and short-chain fatty acid metabolism.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jbmt.2024.03.073
+- DOI: 10.3390/biom14111410
 
 2. Keywords
-- Deep gluteal syndrome
-- Electromyography
-- Flexion-relaxation ratio
-- Muscle stretching exercises
+- branched-chain amino acids
+- exercise
+- inflammation
+- metabolomics
+- probiotics
 
 3. Key Findings
-- The pairwise comparisons of the between groups revealed that the disability scores in the ISE group compared to ICE, were significantly lower (F&#xa0;=&#xa0;5
+- During the study, patients in the intervention group showed an improvement in LFI and a decrease in CRP, LBP, sCD163, and ccK18 compared to the control group
+- Metabolomics showed a decrease in dimethyl sulfone and creatinine and an increase in malonate, ornithine, isoleucine, and valine in the intervention group
 
 This study provides insights into:
-- Deep gluteal syndrome assessment methods and outcomes
-- Electromyography assessment methods and outcomes
-- Flexion-relaxation ratio assessment methods and outcomes
+- branched-chain amino acids assessment methods and outcomes
+- exercise assessment methods and outcomes
+- inflammation assessment methods and outcomes

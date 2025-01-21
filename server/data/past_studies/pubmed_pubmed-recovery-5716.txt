@@ -1,26 +1,25 @@
-Study Title: Fasting horses perioperatively decreases manure production and increases time to manure output postoperatively: a controlled randomized trial.
+Study Title: Transcranial magnetic stimulation in the assessment of acupuncture effect on exercise-induced fatigue.
 
 Study Summary:
-To compare 3 perioperative feeding regimens and their effect on anesthetic complications, manure output, and colic proportion in healthy horses. 45 horses presenting for elective orthopedic procedures were randomly assigned to 1 of 3 groups: not fasted (NF; continuous access to hay perioperatively), fasted muzzled (FM; 10-hour preoperative fast with slow refeeding postoperatively and muzzle placement), or fasted not muzzled (FNM; same as FM without muzzle placement). Anesthetic protocol was standardized. Outcomes compared between groups included anesthesia time, arterial oxygenation, duration of hypotension, perioperative manure output, time to first passage of manure postoperatively, pain scores, and colic proportion. Comparisons were made with a mixed model and Fisher exact test with statistical significance considered at P &#x2264; .05. No differences were seen in pain scores, oxygenation, hypotension, or colic between groups. Groups FM and FNM had a significantly greater mean reduction in postoperative manure weight (-81% and -70%; P = .003) and number of manure piles (-63% and -55%; P = .005) compared to group NF (-39% and -22%; P < .001; weight and piles, respectively). Mean &#xb1; SD minutes to passage of manure postoperatively was significantly shorter in group NF (238 &#xb1; 13 minutes) than groups FM (502 &#xb1; 174 minutes; P < .001) and FNM (444 &#xb1; 171 minutes; P = .003). Horses with continuous access to hay prior to and following recovery from anesthesia passed more manure and passed manure sooner after surgery than their fasted counterparts without detrimental effect on anesthetic parameters and postoperative complications. Continuous access to hay perioperatively supports manure production in healthy horses without increase in anesthetic complications.
+Acupuncture as a traditional Chinese medicine therapy relies on unique theories to alleviate fatigue. The aim of this study is to evaluate the effect of acupuncture on exercise-induced fatigue utilizing transcranial magnetic stimulation (TMS). A total of 20 participants with regular exercise habits were recruited for this study. All participants were randomly assigned to receive either acupuncture or sham acupuncture intervention for exercise-induced fatigue. TMS and a heart rate monitor were used to measure the amplitude and latency of motor evoked potential (MEP) as well as heart rate every 5&#xa0;min over a 30-min period. The blood lactic acid (BLA) levels were measured using Lactate Scout+ at baseline, 0&#xa0;min, and 30&#xa0;min after fatigue. Two-way repeated measures analysis of variance was utilized to compare the differences between the effects of acupuncture method and time. Bonferroni post hoc tests were conducted to compare specific differences. Statistical significance was set at p&#xa0;<&#xa0;.05. Interaction effect was observed between acupuncture method and time effect in terms of amplitude (F&#xa0;=&#xa0;5.40, p&#xa0;<&#xa0;.001, &#x3b7;&#xa0;=&#xa0;0.12) and latency (F&#xa0;=&#xa0;3.78, p&#xa0;=&#xa0;.008, &#x3b7;&#xa0;=&#xa0;.09) of MEP. The application of acupuncture can promote the recovery of heart rate especially at 30&#xa0;min (p&#xa0;<&#xa0;.05), but which seem insufficient to generate significant difference in BLA (F&#xa0;=&#xa0;0.067, p&#xa0;=&#xa0;.797, &#x3b7;&#xa0;=&#xa0;0.002). Acupuncture can promote the increase of MEP amplitude, shorten MEP latency, and restore heart rate. Preliminary findings provide novel insights for individuals with exercise habits to alleviate fatigue and enhance sports performance.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2460/javma.24.04.0235
+- DOI: 10.1002/brb3.3575
 
 2. Keywords
-- anesthesia
-- fasting
-- horse
-- manure output
-- postoperative colic
+- acupuncture
+- exercise&#x2010;induced fatigue
+- motor evoked potential
+- transcranial magnetic stimulation
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- anesthesia assessment methods and outcomes
-- fasting assessment methods and outcomes
-- horse assessment methods and outcomes
+- acupuncture assessment methods and outcomes
+- exercise&#x2010;induced fatigue assessment methods and outcomes
+- motor evoked potential assessment methods and outcomes

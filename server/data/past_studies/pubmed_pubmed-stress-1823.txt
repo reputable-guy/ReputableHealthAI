@@ -1,30 +1,20 @@
-Study Title: Effects of a Chatbot-Based Intervention on Stress and Health-Related Parameters in a Stressed Sample: Randomized Controlled Trial.
+Study Title: PS23 increases ghrelin levels and modulates microbiota composition: aanalysis of a randomized controlled study.
 
 Study Summary:
-Stress levels and the prevalence of mental disorders in the general population have been rising in recent years. Chatbot-based interventions represent novel and promising digital approaches to improve health-related parameters. However, there is a lack of research on chatbot-based interventions in the area of mental health. The aim of this study was to investigate the effects of a 3-week chatbot-based intervention guided by the chatbot ELME, specifically with respect to the ability to reduce stress and improve various health-related parameters in a stressed sample. In this multicenter two-armed randomized controlled trial, 118 individuals with medium to high stress levels were randomized to the intervention group (n=59) or the treatment-as-usual control group (n=59). The ELME chatbot guided participants of the intervention group through 3 weeks of training based on the topics stress, mindfulness, and interoception, with practical and psychoeducative elements delivered in two daily interactive intervention sessions via a smartphone (approximately 10-20 minutes each). The primary outcome (perceived stress) and secondary outcomes (mindfulness; interoception or interoceptive sensibility; subjective well-being; and emotion regulation, including the subfacets reappraisal and suppression) were assessed preintervention (T1), post intervention (T2; after 3 weeks), and at follow-up (T3; after 6 weeks). During both conditions, participants also underwent ecological momentary assessments of stress and interoceptive sensibility. There were no significant changes in perceived stress (&#x3b2;=-.018, SE=.329; P=.96) and momentary stress. Mindfulness and the subfacet reappraisal significantly increased in the intervention group over time, whereas there was no change in the subfacet suppression. Well-being and momentary interoceptive sensibility increased in both groups over time. To gain insight into how the intervention can be improved to achieve its full potential for stress reduction, besides a longer intervention duration, specific sample subgroups should be considered. The chatbot-based intervention seems to have the potential to improve mindfulness and emotion regulation in a stressed sample. Future chatbot-based studies and interventions in health care should be designed based on the latest findings on the efficacy of rule-based and artificial intelligence-based chatbots. German Clinical Trials Register DRKS00027560; https://drks.de/search/en/trial/DRKS00027560. RR2-doi.org/10.3389/fdgth.2023.1046202.
+Muscle damage can occur due to excessive, high-intensity, or inappropriate exercise. It is crucial for athletes and sports enthusiasts to have access to ways that expedite their recovery and alleviate discomfort. Our previous clinical trial demonstrated the anti-inflammatory and muscle damage-ameliorating properties ofPS23 (PS23), prompting us to further explore the role of this probiotic in muscle damage recovery. Thisanalysis of a randomized controlled study investigated potential mediators between the intake of PS23 and the prevention of strength loss after muscle damage. We recruited 105 students from a sports university who had participated in the previously published clinical trial. These participants were randomly allocated to three groups, receiving capsuled live PS23 (L-PS23), heat-treated PS23 (HT-PS23), or a placebo over a period of six weeks. Baseline and endpoint measurements were taken for the levels of circulating ghrelin and other blood markers, stress, mood, quality of life, and the fecal microbiota. A significant increase in ghrelin levels was recorded in the L-PS23 group compared to the other groups. Additionally, both L-PS23 and HT-PS23 interventions led to positive shifts in the gut microbiota composition, particularly in elevated,, andpopulations. The abundance of these bacteria was positively correlated with exercise performance and inversely correlated with inflammatory markers. In conclusion, dietary supplementation with PS23 may enhance exercise performance and influence muscle damage by increasing ghrelin levels and modulating the gut microbiota composition. Further clarification of the possible mechanisms and clinical implications is required.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/50454
+- DOI: 10.1039/d4fo01328j
 
 2. Keywords
-- RCT
-- chatbot
-- emotion regulation
-- interoception
-- interoceptive sensibility
-- intervention
-- mindfulness
-- randomized controlled trial
-- stress
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Our previous clinical trial demonstrated the anti-inflammatory and muscle damage-ameliorating properties ofPS23 (PS23), prompting us to further explore the role of this probiotic in muscle damage recovery
 
 This study provides insights into:
-- RCT assessment methods and outcomes
-- chatbot assessment methods and outcomes
-- emotion regulation assessment methods and outcomes
+- General research methodology and outcomes

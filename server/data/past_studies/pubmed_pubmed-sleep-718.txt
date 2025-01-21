@@ -1,26 +1,26 @@
-Study Title: Effectiveness of naturopathy for pregnancy in women with diminished ovarian reserve: feasibility randomized controlled trial.
+Study Title: Leveraging Natural Language Processing to Evaluate Young Adults' User Experiences with a Digital Sleep Intervention for Alcohol Use.
 
 Study Summary:
-Is conducting a randomized control trial (RCT) to assess the effectiveness of whole-system naturopathy in improving pregnancy rates among women with diminished ovarian reserve (DOR) feasible? A two-arm, parallel group, assessor-blinded feasibility RCT was conducted. Women with DOR, trying to conceive naturally or by ART, were randomly assigned to naturopathy plus usual care, or usual care alone for 16 weeks. Primary outcomes were feasibility (recruitment, adherence, retention rates), acceptability and safety. Secondary outcomes included ongoing pregnancy rates, live birth rates and health-related outcomes (mental health, quality of life, diet, exercise, sleep and weight). Statistical significance of the differences between the two groups (P-values) were exploratory. One hundred and fifteen women completed the screening survey between March and November 2022. Of these, 66 women were assessed for eligibility and 41 (62%) consented. Recruitment resulted in seven enrolments each month. All 41 participants (100%) adhered to the intervention, 38 (93%) completed end-point questionnaires, 32 (78%) found study participation to be acceptable and 18 out of 21 (86%) from the intervention group would recommend a naturopathic intervention to other women with DOR. The naturopathic treatment was associated with only mild and temporary adverse events. No between-group differences were observed for pregnancy and live birth rates. The evaluation of whole-system naturopathy through a RCT was feasible and the treatment was acceptable and well tolerated according to women with DOR. Outcomes from this study will help inform sample size calculations powered for fertility outcomes for future RCTs on this topic.
+Evaluating user experiences with digital interventions is critical to increase uptake and adherence, but traditional methods have limitations. We incorporated natural language processing (NLP) with convergent mixed methods to evaluate a personalized feedback and coaching digital sleep intervention for alcohol risk reduction: 'Call it a Night' (= 120). In this randomized clinical trial with young adults with heavy drinking, control conditions were+: web-based advice + active and passive monitoring; and: advice + passive monitoring. Findings converged to show that thetreatment condition group found feedback and coaching most helpful, whereas participants across conditions generally found advice helpful. Further, most participants across groups were interested in varied whole-health sleep-related factors besides alcohol use (e.g., physical activity), and many appreciated increased awareness through monitoring with digital tools. All groups had high adherence, satisfaction, and reported feasibility, but participants inand+reported significantly higher effectiveness than those in. NLP corroborated positive sentiments across groups and added critical insight that sleep, not alcohol use, was a main participant motivator. Digital sleep interventions are an acceptable, novel alcohol treatment strategy, and improving sleep and overall wellness may be important motivations for young adults. Further, NLP provides an efficient convergent method for evaluating experiences with digital interventions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.rbmo.2024.103844
+- DOI: 10.21203/rs.3.rs-3977182/v1
 
 2. Keywords
-- Complementary medicine
-- Diminished ovarian reserve
-- Feasibility
-- Naturopathy
-- Pregnancy
+- alcohol use
+- digital health
+- natural language processing
+- sleep
+- user experience
 
 3. Key Findings
-- All 41 participants (100%) adhered to the intervention, 38 (93%) completed end-point questionnaires, 32 (78%) found study participation to be acceptable and 18 out of 21 (86%) from the intervention group would recommend a naturopathic intervention to other women with DOR
+- Findings converged to show that thetreatment condition group found feedback and coaching most helpful, whereas participants across conditions generally found advice helpful
 
 This study provides insights into:
-- Complementary medicine assessment methods and outcomes
-- Diminished ovarian reserve assessment methods and outcomes
-- Feasibility assessment methods and outcomes
+- alcohol use assessment methods and outcomes
+- digital health assessment methods and outcomes
+- natural language processing assessment methods and outcomes

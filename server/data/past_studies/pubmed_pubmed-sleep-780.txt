@@ -1,26 +1,24 @@
-Study Title: Improved Sleep Correlates with Improved Quality of Life and Motor Symptoms with Foslevodopa/Foscarbidopa.
+Study Title: Head Injury Treatment With Healthy and Advanced Dietary Supplements: A Pilot Randomized Controlled Trial of the Tolerability, Safety, and Efficacy of Branched Chain Amino Acids in the Treatment of Concussion in Adolescents and Young Adults.
 
 Study Summary:
-Foslevodopa/foscarbidopa is a subcutaneous infusion of levodopa/carbidopa prodrugs. Assess correlations between sleep and efficacy from interim data of a phase 3 trial of foslevodopa/foscarbidopa (NCT03781167). Pearson correlations between sleep (Parkinson's Disease Sleep Scale-2 [PDSS-2]) and quality of life (QoL; Parkinson's Disease Questionnaire-39), motor experiences of daily living (m-EDL; Movement Disorder Society-Unified Parkinson's Disease Scale Part II), and "Off"/"On" times were calculated for baseline and week 26 improvements. Regression analyses were adjusted for baseline PDSS-2 score. Baseline sleep correlated moderately with QoL (r&#x2009;=&#x2009;0.44, P&#x2009;<&#x2009;0.001) and weakly with m-EDL (r&#x2009;=&#x2009;0.28; P&#x2009;<&#x2009;0.001). Sleep improvement weakly correlated with improved "Off" time (r&#x2009;=&#x2009;0.37; P&#x2009;<&#x2009;0.001) and QoL (r&#x2009;=&#x2009;0.36; P&#x2009;<&#x2009;0.001). Regression analyses demonstrated significant positive associations for improved sleep, "Off" time, QoL, and m-EDL. Improved sleep with foslevodopa/foscarbidopa was associated with improved QoL and "Off" time.
+Concussion is a common injury in the adolescent and young adult populations. Although branched chain amino acid (BCAA) supplementation has shown improvements in neurocognitive and sleep function in pre-clinical animal models of mild-to-moderate traumatic brain injury (TBI), to date, no studies have been performed evaluating the efficacy of BCAAs in concussed adolescents and young adults. The goal of this pilot trial was to determine the efficacy, tolerability, and safety of varied doses of oral BCAA supplementation in a group of concussed adolescents and young adults. The study was conducted as a pilot, double-blind, randomized controlled trial of participants ages 11-34 presenting with concussion to outpatient clinics (sports medicine and primary care), urgent care, and emergency departments of a tertiary care pediatric children's hospital and an urban tertiary care adult hospital, between June 24, 2014 and December 5, 2020. Participants were randomized to one of five study arms (placebo and 15&#x2009;g, 30&#x2009;g, 45&#x2009;g, and 54&#x2009;g BCAA treatment daily) and followed for 21 days after enrollment. Outcome measures included daily computerized neurocognitive tests (processing speed, theprimary outcome; and attention, visual learning, and working memory), symptom score, physical and cognitive activity, sleep/wake alterations, treatment compliance, and adverse events. In total, 42 participants were randomized, 38 of whom provided analyzable data. We found no difference in our primary outcome of processing speed between the arms; however, there was a significant reduction in total symptom score (decrease of 4.4 points on a 0-54 scale for every 500&#x2009;g of study drug consumed,value for trend&#x2009;=&#x2009;0.0036, [uncorrected]) and return to physical activity (increase of 0.503 points on a 0-5 scale for every 500&#x2009;g of study drug consumed,value for trend&#x2009;=&#x2009;0.005 [uncorrected]). There were no serious adverse events. Eight of 38 participants reported a mild (not interfering with daily activity) or moderate (limitation of daily activity) adverse event; there were no differences in adverse events by arm, with only two reported mild adverse events (both gastrointestinal) in the highest (45&#x2009;g and 54&#x2009;g) BCAA arms. Although limited by slow enrollment, small sample size, and missing data, this study provides the first demonstration of efficacy, as well as safety and tolerability, of BCAAs in concussed adolescents and young adults; specifically, a dose-response effect in reducing concussion symptoms and a return to baseline physical activity in those treated with higher total doses of BCAAs. These findings provide important preliminary data to inform a larger trial of BCAA therapy to expedite concussion recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/mdc3.14018
+- DOI: 10.1089/neu.2023.0433
 
 2. Keywords
-- Parkinson's disease
-- foslevodopa/foscarbidopa
-- infusion therapy
-- post hoc analysis
-- sleep
+- branched chain amino acids
+- pediatric traumatic brain injury
+- randomized controlled trial
 
 3. Key Findings
-- Regression analyses demonstrated significant positive associations for improved sleep, "Off" time, QoL, and m-EDL
+- We found no difference in our primary outcome of processing speed between the arms; however, there was a significant reduction in total symptom score (decrease of 4
 
 This study provides insights into:
-- Parkinson's disease assessment methods and outcomes
-- foslevodopa/foscarbidopa assessment methods and outcomes
-- infusion therapy assessment methods and outcomes
+- branched chain amino acids assessment methods and outcomes
+- pediatric traumatic brain injury assessment methods and outcomes
+- randomized controlled trial assessment methods and outcomes

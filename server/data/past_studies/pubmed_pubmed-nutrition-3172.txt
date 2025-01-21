@@ -1,25 +1,26 @@
-Study Title: Effect of high plant protein/peptide nutrition supplementation on knee osteoarthritis in older adults with sarcopenia: A randomized, double-blind, placebo-controlled trial.
+Study Title: Combined systemic inflammatory immune index and prognostic nutrition index as chemosensitivity and prognostic markers for locally advanced gastric cancer receiving neoadjuvant chemotherapy: a retrospective study.
 
 Study Summary:
-Skeletal muscle is an important contributor to joint health. Previous studies have shown that age-related muscle mass and strength loss are closely associated with the development of knee osteoarthritis. The objective of this study is to investigate whether a high plant protein/peptide nutrition supplementation can alleviate knee osteoarthritis by improving muscle mass and strength. This randomized, double-blind, placebo-controlled trial that included participants aged 50-70 years diagnosed with knee osteoarthritis and sarcopenia was conducted in China from February 2022 to September 2022 (ChiCTR2200056415). Participants were randomly assigned to receive either a 12-week high plant protein/peptide nutrition supplementation or a placebo twice daily, with one serving each after breakfast and dinner, respectively. The primary outcome analyzed using intention-to-treat analysis was difference in Short Physical Performance Battery (SPPB) from baseline to week 12 between the two groups. The secondary outcomes included changes in muscle mass, strength, symptom and imaging of knee osteoarthritis, body composition, biochemical parameters, and health quality scores. After 12 weeks, a total of 124 participants (38.7% male) completed the trial and were included in the final analysis. Over the 12-week follow-up, the experimental group showed a significant improvement in the SPPB total score (1.03, 95% CI, 0.69 to 1.38, P&#xa0;<&#xa0;0.0001) compared with the placebo group. Grip strength (2.83&#xa0;kg, 95% CI, 2.13 to 3.53, P&#xa0;<&#xa0;0.0001) and skeletal muscle mass index (0.66&#xa0;kg/m, 95% CI, 0.45 to 0.86, P&#xa0;<&#xa0;0.0001) were also significantly increased in the experimental group relative to the placebo group. The mean change in Western Ontario and McMaster Universities Osteoarthritis Index total score was&#xa0;-3.95 points (95% CI,&#xa0;-5.02 to&#xa0;-2.89, P&#xa0;<&#xa0;0.0001) in the experimental group and 0.23 points (95% CI,&#xa0;-0.17 to 0.63, P&#xa0;=&#xa0;0.253) in the placebo group. Additionally, within the experimental group, nine participants experienced an improvement in osteophyte magnetic resonance imaging results, while no improvement was observed in the placebo group. The experimental group also exhibited significant improvements in health quality compared with the placebo group as assessed by Short Form 36, the World Health Organization Quality of Life Brief Scale, and the Chalder Fatigue Scale. No serious adverse events were reported during the trial. Oral supplementation with high levels of plant protein/peptides can alleviate symptoms of osteoarthritis in elderly individuals with minor or mild knee osteoarthritis and sarcopenia. This improvement may be attributed to the enhancements of muscle mass, strength, and physical performance.
+The prognosis nutritional index (PNI) and the systemic inflammatory immunological index (SII) are characteristic indicators of the nutritional state and the systemic inflammatory response, respectively. However, there is an unknown combined effect of these indicators in the clinic. Therefore, the practicality of using the SII-PNI score to predict prognosis and tumor response of locally advanced gastric cancer (LAGC) following chemotherapy was the main focus of this investigation. We retrospectively analyzed 181 patients with LAGC who underwent curative resection after neoadjuvant chemotherapy in a prospective study (NCT01516944). We divided these patients into tumour regression grade(TRG) 3 and non-TRG3 groups based on tumor response (AJCC/CAP guidelines). The SII and PNI were assessed and confirmed the cut-off values before treatment. The SII-PNI values varied from 0 to 2, with 2 being the high SII (&#x2265;&#x2009;471.5) as well as low PNI (&#x2264;&#x2009;48.6), a high SII or low PNI is represented by a 1 and neither is represented by a 0, respectively. 51 and 130 samples had TRG3 and non-TRG3 tumor responses respectively. Patients with TRG3 had substantially higher SII-PNI scores than those without TRG3 (p&#x2009;<&#x2009;0.0001). Patients with greater SII-PNI scores had a poorer prognosis (p&#x2009;<&#x2009;0.0001). The SII-PNI score was found to be an independent predictor of both overall survival (HR&#x2009;=&#x2009;4.982, 95%CI: 1.890-10.234, p&#x2009;=&#x2009;0.001) and disease-free survival (HR&#x2009;=&#x2009;4.763, 95%CI: 1.994-13.903, p&#x2009;=&#x2009;0.001) in a multivariate analysis. The clinical potential and accuracy of low-cost stratification based on SII-PNI score in forecasting tumor response and prognosis in LAGC is satisfactory.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.clnu.2024.07.037
+- DOI: 10.1186/s12885-024-12771-z
 
 2. Keywords
-- Knee osteoarthritis
-- Plant protein
-- SPPB
-- Sarcopenia
+- Chemotherapy response
+- Locally advanced gastric cancer
+- Prognosis
+- Prognostic nutrition index
+- Systemic inflammatory immune index
 
 3. Key Findings
-- Over the 12-week follow-up, the experimental group showed a significant improvement in the SPPB total score (1
+- The SII-PNI score was found to be an independent predictor of both overall survival (HR&#x2009;=&#x2009;4
 
 This study provides insights into:
-- Knee osteoarthritis assessment methods and outcomes
-- Plant protein assessment methods and outcomes
-- SPPB assessment methods and outcomes
+- Chemotherapy response assessment methods and outcomes
+- Locally advanced gastric cancer assessment methods and outcomes
+- Prognosis assessment methods and outcomes

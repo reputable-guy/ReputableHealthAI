@@ -1,27 +1,30 @@
-Study Title: Effect of N-acetyl cysteine in children with metabolic dysfunction-associated steatotic liver disease-A pilot study.
+Study Title: Safety and Pharmacokinetics of a Combined Antioxidant Therapy against Myocardial Reperfusion Injury: A Phase&#xa0;1 Randomized Clinical Trial in Healthy Humans.
 
 Study Summary:
-Prevalence of metabolic dysfunction-associated steatotic liver disease (MASLD), previously known as nonalcoholic fatty liver disease (NAFLD), and its sequelae of more severe forms such as metabolic dysfunction-associated steatohepatitis (MASH) is rapidly increasing in children with the rise in obesity. Successful and sustainable treatments for MASLD are lacking in children. We determined the therapeutic effect of N-acetyl cysteine (NAC) on biomarkers of oxidative stress, inflammation and insulin resistance (IR), liver enzymes, liver fat fraction (LFF) and liver stiffness (LS) in children with obesity and biopsy-confirmed MASLD. Thirteen children (n&#x2009;=&#x2009;13; age: 13.6&#x2009;&#xb1;&#x2009;2.8 years; NAS score >2) underwent a double-blind, placebo-controlled trial of NAC (either 600 or 1200&#x2009;mg NAC/day) or placebo for 16 weeks. Measurements included LFF (magnetic resonance imaging), LS (ultrasound elastography), and body composition. Erythrocyte glutathione (GSH), liver enzymes, insulin, glucose, adiponectin, high-sensitivity c-reactive protein (hs-CRP), and interleukin-6 (IL-6) were also measured. homeostasis model assessment for insulin resistance (HOMA-IR) was calculated. Sixteen-week NAC treatment improved (baseline adjusted between-group p&#x2009;<&#x2009;.05 for all) markers of inflammation (IL-6 and hs-CRP), oxidative stress (GSH), and IR (HOMA-IR) and reduced liver enzymes, LFF and LS. Body weight and body composition did not show beneficial changes. Sixteen-week NAC treatment was well tolerated in children with obesity and MASLD and led to improvements in oxidative stress, inflammation and IR and liver outcomes. The results from this pilot study support further investigation of NAC as a therapeutic agent in children with MASLD.
+Myocardial reperfusion injury (MRI) accounts for up to 50% of the final size in acute myocardial infarction and other conditions associated with ischemia-reperfusion. Currently, there is still no therapy to prevent MRI, but it is well known that oxidative stress has a key role in its mechanism. We previously reduced MRI in rats through a combined antioxidant therapy (CAT) of ascorbic acid, N-acetylcysteine, and deferoxamine. This study determines the safety and pharmacokinetics of CAT in a Phase I clinical trial. Healthy subjects (n = 18) were randomized 2:1 to CAT or placebo (NaCl 0.9% i.v.). Two different doses/infusion rates of CATs were tested in a single 90-minute intravenous infusion. Blood samples were collected at specific times for 180 minutes to measure plasma drug concentrations (ascorbic acid, N-acetylcysteine, and deferoxamine) and oxidative stress biomarkers. Adverse events were registered during infusion and followed for 30 days. Both CAT1 and CAT2 significantly increased the CAT drug concentrations compared to placebo (P < .05). Most of the pharmacokinetic parameters were similar between CAT1 and CAT2. In total, 6 adverse events were reported, all nonserious and observed in CAT1. The ferric-reducing ability of plasma (an antioxidant biomarker) increased in both CAT groups compared to placebo (P < .001). The CAT is safe in humans and a potential treatment for patients with acute myocardial infarction undergoing reperfusion therapy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/jpn3.12312
+- DOI: 10.1002/cpdd.1443
 
 2. Keywords
-- inflammation
-- insulin resistance
-- liver fat
-- liver fibrosis
-- obesity
+- N&#x2010;acetylcysteine
+- Phase I
+- antioxidants
+- ascorbic acid
+- combined antioxidant therapy
+- deferoxamine
 - oxidative stress
+- pharmacokinetics
+- safety
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- inflammation assessment methods and outcomes
-- insulin resistance assessment methods and outcomes
-- liver fat assessment methods and outcomes
+- N&#x2010;acetylcysteine assessment methods and outcomes
+- Phase I assessment methods and outcomes
+- antioxidants assessment methods and outcomes

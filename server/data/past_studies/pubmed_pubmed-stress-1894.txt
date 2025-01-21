@@ -1,24 +1,25 @@
-Study Title: Sacubitril/valsartan and cardiovascular biomarkers among patients with recent COVID-19 infection: The PARACOR-19 randomized clinical trial.
+Study Title: Efficacy of two brief trauma-focussed writing interventions in comparison to positive experiences writing: A randomized controlled trial.
 
 Study Summary:
-The PARACOR-19 randomized controlled trial (RCT) was designed to examine the effects of sacubitril/valsartan on markers of cardiac injury, inflammation, structure, and function among patients who have recovered from acute coronavirus disease 2019 (COVID-19) infection. PARACOR-19 was a single-centre, double-blind RCT of patients with cardiovascular risk factors and a history of COVID-19 infection 4-16&#x2009;weeks prior to enrolment. Patients were randomized to sacubitril/valsartan (titrated to the maximum dose of 97/103&#x2009;mg twice daily) versus matching placebo. Co-primary endpoints were change from baseline to 12&#x2009;weeks in high-sensitivity cardiac troponin T (hs-cTnT) and soluble ST2 (sST2). Exploratory endpoints included change from baseline to 12&#x2009;weeks in additional circulating biomarkers. Overall, 42 patients were randomized between August 2021 and March 2023 (n&#x2009;=&#x2009;20 sacubitril/valsartan, n&#x2009;=&#x2009;22 placebo). Median (25th-75) time from COVID-19 diagnosis to enrolment was 67 (48-80) days. Median age was 67 (62-71) years, 48% were female, and 91% were White. Compared with placebo, sacubitril/valsartan did not have a significant effect on the co-primary endpoints of change from baseline in hs-TnT and sST2 (all p&#x2009;&#x2265;&#x2009;0.29). In exploratory analyses, sacubitril/valsartan led to a 46% greater reduction in N-terminal pro-B-type natriuretic peptide (NT-proBNP) and 51% greater reduction in C-terminal telopeptide of collagen type I (CITP). Permanent drug discontinuation occurred in four patients in the sacubitril/valsartan group and three patients in the placebo group. There were no deaths and one patient was hospitalized in each group. In this pilot RCT of patients who recovered from acute COVID-19, sacubitril/valsartan did not lower hs-cTnT or sST2 compared with placebo. Exploratory analyses suggested potential benefits of sacubitril/valsartan on cardiac wall stress and collagen turnover as measured by NT-proBNP and CITP. Sacubitril/valsartan was well tolerated. ClinicalTrials.gov NCT04883528.
+There is emerging literature regarding the efficacy of trauma-focussed writing therapies (TF-WTs) for posttraumatic stress. Such therapies have the potential to reduce posttraumatic stress symptoms (PTSS) in a brief time frame and can be delivered remotely. There remains a need for further research assessing the efficacy of different types of TF-WTs, as well comparing them to alternative control conditions not previously assessed. The present study assessed two TF-WTs that had differing writing instructions in comparison to an intervention that involved writing about positive experiences. Adult community participants (n&#xa0;=&#xa0;83) with subthreshold or clinical PTSD symptoms were randomized to one of three conditions (two of which involved trauma-focussed writing, and the other involved writing about positive experiences). All conditions involved three weekly telehealth-delivered writing appointments. Outcomes were measured using the PTSD Checklist (PCL-5) and the Depression, Anxiety and Stress Scales (DASS-21), and were evaluated at baseline, one-week post-intervention, and five-weeks post-intervention. This trial was registered with the Australian and New Zealand Clinical Trials Registry (ANZCTR Protocol 12620001065987). There was no evidence that the two TF-WTs were more efficacious in reducing PTSS or producing clinically meaningful change in comparison to positive experiences writing. Instead, a significant reduction from baseline to follow-up in PTSS, depression, anxiety and stress was observed in all three conditions. The results should be interpreted with consideration of the modest sample size and absence of longer-term follow-up. Three-session trauma-focussed writing delivered via telehealth may not be superior to writing about positive experiences.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ejhf.3199
+- DOI: 10.1016/j.jad.2024.05.014
 
 2. Keywords
-- Biomarkers
-- COVID&#x2010;19
-- Sacubitril/valsartan
+- Post-traumatic stress symptoms
+- Psychological intervention
+- Randomized controlled trial
+- Writing therapy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Biomarkers assessment methods and outcomes
-- COVID&#x2010;19 assessment methods and outcomes
-- Sacubitril/valsartan assessment methods and outcomes
+- Post-traumatic stress symptoms assessment methods and outcomes
+- Psychological intervention assessment methods and outcomes
+- Randomized controlled trial assessment methods and outcomes

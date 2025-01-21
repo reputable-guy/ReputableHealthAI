@@ -1,26 +1,26 @@
-Study Title: A Predictive Tool Based on DNA Methylation Data for Personalized Weight Loss through Different Dietary Strategies: A Pilot Study.
+Study Title: High Protein Oral Nutritional Supplements Enable the Majority of Cancer Patients to Meet Protein Intake Recommendations during Systemic Anti-Cancer Treatment: A Randomised Controlled Parallel-Group Study.
 
 Study Summary:
-Obesity is a public health problem. The usual treatment is a reduction in calorie intake and an increase in energy expenditure, but not all individuals respond equally to these treatments. Epigenetics could be a factor that contributes to this heterogeneity. The aim of this research was to determine the association between DNA methylation at baseline and the percentage of BMI loss (%BMIL) after two dietary interventions, in order to design a prediction model to evaluate %BMIL based on methylation data. Spanish participants with overweight or obesity (= 306) were randomly assigned to two lifestyle interventions with hypocaloric diets: one moderately high in protein (MHP) and the other low in fat (LF) for 4 months (Obekit study; ClinicalTrials.gov ID: NCT02737267). Basal DNA methylation was analyzed in white blood cells using the Infinium MethylationEPIC array. After identifying those methylation sites associated with %BMIL (< 0.05 and SD > 0.1), two weighted methylation sub-scores were constructed for each diet: 15 CpGs were used for the MHP diet and 11 CpGs for the LF diet. Afterwards, a total methylation score was made by subtracting the previous sub-scores. These data were used to design a prediction model for %BMIL through a linear mixed effect model with the interaction between diet and total score. Overall, DNA methylation predicts the %BMIL of two 4-month hypocaloric diets and was able to determine which type of diet is the most appropriate for each individual. The results of this pioneer study confirm that epigenetic biomarkers may be further used for precision nutrition and the design of personalized dietary strategies against obesity.
+ESPEN guidelines recommend a minimum protein intake of 1.0 g/kg body weight (BW) per day to maintain or restore lean body mass in patients with cancer. During anti-cancer treatment, optimal protein intake is difficult to achieve. We investigated whether a high-protein, low-volume oral nutritional supplement (ONS) supports patients in meeting recommendations. A multi-centre, randomised, controlled, open-label, parallel-group study was carried out in nine hospitals (five countries) between January 2019 and July 2021 in colorectal and lung cancer patients undergoing first-line systemic treatment with chemo(radio-) or immunotherapy. Subjects were randomised (2:1) to receive Fortimel Compact Proteinor standard care. Protein intake was assessed with a 3-day food diary (primary outcome). BW was a secondary outcome. Due to challenges in recruitment, the study was terminated prematurely with 42 patients randomised (intervention group (IG) 28; control group (CG) 14). At T1 and T2, protein intake was statistically significantly higher in the IG compared to the CG (1.40 vs. 1.07 g/kg/day at T1,= 0.008; 1.32 vs. 0.94 g/kg/day at T2,= 0.002). At baseline, only 65% (IG) and 45% (CG) of patients met ESPEN minimum protein intake recommendations. However, at T1 and T2 in the IG, a higher proportion of patients met recommendations than in the CG (88% vs. 55% and 40%). No statistically significant difference between study groups was observed for BW. Mean compliance to the ONS was 73.4%. A high-protein, low-volume ONS consumed twice daily enables the majority of patients to reach minimal ESPEN protein recommendations.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15245023
+- DOI: 10.3390/nu15245030
 
 2. Keywords
-- BMI loss
-- epigenetic score
-- hypocaloric diet
-- precision nutrition
-- predictive model
+- cancer
+- high protein
+- malnutrition
+- nutrition support
+- oral nutritional supplements
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- BMI loss assessment methods and outcomes
-- epigenetic score assessment methods and outcomes
-- hypocaloric diet assessment methods and outcomes
+- cancer assessment methods and outcomes
+- high protein assessment methods and outcomes
+- malnutrition assessment methods and outcomes

@@ -1,27 +1,29 @@
-Study Title: Effect of degalactosylated bovine glycoprotein formulations MAF and M &#x441;apsules on lymphopenia and clinical outcomes in hospitalized COVID-19 patients: a randomized clinical trial.
+Study Title: Recovery and immune function after low pressure pneumoperitoneum during robot-assisted radical prostatectomy: a randomised controlled trial.
 
 Study Summary:
-Targeting mucosal immunity of the gut, which is known to provide antigen processing, while avoiding excessive or unnecessary inflammation, was tested as a way to modulate COVID-19 severity. Randomized open-label trial in 204 adults hospitalized with non-critical COVID-19 who received for 14 days in addition to standard of care (SOC) degalactosylated bovine glycoproteins formulations of either MAF capsules (MAF group) or M capsules (M group) or SOC only (control group). Median recovery time when patients did not require supplemental oxygen was 6 days in both study groups compared to 9 days in the control (MAF vs. control; P&#x2009;=&#x2009;0.020 and M vs. control; P&#x2009;=&#x2009;0.004). A greater reduction in mortality was seen in the MAF group compared to the control by day 14 (8.3% vs. 1.6%; P&#x2009;=&#x2009;0.121) and by day 29 (15.3% vs. 3.2%; P&#x2009;=&#x2009;0.020), and similarly in the M group by day 14 (8.3% vs. 2.9%; P&#x2009;=&#x2009;0.276) and by day 29 (15.3% vs. 2.9%; P&#x2009;=&#x2009;0.017). The proportion of those who had baseline absolute lymphocyte count (ALC) lower than 0.8&#x2009;&#xd7;&#x2009;10/L was 13/63 (20.6%), 17/69 (24.6%), and 18/72 (25.0%) of patients in MAF, M, and control group respectively. Day 29 mortality among these lymphopenic patients was three times higher than for the intent-to-treat population (21% vs. 7%) and consisted in above subgroups: 2/13 (15%), 2/17 (12%), and 6/18 (33%) of patients. The decreased mortality in both study subgroups correlated with greater ALC restoration above 0.8&#x2009;&#xd7;&#x2009;10/L level seen on day 14 in 91% (11/12) and 87.5% (14/16) of survivors in MAF and M subgroups respectively compared to 53.3% (8/15) of survivors in control subgroup. Incidences of any ALC decrease below the baseline level on day 14 occurred in 25.4% of patients in the MAF group and 29.0% of patients in the M group compared to 45.8% in control and ALC depletion by &#x2265;&#x2009;50% from the baseline level consisted of 7.9%, 5.8%, and 15.3% of cases in these groups respectively. This study showed that both study agents prevented ALC depletion and accelerated its restoration, which is believed to be one of the mechanisms of improved crucial clinical outcomes in hospitalized COVID-19 patients. The trial was registered after the trial start in ClinicalTrials.gov NCT04762628, registered 21/02/2021, https://www. gov/ct2/show/NCT04762628 .
+To compare the effectiveness of low intra-abdominal pressure (IAP) facilitated by deep neuromuscular block (NMB) to standard practice in improving the quality of recovery, preserving immune function, and enhancing parietal perfusion during robot-assisted radical prostatectomy (RARP). In this blinded, randomised controlled trial, 96 patients were randomised to the experimental group with low IAP (8&#x2009;mmHg) facilitated by deep NMB (post-tetanic count 1-2) or the control group with standard IAP (14&#x2009;mmHg) and moderate NMB (train-of-four 1-2). Recovery was measured using the 40-item Quality of Recovery questionnaire and 36-item Short-Form Health survey. Immune function was evaluated by plasma damage-associated molecular patterns, cytokines, and ex vivo lipopolysaccharide-stimulated cytokine production. Parietal peritoneum perfusion was measured by analysing the recordings of indocyanine-green injection. Quality of recovery was not superior in the experimental group (n&#x2009;=&#x2009;46) compared to the control group (n&#x2009;=&#x2009;50). All clinical outcomes, including pain scores, postoperative nausea and vomiting, and hospital stay were similar. There were no significant differences in postoperative plasma concentrations of damage-associated molecular patterns, cytokines, and ex vivo cytokine production capacity. The use of low IAP resulted in better parietal peritoneum perfusion. Despite better perfusion of the parietal peritoneum, low IAP facilitated by deep NMB did not improve the quality of recovery or preserve immune function compared to standard practice in patients undergoing RARP.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12879-024-09286-0
+- DOI: 10.1111/bju.16397
 
 2. Keywords
-- COVID-19 treatment
-- Lymphopenia
-- Mortality
-- Mucosal immunity
-- Saisei M capsules
-- Saisei MAF capsules
+- innate immune response
+- laparoscopy
+- parietal peritoneum
+- perfusion imaging
+- postoperative care
+- postoperative complications
+- postoperative pain
+- prostatectomy
 
 3. Key Findings
-- This study showed that both study agents prevented ALC depletion and accelerated its restoration, which is believed to be one of the mechanisms of improved crucial clinical outcomes in hospitalized COVID-19 patients
+- Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 treatment assessment methods and outcomes
-- Lymphopenia assessment methods and outcomes
-- Mortality assessment methods and outcomes
+- innate immune response assessment methods and outcomes
+- laparoscopy assessment methods and outcomes
+- parietal peritoneum assessment methods and outcomes

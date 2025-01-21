@@ -1,30 +1,28 @@
-Study Title: Exergames for falls prevention in sheltered homes: a feasibility study.
+Study Title: Efficacy and safety of oral semaglutide monotherapy vs placebo in a predominantly Chinese population with type 2 diabetes (PIONEER 11): a double-blind, Phase IIIa, randomised trial.
 
 Study Summary:
-Falls prevention is a global priority given its substantial impact on older adults and cost to healthcare systems. Advances in telerehabilitation technology such as `exergaming' show potential for delivering accessible, engaging exercise programs for older adults. This study aimed to establish the feasibility, acceptability and usability of exergaming in sheltered housing. A mixed-methods study with participants randomised in 2 sheltered housing facilities to intervention (&#x2009;=&#x2009;1 home, 12 participants) and control (&#x2009;=&#x2009;1 home 2, 12 participants) provided usual care for all, (physiotherapy prescribed strength and balance exercises and falls prevention advice) and a 6-week supervised exergaming programme (MIRA) offered 3 times per week to the intervention group only. At 6 weeks, feasibility, usability and acceptability outcomes were collected and analysed using descriptive statistics; qualitative focus groups with participants and interviews with staff were also completed and thematically analysed to elicit barriers and facilitators to usability and acceptability. Mean exercise per week increased from 10.6 to 14.1 minutes in the control group and 9.6 to 36.8 minutes in the intervention group. All study processes and measures appeared feasible; 72% of those invited consented to taking part and 92% completed 6-week follow-up. Individual domains for the System Usability Scores (SUS) showed participants felt `very confident' using the system with support (70%), would `like to use exergames frequently' (50%) and found the system `easy to use' (90%). However, they also felt they `needed to learn a lot at the beginning' (40%) and would `need technical support' (70%) for independent use of the exergames. Mean overall SUS was 63 reflecting moderate usability for independent use. Qualitative data indicated exergames were well received and highlighted motivational and social aspects; costs and set up. Staff also felt exergaming complemented traditional care. Our study contributes to the evidence guiding the use of exergames to deliver suitable falls prevention interventions for older adults within sheltered housing in community settings.
+The aim of this study was to evaluate the efficacy and safety of oral semaglutide monotherapy vs placebo in a predominantly Chinese population with type 2 diabetes insufficiently controlled with diet and exercise alone. The Peptide Innovation for Early Diabetes Treatment (PIONEER) 11 trial was a double-blind, randomised, Phase IIIa trial conducted across 52 sites in the China region (mainland China and Taiwan), Hungary, Serbia and Ukraine. Eligible participants were &#x2265;18 years (&#x2265;20 years in Taiwan), had a diagnosis of type 2 diabetes with HbA53-86 mmol/mol (7.0-10.0%) and were not receiving any glucose-lowering drugs. After a 4-week run-in period in which participants were treated with diet and exercise alone, those who fulfilled the randomisation criteria were randomised (1:1:1:1) using a web-based randomisation system to receive once-daily oral semaglutide 3 mg, 7 mg or 14 mg or placebo for 26 weeks (using a 4-week dose-escalation regimen for the higher doses). Randomisation was stratified according to whether participants were from the China region or elsewhere. The primary and confirmatory secondary endpoints were change from baseline to week 26 in HbAand body weight (kg), respectively. Safety was assessed in all participants exposed to at least one dose of the trial product. Between October 2019 and October 2021, a total of 774 participants were screened and 521 participants were randomised to oral semaglutide 3 mg (n=130), 7 mg (n=130), 14 mg (n=130) or placebo (n=131); most participants (92.5%, n=482) completed the trial, with 39 participants prematurely discontinuing treatment. The number of participants contributing to the trial analyses was based on the total number of participants who were randomised at the beginning of the trial. The majority of participants were male (63.7%), and the mean age of participants was 52 years. At baseline, mean HbAand body weight were 63 mmol/mol (8.0%) and 79.6 kg, respectively. Oral semaglutide resulted in significantly greater reductions in HbAthan placebo at week 26 (p<0.001 for all doses). The estimated treatment differences (ETDs [95% CIs]) for oral semaglutide 3 mg, 7 mg and 14 mg vs placebo were -11 (-13, -9) mmol/mol, -16 (-18, -13) mmol/mol and -17 (-19, -15) mmol/mol, respectively. The corresponding ETDs in percentage points (95% CI) vs placebo were -1.0 (-1.2, -0.8), -1.4 (-1.6, -1.2) and -1.5 (-1.8, -1.3), respectively. Significantly greater reductions in body weight were also observed for oral semaglutide 7 mg and 14 mg than for placebo at week 26 (ETD [95% CI] -1.2 kg [-2.0 kg, -0.4 kg; p<0.01] and -2.0 kg [-2.8 kg, -1.2 kg; p<0.001], respectively), but not for oral semaglutide 3 mg (ETD [95% CI] -0.0 kg [-0.9 kg, 0.8 kg; not significant]). Similar reductions in HbAand body weight were observed in the Chinese subpopulation, which represented 74.9% of participants in the overall population. Adverse events (AEs) occurred in between 65.4% and 72.3% of participants receiving oral semaglutide (for all doses) and 57.3% of participants with placebo. Most AEs were mild to moderate in severity, with few serious AEs reported; the most commonly reported AEs were gastrointestinal-related and were more frequent with semaglutide (all doses) than with placebo. The proportion of AEs was slightly higher in the Chinese subpopulation. Oral semaglutide resulted in significantly greater reductions in HbAacross all doses and in significant body weight reductions for the 7 mg and 14 mg doses when compared with placebo in predominantly Chinese participants with type 2 diabetes insufficiently controlled by diet and exercise alone. Oral semaglutide was generally well tolerated, with a safety profile consistent with that seen in the global PIONEER trials. ClinicalTrials.gov NCT04109547. Novo Nordisk A/S.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpubh.2024.1344019
+- DOI: 10.1007/s00125-024-06142-3
 
 2. Keywords
-- active video game
-- exergame
-- fall prevention
-- falls
-- older adults
-- sheltered housing
-- strength and balance
-- telecare
+- China
+- GLP-1 analogue
+- Glycaemic control
+- Incretin therapy
+- Phase III
+- Semaglutide
+- Type 2 diabetes
 
 3. Key Findings
-- Individual domains for the System Usability Scores (SUS) showed participants felt `very confident' using the system with support (70%), would `like to use exergames frequently' (50%) and found the system `easy to use' (90%)
-- Qualitative data indicated exergames were well received and highlighted motivational and social aspects; costs and set up
+- Findings extraction requires manual review
 
 This study provides insights into:
-- active video game assessment methods and outcomes
-- exergame assessment methods and outcomes
-- fall prevention assessment methods and outcomes
+- China assessment methods and outcomes
+- GLP-1 analogue assessment methods and outcomes
+- Glycaemic control assessment methods and outcomes

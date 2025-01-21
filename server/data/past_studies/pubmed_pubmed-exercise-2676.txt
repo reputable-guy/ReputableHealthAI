@@ -1,28 +1,25 @@
-Study Title: Exploring Responsiveness to Highly Challenging Balance and Gait Training in Parkinson's Disease.
+Study Title: Crossover effect of knee and ankle joint training on knee mechanics after ACL reconstruction: A randomized controlled trial.
 
 Study Summary:
-Exercise potentially improves gait, balance, and habitual physical activity in Parkinson's disease (PD). However, given the heterogeneous nature of the disease, it is likely that people respond differently to exercise interventions. Factors determining responsiveness to exercise interventions remain unclear. To address this uncertainty, we explored the responsiveness to our highly challenging balance and gait intervention (HiBalance) in people with PD. Thirty-nine participants with mild-moderate PD who underwent the HiBalance intervention from our randomized controlled trial were included. We defined response in three domains: (1) balance based on Mini-BESTest, (2) gait based on gait velocity, and (3) physical activity based on accelerometry-derived steps per day. In each domain, we explored three responsiveness levels: high, low, or non-responders according to the change from pre- to post-intervention. Separate Random Forests for each responder domain classified these responsiveness levels and identified variable importance. Only the Random Forest for the balance domain classified all responsiveness levels above the chance level indicated by a Cohen's kappa of "slight" agreement. Variable importance differed among the responsiveness levels. Slow gait velocity indicated high responders in the balance domain but showed low probabilities for low and non-responders. For low and non-responders, fall history or no falls, respectively, were more important. Among three responder domains and responsiveness levels, we could moderately classify responders in the balance domain, but not for the gait or physical activity domain. This can guide inclusion criteria for balance-targeted, personalized intervention studies in people with PD.
+Anterior cruciate ligament (ACL) rehabilitation is a common intervention after ACL reconstruction. Since different types of exercise can influence muscle and kinematic parameters in diverse ways, the training order between the knee and ankle joints may also change gait parameters. This study aimed to investigate whether the training sequence of the knee and ankle joints (knee followed by ankle training or vice-versa) in an ACL reconstruction (ACLR) rehabilitation program has any effects on knee extension and flexion torques. Forty-two men (aged 20-30 years) with ACLR participated in this study. They were randomly allocated to receive one of two interventions: (A) knee joint training followed by ankle training or (B) ankle joint training followed by knee training. After five weeks (four weeks of intervention and one-week washout), participants crossed from one group to another for an additional four weeks. Knee extension and flexion torques were assessed during the stance phase of the gait cycle before and after the intervention program. Two-way Mixed-design MANOVA showed that knee extension torque improved significantly in both groups after training (p = 0.001, Cohen's D = 0.65), while the knee flexion torque increased significantly only in group B (p= 0.001, Cohen's D = 0.97). When comparing both groups, patients of group B presented significant improvements in the post-training mean values of all tested variables compared with group A. Starting a post-ACLR rehabilitation program with ankle training followed by knee training is better to improve knee flexion and extension torques during the stance phase of the gait cycle than starting the program by training the knee first, followed by the ankle. Future studies using a mixed-gender sample and different types of ACLR operations are necessary to examine whether similar improvements will happen as well as to test their effects on many sports activities.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/mdc3.14194
+- DOI: 10.1016/j.gaitpost.2024.08.011
 
 2. Keywords
-- Parkinson's disease
-- Random Forest
-- balance
-- gait
-- physical activity
-- responder
+- ACL rehabilitation
+- Anterior cruciate ligament reconstruction
+- Gait
+- Kinetics
 
 3. Key Findings
-- Only the Random Forest for the balance domain classified all responsiveness levels above the chance level indicated by a Cohen's kappa of "slight" agreement
-- Slow gait velocity indicated high responders in the balance domain but showed low probabilities for low and non-responders
+- Two-way Mixed-design MANOVA showed that knee extension torque improved significantly in both groups after training (p = 0
 
 This study provides insights into:
-- Parkinson's disease assessment methods and outcomes
-- Random Forest assessment methods and outcomes
-- balance assessment methods and outcomes
+- ACL rehabilitation assessment methods and outcomes
+- Anterior cruciate ligament reconstruction assessment methods and outcomes
+- Gait assessment methods and outcomes

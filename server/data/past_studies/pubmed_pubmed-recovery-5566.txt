@@ -1,25 +1,20 @@
-Study Title: [Influence of Postoperative Diet Type and Regimen on Hospital Comfort&#x2029;and Rehabilitation of Lung Cancer Patients].
+Study Title: A Phase I Study To Determine the Absolute Bioavailability and Absorption, Distribution, Metabolism, and Excretion of Capivasertib in Healthy Male Participants.
 
 Study Summary:
-A reasonable and standardized dietary plan and procedure can help patients recovering quickly from lung cancer surgery. The aim of this study is to optimize the diet plan and procedure mainly based on medium chain triglyceride (MCT) diet and explore its clinical advantages for postoperative lung cancer patients. From October 2023 to December 2023, a total of 156 patients were collected, who underwent lung cancer surgery in Lung Cancer Center, West China Hospital of Sichuan University. The patients were randomized into MCT group (76 cases) and routine diet (RD) group (80 cases). Clinical symptoms, biochemical index, postoperative hospitalization time and cost, dietary satisfaction and hospitalization comfort between the two groups were analyzed. The mean anus exhausting time in MCT group [24.00 (9.75, 36.97) h] was significantly shorter than that in RD group [28.50 (24.00, 48.00) h] (P<0.001). And the incidence of dizziness (18.42%), nausea and vomiting (6.58%) in MCT group were remarkably lower than those in RD group (51.25%, 31.25%) (P<0.001). Hospitalization comfort score in MCT group [(16.74&#xb1;1.70)] was significantly higher than that in RD group [(14.83&#xb1;2.34)] (P=0.016). Meanwhile, the average hospitalization cost in MCT group [(39,701.82&#xb1;8105.47)&#xa5;] showed an obvious decrease compared with RD group [(44,511.79&#xb1;9593.19)&#xa5;] (P=0.007). Optimizing the dietary plan and procedure mainly based on MCT diet for postoperative lung cancer patients can help the recovery of gastrointestinal function and improve hospitalization comfort, which promoted overall postoperative rehabilitation of patients with lung cancer surgery.
+An open-label, single-center, phase I study was conducted to determine the absolute bioavailability and absorption, distribution, metabolism, and excretion of capivasertib-a potent, selective AKT serine/threonine kinase inhibitor-in healthy males. In part 1, six participants received a single oral dose of capivasertib (400 mg; tablets) followed by a [C]-radiolabeled intravenous microdose of capivasertib (100g). After a 14-day washout, five of the participants proceeded to part 2 and received a single oral dose of [C]capivasertib (400 mg; solution). In part 1, median time of maximum observed concentration for capivasertib was 1.7 hours, geometric mean terminal elimination half-life was 12.9 hours, and absolute bioavailability was estimated at 28.6% (90% confidence interval, 23.9 to 34.2). In part 2, a high proportion of the administered radioactivity was recovered over the 168-hour sampling period [mean recovery: 95.1% (feces, 50.4%; urine, 44.7%)]. Unchanged capivasertib in urine accounted for 7.4% of the total dose and 21.1% of the systemically available drug. Geometric mean renal clearance was 8.3 L/h, suggesting active tubular secretion. Twelve metabolites were identified in plasma. M11 (AZ14102143)-the glucuronide conjugate of capivasertib, inactive as an AKT serine/threonine kinase inhibitor-was the most abundant, accounting for a mean 78.4% of the plasma drug-related area under the curve. Of 22 metabolites identified in excreta, M11 was the most abundant (mean 28.2% of administered dose), indicating direct glucuronidation as one of the major routes of metabolism. No new safety concerns were identified. SIGNIFICANCE STATEMENT: This study provides characterization of the pharmacokinetics of capivasertib-a potent, selective AKT serine/threonine kinase (AKT) inhibitor-including absolute bioavailability, mass balance, and metabolic fate in humans; the findings are being used to inform further clinical development. Absolute bioavailability was estimated at 28.6%, and mean recovery of the administered dose in excreta over 168 hours was 95.1%. M11 (AZ14102143)-the glucuronide conjugate, inactive as an AKT inhibitor-was the most abundant identified metabolite in plasma and excreta.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3779/j.issn.1009-3419.2024.102.21
+- DOI: 10.1124/dmd.124.001636
 
 2. Keywords
-- Dietary satisfaction
-- Hospitalization comfort
-- Lung neoplasms
-- Medium chain triglyceride diet
+
 
 3. Key Findings
-- 47)&#xa5;] showed an obvious decrease compared with RD group [(44,511
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Dietary satisfaction assessment methods and outcomes
-- Hospitalization comfort assessment methods and outcomes
-- Lung neoplasms assessment methods and outcomes
+- General research methodology and outcomes

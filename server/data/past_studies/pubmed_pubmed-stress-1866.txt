@@ -1,20 +1,26 @@
-Study Title: Clinical effectiveness and cost-effectiveness of a brief accessible cognitive behavioural therapy programme for stress in school-aged adolescents (BESST): a cluster randomised controlled trial in the UK.
+Study Title: A lifestyle physical activity intervention for women in alcohol treatment: A pilot randomized controlled trial.
 
 Study Summary:
-Depression and anxiety are increasingly prevalent in adolescents. The Brief Educational Workshops in Secondary Schools Trial investigated the effectiveness of a brief accessible stress workshop programme for 16-18-year-olds. We aimed to investigate the clinical effectiveness and cost-effectiveness of the DISCOVER cognitive behavioural therapy (CBT) workshop on symptoms of depression in 16-18-year-olds at 6 months compared with treatment-as-usual. We conducted a multicentre, cluster randomised controlled trial in UK schools or colleges with sixth forms to evaluate clinical effectiveness and cost-effectiveness of a brief CBT workshop (DISCOVER) compared with treatment-as-usual. We planned to enrol 60 schools and 900 adolescents, using a self-referral system to recruit participants. Schools were randomised in a 1:1 ratio for participants to receive either the DISCOVER workshop or treatment-as-usual, stratified by site and balanced on school size and index of multiple deprivation. Participants were included if they were 16-18 years old, attending for the full school year, seeking help for stress, and fluent in English and able to provide written informed consent. The outcome assessors, senior health economist, senior statistician, and chief investigator were masked. People with lived experience were involved in the study. The primary outcome was depression symptoms measured with the Mood and Feelings Questionnaire (MFQ) at 6-month follow-up, in the intention-to-treat population of all participants with full covariate data. The trial was registered with the ISRCTN registry (ISRCTN90912799). 111 schools were invited to participate in the study, seven were deemed ineligible, and 47 did not provide consent. Between Oct 4, 2021, and Nov 10, 2022, 933 students at 57 schools were screened for eligibility, seven were not eligible for inclusion, and 26 did not attend the baseline meeting and assessment, resulting in 900 adolescents participating in the study. The DISCOVER group included 443 participants (295 [67%] female and 136 [31%] male) and the treatment-as-usual group included 457 participants (346 [76%] female and 92 [20%] male). 468 (52%) of the 900 participants were White, and the overall age of the participants was 17&#xb7;2 years (SD 0&#xb7;6). 873 (97%) adolescents were followed up in the intention-to-treat population. The primary intention-to-treat analysis (n=854) found an adjusted mean difference in MFQ of -2&#xb7;06 (95% CI -3&#xb7;35 to -0&#xb7;76; Cohen's d=-0&#xb7;17; p=0&#xb7;0019) at the 6-month follow-up, indicating a clinical improvement in the DISCOVER group. The probability that DISCOVER is cost- effective compared with treatment-as-usual ranged from 61% to 78% at a &#xa3;20&#x2009;000 to &#xa3;30&#x2009;000 per quality-adjusted life-year threshold. Nine adverse events (two of which were classified as serious) were reported in the DISCOVER group and 14 (two of which were classified as serious) were reported in the treatment-as-usual group. Our findings indicate that the DISCOVER intervention is modestly clinically effective and economically viable and could be a promising early intervention in schools. Given the importance of addressing mental health needs early in this adolescent population, additional research is warranted to explore this intervention. National Institute for Health and Care Research Health Technology Assessment Programme.
+Compared to men, women with alcohol use disorder (AUD) are more likely to drink to manage stress and negative affect. Given women's risk for poor drinking outcomes, it is critical to develop and test interventions that target these affective factors. Physical activity improves negative affect and has emerged as a promising adjunct to AUD treatment and, thus, may be especially valuable for women. Fifty women with AUD (49.9&#xa0;&#xb1;&#xa0;12.0&#xa0;years of age) participated in either a 12-week telephone-delivered lifestyle physical activity plus Fitbit (LPA&#xa0;+&#xa0;Fitbit) or a health education contact (HEC) control intervention following a partial hospital addictions treatment program. The study examined changes in drinking behaviors, mental health outcomes, and physical activity engagement post-intervention using both conventional test statistics and standard effect sizes. Higher rates of continuous abstinence during the 12-week period were observed in the LPA&#xa0;+&#xa0;Fitbit condition (55.6&#xa0;%) than in the HEC condition (33.6&#xa0;%); odds ratio&#xa0;=&#xa0;2.97. However, among women who drank any alcohol during the 12-weeks, slightly higher rates of heavy drinking and drinks/day were observed among women in the LPA&#xa0;+&#xa0;Fitbit condition. Significant differences for improved mental health outcomes (including depression, anxiety, negative affect, positive affect, perceived stress, and behavioral activation) and increased self-reported physical activity were consistently observed among participants in the LPA&#xa0;+&#xa0;Fitbit condition, relative to HEC. The LPA&#xa0;+&#xa0;Fitbit program had a positive impact on alcohol abstinence, mental health, and physical activity in adult women receiving treatment for AUD. Future research should continue to investigate the optimal implementation strategies, duration, and intensity of LPA interventions in the context of a fully-powered RCT.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/S2215-0366(24)00101-9
+- DOI: 10.1016/j.josat.2024.209406
 
 2. Keywords
-
+- Alcohol craving
+- Depression
+- Drinking outcomes
+- Physical activity
+- Women
 
 3. Key Findings
-- The primary intention-to-treat analysis (n=854) found an adjusted mean difference in MFQ of -2&#xb7;06 (95% CI -3&#xb7;35 to -0&#xb7;76; Cohen's d=-0&#xb7;17; p=0&#xb7;0019) at the 6-month follow-up, indicating a clinical improvement in the DISCOVER group
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Alcohol craving assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Drinking outcomes assessment methods and outcomes

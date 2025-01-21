@@ -1,25 +1,30 @@
-Study Title: Efficacy of oropharyngeal exercises as an adjuvant therapy for obstructive sleep apnea: A randomized controlled trial.
+Study Title: The impact of obstructive sleep apnea treatment on microvascular complications in patients with type 2 diabetes: a feasibility randomized controlled trial.
 
 Study Summary:
-Some patients with mild-to-moderate obstructive sleep apnea (OSA) undergoing mandibular advancement device (MAD) therapy may exhibit residual sleep-breathing abnormalities. These cases require adjunctive treatment to further reduce the remaining airway inadequacy, which may affect the health and quality of life. This clinical trial was conducted since the oropharyngeal exercise, which aims to enhance the muscular function of the upper airway, combined with MAD, is unknown. We assessed the possible improvements in respiratory event parameters and lip and tongue physiological properties in patients with OSA who received oropharyngeal exercises for 2 months as an adjunct to MAD therapy. Twenty-three participants with OSA who had been using MAD but still had residual apnea-hypopnea were randomly allocated to either the oropharyngeal exercise (OE group; N=12) or the sham exercise group (N=11). Lip and tongue strength, endurance, daytime sleepiness, respiratory event index (REI), and the lowest oxygen saturation (SpOnadir) were determined. Within and between the treatment groups, no significant improvement in the REI or SpOnadir was found. In both groups, there was a significant reduction in the Epworth Sleepiness Scale at 2 months (OE, P = 0.02; control, P = 0.02). In the OE group, lip endurance (P = 0.03), anterior tongue strength (P = 0.02), and endurance (P = 0.02) increased after 2-month of exercise, but only anterior tongue endurance increased significantly compared with the sham control (P = 0.01). This study found that adjunctive OE to MAD showed no additive effect in treating patients with moderate OSA who had a mild residual apnea-hypopnea index following MAD treatment. However, the exercises successfully enhanced lip and anterior tongue endurance, as well as anterior tongue strength.
+Obstructive sleep apnea (OSA) is associated with an increased risk of diabetes-related complications. Hence, it is plausible that continuous positive airway pressure (CPAP) could have a favorable impact on these complications. We assessed the feasibility of conducting a randomized control trial in patients with type 2 diabetes and OSA over 2&#x2009;years. We conducted an open-label multicenter feasibility randomized control trial of CPAP vs no CPAP in patients with type 2 diabetes and OSA. Patients with resting oxygen saturation < 90%, central apnea index > 15 events/h, or Epworth Sleepiness Scale &#x2265; 11 were excluded. OSA was diagnosed using a multichannel portable device (ApneaLink Air, ResMed). The primary outcome measures were related to feasibility and the secondary outcomes were changes in various clinical and biochemical parameters related to diabetes outcomes. Eighty-three (40 CPAP vs 43 no CPAP) patients were randomly assigned, with a median (interquartile range) follow-up of 645 (545, 861) days. CPAP compliance was inadequate, with a median usage of approximately 3.5&#x2009;hours/night. Early CPAP use predicted longer-term compliance. The adjusted analysis showed a possible favorable association between being randomly assigned to CPAP and several diabetes-related end points (chronic kidney disease, neuropathy, and quality of life). It was feasible to recruit, randomly assign, and achieve a high follow-up rate over 2&#x2009;years in patients with OSA and type 2 diabetes. CPAP compliance might improve by a run-in period before randomization. A full randomized control trial is necessary to assess the observed favorable association between CPAP and chronic kidney disease , neuropathy, and quality of life in patients with type 2 diabetes. Registry: ISRCTN; Name: The impact of sleep disorders in patients with type 2 diabetes; URL: https://www.isrctn.com/ISRCTN12361838; Identifier: ISRCTN12361838. Makhdom EA, Maher A, Ottridge R, et&#xa0;al. The impact of obstructive sleep apnea treatment on microvascular complications in patients with type 2 diabetes: a feasibility randomized controlled trial.. 2024;20(6):947-957.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2186/jpr.JPR_D_23_00041
+- DOI: 10.5664/jcsm.11020
 
 2. Keywords
-- Mandibular advancement device
-- Obstructive sleep apnea
-- Orofacial myotherapy
+- adherence
+- continuous positive airway pressure
+- feasibility
+- nephropathy
+- neuropathy
+- obstructive sleep apnea
+- quality of life
+- retinopathy
+- type 2 diabetes
 
 3. Key Findings
-- Within and between the treatment groups, no significant improvement in the REI or SpOnadir was found
-- This study found that adjunctive OE to MAD showed no additive effect in treating patients with moderate OSA who had a mild residual apnea-hypopnea index following MAD treatment
+- The adjusted analysis showed a possible favorable association between being randomly assigned to CPAP and several diabetes-related end points (chronic kidney disease, neuropathy, and quality of life)
 
 This study provides insights into:
-- Mandibular advancement device assessment methods and outcomes
-- Obstructive sleep apnea assessment methods and outcomes
-- Orofacial myotherapy assessment methods and outcomes
+- adherence assessment methods and outcomes
+- continuous positive airway pressure assessment methods and outcomes
+- feasibility assessment methods and outcomes

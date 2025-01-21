@@ -1,21 +1,20 @@
-Study Title: Effect of Nutrition and Behavior Modification Program (NBMP) on maternal and neonatal outcomes among hyperglycemic mothers.
+Study Title: Randomised clinical trial: First-line infliximab biosimilar is cost-effective compared to conventional treatment in paediatric Crohn's disease.
 
 Study Summary:
-Hyperglycemic mothers and their offspring are at increased risk of various maternal and neonatal complications such as macrosomia, future type 2 diabetes, and metabolic abnormalities. Early diagnosis and individualized dietary management, exercise, and emotional well-being are expected to reduce these risks. The study aims to identify the effect of the Nutrition and Behavior Modification Program (NBMP) on maternal and neonatal outcomes of hyperglycemic mothers. A pre-experimental study was performed among 89 hyperglycemic mothers. Glycemic control at 28 and 36 weeks, weight gain during pregnancy, pre-eclampsia, pregnancy-induced hypertension (PIH), mode of delivery, duration of exercise, emotional well-being, neonates' birth weight, incidence of hypoglycemia, and NICU admission were compared among the study and control groups. The intervention group received an individualized NBMP from their diagnosis of hyperglycemia until delivery. The results showed a significant difference in blood glucose between the study periods and groups at p<0.05 as per repeated ANOVA. Also, diet scores had a significant influence on BMI and glycemic control at p<0.05. Logistic regression models, adjusted for potential confounders including baseline blood glucose, age, economic status, previous GDM, family history of DM as well as baseline BMI, diet score, physical activity, and maternal well-being score, indicated that the NBMP reduced the blood glucose and BMI significantly at p<0.05 in the study group. NBMP also reduced the risk of SGA/LGA and preterm/post-mature birth, as well as increased the exercise duration and emotional well-being of mothers. The study's conclusions draw attention to the possible roles that maternal wellness, physical activity, and diet may have in reducing risks for both hyperglycemic mothers and their newborns. The NBMP resulted in higher adherence to lifestyle changes. Further research on a larger sample of hyperglycemic mothers is recommended to expand the generalizability of the findings.
+Data on cost-effectiveness of first-line infliximab in paediatric patients with Crohn's disease are limited. Since biologics are increasingly prescribed and accompanied by high costs, this knowledge gap needs to be addressed. To investigate the cost-effectiveness of first-line infliximab compared to conventional treatment in children with moderate-to-severe Crohn's disease. We included patients from the Top-down Infliximab Study in Kids with Crohn's disease randomised controlled trial. Children with newly diagnosed moderate-to-severe Crohn's disease were treated with azathioprine maintenance and either five induction infliximab (biosimilar) infusions or conventional induction treatment (exclusive enteral nutrition or corticosteroids). Direct healthcare consumption and costs were obtained per patient until week 104. This included data on outpatient hospital visits, hospital admissions, drug costs, endoscopies and surgeries. The primary health outcome was the odds ratio of being in clinical remission (weighted paediatric Crohn's disease activity index<12.5) during 104&#x2009;weeks. We included 89 patients (44 in the first-line infliximab group and 45 in the conventional treatment group). Mean direct healthcare costs per patient were &#x20ac;36,784 for first-line infliximab treatment and &#x20ac;36,874 for conventional treatment over 2&#x2009;years (p&#x2009;=&#x2009;0.981). The odds ratio of first-line infliximab versus conventional treatment to be in clinical remission over 104&#x2009;weeks was 1.56 (95%CI 1.03-2.35, p&#x2009;=&#x2009;0.036). First-line infliximab treatment resulted in higher odds of being in clinical remission without being more expensive, making it the dominant strategy over conventional treatment in the first 2&#x2009;years after diagnosis in children with moderate-to-severe Crohn's disease. NCT02517684.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.26355/eurrev_202404_35903
+- DOI: 10.1111/apt.18000
 
 2. Keywords
 
 
 3. Key Findings
-- The results showed a significant difference in blood glucose between the study periods and groups at p<0
-- Logistic regression models, adjusted for potential confounders including baseline blood glucose, age, economic status, previous GDM, family history of DM as well as baseline BMI, diet score, physical activity, and maternal well-being score, indicated that the NBMP reduced the blood glucose and BMI significantly at p<0
+- Findings extraction requires manual review
 
 This study provides insights into:
 - General research methodology and outcomes

@@ -1,27 +1,28 @@
-Study Title: The impact of a "clinical adaptation psychoeducation program" grounded in the psychological flexibility model on perceived stress and coping behaviors among nursing students: A randomized controlled experimental study.
+Study Title: Protocol implementation during the COVID-19 pandemic: experiences from a randomized trial of stress ulcer prophylaxis.
 
 Study Summary:
-The clinical adaptation psychoeducation program grounded psychological flexibility model (PFMCAP) is consisting of six areas, fills a large gap in the literature regarding the effect of nursing students on perceived stress and coping behaviors in the clinical process. To determine the effect of PFMCAP on perceived stress and coping behaviors of nursing students. This was a simple randomized controlled experimental pre-posttest design. This study was conducted with 66 first-year students studying in the nursing department of a university in T&#xfc;rkiye. A simple randomization method (computer-generated random number table) was used. Data were collected with "Sociodemographic Data Form", "Perceived Stress Scale for Nursing Students (PSSNS)" and "Stress-Coping Behaviors Scale for Nursing Students (SCBNS)". PFMCAP was conducted online with first-year nursing students, consisting of a total of six sessions, each lasting 90&#xa0;min. Data were analyzed using percentiles and frequency distributions, and two-way mixed ANOVA one week after the completion of the PFMCAP. There was no significant difference between the groups of descriptive characteristics (p&#xa0;>&#xa0;0.05). Post-test measurements of students in the experimental group's PSSNS total and sub-dimension scores had a significant decrease compared to the control group (p&#xa0;<&#xa0;0.001). There was no significant difference between the groups in the post-test SCBNS total scores of the students (p&#xa0;>&#xa0;0.05). However, there was a significant increase in the post-test SCBNS-Staying Optimistic sub-dimension scores in the experimental group (p&#xa0;<&#xa0;0.001). The impact of PFMCAP on nursing students' perceived stress levels was not limited to only reducing stress levels; it also contributed to an increase in the students' levels of optimism. These findings demonstrate the potential of PFMCAP in supporting nursing students during the clinical adaptation process. It is observed that the integration of PFMCAP into nursing education could assist nursing students in better adapting to clinical practices and effectively managing stress.
+During the COVID-19 pandemic, many intensive care units (ICUs) halted research to focus on COVID-19-specific studies. To describe the conduct of an international randomized trial of stress ulcer prophylaxis (Re-Evaluating the Inhibition of Stress Erosions in the ICU [REVISE]) during the pandemic, addressing enrolment patterns, center engagement, informed consent processes, data collection, a COVID-specific substudy, patient transfers, and data monitoring. REVISE is a randomized trial among mechanically ventilated patients, comparing pantoprazole 40&#xa0;mg IV to placebo on the primary efficacy outcome of clinically important upper gastrointestinal bleeding and the primary safety outcome of 90-day mortality. We documented protocol implementation status from March 11th 2020-August 30th 2022. The Steering Committee did not change the scientific protocol. From the first enrolment on July 9th 2019 to March 10th 2020 (8&#xa0;months preceding the pandemic), 267 patients were enrolled in 18 centers. From March 11th 2020-August 30th 2022 (30&#xa0;months thereafter), 41 new centers joined; 59 were participating by August 30th 2022 which enrolled 2961 patients. During a total of 1235 enrolment-months in the pandemic phase, enrolment paused for 106 (8.6%) months in aggregate (median 3&#xa0;months, interquartile range 2;6). Protocol implementation involved a shift from the a priori consent model pre-pandemic (188, 58.8%) to the consent to continue model (1615, 54.1%, p&#x2009;<&#x2009;0.01). In one new center, an opt-out model was approved. The informed consent rate increased slightly (80.7% to 85.0%, p&#x2009;=&#x2009;0.05). Telephone consent encounters increased (16.6% to 68.2%, p&#x2009;<&#x2009;0.001). Surge capacity necessitated intra-institutional transfers; receiving centers continued protocol implementation whenever possible. We developed a nested COVID-19 substudy. The Methods Centers continued central statistical monitoring of trial metrics. Site monitoring was initially remote, then in-person when restrictions lifted. Protocol implementation adaptations during the pandemic included a shift in the consent model, a sustained high consent rate, and launch of a COVID-19 substudy. Recruitment increased as new centers joined, patient transfers were optimized, and monitoring methods were adapted.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.nedt.2024.106230
+- DOI: 10.1186/s12874-024-02233-2
 
 2. Keywords
-- Clinical compliance
-- Coping behavior
-- Nursing students
-- Perceived stress
-- Psychoeducation
-- Psychological flexibility model
+- COVID-19 Pandemic
+- Critically ill
+- Gastrointestinal bleeding
+- Hospital transfers
+- Randomization
+- Stress ulceration
+- Ventilator-associated pneumonia
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Clinical compliance assessment methods and outcomes
-- Coping behavior assessment methods and outcomes
-- Nursing students assessment methods and outcomes
+- COVID-19 Pandemic assessment methods and outcomes
+- Critically ill assessment methods and outcomes
+- Gastrointestinal bleeding assessment methods and outcomes

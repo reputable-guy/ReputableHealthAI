@@ -1,26 +1,20 @@
-Study Title: Impact of cannabidiol on myocardial recovery in patients with acute myocarditis: Rationale & design of the ARCHER trial.
+Study Title: Pharmacokinetics, Mass Balance, Safety, and Tolerability of Obeldesivir in Healthy Participants.
 
 Study Summary:
-Acute myocarditis, although a rare disease, can be associated with sudden cardiac death or the need for transplantation in both children and young adults. To date, there is no definitive evidence to support the routine use of immunosuppressive therapy or treatment targeting inflammation in patients with myocarditis. Animal models of cardiovascular (CV), as well as neurological diseases, have demonstrated that cannabidiol has significant anti-inflammatory properties and may represent a promising therapy in acute myocarditis. This efficacy has been shown in a murine model of autoimmune myocarditis as well as in in vitro and in vivo models of heart failure (HF). We present the rationale and design of the ARCHER Trial, an international multicentre, double-blind, randomized, placebo-controlled, phase II study examining the safety and efficacy of a pharmaceutically produced cannabidiol formulation, in patients with mild to moderate acute myocarditis. Eligible patients are those with acute myocarditis, randomized within 10&#xa0;days of the diagnostic cardiac MRI (CMR), which has met defined diagnostic criteria for myocarditis. Oral treatment (cannabidiol or placebo) is titrated from 2.5&#xa0;mg/kg of body weight up to 10&#xa0;mg/kg of body weight b.i.d. (or highest tolerated dose) and taken for 12&#xa0;weeks in addition to standard of care therapy for HF. The primary endpoints are defined as changes in global longitudinal strain (GLS) and extra cellular volume (ECV), measured by CMR at 12&#xa0;weeks. Assuming 80% power, a 5% alpha risk and 25% missing CMR follow-up data at Week 12, 100 patients are required to demonstrate the desired treatment effect of 18%. The change in left ventricular ejection fraction (LVEF) from baseline to Week 12 was selected as the secondary endpoint. Additional exploratory endpoints include changes in hs-troponin, NT-proBNP, markers of inflammation and endothelial function during the 12-week treatment period. The trial is ongoing but is now more than 50% recruited. As enrolment in the trial continues, no interim data are available for inclusion in this Design paper. The ongoing ARCHER Trial is an international, multicentre, double-blind, randomized, placebo-controlled phase II study, designed to determine the effect of a pharmaceutically produced cannabidiol formulation on CMR parameters in patients presenting with acute myocarditis. Enrolment of 100 patients is expected to conclude in Q3 2024. Study results will be available in early 2025.
+There is an unmet need for safe and efficacious oral therapies for COVID-19 with low potential for drug-drug interactions. Obeldesivir is an orally administered nucleoside prodrug that has shown antiviral potency in nonclinical studies against SARS-CoV-2 and its circulating variants. Obeldesivir is metabolized to the active nucleoside triphosphate (GS-443902), which acts as an inhibitor of the SARS-CoV-2 RNA-dependent RNA polymerase, thereby inhibiting viral RNA synthesis. Here, we report the safety, tolerability, and pharmacokinetics from a first-in-human, randomized, placebo-controlled, phase I study following oral administration of obeldesivir and a phase I, open-label absorption, distribution, metabolism, and excretion study following oral administration of [C]-obeldesivir. Overall, obeldesivir was safe and well tolerated at single and multiple doses between 100 and 1,600&#x2009;mg, with low potential for QT prolongation as assessed by QT-concentration analysis. The exposures to GS-441524 increased dose proportionally in the 100-900-mg dose range. GS-441524 accumulated by 35% after twice-daily and 12% after once-daily dosing for 5&#x2009;days. Dose-proportional increases in the intracellular concentration of GS-443902 were also observed in peripheral blood mononuclar cells. Plasma exposure of GS-441524 was not significantly altered by food intake. Following oral administration of [C]-obeldesivir (500&#x2009;mg; 100&#x2009;&#x3bc;Ci), the mean cumulative [C]-dose recovery was 90.7% with 58.5% in urine and 32.2% in feces. GS-441524 was the predominant plasma component (90% ofC-area under the concentration-time curve) and was primarily eliminated via renal excretion. Collectively, data from these studies support selection of the obeldesivir 350&#x2009;mg twice-daily dosing regimen for further evaluation in phase III studies for COVID-19.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ehf2.14889
+- DOI: 10.1002/cpt.3337
 
 2. Keywords
-- Anti&#x2010;inflammatory
-- CMR
-- Cannabidiol
-- Myocarditis
-- Randomized trial
+
 
 3. Key Findings
-- Animal models of cardiovascular (CV), as well as neurological diseases, have demonstrated that cannabidiol has significant anti-inflammatory properties and may represent a promising therapy in acute myocarditis
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Anti&#x2010;inflammatory assessment methods and outcomes
-- CMR assessment methods and outcomes
-- Cannabidiol assessment methods and outcomes
+- General research methodology and outcomes

@@ -1,26 +1,20 @@
-Study Title: Effects of Intranasal Insulin Pretreatment on Preoperative Sleep Quality and Postoperative Delirium in Patients Undergoing Valve Replacement for Rheumatic Heart Disease.
+Study Title: Collaborative Care for Chronic Pain After Traumatic Brain Injury: A Randomized Clinical Trial.
 
 Study Summary:
-Postoperative delirium (POD) is a common neurological complication associated with valve replacement. Preoperative sleep disturbance is a risk factor for POD development, and nasal insulin modulates the sleep-wake cycle. This study investigated the beneficial effects of intranasal insulin pretreatment on preoperative sleep quality and reducing POD in patients undergoing valve replacement for rheumatic heart disease. This prospective, single-center, randomized controlled trial (RCT) included 76 adult patients aged 18-65 years undergoing valve surgery with cardiopulmonary bypass who were randomly allocated to receive intranasal insulin or normal saline interventions two days before surgery. POD incidence was on postoperative days 1 (T3), 2 (T4), and 3 (T5). Before the first intervention (T0), 1 d before surgery (T1), and before anesthesia on the day of surgery (T2), sleep quality was assessed and serum cortisol concentrations were measured. At T1 and T2, sleep quality related indicators monitored by sleep monitoring watches from the previous night were recorded. Compared with the normal saline group, 3 days after surgery, the insulin group showed a significantly reduced incidence of POD; significantly increased deep sleep, REM sleep, deep sleep continuity, and total sleep quality scores at T1 and T2; and significantly reduced serum cortisol concentration, PSQI scale, light sleep ratio, and wakefulness at T1 and T2. The administration of 20 U of intranasal insulin twice daily, from 2 days preoperatively until 10 minutes preanesthesia on the day of surgery, can improved preoperative sleep quality significantly and reduced POD incidence in patients with rheumatic heart disease undergoing valve replacement. This study was registered with the Chinese Clinical Trial Registry (www.chictr.org.cn, with the unique identifier ChiCTR2100048515; July 9, 2021).
+Chronic pain after traumatic brain injury (TBI) is prevalent and associated with poor outcomes. By providing multidisciplinary care through expert consultation, a collaborative care (CC) treatment approach may reduce pain interference. To compare CC with usual care (UC) in decreasing pain interference. This randomized clinical trial was conducted from July 2018 through April 2021 at 2 hospital-based academic rehabilitation medicine clinics in Seattle, Washington. Participants included adults with mild-to-severe TBI (at least 6 months before enrollment) and chronic pain. Data analysis was performed from March 30, 2022, to August 30, 2023. The CC intervention (called TBI Care) included up to 12 in-person or telephone visits over 16 weeks with a care manager (CM) who provided person-centered cognitive behavioral treatment. The CM met weekly with members of the expert team to review participants and discuss recommendations to optimize treatment. The primary outcome was pain interference on the Brief Pain Inventory at treatment conclusion (4 months after randomization). Secondary outcomes included pain interference at 8 months; pain severity; symptoms of depression, anxiety, and sleep disturbance; pain-related emergency department visits; community participation; and participant satisfaction. Linear mixed-effects regression was used for analysis. A total of 1379 individuals were screened for eligibility, and 158 were randomized (79 to CC and 79 to UC). The participants were mostly women (92 participants [58%]) with a mean (SD) age of 46.8 (13.2) years and a mean (SD) of 15.3 (3.0) years of education. TBI occurred a mean (SD) of 4.0 (5.9) years (median [IQR], 1.9 [0.8-4.5] years) before enrollment. All TBI severities were included, and of 149 participants for whom TBI severity was known, the majority (97 participants [65%]) had mild TBI. In the CC group, 71 participants (90%) completed at least 11 sessions, and, at 4 months, this group had significantly lower pain interference scores compared with the UC group (mean [SD], 3.46 [2.17] vs 5.03&#x2009;[2.28]). This difference was maintained at 8 months after randomization, with mean (SD) TBI care pain interference scores of 3.61 (2.22) for CC vs 4.68 (2.51) for UC. At 4 months, there was significantly lower pain severity in the CC group vs UC group (mean [SD] score, 3.63 [1.95] vs 4.90&#x2009;[1.96]), as well as symptoms of depression (mean [SD] score, 8.07 [5.34] vs 11.31&#x2009;[6.37]) and anxiety (mean [SD], 6.20 [5.17] vs 9.58 [6.00]). Satisfaction with pain treatment (mean [SD] score, 2.99&#x2009;[1.23] vs 2.52 [1.25]), clinical care (mean [SD] score, 3.28&#x2009;[1.00] vs 2.84&#x2009;[1.26]), and overall health care (mean [SD] score, 3.25 [0.88] vs 2.82 [1.00]) were significantly higher in the CC group vs the UC group; global impression of change was significantly lower in the CC group vs the UC group (mean [SD] score, 2.74 [1.02] vs 3.47&#x2009;[1.26]) (lower scores denote a better impression of change). In this randomized clinical trial of CC compared with UC for patients with TBI, CC was effective at reducing pain interference and was sustained at 8-month follow-up. Further research is needed to examine the implementation and cost-effectiveness of CC for TBI in other health care settings. ClinicalTrials.gov Identifier: NCT03523923.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/NSS.S439703
+- DOI: 10.1001/jamanetworkopen.2024.13459
 
 2. Keywords
-- intranasal insulin
-- postoperative delirium
-- preoperative sleep quality
-- rheumatic heart disease
-- valve replacement
+
 
 3. Key Findings
-- Compared with the normal saline group, 3 days after surgery, the insulin group showed a significantly reduced incidence of POD; significantly increased deep sleep, REM sleep, deep sleep continuity, and total sleep quality scores at T1 and T2; and significantly reduced serum cortisol concentration, PSQI scale, light sleep ratio, and wakefulness at T1 and T2
+- Findings extraction requires manual review
 
 This study provides insights into:
-- intranasal insulin assessment methods and outcomes
-- postoperative delirium assessment methods and outcomes
-- preoperative sleep quality assessment methods and outcomes
+- General research methodology and outcomes

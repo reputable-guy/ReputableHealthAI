@@ -1,28 +1,32 @@
-Study Title: Effects of intensive lifestyle changes on the progression of mild cognitive impairment or early dementia due to Alzheimer's disease: a randomized, controlled clinical trial.
+Study Title: Fasting and postprandial plasma metabolite responses to a 12-wk dietary intervention in tissue-specific insulin resistance: a secondary analysis of the PERSonalized glucose Optimization through Nutritional intervention (PERSON) randomized trial.
 
 Study Summary:
-Evidence links lifestyle factors with Alzheimer's disease (AD). We report the first randomized, controlled clinical trial to determine if intensive lifestyle changes may beneficially affect the progression of mild cognitive impairment (MCI) or early dementia due to AD. A 1:1 multicenter randomized controlled phase 2 trial, ages 45-90 with MCI or early dementia due to AD and a Montreal Cognitive Assessment (MoCA) score of 18 or higher. The primary outcome measures were changes in cognition and function tests: Clinical Global Impression of Change (CGIC), Alzheimer's Disease Assessment Scale (ADAS-Cog), Clinical Dementia Rating-Sum of Boxes (CDR-SB), and Clinical Dementia Rating Global (CDR-G) after 20 weeks of an intensive multidomain lifestyle intervention compared to a wait-list usual care control group. ADAS-Cog, CDR-SB, and CDR-Global scales were compared using a Mann-Whitney-Wilcoxon rank-sum test, and CGIC was compared using Fisher's exact test. Secondary outcomes included plasma A&#x3b2;42/40 ratio, other biomarkers, and correlating lifestyle with the degree of change in these measures. Fifty-one AD patients enrolled, mean age 73.5. No significant differences in any measures at baseline. Only two patients withdrew. All patients had plasma A&#x3b2;42/40 ratios <0.0672 at baseline, strongly supporting AD diagnosis. After 20 weeks, significant between-group differences in the CGIC (p=&#xa0;0.001), CDR-SB (p=&#xa0;0.032), and CDR Global (p= 0.037) tests and borderline significance in the ADAS-Cog test (p= 0.053). CGIC, CDR Global, and ADAS-Cog showed improvement in cognition and function and CDR-SB showed significantly less progression, compared to the control group which worsened in all four measures. A&#x3b2;42/40 ratio increased in the intervention group and decreased in the control group (p = 0.003). There was a significant correlation between lifestyle and both cognitive function and the plasma A&#x3b2;42/40 ratio. The microbiome improved only in the intervention group (p <0.0001). Comprehensive lifestyle changes may significantly improve cognition and function after 20 weeks in many patients with MCI or early dementia due to AD. Approved by Western Institutional Review Board on 12/31/2017 (#20172897) and by Institutional Review Boards of all sites. This&#xa0;study was registered retrospectively with clinicaltrials.gov on October 8, 2020 (NCT04606420, ID: 20172897).
+We previously showed that dietary intervention effects on cardiometabolic health were driven by tissue-specific insulin resistance (IR) phenotype: individuals with predominant muscle IR (MIR) benefited more from a low-fat, high-protein, and high-fiber (LFHP) diet, whereas individuals with predominant liver insulin resistance (LIR) benefited more from a high-monounsaturated fatty acid (HMUFA) diet. To further characterize the effects of LFHP and HMUFA diets and their interaction with tissue-specific IR, we investigated dietary intervention effects on fasting and postprandial plasma metabolite profile. Adults with MIR or LIR (40-75 y, BMI 25-40 kg/m) were randomly assigned to a 12-wk HMUFA or LFHP diet (n = 242). After the exclusion of statin use, 214 participants were included in this prespecified secondary analysis. Plasma samples were collected before (T = 0) and after (T = 30, 60, 120, and 240 min) a high-fat mixed meal for quantification of 247 metabolite measures using nuclear magnetic resonance spectroscopy. A larger reduction in fasting VLDL-triacylglycerol (TAG) and VLDL particle size was observed in individuals with MIR following the LFHP diet and those with LIR following the HMUFA diet, although no longer statistically significant after false discovery rate (FDR) adjustment. No IR phenotype-by-diet interactions were found for postprandial plasma metabolites assessed as total area under the curve (tAUC). Irrespective of IR phenotype, the LFHP diet induced greater reductions in postprandial plasma tAUC of the larger VLDL particles and small HDL particles, and TAG content in most VLDL subclasses and the smaller LDL and HDL subclasses (for example, VLDL-TAG tAUC standardized mean change [95% CI] LFHP = -0.29 [-0.43, -0.16] compared with HMUFA = -0.04 [-0.16, 0.09]; FDR-adjusted P for diet &#xd7; time = 0.041). Diet effects on plasma metabolite profiles were more pronounced than phenotype-by-diet interactions. An LFHP diet may be more effective than an HMUFA diet for reducing cardiometabolic risk in individuals with tissue-specific IR, irrespective of IR phenotype. Am J Clin Nutr 20xx;x:xx. This trial was registered at the clinicaltrials.gov registration (https://clinicaltrials.gov/study/NCT03708419?term=NCT03708419&rank=1) as NCT03708419 and CCMO registration (https://www.toetsingonline.nl/to/ccmo_search.nsf/fABRpop?readform&unids=3969AABCD9BA27FEC12587F1001BCC65) as NL63768.068.17.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13195-024-01482-z
+- DOI: 10.1016/j.ajcnut.2024.05.027
 
 2. Keywords
-- Alzheimer&#x2019;s
-- Diet
-- Exercise
-- Lifestyle medicine
-- Nutrition
-- Social support
-- Stress management
+- dietary intervention trial
+- lipoprotein metabolism
+- meal challenge test
+- metabolic phenotypes
+- metabotypes
+- personalized nutrition
+- plasma metabolomics
+- postprandial metabolism
+- precision nutrition
+- tissue-specific insulin resistance
 
 3. Key Findings
-- CGIC, CDR Global, and ADAS-Cog showed improvement in cognition and function and CDR-SB showed significantly less progression, compared to the control group which worsened in all four measures
+- We previously showed that dietary intervention effects on cardiometabolic health were driven by tissue-specific insulin resistance (IR) phenotype: individuals with predominant muscle IR (MIR) benefited more from a low-fat, high-protein, and high-fiber (LFHP) diet, whereas individuals with predominant liver insulin resistance (LIR) benefited more from a high-monounsaturated fatty acid (HMUFA) diet
+- No IR phenotype-by-diet interactions were found for postprandial plasma metabolites assessed as total area under the curve (tAUC)
 
 This study provides insights into:
-- Alzheimer&#x2019;s assessment methods and outcomes
-- Diet assessment methods and outcomes
-- Exercise assessment methods and outcomes
+- dietary intervention trial assessment methods and outcomes
+- lipoprotein metabolism assessment methods and outcomes
+- meal challenge test assessment methods and outcomes

@@ -1,21 +1,20 @@
-Study Title: The Effect of Aromatherapy with Lavender Essential Oil on the Sleep and Fatigue Level of Patients with Multiple Sclerosis in Turkey: A Randomized Controlled Trial.
+Study Title: A randomized controlled trial of alpha phase-locked auditory stimulation to treat symptoms of sleep onset insomnia.
 
 Study Summary:
-Fatigue is a common problem in patients with multiple sclerosis (MS) and is one of the most serious symptoms of the disease. Although many factors play a role in the etiology of fatigue in patients with MS, it has been reported that fatigue is caused by irregular or disrupted sleep patterns. The purpose of the study was to examine the effects of lavender oil aromatherapy on the sleep and fatigue of MS patients. The study was designed as a randomized controlled trial and was conducted in Turkey. The data of the study were collected using the Patient Description Form, Fatigue Severity Scale, and Pittsburgh Sleep Quality Index. The mean FSS score in the experimental group was 6.86 &#xb1; 0.94 before the procedure and 3.42 &#xb1; 0.85 after the procedure, the mean PSQI score was 9.45 &#xb1; 1.23 before the procedure and 6.68 &#xb1; 2.87 after the procedure, and the difference in the mean scores between the two groups was found to be statistically significant (P < 0.001). The results showed that aromatherapy with lavender essential oil has significant impacts on fatigue and sleep in MS patients. Lavender essential oil aromatherapy can be used by nurses as an independent nursing practice. It is an inexpensive, noninvasive, and reliable technique to manage fatigue in individuals with MS.
+Sleep onset insomnia is a pervasive problem that contributes significantly to the poor health outcomes associated with insufficient sleep. Auditory stimuli phase-locked to slow-wave sleep oscillations have been shown to augment deep sleep, but it is unknown whether a similar approach can be used to accelerate sleep onset. The present randomized controlled crossover trial enrolled adults with objectively verified sleep onset latencies (SOLs) greater than 30&#xa0;min to test the effect of auditory stimuli delivered at specific phases of participants' alpha oscillations prior to sleep onset. During the intervention week, participants wore an electroencephalogram (EEG)-enabled headband that delivered acoustic pulses timed to arrive anti-phase with alpha for 30&#xa0;min (Stimulation). During the Sham week, the headband silently recorded EEG. The primary outcome was SOL determined by blinded scoring of EEG records. For the 21 subjects included in the analyses, stimulation had a significant effect on SOL according to a linear mixed effects model (p&#x2009;=&#x2009;0.0019), and weekly average SOL decreased by 10.5&#x2009;&#xb1;&#x2009;15.9&#xa0;min (29.3&#x2009;&#xb1;&#x2009;44.4%). These data suggest that phase-locked acoustic stimulation can be a viable alternative to pharmaceuticals to accelerate sleep onset in individuals with prolonged sleep onset latencies. Trial Registration: This trial was first registered on clinicaltrials.gov on 24/02/2023 under the name Sounds Locked to ElectroEncephalogram Phase For the Acceleration of Sleep Onset Time (SLEEPFAST), and assigned registry number NCT05743114.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.4103/njcp.njcp_811_23
+- DOI: 10.1038/s41598-024-63385-1
 
 2. Keywords
 
 
 3. Key Findings
-- 87 after the procedure, and the difference in the mean scores between the two groups was found to be statistically significant (P < 0
-- The results showed that aromatherapy with lavender essential oil has significant impacts on fatigue and sleep in MS patients
+- Findings extraction requires manual review
 
 This study provides insights into:
 - General research methodology and outcomes

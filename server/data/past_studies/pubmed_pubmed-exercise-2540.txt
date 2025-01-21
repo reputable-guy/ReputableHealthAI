@@ -1,26 +1,27 @@
-Study Title: Effects of a multicomponent training and detraining on frailty status, physical activity level, sedentary behavior patterns and physical performance of pre-frail older adults: a randomized controlled trial.
+Study Title: Delaying post-exercise carbohydrate intake impairs next-day exercise capacity but not muscle glycogen or molecular responses.
 
 Study Summary:
-To evaluate the effects of a multicomponent training protocol and detraining on frailty status, physical activity level, sedentary behavior patterns, and physical performance in pre-frail older adults. A randomized controlled blinded trial was conducted with pre-frail older adults (74.8&#x2009;&#xb1;&#x2009;6.4&#xa0;years, 70.4% female), who were allocated to receive a multicomponent training (MulTI&#x2009;=&#x2009;16) or control group (CG&#x2009;=&#x2009;11), which received guidance to maintain their daily living habits. Assessments of the frailty phenotype, physical activity levels measured by accelerometer, and physical performance (gait speed, timed up and go, short physical performance battery) were conducted at pre-intervention, post-intervention (16&#xa0;weeks), and follow-up (6&#xa0;weeks). The effect of the intervention was analyzed using the marginal homogeneity test and the two-way ANOVA with repeated measures. All older adults who received the MulTI reversed their frailty status to non-frail (p&#x2009;<&#x2009;0.001), and after follow-up, 87.5% remained non-frail. In the CG, one older adult reversed their frailty status to non-frail and another became frail (p&#x2009;>&#x2009;0.05), maintaining this status after the follow-up period. Furthermore, only the older adults in the MulTI showed an improvement in gait speed post-intervention, which was maintained through follow-up (p&#x2009;=&#x2009;0.008). No changes were observed in the other variables. The MulTI was efficient to reverse the process of frailty and improving gait speed in pre-frail older adults. However, receiving only the MulTI was not sufficient to increase physical activity levels and reduce sedentary behavior patterns, necessitating the implementation of behavioral change strategies. ClinicalTrials.gov NCT03110419.
+To investigate how delayed post-exercise carbohydrate intake affects muscle glycogen, metabolic- and mitochondrial-related molecular responses, and subsequent high-intensity interval exercise (HIIE) capacity. In a double-blind cross-over design, nine recreationally active men performed HIIE (10&#x2009;&#xd7;&#x2009;2-min cycling, ~94% W&#x2d9;) in the fed state, on two occasions. During 0-3&#x2009;h post-HIIE, participants drank either carbohydrates ("Immediate Carbohydrate" [IC], providing 2.4&#x2009;g/kg) or water ("Delayed Carbohydrate" [DC]); total carbohydrate intake over 24 h post-HIIE was matched (~7&#x2009;g/kg/d). Skeletal muscle (sampled pre-HIIE, post-HIIE, +3 h, +8 h, +24&#x2009;h) was analyzed for whole-muscle glycogen and mRNA content, plus signaling proteins in cytoplasmic- and nuclear-enriched fractions. After 24&#x2009;h, participants repeated the HIIE protocol until failure, to test subsequent HIIE capacity; blood lactate, heart rate, and ratings of perceived effort (RPE) were measured throughout. Muscle glycogen concentrations, and relative changes, were similar between conditions throughout (p&#x2009;>&#x2009;0.05). Muscle glycogen was reduced from baseline (mean&#x2009;&#xb1;&#x2009;SD mmol/kg&#x2009;dm; IC: 409&#x2009;&#xb1;&#x2009;166; DC: 352&#x2009;&#xb1;&#x2009;76) at post-HIIE (IC: 253&#x2009;&#xb1;&#x2009;96; DC: 214&#x2009;&#xb1;&#x2009;82), +3&#x2009;h (IC: 276&#x2009;&#xb1;&#x2009;62; DC: 269&#x2009;&#xb1;&#x2009;116) and +&#x2009;8&#x2009;h (IC: 321&#x2009;&#xb1;&#x2009;56; DC: 269&#x2009;&#xb1;&#x2009;116), returning to near-baseline by +24&#x2009;h. Several genes (PGC-1&#x251;, p53) and proteins (p-ACC, p-P38 MAPK) elicited typical exercise-induced changes irrespective of condition. Delaying carbohydrate intake reduced next-day HIIE capacity (5&#x2009;&#xb1;&#x2009;3 intervals) and increased RPE (~2 ratings), despite similar physiological responses between conditions. Molecular responses to HIIE (performed in the fed state) were not enhanced by delayed post-exercise carbohydrate intake. Our findings support immediate post-exercise refueling if the goal is to maximize next-day HIIE capacity and recovery time is &#x2264;24&#x2009;h.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s41999-024-01052-4
+- DOI: 10.1111/apha.14215
 
 2. Keywords
-- Exercise
-- Frailty
-- Multicomponent training
-- Older adults
-- Sedentary behavior
+- carbohydrates
+- exercise
+- mRNA
+- muscle glycogen
+- nutrition
+- signaling
 
 3. Key Findings
-- Furthermore, only the older adults in the MulTI showed an improvement in gait speed post-intervention, which was maintained through follow-up (p&#x2009;=&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Exercise assessment methods and outcomes
-- Frailty assessment methods and outcomes
-- Multicomponent training assessment methods and outcomes
+- carbohydrates assessment methods and outcomes
+- exercise assessment methods and outcomes
+- mRNA assessment methods and outcomes

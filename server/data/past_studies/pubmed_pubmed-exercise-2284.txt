@@ -1,26 +1,25 @@
-Study Title: Impact of telephone coaching supporting a physical maintenance exercise programme for older adults at risk of falls: a randomised controlled trial.
+Study Title: Effect of hip abductors training on pelvic drop and knee valgus in runners with medial tibial stress syndrome: a randomized controlled trial.
 
 Study Summary:
-Encouraging compliance with recommended levels of exercise for older adults is a public health challenge. A minimal-resource solution is telephone coaching. Primary aim: to compare timed up and go (TUG) performance 6 months after beginning a home exercise program between a group of older individuals who received additional telephone coaching, and a control group performing the home exercise program alone. Secondary aims: to compare functional and fall-related outcomes between groups at 6 and 12 months. Multicentre, assessor-blinded, randomised, controlled, open label, prospective study. Inclusion criteria included age&#x2009;&#x2265;&#x2009;65 years, &#x2265;&#x2009;1 fall in the past year, and discharged home from hospital rehabilitation or outpatient physiotherapy. All participants received a home exercise booklet and were asked to perform a set of exercises as often as possible (daily). The coaching group additionally received a monthly telephone call (total 5 calls) from their previous physiotherapist. Primary outcome was TUG performance at 6 months. Outcomes were measured at inclusion, and at 6 and 12 months. The primary outcome was analysed using a linear mixed model adjusted for the baseline value. In total, 99 individuals were included (coaching group n&#x2009;=&#x2009;50, control group, n&#x2009;=&#x2009;49; mean [SD] age 83.1 [5.8] years and 77% women). TUG performance did not differ between groups at 6 months (adjusted difference 1.37, SE 1.32, 95% CI 1.26 to 4.01, p&#x2009;=&#x2009;0.30). Secondary outcomes did not differ between groups at 6 or 12 months except compliance to the exercise program was higher in the coaching than the control group at 6 months (adjusted difference 1.0, SE 0.5, 95% CI 0.02 to 2.0, p&#x2009;=&#x2009;0.05). The lack of difference between the groups in the time taken to complete the TUG at 6 months suggests that the monthly telephone coaching sessions did not improve the effectiveness of a home exercise programme in elderly people who had suffered at least one fall. The trial was registered on ClinicalTrials.gov (NCT02828826; 11th of july 2016, last modification 16th of September 2024).
+Medial tibial stress syndrome (MTSS) is a prevalent running-related injury that could impact athletic performance and quality of life. The purpose of the study was to investigate the effectiveness of functional hip abductor strength training on reducing contralateral pelvic drop angle (hip frontal plane projection angle), and dynamic knee valgus (knee frontal plane projection angle) in runners with medial tibial stress syndrome (MTSS). Forty male and female recreational runners were diagnosed with MTSS for at least one month. The age ranged from 25 to 35 years old, and the body mass index (BMI) ranged between (18.5 and 25&#xa0;kg/m) participated in this study. This was a single-blind, randomized controlled trial. Participants were randomized into two groups: a control group (Group A, n&#x2009;=&#x2009;20) received a selected physical therapy exercise program, and an experimental group (Group B, n&#x2009;=&#x2009;20) received the same program plus functional hip abductor strength training. Dynamic knee valgus (frontal plane projection angle) and contralateral pelvic drop angle were measured using 2D video and analyzed by Kinovea software at baseline and after 8 weeks. Mixed-effect multifactor analysis of variance (MANOVA) was conducted to compare within and between groups effects on FPPA and pelvic drop angle. After 8&#xa0;weeks, Group B exhibited a significantly decreased frontal plane projection and pelvic drop angles compared to Group A (p&#x2009;<&#x2009;0.05). Group A also demonstrated a reduced pelvic drop angle, but to a lesser extent, and their frontal plane projection angle increased. This study demonstrates that 8 weeks of functional hip abductor strength training, combined with traditional physical therapy, effectively improves lower extremity kinematics in runners with MTSS by reducing dynamic knee valgus and contralateral pelvic drop. This targeted approach likely addresses underlying muscle weakness and movement dysfunction, offering hope for potentially reducing MTSS recurrence. clinicaltrials.gov. NO: NCT05637476. Date: December 1, 2022.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12877-024-05488-y
+- DOI: 10.1186/s13018-024-05139-3
 
 2. Keywords
-- Compliance
 - Exercise
-- Falls
-- Older adults
-- Telephone coaching
+- Hip
+- Medial tibial stress syndrome
+- Running
 
 3. Key Findings
-- Findings extraction requires manual review
+- Group A also demonstrated a reduced pelvic drop angle, but to a lesser extent, and their frontal plane projection angle increased
 
 This study provides insights into:
-- Compliance assessment methods and outcomes
 - Exercise assessment methods and outcomes
-- Falls assessment methods and outcomes
+- Hip assessment methods and outcomes
+- Medial tibial stress syndrome assessment methods and outcomes

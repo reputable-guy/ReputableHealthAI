@@ -1,27 +1,20 @@
-Study Title: Assessing Changes in Motor Function and Mobility in Individuals with Parkinson's Disease After 12 Sessions of Patient-Specific Adaptive Dynamic Cycling.
+Study Title: A Multi-ingredient Supplement Reduced Markers of Muscle Damage after a Rugby Match in Collegiate Male Players.
 
 Study Summary:
-This pilot randomized controlled trial evaluated the effects of 12 sessions of patient-specific adaptive dynamic cycling (PSADC) versus non-adaptive cycling (NA) on motor function and mobility in individuals with Parkinson's disease (PD), using inertial measurement unit (IMU) sensors for objective assessment. Twenty-three participants with PD (13 in the PSADC group and 10 in the NA group) completed the study over a 4-week period. Motor function was measured using the Kinesia&#x2122; sensors and the MDS-UPDRS Motor III, while mobility was assessed with the TUG test using OPAL IMU sensors. The PSADC group showed significant improvements in MDS-UPDRS Motor III scores (= 5.165,< 0.001) and dopamine-sensitive symptoms (= 4.629,= 0.001), whereas the NA group did not improve. Both groups showed non-significant improvements in TUG time. IMU sensors provided continuous, quantitative, and unbiased measurements of motor function and mobility, offering a more precise and objective tracking of improvements over time. PSADC demonstrated enhanced treatment effects on PD motor function compared to NA while also reducing variability in individual responses. The integration of IMU sensors was essential for precise monitoring, supporting the potential of a data-driven, individualized exercise approach to optimize treatment outcomes for individuals with PD.
+Eccentric exercise and collisions that lead to muscle damage are common place among athletes. This study aimed to investigate the effect of a multi-ingredient supplement (MIS), containing the extracts of turmeric, chicken meat, and apple and ancient peat, on markers of muscle damage in collegiate male players following a rugby match. A position-matched, double-blind, randomized, and crossover design was employed in this study. Each trial consisted of a 14-day supplementation period, followed by a 15-a-side rugby match. A total of 13 participants, eight forward and five backs, with a mean height of 1.76 &#xb1; 0.08 m and a mean weight of 86.0 &#xb1; 22.8 kg, were included. Blood samples were collected before, immediately, 24 h, and 48 h after the match. Both the MIS ( P < 0.001, d = 1.86) and placebo trials ( P = 0.002, d = 1.97) exhibited a significant increase in plasma creatine kinase and lactate dehydrogenase (LDH) concentrations from the baseline immediately after the match. However, plasma creatine kinase concentration in the MIS trial was significantly lower at 24 h postmatch compared to the placebo trial ( P = 0.029, d = 0.90). Moreover, plasma LDH concentration returned to the baseline level 24 h after the match in the MIS trial, while it remained elevated in the placebo trial ( P = 0.001, d = 1.07). In either trials, the plasma tumor necrosis factor-&#x3b1; and malondialdehyde concentrations were not significantly different. In conclusion, the MIS can alleviate muscle damage markers after a rugby match without changes in inflammation and oxidative stress markers.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/s24227364
+- DOI: 10.4103/ejpi.EJPI-D-24-00074
 
 2. Keywords
-- motor control
-- movement disorders
-- neurorehabilitation
-- wearable technology
+
 
 3. Key Findings
-- The PSADC group showed significant improvements in MDS-UPDRS Motor III scores (= 5
-- Both groups showed non-significant improvements in TUG time
-- PSADC demonstrated enhanced treatment effects on PD motor function compared to NA while also reducing variability in individual responses
+- Findings extraction requires manual review
 
 This study provides insights into:
-- motor control assessment methods and outcomes
-- movement disorders assessment methods and outcomes
-- neurorehabilitation assessment methods and outcomes
+- General research methodology and outcomes

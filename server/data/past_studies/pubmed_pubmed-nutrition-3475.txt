@@ -1,30 +1,26 @@
-Study Title: Adaptation of nutritional risk screening tools may better predict response to nutritional treatment: a secondary analysis of the randomized controlled trial Effect of early nutritional therapy on Frailty, Functional Outcomes, and Recovery of malnourished medical inpatients Trial (EFFORT).
+Study Title: Music therapy and weight gain in preterm infants: Secondary analysis of the randomized controlled LongSTEP trial.
 
 Study Summary:
-Nutritional screening tools have proven valuable for predicting clinical outcomes but have failed to determine which patients would be most likely to benefit from nourishment interventions. The Nutritional Risk Screening 2002 (NRS) and the Mini Nutritional Assessment (MNA) are 2 of these tools, which are based on both nutritional parameters and parameters reflecting disease severity. We hypothesized that the adaptation of nutritional risk scores, by removing parameters reflecting disease severity, would improve their predictive value regarding response to a nutritional intervention while providing similar prognostic information regarding mortality at short and long terms. We reanalyzed data of 2028 patients included in the Swiss-wide multicenter, randomized controlled trial EFFORT (Effect of early nutritional therapy on Frailty, Functional Outcomes, and Recovery of malnourished medical inpatients Trial) comparing individualized nutritional support with usual care nutrition in medical inpatients. The primary endpoint was 30-d all-cause mortality. Although stratifying patients by high compared with low NRS score showed no difference in response to nutritional support, patients with high adapted NRS showed substantial benefit, whereas patients with low adapted NRS showed no survival benefit [adjusted hazard ratio: 0.55 [95% confidence interval (CI): 0.37, 0.80]] compared with 1.17 (95% CI: 0.70, 1.93), a finding that was significant in an interaction analysis [coefficient: 0.48 (95% CI: 0.25, 0.94), P = 0.031]. A similar effect regarding treatment response was found when stratifying patients on the basis of MNA compared with the adapted MNA. Regarding the prognostic performance, both original scores were slightly superior in predicting mortality than the adapted scores. Adapting the NRS and MNA by including nutritional parameters only improves their ability to predict response to a nutrition intervention, but slightly reduces their overall prognostic performance. Scores dependent on disease severity may best be considered prognostic scores, whereas nutritional risk scores not including parameters reflecting disease severity may indeed improve a more personalized treatment approach for nourishment interventions. The trial was registered at clinicaltrials.gov as NCT02517476.
+This study assessed the association between MT and weight gain among preterm infants hospitalized in Neonatal Intensive Care Units. Data collected during the international, randomized, Longitudinal Study of Music Therapy's Effectiveness for Premature Infants and their Caregivers (LongSTEP) study were compared between the MT group and the standard care (SC) group. Weights were recorded at birth, enrollment, and discharge. Weight percentiles, Z-scores, weight gain velocity, and extrauterine growth restriction (EUGR) were calculated. Among 201 preterm infants included, no significant differences in weight parameters (weight, weight percentiles, weight Z-scores; all p&#x2009;&#x2265;&#x2009;0.23) were found between the MT group (n&#x2009;=&#x2009;104) and the SC (n&#x2009;=&#x2009;97) group at birth, enrollment, or discharge. No statistical differences in EUGR represented by change in Z-scores from birth to discharge were recorded between MT and SC (0.8 vs. 0.7). Among perinatal parameters, younger gestational age (p&#x2009;=&#x2009;0.005) and male sex (p&#x2009;=&#x2009;0.012) were associated with increased risk of EUGR at discharge. Antenatal steroid treatment, systemic infection, bronchopulmonary dysplasia, neurological morbidities, retinopathy of prematurity, necrotizing enterocolitis, parental factors (amount of skin-to-skin care, bonding, anxiety, and depression questionnaire scores), and type of enteral nutrition&#xa0;did not significantly influence weight gain parameters (all p&#x2009;>&#x2009;0.05). In the LongSTEP study, MT for preterm infants and families was not associated with better weight parameters compared to the SC group. The degree of prematurity remains the main risk factor for unfavorable weight parameters.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ajcnut.2024.01.013
+- DOI: 10.1002/jpn3.12061
 
 2. Keywords
-- clinical outcome
-- disease-related malnutrition
-- mortality
-- nutritional risk screening
-- nutritional support
-- personalized nutrition
-- polymorbid medical inpatient
-- treatment response
+- Z-score
+- extrauterine growth restriction
+- music therapy
+- preterm infants
+- weight gain
 
 3. Key Findings
-- Although stratifying patients by high compared with low NRS score showed no difference in response to nutritional support, patients with high adapted NRS showed substantial benefit, whereas patients with low adapted NRS showed no survival benefit [adjusted hazard ratio: 0
-- A similar effect regarding treatment response was found when stratifying patients on the basis of MNA compared with the adapted MNA
+- 23) were found between the MT group (n&#x2009;=&#x2009;104) and the SC (n&#x2009;=&#x2009;97) group at birth, enrollment, or discharge
 
 This study provides insights into:
-- clinical outcome assessment methods and outcomes
-- disease-related malnutrition assessment methods and outcomes
-- mortality assessment methods and outcomes
+- Z-score assessment methods and outcomes
+- extrauterine growth restriction assessment methods and outcomes
+- music therapy assessment methods and outcomes

@@ -1,28 +1,26 @@
-Study Title: Cognitive analytic therapy for the treatment of post-traumatic stress disorder: a randomized controlled trial.
+Study Title: Kinesio Taping as an alternative therapy for limited mandibular mobility with pain in female patients with temporomandibular disorders: A randomized controlled trial.
 
 Study Summary:
-Post-traumatic stress disorder represents a multifaceted clinical entity with a profound impact on mental health. This study was conducted to evaluate the effects of cognitive analytic therapy on the manifestations of post-traumatic stress disorder. From May 21, 2023, to July 7, 2023, we conducted a randomized control trial in the outpatient clinic of a psychiatry Hospital. Participants were Iran-Iraq war veterans (&#x2009;=&#x2009;40) with a confirmed diagnosis of post-traumatic stress disorder. They were randomly allocated to cognitive analytic therapy and control groups. The primary outcome was re-experiencing, and the secondary outcomes included avoidance, hyperarousal, depression, anxiety, and numbness scores measured by appropriate questionnaires before and after the interventions. The cognitive analytic therapy group received a weekly program totaling 12 sessions of therapy adjunct to pharmacotherapy, each session lasting 90&#x2009;min, and the control group received only pharmacotherapy. Within-group analysis showed that cognitive analytic therapy (&#x2009;=&#x2009;19) decreased all symptom scores (all&#x2009;<&#x2009;0.001), while the control group (&#x2009;=&#x2009;20) showed a decrease in hyper-arousal, depression, and anxiety (&#x2009;<&#x2009;0.001) scores. Between-group analysis implied that cognitive analytic therapy was more successful than usual pharmacotherapy in decreasing all outcome scores (all&#x2009;<&#x2009;0.001). A 12-session program of cognitive analytic therapy was effective in alleviating re-experiencing, avoidance, hyper-arousal, depression, anxiety, and numbness in post-traumatic stress disorder. It was safe and acceptable by participants reflected by a high retention rate. We recommend the incorporation of cognitive analytic therapy to the treatment of post-traumatic stress disorder.
+Kinesio Taping (KT) is a non-invasive therapy commonly used in physiotherapy (PT). However, the available data on its effectiveness in patients with symptomatic temporomandibular disorders (TMD) remains scarce and contradictory. The aim of the study was to evaluate the analgesic and myorelaxant effects of KT in TMD patients with limited mandibular mobility. A single-blind randomized controlled trial was conducted among female patients aged 20-45 years with Diagnostic Criteria for Temporomandibular Disorders (DC/TMD) group Ib, using a parallel group design and equal randomization (1:1). All patients underwent surface electromyography (sEMG) of the masseter muscle (MAS), pain intensity was assessed using a Numeric Rating Scale (NRS), and temporomandibular joint mobility was measured before and after 6 and 12 days of treatment. The Perceived Stress Scale (PSS-10) questionnaire was administered on the first and last days of treatment. Statistical analysis was performed using analysis of variance (ANOVA). Mauchly's sphericity test determined changes over time and between groups for variables with a normal distribution. Bonferroni's correction was used for post hoc multiple comparisons. Variables with a non-normal distribution were analyzed using the nparLD package and multiple comparison post hoc test, while correlations were assessed using Spearman's coefficient. Each treatment had a significant effect on the bioelectrical sEMG parameters (p = 0.05). Kinesio Taping had a superior analgesic effect compared to the controls (p < 0.001). The combination of KT with therapeutic exercise (TE) proved to be a more effective therapy for improving the maximal mouth opening (MMO) and reducing perceived stress than monotherapy (p < 0.001). Minimally significant clinical differences were observed for sEMG, MMO and PSS-10 parameters after both therapies. Kinesio Taping combined with TE may be considered an effective complementary noninvasive treatment modality for TMD, either as a stand-alone or as part of the therapeutic process in patients experiencing pain and limited mandibular ROM. Additionally, the use of KT and TE was found to have a beneficial effect on perceived stress levels.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/08039488.2024.2360978
+- DOI: 10.17219/dmp/173126
 
 2. Keywords
-- Cognitive
-- PTSD
-- analytic
-- post-traumatic
-- stress
+- Kinesio Taping
+- electromyography
+- orofacial pain
+- physiotherapy
+- temporomandibular joint
 
 3. Key Findings
-- Post-traumatic stress disorder represents a multifaceted clinical entity with a profound impact on mental health
-- Within-group analysis showed that cognitive analytic therapy (&#x2009;=&#x2009;19) decreased all symptom scores (all&#x2009;<&#x2009;0
-- 001), while the control group (&#x2009;=&#x2009;20) showed a decrease in hyper-arousal, depression, and anxiety (&#x2009;<&#x2009;0
+- Additionally, the use of KT and TE was found to have a beneficial effect on perceived stress levels
 
 This study provides insights into:
-- Cognitive assessment methods and outcomes
-- PTSD assessment methods and outcomes
-- analytic assessment methods and outcomes
+- Kinesio Taping assessment methods and outcomes
+- electromyography assessment methods and outcomes
+- orofacial pain assessment methods and outcomes

@@ -1,29 +1,26 @@
-Study Title: A whole food, plant-based randomized controlled trial in metastatic breast cancer: feasibility, nutrient, and patient-reported outcomes.
+Study Title: Early Incorporation to Palliative Care (EPC) in Patients With Advanced Non-Small Cell Lung Cancer: The PACO Randomized Clinical Trial.
 
 Study Summary:
-Quality of life (QOL) is among the most important outcomes for women with metastatic breast cancer (MBC), and it predicts survival. QOL is negatively impacted by cognitive impairment, fatigue, and weight gain. We assessed whether a whole food, plant-based (WFPB) diet-promoting weight loss is feasible and might improve QOL. Women with MBC on stable systemic treatments were randomized 2:1 to 1) WFPB dietary intervention (n&#x2009;=&#x2009;21) or 2) usual care (n&#x2009;=&#x2009;11) for 8&#xa0;weeks. Participants attended weekly education visits and consumed an ad libitum WFPB diet (3 prepared meals/day provided). Patient-reported outcomes and 3-day food records were assessed at baseline and 8&#xa0;weeks. The effects of WFPB diet on changes in outcomes were assessed by analysis of covariance model controlling for baseline. 20 intervention and 10 control participants completed the trial. Intervention participants were highly adherent to the WFPB diet (94.3&#x2009;% total calories on-plan). Intervention group nutrient intakes changed significantly including dietary fat (35.8&#x2009;% to 20.4&#x2009;% percent calories from fat, p&#x2009;<&#x2009;0.001) and fiber content (12.7 to 30.8&#xa0;g fiber/1000&#xa0;kcal, p&#x2009;<&#x2009;0.001). Perceived cognitive function (FACT-Cog total&#x2009;+&#x2009;16.1; 95&#x2009;% confidence interval [CI]&#x2009;=&#x2009;0.8-31.7; p&#x2009;=&#x2009;0.040) and emotional well-being (FACT-B emotional well-being subscale&#x2009;+&#x2009;2.3; CI&#x2009;=&#x2009;0.5-4.1; p&#x2009;=&#x2009;0.016) improved in the WFPB versus the control group. Fatigue, measured by the BFI, improved within the WFPB group for fatigue severity (M&#x2009;=&#x2009;4.7&#x2009;&#xb1;&#x2009;2.5[SD] to 3.7&#x2009;&#xb1;&#x2009;2.3, p&#x2009;=&#x2009;0.047) and fatigue at its worst (5.8&#x2009;&#xb1;&#x2009;2.8 to 4.4&#x2009;&#xb1;&#x2009;2.4, p&#x2009;=&#x2009;0.011). Significant dietary changes in this population are feasible and may improve QOL by improving treatment-related symptoms. Additional study is warranted. ClinicalTrials.gov identifier: NCT03045289. Registered 7 February 2017.
+Patients with non-small cell lung cancer (NSCLC) experience a considerable disease burden, evident in symptomatic and psychological spheres. Advanced cancer represents a complex scenario for patients and the healthcare team. Early palliative care (EPC) has been proven as a clinically meaningful strategy in this context by several randomized trials but not in a resource-limited setting. This study aimed to evaluate the effect of EPC compared with standard oncological care (SOC) in patients with metastatic NSCLC in Mexico. A prospective, randomized clinical trial was conducted at Instituto Nacional de Cancerologia in Mexico. All patients had histologically confirmed metastatic NSCLC without previous treatment. Patients were randomly assigned (1:1) to receive SOC or SOC&#x2005;+&#x2005;EPC. The EPC group was introduced to the palliative care team at baseline after randomization, which was integrated by psychologists, bachelor's in nutrition, specialized nurses, and physicians. Patients randomized to this arm had programmed visits to meet with the team at baseline and through the 2nd, 4th-, and 6th cycles thereafter. The primary endpoint was overall survival (OS); secondary outcomes included quality of life (QoL), anxiety and depression, and symptom intensity. They were assessed using the instruments EORTC QLQ-C30 questionnaire, Edmonton Symptom Assessment Scale (ESAS), and the Hospital Anxiety and Depression Scale (HADS) (clinicaltrials.gov [NCT01631565]). Questionnaires were completed at baseline, at 2nd, 4th, and 6th cycles of treatment. Between March 2012 and June 2015, 201 patients were assessed for eligibility and 146 were enrolled and allocated to receive EPC (73) or SOC (73). Median OS for patients in the EPC vs SOC arm was 18.1 months (95% CI, 7.9-28.4) and 10.5 months (95% CI, 4.7-16.2) (P&#x2005;=&#x2005;.029). Having a poor performance status (HR 1.7 [1.2-2.5]; P&#x2005;=&#x2005;.004) and allocation to the control group (HR 1.5 [1.03-2.3]; P&#x2005;=&#x2005;.034) were independently associated with a worse OS. Those patients with a global QoL&#x2005;>&#x2005;70 at baseline had a better OS if they were In the EPC arm (38.7 months (95% CI, 9.9-67.6) vs SOC 21.4 months (95% CI, 12.4-30.3)). Mean QoL had a numerical improvement in patients allocated to EPC after 6 cycles of follow-up, nonetheless this difference was not statistically significant (55.1&#x2005;&#xb1;&#x2005;23.7 vs 56.9&#x2005;&#xb1;&#x2005;25.3; P&#x2005;=&#x2005;.753). There were no significant differences in anxiety and depression at all study points. EPC is associated with a significant improvement in OS, although, we observed that the greatest benefit of providing EPC was observed in those with a global QoL&#x2005;>&#x2005;70 at baseline. This study did not identify significant changes in terms of QoL or symptom burden between the study groups after follow-up. Evidence robustly suggests that EPC should be considered part of the multidisciplinary treatment of metastatic NSCLC patients since diagnosis. According to our study, EPC can be implemented in low- or middle-income countries (LMIC).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10549-024-07284-z
+- DOI: 10.1093/oncolo/oyae050
 
 2. Keywords
-- Breast cancer
-- Metastatic breast cancer
-- Nutrition
-- Obesity
-- Patient-reported outcomes
-- Plant-based
-- Quality of life
-- Vegan diet
+- anxiety
+- depression
+- palliative care
+- quality of life
+- survival
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Breast cancer assessment methods and outcomes
-- Metastatic breast cancer assessment methods and outcomes
-- Nutrition assessment methods and outcomes
+- anxiety assessment methods and outcomes
+- depression assessment methods and outcomes
+- palliative care assessment methods and outcomes

@@ -1,26 +1,26 @@
-Study Title: Are Dutch adults equally susceptible to nudging and pricing strategies? Secondary analyses of the Supreme Nudge parallel cluster-randomised controlled supermarket trial.
+Study Title: Community Health Benefits Through a Student-Run Nonprofit Pediatric Wellness Clinic.
 
 Study Summary:
-Supermarket interventions are promising to promote healthier dietary patterns, but not all individuals may be equally susceptible. We explored whether the effectiveness of nudging and pricing strategies on diet quality differs by psychological and grocery shopping characteristics. We used data of the 12-month Supreme Nudge parallel cluster-randomised controlled supermarket trial, testing nudging and pricing strategies to promote healthier diets. Participants were Dutch speaking adults aged 30-80&#xa0;years and regular shoppers of participating supermarkets (n&#x2009;=&#x2009;12) in socially disadvantaged neighbourhoods. Data on psychological characteristics (food-related behaviours; price sensitivity; food decision styles; social cognitive factors; self-control) and grocery shopping characteristics (time spent in the supermarket; moment of the day; average supermarket visits; shopping at other retailers; supermarket proximity) were self-reported at baseline. These characteristics were tested for their moderating effects of the intervention on diet quality (scored 0-150) in linear mixed models. We included 162 participants from intervention supermarkets and 199 from control supermarkets (73% female, 58 (&#xb1;&#x2009;10.8) years old, 42% highly educated). The interventions had no overall effect on diet quality. Only five out of 23 potential moderators were statistically significant. Yet, stratified analyses of these significant moderators showed no significant effects on diet quality for one of the subgroups and statistically non-significant negative effects for the other. Negative effects were suggested for individuals with lower baseline levels of meal planning (&#x3b2;&#x2009;-&#x2009;2.6, 95% CI&#x2009;-&#x2009;5.9; 0.8), healthy shopping convenience (&#x3b2;&#x2009;-&#x2009;3.0, 95% CI&#x2009;-&#x2009;7.2; 1.3), and healthy food attractiveness (&#x3b2;&#x2009;-&#x2009;3.5, 95% CI&#x2009;-&#x2009;8.3; 1.3), and with higher levels of price consciousness (&#x3b2;&#x2009;-&#x2009;2.6, 95% CI&#x2009;-&#x2009;6.2; 1.0) and weekly supermarket visits (&#x3b2;&#x2009;-&#x2009;2.4, 95% CI&#x2009;-&#x2009;6.8; 1.9). Adults with varying psychological and grocery shopping characteristics largely seem equally (un)susceptible to nudging and pricing strategies. It might be that certain characteristics lead to adverse effects, but this is not plausible, and the observed negative effects were small and statistically non-significant and may be explained by chance findings. Verification of these findings is needed in real-world trials based on larger sample sizes and with the use of more comprehensive interventions. Dutch Trial Register ID NL7064, 30th of May, 2018, https://onderzoekmetmensen.nl/en/trial/20990.
+Purpose Community screening programs have been in effect since they were utilized in the 19th century at county fairs. A free pediatric health screening program was created by an osteopathic medical school in South Carolina in collaboration with a pediatric dental outreach organization to engage the local underserved community and train community-minded medical professionals. This study sought to demonstrate the efficacy and need for a student-run monthly pediatric health screening program in an underserved pediatric demographic. Methods A retrospective study of preexisting de-identified data obtained from a student-run health screening program was analyzed to determine the efficacy of the screening program in detecting chronic health risk factors in children in an underserved population. Patients were recruited through a partnership with a free dental clinic for underserved and uninsured children. Patients who attended the clinic were offered the opportunity to have a free, comprehensive health assessment following their dental visit. The function of this program was unique in that uninsured, underserved patients were provided free dental care and a free health assessment. Pediatric patients were screened for basic health information such as weight, height, BMI, vision, cardiovascular health, hypertension, asthma (reported via questionnaire by either the parent or child when applicable), nutrition, and lead poisoning (via questionnaire). The program also offered families additional support by connecting them to local resources and answering any questions they had about their children's health. Data from 14 health screening events was collected for quality improvement and efficacy monitoring. Descriptive analyses were performed. Results and analysis The health screening program assessed 124 children between October 2021 and March 2023 over 14 health screening events. The patients ranged from one year old to 26 years old, with a mean age of 9.65 years. Patients were predominantly Hispanic (79.67%). About one-third (27.64%) of children who were screened had positive findings associated with increased risk for chronic disease. Nearly half (43.90%) of families that were screened requested further information on ways to obtain health insurance and regular primary care services (utilized Access Health). Of the one-third of children with positive risk factors, 12.20% reported positive findings associated with asthma. Of the patients with positive risk factors, 8.94% had vision abnormalities, most of whom had not been seen by an ophthalmologist. This preliminary analysis will be followed by a secondary analysis that further investigates patient demographics (primarily Hispanic) as well as age distribution across various risk factors. Conclusion This pediatric health screening program has demonstrated a basic level of efficacy by successfully identifying increased risk for chronic disease in the underserved pediatric population. The need for these screening events was highlighted by the identification of untreated positive findings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12916-024-03429-5
+- DOI: 10.7759/cureus.60085
 
 2. Keywords
-- Choice architecture
-- Food environment
-- Grocery store
-- Prevention
-- Public Health Nutrition
+- osteopathic education
+- pediatric screening
+- pediatrics primary care
+- preventive medicine
+- underserved populations
 
 3. Key Findings
-- Yet, stratified analyses of these significant moderators showed no significant effects on diet quality for one of the subgroups and statistically non-significant negative effects for the other
+- Conclusion This pediatric health screening program has demonstrated a basic level of efficacy by successfully identifying increased risk for chronic disease in the underserved pediatric population
 
 This study provides insights into:
-- Choice architecture assessment methods and outcomes
-- Food environment assessment methods and outcomes
-- Grocery store assessment methods and outcomes
+- osteopathic education assessment methods and outcomes
+- pediatric screening assessment methods and outcomes
+- pediatrics primary care assessment methods and outcomes

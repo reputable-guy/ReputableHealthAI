@@ -1,25 +1,26 @@
-Study Title: Effect of comprehensive nursing intervention on the formation of pressure sore in patients undergoing orthopaedic surgery in prone position.
+Study Title: Low-dose pegylated recombinant human granulocyte-colony stimulating factor as hematopoietic support for adjuvant chemotherapy in Chinese patients with breast cancer: An open-label, randomized, non-inferiority trial.
 
 Study Summary:
-Pressure ulcers are a common complication of prone orthopaedic surgery, causing pain and inconvenience to patients. This study aimed to evaluate a comprehensive nursing intervention for pressure ulcer formation in these patients. A total of 120 patients undergoing prone orthopaedic surgery were randomly divided into two groups. The study group (60 patients) received a comprehensive nursing intervention, whereas the control group (60 patients) received a routine nursing intervention. After 2&#x2009;weeks, the comprehensive nursing intervention significantly reduced the incidence and degree of pressure sores and led to a shorter recovery time than the routine nursing intervention (p&#x2009;<&#x2009;0.05). The incidence of postoperative wound complications was decreased, and patient satisfaction was significantly improved (p&#x2009;<&#x2009;0.05). The Hamilton Anxiety Scale, Hamilton Depression Scale and visual analogue scale scores of the study group were significantly lower than those of the control group, and the Short Form 36 Health Survey Questionnaire scores were higher than those of the control group (p&#x2009;<&#x2009;0.05). A comprehensive nursing intervention can significantly reduce the incidence and degree of pressure ulcers, accelerate recovery time, reduce postoperative wound complications and improve the quality of life and satisfaction of patients undergoing prone orthopaedic surgery.
+The recommended dosage of pegylated recombinant human granulocyte-colony stimulating factor (PEG-rhG-CSF) for Western chemotherapy patients is 6&#xa0;mg per cycle. However, for Eastern Asians, the optimal dose remains unknown. This open-label, randomized, non-inferiority trial (NCT05283616) enrolled Chinese female breast cancer patients receiving adjuvant chemotherapy. Participants were randomized to receive either 3 or 6&#xa0;mg of PEG-rhG-CSF per cycle, stratified by body weight (BW; &#x2264;60&#x2009;kg vs. >60&#x2009;kg). The primary endpoint was timely absolute neutrophil count (ANC) recovery before the second cycle of chemotherapy. A total of 122 patients were randomized and 116 were included for efficacy analyses. The timely ANC recovery rate in the 3&#xa0;mg arm was 89.8%, compared to 93.0% in the 6&#xa0;mg arm (one-sided 95% confidence interval [CI] lower limit for difference: -11.7%), meeting the prespecified non-inferiority margin of 15%. The rate was 93.3% with PEG-rhG-CSF 3&#xa0;mg and 96.6% with 6&#xa0;mg in patients with BW&#x2009;&#x2264;&#x2009;60&#x2009;kg, and 86.2% and 89.3%, respectively, in those with BW&#x2009;>&#x2009;60&#x2009;kg. Although the incidence of severe neutropenia was similar across arms, the occurrence of excessively high ANC and white blood cell counts was higher in the 6&#xa0;mg arm. No grade &#x2265;3 adverse events related to PEG-rhG-CSF occurred. Three milligrams of PEG-rhG-CSF per cycle provided non-inferior neutrophil protection and attenuated neutrophil overshoot compared to 6&#xa0;mg doses. This low-dose regimen could be a new supportive care option for Chinese breast cancer patients receiving anthracycline-based adjuvant chemotherapy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/iwj.14954
+- DOI: 10.1111/bcp.16151
 
 2. Keywords
-- comprehensive nursing intervention
-- pressure ulcer
-- prone orthopaedic surgery
-- wound complications
+- dose&#x2010;dense chemotherapy
+- neutropenia
+- pegfilgrastim
+- pegylated recombinant human granulocyte&#x2010;colony stimulating factor
+- primary breast cancer
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- comprehensive nursing intervention assessment methods and outcomes
-- pressure ulcer assessment methods and outcomes
-- prone orthopaedic surgery assessment methods and outcomes
+- dose&#x2010;dense chemotherapy assessment methods and outcomes
+- neutropenia assessment methods and outcomes
+- pegfilgrastim assessment methods and outcomes

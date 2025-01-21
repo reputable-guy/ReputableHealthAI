@@ -1,27 +1,26 @@
-Study Title: The Effects of Yogurt Supplementation and Nutritional Education on Malnourished Infants: A Pilot RCT in Dhaka's Slums.
+Study Title: Effects of Endurance Exercise and Vitamin D Supplementation on Insulin Resistance and Plasma Lipidome in Middle-Aged Adults with Type 2 Diabetes.
 
 Study Summary:
-Our objective was to quantify the effects of yogurt supplementation and nutrition education over three months on the linear growth of infants at risk of stunting. We conducted a three-arm pilot randomized controlled trial: (1) nutrition education for mothers; (2) nutrition education plus a daily yogurt supplement (50 g) for the index child; and (3) usual care (control). Dyads of children aged 4-6 months and at risk of stunting [length-for-age z-score (LAZ) &#x2264; -1 SD and >-2 SD] and their mothers with &#x2264;10 years of education were eligible for the study. Participants were recruited from five slum areas in Dhaka, Bangladesh. Intention-to-treat (N = 162) and complete-case analyses (N = 127) showed no between-group statistically significant differences in LAZ or weight-for-age (WAZ). However, the yogurt group showed greater change in linear growth compared to the control (LAZ: mean difference 0.20, 95% CI: -0.06, 0.47,-value 0.13), which was also slightly greater than the education-only group. Children in the yogurt plus group were five times (95% CI: 0.80, 31.80,-value 0.09) more likely to meet the minimum dietary diversity (MDD) score compared to the control. A 3-month follow-up of this pilot study did not demonstrate that yogurt was beneficial to linear growth. However, there were encouraging trends that merit replication of the intervention with larger samples and longer follow-ups.
+(1) Background: We investigated the effects of a 12-week exercise intervention with or without vitamin D supplementation on insulin resistance and the plasma lipidome of participants with type 2 diabetes. We further explored whether the effects of the intervention on glycemic parameters could be associated with the baseline lipidome. (2) Methods: Sixty-one participants were randomly allocated to control (Con), exercise (EX), vitamin D (VD), and EX + VD groups. Multiple glycemic and anthropometric parameters were evaluated before and after intervention. The homeostasis model assessment of insulin resistance (HOMA-IR) was the primary outcome. The plasma lipidome was analyzed before, after, and at an additional 12-week follow-up. Machine learning was applied to establish prediction models for responsiveness of glycemic control. (3) Results: Our interventions failed to improve the HOMA-IR index while fasting glucose was reduced in the EX + VD group (change%, -11.9%; effect size, 0.65;< 0.05). Both EX and VD interventions altered the plasma lipidome, with EX + VD intervention considerably affecting levels of lyso-phosphatidylcholines and triglycerols containing long-chain unsaturated fatty acids. Such effects could last until 12 weeks after intervention. Notably, there was high inter-individual variability in glycemic parameters including HOMA-IR in response to the interventions, which could be predicted with great accuracy using an optimal panel of baseline lipid predictors alone or in combination with clinical indices, as assessed by an area under the receiver operating characteristic curve value of over 0.9. (4) Conclusions: Although substantial alterations were observed in the plasma lipidome related to glycemic control, our intervention failed to improve HOMA-IR scores, which may have been predominately due to the large inter-individual variability in responses. Basal plasma lipid levels could potentially predict an individual's response to intervention, highlighting the necessity of personalized nutrition.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15132986
+- DOI: 10.3390/nu15133027
 
 2. Keywords
-- Bangladesh
-- LMICs
-- RCT
-- child growth
-- yogurt
+- diabetes
+- exercise
+- insulin resistance
+- lipidomic profile
+- vitamin D
 
 3. Key Findings
-- Intention-to-treat (N = 162) and complete-case analyses (N = 127) showed no between-group statistically significant differences in LAZ or weight-for-age (WAZ)
-- However, the yogurt group showed greater change in linear growth compared to the control (LAZ: mean difference 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Bangladesh assessment methods and outcomes
-- LMICs assessment methods and outcomes
-- RCT assessment methods and outcomes
+- diabetes assessment methods and outcomes
+- exercise assessment methods and outcomes
+- insulin resistance assessment methods and outcomes

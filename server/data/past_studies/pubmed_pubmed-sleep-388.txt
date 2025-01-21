@@ -1,22 +1,26 @@
-Study Title: Keeping Pace with Wearables: A Living Umbrella Review of Systematic Reviews Evaluating the Accuracy of Consumer Wearable Technologies in Health Measurement.
+Study Title: Comparison of two different Nasal Interfaces used in Non-Invasive Respiratory support in terms of Neonate comfort.
 
 Study Summary:
-Consumer wearable technologies have become ubiquitous, with clinical and non-clinical populations leveraging a variety of devices to quantify various aspects of health and wellness. However, the accuracy with which these devices measure biometric outcomes such as heart rate, sleep and physical activity remains unclear. To conduct a 'living' (i.e. ongoing) evaluation of the accuracy of consumer wearable technologies in measuring various physiological outcomes. A systematic search of the literature was conducted in the following scientific databases: MEDLINE via PubMed, Embase, Cinahl and SPORTDiscus via EBSCO. The inclusion criteria required systematic reviews or meta-analyses that evaluated the validation of consumer wearable devices against accepted reference standards. In addition to publication details, review protocol, device specifics and a summary of the authors' results, we extracted data on mean absolute percentage error (MAPE), pooled absolute bias, intraclass correlation coefficients (ICCs) and mean absolute differences. Of 904 identified studies through the initial search, 24 systematic reviews met our inclusion criteria; these systematic reviews included 249 non-duplicate validation studies of consumer wearable devices involving 430,465 participants (43% female). Of the commercially available wearable devices released to date, approximately 11% have been validated for at least one biometric outcome. However, because a typical device can measure a multitude of biometric outcomes, the number of validation studies conducted represents just 3.5% of the total needed for a comprehensive evaluation of these devices. For heart rate, wearables showed a mean bias of&#x2009;&#xb1;&#x2009;3%. In arrhythmia detection, wearables exhibited a pooled sensitivity and specificity of 100% and 95%, respectively. For aerobic capacity, wearables significantly overestimated VOby&#x2009;&#xb1;&#x2009;15.24% during resting tests and&#x2009;&#xb1;&#x2009;9.83% during exercise tests. Physical activity intensity measurements had a mean absolute error ranging from 29 to 80%, depending on the intensity of the activity being undertaken. Wearables mostly underestimated step counts (mean absolute percentage errors ranging from -&#x2009;9 to&#x2009;&#x2009;12%) and energy expenditure (mean bias&#x2009;=&#x2009;&#x2009;-&#x2009;3&#xa0;kcal per minute, or&#x2009;-&#x2009;3%, with error ranging from&#x2009;-&#x2009;21.27 to 14.76%). For blood oxygen saturation, wearables showed a mean absolute difference of up to 2.0%. Sleep measurement showed a tendency to overestimate total sleep time (mean absolute percentage error typically&#x2009;>&#x2009;10%). While consumer wearables show promise in health monitoring, a conclusive assessment of their accuracy is impeded by pervasive heterogeneity in research outcomes and methodologies. There is a need for standardised validation protocols and collaborative industry partnerships to enhance the reliability and practical applicability of wearable technology assessments. CRD42023402703.
+Non-Invasive Ventilation (NIV) is the first choice approach in neonates with sufficient respiratory effort that require respiratory support. The type of nasal interface used in NIV affects both efficacy and patient comfort. The aim of this study is to investigate the effects of different nasal interfaces used in NIV support on neonatal patient comfort. Our study evaluated patients who received NIV support for 24 hours. The patients were randomly divided into two groups according to the type of nasal interface used, which were RAM cannula and short binasal prong (SBP). The patients' demographic and clinical data were noted. Their sleep was monitored for 24 hours with an actigraphy device. A total of 82 patients were evaluated. The sleep efficiency in the RAM cannula group was significantly higher (respectively, 65.7% [10.22-95.25] vs. 57.81% [2.49-77], p=0.004). Although not statistically significant, the neonates in the RAM cannula group exhibited longer total sleep time (respectively, 10.4 &#xb1; 4.28 hours vs. 9.02 &#xb1; 3.73 hours, p=0.161). Comparison of heart rates and respiratory rates indicate that the patients in the RAM cannula group were more comfortable. Our study found that infants who received NIV support through a RAM cannula experienced more efficient sleep. Holistic approaches in neonatal intensive care units are vital for better neurodevelopmental outcomes in newborns. Although non-invasive, the interface used in NIV should also be a part of this holistic approach.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s40279-024-02077-2
+- DOI: 10.4314/mmj.v36i1.7
 
 2. Keywords
-
+- Actigraphy
+- RAM cannula
+- neonate
+- short binasal prong
+- sleep
 
 3. Key Findings
-- For heart rate, wearables showed a mean bias of&#x2009;&#xb1;&#x2009;3%
-- For blood oxygen saturation, wearables showed a mean absolute difference of up to 2
-- Sleep measurement showed a tendency to overestimate total sleep time (mean absolute percentage error typically&#x2009;>&#x2009;10%)
+- Our study found that infants who received NIV support through a RAM cannula experienced more efficient sleep
 
 This study provides insights into:
-- General research methodology and outcomes
+- Actigraphy assessment methods and outcomes
+- RAM cannula assessment methods and outcomes
+- neonate assessment methods and outcomes

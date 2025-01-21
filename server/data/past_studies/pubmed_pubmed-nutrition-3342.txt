@@ -1,20 +1,29 @@
-Study Title: Nutritional Support for Moderate-to-Late-Preterm Infants - A Randomized Trial.
+Study Title: A data-driven approach to improve wellness and reduce recurrence in cancer survivors.
 
 Study Summary:
-Most moderate-to-late-preterm infants need nutritional support until they are feeding exclusively on their mother's breast milk. Evidence to guide nutrition strategies for these infants is lacking. We conducted a multicenter, factorial, randomized trial involving infants born at 32 weeks 0 days' to 35 weeks 6 days' gestation who had intravenous access and whose mothers intended to breast-feed. Each infant was assigned to three interventions or their comparators: intravenous amino acid solution (parenteral nutrition) or dextrose solution until full feeding with milk was established; milk supplement given when maternal milk was insufficient or mother's breast milk exclusively with no supplementation; and taste and smell exposure before gastric-tube feeding or no taste and smell exposure. The primary outcome for the parenteral nutrition and the milk supplement interventions was the body-fat percentage at 4 months of corrected gestational age, and the primary outcome for the taste and smell intervention was the time to full enteral feeding (150 ml per kilogram of body weight per day or exclusive breast-feeding). A total of 532 infants (291 boys [55%]) were included in the trial. The mean (&#xb1;SD) body-fat percentage at 4 months was similar among the infants who received parenteral nutrition and those who received dextrose solution (26.0&#xb1;5.4% vs. 26.2&#xb1;5.2%; adjusted mean difference, -0.20; 95% confidence interval [CI], -1.32 to 0.92; P&#x2009;=&#x2009;0.72) and among the infants who received milk supplement and those who received mother's breast milk exclusively (26.3&#xb1;5.3% vs. 25.8&#xb1;5.4%; adjusted mean difference, 0.65; 95% CI, -0.45 to 1.74; P&#x2009;=&#x2009;0.25). The time to full enteral feeding was similar among the infants who were exposed to taste and smell and those who were not (5.8&#xb1;1.5 vs. 5.7&#xb1;1.9 days; P&#x2009;=&#x2009;0.59). Secondary outcomes were similar across interventions. Serious adverse events occurred in one infant. This trial of routine nutrition interventions to support moderate-to-late-preterm infants until full nutrition with mother's breast milk was possible did not show any effects on the time to full enteral feeding or on body composition at 4 months of corrected gestational age. (Funded by the Health Research Council of New Zealand and others; DIAMOND Australian New Zealand Clinical Trials Registry number, ACTRN12616001199404.).
+For many cancer survivors, toxic side effects of treatment, lingering effects of the aftermath of disease and cancer recurrence adversely affect quality of life (QoL) and reduce healthspan. Data-driven approaches for quantifying and improving wellness in healthy individuals hold great promise for improving the lives of cancer survivors. The data-driven strategy will also guide personalized nutrition and exercise recommendations that may help prevent cancer recurrence and secondary malignancies in survivors.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1056/NEJMoa2313942
+- DOI: 10.3389/fonc.2024.1397008
 
 2. Keywords
-
+- cancer recurrence prevention
+- cancer survivor
+- dense dynamic personal data
+- healthspan
+- late effects
+- long-term effects
+- quality of life
+- scientific wellness
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- cancer recurrence prevention assessment methods and outcomes
+- cancer survivor assessment methods and outcomes
+- dense dynamic personal data assessment methods and outcomes

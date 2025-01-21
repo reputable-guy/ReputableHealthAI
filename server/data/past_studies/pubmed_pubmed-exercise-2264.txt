@@ -1,27 +1,26 @@
-Study Title: Effect of combined Tai Chi and repetitive transcranial magnetic stimulation for sleep disturbance in older adults: A randomized controlled trial.
+Study Title: Effects of Training Volume in the Bench-Press Exercise Performed With Interrepetition Rest Periods on Strength Gains and Neuromuscular Adaptations.
 
 Study Summary:
-Novel approaches to improve sleep disturbance in older adults are needed. Our study comprises a pioneering attempt to test the efficacy of Tai Chi (TC) combined with repetitive transcranial magnetic stimulation (rTMS) in improving sleep disturbance in older adults. The influence of baseline depressive symptoms was tested in a subset of the sample. In the randomized controlled trial, 152 participants were each allocated to one of the following groups: (1) TC plus active rTMS (n&#xa0;=&#xa0;38), (2) TC plus sham rTMS (n&#xa0;=&#xa0;38), (3) TC alone (n&#xa0;=&#xa0;38), and (4) low-intensity physical exercise (PE) control group (n&#xa0;=&#xa0;38). Four-week interventions were conducted for each group. The outcomes included insomnia severity, actigraphy-assessed and self-reported sleep parameters, mood states, and quality of life. Assessments were carried out at baseline (T0), post-intervention (T1), and 3-month follow-up (T2). Of the 152 randomized participants, the mean (SD) age was 67.68 (4.98) years, with 112 female (73.68%). The findings revealed that TC plus active rTMS induced a significant reduction in actigraphy-assessed sleep onset latency compared to TC plus sham rTMS at T1 and T2. In the subsample without depressive symptoms, the combination treatment exhibited a greater benefit in actigraphy-assessed sleep efficiency and wake time after sleep onset compared to both variables in the PE group and in the sham comparator group at T1, respectively. The other subsample with depressive symptoms showed the improvements with TC plus active rTMS, TC plus sham rTMS, and TC alone differed significantly from PE at T1 and T2. This study has demonstrated the positive effect of TC combined with rTMS on sleep disturbance in older adults. Specific sample characteristics should be considered when applying TC, either alone or combined with rTMS.
+To investigate the effects of 3 training volumes in the bench-press exercise performed with interrepetition rest periods, matched for fatigue, on strength gains and neuromuscular adaptations. Forty-three resistance-trained men were randomized into 3 groups: low (LOW), moderate (MOD), and high (HIG) volume. The intensities increased from 70% to 85% of 1-repetition maximum (1RM) over the 8-week training period. Each session consisted of only 1 set with short interrepetition rest periods. LOW performed only 3 repetitions per session (8-wk total: 48 repetitions); MOD completed 15, 12, 10, and 8 repetitions per session with 70%, 75%, 80%, and 85% 1RM, respectively (8-wk total: 180); and HIG performed 24, 21, 18, and 15 repetitions per session with 70%, 75%, 80%, and 85% 1RM, respectively (8-wk total: 312). Progressive loading and fatigue tests were conducted in the bench-press exercise before and after the training period. Electromyography (EMG) signals from the triceps brachii were registered during these tests. HIG and MOD showed higher velocity loss than LOW (16% vs 12%). No significant group &#xd7; time interaction was observed for any variable. All groups improved significantly in all strength-related variables, except for maximal unloaded velocity, where only MOD obtained significant gains. Only LOW and MOD induced significant improvements in EMG. MOD obtained the greatest effect sizes in almost all strength variables. No significant differences were found in the performance gains obtained by each group despite the wide differences in the total volume accumulated by each group.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jpsychires.2024.10.025
+- DOI: 10.1123/ijspp.2024-0228
 
 2. Keywords
-- Older adults
-- Repetitive transcranial magnetic stimulation
-- Sleep disturbance
-- Tai Chi
+- dose&#x2013;response
+- resistance training
+- training efficiency
+- velocity-based training
 
 3. Key Findings
-- The findings revealed that TC plus active rTMS induced a significant reduction in actigraphy-assessed sleep onset latency compared to TC plus sham rTMS at T1 and T2
-- The other subsample with depressive symptoms showed the improvements with TC plus active rTMS, TC plus sham rTMS, and TC alone differed significantly from PE at T1 and T2
-- This study has demonstrated the positive effect of TC combined with rTMS on sleep disturbance in older adults
+- HIG and MOD showed higher velocity loss than LOW (16% vs 12%)
+- No significant differences were found in the performance gains obtained by each group despite the wide differences in the total volume accumulated by each group
 
 This study provides insights into:
-- Older adults assessment methods and outcomes
-- Repetitive transcranial magnetic stimulation assessment methods and outcomes
-- Sleep disturbance assessment methods and outcomes
+- dose&#x2013;response assessment methods and outcomes
+- resistance training assessment methods and outcomes
+- training efficiency assessment methods and outcomes

@@ -1,20 +1,26 @@
-Study Title: Improving Surgical Care and Outcomes in Older Cancer Patients Through Implementation of a Presurgical Toolkit (OPTI-Surg)-Final Results of a Phase III Cluster Randomized Trial (Alliance A231601CD).
+Study Title: A single bout of jumping exercise does not modulate serum markers of bone formation or bone resorption throughout a 24&#xa0;h period.
 
 Study Summary:
-To assess the effect of a practice-level preoperative frailty screening and optimization toolkit (OPTI-Surg) on postoperative functional recovery and complications in elderly cancer patients undergoing major surgery. Frailty is common in older adults. It increases the risk of poor postoperative functional recovery and complications. The potential for a practice-level screening/optimization intervention to improve outcomes is unknown. Thoracic, gastrointestinal, and urologic oncological surgery practices within the National Cancer Institute Community Oncology Research Program (NCORP) were randomized 1:1:1 to usual care (UC), OPTI-Surg, or OPTI-Surg with an implementation coach. OPTI-Surg consisted of the Edmonton Frail Scale and guided recommendations for referral interventions. Patients 70 years old or above undergoing curative intent surgery were eligible. The primary outcome was 8 weeks postoperative function (kcal/wk). The key secondary outcome was complications within 90 days. Mixed models were used to compare UC to the 2 OPTI-Surg arms combined. From July 2019 to September 2022, 325 patients were enrolled in 29 practices. One hundred ninety-nine (64 UC, 135 OPTI-Surg) and 279 (78 UC, 201 OPTI-Surg) were evaluable for primary and secondary analysis, respectively. UC and OPTI-Surg patients did not significantly differ in total caloric expenditure (2.2 UC, 2.0 OPTI-Surg) after adjusting for baseline function ( P =0.53). UC and OPTI-Surg patients did not significantly differ in postoperative complications (25.6% UC, 35.3% OPTI-Surg, P =0.5). Frailty assessment was successfully performed, but the OPTI-Surg intervention did not improve postoperative function nor reduce postoperative complications compared with UC. Future analysis will explore practice-level factors associated with toolkit implementation and the differences between the coaching and noncoaching arms.
+This randomized, cross-over trial assessed the effect of a single bout of high-impact exercise on serum markers of bone formation and bone resorption over a 24&#xa0;h period. Twenty healthy males and females performed a single bout of brief jumping exercise (EXC) or no exercise (CON), 55&#xa0;min following consumption of a standard breakfast. Blood markers of bone formation (P1NP) and bone resorption (CTX-I) were assessed before (t&#xa0;=&#xa0;0&#xa0;h) and over a 5&#xa0;h period after breakfast, and following 24&#xa0;h of post-exercise recovery (t&#xa0;=&#xa0;24&#xa0;h). Serum CTX-I concentrations decreased during the 5&#xa0;h postprandial period (time-effect, P&#xa0;<&#xa0;0.001) with no differences between conditions (time x condition, P&#xa0;=&#xa0;0.14). After a&#xa0;~&#xa0;16&#xa0;% decline during the first 30&#xa0;min following breakfast, serum P1NP concentrations gradually returned to baseline values during the 5&#xa0;h postprandial period, with no differences in the overall response between conditions (time-effect, P&#xa0;<&#xa0;0.001; time x condition, P&#xa0;=&#xa0;0.25). Fasted serum CTX-I concentrations decreased from 0.33&#xa0;&#xb1;&#xa0;0.15 and 0.35&#xa0;&#xb1;&#xa0;0.15&#xa0;ng/mL at baseline, to 0.31&#xa0;&#xb1;&#xa0;0.13 and 0.31&#xa0;&#xb1;&#xa0;0.16&#xa0;ng/mL at t&#xa0;=&#xa0;24&#xa0;h in CON and EXC, respectively, with no differences between conditions (time-effect, P&#xa0;<&#xa0;0.01; time x condition, P&#xa0;=&#xa0;0.70). Fasted serum P1NP concentrations did not change from baseline to t&#xa0;=&#xa0;24&#xa0;h in both CON (baseline: 76&#xa0;&#xb1;&#xa0;27&#xa0;ng/mL, t&#xa0;=&#xa0;24&#xa0;h: 79&#xa0;&#xb1;&#xa0;26&#xa0;ng/mL) and EXC (baseline: 80&#xa0;&#xb1;&#xa0;24&#xa0;ng/mL, t&#xa0;=&#xa0;24&#xa0;h: 77&#xa0;&#xb1;&#xa0;29&#xa0;ng/mL; time-effect, P&#xa0;=&#xa0;0.89), with no differences between conditions (time x condition, P&#xa0;=&#xa0;0.22). High-impact exercise does not modulate the concentrations of the serum marker of bone formation P1NP and the serum marker of bone resorption CTX-I throughout a 24&#xa0;h recovery period in healthy adults.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/SLA.0000000000006458
+- DOI: 10.1016/j.bone.2024.117216
 
 2. Keywords
-
+- Bone turnover markers
+- Carboxy-terminal crosslinking telopeptide of type I collagen
+- Glucagon-like peptide-1
+- High-impact exercise
+- Procollagen type I N propeptide
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Bone turnover markers assessment methods and outcomes
+- Carboxy-terminal crosslinking telopeptide of type I collagen assessment methods and outcomes
+- Glucagon-like peptide-1 assessment methods and outcomes

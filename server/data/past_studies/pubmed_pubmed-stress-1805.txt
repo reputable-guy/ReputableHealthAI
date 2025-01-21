@@ -1,20 +1,26 @@
-Study Title: Improving staff wellness via an after-hours healthy sustainable meals program: A general surgery residency pilot.
+Study Title: A pragmatic randomised controlled trial of the effectiveness and cost-effectiveness of Well Parent Japan in routine care in Japan: The training and nurturing support for mothers (TRANSFORM) study.
 
 Study Summary:
-Healthcare worker wellness is foundational to delivering quality care. Yet, healthcare facilities often lack access to healthy and sustainable food overnight and on weekends. Healthy, low-carbon meals were provided free of charge after hours to on-call General Surgery residents at the University of British Columbia and the impact on resident well-being assessed using pre- and post-intervention surveys. Financial and time stress reduced significantly with the provision of meals ('s < .01), while emotional and physical stress levels did not change. Average meal expenses decreased from $33 to $10 (< .001). Increasing food access on call is an impactful intervention to improve resident health and well-being.
+Well Parent Japan (WPJ) is a new hybrid group parent training programme combining sessions to improve mothers' psychological well-being with a culturally adapted version of the New Forest Parenting Programme (NFPP). This study investigates the effectiveness and cost-effectiveness of WPJ against treatment as usual (TAU) within Japanese child mental health services. TRANSFORM was a pragmatic multi-site randomised controlled trial (RCT) with two parallel arms. Altogether 124 mothers of 6-12-year-old children with DSM-5 ADHD were randomised to WPJ (n&#x2009;=&#x2009;65) or TAU (n&#x2009;=&#x2009;59). Participants were assessed at baseline, post-treatment and three-month follow-up. The primary outcome was parent-domain stress following intervention. Secondary outcomes included maternal reports of child-domain stress, parenting practices, parenting efficacy, mood, family strain, child behaviour and impairment. Objective measures of the parent-child relationship were collected at baseline and post-treatment. Data analysis was intention to treat (ITT) with treatment effects quantified through analysis of covariance (ANCOVA) via multilevel modelling. An incremental cost-effectiveness ratio (ICER) assessed WPJ's cost-effectiveness. WPJ was superior to TAU in reducing parent-domain stress post-treatment (adjusted mean difference&#x2009;=&#x2009;5.05, 95% CI 0.33 to 9.81, p&#x2009;=&#x2009;.036) and at follow-up (adjusted mean difference 4.82, 95% CI 0.09 to 9.55, p&#x2009;=&#x2009;.046). Significant WPJ intervention effects were also observed for parenting practices, parenting efficacy and family strain. WPJ and TAU were not significantly different post-intervention or at follow-up for the other secondary outcomes. The incremental cost of WPJ was 34,202 JPY (315.81 USD). The probability that WPJ is cost-effective is 74% at 10,000 JPY (USD 108.30) per one-point improvement in parenting stress, 92% at 20,000 JPY (216.60 USD). The programme was delivered with high fidelity and excellent retention. WPJ can be delivered in routine clinical care at modest cost with positive effects on self-reported well-being of the mothers, parenting practices and family coping. WPJ is a promising addition to psychosocial interventions for ADHD in Japan.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/08404704241253284
+- DOI: 10.1111/jcpp.14007
 
 2. Keywords
-
+- ADHD
+- Japan
+- New Forest Parent Programme
+- Parent Stress Management
+- parent training
 
 3. Key Findings
-- Healthcare worker wellness is foundational to delivering quality care
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- ADHD assessment methods and outcomes
+- Japan assessment methods and outcomes
+- New Forest Parent Programme assessment methods and outcomes

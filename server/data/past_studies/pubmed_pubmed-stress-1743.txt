@@ -1,27 +1,26 @@
-Study Title: Evaluating the Impact of Probiotic Therapy on the Endocannabinoid System, Pain, Sleep and Fatigue: A Randomized, Double-Blind, Placebo-Controlled Trial in Dancers.
+Study Title: The Mediterranean Diet in Pregnancy: Implications for Maternal Brain Morphometry in a Secondary Analysis of the IMPACT BCN Randomized Clinical Trial.
 
 Study Summary:
-Emerging research links the endocannabinoid system to gut microbiota, influencing nociception, mood, and immunity, yet the molecular interactions remain unclear. This study focused on the effects of probiotics on ECS markers-cannabinoid receptor type 2 (CB2) and fatty acid amide hydrolase (FAAH)-in dancers, a group selected due to their high exposure to physical and psychological stress. In a double-blind, placebo-controlled trial (ClinicalTrials.gov NCT05567653), 15 dancers were assigned to receive either a 12-week regimen ofRosell-52 andRosell-17 or a placebo (PLA:= 10, PRO:= 5). There were no significant changes in CB2 (probiotic: 0.55 to 0.29 ng/mL; placebo: 0.86 to 0.72 ng/mL) or FAAH levels (probiotic: 5.93 to 6.02 ng/mL; placebo: 6.46 to 6.94 ng/mL;> 0.05). A trend toward improved sleep quality was observed in the probiotic group, while the placebo group showed a decline (PRO: from 1.4 to 1.0; PLA: from 0.8 to 1.2;= 0.07841). No other differences were noted in assessed outcomes (pain and fatigue). Probiotic supplementation showed no significant impact on CB2 or FAAH levels, pain, or fatigue but suggested potential benefits for sleep quality, suggesting an area for further research.
+A Mediterranean diet has positive effects on the brain in mid-older adults; however, there is scarce information on pregnant individuals. We aimed to evaluate the effect of a structured Mediterranean diet intervention on the cortical structure of the maternal brain during pregnancy. This study was a secondary analysis of the IMPACT BCN, a randomized clinical trial with 1221 high-risk pregnant women randomly allocated into three groups at 19-23 weeks of gestation: Mediterranean diet intervention, a mindfulness-based stress reduction program, or usual care. Maternal brain magnetic resonance imaging was performed during the third trimester of pregnancy in a random subgroup of participants. For this study, data from the Mediterranean diet and usual groups were analyzed. Maternal dietary intake, adherence to the Mediterranean diet and metabolite biomarkers were evaluated using a food frequency questionnaire, a 17-item dietary screener and plasma/urine samples, respectively. The cluster-wise analysis showed that the Mediterranean diet group participants (= 34) had significantly larger surface areas in the right precuneus (90%CI: <0.0001-0.0004,< 0.001) and left superior parietal (90%CI: 0.026-0.033,= 0.03) lobules compared to the usual care group participants (= 37). A larger right precuneus area was associated with high improvements in adherence to the Mediterranean diet, a high intake of walnuts and high concentrations of urinary hydroxytyrosol. A larger left superior parietal area was associated with a high intake of walnuts and high concentrations of urinary hydroxytyrosol. The promotion of a Mediterranean diet during pregnancy has a significant effect on maternal brain structure.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/ijms25115611
+- DOI: 10.3390/nu16111604
 
 2. Keywords
-- endocannabinoid system
-- gut microbiome
-- probiotics
-- sports nutrition
-- supplementation
+- Mediterranean diet
+- cortical area
+- magnetic resonance
+- pregnancy
+- randomized clinical trial
 
 3. Key Findings
-- A trend toward improved sleep quality was observed in the probiotic group, while the placebo group showed a decline (PRO: from 1
-- Probiotic supplementation showed no significant impact on CB2 or FAAH levels, pain, or fatigue but suggested potential benefits for sleep quality, suggesting an area for further research
+- The cluster-wise analysis showed that the Mediterranean diet group participants (= 34) had significantly larger surface areas in the right precuneus (90%CI: <0
 
 This study provides insights into:
-- endocannabinoid system assessment methods and outcomes
-- gut microbiome assessment methods and outcomes
-- probiotics assessment methods and outcomes
+- Mediterranean diet assessment methods and outcomes
+- cortical area assessment methods and outcomes
+- magnetic resonance assessment methods and outcomes

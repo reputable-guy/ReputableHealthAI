@@ -1,26 +1,26 @@
-Study Title: Impact of Weight Management on Obesity-Driven Biomarkers of Prostate Cancer Progression.
+Study Title: Continuous Ketone Monitoring via Wearable Microneedle Patch Platform.
 
 Study Summary:
-Excess body and visceral fat increase the risk of death from prostate cancer (PCa). This phase II study aimed to test whether weight reduction by > 5% total body weight counteracts obesity-driven PCa biomarkers. Forty men scheduled for prostatectomy were randomized into intervention (n = 20) or control (n = 20) arms. Intervention participants followed a weight management program for 4 to 16 weeks before and 6 months after surgery. Control participants received standardized educational materials. All participants attended visits at baseline, 1 week before surgery, and 6 months after surgery. Circulating immune cells, cytokines, and chemokines were evaluated. Weight loss, body composition/distribution, quality of life, and nutrition literacy were assessed. Prostate tissue samples obtained from biopsy and surgery were analyzed. From baseline to surgery (mean = 5 weeks), the intervention group achieved 5.5% of weight loss (95% CI, 4%-7%). Compared to the control, the intervention also reduced insulin, total cholesterol, LDL cholesterol, leptin, leptin:adiponectin ratio, and visceral adipose tissue. The intervention group had reduced c-peptide, plasminogen-activator-inhibitor-1, and T cell count from baseline to surgery. Myeloid-derived suppressor cells were not statistically different by group. Intervention group anthropometrics improved, including visceral and overall fat loss. No prostate tissue markers changed significantly. Quality of life measures of general and emotional health improved in the intervention group. The intervention group maintained or kept losing to a net loss of 11% initial body weight (95% CI, 8%-14%) at the study end. Our study demonstrated improvements in body composition, PCa biomarkers, and quality of life with a weight management intervention.
+Ketone bodies (KBs), especially &#x3b2;-hydroxybutyrate (BHB), have gained tremendous attention as potential biomarkers as their presence in bodily fluids is closely associated with health and wellness. While a variety of blood fingerstick test strips are available for self-testing of BHB, there are major needs for wearable devices capable of continuously tracking changing BHB concentrations. To address these needs, we present here the first demonstration of a wearable microneedle-based continuous ketone monitoring (CKM) in human interstitial fluid (ISF) and illustrate its ability to closely follow the intake of ketone drinks. To ensure highly stable and selective continuous detection of ISF BHB, the new enzymatic microneedle BHB sensor relies on a gold-coated platinum working electrode modified with a reagent layer containing toluidine blue O (TBO) redox mediator, &#x3b2;-hydroxybutyrate dehydrogenase (HBD) enzyme, a nicotinamide adenine dinucleotide (NAD) cofactor, along with carbon nanotubes (CNTs), chitosan (Chit), and a poly(vinyl chloride) (PVC) outer protective layer. The skin-worn microneedle sensing device operates with a miniaturized electrochemical analyzer connected wirelessly to a mobile electronic device for capturing, processing, and displaying the data. Cytotoxicity and skin penetration studies indicate the absence of potential harmful effects. A pilot study involving multiple human subjects evaluated continuous BHB monitoring in human ISF, against gold standard BHB meter measurements, revealing the close correlation between the two methods. Such microneedle-based CKM offers considerable promise for dynamic BHB tracking toward the management of diabetic ketoacidosis and personal nutrition and wellness.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/JU.0000000000003849
+- DOI: 10.1021/acssensors.3c02677
 
 2. Keywords
-- obesity
-- prostate cancer
-- quality-of-life
-- visceral fat
-- weight loss
+- continuous ketone monitoring
+- human interstitial fluid
+- ketone bodies
+- wearable microneedle patch
+- &#x3b2;-hydroxybutyrate
 
 3. Key Findings
-- Our study demonstrated improvements in body composition, PCa biomarkers, and quality of life with a weight management intervention
+- Findings extraction requires manual review
 
 This study provides insights into:
-- obesity assessment methods and outcomes
-- prostate cancer assessment methods and outcomes
-- quality-of-life assessment methods and outcomes
+- continuous ketone monitoring assessment methods and outcomes
+- human interstitial fluid assessment methods and outcomes
+- ketone bodies assessment methods and outcomes

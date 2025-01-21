@@ -1,26 +1,20 @@
-Study Title: Exploring the effect of the menstrual cycle or oral contraception on elite athletes' training responses when workload is not objectively quantifiable: the MILS approach and findings from female Olympians.
+Study Title: Efficacy of a brief psychological intervention to reduce distress in healthcare workers during the COVID-19 pandemic: A randomized controlled trial.
 
 Study Summary:
-Develop the Markov Index Load State (MILS) model, based on hidden Markov chains, to assess athletes' workload responses and investigate the effects of menstrual cycle (MC)/oral contraception (OC), sex steroids hormones and wellness on elite athletes' training. On a 7-month longitudinal follow-up, daily training (volume and perceived effort, n=2200) and wellness (reported sleep quality and quantity, fitness, mood, menstrual symptoms, n=2509) data were collected from 24 female rowers and skiers preparing for the Olympics. 51 MC and 54 OC full cycles relying on 214 salivary hormone samples were analysed. MC/OC cycles were normalised, converted in % from 0% (first bleeding/pill withdrawal day) to 100% (end). MILS identified three chronic workload response states: 'easy', 'moderate' and 'hard'. A cyclic training response linked to MC or OC (95% CI) was observed, primarily related to progesterone level (p=8.23e-03 and 5.72e-03 for the easy and hard state, respectively). MC athletes predominantly exhibited the 'easy' state during the cycle's first half (8%-53%), transitioning to the 'hard' state post-estimated ovulation (63%-96%). OC users had an increased 'hard' state (4%-32%) during pill withdrawal, transitioning to 'easy' (50%-60%) when on the pill. Wellness metrics influenced the training load response: better sleep quality (p=5.20e-04), mood (p=8.94e-06) and fitness (p=6.29e-03) increased the likelihood of the 'easy' state. Menstrual symptoms increased the 'hard' state probability (p=5.92e-02). The MILS model, leveraging hidden Markov chains, effectively analyses cumulative training load responses. The model identified cyclic training responses linked to MC/OC in elite female athletes.
+The COVID-19 pandemic has led to a sharp increase in mental health problems among healthcare workers (HCWs). Accessible interventions for HCWs are needed to reduce distress during the pandemic. This study evaluated the efficacy of a brief psychological intervention (RECHARGE) delivered by videoconferencing to reduce psychological distress in HCWs. This single-blind, parallel, randomized controlled trial enrolled HCWs in Switzerland who screened positive for psychological distress. Participants were randomly allocated to RECHARGE, that taught behavioral strategies or active treatment as usual (ATAU). Primary outcome was the total score on the Kessler Psychological Distress Scale (K10) measured at baseline, post-intervention, 2-month (primary outcome time point), and 6-month follow-up. Secondary outcomes included worry, anxiety and depression, burnout, traumatic stress, moral injury distress, and work performance. Between August 2020 and May 2021, 160 HCWs were enrolled in the study (RECHARGE = 82, ATAU = 78). Relative to ATAU, at 2 months RECHARGE led to a greater reduction in psychological distress (mean difference = 1.86, 95% confidence interval [CI .28, .34], p = .02; effect size = .37), and greater reductions in worry, burnout, and moral injury distress. These effects were not maintained at 6 months. This trial provides initial evidence that a brief psychological intervention delivered via videoconferencing results in significant reductions in mental health problems arising during the COVID-19 pandemic. Booster sessions or digital tools may be needed to maintain the initial gains achieved by RECHARGE. This intervention may have utility in improving the mental health of HCWs both during pandemics and everyday stressors. (PsycInfo Database Record (c) 2023 APA, all rights reserved).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/bmjsem-2023-001810
+- DOI: 10.1037/tra0001524
 
 2. Keywords
-- physical stress
-- rowing
-- skiing
-- statistics
-- women
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- physical stress assessment methods and outcomes
-- rowing assessment methods and outcomes
-- skiing assessment methods and outcomes
+- General research methodology and outcomes

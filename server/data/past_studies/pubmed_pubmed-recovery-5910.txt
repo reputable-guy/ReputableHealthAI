@@ -1,25 +1,26 @@
-Study Title: Effectiveness of an online recovery training for employees exposed to blurred boundaries between work and non-work: Bayesian analysis of a randomised controlled trial.
+Study Title: Influence of motivational interviewing on postoperative mobilization in the enhanced recovery after surgery (ERAS&#xae;) pathway in elective colorectal surgery - a randomized patient-blinded pilot study.
 
 Study Summary:
-Blurred work-non-work boundaries can have negative effects on mental health, including sleep. In a randomised control trial, we aimed to assess the effectiveness of an online recovery training programme designed to improve symptoms of insomnia in a working population exposed to blurred boundaries. 128 participants with severe insomnia symptoms (Insomnia Severity Index &#x2265;15) and working under blurred work and non-work conditions (segmentation supplies <2.25) were randomly assigned to either the recovery intervention or a waitlist control group (WLC). The primary outcome was insomnia severity, assessed at baseline, after 2&#x2009;months (T2) and 6&#x2009;months (T3). A greater reduction in insomnia was observed in the intervention compared with the WLC group at both T2 (=1.51; 95% CI=1.12 o 1.91) and T3 (=1.63; 95% CI=1.23 to 2.03]. This was shown by Bayesian analysis of covariance (ANCOVA), whereby the ANCOVA model yielded the highest Bayes factor (=3.23&#xd7;e] and a 99.99% probability. Likewise, frequentist analysis revealed significantly reduced insomnia at both T2 and T3. Beneficial effects were found for secondary outcomes including depression, work-related rumination, and mental detachment from work. Study attrition was 16% at T2 and 44% at T3. The recovery training was effective in reducing insomnia symptoms, work related and general indicators of mental health in employees exposed to blurred boundaries, both at T2 and T3. In addition to demonstrating the intervention's effectiveness, this study exemplifies the utilisation of the Bayesian approach in a clinical context and shows its potential to empower recipients of interventional research by offering insights into result probabilities, enabling them to draw informed conclusions. German Clinical Trial Registration (DRKS): DRKS00006223, https://drks.de/search/de/trial/DRKS00006223.
+Early mobilization is an essential component of the Enhanced Recovery after Surgery (ERAS&#xae;)-pathway. However, a large percentage of patients fail to achieve the ERAS&#xae; recommended goal (360 min out of bed from post-operative day 1/POD1). Motivational Interviewing (MI) is an evidence-based type of patient-centered consultation to promote intrinsic motivation. This study aims to evaluate if MI can improve postoperative mobilization. This two-arm, patient-blinded pilot randomized controlled trial included ERAS&#xae;-patients undergoing elective bowel resections. Conversations were validated by MI Treatment Integrity. Two validated motion sensors (movisens) and self-assessments were used to measure mobilization (POD1-POD3: Time out of bed, time on feet and step count). 97 patients were screened, 60 finally included and randomized. Cumulatively across POD1-3, the intervention group (IG) was longer out of bed than the control group (CG) (median: 685 vs. 420 min; p=0.022). The IG achieved the ERAS&#xae;-goal of 360 min/day more frequently across POD1-3 (27.4% vs. 10.61%; p=0.013). Time on feet was 131.5 min/day (median per POD) in IG vs. 95.8 min/day in the CG (p=0.212), step count was 1347 in IG vs. 754 steps/day in CG (p=0.298). MI could be conducted low threshold and was well accepted by patients. MI can improve mobilization in the context of ERAS&#xae;. Despite better performance, it should be noted that only 27.4% of the IG reached the ERAS&#xae;-compliance goal of 360 min/day. The findings of this pilot study stipulate to further test the promising perioperative effects of MI within a multicenter superiority trial. This study was registered prospectively in the German Clinical Trials Register on 25.02.2022. Trial registration number is "DRKS00027863".
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/bmjment-2024-301016
+- DOI: 10.1007/s00423-024-03321-z
 
 2. Keywords
-- Data Interpretation, Statistical
-- Depression & mood disorders
-- Sleep
+- Colorectal cancer
+- Minimal-invasive surgery
+- Motion sensors
+- Movisens
+- daVinci
 
 3. Key Findings
-- Likewise, frequentist analysis revealed significantly reduced insomnia at both T2 and T3
-- Beneficial effects were found for secondary outcomes including depression, work-related rumination, and mental detachment from work
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Data Interpretation, Statistical assessment methods and outcomes
-- Depression & mood disorders assessment methods and outcomes
-- Sleep assessment methods and outcomes
+- Colorectal cancer assessment methods and outcomes
+- Minimal-invasive surgery assessment methods and outcomes
+- Motion sensors assessment methods and outcomes

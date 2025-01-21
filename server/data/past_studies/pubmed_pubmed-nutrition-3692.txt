@@ -1,24 +1,30 @@
-Study Title: Using Body Composition Analysis for Improved Nutritional Intervention in Septic Patients: A Prospective Interventional Study.
+Study Title: A randomised controlled trial on the dietary intake of Saudi female adolescents living in Arar.
 
 Study Summary:
-The study aimed to determine whether using body composition data acquired through bio-electrical impedance analysis (BIA) to adjust diet formulas could improve outcomes in septic patients. There were 132 septic patients in medical intensive care units enrolled in the prospective, randomized, double-blind, interventional study. For the intervention group, dietitians had access to BIA data for adjusting diet formulas according to body composition variables on days 1, 3, and 8. The patients were also stratified based on nutritional risk using the modified Nutrition Risk in Critically ill (mNUTRIC) score. Patients with intervention were more likely to achieve caloric and protein intake goals compared to the control group, especially in the low-risk group. The intervention did not significantly affect mortality, but the survival curves suggested potential benefits. The high-risk group had longer ICU stays and mechanical ventilation duration, which were mitigated by the intervention. Certain body composition variables (e.g., extracellular water to total body water ratio and phase angle) showed differences between high-risk and low-risk groups and may be related to patient outcomes. Non-invasive body composition assessment using BIA can help dietitians adjust diet formulas for critically ill septic patients. Body composition variables may be associated with sepsis outcomes, but further research with larger patient numbers is needed to confirm these findings.
+Lifestyle changes in Saudi Arabia have affected the dietary intake of adolescents, who now consume more unhealthy foods. We assessed the dietary intake of female Saudi Arabian adolescents living in Arar. In this randomised cluster study, female students were selected randomly from assigned schools to form the intervention (n = 68) and control (n = 70) groups. Initially, a 60-minute seminar was held for mothers of students in the intervention group. Subsequently, 6 90-minute sessions were held over 3 months for the intervention group on topics such as food groups, healthy and unhealthy eating, body image and physical activity. The data were analysed using generalized estimating equations. The interaction effect (group by time) between the groups revealed statistically significant differences for dairy products (P < 0.001), sweetened beverages (P < 0.001), sweetened baked goods (P = 0.022) and fruits and vegetables (P < 0.003). The intervention significantly increased the intake of dairy products (P < 0.001) and fruits and vegetables (P = 0.003). It reduced the intake of sweetened beverages (P < 0.001) and sweetened baked goods (P = 0.010) in the intervention group. This intervention showed a grater positive effect on the intervention than the control group; it increased dietary intake of dairy products, fruits and vegetables, and reduced intake of sweetened beverages and sweetened baked goods among the intervention group participants. We recommend similar nutrition interventions among other young Saudi Arabian population groups to prevent obesity and other diseases.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15173814
+- DOI: 10.26719/emhj.23.090
 
 2. Keywords
-- body composition
-- phase angle
-- sepsis
+- Saudi Arabia
+- dairy products
+- diet
+- fruits and vegetables
+- nutrition
+- obesity
+- students
+- sweetened food
 
 3. Key Findings
-- , extracellular water to total body water ratio and phase angle) showed differences between high-risk and low-risk groups and may be related to patient outcomes
+- The interaction effect (group by time) between the groups revealed statistically significant differences for dairy products (P < 0
+- This intervention showed a grater positive effect on the intervention than the control group; it increased dietary intake of dairy products, fruits and vegetables, and reduced intake of sweetened beverages and sweetened baked goods among the intervention group participants
 
 This study provides insights into:
-- body composition assessment methods and outcomes
-- phase angle assessment methods and outcomes
-- sepsis assessment methods and outcomes
+- Saudi Arabia assessment methods and outcomes
+- dairy products assessment methods and outcomes
+- diet assessment methods and outcomes

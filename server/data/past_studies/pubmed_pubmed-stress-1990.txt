@@ -1,20 +1,20 @@
-Study Title: Cognitive and interpersonal moderators of two evidence-based depression prevention programs.
+Study Title: Randomized Phase II Study of Gemcitabine With or Without ATR Inhibitor Berzosertib in Platinum-Resistant Ovarian Cancer: Final Overall Survival and Biomarker Analyses.
 
 Study Summary:
-To test potential cognitive and interpersonal moderators of two evidence-based youth depression prevention programs. Two hundred four adolescents (= 14.62 years,= 1.65; 56% female; 71% White, 11% Black, 11% multiracial, 5% Asian, 2% other races, 18% Hispanic/Latinx) were randomized to either a cognitive-behavioral (Coping With Stress [CWS]) or interpersonal (Interpersonal Psychotherapy-Adolescent Skills Training [IPT-AST]) prevention program. Potential moderators, selected based on theory and research, included rumination, negative cognitive style, dysfunctional attitudes, hopelessness, parent-adolescent conflict, negative interactions with parents and friends, and social support from parents and friends. Depression symptoms were assessed repeatedly through 18 months postintervention. After adjusting for multiple comparisons, rumination (= -2.02,= .61,= .001,= .47), hopelessness (= -2.03,= .72,= .005,= .41), and conflict with father (= 1.68,= .74,= .02,= .32) moderated intervention effects on change in depression symptoms from postintervention through 18-month follow-up. For example, at high levels of conflict with father, youth in IPT-AST reported a significant decrease in symptoms during follow-up, whereas youth in CWS reported a nonsignificant change in symptoms. At low levels of conflict with father, youth in IPT-AST reported a significant increase in symptoms during follow-up, whereas youth in CWS reported a nonsignificant change in symptoms. These exploratory secondary analyses of Personalized Depression Prevention study data highlight specific cognitive and interpersonal risk factors that could be considered when determining which prevention program may be most effective for a given adolescent. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+The multicenter, open-label, randomized phase 2 NCI-9944 study (NCT02595892) demonstrated that addition of ATR inhibitor (ATRi) berzosertib to gemcitabine increased progression-free survival (PFS) compared to gemcitabine alone (hazard ratio [HR]=0.57, one-sided log-rank= .044, which met the one-sided significance level of 0.1 used for sample size calculation). We report here the final overall survival (OS) analysis and biomarker correlations (ATM expression by immunohistochemistry, mutational signature 3 and a genomic biomarker of replication stress) along with post-hoc exploratory analyses to adjust for crossover from gemcitabine to gemcitabine/berzosertib. At the data cutoff of January 27, 2023 (>30 months of additional follow-up from the primary analysis), median OS was 59.4 weeks with gemcitabine/berzosertib versus 43.0 weeks with gemcitabine alone (HR 0.79, 90% CI 0.52 to 1.2, one-sided log-rank= .18). An OS benefit with addition of berzosertib to gemcitabine was suggested in patients stratified into the platinum-free interval &#x2264;3 months (N = 26) subgroup (HR, 0.48, 90% CI 0.22 to 1.01, one-sided log-rank=.04) and in patients with ATM-negative/low (N = 24) tumors (HR, 0.50, 90% CI 0.23 to 1.08, one-sided log-rank= .06). The results of this follow-up analysis continue to support the promise of combined gemcitabine/ATRi therapy in platinum resistant ovarian cancer, an active area of investigation with several ongoing clinical trials.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1037/ccp0000886
+- DOI: 10.1200/PO.23.00635
 
 2. Keywords
 
 
 3. Key Findings
-- Findings extraction requires manual review
+- The multicenter, open-label, randomized phase 2 NCI-9944 study (NCT02595892) demonstrated that addition of ATR inhibitor (ATRi) berzosertib to gemcitabine increased progression-free survival (PFS) compared to gemcitabine alone (hazard ratio [HR]=0
 
 This study provides insights into:
 - General research methodology and outcomes

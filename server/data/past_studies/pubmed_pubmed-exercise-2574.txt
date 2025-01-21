@@ -1,25 +1,26 @@
-Study Title: The impact of acute blood-flow-restriction resistance exercise on somatosensory-evoked potentials in healthy adults.
+Study Title: Home-based exercise prehabilitation to improve disease-free survival and return to intended oncologic treatment after cancer surgery in older adults with frailty: a secondary analysis of a randomized trial.
 
 Study Summary:
-Blood-flow-restriction exercise (BFR) is an emerging method to stimulate hypertrophy and strength without the need for high training loads. However, the impact of BFRconcerning somatosensory processing remains elusive. Here, we aimed to investigate the acute effects of BFRon somatosensory processing in healthy adults using somatosensory-evoked potentials (SEPs). Twelve healthy adults (23.0&#xa0;&#xb1;&#xa0;3.2 years of age) participated in a randomized crossover experiment, consisting of three experimental conditions: application of blood-flow restriction without resistance exercise (BFR), resistance exercise for multiple sets with blood-flow restriction (BFR) and traditional resistance exercise (unilateral biceps curls) for multiple sets without BFR (EX). SEP measurements were recorded bilaterally before, during and after each condition. SEP amplitudes were largely unaffected during various occlusive conditions. Nonetheless, our findings demonstrate a significant decrease in N9 latencies for condition EX compared with BFR, specifically in the exercised limb (mean difference&#xa0;=&#xa0;-0.26&#xa0;ms, SE&#xa0;=&#xa0;0.06&#xa0;ms, P&#xa0;=&#xa0;0.002, d&#xa0;=&#xa0;-0.335). This study provides evidence on the lack of impact of BFRwithin the somatosensory domain, according to current guidelines. As an alternative method to traditional high-load resistance exercise, BFRmight offer a considerable upside for rehabilitative settings by reducing strain on the musculoskeletal system.
+Improving survivorship for patients with cancer and frailty is a priority. We aimed to estimate whether exercise prehabilitation improves disease-free survival and return to intended oncologic treatment for older adults with frailty undergoing cancer surgery. We conducted a secondary analysis of the oncologic outcomes of a randomized trial of patients&#x2009;&#x2265;&#x2009;60&#xa0;yr of age with frailty undergoing elective cancer surgery. Participants were randomized either to a supported, home-based exercise program plus nutritional guidance or to usual care. Outcomes for this analysis were one-year disease-free survival and return to intended oncologic treatment. We estimated complier average causal effects to account for intervention adherence. We randomized 204 participants (102 per arm); 182 were included in our modified intention-to-treat population and, of these participants, 171/182 (94%) had complete one-year follow up. In the prehabilitation group, 18/94 (11%) died or experienced cancer recurrence, compared with 19/88 (11%) in the control group (hazard ratio [HR], 1.25; 95% confidence interval [CI], 0.66 to 2.34; P&#x2009;=&#x2009;0.49). Return to intended oncologic treatment occurred in 24/94 (29%) patients the prehabilitation group vs 20/88 (23%) in the usual care group (HR, 1.53; 95% CI, 0.84 to 2.77; P&#x2009;=&#x2009;0.16). Complier average causal effects directionally diverged for disease-free survival (HR, 0.91; 95% CI, 0.20 to 4.08; P&#x2009;=&#x2009;0.90) and increased the point estimate for return to treatment (HR, 2.04; 95% CI, 0.52 to 7.97; P&#x2009;=&#x2009;0.30), but in both cases the CIs included 1. Randomization to home-based exercise prehabilitation did not lead to significantly better disease-free survival or earlier return to intended oncologic treatment in older adults with frailty undergoing cancer surgery. Our results could inform future trials powered for more plausible effect sizes, especially for the return to intended oncologic treatment outcome. ClinicalTrials.gov ( NCT02934230 ); first submitted 22 August 2016.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1113/EP091911
+- DOI: 10.1007/s12630-024-02835-w
 
 2. Keywords
-- biceps curl
-- blood&#x2010;flow restriction
-- somatosensory excitability
-- somatosensory&#x2010;evoked potentials
+- cancer
+- exercise
+- frailty
+- prehabilitation
+- randomized trial
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- biceps curl assessment methods and outcomes
-- blood&#x2010;flow restriction assessment methods and outcomes
-- somatosensory excitability assessment methods and outcomes
+- cancer assessment methods and outcomes
+- exercise assessment methods and outcomes
+- frailty assessment methods and outcomes

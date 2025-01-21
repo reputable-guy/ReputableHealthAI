@@ -1,24 +1,20 @@
-Study Title: Clinical efficacy and safety of transvaginal natural orifice transluminal endoscopic surgery for benign adnexal disease: a prospective trial.
+Study Title: Efficacy of EMLA for Office-based Andrology Procedures Under Local Anesthesia: A&#xa0;Randomized Control Trial.
 
 Study Summary:
-There is a scarcity of prospective clinical research evidence regarding the utilization of transvaginal natural orifice translumenal endoscopic surgery (vNOTES) as a treatment option for ovarian cysts. The objective of this study was to assess the feasibility and safety of employing vNOTES for the management of ovarian cysts. Our study included women between the ages of 18 and 70 who intended to undergo surgical intervention for benign lesions. Stratified blocked randomization was employed to allocate participants into groups. The main objective was to assess whether the assigned group adhered to the recommended surgical technique for ovarian cystectomy or adnexectomy, without any deviation to alternative surgical methods. A total of 196 patients were included in the study, with all surgeries in each group being conducted according to the assigned procedures. Among them, the ovarian cystectomy layer included 58 cases in the vNOTES group and 58 cases in the conventional laparoscopy (CL) groups. The adnexectomy layer included 40 cases in the vNOTES group and 40 cases in the CL group. Utilizing a sensitivity analysis, the two-sided 95% lower confidence limit was determined to be 5.5% for the disparity in proportions between the vNOTES groups and CL groups. These lower limits fell below the predetermined non-inferiority margin of 10%. The study findings demonstrate that vNOTES was not inferior to CL in terms of adnexectomy or ovarian cystectomy. vNOTES can be considered a more minimally invasive surgical approach, as it results in reduced postoperative pain, faster recovery, and absence of visible incisions. Overall, vNOTES proves to be a safe, feasible, and less invasive treatment option. This study retrospectively registered with the China Clinical Trial Registry with the registration number ChiCTR2100052223(22-10-2021).
+To evaluate the effectiveness of Eutectic Mixture of Local Anesthetic (EMLA), a topical anesthetic cream, in office-based invasive andrological procedures such as hydrocelectomy, spermatocelectomy, and others, aimed at minimizing pain perception and enhancing the overall patient experience. A double-blinded randomized controlled trial was conducted for patients undergoing scrotal andrology surgeries under LA. Power calculation was performed with an estimated sample size of 72. Participants were randomly assigned in a 1:1 ratio to topical EMLA +&#xa0;LA versus LA alone. In the post-operative recovery area, patient will be asked to complete a VAS questionnaire rating pain with LA administration and pain with procedure. Analysis comparing VAS pain scores of both groups was performed using the independent sample t-test method. Seventy-two patients were included in our analysis, with 36 in the control and 36 in the intervention arm. For patient pain with administration of LA, the control arm reported an average VAS pain score of 4.31, compared to 3.72 in the intervention arm (P&#xa0;=&#xa0;.319). For patient pain with procedure, patients in the control arm reported a median VAS pain score of 3.47 compared to 3.03 (P&#xa0;=&#xa0;.432) in the intervention arm. Overall, 86% (62/72) of patients reported that they would either be "very likely" (4/5) or "highly likely" (5/5) to undergo future procedures under local anesthetic. While performing scrotal surgeries under LA appears to be well tolerated and a feasible option, the application of EMLA cream does not appear to significantly alter patient-reported outcomes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12905-024-03226-5
+- DOI: 10.1016/j.urology.2024.07.004
 
 2. Keywords
-- Ovarian cyst
-- Prospective randomized controlled trial
-- vNOTES
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Ovarian cyst assessment methods and outcomes
-- Prospective randomized controlled trial assessment methods and outcomes
-- vNOTES assessment methods and outcomes
+- General research methodology and outcomes

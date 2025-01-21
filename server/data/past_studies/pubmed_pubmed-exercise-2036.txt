@@ -1,26 +1,27 @@
-Study Title: Patient Preferences for Addressing Unhealthy Behaviors, Mental Health Challenges, and Social Needs in Primary Care.
+Study Title: Effects of a symptom-titrated exercise program on fatigue and quality of life in people with post-COVID condition - a randomized controlled trial.
 
 Study Summary:
-Guidelines recommend addressing health behaviors, mental health, and social needs in primary care. However, it is unclear how often patients want support to address these risks. As part of a randomized trial comparing enhanced care planning versus usual care, we evaluated what risks patients wanted to address. All patients with multiple chronic conditions, 1 or more of which was uncontrolled, from 81 clinicians in 30 primary care practices. Using My Own Health Report (MOHR), patients identified and prioritized their health risks to create a care plan. All patients had at least 1 unhealthy behavior (100%) and most had a mental health risk (66.8%) and a social need (51.3%). Participants more often chose to create care plans addressing unhealthy behaviors (92.5%) rather than mental health (23.2%), or social needs (12.5%). The most frequently created care plans were for exercise (65.1%), weight loss (37.2%), and nutrition (36.2%). All patients had 1 or more unhealthy behaviors, mental health risks, or social needs, and were more likely to address health behaviors. We need to better understand these patient choices, and change the culture to normalize the integration of mental health and social care into primary care.
+Fatigue is the most prevalent symptom within the post-COVID condition (PCC). Furthermore, many patients suffer from decreased physical performance capacity and post-exertional malaise. Although exercise has been proposed as an effective therapeutic strategy for PCC, there is limited evidence on individualised and symptom-titrated exercise interventions in patients with fatigue and PEM. Therefore, we conducted a multi-centre randomised controlled trial to investigate the effectiveness of an individualised and symptom-titrated exercise program. We measured fatigue, health-related quality of life, hand-grip strength, endurance capacity and PEM before and after the 10-week intervention. A total of 118 individuals with PCC were included in the final intention-to-treat analysis. All tests and training sessions took place in commercial fitness and health facilities. We found significant effects on fatigue severity, health-related quality of life and physical performance capacity. Adjusting the individual exercise load to daily fatigue has proven to be an effective and safe strategy in PCC patients with fatigue. Under the guidance of qualified professionals and by utilising symptom-titrated training recommendations, commercial fitness and health facilities present an appropriate setting for outpatient exercise rehabilitation in PCC.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/21501319241307741
+- DOI: 10.1038/s41598-024-82584-4
 
 2. Keywords
-- care planning
-- chronic disease
-- patient navigation
-- patient preferences
-- primary care
+- COVID-19
+- Coronavirus
+- Exercise
+- Long COVID
+- PCC
+- SARS-CoV-2
 
 3. Key Findings
-- Findings extraction requires manual review
+- We found significant effects on fatigue severity, health-related quality of life and physical performance capacity
 
 This study provides insights into:
-- care planning assessment methods and outcomes
-- chronic disease assessment methods and outcomes
-- patient navigation assessment methods and outcomes
+- COVID-19 assessment methods and outcomes
+- Coronavirus assessment methods and outcomes
+- Exercise assessment methods and outcomes

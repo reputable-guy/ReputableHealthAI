@@ -1,28 +1,26 @@
-Study Title: The Comparison of Individual and Group Hybrid Telerehabilitation Methods in Women with Urinary Incontinence.
+Study Title: Saccharomyces boulardii improves clinical and paraclinical indices in overweight/obese knee osteoarthritis patients: a randomized triple-blind placebo-controlled trial.
 
 Study Summary:
-The aim is to compare the effects of the progressive training program (PTP), a new protocol, with two different hybrid telerehabilitation methods, on the parameters related to urinary incontinence in women with urinary incontinence. A total of 50 participants with stress or mixed urinary incontinence participated in this two-arm, parallel-group, randomized, non-inferiority trial. Individual hybrid training (IHT) or group hybrid training (GHT) was given to women for 8&#xa0;weeks. The Power, Endurance, Repetitions, Fast contractions, and Every Contraction Timed (PERFECT) scheme and surface electromyography were used to assess pelvic floor muscle function, whereas quality of life, exercise adherence, and symptoms were assessed by questionnaires and a 3-day bladder diary. An intention-to-treat analysis was performed. Linear mixed model analysis with the factors "time" and "group" was used to determine the effects of IHT and GHT. The primary outcome was changes in pelvic floor muscle function as evaluated using the PERFECT scheme and surface electromyography at the 4th and 8th weeks relative to baseline. No statistical difference was found between the groups except for "power" of the PERFECT scheme and "nocturnal urination frequency" (p&#x2009;>&#x2009;0.05). The GHT showed significant improvement in P and nocturnal urination frequency at the end of the 8th week (p&#x2009;<&#x2009;0.05). From baseline to week 8, the effect size for the P value was found to be small (Cohen's d&#x2009;=&#x2009;0.33). Eight&#xa0;weeks of PTP did not lead to different results in incontinence-related parameters in either of the training methods. It may be better to conduct GHT in terms of implementing PTP in incontinence and training programs in terms of time, staff workload, and applicability.
+This study aimed to determine the effect of the probiotic Saccharomyces boulardii (S. boulardii) in patients with knee osteoarthritis (KOA). In this study, 70 patients with KOA were recruited via outpatient clinics between 2020 and 2021 and randomly assigned to receive probiotics or placebo supplements for 12&#xa0;weeks. The primary outcome was a change in pain intensity according to the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain score. Sixty-three patients completed the trial. A linear mixed analysis of covariance (ANCOVA) model analysis showed that probiotic was better than placebo in decreasing the pain intensity measured by visual analogue scale (VAS) [-2.11 (-2.59, -1.62) in probiotic group and -0.90 (-1.32, -0.48) in placebo group, p&#x2009;=&#x2009;0.002] and WOMAC pain score [-3.57 (-4.66, -2.49) in probiotic group and -1.43 (-2.33, -0.53) in placebo group, p&#x2009;<&#x2009;0.001]. The daily intake of acetaminophen for pain management significantly decreased in the probiotic group [-267.18 (-400.47, -133.89) mg, p&#x2009;<&#x2009;0.001] that was significantly better than placebo (p&#x2009;=&#x2009;0.006). Probiotic significantly decreased the serum levels of high-sensitivity C-reactive protein (hs-CRP) inflammatory index [-2.72 (-3.24, -2.20) &#xb5;g/ml] and malondialdehyde (MDA) oxidative stress index [-1.61 (-2.11, -1.11) nmol/ml] compared to the placebo (p&#x2009;=&#x2009;0.002 and p&#x2009;<&#x2009;0.001, respectively). Probiotic was better than placebo in increasing the scores of role disorder due to physical health (p&#x2009;=&#x2009;0.023), pain (p&#x2009;=&#x2009;0.048) and physical health (p&#x2009;=&#x2009;0.031). Probiotic S. boulardii supplementation in patients with KOA significantly improved pain intensity, some dimensions of QoL, and inflammatory and oxidative stress biomarkers with no severe side effects. Registered on the Iranian clinical trial website ( http://www.irct.ir : IRCT20161022030424N4) on 2019-09-02.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00192-024-05808-1
+- DOI: 10.1007/s00394-024-03428-5
 
 2. Keywords
-- Pelvic floor
-- Surface electromyography
-- Telerehabilitation
-- Urinary incontinence
-- Video conferencing
+- S. boulardii
+- Osteoarthritis
+- Probiotic
+- Visual analogue scale
+- Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC)
 
 3. Key Findings
-- No statistical difference was found between the groups except for "power" of the PERFECT scheme and "nocturnal urination frequency" (p&#x2009;>&#x2009;0
-- The GHT showed significant improvement in P and nocturnal urination frequency at the end of the 8th week (p&#x2009;<&#x2009;0
-- From baseline to week 8, the effect size for the P value was found to be small (Cohen's d&#x2009;=&#x2009;0
+- A linear mixed analysis of covariance (ANCOVA) model analysis showed that probiotic was better than placebo in decreasing the pain intensity measured by visual analogue scale (VAS) [-2
 
 This study provides insights into:
-- Pelvic floor assessment methods and outcomes
-- Surface electromyography assessment methods and outcomes
-- Telerehabilitation assessment methods and outcomes
+- S. boulardii assessment methods and outcomes
+- Osteoarthritis assessment methods and outcomes
+- Probiotic assessment methods and outcomes

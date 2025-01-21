@@ -1,26 +1,27 @@
-Study Title: Effects of propofol, ketamine-propofol mixture in pediatric dental patients undergoing intravenous sedation: a clinical study.
+Study Title: Effect of degalactosylated bovine glycoprotein formulations MAF and M &#x441;apsules on lymphopenia and clinical outcomes in hospitalized COVID-19 patients: a randomized clinical trial.
 
 Study Summary:
-This study aimed to evaluate the clinical effects, complications (peri- and postoperative), depth of sedation, recovery times, and changes in anxiety levels in paediatric dental patients receiving intravenous sedation with propofol and ketamine-propofol mixtures. This prospective clinical study included 69 healthy children (ASA 1) aged 3-7&#xa0;years. The patients were assigned randomly to propofol group (n&#x2009;=&#x2009;23), which received propofol; 1:3 ketofol group (n&#x2009;=&#x2009;23), which received 1:3 ketofol; or 1:4 ketofol group (n&#x2009;=&#x2009;23), which received 1:4 ketofol. The bispectral index (BIS) and Ramsay Sedation Scale (RSS) score were recorded at intervals of 5&#xa0;min to measure the depth of sedation, and vital signs were evaluated. Peri- and postoperative complications and recovery times were recorded. Anxiety levels were also evaluated using the Facial Image Scale (FIS) and changes in saliva cortisol levels (SCLs) before and after the intravenous sedation procedure. The Kruskal&#x2012;Wallis test and Wilcoxon signed-rank test were used to determine pre- and posttreatment parameters. Dunn's test for post hoc analysis was used to determine the differences among groups. Children's pre- and posttreatment anxiety levels did not differ significantly according to FIS scores, and increases in SCLs were detected in 1:3 ketofol and 1:4 ketofol groups after dental treatment was completed. Compared with those in the other groups, the BIS values of the patients in 1:4 ketofol indicated a slightly lower depth of sedation. The recovery time of the patients in 1:3 ketofol was longer than that of patients in propofol and 1:4 ketofol. The incidence of postoperative complications (agitation, hypersalivation, nausea/vomiting, and diplopia) did not differ among the groups. Ketamine-propofol combinations provided effective sedation similar to that of propofol infusion without any serious complications during dental treatment performed under intravenous sedation. The ketofol infusion increased the anxiety level of paediatric dental patients to a greater extent than the propofol infusion.
+Targeting mucosal immunity of the gut, which is known to provide antigen processing, while avoiding excessive or unnecessary inflammation, was tested as a way to modulate COVID-19 severity. Randomized open-label trial in 204 adults hospitalized with non-critical COVID-19 who received for 14 days in addition to standard of care (SOC) degalactosylated bovine glycoproteins formulations of either MAF capsules (MAF group) or M capsules (M group) or SOC only (control group). Median recovery time when patients did not require supplemental oxygen was 6 days in both study groups compared to 9 days in the control (MAF vs. control; P&#x2009;=&#x2009;0.020 and M vs. control; P&#x2009;=&#x2009;0.004). A greater reduction in mortality was seen in the MAF group compared to the control by day 14 (8.3% vs. 1.6%; P&#x2009;=&#x2009;0.121) and by day 29 (15.3% vs. 3.2%; P&#x2009;=&#x2009;0.020), and similarly in the M group by day 14 (8.3% vs. 2.9%; P&#x2009;=&#x2009;0.276) and by day 29 (15.3% vs. 2.9%; P&#x2009;=&#x2009;0.017). The proportion of those who had baseline absolute lymphocyte count (ALC) lower than 0.8&#x2009;&#xd7;&#x2009;10/L was 13/63 (20.6%), 17/69 (24.6%), and 18/72 (25.0%) of patients in MAF, M, and control group respectively. Day 29 mortality among these lymphopenic patients was three times higher than for the intent-to-treat population (21% vs. 7%) and consisted in above subgroups: 2/13 (15%), 2/17 (12%), and 6/18 (33%) of patients. The decreased mortality in both study subgroups correlated with greater ALC restoration above 0.8&#x2009;&#xd7;&#x2009;10/L level seen on day 14 in 91% (11/12) and 87.5% (14/16) of survivors in MAF and M subgroups respectively compared to 53.3% (8/15) of survivors in control subgroup. Incidences of any ALC decrease below the baseline level on day 14 occurred in 25.4% of patients in the MAF group and 29.0% of patients in the M group compared to 45.8% in control and ALC depletion by &#x2265;&#x2009;50% from the baseline level consisted of 7.9%, 5.8%, and 15.3% of cases in these groups respectively. This study showed that both study agents prevented ALC depletion and accelerated its restoration, which is believed to be one of the mechanisms of improved crucial clinical outcomes in hospitalized COVID-19 patients. The trial was registered after the trial start in ClinicalTrials.gov NCT04762628, registered 21/02/2021, https://www. gov/ct2/show/NCT04762628 .
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-61823-8
+- DOI: 10.1186/s12879-024-09286-0
 
 2. Keywords
-- Anxiety
-- Intravenous sedation
-- Ketofol
-- Propofol
-- Salivary cortisol level
+- COVID-19 treatment
+- Lymphopenia
+- Mortality
+- Mucosal immunity
+- Saisei M capsules
+- Saisei MAF capsules
 
 3. Key Findings
-- Compared with those in the other groups, the BIS values of the patients in 1:4 ketofol indicated a slightly lower depth of sedation
+- This study showed that both study agents prevented ALC depletion and accelerated its restoration, which is believed to be one of the mechanisms of improved crucial clinical outcomes in hospitalized COVID-19 patients
 
 This study provides insights into:
-- Anxiety assessment methods and outcomes
-- Intravenous sedation assessment methods and outcomes
-- Ketofol assessment methods and outcomes
+- COVID-19 treatment assessment methods and outcomes
+- Lymphopenia assessment methods and outcomes
+- Mortality assessment methods and outcomes

@@ -1,26 +1,20 @@
-Study Title: The Dose-Response in Elite Soccer: Preliminary Insights From Menstrual-Cycle Tracking During the FIFA Women's World Cup 2019.
+Study Title: Mass spectrometry-detected MGUS is associated with obesity and other novel modifiable risk factors in a high-risk population.
 
 Study Summary:
-This preliminary study examined the influence of estimated menstrual-cycle (MC)&#xa0;phase on responses to soccer matches and training sessions in preparation for and during the FIFA (F&#xe9;d&#xe9;ration internationale de football association) Women's World Cup 2019. Twenty outfield players representing a national team were tracked over a 45-day period. External (10-Hz global positioning system; total and distance covered at high-metabolic power [&#x2265;20&#xa0;W&#xb7;kg-1]) and internal load measures (minutes &#x2265;80% heart-rate maximum, sessional ratings of perceived exertion) were collected during all training and matches, with single-item wellness measures (fatigue, soreness, sleep quality, and sleep duration) collected each morning prior to activity. MC phase was estimated individually via an algorithm, informed from pretournament survey responses and ongoing symptom reporting (FitrWoman). Model comparison statistics were used to determine the impact of estimated MC phase in nonhormonal contraceptive users (n = 16). Sessional rating of perceived exertion responses to total distances &#x2265;5&#xa0;km were higher during the luteal phase (+0.6-1.0&#xa0;au; P &#x2264; .0178) versus menstruation (phase 1), but no other observable dose-response trends were observed. Sleep, fatigue, and soreness ratings were not typically associated with MC phase, with the exception of exacerbated fatigue ratings in luteal versus follicular phase 48 hours postmatch (-0.73&#xa0;au, P = .0275). Preliminary findings suggest that estimated MC phase may contribute to the understanding of the dose-response to soccer training and matches.
+Monoclonal gammopathy of undetermined significance (MGUS) is a premalignant condition of multiple myeloma with few known risk factors. The emergence of mass spectrometry (MS) for the detection of MGUS has provided new opportunities to evaluate its risk factors. In total, 2628 individuals at elevated risk for multiple myeloma were enrolled in a screening study and completed an exposure survey (PROMISE trial). Participant samples were screened by MS, and monoclonal proteins (M-proteins) with concentrations of &#x2265;0.2 g/L were categorized as MS-MGUS. Multivariable logistic models evaluated associations between exposures and MS outcomes. Compared with normal weight (body mass index [BMI] of 18.5 to <25&#xa0;kg/m2), obesity (BMI of &#x2265;30&#xa0;kg/m2) was associated with MS-MGUS, adjusting for age, sex, Black race, education, and income (odds ratio [OR], 1.73; 95% confidence interval [CI], 1.21-2.47; P&#xa0;= .003). High physical activity (&#x2265;73.5 metabolic equivalent of task (MET)-hours per week vs <10.5 MET-hours per week) had a decreased likelihood of MS-MGUS (OR, 0.45, 95%&#xa0;CI, 0.24-0.80; P&#xa0;= .009), whereas heavy smoking and short sleep had increased likelihood of MS-MGUS (>30 pack-years vs never smoker: OR, 2.19; 95%&#xa0;CI, 1.24-3.74; P&#xa0;= .005, and sleep <6 vs &#x2265;6 hours per day: OR, 2.11; 95%&#xa0;CI, 1.26-3.42; P&#xa0;= .003). In the analysis of all MS-detected monoclonal gammopathies, which are inclusive of M-proteins with concentrations of <0.2 g/L, elevated BMI and smoking were associated with all MS-positive cases. Findings suggest MS-detected monoclonal gammopathies are associated with a broader range of modifiable risk factors than what has been previously identified. This trial was registered at www.clinicaltrials.gov as #NCT03689595.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1123/ijspp.2022-0282
+- DOI: 10.1182/bloodadvances.2023010843
 
 2. Keywords
-- GPS
-- RPE
-- female
-- rating of perceived exertion
-- wellness
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- GPS assessment methods and outcomes
-- RPE assessment methods and outcomes
-- female assessment methods and outcomes
+- General research methodology and outcomes

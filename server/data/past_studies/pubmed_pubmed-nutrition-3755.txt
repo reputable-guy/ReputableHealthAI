@@ -1,33 +1,26 @@
-Study Title: Polygenic scores of diabetes-related traits in subgroups of type 2 diabetes in India: a cohort study.
+Study Title: Evaluating the Impact of the Prime Time Sister CirclesIntervention on Reducing Depressive Symptoms Among African American Women with Uncontrolled Hypertension.
 
 Study Summary:
-A machine-learning approach identified five subgroups of diabetes in Europeans which included severe autoimmune diabetes (SAID), severe insulin-deficient diabetes (SIDD), severe insulin-resistant diabetes (SIRD), mild obesity-related diabetes (MOD) and mild age-related diabetes (MARD) with partially distinct genetic aetiologies. We previously validated four of the non-autoimmune subgroups in people with young-onset type 2 diabetes (T2D) from the Indian WellGen study. Here, we aimed to apply European-derived centroids and genetic risk scores (GRSs) to the unselected (for age) WellGen to test their applicability and investigate the genetic aetiology of the Indian T2D subgroups. We applied European derived centroids and GRSs to T2D participants of Indian ancestry (WellGen, n&#xa0;=&#xa0;2217, 821 genotyped) and compared them with normal glucose tolerant controls (Pune Maternal Nutrition Study, n&#xa0;=&#xa0;461). SIDD was the predominant subgroup followed by MOD, whereas SIRD and MARD were less frequent. Weighted-GRS for T2D, obesity and lipid-related traits associated with T2D. We replicated some of the previous associations of GRS for T2D, insulin secretion, and BMI with SIDD and MOD. Unique to Indian subgroups was the association of GRS for (a) proinsulin with MOD and MARD, (b) liver-lipids with SIDD, SIRD and MOD, and (c) opposite effect of beta-cell GRS with SIDD and MARD, obesity GRS with MARD compared to Europeans. Genetic variants of fucosyltransferases were associated with T2D and MOD in Indians but not Europeans. The similarities emphasise the applicability of some of the European-derived GRSs to T2D and its subgroups in India while the differences highlight the need for large-scale studies to identify aetiologies in diverse ancestries. The data provide robust evidence for genetically distinct aetiologies for the T2D subgroups and at least partly mirror those seen in Europeans. Vetenskapsr&#xe5;det, Diabetes Wellness, and Hj&#xe4;rt-Lungfonden (Sweden), DST (India), Wellcome Trust, Crafoord Foundation and Albert P&#xe5;hlsson Foundation.
+The Prime Time Sister Circles&#xae;, a randomized controlled trial (PTSC-RCT), assessed the impact of a community-based peer support program on hypertension management among African American women 40-75&#xa0;years of age. While the PTSC-RCT was designed to evaluate changes in blood pressure control, subsequent sub-analyses revealed a high proportion of self-reported depressive symptoms in our sample. Accordingly, we conducted an ancillary investigation of the PTSC intervention on depression to ascertain its impact on reduced depressive symptoms in the study population. Depressive symptoms were measured using an adapted version of the Center for Epidemiologic Studies Depression Scale Revised (CES-D-10). We used unadjusted and adjusted fixed effect models. Data for this study came from the PTSC-RCT. We collected data between 2017 and 2018 in Washington, DC. We used a balanced analytical sample of 172 African American, English-speaking women between 40 to 75&#xa0;years old with uncontrolled hypertension. The intervention group participated in a 2-h, peer-based support group once a week for 13&#xa0;weeks. A trained PTSC facilitator facilitated sessions with experts who delivered content on various topics, including psychosocial wellness (e.g., stress, depressive symptoms, anxiety management, and self-esteem), physical health (e.g., hypertension, inflammation, and heart disease), physical activity, and healthy nutrition. Results from the fixed-effects models indicated that participants in the PTSC program exhibited a greater reduction in CES-D-10 score at three months (Coeff: -1.99, 95% CI: -3.49, -0.49) and at 15&#xa0;months (Coeff: -2.38, 95% CI: -3.94, -0.83), as compared to those in the control group. Evidence suggests that the Prime Time Sister Circles&#xae; intervention reduced depressive symptoms among African American women with low socioeconomic status and hypertension. NCT04371614.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.lansea.2023.100182
+- DOI: 10.1007/s11606-023-08288-z
 
 2. Keywords
-- Genetics of subgroups
-- India
-- MARD
-- MOD
-- Mild age-related diabetes
-- Mild obesity-related diabetes
-- SIDD
-- SIRD
-- Severe insulin-deficient diabetes
-- Severe insulin-resistant diabetes
-- Subgroups
-- Type 2 diabetes
+- African American Women
+- CES-D-10
+- PTSC
+- depressive symptoms.
 
 3. Key Findings
-- Vetenskapsr&#xe5;det, Diabetes Wellness, and Hj&#xe4;rt-Lungfonden (Sweden), DST (India), Wellcome Trust, Crafoord Foundation and Albert P&#xe5;hlsson Foundation
+- While the PTSC-RCT was designed to evaluate changes in blood pressure control, subsequent sub-analyses revealed a high proportion of self-reported depressive symptoms in our sample
+- Results from the fixed-effects models indicated that participants in the PTSC program exhibited a greater reduction in CES-D-10 score at three months (Coeff: -1
 
 This study provides insights into:
-- Genetics of subgroups assessment methods and outcomes
-- India assessment methods and outcomes
-- MARD assessment methods and outcomes
+- African American Women assessment methods and outcomes
+- CES-D-10 assessment methods and outcomes
+- PTSC assessment methods and outcomes

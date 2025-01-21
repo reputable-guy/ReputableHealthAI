@@ -1,28 +1,21 @@
-Study Title: Measures of carbohydrate quality and their association with diet quality and cardiometabolic health outcomes in Singapore middle-aged and older adults.
+Study Title: Evaluation of conditional cash transfers and mHealth audio messaging in reduction of risk factors for childhood malnutrition in internally displaced persons camps in Somalia: A 2 &#xd7; 2 factorial cluster-randomised controlled trial.
 
 Study Summary:
-Carbohydrate quality may play a key role in cardiometabolic health and disease risk. This study aimed to assess the dietary carbohydrate quality of the free-living middle-aged and older adults in Singapore, and its association with overall diet quality and cardiometabolic health. This cross-sectional study examined the diet and cardiometabolic disease risk indicators of middle-aged and older adults in Singapore (n&#xa0;=&#xa0;104). Dietary carbohydrate quality was assessed as the pass and fail rate of the population to four measures of carbohydrate quality: (i) dietary fiber recommended daily allowance (RDA), (ii) whole-grain recommendation, (iii) free sugar recommendation, and (iv) carbohydrate metrics. The association between each carbohydrate quality measure and diet quality, as well as cardiometabolic health, was assessed. Except for free sugar recommendation, the carbohydrate quality of the population was found to be poor with a low adherence (20-36%) to three measures. Subjects meeting these measures had generally higher intakes of fiber, protein, and most micronutrients compared with subjects who failed. Meeting different variants of the carbohydrate metrics was associated with 60% lower odds of pre-hypertensive blood pressure (p&#xa0;=&#xa0;0.037; p&#xa0;=&#xa0;0.047), and meeting the dietary fiber RDA was associated with lower waist circumference (p&#xa0;=&#xa0;0.021). An improvement in carbohydrate quality is warranted among free-living middle-aged and older adults in Singapore. Not all measures of carbohydrate quality were equally effective in preserving overall diet quality; the carbohydrate metrics and dietary fiber RDA can be identified as effective measures in relation to cardiometabolic disease risk. https://clinicaltrials.gov/ CLINICAL TRIAL REGISTRATION: NCT03554954, 13 Sept. 2018.
+Cash transfer programmes are increasingly used in humanitarian contexts to help address people's needs across multiple sectors. However, their impact on the key objectives of reducing malnutrition and excess mortality remains unclear. mHealth interventions show great promise in many areas of public health, but evidence for their impact on reducing the risk factors for malnutrition is uncertain. We therefore implemented a trial to determine the impacts of 2 interventions in a protracted humanitarian context, a cash transfer conditionality and mHealth audio messages. A 2 &#xd7; 2 factorial cluster-randomised trial was implemented in camps for internally displaced people (IDP) near Mogadishu, Somalia, starting in January 2019. The main study outcomes were assessed at midline and endline and included coverage of measles vaccination and the pentavalent immunisation series, timely vaccination, caregiver's health knowledge, and child diet diversity. Twenty-three clusters (camps) were randomised to receive or not receive conditional cash transfers (CCTs) and an mHealth intervention, and 1,430 households were followed up over 9 months. All camps received cash transfers made at emergency humanitarian level (US$70/household/month) for 3 months followed by a further 6 months at a safety net level (US$35). To be eligible to receive cash, households in camps receiving CCT were required to take their children <5 years age to attend a single health screening at a local clinic and were issued with a home-based child health record card. Participants in camps receiving the mHealth intervention were asked (but not required) to listen to a series of audio messages about health and nutrition that were broadcast to their mobile phone twice a week for 9 months. Participants and investigators were not blinded. Adherence to both interventions was monitored monthly and found to be high (>85%). We conducted intention-to-treat analysis. During the humanitarian intervention phase, the CCT improved coverage of measles vaccination (MCV1) from 39.2% to 77.5% (aOR 11.7, 95% CI [5.2, 26.1]; p < 0.001) and completion of the pentavalent series from 44.2% to 77.5% (aOR 8.9, 95% CI [2.6, 29.8]; p = < 0.001). By the end of the safety net phase, coverage remained elevated from baseline at 82.2% and 86.8%, respectively (aOR 28.2, 95% CI [13.9, 57.0]; p < 0.001 and aOR 33.8, 95% CI [11.0, 103.4]; p < 0.001). However, adherence to timely vaccination did not improve. There was no change in the incidence of mortality, acute malnutrition, diarrhoea, or measles infection over the 9 months of follow-up. Although there was no evidence that mHealth increased Mother's knowledge score (aOR 1.32, 95% CI [0.25, 7.11]; p = 0.746) household dietary diversity increased from a mean of 7.0 to 9.4 (aOR 3.75, 95% CI [2.04, 6.88]; p < 0.001). However, this was not reflected by a significant increase in child diet diversity score, which changed from 3.19 to 3.63 (aOR 2.1, 95% CI [1.0, 4.6]; p = 0.05). The intervention did not improve measles vaccination, pentavalent series completion, or timely vaccination, and there was no change in the incidence of acute malnutrition, diarrhoea, measles infection, exclusive breastfeeding, or child mortality. No significant interactions between the interventions were found. Study limitations included the limited time available to develop and test the mHealth audio messages and the necessity to conduct multiple statistical tests due to the complexity of the study design. A carefully designed conditionality can help achieve important public health benefits in humanitarian cash transfer programmes by substantially increasing the uptake of child vaccination services and, potentially, other life-saving interventions. While mHealth audio messages increased household diet diversity, they failed to achieve any reductions in child morbidity, malnutrition, or mortality. ISRCTN ISRCTN24757827. Registered November 5, 2018.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.numecd.2023.01.008
+- DOI: 10.1371/journal.pmed.1004180
 
 2. Keywords
-- Aging population
-- Carbohydrate nutrition
-- Carbohydrate quality
-- Cardiometabolic disease
-- Dietary fiber
-- Free sugars
-- Whole grain
+
 
 3. Key Findings
-- Except for free sugar recommendation, the carbohydrate quality of the population was found to be poor with a low adherence (20-36%) to three measures
+- Adherence to both interventions was monitored monthly and found to be high (>85%)
+- No significant interactions between the interventions were found
 
 This study provides insights into:
-- Aging population assessment methods and outcomes
-- Carbohydrate nutrition assessment methods and outcomes
-- Carbohydrate quality assessment methods and outcomes
+- General research methodology and outcomes

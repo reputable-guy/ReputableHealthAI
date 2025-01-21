@@ -1,25 +1,26 @@
-Study Title: A randomized, double-blinded, vehicle-controlled clinical trial of topical cryosim-1, a synthetic TRPM8 agonist, in prurigo nodularis.
+Study Title: Efficacy of transcranial alternating current stimulation in treating chronic insomnia and the impact of age on its effectiveness: A multisite randomized, double-blind, parallel-group, placebo-controlled study.
 
 Study Summary:
-Prurigo nodularis (PN) is an intensively pruritic skin disease that negatively influences quality of life. Cryosim-1 (Intrinsic IB Spot) is a synthetic, selective transient receptor potential melastatin 8 agonist. To investigate the efficacy and safety of cryosim-1 in PN patients. A randomized, double-blinded, placebo-controlled clinical trial including 30 patients was conducted. The numerical rating scale (NRS) of pruritus was evaluated before and 2&#x2009;h after cryosim-1 application at every visit. At week 8, the mean pruritus NRS before serum application (4.7&#x2009;&#xb1;&#x2009;0.4 treatment, 6.1&#x2009;&#xb1;&#x2009;0.5 placebo; p&#x2009;=&#x2009;0.045) and 2&#x2009;h after serum application (2.8&#x2009;&#xb1;&#x2009;0.4 treatment, 4.3&#x2009;&#xb1;&#x2009;0.5 placebo; p&#x2009;=&#x2009;0.031) were significantly lower in the treatment group, and the mean NRS for sleep disorder was significantly lower in the treatment group (2.2&#x2009;&#xb1;&#x2009;0.5 treatment, 4.2&#x2009;&#xb1;&#x2009;0.8 placebo; p&#x2009;=&#x2009;0.031). The mean satisfaction scales for pruritus improvement were significantly higher in the treatment group (7.2&#x2009;&#xb1;&#x2009;0.6) than in the placebo group (4.0&#x2009;&#xb1;&#x2009;0.9; p&#x2009;=&#x2009;0.005). There was no difference in TEWL between the two groups, and no adverse reactions were reported. Cryosim-1 is a safe and effective topical treatment for PN patients.
+Insomnia is a significant health issue associated with various systemic diseases. Transcranial alternating current stimulation (tACS) has been proposed as a potential intervention for insomnia. However, the efficacy and mechanisms of tACS in chronic insomnia remain unclear. Accordingly, this study aimed to investigate the efficacy of tACS in treating chronic insomnia in adults and assess the impact of age on its effectiveness using a large sample from two centers. A total of 120 participants with chronic insomnia underwent 20 daily sessions of tACS (duration: 40&#xa0;min, frequency: 77.5&#xa0;Hz, and intensity: 15&#xa0;mA) or sham tACS targeting the forehead and both mastoid areas over 4 weeks. Assessments were conducted at baseline, post-treatment, and 4-week follow-up. Primary outcomes included sleep quality and efficiency, onset latency, total sleep time, and daily disturbances. Secondary outcomes included depression, anxiety, and clinical impression. Compared with the control group, the tACS group demonstrated improved sleep quality and efficiency, increased total sleep time, and reduced daily disturbance (all ps&#xa0;<&#xa0;0.01). Moreover, tACS had a significant effect on clinical impression (p&#xa0;<&#xa0;0.001), but not depression and anxiety scores. Subgroup analyses revealed that older participants experienced significant benefits from tACS in sleep quality, efficiency, and overall insomnia reduction at post-treatment and follow-up (p&#xa0;<&#xa0;0.001). Notably, improved insomnia correlated with attenuated depressive and anxiety symptoms. These findings suggest that tACS may be an effective intervention for chronic insomnia within an eight-week timeframe, and age affects the response to tACS in terms of insomnia improvement.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/jocd.16079
+- DOI: 10.1016/j.jpsychires.2023.12.037
 
 2. Keywords
-- cold cream
-- gels
-- patient satisfaction
-- topical treatment
+- Insomnia
+- Pittsburgh sleep quality index
+- Randomized controlled trial
+- Transcranial alternating current stimulation
 
 3. Key Findings
-- Findings extraction requires manual review
+- Compared with the control group, the tACS group demonstrated improved sleep quality and efficiency, increased total sleep time, and reduced daily disturbance (all ps&#xa0;<&#xa0;0
+- Subgroup analyses revealed that older participants experienced significant benefits from tACS in sleep quality, efficiency, and overall insomnia reduction at post-treatment and follow-up (p&#xa0;<&#xa0;0
 
 This study provides insights into:
-- cold cream assessment methods and outcomes
-- gels assessment methods and outcomes
-- patient satisfaction assessment methods and outcomes
+- Insomnia assessment methods and outcomes
+- Pittsburgh sleep quality index assessment methods and outcomes
+- Randomized controlled trial assessment methods and outcomes

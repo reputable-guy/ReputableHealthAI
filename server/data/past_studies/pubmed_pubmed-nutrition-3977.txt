@@ -1,28 +1,26 @@
-Study Title: Infant blood concentrations of folate markers and catabolites are modified by 5,10-methylenetetrahydrofolate reductase C677T genotype and dietary folate source.
+Study Title: Pre-transplant CRP-albumin ratio as a biomarker in patients receiving haploidentical allogeneic hematopoietic transplantation: Developing a novel DRCI-based nomogram.
 
 Study Summary:
-Folate intake and polymorphisms in the methylenetetrahydrofolate reductase (MTHFR) gene may affect folate metabolism in infants. We investigated the association between infant's MTHFR C677T genotype, the dietary folate source, and concentrations of folate markers in the blood. We studied 110 breastfed infants (reference) and 182 infants who were randomly assigned to receive infant formulas enriched with either 78 &#x3bc;g folic acid or 81 &#x3bc;g (6S)-5-methyltetrahydrofolate (5-MTHF) per 100 g milk powder for 12 wk. The blood samples were available at the ages of <1 mo (baseline) and 16 wk. MTHFR genotype and concentrations of folate markers and catabolites [i.e., para-aminobenzoylglutamate (pABG)] were analyzed. At baseline, carriers of the TT genotype (vs. CC) had lower mean (SD) concentrations (all in nmol/L) of red blood cell (RBC) folate [1194 (507) vs. 1440 (521), P = 0.033) and plasma pABG [5.7 (4.9) vs. 12.5 (8.1), P < 0.001] but higher plasma 5-MTHF [33.9 (16.8) vs. 24.0 (12.6), P < 0.001]. Irrespective of the genotype, infant formula with 5-MTHF (vs. folic acid) caused a significant increase in RBC folate concentration [1278 (466) vs. 947 (552), P < 0.001]. In breastfed infants, plasma concentrations of 5-MTHF and pABG increased significantly by 7.7 (20.5) and 6.4 (10.5), respectively, from baseline to 16 wk. Infant formula that complies with the present EU legislation for folate intake increased RBC folate and plasma pABG concentrations at 16 wk (P < 0.001) than formula-fed infants. At 16 wk, plasma pABG concentrations remained &#x223c;50% lower in carriers of the TT (vs. the CC) genotype among all feeding groups. Folate intake from infant formula according to the present EU legislation increased RBC folate and plasma pABG concentrations in infants to a greater extent than breastfeeding, particularly in carriers of the TT genotype. However, this intake did not completely abolish the between-genotype differences in pABG. Whether these differences have any clinical relevance, however, remains unclear. This trial was registered at clinicaltrials.gov as NCT02437721.
+In allogeneic hematopoietic stem cell transplantation (allo-HSCT), prognostic indicators effectively predict survival. The Disease conditions prior to transplantation dramatically affects the outcome of HSCT. Optimization of the pre-transplant risk assessment is critical for enhancing allo-HSCT decision-making. Inflammation and nutritional status play significant roles in cancer genesis and progression. As a combined inflammatory and nutritional status biomarker, the C-reactive protein/albumin ratio (CAR) can accurately forecast the prognosis in various malignancies. This research sought to examine the predictive value of CAR and develop a novel nomogram by combining biomarkers and evaluating their importance following HSCT. Analyses were conducted retroactively on a cohort of 185 consecutive patients who underwent haploidentical hematopoietic stem cell transplantation (haplo-HSCT) at Wuhan Union Medical College Hospital during the period from February 2017 to January 2019. Of these patients, 129 were randomly assigned to the training cohort, and the remaining 56 patients constituted the internal validation cohort. Univariate and multivariate analyses were carried out to examine the predictive significance of clinicopathological factors in the training cohort. Subsequently, the survival nomogram model was developed and compared with the disease risk comorbidity index (DRCI) using the concordance index (C-index), calibration curve, receiver operating characteristics (ROC) curve, and decision curve analysis (DCA). Patients were separated into low and high CAR groups using a cutoff of 0.087, which independently predicted overall survival (OS). Based on risk factors, CAR, the Disease Risk Index(DRI), and the Hematopoietic Cell Transplantation-specific Comorbidity Index(HCT-CI), the nomogram was developed to predict OS. The C-index and area under the ROC curve confirmed the improved predictive accuracy of the nomogram. The calibration curves revealed that the observed probabilities agreed well with those predicted by the nomogram in training, validation and entire cohort. It was confirmed by DCA that the nomogram offered greater net benefits than DRCI among all cohorts. CAR is an independent prognostic indicator for haplo-HSCT outcomes. Higher CAR was related to worse clinicopathologic characteristics and poorer prognoses in patients underwent haplo-HSCT. This research provided an accurate nomogram for predicting the OS of patients following haplo-HSCT, illustrating its potential clinical utility.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.ajcnut.2022.09.002
+- DOI: 10.3389/fimmu.2023.1128982
 
 2. Keywords
-- (6S)-5-methyltetrahydrofolate
-- 5,10-methylenetetrahydrofolate reductase
-- breastfeeding
-- folate catabolism
-- folate requirements
-- formula feeding
-- infant nutrition
+- CAR
+- HSCT
+- disease risk comorbidity index
+- inflammation
+- nutrition
 
 3. Key Findings
-- Findings extraction requires manual review
+- The calibration curves revealed that the observed probabilities agreed well with those predicted by the nomogram in training, validation and entire cohort
 
 This study provides insights into:
-- (6S)-5-methyltetrahydrofolate assessment methods and outcomes
-- 5,10-methylenetetrahydrofolate reductase assessment methods and outcomes
-- breastfeeding assessment methods and outcomes
+- CAR assessment methods and outcomes
+- HSCT assessment methods and outcomes
+- disease risk comorbidity index assessment methods and outcomes

@@ -1,27 +1,26 @@
-Study Title: [Impact of short-peptide exclusive enteral nutrition therapy on physical growth and nutritional status in children with Crohn's disease].
+Study Title: Digital Intervention for behaviouR changE and Chronic disease prevenTION (DIRECTION): Study protocol for a randomized controlled trial of a web-based platform integrating nutrition, physical activity, and mindfulness for individuals with obesity.
 
 Study Summary:
-To evaluate the clinical efficacy of short-peptide exclusive enteral nutrition (EEN) therapy in inducing remission during active Crohn's disease (CD) in children, as well as changes in physical growth and nutritional indicators before and after treatment. A prospective study included 43 children with active CD who were admitted to the Department of Gastroenterology, Children's Hospital of Nanjing Medical University from January 2017 to January 2024. The participants were randomly divided into a medication treatment group (13 children) and a short-peptide + medication treatment group (30 children). The changes in the Pediatric Crohn's Disease Activity Index (PCDAI) scores, physical growth, and nutritional indicators before and after treatment were analyzed in both groups. The PCDAI scores in the short-peptide + medication treatment group were lower than those in the medication treatment group after treatment (<0.05). The Z-scores for weight-for-age, body mass index, and albumin levels were higher in the short-peptide + medication treatment group compared to the medication treatment group (<0.05). In the patients with moderate to severe CD, total protein levels in the short-peptide + medication treatment group were significantly higher than those in the medication treatment group (<0.05). Short-peptide EEN therapy can induce clinical remission in children with active CD and promote their physical growth while improving their nutritional status.
+Excess body weight, suboptimal diet, physical inactivity, alcohol consumption, sleep disruption, and elevated stress are modifiable risk factors associated with the development of chronic diseases. Digital behavioural interventions targeting these factors have shown promise in improving health and reducing chronic disease risk. The Digital Intervention for behaviouR changE and Chronic disease prevenTION (DIRECTION) study is a parallel group, two-arm, randomized controlled trial evaluating the effects of adding healthcare professional guidance and peer support via group-based sessions to a web-based wellness platform (experimental group, n&#xa0;=&#xa0;90) compared to a self-guided use of the platform (active control group, n&#xa0;=&#xa0;90) among individuals with a body mass index (BMI) of 30 to <35&#xa0;kg/mand aged 40-65&#xa0;years. Obesity is defined by a high BMI. The web-based wellness platform employed in this study is My Viva Plan (MVP)&#xae;, which holistically integrates nutrition, physical activity, and mindfulness programs. Over 16&#xa0;weeks, the experimental group uses the web-based wellness platform daily and engages in weekly online support group sessions. The active control group exclusively uses the web-based wellness platform daily. Assessments are conducted at baseline and weeks 8 and 16. The primary outcome is between-group difference in weight loss (kg) at week 16, and secondary outcomes are BMI, percent weight change, proportion of participants achieving 5% or more weight loss, dietary intake, physical activity, alcohol consumption, sleep, and stress across the study. A web-based wellness platform may be a scalable approach to promote behavioural changes that positively impact health. This study will inform the development and implementation of interventions using web-based wellness platforms and personalized digital interventions to improve health outcomes and reduce chronic disease risk among individuals with obesity.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7499/j.issn.1008-8830.2404090
+- DOI: 10.1016/j.ymeth.2024.09.009
 
 2. Keywords
-- Child
-- Crohn's disease
-- Exclusive enteral nutrition
-- Nutritional status
-- Physical growth
-- Short-peptide
+- Behavioural change
+- Chronic disease prevention
+- Digital health platform
+- Obesity intervention
+- Weight loss
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Child assessment methods and outcomes
-- Crohn's disease assessment methods and outcomes
-- Exclusive enteral nutrition assessment methods and outcomes
+- Behavioural change assessment methods and outcomes
+- Chronic disease prevention assessment methods and outcomes
+- Digital health platform assessment methods and outcomes

@@ -1,25 +1,25 @@
-Study Title: Benefits of using a support bra in women undergoing coronary artery bypass graft surgery: A randomized trial.
+Study Title: Low-Dose Alfentanil Inhibits Sufentanil-Induced Cough During Anesthesia Induction: A Prospective, Randomized, Double-Blind Study.
 
 Study Summary:
-Approximately 30 % of cardiac surgeries are conducted on women by median sternotomy, which often causes discomfort such as pain, affects quality of life, and delayed recovery compared with men. Breast size is related to operative wound complications, such as incisional pain, sternum dehiscence, and infection, which may affect hospital costs due to prolonged hospital stays. To evaluate breast size and operative wound complications and the effect of breast support on the incidence of pain, infection, and quality of life in women after coronary artery bypass grafting. Women were randomly assigned to one of three groups: group A (surgical breast support), group B (ordinary breast support), and group C (no-support). Observations were taken daily between the second and seventh postoperative days and at 30, 60, and 180 days. Pain was assessed using the Short-Form 36 Health Survey (SF36) for quality of life and a verbal numerical scale. The authors used the nonparametric Kruskal-Wallis and Friedman tests to examine variance. The authors used the Pearson correlation coefficient or the Spearman correlation for correlations between variables. A multivariate study was conducted to evaluate the occurrence of infection, and the logistic regression model with "stepwise" variable selection was used. A linear regression model with the "stepwise" variable selection was also used for hospitalization. The authors used SPSS 17.0 software for Windows, with a significance level of p < 0.05. There was no difference in pain evaluation between the groups in 190 women (p > 0.05). When comparing quality of life, there was a statistically significant difference in the functional capacity domain at 30 and 60 days, with group A having the best functional capacity (p < 0.05). The larger the breast size, the longer the hospital stay (p < 0.001) and the higher the probability of infection (p = 0.032). Patients with a history of stroke had a 3.8 higher incidence of infection (p = 0.040). The use of surgical support did not affect acute pain or sternal infection rate in the 6-month follow-up. However, it was effective in the functional capacity domain 30 days after surgery and maintained at 60 days.
+Cough is one of the most common complications following intravenous administration of sufentanil during anesthesia induction. The study aimed to investigate the protective effect of alfentanil, afentanyl derivative with short onset time and short duration, in reducing sufentanil-induced cough. Eighty patients that scheduled for thyroid surgery under general anesthesia were randomly divided into the alfentanil group and normal saline group, with 40 cases per group. Patients in the alfentanil group received intravenous administration of 2 &#x3bc;g/kg alfentanil prior to sufentanil injection during general anesthesia induction, while the same dose of normal saline was administered in the normal saline group. The outcomes measures included the incidence and severity of cough and common side effects of opioids following the administration of sufentanil during the induction of general anesthesia, intraoperative hemodynamics parameters and major adverse events during anesthesia recovery period. The incidence of cough within one minute after the injection of sufentanil during anesthesia induction was 40% in the normal saline group, and the pretreatment of alfentanil significantly reduced the incidence of sufentanil-induced cough to 5% (p < 0.05). Correspondingly, the patients in the alfentanil group had decreased severity of sufentanil-induced cough compared with the normal saline group (p < 0.05). No significant differences in the incidences of common side effects of opioids (dizziness, nausea and vomiting, chest tightness and respiratory depression) within one minute after sufentanil injection were found (p > 0.05). Furthermore, there were no significant differences between the two groups in intraoperative hemodynamic parameters, extubation time, or the incidences of emergence agitation, respiratory depression, delayed recovery from anesthesia and postoperative nausea and vomiting during Postanesthesia Care Unit stay (p > 0.05). Pretreatment with low-dose alfentanil (2 &#x3bc;g/kg) effectively and safely reduced both the incidence and severity of sufentanil-induced cough during anesthesia induction. Chinese Clinical Trial Registry (identifier: ChiCTR2300069286).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.clinsp.2024.100370
+- DOI: 10.2147/DDDT.S464823
 
 2. Keywords
-- Pain
-- Quality of life
-- Sternotomy
-- Surgical support
+- alfentanil
+- anesthesia induction
+- cough
+- sufentanil
 
 3. Key Findings
-- Findings extraction requires manual review
+- No significant differences in the incidences of common side effects of opioids (dizziness, nausea and vomiting, chest tightness and respiratory depression) within one minute after sufentanil injection were found (p > 0
 
 This study provides insights into:
-- Pain assessment methods and outcomes
-- Quality of life assessment methods and outcomes
-- Sternotomy assessment methods and outcomes
+- alfentanil assessment methods and outcomes
+- anesthesia induction assessment methods and outcomes
+- cough assessment methods and outcomes

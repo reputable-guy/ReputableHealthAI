@@ -1,28 +1,27 @@
-Study Title: The Biological Effect of Platelet-Rich Plasma on Rotator Cuff Tears: A Prospective Randomized In Vivo Study.
+Study Title: The Effect of Intravenous Tranexamic Acid on Perioperative Blood Loss, Transfusion Requirements, Verticalization, and Ambulation in Total Knee Arthroplasty: A Randomized Double-Blind Study.
 
 Study Summary:
-The positive effect of platelet-rich plasma (PRP) on tendon metabolism has been extensively investigated and proven in vitro. Additionally, in vivo animal studies have correlated the application of PRP with the enhancement of tenocyte anabolic activity in the setting of tendon degeneration. However, less is known about its in vivo effect on human tendon biology. The purpose of the current prospective randomized comparative study was to evaluate the effect of PRP on torn human supraspinatus tendon. Twenty consecutive eligible patients with painful and magnetic resonance imaging (MRI)-confirmed degenerative supraspinatus tendon tears were randomized in a one-to-one ratio into two groups. The patients in the experimental group (= 10) underwent an ultrasound-guided autologous PRP injection in the subacromial space 6 weeks before the scheduled operation. In the control group (= 10), no injection was made prior to surgery. Supraspinatus tendon specimens were harvested from the lateral end of the torn tendon during shoulder arthroscopy and were evaluated under optical and electron microscopy. In the control group, a mixed cell population of oval and rounded tenocytes within disorganized collagen and sites of accumulated inflammatory cells was detected. In contrast, the experimental group yielded abundant oval-shaped cells with multiple cytoplasmic processes within mainly parallel collagen fibers and less marked inflammation, simulating the intact tendon structure. These findings indicate that PRP can induce microscopic changes in the ruptured tendon by stimulating the healing process and can facilitate a more effective recovery.
+Total knee arthroplasty (TKA) is sometimes associated with significant perioperative bleeding. The aim of this study was to determine the efficacy of tranexamic acid (TXA) in reducing perioperative blood loss in patients undergoing primary TKA. The secondary objectives were to assess the efficacy of TXA in reducing the need for blood transfusion in these patients and to determine its effect on verticalization and ambulation after TKA.This study included 96 patients who were randomly assigned to two groups, each containing 48 patients. The study group received intravenous TXA at two time points: immediately after the induction with doses of 15 mg/kg and 10 mg/kg 15 min before the release of the pneumatic tourniquet. The control group received an equivalent volume of 0.9% saline solution via the same route.TXA markedly reduced (Z = -6.512,< 0.001) the total perioperative blood loss from 892.56 &#xb1; 324.46 mL, median 800 mL, interquartile range (IQR) 530 mL in the control group, to 411.96 &#xb1; 172.74 mL, median 375 mL, IQR 200 mL, in the TXA group. In the TXA group, only 5 (10.4%) patients received a transfusion, while in the control group, 22 (45.83%) received it (&#x3c7;2 = 15.536,= 0.001). Patients in the study group stood (&#x3c7;2 = 21.162,< 0.001) and ambulated earlier postoperatively, compared to the control group (&#x3c7;2 = 26.274,< 0.001). Patients who received TXA had a better overall postoperative functional recovery. There was a statistically significant difference in all the above results.TXA is an effective drug for reducing the incidence of perioperative bleeding, decreasing transfusion rates, and indirectly improving postoperative functional recovery in patients undergoing primary TKA.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/ijms25147957
+- DOI: 10.3390/medicina60071183
 
 2. Keywords
-- collagen
-- fibroblast
-- histology
-- microscopy
-- platelet-rich plasma
-- rotator cuff
-- tendon
+- ambulation
+- perioperative bleeding
+- total knee arthroplasty
+- tranexamic acid
+- transfusion
+- verticalization
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- collagen assessment methods and outcomes
-- fibroblast assessment methods and outcomes
-- histology assessment methods and outcomes
+- ambulation assessment methods and outcomes
+- perioperative bleeding assessment methods and outcomes
+- total knee arthroplasty assessment methods and outcomes

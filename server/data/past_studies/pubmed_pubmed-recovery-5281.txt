@@ -1,31 +1,26 @@
-Study Title: Cost-effectiveness of MLC601 in post-stroke functional recovery compared with placebo - the CHIMES & CHIMES-E studies.
+Study Title: Preventing Postoperative Catheter-Related Bladder Discomfort (CRBD) with Bladder Irrigation Using 0.05% Lidocaine Saline Solution: Monitoring with Analgesia Nociception Index (ANI) after Transurethral Surgery.
 
 Study Summary:
-Despite progress in stroke therapy (e.g., revascularisation interventions by thrombolysis and/or thrombectomy, organised stroke care), many stroke survivors will have impairment of neurological function. We aimed to compare the cost-effectiveness of an oral natural formulation, MLC601, versus placebo in functional recovery among subjects receiving standard of care after an ischemic stroke of intermediate severity assessed with NIH Stroke Scale at baseline (b-NIHSS 8-14). A Markov cohort model with a 2-year time horizon was developed to simulate patients from a published randomised placebo-controlled clinical trial of MLC601 in their post-stroke functional recovery assessed by modified Rankin Score (mRS), from a health system perspective. Transition probabilities were derived from a multi-centre clinical trial in South East Asia. As cost and utility data were not collected in the trial, therefore we extracted them from the published literature. The main outcomes were incremental cost, incremental quality-adjusted life-year (QALY) gained, and incremental cost-effectiveness ratio (ICER). Besides base-case and sensitivity analyses, we performed subgroup analyses to explore the heterogeneity of patients with poor-prognosis factors (b-NIHSS 10-14, stroke onset to treatment time&#x2009;>&#x2009;48&#xa0;h, rehabilitation during first 3 month). All costs are expressed in 2022 Euro and USD, with an annual discount rate of 3% applied to costs and QALYs. Base-case analysis showed that MLC601 was cost-effective compared with placebo, with &#x20ac;5,080 saved and 0.45 QALY gained, resulting in an ICER of -&#x20ac;11,352.50 per QALY gained. Similarly, results from subgroup analyses indicated that the use of MLC601 was a dominant strategy in all subgroups with poor-prognosis factors. Sensitivity analyses revealed the results were robust. Compared with placebo on top of standard stroke care, MLC601 was cost-effective in post-stroke functional recovery over two years. Due to the lack of cost and utility data from the study population, the results might not be generalizable to other settings. Further studies with country-specific data are needed to confirm the results of this study. URL http://www. gov . Unique identifier NCT00554723 November 7, 2007.
+(1): Catheter-related bladder discomfort (CRBD), a common and distressing consequence of indwelling urinary catheters, can significantly impact postoperative recovery. This study aimed to determine the effectiveness of bladder irrigation with a 0.05% lidocaine normal saline solution for the prevention of CRBD following transurethral surgery. (2): In this randomized, double-blind, placebo-controlled trial, patients were assigned to either a control group receiving normal saline or a treatment group receiving 0.05% lidocaine (2% lidocaine 25 mL in 1000 mL saline) for bladder irrigation. Both groups were administered fentanyl (1 &#x3bc;g/kg) for analgesia at the end of the procedure. The primary endpoint was the assessment of the incidence and severity of CRBD upon awakening within the first 6 h postoperatively, using a four-grade scale based on the patients' reports of discomfort. (3): Out of 79 patients completing the study, the incidence of moderate to severe CRBD was significantly lower in the lidocaine group (5.1%, 2/39) compared to the control group (25%, 10/40) at 10 min after waking from anesthesia (= 0.014). Furthermore, the lidocaine group experienced significantly less CRBD at 1 and 2 h postoperative (2.6% and 0%, respectively) compared to the control group (20% and 10%, respectively) (= 0.015,= 0.043), with no significant differences at 6 h (= 0.317). (4): The results suggest that bladder irrigation with 0.05% lidocaine reduces the occurrence of moderate to severe CRBD by nearly 80% in the initial 2 h postoperative period after transurethral surgery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12913-024-11618-4
+- DOI: 10.3390/medicina60091405
 
 2. Keywords
-- Cost
-- Cost-effectiveness
-- Cost-utility
-- Functional recovery
-- MLC601
-- MLC901
-- NeuroAiD
-- Stroke
+- analgesia nociception index (ANI)
+- bladder irrigation
+- catheter-related bladder discomfort (CRBD)
+- lidocaine
+- transurethral surgery
 
 3. Key Findings
-- Base-case analysis showed that MLC601 was cost-effective compared with placebo, with &#x20ac;5,080 saved and 0
-- Similarly, results from subgroup analyses indicated that the use of MLC601 was a dominant strategy in all subgroups with poor-prognosis factors
-- Sensitivity analyses revealed the results were robust
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cost assessment methods and outcomes
-- Cost-effectiveness assessment methods and outcomes
-- Cost-utility assessment methods and outcomes
+- analgesia nociception index (ANI) assessment methods and outcomes
+- bladder irrigation assessment methods and outcomes
+- catheter-related bladder discomfort (CRBD) assessment methods and outcomes

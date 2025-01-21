@@ -1,21 +1,27 @@
-Study Title: Early Motion and Directed Exercise (EMADE) following ankle fracture fixation: a pragmatic randomized controlled trial.
+Study Title: Effect of Semaglutide on Cardiac Structure and Function in Patients With Obesity-Related&#xa0;Heart&#xa0;Failure.
 
 Study Summary:
-This study aimed to compare the outcomes of two different postoperative management approaches following surgical fixation of ankle fractures: traditional cast immobilization versus the Early Motion and Directed Exercise (EMADE) programme. A total of 157 patients aged 18 years or older who underwent successful open reduction and internal fixation (ORIF) of Weber B (AO44B) ankle fractures were recruited to this randomized controlled trial. At two weeks post-surgical fixation, participants were randomized to either light-weight cast-immobilization or the EMADE programme, consisting of progressive home exercises and weekly advice and education. Both groups were restricted to non-weightbearing until six weeks post-surgery. The primary outcome was assessed using the Olerud-Molander Ankle Score (OMAS) questionnaire at 12 weeks post-surgery, with secondary measures at two, six, 24, and 52 weeks. Exploratory cost-effectiveness analyses were also performed. Overall, 130 participants returned their 12-week OMAS questionnaires. The mean OMAS was significantly higher in the EMADE group compared with the immobilized group (62.0 (SD 20.9) vs 48.8 (SD 22.5)), with a clinically meaningful mean difference of 13.2 (95% CI 5.66 to 20.73; p < 0.001). These differences were maintained at week 24, with convergence by week 52. No intervention-related adverse events, including instability, were reported. The EMADE programme demonstrated an accelerated recovery compared to traditional six-week cast immobilization for those who have undergone ORIF surgery to stabilize Weber B (AO44B) ankle fractures. The study found the EMADE intervention to be safe.
+Obesity is associated with adverse cardiac remodeling and is a key driver for the development and progression of heart failure (HF). Once-weekly semaglutide (2.4&#xa0;mg) has been shown to improve HF-related symptoms and physical limitations, body weight, and exercise function in patients with obesity-related heart failure with preserved ejection fraction (HFpEF), but the effects of semaglutide on cardiac structure and function in this population remain unknown. In this echocardiography substudy of the STEP-HFpEF Program, we evaluated treatment effects of once-weekly semaglutide (2.4&#xa0;mg) vs placebo on cardiac structure and function. Echocardiography at randomization and 52&#xa0;weeks was performed in 491 of 1,145 participants (43%) in the STEP-HFpEF Program (pooled STEP-HFpEF [Semaglutide Treatment Effect in People with Obesity and HFpEF] and STEP-HFpEF DM [Semaglutide Treatment Effect in People with Obesity, HFpEF, and Type 2 Diabetes] trials). The prespecified primary outcome was change in left atrial (LA) volume, with changes in other echocardiography parameters evaluated as secondary outcomes. Treatment effects of semaglutide vs placebo were assessed using analysis of covariance stratified by trial and body mass index, with adjustment for baseline parameter values. Overall, baseline clinical and echocardiographic characteristics were balanced among those receiving semaglutide (n&#xa0;=&#xa0;253) and placebo (n&#xa0;=&#xa0;238). Between baseline and 52&#xa0;weeks, semaglutide attenuated progression of LA remodeling (estimated mean difference [EMD] in LA volume,&#xa0;-6.13&#xa0;mL; 95%&#xa0;CI:&#xa0;-9.85 to&#xa0;-2.41&#xa0;mL; P&#xa0;=&#xa0;0.0013) and right ventricular (RV) enlargement (EMD in RV end-diastolic area:&#xa0;-1.99&#xa0;cm; 95%&#xa0;CI:&#xa0;-3.60 to&#xa0;-0.38&#xa0;cm; P&#xa0;=&#xa0;0.016; EMD in RV end-systolic area:&#xa0;-1.41&#xa0;cm; 95%&#xa0;CI:&#xa0;-2.42 to&#xa0;-0.40] cm; P&#xa0;=&#xa0;0.0064) compared with placebo. Semaglutide additionally improved E-wave velocity (EMD:&#xa0;-5.63&#xa0;cm/s; 95%&#xa0;CI:&#xa0;-9.42 to&#xa0;-1.84&#xa0;cm/s; P&#xa0;=&#xa0;0.0037), E/A (early/late mitral inflow velocity) ratio (EMD:&#xa0;-0.14; 95%&#xa0;CI:&#xa0;-0.24 to&#xa0;-0.04; P&#xa0;=&#xa0;0.0075), and E/e' (early mitral inflow velocity/early diastolic mitral annular velocity) average (EMD:&#xa0;-0.79; 95%&#xa0;CI:&#xa0;-1.60 to 0.01; P&#xa0;=&#xa0;0.05). These associations were not modified by diabetes or atrial fibrillation status. Semaglutide did not significantly affect left ventricular dimensions, mass, or systolic function. Greater weight loss with semaglutide was associated with greater reduction in LA volume (P&#xa0;=&#xa0;0.033) but not with changes in E-wave velocity, E/e' average, or RV end-diastolic area. In the STEP-HFpEF Program echocardiography substudy, semaglutide appeared to improve adverse&#xa0;cardiac remodeling compared with placebo, further suggesting that treatment with semaglutide may be disease modifying among patients with obesity-related HFpEF. (Research Study to Investigate How Well Semaglutide Works in People Living With Heart&#xa0;Failure and Obesity [STEP-HFpEF]; NCT04788511; Research Study to Look at How Well Semaglutide Works in People Living With Heart&#xa0;Failure, Obesity and Type 2 Diabetes [STEP-HFpEF DM]; NCT04916470).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1302/0301-620X.106B9.BJJ-2023-1433.R1
+- DOI: 10.1016/j.jacc.2024.08.021
 
 2. Keywords
-
+- cardiac remodeling
+- echocardiography
+- glucagon-like peptide-1 receptor agonists
+- heart failure
+- heart failure with preserved ejection fraction
+- obesity
 
 3. Key Findings
-- The EMADE programme demonstrated an accelerated recovery compared to traditional six-week cast immobilization for those who have undergone ORIF surgery to stabilize Weber B (AO44B) ankle fractures
-- The study found the EMADE intervention to be safe
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- cardiac remodeling assessment methods and outcomes
+- echocardiography assessment methods and outcomes
+- glucagon-like peptide-1 receptor agonists assessment methods and outcomes

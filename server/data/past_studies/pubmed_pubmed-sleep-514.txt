@@ -1,27 +1,27 @@
-Study Title: Evaluating the Impact of Probiotic Therapy on the Endocannabinoid System, Pain, Sleep and Fatigue: A Randomized, Double-Blind, Placebo-Controlled Trial in Dancers.
+Study Title: Investigating the efficacy of digital cognitive behavioural therapy in comparison to a sleep-monitoring application via integrated diary and actigraphy: A randomised-controlled trial.
 
 Study Summary:
-Emerging research links the endocannabinoid system to gut microbiota, influencing nociception, mood, and immunity, yet the molecular interactions remain unclear. This study focused on the effects of probiotics on ECS markers-cannabinoid receptor type 2 (CB2) and fatty acid amide hydrolase (FAAH)-in dancers, a group selected due to their high exposure to physical and psychological stress. In a double-blind, placebo-controlled trial (ClinicalTrials.gov NCT05567653), 15 dancers were assigned to receive either a 12-week regimen ofRosell-52 andRosell-17 or a placebo (PLA:= 10, PRO:= 5). There were no significant changes in CB2 (probiotic: 0.55 to 0.29 ng/mL; placebo: 0.86 to 0.72 ng/mL) or FAAH levels (probiotic: 5.93 to 6.02 ng/mL; placebo: 6.46 to 6.94 ng/mL;> 0.05). A trend toward improved sleep quality was observed in the probiotic group, while the placebo group showed a decline (PRO: from 1.4 to 1.0; PLA: from 0.8 to 1.2;= 0.07841). No other differences were noted in assessed outcomes (pain and fatigue). Probiotic supplementation showed no significant impact on CB2 or FAAH levels, pain, or fatigue but suggested potential benefits for sleep quality, suggesting an area for further research.
+Dissemination of digital cognitive behavioural therapy is a promising approach for treating insomnia in the broad population. Current evidence supports the effectiveness of the digital format, but clinical findings are often limited by the choice of control group and lack of in-depth therapeutic measures. This study was designed to investigate the specific effects of digital cognitive behavioural therapy in comparison to a self-monitoring application. Participants meeting criteria for insomnia were randomly allocated (1:1) to 8&#x2009;weeks of digital cognitive behavioural therapy or 8&#x2009;weeks of digital sleep monitoring (control application). The primary outcome, insomnia severity, was assessed at baseline, 8- and 16-weeks post-randomisation. Secondary outcomes included the assessment of sleep via application-integrated sleep diaries and actigraphy. Linear-mixed models were fitted to assess between-group differences. Fifty-six participants (48 females, mean age: M&#x2009;=&#x2009;45.55&#x2009;&#xb1;&#x2009;13.70&#x2009;years) were randomised to either digital cognitive behavioural therapy (n&#x2009;=&#x2009;29) or digital sleep monitoring (n&#x2009;=&#x2009;27). At 8- and 16-weeks post-randomisation, large treatment effects (d&#x2009;=&#x2009;0.87-1.08) indicated robust reductions (-3.70 and -2.97, respectively; p&#x2009;&#x2264;&#x2009;0.003) in insomnia severity in the digital cognitive behavioural therapy arm, relative to digital sleep monitoring. Treatment effects in favour of digital cognitive behavioural therapy were also found for self-reported and actigraphy-derived sleep continuity variables, indicating that sleep improved throughout the 8-week intervention period. Our study reinforces the role of digital cognitive behavioural therapy in achieving clinical improvements for patients with insomnia, affirming previous findings and supporting the specific effects of cognitive behavioural therapy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.3390/ijms25115611
+- Publication Date: 2025
+- DOI: 10.1111/jsr.14255
 
 2. Keywords
-- endocannabinoid system
-- gut microbiome
-- probiotics
-- sports nutrition
-- supplementation
+- cognitive behavioural therapy
+- digital therapeutics
+- mechanisms
+- self&#x2010;monitoring application
+- smartphone&#x2010;based therapy
 
 3. Key Findings
-- A trend toward improved sleep quality was observed in the probiotic group, while the placebo group showed a decline (PRO: from 1
-- Probiotic supplementation showed no significant impact on CB2 or FAAH levels, pain, or fatigue but suggested potential benefits for sleep quality, suggesting an area for further research
+- 08) indicated robust reductions (-3
+- Treatment effects in favour of digital cognitive behavioural therapy were also found for self-reported and actigraphy-derived sleep continuity variables, indicating that sleep improved throughout the 8-week intervention period
 
 This study provides insights into:
-- endocannabinoid system assessment methods and outcomes
-- gut microbiome assessment methods and outcomes
-- probiotics assessment methods and outcomes
+- cognitive behavioural therapy assessment methods and outcomes
+- digital therapeutics assessment methods and outcomes
+- mechanisms assessment methods and outcomes

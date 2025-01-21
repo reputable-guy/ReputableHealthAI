@@ -1,27 +1,26 @@
-Study Title: A Pilot Randomized Trial of Combined Cognitive-Behavioral Therapy and Exercise Training Versus Exercise Training Alone for the Management of Chronic Insomnia in Obstructive Sleep Apnea.
+Study Title: Effectiveness of Partially Hydrolyzed Guar Gum on Cognitive Function and Sleep Efficiency in Healthy Elderly Subjects in a Randomized, Double-Blind, Placebo-Controlled, and Parallel-Group Study.
 
 Study Summary:
-Insomnia treatment among individuals with comorbid insomnia and obstructive sleep apnea is suboptimal. In a pilot randomized controlled trial, 19 individuals with comorbid insomnia and obstructive sleep apnea were allocated to one of two arms: EX + EX, consisting of two 8-week phases of exercise training (EX), or RE + CBTiEX, encompassing 8&#xa0;weeks of relaxation training (RE) followed by 8&#xa0;weeks of combined cognitive-behavioral therapy and exercise&#xa0;(CBTiEX). Outcomes included Insomnia Severity Index (ISI), polysomnography, and cardiorespiratory fitness measures. A mixed-model analysis of variance revealed a Group &#xd7; Time interaction on peak oxygen consumption change, F(1, 14) = 10.1, p = .007, and EX increased peak oxygen consumption (p = .03, g' = -0.41) and reduced ISI (p = .001, g' = 0.82) compared with RE (p = .49, g = 0.16) post-8&#xa0;weeks. Post-16&#xa0;weeks, there was a significant Group &#xd7; Time interaction (p = .014) driven by RE + CBTiEX yielding a larger improvement in ISI (p = .023, g' = 1.48) than EX + EX (p = .88, g' < 0.1). Objective sleep was unchanged. This study showed promising effects of regular EX alone and combined with cognitive-behavioral therapy for insomnia on ISI in comorbid insomnia and obstructive sleep apnea.
+The consumption of functional foods in a daily diet is a promising approach for the maintenance of cognitive health. The present study examines the effects of water-soluble prebiotic dietary-fiber, partially hydrolyzed guar gum (PHGG), on cognitive function and mental health in healthy elderly individuals. Participants consumed either 5 g/day of PHGG or a placebo daily for 12 weeks in this randomized, double-blind, placebo-controlled, and parallel-group study. An assessment of cognitive functions, sleep quality, and subjective mood evaluations was performed at baseline and after 8 and 12 weeks of either PHGG or placebo intake. The visual memory scores in cognitive function tests and sleepiness on rising scores related to sleep quality were significantly improved in the PHGG group compared to the placebo group. No significant differences were observed in mood parameters between the groups. Vigor-activity scores were significantly improved, while the scores for Confusion-Bewilderment decreased significantly in the PHGG group when compared to the baseline. In summary, supplementation with PHGG was effective in improving cognitive functions, particularly visual memory, as well as enhancing sleep quality and vitality in healthy elderly individuals (UMIN000049070).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1123/jsep.2023-0139
+- DOI: 10.3390/nu16081211
 
 2. Keywords
-- CBTi
-- COMISA
-- CPET
-- EEG
-- ISI
+- cognitive functions
+- frailty
+- partially hydrolyzed guar gum
+- sleep efficiency
+- visual memory
 
 3. Key Findings
-- A mixed-model analysis of variance revealed a Group &#xd7; Time interaction on peak oxygen consumption change, F(1, 14) = 10
-- This study showed promising effects of regular EX alone and combined with cognitive-behavioral therapy for insomnia on ISI in comorbid insomnia and obstructive sleep apnea
+- Findings extraction requires manual review
 
 This study provides insights into:
-- CBTi assessment methods and outcomes
-- COMISA assessment methods and outcomes
-- CPET assessment methods and outcomes
+- cognitive functions assessment methods and outcomes
+- frailty assessment methods and outcomes
+- partially hydrolyzed guar gum assessment methods and outcomes

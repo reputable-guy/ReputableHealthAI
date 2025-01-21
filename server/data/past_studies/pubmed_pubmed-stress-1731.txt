@@ -1,27 +1,30 @@
-Study Title: No add-on therapeutic benefit of at-home anodal tDCS of the primary motor cortex to mindfulness meditation in patients with fibromyalgia.
+Study Title: Effects of stress-related neuromodulators on amygdala and hippocampus resting state functional connectivity.
 
 Study Summary:
-This study investigated the efficacy of combining at-home anodal transcranial direct current stimulation (tDCS) of the left primary motor cortex (M1) with mindfulness meditation (MM) in fibromyalgia patients trained in mindfulness. Thirty-seven patients were allocated to receive ten daily sessions of MM paired with either anodal or sham tDCS over the primary motor cortex. Primary outcomes were pain intensity and quality of life. Secondary outcomes were psychological impairment, sleep quality, mood, affective pain, mindfulness level, and transcranial magnetic stimulation (TMS) measures of cortical excitability. Outcomes were analyzed pre- and post-treatment, with a one-month follow-up. We found post-tDCS improvement in all clinical outcomes, including mindfulness level, except for positive affect and stress, in both groups without significant difference between active and sham conditions. No significant group*time interaction was found for all clinical and TMS outcomes. Our findings demonstrate no synergistic or add-on efffect of anodal tDCS of the left M1 compared to the proper effect of MM in patients with fibromyalgia. Our findings challenge the potential of combining anodal tDCS of the left M1 and MM in fibromyalgia.
+The human stress response is characterized by increases in neuromodulators, including norepinephrine (NE) and cortisol. Both neuromodulators can enter the brain and affect neurofunctional responses. Two brain areas associated with stress are the amygdala and the hippocampus. The precise influence of NE and cortisol on the amygdala and hippocampal resting state functional connectivity (RSFC) is poorly understood. To investigate the influence of NE and cortisol on the amygdala and hippocampal RSFC. We recruited 165 participants who received 10 mg yohimbine and/or 10 mg hydrocortisone in a randomized, placebo-controlled design. With seed-based analyses, we compared RSFC of the hippocampus and amygdala separately between the three groups that received medication versus placebo. We found no differences between yohimbine and placebo condition or between hydrocortisone and placebo condition regarding amygdala or hippocampal FC. Compared with placebo, the yohimbine/hydrocortisone condition showed increased amygdala and hippocampal RSFC with the cerebellum. Also, they had increased hippocampal RSFC with the amygdala and cerebral white matter. The group with elevated NE and cortisol showed significantly increased RSFC between the amygdala, hippocampus, and cerebellum compared to placebo. These three brain areas are involved in associative learning and emotional memory, suggesting a critical role for this network in the human stress response. Our results show that NE and cortisol together may influence the strength of this association. Compared to placebo, we found no differences in the groups receiving only one medication, suggesting that increasing one neuromodulator alone may not induce differences in neurofunctional responses. The study procedure has been registered at clinicaltrials.gov (ID: NCT04359147).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.clinph.2024.05.018
+- DOI: 10.1177/02698811241260972
 
 2. Keywords
-- Fibromyalgia
-- Home-based therapy
-- Mindfulness meditation
-- Pain
-- Transcranial direct current stimulation
+- Stress
+- amygdala
+- hippocampus
+- hydrocortisone
+- resting state functional connectivity
+- yohimbine
 
 3. Key Findings
-- We found post-tDCS improvement in all clinical outcomes, including mindfulness level, except for positive affect and stress, in both groups without significant difference between active and sham conditions
-- No significant group*time interaction was found for all clinical and TMS outcomes
+- We found no differences between yohimbine and placebo condition or between hydrocortisone and placebo condition regarding amygdala or hippocampal FC
+- Compared with placebo, the yohimbine/hydrocortisone condition showed increased amygdala and hippocampal RSFC with the cerebellum
+- The group with elevated NE and cortisol showed significantly increased RSFC between the amygdala, hippocampus, and cerebellum compared to placebo
+- Compared to placebo, we found no differences in the groups receiving only one medication, suggesting that increasing one neuromodulator alone may not induce differences in neurofunctional responses
 
 This study provides insights into:
-- Fibromyalgia assessment methods and outcomes
-- Home-based therapy assessment methods and outcomes
-- Mindfulness meditation assessment methods and outcomes
+- Stress assessment methods and outcomes
+- amygdala assessment methods and outcomes
+- hippocampus assessment methods and outcomes

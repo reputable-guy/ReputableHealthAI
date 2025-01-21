@@ -1,31 +1,20 @@
-Study Title: Changes in Anxiety following Taste Education Intervention: Fussy Eating Children with and without Neurodevelopmental Disorders.
+Study Title: Association of energy delivery with short-term survival in mechanically ventilated critically ill adult patients: a secondary analysis of the NEED trial.
 
 Study Summary:
-Despite the surge in studies on fussy eating in recent years, anxiety as an associated factor is generally not considered, even though children with fussy eating and those with neurodevelopmental disorders, including Autism Spectrum Disorder or Attention Deficit/Hyperactivity Disorder (ADHD) often have higher levels of anxiety than typically developing children. The current study investigated changes in anxiety scores during a Taste Education intervention, a seven-week school-based intervention for 71 children with fussy eating. Comparisons were made based on neurodevelopmental status (between children with (= 30) and without (= 41) neurodevelopmental disorders). Participants were paired based on age, sex, and neurodevelopmental disorder. The Multidimensional Anxiety Scale for Children (MASC) was administered at delayed intervention (for those waiting 7 weeks before starting the intervention), pre-intervention, post-intervention, and at six-month follow-up. Results did not indicate elevated anxiety based on mean MASC T-scores. MASC Total T-scores ranged from slightly elevated to average, decreasing significantly between pre-intervention and post-intervention, plateauing at six-month follow-up. Significant reductions between measurement points were seen for the,, and, but not for harm avoidance. Repeated measures analysis of variance with neurodevelopmental disorders as between-subjects factors did not reveal a significant interaction effect between neurodevelopmental disorders and changes in MASC Total score or subscales. The results indicated that our food-based intervention did not elevate MASC scores in fussy eating children, with or without neurodevelopmental disorders.
+The optimal energy delivery for mechanically ventilated patients is controversial, particularly during the first week of ICU admission. This study aimed to investigate the association between different caloric adequacy and 28-day mortality in a cohort of critically ill adults on mechanical ventilation. This is a secondary analysis of a multicenter, cluster-randomized controlled trial. Eligible patients were divided into four quartiles (Q1-Q4) according to caloric adequacy calculated by the actual average daily energy delivery during the first seven days of ICU stay divided by energy requirement as a percentage. Cox proportional hazards models were used to examine the impact of different quartiles of caloric adequacy on 28-day mortality in the whole cohort and subgroups with different nutritional risk status at enrollment. A total of 1587 patients were included in this study, with an overall 28-day mortality of 15.8%. The average caloric adequacy was 26.3&#x2009;&#xb1;&#x2009;11.9% (Q1), 52.5&#x2009;&#xb1;&#x2009;5.5% (Q2), 71.7&#x2009;&#xb1;&#x2009;6.4% (Q3), 107.0&#x2009;&#xb1;&#x2009;22.2% (Q4), respectively (p&#x2009;<&#x2009;0.001 among quartiles). Compared with Q1, Q3 was associated with lower mortality in the unadjusted model (hazard ratio [HR]&#x2009;=&#x2009;0.536; 95% confidence interval [CI], 0.375-0.767; P&#x2009;=&#x2009;0.001) and adjusted model (adjusted HR&#x2009;=&#x2009;0.508; 95% CI, 0.339-0.761; P&#x2009;=&#x2009;0.001). This association remained valid in the subgroup of high nutritional risk patients (unadjusted HR&#x2009;=&#x2009;0.387; 95% CI, 0.238-0.627; P&#x2009;<&#x2009;0.001 and adjusted HR&#x2009;=&#x2009;0.369; 95% CI, 0.216-0.630; P&#x2009;<&#x2009;0.001, respectively), but not in those with low risk. Energy delivery near the 70% energy requirements in the first week of ICU stay was associated with reduced 28-day mortality among mechanically ventilated critically ill patients, especially in patients with high nutrition risk at admission.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.3390/nu15224783
+- Publication Date: 2024
+- DOI: 10.1038/s41430-023-01369-6
 
 2. Keywords
-- ADHD
-- anxiety
-- autism spectrum disorder
-- behavior change
-- food skills
-- fussy eating
-- health and wellness
-- neurodevelopmental disorders
-- nutrition education
-- teaching kitchens
+
 
 3. Key Findings
-- The results indicated that our food-based intervention did not elevate MASC scores in fussy eating children, with or without neurodevelopmental disorders
+- Findings extraction requires manual review
 
 This study provides insights into:
-- ADHD assessment methods and outcomes
-- anxiety assessment methods and outcomes
-- autism spectrum disorder assessment methods and outcomes
+- General research methodology and outcomes

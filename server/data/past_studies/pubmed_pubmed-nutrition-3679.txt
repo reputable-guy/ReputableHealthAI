@@ -1,27 +1,20 @@
-Study Title: Influence of the time of day in the effect of caffeine on maximal fat oxidation during exercise in women: a randomized, crossover, double-blind, and placebo-controlled study.
+Study Title: Gastrointestinal Biomarkers and Their Association with Feeding in the First Five Days of Pediatric Critical Illness.
 
 Study Summary:
-Caffeine is a stimulant with well-recognized performance and metabolic benefits, however, there is a lack of studies investigating the time-of-day influence in the properties of caffeine to enhance fat oxidation in women. Thus, the aim of the present study was to evaluate the influence of the time of the day on the effect of caffeine on the maximal rate of fat oxidation during aerobic exercise in trained women. Fourteen female athletes (25.5&#x2009;&#xb1;&#x2009;7.1&#xa0;years) took part in a randomized, crossover, double-blind study. All participants undertook four different experimental trials combining the ingestion of 3&#xa0;mg/kg caffeine and a placebo either in the morning (8.00-10.00&#xa0;h) and in the evening (17.00-19.00&#xa0;h) realizing an incremental test on a cycle ergometer with 3&#xa0;min stages at workloads from 30 to 70% of maximal oxygen uptake (VO). Substrate oxidation rates were measured by indirect calorimetry. In each trial, the maximum rate of fat oxidation (MFO) and the intensity that elicited MFO (Fatmax) were measured. In comparison to placebo, MFO was significantly higher with caffeine both in the morning (0.24&#x2009;&#xb1;&#x2009;0.13 vs 0.30&#x2009;&#xb1;&#x2009;0.14&#xa0;g/min; p&#x2009;<&#x2009;0.001; ES&#x2009;=&#x2009;0.79) and in the evening (0.21&#x2009;&#xb1;&#x2009;0.08 vs 0.28&#x2009;&#xb1;&#x2009;0.10&#xa0;g/min; p&#x2009;=&#x2009;0.002; ES&#x2009;=&#x2009;0.72). No time-of-day effect on the capacity of caffeine to increase MFO was found (all p&#x2009;=&#x2009;0.336) CONCLUSION: The intake of 3&#xa0;mg/kg of caffeine increased the use of fat as a fuel during exercise independently of the time-of-day in trained women. The study was registered in ClinicalTrials.gov with the following ID: NCT05880186 by 15 May 2023.
+Predicting the patients' tolerance to enteral nutrition (EN) would help clinicians optimize individual nutritional intake. This study investigated the course of several gastrointestinal (GI) biomarkers and their association with EN advancement (ENA) longitudinally during pediatric intensive care unit (PICU) admission. This is a secondary analysis of the Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit randomized controlled trial. EN was started early and increased gradually. The cholecystokinin (CCK), leptin, glucagon, intestinal fatty acid-binding protein 2 (I-FABP2), and citrulline plasma concentrations were measured upon PICU admission, day 3 and day 5. ENA was defined as kcal EN provided as % of predicted resting energy expenditure. The course of the biomarkers and ENA was examined in patients with samples on all time points using Friedman and Wilcoxon signed-rank tests. The association of ENA with the biomarkers was examined using a 2-part mixed-effects model with data of the complete population, adjusted for possible confounders. For 172 patients, median age 8.6 years (first quartile; third quartile: 4.2; 13.4), samples were available, of which 55 had samples on all time points. The median ENA was 0 (0; 0) on admission, 14.5 (0.0; 43.8) on day 3, and 28.0 (7.6; 94.8) on day 5. During PICU stay, CCK and I-FABP2 concentrations decreased significantly, whereas glucagon concentrations increased significantly, and leptin and citrulline remained stable. None of the biomarkers was longitudinally associated with ENA. Based on the current evidence, CCK, leptin, glucagon, I-FABP2, and citrulline appear to have no added value in predicting ENA in the first 5 days of pediatric critical illness.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00421-023-05312-2
+- DOI: 10.1097/MPG.0000000000003950
 
 2. Keywords
-- Circadian rhythms
-- Fat oxidation
-- Fatmax
-- MFO
-- Sports nutrition
-- Substrate oxidation
+
 
 3. Key Findings
-- No time-of-day effect on the capacity of caffeine to increase MFO was found (all p&#x2009;=&#x2009;0
+- The association of ENA with the biomarkers was examined using a 2-part mixed-effects model with data of the complete population, adjusted for possible confounders
 
 This study provides insights into:
-- Circadian rhythms assessment methods and outcomes
-- Fat oxidation assessment methods and outcomes
-- Fatmax assessment methods and outcomes
+- General research methodology and outcomes

@@ -1,26 +1,26 @@
-Study Title: Randomized effectiveness-implementation trial of dialectical behavior therapy interventions for young people with borderline personality disorder symptoms.
+Study Title: Exercise responses to repeated cycle sprints with continuous and intermittent hypoxic exposure.
 
 Study Summary:
-Dialectical behavior therapy (DBT) is an evidence-based treatment for people with emerging borderline personality disorder (BPD). In "real world" clinical settings, standard DBT is resource intensive. Emerging evidence suggests that group-based DBT skills training alone can lead to promising outcomes. This hybrid type 1 effectiveness-implementation trial directly compared the effectiveness of an 8-week group DBT-skills training program and a 16-week DBT-informed program including individual treatment and group-based skills training. This pragmatic trial employed a staggered, parallel-groups design. We recruited 104 participants, aged 16-25 years, with emotion dysregulation or emerging BPD symptoms. Participants were randomized to receive either program at a youth mental health service located in the Gold Coast, Australia. Data was collected via online surveys at baseline, 8-week, 16-week, and 24-week follow-up. Mixed effect linear models compared groups on the primary outcomes of emotion dysregulation and BPD symptoms, and secondary outcomes of suicidal ideation, coping skills, depression, anxiety, and stress. Across groups there were significant and sustained improvements relating to emotion dysregulation, BPD symptoms, stress, depression, and emotion-focused coping; but not suicide risk, anxiety, or task-focused coping. There was no significant time by group differences between the 8-week and 16-week interventions on any primary or secondary outcome. The more intensive mode of delivering DBT was not more effective than the brief group-based skills training. Both interventions resulted in significant improvements across both primary and most secondary outcomes. These results have implications for clinical practice regarding length and intensity of DBT treatment in young people.
+We examine the impact of the acute manipulation of oxygen availability during discrete phases (active and passive) of a repeated-sprint cycling protocol on performance, physiological, and perceptual responses. On separate days, twelve trained males completed four sets of five 5-s 'all out' cycle sprints (25-s inter-sprint recovery and 5-min interset rest) in four randomized conditions: normobaric hypoxia (inspired oxygen fraction of 12.9%) applied continuously (C-HYP), intermittently during only the sets of sprints (I-HYP) or between-sets recovery periods (I-HYP), or not at all (C-NOR). Peak and mean power output, peripheral oxygen saturation, heart rate, blood lactate concentration, exercise-related sensations, and vastus lateralis muscle oxygenation using near-infrared spectroscopy were assessed. Peak and mean power output was &#x223c;4%-5% lower for C-HYP compared to C-NOR (P&#xa0;&#x2264;&#xa0;0.050) and I-HYP(P&#xa0;&#x2264;&#xa0;0.027). Peripheral oxygen saturation was lower during C-HYP and I-HYPcompared with C-NOR and I-HYPduring sets of sprints (&#x223c;83-85 vs. &#x223c;95%-97%; P&#xa0;<&#xa0;0.001), while lower values were obtained for C-HYP and I-HYPthan C-NOR and I-HYPduring between-sets rest period (&#x223c;84-85 vs. &#x223c;96%; P&#xa0;<&#xa0;0.001). Difficulty in breathing was &#x223c;21% higher for C-HYP than C-NOR (P&#xa0;=&#xa0;0.050). Ratings of perceived exertion (P&#xa0;=&#xa0;0.435), limb discomfort (P&#xa0;=&#xa0;0.416), heart rate (P&#xa0;=&#xa0;0.605), blood lactate concentration (P&#xa0;=&#xa0;0.976), and muscle oxygenation-derived variables (P&#xa0;=&#xa0;0.056 to 0.605) did not differ between conditions. In conclusion, the method of hypoxic exposure application (continuous vs. intermittent) affects mechanical performance, while internal demands remained essentially comparable during repeated cycle sprints.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/jclp.23725
+- DOI: 10.1002/ejsc.12146
 
 2. Keywords
-- borderline personality disorder
-- dialectical behavior therapy
-- emotion dysregulation
-- randomized controlled trial
-- young people
+- altitude training
+- environmental stress
+- hypoxia
+- internal load
+- repeated&#x2010;sprint ability
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- borderline personality disorder assessment methods and outcomes
-- dialectical behavior therapy assessment methods and outcomes
-- emotion dysregulation assessment methods and outcomes
+- altitude training assessment methods and outcomes
+- environmental stress assessment methods and outcomes
+- hypoxia assessment methods and outcomes

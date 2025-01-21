@@ -1,26 +1,25 @@
-Study Title: Deciphering bone marrow engraftment after allogeneic stem cell transplantation in humans using single-cell analyses.
+Study Title: The Effect of Ischemic Preconditioning on Tennis Exercise Performance and the Recovery Subsequent to a Simulated Tennis Match: A Randomized Controlled Trial.
 
 Study Summary:
-BACKGROUNDDonor cell engraftment is a prerequisite of successful allogeneic hematopoietic stem cell transplantation. Based on peripheral blood analyses, it is characterized by early myeloid recovery and T and B cell lymphopenia. However, cellular networks associated with bone marrow engraftment of allogeneic human cells have been poorly described.METHODSMass cytometry and CITE-Seq analyses were performed on bone marrow cells 3 months after transplantation in patients with acute myelogenous leukemia.RESULTSMass cytometric analyses in 26 patients and 20 healthy controls disclosed profound alterations in myeloid and B cell progenitors, with a shift toward terminal myeloid differentiation and decreased B cell progenitors. Unsupervised analysis separated recipients into 2 groups, one of them being driven by previous graft-versus-host disease (R2 patients). We then used single-cell CITE-Seq to decipher engraftment, which resolved 36 clusters, encompassing all bone marrow cellular components. Hematopoiesis in transplant recipients was sustained by committed myeloid and erythroid progenitors in a setting of monocyte-, NK cell-, and T cell-mediated inflammation. Gene expression revealed major pathways in transplant recipients, namely, TNF-&#x3b1; signaling via NF-&#x3ba;B and the IFN-&#x3b3; response. The hallmark of allograft rejection was consistently found in clusters from transplant recipients, especially in R2 recipients.CONCLUSIONBone marrow cell engraftment of allogeneic donor cells is characterized by a state of emergency hematopoiesis in the setting of an allogeneic response driving inflammation.FUNDINGThis study was supported by the French National Cancer Institute (Institut National du Cancer; PLBIO19-239) and by an unrestricted research grant by Alexion Pharmaceuticals.
+The purpose of this study was to investigate the effects of acute ischemic preconditioning (IPC) on tennis skill and physical exercise performance, as well as to explore whether 7-day repeated IPC (RIPC) accelerated fatigue recovery after a simulated tennis match. Twenty-nine male tennis-specific current students were randomly allocated into 1 of 2 groups: SHAM (n = 14, 3 &#xd7; 5&#xa0;min at 20&#xa0;mm Hg) and IPC (n = 15, 3 &#xd7; 5&#xa0;min at 220&#xa0;mm Hg). Participants in both groups engaged in acute IPC and RIPC interventions. After the first acute IPC intervention, assessments were conducted to evaluate tennis-specific skills and overall physical exercise capacity. Following completion of chronic RIPC interventions, all participants competed in a simulated tennis match specifically designed to induce fatigue. To evaluate recovery from this induced fatigue, physical exercise capacity tests were conducted at 24 and 48&#xa0;hours postmatch, allowing for an assessment of the participants' recovery capabilities over time. After the first acute intervention, notable differences were observed between the IPC and SHAM groups in their performance on the repeated-sprint ability test. Specifically, the total times recorded were significantly shorter in the IPC group compared with the SHAM group (IPC: 109.05 [2.70] vs SHAM: 114.57 [7.45]&#xa0;s, P = .012), and this trend was also reflected in their best times (IPC: 4.20 [0.18]&#xa0;s vs SHAM: 4.39 [0.30]&#xa0;s, P = .042), indicating an immediate benefit of the IPC intervention on sprint performance. After a 7-day RIPC intervention, significant changes were noted in the SHAM group's performance metrics postmatch. There was an increase (P < .001) in fatigue index from 22% (8%) to 30% (9%) during repeated-sprint ability test and a decrease in serve speed from 120.2 (17.5) to 106.7 (13.0)&#xa0;km/h (P = .002) and knee peek torque from 196.0 (49.0) to 162.7 (39)&#xa0;N (extension, 60&#xb0;/s, P < .001) in the SHAM group 24&#xa0;hours postmatch, relative to the IPC group. Moreover, compared with the SHAM group, the IPC group showed a lower rate of perceived exertion during the match (P < .001) and a decrease in visual analog scale score (P = .026) 24&#xa0;hours postmatch, suggesting enhanced recovery and reduced perception of pain relative to the SHAM group. IPC could serve as a strategy to generate an ergogenic effect and recovery during training and competition.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1172/JCI180331
+- DOI: 10.1123/ijspp.2023-0537
 
 2. Keywords
-- Hematology
-- Immunology
-- Stem cell transplantation
+- blood-flow occlusion
+- ergogenic aid
+- fatigue recovery
+- racket sports
 
 3. Key Findings
-- RESULTSMass cytometric analyses in 26 patients and 20 healthy controls disclosed profound alterations in myeloid and B cell progenitors, with a shift toward terminal myeloid differentiation and decreased B cell progenitors
-- Gene expression revealed major pathways in transplant recipients, namely, TNF-&#x3b1; signaling via NF-&#x3ba;B and the IFN-&#x3b3; response
-- The hallmark of allograft rejection was consistently found in clusters from transplant recipients, especially in R2 recipients
+- Moreover, compared with the SHAM group, the IPC group showed a lower rate of perceived exertion during the match (P <
 
 This study provides insights into:
-- Hematology assessment methods and outcomes
-- Immunology assessment methods and outcomes
-- Stem cell transplantation assessment methods and outcomes
+- blood-flow occlusion assessment methods and outcomes
+- ergogenic aid assessment methods and outcomes
+- fatigue recovery assessment methods and outcomes

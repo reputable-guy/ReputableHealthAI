@@ -1,28 +1,27 @@
-Study Title: Resiliency among older adults receiving lung cancer treatment (ROAR-LCT): A novel supportive care intervention for older adults with advanced lung cancer.
+Study Title: High-intensity intermittent exercise increases serum levels of chitinase 3-like protein-1 and matrix metalloproteinase-9 in persons with multiple sclerosis.
 
 Study Summary:
-Novel supportive care interventions designed for an aging population with lung cancer are urgently needed. We aimed to determine the feasibility of a novel supportive care physical therapy (PT) plus progressive muscle relaxation (PMR) intervention delivered to older adults with advanced lung cancer in the United States (US). This clinical trial, Resiliency Among Older Adults Receiving Lung Cancer Treatment (ROAR-LCT: NCT04229381), recruited adults aged &#x2265;60&#xa0;years with unresectable stage III/IV non-small cell (NSCLC) or small cell lung cancer (SCLC) receiving cancer treatment at The James Thoracic Oncology Center (planned enrollment, N&#xa0;=&#xa0;20). There were no exclusion criteria pertaining to performance status, laboratory values, prior cancer diagnoses, comorbidities, or brain metastases. Participants were evaluated by PT and psychology and given an exercise pedaler, resistance bands, a relaxation voice recording, and instructions at study initiation. Participants were evaluated in-person by PTs and psychologists at the start and end of the 12-session intervention, with the intervening sessions conducted via virtual health. Participants completed self-reported measures of functional status, symptoms, and mood longitudinally with the following instruments: EQ-5D-5L, Patient Health Questionnaire-9, and General Anxiety Disorder-7. PT assessments included the Short Physical Performance Battery (SPPB) and the two-minute walk test. Feasibility was defined as at least 60% of participants completing at least 70% of all intervention sessions. Optional gut microbiome samples and activity monitoring data (ActiGraph&#xae;) were also collected. The ROAR-LCT study concluded after consenting 22 patients. Among the 22 consented, 18 (81.8%) started the intervention; 11 participants (61.1%) completed at least 70% of all study sessions. All participants with SCLC completed the intervention. Reasons for withdrawal included progression of disease or hospitalization. The majority (88.9%) of patients who started were able to complete at least one virtual health session. Participants' functional status, SPPB, depression, and anxiety scores were stable from pre- to post-intervention. Participants who withdrew had worse baseline scores across domains. Seven microbiome and six ActiGraph&#xae; samples were collected. This is one of the first PT&#xa0;+&#xa0;PMR supportive care interventions using virtual health among older adults with advanced lung cancer to achieve feasibility in the US.
+The study aimed to evaluate the effect of high-intensity intermittent exercise (HIIE) on serum levels of MMP-9 and CHI3L1 in multiple sclerosis. Study group received HIIE twice a week for 12&#xa0;weeks, while control group received no treatment. In intra-group comparison, study group showed a significant increase in MMP-9 and CHI3L1 levels, while control group showed no significant difference. In intergroup comparison, a significant difference was found only in CHI3L1 levels after treatment. The increase in MMP-9 and CH3L-1 concentrations in study group suggests that these biomarkers may play a role in regulating specific skeletal muscle adaptations due to HIIE.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jgo.2024.101844
+- DOI: 10.1016/j.jneuroim.2024.578434
 
 2. Keywords
-- Functional resiliency
-- Functional status
-- Lung cancer
-- Older adults
-- Physical therapy
-- Progressive muscle relaxation
-- Supportive care intervention
+- Biomarker
+- CHI3L1
+- High-intensity interval exercise
+- MMP-9
+- Multiple sclerosis
 
 3. Key Findings
-- The ROAR-LCT study concluded after consenting 22 patients
+- In intra-group comparison, study group showed a significant increase in MMP-9 and CHI3L1 levels, while control group showed no significant difference
+- In intergroup comparison, a significant difference was found only in CHI3L1 levels after treatment
 
 This study provides insights into:
-- Functional resiliency assessment methods and outcomes
-- Functional status assessment methods and outcomes
-- Lung cancer assessment methods and outcomes
+- Biomarker assessment methods and outcomes
+- CHI3L1 assessment methods and outcomes
+- High-intensity interval exercise assessment methods and outcomes

@@ -1,20 +1,25 @@
-Study Title: Remimazolam-flumazenil provides fast recovery from general anesthesia compared to propofol during radiofrequency catheter ablation of atrial fibrillation.
+Study Title: CAR+ extracellular vesicles predict ICANS in patients with B cell lymphomas treated with CD19-directed CAR T cells.
 
 Study Summary:
-The optimal anesthetic agent for radiofrequency catheter ablation (RFCA) of atrial fibrillation (AF) and its impact on the recovery profiles remain uncertain. We compared the recovery and hemodynamic parameters between the remimazolam-flumazenil and propofol groups during RFCA. Patients were randomized into the remimazolam-flumazenil and propofol groups. The primary outcome measure was the time to eye opening following the discontinuation of anesthetic agents. Secondary outcomes included time to extubation, time to discharge from the operating room, intraprocedural hemodynamic variables and postoperative quality outcomes. Fifty-three patients were included in the final analysis (n&#x2009;=&#x2009;26 in the remimazolam-flumazenil and n&#x2009;=&#x2009;27 in the propofol group). The time to eye opening was significantly shorter in the remimazolam-flumazenil group compared to the propofol group (median [interquartile range]: 174 [157-216] vs. 353 [230-483] s, P&#x2009;<&#x2009;0.001). The mean blood pressure and bispectral index were significantly higher in the remimazolam-flumazenil group compared to the propofol group (mean difference [95% CI], 7.2 [1.7-12.7] mmHg and 6 [3-8]; P&#x2009;=&#x2009;0.011 and&#x2009;<&#x2009;0.001, respectively), which were within target ranges in both groups. Other secondary outcomes were comparable between the groups. Consequently, remimazolam emerges as a promising anesthetic agent, characterized by rapid recovery and stable hemodynamics, during RFCA of AF.Trial registration: NCT05397886.
+BACKGROUNDPredicting immune effector cell-associated neurotoxicity syndrome (ICANS) in patients infused with CAR T cells is still a conundrum. This complication, thought to be consequent to CAR T cell activation, arises a few days after infusion, when circulating CAR T cells are scarce and specific CAR T cell-derived biomarkers are lacking.METHODSCAR+ extracellular vesicle (CAR+EV) release was assessed in human CD19.CAR T cells cocultured with CD19+ target cells. A prospective cohort of 100 patients with B cell lymphoma infused with approved CD19.CAR T cell products was assessed for plasma CAR+EVs as biomarkers of in vivo CD19.CAR T cell activation. Human induced pluripotent stem cell-derived (iPSC-derived) neural cells were used as a model for CAR+EV-induced neurotoxicity.RESULTSIn vitro release of CAR+EVs occurs within 1 hour after target engagement. Plasma CAR+EVs are detectable 1 hour after infusion. A concentration greater than 132.8 CAR+EVs/&#x3bc;L at hour +1 or greater than 224.5 CAR+EVs/&#x3bc;L at day +1 predicted ICANS in advance of 4 days, with a sensitivity and a specificity outperforming other ICANS predictors. ENO2+ nanoparticles were released by iPSC-derived neural cells upon CAR+EV exposure and were increased in plasma of patients with ICANS.CONCLUSIONPlasma CAR+EVs are an immediate signal of CD19.CAR T cell activation, are suitable predictors of neurotoxicity, and may be involved in ICANS pathogenesis.TRIAL REGISTRATIONNCT04892433, NCT05807789.FUNDINGLife Science Hub-Advanced Therapies (financed by Health Ministry as part of the National Plan for Complementary Investments to the National Recovery and Resilience Plan [NRRP]: E.3 Innovative health ecosystem for APC fees and immunomonitoring).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-63578-8
+- DOI: 10.1172/JCI173096
 
 2. Keywords
-
+- Hematology
+- Immunology
+- Immunotherapy
+- Lymphomas
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Hematology assessment methods and outcomes
+- Immunology assessment methods and outcomes
+- Immunotherapy assessment methods and outcomes

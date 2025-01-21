@@ -1,20 +1,25 @@
-Study Title: [Start of enteral nutrition after an endoscopic gastrostomy, is it necessary to wait?].
+Study Title: Frailty-Preventing Effect of an Intervention Program Using a Novel Complete Nutritional "COMB-FP Meal": A Pilot Randomized Control Trial.
 
 Study Summary:
-Traditionally, the initiation of enteral nutrition after a percutaneous endoscopic gastrostomy (PEG) is performed between 12 and 24 hours. Different research suggests that early initiation might be a safe option. Our aim was to determine whether starting enteral nutrition 4 hours after performing PEG is a safe practice in terms of risk of intolerance, complications, or death, compared to starting it at 12 hours. We carried out a prospective, randomized, multicenter study in third and fourth level institutions in Bogot&#xe1; and Cundinamarca, between June 2020 and May 2022, 117 patients were included who were randomized into 2 groups, group A with early nutrition initiation (4 hours), and standard group B (12 hours). The most frequent mechanism of dysphagia was cerebrovascular disease (43%), followed by complications of COVID19 infection (26%). There were no statistically significant differences between the groups evaluated regarding the percentage of intolerance to nutrition, RR = 0.93 (CI 0.30-2.90), there were also no differences in terms of postoperative complications, (RR) = 0.34 (CI 0.09-1.16), and no differences were found in mortality between the evaluated groups, (RR) = 1.12 (CI 0.59-2.15). In conclusion, early initiation of nutrition through the gastrostomy, 4 hours after performing the PEG, is a safe behavior that is not related to greater intolerance to nutrition, complications, or death, compared to later initiation.
+Frailty is a huge concern for the aging population, and dietary nutrition is considered a key factor in the prevention of aging. To solve the problem of frailty in the aging population, we developed a novel dietary intervention program using a novel COMpletely Balanced for Frailty Prevention (COMB-FP) meal, based on the Dietary Reference Intake for Japanese; in addition, we conducted a pilot randomized control trial comparing an exercise program only (control group) with exercise plus the COMB-FP meal program (test group). We included 110 male and female healthy volunteers with pre-frailty or frailty; the trial lasted for 12 weeks. Two daily meals were replaced with the COMB-FP meals during the trial in the test group. Walking speed and cognitive function were significantly improved in the test group compared with the control group. We observed a similar pattern in other frailty-related outcomes, such as occupancy of the microbiome, World Health Organization well-being index (WHO-5), and oxidative stress. Our study might indicate the importance of a well-balanced intake of nutrients for frailty prevention.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-
+- DOI: 10.3390/nu15204317
 
 2. Keywords
-
+- complete nutrition
+- diet treatment
+- frailty
+- randomized control trial
 
 3. Key Findings
-- 16), and no differences were found in mortality between the evaluated groups, (RR) = 1
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- complete nutrition assessment methods and outcomes
+- diet treatment assessment methods and outcomes
+- frailty assessment methods and outcomes

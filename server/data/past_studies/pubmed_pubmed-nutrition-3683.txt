@@ -1,28 +1,26 @@
-Study Title: Factors associated with anemia among school-going adolescents aged 10-17 years in Zanzibar, Tanzania: a cross sectional study.
+Study Title: Effect of intensive nutrition education and counseling on hemoglobin level of pregnant women in East Shoa zone, Ethiopia: randomized controlled trial.
 
 Study Summary:
-Anemia among adolescents (ages 10-19 years) is a leading cause of morbidity and mortality in low- and middle-income countries and carries long-term health and economic consequences. To address the issue, policymakers and programmers require evidence of the burden of anemia among adolescents in specific contexts, as well as an understanding of the factors associated with anemia in this population. We conducted a cross-sectional survey as a baseline assessment to determine the prevalence and factors associated with anemia in secondary school students, as part of a cluster-randomized effectiveness trial testing different micronutrient supplementation strategies in addressing anemia among adolescents in Zanzibar. Between March 7th to 25th, 2022 the survey was conducted on 2,479 school-going adolescents aged 10-17 years from 42 schools on the island of Zanzibar, Tanzania. Hemoglobin concentration was measured along with the collection of socio-demographics, health, food frequency, and water, sanitation and hygiene data. Based on the World Health Organization cutoffs for anemia, 53.3% of the sample had anemia (mild, moderate, or severe). Using chi-square tests and logistic regressions, we determined that females had higher odds of anemia than males (Adjusted OR&#x2009;=&#x2009;1.47; 95% CI: 1.24, 1.74), those in the highest wealth quintile had lower odds of anemia than those in the lowest wealth quintile (Adjusted OR&#x2009;=&#x2009;0.7; CI: 0.54, 0.91), stunted adolescents had higher odds of anemia than non-stunted students (Adjusted OR&#x2009;=&#x2009;1.38; 95% CI: 1.06,1.81), and those who used shared toilets had higher odds of moderate or severe anemia than those with private toilet access (Adjusted OR&#x2009;=&#x2009;1.68; CI: 1.07, 2.64). The high prevalence of anemia in this sample indicates an urgent need to address anemia among adolescents in Zanzibar, and the factors associated with anemia point to the importance of water, sanitation, and hygiene interventions in addition to dietary and nutritional support. NCT05104554, registered 03/11/2021.
+The aim of this study was to assess the effect of intensive nutrition education and counseling on hemoglobin level during pregnancy. The study was a one year two-arm parallel design cluster randomized controlled trial in East Shoa zone, Ethiopia. End-line data were collected from 163 intervention and 163 control group pregnant women. The intervention was a three consecutive trimester based counseling sessions using health belief model, weekly regular SMS sent on mobile phone containing core message and providing leaflet with food menu of Iron rich diet. The women in the control group received routine nutrition education from facilities. After adjusting for potential confounders, a linear mixed-effects model was used to assess the intervention effect. There was a significant change in both hemoglobin level and proportion of anemia in the intervention group. The mean hemoglobin level within intervention group before and after intervention was (12.08&#xb1; 1.15, 12.53&#xb1; 1.18) with p value of 0.01. The prevalence of anemia among intervention group declined from 14.7 % at the baseline to 9.2% after intervention. At the end of the trial, women in the intervention group had significantly better hemoglobin level than women in the control group (&#x3b2; = 0.50, p < 0.01). The intervention was effective in improving the hemoglobin level and consumption of iron rich diet among pregnant women. Therefore, employing trimester based counseling by using HBM constructs and regular reminding messages have to be provided to pregnant women as part of the regular antenatal care service.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1186/s12889-023-16611-w
+- DOI: 10.1186/s12884-023-05992-w
 
 2. Keywords
-- Adolescents
-- Anemia
-- Folic acid
-- Iron
-- Micronutrient deficiency
-- Multiple micronutrients
+- Ethiopia
+- Hemoglobin
 - Nutrition
+- Pregnancy
+- RCT
 
 3. Key Findings
-- Findings extraction requires manual review
+- After adjusting for potential confounders, a linear mixed-effects model was used to assess the intervention effect
 
 This study provides insights into:
-- Adolescents assessment methods and outcomes
-- Anemia assessment methods and outcomes
-- Folic acid assessment methods and outcomes
+- Ethiopia assessment methods and outcomes
+- Hemoglobin assessment methods and outcomes
+- Nutrition assessment methods and outcomes

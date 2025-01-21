@@ -1,20 +1,25 @@
-Study Title: Protocol for a feasibility randomised controlled trial of the 'Outdoor' mobility intervention for older adults after hip fracture.
+Study Title: The independent and combined effects of aerobic exercise intensity and dose differentially increase post-exercise cerebral shear stress and blood flow.
 
 Study Summary:
-A high proportion of patients do not regain outdoor mobility after hip fracture. Rehabilitation explicitly targeting outdoor mobility is needed to enable these older adults to recover activities which they value most. The overarching aim of this study is to determine the feasibility of a randomised controlled trial which aims to assess the clinical- and cost-effectiveness of an intervention designed to enable recovery of outdoor mobility among older adults after hip fracture (the OUTDOOR intervention). This is a protocol for a multi-centre pragmatic parallel group (allocation ratio 1:1) randomised controlled assessor-blinded feasibility trial. Adults aged 60 years or more, admitted to hospital from- and planned discharge to- home, with self-reported outdoor mobility in the three-months pre-fracture, surgically treated for hip fracture, and who are able to consent and participate, are eligible. Individuals who require two or more people to support mobility on discharge will be excluded. Screening and consent (or consent to contact) will take place in hospital. Baseline assessment and randomisation will follow discharge from hospital. Participants will then receive usual care (delivered by physiotherapy, occupational therapy, or therapy assistants), or usual care plus the OUTDOOR intervention. The OUTDOOR intervention includes a goal-orientated outdoor mobility programme (supported by up to six in-person visits), therapist-led motivational dialogue (supported by up to four telephone calls), supported by a past-patient led video where recovery experiences are shared, and support to transition to independent ongoing recovery. Therapists delivering the OUTDOOR intervention (distinct from those supporting usual care) will receive training in motivational interviewing and behaviour change techniques. Baseline demographics will be collected. Patient reported outcome measures including health related quality of life, activities of daily living, pain, community mobility, falls related self-efficacy, resource use, readmissions, and mortality will be collected at baseline, 6-weeks, 12-weeks, and 6-months (for those enrolled early in the trial) post-randomisation. Exercise adherence (6- and 12- weeks) and intervention acceptability (12-weeks) will be collected. A subset of 20 participants will also support accelerometery data collection for 10 days at each time point. The trial findings will be disseminated to patients and the public, health professionals and researchers through publications, presentations and social media channels. The trial has been registered at ISRCTN16147125. 3.0.
+This research examined the impact of aerobic exercise intensity and dose on acute post-exercise cerebral shear stress and blood flow. Fourteen young adults (27&#xa0;&#xb1;&#xa0;5&#xa0;years of age, eight females) completed a maximal oxygen uptake () treadmill test followed by three randomized study visits: treadmill exercise at 30% offor 30&#xa0;min, 70% offor 30&#xa0;min and 70% offor a duration that resulted in caloric expenditure equal to that in the 30%visit (EqEE). A venous blood draw and internal carotid artery (ICA) ultrasound were collected before and immediately following exercise. ICA diameter and blood velocity were determined using automated edge detection software, and blood flow was calculated. Using measures of blood viscosity, shear stress was calculated. Aerobic exercise increased ICA shear stress (time: P&#xa0;=&#xa0;0.005, condition: P&#xa0;=&#xa0;0.012) and the increase was greater following exercise at 70%(&#x2206;4.1&#xa0;&#xb1;&#xa0;3.5&#xa0;dyn/cm) compared with 30%(&#x2206;1.1&#xa0;&#xb1;&#xa0;1.9&#xa0;dyn/cm; P&#xa0;=&#xa0;0.041). ICA blood flow remained elevated following exercise (time: P&#xa0;=&#xa0;0.002, condition: P&#xa0;=&#xa0;0.010) with greater increases after 70%(&#x394;268&#xa0;&#xb1;&#xa0;150&#xa0;mL/min) compared with 30%(&#x2206;125&#xa0;&#xb1;&#xa0;149&#xa0;mL/min; P&#xa0;=&#xa0;0.041) or 70%EqEE (&#x2206;127&#xa0;&#xb1;&#xa0;177&#xa0;mL/min; P&#xa0;=&#xa0;0.004). Therefore, aerobic exercise resulted in both intensity- and dose-dependent effects on acute post-exercise ICA blood flow whereby vigorous intensity exercise provoked a larger increase in ICA blood flow compared to light intensity exercise when performed at a higher dose.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0306871
+- DOI: 10.1113/EP091856
 
 2. Keywords
-
+- aerobic exercise
+- blood flow
+- internal carotid artery
+- shear stress
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- aerobic exercise assessment methods and outcomes
+- blood flow assessment methods and outcomes
+- internal carotid artery assessment methods and outcomes

@@ -1,27 +1,26 @@
-Study Title: The Effects of Telerehabilitation-Based Exercise Therapy on Motor and Non-Motor Clinical Outcomes in Adults With Facial Palsy: A Randomized Controlled Trial.
+Study Title: Efficacy of WeChat-Based Digital Intervention Versus Metformin in Women With Polycystic Ovary Syndrome: Randomized Controlled Trial.
 
 Study Summary:
-Recent case reports have emphasized the essential clinical contribution of telerehabilitation in the treatment of facial palsy. However, no randomized controlled trial has yet demonstrated the effects of telerehabilitation-based facial exercise therapy. Thus, we aimed to investigate the effectiveness of video exercise-based telerehabilitation on motor and non-motor clinical outcomes in adults with facial palsy. We conducted a randomized controlled trial with 40 peripheral facial palsy patients. Those in the experimental group (EG) received four weeks of telerehabilitation-based video exercises and routine care. Those in the control group (CG) received only routine care. All participants were evaluated with the Facial Disability Index (FDI), the Facial Clinimetric Evaluation Scale (FaCE), Short Form-12 (SF-12), the Hospital Anxiety and Depression Scale (HADS), the House-Brackmann Scale (H-B) and the Telemedicine Satisfaction and Usefulness Questionnaire (TSUQ), both before and after the interventions. Both groups demonstrated a significant improvement in FDI, FaCE, and SF-12 PCS scores (< .05). In addition, there was a significant improvement only in EG on the SF-12 MCS score (< .05), and there was a significant gain only in CG on the HADS-Depression score (< .05). While these results provide a further contribution to our understanding of telerehabilitation benefits in mental health variables related to quality of life for facial palsy patients, we found no EG and CG differences on the physical components of treatment.
+The first-line treatment for polycystic ovary syndrome (PCOS) is lifestyle modification. However, it is currently unknown whether digital medicine can assist patients with PCOS in maintaining a healthy lifestyle while alleviating PCOS symptoms. This study aims to evaluate the efficacy of WeChat-based digital intervention versus metformin treatment in women with PCOS and insulin resistance. A total of 80 women with PCOS and insulin resistance were recruited from an endocrinology clinic and randomly assigned to receive either a WeChat-based digital intervention (n=40, 50%) or metformin (n=40, 50%) for 12 weeks. The WeChat-based digital intervention consisted of 3 modules; a coach assisted the patients in using the intervention. The primary outcome was the change in a homeostatic model assessment for insulin resistance. At baseline and after the 12-week intervention, anthropometric parameters, menstruation frequency, sex hormone levels, metabolic factors, and body fat distribution were measured in the clinic. Furthermore, self-assessed web-based questionnaires on diet, exercise, sleep, anxiety, and depression were obtained. A total of 72 participants completed the follow-up (for a 90% follow-up rate), including 35 of 40 (88%) participants from the digital intervention group and 37 of 40 (93%) participants from the metformin group. The homeostatic model assessment for insulin resistance in the digital intervention group was significantly improved after 12 weeks of treatment with a mean change of -0.93 (95% CI -1.64 to -0.23), but no statistical difference was observed between the groups (least squares mean difference -0.20; 95% CI -0.98 to 0.58; P=.62). Both digital intervention and metformin treatment significantly improved menstruation frequency (digital intervention: P<.001; metformin: P<.001) and reduced body weight (digital intervention: P<.001; metformin: P<.001) and total fat mass (digital intervention: P<.001; metformin: P<.001). Furthermore, the digital intervention had a significant advantage over metformin in improving waist circumference (least squares mean difference -1.84; 95% CI -3.44 to -0.24; P=.03), waist-to-hip ratio (least squares mean difference -0.02; 95% CI -0.03 to 0.00; P=.03), total fat mass (least squares mean difference -1.59; 95% CI -2.88 to -0.30; P=.02), and dehydroepiandrosterone sulfate (least squares mean difference -69.73; 95% CI -129.70 to -9.75; P=.02). In terms of safety, the main adverse events were sensations of hunger in the digital intervention group (2/40, 5%) and gastrointestinal adverse events in the metformin group (12/40, 30%). Our data suggest that digital intervention is an effective treatment option for patients with PCOS, with an efficacy comparable to that of metformin, and that it can also alleviate the negative effects of medications and make it easier and more efficient to adhere to lifestyle treatments. WeChat-based digital interventions have the potential to provide a new path for the improvement and health of women with PCOS in China. ClinicalTrials.gov NCT05386706; https://clinicaltrials.gov/study/NCT05386706.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/00315125241284677
+- DOI: 10.2196/55883
 
 2. Keywords
-- exercise
-- facial paralysis
-- peripheral facial palsy
-- physical therapy
+- digital intervention
+- insulin resistance
+- metformin
+- polycystic ovary syndrome
+- women&#x2019;s health
 
 3. Key Findings
-- However, no randomized controlled trial has yet demonstrated the effects of telerehabilitation-based facial exercise therapy
-- Both groups demonstrated a significant improvement in FDI, FaCE, and SF-12 PCS scores (<
-- While these results provide a further contribution to our understanding of telerehabilitation benefits in mental health variables related to quality of life for facial palsy patients, we found no EG and CG differences on the physical components of treatment
+- Findings extraction requires manual review
 
 This study provides insights into:
-- exercise assessment methods and outcomes
-- facial paralysis assessment methods and outcomes
-- peripheral facial palsy assessment methods and outcomes
+- digital intervention assessment methods and outcomes
+- insulin resistance assessment methods and outcomes
+- metformin assessment methods and outcomes
