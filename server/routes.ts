@@ -10,24 +10,11 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY
 });
 
-// Wrapper to ensure all route handlers return JSON
-const asyncHandler = (fn: Function) => (req: any, res: any, next: any) => {
-  Promise.resolve(fn(req, res, next))
-    .catch(error => {
-      console.error('Route error:', error);
-      res.status(500)
-        .setHeader('Content-Type', 'application/json')
-        .json({
-          error: true,
-          message: error.message || 'Internal Server Error',
-          status: 500
-        });
-    });
-};
-
 export function registerRoutes(app: Express): Server {
+  const httpServer = createServer(app);
+
   // Literature review endpoint
-  app.post("/api/literature-review", asyncHandler(async (req, res) => {
+  app.post("/api/literature-review", async (req, res) => {
     try {
       console.log('Literature review request received:', req.body);
 
@@ -43,25 +30,26 @@ export function registerRoutes(app: Express): Server {
 
       const { productName, websiteUrl } = parseResult.data;
       const review = await generateLiteratureReview(productName, websiteUrl);
+
       console.log('Literature review generated successfully');
-      res.json({ review });
+      return res.json({ review });
     } catch (error) {
       console.error("Literature review generation error:", error);
-      res.status(500).json({
+      return res.status(500).json({
         error: true,
-        message: "Failed to generate literature review",
-        details: error instanceof Error ? error.message : "Unknown error"
+        message: error instanceof Error ? error.message : "Failed to generate literature review",
+        details: error instanceof Error ? error.stack : "Unknown error"
       });
     }
-  }));
+  });
 
   // Health check endpoint
-  app.get("/health", asyncHandler(async (_req, res) => {
+  app.get("/health", (_req, res) => {
     res.json({ status: "ok" });
-  }));
+  });
 
   // Hypothesis generation endpoint
-  app.post("/protocols/hypotheses", asyncHandler(async (req, res) => {
+  app.post("/protocols/hypotheses", async (req, res) => {
     const { productName, websiteUrl } = req.body;
     if (!productName) {
       return res.status(400)
@@ -135,10 +123,10 @@ export function registerRoutes(app: Express): Server {
         details: error.message
       });
     }
-  }));
+  });
 
   // Protocol generation endpoint
-  app.post("/protocols/generate", asyncHandler(async (req, res) => {
+  app.post("/protocols/generate", async (req, res) => {
     const { productName, websiteUrl, selectedHypothesis, studyCategory } = req.body;
     if (!productName || !selectedHypothesis || !studyCategory) {
       return res.status(400)
@@ -225,10 +213,10 @@ export function registerRoutes(app: Express): Server {
     };
     res.setHeader('Content-Type', 'application/json')
       .json(response);
-  }));
+  });
 
   // Add endpoint to check RAG stats
-  app.get("/rag/stats", asyncHandler(async (_req, res) => {
+  app.get("/rag/stats", async (_req, res) => {
     const stats = await ragService.checkIndexStats();
     if (!stats) {
       return res.status(503)
@@ -246,10 +234,10 @@ export function registerRoutes(app: Express): Server {
       dimensionality: stats.dimension || 1536,
       lastChecked: new Date().toISOString()
     });
-  }));
+  });
 
   // Add endpoint to reload PubMed studies
-  app.post("/rag/reload-studies", asyncHandler(async (_req, res) => {
+  app.post("/rag/reload-studies", async (_req, res) => {
     console.log("Starting PubMed studies reload...");
     const result = await ragService.loadPublicStudies();
     if (result) {
@@ -269,8 +257,7 @@ export function registerRoutes(app: Express): Server {
           message: "Failed to reload PubMed studies"
         });
     }
-  }));
+  });
 
-  const httpServer = createServer(app);
   return httpServer;
 }

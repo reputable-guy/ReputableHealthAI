@@ -41,7 +41,8 @@ export async function generateLiteratureReview(
   });
 
   if (!response.ok) {
-    throw new Error(`Failed to generate literature review: ${await response.text()}`);
+    const errorData = await response.json().catch(() => ({ message: response.statusText }));
+    throw new Error(errorData.message || `Failed to generate literature review: ${response.statusText}`);
   }
 
   const { review } = await response.json();
