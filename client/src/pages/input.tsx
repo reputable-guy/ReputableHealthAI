@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
@@ -36,14 +36,17 @@ export default function InputPage() {
   };
 
   return (
-    <div className="container mx-auto py-10 max-w-2xl">
-      <Card>
+    <div className="min-h-screen bg-background flex items-center justify-center p-4">
+      <Card className="w-full max-w-lg">
         <CardHeader>
           <CardTitle>Study Details</CardTitle>
+          <CardDescription>
+            Enter your product information to begin generating a research study
+          </CardDescription>
         </CardHeader>
         <CardContent>
           <Form {...form}>
-            <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
+            <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
               <FormField
                 control={form.control}
                 name="productName"
@@ -72,7 +75,7 @@ export default function InputPage() {
                 )}
               />
 
-              <Button type="submit">
+              <Button type="submit" className="w-full">
                 Generate Literature Review
               </Button>
             </form>
