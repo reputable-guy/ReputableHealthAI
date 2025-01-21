@@ -11,11 +11,13 @@ import { Alert, AlertDescription } from "@/components/ui/alert";
 import { useToast } from "@/hooks/use-toast";
 import { useMutation } from "@tanstack/react-query";
 import { generateLiteratureReview } from "@/lib/literatureReviewService";
+import { useLocation } from "wouter";
 
 export default function LiteratureReviewPage() {
   const [ingredients, setIngredients] = useState<string[]>([""]);
   const { toast } = useToast();
   const [review, setReview] = useState<LiteratureReview | null>(null);
+  const [, setLocation] = useLocation();
 
   const form = useForm({
     resolver: zodResolver(literatureReviewRequestSchema),
@@ -64,6 +66,12 @@ export default function LiteratureReviewPage() {
     }
     generateReview({ productName: data.productName, ingredients: validIngredients });
   });
+
+  const handleProceedToHypotheses = () => {
+    const productName = form.getValues("productName");
+    // Navigate to hypothesis generation with the product name
+    setLocation(`/design?product=${encodeURIComponent(productName)}`);
+  };
 
   return (
     <div className="container mx-auto py-10 max-w-4xl">
@@ -127,12 +135,17 @@ export default function LiteratureReviewPage() {
 
           {review && (
             <div className="mt-8 space-y-6">
-              <h2 className="text-2xl font-bold">Generated Review</h2>
-              
+              <div className="flex justify-between items-center">
+                <h2 className="text-2xl font-bold">Generated Review</h2>
+                <Button onClick={handleProceedToHypotheses}>
+                  Generate Hypotheses
+                </Button>
+              </div>
+
               <section>
                 <h3 className="text-xl font-semibold mb-4">Overview</h3>
                 <p>{review.overview.description}</p>
-                
+
                 <div className="mt-4">
                   <h4 className="font-semibold">Primary Benefits</h4>
                   <ul className="list-disc pl-5 mt-2">
@@ -141,7 +154,7 @@ export default function LiteratureReviewPage() {
                     ))}
                   </ul>
                 </div>
-                
+
                 <div className="mt-4">
                   <h4 className="font-semibold">Common Supplement Forms</h4>
                   <ul className="list-disc pl-5 mt-2">
@@ -158,7 +171,7 @@ export default function LiteratureReviewPage() {
                   <div key={index} className="mb-6">
                     <h4 className="font-semibold text-lg">{area.name}</h4>
                     <p className="mt-2">{area.mechanism}</p>
-                    
+
                     <div className="mt-3">
                       <h5 className="font-medium">Key Findings</h5>
                       <ul className="list-disc pl-5 mt-1">
@@ -167,7 +180,7 @@ export default function LiteratureReviewPage() {
                         ))}
                       </ul>
                     </div>
-                    
+
                     <div className="mt-3">
                       <h5 className="font-medium">Research Gaps</h5>
                       <ul className="list-disc pl-5 mt-1">
@@ -200,7 +213,7 @@ export default function LiteratureReviewPage() {
                       ))}
                     </ul>
                   </div>
-                  
+
                   <div>
                     <h4 className="font-semibold">Target Audience</h4>
                     <ul className="list-disc pl-5 mt-2">
@@ -209,7 +222,7 @@ export default function LiteratureReviewPage() {
                       ))}
                     </ul>
                   </div>
-                  
+
                   <div>
                     <h4 className="font-semibold">Safety Considerations</h4>
                     <ul className="list-disc pl-5 mt-2">
