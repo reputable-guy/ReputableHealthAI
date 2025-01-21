@@ -3,20 +3,46 @@ import { z } from "zod";
 import axios from "axios";
 import { load } from "cheerio";
 
+const CACHE_DURATION = 1000 * 60 * 60; // 1 hour
+const scrapeCache = new Map<string, { content: string; timestamp: number }>();
+
 export const literatureReviewRequestSchema = z.object({
   productName: z.string().min(1, "Product name is required"),
   websiteUrl: z.string().url("Please enter a valid URL").optional(),
 });
 
 export async function scrapeWebsite(url: string): Promise<string> {
+  // Check cache first
+  const cached = scrapeCache.get(url);
+  if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
+    console.log('Using cached website content');
+    return cached.content;
+  }
+
   try {
-    const response = await axios.get(url);
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 5000); // 5 second timeout
+
+    const response = await axios.get(url, {
+      signal: controller.signal,
+      timeout: 5000,
+    });
+    clearTimeout(timeout);
+
     const $ = load(response.data);
-    // Extract text from main content areas, avoiding navigation and footer
-    const content = $('main, article, div[role="main"], .content, #content')
+
+    // Remove unnecessary elements that might contain irrelevant text
+    $('nav, footer, header, script, style, .navigation, .footer, .header, .menu').remove();
+
+    // Focus on main content areas
+    const content = $('main, article, div[role="main"], .content, #content, .product-description')
       .text()
       .trim()
-      .replace(/\s+/g, ' ');
+      .replace(/\s+/g, ' ')
+      .substring(0, 2000); // Limit content length
+
+    // Cache the result
+    scrapeCache.set(url, { content, timestamp: Date.now() });
     return content;
   } catch (error) {
     console.error('Error scraping website:', error);
@@ -43,89 +69,50 @@ export async function generateLiteratureReview(productName: string, websiteUrl?:
     }
   }
 
-  const prompt = `Generate a comprehensive literature review for ${productName} ${productContext ? 'based on the following product information: ' + productContext : ''}.
+  // Generate initial structure with gpt-3.5-turbo
+  const structurePrompt = `Create a basic structure for a literature review of ${productName}. Include only section headers and key points to be expanded. Keep it concise.`;
 
-Please follow this exact format and include ALL sections:
+  const initialStructure = await openai.chat.completions.create({
+    model: "gpt-3.5-turbo",
+    messages: [
+      {
+        role: "system",
+        content: "Create a concise outline for a scientific literature review. Include only headers and key points."
+      },
+      {
+        role: "user",
+        content: structurePrompt
+      }
+    ],
+    temperature: 0.3,
+    max_tokens: 500,
+  });
 
-📝 Literature Review: [Product Name]
+  // Use the initial structure to generate detailed content with GPT-4
+  const detailPrompt = `Expand this literature review structure with detailed scientific information for ${productName}:
 
-1. Overview
-* What is [Product Name]?
-    * [Detailed description of the product]
-    * [Key components or active ingredients]
-    * [Primary mechanism of action]
-* Primary Benefits:
-    ✅ [Major benefit 1 with scientific basis]
-    ✅ [Major benefit 2 with scientific basis]
-    ✅ [Major benefit 3 with scientific basis]
-* Common Supplement Forms:
-    * [Form 1 with description]
-    * [Form 2 with description]
-    * [Form 3 with description]
+${initialStructure.choices[0].message.content}
 
-2. Impact on Key Wellness Areas
+${productContext ? 'Based on the following product information: ' + productContext : ''}
 
-🛌 Sleep & Recovery
-* How It Works:
-    * [Detailed mechanism explanation]
-    * [Physiological pathways]
-* Key Findings:
-    ✅ [Finding 1 with research reference]
-    ✅ [Finding 2 with research reference]
-* Research Gaps:
-    ❌ [Gap 1 in current research]
-    ❌ [Gap 2 in current research]
-
-💪 Physical Performance & Recovery
-[Same structure as above]
-
-❤️ Cardiovascular Health
-[Same structure as above]
-
-🧠 Cognitive Function & Mood
-[Same structure as above]
-
-🔥 Metabolic & Gut Health
-[Same structure as above]
-
-3. Research Gaps & Future Studies
-📌 [Specific research question 1]
-📌 [Specific research question 2]
-📌 [Specific research question 3]
-📌 [Specific research question 4]
-
-4. Conclusion
-* Key Points:
-    ✅ [Main conclusion 1 about efficacy]
-    ✅ [Main conclusion 2 about mechanisms]
-    ✅ [Main conclusion 3 about research status]
-* Target Audience:
-    * [Specific population 1 with rationale]
-    * [Specific population 2 with rationale]
-    * [Specific population 3 with rationale]
-* Safety Considerations:
-    * [Safety point 1 with evidence]
-    * [Safety point 2 with evidence]
-    * [Safety point 3 with evidence]
-
-Use the exact emojis and formatting shown. Include scientific references where possible. Balance both benefits and limitations.`;
+Follow the exact format provided in the structure. Include specific scientific references where possible.`;
 
   try {
-    console.log('Sending request to OpenAI...');
+    console.log('Sending detailed request to OpenAI...');
     const response = await openai.chat.completions.create({
       model: "gpt-4",
       messages: [
         {
           role: "system",
-          content: "You are a scientific literature review expert. Generate detailed, evidence-based reviews that maintain a balance between highlighting benefits and acknowledging research gaps. Include specific scientific references and maintain consistent formatting with emojis and structure."
+          content: "You are a scientific literature review expert. Generate detailed, evidence-based reviews that maintain a balance between highlighting benefits and acknowledging research gaps. Focus on accuracy and scientific validity."
         },
         {
           role: "user",
-          content: prompt
+          content: detailPrompt
         }
       ],
-      temperature: 0.7,
-      max_tokens: 3000,
+      temperature: 0.5,
+      max_tokens: 2000,
     });
 
     const content = response.choices[0].message.content;
