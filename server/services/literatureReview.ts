@@ -46,29 +46,46 @@ export async function generateLiteratureReview(productName: string, websiteUrl?:
   const prompt = `Generate a comprehensive literature review for ${productName} ${productContext ? 'based on the following product information: ' + productContext : ''}.
 The goal is to support marketing claims with scientific evidence.
 
-Follow this exact structure:
+Please provide a structured response following this exact format:
 
 1. Overview
-- What is it?
-- Primary Benefits (with checkmark emoji ✅)
-- Common Supplement Forms
+- Description: [Brief explanation of what the product is]
+- Primary Benefits:
+  ✅ [Benefit 1]
+  ✅ [Benefit 2]
+  ✅ [Benefit 3]
+- Common Supplement Forms:
+  - [Form 1]
+  - [Form 2]
 
-2. Impact on Key Wellness Areas
-For each relevant area (Sleep & Recovery, Physical Performance, etc):
-- How It Works (mechanism)
-- Key Findings (with ✅)
-- Research Gaps (with ❌)
+2. Wellness Areas
+For each relevant area:
+[Area Name]
+- Mechanism: [How it works]
+- Key Findings:
+  ✅ [Finding 1]
+  ✅ [Finding 2]
+- Research Gaps:
+  ❌ [Gap 1]
+  ❌ [Gap 2]
 
 3. Research Gaps & Future Studies
-- List key unanswered questions with 📌
+📌 [Question 1]
+📌 [Question 2]
+📌 [Question 3]
 
 4. Conclusion
-- Essential functions
-- Supplementation insights
-- Safety considerations
-- Who Benefits Most (with ✅)
+- Key Points:
+  ✅ [Point 1]
+  ✅ [Point 2]
+- Target Audience:
+  - [Audience 1]
+  - [Audience 2]
+- Safety Considerations:
+  - [Safety point 1]
+  - [Safety point 2]
 
-Use emojis consistently as shown. Format in markdown with a focus on evidence that could support marketing claims while maintaining scientific accuracy.`;
+Use exact emoji markers (✅, ❌, 📌) as shown above. Format in markdown with scientific accuracy.`;
 
   try {
     console.log('Sending request to OpenAI...');
@@ -126,64 +143,100 @@ function parseReviewContent(content: string) {
   };
 
   try {
-    // Split content into sections
-    const sections = content.split(/\n\d+\./);
+    // Split content into main sections
+    const sections = content.split(/\d+\.\s+/);
 
-    if (sections.length > 1) {
-      // Parse Overview section
-      const overviewLines = sections[1].split('\n');
-      review.overview.description = overviewLines.find(line => line.includes("What is it"))?.replace("What is it?", "").trim() || "";
-      review.overview.benefits = overviewLines
-        .filter(line => line.includes("✅"))
-        .map(line => line.replace("✅", "").trim());
-      review.overview.supplementForms = overviewLines
-        .filter(line => line.includes("-") && !line.includes("✅"))
-        .map(line => line.replace("-", "").trim());
+    // Parse Overview section
+    if (sections[1] && sections[1].includes('Overview')) {
+      const overviewSection = sections[1];
 
-      // Parse Wellness Areas
-      if (sections[2]) {
-        const areas = sections[2].split(/\n(?=[A-Z])/);
-        areas.forEach(area => {
-          const lines = area.split('\n');
-          const name = lines[0].trim();
-          if (name) {
+      // Extract description
+      const descMatch = overviewSection.match(/Description:\s*([^\n]+)/);
+      if (descMatch) {
+        review.overview.description = descMatch[1].trim();
+      }
+
+      // Extract benefits (lines with ✅)
+      review.overview.benefits = overviewSection
+        .split('\n')
+        .filter(line => line.includes('✅'))
+        .map(line => line.replace('✅', '').trim());
+
+      // Extract supplement forms
+      const formsSection = overviewSection.substring(overviewSection.indexOf('Common Supplement Forms:'));
+      review.overview.supplementForms = formsSection
+        .split('\n')
+        .filter(line => line.startsWith('-'))
+        .map(line => line.replace('-', '').trim());
+    }
+
+    // Parse Wellness Areas
+    if (sections[2] && sections[2].includes('Wellness Areas')) {
+      const areasSection = sections[2];
+      const areas = areasSection.split(/(?=\n[A-Z][^:\n]+$)/m);
+
+      areas.forEach(area => {
+        const lines = area.split('\n').map(l => l.trim()).filter(Boolean);
+        if (lines.length > 0 && !lines[0].toLowerCase().includes('wellness areas')) {
+          const areaName = lines[0].replace(':', '').trim();
+          const mechanism = lines.find(l => l.startsWith('Mechanism:'))?.replace('Mechanism:', '').trim() || '';
+
+          const keyFindings = lines
+            .filter(l => l.includes('✅'))
+            .map(l => l.replace('✅', '').trim());
+
+          const researchGaps = lines
+            .filter(l => l.includes('❌'))
+            .map(l => l.replace('❌', '').trim());
+
+          if (areaName) {
             review.wellnessAreas.push({
-              name,
-              mechanism: lines.find(l => l.includes("How It Works"))?.replace("How It Works", "").trim() || "",
-              keyFindings: lines
-                .filter(l => l.includes("✅"))
-                .map(l => l.replace("✅", "").trim()),
-              researchGaps: lines
-                .filter(l => l.includes("❌"))
-                .map(l => l.replace("❌", "").trim()),
+              name: areaName,
+              mechanism,
+              keyFindings,
+              researchGaps,
             });
           }
-        });
-      }
+        }
+      });
+    }
 
-      // Parse Research Gaps
-      if (sections[3]) {
-        review.researchGaps.questions = sections[3]
-          .split('\n')
-          .filter(line => line.includes("📌"))
-          .map(line => line.replace("📌", "").trim());
-      }
+    // Parse Research Gaps
+    if (sections[3] && sections[3].includes('Research Gaps')) {
+      review.researchGaps.questions = sections[3]
+        .split('\n')
+        .filter(line => line.includes('📌'))
+        .map(line => line.replace('📌', '').trim());
+    }
 
-      // Parse Conclusion
-      if (sections[4]) {
-        const conclusionLines = sections[4].split('\n');
-        review.conclusion.keyPoints = conclusionLines
-          .filter(line => line.includes("✅"))
-          .map(line => line.replace("✅", "").trim());
+    // Parse Conclusion
+    if (sections[4] && sections[4].includes('Conclusion')) {
+      const conclusionSection = sections[4];
 
-        review.conclusion.safetyConsiderations = conclusionLines
-          .filter(line => line.toLowerCase().includes("safety"))
-          .map(line => line.replace(/^[^a-zA-Z]+/, "").trim());
+      // Extract key points
+      review.conclusion.keyPoints = conclusionSection
+        .split('\n')
+        .filter(line => line.includes('✅'))
+        .map(line => line.replace('✅', '').trim());
 
-        review.conclusion.targetAudience = conclusionLines
-          .filter(line => line.toLowerCase().includes("benefits most"))
-          .map(line => line.replace(/^[^a-zA-Z]+/, "").trim());
-      }
+      // Extract target audience
+      const audienceSection = conclusionSection.substring(
+        conclusionSection.indexOf('Target Audience:'),
+        conclusionSection.indexOf('Safety Considerations:')
+      );
+      review.conclusion.targetAudience = audienceSection
+        .split('\n')
+        .filter(line => line.startsWith('-'))
+        .map(line => line.replace('-', '').trim());
+
+      // Extract safety considerations
+      const safetySection = conclusionSection.substring(
+        conclusionSection.indexOf('Safety Considerations:')
+      );
+      review.conclusion.safetyConsiderations = safetySection
+        .split('\n')
+        .filter(line => line.startsWith('-'))
+        .map(line => line.replace('-', '').trim());
     }
 
     return review;
