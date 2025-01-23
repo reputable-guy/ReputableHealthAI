@@ -175,7 +175,7 @@ function parseReviewContent(content: string) {
     review.title = titleMatch ? titleMatch[1].trim() : "Literature Review";
 
     // Extract Overview section with more flexible patterns
-    const overviewContent = extractSectionContent(content, "1\\. Overview");
+    const overviewContent = extractSectionContent(content, "1\. Overview");
     if (overviewContent !== "Content not found.") {
       // More flexible product description matching including both formats
       const productDescriptionMatch = overviewContent.match(
@@ -211,6 +211,7 @@ function parseReviewContent(content: string) {
       { emoji: "❤️", name: "Cardiovascular Health" },
       { emoji: "🧠", name: "Cognitive Function & Mood" },
       { emoji: "🔥", name: "Metabolic & Gut Health" },
+      { emoji: "💙", name: "Sexual Health & Performance" },
     ];
 
     for (const { emoji, name } of wellnessAreaPatterns) {
@@ -274,7 +275,7 @@ function parseReviewContent(content: string) {
     // Extract Research Gaps section with more flexible matching
     const researchContent = extractSectionContent(
       content,
-      "3\\. Research Gaps & Future Studies",
+      "3\. Research Gaps & Future Studies",
     );
     const questionsMatch =
       researchContent.match(/📌[^:]*:?[\s\S]*?(?=\d\.|$)/i) ||
@@ -284,7 +285,7 @@ function parseReviewContent(content: string) {
     }
 
     // Extract Conclusion section with more flexible matching
-    const conclusionContent = extractSectionContent(content, "4\\. Conclusion");
+    const conclusionContent = extractSectionContent(content, "4\. Conclusion");
     if (conclusionContent !== "Content not found.") {
       const keyPointsMatch = conclusionContent.match(
         /Key Points:?[\s\S]*?(?=Safety Considerations|$)/i,
@@ -352,11 +353,11 @@ Follow this exact format to ensure consistency:
 
 1. Overview
 * What is ${productName}?
-    * [Provide 2-3 sentences summarizing the compound.]
+    * [Provide a brief, 1-2 sentence introduction to the compound, focusing on its basic form and primary purpose.]
 * Primary Benefits:
-    ✅ [List key benefits, each on a new line.]
+    ✅ [List 3-4 key unique benefits, avoid repeating detailed mechanisms.]
 * Common Supplement Forms:
-    * [List supplement forms, each on a new line.]
+    * [List main supplement forms available.]
 
 2. Impact on Key Wellness Areas
 
