@@ -163,7 +163,7 @@ export function registerRoutes(app: Express): Server {
   });
 
   // Protocol generation endpoint
-  app.post("/protocols/generate", async (req, res) => {
+  app.post("/api/protocols/generate", async (req, res) => {
     const { productName, websiteUrl, selectedHypothesis, studyCategory } = req.body;
     if (!productName || !selectedHypothesis || !studyCategory) {
       return res.status(400)
