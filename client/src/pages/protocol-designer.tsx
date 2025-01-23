@@ -17,6 +17,31 @@ interface Hypothesis {
   confidenceScore: number;
 }
 
+export interface RiskAssessment {
+  overallScore: number; // 0-100
+  riskLevel: 'Low' | 'Moderate' | 'High';
+  categories: {
+    participantSafety: number;
+    dataPrivacy: number;
+    ethicalConsiderations: number;
+    regulatoryCompliance: number;
+    studyDesign: number;
+  };
+  recommendations: string[];
+}
+
+export interface ValidationResult {
+  isValid: boolean;
+  errors: string[];
+  warnings: string[];
+  statisticalPower: number;
+  minimumSampleSize: number;
+  effectSize?: number;
+  confidence?: number;
+  powerCurve?: Array<{ sampleSize: number; power: number }>;
+  confidenceInterval?: [number, number];
+}
+
 export type ProtocolData = {
   productName: string;
   websiteUrl?: string;
@@ -35,6 +60,7 @@ export type ProtocolData = {
     customQuestions: string[];
   };
   selectedHypothesis?: string;
+  riskAssessment?: RiskAssessment;
 };
 
 type InitialSetup = {

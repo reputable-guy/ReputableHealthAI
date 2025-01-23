@@ -1,0 +1,206 @@
+11:28:51 PM [express] POST /api/protocols/hypotheses 200 in 7050ms :: {"hypotheses":[{"id":1,"categor…
+11:28:54 PM [express] POST /api/protocols/hypotheses 200 in 10116ms :: {"hypotheses":[{"id":1,"catego…
+Generating contextual prompt for Magnesium Glycinate in category: Sleep
+11:29:44 PM [express] POST /api/protocols/generate 200 in 47479ms :: {"studyCategory":"Sleep","experi…
+Received IRB submission request: {
+  "studyCategory": "Sleep",
+  "experimentTitle": "Effects of Magnesium Glycinate Supplementation on Sleep Quality and Architecture",
+  "studyObjective": "To understand the impact of daily supplementation with 400mg of Magnesium Glycinate, administered 1-2 hours before bedtime for a duration of 12 weeks, on various sleep parameters in healthy individuals with self-reported sleep disturbances compared to a placebo control group.",
+  "studyType": "Randomized, double-blind, placebo-controlled trial",
+  "participantCount": 160,
+  "durationWeeks": 12,
+  "targetMetrics": [
+    "Deep sleep duration",
+    "Total sleep time",
+    "Sleep efficiency",
+    "Sleep onset latency"
+  ],
+  "questionnaires": [
+    "Pittsburgh Sleep Quality Index",
+    "Epworth Sleepiness Scale",
+    "Sleep diary entries",
+    "Quality of life assessment"
+  ],
+  "studySummary": "This study aims to evaluate the effects of magnesium glycinate supplementation on sleep quality in otherwise healthy adults with self-reported sleep disturbances. Participants will be randomly assigned to either the treatment group receiving magnesium glycinate or the control group receiving a placebo, and various sleep parameters will be assessed.",
+  "participantInstructions": [
+    "Maintain a consistent sleep schedule",
+    "Take assigned supplement 1-2 hours before bedtime",
+    "Avoid caffeine and alcohol intake 6 hours before bedtime",
+    "Wear sleep tracking device throughout the duration of the study"
+  ],
+  "safetyPrecautions": [
+    "Discontinue use if severe adverse reactions occur",
+    "Individuals with kidney disease should not participate",
+    "Pregnant or lactating women should not participate",
+    "Inform study administrators of any changes in health status or medication usage"
+  ],
+  "educationalResources": [
+    {
+      "title": "Understanding the Importance of Sleep",
+      "description": "Information on why good sleep is important for health and well-being.",
+      "type": "Website link"
+    },
+    {
+      "title": "Effects of Magnesium on Sleep",
+      "description": "Detailed explanation of how magnesium aids in sleep regulation.",
+      "type": "Magazine article"
+    },
+    {
+      "title": "Sleep Hygiene Basics",
+      "description": "Practical tips for creating an ideal sleep environment and habits to promote quality sleep.",
+      "type": "Brochure"
+    }
+  ],
+  "consentFormSections": [
+    {
+      "title": "Study Purpose",
+      "content": "Concrete explanation of the purpose of the study"
+    },
+    {
+      "title": "Participant Duties",
+      "content": "Detailed account of the obligations and responsibilities of the participant"
+    },
+    {
+      "title": "Potential Risks and Benefits",
+      "content": "A candid statement of risks, side effects and benefits associated with the study"
+    },
+    {
+      "title": "Confidentiality",
+      "content": "Assurances of the participant's privacy rights and how their data will be handled"
+    }
+  ],
+  "customFactors": [
+    "Dietary habits",
+    "Exercise routine",
+    "Chronic health conditions",
+    "Current medication use"
+  ],
+  "eligibilityCriteria": {
+    "wearableData": [
+      {
+        "metric": "Average sleep duration",
+        "condition": "Less than",
+        "value": "6 hours"
+      },
+      {
+        "metric": "Sleep efficiency",
+        "condition": "Less than",
+        "value": "80%"
+      }
+    ],
+    "demographics": [
+      {
+        "category": "Age",
+        "requirement": "Between 25 and 65 years"
+      },
+      {
+        "category": "BMI",
+        "requirement": "Between 18.5 and 29.9"
+      }
+    ],
+    "customQuestions": [
+      "Do you have a regular sleep schedule?",
+      "Have you used magnesium supplements before?",
+      "Are you currently on any medications?",
+      "Do you have any diagnosed sleep disorders?"
+    ]
+  },
+  "validationResults": {
+    "statisticalPower": 0.8484659706226335,
+    "powerAnalysis": {
+      "effectSize": 0.5,
+      "sampleSize": 160,
+      "minimumSampleSize": 64,
+      "confidence": 0.8,
+      "powerCurve": [
+        {
+          "sampleSize": 8,
+          "power": 0.37379587327299824
+        },
+        {
+          "sampleSize": 16,
+          "power": 0.48158474317452216
+        },
+        {
+          "sampleSize": 24,
+          "power": 0.5504109752485908
+        },
+        {
+          "sampleSize": 32,
+          "power": 0.6005145308871298
+        },
+        {
+          "sampleSize": 40,
+          "power": 0.63942419941583
+        },
+        {
+          "sampleSize": 48,
+          "power": 0.6708589769158306
+        },
+        {
+          "sampleSize": 56,
+          "power": 0.6969501944935975
+        },
+        {
+          "sampleSize": 64,
+          "power": 0.7190391022874965
+        },
+        {
+          "sampleSize": 72,
+          "power": 0.7380263478589917
+        },
+        {
+          "sampleSize": 80,
+          "power": 0.7545463719703763
+        },
+        {
+          "sampleSize": 88,
+          "power": 0.7690628760511398
+        },
+        {
+          "sampleSize": 96,
+          "power": 0.781924853998124
+        },
+        {
+          "sampleSize": 104,
+          "power": 0.7934013211807245
+        },
+        {
+          "sampleSize": 112,
+          "power": 0.8037038062110281
+        },
+        {
+          "sampleSize": 120,
+          "power": 0.8130014541564853
+        },
+        {
+          "sampleSize": 128,
+          "power": 0.8214314809252179
+        },
+        {
+          "sampleSize": 136,
+          "power": 0.829106599247336
+        },
+        {
+          "sampleSize": 144,
+          "power": 0.836120412401426
+        },
+        {
+          "sampleSize": 152,
+          "power": 0.8425514086886616
+        },
+        {
+          "sampleSize": 160,
+          "power": 0.8484659706226335
+        }
+      ]
+    },
+    "regulatoryFlags": []
+  }
+}
+Missing required data: {
+  hasProtocol: false,
+  hasLiteratureReview: false,
+  hasRiskAssessment: false
+}
+11:29:51 PM [express] POST /api/protocols/irb-submission 400 in 1ms :: {"error":true,"message":"Proto…

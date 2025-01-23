@@ -9,13 +9,13 @@ import {
 import { useMutation } from "@tanstack/react-query";
 import { useToast } from "@/hooks/use-toast";
 import type { ProtocolData, ValidationResult } from "@/pages/protocol-designer";
-import { generateProtocolInsights } from "@/lib/protocol-insights";
 import { useState, useEffect } from "react";
 import { Loader2, Info, Shield, AlertTriangle, CheckCircle, ChevronDown } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import { validateStudyDesign } from "@/lib/study-validation";
 import PowerVisualization from "./power-visualization";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
+import RiskAssessmentVisualization from "./risk-assessment-visualization";
 
 interface ProtocolPreviewProps {
   protocolData: Partial<ProtocolData>;
@@ -40,9 +40,46 @@ function InfoTooltip({ content }: InfoTooltipProps) {
   );
 }
 
+// Helper function to generate IRB submission (needs implementation)
+const generateIrbSubmission = async (protocolData: Partial<ProtocolData>) => {
+  const res = await fetch("/api/protocols/irb-submission", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      protocol: {
+        title: protocolData.experimentTitle,
+        studyObjective: protocolData.studyObjective,
+        studyDesign: protocolData.studyType,
+        participantCount: protocolData.participantCount,
+        eligibilityCriteria: protocolData.eligibilityCriteria?.customQuestions || [],
+        procedures: protocolData.targetMetrics || [],
+        durationWeeks: protocolData.durationWeeks,
+        risks: [],
+        safetyPrecautions: protocolData.safetyPrecautions || [],
+        dataCollection: {},
+        dataStorage: {},
+        analysisMethod: {},
+        timeline: []
+      },
+      literatureReview: protocolData.literatureReview, // Assuming literatureReview is now part of protocolData
+      riskAssessment: protocolData.riskAssessment // Assuming riskAssessment is now part of protocolData
+
+    })
+  });
+
+  if (!res.ok) {
+    const error = await res.json();
+    throw new Error(error.message || "Failed to generate IRB submission");
+  }
+
+  const data = await res.json();
+  return data.submission;
+};
+
+
 export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) {
   const { toast } = useToast();
-  const [insights, setInsights] = useState<string | null>(null);
+  const [irbSubmission, setIrbSubmission] = useState<string | null>(null);
   const [validationResults, setValidationResults] = useState<ValidationResult | null>(null);
   const [localProtocolData, setLocalProtocolData] = useState<Partial<ProtocolData>>(protocolData);
 
@@ -82,22 +119,33 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
     }
   });
 
-  const generateInsights = useMutation({
+  const generateIRBSubmission = useMutation({
     mutationFn: async () => {
-      const insightText = await generateProtocolInsights(protocolData);
-      return insightText;
+      try {
+        // Make sure we have all required data
+        if (!protocolData.productName || !protocolData.websiteUrl) {
+          throw new Error("Missing required product information");
+        }
+
+        // Generate IRB submission using the service
+        const submission = await generateIrbSubmission(protocolData);
+        return submission;
+      } catch (error) {
+        console.error('Error generating IRB submission:', error);
+        throw error;
+      }
     },
     onSuccess: (data) => {
-      setInsights(data);
+      setIrbSubmission(data);
       toast({
-        title: "Insights Generated",
-        description: "AI-powered insights have been generated for your protocol."
+        title: "IRB Submission Generated",
+        description: "Your IRB submission document has been generated successfully."
       });
     },
-    onError: () => {
+    onError: (error) => {
       toast({
         title: "Error",
-        description: "Failed to generate insights. Please try again.",
+        description: error instanceof Error ? error.message : "Failed to generate IRB submission. Please try again.",
         variant: "destructive"
       });
     }
@@ -128,9 +176,9 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
   });
 
   // Add handleParameterUpdate function
-  const handleParameterUpdate = async (params: { 
-    effectSize: number; 
-    power: number; 
+  const handleParameterUpdate = async (params: {
+    effectSize: number;
+    power: number;
     alpha: number;
     calculatedSampleSize: number;
   }) => {
@@ -156,6 +204,40 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
       description: "Study design parameters have been recalculated."
     });
   };
+
+  const generateRiskAssessment = useMutation({
+    mutationFn: async () => {
+      const res = await fetch("/api/protocols/risk-assessment", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(protocolData)
+      });
+
+      if (!res.ok) {
+        throw new Error("Failed to generate risk assessment");
+      }
+
+      const data = await res.json();
+      return data.assessment;
+    },
+    onSuccess: (data) => {
+      setLocalProtocolData(prev => ({
+        ...prev,
+        riskAssessment: data
+      }));
+      toast({
+        title: "Risk Assessment Complete",
+        description: `Overall Risk Level: ${data.riskLevel}`,
+      });
+    },
+    onError: () => {
+      toast({
+        title: "Error",
+        description: "Failed to generate risk assessment. Please try again.",
+        variant: "destructive"
+      });
+    }
+  });
 
   return (
     <div className="space-y-6 max-w-4xl mx-auto">
@@ -597,16 +679,28 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         </Card>
       </Collapsible>
 
-      {/* AI Insights Section */}
-      {insights && (
+      {/* IRB Submission Section */}
+      {irbSubmission && (
         <Card>
           <CardHeader>
-            <CardTitle>AI-Generated Insights</CardTitle>
+            <CardTitle>IRB Submission Document</CardTitle>
           </CardHeader>
           <CardContent>
             <div className="prose prose-sm max-w-none">
-              <ReactMarkdown>{insights}</ReactMarkdown>
+              <ReactMarkdown>{irbSubmission}</ReactMarkdown>
             </div>
+          </CardContent>
+        </Card>
+      )}
+
+      {/* Risk Assessment Section */}
+      {localProtocolData.riskAssessment && (
+        <Card>
+          <CardHeader>
+            <CardTitle>Protocol Risk Assessment</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <RiskAssessmentVisualization assessment={localProtocolData.riskAssessment} />
           </CardContent>
         </Card>
       )}
@@ -615,16 +709,30 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
       <div className="flex flex-col gap-3">
         <Button
           className="w-full"
-          onClick={() => generateInsights.mutate()}
-          disabled={generateInsights.isPending}
+          onClick={() => generateRiskAssessment.mutate()}
+          disabled={generateRiskAssessment.isPending}
         >
-          {generateInsights.isPending ? (
+          {generateRiskAssessment.isPending ? (
             <>
               <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-              Generating Insights...
+              Analyzing Protocol Risks...
             </>
           ) : (
-            "Generate AI Insights"
+            "Generate Risk Assessment"
+          )}
+        </Button>
+        <Button
+          className="w-full"
+          onClick={() => generateIRBSubmission.mutate()}
+          disabled={generateIRBSubmission.isPending}
+        >
+          {generateIRBSubmission.isPending ? (
+            <>
+              <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+              Generating IRB Submission...
+            </>
+          ) : (
+            "Generate IRB Submission"
           )}
         </Button>
         <Button
