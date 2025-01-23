@@ -99,7 +99,7 @@ export default function LiteratureReviewPage() {
             <h2 className="text-2xl font-bold mb-4">1. Overview</h2>
             <div className="space-y-4">
               <div>
-                <h3 className="text-xl font-semibold">What is {params.get("product")}?</h3>
+                <h3 className="text-xl font-semibold">What is the Product?</h3>
                 <ul className="list-disc pl-6">
                   {review.overview.description.map((point, index) => (
                     <li key={index}>{point}</li>
@@ -229,18 +229,6 @@ export default function LiteratureReviewPage() {
               </div>
             </div>
           </section>
-
-          {/* References Section */}
-          {review.references && review.references.length > 0 && (
-            <section className="mt-8">
-              <h2 className="text-2xl font-bold mb-4">5. References</h2>
-              <ul className="list-none pl-6 space-y-2">
-                {review.references.map((reference, index) => (
-                  <li key={index} className="text-sm text-gray-600">{reference}</li>
-                ))}
-              </ul>
-            </section>
-          )}
         </CardContent>
       </Card>
     </div>
