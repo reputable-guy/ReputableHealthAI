@@ -1,26 +1,21 @@
-Study Title: The effect of blood flow-restrictive resistance training on the risk of atherosclerotic cardiovascular disease in middle-aged patients with type 2 diabetes: a randomized controlled trial.
+Study Title: A 12-week in-phase bilateral upper limb exercise protocol promoted neuroplastic and clinical changes in people with relapsing remitting multiple sclerosis: A registered report randomized single-case concurrent multiple baseline study.
 
 Study Summary:
-The aim of this study was to investigate the effects of blood flow-restrictive resistance training (BFR-RT) on improving metabolic abnormalities, blood pressure (BP), obesity, and 10-year atherosclerotic cardiovascular disease (ASCVD) risk in middle-aged patients with type 2 diabetes mellitus (T2DM). We conducted a parallel-group, single blind randomized controlled trial. Participants who met the inclusion criteria were randomly divided into control group, BFR-RT group and aerobic exercise (AE) group. Control group received health education and follow-up; Two exercise groups received supervised collective training for a period of six months, three times per week. AE group trained at moderate-intensity for 60 minutes each time, while BFR-RT group trained at low-intensity for 40 minutes each time. The primary outcomes were change in 10-year ASCVD risk index and level, and the secondary outcomes included changes in fasting plasma glucose (FPG), glycosylated hemoglobin (HbA1c), blood lipids, BP, and obesity level within and across the three groups at baseline, the third and sixth months of intervention. Among 93 individuals (control group, n=31; AE, n=30; BFR-RT, n=32) were analyzed. At baseline, there were no significant differences in various indicators among the three groups (p>0.05). After intervention, the 10-year ASCVD risk index and risk level of both exercise groups significantly decreased compared to the control group and baseline (p<0.05), and the risk reduction became more pronounced over time. In the sixth month of intervention, the 10-year ASCVD risk index in the AE group decreased by 27.40%, and that in the BFR-RT group decreased by 26.78%. Meanwhile, apart from lipoprotein (a) and diastolic blood pressure, both exercise groups showed significant improvements in FPG, HbA1c, dyslipidemia, systolic blood pressure, and obesity indicators compared to the control group and baseline (p<0.05). There was no significant difference in various indicators between the two exercise groups (p>0.05). BFR-RT could reduce the 10-year ASCVD risk in middle-aged T2DM patients for by improving metabolic abnormalities, BP and obesity, and its effect was similar to that of moderate-intensity AE. https://www.chictr.org.cn/showproj.html?proj=178886, identifier ChiCTR2300074357.
+Relapsing-Remitting Multiple Sclerosis manifests various motor symptoms including impairments in corticospinal tract integrity, whose symptoms can be assessed using transcranial magnetic stimulation. Several factors, such as exercise and interlimb coordination, can influence the plastic changes in corticospinal tract. Previous work in healthy and chronic stroke survivors showed that the greatest improvement in corticospinal plasticity occurred during in-phase bilateral exercises of the upper limbs. Altered corticospinal plasticity due to bilateral lesions in the central nervous system is common after Multiple Sclerosis, yet the effect of in-phase bilateral exercise on the bilateral corticospinal plasticity in this cohort remains unclear. Our aim was to investigate the effects of in-phase bilateral exercises on central motor conduction time, motor evoked potential amplitude and latency, motor threshold and clinical measures in people with Relapsing-Remitting Multiple Sclerosis. Five people were randomized and recruited in this single case concurrent multiple baseline design study. The intervention protocol lasted for 12 consecutive weeks (30-60 minutes /session x 3 sessions / week) and included in-phase bilateral upper limb movements, adapted to different sports activities and to functional motor training. To define the functional relation between the intervention and the results, we conducted a visual analysis. If a potential sizeable effect was observed, we subsequently performed a statistical analysis. Results demonstrated bilateral reduction of the motor threshold alongside with improvement of all clinical measures, but not in any other corticospinal plasticity measures. Our preliminary findings suggest that in-phase bilateral exercise affects motor threshold in people with Relapsing-Remitting Multiple Sclerosis. Therefore, this measure could potentially serve as a proxy for detecting corticospinal plasticity in this cohort. However, future studies with larger sample sizes should validate and potentially establish the effect of in-phase bilateral exercise on the corticospinal plasticity and clinical measures in this cohort. Clinical trial registration: ClinicalTrials.gov NCT05367947.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fendo.2024.1482985
+- DOI: 10.1371/journal.pone.0299611
 
 2. Keywords
-- aerobic exercise
-- atherosclerotic cardiovascular disease
-- blood flow-restrictive resistance training
-- risk
-- type 2 diabetes mellitus
+
 
 3. Key Findings
-- Meanwhile, apart from lipoprotein (a) and diastolic blood pressure, both exercise groups showed significant improvements in FPG, HbA1c, dyslipidemia, systolic blood pressure, and obesity indicators compared to the control group and baseline (p<0
+- Previous work in healthy and chronic stroke survivors showed that the greatest improvement in corticospinal plasticity occurred during in-phase bilateral exercises of the upper limbs
+- Results demonstrated bilateral reduction of the motor threshold alongside with improvement of all clinical measures, but not in any other corticospinal plasticity measures
 
 This study provides insights into:
-- aerobic exercise assessment methods and outcomes
-- atherosclerotic cardiovascular disease assessment methods and outcomes
-- blood flow-restrictive resistance training assessment methods and outcomes
+- General research methodology and outcomes

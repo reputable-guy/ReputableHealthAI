@@ -1,26 +1,28 @@
-Study Title: Music therapy and weight gain in preterm infants: Secondary analysis of the randomized controlled LongSTEP trial.
+Study Title: Smartphone-delivered multicomponent lifestyle medicine intervention for improving mental health in a nonclinical population: a randomized controlled trial.
 
 Study Summary:
-This study assessed the association between MT and weight gain among preterm infants hospitalized in Neonatal Intensive Care Units. Data collected during the international, randomized, Longitudinal Study of Music Therapy's Effectiveness for Premature Infants and their Caregivers (LongSTEP) study were compared between the MT group and the standard care (SC) group. Weights were recorded at birth, enrollment, and discharge. Weight percentiles, Z-scores, weight gain velocity, and extrauterine growth restriction (EUGR) were calculated. Among 201 preterm infants included, no significant differences in weight parameters (weight, weight percentiles, weight Z-scores; all p&#x2009;&#x2265;&#x2009;0.23) were found between the MT group (n&#x2009;=&#x2009;104) and the SC (n&#x2009;=&#x2009;97) group at birth, enrollment, or discharge. No statistical differences in EUGR represented by change in Z-scores from birth to discharge were recorded between MT and SC (0.8 vs. 0.7). Among perinatal parameters, younger gestational age (p&#x2009;=&#x2009;0.005) and male sex (p&#x2009;=&#x2009;0.012) were associated with increased risk of EUGR at discharge. Antenatal steroid treatment, systemic infection, bronchopulmonary dysplasia, neurological morbidities, retinopathy of prematurity, necrotizing enterocolitis, parental factors (amount of skin-to-skin care, bonding, anxiety, and depression questionnaire scores), and type of enteral nutrition&#xa0;did not significantly influence weight gain parameters (all p&#x2009;>&#x2009;0.05). In the LongSTEP study, MT for preterm infants and families was not associated with better weight parameters compared to the SC group. The degree of prematurity remains the main risk factor for unfavorable weight parameters.
+To prevent the exacerbation of mental health burdens, a growing body of research has recommended a balanced approach that emphasizes both the delivery of mental health treatments to individuals with common mental disorders (CMDs) and the strengthening of protective factors for CMDs among nonclinical populations. This randomized controlled trial (RCT) evaluated the efficacy of a smartphone-delivered multicomponent lifestyle medicine (LM) intervention, Lifestyle Hub, for improving mental health among a nonclinical population of Chinese adults. A total of 106 participants with Patient Health Questionnaire-9 total score&#x2009;<&#x2009;10 and Generalized Anxiety Disorder 7-Item Scale <8 were randomly assigned to either the Lifestyle Hub intervention group (LH,&#x2009;=&#x2009;53) or the waitlist control group (WL,&#x2009;=&#x2009;53). Lifestyle Hub is an 8-week smartphone-delivered multicomponent LM intervention developed based on the transtheoretical model. The intervention components included lifestyle psychoeducation, physical activity, diet and nutrition, stress management, sleep management, and motivation and goal-setting techniques. Assessments were conducted at baseline, immediate post-intervention, and 1-month follow-up (LH only). The linear mixed effect model based on the intention-to-treat principle indicated that Lifestyle Hub significantly improved overall mental health, depressive symptoms, anxiety symptoms, stress, insomnia severity, overall health-promoting behaviors, dietary quality, and stress management compared to the WL group at immediate post-intervention (&#x2009;=&#x2009;0.13-0.56). No significant between-group differences were observed in terms of functional impairment, health-related quality of life, health responsibility, physical activity level, spiritual growth, and interpersonal relations. The intervention gains in the LH group were maintained at 1-month follow-up. The LH participants indicated that Lifestyle Hub was an acceptable intervention for improving mental health, although a significantly higher level of study attrition was observed in the LH group (20.8%) relative to the WL group (5.7%). Lifestyle Hub may serve as an efficacious and acceptable intervention for improving mental health in nonclinical adult populations. To extend the benefits of LM interventions at the population level, future studies are warranted to examine a stepped-care approach to delivering LM interventions.: This randomized controlled trial was pre-registered with ClinicalTrials.gov (NCT04295369).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/jpn3.12061
+- DOI: 10.3389/fpubh.2023.1231981
 
 2. Keywords
-- Z-score
-- extrauterine growth restriction
-- music therapy
-- preterm infants
-- weight gain
+- lifestyle
+- mental health
+- mood
+- randomized controlled trial
+- self-help
+- smartphone-based intervention
 
 3. Key Findings
-- 23) were found between the MT group (n&#x2009;=&#x2009;104) and the SC (n&#x2009;=&#x2009;97) group at birth, enrollment, or discharge
+- The linear mixed effect model based on the intention-to-treat principle indicated that Lifestyle Hub significantly improved overall mental health, depressive symptoms, anxiety symptoms, stress, insomnia severity, overall health-promoting behaviors, dietary quality, and stress management compared to the WL group at immediate post-intervention (&#x2009;=&#x2009;0
+- The LH participants indicated that Lifestyle Hub was an acceptable intervention for improving mental health, although a significantly higher level of study attrition was observed in the LH group (20
 
 This study provides insights into:
-- Z-score assessment methods and outcomes
-- extrauterine growth restriction assessment methods and outcomes
-- music therapy assessment methods and outcomes
+- lifestyle assessment methods and outcomes
+- mental health assessment methods and outcomes
+- mood assessment methods and outcomes

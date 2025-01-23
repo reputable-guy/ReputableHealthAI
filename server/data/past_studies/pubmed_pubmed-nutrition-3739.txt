@@ -1,29 +1,20 @@
-Study Title: Bioactive compounds for human and planetary health.
+Study Title: Early Human Milk Fortification in Infants Born Extremely Preterm: A Randomized Trial.
 
 Study Summary:
-Bioactive compounds found in edible plants and foods are vital for human and planetary health, yet their significance remains underappreciated. These natural bioactives, as part of whole diets, ingredients, or supplements, can modulate multiple aspects of human health and wellness. Recent advancements in omic sciences and computational biology, combined with the development of Precision Nutrition, have contributed to the convergence of nutrition and medicine, as well as more efficient and affordable healthcare solutions that harness the power of food for prevention and therapy. Innovation in this field is crucial to feed a growing global population sustainably and healthily. This requires significant changes in our food system, spanning agriculture, production, distribution and consumption. As we are facing pressing planetary health challenges, investing in bioactive-based solutions is an opportunity to protect biodiversity and the health of our soils, waters, and the atmosphere, while also creating value for consumers, patients, communities, and stakeholders. Such research and innovation targets include alternative proteins, such as cellular agriculture and plant-derived protein; natural extracts that improve shelf-life as natural preservatives; upcycling of agricultural by-products to reduce food waste; and the development of natural alternatives to synthetic fertilizers and pesticides. Translational research and innovation in the field of natural bioactives are currently being developed at two levels, using a systems-oriented approach. First, at the biological level, the interplay between these compounds and the human host and microbiome is being elucidated through omics research, big data and artificial intelligence, to accelerate both discovery and validation. Second, at the ecosystem level, efforts are focused on producing diverse nutrient-rich, flavorful, and resilient, yet high-yield agricultural crops, and educating consumers to make informed choices that benefit both their health and the planet. Adopting a system-oriented perspective helps: unravel the intricate and dynamic relationships between bioactives, nutrition, and sustainability outcomes, harnessing the power of nature to promote human health and wellbeing; foster sustainable agriculture and protect the ecosystem. Interdisciplinary collaboration in this field is needed for a new era of research and development of practical food-based solutions for some of the most pressing challenges humanity and our planet are facing today.
+Enteral nutrition with unfortified human milk during the first 2 postnatal weeks often leads to cumulative protein and energy deficits among preterm infants. Fortified human milk administered soon after birth could increase fat-free mass (FFM) and improve growth in these infants. This was a masked, randomized trial. Starting on feeding day 2, extremely preterm infants 28 weeks or younger fed maternal or donor milk were randomized to receive either a diet fortified with a human-based product (intervention group) or a standard, unfortified diet (control group). This practice continued until the feeding day when a standard bovine-based fortifier was ordered. Caregivers were masked. The primary outcome was FFM-for-age z score at 36 weeks of postmenstrual age (PMA). A total of 150 infants were randomized between 2020 and 2022. The mean birth weight was 795&#xb1;250 g, and the median gestational age was 26 weeks. Eleven infants died during the observation period. The primary outcome was assessed in 105 infants (70%). FFM-for-age z scores did not differ between groups. Length gain velocities from birth to 36 weeks PMA were higher in the intervention group. Declines in head circumference-for-age z score from birth to 36 weeks' PMA were less pronounced in the intervention group. In infants born extremely preterm, human milk diets fortified soon after birth do not increase FFM accretion at 36 weeks' PMA, but they may increase length gain velocity and reduce declines in head circumference-for-age z scores from birth to 36 weeks' PMA.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3389/fnut.2023.1193848
+- DOI: 10.1542/peds.2023-061603
 
 2. Keywords
-- artificial intelligence
-- bioactive
-- micronutrient
-- nutrition
-- peptide
-- phytonutrient
-- prebiotic
-- probiotic
+
 
 3. Key Findings
-- Bioactive compounds found in edible plants and foods are vital for human and planetary health, yet their significance remains underappreciated
+- Findings extraction requires manual review
 
 This study provides insights into:
-- artificial intelligence assessment methods and outcomes
-- bioactive assessment methods and outcomes
-- micronutrient assessment methods and outcomes
+- General research methodology and outcomes

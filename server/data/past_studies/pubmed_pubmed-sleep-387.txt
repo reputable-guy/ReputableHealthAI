@@ -1,20 +1,28 @@
-Study Title: Palmitoylethanolamide Does Not Affect Recovery from Exercise-Induced Muscle Damage in Healthy Males.
+Study Title: The CONVINCE randomized trial found positive effects on quality of life for patients with chronic kidney disease treated with hemodiafiltration.
 
 Study Summary:
-Strenuous eccentric exercise (EE) induces microstructural muscle damage, which decreases muscle performance. Palmitoylethanolamide (PEA) exerts analgesic and anti-inflammatory effects in clinical pain conditions and preclinical models of experimentally induced inflammation. This might hold clues for improved recovery from EE. Therefore, the current study evaluates the effect of PEA supplementation on functional and molecular responses to a single EE bout. Eleven healthy male participants were included in a double-blind crossover study in which they received PEA (350 mg Levagen+) or placebo (maltodextrin) supplements, in a randomized order. In each experimental condition, participants performed an acute bout of EE (24 &#xd7; 10 eccentric contractions of the knee extensors on an isokinetic dynamometer). At baseline, 24 (D1), 48 (D2), 72 (D3), and 120 h (D5) following EE, maximal voluntary contraction and jump height were measured. Blood samples were collected at baseline and on D1-D5, and muscle biopsies were collected at baseline and on D2. Perceived muscle soreness, sleep quality, and food intake were recorded daily. Muscle strength and jump height decreased following EE (up to ~40% and ~17%, respectively; Ptime < 0.05) in both conditions. This drop was accompanied by an increase in plasma creatine kinase and perceived muscle soreness ( Ptime < 0.05). Furthermore, EE, but not PEA, increased the expression of the myogenic marker Pax7 and of the catabolic markers p-FoxO1-3a, p62, and LC3BII/I ( Ptime < 0.05). PEA supplementation does not improve muscle soreness, muscle strength, and jump performance following a single EE bout. In addition, PEA supplementation had no effect on local or systemic markers of muscle damage, catabolism, or regeneration.
+In the CONVINCE trial, the primary analysis demonstrated a survival benefit for patients receiving high-dose hemodiafiltration (HDF) as compared with high-flux hemodialysis (HD). A secondary objective was to evaluate effects on health-related quality of life (HRQoL); assessed in eight domains (physical function, cognitive function, fatigue, sleep disturbance, anxiety, depression, pain interference, social participation) applying instruments from the Patient-Reported Outcome Measurement Information System (PROMIS) before randomization and every three months thereafter. In total 1360 adults with dialysis-dependent chronic kidney disease, eligible to receive high-flux HDF (23 liters or more), were randomized (1:1); 84% response rate to all questionnaires. Both groups reported a continuous deterioration in all HRQoL domains. Overall, raw score changes from baseline were more favorable in the HDF group, resulting in a significant omnibus test after a median observation period of 30 months. Most relevant single raw score differences were reported for cognitive function. Patients receiving HDF reported a decline of -0.95 units (95% confidence interval - 2.23 to&#xa0;+0.34) whereas HD treated patients declined by -3.90 units (-5.28 to - 2.52). A joint model, adjusted for mortality differences, utilizing all quarterly assessments, identified a significantly slower HRQoL decline in physical function, cognitive function, pain interference, and social participation for the HDF group. Their physical health summary score declined -0.46 units/year slower compared to the HD group. Thus, the CONVINCE trial showed a beneficial effect of high-dose hemodiafiltration for survival as well as a moderate positive effect on patients' quality of life, most pronounced with respect to their cognitive function. REGISTRATION: NTR7138 on the International Clinical Trials Registry Platform.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1249/MSS.0000000000003517
+- DOI: 10.1016/j.kint.2024.07.014
 
 2. Keywords
-
+- health-related quality of life
+- hemodiafiltration
+- hemodialysis
+- patient-reported outcomes
+- quality of life
+- randomized controlled trial
 
 3. Key Findings
-- Findings extraction requires manual review
+- In the CONVINCE trial, the primary analysis demonstrated a survival benefit for patients receiving high-dose hemodiafiltration (HDF) as compared with high-flux hemodialysis (HD)
+- Thus, the CONVINCE trial showed a beneficial effect of high-dose hemodiafiltration for survival as well as a moderate positive effect on patients' quality of life, most pronounced with respect to their cognitive function
 
 This study provides insights into:
-- General research methodology and outcomes
+- health-related quality of life assessment methods and outcomes
+- hemodiafiltration assessment methods and outcomes
+- hemodialysis assessment methods and outcomes

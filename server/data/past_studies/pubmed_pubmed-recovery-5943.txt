@@ -1,21 +1,20 @@
-Study Title: Association of leukemic molecular profile with efficacy of inotuzumab ozogamicin in adults with relapsed/refractory ALL.
+Study Title: Effectiveness of an ERAS-based exercise-nutrition management model in enhancing postoperative recovery for thoracoscopic radical resection of lung cancer: A randomized controlled trial.
 
 Study Summary:
-The phase 3 INO-VATE trial demonstrated higher rates of remission, measurable residual disease negativity, and improved overall survival for patients with relapsed/refractory (R/R) acute lymphoblastic leukemia (ALL) who received inotuzumab ozogamicin (InO) vs standard-of-care chemotherapy (SC). Here, we examined associations between genomic alterations and the efficacy of InO. Of 326 randomized patients, 91 (InO, n&#xa0;= 43; SC, n&#xa0;= 48) had samples evaluable for genomic analysis. The spectrum of gene fusions and other genomic alterations observed was comparable with prior studies of adult ALL. Responses to InO were observed in all leukemic subtypes, genomic alterations, and risk groups. Significantly higher rates of complete remission (CR)/CR with incomplete count recovery were observed with InO vs SC in patients with BCR::ABL1-like ALL (85.7% [6/7] vs 0% [0/5]; P&#xa0;= .0076), with TP53 alterations (100% [5/5] vs 12.5% [1/8]; P&#xa0;= .0047), and in the high-risk BCR::ABL1- (BCR::ABL1-like, low-hypodiploid, KMT2A-rearranged) group (83.3% [10/12] vs 10.5% [2/19]; P&#xa0;< .0001). This retrospective, exploratory analysis of the INO-VATE trial demonstrated potential for benefit with InO for patients with R/R ALL across leukemic subtypes, including BCR::ABL1-like ALL, and for those bearing diverse genomic alterations. Further confirmation of the efficacy of InO in patients with R/R ALL exhibiting the BCR::ABL1-like subtype or harboring TP53 alterations is warranted. This trial was registered at www.ClinicalTrials.gov as #NCT01564784.
+To analyze the effect of an exercise-nutrition management model based on the Enhanced Recovery After Surgery (ERAS) concept on patients undergoing thoracoscopic radical surgery for lung cancer. From June 2019 to December 2022, 85 lung cancer patients who underwent thoracoscopic radical lung cancer surgery were randomly divided into 2 groups. The control group, consisting of 42 patients, received routine nursing care during the perioperative period. The study group, comprising 43 patients, implemented an exercise-nutrition management model based on the ERAS concept during the perioperative period. We compared general data, perioperative indicators, compliance, and complications between the 2 groups. Additionally, we assessed the nutritional status using the patient-generated subjective global assessment (PG-SGA), albumin (ALB), prealbumin (PA), and hemoglobin (Hb), as well as lung function, including forced expiratory volume in the first second (FEV1) and maximum voluntary ventilation (MVV), in the patient population following the Piper intervention. In the study group, the times to first defecation and getting out of bed, the duration of thoracic drainage tube indwelling, and the length of hospital stay were shorter than those in the control group. The VAS scores on the 2nd and 3rd postoperative days were lower in the study group than in the control group (P&#x2005;<&#x2005;.05). Medication compliance was higher in the study group compared to the control group (P&#x2005;<&#x2005;.05). Post-intervention, the PG-SGA scores in the study group were lower, while PA, ALB, and Hb levels were higher than those in the control group (P&#x2005;<&#x2005;.05). The MVV, FEV1, and FVC values were higher in the study group than in the control group after the intervention (P&#x2005;<&#x2005;.05). The PFS and mMRC scores were lower in the study group compared to the control group after the intervention, and the QLQ-C30 scores were higher (P&#x2005;<&#x2005;.05). The incidence of complications was 6.98% in the study group, which was not significantly different from 11.90% in the control group (P&#x2005;>&#x2005;.05). The exercise-nutrition management model, based on the ERAS concept, exhibits significant perioperative effects in patients undergoing thoracoscopic radical resection of lung cancer, improving their nutritional status and reducing complications.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1182/bloodadvances.2023012430
+- DOI: 10.1097/MD.0000000000037667
 
 2. Keywords
 
 
 3. Key Findings
-- The phase 3 INO-VATE trial demonstrated higher rates of remission, measurable residual disease negativity, and improved overall survival for patients with relapsed/refractory (R/R) acute lymphoblastic leukemia (ALL) who received inotuzumab ozogamicin (InO) vs standard-of-care chemotherapy (SC)
-- This retrospective, exploratory analysis of the INO-VATE trial demonstrated potential for benefit with InO for patients with R/R ALL across leukemic subtypes, including BCR::ABL1-like ALL, and for those bearing diverse genomic alterations
+- Findings extraction requires manual review
 
 This study provides insights into:
 - General research methodology and outcomes

@@ -1,20 +1,27 @@
-Study Title: The Effect of Hot and Cold Water Applications on Restless Legs Syndrome Complaints and Sleep Quality of Pregnant Women: A Randomized Controlled Study.
+Study Title: Relevance of sleep for wellness: New trends in using artificial intelligence and machine learning.
 
 Study Summary:
-Pregnant women experience restless legs syndrome and intervention studies are needed to prevent this. This study evaluated the effect of hot and cold water applications on the severity of restless leg syndrome and sleep quality in pregnant women. It is a randomized controlled trial. The subjects comprised 80 (hot water group = 26, cold water group = 27, control group = 27) pregnant women. Pregnant women in intervention groups applied hot or cold water to their legs before going to bed for seven days. The control group did not do any application other than routine care. The data were collected with the Restless Legs Syndrome Diagnostic Form, Personal Information Form, Restless Leg Syndrome Severity Grading Scale, The Pittsburgh Sleep Quality Index, Application Satisfaction Form, and Post-Application Follow-up Chart. While the Restless Legs Syndrome Severity Grading Scale and Pittsburgh Sleep Quality Index pre-test scores of the groups were similar (P > .05), the post-test scores were lower in the intervention groups than in the control group (P < .001). The effect of the applications started on the second day and the level of satisfaction with the application was similarly high in both groups (P < .05). During the follow-up, the syndrome severity scores of both the intervention groups were similar (P > .05), while the sleep quality of the cold group was better (P < .05) and most of the pregnant women did not need reapplication and they were satisfied with the application (P < .05). These safe interventions reduced the severity of restless legs syndrome in pregnant women and improved the quality of their sleep. Nurses can use these applications in pregnancy care, which begin to show effect in as little as two days.
+Sleep and well-being have been intricately linked, and sleep hygiene is paramount for developing mental well-being and resilience. Although widespread, sleep disorders require elaborate polysomnography laboratory and patient-stay with sleep in unfamiliar environments. Current technologies have allowed various devices to diagnose sleep disorders at home. However, these devices are in various validation stages, with many already receiving approvals from competent authorities. This has captured vast patient-related physiologic data for advanced analytics using artificial intelligence through machine and deep learning applications. This is expected to be integrated with patients' Electronic Health Records and provide individualized prescriptive therapy for sleep disorders in the future.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-
+- DOI: 10.12998/wjcc.v12.i7.1196
 
 2. Keywords
-
+- Algorithms
+- Artificial intelligence
+- Machine learning
+- Obstructive
+- Sleep apnea
+- Sleep initiation and maintenance disorders
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Algorithms assessment methods and outcomes
+- Artificial intelligence assessment methods and outcomes
+- Machine learning assessment methods and outcomes

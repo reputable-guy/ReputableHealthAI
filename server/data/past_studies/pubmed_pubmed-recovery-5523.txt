@@ -1,26 +1,26 @@
-Study Title: A Tender Reduced-Intensity Conditioning for the Unfit: A Novel 4 Gy Total Body Irradiation-Based Conditioning Followed by Two-Step Haploidentical Stem Cell Transplant, Results of a Prospective Trial.
+Study Title: Cognitive predictors of response to interpersonal and social rhythm therapy in mood disorders.
 
 Study Summary:
-Allogeneic hematopoietic stem cell transplant (HSCT) remains the only potentially curative treatment for many hematologic malignancies (HM). We previously developed a two-step approach that separates the lymphoid and myeloid portions of the graft, allowing a consistent T cell dosing and sparing the stem cells from the effect of post-transplant cyclophosphamide (CY). The two-step approach demonstrated safety and efficacy in patients treated with myeloablative and reduced-intensity conditioning. Here, we extended our two-step platform to older and less fit patients and explored the effects of using a high dose of T cells on disease relapse and transplant outcomes. Thirty-four patients with HM were treated. Median age was 68 years old and included a minority population constituting 32%. Eighty-two percent had a hematopoietic cell transplantation comorbidity index score &#x2265;3. Ninety-one percent were haploidentical, and the rest were matched-related donor HSCT. Following administration of fludarabine and 2 Gy total body irradiation (TBI) (13 patients) or 4 Gy TBI (21 patients) conditioning regimen, a fixed dose of 2 &#xd7; 10/kg CD3+ T cells was given, followed 2 days later by CY, then infusion of CD34-selected stem cells. Overall survival (OS) was 70% at 1 year and 48% at 3 years. The cumulative incidence (CI) of non-relapse mortality (NRM) and relapse were 22% and 33% at 3 years. However, the CI of relapse was much lower for patients treated with 4 Gy TBI versus those treated with 2 Gy TBI (11% versus 54%, P = .045), while NRM was similar (23% versus 15%, P = .399). This contributed to a high OS of 64% in patients who received 4 Gy TBI-based conditioning at 3 years, with median OS not reached, although this was not statistically significant (P = .68). The median time to neutrophil and platelet recovery was 12 and 17 days, respectively. The CI of grade II acute graft-versus-host-disease (aGVHD) was 22% and 26% at 100 days and 6 months, respectively. The CI of chronic GVHD (cGVHD) was 7.5% at 3 years. There was no grade III or IV aGVHD, no severe cGVHD, and no deaths attributable to GVHD. In conclusion, the two-step approach HSCT demonstrated a low disease relapse rate and high survival in patients treated with 4 Gy TBI-based conditioning, despite a generally older and more medically compromised patient population.
+There has been increasing interest in examining the potential moderating effects that cognitive functioning has on treatment outcome in bipolar disorder (BD) and major depressive disorder (MDD). Therefore, the aim of this exploratory study was to examine the relationship between baseline cognitive function and treatment outcome in individuals with mood disorders who completed 12&#x2009;months of interpersonal and social rhythm therapy (IPSRT), and were randomised to receive adjunctive cognitive remediation (CR) or no additional intervention. Fifty-eight patients with mood disorders (BD, n&#x2009;=&#x2009;36, MDD, n&#x2009;=&#x2009;22), who were randomised to IPSRT-CR or IPSRT, underwent cognitive testing at baseline and completed follow-up mood measures after 12&#x2009;months. General linear modelling was used to examine the relationship between baseline cognitive function (both objective and subjective) and change in mood symptom burden, and functioning, from baseline to treatment-end. Poorer baseline attention/executive function was associated with less change in mood symptom burden, particularly depressive symptoms, at treatment-end. Additionally, slower psychomotor speed at baseline was associated with less improvement in mania symptom burden. Subjective cognitive function at baseline was not related to change in mood symptom burden at treatment-end, and neither objective nor subjective cognitive function was associated with functional outcome. Due to the exploratory nature of the study, there was no correction for multiple comparisons. Aspects of objective cognitive function were associated with treatment outcomes following psychotherapy. Further large-scale research is required to examine the role that cognitive function may have in determining various aspects of mood disorder recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jtct.2024.07.019
+- DOI: 10.1111/bdi.13469
 
 2. Keywords
-- Cyclophosphamide tolerization
-- Haploidentical
-- Stem cell transplantation
-- Two-step approach
+- bipolar disorder
+- cognitive function
+- executive function
+- psychotherapy
+- treatment response
 
 3. Key Findings
-- The two-step approach demonstrated safety and efficacy in patients treated with myeloablative and reduced-intensity conditioning
-- In conclusion, the two-step approach HSCT demonstrated a low disease relapse rate and high survival in patients treated with 4 Gy TBI-based conditioning, despite a generally older and more medically compromised patient population
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cyclophosphamide tolerization assessment methods and outcomes
-- Haploidentical assessment methods and outcomes
-- Stem cell transplantation assessment methods and outcomes
+- bipolar disorder assessment methods and outcomes
+- cognitive function assessment methods and outcomes
+- executive function assessment methods and outcomes

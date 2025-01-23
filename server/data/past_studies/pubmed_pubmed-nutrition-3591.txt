@@ -1,27 +1,26 @@
-Study Title: A Proof-of-Concept Pilot Test of a Behavioral Intervention to Improve Adherence to Dietary Recommendations for Cancer Prevention.
+Study Title: Regular Exercise Improved Fatigue and Musculoskeletal Pain in Young Adult Psoriatic Patients without Psoriatic Arthritis.
 
 Study Summary:
-Prevention programs that can help adults improve the quality of their diets to reduce cancer risk are needed. This Phase IIa study prospectively tested a mHealth intervention designed to improve adherence to dietary quality guidelines for cancer prevention. All participants (N = 62) received nutrition education and a self-regulation skills curriculum, with a primary target of changing grocery shopping behavior. Using a randomized, factorial design, the study varied whether each of the following 4 components were added to the 20-week intervention: (1) location-triggered app messaging, delivered when individuals arrived at grocery stores, (2) reflections on benefits of change, delivered with extra coaching time and tailored app messages, (3) coach monitoring, in which food purchases were digitally monitored by a coach, and (4) involvement of a household member in the intervention. Benchmarks were successfully met for recruitment, retention, and treatment acceptability. Across conditions, there were significant reductions in highly processed food intake (< .001, &#x3b7;= .48), red and processed meat intake (< .001, &#x3b7;= .20), and sugar-sweetened beverage intake (= .008, &#x3b7;= .13) from pre-to post-treatment. Analyses examining whether each intervention component influenced change across time found that participants who received coach monitoring increased their intake of fruits, vegetables, and fiber, whereas those with no coach monitoring had less improvement (= .01, &#x3b7;= .14). The improvement in red and processed meat was stronger among participants with household support ON, at a marginally significant level, than those with household support OFF (= .056, &#x3b7;= .07). This study showed feasibility, acceptability, and preliminary signals of efficacy of a remotely delivered intervention to facilitate adherence to dietary guidelines for cancer prevention and that coach monitoring and household support may be especially effective strategies. A fully powered clinical trial is warranted to test an optimized version of the intervention that includes nutrition education, self-regulation skills training, coach monitoring, and household member involvement. ClinicalTrials.gov NCT04947150.
+Fatigue and musculoskeletal pain are also frequent in patients with psoriasis (PsO) without arthritis (PsA). The current study aimed to assess the impact of an intervention program based on aerobic training to reduce fatigue and musculoskeletal pain in patients with PsO without PsA. A total of 118 male patients with PsO volunteered in the current interventional study and were randomly allocated to the experimental (= 59) or control group (= 59). The intervention consisted of a 16-week aerobic training program on a treadmill, three sessions per week, consisting of a warm-up, 35-50 min treadmill exercise (increasing 5 min/4 weeks) at a work intensity of 50-65% of peak heart-rate (increasing 5%/4 weeks), and cooling-down. The functional assessment of chronic illness therapy fatigue scale (FACIT-Fatigue), health assessment questionnaire disability index (HAQ-DI), and visual analog scale (VAS) were compared pre and post intervention. Nutritional intake, maximal aerobic power, lipid profile, serum markers of muscle damage, and body composition were also assessed. When compared to baseline, FACIT-Fatigue, HAQ-DI, and VAS scores were significantly improved without increasing markers of muscle damage. Fat mass percentage, lipid profile, and maximal oxygen consumption were also improved. In conclusion, a 16-week aerobic training program at moderate intensity was safe, well tolerated, and effective in psoriatic patients without PsA. Long-term follow-up studies are required to examine whether these promising results may improve clinical outcomes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1177/10732748231214122
+- DOI: 10.3390/nu15214563
 
 2. Keywords
-- cancer prevention
-- diet quality
-- dietary improvements
-- mHealth
-- self-regulation
+- fatigue
+- musculoskeletal health
+- nutrition
+- physical activity
+- psoriasis
 
 3. Key Findings
-- Analyses examining whether each intervention component influenced change across time found that participants who received coach monitoring increased their intake of fruits, vegetables, and fiber, whereas those with no coach monitoring had less improvement (=
-- This study showed feasibility, acceptability, and preliminary signals of efficacy of a remotely delivered intervention to facilitate adherence to dietary guidelines for cancer prevention and that coach monitoring and household support may be especially effective strategies
+- Findings extraction requires manual review
 
 This study provides insights into:
-- cancer prevention assessment methods and outcomes
-- diet quality assessment methods and outcomes
-- dietary improvements assessment methods and outcomes
+- fatigue assessment methods and outcomes
+- musculoskeletal health assessment methods and outcomes
+- nutrition assessment methods and outcomes

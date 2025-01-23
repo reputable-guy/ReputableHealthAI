@@ -1,26 +1,28 @@
-Study Title: Acute effects of exercise on gaze fixation and affective response inhibition in children with autism spectrum disorder: A randomized cross-over study.
+Study Title: Effects of Combined Aerobic and Breathing Exercises on Asthma Control: A Randomized Controlled Trial.
 
 Study Summary:
-Children with autism spectrum disorder (ASD) show impairments in response inhibition, especially in socio-emotional contexts. A single aerobic exercise session has the potential to temporarily reduce such impairments as findings from neurotypical children support acute benefits of this exercise type for inhibitory control and emotion recognition. In children with ASD, we therefore aimed to investigate the effects of an aerobic exercise bout on response inhibition in an emotional Go/NoGo task and gaze fixation as possible mechanism underlying changes in performance. Using a cross-over design, 29 patients completed a 20-min aerobic exercise bout at moderate intensity on a cycling ergometer and a control condition in a randomized order. An emotional Go/NoGo task was administered before and after both experimental conditions. Eye-tracking was performed during the cognitive task to assess the duration of gaze fixation of eyes and mouth parts of faces expressing happy or sad emotions. The results support no beneficial effect of exercise on performance on the emotional Go/NoGo task. Instead, patients showed a greater decrease in accuracy on Go trials displaying happy faces in the exercise compared to the control condition. This change was associated with a more pronounced decrease in the fixation duration of the eyes for faces expressing either happy or sad emotions. In conclusion, while a single session of moderately intense aerobic exercise does not affect response inhibition, it temporarily aggravates ASD-specific deficits in the processing of and response to facial emotions.
+Breathing and aerobic exercises are the most recommended nonpharmacological treatments to improve asthma control and quality of life in patients with asthma. However, the benefits of combining both interventions in these outcomes have never been tested. We aimed to evaluate the effects of the combination of aerobic and breathing exercises on asthma control in individuals with moderate-to-severe asthma. Individuals with moderate-to-severe asthma were randomly assigned to the aerobic&#xa0;+ muscle-stretching group (control group n&#xa0;= 25) or aerobic&#xa0;+ breathing exercises group (experimental group n&#xa0;= 26). The aerobic exercise was performed using constant-load training and breathing exercises using the Buteyko technique. The training program lasted 20 sessions. All individuals were blindly assessed before and after the interventions for asthma control, health-related quality of life, anxiety and depression symptoms, sleep quality, hyperventilation, exercise capacity, lung function, levels of physical activity, and thoracoabdominal kinematics. Group&#xa0;&#xd7; time interactions were tested using a 2-way repeated measures analysis of variance. Pearson correlation test was used to test the association between outcomes. The groups were similar at baseline (all P > .05). After the intervention, there were no between-group differences for all outcomes comparing the experimental group and the control group. These results suggest that a combination of aerobic and breathing exercises did not improve asthma control, psychosocial symptoms, sleep quality, hyperventilation, exercise capacity, lung function, or levels of daily physical or thoracoabdominal kinematics compared with aerobic exercise alone in individuals with moderate-to-severe asthma.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/aur.3224
+- DOI: 10.1016/j.jaip.2024.07.036
 
 2. Keywords
-- executive function
-- eye&#x2010;tracking
-- face recognition
-- physical activity
-- social cognition
+- Asthma
+- Asthma control
+- Breathing exercises
+- Buteyko
+- Clinical trial
+- Physical training
+- Pulmonary rehabilitation
 
 3. Key Findings
-- Instead, patients showed a greater decrease in accuracy on Go trials displaying happy faces in the exercise compared to the control condition
+- Findings extraction requires manual review
 
 This study provides insights into:
-- executive function assessment methods and outcomes
-- eye&#x2010;tracking assessment methods and outcomes
-- face recognition assessment methods and outcomes
+- Asthma assessment methods and outcomes
+- Asthma control assessment methods and outcomes
+- Breathing exercises assessment methods and outcomes

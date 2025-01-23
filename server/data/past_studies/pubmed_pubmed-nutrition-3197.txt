@@ -1,27 +1,31 @@
-Study Title: Impact of peripheral thyroid hormone balance on liver fat: insights from the NutriAct trial.
+Study Title: Personalized Nutrition Therapy without Weight Loss Counseling Produces Weight Loss in Individuals with Prediabetes Who Are Overweight/Obese: A Randomized Controlled Trial.
 
 Study Summary:
-Hypothyroidism has been proposed as a potential contributor to steatotic liver disease (SLD), but existing data shows conflicting results in euthyroid subjects. Therefore, we investigated the association between thyroid function and intrahepatic lipids (IHLs) during a 36-month randomized controlled trial evaluating a diet known to reduce liver fat. 502 eligible subjects (aged 50-80 years, &#x2265;1 risk factor for unhealthy aging) were randomly assigned to either follow a diet rich in unsaturated fatty acids, plant protein, and fiber (intervention group, IG), or dietary recommendations of the German Nutrition Society (control group, CG). Serum levels of thyroid hormones (THs) as well as IHLs, defined via magnetic resonance spectroscopy, were measured within an euthyroid subgroup without significant alcohol consumption at baseline (n = 332) and after 12 months (n = 243). A ratio of T3/T4 was used to assess whole-body deiodinase activity. Estimates of glucose and lipid metabolism were analyzed. Only fT3 and T3/T4 ratios showed a significant positive correlation with IHL at baseline. We observed a significant decline in fT3, T3, fT3/fT4 ratio, and T3/T4 ratio in CG and IG after 12 months without significant differences between groups. TSH, fT4, and T4 remained stable. A larger improvement of IHL during dietary intervention was seen in those subjects with a lower decline in T3 concentrations. Altered TH balance indicates a possible compensatory upregulation of whole-body TH activity in subjects with increased liver fat. This might be also relevant during the improvement of hepatic steatosis.
+Obesity stands out as a primary risk factor for diabetes. Attaining healthy weight loss, especially reducing body fat, is important in managing prediabetes and preventing progression to full diabetes and its co-morbidities. This study examined the effects of personalized nutrition therapy (PNT) combined with continuous glucose monitoring (CGM) on body weight and composition in individuals with prediabetes. A total of 30 individuals with prediabetes who were overweight or obese were assigned randomly to either the treatment, observed CGM data plus PNT, or the control group which was blinded to their blood glucose results throughout the study. Both groups were provided with dietary recommendations for calorie intake and macronutrient distribution, coupled with personalized goal setting for glucose control and healthy eating, without any specific emphasis on weight reduction or changes in physical activity. Regular visits were scheduled every 10 days to perform measurements and replace CGMs. Data were analyzed using General Linear Model with repeated measures. Over the 30-day follow-up period, both groups experienced significant reductions in weight and fat mass. The treatment group exhibited two-fold greater reductions in both weight and fat mass, a significant decrease in carbohydrate intake, and a significant increase in time spent on physical activitycompared to the control group. In addition, compliance was notably higher in the treatment group. These findings indicate that overweight or obese individuals with prediabetes can achieve weight loss and improved body composition through personalized education for glucose control, without exclusively emphasizing weight loss as the primary objective. Additionally, the real-time feedback provided by CGM enhances these improvements.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/ejendo/lvae093
+- DOI: 10.3390/nu16142218
 
 2. Keywords
-- MASLD
-- NAFLD
-- diet
-- intrahepatic lipids
-- steatosis
-- thyroid hormones
+- body composition
+- continuous glucose monitoring
+- diabetes
+- diet therapy
+- muscle mass
+- obesity
+- overweight
+- personalized nutrition therapy
+- prediabetes
+- weight loss
 
 3. Key Findings
-- Only fT3 and T3/T4 ratios showed a significant positive correlation with IHL at baseline
+- Findings extraction requires manual review
 
 This study provides insights into:
-- MASLD assessment methods and outcomes
-- NAFLD assessment methods and outcomes
-- diet assessment methods and outcomes
+- body composition assessment methods and outcomes
+- continuous glucose monitoring assessment methods and outcomes
+- diabetes assessment methods and outcomes

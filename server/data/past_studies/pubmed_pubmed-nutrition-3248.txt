@@ -1,25 +1,27 @@
-Study Title: Comparative efficacy of peptide-based versus standard polymeric enteral nutrition in ICU patients at high nutritional risk: a multicenter randomized controlled trial.
+Study Title: Adherence to a lifestyle intervention - just a question of self-efficacy? Analysis of the AgeWell.de-intervention against cognitive decline.
 
 Study Summary:
-Within intensive care units (ICU), the administration of peptide-based formulas (PBF) may confer nutritional advantages for critically ill patients identified with heightened nutritional risk. This investigation aimed to ascertain the efficacy of PBF in comparison to standard polymeric formulas (SPF) among this patient cohort. A double-blind, randomized controlled trial was conducted across three ICUs, encompassing 63 adult patients characterized by elevated modified Nutrition Risk in Critically Ill (mNUTRIC) scores. Enrollment occurred promptly subsequent to ICU admission, with participants allocated to receive either PBF or SPF. Primary outcome was the duration to achieve caloric targets. Secondary outcomes involved the evaluation of mean daily gastric residual volume, mechanical ventilation period, infection rates within the ICU, length of hospitalization, mortality rates, nutritional status and inflammatory markers, specifically serum albumin and interleukin-6 levels. Patients in the PBF group reached their caloric targets more expeditiously compared to the SPF group (2.06&#x2009;&#xb1;&#x2009;0.43&#xa0;days versus 2.39&#x2009;&#xb1;&#x2009;0.79&#xa0;days; p&#x2009;=&#x2009;0.03). No significant differences were discernible between the groups regarding gastric residual volume, duration of mechanical ventilation, ICU length of stay, mortality, or infection rates. Both cohorts exhibited minimal adverse effects and were devoid of any instances of abdominal distension. While not reaching statistical significance, the observed trends in albumin and interleukin-6 levels suggest a potential advantage of PBF utilization. The implementation of PBF enabled swifter attainment of caloric goals in ICU patients at high nutritional risk without adversely impacting other clinical parameters. Given its favorable tolerance profile and potential immunomodulatory properties, PBF may be considered a valuable nutritional intervention in this setting.Thai Clinical Trials Registry TCTR20220221006. Registered 21 February 2022, https://www.thaiclinicaltrials.org/show/TCTR20220221006 .
+Aim of this study was to detect predictors of better adherence to the AgeWell.de-intervention, a two-year randomized multi-domain lifestyle intervention against cognitive decline. Data of 317 intervention group-participants comprising a risk group for dementia (Cardiovascular Risk Factors, Ageing and Dementia (CAIDE) score of&#x2009; &#x2265;&#x2009;9; mean age 68.9&#xa0;years, 49.5% women) from the AgeWell.de intervention study were analysed. Regression models with four blocks of predictors (sociodemographic, cognitive and psychosocial, lifestyle factors and chronic conditions) were run on adherence to the components of nutrition, enhancement of social and physical activity and cognitive training. Adherence to each component was operationalised by assessing the degree of goal achievement per component at up to seven time points during the intervention period, measured using a 5-point Likert scale (mean score of goal achievement). Increasing age was negatively associated with adherence, while higher education positively predicted adherence. Participants with better mental state (Montreal Cognitive Assessment (MoCA)-score&#x2009;>&#x2009;25) at baseline and higher self-efficacy adhered better. Diabetes and cardiovascular conditions were not associated with adherence, whereas smoking negatively affected adherence. Highest education and quitting smoking in the past were the only predictors associated with all four intervention components. Results identified predictors for better and worse adherence. Particularly self-efficacy seems to be of considerable influence on adherence. This should be considered when designing future intervention trials. German Clinical Trials Register (ref. number: DRKS00013555).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-65277-w
+- DOI: 10.1186/s13195-024-01499-4
 
 2. Keywords
-- Enteral nutrition
-- Intensive care unit
-- Nutritional risk
-- Peptide-based formula
+- Adherence
+- Dementia
+- Intervention
+- Lifestyle
+- Predictors
+- Prevention
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Enteral nutrition assessment methods and outcomes
-- Intensive care unit assessment methods and outcomes
-- Nutritional risk assessment methods and outcomes
+- Adherence assessment methods and outcomes
+- Dementia assessment methods and outcomes
+- Intervention assessment methods and outcomes

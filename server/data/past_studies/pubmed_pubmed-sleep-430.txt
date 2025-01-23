@@ -1,27 +1,20 @@
-Study Title: A Change-Point Method to Detect Meaningful Change in Return-to-Sport Progression in Athletes.
+Study Title: Acceptance and commitment therapy versus cognitive behavioral therapy for insomnia: A randomized controlled trial.
 
 Study Summary:
-To explore how the change-point method can be used to analyze complex longitudinal data and detect when meaningful changes (change points) have occurred during rehabilitation. This design is a prospective single-case observational study of a football player in a professional club who sustained an acute lower-limb muscle injury during high-speed running in training. The rehabilitation program was entirely completed in the football club under the supervision of the club's medical team. Four wellness metrics and 5 running-performance metrics were collected before the injury and until the player returned to play. Data were collected over 130&#xa0;days. In the univariate analysis, the change points for stress, sleep, mood, and soreness were located on days 30, 47, 50, and 50, respectively. The change points for total distance, acceleration, maximum speed, deceleration, and high-speed running were located on days 32, 34, 37, 41, and 41, respectively. The multivariate analysis resulted in a single change point for the wellness metrics and running-performance metrics, on days 50 and 67, respectively. The univariate approach provided information regarding the sequence and time point of the change points. The multivariate approach provided a common change point for multiple metrics, information that would benefit clinicians to have a broad overview of the changes in the rehabilitation process. Clinicians may consider the change-point method to integrate and visualize data from multiple sources to evaluate athletes' progression along the return-to-sport continuum.
+To compare the effectiveness of an acceptance and commitment therapy (ACT)-based protocol and cognitive behavior therapy (CBT) for insomnia in adults. The participants comprised 227 adults with insomnia. They were randomized to six weekly group sessions consisting of acceptance and commitment therapy for insomnia (n = 76), cognitive behavioral therapy for insomnia (n = 76), or waitlist (WL; n = 75). Both treatment modalities significantly reduced insomnia severity with large effect sizes in the posttreatment phase. These results were maintained during the follow-up period with large effect sizes. CBT was superior to ACT in reducing the Insomnia Severity Index at posttreatment and follow-up, with a small effect size. ACT was superior to WL at posttreatment and at follow-up, with a moderate effect size. The treatment response and remission ratios were higher with CBT at posttreatment and similar at 6-month follow-up for both therapies, as ACT made further gains in response and remission. ACT had a significantly higher proportion of response and remission than WL in both periods (posttreatment and follow-up). Both therapies improved daytime functioning at both posttreatment and follow-up, with few differential changes across the groups. Both cognitive behavior therapy and acceptance and commitment therapy are effective, with CBT showing superiority and ACT showing delayed improvement. ACT has proven to be an effective therapy, especially in the long term, even in the absence of behavioral techniques such as stimulus control and sleep restriction, and it is a viable option for those who have difficulties adhering to behavioral techniques. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1123/ijspp.2023-0178
+- DOI: 10.1037/ccp0000881
 
 2. Keywords
-- complex systems
-- decision making
-- machine learning
-- nonlinearity
-- return to play
-- time-series analysis
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- complex systems assessment methods and outcomes
-- decision making assessment methods and outcomes
-- machine learning assessment methods and outcomes
+- General research methodology and outcomes

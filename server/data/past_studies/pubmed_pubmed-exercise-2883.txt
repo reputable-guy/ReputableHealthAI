@@ -1,25 +1,26 @@
-Study Title: Do the effects last? A comparison between internal and external focus of attention instructions on golf putting accuracy over multiple days.
+Study Title: Distal Ventricular Pacing for Drug-Refractory Mid-Cavity Obstructive Hypertrophic Cardiomyopathy: A Randomized, Placebo-Controlled Trial of Personalized Pacing.
 
 Study Summary:
-The role of attentional focus is a well-explored topic in exercise sciences. Studies generally indicate that external focus (EF) enhances motor performance and learning compared with internal focus (IF). However, most studies only included one or two experimental days which limits participants' exposure to the focus conditions. This raises the question of whether the superiority of EF varies over time. Accordingly, in this pre-registered within-subject study, we examined the effects of focus instructions on golf-putting performance over four days, with 48-72 h between them. On each day, participants performed 15 putts under three instructional conditions: (1) EF, (2) IF, and (3) control, in a randomized and counterbalanced order. We observed trivial differences in performance between conditions but considerable improvements from day 1 to day 4. When using an exploratory analysis, we found that participants performed better under EF and control conditions compared with the IF condition on day 1, but not on subsequent days. Since IF instructions are more commonly used in practice, we speculate that the two other focus conditions were experienced as more novel, potentially accounting for their superiority on Day 1. Nevertheless, our results question the significance of employing EF to enhance performance.
+Patients with refractory, symptomatic left ventricular (LV) mid-cavity obstructive (LVMCO) hypertrophic cardiomyopathy have few therapeutic options. Right ventricular pacing is associated with modest hemodynamic and symptomatic improvement, and LV pacing pilot data suggest therapeutic potential. We hypothesized that site-specific pacing would reduce LVMCO gradients and improve symptoms. Patients with symptomatic-drug-refractory LVMCO were recruited for a randomized, blinded trial of personalized prescription of pacing (PPoP). Multiple LV and apical right ventricular pacing sites were assessed during an invasive hemodynamic study of multisite pacing. Patient-specific pacing-site and atrioventricular delays, defining PPoP, were selected on the basis of LVMCO gradient reduction and acceptable pacing parameters. Patients were randomized to 6 months of active PPoP or backup pacing in a crossover design. The primary outcome examined invasive gradient change with best-site pacing. Secondary outcomes assessed quality of life and exercise following randomization to PPoP. A total of 17 patients were recruited; 16 of whom met primary end points. Baseline New York Heart Association was 3&#xb1;0.6, despite optimal medical therapy. Hemodynamic effects were assessed during pacing at the right ventricular apex and at a mean of 8 LV sites. The gradients in all 16 patients fell with pacing, with maximum gradient reduction achieved via LV pacing in 14 (88%) patients and right ventricular apex in 2. The mean baseline gradient of 80&#xb1;29 mm&#x2005;Hg fell to 31&#xb1;21 mm&#x2005;Hg with best-site pacing, a 60% reduction (<0.0001). One cardiac vein perforation occurred in 1 case, and 15 subjects entered crossover; 2 withdrawals occurred during crossover. Of the 13 completing crossover, 9 (69%) chose active pacing in PPoP configuration as preferred setting. PPoP was associated with improved 6-minute walking test performance (328.5&#xb1;99.9 versus 285.8&#xb1;105.5 m;=0.018); other outcome measures also indicated benefit with PPoP. In a randomized placebo-controlled trial, PPoP reduces obstruction and improves exercise performance in severely symptomatic patients with LVMCO. URL: https://clinicaltrials.gov/study; Unique Identifier: NCT03450252.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7717/peerj.17718
+- DOI: 10.1161/CIRCEP.123.012570
 
 2. Keywords
-- Attentional focus
-- Golf putting
-- Learning strategies
-- Motor performance
+- cardiomyopathy, hypertrophic
+- cross-over studies
+- hemodynamics
+- quality of life
+- random allocation
 
 3. Key Findings
-- When using an exploratory analysis, we found that participants performed better under EF and control conditions compared with the IF condition on day 1, but not on subsequent days
+- 018); other outcome measures also indicated benefit with PPoP
 
 This study provides insights into:
-- Attentional focus assessment methods and outcomes
-- Golf putting assessment methods and outcomes
-- Learning strategies assessment methods and outcomes
+- cardiomyopathy, hypertrophic assessment methods and outcomes
+- cross-over studies assessment methods and outcomes
+- hemodynamics assessment methods and outcomes

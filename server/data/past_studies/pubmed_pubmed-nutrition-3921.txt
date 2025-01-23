@@ -1,33 +1,28 @@
-Study Title: Facilitating Nutrition and Physical Activity-Focused Policy, Systems, and Environmental Change in Rural Areas: A Methodological Approach Using Community Wellness Coalitions and Cooperative Extension.
+Study Title: Household animal ownership is associated with infant animal source food consumption in Bangladesh.
 
 Study Summary:
-Obesity prevalence is higher among rural populations than urban, which may be related to differences in environments. Rural counties face barriers to accessing healthy foods and physical activity opportunities including isolation, transportation distances, and lack of facilities. As part of the Centers for Disease Control and Prevention Division of Nutrition, Physical Activity, and Obesity High Obesity Program, community-based wellness coalitions were established in six South Dakota counties with adult obesity prevalence >40%. The community coalitions were charged with improving access to healthy foods and safe and accessible places to participate in physical activity within their rural, underserved communities. Coalitions were created and members were recruited by Cooperative Extension staff who had existing relationships with key stakeholders within the community. Within these coalitions, champions were identified to provide leadership and ensure project implementation. Ongoing support and technical assistance were provided to the community coalitions by Cooperative Extension staff as they completed a community needs assessment, disseminated results of the needs assessment with the community, created action plans based on needs assessment data, implemented evidence-based interventions to support nutrition and physical activity policy, system and environmental changes, and assessed impact within their community. Overall, the purpose of this article is to share the project methodology, which capitalized on using Cooperative Extension, to build capacity to improve the nutrition and physical activity environment in rural, unserved communities. Sustainability of this work, along with lessons learned, is also discussed.
+Context-specific research is needed on the relationship between household animal production and nutrition outcomes to inform programmes intervening in small-scale animal production. We examined associations between household animal/fishpond ownership and animal source food (ASF) consumption among 6- to 12-month-old infants enroled in the control arm of a cluster-randomised controlled trial in rural Bangladesh. We measured ASF consumption using a 7-day food frequency questionnaire at 6, 9&#xa0;and 12 months&#xa0;and assessed household animal/fishpond ownership at 12 months. We developed negative binomial regression models with random intercepts for infant and cluster, controlling for infant age and sex, maternal age, socioeconomic status&#xa0;and season. Models were stratified by a dichotomised maternal decision-making score. Compared with infants in households without each animal type, those with&#xa0;4-10 and &#x2265;11 poultry consumed eggs 1.3 (95% confidence interval [CI]: 1.1, 1.6) and 1.6 (95% CI: 1.3, 2.0) times more, respectively; 2-3 and &#x2265;4 dairy-producing animals consumed dairy 1.9 (95% CI: 1.3, 2.7) and 2.0 (95% CI: 1.3, 3.1) times more, respectively; and &#x2265;12 meat-producing animals consumed meat 1.4 (95% CI: 1.0, 1.8) times more. It was unclear whether there was an association between fishpond ownership and fish consumption. Our results did not suggest that maternal decision-making power was a modifier in the relationship between animal/fishpond ownership and ASF consumption. In this South Asian context, strategies intervening in household animal production may increase infant consumption of eggs, dairy&#xa0;and meat, but not necessarily fish. Research is needed on the role of market access and other dimensions of women's empowerment.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1177/15248399221144976
+- DOI: 10.1111/mcn.13495
 
 2. Keywords
-- community assessment
-- community champions
-- component model of infrastructure
-- cooperative extension program
-- environmental and systems change
-- high obesity program
-- nutrition
-- physical activity
-- physical activity/exercise
-- policy Systems and environmental change
-- rural
-- rural health
+- South Asia
+- complementary feeding
+- diet
+- empowerment
+- gender
+- infant and child nutrition
+- livestock
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- community assessment assessment methods and outcomes
-- community champions assessment methods and outcomes
-- component model of infrastructure assessment methods and outcomes
+- South Asia assessment methods and outcomes
+- complementary feeding assessment methods and outcomes
+- diet assessment methods and outcomes

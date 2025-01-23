@@ -1,24 +1,28 @@
-Study Title: The Effect of Melatonin on Reducing the Frequency and Severity of Migraine Attacks: A Double-Blind, Randomized Clinical Trial.
+Study Title: Depression, Anxiety and Poor Sleep Quality are Associated with Chronotype and Financial Wellness in University Students.
 
 Study Summary:
-There is no definite recommendation for melatonin supplementation in episodic migraine. This study aimed to evaluate the effect of melatonin on reducing the frequency and severity of migraine attacks. This randomized, double-blind clinical trial was conducted at Golestan Hospital of Ahvaz, Iran, in 2021. A total of 60 patients with episodic migraine were randomly assigned into 2 groups of receiving 3 mg melatonin (intervention group; n=30) or the same dose of placebo (control group; n=30) along with baseline therapy (propranolol 20 mg, BID) for two months. The attack frequency, attack duration, attack severity (based on VAS), the number of analgesic intakes, drug complications, Migraine Disability Assessment score (MIDAS), and Pittsburgh sleep quality index (PSQI) were evaluated at baseline and in the first, second, third, and fourth months of follow-up. The independenttest, chi-square, and analysis of variance (ANOVA) with repeated measures were used to compare variables between the two groups. In both groups, the frequency, duration, and severity of attacks, taking analgesics, MIDAS, and PSQI scores during follow-up decreased significantly (P<0.001). After treatment, the mean frequency (P=0.032) and duration of attacks (P=0.001), taking analgesic (P<0.001), and MIDAS (P<0.001) and PSQI scores (P<0.001) in the melatonin group were lower than placebo. Only the attack severity was not significantly different between the two groups (P=0.126). Side effects were observed in two patients (6.7%) in the melatonin group and one patient (3.3%) in the placebo group (P>0.999). Our study shows that melatonin was more efficacious than the placebo in the reduction of frequency and duration of migraine attacks. It was equally safe as the placebo and might be effective in the preventive treatment of episodic migraine in adults.IRCT20190107042264N5.
+Evidence suggests the importance of a person's chronotype in predicting various aspects of an individual's physical and mental health. While the effect of depression on sleep is well established, the impact of a person's specific sleep timing and chronotype on the prevalence of both depression and anxiety has yet to be fully understood, especially among university students, vulnerable to mental health problems. In addition, other factors also seem to influence the occurrence of depression and anxiety among students as well as their quality of sleep, one of which being the students' financial wellness. The objective was to evaluate the association between chronotype and the severity and prevalence of depression among Lebanese university students, while also taking into account the possible connection between chronotype and financial wellness and both anxiety and sleep quality.This cross-sectional study was conducted between December 2021 and February 2022; 330 Lebanese university students was included (mean age 21.75 &#xb1; 2.43; 67.3% females).The majority of the Lebanese university students in our sample were found to have an intermediate typology (63.0%), followed by the evening typology, which appeared to constitute 28.2% of the sample, while only 8.8% possessed a morning typology. In this study, having an intermediate or evening typology compared to a morning one was significantly associated with higher depression and worse sleep quality. In addition, having an evening chronotype compared to a morningness propensity was significantly associated with more anxiety.This study found a positive association between an evening typology (chronotype) and higher depression and anxiety and poorer quality of sleep. Although preliminary and based on cross-sectional data, this research could help provide a better understanding of the different chronotypes among university students, and of the possible increased susceptibility of some of these typologies (i.e., evening-type) to mental health problems.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.30476/ijms.2023.97782.2965
+- DOI: 10.1177/00332941241251457
 
 2. Keywords
-- Headache
-- Melatonin
-- Migraine disorders
+- Chronotype
+- anxiety
+- circadian cycle
+- depression
+- depressive symptoms
+- sleep quality
 
 3. Key Findings
-- Findings extraction requires manual review
+- The majority of the Lebanese university students in our sample were found to have an intermediate typology (63
+- This study found a positive association between an evening typology (chronotype) and higher depression and anxiety and poorer quality of sleep
 
 This study provides insights into:
-- Headache assessment methods and outcomes
-- Melatonin assessment methods and outcomes
-- Migraine disorders assessment methods and outcomes
+- Chronotype assessment methods and outcomes
+- anxiety assessment methods and outcomes
+- circadian cycle assessment methods and outcomes

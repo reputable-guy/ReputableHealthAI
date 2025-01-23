@@ -1,31 +1,24 @@
-Study Title: Feeding Practices and Dietary Diversity in the First Year of Life: PreventADALL, a Scandinavian Randomized Controlled Trial and Birth Cohort Study.
+Study Title: Nutritional strategies for correcting low glucose values in patients with postbariatric hypoglycaemia: A randomized controlled three-arm crossover trial.
 
 Study Summary:
-Breastmik is considered the optimal source of nutrition in early infancy. However, recommendations and practices for when and how complementary food should be introduced in the first year of life vary worldwide. Early introduction of allergenic foods may prevent food allergies, but if early food introduction influences infant feeding practices is less known. We sought to assess infant feeding practices in the first year of life and to determine if early interventional food introduction influences breastfeeding and dietary diversity. Dietary intake was assessed in infants from the population-based clinical trial Preventing Atopic Dermatitis and ALLergies (PreventADALL) in children study. A total of 2397 infants were cluster-randomized at birth into 4 different groups: 1) control, 2) skin intervention, 3) introduction to 4 allergenic foods between 3 and 4 mo of age: peanut, cow milk, wheat, and egg, as small tastings until 6 mo, and 4) combined skin and food interventions. Dietary data were available from at least one of the 3-, 6-, 9-, and 12-mo questionnaires in 2059 infants. In the present analysis, groups 1 and 2 constitute the No Food Intervention group, whereas groups 3 and 4 constitute the Food Intervention group. We used the log-rank test and Cox regression to assess the impact of food intervention on age of breastfeeding cessation. Mixed effects logistic regression was used to compare dietary diversity, defined as the number of food categories consumed, between intervention groups. At 3, 6, 9, and 12 mo, 95%, 88%, 67%, and 51% were breastfed, respectively, and breastfeeding duration was not affected by the food intervention. In the No Food Intervention group, mean age of complementary food introduction was 18.3 wk (confidence interval [CI]: 18.1, 18.5). In the Food Intervention group, the dietary diversity score was 1.39 units (CI: 1.16, 1.62) higher at 9 mo (P < 0.001) and 0.7 units (CI: 0.5, 0.9) higher at 12 mo (P < 0.001) compared to the No Food Intervention group. Early food intervention did not affect breastfeeding rates and increased dietary diversity at 9 and 12 mo.
+To evaluate the efficacy of nutritional hypoglycaemia correction strategies in postbariatric hypoglycaemia (PBH) after Roux-en-Y gastric bypass (RYGB). In a randomized, controlled, three-arm crossover trial, eight post-RYGB adults (mean [SD] 7.0 [1.4] years since surgery) with PBH ingested a solid mixed meal (584&#x2009;kcal, 85&#x2009;g carbohydrates, 21&#x2009;g fat, 12&#x2009;g protein) to induce hypoglycaemia on three separate days. Upon reaching plasma glucose of less than 3.0&#x2009;mmol/L, hypoglycaemia was corrected with 15&#x2009;g of glucose (G15), 5&#x2009;g of glucose (G5) or a protein bar (P10, 10&#x2009;g of protein) in random order. The primary outcome was percentage of time spent in the target plasma glucose range (3.9-5.5&#x2009;mmol/L) during 40&#x2009;minutes after correction. Postcorrection time spent in the target glucose range did not differ significantly between the interventions (P&#x2009;=&#x2009;.161). However, postcorrection time with glucose less than 3.9&#x2009;mmol/L was lower after G15 than P10 (P&#x2009;=&#x2009;.007), whereas time spent with glucose more than 5.5&#x2009;mmol/L, peak glucose and insulin 15&#x2009;minutes postcorrection were higher after G15 than G5 and P10 (P&#x2009;<&#x2009;.001). Glucagon 15&#x2009;minutes postcorrection was higher after P10 than after G15 and G5 (P&#x2009;=&#x2009;.002 and P&#x2009;=&#x2009;.003, respectively). G15 resulted in rebound hypoglycaemia (<&#x2009;3.0&#x2009;mmol/L) in three of eight cases (38%), while no rebound hypoglycaemia occurred with G5 and P10. Correcting hypoglycaemia with 15&#x2009;g of glucose should be reconsidered in post-RYGB PBH. A lower dose appears to sufficiently increase glucose levels outside the critical range in most cases, and complementary nutrients (e.g. proteins) may provide glycaemia-stabilizing benefits. NTC05250271 (ClinicalTrials.gov).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1016/j.tjnut.2023.06.015
+- Publication Date: 2023
+- DOI: 10.1111/dom.15175
 
 2. Keywords
-- PreventADALL
-- breastfeeding
-- complementary food
-- diet diversity
-- early food introduction
-- food diversity
-- infant diet
-- infant feeding
-- infant feeding practices
-- solid food
+- Roux-en-Y gastric bypass
+- nutrition
+- postbariatric hypoglycaemia
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- PreventADALL assessment methods and outcomes
-- breastfeeding assessment methods and outcomes
-- complementary food assessment methods and outcomes
+- Roux-en-Y gastric bypass assessment methods and outcomes
+- nutrition assessment methods and outcomes
+- postbariatric hypoglycaemia assessment methods and outcomes

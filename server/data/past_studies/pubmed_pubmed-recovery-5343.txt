@@ -1,25 +1,26 @@
-Study Title: Assessing the clinical advantage of opioid-reduced anesthesia in thoracoscopic sympathectomy: a prospective randomized controlled trial.
+Study Title: Frailty as a sequela of burn injury: a post hoc analysis of the "RE-ENERGIZE" multicenter randomized-controlled trial and the National Health Interview Survey.
 
 Study Summary:
-Opioid-reduced multimodal analgesia has been used clinically for many years to decrease the perioperative complications associated with opioid drugs. We aimed to assess the clinical effects of opioid-reduced anesthesia during thoracoscopic sympathectomy. Surgical patients (n&#x2009;=&#x2009;151) with palmar hyperhidrosis were randomly divided into control (Group C, 73 patients) and test (Group T, 78 patients) groups. All patients were administered general anesthesia using a laryngeal mask. In Group C, patients received propofol, fentanyl, and cisatracurium for anesthesia induction, and maintenance was achieved with propofol and remifentanil, along with mechanical ventilation during the operation. In Group T, anesthesia was induced with propofol, dezocine, and dexmedetomidine (DEX) and maintained with propofol, DEX, and an intercostal nerve block, along with spontaneous breathing throughout the operation. Perioperative complications related to opioid use include hypotension, bradycardia, hypertension, tachycardia, hypoxemia, nausea, vomiting, urine retention, itching, and dizziness were observed. To assess the impact of these complications, we recorded and compared vital signs, blood gas indices, visual analogue scale (VAS) scores, adverse events, and patient satisfaction between the two groups. Perioperative complications related to opioid use were similar between groups. There were no significant differences in the type of perioperative sedation, analgesia index, respiratory and circulatory indicators, blood gas analysis, postoperative VAS scores, adverse reactions, propofol dosage, postoperative recovery time, and patient satisfaction. In minimally invasive surgeries such as thoracoscopic sympathectomy, opioid-reduced anesthesia was found to be safe and effective; however, this method did not demonstrate clinical advantages. Chinese Clinical Trial Register: ChiCTR2100055005, on December 30, 2021.
+With advancements in burn treatment and intensive care leading to decreased mortality rates, a growing cohort of burn survivors is emerging. These individuals may be susceptible to frailty, characterized by reduced physiological reserve and increased vulnerability to stressors commonly associated with aging, which significantly complicates their recovery process. To date, no study has investigated burns as a potential risk factor for frailty. This study aimed to determine the short-term prevalence of frailty among burn survivors' months after injury and compare it with that of the general population. A post hoc analysis was conducted on the Randomized Trial of Enteral Glutamine to Minimize the Effects of Burn Injury (RE-ENERGIZE) trial, an international randomized-controlled trial involving 1200 burn injury patients with partial- or full-thickness burns. Participants who did not complete the 36-Item Short Form Health Survey (SF-36) questionnaire were excluded. Data for the general population were obtained from the 2022 National Health Interview Survey (NHIS). Frailty was assessed using the FRAIL (Fatigue, Resistance, Ambulation, Illness, Loss of weight) scale. Due to lack of data on loss of weight, for the purposes of this study, malnutrition was used as the fifth variable. Illness and malnutrition were based on admission data, while fatigue, resistance, and ambulation were determined from post-discharge responses to the SF-36. The burn cohort and general population groups were matched using propensity score matching and compared in terms of frailty status. Within the burn group, patients were divided into different subgroups based on their frailty status, and the differences in their (instrumental) activities of daily living (iADL and ADL) were compared. A multivariable analysis was performed within the burn cohort to identify factors predisposing to frailty as well as compromised iADL and ADL. Out of the 1200 burn patients involved in the study, 600 completed the required questionnaires [follow-up time: (5.5&#x2009;&#xb1;&#x2009;2.3) months] and were matched to 1200 adults from the general population in the U.S. In comparison to the general population, burn patients exhibited a significantly higher likelihood of being pre-frail (42.3% vs. 19.8%, P&#x2009;<&#x2009;0.0001), or frail (13.0% vs. 1.0%, P&#x2009;<&#x2009;0.0001). When focusing on specific components, burn patients were more prone to experiencing fatigue (25.8% vs. 13.5%, P&#x2009;<&#x2009;0.0001), limited resistance (34.0% vs. 2.7%, P&#x2009;<&#x2009;0.0001), and restricted ambulation (41.8% vs. 3.8%, P&#x2009;<&#x2009;0.0001). Conversely, the incidence rate of illness was observed to be higher in the general population (1.2% vs. 2.8%, P&#x2009;=&#x2009;0.03), while no significant difference was detected regarding malnutrition (2.3% vs. 2.6%, P&#x2009;=&#x2009;0.75). Furthermore, in comparison with robust burn patients, it was significantly more likely for pre-frail and frail patients to disclose compromise in ADL and iADL. The frail cohort reported the most pronounced limitation. Our findings suggest a higher incidence of post-discharge frailty among burn survivors in the short-term following injury. Burn survivors experience compromised fatigue, resistance, and ambulation, while rates of illness and malnutrition were lower or unchanged, respectively. These results underscore the critical need for early identification of frailty after a burn injury, with timely and comprehensive involvement of a multidisciplinary team including burn and pain specialists, community physicians, physiotherapists, nutritionists, and social workers. This collaborative effort can ensure holistic care to address and mitigate frailty in this patient population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12871-024-02711-6
+- DOI: 10.1186/s40779-024-00568-x
 
 2. Keywords
-- Dexmedetomidine
-- Dezocine
-- Intercostal nerve block
-- Sympathectomy
+- Activities of daily living
+- Aging
+- Burn injury
+- Frailty
+- Quality of life
 
 3. Key Findings
-- In minimally invasive surgeries such as thoracoscopic sympathectomy, opioid-reduced anesthesia was found to be safe and effective; however, this method did not demonstrate clinical advantages
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Dexmedetomidine assessment methods and outcomes
-- Dezocine assessment methods and outcomes
-- Intercostal nerve block assessment methods and outcomes
+- Activities of daily living assessment methods and outcomes
+- Aging assessment methods and outcomes
+- Burn injury assessment methods and outcomes

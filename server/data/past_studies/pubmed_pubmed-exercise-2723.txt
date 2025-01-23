@@ -1,20 +1,28 @@
-Study Title: Role of Comprehensive Vestibular Rehabilitation Based on Virtual Reality Technology in Residual Symptoms After Canalith Repositioning Procedure.
+Study Title: Assessment of exercise-induced dehydration in underhydrated athletes: Which method shows the most promise?
 
 Study Summary:
-&#xa0;We aimed to explore the role of comprehensive vestibular rehabilitation based on virtual reality (VR) technology in residual symptoms after canalith repositioning procedure. &#xa0;A total of 124 patients, who were diagnosed with benign paroxysmal positional vertigo from September 2020 to July 2023 and had residual symptoms 24 hours after the canalith repositioning procedure, were selected as the subjects. They were randomly divided into a normal control (NC) group, a Cawthorne-Cooksey exercise group (n=41), a Brandt-Daroff exercise group (n=41), and a VR group (n=42). The NC group received no intervention, the Cawthorne-Cooksey exercise group underwent Cawthorne-Cooksey exercise, the Brandt-Daroff exercise group was subjected to Brandt-Daroff exercise, and the VR group was given comprehensive vestibular rehabilitation based on VR technology. &#xa0;After treatment, the Dizziness Handicap Inventory (DHI) and vestibular symptom index (VSI) scores of the virtual reality (VR), Cawthorne-Cooksey exercise, and Brandt-Daroff exercise groups were significantly lower than those of the NC group (P <.05). The scores of the VR group were lower than those of the Cawthorne-Cooksey exercise and Brandt-Daroff exercise groups (P < .05). The abnormality rates of ocular vestibular evoked myogenic potentials (oVEMP) and cervical vestibular evoked myogenic potentials (cVEMP) in VR, Cawthorne-Cooksey exercise, and Brandt-Daroff exercise groups were lower than those of the NC group (P <05). The rates of the VR group were lower than those of the Cawthorne-Cooksey exercise and Brandt-Daroff exercise groups (P <05). &#xa0;Comprehensive vestibular rehabilitation based on VR technology can cure the residual symptoms after the canalith repositioning procedure, reduce the abnormality rates of oVEMP and cVEMP, and reconstruct the balance ability.
+Athletes are commonly exposed to exercise-induced dehydration. However, the best method to detect dehydration under this circumstance is not clear. This study aimed to analyze pre- and post-dehydration measurements of biomarkers, including saliva osmolality (SOsm), urine osmolality (UOsm), urine-specific gravity (USG), urine color (Ucolor), serum osmolality (SeOsm), serum arginine vasopressin (AVP), serum sodium (Na), and thirst sensation in underhydrated athletes, using the body mass loss (BML) as the reference method. In this clinical trial (NCT05380089), a total of 38 athletes (17 females) with a regular low water intake (<35&#xa0;mL/kg/day) were submitted to exercise-induced dehydration with a heat index of 29.8&#xa0;&#xb1;&#xa0;3.1&#xa0;&#xb0;C and an individualized running intensity (80-90% of first ventilatory threshold). ROC curve analysis revealed significant discriminative abilities of SOsm, with AUC values of 0.76&#xa0;at 1.5% BML, 0.75&#xa0;at 1.75% BML, and 0.87&#xa0;at 2% BML, while Naand SeOsm showed the highest AUC of 0.87 and 0.91&#xa0;at 2% BML, respectively. SOsm showed high sensitivity at 1.5% of BML, while SeOsm and Nademonstrated high sensitivity at 2% of BML. This study highlights SOsm as a potential indicator of hydration status across different levels of BML. Additionally, Naand SeOsm emerged as accurate dehydration predictors at 1.75% and 2% of BML. Notably, the accuracy of urinary indices and thirst sensation for detecting hydration may be limited.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.5152/iao.2024.231393
+- DOI: 10.1016/j.clnu.2024.08.003
 
 2. Keywords
-
+- Hydration assessment
+- Hydration status
+- Performance
+- Total body water
 
 3. Key Findings
-- Findings extraction requires manual review
+- ROC curve analysis revealed significant discriminative abilities of SOsm, with AUC values of 0
+- 87&#xa0;at 2% BML, while Naand SeOsm showed the highest AUC of 0
+- SOsm showed high sensitivity at 1
+- 5% of BML, while SeOsm and Nademonstrated high sensitivity at 2% of BML
 
 This study provides insights into:
-- General research methodology and outcomes
+- Hydration assessment assessment methods and outcomes
+- Hydration status assessment methods and outcomes
+- Performance assessment methods and outcomes

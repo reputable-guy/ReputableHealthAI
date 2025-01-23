@@ -1,20 +1,24 @@
-Study Title: Usefulness of a virtual reality educational program for reducing preoperative anxiety in children: A randomised, single-centre clinical trial.
+Study Title: Effects of Phenylcapsaicin on Intraocular and Ocular Perfusion Pressure During a 30-Min Cycling Task: A Placebo-Controlled, Triple-Blind, Balanced Crossover Study.
 
 Study Summary:
-Preoperative anxiety (PA) is common in children and has detrimental effects on surgical outcome. Strategies based on virtual reality (VR) have recently been introduced to address this problem. This study evaluated the usefulness of a virtual reality educational program (VREP) for reducing preoperative anxiety in elective low-complexity paediatric surgery. Randomised clinical trial. Single tertiary centre in Barcelona, Spain. Between January 2019 and June 2022. Children aged 3-13&#x200a;years of age, American Society of Anesthesiologists (ASA) I-II, scheduled for elective low-complexity surgery were enrolled in the study. Children were randomised into a control group (received oral/written information about the anaesthetic-surgical process, and patients and their parents remained in a playroom waiting for the surgery) or VREP (viewed a VR-based educational video on the surgical process, 7-10&#x200a;days prior to surgery) using the MATLAB application. PA using the modified Yale Preoperative Anxiety Scale (mYPAS) during separation from parents. In total, 241 children aged 3-12&#x200a;years of age were studied (120 patients with VREP and 121 controls). Randomisation eliminated the differences between the groups, except for a greater male presence in the VREP group (83.3% vs. 71.1%; P &#x200a;=&#x200a;0.023). The mYPAS yielded was lower in the VREP group (29.2% vs. 83.5%; P &#x200a;<&#x200a;0.001). Sex did not influence VREP-mediated decrease in PA ( P &#x200a;<&#x200a;0.001). In turn, VREP patients were more cooperative (Induction Compliance Checklist [ICC] score 0 points vs. 2 points; P &#x200a;<&#x200a;0.001) during anaesthesia induction, presented less delirium (Pediatric Anesthesia Emergence Delirium [PAED] score 1 point vs. 3 points; P &#x200a;=&#x200a;0.001) on leaving the recovery room, and experienced less pain upon arrival in the hospital ward (Wong-Baker Faces Pain Rating Scale: 0-points vs. 1 point; P &#x200a;<&#x200a;0.001). The VREP-based prevention strategy reduced preoperative anxiety in children undergoing elective low-complexity surgery. NCT03578393.
+The main objective of this placebo-controlled, triple-blind, balanced crossover study was to assess the acute effects of phenylcapsaicin (PC) intake (2.5&#xa0;mg) on intraocular pressure (IOP), ocular perfusion pressure (OPP), and heart rate (HR) during a 30-min cycling task performed at 15% of the individual maximal power. Twenty-two healthy young adults performed the cycling task 45&#xa0;min after ingesting PC or placebo. IOP was measured with a rebound tonometer before exercise, during cycling (every 6&#xa0;min), and after 5 and 10&#xa0;min of recovery. OPP was assessed before and after exercise. HR was monitored throughout the cycling task. We found an acute increase of IOP levels related to PC consumption while cycling (mean difference = 1.91 &#xb1; 2.24&#xa0;mmHg; p = .007, &#x3b7;p2=.30), whereas no differences were observed for OPP levels between the PC and placebo conditions (mean difference = 1.33 &#xb1; 8.70&#xa0;mmHg; p = .608). Mean HR values were higher after PC in comparison with placebo intake (mean difference = 3.11 &#xb1; 15.87 bpm, p = .019, &#x3b7;p2=.24), whereas maximum HR did not differ between both experimental conditions (p = .199). These findings suggest that PC intake before exercise should be avoided when reducing IOP levels is desired (e.g.,&#xa0;glaucoma patients or those at risk). Future studies should determine the effects of different ergogenic aids on IOP and OPP levels with other exercise configurations and in the long term.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/EJA.0000000000002032
+- DOI: 10.1123/ijsnem.2024-0051
 
 2. Keywords
-
+- capsaicin
+- endurance exercise
+- intraocular pressure
 
 3. Key Findings
-- Findings extraction requires manual review
+- We found an acute increase of IOP levels related to PC consumption while cycling (mean difference = 1
 
 This study provides insights into:
-- General research methodology and outcomes
+- capsaicin assessment methods and outcomes
+- endurance exercise assessment methods and outcomes
+- intraocular pressure assessment methods and outcomes

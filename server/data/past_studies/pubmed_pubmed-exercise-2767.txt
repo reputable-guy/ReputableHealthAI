@@ -1,29 +1,25 @@
-Study Title: Sex-Related Glycemic and Cardiovascular Responses After Continuous and Interval Aerobic Sessions in Patients With Type 1 Diabetes: A Randomized Crossover Study.
+Study Title: Video Education and Behavior Contract to Improve Outcomes After Renal Transplantation (VECTOR): A Randomized Controlled Trial.
 
 Study Summary:
-We aimed to investigate sex-related glycemic and cardiovascular responses after intensity- (moderate) and duration- (30 minutes) matched interval aerobic exercise (IAE) and continuous (CAE) aerobic exercise sessions in patients with type 1 diabetes mellitus (T1DM). A total of 19 volunteers (10 women) participated in 2 randomized and crossover sessions (1:1). Heart rate, systolic and diastolic blood pressure, double product, and blood glucose (BG) levels were measured before (PRE), immediately after (POST-0), and 20 minutes after (POST-20) each session. The rates of perceived exertion (RPE) and enjoyment levels (ELs) were assessed after each session. Generalized estimating equations were used to analyze the data (condition &#xd7; time &#xd7; sex). Regarding sex-related changes, men showed BG reductions at POST-0 and POST-20 after CAE (&#x2206;: -3.7 and -3.7 mmol/L, respectively) and only at POST-0 after IAE (&#x2206;: -1.6 mmol/L), with 1 episode of hypoglycemia occurring in the latter group. In contrast, women showed reduced BG values only after CAE at both time points (&#x2206;: -1.4 and -1.7 mmol/L) compared with PRE values. The decrease in BG levels at both time points was higher for men after CAE than IAE. Cardiovascular responses, RPEs, and ELs were similar between exercise sessions, except for blood pressure, which showed higher values in men. In conclusion, lower BG levels were observed after CAE, with greater reductions in men. Similar cardiovascular, RPE, and EL responses were found across sexes and sessions. Consideration of sex-specific recommendations may be warranted when prescribing aerobic exercise, particularly, for men with irregular physical activity levels.
+Sub-optimal adherence to immunosuppressant medications reduces graft survival for kidney transplant recipients and adherence-enhancing interventions are resource and time intensive. We performed a multi-center randomized controlled trial to investigate the impact of an electronically delivered intervention on adherence. Of 203 adult kidney transplant recipients who received a de novo kidney transplant n = 173 agreed to participate (intent-to-treat population) and were randomized to the intervention (video education plus behavior contract n = 91) or the control (standard education, n = 82). No significant differences were found between the groups for medication adherence measured by the Basel Assessment of Adherence to Immunosuppressive Medications Scale, intrapatient variability in tacrolimus levels, time in therapeutic range for any immunosuppressant, knowledge, self-efficacy, QOL, or hospitalizations. Among a subgroup of 64 participants randomized to the intervention group who completed a post-intervention questionnaire, two-thirds (67%, n = 43) reported watching at least 80% of the videos and 58% (n = 37) completed the electronic goal setting exercise and adherence contract. An autonomous goal setting exercise and electronic behavioural contract added to standard of care did not improve any outcomes. Our findings reiterate that nonadherence in transplantation is a difficult multifactorial problem that simple solutions will not solve. Trial registration number NCT03540121.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.amjcard.2024.07.028
+- DOI: 10.2147/PPA.S467142
 
 2. Keywords
-- diabetes mellitus
-- enjoyment
-- exercise
-- glucose
-- hypotension
+- immunosuppression
+- kidney transplant
+- medication adherence
+- solid organ transplant
 
 3. Key Findings
-- Regarding sex-related changes, men showed BG reductions at POST-0 and POST-20 after CAE (&#x2206;: -3
-- In contrast, women showed reduced BG values only after CAE at both time points (&#x2206;: -1
-- Cardiovascular responses, RPEs, and ELs were similar between exercise sessions, except for blood pressure, which showed higher values in men
-- Similar cardiovascular, RPE, and EL responses were found across sexes and sessions
+- No significant differences were found between the groups for medication adherence measured by the Basel Assessment of Adherence to Immunosuppressive Medications Scale, intrapatient variability in tacrolimus levels, time in therapeutic range for any immunosuppressant, knowledge, self-efficacy, QOL, or hospitalizations
 
 This study provides insights into:
-- diabetes mellitus assessment methods and outcomes
-- enjoyment assessment methods and outcomes
-- exercise assessment methods and outcomes
+- immunosuppression assessment methods and outcomes
+- kidney transplant assessment methods and outcomes
+- medication adherence assessment methods and outcomes

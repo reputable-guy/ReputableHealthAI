@@ -1,29 +1,20 @@
-Study Title: Contextual factors affecting the implementation of an anemia focused virtual counseling intervention for pregnant women in plains Nepal: a mixed methods process evaluation.
+Study Title: Health and wellness in the Australian coal mining industry: An analysis of pre-post findings from the RESHAPE workplace health promotion program.
 
 Study Summary:
-Anemia is estimated to cause 115,000 maternal deaths each year. In Nepal, 46% of pregnant women have anemia. As part of an integrated anemia-prevention strategy, family engagement and counseling of pregnant women can increase compliance to iron folic acid tablets, but marginalized women often have lower access to these interventions. We implemented the VALID (Virtual antenatal intervention for improved diet and iron intake) randomized controlled trial to test a family-focused virtual counseling mHealth intervention designed to inclusively increase iron folic acid compliance in rural Nepal; here we report findings from our process evaluation research. We conducted semi structured interviews with 20 pregnant women who had received the intervention, eight husbands, seven mothers-in-laws and four health workers. We did four focus groups discussions with intervention implementers, 39 observations of counseling, and used routine monitoring data in our evaluation. We used inductive and deductive analysis of qualitative data, and descriptive statistics of monitoring data. We were able to implement the intervention largely as planned and all participants liked the dialogical counseling approach and use of story-telling to trigger conversation. However, an unreliable and inaccessible mobile network impeded training families about how to use the mobile device, arrange the counseling time, and conduct the counseling. Women were not equally confident using mobile devices, and the need to frequently visit households to troubleshoot negated the virtual nature of the intervention for some. Women's lack of agency restricted both their ability to speak freely and their mobility, which meant that some women were unable to move to areas with better mobile reception. It was difficult for some women to schedule the counseling, as there were competing demands on their time. Family members were difficult to engage because they were often working outside the home; the small screen made it difficult to interact, and some women were uncomfortable speaking in front of family members. It is important to understand gender norms, mobile access, and mobile literacy before implementing an mHealth intervention. The contextual barriers to implementation meant that we were not able to engage family members as much as we had hoped, and we were not able to minimize in-person contact with families. We recommend a flexible approach to mHealth interventions which can be responsive to local context and the situation of participants. Home visits may be more effective for those women who are most marginalized, lack confidence in using a mobile device, and where internet access is poor.
+Non-communicable diseases are the leading cause of death worldwide, accounting for 71% of deaths in 2021. The chronic and pervasive nature of these diseases spurs the need for novel treatment approaches, including using the workplace as a front for the promotion and dissemination of health messages and activities. Taking this into consideration, this study aimed to assess the efficacy of a workplace health promotion program that targeted nutrition, physical activity, and obesity outcomes in a New South Wales (NSW) coal mine site. A 12-week quasi-experimental pre-test-post-test study. A coal mine site in rural NSW, Australia. At baseline there were n = 389 participants, with similar numbers at follow-up (n = 420) as well as 61 participants from both timepoints (8.2% repeated measures), with 89% of participants being male. A multicomponent wellness intervention was implemented incorporating aspects of education, goal setting, and competition. Physical activity, nutrition, and weight. The mean BMI at baseline was 30.01 kg/m2, and at follow-up 29.79 kg/m2 (p = 0.39). At follow-up, participants reported 81% lower odds of engaging in the exercise category 'no moderate physical exercise' (OR = 0.09, p < 0.001), as well as 111% higher odds of meeting physical activity and exercise guidelines (OR = 2.11, p = 0.057). There were no changes to diet outcomes and no association between employment characteristics and participating in physical activity. Workplace health promotion programs can be an efficacious strategy in improving physical activity outcomes and marginally improving weight outcomes in those in the mining industry. Further research is needed to determine the true effectiveness of these programs long-term, particularly in an environment as challenging and dynamic as the mining industry.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1186/s12889-023-16195-5
+- DOI: 10.1371/journal.pone.0288244
 
 2. Keywords
-- Anemia
-- Antenatal
-- Iron and folic acid
-- Nepal
-- Nutrition
-- Pregnancy
-- Virtual
-- mHealth
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Anemia assessment methods and outcomes
-- Antenatal assessment methods and outcomes
-- Iron and folic acid assessment methods and outcomes
+- General research methodology and outcomes

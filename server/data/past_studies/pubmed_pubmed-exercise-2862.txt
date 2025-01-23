@@ -1,26 +1,28 @@
-Study Title: Feasibility and effectiveness of a 6-month, home-based, resistance exercise delivered by a remote technological solution in healthy older adults.
+Study Title: Investigation of Inspiratory Muscle Training Efficiency Before Bronchoscopic Lung Volume Reduction: A Randomized Controlled Trial.
 
 Study Summary:
-Aging is characterized by a physiological decline in physical function, muscle mass, strength, and power. Home-based resistance training interventions have gained increasing attention from scientists and healthcare system operators, but their efficacy is yet to be fully determined. to verify the safety, feasibility, and efficacy of a home-based resistance training program delivered by innovative technological solution in healthy older adults. 73 participants (36 females) were randomly allocated to either a control (C) or an intervention (I) group consisting of a 6-months home-based resistance training program delivered through an innovative technological solution, which included a wearable inertial sensor and a dedicated tablet. The safety and feasibility of the intervention were assessed by recording training-related adverse events and training adherence. Body composition, standing static balance, 10-meter walking, and loaded 5 sit-to-stand tests were monitored to quantify efficacy. No adverse events were recorded. Adherence to the training program was relatively high (61 % of participants performed the target 3 sessions) in the first trimester, significantly dropping during the second one. The intervention positively affected walking parameters (p < 0.05) and maximal force (p = 0.009) while no effect was recorded on body composition, balance, and muscle power. The home-based device-supported intervention was safe and feasible, positively affecting walking parameters and lower limbs' maximal force. This approach should be incentivized when barriers to participation in traditional resistance exercise programs are present.
+Pulmonary rehabilitation (PR) is recommended prior to bronchoscopic lung volume reduction (BLVR) procedures to optimize patient outcomes. However, there's a lack of clear guidance on PR content. The aim of our study is to examine the effect of adding inspiratory muscle training (IMT) to standard PR before BLVR on exercise capacity, dyspnea, fatigue level and quality of life. Sixty-four patients were randomly assigned to either the PR Group (PRGr) or the PR with IMT group (IMTGr). Both groups underwent an 8-week standard PR program, including breathing exercises, muscle strengthening, and walking. Additionally, IMTGr received IMT sessions. Outcome measures comprised six-minute walking distance (6MWD), maximal inspiratory and expiratory pressures (MIP, MEP), peripheral muscle strength, modified Medical Research Council dyspnea score, fatigue symptom scale, spirometric parameters, Saint George Quality of Life Questionnaire (SGRQ), International Physical Activity Questionnaire Short Form (IPAQ-SF), and Hospital Anxiety and Depression Scale. Our study found no significant difference in exercise capacity improvement between IMTGr and PRGr. However, IMTGr showed significant improvement in MIP compared to PRGr. Both groups experienced improvements in dyspnea, fatigue, and depression scores, as well as enhancements in 6MWD, MEP, peripheral muscle strength, IPAQ-SF and SGRQ scores. Adding IMT to PR did not show a significant difference between groups among BLVR-eligible patients. However, improved respiratory muscle strength may have positive clinical implications. Further research is needed to explore short and long-term effects.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1016/j.archger.2024.105559
+- Publication Date: 2025
+- DOI: 10.1016/j.arbres.2024.06.007
 
 2. Keywords
-- Aging
-- Physical function
-- Sarcopenia prevention
-- Strength training
-- Teleexercise
+- COPD
+- Coil
+- Emphysema
+- Exercise
+- Pulmonary rehabilitation
+- Valve
 
 3. Key Findings
-- Findings extraction requires manual review
+- Our study found no significant difference in exercise capacity improvement between IMTGr and PRGr
+- However, IMTGr showed significant improvement in MIP compared to PRGr
 
 This study provides insights into:
-- Aging assessment methods and outcomes
-- Physical function assessment methods and outcomes
-- Sarcopenia prevention assessment methods and outcomes
+- COPD assessment methods and outcomes
+- Coil assessment methods and outcomes
+- Emphysema assessment methods and outcomes

@@ -1,20 +1,24 @@
-Study Title: Effects of a personalized nutrition program on cardiometabolic health: a randomized controlled trial.
+Study Title: Indirect calorimetry directed feeding and cycling in the older ICU population: a pilot randomised controlled trial.
 
 Study Summary:
-Large variability exists in people's responses to foods. However, the efficacy of personalized dietary advice for health remains understudied. We compared a personalized dietary program (PDP) versus general advice (control) on cardiometabolic health using a randomized clinical trial. The PDP used food characteristics, individual postprandial glucose and triglyceride (TG) responses to foods, microbiomes and health history, to produce personalized food scores in an 18-week app-based program. The control group received standard care dietary advice (US Department of Agriculture Guidelines for Americans, 2020-2025) using online resources, check-ins, video lessons and a leaflet. Primary outcomes were serum low-density lipoprotein cholesterol and TG concentrations at baseline and at 18 weeks. Participants (n&#x2009;=&#x2009;347), aged 41-70 years and generally representative of the average US population, were randomized to the PDP (n&#x2009;=&#x2009;177) or control (n&#x2009;=&#x2009;170). Intention-to-treat analysis (n&#x2009;=&#x2009;347) between groups showed significant reduction in TGs (mean difference&#x2009;=&#x2009;-0.13&#x2009;mmol&#x2009;l; log-transformed 95% confidence interval&#x2009;=&#x2009;-0.07 to -0.01, P&#x2009;=&#x2009;0.016). Changes in low-density lipoprotein cholesterol were not significant. There were improvements in secondary outcomes, including body weight, waist circumference, HbA1c, diet quality and microbiome (beta-diversity) (P&#x2009;<&#x2009;0.05), particularly in highly adherent PDP participants. However, blood pressure, insulin, glucose, C-peptide, apolipoprotein A1 and B, and postprandial TGs did not differ between groups. No serious intervention-related adverse events were reported. Following a personalized diet led to some improvements in cardiometabolic health compared to standard dietary advice. ClinicalTrials.gov registration: NCT05273268 .
+Older critically ill patients experience rapid muscle loss during stay in an intensive care unit (ICU) due to physiological stress and increased catabolism. This may lead to increased ICU length of stay, delayed weaning from ventilation and persistent functional limitations. We hypothesized that with optimal nutrition and early physical therapy acting in synergism, we can reduce muscle mass loss and improve functional outcomes. This was a prospective, single blinded randomized, controlled single-center pilot study to compare the lean muscle mass (measured at bilateral quadriceps femoris using ultrasound) of older ICU patients at 4 time points over 14 days between the control and intervention groups. The control group received standard weight-based empiric feeding and standard ICU physiotherapy. The intervention group received indirect calorimetry directed feeding adjusted daily and 60&#xa0;min per day of cycle ergometry. 21 patients were recruited and randomized with 11 patients in the control arm and 10 patients in the intervention arm. Secondary outcome measures included ICU and hospital mortality, length of stay, functional assessments of mobility and assessment of strength. Median age was 64 in the control group and 66 in the intervention group. Median calories achieved was 24.5&#xa0;kcal/kg per day in the control group and 23.3&#xa0;kcal/kg per day in the intervention group. Cycle ergometry was applied to patients in the intervention group for a median of 60&#xa0;min a day and a patient had a median of 8.5 sessions in 14 days. Muscle mass decreased by a median of 4.7cmin the right quadriceps femoris in the control group and 1.8cmin the intervention group (p&#x2009;=&#x2009;0.19), while the left quadriceps femoris decreased by 1.9cmin the control group and 0.1cmin the intervention group (p&#x2009;=&#x2009;0.51). In this pilot study, we found a trend towards decrease muscle loss in bilateral quadriceps femoris with our combined interventions. However, it did not reach statistical significance likely due to small number of patients recruited in the study. However, we conclude that the intervention is feasible and potentially beneficial and may warrant a larger scale study to achieve statistical significance. This study was registered on Clinicaltrials.gov on 30th May 2018 with identifier NCT03540732.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41591-024-02951-6
+- DOI: 10.1186/s12871-024-02507-8
 
 2. Keywords
-
+- Cycle ergometry
+- Indirect calorimetry
+- Nutrition
 
 3. Key Findings
-- Intention-to-treat analysis (n&#x2009;=&#x2009;347) between groups showed significant reduction in TGs (mean difference&#x2009;=&#x2009;-0
+- In this pilot study, we found a trend towards decrease muscle loss in bilateral quadriceps femoris with our combined interventions
 
 This study provides insights into:
-- General research methodology and outcomes
+- Cycle ergometry assessment methods and outcomes
+- Indirect calorimetry assessment methods and outcomes
+- Nutrition assessment methods and outcomes

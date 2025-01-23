@@ -1,20 +1,26 @@
-Study Title: Changes in Metabolic and Inflammatory Markers after a Combined Exercise Program in Workers: A Randomized Controlled Trial.
+Study Title: Process evaluation protocol plan for a home-based physical activity intervention versus educational intervention for persistent taxane-induced peripheral neuropathy (B-HAPI study): a randomized controlled trial.
 
 Study Summary:
-We investigated the effects of a 16-wk combined exercise training on body composition, and metabolic and inflammatory markers in sedentary middle-aged workers. We also assessed whether alterations in metabolic markers were associated with changes in health-related outcomes. This randomized controlled trial involved 46 participants randomly allocated into control and exercise groups. The exercise group performed 16-wk combined aerobic and resistance training for 75 min per session, 3 times a week. Fasting blood samples were collected at baseline and after 16-wk intervention to determine lipid profile, and metabolic and inflammatory markers as primary outcomes. A total of 36 participants completed the intervention (53.70 &#xb1; 6.92 yr old; n = 18 in each group). Waist circumference (interaction effect: F = 7.423, P = 0.002), fat mass (interaction effect: F = 5.070, P = 0.011), and muscle mass (interaction effect: F = 5.420, P = 0.007) were improved in the exercise group compared with the control group. Fasting glucose increased after the 16-wk follow-up (time effect: F = 73.253, P < 0.001), without an intergroup difference. Insulin levels were greater in the control compared with exercise group (group effect: F = 6.509, P = 0.015). The control group tended to increase the homeostatic model assessment of insulin resistance index (interaction effect: F = 3.493, P = 0.070) and to decrease the QUICKI index (interaction effect: F = 3.364, P = 0.075) to a greater extent compared with the exercise group. Exercise group reduced leptin (interaction effect: F = 11.175, P = 0.002) and adiponectin (interaction effect: F = 4.437, P = 0.043) concentrations in a greater magnitude than the control group. Interleukin (IL)-6 (time effect: F = 17.767, P < 0.001) and tumor necrosis factor &#x3b1; (time effect: F = 9.781, P = 0.004) concentrations decreased after the intervention, without an intergroup difference. IL-17A levels increased in the control compared with exercise group (interaction effect: F = 5.010, P = 0.033). Effects on adiponectin, IL-6, and IL-17A levels seem to depend on baseline body mass index, age, and sex. Percentage changes in leptin correlated positively with changes in homeostatic model assessment of insulin resistance index in the exercise ( r = 0.565, P = 0.015) and control ( r = 0.670, P = 0.002) groups. A combined training program can be an effective strategy to improve body composition and inflammatory markers and prevent marked reductions in insulin sensitivity among middle-aged workers.
+Evaluation publications typically summarize the results of studies to demonstrate the effectiveness of an intervention, but little is shared concerning any changes implemented during the study. We present a process evaluation protocol of a home-based gait, balance, and resistance exercise intervention to ameliorate persistent taxane-induced neuropathy study according to 7 key elements of process evaluation. The process evaluation is conducted parallel to the longitudinal, randomized control clinical trial examining the effects of the home-based gait, balance, and resistance exercise program for women with persistent peripheral neuropathy following treatment with taxanes for breast cancer (IRB approval: Pro00040035). The flowcharts clarify how the intervention should be implemented in comparable settings, fidelity procedures help to ensure the participants are comfortable and identify their individual needs, and the process evaluation allows for the individual attention tailoring and focus of the research to avoid protocol deviation. The publication of the evaluation protocol plan adds transparency to the findings of clinical trials and favors process replication in future studies. The process evaluation enables the team to systematically register information and procedures applied during recruitment and factors that impact the implementation of the intervention, thereby allowing proactive approaches to prevent deviations from the protocol. When tracking an intervention continuously, positive or negative intervention effects are revealed early on in the study, giving valuable insight into inconsistent results. Furthermore, a process evaluation adds a participant-centered element to the research protocols, which allows a patient-centered approach to be applied to data collection. ClinicalTrials.gov NCT04621721, November 9, 2020, registered prospectively. April 27, 2020, v2.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1249/MSS.0000000000003510
+- DOI: 10.1186/s12885-024-12444-x
 
 2. Keywords
-
+- Exercise
+- Home-based
+- Intervention
+- Process evaluation
+- Taxane therapy
 
 3. Key Findings
-- Findings extraction requires manual review
+- When tracking an intervention continuously, positive or negative intervention effects are revealed early on in the study, giving valuable insight into inconsistent results
 
 This study provides insights into:
-- General research methodology and outcomes
+- Exercise assessment methods and outcomes
+- Home-based assessment methods and outcomes
+- Intervention assessment methods and outcomes

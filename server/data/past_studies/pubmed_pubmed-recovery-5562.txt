@@ -1,25 +1,29 @@
-Study Title: Phase 1 dose escalation study of the MDM2 inhibitor milademetan as monotherapy and in combination with azacitidine in patients with myeloid malignancies.
+Study Title: TGF-&#x3b2;1 mediates hypoxia-preconditioned olfactory mucosa mesenchymal stem cells improved neural functional recovery in Parkinson's disease models and patients.
 
 Study Summary:
-Mouse double minute-2 homolog (MDM2) plays a key role in downregulating p53 activity in hematologic malignancies, and its overexpression is associated with poor outcomes. This phase 1 study assessed the safety and efficacy of different dosing regimens of the MDM2 inhibitor milademetan as monotherapy and in combination with azacitidine (AZA) in patients with relapsed or refractory acute myeloid leukemia or high-risk myelodysplastic syndromes. Seventy-four patients (monotherapy, n&#x2009;=&#x2009;57; milademetan-AZA combination, n&#x2009;=&#x2009;17) were treated. The maximum tolerated dose of milademetan was 160&#x2009;mg once daily given for the first 14-21&#x2009;days of 28-day&#x2009;cycles as monotherapy and on Days 5-14 in combination with AZA. Dose-limiting toxicities were gastrointestinal, fatigue, or renal/electrolyte abnormalities. Treatment-emergent adverse events related to milademetan occurred in 82.5% and 64.7% of participants in the monotherapy and AZA combination arms, respectively. Two participants (4.2%) in the monotherapy arm achieved complete remission (CR), and 1 (2.1%) achieved CR with incomplete blood count recovery (CRi). Two participants (13.3%) achieved CRi in the combination arm. New TP53 mutations, detected only during milademetan monotherapy, were found pre-existing below standard detection frequency by droplet digital polymerase chain reaction. Milademetan was relatively well tolerated in this population; however, despite signals of activity, clinical efficacy was minimal.
+Parkinson's disease (PD) is a neurodegenerative disorder characterized by the degeneration of dopaminergic neurons in the substantia nigra (SN). Activation of the neuroinflammatory response has a pivotal role in PD. Mesenchymal stem cells (MSCs) have emerged as a promising therapeutic approach for various nerve injuries, but there are limited reports on their use in PD and the underlying mechanisms remain unclear. We investigated the effects of clinical-grade hypoxia-preconditioned olfactory mucosa (hOM)-MSCs on neural functional recovery in both PD models and patients, as well as the preventive effects on mouse models of PD. To assess improvement in neuroinflammatory response and neural functional recovery induced by hOM-MSCs exposure, we employed single-cell RNA sequencing (scRNA-seq), assay for transposase accessible chromatin with high-throughput sequencing (ATAC-seq) combined with full-length transcriptome isoform-sequencing (ISO-seq), and functional assay. Furthermore, we present the findings from an initial cohort of patients enrolled in a phase I first-in-human clinical trial evaluating the safety and efficacy of intraspinal transplantation of hOM-MSC transplantation into severe PD patients. A functional assay identified that transforming growth factor-&#x3b2;1 (TGF-&#x3b2;1), secreted from hOM-MSCs, played a critical role in modulating mitochondrial function recovery in dopaminergic neurons. This effect was achieved through improving microglia immune regulation and autophagy homeostasis in the SN, which are closely associated with neuroinflammatory responses. Mechanistically, exposure to hOM-MSCs led to an improvement in neuroinflammation and neural function recovery partially mediated by TGF-&#x3b2;1 via activation of the anaplastic lymphoma kinase/phosphatidylinositol-3-kinase/protein kinase B (ALK/PI3K/Akt) signaling pathway in microglia located in the SN of PD patients. Furthermore, intraspinal transplantation of hOM-MSCs improved the recovery of neurologic function and regulated the neuroinflammatory response without any adverse reactions observed in patients with PD. These findings provide compelling evidence for the involvement of TGF-&#x3b2;1 in mediating the beneficial effects of hOM-MSCs on neural functional recovery in PD. Treatment and prevention of hOM-MSCs could be a promising and effective neuroprotective strategy for PD. Additionally, TGF-&#x3b2;1 may be used alone or combined with hOM-MSCs therapy for treating PD.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/cam4.70028
+- DOI: 10.1186/s40779-024-00550-7
 
 2. Keywords
-- acute myeloid leukemia
-- milademetan
-- mouse double minute&#x2010;2 homolog
-- myelodysplastic syndromes
+- Autophagy
+- Hypoxia-preconditioned
+- Immune regulation
+- Microglia
+- Olfactory mucosa mesenchymal stem cells (OM-MSCs)
+- PI3K/Akt signaling pathway
+- Parkinson&#x2019;s disease (PD)
+- Transforming growth factor-&#x3b2;1 (TGF-&#x3b2;1)
 
 3. Key Findings
-- New TP53 mutations, detected only during milademetan monotherapy, were found pre-existing below standard detection frequency by droplet digital polymerase chain reaction
+- Findings extraction requires manual review
 
 This study provides insights into:
-- acute myeloid leukemia assessment methods and outcomes
-- milademetan assessment methods and outcomes
-- mouse double minute&#x2010;2 homolog assessment methods and outcomes
+- Autophagy assessment methods and outcomes
+- Hypoxia-preconditioned assessment methods and outcomes
+- Immune regulation assessment methods and outcomes

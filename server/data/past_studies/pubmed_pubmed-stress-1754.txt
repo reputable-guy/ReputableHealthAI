@@ -1,28 +1,27 @@
-Study Title: The impact of mindfulness-based stress reduction training on the occupational stress and burnout experienced by nurses in geriatric wards? A randomized controlled trial.
+Study Title: Effects of Silybum marianum, Pueraria lobate, combined with Salvia miltiorrhiza tablets on non-alcoholic fatty liver disease in adults: A triple-blind, randomized, placebo-controlled clinical trial.
 
 Study Summary:
-In this clinical trial, 60 nurses from three geriatric centers were enlisted and randomly split into two groups: control (n = 30) and intervention (n = 30). Statistical analysis using SPSS version 21 employed Kolmogorov-Smirnov, Chi square, and t-test to assess results. The intervention group received eight training sessions. After the MBSR Training in the intervention groups, results showed there was a statistically significant difference between the two groups concerning the scores of the subscales of death and dying (t = 6.161, P < 0.001), conflicts with physicians (t = 7.962, P < 0.001), inadequate preparation (t = t = 6.524, P < 0.001), lack of support resources (t = 5.532, P < 0.001), conflicts with nurses (t = -6.632, P < 0.001), workload (t = 6.587, P < 0.001), uncertainty of treatment (t = 5.587, P < 0.001) as well as the scores of the subscales of burnout.
+Several medicinal plant extracts have demonstrated hepatoprotective effects. However, data are scarce regarding their combined effects on non-alcoholic fatty liver disease (NAFLD). This study aimed to investigate the effects of tablets containing Silybum marianum, Pueraria lobata, and Salvia miltiorrhiza (SPS) on NAFLD progression in Chinese adults. In this randomized, triple-blind, placebo-controlled clinical trial, 121 NAFLD patients (60 female and 61 male), diagnosed via magnetic resonance imaging (MRI) and aged 18-65 years, were enrolled. Participants were randomly allocated to receive SPS tablets (n&#xa0;=&#xa0;60; three tablets per dose, twice daily) or placebo (n&#xa0;=&#xa0;61) for 24 weeks. Each SPS tablet contained approximately 23.0&#xa0;mg of silybin, 11.4&#xa0;mg of puerarin, and 10.9&#xa0;mg of salvianolic acid. There were no differences in appearance, taste and odour between the SPS tablets and placebo manufactured by BYHEALTH Co., LTD (Guangzhou, China). The primary endpoints were changes in the liver fat content (LFC) and steatosis grade from baseline to 24 weeks. Secondary outcomes included changes in biomarkers/scores of liver fibrosis and steatosis, oxidative stress, inflammatory cytokines, alcohol metabolism, and glucose metabolism. A total of 112 participants completed the research. The intention-to-treat results showed a trend toward reduction in both absolute LFC (-0.52%) and percentage of LFC (-4.57%) in the SPS group compared to the placebo group after 24 weeks, but these changes didn't reach statistical significance (p&#xa0;>&#xa0;0.05). The SPS intervention (vs. placebo) significantly decreased hypersensitive C-reactive protein level (-6.76%) and increased aldehyde dehydrogenase activity (+18.1%) at 24 weeks post-intervention (all p&#xa0;<&#xa0;0.05). Per-protocol analysis further supported these effects. This trial is registered at Clinical Trials.gov (NCT05076058). SPS supplementation may have potential benefits in improving NAFLD, but further larger-scale trials are necessary to confirm these findings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.gerinurse.2024.05.034
+- DOI: 10.1016/j.clnesp.2024.06.003
 
 2. Keywords
-- Burnout
-- Geriatric
-- MBSR
-- Mindfulness
-- Nurses
-- Occupational stress
-- Stress reduction
+- Inflammation
+- Nonalcoholic fatty liver disease
+- Puerarin
+- Salvianolic acid
+- Silybin
 
 3. Key Findings
-- After the MBSR Training in the intervention groups, results showed there was a statistically significant difference between the two groups concerning the scores of the subscales of death and dying (t = 6
+- Several medicinal plant extracts have demonstrated hepatoprotective effects
+- The intention-to-treat results showed a trend toward reduction in both absolute LFC (-0
 
 This study provides insights into:
-- Burnout assessment methods and outcomes
-- Geriatric assessment methods and outcomes
-- MBSR assessment methods and outcomes
+- Inflammation assessment methods and outcomes
+- Nonalcoholic fatty liver disease assessment methods and outcomes
+- Puerarin assessment methods and outcomes

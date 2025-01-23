@@ -1,27 +1,26 @@
-Study Title: The combined effect of physical exercise, pranayama, and diet on fatigue in adult cancer patients undergoing chemotherapy: a randomized controlled trial.
+Study Title: Effect of Dapagliflozin on Accelerometer-Based Measures of Physical Activity in Patients With Heart Failure: An Analysis of the DETERMINE Trials.
 
 Study Summary:
-Cancer patients undergoing chemotherapy continue to experience significant fatigue, which affects their quality of life. The present study aims to evaluate the combined effect of comprehensive physical exercise, pranayama (regulated breathing practices of yoga), and dietary support intervention on fatigue in cancer patients undergoing chemotherapy. Non-advanced adult cancer patients undergoing chemotherapy (N&#x2009;=&#x2009;52) were randomized into the intervention group (N&#x2009;=&#x2009;26) or control group (N&#x2009;=&#x2009;26). Fatigue assessment was done using the Functional Assessment of Chronic Illness Therapy (FACIT) Fatigue Scale (version 4) at baseline and after 3 months. The intervention group participants practiced physical exercise, slow-paced pranayama and supplemented their diet with an intake of 100 g of millet protein powder (MPP), commonly known as "Sattu" in India. The control group received standard medical care. A total of 39 patients (N&#x2009;=&#x2009;13 in the intervention and N&#x2009;=&#x2009;26 in the control group) were included in the statistical analysis. Within the intervention group, a statistically significant reduction in fatigue (p&#x2009;=&#x2009;0.002) with a large effect size (d&#x2009;=&#x2009;2.1) was observed. There was no statistically significant reduction in fatigue within the control group (p&#x2009;=&#x2009;0.36). The group comparison showed a statistically significant reduction in post-scores of fatigue (p&#x2009;<&#x2009;0.0001) in the intervention group as compared to the control group with a moderate effect size (R&#x2009;=&#x2009;0.1). No unintended adverse effects related to the intervention were observed. The results suggest the potential role of integrated physical exercise, pranayama, and dietary support in reducing fatigue in cancer patients undergoing chemotherapy. Further validation with a larger sample size is required. CTRI/2022/04/041717 [Registered prospectively on 07/04/2022].
+Wearable accelerometers can quantify the frequency and intensity of physical activity during everyday life and may provide complementary data to established functional outcome measures on the effect of heart failure therapies on functional limitations. In a voluntary substudy of the DETERMINE trials (Dapagliflozin Effect on Exercise Capacity Using a 6-Minute Walk Test in Patients With Heart Failure), patients wore a waist-worn triaxial accelerometer for as long as possible (ideally for 24 h/d for 7 days) at 3 points during the trial, between the screening visit and randomization (baseline data), and during weeks 8 and 14 to 16. Accelerometer outcomes included the change from baseline to week 16 in the total number of steps, time spent in light-to-vigorous physical activity, time spent in moderate-to-vigorous physical activity, movement intensity during walking, number of vector magnitude units' and total activity counts. Adequate baseline and week 16 accelerometer data were available for 211 of 817 (26%) randomized patients (defined as &#x2265;10 hours of wear time for &#x2265;3 days). Dapagliflozin had a favorable effect on the mean change from baseline at 16 weeks in the number of steps (between-group difference, 778 [95% CI, 240-1315]), time spent in moderate-to-vigorous physical activity (0.16 [95% CI, 0.03-0.29] hours), and in the mean vector magnitude units (25 [95% CI, 0.1-49] counts per minute). There were no between-group differences in the other accelerometer outcomes of interest. In this exploratory analysis of the DETERMINE trials, dapagliflozin had a beneficial effect on selected accelerometer-based measures of physical activity in patients with heart failure across the entire left ventricular ejection fraction spectrum, yet did not improve 6-minute walk distance, as previously reported. These data suggest that accelerometer-based measurements of everyday activity may provide complementary information to 6-minute walk distance and identify beneficial effects of treatment not detected by 6-minute walk distance. URL: https://www.clinicaltrials.gov; Unique identifiers: NCT03877237 and NCT03877224.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00520-024-08821-8
+- DOI: 10.1161/CIRCHEARTFAILURE.124.012349
 
 2. Keywords
-- Cancer patients
-- Chemotherapy
-- Diet
-- Exercise
-- Fatigue
-- Pranayama
+- accelerometry
+- exercise
+- sodium-glucose transporter 2 inhibitors
+- walk test
+- wearable electronic devices
 
 3. Key Findings
-- The group comparison showed a statistically significant reduction in post-scores of fatigue (p&#x2009;<&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cancer patients assessment methods and outcomes
-- Chemotherapy assessment methods and outcomes
-- Diet assessment methods and outcomes
+- accelerometry assessment methods and outcomes
+- exercise assessment methods and outcomes
+- sodium-glucose transporter 2 inhibitors assessment methods and outcomes

@@ -1,20 +1,26 @@
-Study Title: The effect of dietary emulsifiers and thickeners on intestinal barrier function and its response to acute stress in healthy adult humans: A randomised controlled feeding study.
+Study Title: Effects of an 8-week high-dose vitamin D supplementation on fatigue and neuropsychiatric manifestations in post-COVID syndrome: A randomized controlled trial.
 
 Study Summary:
-Although dietary emulsifiers are implicated in the pathogenesis of Crohn's disease, their effect has not been studied in humans. To determine the effects of high- and low-emulsifier diets (HED, LED) on intestinal barrier function in healthy subjects in unstressed and acutely stressed states. We conducted a single-blinded, cross-over, controlled feeding trial in 22 healthy adults. After recording 7&#x2009;days of their habitual diet, we randomised participants to HED or LED with &#x2265;3-week washout between diets. On dietary completion, acute stress was induced via intravenous corticotrophin-releasing hormone. We assessed dietary adherence, effects on 2-h urinary lactulose: rhamnose ratio (LRR), serum concentrations of lipopolysaccharide-binding protein, soluble-CD14 and markers of epithelial injury and inflammation. Dietary adherence was excellent. In an unstressed state, median (interquartile range) LRR during HED was 0.030 (0.018-0.042); on LED, this was 0.042 (0.029-0.078; p&#x2009;=&#x2009;0.04). LPB concentrations were lower on HED than LED (p&#x2009;=&#x2009;0.026), but no differences were observed for epithelial injury or inflammation. Under acute stress, LRR increased by 89% (-1% to 486%) on HED (p&#x2009;=&#x2009;0.004), differing (p&#x2009;=&#x2009;0.001) from 39% (1%-90%) decrease on LED (p&#x2009;=&#x2009;0.009). Soluble-CD14 also increased (p&#x2009;<&#x2009;0.001). The LED had a prolonged carry-over effect on suppressing HED-induced changes during stress. Similar changes in LRR and soluble-CD14 were observed when HED was used as the first diet (both p&#x2009;<&#x2009;0.01). High intake of emulsifiers improved barrier function in the unstressed state, but increased intestinal permeability to stress, without evidence of inflammation. A LED was protective of the stress effect.
+This study evaluated the effectiveness of high-dose vitamin D supplementation in alleviating fatigue and neuropsychiatric symptoms in post-COVID syndrome. In an 8-week, double-blind, randomized, placebo-controlled trial, 80 patients with post-COVID fatigue or neuropsychiatric symptoms were enrolled. Participants were randomly assigned to receive either 60,000 IU of vitamin D weekly (n&#x2009;=&#x2009;40) or a placebo (n&#x2009;=&#x2009;40) for 8&#x2009;weeks. Clinical outcomes were assessed using the 11-item Chalder Fatigue Scale (CFQ-11); 21-item Depression, Anxiety, and Stress Scale (DASS-21); Pittsburgh Sleep Quality Index (PSQI); Addenbrooke's Cognitive Examination III (ACE); and Trail Making Test A and B (TMT-A and TMT-B). Baseline and 8-week measurements of inflammatory markers, including interleukin 6 (IL-6) and C-reactive protein (CRP), were also collected. Significant improvements were found in the vitamin D group for CFQ (coefficient -3.5, P&#x2009;=&#x2009;0.024), DASS-anxiety (-2.0, P&#x2009;=&#x2009;0.011), and ACE (2.1, P&#x2009;=&#x2009;0.012). No significant differences were observed in PSQI, DASS-depression, TMT, IL-6, or CRP levels. The incidence of adverse events was comparable between groups, with no serious adverse events reported. High-dose vitamin D supplementation may benefit patients with post-COVID syndrome by reducing fatigue, alleviating anxiety, and improving cognitive symptoms, with minimal side effects.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/apt.18172
+- DOI: 10.1111/pcn.13716
 
 2. Keywords
-
+- COVID&#x2010;19
+- fatigue
+- neuropsychiatric symptoms
+- post&#x2010;COVID syndrome
+- vitamin D
 
 3. Key Findings
-- Findings extraction requires manual review
+- Significant improvements were found in the vitamin D group for CFQ (coefficient -3
 
 This study provides insights into:
-- General research methodology and outcomes
+- COVID&#x2010;19 assessment methods and outcomes
+- fatigue assessment methods and outcomes
+- neuropsychiatric symptoms assessment methods and outcomes

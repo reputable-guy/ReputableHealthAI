@@ -1,25 +1,29 @@
-Study Title: Feasibility of telehealth exercise and nicotinamide riboside supplementation in survivors of childhood cancer at risk for diabetes: A pilot randomized controlled trial.
+Study Title: Dependence of Cerebral Oxygenation and Task Performance on Coloured Light Exposure and Chronotype: Blue and Red Do Not Have the Same Effects on the Prefrontal Cortex.
 
 Study Summary:
-Childhood cancer survivors (CCS) have a 50% higher risk of diabetes mellitus (DM) compared with the general population. Interventions in survivors with prediabetes (fasting glucose 100-125&#xa0;mg/dL or hemoglobin A1c 5.7%-6.4%) may mitigate the development of DM and its attendant morbidity, but there is limited information on the feasibility of secondary prevention in this setting. This 6-week pilot feasibility 1:1 randomized controlled trial enrolled 20 CCS on a structured telehealth exercise program&#xa0;&#xb1;&#xa0;nicotinamide riboside (NR), a nicotinamide adenine dinucleotide precursor. Feasibility metrics were: (1)&#xa0;&#x2265;50% of eligible CCS enrolled onto study; (2)&#xa0;&#x2265;70% of participants completed baseline and end-of-study assessments; (3)&#xa0;&#x2265;70% compliance with exercise and NR. Secondary endpoints included changes in biomarkers associated with glucose homeostasis and muscle health. Median age (years) at cancer diagnosis was 16.5 (range, 1.5-21.5) and 35.5 (range, 18.0-67.0) at study enrollment. Enrollment rate was 87%, and 85% of participants completed baseline and end-of-study assessments. The mean percentage of exercise sessions completed was 86.6%; NR compliance was&#xa0;>&#xa0;90%. There were no severe adverse events attributable to study interventions. Secondary endpoints were not significantly different between study arms at study completion. Myostatin decrease was observed in participants who completed a higher median number of exercise sessions and was associated with decreased intramuscular adipose tissue and increased lower extremity muscle cross-sectional area. A telehealth exercise intervention&#xa0;&#xb1;&#xa0;NR supplementation was feasible in CCS with prediabetes. Future studies in larger cohorts may be needed to evaluate their beneficial effects on muscle health and DM risk among CCS.
+In our previous studies, we investigated the right-left asymmetry (RLA) of cerebral tissue oxygenation (StO) at rest in humans and the influence of the individual chronotype (i.e. individual chronobiological disposition) on StO. The aim of the current study was to investigate (i) whether the RLA exists during a cognitive task and coloured light exposure (CLE), and (ii) how changes in StOinduced by CLE and cognitive performance during a 2-back task are related to the subject's chronotype. 36 healthy subjects (22 female, 14 male, age 26.3 &#xb1; 5.7 years) were studied twice on two different days. They were exposed to a sequence of blue followed by red light or vice versa in a randomised crossover study design. During CLE, subjects were asked to perform a 2-back task. We measured StOof the right and left prefrontal cortex (PFC) as well as the right and left visual cortex with functional near-infrared spectroscopy (fNIRS). At the behavioural level, we recorded the number of correct and incorrect answers given by the subjects. The chronotype was determined with the Horne and &#xd6;stberg morningness-eveningness questionnaire. (i) We found that the blue and red light caused a RLA in the PFC. For red light exposure, the 2-back performance was negatively correlated with StOin the right PFC (r&#xa0;=&#xa0;-0.283, p&#xa0;=&#xa0;0.016), and for blue light, exposure in the left PFC (r&#xa0;=&#xa0;-0.326, p&#xa0;=&#xa0;0.005). (ii) 83% of subjects who performed the 2-back task at their optimal time of day according to their chronotype showed increased and higher changes in StO(&#x394;StO&#xa0;>&#xa0;1%) compared to subjects who did not exercise at their optimal time of day. (iii) No correlation was found between chronotype and 2-back task performance (red: p&#xa0;=&#xa0;0.38; blue: p&#xa0;=&#xa0;0.42). We found for the first time that blue and red light&#xa0;exposure target different regions of the PFC during performance of a 2-back task, which can be explained by the approach and withdrawal model. These results illustrate that studying the subregions (i.e. right, left, and even centre) of the cortex provides a better understanding of the CLE effects in the human brain. Our study also shows that individual chronotype plays an important role in the individual changes in StOinduced by CLE.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/pbc.31369
+- DOI: 10.1007/978-3-031-67458-7_12
 
 2. Keywords
-- Childhood cancer survivor
-- nicotinamide riboside
-- prediabetes
-- remote exercise
+- 2-back task
+- Cerebral tissue oxygenation
+- Chronotype
+- Coloured light exposure
+- Functional near-infrared spectroscopy
 
 3. Key Findings
-- Findings extraction requires manual review
+- (i) We found that the blue and red light caused a RLA in the PFC
+- (ii) 83% of subjects who performed the 2-back task at their optimal time of day according to their chronotype showed increased and higher changes in StO(&#x394;StO&#xa0;>&#xa0;1%) compared to subjects who did not exercise at their optimal time of day
+- (iii) No correlation was found between chronotype and 2-back task performance (red: p&#xa0;=&#xa0;0
+- We found for the first time that blue and red light&#xa0;exposure target different regions of the PFC during performance of a 2-back task, which can be explained by the approach and withdrawal model
 
 This study provides insights into:
-- Childhood cancer survivor assessment methods and outcomes
-- nicotinamide riboside assessment methods and outcomes
-- prediabetes assessment methods and outcomes
+- 2-back task assessment methods and outcomes
+- Cerebral tissue oxygenation assessment methods and outcomes
+- Chronotype assessment methods and outcomes

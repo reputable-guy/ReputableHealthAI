@@ -1,27 +1,20 @@
-Study Title: Effect of acupressure in the third eye point (EX-HN 3) on psychological distress, comfort and physiologic parameters among patients undergoing coronary angiography.
+Study Title: Altered blood parameters in "major depression" patients receiving repetitive transcranial magnetic stimulation (rTMS) therapy: a randomized case-control study.
 
 Study Summary:
-The present study aimed to investigate the effect of acupressure on comfort, anxiety, stress, depression, and vital signs in patients undergoing coronary angiography. This randomized clinical trial was conducted on patients who underwent coronary angiography in Tehran, Iran. Seventy patients were randomly assigned to the intervention and control groups. The intervention protocol consisted of 20 min of acupressure applied to the Yintang point, and standard medical care was applied to the control group. Depression, Anxiety, and Stress questionnaire (DASS-21), General Comfort Questionnaire (GCQ) questionnaires, and standard monitoring were used as data collection tools before and after intervention, as well as after angiography. Data were analyzed using an independent sample t-test, chi-squared, and analysis of variance of repeated measures in SPSS software, and the level of significance was set at 0.05. The results showed that before acupressure, there was no statistically significant difference between the two groups. Anxiety and stress scores and comfort levels decreased significantly after the intervention (p < 0.001), while no significant difference was observed in the depression score (p = 0.873). There was a significant decrease in the blood pressure, breathing rate, and heart rate in the intervention group. Acupressure can reduce the anxiety and stress of angiography candidates and make them more comfortable. It also reduces the blood pressure, breathing rate, and heart rate. Further studies at different pressure points and on a larger and more detailed scale are necessary.
+Major depressive disorder (MDD) is a debilitating illness that includes depressive mood. Repetitive Transcranial Magnetic Stimulation (rTMS) is a therapy method used in the treatment of MDD. The purpose of this study was to assess neurotrophic factors, and oxidative stress levels in MDD patients and evaluate the changes in these parameters as a result of rTMS therapy. Twenty-five patients with MDD and twenty-six healthy volunteers with the same demographic characteristics were included in the study. Brain-derived neurotrophic factors were measured photometrically with commercial kits. Oxidative stress parameters were measured by the photometric method. Oxidative stress index (OSI) and disulfide (DIS) levels were calculated with mathematical formulas. In this study, total antioxidant status (TAS), total thiol (TT), and native thiol (NT) antioxidant parameters and brain-derived neurotrophic factor (BDNF), glial cell line-derived neurotrophic factor (GDNF), and allopregnanolone (ALLO) levels were reduced in pre-rTMS with regard to the healthy control group; TOS, OSI, DIS, and S100 calcium-binding protein B (S100B) levels were increased statistically significantly (p&#x2009;<&#x2009;0.01). Moreover, owing to TMS treatment; TAS, TT, NT, BDNF, GDNF, and ALLO levels were increased compared to pre-rTMS, while DIS, TOS, OSI, and S100B levels were decreased significantly (p&#x2009;<&#x2009;0.01). The rTMS treatment reduces oxidative stress and restores thiol-disulfide balance in MDD patients. Additionally, rTMS modulates neurotrophic factors and neuroactive steroids, suggesting its potential as an antidepressant therapy. The changes in the biomarkers evaluated may help determine a more specific approach to treating MDD with rTMS therapy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.explore.2024.103021
+- DOI: 10.1038/s41398-024-02942-8
 
 2. Keywords
-- Acupressure
-- Anxiety
-- Comfort
-- Coronary angiography
-- Depression
-- Stress
+
 
 3. Key Findings
-- The results showed that before acupressure, there was no statistically significant difference between the two groups
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Acupressure assessment methods and outcomes
-- Anxiety assessment methods and outcomes
-- Comfort assessment methods and outcomes
+- General research methodology and outcomes

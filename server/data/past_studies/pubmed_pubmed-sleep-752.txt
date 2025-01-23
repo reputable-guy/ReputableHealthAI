@@ -1,26 +1,22 @@
-Study Title: Nature-based virtual reality intervention to manage stress in family caregivers of allogeneic hematopoietic stem cell transplant recipients: a two-phase pilot study protocol.
+Study Title: Exercise intervention in middle-aged and elderly individuals with insomnia improves sleep and restores connectivity in the motor network.
 
 Study Summary:
-Millions of family members and/or friends in the U.S. serve as unpaid caregivers for individuals with chronic conditions, such as cancer. Caregiving for someone undergoing an intense allogeneic hematopoietic stem cell transplant (HSCT) is particularly demanding, with accompanying physical and psychological stress. Increased stress and stress-related symptoms could make it difficult for caregivers to fulfill their roles and could negatively impact the health status and quality of life of themselves and the recipients. Virtual reality (VR) is a promising technology increasingly used for treatment and wellness in various medical settings. There is growing evidence that studies have reported the positive effects of the VR intervention in managing and reducing stress among diverse populations in various clinical scenarios; however, no published studies have focused on family caregivers of patients with cancer. The study aims to assess the feasibility and acceptability of a four-week nature-based VR intervention and to examine the effectiveness of the VR intervention on stress in HSCT caregivers. This study comprises two phases. Phase I of the study will be a single-arm pre-post design focused on assessing the feasibility and acceptability of the VR intervention. Phase II of the study will be a prospective randomized controlled group design to examine the effectiveness of the VR intervention on perceived stress. Adults (&#x2265; 18 years) who serve as primary caregivers for a person who will undergo an allogeneic HSCT will be recruited. Fifteen participants will be enrolled for Phase I and 94 participants for Phase II (Active VR arm N=47; Sham VR arm N=47). The nature-based immersive VR program contains 360&#xb0; high-definition videos of nature scenes along with nature sounds through a head-mounted display (HMD) for 20 minutes every day for four weeks. Primary outcome is perceived stress measured by the Perceived Stress Scale. Secondary/exploratory outcomes are stress-related symptoms (e.g., fatigue, sleep disturbance) and physiological biomarkers (e.g., cortisol, alpha-amylase). The importance and innovativeness of this study consist of using a first-of-its-kind, immersive VR technology to target stress and investigating the health outcomes assessed by validated objective biomarkers as well as self-report measures of the nature-based intervention in the caregiver population. ClinicalTrials.gov, identifier NCT05909202.
+Exercise is a potential treatment to improve sleep quality in middle-aged and elderly individuals. Understanding exercise-induced changes in functional plasticity of brain circuits that underlie improvements in sleep among middle-aged and older adults can inform treatment of sleep problems. The aim of the study is to identify the effects of a 12-week exercise program on sleep quality and brain functional connectivity in middle-aged and older adults with insomnia. The trial was registered with Chinese Clinical Trial Register (ChiCTR2000033652). We recruited 84 healthy sleepers and 85 individuals with insomnia. Participants with insomnia were assigned to receive either a 12-week exercise intervention or were placed in a 12-week waitlist control condition. Thirty-seven middle-aged and older adults in the exercise group and 30 in the waitlist group completed both baseline and week 12 assessments. We found that middle-aged and older adults with insomnia showed significantly worse sleep quality than healthy sleepers. At the brain circuit level, insomnia patients showed decreased connectivity in the widespread motor network. After exercise intervention, self-reported sleep was increased in the exercise group (P&#x2009;<&#x2009;0.001) compared to that in the waitlist group. We also found increased functional connectivity of the motor network with the cerebellum in the exercise group (P&#x2009;<&#x2009;0.001). Moreover, we observed significant correlations between improvement in subjective sleep indices and connectivity changes within the motor network. We highlight exercise-induced improvement in sleep quality and functional plasticity of the aging brain.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpsyt.2024.1295097
+- DOI: 10.1038/s41398-024-02875-2
 
 2. Keywords
-- biomarkers
-- caregivers
-- hematopoietic stem cell
-- stress
-- virtual reality
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- We found that middle-aged and older adults with insomnia showed significantly worse sleep quality than healthy sleepers
+- At the brain circuit level, insomnia patients showed decreased connectivity in the widespread motor network
+- We also found increased functional connectivity of the motor network with the cerebellum in the exercise group (P&#x2009;<&#x2009;0
 
 This study provides insights into:
-- biomarkers assessment methods and outcomes
-- caregivers assessment methods and outcomes
-- hematopoietic stem cell assessment methods and outcomes
+- General research methodology and outcomes

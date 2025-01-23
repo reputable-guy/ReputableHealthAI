@@ -1,27 +1,28 @@
-Study Title: Effect of the enhancing nutrition and antenatal infection treatment (ENAT) intervention on birth weight in Ethiopia: a cluster randomized controlled trial.
+Study Title: Latent class analysis identifies a promising combination of Supplemental Nutrition Assistance Program-Education interventions for improving student cardiorespiratory fitness.
 
 Study Summary:
-The Enhancing Nutrition and Antenatal Infection Treatment (ENAT) intervention was implemented in Ethiopia to improve newborn birth weight (BW) by strengthening the contents and quality of antenatal care (ANC), especially point-of-care testing for maternal infections. This study examined the effect of the ENAT intervention on birth weight. We conducted a cluster randomized controlled trial of 22 clusters (health centers), randomized equally between 11 intervention and 11 control clusters. This study enrolled and followed pregnant women from ANC booking to the end of pregnancy or loss to follow-up. The primary outcome was mean BW, and the incidence of low birth weight (LBW) was the secondary outcome. We presented univariate comparisons of outcomes between the intervention and control arms for mean BW and LBW. Multilevel analyses using random effects models were performed to adjust for clustering and individual-level covariates. We enrolled and followed up 4,868 and 4,821 pregnant women in the intervention and control arms, respectively, from March 2021-July 2022. During follow-up, 3445 pregnant women in the intervention and 3192 in the control delivered in the health centers, and BW measurements of their babies were recorded within 48&#xa0;h. The mean BW was 3,152&#xa0;g (standard deviation (SD)&#x2009;=&#x2009;339.8&#xa0;g) in the intervention and 3,044&#xa0;g (SD&#x2009;=&#x2009;353.8&#xa0;g) in the control arms (mean difference, 108&#xa0;g; 95% confidence interval (CI): 91.3-124.6; P&#x2009;=&#x2009;0.000). Adjusting for clustering and several covariates, the mean BW remained significantly higher in the intervention arm than in the control arm (adjusted &#xdf; coef., 114.3; p&#x2009;=&#x2009;0.011). The incidence of LBW was 4.7% and 7.3% in the intervention and control arms, respectively. The adjusted risk of LBW was significantly lower by 36% in the intervention arm than in the control arm (adjusted relative risk, 0.645; p&#x2009;=&#x2009;0.027). This study provided sufficient evidence of the effectiveness of the ENAT intervention in improving birth weight in the study population. The intervention demonstrated that an increase in birth weight can be attained by availing point-of-care testing, strengthening infection prevention, and maternal nutrition within the ANC platform of public health facilities in a low-income setting. Registered at Pan African Clinical Trial Registry (PACTR) database dated 09/05/2023, https://pactr.samrc.ac.za/TrialDisplay.aspx?TrialID=25493 . The unique identification number for the registry is PACTR202305694761480.
+To inform Supplemental Nutrition Assistance Program Education (SNAP-Ed) and other school-based interventions aiming to improve youth cardiorespiratory fitness, this study aimed to identify which SNAP-Ed school-based physical activity intervention combinations were associated with better student cardiorespiratory fitness. This study, utilizing cross-sectional secondary data, included 5th and 7th grade students who attended SNAP-Ed-eligible public schools in California (n&#xa0;=&#xa0;442,743 students; 4271 schools) and had complete 2016-17 state-mandated fitness test results. Latent class analysis was used to identify underlying school-based intervention combinations. Propensity score methods were used to ensure comparability of intervention and comparison schools, by calculating inverse probability weights. Multilevel models, using those inverse probability weights, assessed the associations between the identified intervention combinations and student cardiorespiratory fitness, as measured by VOmax. The models were adjusted for school-level variables (urbanicity, percent of students eligible for free- or reduced-price meals, total enrollment, and school type), child-level variables (age, gender, and race/ethnicity), and for clustering of students within schools. We found that students attending schools with interventions focusing on comprehensive policy changes along with improving opportunities for physical activity had, on average, 1.17&#xa0;mL/kg/min (95% CI: 0.72, 1.62) greater VOmax than students attending schools without any intervention. They also had statistically significantly greater VOmax compared to students attending schools with any other type of intervention combination. Our results suggest that comprehensive school-based physical activity interventions that include policy changes along with improving physical activity opportunities may be the most effective approach for improving fitness and may warrant prioritization in SNAP-Ed efforts.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1186/s12884-023-05912-y
+- DOI: 10.1016/j.ypmed.2023.107687
 
 2. Keywords
-- Antenatal care
-- Birth weight
-- CRCT
-- ENAT
-- Ethiopia
-- Point-of-care testing
+- CFHL
+- Fitness
+- Intervention combinations
+- Physical activity
+- SNAP-Ed
+- School wellness
+- VO(2)max
 
 3. Key Findings
-- The intervention demonstrated that an increase in birth weight can be attained by availing point-of-care testing, strengthening infection prevention, and maternal nutrition within the ANC platform of public health facilities in a low-income setting
+- We found that students attending schools with interventions focusing on comprehensive policy changes along with improving opportunities for physical activity had, on average, 1
 
 This study provides insights into:
-- Antenatal care assessment methods and outcomes
-- Birth weight assessment methods and outcomes
-- CRCT assessment methods and outcomes
+- CFHL assessment methods and outcomes
+- Fitness assessment methods and outcomes
+- Intervention combinations assessment methods and outcomes

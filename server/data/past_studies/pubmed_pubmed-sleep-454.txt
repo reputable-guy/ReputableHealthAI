@@ -1,20 +1,20 @@
-Study Title: Behavioral Intervention that Extends Sleep Duration Leads to Greater Self-Control in School-Aged Children.
+Study Title: Treatment of sleep apnoea early after myocardial infarction with adaptive servo-ventilation: a proof-of-concept randomised controlled trial.
 
 Study Summary:
-Short sleep and evening phase preference associate with impaired self-control, yet few studies have assessed the efficacy of sleep extension for improving this behavioral domain. Thus, this secondary analysis of a behavioral sleep intervention measured whether an intervention that enhanced children's sleep also affected self-control. Differences by chronotype were also explored. Sixty-seven children (8-11 yr), who reportedly slept <9.5 hr/d, were randomized to either a control or sleep intervention condition (i.e., 4-session behavioral intervention to enhance sleep by 1-1.5 hr/night). Chronotype was assessed using the Child Chronotype Questionnaire at baseline, and self-control was assessed using the Self-Control Rating Scale (SCRS, a caregiver report) at baseline and 8 weeks postrandomization. Total sleep time (TST) was measured using wrist actigraphy for 1 week at both baseline and 8 weeks postrandomization. Partial correlations and mixed-model ANOVAs were used for statistical analyses, with age as a covariate. At baseline, children with shorter TST (r = -0.29, p = 0.02) and an evening preference (r = 0.26, p = 0.049) were perceived as having lower self-control by their caregivers. Significant condition*time interaction effects were found for TST ( p < 0.001) and SCRS score ( p = 0.046): From baseline to follow-up, children randomized to the sleep intervention exhibited a significant increase in TST and were perceived as having greater self-control by their caregiver; children randomized to the control condition exhibited no change in TST or in SCRS score. The condition*chronotype*time interaction effect was not significant. A brief sleep intervention that enhanced TST also resulted in enhanced caregiver reported self-control in school-age children. Results add to the growing evidence for the importance of sleep health in children.
+Sleep disordered breathing (SDB) has been associated with less myocardial salvage and smaller infarct size reduction after acute myocardial infarction (AMI). The Treatment of sleep apnoea Early After Myocardial infarction with Adaptive Servo-Ventilation (TEAM-ASV I) trial investigated the effects of adding adaptive servo-ventilation (ASV) for SDB to standard therapy on the myocardial salvage index (MSI) and change in infarct size within 12&#x2009;weeks after AMI. In this multicentre, randomised, open-label trial, patients with AMI and successful percutaneous coronary intervention within 24&#x2009;h after symptom onset plus SDB (apnoea-hypopnoea index &#x2265;15&#x2009;events&#xb7;h) were randomised to standard medical therapy alone (control) or plus ASV (starting 3.6&#xb1;1.4&#x2009;days post-AMI). The primary outcome was the MSI at 12&#x2009;weeks post-AMI. Cardiac magnetic resonance (CMR) imaging was performed at &#x2264;5&#x2009;days and 12&#x2009;weeks after AMI. 76 individuals were enrolled from February 2014 to August 2020; 39 had complete CMR data for analysis of the primary end-point. The MSI was significantly higher in the ASVcontrol group (difference 14.6% (95% CI 0.14-29.1%); p=0.048). At 12&#x2009;weeks, absolute (6.6 (95% CI 4.8-8.5)2.8 (95% CI 0.9-4.8) % of left ventricular mass; p=0.003) and relative (44 (95% CI 30-57)21 (95% CI 6-35) % of baseline; p=0.013) reductions in infarct size were greater in the ASVcontrol group. No serious treatment-related adverse events occurred. Early treatment of SDB with ASV improved the MSI and decreased infarct size at 12&#x2009;weeks after AMI. Larger randomised trials are required to confirm these findings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/DBP.0000000000001303
+- DOI: 10.1183/13993003.02338-2023
 
 2. Keywords
 
 
 3. Key Findings
-- Significant condition*time interaction effects were found for TST ( p < 0
+- Findings extraction requires manual review
 
 This study provides insights into:
 - General research methodology and outcomes

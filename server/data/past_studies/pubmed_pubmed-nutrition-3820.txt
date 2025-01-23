@@ -1,29 +1,27 @@
-Study Title: Descriptive Analysis of Mental and Physical Wellness in Collegiate Dancers.
+Study Title: The gamification of nutrition labels to encourage healthier food selection in online grocery shopping: A randomized controlled trial.
 
 Study Summary:
-Understanding the physical and mental health of collegiate dancers is important for developing appropriate screening protocols and treatment interventions. This study aims to provide descriptive data on the overall health, injury burden, and well-being of a group of collegiate dancers, including the interactions between injury, nutrition, and mental health, to provide insight for wellness screening and interventions in collegiate dance programs. Members of the School of Dance at the University of Utah were sent an electronic general health survey. The survey included questions regarding medical history, family history, injuries, diet, sleep quality, symptoms of depression and anxiety, and history of eating disorders. Of the 231 dancers who received the survey, 198 responded (response rate&#x2009;=&#x2009;85.7%). Fifty 2% of respondents had an active injury. Symptoms of depression and anxiety were common (35.4%), and 37.4% of the dancers were interested in receiving mental health support. Symptoms of depression and anxiety had a significant association with both a history of injury and active injuries (&#x2009;=&#x2009;.033 and .039, respectively). History of eating disorder was also significantly associated with active injuries (&#x2009;=&#x2009;.005). The most commonly injured body area was ankle or foot (n&#x2009;=&#x2009;144, 72.7%), followed by lower leg or shin (n&#x2009;=&#x2009;76, 38.4%), and knee (n&#x2009;=&#x2009;61, 30.8%). Over a quarter of the dancers (n&#x2009;=&#x2009;54, 27.3%) reported having trouble sleeping, and 9.1% reported having a history of eating disorder. This study highlights the important interplay between mental health, sleep, nutrition, and injury. These results show that in a group of collegiate dancers, active injuries and mental health concerns are common, and that there are statistically significant associations between injury, nutrition, and mental health. These data provide insight into factors that affect dancer wellness and help inform future screening and intervention protocols for dance programs.
+Food purchase choices, one of the main determinants of food consumption, is highly influenced by food environments. Given the surge in online grocery shopping because of the COVID-19 pandemic, interventions in digital environments present more than ever an opportunity to improve the nutritional quality of food purchase choices. One such opportunity can be found in gamification. Participants (n&#xa0;=&#xa0;1228) shopped for 12 items from a shopping list on a simulated online grocery platform. We randomized them into four groups in a 2&#xa0;&#xd7;&#xa0;2 factorial design: presence vs. absence of gamification, and high vs. low budget. Participants in the gamification groups saw foods with 1 (least nutritious) to 5 (most nutritious) crown icons and a scoreboard with a tally of the number of crowns the participant collected. We estimated ordinary least squares and Poisson regression models to test the impact of the gamification and budget on the nutritional quality of the shopping basket. In the absence of gamification and low budget, participants collected 30.78 (95% CI [30.27; 31.29]) crowns. In the gamification and low budget condition, participants increased the nutritional quality of their shopping basket by collecting more crowns (B&#xa0;=&#xa0;4.15, 95% CI [3.55; 4.75], p&#xa0;<&#xa0;0.001). The budget amount ($50 vs. $30) did not alter the final shopping basket (B&#xa0;=&#xa0;0.45, 95% CI [-0.02; 1.18], p&#xa0;=&#xa0;0.057), nor moderated the gamification effect. Gamification increased the nutritional quality of the final shopping baskets and nine of 12 shopping list items in this hypothetical experiment. Gamifying nutrition labels may be an effective strategy to improve the nutritional quality of food choices in online grocery stores, but further research is needed.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1177/1089313X231178091
+- DOI: 10.1016/j.appet.2023.106610
 
 2. Keywords
-- anxiety
-- depression
-- disordered eating
-- eating disorders
-- illness
-- injury
-- mental health
-- sleep
+- Consumer behavior
+- Food choice
+- Gamification
+- Guiding stars
+- Nutrition
+- Online grocery shopping
 
 3. Key Findings
-- Findings extraction requires manual review
+- One such opportunity can be found in gamification
 
 This study provides insights into:
-- anxiety assessment methods and outcomes
-- depression assessment methods and outcomes
-- disordered eating assessment methods and outcomes
+- Consumer behavior assessment methods and outcomes
+- Food choice assessment methods and outcomes
+- Gamification assessment methods and outcomes

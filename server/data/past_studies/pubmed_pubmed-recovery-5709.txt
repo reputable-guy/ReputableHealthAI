@@ -1,27 +1,26 @@
-Study Title: Comparison of anaesthesia strategies on postoperative nausea and vomiting in laparoscopic sleeve gastrectomy: a randomised controlled trial.
+Study Title: Exercise responses to repeated cycle sprints with continuous and intermittent hypoxic exposure.
 
 Study Summary:
-Intra-operative anaesthesia management should be optimised to reduce the occurrence of postoperative nausea and vomiting in high-risk patients; however, a single intervention may not effectively reduce postoperative nausea and vomiting in such patients. This study assessed the effect of an optimised anaesthetic protocol versus a conventional one on postoperative nausea and vomiting in patients who underwent laparoscopic sleeve gastrectomy. A single-centre randomised trial was conducted at Peking University Shenzhen Hospital from June 2021 to December 2022. Among 168 patients who underwent laparoscopic sleeve gastrectomy, 116 qualified, and 103 completed the study with available data. Patients were categorized into the conventional group (received sevoflurane and standard fluids) and the optimised group (underwent propofol-based anaesthesia and was administered goal-directed fluids). The primary endpoints were postoperative nausea and vomiting incidence and severity within 24&#xa0;h. Postoperative nausea and vomiting assessment at 0-3&#xa0;h post-surgery revealed no significant differences between groups. However, at 3-24&#xa0;h, the optimised anaesthetic protocol group showed lower postoperative nausea and vomiting incidence and severity than those of the conventional group (P&#x2009;=&#x2009;0.005). In the conventional group, 20 (37.04%) patients experienced moderate-to-severe postoperative nausea and vomiting, compared to six (12.25%) patients in the optimised group (odds ratio&#x2009;=&#x2009;0.237; 95% CI&#x2009;=&#x2009;0.086, 0.656; P&#x2009;=&#x2009;0.006). No significant differences were noted in antiemetic treatment, moderate-to-severe pain incidence, anaesthesia recovery, post-anaesthetic care unit stay, or postoperative duration between the groups. While the total intra-operative infusion volumes were comparable, the optimised group had a significantly higher colloidal infusion volume (500 mL vs. 0 mL, P&#x2009;=&#x2009;0.014) than that of the conventional group. The incidence and severity of postoperative nausea and vomiting 3-24&#xa0;h postoperatively in patients who underwent laparoscopic sleeve gastrectomy were significantly lower with propofol-based total intravenous anaesthesia and goal-directed fluid therapy than with sevoflurane anaesthesia and traditional fluid management. Total intravenous anaesthesia is an effective multimodal antiemetic strategy for bariatric surgery. This trial was registered with the Chinese Clinical Trial Registry (ChiCTR-TRC- 2,100,046,534, registration date: 21 May 2021).
+We examine the impact of the acute manipulation of oxygen availability during discrete phases (active and passive) of a repeated-sprint cycling protocol on performance, physiological, and perceptual responses. On separate days, twelve trained males completed four sets of five 5-s 'all out' cycle sprints (25-s inter-sprint recovery and 5-min interset rest) in four randomized conditions: normobaric hypoxia (inspired oxygen fraction of 12.9%) applied continuously (C-HYP), intermittently during only the sets of sprints (I-HYP) or between-sets recovery periods (I-HYP), or not at all (C-NOR). Peak and mean power output, peripheral oxygen saturation, heart rate, blood lactate concentration, exercise-related sensations, and vastus lateralis muscle oxygenation using near-infrared spectroscopy were assessed. Peak and mean power output was &#x223c;4%-5% lower for C-HYP compared to C-NOR (P&#xa0;&#x2264;&#xa0;0.050) and I-HYP(P&#xa0;&#x2264;&#xa0;0.027). Peripheral oxygen saturation was lower during C-HYP and I-HYPcompared with C-NOR and I-HYPduring sets of sprints (&#x223c;83-85 vs. &#x223c;95%-97%; P&#xa0;<&#xa0;0.001), while lower values were obtained for C-HYP and I-HYPthan C-NOR and I-HYPduring between-sets rest period (&#x223c;84-85 vs. &#x223c;96%; P&#xa0;<&#xa0;0.001). Difficulty in breathing was &#x223c;21% higher for C-HYP than C-NOR (P&#xa0;=&#xa0;0.050). Ratings of perceived exertion (P&#xa0;=&#xa0;0.435), limb discomfort (P&#xa0;=&#xa0;0.416), heart rate (P&#xa0;=&#xa0;0.605), blood lactate concentration (P&#xa0;=&#xa0;0.976), and muscle oxygenation-derived variables (P&#xa0;=&#xa0;0.056 to 0.605) did not differ between conditions. In conclusion, the method of hypoxic exposure application (continuous vs. intermittent) affects mechanical performance, while internal demands remained essentially comparable during repeated cycle sprints.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12871-024-02577-8
+- DOI: 10.1002/ejsc.12146
 
 2. Keywords
-- Bariatric surgery
-- Goal-directed fluid therapy
-- Laparoscopic sleeve gastrectomy
-- Postoperative nausea and vomiting
-- Total intravenous anaesthesia
+- altitude training
+- environmental stress
+- hypoxia
+- internal load
+- repeated&#x2010;sprint ability
 
 3. Key Findings
-- Postoperative nausea and vomiting assessment at 0-3&#xa0;h post-surgery revealed no significant differences between groups
-- However, at 3-24&#xa0;h, the optimised anaesthetic protocol group showed lower postoperative nausea and vomiting incidence and severity than those of the conventional group (P&#x2009;=&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Bariatric surgery assessment methods and outcomes
-- Goal-directed fluid therapy assessment methods and outcomes
-- Laparoscopic sleeve gastrectomy assessment methods and outcomes
+- altitude training assessment methods and outcomes
+- environmental stress assessment methods and outcomes
+- hypoxia assessment methods and outcomes

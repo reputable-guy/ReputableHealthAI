@@ -1,24 +1,26 @@
-Study Title: Public health unit engagement in school mental health programs and adolescent mental health during the COVID-19 pandemic: COMPASS, 2018-2022.
+Study Title: Integrative Effects of Transcutaneous Electrical Acustimulation and Autonomic-Endocrine Mechanisms on Postprocedural Recovery in Patients With Endoscopic Retrograde Cholangio-Pancreatography.
 
 Study Summary:
-Public health unit (PHU) engagement in schools is important for promoting wellness in students. We aimed to investigate if PHU engagement with schools may have provided protection against the risk of depression and anxiety in students during the COVID-19 pandemic. We used longitudinal data from the Cannabis, Obesity, Mental health, Physical activity, Alcohol use, Smoking and Sedentary behaviour survey between the 2018/19 and 2020/21 academic years. Multilevel models were used to assess the association between PHU engagement with school mental health programs prior to the COVID-19 pandemic and depressive (Center for Epidemiologic Studies Depression scale Revised) and anxiety symptoms (Generalized Anxiety Disorder scale) during the COVID-19 pandemic. The sample included 23&#xa0;894 students across 104 secondary schools in British Columbia, Alberta, Ontario and Quebec. In confounder-adjusted models, PHU engagement before the pandemic was not associated with student depressive symptoms (B&#xa0;=&#xa0;-0.01, 95% CI&#xa0;=&#xa0;-0.04, 0.02), but was protective against anxiety symptoms (B&#xa0;=&#xa0;-0.03, -0.06, 0.001) during the COVID-19 pandemic. The results highlight that PHU engagement with mental health programming in schools was protective against anxiety for students during the COVID-19 pandemic. The findings support the importance of PHU engagement for improving student mental health and pandemic recovery.
+This study aimed to investigate the integrative effects and mechanisms of transcutaneous electrical acustimulation (TEA) on postprocedural recovery from endoscopic retrograde cholangio-pancreatography (ERCP). A total of 86 patients for elective ERCP were randomly ordered to receive TEA (n&#xa0;= 43) at acupoints PC6 and ST36 or Sham-TEA (n&#xa0;= 43) at sham points from 24 hours before ERCP (pre-ERCP) to 24 hours after ERCP (PE24). Scores of gastrointestinal (GI) motility-related symptoms and abdominal pain, gastric slow waves, and autonomic functions were recorded through the spectral analysis of heart rate variability; meanwhile, circulatory levels of inflammation cytokines of tumor necrosis factor-&#x3b1; (TNF-&#x3b1;) and interleukin (IL)-10 and GI hormones of motilin, ghrelin, cholecystokinin (CCK), and vasoactive intestinal peptide (VIP) were assessed by enzyme-linked immunosorbent assay. 1) TEA, but not Sham-TEA, decreased the post-ERCP GI motility-related symptom score (2.4&#xa0;&#xb1; 2.6 vs 7.9&#xa0;&#xb1; 4.6, p&#xa0;< 0.001) and abdominal pain score (0.5&#xa0;&#xb1; 0.7 vs 4.1&#xa0;&#xb1; 2.7, p&#xa0;< 0.001) at PE24, and decreased the post-ERCP hospital day by 20.0% (p &#xff1c;0.05 vs Sham-TEA); 2) TEA improved the average gastric percentage of normal slow waves and dominant frequency by 34.6% and 33.3% at PE24, respectively (both p&#xa0;< 0.001 vs Sham-TEA); 3) TEA, but not Sham-TEA, reversed the ERCP-induced increase of TNF-&#x3b1; but not IL-10 at PE24, reflected as a significantly lower level of TNF-&#x3b1; in the TEA group than in the Sham-TEA group (1.6&#xa0;&#xb1; 0.5 pg/mL vs 2.1&#xa0;&#xb1; 0.9 pg/mL, p &#xff1c; 0.01); 4) compared with Sham-TEA, TEA increased vagal activity by 37.5% (p &#xff1c; 0.001); and 5) TEA caused a significantly higher plasma level of ghrelin (1.5&#xa0;&#xb1; 0.8 ng/ml vs 1.1&#xa0;&#xb1; 0.7 ng/ml, p &#xff1c; 0.05) but not motilin, VIP, or CCK than did Sham-TEA at PE24. TEA at PC6 and ST36 accelerates the post-ERCP recovery, reflected as the improvement in GI motility and amelioration of abdominal pain, and suppression of the inflammatory cytokine TNF-&#x3b1; may mediate through both autonomic and ghrelin-related mechanisms.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1093/pubmed/fdae179
+- Publication Date: 2025
+- DOI: 10.1016/j.neurom.2024.06.503
 
 2. Keywords
-- COVID-19
-- mental health
-- public health
+- Autonomic function
+- endoscopic retrograde cholangio-pancreatography (ERCP)
+- gastrointestinal motility
+- ghrelin
+- transcutaneous electrical acustimulation
 
 3. Key Findings
-- In confounder-adjusted models, PHU engagement before the pandemic was not associated with student depressive symptoms (B&#xa0;=&#xa0;-0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 assessment methods and outcomes
-- mental health assessment methods and outcomes
-- public health assessment methods and outcomes
+- Autonomic function assessment methods and outcomes
+- endoscopic retrograde cholangio-pancreatography (ERCP) assessment methods and outcomes
+- gastrointestinal motility assessment methods and outcomes

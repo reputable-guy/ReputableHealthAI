@@ -1,25 +1,25 @@
-Study Title: Building Consensus on Domains of Wellness Using Finnish and International Expert Panels: A Delphi-Method Study.
+Study Title: Effects of overfeeding on the digestive efficiency, voluntary physical activity levels, and fecal characteristics and microbiota of adult cats.
 
 Study Summary:
-The paper investigates whether we can build consensus on wellness domains and create a more universal conceptual framework for wellness. A modified ranking type of Delphi method. Two separate panels consisting of 23 Finnish and 11 international experts. Panels were asked to rate the importance of 61 systematic review-based wellness domains and to eventually form a wellness model in both panels. The similarities between the resulting models were investigated and a new conceptual framework for wellness was created. The Finnish model included 8 themes and 20 domains, and the international model 5 themes and eleven domains. Eight of the eleven domains were an exact match for the Finnish model (namely mental health, cognitive health, exercise, nutrition, community, life satisfaction, meaningfulness, work-life balance). There were also 2 similar domains that could be found in both models (namely self-care and lifestyle habits, social networks). A new conceptual framework for wellness was created based on these ten domains. The lack of consensus on the wellness construct has made it difficult to find comparable measures that could assess and improve the level of wellness of individuals, organizations, and society. This study offers a conceptual framework that can be further validated and turned into a more universal measurement instrument.
+The incidence of feline obesity continues to rise despite it being a preventable disease. There are many risks and health perturbations associated with obesity, with several of those impacting a pet's quality of life, wellness, and longevity. Feline obesity is commonly studied, but most research has been focused on weight loss rather than weight gain. To our knowledge, feline studies have not examined the implications of overfeeding and weight gain on gastrointestinal transit time (GTT) nor the association it has with the fecal microbiota. Therefore, the objective of this study was to determine the effects of overfeeding and weight gain on apparent total tract digestibility (ATTD), GTT, blood hormones, serum metabolites, hematology, fecal microbiota populations, and voluntary physical activity of cats. Eleven lean adult spayed female cats [body weight (BW)&#x2005;=&#x2005;4.11&#x2005;&#xb1;&#x2005;0.43 kg; body condition score&#x2005;=&#x2005;5.41&#x2005;&#xb1;&#x2005;0.3; age&#x2005;=&#x2005;5.22&#x2005;&#xb1;&#x2005;0.03 y] were used in a longitudinal weight gain study. After a 2-wk baseline phase, cats were allowed to overeat for 18 wk. A commercially available complete and balanced diet was fed during the baseline phase to identify the intake needed to maintain BW. Cats were then fed the same diet ad libitum to induce weight gain. Fecal samples, blood samples, and voluntary physical activity data were collected at baseline (week 0) and 6, 12, and 18 wk after weight gain. Fecal samples were collected for microbiota analysis, determination of ATTD, and GTT measurement while blood samples were collected for serum chemistry, hematology, and insulin and leptin measurements. Microbiota data were evaluated using QIIME2. All other measures were evaluated statistically using the mixed models procedure of SAS using repeated measures analysis, with time effects being the focus. A P&#x2005;<&#x2005;0.05 was considered significant. The ATTD of dry matter (P&#x2005;=&#x2005;0.0061), organic matter (P&#x2005;=&#x2005;0.0130), crude protein (P&#x2005;<&#x2005;0.0001), fat (P&#x2005;=&#x2005;0.0002), and gross energy (P&#x2005;=&#x2005;0.0002), and GTT (P&#x2005;=&#x2005;0.0418) decreased with overfeeding and weight gain. Fecal bacterial alpha diversity measures were unchanged, but fecal bacterial beta diversity was impacted (P&#x2005;<&#x2005;0.05) with overfeeding and weight gain. The relative abundances of 16 bacterial genera, including Bifidobacterium, Collinsella, Erysipelatoclostridium were affected (P&#x2005;<&#x2005;0.05) by overfeeding and weight gain. In conclusion, overfeeding and subsequent weight gain reduced ATTD, reduced GTT, and caused changes to the fecal microbial community of adult cats.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/08901171231204147
+- DOI: 10.1093/jas/skad338
 
 2. Keywords
-- Delphi method
-- consensus study
-- wellbeing
-- wellness
+- 16S rRNA gene sequencing
+- feline microbiota
+- feline nutrition
+- feline obesity
 
 3. Key Findings
-- There were also 2 similar domains that could be found in both models (namely self-care and lifestyle habits, social networks)
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Delphi method assessment methods and outcomes
-- consensus study assessment methods and outcomes
-- wellbeing assessment methods and outcomes
+- 16S rRNA gene sequencing assessment methods and outcomes
+- feline microbiota assessment methods and outcomes
+- feline nutrition assessment methods and outcomes

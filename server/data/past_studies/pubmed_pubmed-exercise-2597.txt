@@ -1,20 +1,27 @@
-Study Title: Searching for the Scale-Able Weight Loss Intervention: Can One Size Fit All? Lessons to Be Learned from the EQUAL Trial.
+Study Title: Assessment of the Omius&#x2122; cooling headband effectiveness during a 70-min submaximal running effort followed by a 5-km time-trial in hot/humid conditions.
 
 Study Summary:
-Overweight and obesity affect 71.2% of adults in the United States, with cancer survivors not far behind at 70.3%. Subgroups such as those diagnosed with acute lymphoblastic leukemia (ALL) face even greater challenges. The Exercise and Quality Diet after Leukemia (EQUAL) trial sought to address weight management issues among ALL survivors by implementing a remotely delivered weight loss intervention, leveraging the previously proven Practice-based Opportunities for Weight Reduction (POWER) program. Despite a strong foundation and design, the EQUAL trial yielded null results. Key differences in study populations and intervention contexts between the EQUAL and POWER trials, such as the lack of primary care physician involvement in EQUAL, contributed to these outcomes. EQUAL's failure to meet its accrual target and poor adherence among participants highlighted challenges in engaging this unique population. Contrary to EQUAL's conclusions, evidence from other studies supports the efficacy of remote interventions for weight loss among cancer survivors. The lack of qualitative assessment among ALL survivors and key integration to inform intervention adaptations undermined EQUAL's impact. However, EQUAL's impressive retention rate offers valuable insights. Lessons from EQUAL underscore the need for well-fitted, remotely delivered interventions and the importance of thoughtfully adapted and tailored approaches to specific survivor populations. See related article by Fiedmann et al., p. 1158.
+Exercise performed under hot/humid conditions can hinder endurance performance. The Omius&#x2122; headband (OH) is purported to reduce the perception of heat and improve performance. We examined the impact of OH on selected thermal and cardiovascular functions, subjective perceptions and running performance. Using a randomized crossover protocol, 10 trained male athletes (28&#xa0;&#xb1;&#xa0;4 years) completed two trials (OH and sham headband (SH), 35.0&#xa0;&#xb1;&#xa0;0.3&#xa0;&#xb0;C, 56&#xa0;&#xb1;&#xa0;3% relative humidity) comprising 70&#xa0;min of running (60% V&#x2d9;O) followed by a 5-km running time-trial (TT). Heart rate, perceived exertion and whole-body thermal comfort did not significantly differ between conditions during the submaximal running effort and TT. Rectal temperature was higher with OH (0.11&#xa0;&#xb1;&#xa0;0.16&#xa0;&#xb0;C, p&#xa0;=&#xa0;0.052) than SH prior to the submaximal running effort, however, no significant differences were observed between conditions regarding the changes in rectal temperature from baseline during the submaximal running effort and TT. Forehead temperature was significantly lower with OH than SH during the submaximal running effort, but no significant differences were observed at the end of the TT. Scores of perceived forehead thermal comfort were only significantly lower with OH than SH during the submaximal running effort. TT performance did not significantly differ between OH (19.8&#xa0;&#xb1;&#xa0;1.2&#xa0;min) and SH (20.2&#xa0;&#xb1;&#xa0;1.0&#xa0;min). In conclusion, OH improves forehead thermal comfort and reduces forehead temperature but not rectal temperature, heart rate and perceived exertion during, nor 5-km TT performance following, 70&#xa0;min of submaximal running in the heat.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1158/1055-9965.EPI-24-0735
+- DOI: 10.1016/j.jtherbio.2024.103964
 
 2. Keywords
-
+- Cooling
+- Heat
+- Performance
+- Running
+- Thermoregulation
+- per-cooling
 
 3. Key Findings
-- Despite a strong foundation and design, the EQUAL trial yielded null results
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Cooling assessment methods and outcomes
+- Heat assessment methods and outcomes
+- Performance assessment methods and outcomes

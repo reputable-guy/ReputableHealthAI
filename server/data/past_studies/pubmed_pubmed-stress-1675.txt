@@ -1,27 +1,27 @@
-Study Title: Effects of increased nitrate intake from beetroot juice on blood markers of oxidative stress and inflammation in older adults with hypertension.
+Study Title: Effect of N-acetyl cysteine in children with metabolic dysfunction-associated steatotic liver disease-A pilot study.
 
 Study Summary:
-Vascular oxidative stress and low-grade inflammation are important in the pathology of cardiovascular disorders, including hypertension. Cell culture and animal studies suggest that inorganic dietary nitrate may attenuate oxidative stress and inflammation through nitric oxide (NO), and there is a need to investigate whether this translates to humans. In this randomised, placebo-controlled crossover study, by measuring a combination of multiple blood biomarkers, we evaluated whether previously reported benefits of dietary nitrate translate to a reduced oxidative stress and an improved inflammation status in 15 men and women (age range: 56-71 years) with treated hypertension. We investigated the effects of a single &#x223c;400&#xa0;mg-dose of nitrate at 3&#xa0;h post-ingestion (3H POST) and the daily consumption of 2&#xa0;&#xd7;&#xa0;&#x223c;400&#xa0;mg of nitrate over 4 weeks (4WK POST), through nitrate-rich versus nitrate-depleted (placebo) beetroot juice. Measurements included plasma nitrate and nitrite (NOx), oxidised low-density lipoprotein (oxLDL), F-isoprostanes, protein carbonyls, oxidised (GSSG) and reduced glutathione (GSH); and serum high-sensitive C-reactive protein (hsCRP), chemokines, cytokines, and adhesion molecules. Flow cytometry was used to assess the relative proportion of blood monocyte subsets. At 4WK POST nitrate intervention, the oxLDL/NOx ratio decreased (mainly due to increases in plasma nitrate and nitrite) and the GSH/GSSG ratio (a sensitive biomarker for alterations in the redox status) increased, compared with placebo (for both ratios P&#xa0;<&#xa0;0.01). The relative proportion of classical (CD14CD16) monocytes decreased at 4WK POST for placebo compared to nitrate intervention (P&#xa0;<&#xa0;0.05). Other oxidative stress and inflammatory markers were not altered by increased nitrate intake relative to placebo. The data from this study point toward a subtle alteration in the redox balance toward a less pro-oxidative profile by a regular intake of inorganic nitrate from plant foods. NCT04584372 (ClinicialTrials.gov).
+Prevalence of metabolic dysfunction-associated steatotic liver disease (MASLD), previously known as nonalcoholic fatty liver disease (NAFLD), and its sequelae of more severe forms such as metabolic dysfunction-associated steatohepatitis (MASH) is rapidly increasing in children with the rise in obesity. Successful and sustainable treatments for MASLD are lacking in children. We determined the therapeutic effect of N-acetyl cysteine (NAC) on biomarkers of oxidative stress, inflammation and insulin resistance (IR), liver enzymes, liver fat fraction (LFF) and liver stiffness (LS) in children with obesity and biopsy-confirmed MASLD. Thirteen children (n&#x2009;=&#x2009;13; age: 13.6&#x2009;&#xb1;&#x2009;2.8 years; NAS score >2) underwent a double-blind, placebo-controlled trial of NAC (either 600 or 1200&#x2009;mg NAC/day) or placebo for 16 weeks. Measurements included LFF (magnetic resonance imaging), LS (ultrasound elastography), and body composition. Erythrocyte glutathione (GSH), liver enzymes, insulin, glucose, adiponectin, high-sensitivity c-reactive protein (hs-CRP), and interleukin-6 (IL-6) were also measured. homeostasis model assessment for insulin resistance (HOMA-IR) was calculated. Sixteen-week NAC treatment improved (baseline adjusted between-group p&#x2009;<&#x2009;.05 for all) markers of inflammation (IL-6 and hs-CRP), oxidative stress (GSH), and IR (HOMA-IR) and reduced liver enzymes, LFF and LS. Body weight and body composition did not show beneficial changes. Sixteen-week NAC treatment was well tolerated in children with obesity and MASLD and led to improvements in oxidative stress, inflammation and IR and liver outcomes. The results from this pilot study support further investigation of NAC as a therapeutic agent in children with MASLD.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.freeradbiomed.2024.07.004
+- DOI: 10.1002/jpn3.12312
 
 2. Keywords
-- Cardiovascular health
-- Inorganic nitrate-nitrite-nitric oxide (NO)-Pathway
-- Low-grade inflammation
-- Plant foods
-- Vascular aging
-- Vascular oxidative stress
+- inflammation
+- insulin resistance
+- liver fat
+- liver fibrosis
+- obesity
+- oxidative stress
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Cardiovascular health assessment methods and outcomes
-- Inorganic nitrate-nitrite-nitric oxide (NO)-Pathway assessment methods and outcomes
-- Low-grade inflammation assessment methods and outcomes
+- inflammation assessment methods and outcomes
+- insulin resistance assessment methods and outcomes
+- liver fat assessment methods and outcomes

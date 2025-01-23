@@ -1,26 +1,31 @@
-Study Title: Napping and heart rate variability in elite athletes.
+Study Title: Novel biomarkers derived from the Maintenance of Wakefulness Test as predictors of sleepiness and response to treatment.
 
 Study Summary:
-Sleep and autonomic nervous system (ANS) influence each other in a bidirectional fashion. Importantly, it has been proposed that sleep has a beneficial regulatory influence over cardiovascular activity, which is mostly controlled by autonomic regulation through the activity of sympathetic and parasympathetic pathways of the ANS. A well-established method to non-invasively assess cardiac autonomic activity is heart rate variability (HRV) analysis. We aimed to investigate the effect of a 40-min nap opportunity on HRV. Twelve professional basketball players randomly accomplished two conditions: 40-min nap (NAP) and control (CON). Nocturnal sleep and naps were monitored by actigraphic recording and sleep diaries. Total sleep time (TST), time in bed (TIB), sleep efficiency (SE), sleep onset latency (SOL), and wake after sleep onset (WASO) were analyzed. HRV was analyzed in 5-min segments during quiet wake before and after each condition with controlled breathing. Were analysed high (HF) and low frequency (LF) bands, the standard deviation of NN interval (SDNN), HRV index and stress index (SI). Wellness Hooper index and Epworth Sleepiness Scale (ESS) were assessed before and after both conditions. There was no significant difference in TIB, TST, SE, WASO, and VAS between NAP and CON. A significant increase in SDNN, HRV index, and LF and a significant decrease in HF, SI, ESS, and Hooper's stress and fatigue scores were observed from pre- to post-nap. In conclusion, napping reduces sleepiness, stress and fatigue, and might provide an advantage by preparing the body for a much-required sympathetic comeback following peaceful rest.
+The Maintenance of Wakefulness Test (MWT) is a widely accepted objective test used to evaluate daytime somnolence and is commonly used in clinical studies evaluating novel therapeutics for excessive daytime sleepiness. In the latter, sleep onset latency (SOL) is typically the sole MWT endpoint. Here, we explored microsleeps, sleep probability measures derived from automated sleep scoring, and quantitative electroencephalography (qEEG) features as additional MWT biomarkers of daytime sleepiness, using data from a phase 1B trial of the selective orexin receptor 2 agonist danavorexton (TAK-925) in people with narcolepsy type 1 (NT1) or type 2 (NT2). Danavorexton treatment reduced the rate and duration of microsleeps during the MWT in NT1 (days 1 and 7; p&#x2005;&#x2264;&#x2005;.005) and microsleep rate in NT2 (days 1 and 7; p&#x2005;<&#x2005;.0001). The use of an EEG-sleep-staging&#x2005;-&#x2005;derived measure to determine the probability of wakefulness for each minute revealed a novel metric to track changes in daytime sleepiness, which were consistent with the &#x3b8;/&#x3b1; ratio, a known biomarker of drowsiness. The slopes of line-fits to both the log-transformed sleepiness score or log-transformed &#x3b8;/&#x3b1; ratio correlated well to (inverse) MWT SOL for NT1 (R&#x2005;=&#x2005;0.93 and R&#x2005;=&#x2005;0.83, respectively) and NT2 (R&#x2005;=&#x2005;0.97 and R&#x2005;=&#x2005;0.84, respectively), suggesting that individuals with narcolepsy have increased sleepiness immediately after lights-off. These analyses demonstrate that novel EEG-based biomarkers can augment SOL as predictors of sleepiness and its response to treatment and provide a novel framework for the analysis of wake EEG in hypersomnia disorders.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.5114/biolsport.2024.132983
+- DOI: 10.1093/sleep/zsae148
 
 2. Keywords
-- Athletes
-- Autonomic Nervous System
-- Basketball
-- Heart rate
-- Sleep
+- MWT
+- TAK-925
+- danavorexton
+- excessive daytime sleepiness
+- hypnodensity
+- maintenance of wakefulness
+- narcolepsy
+- orexin
+- qEEG
+- sleep onset latency
 
 3. Key Findings
-- Findings extraction requires manual review
+- The use of an EEG-sleep-staging&#x2005;-&#x2005;derived measure to determine the probability of wakefulness for each minute revealed a novel metric to track changes in daytime sleepiness, which were consistent with the &#x3b8;/&#x3b1; ratio, a known biomarker of drowsiness
 
 This study provides insights into:
-- Athletes assessment methods and outcomes
-- Autonomic Nervous System assessment methods and outcomes
-- Basketball assessment methods and outcomes
+- MWT assessment methods and outcomes
+- TAK-925 assessment methods and outcomes
+- danavorexton assessment methods and outcomes

@@ -1,26 +1,28 @@
-Study Title: Why did peri-pandemic suicide death rates decrease among non-Hispanic white people while increasing among most people of color?
+Study Title: An online self-study mindfulness-based stress reduction course for people suffering from mental fatigue after an acquired brain injury.
 
 Study Summary:
-While suicides in the United States decreased during the COVID-19 pandemic, statistically significant decreases have been limited to White people throughout a large portion of 2020. This paper outlines possible explanations for racial/ethnic differences in suicidality in the early pandemic phases. We propose both distal (i.e., tele-mental health usage, internet and technology access, employment protections, and economic security) and proximal (cultural beliefs, coping strategies, clustering, pulling together, and embracing life) factors that may have helped build and foster community and mental wellness. However, this paper argues these factors did not extend, or did not extend as much, to many communities of color. We argue that these disparities are due to the myriad effects of discrimination and systemic racism, encapsulated broadly by the minority stress theory, and provide suggestions for relief and research.
+The Mindfulness-Based Stress Reduction (MBSR) program has shown promising results for people suffering from mental fatigue after an acquired brain injury. The aim was to evaluate the feasibility of a MBSR program performed as an online self-study course for this group of people. Sixty participants who had suffered an acquired brain injury with lasting mental fatigue were randomized to an online MBSR course or to a waitlist control group. They answered self-report questionnaires before start and after the course. Sixteen completed the MBSR program. With the repeated ANOVA no significant difference between groups was found, although there was a significant change in time (the repetition factor). The post-hoc paired t-test indicated a significant reduction and a large-to-median effect size in mental fatigue (&#x2009;=&#x2009;0.003, d&#x2009;=&#x2009;0.896), depression (&#x2009;=&#x2009;0.038, d&#x2009;=&#x2009;0.569) and anxiety (&#x2009;=&#x2009;0.030, d&#x2009;=&#x2009;0.598) for the MBSR group. No significant changes were found for the control group. An online self-study MBSR program for people suffering from mental fatigue after an acquired brain injury can be a feasible option for those suffering from less severe mental fatigue and emotional symptoms, while others may require a program adapted to their needs.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/sltb.13088
+- DOI: 10.1080/02699052.2024.2347545
 
 2. Keywords
-- COVID&#x2010;19
-- people of color
-- race
-- suicide
-- suicide attempts
+- MBSR
+- acquired brain injury
+- depression
+- mental fatigue
+- mindfulness
 
 3. Key Findings
-- Findings extraction requires manual review
+- With the repeated ANOVA no significant difference between groups was found, although there was a significant change in time (the repetition factor)
+- The post-hoc paired t-test indicated a significant reduction and a large-to-median effect size in mental fatigue (&#x2009;=&#x2009;0
+- No significant changes were found for the control group
 
 This study provides insights into:
-- COVID&#x2010;19 assessment methods and outcomes
-- people of color assessment methods and outcomes
-- race assessment methods and outcomes
+- MBSR assessment methods and outcomes
+- acquired brain injury assessment methods and outcomes
+- depression assessment methods and outcomes

@@ -1,27 +1,28 @@
-Study Title: High-intensity intermittent exercise increases serum levels of chitinase 3-like protein-1 and matrix metalloproteinase-9 in persons with multiple sclerosis.
+Study Title: Impacts of subjective cognitive decline and mild cognitive impairment on the effectiveness of an exercise intervention among community-dwelling (Pre)frail older adults.
 
 Study Summary:
-The study aimed to evaluate the effect of high-intensity intermittent exercise (HIIE) on serum levels of MMP-9 and CHI3L1 in multiple sclerosis. Study group received HIIE twice a week for 12&#xa0;weeks, while control group received no treatment. In intra-group comparison, study group showed a significant increase in MMP-9 and CHI3L1 levels, while control group showed no significant difference. In intergroup comparison, a significant difference was found only in CHI3L1 levels after treatment. The increase in MMP-9 and CH3L-1 concentrations in study group suggests that these biomarkers may play a role in regulating specific skeletal muscle adaptations due to HIIE.
+Subjective cognitive decline (SCD) is prevalent in community-dwelling (pre)frail older adults. This study aimed to investigate whether baseline subjective cognitive decline (SCD) and mild cognitive impairment (MCI) impacted the effectiveness of an exercise intervention among (pre)frail older adults. This is a post hoc analysis of a stepped-wedge cluster randomized trial among (pre)frail older adults across six communities. The intervention effectiveness was examined among (pre)frail older people among subgroups with normal cognition (n&#xa0;=&#xa0;44), SCD (n&#xa0;=&#xa0;58), or MCI (n&#xa0;=&#xa0;30). The normal cognition group had both immediate and persistent treatment responses to most outcomes. The SCD group showed positive responses to frailty (0-, 12-, 24 week), ambulation and dynamic balance (0-week), and depressive symptoms (12-week). The MCI group exhibited immediate improvement in frailty, cognition, depressive symptoms, social support and QoL, which persisted only in frailty status, social support and mental QoL at follow-ups. The MCI group showed superior immediate responses to cognitive function and depressive symptoms compared to another two subgroups. No differences were found between the normal cognition and SCD groups except for cognitive status (12-week). (Pre)frail people with SCD or MCI had fewer improved outcomes compared to those with normal cognition regardless of immediate or persistent improvements. The incorporation of cognitive strategies with exercise interventions are recommended among (pre)frail older adults with SCD or MCI.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jneuroim.2024.578434
+- DOI: 10.1016/j.jpsychires.2024.08.029
 
 2. Keywords
-- Biomarker
-- CHI3L1
-- High-intensity interval exercise
-- MMP-9
-- Multiple sclerosis
+- Exercise intervention
+- Frailty
+- Mild cognitive impairment
+- Stepped-wedge cluster randomized trial
+- Subjective cognitive decline
 
 3. Key Findings
-- In intra-group comparison, study group showed a significant increase in MMP-9 and CHI3L1 levels, while control group showed no significant difference
-- In intergroup comparison, a significant difference was found only in CHI3L1 levels after treatment
+- The SCD group showed positive responses to frailty (0-, 12-, 24 week), ambulation and dynamic balance (0-week), and depressive symptoms (12-week)
+- The MCI group showed superior immediate responses to cognitive function and depressive symptoms compared to another two subgroups
+- No differences were found between the normal cognition and SCD groups except for cognitive status (12-week)
 
 This study provides insights into:
-- Biomarker assessment methods and outcomes
-- CHI3L1 assessment methods and outcomes
-- High-intensity interval exercise assessment methods and outcomes
+- Exercise intervention assessment methods and outcomes
+- Frailty assessment methods and outcomes
+- Mild cognitive impairment assessment methods and outcomes

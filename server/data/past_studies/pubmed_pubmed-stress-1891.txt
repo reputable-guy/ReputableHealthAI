@@ -1,26 +1,26 @@
-Study Title: Oral beta-hydroxybutyrate alleviates COVID-19 related acute respiratory distress syndrome: A randomized, single-blind, placebo-controlled trial.
+Study Title: Eccentric muscle-damaging exercise in the heat lowers cellular stress prior to and immediately following future exertional heat&#xa0;exposure.
 
 Study Summary:
-Acute respiratory distress syndrome (ARDS) is a lung complication of COVID-19 that requires intensive care and ventilation. Beta-hydroxybutyrate (BHB) is a ketone body that can modulate metabolism and inflammation in immune cells and lung tissues. We hypothesized that oral BHB could alleviate COVID-19 related ARDS by reducing pro-inflammatory cytokines and increasing anti-inflammatory cytokines. We randomized 75 patients with mild (as per Berlin criteria) ARDS symptoms to receive oral 25&#xa0;g twice daily or placebo for five days. The primary outcome was the change in pro-inflammatory cytokines (Interleukin-1&#x3b2;, Interleukin-6, interleukin-18, tumour necrosis factor-alpha) and anti-inflammatory cytokine (interleukin-10) from baseline to day 5. The secondary outcomes were the change in BHB levels from baseline to day 5, the number of hospitalization days, and the occurrence of adverse events. Treatment with formulated BHB resulted in a significant decrease in pro-inflammatory cytokines; Interleukin-1&#x3b2; (p&#xa0;=&#xa0;0.0204), Interleukin-6 (p&#xa0;=&#xa0;0.0309), interleukin-18 (p&#xa0;=&#xa0;0.0116), tumour necrosis factor-alpha (p&#xa0;=&#xa0;0.0489) and increase in interleukin-10 (p&#xa0;=&#xa0;0.0246) compared treatment with placebo. Importantly, higher BHB levels (p&#xa0;=&#xa0;0.0001) were observed after supplementation; additionally, patients who underwent this approach were hospitalized for fewer days. No serious adverse events were reported. Beta-hydroxybutyrate, an oral adjunct therapy, has shown promising results in ameliorating symptoms of ARDS. This includes reduced inflammation, oxidative stress, and decreased patient fatigue levels. Further study with a large sample size is warranted to assess the potential of BHB therapy's effectiveness in reducing the development of severe illness. (http://ctri.nic.in/CTRI/2021/03/031790).
+Muscle-damaging exercise (e.g., downhill running [DHR]) or heat exposure bouts potentially reduce physiological and/or cellular stress during future exertional heat exposure; however, the true extent of their combined preconditioning effects is unknown. Therefore, this study investigated the effect of muscle-damaging exercise in the heat on reducing physiological and cellular stress during future exertional heat exposure. Ten healthy males (mean&#xa0;&#xb1;&#xa0;Standard Definition; age, 23&#xa0;&#xb1;&#xa0;3&#xa0;years; body mass, 78.7&#xa0;&#xb1;&#xa0;11.5&#xa0;kg; height, 176.9&#xa0;&#xb1;&#xa0;4.7&#xa0;cm) completed this study. Participants were randomly assigned into two preconditioning groups: (a) DHR in the heat (ambient temperature [T], 35&#xa0;&#xb0;C; relative humidity [RH], 40%)&#xa0;and (b) DHR in thermoneutral (T, 20&#xa0;&#xb0;C; RH, 20%). Seven days following DHR, participants performed a 45-min&#xa0;flat run in the heat (Flat[T, 35&#xa0;&#xb0;C; RH, 40%]). During exercise, heart rate and rectal temperature (T) were recorded at baseline and every 5-min. Peripheral blood mononuclear cells were isolated to assess heat shock protein 72 (Hsp72) concentration between conditions at baseline, immediately post-DHR, and immediately pre-Flatand post-Flat. Mean Tduring Flatbetween hot (38.23&#xa0;&#xb1;&#xa0;0.38&#xa0;&#xb0;C) and thermoneutral DHR (38.26&#xa0;&#xb1;&#xa0;0.38&#xa0;&#xb0;C) was not significantly different (P&#xa0;=&#xa0;0.68), with no mean heart rate differences during Flatbetween hot (172&#xa0;&#xb1;&#xa0;15&#xa0;beats&#xa0;min) and thermoneutral conditions (174&#xa0;&#xb1;&#xa0;8&#xa0;beats&#xa0;min; P&#xa0;=&#xa0;0.58). Hsp72 concentration change from baseline to immediately pre-Flatwas significantly lower in hot (-51.4%) compared to thermoneutral (+24.2%; P&#xa0;=&#xa0;0.025) DHR, with Hsp72 change from baseline to immediately post-Flatalso lower in hot (-52.6%) compared to thermoneutral conditions (+26.3%; P&#xa0;=&#xa0;0.047). A bout of muscle-damaging exercise in the heat reduces cellular stress levels prior to and immediately following future exertional heat exposure.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sapharm.2024.04.015
+- DOI: 10.1016/j.cstres.2024.05.001
 
 2. Keywords
-- Acute respiratory distress syndrome
-- Beta-hydroxybutyrate
-- Clinical trial
-- Cytokines
-- Inflammation
+- Downhill running
+- Heat shock protein 72
+- Heat shock response
+- Preconditioning
+- Thermotolerance
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Acute respiratory distress syndrome assessment methods and outcomes
-- Beta-hydroxybutyrate assessment methods and outcomes
-- Clinical trial assessment methods and outcomes
+- Downhill running assessment methods and outcomes
+- Heat shock protein 72 assessment methods and outcomes
+- Heat shock response assessment methods and outcomes

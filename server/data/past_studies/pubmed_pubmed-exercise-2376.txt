@@ -1,30 +1,27 @@
-Study Title: LEAP! Rx: A randomized trial of a pragmatic approach to lifestyle medicine.
+Study Title: ChatGPT-4 and wearable device assisted Intelligent Exercise Therapy for co-existing Sarcopenia and Osteoarthritis (GAISO): a feasibility study and design for a randomized controlled PROBE non-inferiority trial.
 
 Study Summary:
-Clinicians lack the tools to incorporate physical activity into clinical care for Alzheimer's disease prevention. We tested a 52-week exercise and health education program (Lifestyle Empowerment for Alzheimer's Prevention [LEAP! Rx]) that integrates clinician referrals and community-based fitness resources. We randomized 219 participants to the LEAP! Rx (ie, exercise and monthly brain health education) or a standard-of-care control group and tested the effects on cardiorespiratory fitness, insulin resistance, body composition, lipids, and cognitive performance. Physicians were able to connect their patients to a community lifestyle intervention. The intervention group increased in cardiorespiratory fitness at 12 and 52 weeks (p&#xa0;=&#xa0;0.005). We observed no effects on secondary measures. Participants meeting 80% of weekly goals (150 min, moderate to vigorous activity) saw greater fitness improvements than those with less than 80% (p&#xa0;<&#xa0;0.001). These results hold promise for broad implementation of exercise interventions into larger healthcare systems and have implications for improved research recruitment strategies. NCT No. NCT03253341. Our community-based exercise program increased cardiorespiratory fitness. Our digital physician referral method increased the diversity of the participant sample. Our findings have implications for personalized dementia risk reduction strategies.
+Sarcopenia and osteoarthritis are prevalent age-related diseases that mutually exacerbate each other, creating a vicious cycle that worsens both conditions. Exercise is key to breaking this detrimental cycle. Facing increasing demand for rehabilitation services within this patient demographic, ChatGPT-4 and wearable device may increase the availability, efficiency and personalization of such health care. To evaluate the clinical efficacy and cost-effectiveness of a rehabilitation system implemented on mobile platforms, utilizing the integration of ChatGPT-4 and wearable devices. The study design is a prospective randomized open blinded end-point (PROBE) non-inferiority trial. 278 patients diagnosed with osteoarthritis and sarcopenia will be recruited and randomly assigned to the intervention group and the control group. In the intervention group patients receive mobile phone-based rehabilitation service where ChatGPT-4 generates personalized exercise therapy, and wearable device guides and monitor the patient to implement the exercise therapy. Traditional clinic based face-to-face exercise therapy will be prescribed and implemented in the control group. All patients will receive three-months exercise therapies following the frequency, intensity, type, time, volume and progression (FITT-VP) principle. The patients will be assessed at baseline, one month, three months, and six months after initiation. Outcome measures will include ROM, gait patterns, Visual Analogue Scale (VAS) for pain assessment, Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), Knee Injury and Osteoarthritis Outcome Score (KOOS) for functional assessment, Short-Form Health Survey 12 (SF-12) for quality of life, Minimal Clinically Important Difference (MCID), Patient Acceptable Symptom State (PASS), and Substantial Clinical Benefit (SCB) for clinically significant measures. A rehabilitation system combining the capabilities of ChatGPT-4 and wearable devices potentially enhance the availability and efficiency of professional rehabilitation services, thus enhancing the therapeutic outcomes for a substantial population concurrently afflicted with sarcopenia and osteoarthritis.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/alz.14265
+- DOI: 10.1186/s13018-024-05134-8
 
 2. Keywords
-- cardiorespiratory fitness
-- exercise
-- exercise prescription
-- health care delivery
-- healthy lifestyle
-- intervention
-- physical activity
-- randomized controlled trial (RCT)
-- recruitment
+- Artificial intelligence
+- ChatGPT-4
+- Osteoarthritis
+- Rehabilitation
+- Sarcopenia
+- Wearable device
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- cardiorespiratory fitness assessment methods and outcomes
-- exercise assessment methods and outcomes
-- exercise prescription assessment methods and outcomes
+- Artificial intelligence assessment methods and outcomes
+- ChatGPT-4 assessment methods and outcomes
+- Osteoarthritis assessment methods and outcomes

@@ -1,26 +1,26 @@
-Study Title: Sleep disorder risk, perceived control over sleep, and mental health symptoms in paramedicine students.
+Study Title: The ethos brief index-validation of a brief questionnaire to evaluate wellness based on a holistic perspective in patients with restless legs syndrome.
 
 Study Summary:
-Paramedics commonly experience both poor sleep and mental health symptoms. Clarifying whether sleep or mental health symptoms are a challenge prior to commencement of employment is important, as early prevention and intervention initiatives during training could support these workers. Paramedicine students (n=53) were included, with sleep disorder screening (obstructive sleep apnea, insomnia and restless legs syndrome), and mental health outcomes (depressive symptoms: Patient Health Questionnaire-9, and anxiety symptoms: General Anxiety Disorder-7). Data were analysed using robust regression models, adjusted for age, sex, and shift work status. Meeting criteria for a sleep disorder (n=21) was associated with higher scores for anxiety (8.2 [95% CI: 5.9-10.5] v 4.6, [3.4-5.8]) and depressive symptoms (11.1 [8.6-13.6] v 4.4 [3.1-5.7)] compared to those who did not meet the criteria for a sleep disorder (n=32). Depressive symptoms were lower in those with perceived control over sleep (5.2 [3.2-7.2] v 9.8 [7.7-11.8]). There was no interaction between sleep disorder risk and perceived control over sleep on mental health symptoms. Investigation and management of factors contributing to low perceived control over sleep, together with early screening and management of sleep disorders, are likely to be important priorities to support paramedic student wellbeing prior to commencing shift work.
+The aim of this study was to validate the Ethos Brief Index (EBI) in patients with Restless Legs Syndrome (RLS). A cross-sectional design, including 788 subjects with RLS (65% women, 70.8 years, SD 11.3) from the Swedish RLS Association, was used. A postal survey was sent out to collect data regarding socio demographics, comorbidities, and RLS-related treatment data. Questionnaires included were EBI, the Restless Legs Syndrome-6 Scale (RLS-6), Restless Legs Syndrome-Quality of Life questionnaire (RLSQoL), the Insomnia Severity Index (ISI), and the Epworth Sleepiness Scale (ESS). The validity and reliability of the EBI were investigated using Rasch and confirmatory factor analysis (CFA) models. Measurement invariance, unidimensionality, and differential item functioning (DIF) across age and gender groups, as well as insomnia, daytime sleepiness, RLS-related QoL and RLS severity were assessed. The results supported the unidimensionality of the EBI in the CFA (i.e., explaining 61.5% of the variance) and the Rasch model. The reliability of the EBI was confirmed using composite reliability and Cronbach's alpha. No DIF was identified for gender, age, insomnia, daytime sleepiness, RLS severity or RLS-related QoL. The EBI showed good validity and reliability and operated equivalently for male and female patients with RLS. Accordingly, healthcare professionals can use the EBI as a psychometrically sound tool to explore and identify patient-centered problems related to the whole life situation.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2486/indhealth.2023-0135
+- DOI: 10.1007/s11325-024-03058-5
 
 2. Keywords
-- Cross-sectional study
-- Mental health
-- Paramedicine
-- Survey study
-- Wellness
+- Ethos
+- Reliability
+- Restless legs syndrome
+- Sleep
+- Validity
 
 3. Key Findings
-- Findings extraction requires manual review
+- The EBI showed good validity and reliability and operated equivalently for male and female patients with RLS
 
 This study provides insights into:
-- Cross-sectional study assessment methods and outcomes
-- Mental health assessment methods and outcomes
-- Paramedicine assessment methods and outcomes
+- Ethos assessment methods and outcomes
+- Reliability assessment methods and outcomes
+- Restless legs syndrome assessment methods and outcomes

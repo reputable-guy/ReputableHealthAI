@@ -1,20 +1,27 @@
-Study Title: Effect of high-dose &#x3b2;-Alanine supplementation on uphill cycling performance in World Tour cyclists: A randomised controlled trial.
+Study Title: Greater oxidation of dietary linoleate compared to palmitate in humans following an acute high-carbohydrate diet.
 
 Study Summary:
-Scientists and coaches seek effective ergogenic aids for performance improvement. Cyclists commonly use &#x3b2;-Alanine, which may enhance post-exercise recovery and physical performance. High-dose &#x3b2;-Alanine supplementation's impact on World Tour cyclists during a 7-day camp remains unstudied. This study aimed to analyse the effect of a high dose of &#x3b2;-alanine in World Tour cyclist during a 7-day camp. A double-blinded, randomised controlled trial was conducted. 11 cyclists were included in the final analysis: &#x3b2;-alanine supplementation (n = 5; VO2max: 67.6&#xb1;1.6 ml/kg/min) and a placebo group (n = 6; VO2max: 68.0&#xb1;2.4 ml/kg/min). The duration of the supplementation protocol was seven days with four daily intakes. The subjects commenced supplementation after the physical tests (immediately following the snack) and consumed the final intake after breakfast on the day of the final test (a total of 7 days and 3 additional doses, 31 servings in total; 5g per dosage; 155g the total cumulative amount). Before and after seven days of supplementation, the cyclists performed an uphill time trial. Blood lactate, heart rate and rating of perceived exertion were measured during test. &#x3b2;-alanine supplementation improved the relative mean power attained during the time-trial compared with the control group (Z = -2.008; p = 0.045; &#x394; = 0.060), as well as the time needed to complete this trial (Z = -2.373; p = 0.018). As for physiological and metabolic variables, no significant change was found. In conclusion, the present study supports the effectiveness of one-week high dose of &#x3b2;-alanine during a cycling training in World Tour cyclists to improve their uphill time-trial performance. In addition, it is important to highlight the potential role of &#x3b2;-alanine in improving recovery power. This aspect is particularly relevant in the context of a training camp, where fatigue levels can increase alongside training intensity. Trial registration: This study was registered in ClinicalTrials.gov: (identifier: NCT04427319).
+We have previously demonstrated that dietary saturated fatty acids (SFA), when compared to polyunsaturated fatty acids (PUFA), are preferentially partitioned into oxidation pathways. However, it remains unclear if this preferential handling is maintained when hepatocellular metabolism is shifted toward fatty acid (FA) esterification and away from oxidation, such as when hepatic de novo lipogenesis (DNL) is upregulated. To investigate whether an acute upregulation of hepatic DNL influences dietary FA partitioning into oxidation pathways. 20 healthy volunteers (11 females) underwent a fasting baseline visit followed by two study days, 2-weeks apart. Prior to each study day, participants consumed an isocaloric high-carbohydrate diet (to upregulate hepatic DNL) for 3-days. On the two study days, participants consumed an identical standardised test meal that contained either [UC]palmitate or [UC]linoleate, in random order, to trace the fate of dietary FA. Blood and breath samples were collected over a 6h postprandial period andC enrichment in breath COand plasma lipid fractions were measured using gas-chromatography-combustion-isotope ratio mass spectrometry. Compared to the baseline visit, fasting plasma triglyceride concentrations and markers of hepatic DNL, the lipogenic and stearyl-CoA desaturase indices, were significantly (p&#xa0;<&#xa0;0.05) increased after consumption of the high-carbohydrate diet. Appearance ofC in expired COand tracer recovery were significantly (p&#xa0;<&#xa0;0.05) higher after consumption of the meal containing [UC]linoleate compared to [UC]palmitate (5.1&#xa0;&#xb1;&#xa0;0.5% vs. 3.7&#xa0;&#xb1;&#xa0;0.4%), respectively. Incorporation ofC into the plasma triglyceride and non-esterified fatty acid pool was significantly (p&#xa0;<&#xa0;0.001) greater for [UC]palmitate compared to [UC]linoleate. Dietary PUFA compared to SFA appear to be preferentially partitioned into oxidation pathways during an acute upregulation of hepatic DNL, thus consumption of a PUFA-enriched diet may help mitigate intrahepatic triglyceride accumulation in individuals at risk of cardiometabolic disease.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0309404
+- DOI: 10.1016/j.clnu.2024.08.028
 
 2. Keywords
-
+- Dietary fat
+- Fatty acid oxidation
+- Hepatic
+- Human
+- Polyunsaturated fat
+- Saturated fat
 
 3. Key Findings
-- As for physiological and metabolic variables, no significant change was found
+- We have previously demonstrated that dietary saturated fatty acids (SFA), when compared to polyunsaturated fatty acids (PUFA), are preferentially partitioned into oxidation pathways
 
 This study provides insights into:
-- General research methodology and outcomes
+- Dietary fat assessment methods and outcomes
+- Fatty acid oxidation assessment methods and outcomes
+- Hepatic assessment methods and outcomes

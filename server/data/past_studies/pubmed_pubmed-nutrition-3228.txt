@@ -1,26 +1,28 @@
-Study Title: &#x3b2;-Alanine supplementation improves fractional anisotropy scores in the hippocampus and amygdala in 60-80-year-old men and women.
+Study Title: Examining the impact of differing caffeine dosages in conjunction with plyometric training on physiological adaptations in basketball players.
 
 Study Summary:
-Recently, &#x3b2;-alanine (BA) supplementation was shown to improve cognitive function in older adults with decreased cognitive function. Mechanisms supporting these improvements have not been well defined. This study examined the effects of 10-weeks of BA supplementation on changes in circulating brain inflammatory markers, brain derived neurotrophic factor (BDNF), and brain morphology. Twenty participants were initially randomized into BA (2.4&#xa0;g&#xb7;d) or placebo (PL) groups. At each testing session, participants provided a resting blood sample and completed the Montreal cognitive assessment (MoCA) test and magnetic resonance imaging, which included diffusion tensor imaging to assess brain tissue integrity. Only participants that scored at or below normal for the MoCA assessment were analyzed (6 BA and 4 PL). The Mann-Whitney U test was used to examine &#x394; (POST-PRE) differences between the groups. No differences in &#x394; scores were noted in any blood marker (BDNF, CRP, TNF-&#x3b1; and GFAP). Changes in fractional anisotropy scores were significantly greater for BA than PL in the right hippocampus (p&#xa0;=&#xa0;0.033) and the left amygdala (p&#xa0;=&#xa0;0.05). No other differences were noted. The results provide a potential mechanism of how BA supplementation may improve cognitive function as reflected by improved tissue integrity within the hippocampus and amygdala.
+The aim of the current study was to investigate the effects of ingesting different dosages of caffeine (CAF) prior to plyometric jump training (PJT) on sport-related performance and physiological parameters in male basketball players. Twenty-four young athletes were randomly divided into 3 groups and performed 6&#xa0;weeks of PJT while consuming 3&#xa0;mg&#xb7;kgof body mass caffeine (CAF3, n&#x2009;=&#x2009;8), 6&#xa0;mg&#xb7;kgbody mass caffeine (CAF6, n&#x2009;=&#x2009;8) or placebo (PL; n&#x2009;=&#x2009;8) one hour prior to each training session. Before and after the 6-week PJT, the players were evaluated for field-based basketball-specific performance measures (vertical jump, 20-m sprint, Illinois change of direction speed [CODS], and maximal strength) and lab-based physiological (aerobic capacity and anaerobic power) parameters. CAF3, CAF6, and PL groups demonstrated significant improvements in vertical jump (ES&#x2009;=&#x2009;1.07, 1.45, and 1.1, respectively), 20-m sprint (ES&#x2009;=&#x2009;- 0.50, - 0.61, and - 0.36), change of direction performance (ES&#x2009;=&#x2009;- 1.22, - 1.26, and - 1.09), maximal strength (ES&#x2009;=&#x2009;1.68, 2.29, and 1.17), maximum oxygen uptake (V&#x307;O) (ES&#x2009;=&#x2009;1.09, 1.59, and 0.92), and peak (ES&#x2009;=&#x2009;1.82, 1.85, and 0.82) and average power output (ES&#x2009;=&#x2009;1.39, 1.32, and 1.07) after 6&#xa0;weeks of training. Comparative analysis of individual adaptive responses to training indicated that the CAF6 led to insignificantly greater effects in vertical jump (ES&#x2009;=&#x2009;1.45), maximal strength (ES&#x2009;=&#x2009;2.29), and V&#x307;O(ES&#x2009;=&#x2009;1.59) with lower residuals in individual changes and lower coefficient of variations (CV) in mean group changes. Regarding sprint and CODS performance, both experimental groups indicated similar changes, residuals in individual changes, and CVs in mean group changes. Overall, consuming 6&#xa0;mg&#xb7;kgbody mass caffeine induces superior adaptations in aerobic fitness, anaerobic power, and sport-specific performance measures, with lower inter-individual variability in the adaptations and more homogenized changes over the training period.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.exger.2024.112513
+- DOI: 10.1038/s41598-024-66275-8
 
 2. Keywords
-- Aging
-- Carnosine
-- Cognition
-- Magnetic resonance imaging
-- Nutrition
+- Aerobic power
+- Anaerobic power
+- Power training
+- Sports nutrition
+- Team sport
 
 3. Key Findings
-- Findings extraction requires manual review
+- CAF3, CAF6, and PL groups demonstrated significant improvements in vertical jump (ES&#x2009;=&#x2009;1
+- Comparative analysis of individual adaptive responses to training indicated that the CAF6 led to insignificantly greater effects in vertical jump (ES&#x2009;=&#x2009;1
+- Regarding sprint and CODS performance, both experimental groups indicated similar changes, residuals in individual changes, and CVs in mean group changes
 
 This study provides insights into:
-- Aging assessment methods and outcomes
-- Carnosine assessment methods and outcomes
-- Cognition assessment methods and outcomes
+- Aerobic power assessment methods and outcomes
+- Anaerobic power assessment methods and outcomes
+- Power training assessment methods and outcomes

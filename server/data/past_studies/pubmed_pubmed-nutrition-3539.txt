@@ -1,28 +1,29 @@
-Study Title: Targeting persistent fatigue with tailored versus generic self-management strategies in adolescents and young adults with a fatigue syndrome or rheumatic condition: A randomized crossover trial.
+Study Title: Smartphone survey data reveal the timecourse of changes in mood outcomes following vitamin C or kiwifruit intervention in adults with low vitamin C.
 
 Study Summary:
-To evaluate the use of two self-management intervention strategies for persistent fatigue in adolescents and young adults with a fatigue syndrome or rheumatic condition. A randomized crossover trial administering tailored lifestyle advice and generic dietary advice, each 12&#x2009;weeks, with a four-week washout period between. Sixty participants (aged 12-29) were included. Tailoring was achieved through the PROfeel method. Dietary guidelines were conceptualized by the Netherlands Nutrition Centre. Questionnaires were used pre-post-interventions to measure primary outcome 'fatigue severity' (Checklist Individual Strength-8) and secondary outcomes 'self-efficacy' (Self-Efficacy Scale-28) and 'quality of life' (QoL) (Paediatric Quality of Life Inventory 4.0). Feasibility and adherence were self-rated on a scale of 1 to 10 (low to high). Linear mixed modelling was used to assess change over time, compare strategy effectiveness and study the impact of intervention order. Fatigue severity, self-efficacy and QoL regarding 'physical' and 'emotional' functioning improved significantly over time (all p&#x2009;<&#x2009;.015). The average improvement of the two QoL subscales was clinically relevant, as was the fatigue improvement in 20 out of 46 participants who completed the trial and 5 dropouts. The interventions were equally effective, and intervention order did not impact the improvement level (p&#x2009;=&#x2009;.242-.984). The self-management strategies received similar feasibility (M&#x2009;=&#x2009;6.45, SD&#x2009;=&#x2009;1.91) and adherence (M&#x2009;=&#x2009;7.67, SD&#x2009;=&#x2009;1.67) ratings. As small to clinically relevant improvements were observed, self-management strategies might be particularly useful to bridge waiting time for guided treatments such as Cognitive Behavioural Therapy.
+Vitamin C-rich foods can improve mood; however, the timecourse of these benefits is unknown. This study utilised intensive longitudinal smartphone surveys from a three-armed placebo-controlled trial to determine mood-related changes following supplementation with vitamin C (250 mg tablet/d), kiwifruit (2 SunGold&#x2122; kiwifruit/d) or a placebo (1 tablet/d). Secondary data were analysed from the KiwiC for Vitality trial (Trial ID: ACTRN12617001031358). Adults (155, 63 % female, aged 18-35 years) with low plasma vitamin C (<40 &#x3bc;mol/l) completed a 14-d lead-in, 28-d intervention and 14-d washout. Participants self-reported vitality (SF-36), mood (POMS total mood disturbance), flourishing (flourishing scale), sleep quality, sleep quantity and physical activity every second day using smartphone surveys. Plasma vitamin C, measured fortnightly, reached saturation after 2 weeks of vitamin C or kiwifruit supplementation. Kiwifruit supplementation improved vitality and mood within 4 days, peaking around 14-16 days, and improved flourishing from day 14. Vitamin C marginally improved mood until day 12. Incremental AUC analyses revealed significant overall effects of kiwifruit consumption on vitality and mood compared with placebo, which were stronger than effects for vitamin C tablets, but attenuated when adjusting for covariates. Sensitivity analyses of participants with low baseline vitamin C status revealed improved mood (vitamin C and kiwifruit) and flourishing (kiwifruit only). This is the first study to use intensive smartphone surveys to model the day-to-day timecourse of mood-related states following vitamin C intervention and highlights the value of using smartphone surveys to reveal the temporal changes in mood-related outcomes following nutrient supplementation.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/bjhp.12711
+- DOI: 10.1017/S0007114523002787
 
 2. Keywords
-- chronic fatigue syndrome
-- diet
-- fatigue
-- juvenile idiopathic arthritis
-- lifestyle
-- q fever
-- self&#x2010;management
+- Daily diary
+- Diet
+- Flourishing
+- Mental health
+- Nutrition
+- Vitality
+- Well-being
 
 3. Key Findings
-- Findings extraction requires manual review
+- Incremental AUC analyses revealed significant overall effects of kiwifruit consumption on vitality and mood compared with placebo, which were stronger than effects for vitamin C tablets, but attenuated when adjusting for covariates
+- Sensitivity analyses of participants with low baseline vitamin C status revealed improved mood (vitamin C and kiwifruit) and flourishing (kiwifruit only)
 
 This study provides insights into:
-- chronic fatigue syndrome assessment methods and outcomes
-- diet assessment methods and outcomes
-- fatigue assessment methods and outcomes
+- Daily diary assessment methods and outcomes
+- Diet assessment methods and outcomes
+- Flourishing assessment methods and outcomes

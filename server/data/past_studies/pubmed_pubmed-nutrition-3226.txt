@@ -1,30 +1,27 @@
-Study Title: Exploring culinary diversity to enhance Mediterranean diet adherence: A randomized controlled trial.
+Study Title: Effects of improved on-farm crop storage on DNA methylation of mothers and their infants: evidence from a randomized controlled trial in Kenya.
 
 Study Summary:
-We Investigated how promoting diverse, healthy food options affects long-term dietary choices. We hypothesized that encouraging exploration of nutritious plant-based foods would lead to lasting improvements in diet. Participants (N&#xa0;=&#xa0;211) were randomly assigned into two groups for a 6-week intervention: The fixed menu group was given the same large menu every week, while the changing menu group received a new small menu each week. At the end of the intervention both groups were exposed to the same menu suggestions. Food diversity evaluation was based on weekly reports collected during the intervention. Self-reported adherence to Mediterranean diet components was assessed using the I-MEDAS screener. The proportion of plant-based foods in participants' diets was estimated using a 0-100% scale based on self-report. Both items were evaluated using online questionnaires given to participants at baseline, at the end of the intervention, as well as three and six months after the intervention concluded. Results mean(SD) demonstrated that participants in fixed menu group explored a significantly wider array of items 26.33(11.64) than those in the changing menus group [19.79(10.29), t&#xa0;=&#xa0;4.25, p&#xa0;<&#xa0;0.001, Cohen's d&#xa0;=&#xa0;0.60]. A repeated measures analysis of covariance rmANCOVA revealed that short-term increase in I-MEDAS and PBD score were noted in both groups; however, only participants with the fixed menu sustained this increase at months follow-up [diff&#xa0;=&#xa0;1.50, t&#xa0;=&#xa0;4.50, p&#xa0;<&#xa0;0.001 Our findings suggest that manipulating the rate of exposure to food suggestions may affect overall dietary variety. It seems that early presentation with options may increase overall dietary variety and may even support longer-term habits. This study contributes to developing effective interventions and highlights the challenge of promoting exploratory behavior in nutrition.
+Stress during pregnancy can lead to adverse maternal and infant health outcomes through epigenetic changes in the hypothalamic-pituitary-adrenal axis. Among farmers in low-income countries, one important stressor is food insecurity, which can be reduced using hermetic storage bags. This study aimed to determine, for the first time, whether a hermetic storage bag intervention during pregnancy positively affects maternal and infant DNA methylation of the hypothalamic-pituitary-adrenal axis-related genes FKBP5 and NR3C1. We further analyzed whether anthropometrics, stress, and mental health were associated with DNA methylation. This study was part of a larger matched-pair randomized controlled trial focusing on the impact of improved on-farm storage on food security, poverty, and net income of smallholder farming households. A total of N&#x2009;=&#x2009;149 mothers were recruited by telephone and invited to attend a study appointment at health facilities in Kakamega County, Western Kenya, with their infants in April or May 2021. During the appointment, anthropometric measurements were taken, questionnaires on stress and mental health were administered, and saliva samples were collected. Logistic and multiple linear regression were used to examine the effect of the intervention and related measures on DNA methylation. Mothers in the intervention group showed higher mean NR3C1 methylation levels than those in the control group, corrected for multiple testing. Maternal postpartum body mass index was positively associated with infant NR3C1 CpG3 DNA methylation. The more stressful life events a mother had experienced in the previous 12&#xa0;months (including during pregnancy), the lower her FKBP5 CpG3 methylation levels. Food insecurity and stressful life events during pregnancy seem to exert significant effects on maternal DNA methylation. While these stressors did not appear to impact infant DNA methylation in the present study, maternal postpartum body mass index was significantly related to infant methylation. These findings suggest that while infants may be protected from excessive maternal glucocorticoids by placental barrier activity, maternal metabolic status is still reflected in their epigenetic make-up. Trial registration This study was part of a larger matched-pair randomized controlled trial on the impact of improved on-farm crop storage on welfare, nutrition, and human health. Registration can be found in the American Economic Association (AEA) RCT Registry, RCT ID: AEARCTR-0005845.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.appet.2024.107597
+- DOI: 10.1186/s13148-024-01693-z
 
 2. Keywords
-- Behavioral change
-- Decisions from experience
-- Diet
-- Eating behavior
-- Exploration
-- Mediterranean diet
-- Underweighting of rare events
+- DNA methylation
+- Food insecurity
+- HPA axis
+- Pregnancy
+- RCT
 
 3. Key Findings
-- Both items were evaluated using online questionnaires given to participants at baseline, at the end of the intervention, as well as three and six months after the intervention concluded
-- Results mean(SD) demonstrated that participants in fixed menu group explored a significantly wider array of items 26
-- A repeated measures analysis of covariance rmANCOVA revealed that short-term increase in I-MEDAS and PBD score were noted in both groups; however, only participants with the fixed menu sustained this increase at months follow-up [diff&#xa0;=&#xa0;1
+- Mothers in the intervention group showed higher mean NR3C1 methylation levels than those in the control group, corrected for multiple testing
+- Registration can be found in the American Economic Association (AEA) RCT Registry, RCT ID: AEARCTR-0005845
 
 This study provides insights into:
-- Behavioral change assessment methods and outcomes
-- Decisions from experience assessment methods and outcomes
-- Diet assessment methods and outcomes
+- DNA methylation assessment methods and outcomes
+- Food insecurity assessment methods and outcomes
+- HPA axis assessment methods and outcomes

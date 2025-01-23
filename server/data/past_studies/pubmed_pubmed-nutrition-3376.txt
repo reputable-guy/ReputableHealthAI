@@ -1,31 +1,26 @@
-Study Title: Meals, Education, and Gardens for In-School Adolescents: A Cluster Randomized Trial of an Adolescent Nutrition Intervention Package in Tanzania.
+Study Title: The effect of individualized nutrition training of children with congenital heart disease (CHD) on their growth and development a randomized controlled trial.
 
 Study Summary:
-This study aimed to implement and evaluate integrated, school-based nutrition intervention packages for adolescents in Dodoma, Tanzania. A cluster randomized controlled trial was conducted among six secondary schools in Dodoma, Tanzania. Two schools received the full-intervention package of school meals, nutrition education, school gardens, and community workshops. Two schools received the partial-intervention package without the school meals component. Two schools served as the controls and did not receive any intervention. The intervention was implemented over one academic year. The analytical sample included 534 adolescents aged 14 to 17 at baseline and 286 parents. Outcomes included nutrition knowledge, food preferences, diet quality, food insecurity, physical activity, growth, and anemia. Linear models were used to estimate mean differences, and logistic regression models were used to estimate odds ratios (ORs). Compared to the control, both the partial (OR: 0.59; 95% confidence interval [CI]: 0.35, 1.00) and full (OR: 0.49; 95% CI: 0.40, 0.59) interventions were associated with lower odds of poor diet quality among adolescents. Among the parents, both the partial (OR: 0.28; 95% CI: 0.20, 0.40) and full (OR: 0.28; 95% CI: 0.13, 0.58) interventions were associated with lower odds of poor diet quality. The partial (OR: 0.29; 95% CI: 0.18, 0.47) and full (OR: 0.47; 95% CI: 0.30, 0.72) interventions were associated with lower odds of adolescent overweight or obesity. School-based nutritional intervention packages incorporating multiple actions may improve the diet quality of adolescents and their household members and reduce the double burden of adolescent malnutrition.
+This study investigated the effectiveness of individualized nutrition training for mothers of children who underwent congenital heart disease (CHD) surgery on their children's growth and development. The researchers conducted a randomized controlled trial at &#xc7;ukurova University Medical Faculty Balcal&#x131; Hospital in Adana, Turkey, between January 20th, 2021, and June 30th, 2021. They recruited 42 children with CHD and their families. Researchers used a personal information form, growth parameter measurements, and the Ankara Developmental Screening Inventory to assess the children. Participants were randomly divided into three groups. Control group, received standard care. Experimental group 1 (orally fed), received family-centered care and individualized nutrition training focused on age-appropriate food content, preparation methods, and meeting children's caloric needs. Experimental group 2 (orally and nutritionally fed), received the same interventions as group 1. The training programs for the experimental groups included information on strengthening breast milk and additional nutritional nutrition support. The training programs for the experimental groups likely addressed feeding challenges specific to children with CHD. The study found a statistically significant difference in weight gain between the first and third follow-ups within the training group (children who received individualized nutrition education). This suggests that the training may have positively impacted weight gain. Additionally, the children in the training groups who were breastfed for longer than 12 months had better growth parameters and developmental scores compared to those with shorter breastfeeding durations. This study suggests that individualized nutrition training for mothers of children with CHD surgery may support their children's growth and development, particularly when combined with prolonged breastfeeding.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jadohealth.2024.02.032
+- DOI: 10.1016/j.cpcardiol.2024.102567
 
 2. Keywords
-- Adolescents
-- Agriculture
-- Education
+- Congenital heart disease (CHD)
+- Development
+- Growth
+- Maternal education
 - Nutrition
-- Randomized controlled trial
-- School feeding
-- School gardens
-- School meals
-- Secondary schools
-- Tanzania
 
 3. Key Findings
-- Findings extraction requires manual review
+- The study found a statistically significant difference in weight gain between the first and third follow-ups within the training group (children who received individualized nutrition education)
 
 This study provides insights into:
-- Adolescents assessment methods and outcomes
-- Agriculture assessment methods and outcomes
-- Education assessment methods and outcomes
+- Congenital heart disease (CHD) assessment methods and outcomes
+- Development assessment methods and outcomes
+- Growth assessment methods and outcomes

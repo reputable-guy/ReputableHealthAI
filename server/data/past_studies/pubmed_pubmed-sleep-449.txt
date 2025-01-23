@@ -1,28 +1,25 @@
-Study Title: Evaluation of the "15 Minute Challenge": A Workplace Health and Wellbeing Program.
+Study Title: Effects of high-intensity interval training on subjective sleep quality and daytime sleepiness in patients with obstructive sleep apnea: A secondary analysis from a randomized controlled trial.
 
 Study Summary:
-The 15 Minute Challenge is an mHealth workplace wellness initiative, employing gamification to promote physical activity, aiming to enhance health outcomes and overall well-being. This retrospective cohort study evaluated the effectiveness of the program among employees at various Australian, New Zealand, and UK workplaces. Real-world data from 11,575 participants across 73 companies were analyzed. The program encouraged daily 15 min physical activity sessions over six weeks. Participants self-reported their physical activity and fitness, energy, overall health, sleep quality, and mood at baseline and 6 weeks. Program satisfaction, engagement rates, and adherence to the program were also assessed. Effectiveness was evaluated using multi-level mixed-effects linear regression analyses. The intervention showed significant increases in physical activity, with 95% of participants meeting or exceeding international physical activity guidelines, up from 57% at baseline (< 0.05). Self-reported fitness, energy, overall health, sleep quality, and mood significantly improved (between 7.1 and 14.0% improvement; all< 0.05). High satisfaction was reported, with 92% of participants recommending the program. The 15 Minute Challenge effectively increased physical activity levels and improved self-reported health outcomes among participating employees. The high satisfaction rates and significant health improvements highlight the potential of workplace wellness programs to combat sedentary behavior and promote a healthier, more active lifestyle.
+This study aimed to verify the effect of 12 weeks of HIIT on the perceived sleep quality and excessive daytime sleepiness in patients with obstructive sleep apnea (OSA). For this, a secondary analysis of a randomized controlled trial, including 36 adults with moderate-severe OSA (19 males; 52.2&#xa0;&#xb1;&#xa0;9.8 years; body mass index&#xa0;=&#xa0;34.2&#xa0;&#xb1;&#xa0;5.8; AHI&#xa0;=&#xa0;42.0&#xa0;&#xb1;&#xa0;22.9 e/h) was performed. Participants were randomly assigned to HIIT [5 periods of 4&#xa0;min of walking or running on a treadmill at 90-95 % of maximum heart rate (HRmax) interspersed with 3&#xa0;min of walking at 50-55 % of HRmax performed three times per week for 12 weeks] or a control group (CG; stretching exercises performed two times per week for 12 weeks). Specific domains of subjective sleep quality and EDS were assessed at baseline and post 12 weeks. Generalized estimated equation were used to verify between groups and times differences. There were no group&#xa0;&#xd7;&#xa0;time interactions for the domains sleep duration (0.416), sleep efficiency (0.198), sleep disturbance (0.523), and sleep medications (0.915). However, significant group&#xa0;&#xd7;&#xa0;time interactions were observed for global sleep score (0.022), and for the domains sleep quality (0.001), sleep latency (0.029), and daytime dysfunction (0.012). In addition, there was a significant group&#xa0;&#xd7;&#xa0;time interaction for EDS (HIIT&#xa0;=&#xa0;-3.4&#xa0;&#xb1;&#xa0;0.9; CG change&#xa0;=&#xa0;-1.0&#xa0;&#xb1;&#xa0;1.0; p&#xa0;=&#xa0;0.023). Thus, in patients with OSA, 12 weeks of HIIT improves perceived sleep quality and daytime sleepiness.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/healthcare12131255
+- DOI: 10.1016/j.sleep.2024.07.006
 
 2. Keywords
-- ehealth
-- exercise
-- gamification
-- lifestyle
-- mHealth
-- physical activity
-- workplace
+- Excessive daytime sleepiness
+- High-intensity interval training
+- Sleep
+- Sleep quality
 
 3. Key Findings
-- The intervention showed significant increases in physical activity, with 95% of participants meeting or exceeding international physical activity guidelines, up from 57% at baseline (< 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- ehealth assessment methods and outcomes
-- exercise assessment methods and outcomes
-- gamification assessment methods and outcomes
+- Excessive daytime sleepiness assessment methods and outcomes
+- High-intensity interval training assessment methods and outcomes
+- Sleep assessment methods and outcomes

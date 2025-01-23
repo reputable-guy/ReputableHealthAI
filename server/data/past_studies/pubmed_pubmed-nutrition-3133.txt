@@ -1,25 +1,25 @@
-Study Title: Single-centre, randomised clinical trial of the immunomodulatory mechanisms of daily supplementation of palm tocotrienol-rich fraction in healthy human volunteers following influenza vaccination.
+Study Title: Intradialytic oral nutrition effects on malnourished hemodialysis patients: a randomized trial.
 
 Study Summary:
-Vitamin E from palm oil, known as the tocotrienol-rich fraction (TRF), has been shown to have immune-enhancing activity. To date, only one dose of TRF (400 mg daily) has been tested in a clinical trial. The proposed study will evaluate the immune-enhancing activity effects of lower doses (200, 100 and 50 mg) in a clinical trial using an influenza vaccine as the immunological challenge. A single-centre, randomised, parallel, double-blinded, placebo-controlled clinical trial with balance allocation involving five arms will be conducted. The healthy volunteers recruited will be randomly assigned to one of the arms, and they will be asked to take the respective supplements (400 mg, 200 mg, 100 mg, 50 mg of TRF or placebo) daily with their dinner. The volunteers will receive the influenza vaccine after four weeks. They will be asked to return to the study site four weeks later. A blood sample will be taken for the study at baseline, four and eight weeks. Primary outcome measures will be antibody levels to influenza, blood leucocyte profile and cytokine production. Secondary outcomes will be correlating plasma vitamin E levels with immune responses, plasma proteins and gene expression patterns. The findings from this study will be published in relevant peer-reviewed journals and presented at relevant national and international scientific meetings. The recent world events have created the awareness of having a healthy and functional immune system. Nutrition plays an important role in helping the immune system to function optimally. This study will show the effects of lower doses of TRF in boosting the immune response of healthy individuals and also elucidate the mechanisms through which TRF exerts its immune-enhancing effects. Australian New Zealand Clinical Trials Registry (ANZCTR) [ ACTRN12622000844741] dated 15 June 2022. 2.
+Oral nutritional supplementation (ONS) is recommended for malnourished hemodialysis patients when their nutritional intake remains inadequate to meet energy and protein requirements. Patients were randomized into two groups: the intradialytic ONS supplements (INTRA-ONS) group (N&#x2009;=&#x2009;16) and the interdialytic ONS supplements (INTER-ONS) group (N&#x2009;=&#x2009;16) for a duration of 12&#xa0;weeks. Malnutrition inflammation score (MIS) and serum albumin levels were assessed. The total MIS decreased significantly in patients from both the INTRA-ONS group (-&#x2009;6.13, 95% CI -&#x2009;8.29 to -&#x2009;3.96) and the INTER-ONS group (-&#x2009;3.50, 95% CI -&#x2009;5.56 to -&#x2009;1.35). A significant difference in the change of MIS was observed between the two groups (-&#x2009;3.06, 95% CI -&#x2009;5.94 to -&#x2009;0.17). No significant differences were observed between the groups concerning serum albumin levels, dietary intake, anthropometric measurements, or body weight. Intradialytic ONS demonstrates similar benefits on nutritional biomarkers but improves the MIS among malnourished ESRD patients compared to interdialytic ONS.Trial registration Thai Clinical Trials Registry (TCTR) identification number is TCTR20220322007: 16/09/2021.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.12688/f1000research.137005.1
+- DOI: 10.1038/s41598-024-72402-2
 
 2. Keywords
-- immune response
-- influenza vaccine
-- tocotrienol-rich fraction (TRF)
-- tocotrienols
+- Hemodialysis
+- Interdialytic nutritional supplements
+- Intradialytic nutritional supplementation
+- Nutrition status
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- immune response assessment methods and outcomes
-- influenza vaccine assessment methods and outcomes
-- tocotrienol-rich fraction (TRF) assessment methods and outcomes
+- Hemodialysis assessment methods and outcomes
+- Interdialytic nutritional supplements assessment methods and outcomes
+- Intradialytic nutritional supplementation assessment methods and outcomes

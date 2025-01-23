@@ -1,20 +1,20 @@
-Study Title: Ten-year outcomes of a randomized clinical trial of endothermal ablation versus conventional surgery for great saphenous varicose veins.
+Study Title: Concurrent tDCS-fMRI after stroke reveals link between attention network organization and motor improvement.
 
 Study Summary:
-Surgical ligation and stripping (surgery) and endothermal ablation are both effective treatments for varicose veins, improving quality of life (QoL) up to 5 years. Few data are available on long-term outcomes. The aim of this study was to evaluate the outcomes 10 years after interventions in an RCT. Previously this RCT demonstrated that endothermal ablation is associated with superior postprocedural QoL, more rapid recovery, and lower rates of early clinical recurrence. This analysis reports outcomes at 10 years. Patients with symptomatic varicose veins owing to unilateral great saphenous vein reflux were randomized to either surgery or endovenous laser ablation (EVLA). Outcomes at 10 years included clinical recurrence and QoL. Data were obtained for 206 of 280 patients (73.6%) at 10 years. Both groups retained significant QoL improvement compared with pretreatment levels (Aberdeen Varicose Vein Questionnaire (AVVQ), Short Form 36 (SF-36&#xae;), and EQ-5D&#x2122;; P < 0.001). Clinical disease progression from baseline was observed in only 10.7% of patients. The clinical recurrence rate was lower in the EVLA group (37 versus 59%; P = 0.005). The number needed to treat with EVLA to avoid one clinical recurrence within 10 years was five. This was associated with significantly higher (better) generic QoL scores with EVLA in several SF-36&#xae; domains, including bodily pain (median 84 (i.q.r. 51-100) versus 62 (41-84); P = 0.009) and general health (77 (62-87) versus 67 (52-82); P = 0.017). AVVQ scores in the EVLA group were also lower (better) (3.1 (0-7.7) versus 6.3 (0.7-13.3); P = 0.029). Both surgery and endothermal ablation are effective treatments for varicose veins at 10 years, with durable improvement in QoL and a very low rate of disease progression. However, endothermal ablation was associated with superior clinical and QoL outcomes. Registration number: NCT00759434 (http://www.clinicaltrials.gov).
+Restoring motor function after stroke necessitates involvement of numerous cognitive systems. However, the impact of damage to motor and cognitive network organization on recovery is not well understood. To discover correlates of successful recovery, we explored imaging characteristics in chronic stroke subjects by combining noninvasive brain stimulation and fMRI. Twenty stroke survivors (6&#xa0;months or more after stroke) were randomly assigned to a single session of transcranial direct current stimulation (tDCS) or sham during image acquisition. Twenty healthy subjects were included as controls. tDCS was limited to 10&#xa0;min at 2&#xa0;mA to serve as a mode of network modulation rather than therapeutic delivery. Fugl-Meyer Assessments (FMA) revealed significant motor improvement in the chronic stroke group receiving active stimulation (p&#x2009;=&#x2009;0.0005). Motor changes in this group were correlated in a data-driven fashion with imaging features, including functional connectivity (FC), surface-based morphometry, electric field modeling and network topology, focusing on relevant regions of interest. We observed stimulation-related changes in FC in supplementary motor (p&#x2009;=&#x2009;0.0029), inferior frontal gyrus (p&#x2009;=&#x2009;0.0058), and temporo-occipital (p&#x2009;=&#x2009;0.0095) areas, though these were not directly related to motor improvement. The feature most strongly associated with FMA improvement in the chronic stroke cohort was graph topology of the dorsal attention network (DAN), one of the regions surveyed and one with direct connections to each of the areas with FC changes. Chronic stroke subjects with a greater degree of motor improvement had lower signal transmission cost through the DAN (p&#x2009;=&#x2009;0.029). While the study was limited by a small stroke cohort with moderate severity and variable lesion location, these results nevertheless suggest a top-down role for higher order areas such as attention in helping to orchestrate the stroke recovery process.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/bjs/znae195
+- DOI: 10.1038/s41598-024-70083-5
 
 2. Keywords
 
 
 3. Key Findings
-- Previously this RCT demonstrated that endothermal ablation is associated with superior postprocedural QoL, more rapid recovery, and lower rates of early clinical recurrence
+- Fugl-Meyer Assessments (FMA) revealed significant motor improvement in the chronic stroke group receiving active stimulation (p&#x2009;=&#x2009;0
 
 This study provides insights into:
 - General research methodology and outcomes

@@ -1,28 +1,26 @@
-Study Title: Latent class analysis identifies a promising combination of Supplemental Nutrition Assistance Program-Education interventions for improving student cardiorespiratory fitness.
+Study Title: Omega-3 nanoemulgel in prevention of radiation-induced oral mucositis and its associated effect on microbiome: a randomized clinical trial.
 
 Study Summary:
-To inform Supplemental Nutrition Assistance Program Education (SNAP-Ed) and other school-based interventions aiming to improve youth cardiorespiratory fitness, this study aimed to identify which SNAP-Ed school-based physical activity intervention combinations were associated with better student cardiorespiratory fitness. This study, utilizing cross-sectional secondary data, included 5th and 7th grade students who attended SNAP-Ed-eligible public schools in California (n&#xa0;=&#xa0;442,743 students; 4271 schools) and had complete 2016-17 state-mandated fitness test results. Latent class analysis was used to identify underlying school-based intervention combinations. Propensity score methods were used to ensure comparability of intervention and comparison schools, by calculating inverse probability weights. Multilevel models, using those inverse probability weights, assessed the associations between the identified intervention combinations and student cardiorespiratory fitness, as measured by VOmax. The models were adjusted for school-level variables (urbanicity, percent of students eligible for free- or reduced-price meals, total enrollment, and school type), child-level variables (age, gender, and race/ethnicity), and for clustering of students within schools. We found that students attending schools with interventions focusing on comprehensive policy changes along with improving opportunities for physical activity had, on average, 1.17&#xa0;mL/kg/min (95% CI: 0.72, 1.62) greater VOmax than students attending schools without any intervention. They also had statistically significantly greater VOmax compared to students attending schools with any other type of intervention combination. Our results suggest that comprehensive school-based physical activity interventions that include policy changes along with improving physical activity opportunities may be the most effective approach for improving fitness and may warrant prioritization in SNAP-Ed efforts.
+Oral mucositis (OM) is recognized as one of the most frequent debilitating sequelae encountered by head and neck cancer (HNC) patients treated by radiotherapy. This results in severe mucosal tissue inflammation and oral ulcerations that interfere with patient's nutrition, quality of life (QoL) and survival. Omega-3 (&#x3c9;-3) polyunsaturated fatty acids (PUFAs) have recently gained special interest in dealing with oral diseases owing to its anti-inflammatory, anti-oxidant and wound healing properties. Thus, this study aims to assess topical Omega-3 nanoemulgel efficacy in prevention of radiation-induced oral mucositis and regulation of oral microbial dysbiosis. Thirty-four head and neck cancer patients planned to receive radiotherapy were randomly allocated into two groups: Group I: conventional preventive treatment and Group II: topical Omega-3 nanoemulgel. Patients were evaluated at baseline, three and six weeks after treatment using the World Health Organization (WHO) grading system for oral mucositis severity, Visual Analogue Scale (VAS) for perceived pain severity, and MD-Anderson Symptom Inventory for Head and Neck cancer (MDASI-HN) for QoL. Oral swabs were collected to assess oral microbiome changes. VAS scores and WHO mucositis grades were significantly lower after six weeks of treatment with topical Omega-3 nanoemulgel when compared to the conventional treatment. The total MDASI score was significantly higher in the control group after three weeks of treatment, and the head and neck subscale differed significantly at both three and six weeks. A significant reduction in Firmicutes/Bacteroidetes ratio was observed after six weeks in the test group indicating less microbial dysbiosis. Topical Omega-3 nanoemulgel demonstrated a beneficial effect in prevention of radiation-induced oral mucositis with a possibility of regulating oral microbial dysbiosis.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.ypmed.2023.107687
+- DOI: 10.1186/s12903-023-03276-5
 
 2. Keywords
-- CFHL
-- Fitness
-- Intervention combinations
-- Physical activity
-- SNAP-Ed
-- School wellness
-- VO(2)max
+- Microbiome
+- Nanoemulgel
+- Omega-3
+- Oral mucositis
+- Prevention
 
 3. Key Findings
-- We found that students attending schools with interventions focusing on comprehensive policy changes along with improving opportunities for physical activity had, on average, 1
+- Topical Omega-3 nanoemulgel demonstrated a beneficial effect in prevention of radiation-induced oral mucositis with a possibility of regulating oral microbial dysbiosis
 
 This study provides insights into:
-- CFHL assessment methods and outcomes
-- Fitness assessment methods and outcomes
-- Intervention combinations assessment methods and outcomes
+- Microbiome assessment methods and outcomes
+- Nanoemulgel assessment methods and outcomes
+- Omega-3 assessment methods and outcomes

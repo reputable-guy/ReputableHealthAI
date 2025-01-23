@@ -1,29 +1,27 @@
-Study Title: Perturbational complexity index in assessing responsiveness to rTMS treatment in patients with disorders of consciousness: a cross-over randomized controlled trial study.
+Study Title: Efficacy of a self-made tracheostomy oxygen delivery device for oxygen therapy during postoperative anesthesia recovery.
 
 Study Summary:
-Disorders of Consciousness (DoC) caused by severe brain injuries represent a challenging clinical entity, which is easy to misdiagnosis and lacks effective treatment options. Repetitive Transcranial Magnetic Stimulation (rTMS) is a non-invasive neuroelectric stimulation method that shows promise in improving consciousness for DoC, especially in minimally conscious state (MCS). However, there is little evidence of its effectiveness, especially in RCT studies. Twenty MCS patients participated in a double-blind, randomized, crossover, sham-controlled clinical study to evaluate the safety and efficacy of rTMS for MCS. Subjects were randomized into two groups: one group received rTMS-active for 10 consecutive days (n&#x2009;=&#x2009;10), and the other group received rTMS-sham for 10 consecutive days (n&#x2009;=&#x2009;10). After a 10-day washout period, the two groups were crossed over and received the opposite treatment. the rTMS protocol consisted of 2,000 pulses per day in the left dorsolateral prefrontal cortex (L-DLPFC), sent at 10&#xa0;Hz. The stimulation intensity was 90% of the resting motor threshold. Coma Recovery Scale Revised (CRS-R), the main evaluation index, was evaluated before and after each phase in a double-blind manner. Meanwhile RS-EEG and TMS-EEG data were acquired and relative alpha power (RAP), and perturbational complexity index based on state transitions (PCIst) were caculated. One-way ANOVA revealed significantly higher scores in rTMS-active treatment compared to rTMS-sham across various measures, including CRS-R total score, RAP, PCIst (all P&#x2009;<&#x2009;0.05). Among the 20 MCS patients, 7 (35%) were identified as responders following rTMS treatment. Compared to rTMS-sham, responder scores for CRS-R, RAP, and PCIst (all P&#x2009;<&#x2009;0.05) were significantly elevated after rTMS-active treatment. Conversely, there was no significant difference observed in non-responders. Furthermore, post-hoc analysis revealed that baseline PCIst was significantly higher in responders than non-responders. Upon a 6-month follow-up, CRS-R scores significantly increased in all 20 patients (P&#x2009;=&#x2009;0.026). However, the responder group exhibited a more favorable prognosis compared to the non-responder group (P&#x2009;=&#x2009;0.031). Applying 10&#xa0;Hz rTMS to L-DLPFC significantly increased consciousness level in MCS patients. PCIst is a neurophysiological index that has the potential to evaluate and predict therapeutic efficacy. www. gov , identifier: NCT05187000.
+Patients with tracheotomy are often monitored in the anesthesia recovery room after reoperation. During this period, oxygen therapy is necessary, and the existing tracheostomy oxygen supply device has many defects. To evaluate the efficacy of a self-made tracheostomy oxygen delivery device on oxygen therapy during postoperative anesthesia recovery. Patients were randomly divided into two groups, E and C, with 30 patients in each group, and admitted to the post-anesthesia care unit (PACU). Patients in group E received oxygen through a self-made tracheostomy oxygen delivery device, while patients in group C were supplied oxygen through a unilateral nasal cannula. Respiration (R), pulse oximetry (SpO2), and the number of patients on ventilators were recorded at the time of admission (T0) and one hour after admission (T1). Rapid dry blood gas analyses were performed on 0.6 ml samples of arterial blood collected at T0 and T1. Compared to group C, patients in group E had significantly higher arterial partial pressure of oxygen (PaO2), arterial oxygen saturation (SaO2), total carbon dioxide (T-CO2), and actual bicarbonate (AB), while arterial partial pressure of carbon dioxide (PaCO2) was significantly reduced (P< 0.01 or < 0.05). Compared to T0, PaO2 decreased in both groups at T1, PaCO2 decreased in group E, while SaO2, T-CO2, and AB decreased in group C (P< 0.01 or < 0.05). We found that using the self-made tracheostomy oxygen delivery device in postoperative anesthesia recovery had advantages such as a secure connection to the tracheostoma, adjustable oxygen concentration, air filtration, and the ability to switch oxygen supply between the ventilator and humidifier.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1186/s12984-024-01455-1
+- Publication Date: 2025
+- DOI: 10.3233/THC-241184
 
 2. Keywords
-- Disorders of consciousness
-- EEG
-- Minimally conscious state
-- Perturbational complexity index
-- Randomized control trial
-- Repetitive transcranial magnetic stimulation
-- TMS-EEG
+- Anesthesia recovery
+- general anesthesia
+- oxygen delivery device
+- oxygen therapy
+- self-made
+- tracheostomy
 
 3. Key Findings
-- One-way ANOVA revealed significantly higher scores in rTMS-active treatment compared to rTMS-sham across various measures, including CRS-R total score, RAP, PCIst (all P&#x2009;<&#x2009;0
-- Furthermore, post-hoc analysis revealed that baseline PCIst was significantly higher in responders than non-responders
+- We found that using the self-made tracheostomy oxygen delivery device in postoperative anesthesia recovery had advantages such as a secure connection to the tracheostoma, adjustable oxygen concentration, air filtration, and the ability to switch oxygen supply between the ventilator and humidifier
 
 This study provides insights into:
-- Disorders of consciousness assessment methods and outcomes
-- EEG assessment methods and outcomes
-- Minimally conscious state assessment methods and outcomes
+- Anesthesia recovery assessment methods and outcomes
+- general anesthesia assessment methods and outcomes
+- oxygen delivery device assessment methods and outcomes

@@ -1,26 +1,26 @@
-Study Title: The impact of online yoga on sleep and quality of life in women with breast cancer: a randomized trial.
+Study Title: Effects of Intranasal Insulin Pretreatment on Preoperative Sleep Quality and Postoperative Delirium in Patients Undergoing Valve Replacement for Rheumatic Heart Disease.
 
 Study Summary:
-There is growing evidence of the benefit of physical activity and mindfulness in breast cancer patients (HC et al. in BMC Complement Altern Med, 2017). Yoga offers a combination of both. The aim of this study was to establish an online yoga program for breast cancer patients and survivors. As the project was launched during the (COVID) pandemic restrictions, we intended to prove effective online yoga as a way to access supportive therapy independently of sanitary issues and geographic locations in rural regions. The two main outcomes were quality of life and sleep quality, and both were evaluated by standardized questionnaires (EORTC-QLQ 30 BR 23 and PSQI). Participants (n&#x2009;=&#x2009;173) had breast cancer or a history of breast cancer and were randomized to either 6&#xa0;weeks online yoga, twice a week for 45&#xa0;min or a waiting control group. Our results show improved sleep quality in the PSQI score and improved subitems (dyspnea and physical activity) in the EORTC quality of life score. Online yoga seems to be a valid option in supportive therapy for breast cancer patients, as it improves physical fitness, dyspnea and overall sleep quality. It is also safe and cost effective as a remote intervention. Trial registration number and date of registration for prospectively registered trials: DRKS00029548, 07.07.2022.WHO International clinical trials registry platform number: DRKS00029548. The registration number of the ethical committee CAU in Kiel: D 589/20.
+Postoperative delirium (POD) is a common neurological complication associated with valve replacement. Preoperative sleep disturbance is a risk factor for POD development, and nasal insulin modulates the sleep-wake cycle. This study investigated the beneficial effects of intranasal insulin pretreatment on preoperative sleep quality and reducing POD in patients undergoing valve replacement for rheumatic heart disease. This prospective, single-center, randomized controlled trial (RCT) included 76 adult patients aged 18-65 years undergoing valve surgery with cardiopulmonary bypass who were randomly allocated to receive intranasal insulin or normal saline interventions two days before surgery. POD incidence was on postoperative days 1 (T3), 2 (T4), and 3 (T5). Before the first intervention (T0), 1 d before surgery (T1), and before anesthesia on the day of surgery (T2), sleep quality was assessed and serum cortisol concentrations were measured. At T1 and T2, sleep quality related indicators monitored by sleep monitoring watches from the previous night were recorded. Compared with the normal saline group, 3 days after surgery, the insulin group showed a significantly reduced incidence of POD; significantly increased deep sleep, REM sleep, deep sleep continuity, and total sleep quality scores at T1 and T2; and significantly reduced serum cortisol concentration, PSQI scale, light sleep ratio, and wakefulness at T1 and T2. The administration of 20 U of intranasal insulin twice daily, from 2 days preoperatively until 10 minutes preanesthesia on the day of surgery, can improved preoperative sleep quality significantly and reduced POD incidence in patients with rheumatic heart disease undergoing valve replacement. This study was registered with the Chinese Clinical Trial Registry (www.chictr.org.cn, with the unique identifier ChiCTR2100048515; July 9, 2021).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00404-024-07563-6
+- DOI: 10.2147/NSS.S439703
 
 2. Keywords
-- Breast cancer
-- EORTC
-- Online
-- PSQI
-- Yoga
+- intranasal insulin
+- postoperative delirium
+- preoperative sleep quality
+- rheumatic heart disease
+- valve replacement
 
 3. Key Findings
-- Findings extraction requires manual review
+- Compared with the normal saline group, 3 days after surgery, the insulin group showed a significantly reduced incidence of POD; significantly increased deep sleep, REM sleep, deep sleep continuity, and total sleep quality scores at T1 and T2; and significantly reduced serum cortisol concentration, PSQI scale, light sleep ratio, and wakefulness at T1 and T2
 
 This study provides insights into:
-- Breast cancer assessment methods and outcomes
-- EORTC assessment methods and outcomes
-- Online assessment methods and outcomes
+- intranasal insulin assessment methods and outcomes
+- postoperative delirium assessment methods and outcomes
+- preoperative sleep quality assessment methods and outcomes

@@ -1,27 +1,26 @@
-Study Title: Baseline self-efficacy predicts subsequent engagement behavior in an online physical activity intervention.
+Study Title: The impact of ankle movements on venous return flow: A comparative study.
 
 Study Summary:
-The purported benefits of online physical activity interventions, in terms of reduced costs, high reach, and easy access, may not be fully realized if participants do not engage with the programs. However, there is a lack of research on modifiable predictors (e.g., beliefs) of engagement with online physical activity interventions. The objective of this brief report was to investigate if self-efficacy to engage at baseline predicted subsequent engagement behavior in an online physical activity intervention at post-baseline. Data (&#x2009;=&#x2009;331) from the 2018 Fun For Wellness effectiveness trial (ClinicalTrials.gov, identifier: NCT03194854) were analyzed in this brief report. Multiple logistic regression was fit in M8 using maximum-likelihood estimation. There was evidence that self-efficacy to engage beliefs at baseline positively predicted subsequent engagement behavior in the Fun For Wellness intervention at 30 days post-baseline. Some recommendations to increase self-efficacy to engage in future online physical activity intervention studies were provided consistent with self-efficacy theory.
+To compare the haemodynamic effects of different ankle movements combined ankle and toe movements on the femoral vein of the lower extremity. 28 healthy volunteers participated in the study. Doppler ultrasound was used to measure peak systolic velocity and time-averaged mean velocity of the common femoral vein during ankle dorsiflexion, ankle dorsiflexion with simultaneous toe extension, ankle plantarflexion, and ankle plantarflexion with simultaneous toe flexion. In comparison to the resting state, both ankle alone or ankle combined with toe movement showed statistically significant differences (< .01). However, there were no significant difference in the velocity of the common femoral vein between ankle alone and ankle combined with toe movement (> .05). It is noteworthy that dorsiflexion of the ankle resulted in the highest peak velocity of blood flow. The impact of ankle movement, with or without toe movement, the velocity of the common femoral vein is not significantly correlated.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fspor.2024.1401206
+- DOI: 10.1177/02683555241264914
 
 2. Keywords
-- adherence
-- compliance
-- eHealth
-- exercise
-- internet
-- mHealth
+- Ankle pump exercise
+- doppler ultrasound study
+- forceful ankle and toe exercises
+- hemodynamics
+- lower extremity vein
 
 3. Key Findings
-- Findings extraction requires manual review
+- In comparison to the resting state, both ankle alone or ankle combined with toe movement showed statistically significant differences (<
 
 This study provides insights into:
-- adherence assessment methods and outcomes
-- compliance assessment methods and outcomes
-- eHealth assessment methods and outcomes
+- Ankle pump exercise assessment methods and outcomes
+- doppler ultrasound study assessment methods and outcomes
+- forceful ankle and toe exercises assessment methods and outcomes

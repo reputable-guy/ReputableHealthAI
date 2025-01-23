@@ -1,27 +1,26 @@
-Study Title: Esketamine use for primary intelligent analgesia in adults with severe burns: A double-blind randomized trial with effects on analgesic efficacy, gastrointestinal function and mental state.
+Study Title: Effect of quantitative consciousness index on seizure parameters during electroconvulsive therapy in patients with major depressive disorder.
 
 Study Summary:
-Opioid consumption for analgesia in burn patients is enormous. Non-opioid analgesics for burn pain management may result in opioid sparing, reducing opioid-related adverse reactions and drug tolerance or addiction. A dual-center, randomized controlled trial assessed Esketamine for the perioperative period in patients with severe [20-50&#xa0;% total body surface area (TBSA)] and extensive (&#x2265; 50&#xa0;% TBSA) burns, comparing analgesia with standard anesthesia. Sixty patients were randomly allocated (1:1 ratio) to two arms. In the Treatment Arm, patients received intra-operative Esketamine and postoperative intravenous primary intelligent analgesia pump with Esketamine. Patients in the Control Arm received the same intervention as Treatment Arm without Esketamine. The primary endpoint was subjective analgesic efficacy (SAE) evaluated on Day 28 or the day before hospital discharge. Secondary outcomes included the postoperative Numeric Pain Rating (NPR) Scale at rest (NPRr) and during movement (NPRm) and opioid consumption. Gastrointestinal dysfunction Scores (GIDS) and serum markers of intestinal injury [intestinal fatty acid-binding protein 2 (iFabp2) and apolipoproteinA2 (ApoA2)] were measured in the 1st and 4th post-injury weeks. Depression and sleep quality were assessed by relevant questionnaires. Fifty-five patients were included in the analysis. Esketamine-treated Arm recorded a better analgesic efficacy than the Control Arm (proportion of patients with Grade 1 or 2 SAE scores, 67.9&#xa0;% vs. 40.7&#xa0;%, p = 0.022). Esketamine-treated patients had lower NPRm values (p = 0.033) and lower daily opioid consumption (p = 0.033) when compared with Controls. Esketamine-treated patients showed comparable gastrointestinal recovery to those in the Control Arm. The overall sleep quality might be improved in the Treatment Arm. Esketamine use is safe for perioperative primary intelligent analgesia of severe burns, resulting in improved resting pain control and lower opioid requirements. The trial was registered at the Chinese Clinical Trial Registry (www.chictr.org.cn/) (ChiCTR2000034069).
+Electroconvulsive therapy (ECT) is both an effective treatment for patients with major depressive disorder (MDD) and a noxious stimulus. Although some studies have explored the effect of sedation depth on seizure parameters in ECT, there is little research on the noxious stimulation response to ECT. In this study, we used two electroencephalography (EEG)-derived indices, the quantitative consciousness (qCON) index and quantitative nociceptive (qNOX) index, to monitor sedation, hypnosis, and noxious stimulation response in patients with MDD undergoing acute ECT. To evaluate the effect of anesthesia depth based on the qCON and qNOX indices on seizure parameters. Patients with MDD (= 24) underwent acute bilateral temporal ECT under propofol anesthesia. Before ECT, the patients were randomly divided into three groups according to qCON scores (qCON60-70, qCON50-60, and qCON40-50). Continuous qCON monitoring was performed 3 minutes before and during ECT, and the qCON, qNOX, vital signs, EEG seizure parameters, and complications during the recovery period were recorded. The 24-item Hamilton Rating Scale for Depression, Zung's Self-rating Depression Scale, and Montreal Cognitive Assessment scores were evaluated before the first ECT session, after the fourth ECT session, and after the full course of ECT. A total of 193 ECT sessions were performed on 24 participants. The qCON index significantly affected the EEG seizure duration, peak mid-ictal amplitude, and maximum heart rate during ECT (< 0.05). The qNOX index significantly affected the post-ictal suppression index (< 0.05). Age, number of ECT sessions, and anesthetic-ECT time intervals also had a significant effect on EEG seizure parameters (< 0.05). However, there were no significant differences in complications, 24-item Hamilton Rating Scale for Depression scores, Zung's Self-rating Depression Scale scores, or Montreal Cognitive Assessment scores among the three groups (> 0.05). Electrical stimulation at a qCON index of 60-70 resulted in better EEG seizure parameters without increasing complications in patients with MDD undergoing bilateral temporal ECT under propofol anesthesia.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.burns.2024.06.004
+- DOI: 10.5498/wjp.v14.i9.1375
 
 2. Keywords
-- Esketamine
-- Gastrointestinal injury
-- Opioid requirement
-- Primary intelligent analgesia
-- Severe burns
-- Subjective analgesic efficacy (SAE)
+- Depression
+- Electroconvulsive therapy
+- Electroencephalogram
+- Nociception
+- Propofol
 
 3. Key Findings
-- Esketamine-treated patients showed comparable gastrointestinal recovery to those in the Control Arm
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Esketamine assessment methods and outcomes
-- Gastrointestinal injury assessment methods and outcomes
-- Opioid requirement assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Electroconvulsive therapy assessment methods and outcomes
+- Electroencephalogram assessment methods and outcomes

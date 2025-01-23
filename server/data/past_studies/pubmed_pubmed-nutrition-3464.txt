@@ -1,29 +1,22 @@
-Study Title: Investigation of the 1-week effect of traffic light nutrition labeling on diet selection among Japanese university students: a randomized controlled trial.
+Study Title: Five-Year Mortality Outcomes for Eating As Treatment (EAT), a Health Behavior Change Intervention to Improve Nutrition in Patients With Head and Neck Cancer: A Stepped-Wedge, Randomized Controlled Trial.
 
 Study Summary:
-The method of displaying nutrition information labels on the front of food packaging (FOP: Front of Pack) has been implemented worldwide to prevent lifestyle-related diseases. This study aimed to investigate whether the use of the UK's Traffic Light Food (TLF) label, known as the FOP label, influences the dietary choices of Japanese youth and promotes healthy dietary choices. Diet selection was performed for one week each during the baseline and intervention periods. During the intervention period, TLF labels were displayed on meal images of the intervention group. Participants chose what they would like to have for dinner of the day from 15 images. Each meal was scored based on the color of the nutrition label, and a comparison between groups was made to determine whether TLF labeling influenced meal selection for dinner. The psychological stress caused by the presence or absence of nutrition labels and nutritional components when choosing meals was also evaluated. A total of 69 participants were randomly assigned to two groups. Dietary choice scores indicated that the TLF-labeled group made significantly healthier dietary choices than the unlabeled group. Additionally, the TLF-labeled group showed a significant increase in the percentage of people conscious of nutritional components when choosing meals. Furthermore, a significant increase in the number of people conscious of protein, a nutritional ingredient not indicated on the TLF label, was observed. During the test period, no difference in psychological stress caused by the presence and absence of the TLF labels was observed. The use of TLF labels also encouraged healthy dietary choices among Japanese university students. The use of FOP nutrition labels should be considered in Japan to prevent lifestyle-related diseases through healthy dietary choices. UMIN Clinical Trials Registry Number: UMIN000047268. Registered March 23, 2022.
+Malnutrition affects up to 80% of patients with head and neck cancer (HNC) and is associated with higher burden of disease, poorer treatment outcomes, and greater mortality. The Eating As Treatment (EAT) intervention is a behavioral intervention previously demonstrated to be effective in improving nutritional status, depression, and quality of life in patients with HNC. This article examines the effects of the EAT intervention on 5-year mortality among participants. A multicenter, stepped-wedge, randomized controlled trial was conducted in 5 Australian hospitals. Dietitians were trained to deliver EAT, a combination of motivational interviewing and cognitive behavior therapy strategies, to patients with HNC receiving radiation therapy. Secondary analyses of survival benefit on an intention-to-treat basis were performed. Differences in proportions of 5-year all-cause mortality between the control and EAT intervention arms were analyzed using multivariable logistic regression, and 5-year survival rates were analyzed using Cox proportional hazards regression. Analyses controlled for temporal effects (study duration), hospital site (clustering), and baseline nutritional status differences. Overall, there were 64 deaths in the 5 years after enrollment, 36 (24%) among those assigned to the control condition and 28 (18%) among those assigned to EAT. Logistic regression showed statistically significant reduced odds in favor of EAT (odds ratio, 0.33; 95% CI, 0.11-0.96), with an absolute risk reduction of 17% (95% CI, 0.01-0.33) and a relative risk reduction of 55% (95% CI, 0.22-0.92), resulting in a number needed to treat of 6 (95% CI, 4-13). Survival analysis revealed that risk of death was significantly reduced by the EAT intervention (hazard ratio, 0.39; 0.16-0.96). Participation in EAT provided a statistically and clinically meaningful survival benefit, likely via improved nutrition during radiation therapy. This survival benefit strengthens the finding of the main trial, showing that a behavioral intervention focused on nutrition could improve HNC outcomes. Replication studies using stepped-wedge designs for implementation into clinical practice may be warranted.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12889-024-17815-4
+- DOI: 10.1016/j.ijrobp.2024.01.205
 
 2. Keywords
-- Food labeling system
-- Front of Pack
-- Healthy dietary choices
-- Nutrition label
-- Nutritional content
-- Traffic light food label
+
 
 3. Key Findings
-- Dietary choice scores indicated that the TLF-labeled group made significantly healthier dietary choices than the unlabeled group
-- Additionally, the TLF-labeled group showed a significant increase in the percentage of people conscious of nutritional components when choosing meals
-- Furthermore, a significant increase in the number of people conscious of protein, a nutritional ingredient not indicated on the TLF label, was observed
+- The Eating As Treatment (EAT) intervention is a behavioral intervention previously demonstrated to be effective in improving nutritional status, depression, and quality of life in patients with HNC
+- Logistic regression showed statistically significant reduced odds in favor of EAT (odds ratio, 0
+- Survival analysis revealed that risk of death was significantly reduced by the EAT intervention (hazard ratio, 0
 
 This study provides insights into:
-- Food labeling system assessment methods and outcomes
-- Front of Pack assessment methods and outcomes
-- Healthy dietary choices assessment methods and outcomes
+- General research methodology and outcomes

@@ -1,28 +1,26 @@
-Study Title: The CONVINCE randomized trial found positive effects on quality of life for patients with chronic kidney disease treated with hemodiafiltration.
+Study Title: Neuroelectrophysiological alteration associated with cognitive flexibility after 24&#xa0;h sleep deprivation in adolescents.
 
 Study Summary:
-In the CONVINCE trial, the primary analysis demonstrated a survival benefit for patients receiving high-dose hemodiafiltration (HDF) as compared with high-flux hemodialysis (HD). A secondary objective was to evaluate effects on health-related quality of life (HRQoL); assessed in eight domains (physical function, cognitive function, fatigue, sleep disturbance, anxiety, depression, pain interference, social participation) applying instruments from the Patient-Reported Outcome Measurement Information System (PROMIS) before randomization and every three months thereafter. In total 1360 adults with dialysis-dependent chronic kidney disease, eligible to receive high-flux HDF (23 liters or more), were randomized (1:1); 84% response rate to all questionnaires. Both groups reported a continuous deterioration in all HRQoL domains. Overall, raw score changes from baseline were more favorable in the HDF group, resulting in a significant omnibus test after a median observation period of 30 months. Most relevant single raw score differences were reported for cognitive function. Patients receiving HDF reported a decline of -0.95 units (95% confidence interval - 2.23 to&#xa0;+0.34) whereas HD treated patients declined by -3.90 units (-5.28 to - 2.52). A joint model, adjusted for mortality differences, utilizing all quarterly assessments, identified a significantly slower HRQoL decline in physical function, cognitive function, pain interference, and social participation for the HDF group. Their physical health summary score declined -0.46 units/year slower compared to the HD group. Thus, the CONVINCE trial showed a beneficial effect of high-dose hemodiafiltration for survival as well as a moderate positive effect on patients' quality of life, most pronounced with respect to their cognitive function. REGISTRATION: NTR7138 on the International Clinical Trials Registry Platform.
+The cognitive neural mechanisms by which sleep deprivation affects cognitive flexibility are poorly understood. Therefore, the study investigated the neuroelectrophysiological basis of the effect of 24&#xa0;h sleep deprivation on cognitive flexibility in adolescents. 72 participants (36 females, mean age&#xa0;&#xb1;&#xa0;SD=20.46&#xa0;&#xb1;&#xa0;2.385&#xa0;years old) participated in the study and were randomly assigned to the sleep deprivation group and control group. They were instructed to complete a task switch paradigm, during which participants' behavioral and electroencephalographic data were recorded. Behaviorally, there were significant between-group differences in accuracy. The results of event-related potential showed that the P2, N2 and P3 components had significant group effects or interaction effects. At the time-frequency level, there were statistically significant differences between the delta and theta bands. These results suggested that 24&#xa0;h sleep deprivation affected problem-solving effectiveness rather than efficiency, mainly because it systematically impaired cognitive processing associated with cognitive flexibility.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.kint.2024.07.014
+- DOI: 10.1016/j.concog.2024.103734
 
 2. Keywords
-- health-related quality of life
-- hemodiafiltration
-- hemodialysis
-- patient-reported outcomes
-- quality of life
-- randomized controlled trial
+- Cognitive flexibility
+- EEG
+- Sleep deprivation
+- Task switch
+- Working memory
 
 3. Key Findings
-- In the CONVINCE trial, the primary analysis demonstrated a survival benefit for patients receiving high-dose hemodiafiltration (HDF) as compared with high-flux hemodialysis (HD)
-- Thus, the CONVINCE trial showed a beneficial effect of high-dose hemodiafiltration for survival as well as a moderate positive effect on patients' quality of life, most pronounced with respect to their cognitive function
+- The results of event-related potential showed that the P2, N2 and P3 components had significant group effects or interaction effects
 
 This study provides insights into:
-- health-related quality of life assessment methods and outcomes
-- hemodiafiltration assessment methods and outcomes
-- hemodialysis assessment methods and outcomes
+- Cognitive flexibility assessment methods and outcomes
+- EEG assessment methods and outcomes
+- Sleep deprivation assessment methods and outcomes

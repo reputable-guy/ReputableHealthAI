@@ -1,27 +1,27 @@
-Study Title: Receiving self-compassion in the virtual world: Testing the potential value of biofeedback.
+Study Title: The effect of a selenium-based anti-inflammatory strategy on postoperative functional recovery in high-risk cardiac surgery patients - A nested sub-study of the sustain CSX trial.
 
 Study Summary:
-Self-compassion training has been shown to deliver mental health benefits and preliminary evidence suggests it might also be possible to deliver these benefits effectively via virtual reality (VR) technology. However, which features of the VR training environment influence these training benefits remains poorly understood. This study was designed to provide the first empirical test of the potential value of visual biofeedback during self-compassion training. It was theorised that the provision of biofeedback may increase the benefits of training by increasing mindfulness, a core component of self-compassion. Sixty participants were randomly allocated to one of two experimental conditions, both of which comprised VR-based self-compassion training, but only one of which included visual biofeedback (a red pulsating light representing heart rate). Relative to scores at baseline, participants reported greater self-compassion, and lower self-criticism, anxiety, and stress after VR self-compassion training. However, the provision of biofeedback did not influence the strength of these training effects. These data provide further evidence that VR administered self-compassion training may deliver potentially important mental health benefits, but also meaningfully extends this literature by proving the first evidence that visual biofeedback does not influence the strength of these benefits.
+The cardiac surgery-related ischemia-reperfusion-related oxidative stress triggers the release of cytotoxic reactive oxygen and nitrogen species, contributing to organ failure and ultimately influencing patients' short- and long-term outcomes. Selenium is an essential co-factor for various antioxidant enzymes, thereby contributing to the patients' endogenous antioxidant and anti-inflammatory defense mechanisms. Given these selenium's pleiotropic functions, we investigated the effect of a high-dose selenium-based anti-inflammatory perioperative strategy on functional recovery after cardiac surgery. This prospective study constituted a nested sub-study of the SUSTAIN CSX trial, a double-blinded, randomized, placebo-controlled multicenter trial to investigate the impact of high-dose selenium supplementation on high-risk cardiac surgery patients' postoperative recovery. Functional recovery was assessed by 6-min walk distance, Short Form-36 (SF-36) and Barthel Index questionnaires. 174 patients were included in this sub-study. The mean age (SD) was 67.3 (8.9) years, and 78.7&#xa0;% of the patients were male. The mean (SD) predicted 30-day mortality by the European System for Cardiac Operative Risk Evaluation II score was 12.6&#xa0;% (9.4&#xa0;%). There was no difference at hospital discharge and after three months in the 6-min walk distance between the selenium and placebo groups (131&#xa0;m [IQR: not performed - 269] vs. 160&#xa0;m [IQR: not performed - 252], p&#xa0;=&#xa0;0.80 and 400&#xa0;m [IQR: 299-461] vs. 375&#xa0;m [IQR: 65-441], p&#xa0;=&#xa0;0.48). The SF-36 and Barthel Index assessments also revealed no clinically meaningful differences between the selenium and placebo groups. A perioperative anti-inflammatory strategy with high-dose selenium supplementation did not improve functional recovery in high-risk cardiac surgery patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.brat.2024.104596
+- DOI: 10.1016/j.lfs.2024.122841
 
 2. Keywords
-- Biofeedback
-- Mental health
-- Mindfulness
-- Self-compassion
-- Self-criticism
-- Virtual reality
+- Anti-inflammatory strategies
+- Cardiac surgery
+- Functional recovery
+- Inflammation
+- Nutrition
+- Selenium
 
 3. Key Findings
-- Findings extraction requires manual review
+- The SF-36 and Barthel Index assessments also revealed no clinically meaningful differences between the selenium and placebo groups
 
 This study provides insights into:
-- Biofeedback assessment methods and outcomes
-- Mental health assessment methods and outcomes
-- Mindfulness assessment methods and outcomes
+- Anti-inflammatory strategies assessment methods and outcomes
+- Cardiac surgery assessment methods and outcomes
+- Functional recovery assessment methods and outcomes

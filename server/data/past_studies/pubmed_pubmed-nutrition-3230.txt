@@ -1,26 +1,26 @@
-Study Title: Effects of a multidomain intervention against cognitive decline on dementia risk profiles - Results from the AgeWell.de trial.
+Study Title: Lipoprotein(a) and diet: consuming sugar-sweetened beverages lowers lipoprotein(a) levels in obese and overweight adults.
 
 Study Summary:
-Dementia risk scores constitute promising surrogate outcomes for lifestyle interventions targeting cognitive function. We investigated whether dementia risk, assessed using the LIfestyle for BRAin health (LIBRA) index, was reduced by the AgeWell.de intervention. Secondary analyses of the AgeWell trial, testing a multicomponent intervention (including optimization of nutrition, medication, and physical, social, and cognitive activity) in older adults with increased dementia risk. We analyzed data from n&#xa0;=&#xa0;461 participants with complete information on risk/protective factors comprised by LIBRA at the 24-month follow-up. Intervention effects on LIBRA and LIBRA components were assessed using generalized linear models. The intervention reduced LIBRA scores, indicating decreased dementia risk at follow-up (b&#xa0;=&#xa0;-0.63, 95% confidence interval [CI]: -1.14, -0.12). Intervention effects were particularly due to improvements in diet (odds ratio [OR]: 1.60, 95% CI: 1.16, 2.22) and hypertension (OR: 1.61, 95% CI: 1.19, 2.18). The AgeWell.de intervention reduced dementia risk. However, several risk factors did not improve, possibly requiring more intensive interventions. The AgeWell.de intervention reduced dementia risk according to LIfestyle for BRAin health (LIBRA) scores. Beneficial effects on LIBRA are mainly due to changes in diet and blood pressure. A pragmatic lifestyle intervention is apt to reduce dementia risk in an at-risk population.
+Lipoprotein(a) [Lp(a)] contributes to cardiovascular disease risk. A genetically determined size polymorphism in apolipoprotein(a) [apo(a)], determined by the number of Kringle (K) repeats, inversely regulates Lp(a) levels. Nongenetic factors including dietary saturated fat influence Lp(a) levels. However, less is known about the effects of carbohydrates including dietary sugars. In this double-blind, parallel arm study among 32 overweight/obese adults, we investigated the effect of consuming glucose- or fructose-sweetened beverages providing 25% of energy requirements for 10&#xa0;weeks on Lp(a) level and assessed the role of the apo(a) size polymorphism. The mean (&#xb1;SD) age of participants was 54 &#xb1; 8&#xa0;years, 50% were women, and 75% were of European descent. Following the 10-week intervention, Lp(a) level was reduced by an average (&#xb1;SEM) of&#xa0;-13.2% &#xb1; 4.3% in all participants (P&#xa0;= 0.005);&#xa0;-15.3% &#xb1; 7.8% in the 15 participants who consumed glucose (P&#xa0;= 0.07); and -11.3% &#xb1; 4.5% in the 17 participants who consumed fructose (P&#xa0;= 0.02), without any significant difference in the effect between the two sugar groups. Relative changes in Lp(a) levels were similar across subgroups of lower versus higher baseline Lp(a) level or carrier versus noncarrier of an atherogenic small (&#x2264;22K) apo(a) size. In contrast, LDL-C increased. In conclusion, in older, overweight/obese adults, consuming sugar-sweetened beverages reduced Lp(a) levels by &#x223c;13% independently of apo(a) size variability and the type of sugar consumed. The Lp(a) response was opposite to that of LDL-C and triglyceride concentrations. These findings suggest that metabolic pathways might impact Lp(a) levels.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/alz.14097
+- DOI: 10.1016/j.jlr.2024.100588
 
 2. Keywords
-- dementia
-- lifestyle
-- prevention
-- randomized controlled trial
-- risk factor
+- Lp(a) metabolism
+- apolipoprotein
+- fructose
+- glucose
+- nutrition
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- dementia assessment methods and outcomes
-- lifestyle assessment methods and outcomes
-- prevention assessment methods and outcomes
+- Lp(a) metabolism assessment methods and outcomes
+- apolipoprotein assessment methods and outcomes
+- fructose assessment methods and outcomes

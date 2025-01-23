@@ -1,25 +1,26 @@
-Study Title: The "glass shoulder": Patients' lived experiences of a traumatic shoulder dislocation - A qualitative study.
+Study Title: Acoustic Stimulation to Improve Slow-Wave Sleep in Alzheimer's Disease: A Multiple Night At-Home Intervention.
 
 Study Summary:
-Anterior shoulder dislocations have a high recurrence rate, often necessitating stabilizing surgery, with residual long-term fear of reinjury. To explore patients' experiences of anterior shoulder dislocations in relation to their lives, well-being, fear of reinjury, and future perspectives. Qualitative study. We interviewed fourteen individuals (median age 27.5&#xa0;yrs, range 21-40; two women) with traumatic anterior glenohumeral dislocation within 5 years, with or without past stabilizing surgery. We analysed data using Interpretive Description. We constructed three main themes. (1) Downward wellness spiral: The injury shattered their lives, influencing their self-identity and -confidence. Sleep disturbances added to stress levels, loss, depression and grief. The re-injury risk could lead to social isolation. (2) Out of arm's reach: Recurrences led to frustration as the prior surgery and rehabilitation appeared to have been unsuccessful, having to start again. Support from healthcare providers and wh&#x101;nau/family was crucial to regain trust in the body. (3) Obligatory compromise: Over time, some individuals accepted the re-injury risk, learnt to heed warning signals, or compromised by avoiding specific social and recreational activities, changing their sports or to other roles in their preferred sport, and adapting work-related and daily tasks. Participants described in-depth socio-emotional responses following shoulder dislocations. Most participants described an ongoing interplay between fear and confidence in their shoulder. Healthcare provider support and professional relationship, on-going shoulder-related strengthening, and risk mitigation strategies were important to facilitate and maintain confidence and self-efficacy, and to re-consider and adjust the participant's goals when needed.
+To investigate the efficacy of closed-loop acoustic stimulation (CLAS) during slow-wave sleep (SWS) to enhance slow-wave activity (SWA) and SWS in patients with Alzheimer's disease (AD) across multiple nights and to explore associations between stimulation, participant characteristics, and individuals' SWS response. A 2-week, open-label at-home intervention study utilizing the DREEM2 headband to record sleep data and administer CLAS during SWS. Fifteen older patients with AD (6 women, mean age: 76.27 [SD = 6.06], mean MOCA-score: 16.07 [SD = 6.94]), living at home with their partner, completed the trial. Patients first wore the device for two baseline nights, followed by 14 nights during which the device was programmed to randomly either deliver acoustic stimulations of 50 ms pink noise (&#xb1; 40 dB) targeted to the slow-wave up-phase during SWS or only mark the wave (sham). On a group level, stimulation significantly enhanced SWA and SWS with consistent SWS enhancement throughout the intervention. However, substantial variability existed in individual responses to stimulation. Individuals received more stimulations on nights with increased SWS compared to baseline than on nights with no change or a decrease. In individuals, having lower baseline SWS correlated with receiving fewer stimulations on average during the intervention. CLAS during SWS is a promising nonpharmacological method to enhance SWA and SWS in AD. However, patients with lower baseline SWS received fewer stimulations during the intervention, possibly resulting in less SWS enhancement. Individual variability in response to stimulation underscores the need to address personalized stimulation parameters in future research and therapy development.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.msksp.2024.103143
+- DOI: 10.1016/j.jagp.2024.07.002
 
 2. Keywords
-- Fear
-- Joint dislocation
-- Qualitative
-- Shoulder
+- Alzheimer's disease
+- acoustic stimulation
+- sleep
+- slow wave sleep
+- wearable device
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Fear assessment methods and outcomes
-- Joint dislocation assessment methods and outcomes
-- Qualitative assessment methods and outcomes
+- Alzheimer's disease assessment methods and outcomes
+- acoustic stimulation assessment methods and outcomes
+- sleep assessment methods and outcomes

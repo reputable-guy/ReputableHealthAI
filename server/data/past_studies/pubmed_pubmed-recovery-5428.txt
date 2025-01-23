@@ -1,27 +1,23 @@
-Study Title: Effect of Repetitive Transcranial Magnetic Stimulation on Post-Stroke Comorbid Cognitive Impairment and Depression: A Randomized Controlled Trial.
+Study Title: Acute Effects of Foam Rolling vs. Vibration Foam Rolling on Blood Flow Parameters in Professional Soccer Players: A Randomized Crossover Design.
 
 Study Summary:
-There are currently no uniform treatments for post-stroke comorbid cognitive impairment and depression (PSCCID). To verify whether repetitive transcranial magnetic stimulation (rTMS) can improve PSCCID symptoms and explore the underlying roles of resting-state functional magnetic resonance imaging (rs-fMRI). Thirty PSCCID patients were randomized in a 1&#x200a;:&#x200a;1 ratio to receive 4 weeks of rTMS (intervention group) or sham rTMS (control group) over the left dorsolateral prefrontal cortex (DLPFC). rs-fMRI was acquired to analyze the functional plasticity of brain regions at baseline and immediately after the last intervention. Cognition, depression status, and neural electrophysiology were improved in both intervention and control groups after treatment (p&#x200a;=&#x200a;0.015-0.042), and the intervention group had more significant improvement than the control group. Analysis of functional connectivities (FCs) within the default mood network (DMN) showed that the connection strength of the left temporal pole/left parahippocampal cortex and right lateral temporal cortex/right retrosplenial cortex in the intervention group were enhanced compared with its pre-intervention and that in the control group after treatment (p&#x200a;<&#x200a;0.05), and the both FC values were positively correlated with MMSE scores (p&#x200a;<&#x200a;0.001). The intervention group had stronger FCs within the DMN compared with the control group after treatment, and some of the enhanced FCs were correlated with the P300 latency and amplitude. rTMS over the left DLPFC is an effective treatment for improving both cognitive impairment and depression among patients with PSCCID. The enhanced FCs within the DMN may serve as a compensatory functional recombination to promote clinical recovery.
+Padr&#xf3;n-Cabo, A, Alonso-Calvete, A, Radzimi&#x144;ski, &#x141;, Rey, E, and Lorenzo-Mart&#xed;nez, M. Acute Effects of foam rolling vs. vibration foam rolling on blood flow parameters in professional soccer players: a randomized crossover design. J Strength Cond Res 38(11): 1885-1890, 2024-The study aimed to compare the effects of foam roller (FR) and vibration foam roller (VFR) on blood flow parameters, measured by Doppler ultrasonography in professional soccer players. A randomized crossover design was used, and 10 professional soccer players participated in 3 experimental sessions: FR, VFR, and a control condition (CC). The maximum velocity (MVel) and maximum volume (MVol) blood flow parameters were measured in the common femoral artery of the dominant leg at 5 different time points as follows: before (pre), immediately after (post 0'), 10 (post 10'), 20 (post 20'), and 30 minutes (post 30') after the intervention. Both FR and VFR involved two 45-second sets with 15-second rest between sets in the quadriceps and hamstring, while CC required sitting for 240 seconds. The FR condition showed a significant increase in MVel ( p < 0.01) at all time points after the intervention, and an increase in MVol ( p < 0.05) only at post 0' compared with pre. The VFR condition showed a significant ( p < 0.05) increase in MVel at post 0' and post 10' and an increase ( p < 0.05) in MVol at post 0' compared with pre. In comparison with CC, the FR and VFR conditions presented significantly ( p < 0.05) higher MVel values at post 0', post 10', post 20', and post 30' than CC. For both FR and VFR conditions, the MVol not only revealed a significant ( p < 0.05) increase at post 0' but also at post 10' for VFR compared with CC. In summary, the FR and VFR interventions demonstrated a similar increase in blood flow parameters, suggesting that both strategies may accelerate physiological recovery in elite soccer players.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3233/JAD-240505
+- DOI: 10.1519/JSC.0000000000004896
 
 2. Keywords
-- Alzheimer&#x2019;s disease
-- cognitive impairment
-- default mood network
-- depression
-- repetitive transcranial magnetic stimulation
-- stroke
+
 
 3. Key Findings
-- Analysis of functional connectivities (FCs) within the default mood network (DMN) showed that the connection strength of the left temporal pole/left parahippocampal cortex and right lateral temporal cortex/right retrosplenial cortex in the intervention group were enhanced compared with its pre-intervention and that in the control group after treatment (p&#x200a;<&#x200a;0
+- The FR condition showed a significant increase in MVel ( p < 0
+- The VFR condition showed a significant ( p < 0
+- For both FR and VFR conditions, the MVol not only revealed a significant ( p < 0
+- In summary, the FR and VFR interventions demonstrated a similar increase in blood flow parameters, suggesting that both strategies may accelerate physiological recovery in elite soccer players
 
 This study provides insights into:
-- Alzheimer&#x2019;s disease assessment methods and outcomes
-- cognitive impairment assessment methods and outcomes
-- default mood network assessment methods and outcomes
+- General research methodology and outcomes

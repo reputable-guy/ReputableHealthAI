@@ -1,27 +1,25 @@
-Study Title: The biphasic activity of autophagy and heat shock protein response in peripheral blood mononuclear cells following acute resistance exercise in resistance-trained males.
+Study Title: Sulforaphane upregulates the mRNA expression of NRF2 and NQO1 in non-dialysis patients with chronic kidney disease.
 
 Study Summary:
-Autophagy and heat shock protein (HSP) response are proteostatic systems involved in the acute and adaptive responses to exercise. These systems may upregulate sequentially following cellular stress including acute exercise, however, currently few data exist in humans. This study investigated the autophagic and HSP responses to acute intense lower body resistance exercise in peripheral blood mononuclear cells (PBMCs) with and without branched-chain amino acids (BCAA) supplementation. Twenty resistance-trained males (22.3&#x2009;&#xb1;&#x2009;1.5&#xa0;yr; 175.4&#x2009;&#xb1;&#x2009;.7&#xa0;cm; 86.4&#x2009;&#xb1;&#x2009;15.6&#xa0;kg) performed a bout of intense lower body resistance exercise and markers of autophagy and HSP70 were measured immediately post- (IPE) and 2, 4, 24, 48, and 72&#xa0;h post-exercise. Prior to resistance exercise, 10 subjects were randomly assigned to BCAA supplementation of 0.22&#xa0;g/kg/d for 5&#xa0;days pre-exercise and up to 72&#xa0;h following exercise while the other 10 subjects consumed a placebo (PLCB). There were no difference in autophagy markers or HSP70 expression between BCAA and PLCB groups. LC3II protein expression was significantly lower 2 and 4&#xa0;h post-exercise compared to pre-exercise. LC3II: I ratio was not different at any time point compared to pre-exercise. Protein expression of p62 was lower IPE, 2, and 4&#xa0;h post-exercise and elevated 24&#xa0;h post-exercise. HSP70 expression was elevated 48 and 72&#xa0;h post-exercise. Autophagy and HSP70 are upregulated in PBMCs following intense resistance exercise with autophagy increasing initially post-exercise and HSP response in the latter period. Moreover, BCAA supplementation did not affect this response.
+Sulforaphane (SFN), found in cruciferous vegetables, is a known activator of NRF2 (master regulator of cellular antioxidant responses). Patients with chronic kidney disease (CKD) present an imbalance in the redox state, presenting reduced expression of NRF2 and increased expression of NF-&#x3ba;B. Therefore, this study aimed to evaluate the effects of SFN on the mRNA expression of NRF2, NF-&#x3ba;B and markers of oxidative stress in patients with CKD. Here, we observed a significant increase in the mRNA expression of NRF2 (p&#xa0;=&#xa0;0.02) and NQO1 (p&#xa0;=&#xa0;0.04) in the group that received 400&#xa0;&#x3bc;g/day of SFN for 1 month. Furthermore, we observed an improvement in the levels of phosphate (p&#xa0;=&#xa0;0.02), glucose (p&#xa0;=&#xa0;0.05) and triglycerides (p&#xa0;=&#xa0;0.02) also in this group. On the other hand, plasma levels of LDL-c (p&#xa0;=&#xa0;0.04) and total cholesterol (p&#xa0;=&#xa0;0.03) increased in the placebo group during the study period. In conclusion, 400&#xa0;&#x3bc;g/day of SFN for one month improves the antioxidant system and serum glucose and phosphate levels in non-dialysis CKD patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00421-024-05503-5
+- DOI: 10.1016/j.freeradbiomed.2024.05.034
 
 2. Keywords
-- Autophagy
-- Branched-chain amino acids
-- Heat shock proteins
-- Proteostasis
-- Resistance exercise
-- Training
+- Chronic kidney disease
+- NF-E2-related factor 2
+- Oxidative stress
+- Sulforaphane
 
 3. Key Findings
-- Findings extraction requires manual review
+- Sulforaphane (SFN), found in cruciferous vegetables, is a known activator of NRF2 (master regulator of cellular antioxidant responses)
 
 This study provides insights into:
-- Autophagy assessment methods and outcomes
-- Branched-chain amino acids assessment methods and outcomes
-- Heat shock proteins assessment methods and outcomes
+- Chronic kidney disease assessment methods and outcomes
+- NF-E2-related factor 2 assessment methods and outcomes
+- Oxidative stress assessment methods and outcomes

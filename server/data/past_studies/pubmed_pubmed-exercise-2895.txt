@@ -1,40 +1,29 @@
-Study Title: Deconstructing Fitbit to Specify the Effective Features in Promoting Physical Activity Among Inactive Adults: Pilot Randomized Controlled Trial.
+Study Title: Early postoperative water exposure does not increase complications in cutaneous surgeries: A randomized, investigator-blinded, controlled trial.
 
 Study Summary:
-Wearable activity trackers have become key players in mobile health practice as they offer various behavior change techniques (BCTs) to help improve physical activity (PA). Typically, multiple BCTs are implemented simultaneously in a device, making it difficult to identify which BCTs specifically improve PA. We investigated the effects of BCTs implemented on a smartwatch, the Fitbit, to determine how each technique promoted PA. This study was a single-blind, pilot randomized controlled trial, in which 70 adults (n=44, 63% women; mean age 40.5, SD 12.56 years; closed user group) were allocated to 1 of 3 BCT conditions: self-monitoring (feedback on participants' own steps), goal setting (providing daily step goals), and social comparison (displaying daily steps achieved by peers). Each intervention lasted for 4 weeks (fully automated), during which participants wore a Fitbit and responded to day-to-day questionnaires regarding motivation. At pre- and postintervention time points (in-person sessions), levels and readiness for PA as well as different aspects of motivation were assessed. Participants showed excellent adherence (mean valid-wear time of Fitbit=26.43/28 days, 94%), and no dropout was recorded. No significant changes were found in self-reported total PA (dz<0.28, P=.40 for the self-monitoring group, P=.58 for the goal setting group, and P=.19 for the social comparison group). Fitbit-assessed step count during the intervention period was slightly higher in the goal setting and social comparison groups than in the self-monitoring group, although the effects did not reach statistical significance (P=.052 and P=.06). However, more than half (27/46, 59%) of the participants in the precontemplation stage reported progress to a higher stage across the 3 conditions. Additionally, significant increases were detected for several aspects of motivation (ie, integrated and external regulation), and significant group differences were identified for the day-to-day changes in external regulation; that is, the self-monitoring group showed a significantly larger increase in the sense of pressure and tension (as part of external regulation) than the goal setting group (P=.04). Fitbit-implemented BCTs promote readiness and motivation for PA, although their effects on PA levels are marginal. The BCT-specific effects were unclear, but preliminary evidence showed that self-monitoring alone may be perceived demanding. Combining self-monitoring with another BCT (or goal setting, at least) may be important for enhancing continuous engagement in PA. Open Science Framework; https://osf.io/87qnb/?view_only=f7b72d48bb5044eca4b8ce729f6b403b.
+Patients are often advised to keep the initial postoperative dressings dry and undisturbed for 24 to 72 hours. However, these requirements may result in significant disruption of patients' activities of daily living, such as bathing, leisure, and exercise. Compare standard management of keeping wounds dry and covered (48 hours) with early (6 hours) postoperative water exposure. Investigator-blinded, randomized (1:1), controlled trial evaluating rate of infection and additional outcomes of interest. Overall, 437 patients were randomized to either the early (6-hour) water exposure (n&#xa0;=&#xa0;218) intervention group or the standard cohort (n&#xa0;=&#xa0;219). The incidence of culture-proven infection in the intervention group (1.8%) was similar to the standard group (1.4%) (P&#xa0;>&#xa0;.99). There was also no difference in rates of bleeding or bruising. Scar assessment using the Patient and Observer Scar Assessment Scale revealed similar scar outcomes. Single site, academic center. Surgical wounds can be allowed to get wet in the immediate postoperative period with no increased incidence of infection or other complications and with similar cosmesis.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/51216
+- DOI: 10.1016/j.jaad.2024.05.098
 
 2. Keywords
-- BCT
-- Fitbit
-- adherence
-- behavior change
-- behavior change technique
-- engagement
-- exercise
-- fitness
-- lifestyle
-- mHealth
-- mobile health
-- motivation
-- physical activity
-- smartwatch
-- wearable activity tracker
-- wearables
+- Mohs surgery
+- bruising
+- dermatologic surgery
+- early water exposure
+- hematoma
+- postoperative infection
+- scar assessment
+- wound dressing
 
 3. Key Findings
-- Participants showed excellent adherence (mean valid-wear time of Fitbit=26
-- No significant changes were found in self-reported total PA (dz<0
-- Additionally, significant increases were detected for several aspects of motivation (ie, integrated and external regulation), and significant group differences were identified for the day-to-day changes in external regulation; that is, the self-monitoring group showed a significantly larger increase in the sense of pressure and tension (as part of external regulation) than the goal setting group (P=
-- The BCT-specific effects were unclear, but preliminary evidence showed that self-monitoring alone may be perceived demanding
+- Scar assessment using the Patient and Observer Scar Assessment Scale revealed similar scar outcomes
 
 This study provides insights into:
-- BCT assessment methods and outcomes
-- Fitbit assessment methods and outcomes
-- adherence assessment methods and outcomes
+- Mohs surgery assessment methods and outcomes
+- bruising assessment methods and outcomes
+- dermatologic surgery assessment methods and outcomes

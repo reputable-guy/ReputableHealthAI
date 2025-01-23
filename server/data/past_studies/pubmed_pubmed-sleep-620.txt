@@ -1,26 +1,24 @@
-Study Title: Impact of increased protein intake in older adults: a 12-week double-blind randomised controlled trial.
+Study Title: The Effect of Melatonin on Reducing the Frequency and Severity of Migraine Attacks: A Double-Blind, Randomized Clinical Trial.
 
 Study Summary:
-Emerging evidence suggests health-promoting properties of increased protein intake. There is increased interest in plant protein but a dearth of information in relation to its impact on muscle function. The objective of the present work was to examine the impact of intake of different types of proteins on muscle functional parameters including handgrip strength, biomarkers of metabolic health, sleep quality and quality of life in a group of older adults. Healthy men and women aged 50&#xa0;years and older entered a double-blinded, randomised, controlled nutritional intervention study with three parallel arms: high plant protein, high dairy protein and low protein. Participants consumed once daily a ready-to-mix shake (containing 20&#xa0;g of protein in high protein groups) for 12&#xa0;weeks. Changes in handgrip and leg strength, body composition, metabolic health, quality of life and sleep quality were analysed by linear mixed models in an intention-to-treat approach. Eligible participants (n&#xa0;=&#x2009;171) were randomly assigned to the groups (plant: n&#xa0;=&#x2009;60, dairy: n&#xa0;=&#x2009;56, low protein: n&#xa0;=&#x2009;55) and 141 completed the study. Handgrip strength increased after the intervention (Ptime&#xa0;=&#x2009;0.038), with no significant difference between the groups. There was no significant difference between groups for any other health outcomes. In a population of older adults, increasing protein intake by 20&#xa0;g daily for 12&#xa0;weeks (whether plant-based or dairy-based) did not result in significant differences in muscle function, body composition, metabolic health, sleep quality or quality of life, compared with the low protein group.
+There is no definite recommendation for melatonin supplementation in episodic migraine. This study aimed to evaluate the effect of melatonin on reducing the frequency and severity of migraine attacks. This randomized, double-blind clinical trial was conducted at Golestan Hospital of Ahvaz, Iran, in 2021. A total of 60 patients with episodic migraine were randomly assigned into 2 groups of receiving 3 mg melatonin (intervention group; n=30) or the same dose of placebo (control group; n=30) along with baseline therapy (propranolol 20 mg, BID) for two months. The attack frequency, attack duration, attack severity (based on VAS), the number of analgesic intakes, drug complications, Migraine Disability Assessment score (MIDAS), and Pittsburgh sleep quality index (PSQI) were evaluated at baseline and in the first, second, third, and fourth months of follow-up. The independenttest, chi-square, and analysis of variance (ANOVA) with repeated measures were used to compare variables between the two groups. In both groups, the frequency, duration, and severity of attacks, taking analgesics, MIDAS, and PSQI scores during follow-up decreased significantly (P<0.001). After treatment, the mean frequency (P=0.032) and duration of attacks (P=0.001), taking analgesic (P<0.001), and MIDAS (P<0.001) and PSQI scores (P<0.001) in the melatonin group were lower than placebo. Only the attack severity was not significantly different between the two groups (P=0.126). Side effects were observed in two patients (6.7%) in the melatonin group and one patient (3.3%) in the placebo group (P>0.999). Our study shows that melatonin was more efficacious than the placebo in the reduction of frequency and duration of migraine attacks. It was equally safe as the placebo and might be effective in the preventive treatment of episodic migraine in adults.IRCT20190107042264N5.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/ageing/afae031
+- DOI: 10.30476/ijms.2023.97782.2965
 
 2. Keywords
-- handgrip
-- muscle function
-- older people
-- plant-protein
-- protein
+- Headache
+- Melatonin
+- Migraine disorders
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- handgrip assessment methods and outcomes
-- muscle function assessment methods and outcomes
-- older people assessment methods and outcomes
+- Headache assessment methods and outcomes
+- Melatonin assessment methods and outcomes
+- Migraine disorders assessment methods and outcomes

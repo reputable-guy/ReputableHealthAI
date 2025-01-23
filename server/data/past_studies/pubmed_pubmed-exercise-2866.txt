@@ -1,30 +1,26 @@
-Study Title: Effects of combined anodal transcranial direct current stimulation and motor control exercise on cortical topography and muscle activation in individuals with chronic low back pain: A randomized controlled study.
+Study Title: Predictors of the efficacy of His bundle pacing in patients with a prolonged PR interval: A stratified analysis of the HOPE-HF randomized controlled trial.
 
 Study Summary:
-Aberrant movement in chronic low back pain (CLBP) is associated with a deficit in the lumbar multifidus (LM) and changes in cortical topography. Anodal transcranial direct current stimulation (a-tDCS) can be used to enhance cortical excitability by priming the neuromuscular system for motor control exercise (MCE), thereby enhancing LM activation and movement control. This study aimed to determine the effects of a 6-week MCE program combined with a-tDCS on cortical topography, LM activation, movement patterns, and clinical outcomes in individuals with CLBP. Twenty-two individuals with CLBP were randomly allocated to the a-tDCS group (a-tDCS; n&#xa0;=&#xa0;12) or sham-tDCS group (s-tDCS; n&#xa0;=&#xa0;10). Both groups received 20&#xa0;min of tDCS followed by 30&#xa0;min of MCE. The LM and erector spinae (ES) cortical topography, LM activation, movement control battery tests, and clinical outcomes (disability and quality of life) were measured pre- and post-intervention. Significant interaction (group&#xa0;&#xd7;&#xa0;time; p&#xa0;<&#xa0;0.01) was found in the distance between LM and ES cortical locations. The a-tDCS group demonstrated significantly fewer discrete peaks (p&#xa0;<&#xa0;0.05) in both ES and LM and significant improvements (p&#xa0;<&#xa0;0.05) in clinical outcomes post-intervention. The s-tDCS group demonstrated a significant increase (p&#xa0;<&#xa0;0.05) in the number of discrete peaks in the LM cortical topography. No significant changes (p&#xa0;>&#xa0;0.05) in LM activation were observed in either group; however, both groups demonstrated improved movement patterns. Our findings suggest that combined a-tDCS with MCE can separate LM and ES locations over time while s-tDCS (MCE alone) reduces the distance. Our study did not find superior benefits of adding a-tDCS before MCE for LM activation, movement patterns, or clinical outcomes.
+The randomized, double-blind, placebo-controlled HOPE-HF trial assessed the benefit of atrio-ventricular (AV) delay optimization delivered using His bundle pacing. It recruited patients with left ventricular ejection fraction &#x2264;40%, PR interval &#x2265;200&#x2009;ms, and baseline QRS &#x2264;140&#x2009;ms or right bundle branch block. Overall, there was no significant increase in peak oxygen uptake (VOmax) but there was significant improvement in heart failure specific quality of life. In this pre-specified secondary analysis, we evaluated the impact of baseline PR interval, echocardiographic E-A fusion, and the magnitude of acute high-precision haemodynamic response to pacing, on outcomes. All 167 randomized participants underwent measurement of PR interval, acute haemodynamic response at optimized AV delay, and assessment of presence of E-A fusion. We tested the impact of these baseline parameters using a Bayesian ordinal model on VOmax, quality of life and activity measures. There was strong evidence of a beneficial interaction between the baseline acute haemodynamic response and the blinded benefit of pacing for VO(Pr 99.9%), Minnesota Living With Heart Failure (MLWHF) (Pr 99.8%), MLWHF physical limitation score (Pr 98.9%), EQ-5D visual analogue scale (Pr 99.6%), and exercise time (Pr 99.4%). The baseline PR interval and the presence of baseline E-A fusion did not have this reliable ability to predict the clinical benefit of pacing over placebo across multiple endpoints. In the HOPE-HF trial, the acute haemodynamic response to pacing reliably identified patients who obtained clinical benefit. Patients with a long PR interval (&#x2265;200&#x2009;ms) and left ventricular impairment who obtained acute haemodynamic improvement with AV-optimized His bundle pacing were likely to obtain clinical benefit, consistent across multiple endpoints. Importantly, this gradation can be reliably tested for before randomization, but does require high-precision AV-optimized haemodynamic assessment to be performed.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/pri.2111
+- DOI: 10.1002/ejhf.3367
 
 2. Keywords
-- cortical topography
-- lumbar multifidus
-- movement pattern
-- transcranial direct current stimulation
-- transcranial magnetic stimulation
-- ultrasound imaging
+- Atrio&#x2010;ventricular delay optimization
+- Conduction system pacing
+- Haemodynamic study
+- His&#xa0;bundle pacing
+- Physiological pacing
 
 3. Key Findings
-- 01) was found in the distance between LM and ES cortical locations
-- The a-tDCS group demonstrated significantly fewer discrete peaks (p&#xa0;<&#xa0;0
-- The s-tDCS group demonstrated a significant increase (p&#xa0;<&#xa0;0
-- 05) in LM activation were observed in either group; however, both groups demonstrated improved movement patterns
+- Findings extraction requires manual review
 
 This study provides insights into:
-- cortical topography assessment methods and outcomes
-- lumbar multifidus assessment methods and outcomes
-- movement pattern assessment methods and outcomes
+- Atrio&#x2010;ventricular delay optimization assessment methods and outcomes
+- Conduction system pacing assessment methods and outcomes
+- Haemodynamic study assessment methods and outcomes

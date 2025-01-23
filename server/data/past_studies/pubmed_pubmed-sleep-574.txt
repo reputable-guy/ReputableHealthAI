@@ -1,30 +1,27 @@
-Study Title: Comparative evaluation of the sleep quality metrics between a cardboard bed and a camp cot: a randomized controlled crossover study.
+Study Title: Physical and Psychological Impact of the Covid-19 Pandemic on Healthcare Workers, Including End of Life Care Providers.
 
 Study Summary:
-Health-beneficial emergency bedding has become increasingly important for dealing with natural disasters such as the anticipated Nankai Trough earthquake in Japan. When the Great East Japan Earthquake occurred, cardboard beds were provided to evacuees. However, there were concerns about lower back pain and sleep disturbances, as cardboard beds offer insufficient pressure distribution. This study aimed to compare the effects of cardboard beds with those of foldable camp cots on sleep quality. A randomized controlled crossover study involving 20 healthy participants aged 18-45 years was conducted between June 2022 and January 2023. Participants were asked to sleep for one night on a camp cot and for another night on a cardboard bed, with a minimum three-day washout period between the two nights. Body pressure distribution and sleep metrics obtained from polysomnography (PSG) and questionnaires were compared between the two-bed types (< 0.05). The camp cot exhibited better body pressure distribution than a cardboard bed, leading to improved sleep satisfaction, bedding comfort, and reduced morning sleepiness. Nevertheless, polysomnography revealed no notable differences in sleep metrics or sleep architecture between the two types of beds. Our findings indicate that cardboard beds have lower pressure dispersion capabilities than camp cots, leading to an increased number of position changes during sleep. Additionally, subjective sleep quality, such as alertness on waking, sleep comfort, and sleep satisfaction, was lower for cardboard beds, suggesting that camp cots might offer a more comfortable bedding option for evacuees. However, there were no discernible differences between the two-bed types in terms of objective sleep metrics derived from PSG. The potential for sleep disturbances caused by lower back pain from a hard mattress has been noted, and it is possible that a single night's experience in healthy individuals might not be enough for sleep issues to manifest.
+The COVID-19 pandemic has not only caused unprecedented distress in the community but has also resulted in significant physical and psychological exhaustion among healthcare workers (HCWs). This exhaustion could potentially lead to serious effects on our healthcare system. The aim of this study was to gain more insight on the effect of COVID-19 on burnout among oncologists and other healthcare professionals at a large academic center. A 10-minute electronic questionnaire was distributed to actively employed physicians, APRNs, and PAs affiliated with the University of Miami. The survey encompassed a range of personal and professional characteristics, including stress related to COVID-19. The survey was distributed to a total of 739 HCWs, with 182 respondents (24.6%) completing the entire survey. The impact of the pandemic on these professionals included increased workload (59.5%), reduced leadership opportunities (32.2%), job insecurity (28.6%), and rescheduling of professional activities (22.2%). Out of the 182 respondents, 70 were primarily from the fields of Oncology and Palliative Care. Several factors have contributed to increased physical and psychological stress among HCWs, such as extended working hours, sleep deprivation, job insecurity, the shift to telemedicine, the risk of contracting the virus and endangering their families, lack of childcare options, and the added pressure of homeschooling. This study serves as a foundation for more comprehensive research aimed at elucidating and guiding the development of wellness programs crucial for the overall well-being of HCWs.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7717/peerj.17392
+- DOI: 10.52965/001c.117641
 
 2. Keywords
-- Body pressure distribution
-- Camp cots
-- Cardboard beds
-- Emergency beds
-- Ergonomics
-- Evacuation shelter
-- Evacuees
-- Musculoskeletal strain
-- Sleep quality
+- burnout
+- healthcare
+- oncology
+- palliative care
+- pandemic
+- wellness
 
 3. Key Findings
-- Nevertheless, polysomnography revealed no notable differences in sleep metrics or sleep architecture between the two types of beds
+- This study serves as a foundation for more comprehensive research aimed at elucidating and guiding the development of wellness programs crucial for the overall well-being of HCWs
 
 This study provides insights into:
-- Body pressure distribution assessment methods and outcomes
-- Camp cots assessment methods and outcomes
-- Cardboard beds assessment methods and outcomes
+- burnout assessment methods and outcomes
+- healthcare assessment methods and outcomes
+- oncology assessment methods and outcomes

@@ -1,20 +1,27 @@
-Study Title: Efficacy of a synbiotic in the management of adults with Attention-Deficit and Hyperactivity Disorder and/or Borderline Personality Disorder and high levels of irritability: Results from a multicenter, randomized, placebo-controlled, "basket" trial.
+Study Title: Effect of virtual reality-based biofeedback for depressive and anxiety symptoms: Randomized controlled study.
 
 Study Summary:
-Irritability worsens prognosis and increases mortality in individuals with Attention-Deficit and Hyperactivity Disorder (ADHD) and/or Borderline Personality Disorder (BPD). However, treatment options are still insufficient. The aim of this randomized, double blind, placebo-controlled study was to investigate the superiority of a synbiotic over placebo in the management of adults with ADHD and/or BPD and high levels of irritability. The study was conducted between February 2019 and October 2020 at three European clinical centers located in Hungary, Spain and Germany. Included were patients aged 18-65&#xa0;years old diagnosed with ADHD and/or BPD and high levels of irritability (i.e., an Affectivity Reactivity Index (ARI-S)&#xa0;&#x2265;&#xa0;5, plus a Clinical Global Impression-Severity Scale (CGI-S) score&#xa0;&#x2265;&#xa0;4). Subjects were randomized 1(synbiotic):1(placebo); the agent was administered each day, for 10 consecutive weeks. The primary outcome measure was end-of-treatment response (i.e., a reduction &#x2265; 30&#xa0;% in the ARI-S total score compared to baseline, plus a Clinical Global Impression-Improvement (CGI-I) total score of&#xa0;<&#xa0;3 (very much, or much improved) at week 10). Between-treatment differences in secondary outcomes, as well as safety were also investigated. Of the 231 included participants, 180 (90:90) were randomized and included in the intention-to-treat-analyses. Of these, 117 (65&#xa0;%) were females, the mean age was 38&#xa0;years, ADHD was diagnosed in 113 (63&#xa0;%), BPD in 44 (24&#xa0;%), both in 23 (13&#xa0;%). The synbiotic was well tolerated. At week 10, patients allocated to the synbiotic experienced a significantly higher response rate compared to those allocated to placebo (OR: 0.2, 95&#xa0;% CI:0.1 to 0.7; P&#xa0;=&#xa0;0.01). These findings suggest that that (add-on) treatment with a synbiotic may be associated with a clinically meaningful improvement in irritability in, at least, a subgroup of adults with ADHD and/or BPD. A superiority of the synbiotic over placebo in the management of emotional dysregulation (-3.6, 95&#xa0;% CI:-6.8 to -0.3; P&#xa0;=&#xa0;0.03), emotional symptoms (-0.6, 95&#xa0;% CI:-1.2 to -0.05; P&#xa0;=&#xa0;0.03), inattention (-1.8, 95&#xa0;% CI: -3.2 to -0.4; P&#xa0;=&#xa0;0.01), functioning (-2.7, 95&#xa0;% CI: -5.2 to -0.2; P&#xa0;=&#xa0;0.03) and perceived stress levels (-0.6, 95&#xa0;% CI: -1.2 to -0.05; P&#xa0;=&#xa0;0.03) was also suggested. Higher baseline RANK-L protein levels were associated with a significantly lower response rate, but only in the synbiotic group (OR: 0.1, 95&#xa0;% CI: -4.3 to - 0.3, P&#xa0;=&#xa0;0.02). In the placebo group, higher IL-17A levels at baseline were significantly associated with a higher improvement in in particular, emotional dysregulation (P&#xa0;=&#xa0;0.04), opening a door for new (targeted) drug intervention. However, larger prospective studies are warranted to confirm the findings. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03495375.
+The use of virtual reality (VR)-based biofeedback (BF), a relatively new intervention, is a non-pharmacological treatment of depressive and anxiety symptoms. However, studies on VR-based BF are lacking and inconclusive. A total of 131 adults were recruited from the community. Participants who scored &#x2265;10 on the Patient Health Questionnaire-9 (PHQ-9) or&#xa0;&#x2265;9 on the Panic Disorder Severity Scale (PDSS) were included in the group with depressive or anxiety symptoms (DAS group), and others as the healthy control group (HC group). Participants from the DAS group were randomly assigned to VR-based or conventional BF intervention. All individuals visited at three times (weeks 0, 2, and 4), and completed the Montgomery-Asberg Depression Rating Scale (MADRS), the State-Trait Anxiety Inventory (STAI), and a visual analog scale (VAS) before and after the intervention, and PHQ-9 at the beginning and final visit. The analysis included a total of 118 participants (DAS/VR: 40, DAS/BF: 38, HC/VR: 40). There was no significant difference in demographic variables among the three groups. After the intervention, the DAS/VR group exhibited significant decreases in MADRS (70.0 %), PHQ-9 (64.1 %), STAI (29.5 %), and VAS (61.7 %) scores compared to the baseline (p&#xa0;<0.001). There were no significant differences between the effects of VR-based BF and conventional BF with a therapist. The HC group also showed significant decreases in the measures of depression and anxiety after receiving VR-based BF. VR-based BF was effective in reducing depressive and anxiety symptoms, even for subthreshold depression and anxiety symptoms in the HC group.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.bbi.2024.06.012
+- DOI: 10.1016/j.jad.2024.06.031
 
 2. Keywords
-
+- Anxiety
+- Depression
+- Digital therapeutics
+- High stress
+- Relaxation
+- Virtual reality
 
 3. Key Findings
-- Findings extraction requires manual review
+- The HC group also showed significant decreases in the measures of depression and anxiety after receiving VR-based BF
 
 This study provides insights into:
-- General research methodology and outcomes
+- Anxiety assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Digital therapeutics assessment methods and outcomes

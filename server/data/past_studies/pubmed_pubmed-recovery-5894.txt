@@ -1,26 +1,27 @@
-Study Title: Long-term remission and survival in patients with relapsed or refractory multiple myeloma after treatment with LCAR-B38M CAR T cells: 5-year follow-up of the LEGEND-2 trial.
+Study Title: Effects of extracorporeal diaphragm pacing combined with inspiratory muscle training on respiratory function in people with stroke: a randomized controlled trial.
 
 Study Summary:
-The autologous anti-B-cell maturation antigen (BCMA) chimeric antigen receptor (CAR) T-cell therapy LCAR-B38M has been approved for the treatment of relapsed and refractory multiple myeloma in many countries across the world under the name ciltacabtagene autoleucel. LEGEND-2 was the first-in-human trial of LCAR-B38M and yielded deep and durable therapeutic responses. Here, we reported the outcomes in LEGEND-2 after a minimal 5-year follow-up. Participants received an average dose of 0.5&#x2009;&#xd7;&#x2009;10cells/kg LCAR-B38M in split or single unfractionated infusions after cyclophosphamide-based lymphodepletion therapy. Investigator-assessed response, survival, safety and pharmacokinetics were evaluated. Seventy-four participants enrolled and had a median follow-up of 65.4 months. The 5-year progression-free survival (PFS) and overall survival (OS) rates were 21.0% and 49.1%, with progressive flattening of the survival curves over time. Patients with complete response (CR) had longer PFS and OS, with 5-year rates of 28.4% and 65.7%, respectively. Twelve patients (16.2%) remained relapse-free irrespective of baseline high-risk cytogenetic abnormality and all had normal humoral immunity reconstituted. An ongoing CR closely correlated with several prognostic baseline indices including favorable performance status, immunoglobulin G subtype, and absence of extramedullary disease, as well as a combination cyclophosphamide and fludarabine preconditioning strategy. Sixty-two (83.8%) suffered progressive disease (PD) and/or death; however, 61.1% of PD patients could well respond to subsequent therapies, among which, the proteasome inhibitor-based regimens benefited the most. Concerning the safety, hematologic and hepatic function recovery were not significantly different between non-PD and PD/Death groups. A low rate of second primary malignancy (5.4%) and no severe virus infection were observed. The patients who tested positive for COVID-19 merely presented self-limiting symptoms. In addition, a sustainable CAR T population of one case with persistent remission was delineated, which was enriched with indolently proliferative and lowly cytotoxic CD4/CD8 double-negative functional T lymphocytes. These data, representing the longest follow-up of BCMA-redirected CAR T-cell therapy to date, demonstrate long-term remission and survival with LCAR-B38M for advanced myeloma. LEGEND-2 was registered under the trial numbers NCT03090659, ChiCTRONH-17012285.
+To evaluate the effect of external diaphragmatic pacing (EDP) combined with inspiratory muscle training on respiratory function in post-stroke patients. Patients with stroke were enrolled from the First Affiliated Hospital of Soochow University in China between 2021 and 2022. The patients were randomized into an EDP treatment group (control group) or an EDP treatment plus inspiratory muscle training group (experimental group). Each therapy was administered once a day for 6&#x2009;days per week. The peak inspiratory flow (PIF), maximal inspiratory pressure (MIP), forced expiratory volume in 1 s (FEV), forced vital capacity (FVC), FEV/FVC% ratio, and diaphragm thickness and mobility were measured and compared between the two groups after 4&#x2009;weeks. After 4&#x2009;weeks of intervention, respiratory muscle function indicators including PIF (95% CI: 0.21-1.28,&#x2009;=&#x2009;0.008) and MIP (95% CI: 6.92-25.44,&#x2009;=&#x2009;0.001) significantly improved in the experimental group. Diaphragmatic thickness also significantly increased in the experimental group (&#x2009;<&#x2009;0.05), while diaphragmatic excursion showed no significant difference between the two groups. Additionally, FVC (95% CI: 0.14-1.14,&#x2009;=&#x2009;0.013) and FEV(95% CI: 0.20-1.06,&#x2009;=&#x2009;0.005) demonstrated a significant increase in the experimental group, whereas FEV/FVC% (95% CI: -0.84 to 9.36,&#x2009;=&#x2009;0.099) exhibited no significant group difference. EDP combined with inspiratory muscle training in individuals with stroke provides greater benefits than EDP alone in terms of respiratory function recovery, except for the parameters of diaphragmatic excursion and FEV/FVC%.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13045-024-01530-z
+- DOI: 10.1080/01616412.2024.2347133
 
 2. Keywords
-- CAR T-cell therapy
-- LCAR-B38M
-- Long-persisting CAR T cell
-- Long-term follow-up
-- Relapsed and refractory multiple myeloma
+- Inspiratory muscle training
+- external diaphragmatic pacing
+- pulmonary function
+- respiration
+- stroke
 
 3. Key Findings
-- Findings extraction requires manual review
+- 05), while diaphragmatic excursion showed no significant difference between the two groups
+- 005) demonstrated a significant increase in the experimental group, whereas FEV/FVC% (95% CI: -0
 
 This study provides insights into:
-- CAR T-cell therapy assessment methods and outcomes
-- LCAR-B38M assessment methods and outcomes
-- Long-persisting CAR T cell assessment methods and outcomes
+- Inspiratory muscle training assessment methods and outcomes
+- external diaphragmatic pacing assessment methods and outcomes
+- pulmonary function assessment methods and outcomes

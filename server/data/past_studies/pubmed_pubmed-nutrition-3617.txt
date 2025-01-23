@@ -1,27 +1,30 @@
-Study Title: Impact of a Nutrient Formulation on Longitudinal Myelination, Cognition, and Behavior from Birth to 2 Years: A Randomized Clinical Trial.
+Study Title: Next Generation, Modifiable Cardiometabolic Biomarkers: Mitochondrial Adaptation and Metabolic Resilience: A Scientific Statement From the American Heart Association.
 
 Study Summary:
-Observation studies suggest differences in myelination in relation to differences in early life nutrition. This two-center randomized controlled trial investigates the effect of a 12-month nutritional intervention on longitudinal changes in myelination, cognition, and behavior. Eighty-one full-term, neurotypical infants were randomized into an investigational (N = 42) or a control group (N = 39), receiving higher versus lower levels of a blend of nutrients. Non-randomized breastfed infants (N = 108) served as a reference group. Main outcomes were myelination (MRI), neurodevelopment (Bayley-III), social-emotional development (ASQ:SE-2), infant and toddler behavior (IBQ-R and TBAQ), and infant sleep (BISQ) during the first 2 years of life. The full analysis set comprised N = 67 infants from the randomized groups, with 81 myelin-sensitive MRI sequences. Significantly higher myelination was observed in the investigational compared to the control group at 6, 12, 18, and 24 months of life, as well as significantly higher gray matter volume at 24 months, a reduced number of night awakenings at 6 months, increased day sleep at 12 months, and reduced social fearfulness at 24 months. The results suggest that brain development may be modifiable with brain- and age-relevant nutritional approaches in healthy infants and young children, which may be foundational for later learning outcomes.
+Cardiometabolic risk is increasing in prevalence across the life span with disproportionate ramifications for youth at socioeconomic disadvantage. Established risk factors and associated disease progression are harder to reverse as they become entrenched over time; if current trends are unchecked, the consequences for individual and societal wellness will become untenable. Interrelated root causes of ectopic adiposity and insulin resistance are understood but identified late in the trajectory of systemic metabolic dysregulation when traditional cardiometabolic risk factors cross current diagnostic thresholds of disease. Thus, children at cardiometabolic risk are often exposed to suboptimal metabolism over years before they present with clinical symptoms, at which point life-long reliance on pharmacotherapy may only mitigate but not reverse the risk. Leading-edge indicators are needed to detect the earliest departure from healthy metabolism, so that targeted, primordial, and primary prevention of cardiometabolic risk is possible. Better understanding of biomarkers that reflect the earliest transitions to dysmetabolism, beginning in utero, ideally biomarkers that are also mechanistic/causal and modifiable, is critically needed. This scientific statement explores emerging biomarkers of cardiometabolic risk across rapidly evolving and interrelated "omic" fields of research (the epigenome, microbiome, metabolome, lipidome, and inflammasome). Connections in each domain to mitochondrial function are identified that may mediate the favorable responses of each of the omic biomarkers featured to a heart-healthy lifestyle, notably to nutritional interventions. Fuller implementation of evidence-based nutrition must address environmental and socioeconomic disparities that can either facilitate or impede response to therapy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15204439
+- DOI: 10.1161/CIR.0000000000001185
 
 2. Keywords
-- MRI
-- brain development
-- infant nutrition
-- myelination
-- phospholipids
-- sphingomyelin
+- AHA Scientific Statements
+- biomarkers
+- child health
+- inflammasomes
+- lipidomics
+- metabolome
+- microbiome
+- microbiota
+- mitochondria
 
 3. Key Findings
-- The results suggest that brain development may be modifiable with brain- and age-relevant nutritional approaches in healthy infants and young children, which may be foundational for later learning outcomes
+- Findings extraction requires manual review
 
 This study provides insights into:
-- MRI assessment methods and outcomes
-- brain development assessment methods and outcomes
-- infant nutrition assessment methods and outcomes
+- AHA Scientific Statements assessment methods and outcomes
+- biomarkers assessment methods and outcomes
+- child health assessment methods and outcomes

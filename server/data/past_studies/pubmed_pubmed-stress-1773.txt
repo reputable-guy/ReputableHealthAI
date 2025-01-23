@@ -1,27 +1,27 @@
-Study Title: Associations between enteral nutrition and outcomes in the SUP-ICU trial: Results of exploratory post hoc analyses.
+Study Title: [acupuncture for subjective tinnitus:a randomized controlled trial].
 
 Study Summary:
-Enteral nutrition may affect risks of gastrointestinal bleeding, pneumonia and mortality in critically ill patients and may also modify the effects of pharmacological stress ulcer prophylaxis. We undertook post hoc analyses of the stress ulcer prophylaxis in the intensive care unit trial to assess for any associations and interactions between enteral nutrition and pantoprazole. Extended Cox models with time-varying co-variates and competing events were used to assess potential associations, adjusted for baseline severity of illness. Potential interactions between daily enteral nutrition and allocation to pantoprazole on outcomes were similarly assessed. Enteral nutrition was associated with lower risk of clinically important gastrointestinal bleeding (cause-specific hazard ratio [HR]: 0.29, 95% confidence interval: [CI] 0.19-0.44, p&#x2009;<&#x2009;.001), higher risk of pneumonia (HR: 1.44, 95% CI: 1.14-1.82, p&#x2009;=&#x2009;.003), and lower risk of all-cause mortality (HR: 0.22, 95% CI: 0.18-0.27, p&#x2009;<&#x2009;.001). Enteral nutrition with allocation to pantoprazole was associated with a lower risk of mortality (HR: 0.27, 95% CI: 0.21-0.35, p&#x2009;<&#x2009;.001), similar to enteral nutrition with allocation to placebo (HR: 0.17, 95% CI: 0.13-0.23, p&#x2009;<&#x2009;.001). Allocation to pantoprazole with no enteral nutrition had little effect on mortality (HR: 0.83, 95% CI: 0.63-1.09, p&#x2009;=&#x2009;.179), whilst allocation to pantoprazole and receipt of enteral nutrition was mostly compatible with increased all-cause mortality (HR: 1.27, 95% CI: 0.99-1.64, p&#x2009;=&#x2009;.061). The test of interaction between enteral nutrition and pantoprazole treatment allocation for all-cause mortality was statistically significant (p&#x2009;=&#x2009;.024). Enteral nutrition was associated with an increased risk of pneumonia and a reduced risk of gastrointestinal bleeding. The interaction between pantoprazole and enteral nutrition suggesting an increased risk of mortality requires further study.
+To observe the clinical effect ofacupuncture (acupuncture for promoting the circulation of the governor vessel and regulating the spirit) for subjective tinnitus, and explore its potential mechanism. A total of 92 patients with subjective tinnitus were randomly divided into an acupuncture group (46 cases, 5 cases dropped out) and a medication group (46 cases, 2 cases dropped out). The acupuncture group receivedacupuncture at Shuigou (GV 26), Yintang (GV 24), Shenting (GV 24), Baihui (GV 20), Fengfu (GV 16), Dazhui (GV 14) and Zhongzhu (TE 3), Tinghui (GB 2), Yifeng (TE 17) on the affected side, 30 min each time, once every other day, 3 times a week. The medication group was orally administered ginkgo biloba leaves tablets (40 mg each time) and mecobalamin tablets (0.5 mg each time), 3 times a day. Both groups were treated for 4 weeks. The scores of tinnitus severity, tinnitus loudness visual analogue scale (VAS) and depression anxiety stress scale-21(DASS-21) before and after treatment were observed in the two groups, serum level of brain-derived neurotrophic factor (BDNF) before and after treatment in the two groups was detected, and the clinical effect was evaluated in the two groups. After treatment&#xff0c;the scores of tinnitus severity, tinnitus loudness VAS and DASS-21 were decreased compared with those before treatment in the two groups (<0.01), and the scores in the acupuncture group were lower than those in the medication group (<0.05). After treatment, the serum level of BDNF was decreased compared with that before treatment in the two groups (<0.01), and the serum level of BDNF in the acupuncture group was lower than that in the medication group (<0.05). The total effective rate of the acupuncture group was 82.9% (34/41), which was higher than 70.5% (31/44) in the medication group (<0.05). acupuncture could improve the severity of tinnitus, tinnitus loudness and negative emotion in patients with subjective tinnitus. Its mechanism may be related to the regulation of serum level of BDNF and thus affect auditory central plasticity.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/aas.14471
+- DOI: 10.13703/j.0255-2930.20230808-k0001
 
 2. Keywords
-- critical illness
-- enteral feeding
-- gastrointestinal bleeding
-- mortality
-- pneumonia
-- proton pump inhibitor
+- Tongdu Tiaoshen
+- acupuncture
+- brain-derived neurotrophic factor (BDNF)
+- randomized controlled trial (RCT)
+- subjective tinnitus
+- visual analogue scale (VAS) score
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- critical illness assessment methods and outcomes
-- enteral feeding assessment methods and outcomes
-- gastrointestinal bleeding assessment methods and outcomes
+- Tongdu Tiaoshen assessment methods and outcomes
+- acupuncture assessment methods and outcomes
+- brain-derived neurotrophic factor (BDNF) assessment methods and outcomes

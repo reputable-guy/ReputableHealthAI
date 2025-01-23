@@ -1,27 +1,27 @@
-Study Title: Exercise intensity of virtual reality exergaming modulates the responses to executive function and affective response in sedentary young adults: A randomized, controlled crossover feasibility study.
+Study Title: Efficacy of a combined exercise and nutrition intervention study for outpatients with possible sarcopenia in community-based primary care clinics (ENdSarC): study protocol for a multicenter single-blinded randomized controlled trial.
 
 Study Summary:
-Virtual reality (VR) exergaming is a novel strategy to encourage physical activity and boost emotional well-being. However, its effects on executive function (EF) are not fully understood. This study assessed the immediate and retention effects of immersive VR exergaming, at varying exercise intensities, on EF and affect among sedentary college students. Thirty participants (mean age = 22.2 &#xb1; 2.5 years; 18 females) underwent 15-minute sessions of moderate-intensity (MI), high-intensity (HI), and active-control intensity (AC) VR exergaming in a counterbalanced order. EF was evaluated using the Flanker, Task-switching, and N-back tasks before, immediately after, and 30 min post-intervention. Emotional valence and arousal were measured by the Feeling Scale and Felt Arousal Scale, respectively. The inverse efficiency score (IES) results indicated that inhibitory control was higher following both MI and HI exergaming compared to AC (p < 0.05), with improvements sustained for 30 minutes HI VR exergaming showed the greatest improvement (p = 0.048). Both HI and MI also exhibited higher working memory capacity than AC (p < 0.05), with HI performing better (p = 0.039). No significant differences in task-switching performance were observed among the groups (p > 0.05). Emotional valence and arousal were significantly elevated immediately after and sustained for 30 minutes following MI and HI exergaming (p < 0.05). This study demonstrates the cognitive and affective benefits of MI and HI VR exergaming in young adults, with HI VR exergaming showing longer-lasting improvements. These findings suggest that immersive VR exergaming can enhance both physical and cognitive health, potentially improving academic performance and daily functionality in collegiate populations.
+Sarcopenia is a geriatric disease characterized by loss of muscle mass and strength. Although combined exercise and nutrition intervention are known to be effective for sarcopenia, clinical trials involving outpatients with sarcopenia in primary care are scarce. We describe a protocol for a trial to examine the effects of a 12-week combined exercise and nutrition intervention in Korean older adults with possible sarcopenia in community-based primary care. This multicenter, randomized, controlled trial will include 94 community-dwelling older outpatients aged 65-85 years with possible sarcopenia (47 participants in the intervention and control groups each). Resistance exercises, which incorporate concentric and eccentric exercises, will consist of an introductory phase (3 weeks: twice-weekly supervised exercise sessions and once-weekly home exercises; contraction exercises), an expanded phase (3 weeks: twice-weekly supervised exercise sessions and once-weekly home exercises; eccentric exercises), and a maintenance phase (6 weeks: once-weekly supervised exercise sessions and twice-weekly home exercises; power/eccentric exercises). Nutritional supplementation will be provided according to the nutritional status of the participants using a Mini-Nutritional Assessment. Participants will be assessed at baseline, 12 and 24 weeks, and the primary outcome will be the 5-times chair stand test results. To the best of our knowledge, this will be the first clinical trial to evaluate the efficacy of a combined exercise and nutritional supplementation intervention in older outpatients with possible sarcopenia in community-based primary care clinics. These findings will provide new insights to clinicians regarding the long-term usability for doctors and outpatients with possible sarcopenia in community-based primary care. This trial was prospectively registered at ClinicalTrials.gov on September 16, 2023 (registration number: NCT06049914).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.physbeh.2024.114719
+- DOI: 10.1186/s12877-024-05434-y
 
 2. Keywords
-- Affective
-- Executive function
-- Immersive
-- Intensity
-- Virtual reality exergaming
+- Combined exercise-nutrition
+- Community-based
+- Intervention
+- Older adults
+- Outpatients
+- Primary care
 
 3. Key Findings
-- The inverse efficiency score (IES) results indicated that inhibitory control was higher following both MI and HI exergaming compared to AC (p < 0
-- 05), with improvements sustained for 30 minutes HI VR exergaming showed the greatest improvement (p = 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Affective assessment methods and outcomes
-- Executive function assessment methods and outcomes
-- Immersive assessment methods and outcomes
+- Combined exercise-nutrition assessment methods and outcomes
+- Community-based assessment methods and outcomes
+- Intervention assessment methods and outcomes

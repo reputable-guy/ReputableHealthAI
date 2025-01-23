@@ -1,20 +1,29 @@
-Study Title: Virtual reality for postsurgical pain management: An explorative randomized controlled study.
+Study Title: Randomized investigation of increased dialyzer membrane hydrophilicity on hemocompatibility and performance.
 
 Study Summary:
-Virtual reality (VR) is a promising tool in a multimodal analgesic approach; however, evidence regarding virtual reality for postsurgical pain is limited. This study investigates the initial effectiveness and feasibility of self-administered virtual reality in postsurgical pain management. Patients reporting a postsurgical pain score &#x2265;4 were randomized for control or VR, stratified for 3 interventions with varying levels of immersion and interaction. Subjects were instructed to use virtual reality as add-on treatment at least 3 times a day for 10&#xa0;minutes on days 2 till 4 postoperatively. Primary outcome was the mean daily pain intensity. Results of pain scores were related to patient and intervention characteristics, to explore which characteristics interact with virtual reality effects. Secondary outcomes were analgesic use, anxiety, stress, and feasibility. One hundred patients were included in the analyses: 37 in the control group and 63 for VR. VR did not demonstrate a significant effect on self-reported pain scores (P&#xa0;= .43), nor were specific patient or intervention characteristics associated with greater VR effects. Analgesic usage did not differ between groups. However, there was a trend toward greater cumulative percentages of patients achieving a 30% pain reduction, and significantly lower daily experienced stress (P&#xa0;= .01) and anxiety (P&#xa0;= .03) levels in VR intervention groups. VR was used less than prescribed, mainly because of illness and pain. Adverse events included disorientation, nausea, and fatigue. This explorative study did not demonstrate initial effectiveness of VR as add-on pain treatment regarding pain and analgesic use; however, VR positively affected stress and anxiety. VR is safe and suitable for a wide target audience, and feasibility differed between interventions. Personalizing and improving VR technology may enhance its effectiveness.
+Hemodialyzers should efficiently eliminate small and middle molecular uremic toxins and possess exceptional hemocompatibility to improve well-being of patients with end-stage kidney disease. However, performance and hemocompatibility get compromised during treatment due to adsorption of plasma proteins to the dialyzer membrane. Increased membrane hydrophilicity reduces protein adsorption to the membrane and was implemented in the novel FX CorAL dialyzer. The present randomized controlled trial compares performance and hemocompatibility profiles of the FX CorAL dialyzer to other commonly used dialyzers applied in hemodiafiltration treatments. This prospective, open, controlled, multicentric, interventional, crossover study randomized stable patients on post-dilution online hemodiafiltration (HDF) to FX CorAL 600, FX CorDiax 600 (both Fresenius Medical Care) and xevonta Hi 15 (B. Braun) each for 4 weeks. Primary outcome was &#x3b2;2-microglobulin removal rate (&#x3b2;2-m RR). Non-inferiority and superiority of FX CorAL versus comparators were tested. Secondary endpoints were RR and/or clearance of small and middle molecules, and intra- and interdialytic profiles of hemocompatibility markers, with regards to complement activation, cell activation/inflammation, platelet activation and oxidative stress. Further endpoints were patient reported outcomes (PROs) and clinical safety. 82 patients were included and 76 analyzed as intention-to-treat (ITT) population. FX CorAL showed the highest &#x3b2;2-m RR (76.28%), followed by FX CorDiax (75.69%) and xevonta (74.48%). Non-inferiority to both comparators and superiority to xevonta were statistically significant. Secondary endpoints related to middle molecules corroborated these results; performance for small molecules was comparable between dialyzers. Regarding intradialytic hemocompatibility, FX CorAL showed lower complement, white blood cell, and platelet activation. There were no differences in interdialytic hemocompatibility, PROs, or clinical safety. The novel FX CorAL with increased membrane hydrophilicity showed strong performance and a favorable hemocompatibility profile as compared to other commonly used dialyzers in clinical practice. Further long-term investigations should examine whether the benefits of FX CorAL will translate into improved cardiovascular and mortality endpoints. eMPORA III registration on 19/01/2021 at ClinicalTrials.gov (NCT04714281).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.surg.2024.06.011
+- DOI: 10.1186/s12882-024-03644-5
 
 2. Keywords
-
+- Dialyzer
+- Hemocompatibility
+- Hemodiafiltration
+- Hydrophilicity
+- Membrane
+- Performance
 
 3. Key Findings
-- Findings extraction requires manual review
+- FX CorAL showed the highest &#x3b2;2-m RR (76
+- Regarding intradialytic hemocompatibility, FX CorAL showed lower complement, white blood cell, and platelet activation
+- The novel FX CorAL with increased membrane hydrophilicity showed strong performance and a favorable hemocompatibility profile as compared to other commonly used dialyzers in clinical practice
 
 This study provides insights into:
-- General research methodology and outcomes
+- Dialyzer assessment methods and outcomes
+- Hemocompatibility assessment methods and outcomes
+- Hemodiafiltration assessment methods and outcomes

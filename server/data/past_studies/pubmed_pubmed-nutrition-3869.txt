@@ -1,20 +1,24 @@
-Study Title: Caring for a "Blue" Population: Addressing Priorities of the Officer Safety and Wellness Group in Nurse Practitioner Practice.
+Study Title: Gut microbiome modulates the effects of a personalised postprandial-targeting (PPT) diet on cardiometabolic markers: a diet intervention in pre-diabetes.
 
 Study Summary:
-Increased public concern over policing and the psychological impact of trauma-associated events by first responders have highlighted a critical need to improve the availability of mental health and wellness resources for law enforcement officers. The national Officer Safety and Wellness Group prioritized mental health, alcohol use, fatigue, and body weight/poor nutrition as targets for safety and wellness initiatives. Departmental culture will need to change from silence and fear-driven hesitancy to a culture of openness and support. Increased education, openness, and support for mental health will likely reduce stigma and improve access to care. Psychiatric-mental health nurse practitioners and other advanced practice nurses who wish to work with law enforcement officers should be aware of the specific health risks and standards of care that are summarized in this article. [(10), 13-18.].
+To explore the interplay between dietary modifications, microbiome composition and host metabolic responses in a dietary intervention setting of a personalised postprandial-targeting (PPT) diet versus a Mediterranean (MED) diet in pre-diabetes. In a 6-month dietary intervention, adults with pre-diabetes were randomly assigned to follow an MED or PPT diet (based on a machine-learning algorithm for predicting postprandial glucose responses). Data collected at baseline and 6 months from 200 participants who completed the intervention included: dietary data from self-recorded logging using a smartphone application, gut microbiome data from shotgun metagenomics sequencing of faecal samples, and clinical data from continuous glucose monitoring, blood biomarkers and anthropometrics. PPT diet induced more prominent changes to the gut microbiome composition, compared with MED diet, consistent with overall greater dietary modifications observed. Particularly, microbiome alpha-diversity increased significantly in PPT (p=0.007) but not in MED arm (p=0.18). Post hoc analysis of changes in multiple dietary features, including food-categories, nutrients and PPT-adherence score across the cohort, demonstrated significant associations between specific dietary changes and species-level changes in microbiome composition. Furthermore, using causal mediation analysis we detect nine microbial species that partially mediate the association between specific dietary changes and clinical outcomes, including three species (from,,orders) that mediate the association between PPT-adherence score and clinical outcomes of hemoglobin A1c (HbA1c), high-density lipoprotein cholesterol (HDL-C) and triglycerides. Finally, using machine-learning models trained on dietary changes and baseline clinical data, we predict personalised metabolic responses to dietary modifications and assess features importance for clinical improvement in cardiometabolic markers of blood lipids, glycaemic control and body weight. Our findings support the role of gut microbiome in modulating the effects of dietary modifications on cardiometabolic outcomes, and advance the concept of precision nutrition strategies for reducing comorbidities in pre-diabetes. NCT03222791.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3928/02793695-20230424-05
+- DOI: 10.1136/gutjnl-2022-329201
 
 2. Keywords
-
+- diabetes mellitus
+- diet
+- nutrition
 
 3. Key Findings
-- Findings extraction requires manual review
+- Post hoc analysis of changes in multiple dietary features, including food-categories, nutrients and PPT-adherence score across the cohort, demonstrated significant associations between specific dietary changes and species-level changes in microbiome composition
 
 This study provides insights into:
-- General research methodology and outcomes
+- diabetes mellitus assessment methods and outcomes
+- diet assessment methods and outcomes
+- nutrition assessment methods and outcomes

@@ -1,59 +1,25 @@
-Study Title: Developing a Youth-Led Digital Hypertension Education Intervention for Adults With Hypertension: Qualitative Study on Refinement and Acceptability.
+Study Title: Effect of peanut butter supplementation on physical and cognitive functions in community-dwelling older adults: study protocol for a 6-month randomised controlled trial.
 
 Study Summary:
-Hypertension affects one-third of adults in the United States and is the leading risk factor for death. Underserved populations are seen disproportionately in the emergency department (ED) and tend to have worse blood pressure (BP) control. For adults, a lack of hypertension knowledge is a common barrier to hypertension control, while social support is a strong facilitator, and providing information that is culturally sensitive and relevant is especially important in this context. The youth experience increased confidence when given the responsibility to provide health education and care navigation to others. As such, we planned a randomized controlled trial (RCT) for the effectiveness of a digital youth-led hypertension education intervention for adult patients in the ED with hypertension, focusing on change in BP and hypertension knowledge. In preparation for an RCT, we conducted a formative study to determine acceptable and easily comprehensible ways to present hypertension information to adults with hypertension and optimal ways to engage youth to support adults on how to achieve better hypertension control. After creating an intervention prototype with 6 weekly self-guided hypertension online modules, we recruited 12 youth (adolescents, aged 15-18 years) for 3 focus groups and 10 adult ED patients with hypertension for individual online interviews to garner feedback on the prototype. After completing a brief questionnaire, participants were asked about experiences with hypertension, preferences for a hypertension education intervention, and acceptability, feasibility, obstacles, and solutions for intervention implementation with youth and adults. The moderator described and showed participants the prototyped intervention process and materials and asked for feedback. Questionnaire data were descriptively summarized, and qualitative data were analyzed using the template organizing style of analysis by 3 study team members. Participants showed great interest in the intervention prototype, thought their peers would find it acceptable, and appreciated its involvement of youth. Youth with family members with hypertension reported that their family members need more support for their hypertension. Youth suggested adding more nutrition education activities to the intervention, such as a sodium tracker and examples of high-sodium foods. Adults discussed the need for a hypertension support intervention for themselves and the expected benefits to youth. They mentioned the overwhelming amount of hypertension information available and appreciated the intervention's concise content presentation. They suggested adding more mental health and smoking cessation resources, information about specific hypertension medications, and adding active links for health care information. Based on focus groups and interviews with participants, a youth-led digital hypertension intervention is an acceptable strategy to engage both adults with hypertension and youth. Incorporating participant suggestions into the intervention may improve its clarity, engagement, and impact when used in a subsequent RCT.
+Ageing is associated with physical and cognitive declines, which may be further exacerbated by poor nutrition. Nuts are energy and nutrient dense, and their consumption is associated with better physical and cognitive functions in older adults, but data from interventional studies are limited. This 6-month randomised controlled trial is designed to investigate the effects of consuming 43 g/day of peanut butter (equivalent to 1.5 servings of nuts) on physical function, including walking speed (primary outcome), standing and dynamic balance, upper and lower body strength, lower body power and endurance, and associated factors including muscle mass, cognitive function and DNA telomere length in community-dwelling older adults. A total of 120 participants aged &#x2265;65 years will be recruited and randomly allocated (1:1 ratio) to either the intervention group (n=60) that will receive individually packaged sealed containers containing 43 g of peanut butter to be consumed once daily for 6 months alongside habitual diet, or the control group (n=60) that will maintain their habitual diet. Primary and secondary outcomes will be assessed at baseline and at 6 months. The primary outcome is walking speed assessed using the 4 m usual gait speed test. Secondary outcomes include other physical function assessments: standing balance, chair stand time, timed-up-and-go test and four-square step test; and hand grip and knee extensor muscle strength; cognitive function assessed using the Montreal Cognitive Assessment and trail making tests; body composition; nutritional status; and DNA telomere length from participants' buccal cell samples. Linear mixed models will be used to compare changes in outcomes between intervention and control groups. The study protocol is approved by the Deakin University Human Research Ethics Committee. The trial is registered with the Australian New Zealand Clinical Trials Registry (ANZCTR): ACTRN12622001291774. The results will be disseminated through peer-reviewed journals, conference presentations and media. ANZCTR12622001291774.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/54909
+- DOI: 10.1136/bmjopen-2024-086232
 
 2. Keywords
-- USA
-- United States
-- acceptability
-- adolescent
-- adolescents
-- adult
-- adults
-- blood pressure
-- care navigation
-- digital health
-- digital health intervention
-- dyad intervention
-- effectiveness
-- emergency department
-- engagement
-- formative study
-- health education
-- health knowledge
-- health promotion
-- hypertension
-- intervention development
-- nutrition education
-- online module
-- online modules
-- prototype
-- qualitative research
-- refinement
-- self-guided
-- support
-- support intervention
-- supports
-- teen
-- teenager
-- teenagers
-- teens
-- youth
-- youth-led
+- Aged
+- Gait
+- NUTRITION & DIETETICS
+- Randomized Controlled Trial
 
 3. Key Findings
-- The moderator described and showed participants the prototyped intervention process and materials and asked for feedback
-- Participants showed great interest in the intervention prototype, thought their peers would find it acceptable, and appreciated its involvement of youth
+- Findings extraction requires manual review
 
 This study provides insights into:
-- USA assessment methods and outcomes
-- United States assessment methods and outcomes
-- acceptability assessment methods and outcomes
+- Aged assessment methods and outcomes
+- Gait assessment methods and outcomes
+- NUTRITION & DIETETICS assessment methods and outcomes

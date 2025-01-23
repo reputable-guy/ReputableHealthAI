@@ -1,26 +1,27 @@
-Study Title: Effect of a transitional tele-rehabilitation programme on quality of life of adult burn survivors: A randomised controlled trial.
+Study Title: Performance of the ChatGPT large language model for decision support in community pharmacy.
 
 Study Summary:
-To examine the effects of the transitional tele-rehabilitation programme on quality of life of adult burn survivors. A prospective, single centre, randomised controlled trial and reported according to the Consolidated Standards of Reporting Trials (CONSORT) guidelines. Adult burn survivors aged &#x2265;18 years with burn size &#x2265;10% total body surface area irrespective of the depth was considered eligible to participate. The intervention was in two phases: pre-discharge and active follow-up phase (which occurred via WeChat). In both phases, comprehensive assessment and intervention guided by the Omaha System and evidenced-based protocols guided the care delivery over an 8-week period. The outcome of interest was quality of life. Two outcome measures were used to assess the outcome of interest: Burn Specific Health Scale-Brief (BSHS-B) and the EQ-5D-5L tools. The outcome was assessed at three time points: T0 (baseline), T1 (immediate post-intervention) and T2 (4 weeks from T1). In total, 60 adult burn survivors were randomly allocated to undergo the new programme. The transitional tele-rehabilitation programme elicited statistically significant improvement in simple abilities, affect, interpersonal relationship (T2) and overall quality life (T1 and T2) measured on the BSHS-B. Ongoing rehabilitative care is essential to support the recovery process of burn survivors considering that some quality-of-life subscales may improve faster than others. The study findings highlight the potential of employing a social media platform to improve post-burn quality of life outcomes. ClinicalTrials.govNCT04517721. Registered on 20 August 2020.
+The aim of this study was to assess the ChatGPT-4 (ChatGPT) large language model (LLM) on tasks relevant to community pharmacy. ChatGPT was assessed with community pharmacy-relevant test cases involving drug information retrieval, identifying labelling errors, prescription interpretation, decision-making under uncertainty and multidisciplinary consults. Drug information on rituximab, warfarin, and St. John's wort was queried. The decision-support scenarios consisted of a subject with swollen eyelids and a maculopapular rash in a subject on lisinopril and ferrous sulfate. The multidisciplinary scenarios required the integration of medication management with recommendations for healthy eating and physical activity/exercise. The responses from ChatGPT for rituximab, warfarin, and St. John's wort were satisfactory and cited drug databases and drug-specific monographs. ChatGPT identified labeling errors related to incorrect medication strength, form, route of administration, unit conversion, and directions. For the patient with inflamed eyelids, the course of action developed by ChatGPT was comparable to the pharmacist's approach. For the patient with the maculopapular rash, both the pharmacist and ChatGPT placed a drug reaction to either lisinopril or ferrous sulfate at the top of the differential. ChatGPT provided customized vaccination requirements for travel to Brazil, guidance on management of drug allergies and recovery from a knee injury. ChatGPT provided satisfactory medication management and wellness information for a diabetic on metformin and semaglutide. LLMs have the potential to become a powerful tool in community pharmacy. However, rigorous validation studies across diverse pharmacist queries, drug classes and populations, and engineering to secure patient privacy will be needed to enhance LLM utility.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/02692155241265930
+- DOI: 10.1111/bcp.16215
 
 2. Keywords
-- Aftercare
-- Omaha System
-- burns
-- tele-rehabilitation
-- transitional care
+- ChatGPT
+- artificial intelligence
+- drug information
+- generative AI
+- pharmacy
+- precision medicine
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Aftercare assessment methods and outcomes
-- Omaha System assessment methods and outcomes
-- burns assessment methods and outcomes
+- ChatGPT assessment methods and outcomes
+- artificial intelligence assessment methods and outcomes
+- drug information assessment methods and outcomes

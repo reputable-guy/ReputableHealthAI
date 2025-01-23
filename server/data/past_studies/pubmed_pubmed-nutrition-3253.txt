@@ -1,25 +1,27 @@
-Study Title: Nutritional impairment, psychological health and quality of life among older adults with advanced cancer: A secondary analysis of a randomized clinical trial.
+Study Title: Association between glucose dips and the feeling of hunger in a dietary intervention study among students with early and late chronotype-secondary analysis of a randomized cross-over nutrition trial.
 
 Study Summary:
-Nutritional impairment is associated with treatment toxicity and worse overall survival in patients with cancer. We aimed to (1) evaluate the association of nutritional impairment with psychological health and quality of life (QOL) and (2) examine which measures of nutrition had the strongest association with psychological health and QOL among older adults receiving cancer treatment with palliative intent. This secondary analysis was performed on baseline data from a nationwide cluster randomized clinical trial (ClinicalTrials.gov identifier: NCT02107443; PI: Mohile). Adults age &#x2265;70 with advanced cancer and &#x2265;1 geriatric assessment (GA) impairment were enrolled from 2014 to 2017. In line with geriatric oncology standards, we defined nutritional impairment as Mini Nutritional Assessment Short Form (MNA-SF) &#x2264;11, body mass index (BMI) <21&#x2009;kg/m, or >10% involuntary weight loss in the past 6&#x2009;months. We conducted multivariable linear regressions to evaluate the association of nutritional impairment with each measure of psychological health and QOL: Geriatric Depression Scale (GDS-15, range 0-15), Generalized Anxiety Disorder-7 (GAD-7, range 0-21), NCCN Distress Thermometer (NCCN DT, range 0-10), and Functional Assessment of Cancer Therapy-General (FACT-G, range 0-108). Analyses were adjusted for patient demographics, clinical characteristics, and GA. Among 541 patients, the mean age was 77 (range 70-96) and 60% had nutritional impairment. Mean baseline scores: GDS-15 3.1 (SD 2.7), GAD-7 2.9 (SD 4.0), NCCN DT 2.9 (SD 2.7), and FACT-G 80 (SD 15). In the adjusted model, compared to those with no nutritional impairment, older adults with nutritional impairment had greater depression (&#x3b2;&#x2009;=&#x2009;0.79, 95% CI 0.36-1.23) and anxiety severity (&#x3b2;&#x2009;=&#x2009;0.86, 95% CI 0.19-1.53), and worse QOL (&#x3b2;&#x2009;=&#x2009;-6.31, 95% CI -8.62 to -4.00). Of the measures of nutrition, MNA-SF &#x2264;11 demonstrated the strongest associations with depression, anxiety, distress, and QOL. Nutritional impairment is associated with impaired psychological health and worse QOL. Clinicians should use the MNA-SF to screen older adults for nutritional impairment and offer tailored supportive interventions.
+Consumption of foods with high glycaemic index (GI) can cause hyperglycemia, thus increasing postprandial hunger. Since circadian rhythm differs inter-individually, we describe glucose dips after breakfast/dinner with high/medium estimated meal GI among students with early (n&#xa0;=&#xa0;22) and late chronotype (n&#xa0;=&#xa0;23) and examine their relation to the feeling of hunger in a secondary analysis of a randomized cross-over nutrition trial. Glucose dips reflect the difference between the lowest glucose value recorded 2-3&#xa0;h postprandially and baseline, presented as percentage of average baseline level. Associations between glucose dips and the feeling of hunger were analyzed using multilevel linear models. Glucose dips were lower after medium GI meals than after high GI meals among both chronotype groups (p&#xa0;=&#xa0;0.03). Among early chronotypes, but not among late chronotypes, glucose dip values were lower after breakfast than after dinner (-4.9 % vs. 5.5 %, p&#xa0;=&#xa0;0.001). Hunger increased throughout the day among both chronotypes but glucose dips were not related to the feeling of hunger at the meal following breakfast. Interestingly, lower glucose dip values 2-3&#xa0;h postprandially occurred particularly after medium GI meals and were seen after breakfast among early chronotypes. These glucose dips did not predict hunger at meals after breakfast.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/cam4.7348
+- DOI: 10.1016/j.appet.2024.107569
 
 2. Keywords
-- nutritional impairment
-- older adults
-- psychological health
-- quality of life
+- Chronotype
+- Circadian misalignment
+- Fullness
+- Glucose dips
+- Glycemic index
+- Hunger
 
 3. Key Findings
-- Of the measures of nutrition, MNA-SF &#x2264;11 demonstrated the strongest associations with depression, anxiety, distress, and QOL
+- Findings extraction requires manual review
 
 This study provides insights into:
-- nutritional impairment assessment methods and outcomes
-- older adults assessment methods and outcomes
-- psychological health assessment methods and outcomes
+- Chronotype assessment methods and outcomes
+- Circadian misalignment assessment methods and outcomes
+- Fullness assessment methods and outcomes

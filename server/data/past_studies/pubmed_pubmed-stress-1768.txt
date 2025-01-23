@@ -1,20 +1,26 @@
-Study Title: MediYoga compared to physiotherapy treatment as usual for patients with stress-related symptoms in primary care rehabilitation: A randomized controlled trial.
+Study Title: Teachers' stress and training in a school-based mindfulness program: Implementation results from a cluster randomized controlled trial.
 
 Study Summary:
-The purpose of this study was to compare the effect of MediYoga as a group treatment to conventional treatment provided by a physiotherapist for people with perceived stress-related symptoms. Randomized controlled trial. Primary care rehabilitation, Gothenburg Sweden. Fifty-five patients with stress-related symptoms were invited to participate. Nine patients declined, and a total of 46 patients aged 26-70 years (mean 47), 44 women and two men were randomized, 23 to the MediYoga group and 23 to the physiotherapy treatment as usual group. The MediYoga group performed MediYoga for one hour a week during an 8-week period. The control group received physiotherapy treatment as usual. Data were mainly collected by self-reported questionnaires. For primary outcome the Swedish version of the Perceived Stress Scale (PSS) was used. Secondary outcomes were the Hospital Anxiety and Depression Scale (HADS), EuroQol-5D (EQ-5D) and EuroQol-Visual Analog Scale (EQ-VAS). Thoracic excursion was the only physical measurement. Mixed effect model was used for analyse. For the primary outcome PSS, there was a close to statistically significant group effect over time advantaging MediYoga over physiotherapy (P = 0.06). For secondary outcomes, the group effect over time was statistically significant in HADS anxiety (P = 0.01) and EQ-VAS (P = 0.03). There was a group trend over time advantaging MediYoga in HADS depression (P = 0.08). Despite a large dropout in both groups, MediYoga can be recommended as a treatment option for people suffering from stress-related symptoms. Registered in: ClinicalTrials.gov NCT02907138.
+School-based mindfulness trainings (SBMT) are a contemporary approach for intervening to promote students' social and emotional skills and well-being. Despite evidence from the larger field of evidence-based social and emotional learning programs demonstrating the importance of high-quality implementation, few studies have investigated factors impacting the implementation of SBMTs, particularly teacher-level influences. The present study addressed this issue by investigating whether teachers' stress, trust in their fellow teachers and principal, and expectations about the program at baseline predicted the quality of their implementation of a SBMT for students. In addition, we examined whether teachers' stress at baseline moderated the effect of training condition on implementation quality. Implementation quality was assessed via observations and teacher self-reports. Results from a sample of British secondary (middle-high) school educators (N&#xa0;=&#xa0;81) indicated that teachers who felt more supported by their principals at baseline were later observed to implement the SBMT with greater quality, whereas teachers who had more positive expectations about the program felt more confident teaching the course in the future. Teachers' baseline stress moderated the effect of training condition on all measures of implementation quality; among teachers experiencing high stress at baseline, more intensive training led to higher quality implementation. Implications for practitioners and prevention researchers are discussed.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0300756
+- DOI: 10.1016/j.jsp.2024.101288
 
 2. Keywords
-
+- Implementation quality
+- Mindfulness-based intervention
+- School-based intervention
+- Teacher well-being
+- Teachers
 
 3. Key Findings
-- Findings extraction requires manual review
+- Results from a sample of British secondary (middle-high) school educators (N&#xa0;=&#xa0;81) indicated that teachers who felt more supported by their principals at baseline were later observed to implement the SBMT with greater quality, whereas teachers who had more positive expectations about the program felt more confident teaching the course in the future
 
 This study provides insights into:
-- General research methodology and outcomes
+- Implementation quality assessment methods and outcomes
+- Mindfulness-based intervention assessment methods and outcomes
+- School-based intervention assessment methods and outcomes

@@ -1,26 +1,28 @@
-Study Title: Telephone follow-up as a substitute for standard out-clinic follow-up in CPAP therapy for obstructive sleep apnea patients: a randomized controlled trial.
+Study Title: Telehealth-delivered parent-based sleep-focused intervention for insomnia in preschool children with autism spectrum disorder: A randomized controlled study.
 
 Study Summary:
-This study assessed the feasibility of telephone follow-up consultations (TC) using an online data sharing and editing function (Airview&#x2122;), as alternative to standard out-clinic follow-up consultations (SC) on adherence to continuous positive airway pressure (CPAP) in obstructive sleep apnea (OSA) patients. Furthermore, we investigated compliance to follow-up consultations and examined potential influencing factors, including baseline AHI (apnea-hypopnea-index), age, and distance from home to the hospital on consultation compliance. Two hundred OSA patients, with AHI5 were randomly assigned (1:1) to receive TC or SC with follow-up after one month and 12&#xa0;month of CPAP initiation. Adherence goal was defined as achieving4&#xa0;h of CPAP use daily in 70% of the days in a 365-days period. The proportion of participants achieving CPAP adherence was non-significantly lower in the TC group compared to the SC group (TC: 30% versus SC: 36%, adjusted OR 0.84, p&#x2009;=&#x2009;0.59). Of participants who completed the study, the TC group had a significant average of 107&#xa0;min less use of CPAP compared to the SC group (p&#x2009;=&#x2009;0.048). However, a higher proportion of participants was compliant to consultations in the TC group. The only influencing factor found was increasing baseline AHI, which might be a predictor for compliance to consultations&#xa0;and adherence to CPAP therapy. TC might serve as substitute for SC in some part of the OSA population. If TC becomes a part of CPAP therapy management, it is important to consider patient characteristics and treatment-related issues to prevent decline in adherence.
+Sleep problems are common in children with autism spectrum disorder. Although the effects of parent-based sleep intervention were shown to be promising, previous research was limited to the face-to-face service model, which might limit accessibility. This study examined a sleep-focused parent training group delivered via telehealth for treating insomnia in preschool children with autism spectrum disorder, which allowed parents to join the intervention remotely. Results showed that children in the intervention group had greater improvements in sleep and insomnia symptoms after treatment, as compared to those who only received care as usual. This sleep-focused treatment also led to improved daytime behaviors, especially externalizing problems such as hyperactivity and conduct problems, in children with autism spectrum disorder. Parents who had attended the training also reported reduced parental stress level after treatment. The findings supported the feasibility and promising effects of a brief parent-based sleep intervention delivered via telehealth for preschooler with autism spectrum disorder.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s11325-024-03045-w
+- DOI: 10.1177/13623613241246502
 
 2. Keywords
-- Continuous positive airway pressure
-- Obstructive sleep apnea
-- Out-clinic
-- Telemedicine
-- Telephone consultation
+- autism spectrum disorder
+- children
+- executive functions
+- insomnia
+- intervention
+- sleep
+- telehealth
 
 3. Key Findings
-- The only influencing factor found was increasing baseline AHI, which might be a predictor for compliance to consultations&#xa0;and adherence to CPAP therapy
+- Results showed that children in the intervention group had greater improvements in sleep and insomnia symptoms after treatment, as compared to those who only received care as usual
 
 This study provides insights into:
-- Continuous positive airway pressure assessment methods and outcomes
-- Obstructive sleep apnea assessment methods and outcomes
-- Out-clinic assessment methods and outcomes
+- autism spectrum disorder assessment methods and outcomes
+- children assessment methods and outcomes
+- executive functions assessment methods and outcomes

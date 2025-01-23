@@ -1,27 +1,27 @@
-Study Title: Evaluation of the efficacy and safety of remazolam in tooth extraction surgery: A randomized, single-blind, multi-center clinical trial.
+Study Title: Analgesic effects of ultrasound-guided preoperative posterior Quadratus Lumborum block in laparoscopic hepatectomy: A prospective double-blinded randomized controlled trial.
 
 Study Summary:
-Dental extraction or tooth extraction is a common clinical radical treatment surgery. To explore the efficacy and safety of remimazolam in tooth extraction surgery in a randomized, single-blind, multi-center clinical trial. Patients who underwent tooth extraction surgery at Jinan Stomatological Hospital from April 2022 to March 2023 were selected as the research subjects, and they were divided into a control group and an observation group using the random arrangement table method. The patients in the control group were anesthetized with midazolam, and the patients in the observation group were anesthetized with remimazolam. Collect the general demographic data of the patients, use the propensity score matching method (PSM) to balance the baseline data of the two groups, and use t-test, chi-square test, and analysis of variance to compare the hemodynamics, anesthesia maintenance period indicators, and alertness/Sedation scores and occurrence of adverse reactions. PSM matching was performed according to a 1:1 ratio, and 40 patients were included in the observation and control groups. There was no statistical significance in the baseline data of the two groups. Compared with T0, the hemodynamic indexes of both groups of patients increased at T1, T2, T3, T4, and T5 (P< 0.05), but the indexes at T0 and T2 were the same. The same (P> 0.05), and the indicators of the observation group at T1, T3, T4, and T5 were higher than those of the control group (P< 0.05); the administration time of the two groups of patients was the same (P> 0.05), but the observation group The recovery time and onset of effect were shorter than those in the control group (P< 0.05); at T0, the clinical behavior scores of the two groups of patients were the same (P> 0.05), and at T1, the scores of the observation group were lower than those of the control group (P< 0.05); at T0 and T1, the alertness/sedation scores of the patients in the observation group were lower than those in the control group, but at T2, the scores of the patients in the observation group were higher than those in the control group (P< 0.05); the total clinical adverse reactions of the patients in the observation group were The incidence rate (5.00%) was lower than that of the control group (30.00%) (P< 0.05). The use of remimazolam during tooth extraction can stabilize the patient's hemodynamics, shorten the recovery and onset time, stabilize the patient's behavior, have an excellent soothing effect, have fewer adverse reactions, and be safer, so it is worthy of use.
+To determine if single-injection bilateral posterior quadratus lumborum block (QLB) with ropivacaine would improve postoperative analgesia in the first 24&#xa0;h after laparoscopic hepatectomy, compared with 0.9% saline. Prospective, double blinded, randomized controlled trial. A single tertiary care center from November 2021 and January 2023. A total of 94 patients scheduled to undergo laparoscopic hepatectomy due to hepatocellular carcinoma. Ninety-four patients were randomized into a QLB group (receiving 20&#xa0;mL of 0.375% ropivacaine on each side, 150&#xa0;mg in total) or a control group (receiving 20&#xa0;mL of 0.9% saline on each side). The primary outcome was the cumulative opioid consumption during the initial 24-h post-surgery. Secondary outcomes included pain scores and intraoperative and recovery parameters. The mean cumulative opioid consumption during the initial 24-h post-surgery was 30.8&#xa0;&#xb1;&#xa0;22.4&#xa0;mg in the QLB group (n&#xa0;=&#xa0;46) and 34.0&#xa0;&#xb1;&#xa0;19.4&#xa0;mg in the control group (n&#xa0;=&#xa0;46, mean differences: -3.3&#xa0;mg, 95% confidence interval, -11.9 to 5.4, p&#xa0;=&#xa0;0.457). The mean resting pain score at 1&#xa0;h post-surgery was significantly lower in the QLB group than in the control group (5 [4-6.25] vs. 7 [4.75-8], p&#xa0;=&#xa0;0.035). No significant intergroup differences were observed in the resting or coughing pain scores at other time points or in other secondary outcomes. Preoperative bilateral posterior QLB did not reduce cumulative opioid consumption during the first 24&#xa0;h after laparoscopic hepatectomy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3233/THC-240237
+- DOI: 10.1016/j.jclinane.2024.111504
 
 2. Keywords
-- Remazolam
-- multi-center
-- safety
-- sedation
-- single-masked
-- tooth extraction
+- Hepatocellular carcinoma
+- Laparoscopic hepatectomy
+- Liver resection
+- Postoperative analgesia
+- Quadratus lumborum block
+- Regional anesthesia
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Remazolam assessment methods and outcomes
-- multi-center assessment methods and outcomes
-- safety assessment methods and outcomes
+- Hepatocellular carcinoma assessment methods and outcomes
+- Laparoscopic hepatectomy assessment methods and outcomes
+- Liver resection assessment methods and outcomes

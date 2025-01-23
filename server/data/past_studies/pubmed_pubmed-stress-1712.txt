@@ -1,27 +1,28 @@
-Study Title: Sex differences in the effects of aromatherapy on anxiety and salivary oxytocin levels.
+Study Title: Testing the effectiveness of the culturally adapted skills training START NOW to reduce mental health problems in adolescent refugees: study protocol for a randomized controlled trial.
 
 Study Summary:
-Aromatherapy is a holistic healing method to promote health and well-being by using natural plant extracts. However, its precise mechanism of action and influence on the endocrine system remains unclear. Since recent studies reported that a neuropeptide, oxytocin, can attenuate anxiety, we hypothesized that if oxytocin secretion is promoted through aromatherapy, it may improve mood and anxiety. The present study is aimed to investigate the relationship between oxytocin and the effects of aromatherapy with lavender oil on anxiety level, by measuring salivary oxytocin levels in healthy men and women. We conducted a randomized open crossover trial in 15 men and 10 women. Each participant received a placebo intervention (control group) and aromatherapy with lavender oil (aromatherapy group). For the aromatherapy group, each participant spent a 30-min session in a room with diffused lavender essential oil, followed by a 10-min hand massage using a carrier oil containing lavender oil. Anxiety was assessed using the State-Trait Anxiety Inventory (STAI) before the intervention, 30-min after the start of intervention, and after hand massage, in both groups. Saliva samples were collected at the same time points of the STAI. In women, either aromatherapy or hand massage was associated with a reduction in anxiety levels, independently. Moreover, salivary oxytocin levels were increased after aromatherapy. On the other hand, in men, anxiety levels were decreased after aromatherapy, as well as after hand massage, regardless of the use of lavender oil. However, there were no significant differences in changes of salivary oxytocin levels between the control and aromatherapy groups during the intervention period. Interestingly, there was a positive correlation between anxiety levels and salivary oxytocin levels before the intervention, but a negative correlation was observed after hand massage with lavender oil. The results of the present study indicate that in women, aromatherapy with lavender oil attenuated anxiety with increase in oxytocin level in women, whereas in men, there was no clear relationship of aromatherapy with anxiety or oxytocin levels but, there was a change in correlation between anxiety and oxytocin. The results of the present study suggest that the effect of aromatherapy can vary depending on sex.
+Adolescent refugees are particularly vulnerable to mental health problems, as they experience many risk factors associated with their resettlement at crucial stages of their physical and emotional development. However, despite having a greater healthcare needs than others, they face significant barriers to accessing healthcare services. Therefore, this study aims to test the effectiveness of a low-threshold, culturally adapted version of the skills training START NOW - START NOW Adapted - in reducing mental health problems among adolescent refugees. We will recruit 80 adolescent refugees (15-18&#x2009;years) with symptoms of anxiety and depression or high perceived stress in Northwestern Switzerland. They will be randomly assigned to one of two study groups: an intervention group, receiving START NOW Adapted, and a control group, receiving treatment as usual (TAU). The intervention will last 10&#x2009;weeks and will consist of one-hour sessions per week provided by a trained facilitator with the same cultural background, in the respective language. Assessments to collect depressive and anxious symptoms, perceived stress, social-ecological resilience, and emotion recognition abilities will be conducted pre-intervention, post-intervention (11&#x2009;weeks later) and at the 3-month follow-up. Multilevel models will be computed with primary and secondary outcome measures as dependent variables. An effect of at least moderate size will be considered clinically relevant. This randomized controlled trial aims to investigate the effectiveness of a culturally adapted version of START NOW, providing valuable insights to improve current health promotion for adolescent refugees in Switzerland (or rather lack thereof). Ultimately, the effects of START NOW may facilitate integration and promote healthy development while decreasing costs associated with treating migration- or conflict-related trauma.: ClinicalTrials.gov, identifier: NCT06324864.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fendo.2024.1380779
+- DOI: 10.3389/fpubh.2024.1408026
 
 2. Keywords
-- anxiety
-- aromatherapy
-- hand massage
-- oxytocin
-- sex differences
-- stress
+- adolescents
+- cultural adaptation
+- effectiveness
+- mental health
+- randomized controlled trial
+- refugees
+- study protocol
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- anxiety assessment methods and outcomes
-- aromatherapy assessment methods and outcomes
-- hand massage assessment methods and outcomes
+- adolescents assessment methods and outcomes
+- cultural adaptation assessment methods and outcomes
+- effectiveness assessment methods and outcomes

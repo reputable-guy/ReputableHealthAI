@@ -1,26 +1,27 @@
-Study Title: Study on the recovery of bladder function in patients with cervical cancer after operation by portable ultrasound combined.
+Study Title: Programmed intermittent bolus versus continuous infusion for catheter-based erector spinae plane block on quality of recovery in thoracoscopic surgery: a single-centre randomised controlled trial.
 
 Study Summary:
-Postoperative urination dysfunction is a common complication after surgery in patients with cervical cancer. Portable bladder ultrasound are commonly utilized in clinical practice for measuring residual urine volume. This study aimed to the effect of bladder function training combined with portable ultrasound monitoring on bladder function recovery in patients with cervical cancer after training. A total of 40 postoperative patients with cervical cancer were randomly divided into a control group (A) and an experimental group (B) of 20 cases each. Group A was given routine postoperative care, while group B was given bladder function training. Urgent urine bladder volume were taken twice daily after removal of the urinary catheter and monitored for five consecutive days. The difference of urgent urine bladder volume and bladder filling rate were compared by-test and chi-square test respectively. The 36-item Short Form Health Survey (SF-36) was used to evaluate the quality of life of patients before and after intervention, and compared by Mann-Whitneytest. There was no significant difference in preoperative urgent urine volume between the two groups. After catheter removal, the bladder volume of patients in the B increased, while the bladder volume of patients in the A increased less and fluctuated greatly. The bladder filling rate in the A was significantly lower than that in the B (5/15 vs 17/18,&#x2009;<&#x2009;0.05). After intervention, the quality of life of the experimental group was better than that of the control group, including scores of general health, mental health, vitality, and physical role (&#x2009;<&#x2009;0.05). Postoperative cervical cancer patients trained to hold urine by portable ultrasound monitoring are able to recover bladder function.
+Regional anaesthesia techniques, including the erector spinae fascial plane (ESP) block, reduce postoperative pain after video-assisted thoracoscopic surgery (VATS). Fascial plane blocks rely on spread of local anaesthetic between muscle layers, and thus, intermittent boluses might increase their clinical effectiveness. We tested the hypothesis that postoperative ESP analgesia with a programmed intermittent bolus (PIB) regimen is better than a continuous infusion (CI) regimen in terms of quality of recovery after VATS. We undertook a prospective, double-blinded, randomised, controlled trial involving 60 patients undergoing VATS. All participants received ESP block catheters and were randomly assigned to CI or PIB of local anaesthetic regimen for postoperative analgesia. The primary outcome was Quality of Recovery-15 (QoR-15) score 24 h after surgery. Secondary outcomes included postoperative respiratory function, opioid consumption, verbal rating pain score, time to first mobilisation, nausea, vomiting, and length of hospital stay. Overall QoR-15 scores at 24 h after VATS were similar (PIB 115.5 [interquartile range 107-125] vs CI 110 [93-128]; &#x394;<6, P=0.29). The only quality of recovery descriptor showing a significant difference was nausea and vomiting, which was favourable in the PIB group (10 [10-10] vs 10 [7-10]; P=0.03). Requirement for rescue antiemetics up to 24 h after surgery was lower in the PIB group (4 [14%] vs 11 [41%]; P=0.04). There were no differences in other secondary outcomes between groups. Delivering ESP block analgesia after VATS via a PIB regimen resulted in similar QoR-15 at 24 h compared with a CI regimen.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/03913988241262593
+- DOI: 10.1016/j.bja.2024.05.041
 
 2. Keywords
-- Cervical cancer
-- bladder capacity
-- bladder function
-- portable ultrasound
-- radiotherapy
+- continuous infusion
+- erector spinae plane block
+- peripheral nerve block
+- postoperative recovery
+- programmed intermittent bolus
+- regional anaesthesia
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Cervical cancer assessment methods and outcomes
-- bladder capacity assessment methods and outcomes
-- bladder function assessment methods and outcomes
+- continuous infusion assessment methods and outcomes
+- erector spinae plane block assessment methods and outcomes
+- peripheral nerve block assessment methods and outcomes

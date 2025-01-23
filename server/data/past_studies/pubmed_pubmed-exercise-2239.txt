@@ -1,21 +1,20 @@
-Study Title: The effect of Baduanjin on body mass and body composition of college students: A randomized controlled trial.
+Study Title: Oxygen supplementation and cognitive function in long-COVID.
 
 Study Summary:
-Previous studies have also found that Baduanjin training can improve health-related physical fitness in young adults. However, it is unclear whether Baduanjin training can improve body mass and body composition in young adults. The aim of this study was to investigate the effects of the Baduanjin training on body mass and body composition in college students. This was a single-center, randomized controlled trial comparing 12 weeks of Baduanjin exercise training group (BEG) at a frequency of 60 minutes per day, 4 days per week with no special exercise control group (CG) on the health-related physical fitness in college students. Body mass and body composition were assessed using the body mass index, waist-to-hip ratio, and Inbody 720 devices. A total of 93 college students (56 in the BEG and 37 in the CG) completed 2 body composition assessments and were included in the analysis. A mixed linear model was used to analyze the effect of the Baduanjin exercise intervention. After 12 weeks of intervention, the body mass index and waist-to-hip ratio in the BEG were significantly lower than that in the CG (P =.007 and P =.028) with a moderate effect size (Cohen d = 0.584 and 0.474) and a significant interaction effect of group by time (P =.007 and.028). The fat mass indicators of body composition including percent body fat, body fat mass, and body fat mass of both arms, both legs and trunk in the BEG were significantly lower than those in the CG (all P <.05), with a moderate effect size (Cohen d from 0.452 to 0.624) and a significant interaction effect of group by time (all P <.05); no significant differences were found in the total body composition indicators and the fat-free mass indicators of body composition between the 2 groups. Regular Baduanjin exercise training may be beneficial for improving body composition in young adults.
+Patients can experience persistent cognitive complaints and deficits in long-COVID. Inflammation and capillary damage may contribute to symptoms by interfering with tissue oxygenation. This was an exploratory pilot crossover study designed to describe the effects of supplemental oxygen (portable oxygen concentrator, POC) on cognitive performance and peripheral and cerebral oxygen saturation at rest and exercise. Participants with long-COVID (n = 21) were randomized 1:1 to: 1) POC (3h/day) for 2 weeks followed by standard of care (Control) for 2 weeks or 2) Control for 2 weeks then POC (3h/day) for 2 weeks, with a 1-week washout. Cognitive assessment (global cognition [Montreal Cognitive Assessment, MoCA], episodic memory [Hopkins], working memory [Digit Span], executive function [Verbal fluency]) was performed at baseline and after each treatment period. Patient Health Questionnaire (PHQ-9) and Generalized Anxiety Disorder-7 were completed. Peripheral and cerebral oxygen saturation were measured at rest and exercise (treadmill) at baseline and after each treatment period. Statistical analyses were descriptive without formal testing. MoCA scores were similar under POC (26.45&#xb1;2.31) and Control (26.37&#xb1;2.85); overall POC-Control difference was -0.090 (95% CI [-1.031, 0.850]). Because of a learning effect, post-hoc analyses were performed for Period 1, where the MoCA score difference was 1.705 [0.140, 3.271]. MoCA subscores suggested better performance with POC for Visuospatial/executive (0.618 [-0.106, 1.342]) and Attention (0.975 [0.207, 1.743]). POC trended to have better scores on Digit Span backward (difference: 0.822 [-0.067, 1.711]) and self-reported depressive symptoms (difference: -1.335 [-3.166, 0.495]). For specific PHQ-9 items, POC tended to have lower (better) scores for Q1 (Little interest/pleasure) and Q7 (Trouble concentrating). Cerebral oxygen saturations at end of exercise showed no difference between POC and Control. Peripheral saturations during exercise were similar under POC and Control (difference: 0.519% [-1.675, 2.714]). An advantage of POC over Control was observed for global cognition, attention, visuospatial/executive performance and depressive symptoms. Results need to be validated in a larger study.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000040393
+- DOI: 10.1371/journal.pone.0312735
 
 2. Keywords
 
 
 3. Key Findings
-- Previous studies have also found that Baduanjin training can improve health-related physical fitness in young adults
-- 05); no significant differences were found in the total body composition indicators and the fat-free mass indicators of body composition between the 2 groups
+- Cerebral oxygen saturations at end of exercise showed no difference between POC and Control
 
 This study provides insights into:
 - General research methodology and outcomes

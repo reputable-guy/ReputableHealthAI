@@ -1,26 +1,28 @@
-Study Title: Impact of &#xa1;M&#xed;ranos! on parent-reported home-based healthy energy balance-related behaviors in low-income Latino preschool children: a clustered randomized controlled trial.
+Study Title: Moderate dietary salt restriction improves blood pressure and mental well-being in patients with primary aldosteronism: The salt CONNtrol trial.
 
 Study Summary:
-Widespread establishment of home-based healthy energy balance-related behaviors (EBRBs), like diet, physical activity, sedentary behavior, screen time, and sleep, among low-income preschool-aged children could curb the childhood obesity epidemic. We examined the effect of an 8-month multicomponent intervention on changes in EBRBs among preschool children enrolled in 12 Head Start centers. The Head Start (HS) centers were randomly assigned to one of three treatment arms: center-based intervention group (CBI), center-based plus home-based intervention group (CBI&#x2009;+&#x2009;HBI), or control. Before and following the intervention, parents of 3-year-olds enrolled in participating HS centers completed questionnaires about their child's at-home EBRBs. Adult-facilitated physical activity (PA) was measured by an index based on questions assessing the child's level of PA participation at home, with or facilitated by an adult. Fruit, vegetable, and added sugar intake were measured via a short food frequency questionnaire, and sleep time and screen time were measured using 7-day logs. A linear mixed effects model examined the intervention's effect on post-intervention changes in PA, intake of fruit, vegetable, and added sugar, sleep time, and screen time from baseline to post-intervention. A total of 325 parents participated in the study (CBI n&#x2009;=&#x2009;101; CBI&#x2009;+&#x2009;HBI n&#x2009;=&#x2009;101; and control n&#x2009;=&#x2009;123). Compared to control children, CBI and CBI&#x2009;+&#x2009;HBI parents reported decreases in children's intake of added sugar from sugar-sweetened beverages. Both CBI and CBI&#x2009;+&#x2009;HBI parents also reported smaller increases in children's average weekday screen time relative to controls. In addition, CBI&#x2009;+&#x2009;HBI parents reported CBI&#x2009;+&#x2009;HBI parents reported increases in children's adult-facilitated PA, fruit and vegetable intake, and daily sleep time during weekdays (excluding weekends) and the total week from baseline to post-intervention, while children in the CBI increased sleep time over the total week compared to the children in the control group. Parent engagement strengthened the improvement in parent-reported EBRBs at home in young children participating in an evidence-based obesity prevention program in a childcare setting. Future studies should investigate equity-related contextual factors that influence the impact of obesity prevention in health-disparity populations. ClinicalTrials.gov, NCT03590834. Registered July 18, 2018, https://clinicaltrials.gov/ct2/show/NCT03590834.
+Primary aldosteronism (PA) is a frequent cause of hypertension. Aldosterone excess together with high dietary salt intake aggravates cardiovascular damage, despite guideline-recommended mineralocorticoid receptor antagonist (MRA) treatment. To investigate the antihypertensive impact of a moderate dietary salt restriction and associated physiological changes, including mental well-being. A total of 41 patients with PA on a stable antihypertensive regimen-including MRA-followed a dietary salt restriction for 12 weeks with structured nutritional training and consolidation by a mobile health app. Salt intake and adherence were monitored every 4 weeks using 24-h urinary sodium excretion and nutrition protocols. Body composition was assessed by bioimpedance analysis and mental well-being by validated questionnaires. Dietary salt intake significantly decreased from 9.1 to 5.2&#xa0;g/d at the end of the study. In parallel, systolic (130 vs. 121&#xa0;mm&#xa0;Hg) and diastolic blood pressure (BP) (84 vs. 81&#xa0;mm&#xa0;Hg) improved significantly. Patients' aptitude of estimating dietary salt content was refined significantly (underestimation by 2.4 vs. 1.4&#xa0;g/d). Salt restriction entailed a significant weight loss of 1.4&#xa0;kg, improvement in pulse pressure (46 vs. 40&#xa0;mm&#xa0;Hg) and normalization of depressive symptoms (PHQD scale, p&#xa0;<&#xa0;0.05). Salt restriction, cortisol after dexamethasone suppression test and dosage of renin-angiotensin-aldosterone-system (RAAS) blockers were independently associated with BP reduction. A moderate restriction of dietary salt intake in patients with PA substantially reduces BP and depressive symptoms. Moreover, the findings underline that a sufficient RAAS blockade seems to augment the effects of salt restriction on BP and cardiovascular risk.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1186/s12966-023-01427-z
+- DOI: 10.1111/joim.13618
 
 2. Keywords
-- Intervention
-- Nutrition
-- Preschool children
-- Screen time
-- Sleep
+- aldosterone
+- cardiovascular risk
+- hypertension
+- mineralocorticoid receptor antagonist
+- salt restriction
+- salt sensitivity
+- sodium
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Intervention assessment methods and outcomes
-- Nutrition assessment methods and outcomes
-- Preschool children assessment methods and outcomes
+- aldosterone assessment methods and outcomes
+- cardiovascular risk assessment methods and outcomes
+- hypertension assessment methods and outcomes

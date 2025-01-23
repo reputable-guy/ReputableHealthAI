@@ -1,20 +1,25 @@
-Study Title: Development of a daily predictive model for the exacerbation of chronic obstructive pulmonary disease.
+Study Title: A Randomized Controlled Trial of the Effects of a Web-Based Intervention on Perceived Stress and Diet Quality Among First-Year University Students.
 
 Study Summary:
-Acute exacerbation (AE) of chronic obstructive pulmonary disease (COPD) compromises health status; it increases disease progression and the risk of future exacerbations. We aimed to develop a model to predict COPD exacerbation. We merged the Korean COPD subgroup study (KOCOSS) dataset with nationwide medical claims data, information regarding weather, air pollution, and epidemic respiratory virus data. The Korean National Health and Nutrition Examination Survey (KNHANES) dataset was used for validation. Several machine learning methods were employed to increase the predictive power. The development dataset consisted of 590 COPD patients enrolled in the KOCOSS cohort; these were randomly divided into training and internal validation subsets on the basis of the individual claims data. We selected demographic and spirometry data, medications for COPD and hospital visit for AE, air pollution data and meteorological data, and influenza virus data as contributing factors for the final model. Six machine learning and logistic regression tools were used to evaluate the performance of the model. A light gradient boosted machine (LGBM) afforded the best predictive power with an area under the curve (AUC) of 0.935 and an F1 score of 0.653. Similar favorable predictive performance was observed for the 2151 individuals in the external validation dataset. Daily prediction of the COPD exacerbation risk may help patients to rapidly assess their risk of exacerbation and will guide them to take appropriate intervention in advance. This might lead to reduction of the personal and socioeconomic burdens associated with exacerbation.
+e-Health interventions can potentially improve health care. My Viva Plan(MVP) is a web-based program that focuses on mindfulness, nutrition, and physical fitness. The aim of this study was to evaluate the effects of this platform on stress indicators and diet quality among first-year university students. Ninety-seven university students were enrolled in a randomized, controlled clinical trial. Participants were randomized into control (&#x2009;=&#x2009;49) and MVP (&#x2009;=&#x2009;48) groups. Perceived stress was measured using the self-report Stress Indicator Questionnaire. Diet quality was assessed by the nutrient-rich foods index, and body composition was assessed by a hand-to-foot, multifrequency, bioelectrical impedance analysis. There were no differences in physical, sleep, behavioral, emotional, and personal habit indicators between groups. Diet quality and body composition were similar between groups, except among women in the MVP group with decreased body fat (-1.2&#x2009;&#xb1;&#x2009;2.6&#x2009;kg,&#x2009;<&#x2009;0.05). Participant engagement was low: 50% of the MVP group did not access the platform. The MVP web-based intervention was not associated with improvements in stress indicators, diet quality, and body composition, likely due to the characteristics of our cohort of healthy young individuals. Future studies should focus on enhancing motivational approaches to explore the potential of e-health interventions that improve health behavior. Clinical Trial Registration number: NCT03579264A.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1038/s41598-023-45835-4
+- DOI: 10.1089/tmr.2023.0041
 
 2. Keywords
-
+- internet-based intervention
+- mindfulness
+- stress
+- wellness programs
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- internet-based intervention assessment methods and outcomes
+- mindfulness assessment methods and outcomes
+- stress assessment methods and outcomes

@@ -1,30 +1,28 @@
-Study Title: A multidomain lifestyle intervention to maintain optimal cognitive functioning in Dutch older adults-study design and baseline characteristics of the FINGER-NL randomized controlled trial.
+Study Title: The effect of cognitive behavioral therapy for insomnia on sleep and glycemic outcomes in people with type 2 diabetes: A randomized controlled trial.
 
 Study Summary:
-Evidence on the effectiveness of multidomain lifestyle interventions to prevent cognitive decline in older people without dementia is mixed. Embedded in the World-Wide FINGERS initiative, FINGER-NL aims to investigate the effectiveness of a 2-year multidomain lifestyle intervention on cognitive functioning in older Dutch at risk individuals. Multi-center, randomized, controlled, multidomain lifestyle intervention trial with a duration of 24&#xa0;months. 1210 adults between 60-79&#xa0;years old with presence of&#x2009;&#x2265;&#x2009;2 modifiable risk factors and&#x2009;&#x2265;&#x2009;1 non-modifiable risk factor for cognitive decline were recruited between January 2022 and May 2023 via the Dutch Brain Research Registry and across five study sites in the Netherlands. Participants were randomized to either a high-intensity or a low-intensity intervention group. The multidomain intervention comprises a combination of 7 lifestyle components (physical activity, cognitive training, cardiovascular risk factor management, nutritional counseling, sleep counseling, stress management, and social activities) and 1 nutritional product (Souvenaid&#xae;) that could help maintain cognitive functioning. The high-intensity intervention group receives a personalized, supervised and hybrid intervention consisting of group meetings (on-site and online) and individual sessions guided by a trained lifestyle coach, and access to a digital intervention platform that provides custom-made training materials and selected lifestyle apps. The low-intensity intervention group receives bi-monthly online lifestyle-related health advice via the digital intervention platform. Primary outcome is 2-year change on a cognitive composite score covering processing speed, executive function, and memory. Within 17&#xa0;months, participant recruitment has been successfully completed (N&#x2009;=&#x2009;1210; mean age: 67.7&#xa0;years (SD: 4.6); 64% female). Modifiable risk factors commonly present at baseline were physical inactivity (89%), low mental/cognitive activity (50%), low social engagement (39%), hypertension (39%) and high alcohol consumption (39%). The mean body mass index of participants was 28.3 (SD: 4.2) and the total serum cholesterol was 5.4&#xa0;mmol/L (SD: 1.2). Baseline lifestyle and clinical measurements showed successful recruitment of participants with sufficient potential for prevention. Results of FINGER-NL will provide further insight into the efficacy of a multidomain lifestyle intervention to prevent cognitive decline in older adults. ClinicalTrials.gov (ID: NCT05256199)/2022-01-11.
+Investigate whether aiding sleep by online cognitive behavioral therapy for insomnia (CBT-I) can improve glycemic and metabolic control, mood, quality of life (QoL) and insomnia symptoms in people with type 2 diabetes and assess the mediating role of lifestyle factors. Adults with type 2 diabetes and insomnia symptoms were randomly assigned to CBT-I or care as usual. At baseline, three and six months we assessed HbA1c as primary outcome and glycemic control, metabolic outcomes, sleep, mood and QoL as secondary outcomes. Mixed models were used to determine within-person and between-persons differences in outcomes and mediation analysis for lifestyle factors. We randomized 29 participants to CBT-I and 28 to care as usual. Intention-to-treat analysis showed no significant differences in glycemic control, metabolic outcomes, anger, distress or QoL, but showed a significantly larger decrease in insomnia (-1.37(2.65: 0.09)) and depressive symptoms (-0.92(-1.77: 0.06)) and increase in BMI (0.29&#xa0;kg/m(0.00:0.57)) in the intervention compared to the control group. Only half of the intervention participants completed the CBT-I. Per protocol analysis showed a not statistically significant decrease in HbA1c (-2.10&#xa0;mmol/l(-4.83:0.63)) and glucose (-0.39&#xa0;mmol/l(-1.19:0.42)), metabolic outcomes and increase in QoL. Furthermore, the intervention group showed a significant decrease in insomnia (-2.22(-3.65: 0.78)) and depressive symptoms (-1.18(-2.17: 0.19)) compared to the control group. Lifestyle factors partially mediated the effect of the intervention. CBT-I might improve insomnia symptoms and mood, and perhaps improves glycemic control, albeit not significant, in people with type 2 diabetes and insomnia symptoms, compared to care as usual.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13195-024-01495-8
+- DOI: 10.1016/j.sleep.2024.05.029
 
 2. Keywords
-- Alzheimer&#x2019;s disease
-- Cognitive impairment
-- Dementia
-- Intervention
-- Lifestyle
-- Multidomain
-- Prevention
-- Randomized controlled trial
-- Risk factors
+- Care as usual
+- Cognitive behavioral therapy
+- Insomnia symptoms
+- Metabolic outcomes
+- Type 2 diabetes
 
 3. Key Findings
-- Baseline lifestyle and clinical measurements showed successful recruitment of participants with sufficient potential for prevention
+- Intention-to-treat analysis showed no significant differences in glycemic control, metabolic outcomes, anger, distress or QoL, but showed a significantly larger decrease in insomnia (-1
+- Per protocol analysis showed a not statistically significant decrease in HbA1c (-2
+- Furthermore, the intervention group showed a significant decrease in insomnia (-2
 
 This study provides insights into:
-- Alzheimer&#x2019;s disease assessment methods and outcomes
-- Cognitive impairment assessment methods and outcomes
-- Dementia assessment methods and outcomes
+- Care as usual assessment methods and outcomes
+- Cognitive behavioral therapy assessment methods and outcomes
+- Insomnia symptoms assessment methods and outcomes

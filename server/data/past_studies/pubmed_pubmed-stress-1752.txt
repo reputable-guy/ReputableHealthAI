@@ -1,28 +1,26 @@
-Study Title: Mindfulness-based intervention as a symptom management strategy in patients with end-stage renal disease: A controlled clinical trial.
+Study Title: Exploring the effect of the menstrual cycle or oral contraception on elite athletes' training responses when workload is not objectively quantifiable: the MILS approach and findings from female Olympians.
 
 Study Summary:
-The study's purpose was to examine the effect of mindfulness-based intervention (MBI) on physical and psychological symptoms in patients with end-stage renal disease (ESRD) in Jordan. A repeated-measure randomized control study was conducted in a haemodialysis unit in Jordan between April 2023 and July 2023. Participants (N&#xa0;=&#x2009;61) were selected using convenience sampling and then randomly assigned into experimental and control groups. The experimental group performed 30-min MBI, three times a week for 8&#xa0;weeks during haemodialysis sessions. The Depression, Anxiety and Stress Scale-21 and the Patient Health Questionnaire-15 were used to measure the outcomes at baseline, after 5&#xa0;weeks of the intervention and at the end of the intervention. Mixed-model repeated-measure ANOVAs revealed that the experimental group showed significantly lower levels of stress, depression and physical symptoms than the control group over time. Within-subject repeated-measure ANOVAs revealed that, in the experimental group, physical symptoms improve significantly over the three points of time. However, significant reductions in psychological symptoms occurred 5&#xa0;weeks after initiating the intervention, but there was no further significant improvement at the end of the intervention. The study supports the integration of MBI as a symptom management strategy into nursing care plans of patients with ESRD. Clinical trial.gov; registration ID: NCT06064708.
+Develop the Markov Index Load State (MILS) model, based on hidden Markov chains, to assess athletes' workload responses and investigate the effects of menstrual cycle (MC)/oral contraception (OC), sex steroids hormones and wellness on elite athletes' training. On a 7-month longitudinal follow-up, daily training (volume and perceived effort, n=2200) and wellness (reported sleep quality and quantity, fitness, mood, menstrual symptoms, n=2509) data were collected from 24 female rowers and skiers preparing for the Olympics. 51 MC and 54 OC full cycles relying on 214 salivary hormone samples were analysed. MC/OC cycles were normalised, converted in % from 0% (first bleeding/pill withdrawal day) to 100% (end). MILS identified three chronic workload response states: 'easy', 'moderate' and 'hard'. A cyclic training response linked to MC or OC (95% CI) was observed, primarily related to progesterone level (p=8.23e-03 and 5.72e-03 for the easy and hard state, respectively). MC athletes predominantly exhibited the 'easy' state during the cycle's first half (8%-53%), transitioning to the 'hard' state post-estimated ovulation (63%-96%). OC users had an increased 'hard' state (4%-32%) during pill withdrawal, transitioning to 'easy' (50%-60%) when on the pill. Wellness metrics influenced the training load response: better sleep quality (p=5.20e-04), mood (p=8.94e-06) and fitness (p=6.29e-03) increased the likelihood of the 'easy' state. Menstrual symptoms increased the 'hard' state probability (p=5.92e-02). The MILS model, leveraging hidden Markov chains, effectively analyses cumulative training load responses. The model identified cyclic training responses linked to MC/OC in elite female athletes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/ijn.13282
+- DOI: 10.1136/bmjsem-2023-001810
 
 2. Keywords
-- anxiety
-- depression
-- haemodialysis
-- mindfulness
-- physical symptoms
-- stress
+- physical stress
+- rowing
+- skiing
+- statistics
+- women
 
 3. Key Findings
-- Mixed-model repeated-measure ANOVAs revealed that the experimental group showed significantly lower levels of stress, depression and physical symptoms than the control group over time
-- Within-subject repeated-measure ANOVAs revealed that, in the experimental group, physical symptoms improve significantly over the three points of time
+- Findings extraction requires manual review
 
 This study provides insights into:
-- anxiety assessment methods and outcomes
-- depression assessment methods and outcomes
-- haemodialysis assessment methods and outcomes
+- physical stress assessment methods and outcomes
+- rowing assessment methods and outcomes
+- skiing assessment methods and outcomes

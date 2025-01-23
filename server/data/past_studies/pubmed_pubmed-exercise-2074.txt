@@ -1,29 +1,27 @@
-Study Title: The effects of acute exercise on emotional pattern separation in adolescents and young adults.
+Study Title: Exercise into Pain in Chronic Rotator Cuff-Related Shoulder Pain: A Randomized Controlled Trial with 6-Month Follow-Up.
 
 Study Summary:
-Acute exercise has been associated with cognitive improvements, particularly in memory processes linked to the hippocampus, such as the ability to discriminate between similar stimuli, called hippocampal pattern separation. This can be assessed behaviorally with a mnemonic discrimination task and neurally with functional magnetic resonance imaging (fMRI). Additionally, previous research has shown an emotional modulatory effect on pattern separation, involving the amygdala. In this randomized between-subject study, we investigated whether a 10-minute bout of moderate-intensity exercise, compared to rest, could enhance pattern separation of neutral and emotional images in a group of healthy adolescents and young adults (n=53). Our results showed no significant effects of exercise on either mnemonic discrimination performance or neural activity in the hippocampus and amygdala. Additionally, arterial spin labeling (ASL) confirmed that there were no significant differences in cerebral blood flow between exercise and rest. We did observe worse discrimination for images with a higher similarity level and worse discrimination for highly similar positive images compared to negative and neutral images. However, there were no significant correlations between behavioral outcomes and neural activity. Exploratory analysis revealed a neural signal consistent with pattern completion in the bilateral CA1 and left CA3, but no evidence of pattern separation. Future studies should optimize the exercise characteristics necessary to robustly enhance pattern separation.
+Exercise therapy is the first-line treatment in rotator cuff-related shoulder pain (RCRSP), and diverse types of exercise seem effective. However, it is not still clear if painful exercise should be allowed or avoided during exercises. The objective of this study was to investigate if exercise into pain is more effective than no pain in RCRSP. A randomized controlled trial was conducted in a physiotherapy clinic in Belgium. Forty-three participants with chronic RCRSP were randomly allocated to G1 (exercising into pain) or G2 (exercising without pain) in a 12-week intervention with 6-month follow-up. Primary outcome was the Shoulder Pain and Disability Index (SPADI); secondary outcomes were pain intensity, fear-avoidance beliefs, fear of pain, quality of life, strength, and range of motion. Outcomes were measured at baseline (T0), after 9&#xa0;weeks (T1), 12&#xa0;weeks (T2), and 6 months (T3) from the first session and analysed with linear mixed models. No between-group difference in SPADI (time-by-group interaction, p = 0.25) up to 6 months was found, with mean difference (G1-G2) at T1 = 5.78 (CI95%: -3.43,14.59; p = 0.33), at T2 = 0.93 (CI95%: -7.20,9.05; p = 0.82), at T3 = 4.15 (CI95%: -2.61,10.92; p = 0.33). No between-group differences were found for any other outcomes. Pain provocation seems not to be necessary in RCRSP for achieving successful treatment effect in pain and disability reduction, fear-related beliefs, and quality of life up to 6 months. ClinicalTrials.gov NCT04553289.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1016/j.neuroimage.2024.120959
+- Publication Date: 2024
+- DOI: 10.2147/OAJSM.S483272
 
 2. Keywords
-- Adolescence
-- Arterial spin labeling
-- Exercise
-- Functional magnetic resonance imaging
-- Mnemonic discrimination
-- Pattern separation
-- Young adults
+- exercise therapy
+- physical therapy modalities
+- rehabilitation
+- shoulder impingement syndrome
+- shoulder pain
 
 3. Key Findings
-- Our results showed no significant effects of exercise on either mnemonic discrimination performance or neural activity in the hippocampus and amygdala
-- Exploratory analysis revealed a neural signal consistent with pattern completion in the bilateral CA1 and left CA3, but no evidence of pattern separation
+- 25) up to 6 months was found, with mean difference (G1-G2) at T1 = 5
+- No between-group differences were found for any other outcomes
 
 This study provides insights into:
-- Adolescence assessment methods and outcomes
-- Arterial spin labeling assessment methods and outcomes
-- Exercise assessment methods and outcomes
+- exercise therapy assessment methods and outcomes
+- physical therapy modalities assessment methods and outcomes
+- rehabilitation assessment methods and outcomes

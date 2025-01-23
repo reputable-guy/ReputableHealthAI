@@ -1,27 +1,27 @@
-Study Title: A randomized controlled trial modifying insomnia-consistent interpretation bias in students.
+Study Title: Daridorexant in Japanese patients with insomnia disorder: A phase 3, randomized, double-blind, placebo-controlled study.
 
 Study Summary:
-This study aimed to determine the causal role of insomnia-consistent interpretation bias within the cognitive model of insomnia, by modifying this bias in students experiencing subclinical levels of insomnia and assessing subsequent effects on sleep parameters. A sample of 128 students underwent randomization to receive either a single session of online Cognitive Bias Modification-Interpretation (CBM-I) or a sham training. Participants then tracked their pre-sleep worry and sleep parameters for seven consecutive days. Interpretation bias was assessed using an encoding-recognition task specifically designed for insomnia-related interpretation bias. The CBM-I manipulation utilized ambiguous scenarios to redirect participants away from making insomnia-related interpretations. Results revealed that CBM-I effectively decreased insomnia-consistent interpretation bias compared to the sham treatment, with interpretation bias being absent post-training in the CBM-I group. This reduction did not lead to improvements in pre-sleep worry or any sleep parameters. This study has been the first to investigate the causal role of interpretation bias on symptoms of insomnia. Although results indicated this bias to be modifiable, its causality within the cognitive model proves to be more complicated. Future research focusing on optimization of cognitive bias modifications could shed more light on the effects of biased cognitions on insomnia symptoms.
+This Phase 3 double-blind, placebo-controlled study evaluated the efficacy and safety of daridorexant in Japanese patients with insomnia disorder. 490 patients with insomnia disorder from 95 sites in Japan were randomized to daridorexant 50&#xa0;mg (n&#xa0;=&#xa0;163), 25&#xa0;mg (n&#xa0;=&#xa0;163) or placebo (n&#xa0;=&#xa0;164) for 4 weeks, followed by a 7-day placebo run-out and a 30-day safety follow-up. The primary efficacy endpoints, in hierarchical order, were change from baseline at Week 4 in subjective total sleep time (sTST) and subjective latency to sleep onset (sLSO), for daridorexant 50&#xa0;mg vs placebo. sTST and sLSO were also evaluated (secondary endpoints) for daridorexant 25&#xa0;mg vs placebo. Safety endpoints included adverse events and next-morning sleepiness (Visual Analog Scale, VAS). Daridorexant 50&#xa0;mg significantly increased sTST and decreased sLSO versus placebo at Week 4 (least-squares mean difference [LSMD]: sTST 20.3&#xa0;min [95&#xa0;% CI 11.4, 29.2] p&#xa0;<&#xa0;0.001; sLSO -10.7&#xa0;min [-15.8, -5.5] p&#xa0;<&#xa0;0.001). Daridorexant 25&#xa0;mg also significantly improved both endpoints versus placebo (LSMD: sTST 9.2&#xa0;min [0.3, 18.1] p&#xa0;=&#xa0;0.042; sLSO -7.2&#xa0;min [-12.3, -2.0] p&#xa0;=&#xa0;0.006). Overall incidence of adverse events was similar across groups (50&#xa0;mg: 22&#xa0;%; 25&#xa0;mg: 18&#xa0;%; placebo 23&#xa0;%); somnolence, the most common event, increased with increasing dose (50&#xa0;mg: 6.8&#xa0;%; 25&#xa0;mg: 3.7&#xa0;%; placebo 1.8&#xa0;%). However, daridorexant did not increase VAS next-morning sleepiness. No rebound or withdrawal-related symptoms were observed after treatment discontinuation. In Japanese patients with insomnia disorder, daridorexant (25 and 50&#xa0;mg) was well tolerated and significantly improved subjective sleep outcomes, with no evidence of residual effects.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.brat.2024.104607
+- DOI: 10.1016/j.sleep.2024.07.037
 
 2. Keywords
-- Cognitive bias
+- Daridorexant
+- Efficacy
 - Insomnia
-- Interpretive bias
-- Sleep
-- Students
+- Japan
+- Orexin
+- Safety
 
 3. Key Findings
-- Results revealed that CBM-I effectively decreased insomnia-consistent interpretation bias compared to the sham treatment, with interpretation bias being absent post-training in the CBM-I group
-- Although results indicated this bias to be modifiable, its causality within the cognitive model proves to be more complicated
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cognitive bias assessment methods and outcomes
+- Daridorexant assessment methods and outcomes
+- Efficacy assessment methods and outcomes
 - Insomnia assessment methods and outcomes
-- Interpretive bias assessment methods and outcomes

@@ -1,27 +1,25 @@
-Study Title: Incorporating biofeedback into the Mindfulness in Motion Intervention for health care professionals: Impact on sleep and stress.
+Study Title: Objective sleep enhancement in Parkinson's disease: A sham-controlled trial of low-frequency repetitive transcranial magnetic stimulation over the right dorsolateral prefrontal cortex.
 
 Study Summary:
-Health care providers (HCP) experience high stress and burnout rates. Mindfulness Based Interventions (MBI) with biofeedback may help improve resiliency but require further research. Aims were to evaluate changes in sleep patterns, nocturnal physiology, stress, mood disturbances, and perceived experience with biofeedback during the Mindfulness in Motion (MIM) intervention. Data from 66 HCP were included after removing those below 75 % compliance with wearable sensors and wellness surveys. Participants were enrolled in MIM, including eight weekly one-hour virtually delivered synchronous group meetings and &#x223c;10 min of mindfulness home practice at least 3 times per week using a mobile application. Participants wore wearable sensors to monitor sleep and nocturnal physiology and completed short daily stress and mood disturbances. According to mixed effect models, no sleep nor physiological metrics changed across MIM (p > 0.05). More time was spent in bed after MIM sessions (8.33&#xb1;1.03 h) compared to night before (8.05&#xb1;0.93 h; p = 0.040). Heart rate variability was lower nights after MIM (33.00&#xb1;15.59 ms) compared to nights before (34.50&#xb1;17.04 ms; p = 0.004) but was not clinically meaningful (effect= 0.033). Significant reductions were noted in perceived stress at weeks 3 through 8 compared to Baseline and lower Total Mood Disturbance at weeks 3, 5, 6, and 8 compared to Baseline (p < 0.001). Participating in the MIM with mobile applications and wearable sensors reduced perceived stress and mood disturbances but did not induce physiological changes. Additional research is warranted to further evaluate objective physiological outcomes while controlling for confounding variables (e.g., alcohol, medications).
+Parkinson's disease (PD) is often accompanied by sleep disturbances, impacting patients' quality of life. While repetitive transcranial magnetic stimulation (rTMS) shows promise in improving self-reported sleep quality, its effects on objective sleep architecture in PD remain understudied. Sleep disturbances, including rapid eye movement (REM) and slow-wave sleep disturbances, correlate with cognitive decline and motor symptoms. This study investigated the effect of low-frequency rTMS targeting the right dorsolateral prefrontal cortex (DLPFC) modifying objective sleep architecture and explored symptom improvement mechanisms in PD patients. In this randomized, double-blind, sham-controlled trial, 67 PD patients received 10 consecutive days of 1-Hz rTMS over the right DLPFC. Polysomnography assessed sleep microstructure, while electroencephalogram recordings evaluated power spectral density and sleep spindle activity. Clinical scales measured sleep quality, motor symptoms, and cognition at baseline, post-treatment, and 3 months post-rTMS. The rTMS group exhibited improvements in sleep quality, motor symptoms, and cognition post-treatment, persisting at the 3-month follow-up. There was a notable increase in the REM sleep proportion post-rTMS. The rTMS group exhibited elevated low-frequency (0.5-2&#xa0;Hz) slow-wave electroencephalogram spectral density during non-REM sleep. Cognitive enhancement correlated with increased lower delta power, while motor symptom progression correlated with spindle frequency and slow-wave sleep percentage changes. Low-frequency rTMS targeting the right DLPFC holds promise for improving clinical symptoms and modulating sleep architecture in PD. These findings suggest a link between symptom improvement and sleep structure enhancement, highlighting the need for further investigation into the therapeutic potential of rTMS in PD management.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.explore.2024.103022
+- DOI: 10.1016/j.parkreldis.2024.107050
 
 2. Keywords
-- Breathing techniques
-- Breathwork
-- First responders
-- Meditation
-- Mental health
-- Mindfulness based stress reduction
+- Parkinson's disease
+- Polysomnography
+- Repetitive transcranial magnetic stimulation
+- Sleep structure
 
 3. Key Findings
-- Additional research is warranted to further evaluate objective physiological outcomes while controlling for confounding variables (e
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Breathing techniques assessment methods and outcomes
-- Breathwork assessment methods and outcomes
-- First responders assessment methods and outcomes
+- Parkinson's disease assessment methods and outcomes
+- Polysomnography assessment methods and outcomes
+- Repetitive transcranial magnetic stimulation assessment methods and outcomes

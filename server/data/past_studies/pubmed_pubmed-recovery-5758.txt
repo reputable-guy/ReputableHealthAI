@@ -1,20 +1,29 @@
-Study Title: Musical and electrical stimulation as intervention in disorder of consciousness (DOC) patients: A randomised cross-over trial.
+Study Title: Latarjet procedure restores range of motion at 6&#xa0;months postoperatively: a prospective cohort study using motion capture analysis.
 
 Study Summary:
-Disorders of consciousness (DOC), i.e., unresponsive wakefulness syndrome (UWS) or vegetative state (VS) and minimally conscious state (MCS), are conditions that can arise from severe brain injury, inducing widespread functional changes. Given the damaging implications resulting from these conditions, there is an increasing need for rehabilitation treatments aimed at enhancing the level of consciousness, the quality of life, and creating new recovery perspectives for the patients. Music may represent an additional rehabilitative tool in contexts where cognition and language are severely compromised, such as among DOC patients. A further type of rehabilitation strategies for DOC patients consists of Non-Invasive Brain Stimulation techniques (NIBS), including transcranial electrical stimulation (tES), affecting neural excitability and promoting brain plasticity. We here propose a novel rehabilitation protocol for DOC patients that combines music-based intervention and NIBS in neurological patients. The main objectives are (i) to assess the residual neuroplastic processes in DOC patients exposed to music, (ii) to determine the putative neural modulation and the clinical outcome in DOC patients of non-pharmacological strategies, i.e., tES(control condition), and music stimulation, and (iii) to evaluate the putative positive impact of this intervention on caregiver's burden and psychological distress. This is a randomised cross-over trial in which a total of 30 participants will be randomly allocated to one of three different combinations of conditions: (i) Music only, (ii) tES only (control condition), (iii) Music + tES. The music intervention will consist of listening to an individually tailored playlist including familiar and self-relevant music together with fixed songs; concerning NIBS, tES will be applied for 20 minutes every day, 5 times a week, for two weeks. After these stimulations two weeks of placebo treatments will follow, with sham stimulation combined with noise for other two weeks. The primary outcomes will be clinical, i.e., based on the differences in the scores obtained on the neuropsychological tests, such as Coma Recovery Scale-Revised, and neurophysiological measures as EEG, collected pre-intervention, post-intervention and post-placebo. This study proposes a novel rehabilitation protocol for patients with DOC including a combined intervention of music and NIBS. Considering the need for rigorous longitudinal randomised controlled trials for people with severe brain injury disease, the results of this study will be highly informative for highlighting and implementing the putative beneficial role of music and NIBS in rehabilitation treatments. ClinicalTrials.gov identifier: NCT05706831, registered on January 30, 2023.
+There is a common concern that range of motion (ROM) is negatively affected by the Latarjet procedure. We hypothesize that the Latarjet procedure results in full recovery of ROM postoperatively and significantly improved patient-reported outcome measures. Patient data were prospectively collected from a randomized controlled trial to analyze outcomes after open Latarjet procedure. Inclusion criteria involved a minimum follow-up of 6 months and unilateral shoulder instability. Study outcome was assessed by postoperative ROM at 6 months postoperatively and compared to the preoperative ROM of the ipsilateral shoulder as well as the ROM of the unaffected contralateral shoulder. All ROM measurements were performed using a motion capture system to ensure consistent and reliable measurements. The study included a total of 84 patients. ROM was measured in external rotation with the shoulder adducted (ER1), external rotation with the shoulder abducted 90&#xb0; (ER2), internal rotation with the arm abducted 90&#xb0; (IR2), and active forward elevation (AE). The mean difference in ROM between the operated arm vs. the contralateral healthy arm at 6 months postoperatively was 3.4&#xb0; in ER1 (P&#xa0;=&#xa0;.19), 4.2&#xb0; in ER2 (P&#xa0;=&#xa0;.086), 2.2&#xb0; in IR2 (P&#xa0;=&#xa0;.36), and 2.4&#xb0; in AE (P&#xa0;=&#xa0;.045). Subanalysis of patients with and without sling use revealed no significant difference in ROM between the operated shoulder and the contralateral shoulder at 6 months in either group, with the exception of ER2 in the sling group. In this latter group, ROM was 71&#xb0; in the operated arm and 79&#xb0; in the contralateral arm (P&#xa0;=&#xa0;.0094). Mean preoperative pain score was 25.7 (95% CI 21.4-30.1) vs. 13.0 postoperatively at 6 months (95% CI 9.50-16.5) (P&#xa0;<&#xa0;.00001). Mean preoperative Single Assessment Numeric Evaluation instability was 42.9 (95% CI 38.4-47.3) vs. 86.2 postoperatively at 6 months (95% CI 83.6-88.7) (P&#xa0;<&#xa0;.00001). Mean preoperative Rowe score was 38.5 (95% CI 34.3-42.7) vs. 84.3 at postoperative month 6 (95% CI 81.1-87.4) (P&#xa0;<&#xa0;.00001). Latarjet procedure performed for anterior instability using a capsular repair results in complete ROM recovery in ER1, ER2, and IR2 at 6 months postoperatively, with only a slight discrepancy in active elevation. Sling use after the Latarjet procedure results in no benefit over postoperative recovery without the use of a sling. Sling use negatively affects the ROM in ER2, taking as reference the contralateral arm of the same patient, when compared to patients who did not use a sling postoperatively.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0304642
+- DOI: 10.1016/j.jse.2024.03.070
 
 2. Keywords
-
+- Glenohumeral stabilization
+- apprehension
+- biomechanics
+- dislocation
+- kinematics modeling
+- subluxation
+- subtle or minor instability
+- unstable painful shoulder
 
 3. Key Findings
-- Findings extraction requires manual review
+- Subanalysis of patients with and without sling use revealed no significant difference in ROM between the operated shoulder and the contralateral shoulder at 6 months in either group, with the exception of ER2 in the sling group
 
 This study provides insights into:
-- General research methodology and outcomes
+- Glenohumeral stabilization assessment methods and outcomes
+- apprehension assessment methods and outcomes
+- biomechanics assessment methods and outcomes

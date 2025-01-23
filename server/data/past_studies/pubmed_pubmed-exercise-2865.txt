@@ -1,27 +1,20 @@
-Study Title: Acute inorganic nitrate ingestion does not impact oral microbial composition, cognitive function, or high-intensity exercise performance in female team-sport athletes.
+Study Title: Neoadjuvant Exercise Therapy in Prostate Cancer: A Phase 1, Decentralized Nonrandomized ControlledTrial.
 
 Study Summary:
-The purpose of this study was to investigate the effects of acute nitrate (NO)-rich beetroot juice ingestion on explosive and high-intensity exercise performance, oral microbiota composition, and cognitive flexibility (i.e., function), before and after maximal intermittent running exercise. Fifteen women team-sport athletes were assigned in a randomized, double-blind, crossover design to consume concentrated NO-depleted beetroot juice (PL; 0.1&#xa0;mmol NO) and NO-rich beetroot juice (BR; 12.0&#xa0;mmol NO) 2.5&#xa0;h prior to performing a battery of exercise performance tasks and cognitive testing before and after the Yo-Yo intermittent recovery level 1 (YYIR1) running test. Resting plasma [NO] and plasma nitrite ([NO]) were elevated following BR (P&#x2009;<&#x2009;0.001). BR did not impact global composition or relative abundance of taxa in the oral microbiome (P&#x2009;>&#x2009;0.05) or cognitive flexibility before or after exercise (P&#x2009;>&#x2009;0.05). There was no significant difference in performance during 20-m (PRE, PL: 4.38&#x2009;&#xb1;&#x2009;0.27 vs. BR: 4.38&#x2009;&#xb1;&#x2009;0.32&#xa0;s; POST, PL: 4.45&#x2009;&#xb1;&#x2009;0.29 vs. BR: 4.43&#x2009;&#xb1;&#x2009;0.35&#xa0;s) and 10-m sprints (PRE, PL 2.78&#x2009;&#xb1;&#x2009;0.15 vs. BR 2.79&#x2009;&#xb1;&#x2009;0.18&#xa0;s; POST, PL: 2.82&#x2009;&#xb1;&#x2009;0.16 vs. BR: 2.81&#x2009;&#xb1;&#x2009;0.19&#xa0;s), isokinetic handgrip dynamometry, medicine ball throw, horizontal countermovement jump, or YYIR1 (PL: 355&#x2009;&#xb1;&#x2009;163&#xa0;m vs. BR: 368&#x2009;&#xb1;&#x2009;184&#xa0;m) between BR and PL (P&#x2009;>&#x2009;0.05). These findings indicate that acute dietary NOmay not influence the oral microbiome, explosive and high-intensity exercise performance, or cognitive function in women team-sport athletes.
+Observational data have shown that postdiagnosis exercise is associated with reduced risk of prostate cancer death. The feasibility and tumor biological activity of exercise therapy is not known. To identify recommended phase 2 dose of exercise therapy for patients with prostate cancer. This single-center, phase 1a dose-finding trial was conducted at a tertiary cancer center using a patientcentric, decentralized platform and included 53 inactive men with treatment-naive localized prostate cancer scheduled to undergo surgical resection between June 2019 and January 2023. Data were analyzed in June 2024. Six escalated exercise therapy dose levels ranging from 90 to 450 minutes per week of individualized, moderate-intensity treadmill walking, allocated using adaptive continual reassessment. All exercise therapy sessions were conducted remotely with real-time monitoring. Feasibility was evaluated by relative exercise dose intensity (REDI). A dose level was considered feasible if 70% or more of patients achieved an REDI of 75% or greater. Activity end points were changes in tumor cell proliferation (Ki67) and plasma prostate-specific antigen levels between pretreatment and postintervention. Safety and changes in patient physiology were also assessed. A total of 53 men were enrolled (median [IQR] age, 61 [56-66] years). All dose levels were feasible (&#x2265;75% REDI). The mean (95% CI) changes in Ki67 were 5.0% (-4.3% to 14.0%) for 90 minutes per week, 2.4% (-1.3% to 6.2%) for 150 minutes per week, -1.3% (-5.8% to 3.3%) for 225 minutes per week, -0.2% (-4.0% to 3.7%) for 300 minutes per week, -2.6% (-9.2% to 4.1%) for 375 minutes per week, and 2.2% (-0.8% to 5.1%) for 450 minutes per week. Changes in prostate-specific antigen levels were 1.0 ng/mL (-1.8 to 3.8) for 90 minutes per week, 0.2 ng/mL (-1.1 to 1.5) for 150 minutes per week, -0.5 ng/mL (-1.2 to 0.3) for 225 minutes per week, -0.2 (-1.7 to 1.3) for 300 minutes per week, -0.7 ng/mL (-1.7 to 0.4) for 375 minutes per week, and -0.9 ng/mL (-2.4 to 0.7) for 450 minutes per week. No serious adverse events were observed. Overall, 225 minutes per week (approximately 45 minutes per treatment at 5 times weekly) was selected as the recommended phase 2 dose. The results of this nonrandomized clinical trial suggest that neoadjuvant exercise therapy is feasible and safe with promising activity in localized prostate cancer. ClinicalTrials.gov Identifier: NCT03813615.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00421-024-05552-w
+- DOI: 10.1001/jamaoncol.2024.2156
 
 2. Keywords
-- 16S rRNA sequencing
-- Beetroot
-- Exercise
-- Females
-- Nitric oxide
-- Strength
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- 16S rRNA sequencing assessment methods and outcomes
-- Beetroot assessment methods and outcomes
-- Exercise assessment methods and outcomes
+- General research methodology and outcomes

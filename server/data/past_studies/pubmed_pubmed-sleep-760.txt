@@ -1,26 +1,25 @@
-Study Title: The Effect of Progressive Muscle Relaxation Exercises on Sleep Quality in Cancer Patients Undergoing Chemotherapy: A Randomized Controlled Study.
+Study Title: The association between the effective apnea-hypopnea index and blood pressure reduction efficacy following CPAP/oxygen treatment.
 
 Study Summary:
-This study aimed to evaluate the effect of progressive muscle relaxation exercises (PMRE) on sleep quality in patients undergoing chemotherapy treatment and experiencing disturbed sleep. The prospective randomized controlled study was conducted between March and September 2022 with 69 patients (intervention group: 34 patients, control group: 35 patients) in a hospital chemotherapy unit. During the data collection process, the "Personal Information Form" and "Pittsburgh Sleep Quality Index (PSQI)" were utilized. Patients in the intervention group performed PMRE twice a day for 8 weeks. Patients in the control group received routine care at the clinic without additional intervention. For data analysis, Student's t-test, Mann-Whitney U test, Fisher's exact test, and chi-square test were used. The sociodemographic attributes of patients within both the intervention and control groups exhibited comparability. However, notable distinctions emerged in the PSQI Global sleep score and PSQI subdimension scores, encompassing sleep latency and duration, subjective sleep quality, habitual sleep efficiency, sleep disturbance, and daytime dysfunction between the two groups. The study found a notable difference in scores between the patients in the intervention group and those in the control group. The patients who received the intervention had significantly lower scores (P < .001). The study revealed that PMRE was beneficial in improving sleep quality in cancer patients undergoing chemotherapy who had poor sleep quality. Oncology nurses may consider using PMRE to improve the sleep quality of cancer patients receiving chemotherapy.
+The effect of sleep apnea treatment on reducing cardiovascular disease risk remains inconclusive. This study aims to assess if the effective apnea hypopnea index (eAHI), a measure of residual sleep apnea burden post-treatment, is a factor in determining blood pressure (BP) response to continuous positive airway pressure therapy. The eAHI integrates time on therapy, residual apnea, and % of sleep time untreated. A secondary analysis of the Heart Biomarker Evaluation in Apnea Treatment (HeartBEAT) study, a randomized, controlled, parallel group assessment of continuous positive airway pressure (CPAP), oxygen and sleep hygiene. The Delta-AHI (&#x25b2;AHI) was defined as the difference between baseline AHI and effective AHI at 12 weeks. Logistic and linear regression models estimated the predictors for nocturnal systolic BP change following sleep apnea therapy. One hundred and sixty-nine subjects with a mean age of 62.82&#xa0;&#xb1;&#xa0;6.99 years were included in the final analysis. Fifty subjects had &#x25b2;AHI &#x2264;8/hour of sleep and 119 subjects were higher. After adjustment, baseline mean nighttime systolic blood pressure (OR 1.036, 95% CI 1.015-1.058, p: 0.001) and &#x25b2;AHI &#x2265;8/hour (OR 2.406, 95% CI 1.116-5.185, p:0.025) were independent predictors for mean nighttime systolic blood pressure change >3&#xa0;mm Hg. The higher effective AHI was negatively related with BNP (&#x3b2;: -2.564, SE: 1.167, p: 0.029) and positively related with troponin change (&#x3b2;: 0.703, SE: 0.256, p: 0.007). The &#x25b2;AHI was an independent predictor of the blood pressure response to sleep apnea treatment. NCT01086800.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.soncn.2024.151620
+- DOI: 10.1016/j.sleep.2024.02.046
 
 2. Keywords
-- Cancer
-- Chemotherapy
-- Progressive muscle relaxation exercise
-- Sleep quality
+- Effective apnea-hypopnea index
+- Oxygen therapy
+- Positive airway pressure
+- Sleep apnea
 
 3. Key Findings
-- The study found a notable difference in scores between the patients in the intervention group and those in the control group
-- The study revealed that PMRE was beneficial in improving sleep quality in cancer patients undergoing chemotherapy who had poor sleep quality
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cancer assessment methods and outcomes
-- Chemotherapy assessment methods and outcomes
-- Progressive muscle relaxation exercise assessment methods and outcomes
+- Effective apnea-hypopnea index assessment methods and outcomes
+- Oxygen therapy assessment methods and outcomes
+- Positive airway pressure assessment methods and outcomes

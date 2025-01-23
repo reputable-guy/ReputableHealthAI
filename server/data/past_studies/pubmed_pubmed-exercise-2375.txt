@@ -1,29 +1,27 @@
-Study Title: Acute psycho-physiological responses to submaximal constant-load cycling under intermittent hypoxia-hyperoxia. hypoxia-normoxia in young males.
+Study Title: Vascular-endothelial adaptations following low and high volumes of high-intensity interval training in patients after myocardial infarction.
 
 Study Summary:
-Hypoxia and hyperoxia can affect the acute psycho-physiological response to exercise. Recording various perceptual responses to exercise is of particular importance for investigating behavioral changes to physical activity, given that the perception of exercise-induced pain, discomfort or unpleasure, and a low level of exercise enjoyment are commonly associated with a low adherence to physical activity. Therefore, this study aimed to compare the acute perceptual and physiological responses to aerobic exercise under intermittent hypoxia-hyperoxia (IHHT), hypoxia-normoxia (IHT), and sustained normoxia (NOR) in young, recreational active, healthy males. Using a randomized, single-blinded, crossover design, 15 males (age: 24.5 &#xb1; 4.2 yrs) performed 40 min of submaximal constant-load cycling (at 60% peak oxygen uptake, 80 rpm) under IHHT (5 &#xd7; 4 min hypoxia and hyperoxia), IHT (5 &#xd7; 4 min hypoxia and normoxia), and NOR. Inspiratory fraction of oxygen during hypoxia and hyperoxia was set to 14% and 30%, respectively. Heart rate (HR), total hemoglobin (tHb) and muscle oxygen saturation (SO) of the right vastus lateralis muscle were continuously recorded during cycling. Participants' peripheral oxygen saturation (SO) and perceptual responses (., perceived motor fatigue, effort perception, perceived physical strain, affective valence, arousal, motivation to exercise, and conflict to continue exercise) were surveyed prior, during (every 4 min), and after cycling. Prior to and after exercise, peripheral blood lactate concentration (BLC) was determined. Exercise enjoyment was ascertained after cycling. For statistical analysis, repeated measures analyses of variance were conducted. No differences in the acute perceptual responses were found between conditions (&#x2265; 0.059,&#x2264; 0.18), while the physiological responses differed. Accordingly, SOwas higher during the hyperoxic periods during the IHHT compared to the normoxic periods during the IHT (< 0.001,= 0.91). Moreover, HR (= 0.005,= 0.33) and BLC (= 0.033,= 0.28) were higher during IHT compared to NOR. No differences between conditions were found for changes in tHb (= 0.684,= 0.03) and SO(= 0.093,= 0.16). IHT was associated with a higher physiological response and metabolic stress, while IHHT did not lead to an increase in HR and BLC compared to NOR. In addition, compared to IHT, IHHT seems to improve reoxygenation indicated by a higher SOduring the hyperoxic periods. However, there were no differences in perceptual responses and ratings of exercise enjoyment between conditions. These results suggest that replacing normoxic by hyperoxic reoxygenation-periods during submaximal constant-load cycling under intermittent hypoxia reduced the exercise-related physiological stress but had no effect on perceptual responses and perceived exercise enjoyment in young recreational active healthy males.
+Determinants of coronary artery disease, such as endothelial dysfunction and oxidative stress, could be attenuated by high-intensity aerobic interval exercise training (HIIT). However, the volume of this type of training is not well established. To assess the impact of two volumes of HIIT, low (LV-HIIT, <10&#x2009;min at high intensity) and high (HV-HIIT, >10&#x2009;min at high intensity), on vascular-endothelial function in individuals after an acute myocardial infarction (AMI). Clinical trial in 80&#x2009;AMI patients (58.4&#x2009;&#xb1;&#x2009;8.3&#x2009;years, 82.5% men) with three study groups: LV-HIIT (&#x2009;=&#x2009;28) and HV-HIIT (&#x2009;=&#x2009;28) with two sessions per week for 16&#x2009;weeks and control group (CG,&#x2009;=&#x2009;24) with unsupervised physical activity recommendations. Endothelial function (brachial flow-mediated dilation, FMD), atherosclerosis (carotid intima-media thickness ultrasound, cIMT), and levels of oxidized low-density lipoprotein (ox-LDL) as a marker of oxidative stress were determined before and after the intervention period. After the intervention, in the exercise groups, there was an increase in FMD (LV-HIIT, &#x2191;58.8%; HV-HIIT, &#x2191;94.1%;&#x2009;<&#x2009;0.001) concurrently with a decrease in cIMT (LV-HIIT, &#x2193;3.0%; HV-HIIT, &#x2193;3.2%;&#x2009;=&#x2009;0.019) and LDLox (LV-HIIT, &#x2193;5.2%; HV-HIIT, &#x2193;8.9%;&#x2009;<&#x2009;0.001), with no significant changes in the CG. Furthermore, a significant inverse correlation was observed between ox-LDL and endothelial function related to the volume of HIIT training performed (LV-HIIT:&#x2009;=&#x2009;-0.376,&#x2009;=&#x2009;0.031; HV-HIIT:&#x2009;=&#x2009;-0.490,&#x2009;<&#x2009;0.004), with no significance in the CG (&#x2009;=&#x2009;0.021,&#x2009;=&#x2009;0.924). In post-AMI patients, HIIT may lead to a volume-dependent enhancement in endothelial function, attributed to a decrease in oxidative stress, with added beneficial effects in reducing vascular wall thickness. An LV-HIIT program, with less than 10&#x2009;min at high intensity per session, has proven enough efficiency to initiate favorable vascular-endothelial adaptations, potentially reducing cardiovascular risk among patients with coronary artery disease. INTERFARCT, ClinicalTrials.gov: NCT02876952.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7717/peerj.18027
+- DOI: 10.1177/17539447241286036
 
 2. Keywords
-- Blood lactate
-- Effort perception
-- Exercise enjoyment
-- Near-infrared spectroscopy
-- Perceived motor fatigue
-- Perceived physical strain
+- carotid intima-media thickness
+- endothelium dependent
+- flow-mediated dilation
+- high-intensity interval training
+- oxidized low-density lipoprotein
+- vasodilators
 
 3. Key Findings
-- No differences in the acute perceptual responses were found between conditions (&#x2265; 0
-- No differences between conditions were found for changes in tHb (= 0
-- In addition, compared to IHT, IHHT seems to improve reoxygenation indicated by a higher SOduring the hyperoxic periods
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Blood lactate assessment methods and outcomes
-- Effort perception assessment methods and outcomes
-- Exercise enjoyment assessment methods and outcomes
+- carotid intima-media thickness assessment methods and outcomes
+- endothelium dependent assessment methods and outcomes
+- flow-mediated dilation assessment methods and outcomes

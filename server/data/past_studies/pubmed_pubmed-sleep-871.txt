@@ -1,30 +1,25 @@
-Study Title: Mobile app measuring sleep and behaviors: A trial in adolescents with addiction.
+Study Title: GABA Supplementation, Increased Heart-Rate Variability, Emotional Response, Sleep Efficiency and Reduced Depression in Sedentary Overweight Women Undergoing Physical Exercise: Placebo-Controlled, Randomized Clinical Trial.
 
 Study Summary:
-The smartphones generalisation allows the development of attractive "real-life" monitoring tools for care and research enabling the measurement of addictive behaviours and comorbidities such as sleep disorders. The study objective was to assess the interest of a mobile app collecting such information among adolescents with addictive behaviours in order to enhance the availability of behavioural data in consultation. An open label randomised pilot study was held along two parallel arms. The patients randomised to the intervention group (n=18) used a mobile app to provide daily data for 15 days relating to their sleep and their behaviour (addictive behaviours with or without substances). The patients in the control group (n=18) used a paper diary allowing the collection of the same data, only the medium differed. The patients' median age was 16 years [15.0-16.5]. A median of 67% and 10% of the expected information was completed respectively in the intervention and control groups during the 15 days of follow-up and could be used in consultation (P=0.08). The patient's knowledge, attitudes, intentions to change, behaviour change and seeking help related to the use of the diaries appeared higher in the intervention group (20.5/30) than in the control group (11/20). This study described the high patient compliance with the data collection by means of the app. The diary app seems to have been more impactful for patients than the paper diary. This app could represent an important tool to improve the therapeutic alliance and care due to a better knowledge of the behaviours on the part of the clinician but also a better awareness of the patients themselves.
+Gamma-aminobutyric acid (GABA) serves as a pivotal neurotransmitter implicated in the pathogenesis of stress, anxiety, sleep-related disorders, and heart rate (HR) reactions. Heart-rate variability (HRV), modulated by the sympathetic and parasympathetic branches of the autonomic nervous system (ANS), offers insights into cardiac autonomic control and cardiovascular well-being. The present study aimed to explore the impact of GABA supplementation on emotional metrics, sleep quality, and HRV in sedentary women with overweight or obesity partaking in physical exercise. A randomized, double-blind, placebo-controlled clinical trial was undertaken involving 30 sedentary women with overweight or obesity. Volunteers were assigned randomly to two groups: the intervention group receiving GABA (200&#x2009;mg) once daily for a total of 90 supplementation doses, and the placebo group. Both groups engaged in physical exercise, while the supplementation regimen spanned 90&#x2009;days. Assessments were conducted at three intervals: baseline (T0), midway through the study (T45), and study culmination (T90). Following 90&#x2009;days of GABA supplementation, the intervention group demonstrated enhancements in habitual sleep efficiency, as indicated by reductions in Pittsburgh Sleep Quality Index (PSQI) scores. Moreover, an improved emotional response was observed, characterized by diminished negative affect. GABA supplementation yielded ameliorations in depression scores as per the Depression, Anxiety, and Stress Scale (DASS-21). Notably, an augmented HRV was noted, attributed to heightened parasympathetic autonomic nervous system predominance. GABA supplementation elicited noteworthy enhancements in heart rate variability, emotional response, depression mitigation, and sleep efficiency following a 90-day supplementation.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.encep.2023.11.007
+- DOI: 10.1080/19390211.2024.2308262
 
 2. Keywords
-- Addiction
-- Adolescent
-- Ecological momentary assessment
-- Mobile health
-- Sant&#xe9; mobile
-- Sleep
-- Sommeil
-- addiction
-- &#xc9;valuation &#xe9;cologique momentan&#xe9;e
+- gamma-aminobutyric acid
+- heart-rate variability
+- physical exercise
+- supplementation
 
 3. Key Findings
-- Findings extraction requires manual review
+- Following 90&#x2009;days of GABA supplementation, the intervention group demonstrated enhancements in habitual sleep efficiency, as indicated by reductions in Pittsburgh Sleep Quality Index (PSQI) scores
 
 This study provides insights into:
-- Addiction assessment methods and outcomes
-- Adolescent assessment methods and outcomes
-- Ecological momentary assessment assessment methods and outcomes
+- gamma-aminobutyric acid assessment methods and outcomes
+- heart-rate variability assessment methods and outcomes
+- physical exercise assessment methods and outcomes

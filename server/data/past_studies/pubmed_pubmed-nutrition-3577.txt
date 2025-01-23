@@ -1,20 +1,30 @@
-Study Title: Roux-en-Y versus one-anastomosis gastric bypass (RYSA study): weight loss, metabolic improvements, and nutrition at 1&#x2009;year after surgery, a multicenter randomized controlled trial.
+Study Title: Feasibility of Telehealth and Innovative Technologies to Limit Excessive Gestational Weight Gain.
 
 Study Summary:
-Although it has been suggested that one-anastomosis gastric bypass (OAGB) is metabolically superior to the "gold standard," i.e., Roux-en-Y gastric bypass (RYGB), there is little robust evidence to prove it. Because this result may arise from the typically longer length of bypassed intestine in OAGB, here, the authors standardized the bypass length in RYGB and OAGB and compared weight loss and metabolic outcomes in a randomized controlled trial. The authors randomized 121 bariatric patients to RYGB (n&#x2009;=&#x2009;61) or OAGB (n&#x2009;=&#x2009;60) in two Finnish University Hospitals and measured weight; body composition; metabolic features (insulin sensitivity, lipids, inflammation, nutrition); and comorbidities before and 6 and 12&#x2009;months after the operation. Total weight loss was similar in RYGB and OAGB at 6&#x2009;months (mean: 21.2% [95% CI: 19.4-23.0] vs. 22.8% [95% CI: 21.5-24.1], p&#x2009;=&#x2009;0.136) and 12&#x2009;months (25.4% [95% CI: 23.4-27.5] vs. 26.1% [95% CI: 24.2-28.9], p&#x2009;=&#x2009;0.635). Insulin sensitivity, lipids, and inflammation improved similarly between the groups (p&#x2009;>&#x2009;0.05). Remission of type 2 diabetes and hypercholesterolemia was marked and similar (p&#x2009;>&#x2009;0.05) but the use of antihypertensive medications was lower (p&#x2009;=&#x2009;0.037) and hypertension tended to improve more (p&#x2009;=&#x2009;0.053) with RYGB versus OAGB at 12&#x2009;months. Higher rates of vitamin D-25 deficiency (p&#x2009;<&#x2009;0.05) and lower D-25 levels were observed with OAGB versus RYGB throughout the follow-up (p&#x2009;<&#x2009;0.001). No differences in adverse effects were observed. RYGB and OAGB were comparable in weight loss, metabolic improvement, remission of diabetes and hypercholesterolemia, and nutrition at 1-year follow-up. Vitamin D-25 deficiency was more prevalent with OAGB, whereas reduction in antihypertensive medications and hypertension was greater with RYGB. There is no need to change the current practices of RYGB in favor of OAGB.
+To test the feasibility of using telehealth to deliver nutritional counseling by tracking gestational weight gain remotely using Bluetooth weight scales. Quasi-experimental feasibility study. One-on-one nutritional counseling was conducted remotely via a telehealth platform using a registered dietitian. Twenty-nine pregnant individuals ages 18 years or older, between 12 and 27&#xa0;weeks' gestation, with a prepregnancy body mass index of&#xa0;&#x2265;30&#xa0;kg/m, singleton fetus, and English proficiency were recruited for the study. Among the 29 potential participants, 20 completed the initial survey and met the criteria; 11 completed the study. This study tested the feasibility of using telehealth to deliver nutritional counseling for 30 minutes, once a week, for 6&#xa0;weeks. Self-weighing was tracked through a preconfigured Bluetooth scale given to study participants that enabled weight data to be automatically uploaded each time the scale was used. Among the 11 study participants receiving Bluetooth scales, adherence to self-weighing was high (81%). All five participants randomized to nutritional counseling found that telehealth visits with a registered dietitian were easy to use and helpful. Although participants who received nutritional counseling gained 2.5 lb less than those who did not receive nutritional counseling (p&#xa0;= .523), there was no significant difference between the intervention group and historical control individuals (p&#xa0;= .716). Incorporating telehealth for nutrition counseling and accurate remote weight data collection may be part of a comprehensive strategy to address gestational weight gain in high-risk pregnant populations. Further research with larger samples is needed.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.1002/oby.23852
+- Publication Date: 2024
+- DOI: 10.1016/j.nwh.2023.08.002
 
 2. Keywords
-
+- BMI
+- body mass index
+- gestational weight gain
+- nutritional counseling
+- obesity
+- pregnancy
+- registered dietitian
+- self-monitoring
+- telehealth
 
 3. Key Findings
-- Findings extraction requires manual review
+- All five participants randomized to nutritional counseling found that telehealth visits with a registered dietitian were easy to use and helpful
 
 This study provides insights into:
-- General research methodology and outcomes
+- BMI assessment methods and outcomes
+- body mass index assessment methods and outcomes
+- gestational weight gain assessment methods and outcomes

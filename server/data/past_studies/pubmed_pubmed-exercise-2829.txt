@@ -1,26 +1,25 @@
-Study Title: Identifying the Mechanisms of a Peripherally Limited Exercise Phenotype in Patients With Heart Failure With Preserved Ejection Fraction.
+Study Title: Aerobic Exercise in the Aquatic Environment Suppresses the Plasma Renin Activity in Individuals with Type 2 Diabetes: A Secondary Analysis of a Randomized Clinical Trial.
 
 Study Summary:
-We identified peripherally limited patients using cardiopulmonary exercise testing and measured skeletal muscle oxygen transport and utilization during invasive single leg exercise testing to identify the mechanisms of the peripheral limitation. Forty-five patients with heart failure with preserved ejection fraction (70&#xb1;7 years, 27 females) completed seated upright cardiopulmonary exercise testing and were defined as having a (1) peripheral limitation to exercise if cardiac output/oxygen consumption (VO) was elevated (&#x2265;6) or 5 to 6 with a stroke volume reserve >50% (n=31) or (2) a central limitation to exercise if cardiac output/VOslope was &#x2264;5 or 5 to 6 with stroke volume reserve <50% (n=14). Single leg knee extension exercise was used to quantify peak leg blood flow (Doppler ultrasound), arterial-to-venous oxygen content difference (femoral venous catheter), leg VO, and muscle oxygen diffusive conductance. In a subset of participants (n=36), phosphocreatine recovery time was measured by magnetic resonance spectroscopy to determine skeletal muscle oxidative capacity. Peak VOduring cardiopulmonary exercise testing was not different between groups (central: 13.9&#xb1;5.7 versus peripheral: 12.0&#xb1;3.1 mL/min per kg;=0.135); however, the peripheral group had a lower peak arterial-to-venous oxygen content difference (central: 13.5&#xb1;2.0 versus peripheral: 11.1&#xb1;1.6 mLO/dL blood;<0.001). During single leg knee extension, there was no difference in peak leg VO(=0.306), but the peripherally limited group had greater blood flow/VOratio (=0.024), lower arterial-to-venous oxygen content difference (central: 12.3&#xb1;2.5 versus peripheral: 10.3&#xb1;2.2 mLO/dL blood;=0.013), and lower muscle oxygen diffusive conductance (=0.021). A difference in magnetic resonance spectroscopy-derived phosphocreatine recovery time was not detected (=0.199). Peripherally limited patients with heart failure with preserved ejection fraction identified by cardiopulmonary exercise testing have impairments in oxygen transport and utilization at the level of the skeletal muscle quantified by invasive knee extension exercise testing, which includes an increased blood flow/V&#x307;Oratio and poor muscle diffusive capacity. URL: https://www.clinicaltrials.gov; Unique identifier: NCT04068844.
+To compare the acute effects of aquatic walking/running versus dry-land walking/running on blood glucose and plasma renin activity (PRA) in individuals with type 2 diabetes, participants with type 2 diabetes performed deep-water or dry-land walking and/or running sessions in a swimming pool or on an athletics track, respectively. Both sessions comprised seven blocks of 3 min at 85-90% of the heart rate deflection point (HRDP), interspersed with 2 min at <85% HRDP, totaling 35 min, with a 48 h interval between sessions. PRA and blood glucose were assessed before and immediately after the sessions. Generalized estimation equations were used to verify the session effects, with the Bonferroni post hoc test, considering the significance level as 0.05. Twelve individuals (53.2 &#xb1; 8.9 years) diagnosed with type 2 diabetes for 6.3 &#xb1; 6.34 years participated in the study. A reduction in PRA was found only after the aquatic session (-7.75 ng/mL/h; -69%;: 0.034), while both aquatic and dry-land sessions similarly reduced the blood glucose levels (aquatic: -38 mg/dL, -21%; dry-land: -26 mg/dL, -14%; time effect,= 0.007). Despite yielding similar glycemic reductions as dry-land walking/running, aquatic walking/running led to an expressive decrease in PRA among individuals with type 2 diabetes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1161/CIRCHEARTFAILURE.123.011693
+- DOI: 10.3390/ijerph21070938
 
 2. Keywords
-- exercise test
-- heart failure
-- magnetic resonance imaging
-- muscle, skeletal
-- stroke volume
+- aquatic exercise
+- cardiovascular exercise
+- renin-angiotensin system
+- type 2 diabetes
 
 3. Key Findings
-- Findings extraction requires manual review
+- A reduction in PRA was found only after the aquatic session (-7
 
 This study provides insights into:
-- exercise test assessment methods and outcomes
-- heart failure assessment methods and outcomes
-- magnetic resonance imaging assessment methods and outcomes
+- aquatic exercise assessment methods and outcomes
+- cardiovascular exercise assessment methods and outcomes
+- renin-angiotensin system assessment methods and outcomes

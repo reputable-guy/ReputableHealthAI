@@ -1,20 +1,26 @@
-Study Title: Role of relative-reinforcement value of alcohol-free activities during recovery from alcohol use disorder in an adult clinical sample.
+Study Title: Implementation of peer support for people with severe mental health conditions in high-, middle- and low-income-countries: a theory of change approach.
 
 Study Summary:
-Behavioral economic theory has been extensively applied to understand alcohol use disorder (AUD). Applications of behavioral economic theory conceptualize AUD as a pattern of harmful alcohol use over extended periods of time in which choices between drinking or engaging in alcohol-free activities favor drinking. Recovery, in contrast, entails a sustained shift toward a pattern of selecting rewarding alcohol-free activities. The present study examined whether alcohol-free activity engagement and the relative-reinforcement value (RRV) of engaging in those activities predicted AUD treatment outcomes via secondary analysis of data from Project MATCH, a multisite randomized clinical trial examining behavioral treatments for AUD (= 1,279, 75.8% male, 81.0% non-Hispanic White, 9.5% Black, 7.7% Hispanic/Latino, 1.5% American Indian/Alaska Native, < 1% Asian American, and other race/ethnicity). Regression analyses indicated that every additional alcohol-free activity reported at 6 months posttreatment was associated with 7% fewer drinking days, 5% fewer heavy drinking days, and approximately one less drink per drinking day, as well as with significant improvements in depression, purpose in life, and psychosocial functioning at 12 months following treatment. Consistent with behavioral economic theory, higher RRV of alcohol-free activities also predicted significant reductions in drinking and improvements in functioning, and these associations were stronger compared to results for alcohol-free activity frequency only. The findings highlight the importance of understanding environmental contexts conducive to recovery and support the value of increasing alcohol-free activity engagement and the RRV of engaging in such activities to facilitate reductions in drinking and improved functioning among individuals with AUD. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+Stakeholder engagement is essential to the design, implementation and evaluation of complex mental health interventions like peer support. Theory of Change (ToC) is commonly used in global health research to help structure and promote stakeholder engagement throughout the project cycle. Stakeholder insights are especially important in the context of a multi-site trial, in which an intervention may need to be adapted for implementation across very different settings while maintaining fidelity to a core model. This paper describes the development of a ToC for a peer support intervention to be delivered to people with severe mental health conditions in five countries as part of the UPSIDES trial. One hundred thirty-four stakeholders from diverse backgrounds participated in a total of 17 workshops carried out at six UPSIDES implementing sites across high-, middle- and low-income settings (one site each in India, Israel, Uganda and Tanzania; two sites in Germany). The initial ToC maps created by stakeholders at each site were integrated into a cross-site ToC map, which was then revised to incorporate additional insights from the academic literature and updated iteratively through multiple rounds of feedback provided by the implementers. The final ToC map divides the implementation of the UPSIDES peer support intervention into three main stages: preparation, implementation, and sustainability. The map also identifies three levels of actors involved in peer support: individuals (service users and peer support workers), organisations (and their staff members), and the public. In the UPSIDES trial, the ToC map proved especially helpful in characterising and distinguishing between (a) common features of peer support, (b) shared approaches to implementation and (c) informing adaptations to peer support or implementation to account for contextual differences. UPSIDES is the first project to develop a multi-national ToC for a mental health peer support intervention. Stakeholder engagement in the ToC process helped to improve the cultural and contextual appropriateness of a complex intervention and ensure equivalence across sites for the purposes of a multi-site trial. It may serve as a blueprint for implementing similar interventions with a focus on recovery and social inclusion among people with mental ill-health across diverse settings. ISRCTN26008944 (Registration Date: 30/10/2019).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1037/pha0000713
+- DOI: 10.1186/s12913-024-10990-5
 
 2. Keywords
-
+- Complex interventions
+- Global mental health
+- Implementation
+- Peer support
+- Theory of change
 
 3. Key Findings
-- Regression analyses indicated that every additional alcohol-free activity reported at 6 months posttreatment was associated with 7% fewer drinking days, 5% fewer heavy drinking days, and approximately one less drink per drinking day, as well as with significant improvements in depression, purpose in life, and psychosocial functioning at 12 months following treatment
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Complex interventions assessment methods and outcomes
+- Global mental health assessment methods and outcomes
+- Implementation assessment methods and outcomes

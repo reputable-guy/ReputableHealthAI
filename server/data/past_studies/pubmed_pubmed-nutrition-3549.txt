@@ -1,26 +1,20 @@
-Study Title: Glycemic and sleep effects of daytime compared with those of overnight infusions of home parenteral nutrition in adults with short bowel syndrome: A quasi-experimental pilot trial.
+Study Title: Effects of Inclusion of Food Purchase Restrictions and Incentives in a Food Benefit Program on Diet Quality and Food Purchasing: Results From a Randomized Trial.
 
 Study Summary:
-Patients with short bowel syndrome (SBS) dependent on home parenteral nutrition (HPN) commonly cycle infusions overnight, likely contributing to circadian misalignment and sleep disruption. The objective of this quasi-experimental, single-arm, controlled, pilot trial was to examine the feasibility, safety, and efficacy of daytime infusions of HPN in adults with SBS without diabetes. Enrolled patients were fitted with a continuous glucose monitor and wrist actigraph and were instructed to cycle their infusions overnight for 1 wk, followed by daytime for another week. The 24-h average blood glucose, the time spent >140 mg/dL or <70 mg/dL, and sleep fragmentation were derived for each week and compared using Wilcoxon signed-rank test. Patient-reported quality-of-life outcomes were also compared between the weeks. Twenty patients (mean age, 51.7 y; 75% female; mean body mass index, 21.5 kg/m) completed the trial. Overnight infusions started at 21:00 and daytime infusions at 09:00. No serious adverse events were noted. There were no differences in 24-h glycemia (daytime-median: 93.00 mg/dL; 95% CI: 87.7-99.9 mg/dL, compared with overnight-median: 91.1 mg/dL; 95% CI: 89.6-99.0 mg/dL; P = 0.922). During the day hours (09:00-21:00), the mean glucose concentrations were 13.5 (5.7-22.0) mg/dL higher, and the time spent <70 mg/dL was 15.0 (-170.0, 22.5) min lower with daytime than with overnight HPN. Conversely, during the night hours (21:00-09:00), the glucose concentrations were 16.6 (-23.1, -2.2) mg/dL lower with daytime than with overnight HPN. There were no differences in actigraphy-derived measures of sleep and activity rhythms; however, sleep timing was later, and light at night exposure was lower with daytime than with overnight HPN. Patients reported less sleep disruptions due to urination and fewer episodes of uncontrollable diarrhea or ostomy output with daytime HPN. Daytime HPN was feasible and safe in adults with SBS and, compared with overnight HPN, improved subjective sleep without increasing 24-h glucose concentrations. This trial was registered at clinicaltrials.gov as NCT04743960 (https://classic. gov/ct2/show/NCT04743960).
+There is interest in reshaping the Supplemental Nutrition Assistance Program (SNAP) to better support family nutrition. The Grocery Assistance Program Study (GAPS) for Families evaluated the effects of prohibiting using program funds for the purchase of certain sugary foods on the nutritional quality of foods purchased and consumed by program participants. A randomized experimental trial was carried out with participants randomized to one of three food benefit conditions. Baseline and follow-up measures collected included interviewer-administered 24-hour dietary recalls, food purchase receipts, food security, height, and weight. Adult-child dyads in households eligible for SNAP but currently not enrolled were recruited from the Minneapolis/St Paul MN metropolitan area from May of 2018 through May of 2019. A total of 293 adult-child dyads received the intervention as allocated. Of these dyads, 233 adults completed follow-up measures and met criteria for inclusion in the analytic sample, resulting in an attrition rate of 20.5%. A total of 224 children completed follow-up measures and met criteria for inclusion in the analytic sample, resulting in an attrition rate of 23.5%. Participants were randomized to 1 of 3 conditions: restriction (not allowed to buy sugar-sweetened beverages [SSB], sweet baked goods, or candy with program funds); restriction paired with incentive (30% incentive for fruits and vegetables [FV] purchased with funds); and control (funds provided with no restrictions or incentives). Funds were provided on a 4-week cycle for 20 weeks via a study-provided debit card. The primary outcome was the Healthy Eating Index (HEI)-2015 total score. Additional outcomes included selected HEI-2015 component scores; energy intake; food security; body weight; and purchasing of SSB, sweet baked goods, candies, fruits, and vegetables. Linear regression analyses were conducted with change in the outcome regressed on treatment condition for the primary outcome analyses. No differences were observed between conditions in change in the nutrition and food security measures examined. Purchases of SSB and sweet baked goods and candies significantly differed by experimental condition. Purchase of restricted foods was lower at follow-up in the restriction and restriction paired with incentive conditions compared with the control condition. For example, spending on SSB at follow-up was significantly lower in the restriction ($2.66/week) and restriction paired with incentive ($2.06/week) conditions in comparison with control condition ($4.44/week) (P < 0.0003 and P < 0.0001, respectively). This study failed to find evidence in support of prohibiting the purchase of sugary foods with food program funds as a strategy to improve program participant nutrition, even when paired with an FV incentive. Research carried out in the context of the SNAP program is needed for a more robust evidence base.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ajcnut.2023.11.016
+- DOI: 10.1016/j.jand.2023.11.024
 
 2. Keywords
-- circadian rhythms
-- continuous glucose monitoring
-- home parenteral nutrition
-- short bowel syndrome
-- sleep
+- food assistance nutrition diet quality
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- circadian rhythms assessment methods and outcomes
-- continuous glucose monitoring assessment methods and outcomes
-- home parenteral nutrition assessment methods and outcomes
+- food assistance nutrition diet quality assessment methods and outcomes

@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { useToast } from "@/hooks/use-toast";
 import { Loader2 } from "lucide-react";
@@ -29,18 +29,21 @@ export default function HypothesisSelector({
   const [error, setError] = useState<string | null>(null);
   const [selectedId, setSelectedId] = useState<number | null>(null);
   const { toast } = useToast();
+  const hasGeneratedRef = useRef(false);
 
   const generateHypotheses = async () => {
+    if (hasGeneratedRef.current) return;
+
     setLoading(true);
     setError(null);
     try {
+      console.log('Sending hypothesis generation request:', { productName, websiteUrl });
       const response = await fetch("/api/protocols/hypotheses", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ 
           productName, 
-          websiteUrl,
-          researchAreas: ["Sleep", "Stress", "Recovery", "Cognition", "Metabolic Health"]
+          websiteUrl
         })
       });
 
@@ -50,9 +53,12 @@ export default function HypothesisSelector({
       }
 
       const data = await response.json();
+      console.log('Received hypotheses:', data);
       setHypotheses(data.hypotheses);
+      hasGeneratedRef.current = true;
     } catch (error: any) {
       const errorMessage = error.message || "Failed to generate hypotheses";
+      console.error('Hypothesis generation error:', error);
       setError(errorMessage);
       toast({
         title: "Error",
@@ -65,13 +71,29 @@ export default function HypothesisSelector({
   };
 
   const handleHypothesisClick = async (hypothesis: Hypothesis) => {
-    if (selectedId !== null) return; // Prevent multiple clicks
+    console.log('Hypothesis selected:', hypothesis);
+    if (selectedId !== null) {
+      console.log('Selection already in progress, ignoring click');
+      return;
+    }
     setSelectedId(hypothesis.id);
-    await onHypothesisSelected(hypothesis);
+    try {
+      await onHypothesisSelected(hypothesis);
+    } catch (error) {
+      console.error('Error in hypothesis selection:', error);
+      setSelectedId(null);
+      toast({
+        title: "Error",
+        description: "Failed to process hypothesis selection",
+        variant: "destructive"
+      });
+    }
   };
 
   useEffect(() => {
-    generateHypotheses();
+    if (productName && websiteUrl) {
+      generateHypotheses();
+    }
   }, [productName, websiteUrl]);
 
   const getConfidenceColor = (score: number) => {

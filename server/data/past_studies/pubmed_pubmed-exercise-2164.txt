@@ -1,23 +1,26 @@
-Study Title: Effects of the eccentric chin closure exercise on submental muscle activation, muscle strength, dysphagia limit, perceived exertion and pain in healthy volunteers: A prospective, randomized parallel group study.
+Study Title: Improvement in depressive symptoms is associated with sustained improvement in fatigue impact in adults with multiple sclerosis.
 
 Study Summary:
-Eccentric Chin Closure (ECC) exercise is a model designed to strengthen the suprahyoid muscles, aligned with the principles of eccentric exercise and the characteristics of these muscles. This study aimed to investigate the effects of the ECC exercise on submental muscle activation, muscle strength, dysphagia limit, perceived exertion, and pain, in comparison to the Shaker and Chin-Tuck Against Resistance (CTAR) exercises. In this parallel randomized controlled trial, for the initial assessment fifty-four healthy volunteers aged between 19-28 years with submental activations were recorded during the isotonic components of the Shaker, CTAR, and ECC exercises using surface electromyography. After the initial assessment, the volunteers were randomized to the Shaker, CTAR, and ECC exercise groups with 18 volunteers each group, and followed an 8-week exercise program. Maximum voluntary isometric contractions (MVC), muscle strength, dysphagia limit, perceived exertion, and pain were recorded at baseline in 4th week and 8th week. At the initial assessment, lower submental muscle activation was observed during the Shaker exercise (p<0.05). Follow-up measurements demonstrated that the eight weeks of exercise was effective in increasing MVC activations and muscle strength across all groups. Considering the group*time effect, CTAR (0.36 &#xb1; 0.10) and ECC (0.40 &#xb1; 0.14) exercises were found to be more effective in increasing MVC than the Shaker (0.29 &#xb1; 0.19) exercise (F = 7.203, p<0.001), and the ECC (32.87 &#xb1; 6.55) exercise was more effective in improving muscle strength than both the Shaker (26.03 &#xb1; 5.86) and CTAR (27.95 &#xb1; 6.33) exercises (F = 6.786, p<0.001). Perceived exertion (F = 1.044, p = 0.388) and pain scores (F = 0.346, p = 0.846) showed statistically similar changes across the Shaker, CTAR, and ECC exercise groups. The ECC exercise demonstrated similar effects on MVC to CTAR, but resulted in greater MVC than the Shaker exercise among healthy volunteers at 8 weeks. ECC was also more effective compared to Shaker and CTAR in terms of strength gain, with all exercises showing comparable levels of perceived exertion and pain.
+Fatigue is one of the most common and disabling symptoms of multiple sclerosis (MS). Behavioral interventions that target one or more behaviors such as sleep hygiene, exercise, energy management, cognitive processes, as well as mood have been shown to reduce fatigue in people with MS. Yet, little is known about mechanisms of intervention effects on MS fatigue. Research suggests that depressive symptoms may be an important intervention target for improving MS fatigue. This study examined the association between pre- to post-intervention improvement in depressive symptoms and improvement in MS fatigue impact from pre-intervention through six months post-intervention. This study is a secondary analysis of data from a randomized controlled trial comparing a fatigue self-management intervention to general MS education for improving fatigue in people with MS. Adults with MS (N = 218) were recruited for the parent trial from the Portland, Seattle, Baltimore, and North Florida/South Georgia VA Medical Centers, affiliated academic medical centers, and surrounding communities. Both study interventions showed similar efficacy, so participants were combined into one sample for this secondary analysis. Structural equation modeling was used to examine whether clinically significant change in depressive symptoms (a 17.5 % reduction in the total Beck Depression Inventory-II score) from pre- to post-intervention, was associated with improvement in fatigue impact on the physical, cognitive, and psychosocial subscales of the Modified Fatigue Impact Scale from pre-intervention through six-month follow-up. Participants were predominantly female (72 %), middle-aged (M = 53.7 &#xb1; 10.1), and White (76 %) with a disease duration of 12.5 &#xb1; 8.4 years. Over half of the sample (58 %) had relapsing-remitting MS. Clinically significant improvement in depressive symptoms was associated with reduction in physical fatigue impact (&#x3b2; = -0.17, p = .004, 95 % CI [-0.28, -0.05]), cognitive fatigue impact (&#x3b2; = -0.20, p = .000, 95 % CI [-0.31, -0.10]), and psychosocial fatigue impact (&#x3b2; = -0.13, p = .03, 95 % CI [-0.25, -0.01]) through the six-month follow-up controlling for baseline depressive symptoms and fatigue impact, MS subtype (RRMS or Progressive MS), and income level. The model demonstrated adequate fit, &#x3c7;2(6) = 12.747, p = .047, RMSEA = 0.072, CFI = 0.986, SRMR = 0.016, and accounted for 32 %, 39 %, and 28 % of the variance in physical, cognitive, and psychosocial fatigue impact respectively, which corresponded with large effect sizes. These findings, building on previous research, support the importance of reducing depressive symptoms for improving fatigue impact in people with MS. Future research should examine whether explicit focus on reducing depressive symptoms or related cognitive behavioral factors reduces fatigue in people with MS.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0313995
+- DOI: 10.1016/j.msard.2024.106158
 
 2. Keywords
-
+- Depression
+- Fatigue
+- Multiple sclerosis
+- Nonpharmacological intervention
 
 3. Key Findings
-- Follow-up measurements demonstrated that the eight weeks of exercise was effective in increasing MVC activations and muscle strength across all groups
-- 14) exercises were found to be more effective in increasing MVC than the Shaker (0
-- 846) showed statistically similar changes across the Shaker, CTAR, and ECC exercise groups
-- The ECC exercise demonstrated similar effects on MVC to CTAR, but resulted in greater MVC than the Shaker exercise among healthy volunteers at 8 weeks
+- Both study interventions showed similar efficacy, so participants were combined into one sample for this secondary analysis
+- The model demonstrated adequate fit, &#x3c7;2(6) = 12
 
 This study provides insights into:
-- General research methodology and outcomes
+- Depression assessment methods and outcomes
+- Fatigue assessment methods and outcomes
+- Multiple sclerosis assessment methods and outcomes

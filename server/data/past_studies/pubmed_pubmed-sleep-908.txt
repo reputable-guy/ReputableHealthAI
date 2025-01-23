@@ -1,30 +1,20 @@
-Study Title: Cross-sectional and longitudinal associations between the 24-hour movement behaviours, including muscle and bone strengthening activity, with bone and lean mass from childhood to adolescence.
+Study Title: Treatment of Sleep, Motor and Sensory Symptoms with the Orexin Antagonist Suvorexant in Adults with Idiopathic Restless Legs Syndrome: A Randomized Double-Blind Crossover Proof-of-Concept Study.
 
 Study Summary:
-This study aimed to assess whether moderate-to-vigorous physical activity (MVPA), sport and exercise as a proxy measure of muscle and bone strengthening activity, sedentary behaviour, and sleep were associated with total-body-less-head (TBLH) bone mineral content (BMC) and TBLH lean mass cross-sectionally and longitudinally from age 6 to 9 years and age 9 to 11 years to age 15 to 17 years. We used longitudinal data from a population sample of Finnish children from the Physical Activity and Nutrition in Children study (age 6 to 9 years: n = 478, 229 females; age 9 to 11 years: n = 384, 197 females; age 15 to 17 years: n = 222, 103 females). Linear regression analysed the cross-sectional and longitudinal associations between accelerometer-assessed MVPA, sedentary time and sleep, and questionnaire-assessed sport and exercise participation and screen time with dual-energy X-ray absorptiometry-assessed TBLH BMC and lean mass. In females, MVPA at age 6 to 9 years was positively associated with TBLH BMC at age 15 to 17 years (&#x3b2; = 0.008, p = 0.010). Sport and exercise at age 9 to 11 years was positively associated with TBLH BMC (&#x3b2; = 0.020, p = 0.002) and lean mass (&#x3b2; = 0.343, p = 0.040) at age 15 to 17 years. MVPA at age 9 to 11 years was positively associated with TBLH lean mass (&#x3b2; = 0.272, p = 0.004) at age 15 to 17 years. In males, sleep at age 6 to 9 years was positively associated with TBLH lean mass (&#x3b2; = 0.382, p = 0.003) at age 15 to 17 years. Sport and exercise at age 9 to 11 years was positively associated with TBLH BMC (&#x3b2; = 0.027, p = 0.012) and lean mass (&#x3b2; = 0.721, p < 0.001) at age 15 to 17 years. Promoting engagement in the 24-hour movement behaviours in childhood, particularly sport and exercise to strengthen muscle and bone, is important in supporting bone and lean mass development in adolescence. NCT01803776; first trial registration date: 04/03/2013.
+Current treatment guidelines for restless legs syndrome (RLS) recommend treatment be initiated with non-dopaminergic drugs. Given the potential role of orexins in the pathophysiology of RLS, we performed a pilot, proof-of-concept study to investigate the therapeutic effects of suvorexant, a dual orexin receptor antagonist (DORA), on sleep and sensory/motor symptoms in individuals with idiopathic RLS. This was a randomized, double-blind, crossover and placebo-controlled study. Inclusion criteria were diagnosis with idiopathic RLS, an International RLS Study Group Severity Rating Scale (IRLS) score > 15, and the absence of significant RLS symptoms before 9 pm. Following washout from any previous central nervous system (CNS)-active drugs, patients were randomized to receive either suvorexant or placebo for two consecutive 2-week treatment periods. Treatment was administered at 9 pm at a fixed dose of 10 mg/day during the first week, and 20 mg during the second week. Primary and coprimary endpoints were wake after sleep onset (WASO) and total sleep time (TST), respectively, while IRLS rating scale score, multiple suggested immobilization tests (m-SIT), and periodic limb movements (PLMs) were secondary endpoints. RLS severity was measured weekly using the IRLS and Clinical Global Improvement (CGI) scales. m-SIT were also performed between 8 pm and midnight at the end of each treatment phase and were followed by a sleep study. A total of 41 participants were randomized, 40 of whom completed the study. Compared with placebo, treatment with suvorexant significantly improved RLS symptoms (according to IRLS total score, CGI, and the m-SIT), PLM during sleep, and PLM with arousal. Improvement of RLS symptoms was greater in those who had not been exposed to dopaminergic agents in the past. Sleep architecture also improved with significant changes in TST, WASO, sleep onset latency, sleep efficiency, non rapid-eye movement stage 1 (N1) %, non rapid-eye movement stage 2 (N2) %, and rapid eye movement (REM) %. Suvorexant was well tolerated in RLS, with few and mild adverse events. Our results provide the first proof of evidence of the therapeutic efficacy of DORAs in improving sleep and sensory and motor symptoms in RLS. Given orexin's role in pain and sensory processing, potential mechanisms of action are discussed. The study provides class II evidence supporting the therapeutic efficacy of suvorexant in patients with RLS with sleep disturbance. EudraCT#: 2017-004580-12.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12889-024-17711-x
+- DOI: 10.1007/s40263-023-01055-y
 
 2. Keywords
-- Accelerometry
-- Bone mineral content
-- DXA
-- Exercise
-- Moderate-to-vigorous physical activity
-- Paediatrics
-- Sedentary behaviour
-- Sleep
-- Sport
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Accelerometry assessment methods and outcomes
-- Bone mineral content assessment methods and outcomes
-- DXA assessment methods and outcomes
+- General research methodology and outcomes

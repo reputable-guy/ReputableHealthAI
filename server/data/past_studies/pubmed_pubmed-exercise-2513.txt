@@ -1,29 +1,28 @@
-Study Title: Acute and prolonged effects of Bacillus amyloliquefaciens GF424-derived SOD on antioxidant defense in healthy individuals challenged with intense aerobic exercise.
+Study Title: Temporary Target Versus Suspended Insulin Infusion in Patients with Type 1 Diabetes Using the MiniMed 780G Advanced Closed-Loop Hybrid System During Aerobic Exercise: A Randomized Crossover Clinical Trial.
 
 Study Summary:
-Reactive oxygen species (ROS) play a vital role in cellular functions but can lead to oxidative stress and contribute to degenerative diseases when produced in excess. Maintaining redox balance is essential and can be achieved through innate defense mechanisms or external antioxidants. Superoxide dismutase (SOD) is a key enzyme that mitigates intracellular oxidative stress by converting harmful free radicals into hydrogen peroxide, which is subsequently neutralized by catalase and glutathione peroxidase. Previous studies have demonstrated the antioxidant capabilities of SOD derived from Bacillus amyloquefaciens GF424 (BA-SOD) in murine models exposed to either irradiation or SOD1 gene deletion. In this study, a randomized clinical trial was conducted to evaluate the antioxidative benefits of BA-SOD in healthy individuals undergoing acute aerobic exercise (AAE). Eighty participants were randomly assigned to receive either BA-SOD or a placebo for 8 weeks. Antioxidant enzyme activities and glutathione levels were measured before, immediately after, and 30&#xa0;min post-exercise. A single dose of BA-SOD significantly reduced ROS levels induced by AAE, primarily by enhancing SOD activity in erythrocytes and activating glutathione peroxidase. Continuous BA-SOD administration was associated with a sustained increase in catalase activity and elevated levels of reduced glutathione (GSH). Transcriptomic and metabolomic analyses revealed that a single BA-SOD dose facilitated GSH oxidation, as evidenced by decreased levels of serine, glutamine, and glycine, and increased pyroglutamate levels. Additionally, repeated dosing led to increased expression of genes encoding isocitrate dehydrogenase and malic enzyme, which are involved in NADPH synthesis, as well as nicotinamide phosphoribosyl transferase and NAD kinase, which are essential for NADP availability-critical for converting oxidized glutathione (GSSG) back to GSH. These molecular insights align with clinical observations, suggesting that both acute and long-term BA-SOD supplementation may effectively enhance antioxidant defenses and maintain redox balance under oxidative stress conditions.
+To compare the safety in terms of hypoglycemic events and continuous glucose monitoring (CGM) metrics during aerobic exercise (AE) of using temporary target (TT) versus suspension of insulin infusion (SII) in adults with type 1 diabetes (T1D) using advanced hybrid closed-loop systems.This was a randomized crossover clinical trial. Two moderate-intensity AE sessions were performed, one with TT and one with SII. Hypoglycemic events and CGM metrics were analyzed during the immediate (baseline to 59 min), early (60 min to 6 h), and late (6 to 36 h) post-exercise phases.In total, 33 patients were analyzed (44.6&#x2009;&#xb1;&#x2009;13.8 years), basal time in range (%TIR 70-180 mg/dL) was 79.4 &#xb1; 12%, and time below range (%TBR) <70 mg/dL was 1.8&#x2009;&#xb1;&#x2009;1.7% and %TBR <54 mg/dL was 0.5&#x2009;&#xb1;&#x2009;0.9%. No difference was found in the number of hypoglycemic events, %TBR <70 mg/dL and %TBR <54 mg/dL between TT and SII. Differences were found in the early phase, with better values when using TT for %TIR 70-180 mg/dL (83.0 vs. 65.3,= 0.005), time in tight range (%TITR 70-140 mg/dL) (56.3 vs. 41.5,= 0.04), and time above range (%TAR >180 mg/dL) (15.3 vs. 31.8,= 0.01). In the diurnal period, again %TIR was better for TT use (82.1 vs. 73.1,= 0.02) and %TAR (15.0 vs. 22.96,= 0.04). No significant differences were found in the CGM metrics during the different phases of AE.Our data appear to show that the use of TT compared with SII is equally safe in all phases of AE. However, the use of TT allows for a better glycemic profile in the early phase of exercise.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.freeradbiomed.2024.09.015
+- DOI: 10.1089/dia.2023.0589
 
 2. Keywords
-- Aerobic exercise
-- Antioxidant
-- BA-SOD supplementation
-- Glutathione redox balance
-- Oxidative stress
-- Superoxide dismutase
-- Transcriptomic and metabolomic analyses
+- advanced closed-loop hybrid system
+- aerobic exercise
+- hypoglycemia
+- time in range
+- type 1 diabetes
 
 3. Key Findings
-- Previous studies have demonstrated the antioxidant capabilities of SOD derived from Bacillus amyloquefaciens GF424 (BA-SOD) in murine models exposed to either irradiation or SOD1 gene deletion
-- Transcriptomic and metabolomic analyses revealed that a single BA-SOD dose facilitated GSH oxidation, as evidenced by decreased levels of serine, glutamine, and glycine, and increased pyroglutamate levels
+- No difference was found in the number of hypoglycemic events, %TBR <70 mg/dL and %TBR <54 mg/dL between TT and SII
+- Differences were found in the early phase, with better values when using TT for %TIR 70-180 mg/dL (83
+- No significant differences were found in the CGM metrics during the different phases of AE
 
 This study provides insights into:
-- Aerobic exercise assessment methods and outcomes
-- Antioxidant assessment methods and outcomes
-- BA-SOD supplementation assessment methods and outcomes
+- advanced closed-loop hybrid system assessment methods and outcomes
+- aerobic exercise assessment methods and outcomes
+- hypoglycemia assessment methods and outcomes

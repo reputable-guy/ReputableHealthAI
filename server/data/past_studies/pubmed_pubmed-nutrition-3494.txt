@@ -1,27 +1,30 @@
-Study Title: Risk factors for moderate acute malnutrition among children with acute diarrhoea in India and Tanzania: a secondary analysis of data from a randomized trial.
+Study Title: Cross-sectional and longitudinal associations between the 24-hour movement behaviours, including muscle and bone strengthening activity, with bone and lean mass from childhood to adolescence.
 
 Study Summary:
-Moderate acute malnutrition (MAM) affects over 30 million children aged&#x2009;<&#x2009;5&#xa0;years worldwide. MAM may confer a greater risk of developing severe malnutrition and even mortality in children. Assessing risk factors for MAM may allow for earlier recognition of children at risk of deleterious health outcomes. To determine risk factors associated with the prevalence and development of MAM among children aged 6 to 59&#xa0;months with acute diarrhoea who received treatment with oral rehydration solution and zinc supplementation. We conducted a secondary analysis of data from a randomized, dose-finding trial of zinc among children with acute diarrhoea in India and Tanzania. We used regression models to assess risk factors for prevalent MAM at the start of diarrhoea treatment and to identify risk factors associated with the development of MAM at 60&#xa0;days. MAM was defined as weight for length (or height) Z score&#x2009;&#x2264;-2 and&#x2009;>&#x2009;-3 or mid-upper arm circumference&#x2009;<&#x2009;12.5 and&#x2009;&#x2265;&#x2009;11.5&#xa0;cm. A total of 4,500 children were enrolled; 593 (13.2%) had MAM at the baseline. MAM at baseline was significantly less common among children in Tanzania than in India (adjusted risk ratio [aRR] 0.37, 95% confidence interval [CI]: 0.30, 0.44, P&#x2009;<&#x2009;0.001), in children aged 24-&#x2009;<&#x2009;60&#xa0;months versus 6-&#x2009;<&#x2009;12&#xa0;months (aRR 0.46, 95% CI: 0.38, 0.56, P&#x2009;<&#x2009;0.001), and in families with household wealth index higher than the median (aRR 0.79, 95% CI: 0.68, 0.92, P&#x2009;=&#x2009;0.002). Sixty days after outpatient treatment and follow-up, 87 (2.5%) children developed MAM. When compared to children aged 6-&#x2009;<&#x2009;12&#xa0;months, children aged 24-&#x2009;<&#x2009;60&#xa0;months had a 52% lower risk of developing MAM. Every one unit increase in weight for length (or height) Z score at enrolment was associated with a 93% lower risk of developing MAM during follow-up. Among children with diarrhoea, younger children and those from households with lower wealth were at greater risk of MAM. These children may benefit from targeted interventions focusing on feeding (targeted nutrition support for at-risk households) and follow up in order to reduce the occurrence of MAM and its consequences.
+This study aimed to assess whether moderate-to-vigorous physical activity (MVPA), sport and exercise as a proxy measure of muscle and bone strengthening activity, sedentary behaviour, and sleep were associated with total-body-less-head (TBLH) bone mineral content (BMC) and TBLH lean mass cross-sectionally and longitudinally from age 6 to 9 years and age 9 to 11 years to age 15 to 17 years. We used longitudinal data from a population sample of Finnish children from the Physical Activity and Nutrition in Children study (age 6 to 9 years: n = 478, 229 females; age 9 to 11 years: n = 384, 197 females; age 15 to 17 years: n = 222, 103 females). Linear regression analysed the cross-sectional and longitudinal associations between accelerometer-assessed MVPA, sedentary time and sleep, and questionnaire-assessed sport and exercise participation and screen time with dual-energy X-ray absorptiometry-assessed TBLH BMC and lean mass. In females, MVPA at age 6 to 9 years was positively associated with TBLH BMC at age 15 to 17 years (&#x3b2; = 0.008, p = 0.010). Sport and exercise at age 9 to 11 years was positively associated with TBLH BMC (&#x3b2; = 0.020, p = 0.002) and lean mass (&#x3b2; = 0.343, p = 0.040) at age 15 to 17 years. MVPA at age 9 to 11 years was positively associated with TBLH lean mass (&#x3b2; = 0.272, p = 0.004) at age 15 to 17 years. In males, sleep at age 6 to 9 years was positively associated with TBLH lean mass (&#x3b2; = 0.382, p = 0.003) at age 15 to 17 years. Sport and exercise at age 9 to 11 years was positively associated with TBLH BMC (&#x3b2; = 0.027, p = 0.012) and lean mass (&#x3b2; = 0.721, p < 0.001) at age 15 to 17 years. Promoting engagement in the 24-hour movement behaviours in childhood, particularly sport and exercise to strengthen muscle and bone, is important in supporting bone and lean mass development in adolescence. NCT01803776; first trial registration date: 04/03/2013.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12887-024-04551-2
+- DOI: 10.1186/s12889-024-17711-x
 
 2. Keywords
-- Acute diarrhoea
-- India
-- Moderate Acute Malnutrition
-- Paediatric
-- Tanzania
-- Zinc
+- Accelerometry
+- Bone mineral content
+- DXA
+- Exercise
+- Moderate-to-vigorous physical activity
+- Paediatrics
+- Sedentary behaviour
+- Sleep
+- Sport
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Acute diarrhoea assessment methods and outcomes
-- India assessment methods and outcomes
-- Moderate Acute Malnutrition assessment methods and outcomes
+- Accelerometry assessment methods and outcomes
+- Bone mineral content assessment methods and outcomes
+- DXA assessment methods and outcomes

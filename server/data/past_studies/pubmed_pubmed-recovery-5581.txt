@@ -1,26 +1,28 @@
-Study Title: Application of dezocine patient-controlled epidural analgesia in postoperative analgesia in patients with total myomectomy.
+Study Title: Efficacy and Safety of High-Dose TBS on Poststroke Upper Extremity Motor Impairment: A Randomized Controlled Trial.
 
 Study Summary:
-Uterine fibroids are common benign gynecological conditions. Patients who experience excessive menstruation, anemia, and pressure symptoms should be administered medication, and severe cases require a total hysterectomy. This procedure is invasive and causes severe postoperative pain, which can affect the patient's postoperative sleep quality and, thus, the recovery process. To evaluate use of dezocine in patient-controlled epidural analgesia (PCEA) for postoperative pain management in patients undergoing total myomectomy. We selected 100 patients undergoing total abdominal hysterectomy for uterine fibroids and randomized them into two groups: A control group receiving 0.2% ropivacaine plus 0.06 mg/mL of morphine and an observation group receiving 0.2% ropivacaine plus 0.3 mg/mL of diazoxide in their PCEA. Outcomes assessed included pain levels, sedation, recovery indices, PCEA usage, stress factors, and sleep quality. The observation group showed lower visual analog scale scores, shorter postoperative recovery indices, fewer mean PCEA compressions, lower cortisol and blood glucose levels, and better polysomnographic parameters compared to the control group (< 0.05). The cumulative incidence of adverse reactions was lower in the observation group than in the control group (< 0.05). Dezocine PCEA can effectively control the pain associated with total myomectomy, reduce the negative impact of stress factors, and have less impact on patients' sleep, consequently resulting in fewer adverse effects.
+Upper extremity (UE) motor function impairment is a major poststroke complication whose recovery remains one of the most challenging tasks in neurological rehabilitation. This study examined the efficacy and safety of the personalized neuroimaging-guided high-dose theta-burst stimulation (TBS) for poststroke UE motor function recovery. Patients after stroke with UE motor impairment from a China rehabilitation center were randomly assigned to receive high-dose intermittent TBS (iTBS) to ipsilesional UE sensorimotor network, continuous TBS (cTBS) to contralesional UE sensorimotor network, or sham stimulation, along with conventional therapy for 3 weeks. The primary outcome was the score changes on the Fugl-Meyer assessment-UE from baseline to 1 and 3 weeks. The secondary outcomes included the response rate on Fugl-Meyer assessment-UE scores posttreatment (&#x2265;9-point improvement) and score changes in multidimensional scales measuring UE, lower extremity, and activities and participation. From June 2021 to June 2022, 45 participants were randomized and 43 were analyzed. The iTBS and continuous TBS groups showed significantly greater improvement in Fugl-Meyer assessment-UE (mean improvement, iTBS: 10.73 points; continuous TBS: 10.79 points) than the sham group (2.43 points) and exhibited significantly greater response rates on Fugl-Meyer assessment-UE (iTBS, 60.0%; continuous TBS, 64.3%) than the sham group (0.0%). The active groups consistently exhibited superior improvement on the other 2 UE assessments at week 3. However, only the iTBS group showed greater efficacy on 1 lower extremity assessment than the sham group at week 3. Both active groups showed significant improvements in activities and participation assessments. The study provides evidence for the efficacy and safety of high-dose TBS in facilitating poststroke UE rehabilitation. URL: www.chictr.org.cn; Unique identifier: ChiCTR2100047340.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.12998/wjcc.v12.i20.4265
+- DOI: 10.1161/STROKEAHA.124.046597
 
 2. Keywords
-- Adverse effects
-- Diazoxide
-- Patient-controlled epidural analgesia
-- Sleep impacts
-- Total hysterectomy
+- magnetic resonance imaging
+- neurological rehabilitation
+- stroke
+- transcranial magnetic stimulation
+- upper extremity
 
 3. Key Findings
-- The observation group showed lower visual analog scale scores, shorter postoperative recovery indices, fewer mean PCEA compressions, lower cortisol and blood glucose levels, and better polysomnographic parameters compared to the control group (< 0
+- The iTBS and continuous TBS groups showed significantly greater improvement in Fugl-Meyer assessment-UE (mean improvement, iTBS: 10
+- However, only the iTBS group showed greater efficacy on 1 lower extremity assessment than the sham group at week 3
+- Both active groups showed significant improvements in activities and participation assessments
 
 This study provides insights into:
-- Adverse effects assessment methods and outcomes
-- Diazoxide assessment methods and outcomes
-- Patient-controlled epidural analgesia assessment methods and outcomes
+- magnetic resonance imaging assessment methods and outcomes
+- neurological rehabilitation assessment methods and outcomes
+- stroke assessment methods and outcomes

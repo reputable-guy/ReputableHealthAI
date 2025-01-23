@@ -1,25 +1,28 @@
-Study Title: Efficacy of tissue-bone homeostasis manipulation on the gait and knee function for the patients with knee osteoarthritis: a randomized controlled trial.
+Study Title: A Highly Efficient and User-Friendly Sensitive Skin Model on the Forearm.
 
 Study Summary:
-Knee osteoarthritis (KOA) was characterized by pain and limited joint function, which seriously affected the quality of life of patients. The vast majority of KOA was closely related to degeneration of the patellofemoral joint and abnormal patellar movement trajectory. Tissue-bone homeostasis manipulation (TBHM) could correct abnormal patellar movement trajectory on the basis of loosening soft tissue. However, there was little strong evidence to verify its efficacy on the patients with KOA. The study objective was to explore the efficacy of the TBHM on gait and knee function in the patients with KOA. Sixty KOA patients were randomly assigned to either the joint mobilization (n&#x2009;=&#x2009;30) or TBHM (n&#x2009;=&#x2009;30) group. The joint mobilization group received joint mobilization, while the TBHM group received TBHM. For two groups, the patients participated in 30&#xa0;min rehabilitation sessions thrice per week for 12&#xa0;weeks. The primary outcome was biomechanical gait outcomes during walking, including step length, step velocity, double support, knee range of motion (ROM), and knee adduction moment (KAM). The secondary outcomes were the Western Ontario and McMaster Index (WOMAC) and 36-Item short- form health survey (SF-36), which reflected improvements in knee function and quality of life, respectively. At baseline and 12&#xa0;weeks, evaluations were conducted and compared between groups. After a 12-week intervention, significant group differences were observed in KAM (p&#x2009;=&#x2009;0.018), WOMAC-Pain (p&#x2009;=&#x2009;0.043) and WOMAC-Stiffness (p&#x2009;=&#x2009;0.026). A noteworthy finding was the presence of a significant interaction effect between group and time specifically observed in step velocity during gait (p&#x2009;=&#x2009;0.046), WOMAC-Function (p&#x2009;=&#x2009;0.013) and SF-36 (p&#x2009;=&#x2009;0.027). Further analysis revealed a significant difference in step velocity (p&#x2009;=&#x2009;0.034), WOMAC-Function (p&#x2009;=&#x2009;0.025) and SF-36 (p&#x2009;=&#x2009;0.042) during post-assessment between the two groups. Moreover, a significant time effect was observed across all outcomes of the two groups (p&#x2009;<&#x2009;0.05). The TBHM intervention has better improved the gait, knee function, and quality of life in the patients with KOA. ITMCTR, ITMCTR2200005507. Registered 06/01/2022, http://itmctr.ccebtcm.org.cn/zh-CN/Home/ProjectView?pid=09cdadad-0aef-41ee-81bd-a8dceb63f7f5 .
+Sensitive skin is a worldwide skin problem, and its assessment of therapeutic efficacy traditionally relies on the facial stinging test. However, this test possesses certain limitations due to its restrictive application site, intense pain sensation, and adverse effects on physical appearance. This study aimed to develop and evaluate a highly efficient and user-friendly sensitive skin simulation model, which combines tape stripping and capsaicin testing on the forearm (FA-TS-CAT), as an alternative to the facial stinging test. A randomized, double-blind, placebo-controlled clinical trial was conducted involving 74 subjects. Skin redness (a* value), transepidermal water loss (TEWL), and self-assessment questionnaires were collected at different time points for analysis. Tape stripping 5 times and 10&#x2009;min application of capsaicin test were identified as the optimal conditions for the FA-TS-CAT model. Consistent stimulation and natural recovery trends of a* value and TEWL were observed on both the FA-TS-CAT and facial capsaicin test (F-CAT) models within 50&#x2009;min. After the 4-t-butylcyclohexanol complex emulsion was applied, the a* value in the FA-TS-CAT model exhibited a soothing trend similar to the F-CAT model, with a significantly reduced by 3.99-fold and 3.28-fold at T3 and T4 (p&#x2009;<&#x2009;0.001), compared to the placebo. Notably, the test efficiency of the FA-TS-CAT model was threefold higher than that of the F-CAT model, and subjects showed more willingness to participate in the FA-TS-CAT test (95.95% vs. 4.05%). These results indicated the FA-TS-CAT is a highly efficient and user-friendly model for sensitive skin, providing a reliable and valid method for clinical research in sensitive skin treatment.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1186/s12891-024-07896-y
+- Publication Date: 2025
+- DOI: 10.1111/jocd.16619
 
 2. Keywords
-- Function recovery
-- Gait
-- Knee osteoarthritis
-- Manipulative therapy
+- capsaicin test
+- efficacy evaluation
+- forearm
+- sensitive skin model
+- skin redness
+- tape stripping
 
 3. Key Findings
-- Further analysis revealed a significant difference in step velocity (p&#x2009;=&#x2009;0
+- Notably, the test efficiency of the FA-TS-CAT model was threefold higher than that of the F-CAT model, and subjects showed more willingness to participate in the FA-TS-CAT test (95
+- These results indicated the FA-TS-CAT is a highly efficient and user-friendly model for sensitive skin, providing a reliable and valid method for clinical research in sensitive skin treatment
 
 This study provides insights into:
-- Function recovery assessment methods and outcomes
-- Gait assessment methods and outcomes
-- Knee osteoarthritis assessment methods and outcomes
+- capsaicin test assessment methods and outcomes
+- efficacy evaluation assessment methods and outcomes
+- forearm assessment methods and outcomes

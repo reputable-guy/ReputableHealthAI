@@ -1,27 +1,28 @@
-Study Title: There and Back Again: A Forty-Year Perspective on Physician Nutrition Education.
+Study Title: Collaborative model of care between orthopaedics and allied healthcare professionals (CONNACT) in knee osteoarthritis: Effectiveness-implementation hybrid randomized controlled trial of a community-based, multidisciplinary, stratified intervention.
 
 Study Summary:
-Medical education faces an urgent need for evidence-based physician nutrition education. Since the publication of the 1985 National Academies report "Nutrition Education in the United States Medical Schools," little has changed. Although several key efforts sought to increase nutrition content in undergraduate medical education over the past 40 y, most medical schools still fail to include the recommended minimum of 25 h of nutrition training. Without foundational concepts of nutrition in undergraduate medical education, graduate medical education unsurprisingly falls short of meeting patient needs for nutritional guidance in clinical practice. Meanwhile, diet-sensitive chronic diseases continue to escalate, although largely preventable and treatable by nutritional therapies and dietary lifestyle changes. Fortunately, recent recognition and adoption of Food is Medicine programs across the country increasingly connect patients with healthy food resources and nutrition education as core to their medical care, and physicians must be equipped to lead these efforts alongside their dietitian colleagues. Filling the gap in nutrition training will require an innovative and interprofessional approach that pairs nutrition with personal wellness, interprofessional practice, and community service learning. The intersectional benefits of connecting these domains will help prepare future physicians to address the social, behavioral, and lifestyle determinants of health in a way that recognizes nourishing food access as a core part of clinical practice. There are numerous strategies to integrate nutrition into education pathways, including didactic and experiential learning. Culinary medicine, an evidence-based field combining the culinary arts with nutritional science and medicine, is 1 promising educational framework with a hands-on, interprofessional approach that emphasizes community engagement. Advancing the critical need for widespread adoption of nutrition education for physicians will require support and engagement across societal stakeholders, including co-leadership from registered dietitian nutritionists, health system and payor reform, and opportunities for clinical innovation that bring this essential field to frontline patient care.
+To compare the clinical and cost effectiveness of the Collaborative Model of Care between Orthopaedics and Allied Healthcare Professionals (CONNACT), a community-based, stratified, multidisciplinary intervention consisting of exercise, education, psychological and nutrition delivered through a chronic care model to usual hospital care in adults with knee osteoarthritis (OA). Pragmatic, parallel-arm, single-blinded superiority RCT trial. Community-dwelling, ambulant adults with knee OA (Kellgren-Lawrence grade > 1; Knee Injury and OA Outcome Score (KOOS) &#x2264;75) were enrolled. Primary outcome was KOOSat 12-months; secondary outcomes included: quality of life, physical performance measures, symptom satisfaction, psychological outcomes, dietary habits, and global perceived effect. Intention-to-treat analysis using generalized linear model (GLM) and regression modeling were conducted. Economic evaluation through a societal approach was embedded. 110 participants (55 control, 55 intervention) were randomized. No between-group difference found for the primary outcome (MD [95%CI]: -1.86 [-9.11. 5.38]), although both groups demonstrated within-group improvement over 12-months. Among the secondary outcomes, the CONNACT group demonstrated superior dietary change (12 months) and physical performance measures (3 months), and global perceived effect (6 months). While there was no between-group difference in total cost, significant productivity gains (reduced indirect cost) were seen in the CONNACT group. CONNACT was not superior to usual care at 1 year. Further efforts are needed to understand the underlying contextual and implementation factors in order to further improve and refine such community-based, stratified care models moving forward. Clinicaltrials.gov Identifier: NCT03809975. Registered January 18, 2019. https://clinicaltrials.gov/ct2/show/NCT03809975.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.advnut.2024.100230
+- DOI: 10.1016/j.joca.2024.04.018
 
 2. Keywords
-- culinary medicine
-- diet-sensitive disease
-- graduate medical education
-- interprofessional
-- nutrition education
-- undergraduate medical education
+- Community
+- Knee osteoarthritis
+- Randomized control trial
+- Service model
+- Stratified
 
 3. Key Findings
-- Without foundational concepts of nutrition in undergraduate medical education, graduate medical education unsurprisingly falls short of meeting patient needs for nutritional guidance in clinical practice
+- No between-group difference found for the primary outcome (MD [95%CI]: -1
+- 38]), although both groups demonstrated within-group improvement over 12-months
+- Among the secondary outcomes, the CONNACT group demonstrated superior dietary change (12 months) and physical performance measures (3 months), and global perceived effect (6 months)
 
 This study provides insights into:
-- culinary medicine assessment methods and outcomes
-- diet-sensitive disease assessment methods and outcomes
-- graduate medical education assessment methods and outcomes
+- Community assessment methods and outcomes
+- Knee osteoarthritis assessment methods and outcomes
+- Randomized control trial assessment methods and outcomes

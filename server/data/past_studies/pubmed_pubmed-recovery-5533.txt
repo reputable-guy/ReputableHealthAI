@@ -1,20 +1,25 @@
-Study Title: The Effect of Physiotherapy on Erectile Dysfunction Secondary to Prostatic Adenectomy: A Randomized Control Trial Study.
+Study Title: Evaluation of Higher-Order Aberrations After the Smooth Incision Lenticular Keratomileusis (SILK) Procedure Using the ELITAFemtosecond Platform for Correction of Myopic and Astigmatic Refractive Errors.
 
 Study Summary:
-The objective of this randomized controlled trial was to investigate the impact of manual therapy (friction massage) and pelvic floor muscle (PFM) training on erectile dysfunction (ED), pelvic floor muscle thickness, and blood flow in the penile arteries and veins in men who have undergone prostatic adenectomy (PA). This study employed a randomized, double-blinded, controlled trial design. Forty patients participated and were divided into two groups: intervention and control (n=20 per group). The intervention group received 10 sessions of pelvic floor muscle training and manual therapy, while the control group solely underwent pelvic floor muscle training. The recovery rate was measured using the International Index of Erectile Function 15 (IIEF-15) questionnaire and Erection Hardness Score (EHS). Sonographic factors were assessed using simple and Doppler ultrasound. The intervention group exhibited significantly higher erectile function scores (F(1,37)=158.04, P < 0.001, &#x3b7;2 P = 0.810) and a higher average total (IIEF-15) score (20.52) (F(1,37)=136.76, P < 0.001, &#x3b7;2 P = 0.787) compared to the control group in the post-test assessment. Comparison between the two groups revealed an increase in ultrasonic parameters such as the thickness of the ischiocavernosus and bulbospongiosus muscles, maximum systolic velocity, and minimum diastolic velocity of the cavernosal artery in the intervention group. However, the maximum blood flow velocity in the posterior vein decreased. PFM training and friction massage play a significant role in managing ED following PA, positioning them as the primary treatment approach for men experiencing ED post-prostatectomy.
+To evaluate the changes of higher-order wavefront aberrations following the Smooth Incision Lenticular Keratomileusis (SILK) procedure for correction of myopic refractive errors with and without astigmatism, using the ELITAFemtosecond Platform. This prospective study included 24 eyes that underwent SILK procedure using one ELITA femtosecond laser system for the correction of myopic refractive errors with and without astigmatism. Preoperative and postoperative 1-day, 1-week, 1-month, 3-month, and 9-month eye exams were measured with a commercial wavefront aberrometer (iDESIGNRefractive Studio, Johnson & Johnson Surgical Vision, Inc). Wavefront aberrations up to the 6th order Zernike coefficients, including coma Z(3, -1) and Z(3, 1), spherical aberration Z(4, 1), and the wavefront error of all higher-order aberrations (HOAs RMS), were evaluated across a 6 mm pupil. The mean manifest refractive spherical equivalent changed from the preoperative refractions -3.82 &#xb1; 1.26 D (range -6.00 to -2.25 D) to the postoperative refractions -0.20 &#xb1; 0.15 D (range -0.50 to 0.00 D) at the 9-month follow-up. Compared to baseline preoperative HOAs, the mean postoperative HOAs were significantly increased at the 1-day follow-up. On average, at the 9-month postoperative assessment the vertical coma Z(3, -1) was -0.054 &#xb1;0.186 &#xb5;m, horizontal coma Z(3, 1) was 0.016 &#xb1; 0.124 &#xb5;m, spherical aberration Z(4, 0) was 0.046 &#xb1; 0.163 &#xb5;m, and HOAs RMS was 0.363 &#xb1; 0.115 &#xb5;m across a 6 mm pupil. There is no significant difference in the mean HOAs starting at 1-week follow-up for the horizontal coma (P = 0.346) and spherical aberration (P = 0.095). The visual outcomes demonstrated that the SILK procedure for refractive lenticule extraction using ELITA femtosecond laser system is effective and predictable for the correction of myopic refractive errors with and without astigmatism. The ELITA femtosecond laser system induced minimal HOAs in surgical eyes following the SILK procedures. These results demonstrate fast corneal recovery starting at 1-week follow-up, and spherical aberration was not induced.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.22037/uj.v21i.7968
+- DOI: 10.2147/OPTH.S466932
 
 2. Keywords
-
+- corneal refractive surgery
+- laser-assisted lenticule extraction
+- smooth incision lenticular keratomileusis
+- wavefront aberrations
 
 3. Key Findings
-- Comparison between the two groups revealed an increase in ultrasonic parameters such as the thickness of the ischiocavernosus and bulbospongiosus muscles, maximum systolic velocity, and minimum diastolic velocity of the cavernosal artery in the intervention group
+- The visual outcomes demonstrated that the SILK procedure for refractive lenticule extraction using ELITA femtosecond laser system is effective and predictable for the correction of myopic refractive errors with and without astigmatism
 
 This study provides insights into:
-- General research methodology and outcomes
+- corneal refractive surgery assessment methods and outcomes
+- laser-assisted lenticule extraction assessment methods and outcomes
+- smooth incision lenticular keratomileusis assessment methods and outcomes

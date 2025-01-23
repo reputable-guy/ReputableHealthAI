@@ -1,28 +1,20 @@
-Study Title: Differential effects of theta-gamma tACS on motor skill acquisition in young individuals and stroke survivors: A double-blind, randomized, sham-controlled study.
+Study Title: Association of leucine and other branched chain amino acids with clinical outcomes in malnourished inpatients: a secondary analysis of the randomized clinical trial EFFORT.
 
 Study Summary:
-Theta-gamma transcranial alternating current stimulation (tACS) was recently found to enhance thumb acceleration in young, healthy participants, suggesting a potential role in facilitating motor skill acquisition. Given the relevance of motor skill acquisition in stroke rehabilitation, theta-gamma tACS may hold potential for treating stroke survivors. We aimed to examine the effects of theta-gamma tACS on motor skill acquisition in young, healthy participants and stroke survivors. In a pre-registered, double-blind, randomized, sham-controlled study, 78 young, healthy participants received either theta-gamma peak-coupled (TGP) tACS, theta-gamma trough-coupled (TGT) tACS or sham stimulation. 20 individuals with a chronic stroke received either TGP or sham. TACS was applied over motor cortical areas while participants performed an acceleration-dependent thumb movement task. Stroke survivors were characterized using standardized testing, with a subgroup receiving additional structural brain imaging. Neither TGP nor TGT tACS significantly modified general motor skill acquisition in the young, healthy cohort. In contrast, in the stroke cohort, TGP diminished motor skill acquisition compared to sham. Exploratory analyses revealed that, independent of general motor skill acquisition, healthy participants receiving TGP or TGT exhibited greater peak thumb acceleration than those receiving sham. Although theta-gamma tACS increased thumb acceleration in young, healthy participants, consistent with previous reports, it did not enhance overall motor skill acquisition in a more complex motor task. Furthermore, it even had detrimental effects on motor skill acquisition in stroke survivors.
+The essential branched-chain amino acids leucine, isoleucine and valine are considered anabolic and stimulate protein synthesis in the muscles as well in the liver. They also promote muscle recovery and contribute to glucose homeostasis. Recent studies in critically ill patients have demonstrated that depletion of plasma leucine is associated with increased mortality, but data in the non-critical care setting is lacking. This secondary analysis of the randomized controlled Effect of early nutritional support on Frailty, Functional Outcomes, and Recovery of malnourished medical inpatients Trial (EFFORT), investigated the impact of leucine, isoleucine, and valine metabolism on clinical outcomes. The primary endpoint was 180-day all-cause mortality. Among 238 polymorbid patients with available metabolite measurements, low serum leucin levels were associated with a doubled risk of 180-day all-cause mortality in a fully adjusted regression model (adjusted HR 2.20 [95% CI 1.46-3.30], p&#x2009;<&#x2009;0.001). There was also an association with mortality for isoleucine (1.56 [95% CI 1.03-2.35], p&#x2009;=&#x2009;0.035) and valine (1.69 [95% CI 1.13-2.53], p&#x2009;=&#x2009;0.011). When comparing effects of nutritional support on mortality in patients with high and low levels of leucine, there was no evidence of significant differences in effectiveness of the intervention. The same was true for isoleucine and valine. Our data suggest that depletion of leucine, isoleucine, and valine among malnourished polymorbid patients is associated with increases in long-term mortality. However, patients with low metabolite levels did not show a pronounced benefit from nutritional support. Further research should focus on the clinical effects of nutritional support in patients with depleted stores of essential branched-chain amino acids. clinicaltrials.gov as NCT02517476 (registered 7 August 2015).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1016/j.brs.2024.09.001
+- Publication Date: 2025
+- DOI: 10.1038/s41430-024-01507-8
 
 2. Keywords
-- High-gamma oscillations
-- Motor skill acquisition
-- Stroke
-- Stroke recovery
-- Theta-gamma phase-amplitude coupling
-- Transcranial alternating current stimulation
+
 
 3. Key Findings
-- Theta-gamma transcranial alternating current stimulation (tACS) was recently found to enhance thumb acceleration in young, healthy participants, suggesting a potential role in facilitating motor skill acquisition
-- Exploratory analyses revealed that, independent of general motor skill acquisition, healthy participants receiving TGP or TGT exhibited greater peak thumb acceleration than those receiving sham
+- Recent studies in critically ill patients have demonstrated that depletion of plasma leucine is associated with increased mortality, but data in the non-critical care setting is lacking
 
 This study provides insights into:
-- High-gamma oscillations assessment methods and outcomes
-- Motor skill acquisition assessment methods and outcomes
-- Stroke assessment methods and outcomes
+- General research methodology and outcomes

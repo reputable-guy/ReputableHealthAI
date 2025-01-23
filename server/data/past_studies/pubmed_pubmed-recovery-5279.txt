@@ -1,24 +1,29 @@
-Study Title: Impact of Perioperative Lidocaine on Neutrophil Extracellular Trapping and Serum Cytokines in Robot-Assisted Radical Prostatectomy: Randomized Controlled Study.
+Study Title: Effectiveness of Hospital Fit on Physical Activity in Hospitalized Patients: A Stepped-Wedge Cluster-Randomized Trial and Process Evaluation.
 
 Study Summary:
-This randomized controlled trial investigated the influence of perioperative lidocaine administration on the postoperative inflammatory response in patients undergoing robot-assisted radical prostatectomy, with the results having potential implications for postoperative recovery and cancer recurrence via neutrophil extracellular trapping (NETosis).In total, 58 patients with localized prostate cancer were randomly assigned to receive an intravenous infusion of 2% lidocaine or a saline placebo intraoperatively. Serum levels of interleukin (IL)-6, IL-10, and IL-17, tumor necrosis factor(TNF)-&#x3b1;, interferon(IFN)-&#x3b3;, neutrophil elastase (NE), citrullinated histone3 (CitH3), and myeloperoxidase (MPO) were determined preoperatively and at 24 h postoperatively. Biochemical recurrence (BCR) was assessed over a follow-up period of 2 years.The lidocaine group showed a significant change in MPO, a greater reduction in IL-10 level, and a smaller increase in the NE level compared to the placebo group, suggesting a modulatory effect of lidocaine on certain anti-inflammatory and neuroendocrine pathways. No significant difference in the BCR rate was observed between the two groups.Perioperative lidocaine administration selectively modulates certain inflammatory and neuroendocrine responses after robot-assisted radical prostatectomy surgery, potentially influencing recovery outcomes. These findings highlight the need for further investigations of the role of lidocaine in Enhanced Recovery After Surgery protocols, particularly in oncologic surgeries.
+This study investigates the effectiveness of using Hospital Fit as part of usual care physiotherapy on the physical activity (PA) behavior of hospitalized patients compared to patients who received physiotherapy before implementation of Hospital Fit. In addition, a process evaluation is conducted. A prospective, multi-center, mixed-methods stepped wedge cluster randomized trial was performed at the cardiology and medical oncology departments of two Dutch university medical centers. Patients were included in the non-intervention or intervention phase. During the non-intervention phase, patients received usual care physiotherapy. During the intervention phase, Hospital Fit was additionally used. Mean time spent walking, standing, lying/sitting per day and the number of postural transitions from lying/sitting to standing/walking positions were measured using an accelerometer and analyzed using linear mixed models. A process evaluation was performed using questionnaires and semi-structured interviews with patients and focus-group interviews with healthcare professionals. A total of 77 patients were included, and data from 63 patients were used for data analysis. During the intervention phase, the average time spent walking per day was 20 min (95% confidence interval: -2 to 41 min) higher than during the non-intervention phase (= 0.075). No significant differences were found for mean time spent standing per day, mean time spent lying/sitting per day, or the number of postural transitions per day either. During the intervention phase, 87% of patients used Hospital Fit at least once, with a median daily use of 2.5 to 4.0 times. Patients and healthcare professionals believed that Hospital Fit improved patients' PA behavior and recovery. Insufficient digital skills and technical issues were described as challenges. Although patients and healthcare professionals described Hospital Fit as an added value, no statistically significant effects were found.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/medicina60091452
+- DOI: 10.3390/s24185920
 
 2. Keywords
-- NETosis
-- lidocaine
-- prostate cancer
+- activity monitoring
+- effectiveness
+- mHealth
+- physical activity
+- physiotherapy
+- walking
+- wearable sensors
 
 3. Key Findings
-- The lidocaine group showed a significant change in MPO, a greater reduction in IL-10 level, and a smaller increase in the NE level compared to the placebo group, suggesting a modulatory effect of lidocaine on certain anti-inflammatory and neuroendocrine pathways
+- No significant differences were found for mean time spent standing per day, mean time spent lying/sitting per day, or the number of postural transitions per day either
+- Although patients and healthcare professionals described Hospital Fit as an added value, no statistically significant effects were found
 
 This study provides insights into:
-- NETosis assessment methods and outcomes
-- lidocaine assessment methods and outcomes
-- prostate cancer assessment methods and outcomes
+- activity monitoring assessment methods and outcomes
+- effectiveness assessment methods and outcomes
+- mHealth assessment methods and outcomes

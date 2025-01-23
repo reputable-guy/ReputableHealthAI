@@ -1,27 +1,32 @@
-Study Title: Effect of reboxetine and citalopram on anal opening pressure in healthy women: A randomized, double-blind, placebo-controlled crossover study.
+Study Title: Mobile App Promoting Resilience in Stress Management for Adolescents and Young Adults With Cancer: Protocol for a Pilot Randomized Controlled Trial.
 
 Study Summary:
-In placebo-controlled clinical trials, reboxetine, a selective noradrenaline reuptake inhibitor, increases urethral pressure and relieves stress urinary incontinence symptoms in women. Considering the close connection in neural regulation of the external urethral and anal sphincters, we hypothesized that reboxetine may also enhance anal sphincter pressure. Conversely, it is believed that selective serotonin reuptake inhibitors may contribute to fecal incontinence by reducing anal sphincter pressure. In this study, we investigated the effect of reboxetine and citalopram on anal opening pressure in healthy female volunteers. In a double-blind, three-way crossover trial, 24 female participants received single doses of 40&#x2009;mg citalopram, 8&#x2009;mg reboxetine, and matching placebos, with a minimum of 8-day washout between sessions. Using anal acoustic reflectometry, we measured anal opening pressure during both resting and squeezing conditions at the estimated time of peak plasma concentration for both study drugs. Compared with placebo, reboxetine increased anal opening pressure with 23.4&#x2009;cmHO (95% confidence interval [CI] 16.5-30.2, p&#x2009;<&#x2009;0.001) during rest and with 22.5 cmHO (95% CI 15.2-29.8, p&#x2009;<&#x2009;0.001) during squeeze. Citalopram did not change anal opening pressure statistically significantly compared to placebo. An 8-mg dose of reboxetine increased anal opening pressure substantially in healthy women, suggesting potential benefits for fecal incontinence symptoms. In contrast, a 40-mg dose of citalopram showed a marginal and statistically insignificant effect on anal opening pressure, indicating that selective serotonin reuptake inhibitors do not contribute to fecal incontinence by reducing anal sphincter tone.
+Adolescents and young adults (AYAs) with cancer are at risk of poor psychosocial outcomes. AYAs grew up with the internet and digital technology, and mobile Health (mHealth) psychosocial interventions have the potential to overcome care access barriers. This pilot randomized controlled trial (RCT) aimed to establish the feasibility, acceptability, and preliminary efficacy of a fully automated mobile app version of the Promoting Resilience in Stress Management intervention (mPRISM). Promoting Resilience in Stress Management is an evidence-based intervention developed in collaboration with AYAs, based on stress and coping theory, resilience theory, and evidence-based coping strategies. We hypothesized that mPRISM would be feasible, acceptable, and appropriate. This is a parallel, 2-arm, single-site pilot RCT with a waitlist control design. The study will recruit 80 AYAs with cancer from a clinic. Eligible AYAs are aged 12 to 25 years, within 12 months of a new cancer diagnosis, receiving chemotherapy or radiation therapy, speak, read, or write in English, and are cognitively able to participate in study procedures. Recruitment by clinical research coordinators will occur remotely by phone, video, or text. Participants will be randomized to psychosocial usual care (UC) alone or UC plus mPRISM for an 8-week intervention period, and will remain unblinded to study condition. Enrolled participants will complete surveys at baseline before randomization, 8 weeks, and 3-month follow-up. Using a waitlist design, the UC arm will receive mPRISM upon completion of 3-month follow-up surveys. Those in the UC arm will complete 2 additional measurement points at immediate posttreatment and 3 months later. The primary outcomes of interest are feasibility, defined as &#x2265;60% enrollment and &#x2265;70% retention (ie, percentage of participants who completed the study), and "feasibility, acceptability, and appropriateness" as defined by cut-off scores &#x2265;4/5 on 3 brief validated implementation outcome measures (feasibility of implementation measure, acceptability of intervention measure [AIM], intervention appropriateness measure [IAM]). We will apply top-box scoring for the implementation measures. Exploratory outcomes of interest include patient-reported health-related quality of life, resilience, distress, anxiety, depression, pain, and sleep. We will conduct an intention-to-treat analysis to compare the outcomes of the mPRISM arm versus the control arm with covariate-adjusted regression models. We will summarize individual digital usage metrics using descriptive statistics. Since September 2023, we have enrolled 20 participants and recruitment is ongoing. Although our previous work suggests AYAs with cancer are interested in mHealth psychosocial interventions, such interventions have not yet been sufficiently evaluated or implemented among AYA oncology patients. mPRISM may serve as a potential mHealth intervention to fill this gap. In this study, we will test the feasibility, acceptability, and preliminary efficacy of mPRISM. This work will inform future larger-scale RCTs powered for efficacy outcomes. ClinicalTrials.gov NCT05842902; https://clinicaltrials.gov/study/NCT05842902. DERR1-10.2196/57950.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/nmo.14882
+- DOI: 10.2196/57950
 
 2. Keywords
-- anal acoustic reflectometry
-- anal canal
-- citalopram
-- fecal incontinence
+- adolescents
+- cancer
+- coping
+- health-related quality of life
+- mHealth
+- mobile phone
+- psychosocial intervention
 - randomized controlled trial
-- reboxetine
+- resilience
+- stress management
+- young adult
 
 3. Key Findings
-- In contrast, a 40-mg dose of citalopram showed a marginal and statistically insignificant effect on anal opening pressure, indicating that selective serotonin reuptake inhibitors do not contribute to fecal incontinence by reducing anal sphincter tone
+- Findings extraction requires manual review
 
 This study provides insights into:
-- anal acoustic reflectometry assessment methods and outcomes
-- anal canal assessment methods and outcomes
-- citalopram assessment methods and outcomes
+- adolescents assessment methods and outcomes
+- cancer assessment methods and outcomes
+- coping assessment methods and outcomes

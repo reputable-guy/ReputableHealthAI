@@ -1,27 +1,25 @@
-Study Title: Evaluating the evening carbohydrate dilemma: the effect of within-the-day carbohydrate periodization on body composition and physical fitness.
+Study Title: Effects of acute rope skipping exercises of different exercise modes on cognitive function in 9-10-year-old children.
 
 Study Summary:
-To assess the effects of carbohydrate timing and type on body composition and physical fitness. Forty-two healthy, trained male volunteers underwent a four-week intervention, randomly divided into three groups: (i) Sleep Low-No Carbohydrates (SL-NCHO): consuming all carbohydrate intake at regular intervals prior to evening training, (ii) Sleep High-Low Glycemic Index (SH-LGI), and (iii) Sleep High-High Glycemic Index (SH-HGI). In both SH-LGI and SH-HGI, carbohydrates were distributed throughout the day, both pre-(60% of total intake) and post-evening training (40% of total intake). The SH-LGI and SH-HGI groups diverged in evening carbohydrate quality, featuring LGI and HGI foods, respectively. All participants performed a standardized exercise program combining resistance exercise and high-intensity interval training. Body composition was assessed using skinfold measurements and bioelectrical impendence analysis. Physical fitness was assessed by measuring VOmax, Visual Reaction Time (VRT), Countermovement Jump (CMJ), and 1-repetition maximum (1RM) in hack squat, chest press, shoulder press, and lat-pulldown exercises. There was a significant time-effect on both body composition and physical fitness indices. Bodyfat percentage decreased by an average of 1.5% (p&#x2009;<&#x2009;0.001), fat-mass by 1.4&#xa0;kg (p&#x2009;<&#x2009;0.001) and fat-free mass increased by 0.9&#xa0;kg (p&#x2009;=&#x2009;0.006). A time-effect was also observed in VOmax, CMJ, 1RM testing, and VRT (all p&#x2009;<&#x2009;0.05). There were no significant differences among interventions. A balanced dietary plan with sufficient nutrient and energy intake promotes body composition optimization and physical fitness, independently of carbohydrate type or timing. This study points towards implementing flexible nutrition interventions, emphasizing the potential of tailored dietary strategies to optimize health and physical fitness. The trial was registered at clinicaltrials.gov as NCT05464342.
+To explore the effects of acute high-intensity interval rope skipping exercise and acute moderate-intensity continuous rope skipping exercise on cognitive function in 9-10-year-old children, this study aims to inform the selection of appropriate jump rope methods for cognitive training in physical activities. A total of 60 students from two classes of fourth grade in a primary school were selected as research subjects. After matching according to gender, they were randomly divided into HIIT group, MICT group and control group. The Digit Span Test (DST),&#xa0;Attention Network Test (ANT) and Stroop Color Word Test were conducted three days before the intervention and 5&#xa0;min after the intervention. During the intervention, the HIIT group performed a high-intensity intermittent rope skipping exercise (required fast jumping with feet together, practice for 1&#xa0;min and rest for 1&#xa0;min, jump continuously for 5 groups, and the exercise intensity is &#x2265;&#x2009;85% of the maximum heart rate), while the MICT group performed a moderate-intensity continuous rope skipping exercise (required to medium jumping with feet together,&#xa0;jump continuously for 5 min,&#xa0;and the exercise intensity is 60-80% of the maximum heart rate), and the control group rests in place. After the intervention, both HIIT and MICT groups showed increased DST total scores, improved executive control network efficiency, and faster inhibitory control response speeds, with no significant changes in accuracy. The HIIT group also exhibited increased orienting network efficiency and no significant changes in accuracy. Acute rope skipping exercises using HIIT and MICT methods can improve the working memory, executive control network efficiency and inhibitory control ability of children aged 9-10 years old. Additionally, conducting acute rope skipping exercises using HIIT method can also enhance their orienting network efficiency.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00394-024-03540-6
+- DOI: 10.1038/s41598-024-80987-x
 
 2. Keywords
-- Body fat
-- Cardiorespiratory fitness
-- Counter movement jump
-- Glycemic index
-- Glycemic load
-- Visual reaction
+- Cognitive function
+- High-intensity intermittent training
+- Moderate-intensity continuous training
+- Rope skipping
 
 3. Key Findings
-- Findings extraction requires manual review
+- After the intervention, both HIIT and MICT groups showed increased DST total scores, improved executive control network efficiency, and faster inhibitory control response speeds, with no significant changes in accuracy
 
 This study provides insights into:
-- Body fat assessment methods and outcomes
-- Cardiorespiratory fitness assessment methods and outcomes
-- Counter movement jump assessment methods and outcomes
+- Cognitive function assessment methods and outcomes
+- High-intensity intermittent training assessment methods and outcomes
+- Moderate-intensity continuous training assessment methods and outcomes

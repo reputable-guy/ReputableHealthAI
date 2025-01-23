@@ -1,27 +1,25 @@
-Study Title: Cognitive behavioural therapy for insomnia reduces actigraphy and diary measured sleep discrepancy for individuals with comorbid insomnia and major depressive disorder: A report from the TRIAD study.
+Study Title: Efficacy and Safety of Dupilumab Treatment with Concomitant Topical Corticosteroids in Children Aged 6&#xa0;Months to 5&#xa0;Years with Severe Atopic Dermatitis.
 
 Study Summary:
-Discrepancies between sleep diaries and actigraphy occur among individuals with insomnia. Cognitive behavioural therapy for insomnia (CBT-I) improves insomnia but the impact on discrepancy is unclear. This study examined CBT-I's effects on actigraphy-diary discrepancy and explored sleep-related beliefs and attitudes as a mediator. Participants were 108 (age M&#xb1;SD&#xa0;=&#xa0;47.23&#xa0;&#xb1;&#xa0;12.42, 67.60&#xa0;% female) adults with insomnia and major depressive disorder from the Treatment of Insomnia and Depression study. They were randomized to 7 sessions of CBT-I or sham Quasi-Desensitization Therapy for Insomnia (DTI), plus 16 weeks of antidepressants. Two weeks of actigraphy and sleep diary were collected at baseline, mid-treatment, end-treatment. Differences between sleep diary and actigraphy total sleep time (TST), sleep onset latency (SOL), wake after sleep onset (WASO), and sleep efficiency (SE) were calculated. Participants completed Dysfunctional Beliefs and Attitudes about Sleep Scale (DBAS) at baseline and mid-treatment. At baseline, diary (versus actigraphy) TST was shorter (1.1&#xa0;&#xb1;&#xa0;1.41h), whilst SOL (21.64&#xa0;&#xb1;&#xa0;41.25min) and WASO (17.45&#xa0;&#xb1;&#xa0;61.99min) were longer. Mixed effects models using daily data showed that after adjusting for age and sex, participants in the CBT-I group (versus DTI) showed greater reduction in all actigraphy-diary discrepancy domains (all p-values<.01), reductions evident from mid-treatment. Group differences on actigraphy-diary discrepancy reductions in TST, SOL, and SE (not WASO) were mediated by changes in DBAS from baseline to mid-treatment (all p-values<.05). Changes in discrepancy did not mediate insomnia symptom changes (p-values>.39). CBT-I reduced actigraphy-diary discrepancy in individuals with comorbid insomnia and depression; this reduction was associated with improved sleep-related attitudes, a therapeutic target of CBT-I. TRIAD (Treatment of Insomnia and Depression): Improving Depression Outcome by Adding Insomnia Therapy to Antidepressants. Prospectively registered with Clinical Trials (NCT00767624). MH078924, MH078961, MH079256.
+Treatment options for children younger than 6&#xa0;years with severe atopic dermatitis (AD) are limited, as systemic immunosuppressants may present safety concerns in this young age group. Dupilumab is the first systemic treatment option approved for infants and young children with severe AD in the European Union. This study reports the efficacy and safety of dupilumab with concomitant low-potency corticosteroids in children aged 6&#xa0;months to 5&#xa0;years with severe AD. This was a pre-specified subgroup analysis of data for patients aged 6&#xa0;months to 5&#xa0;years with severe AD at baseline (Investigator's Global Assessment [IGA]&#x2009;=&#x2009;4) from a randomised, double-blind, placebo-controlled, phase&#xa0;III trial of dupilumab. Patients were randomised to either subcutaneously administered dupilumab (200/300&#xa0;mg) or matched placebo every 4&#xa0;weeks, plus low-potency topical corticosteroids for 16&#xa0;weeks. Co-primary endpoints at week&#xa0;16 were the proportion of patients with IGA&#x2009;&#x2264;&#x2009;1 (clear or almost clear skin) and the proportion of patients with &#x2265;&#x2009;75% improvement from baseline in Eczema Area and Severity Index (EASI-75). Secondary endpoints at week&#xa0;16 included mean changes in EASI, pruritus, skin pain, sleep loss and quality of life. The analysis included 125 patients (63 receiving dupilumab vs. 62 placebo). At week&#xa0;16, significantly more patients receiving dupilumab vs. placebo had achieved IGA&#x2009;&#x2264;&#x2009;1 (14.3% vs. 1.6%; P&#x2009;=&#x2009;0.0085) and EASI-75 (46.0% vs. 6.6%; P&#x2009;<&#x2009;0.0001). Significant improvements with dupilumab were observed in all secondary endpoints, including a least squares mean 48.9% reduction in pruritus. The overall incidence of adverse events (AEs) was similar between the dupilumab and placebo groups (66.7% vs. 73.8%). No dupilumab-related AEs were serious or led to treatment discontinuation. Dupilumab significantly improved AD signs, symptoms and quality of life in children aged 6&#xa0;months to 5&#xa0;years with severe AD with acceptable safety. The trial was registered with ClinicalTrials.gov with ID number NCT03346434, part B.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2023.12.014
+- DOI: 10.1007/s12325-023-02753-1
 
 2. Keywords
-- Actigraphy-diary discrepancy
-- Cognitive behavioural therapy for insomnia
-- Depression
-- Insomnia
-- Randomized controlled trial
-- Sleep-wake state discrepancy
+- Atopic dermatitis
+- Dupilumab
+- Eczema
+- Pediatric dermatology
 
 3. Key Findings
-- Mixed effects models using daily data showed that after adjusting for age and sex, participants in the CBT-I group (versus DTI) showed greater reduction in all actigraphy-diary discrepancy domains (all p-values<
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Actigraphy-diary discrepancy assessment methods and outcomes
-- Cognitive behavioural therapy for insomnia assessment methods and outcomes
-- Depression assessment methods and outcomes
+- Atopic dermatitis assessment methods and outcomes
+- Dupilumab assessment methods and outcomes
+- Eczema assessment methods and outcomes

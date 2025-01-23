@@ -1,28 +1,27 @@
-Study Title: A pilot randomized controlled trial of a virtual peer-support exercise intervention for female older adults with cancer.
+Study Title: Early In-Bed Cycle Ergometry With Critically Ill, Mechanically Ventilated Patients: Statistical Analysis Plan for CYCLE (Critical Care Cycling to Improve Lower Extremity Strength), an International, Multicenter, Randomized Clinical Trial.
 
 Study Summary:
-Regular exercise can mitigate side effects of cancer treatment. However, only a small proportion of adults with cancer meet exercise guidelines, and older adults (>&#x2009;65&#xa0;years) are underrepresented in cancer rehabilitation research. Peer support facilitates health-promoting behaviours in general populations, but interventions merging exercise and peer support for older adults with cancer are not examined. The purpose of this study was to determine the feasibility and preliminary effectiveness of a virtual partner-based peer support exercise intervention for older adult female cancer survivors. Older adult female cancer survivors with internet access and currently participating in&#x2009;<&#x2009;150 min of moderate-vigorous physical activity per week were included in this study. Participants were matched with a partner and given a peer support guide, exercise guidelines, and a Fitbit Inspire&#xa9;. In addition, intervention group dyads (AgeMatchPLUS) had weekly 1-h virtual sessions with a qualified exercise professional for 10 weeks. Dyads randomized to the control group (AgeMatch) independently supported their partner around exercise for 10 weeks. The primary outcome was feasibility, measured using retention and adherence rates. Secondary outcomes included exercise volume, social support, quality of life, physical function, and physical activity enjoyment. Descriptive statistics were used to report feasibility and an ANCOVA was used to explore between group differences on secondary outcomes at post-intervention (10&#xa0;weeks post baseline) and post-tapering timepoints (14&#xa0;weeks post baseline). Eighteen participants (9 dyads; mean age 72 years (SD: 5.7 years)) were included in the pilot trial. Retention and adherence rates to the AgeMatchPLUS intervention were 100% and 95% respectively. All but one participant was satisfied with the quality of their peer match. Preliminary effects were seen between group, favouring AgeMatchPLUS for exercise-related social support post-intervention (effect size (d)&#x2009;=&#x2009;0.27, 95% CI&#x2009;=&#x2009;0,0.54) and physical activity enjoyment at post-tapering (d&#x2009;=&#x2009;0.25, 95% CI&#x2009;=&#x2009;0,0.52) and favouring the AgeMatch group for 30&#xa0;s sit-to-stand repetitions at post-tapering (d&#x2009;=&#x2009;0.31, 95% CI&#x2009;=&#x2009;0.004, 0.57). No other effects were found. A virtual partner-based exercise intervention for older adults with cancer is feasible and shows preliminary effect benefits. Findings inform future trials aimed at increasing exercise in older adults with cancer. Clinicaltrials.gov (ID: NCT05549479, date: 22/09/22).
+Survivors of critical illness are at risk of developing physical dysfunction following intensive care unit (ICU) discharge. ICU-based rehabilitation interventions, such as early in-bed cycle ergometry, may improve patients' short-term physical function. Before unblinding and trial database lock, we describe a prespecified statistical analysis plan (SAP) for the CYCLE (Critical Care Cycling to Improve Lower Extremity Strength) randomized controlled trial (RCT). CYCLE is a 360-patient, international, multicenter, open-label, parallel-group RCT (1:1 ratio) with blinded primary outcome assessment at 3 days post-ICU discharge. The principal investigator and statisticians of CYCLE prepared this SAP with approval from the steering committee and coinvestigators. The SAP defines the primary and secondary outcomes (including adverse events) and describes the planned primary, secondary, and subgroup analyses. The primary outcome of the CYCLE trial is the Physical Function Intensive Care Unit Test-scored (PFIT-s) at 3 days post-ICU discharge. The PFIT-s is a reliable and valid performance-based measure. We plan to use a frequentist statistical framework for all analyses. We will conduct a linear regression to evaluate the primary outcome, incorporating randomization as an independent variable and adjusting for age (&#x2265;65 years versus <65 years) and center. The regression results will be reported as mean differences in PFIT-s scores with corresponding 95% CIs and P values. We consider a 1-point difference in PFIT-s score to be clinically important. Additionally, we plan to conduct 3 subgroup analyses: age (&#x2265;65 years versus <65 years), frailty (Baseline Clinical Frailty Scale &#x2265;5 versus <5), and sex (male versus female). CYCLE was funded in 2017, and enrollment was completed in May 2023. Data analyses are complete, and the first results were submitted for publication in 2024. We developed and present an SAP for the CYCLE RCT and will adhere to it for all analyses. This study will add to the growing body of evidence evaluating the efficacy and safety of ICU-based rehabilitation interventions. ClinicalTrials.gov NCT03471247; https://clinicaltrials.gov/ct2/show/NCT03471247 and NCT02377830; https://clinicaltrials.gov/ct2/show/NCT02377830. RR1-10.2196/54451.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12877-024-05495-z
+- DOI: 10.2196/54451
 
 2. Keywords
-- Aging
-- Cancer
-- Exercise
-- Peer support
-- Physical activity
-- Social support
-- Virtual delivery
+- critical illness
+- cycle ergometry
+- exercise therapy
+- mechanical ventilation
+- recovery of function
+- rehabilitation
 
 3. Key Findings
-- No other effects were found
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Aging assessment methods and outcomes
-- Cancer assessment methods and outcomes
-- Exercise assessment methods and outcomes
+- critical illness assessment methods and outcomes
+- cycle ergometry assessment methods and outcomes
+- exercise therapy assessment methods and outcomes

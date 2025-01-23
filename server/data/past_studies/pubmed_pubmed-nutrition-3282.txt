@@ -1,25 +1,29 @@
-Study Title: Exploring relationships with food after dietary intervention in patients with colorectal cancer: a qualitative analysis from the Protein Recommendations to Increase Muscle (PRIMe) trial.
+Study Title: Dolphin CONTINUE: a multi-center randomized controlled trial to assess the effect of a nutritional intervention on brain development and long-term outcome in infants born before 30&#xa0;weeks of gestation.
 
 Study Summary:
-Patients with cancer often experience nutritional challenges and are vulnerable to muscle mass loss. While substantial research is directed towards understanding how nutritional interventions affect clinical outcomes, insights into patients' personal experiences during these trials remain limited. This qualitative study aimed to gain a deeper understanding of how participation in the Protein Recommendations to Increase Muscle (PRIMe) trial affected patients' relationships with food. A subset of patients who completed a minimum of one follow-up visit in the PRIMe trial participated in a semi-structured interview about their experience implementing dietary modifications to increase protein intake. Data from 26 patients with a recent diagnosis of stage II-IV colorectal cancer (non-cachectic) were included. Interviews were audio recorded, transcribed verbatim, and qualitative content analysis was applied. Most patients were male (65.4%) with stage II or III (69.2%) colorectal cancer and were a mean age of 57&#x2009;&#xb1;&#x2009;10&#xa0;years. Five key themes emerged to provide a deeper understanding of patients' relationship with food after the PRIMe trial: (1) new positive perspectives on nutrition and coping with a cancer diagnosis; (2) embracing a comprehensive approach to food and nutrition; (3) facilitators promoting adherence to the intervention; (4) barriers challenging adherence to the intervention; and (5) shaping future dietary intake. This qualitative study explored the emotional and psychological effects of a clinical nutrition trial on patients, focusing on their relationship with food. It underscored the trial's comprehensive intervention and its enduring influence on patients, extending beyond the immediate intervention phase. The role of current perspectives, motivation, and knowledge acquisition on ability to adhere to dietary changes to increase protein intake were emphasized by patients and are key considerations for both clinicians and researchers. ClinicalTrials.gov Identifier: NCT02788955; registration posted on 2016-06-02.
+Preterm born infants are at risk for brain injury and subsequent developmental delay. Treatment options are limited, but optimizing postnatal nutrition may improve brain- and neurodevelopment in these infants. In pre-clinical animal models, combined supplementation of docosahexaenoic acid (DHA), choline, and uridine-5-monophosphate (UMP) have shown to support neuronal membrane formation. In two randomized controlled pilot trials, supplementation with the investigational product was associated with clinically meaningful improvements in cognitive, attention, and language scores. The present study aims to assess the effect of a similar nutritional intervention on brain development and subsequent neurodevelopmental outcome in infants born very and extremely preterm. This is a randomized, placebo-controlled, double-blinded, parallel-group, multi-center trial. A total of 130 infants, born at less than 30&#xa0;weeks of gestation, will be randomized to receive a test or control product between term-equivalent age and 12&#xa0;months corrected age (CA). The test product is a nutrient blend containing DHA, choline, and UMP amongst others. The control product contains only fractions of the active components. Both products are isocaloric powder supplements which can be added to milk and solid feeds. The primary outcome parameter is white matter integrity at three months CA, assessed using diffusion-tensor imaging (DTI) on MRI scanning. Secondary outcome parameters include volumetric brain development, cortical thickness, cortical folding, the metabolic and biochemical status of the brain, and product safety. Additionally, language, cognitive, motor, and behavioral development will be assessed at 12 and 24&#xa0;months CA, using the Bayley Scales of Infant Development III and digital questionnaires (Dutch version of the Communicative Development Inventories (N-CDI), Ages and Stages Questionnaire 4 (ASQ-4), and Parent Report of Children's Abilities - Revised (PARCA-R)). The investigated nutritional intervention is hypothesized to promote brain development and subsequent neurodevelopmental outcome in preterm born infants who have an inherent risk of developmental delay. Moreover, this innovative study may give rise to new treatment possibilities and improvements in routine clinical care. WHO International Clinical Trials Registry: NL-OMON56181 (registration assigned October 28, 2021).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00520-024-08620-1
+- DOI: 10.1186/s12887-024-04849-1
 
 2. Keywords
-- Behavioral intervention
-- Cancer
+- Brain development
+- Docosahexaenoic acid
+- Language
+- MRI
+- Neurodevelopment
 - Nutrition
-- Qualitative
+- Preterm infant
+- White matter integrity
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Behavioral intervention assessment methods and outcomes
-- Cancer assessment methods and outcomes
-- Nutrition assessment methods and outcomes
+- Brain development assessment methods and outcomes
+- Docosahexaenoic acid assessment methods and outcomes
+- Language assessment methods and outcomes

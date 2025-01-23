@@ -1,28 +1,26 @@
-Study Title: The effect of cognitive behavioral therapy for insomnia on sleep and glycemic outcomes in people with type 2 diabetes: A randomized controlled trial.
+Study Title: Exploring the effect of the menstrual cycle or oral contraception on elite athletes' training responses when workload is not objectively quantifiable: the MILS approach and findings from female Olympians.
 
 Study Summary:
-Investigate whether aiding sleep by online cognitive behavioral therapy for insomnia (CBT-I) can improve glycemic and metabolic control, mood, quality of life (QoL) and insomnia symptoms in people with type 2 diabetes and assess the mediating role of lifestyle factors. Adults with type 2 diabetes and insomnia symptoms were randomly assigned to CBT-I or care as usual. At baseline, three and six months we assessed HbA1c as primary outcome and glycemic control, metabolic outcomes, sleep, mood and QoL as secondary outcomes. Mixed models were used to determine within-person and between-persons differences in outcomes and mediation analysis for lifestyle factors. We randomized 29 participants to CBT-I and 28 to care as usual. Intention-to-treat analysis showed no significant differences in glycemic control, metabolic outcomes, anger, distress or QoL, but showed a significantly larger decrease in insomnia (-1.37(2.65: 0.09)) and depressive symptoms (-0.92(-1.77: 0.06)) and increase in BMI (0.29&#xa0;kg/m(0.00:0.57)) in the intervention compared to the control group. Only half of the intervention participants completed the CBT-I. Per protocol analysis showed a not statistically significant decrease in HbA1c (-2.10&#xa0;mmol/l(-4.83:0.63)) and glucose (-0.39&#xa0;mmol/l(-1.19:0.42)), metabolic outcomes and increase in QoL. Furthermore, the intervention group showed a significant decrease in insomnia (-2.22(-3.65: 0.78)) and depressive symptoms (-1.18(-2.17: 0.19)) compared to the control group. Lifestyle factors partially mediated the effect of the intervention. CBT-I might improve insomnia symptoms and mood, and perhaps improves glycemic control, albeit not significant, in people with type 2 diabetes and insomnia symptoms, compared to care as usual.
+Develop the Markov Index Load State (MILS) model, based on hidden Markov chains, to assess athletes' workload responses and investigate the effects of menstrual cycle (MC)/oral contraception (OC), sex steroids hormones and wellness on elite athletes' training. On a 7-month longitudinal follow-up, daily training (volume and perceived effort, n=2200) and wellness (reported sleep quality and quantity, fitness, mood, menstrual symptoms, n=2509) data were collected from 24 female rowers and skiers preparing for the Olympics. 51 MC and 54 OC full cycles relying on 214 salivary hormone samples were analysed. MC/OC cycles were normalised, converted in % from 0% (first bleeding/pill withdrawal day) to 100% (end). MILS identified three chronic workload response states: 'easy', 'moderate' and 'hard'. A cyclic training response linked to MC or OC (95% CI) was observed, primarily related to progesterone level (p=8.23e-03 and 5.72e-03 for the easy and hard state, respectively). MC athletes predominantly exhibited the 'easy' state during the cycle's first half (8%-53%), transitioning to the 'hard' state post-estimated ovulation (63%-96%). OC users had an increased 'hard' state (4%-32%) during pill withdrawal, transitioning to 'easy' (50%-60%) when on the pill. Wellness metrics influenced the training load response: better sleep quality (p=5.20e-04), mood (p=8.94e-06) and fitness (p=6.29e-03) increased the likelihood of the 'easy' state. Menstrual symptoms increased the 'hard' state probability (p=5.92e-02). The MILS model, leveraging hidden Markov chains, effectively analyses cumulative training load responses. The model identified cyclic training responses linked to MC/OC in elite female athletes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.05.029
+- DOI: 10.1136/bmjsem-2023-001810
 
 2. Keywords
-- Care as usual
-- Cognitive behavioral therapy
-- Insomnia symptoms
-- Metabolic outcomes
-- Type 2 diabetes
+- physical stress
+- rowing
+- skiing
+- statistics
+- women
 
 3. Key Findings
-- Intention-to-treat analysis showed no significant differences in glycemic control, metabolic outcomes, anger, distress or QoL, but showed a significantly larger decrease in insomnia (-1
-- Per protocol analysis showed a not statistically significant decrease in HbA1c (-2
-- Furthermore, the intervention group showed a significant decrease in insomnia (-2
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Care as usual assessment methods and outcomes
-- Cognitive behavioral therapy assessment methods and outcomes
-- Insomnia symptoms assessment methods and outcomes
+- physical stress assessment methods and outcomes
+- rowing assessment methods and outcomes
+- skiing assessment methods and outcomes

@@ -1,28 +1,24 @@
-Study Title: Metabolic Status Influences Probiotic Efficacy for Depression-PRO-DEMET Randomized Clinical Trial Results.
+Study Title: Sacubitril/valsartan and cardiovascular biomarkers among patients with recent COVID-19 infection: The PARACOR-19 randomized clinical trial.
 
 Study Summary:
-Probiotics may represent a safe and easy-to-use treatment option for depression or its metabolic comorbidities. However, it is not known whether metabolic features can influence the efficacy of probiotics treatments for depression. This trial involved a parallel-group, prospective, randomized, double-blind, controlled design. In total, 116 participants with depression received a probiotic preparation containingRosell-52 andRosell-175 or placebo over 60 days. The psychometric data were assessed longitudinally at five time-points. Data for blood pressure, body weight, waist circumference, complete blood count, serum levels of C-reactive protein, cholesterol, triglycerides, and fasting glucose were measured at the beginning of the intervention period. There was no advantage of probiotics usage over placebo in the depression score overall (PRO vs. PLC: F(1.92) = 0.58;= 0.45). However, we found a higher rate of minimum clinically important differences in patients supplemented with probiotics than those allocated to placebo generally (74.5 vs. 53.5%;(1,n = 94) = 4.53;= 0.03; NNT = 4.03), as well as in the antidepressant-treated subgroup. Moreover, we found that the more advanced the pre-intervention metabolic abnormalities (such as overweight, excessive central adipose tissue, and liver steatosis), the lower the improvements in psychometric scores. A higher baseline stress level was correlated with better improvements. The current probiotic formulations may only be used as complementary treatments for depressive disorders. Metabolic abnormalities may require more complex treatments. ClinicalTrials.gov identifier: NCT04756544.
+The PARACOR-19 randomized controlled trial (RCT) was designed to examine the effects of sacubitril/valsartan on markers of cardiac injury, inflammation, structure, and function among patients who have recovered from acute coronavirus disease 2019 (COVID-19) infection. PARACOR-19 was a single-centre, double-blind RCT of patients with cardiovascular risk factors and a history of COVID-19 infection 4-16&#x2009;weeks prior to enrolment. Patients were randomized to sacubitril/valsartan (titrated to the maximum dose of 97/103&#x2009;mg twice daily) versus matching placebo. Co-primary endpoints were change from baseline to 12&#x2009;weeks in high-sensitivity cardiac troponin T (hs-cTnT) and soluble ST2 (sST2). Exploratory endpoints included change from baseline to 12&#x2009;weeks in additional circulating biomarkers. Overall, 42 patients were randomized between August 2021 and March 2023 (n&#x2009;=&#x2009;20 sacubitril/valsartan, n&#x2009;=&#x2009;22 placebo). Median (25th-75) time from COVID-19 diagnosis to enrolment was 67 (48-80) days. Median age was 67 (62-71) years, 48% were female, and 91% were White. Compared with placebo, sacubitril/valsartan did not have a significant effect on the co-primary endpoints of change from baseline in hs-TnT and sST2 (all p&#x2009;&#x2265;&#x2009;0.29). In exploratory analyses, sacubitril/valsartan led to a 46% greater reduction in N-terminal pro-B-type natriuretic peptide (NT-proBNP) and 51% greater reduction in C-terminal telopeptide of collagen type I (CITP). Permanent drug discontinuation occurred in four patients in the sacubitril/valsartan group and three patients in the placebo group. There were no deaths and one patient was hospitalized in each group. In this pilot RCT of patients who recovered from acute COVID-19, sacubitril/valsartan did not lower hs-cTnT or sST2 compared with placebo. Exploratory analyses suggested potential benefits of sacubitril/valsartan on cardiac wall stress and collagen turnover as measured by NT-proBNP and CITP. Sacubitril/valsartan was well tolerated. ClinicalTrials.gov NCT04883528.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16091389
+- DOI: 10.1002/ejhf.3199
 
 2. Keywords
-- abdominal obesity
-- anxiety
-- depression
-- metabolic syndrome
-- probiotics
-- stress
+- Biomarkers
+- COVID&#x2010;19
+- Sacubitril/valsartan
 
 3. Key Findings
-- However, we found a higher rate of minimum clinically important differences in patients supplemented with probiotics than those allocated to placebo generally (74
-- Moreover, we found that the more advanced the pre-intervention metabolic abnormalities (such as overweight, excessive central adipose tissue, and liver steatosis), the lower the improvements in psychometric scores
+- Findings extraction requires manual review
 
 This study provides insights into:
-- abdominal obesity assessment methods and outcomes
-- anxiety assessment methods and outcomes
-- depression assessment methods and outcomes
+- Biomarkers assessment methods and outcomes
+- COVID&#x2010;19 assessment methods and outcomes
+- Sacubitril/valsartan assessment methods and outcomes

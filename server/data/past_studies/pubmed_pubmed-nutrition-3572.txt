@@ -1,30 +1,26 @@
-Study Title: Neurodevelopmental Outcome in Very Preterm Infants Randomised to Receive Two Different Standardised, Concentrated Parenteral Nutrition Regimens.
+Study Title: Effects of an Individualized vs. Standardized Vitamin D Supplementation on the 25(OH)D Level in Athletes.
 
 Study Summary:
-We have previously shown that increasing parenteral protein (target: 3.8 versus 2.8 g/kg/d) and energy (12% versus 10% glucose; 3.8 versus 2.8 g/kg/d) intake using a Standardised, Concentrated with Added Macronutrients Parenteral (SCAMP) nutrition regimen ameliorates early head growth failure in very-preterm infants (VPIs). We hypothesised that the SCAMP nutrition regimen would also improve neurodevelopmental outcome. The original double-blind randomised, controlled study (ISRCTN: 76597892) received ethical approval. VPIs were randomised to either start SCAMP or remain on the control regimen. The consent process included neurodevelopmental assessments (Bayley III), all of which were performed (blinded) at 2-3.5 years of corrected gestational age. Bayley III assessments were performed for 38/60 SCAMP survivors and 41/63 control survivors at means of (sd) 29.2 (3.7) and 20.0 (3.9) months, respectively. Motor, cognitive, language, and combined scores were all higher in the SCAMP intervention group, but none of the differences were statistically significant. Nutrient intake and biochemical monitoring data confirmed that protein/energy ratios were maintained in the SCAMP intervention group without increasing the incidence of hyperglycaemia, insulin treatment, or the derangement of plasma mineral/electrolyte levels. This study did not show a statistically significant improvement in neurodevelopmental outcome when administering higher parenteral protein/energy intakes despite optimal energy and mineral intakes.
+Vitamin D is crucial to the health and performance of athletes. Although the exact vitamin D requirements for athletes have not been established, maintaining a 25(OH)D level of at least 40 ng/mL is considered beneficial. This randomized controlled intervention study aimed to determine whether an individual loading dose formula for vitamin D supplementation is more effective than standardized supplementation and suitable enough for athletes to meet a target value of 40 ng/mL. In a 10-week supplementation study conducted during the winter months in Germany, 90 athletes with insufficient vitamin D levels (25(OH)D < 30 ng/mL) were randomly assigned to receive either a universal dose of 2000 IU/day of vitamin D or a loading dose of 4000 IU/day, followed by a maintenance dose of 1000 IU/day. The total 25(OH)D concentration was measured from dried blood spots at three time points: at baseline, at the computed date of 40 ng/mL, and after the 10-week period. Additionally, a vitamin-D-specific questionnaire was issued. On the day when 25(OH)D blood concentrations of 40 ng/mL were calculated to prevail, the individualized group had a significantly higher 25(OH)D level than the standardized group (41.1 &#xb1; 10.9 ng/mL vs. 32.5 &#xb1; 6.4 ng/mL,< 0.001). This study demonstrated that the examined formula is suitable enough for athletes to achieve a 25(OH)D concentration of 40 ng/mL. This indicates that a personalized approach is more effective than a one-size-fits-all approach in restoring adequate vitamin D levels in athletes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15224741
+- DOI: 10.3390/nu15224747
 
 2. Keywords
-- energy
-- hyperglycaemia
-- hypokalaemia
-- hypophosphataemia
-- insulin
-- neurodevelopment
-- parenteral nutrition
-- preterm
-- protein
+- individualization
+- microsampling
+- personalized nutrition
+- sports nutrition
+- vitamin D
 
 3. Key Findings
-- Findings extraction requires manual review
+- This study demonstrated that the examined formula is suitable enough for athletes to achieve a 25(OH)D concentration of 40 ng/mL
 
 This study provides insights into:
-- energy assessment methods and outcomes
-- hyperglycaemia assessment methods and outcomes
-- hypokalaemia assessment methods and outcomes
+- individualization assessment methods and outcomes
+- microsampling assessment methods and outcomes
+- personalized nutrition assessment methods and outcomes

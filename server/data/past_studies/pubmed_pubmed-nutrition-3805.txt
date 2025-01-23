@@ -1,26 +1,31 @@
-Study Title: Establishment and evaluation of a novel practical tool for the diagnosis of pre-sarcopenia in young people with diabetes mellitus.
+Study Title: Feeding Practices and Dietary Diversity in the First Year of Life: PreventADALL, a Scandinavian Randomized Controlled Trial and Birth Cohort Study.
 
 Study Summary:
-Sarcopenia has been recognized as a third category of complications in people with diabetes. However, few studies focus on the reduction of skeletal muscle mass in young people with diabetes. The aim of this study was to investigate risk factors of pre-sarcopenia in young patients with diabetes and establish a practical tool to diagnose pre-sarcopenia in those people. Patients (n&#x2009;=&#x2009;1246) enrolled from the National Health and Nutrition Examination Survey (NHANES) cycle year of 2011 to 2018 were randomly divided into the training set and validation set. The all-subsets regression analysis was used to select the risk factors of pre-sarcopenia. A nomogram model for the prediction of pre-sarcopenia in the diabetic population was established based on the risk factors. The model was evaluated by the area under the receiver operating characteristic curve for discrimination, calibration curves for calibration, and decision curve analysis curves for clinical utility. In this study, gender, height, and waist circumference were elected as predictive factors for pre-sarcopenia. The nomogram model presented excellent discrimination in training and validation sets with areas under the curve of 0.907 and 0.912, respectively. The calibration curve illustrated excellent calibration, and the decision curve analysis showed a wide range of good clinical utility. This study develops a novel nomogram that integrates gender, height, and waist circumference and can be used to easily predict pre-sarcopenia in diabetics. The novel screen tool is accurate, specific, and low-cost, highlighting its potential value in clinical application.
+Breastmik is considered the optimal source of nutrition in early infancy. However, recommendations and practices for when and how complementary food should be introduced in the first year of life vary worldwide. Early introduction of allergenic foods may prevent food allergies, but if early food introduction influences infant feeding practices is less known. We sought to assess infant feeding practices in the first year of life and to determine if early interventional food introduction influences breastfeeding and dietary diversity. Dietary intake was assessed in infants from the population-based clinical trial Preventing Atopic Dermatitis and ALLergies (PreventADALL) in children study. A total of 2397 infants were cluster-randomized at birth into 4 different groups: 1) control, 2) skin intervention, 3) introduction to 4 allergenic foods between 3 and 4 mo of age: peanut, cow milk, wheat, and egg, as small tastings until 6 mo, and 4) combined skin and food interventions. Dietary data were available from at least one of the 3-, 6-, 9-, and 12-mo questionnaires in 2059 infants. In the present analysis, groups 1 and 2 constitute the No Food Intervention group, whereas groups 3 and 4 constitute the Food Intervention group. We used the log-rank test and Cox regression to assess the impact of food intervention on age of breastfeeding cessation. Mixed effects logistic regression was used to compare dietary diversity, defined as the number of food categories consumed, between intervention groups. At 3, 6, 9, and 12 mo, 95%, 88%, 67%, and 51% were breastfed, respectively, and breastfeeding duration was not affected by the food intervention. In the No Food Intervention group, mean age of complementary food introduction was 18.3 wk (confidence interval [CI]: 18.1, 18.5). In the Food Intervention group, the dietary diversity score was 1.39 units (CI: 1.16, 1.62) higher at 9 mo (P < 0.001) and 0.7 units (CI: 0.5, 0.9) higher at 12 mo (P < 0.001) compared to the No Food Intervention group. Early food intervention did not affect breastfeeding rates and increased dietary diversity at 9 and 12 mo.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.1186/s12967-023-04261-w
+- Publication Date: 2024
+- DOI: 10.1016/j.tjnut.2023.06.015
 
 2. Keywords
-- Diabetes mellitus
-- NHANES
-- Nomogram
-- Pre-sarcopenia
-- Skeletal muscle mass
+- PreventADALL
+- breastfeeding
+- complementary food
+- diet diversity
+- early food introduction
+- food diversity
+- infant diet
+- infant feeding
+- infant feeding practices
+- solid food
 
 3. Key Findings
-- The calibration curve illustrated excellent calibration, and the decision curve analysis showed a wide range of good clinical utility
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Diabetes mellitus assessment methods and outcomes
-- NHANES assessment methods and outcomes
-- Nomogram assessment methods and outcomes
+- PreventADALL assessment methods and outcomes
+- breastfeeding assessment methods and outcomes
+- complementary food assessment methods and outcomes

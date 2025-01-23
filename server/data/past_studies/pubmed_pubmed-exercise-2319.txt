@@ -1,27 +1,27 @@
-Study Title: The ventilatory efficiency parameters outperform peak oxygen consumption in monitoring the therapy effects in patients with hypertrophic cardiomyopathy.
+Study Title: The effect of recreational therapy application on fatigue in hemodialysis patients: a randomized clinical trial.
 
 Study Summary:
-We sought the cardiopulmonary exercise testing (CPET) parameter that most accurately reflected therapeutic efficacy in patients with hypertrophic cardiomyopathy (HCM). Well-being questionnaire, N-terminal brain natriuretic peptide measurements, echocardiography, and CPET were performed in patients with symptomatic non-obstructive HCM during phase II, randomized, open-label multicentre study, before and after 16&#xa0;weeks of traditional or sacubitril/valsartan treatment. Patients were followed 36&#xa0;months after the initial CPET. Primary endpoints were changes in: 1) peak oxygen consumption (VO); 2) VOat anaerobic threshold (AT); 3) oxygen pulse; 4) minute ventilation (VE)/carbon-dioxide (CO) production slope; 5) VE/VCOat AT (VE/VCO_AT); 6) VE/VCOnadir; 7) VE/VCOintercept; and 8) partial end-tidal pressure of carbon-dioxide (PCO) change during CPET. Of 115 screened patients, 61 (52&#xa0;&#xb1;&#xa0;14&#xa0;years, 43&#xa0;% women) were included. Within subject therapy effects were detected only by the VE/VCOintercept and PCOchange, whereas the differences between medical regimens were detected by differences in VE/VCOnadir and VE/VCO_AT changes after the treatment. The best predictors of the change in well-being were left ventricular outflow tract maximal gradient and VE/VCOintercept (B&#xa0;=&#xa0;0.41,0.36; SE&#xa0;=&#xa0;0.16,0.30; CI&#xa0;=&#xa0;0.14-0.79, 0.15-1.14; p&#xa0;=&#xa0;0.006,0.016, respectively). Adverse cardiac events were best predicted by the initial VE/VCOnadir. Ventilatory efficiency parameters outperform peak VOin gauging therapy effects in patients with HCM.
+Chronic Kidney Disease (CKD) is a progressive disorder that often leads to End-Stage Renal Disease (ESRD), necessitating hemodialysis (HD) treatment. Fatigue is a prevalent and debilitating symptom among HD patients, significantly affecting their quality of life. Recreational Therapy (RT) is a therapeutic recreational service designed to maintain and restore a person's level of performance and independence in daily activities. This study aimed to evaluate the effect of a smartphone-based recreational therapy intervention on fatigue in hemodialysis patients. This randomized controlled trial was conducted on HD patients at a hospital in Mashhad, Iran. The intervention group received a custom-designed recreational therapy mobile application, including music, comedy, exercise, and educational content. The control group received standard care. Fatigue was assessed using the Multidimensional Fatigue Inventory (MFI-20) before and after the 30-day intervention. A total of 72 patients (36 per group) participated in the study. The intervention group demonstrated a significant reduction in overall fatigue scores and improvements across various fatigue dimensions, including general fatigue, physical fatigue, mental fatigue, reduced activity, and reduced motivation, compared to the control group (p&#x2009;<&#x2009;0.001). The smartphone-based recreational therapy intervention effectively reduced fatigue in hemodialysis patients. This approach could be a valuable complementary strategy for managing fatigue in this population. Further research is needed to explore the long-term sustainability of these benefits and the intervention's impact on other patient-reported outcomes. This study was registered in the Iranian Registry of Clinical Trials (no. IRCT20220803055608N1) on 29/08/2022.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.pcad.2024.10.005
+- DOI: 10.1186/s12882-024-03807-4
 
 2. Keywords
-- Cardiopulmonary exercise testing
-- Hypertrophic cardiomyopathy
-- Therapy effects
-- VE/VCO(2) intercept
-- VE/VCO(2) nadir
-- Ventilatory efficiency
+- Chronic kidney disease
+- Fatigue
+- Hemodialysis
+- Mobile application
+- Recreational therapy
+- Telemedicine
 
 3. Key Findings
-- Findings extraction requires manual review
+- The intervention group demonstrated a significant reduction in overall fatigue scores and improvements across various fatigue dimensions, including general fatigue, physical fatigue, mental fatigue, reduced activity, and reduced motivation, compared to the control group (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- Cardiopulmonary exercise testing assessment methods and outcomes
-- Hypertrophic cardiomyopathy assessment methods and outcomes
-- Therapy effects assessment methods and outcomes
+- Chronic kidney disease assessment methods and outcomes
+- Fatigue assessment methods and outcomes
+- Hemodialysis assessment methods and outcomes

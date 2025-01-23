@@ -1,28 +1,26 @@
-Study Title: Dietary Intake Assessment Using a Novel, Generic Meal-Based Recall and a 24-Hour Recall: Comparison Study.
+Study Title: The Association Between Malnutrition and High Protein Treatment on Outcomes in Critically Ill Patients: A Post Hoc Analysis of the EFFORT Protein Randomized Trial.
 
 Study Summary:
-Dietary intake assessment is an integral part of addressing suboptimal dietary intakes. Existing food-based methods are time-consuming and burdensome for users to report the individual foods consumed at each meal. However, ease of use is the most important feature for individuals choosing a nutrition or diet app. Intakes of whole meals can be reported in a manner that is less burdensome than reporting individual foods. No study has developed a method of dietary intake assessment where individuals report their dietary intakes as whole meals rather than individual foods. This study aims to develop a novel, meal-based method of dietary intake assessment and test its ability to estimate nutrient intakes compared with that of a web-based, 24-hour recall (24HR). Participants completed a web-based, generic meal-based recall. This involved, for each meal type (breakfast, light meal, main meal, snack, and beverage), choosing from a selection of meal images those that most represented their intakes during the previous day. Meal images were based on generic meals from a previous study that were representative of the actual meal intakes in Ireland. Participants also completed a web-based 24HR. Both methods were completed on the same day, 3 hours apart. In a crossover design, participants were randomized in terms of which method they completed first. Then, 2 weeks after the first dietary assessments, participants repeated the process in the reverse order. Estimates of mean daily nutrient intakes and the categorization of individuals according to nutrient-based guidelines (eg, low, adequate, and high) were compared between the 2 methods. P values of less than .05 were considered statistically significant. In total, 161 participants completed the study. For the 23 nutrient variables compared, the median percentage difference between the 2 methods was 7.6% (IQR 2.6%-13.2%), with P values ranging from <.001 to .97, and out of 23 variables, effect sizes for the differences were small for 19 (83%) variables, moderate for 2 (9%) variables, and large for 2 (9%) variables. Correlation coefficients were statistically significant (P<.05) for 18 (78%) of the 23 variables. Statistically significant correlations ranged from 0.16 to 0.45, with median correlation of 0.32 (IQR 0.25-0.40). When participants were classified according to nutrient-based guidelines, the proportion of individuals who were classified into the same category ranged from 52.8% (85/161) to 84.5% (136/161). A generic meal-based method of dietary intake assessment provides estimates of nutrient intake comparable with those provided by a web-based 24HR but with varying levels of agreement among nutrients. Further studies are required to refine and improve the generic recall across a range of nutrients. Future studies will consider user experience including the potential feasibility of incorporating image recognition of whole meals into the generic recall.
+Preexisting malnutrition in critically ill patients is associated with adverse clinical outcomes. Malnutrition can be diagnosed with the Global Leadership Initiative on Malnutrition using parameters such as weight loss, muscle wasting, and BMI. International critical care nutrition guidelines recommend high protein treatment to improve clinical outcomes in critically ill patients diagnosed with preexisting malnutrition. However, this recommendation is based on expert opinion. In critically ill patients, what is the association between preexisting malnutrition and time to discharge alive (TTDA), and does high protein treatment modify this association? This multicenter randomized controlled trial involving 16 countries was designed to investigate the effects of high vs&#xa0;usual protein treatment in 1,301 critically ill patients. The primary outcome was TTDA. Multivariable regression was used to identify if preexisting malnutrition was associated with TTDA and if protein delivery modified their association. The prevalence of preexisting malnutrition was 43.8%, and the cumulative incidence of live hospital discharge by day 60 was 41.2%&#xa0;vs&#xa0;52.9%&#xa0;in the groups with and without preexisting malnutrition, respectively. The average protein delivery in the high vs&#xa0;usual treatment groups was 1.6 g/kg per day vs&#xa0;0.9 g/kg per day. Preexisting malnutrition was independently associated with slower TTDA (adjusted hazard ratio, 0.81; 95%&#xa0;CI, 0.67-0.98). However, high protein treatment in patients with and without preexisting malnutrition was not associated with TTDA (adjusted hazard ratios of 0.84 [95%&#xa0;CI, 0.63-1.11] and 0.97 [95%&#xa0;CI, 0.77-1.21]). Furthermore, no effect modification was observed (ratio of adjusted hazard ratio, 0.84; 95%&#xa0;CI, 0.58-1.20). Malnutrition was associated with slower TTDA, but high protein treatment did not modify the association. These findings challenge current international critical care nutrition guidelines. ClinicalTrials.gov; No.: NCT03160547; URL: www. gov.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/48817
+- DOI: 10.1016/j.chest.2024.02.008
 
 2. Keywords
-- 24-hour recall
-- dietary intake assessment
-- eating behaviors
-- eating occasions
-- meal patterns
-- nutrition assessment
-- relative validity
+- GLIM
+- NUTRIC
+- critically ill patients
+- malnutrition
+- protein
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- 24-hour recall assessment methods and outcomes
-- dietary intake assessment assessment methods and outcomes
-- eating behaviors assessment methods and outcomes
+- GLIM assessment methods and outcomes
+- NUTRIC assessment methods and outcomes
+- critically ill patients assessment methods and outcomes

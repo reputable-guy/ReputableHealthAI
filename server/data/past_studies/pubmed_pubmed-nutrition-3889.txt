@@ -1,31 +1,26 @@
-Study Title: LIFEHOUSE's Functional Nutrition Examination (Physical Exam, Anthropometrics, and Selected Biomarkers) Informs Personalized Wellness Interventions.
+Study Title: Feasibility of an Individualized mHealth Nutrition (iNutrition) Intervention for Post-Discharged Gastric Cancer Patients Following Gastrectomy: A Randomized Controlled Pilot Trial.
 
 Study Summary:
-Each individual has a unique and interacting set of genetic, lifestyle, and environmental factors that are reflected in their physical exam and laboratory biomarkers and significantly impact their experience of health. Patterns of nutrient deficiency signs and biomarker levels below health-promoting thresholds have been identified in national nutrition surveys. However, identifying these patterns remains a challenge in clinical medicine for many reasons, including clinician training and education, clinical time restraints, and the belief that these signs are both rare and recognizable only in cases of severe nutritional deficiencies. With an increased interest in prevention and limited resources for comprehensive diagnostic evaluations, a functional nutrition evaluation may augment patient-centered screening evaluations and personalized wellness programs. During LIFEHOUSE, we have documented physical exam, anthropometric, and biomarker findings that may increase the recognition of these wellness-challenging patterns in a population of 369 adult employees working in two occupational areas: administrative/sales and manufacturing/warehouse. Distinct and significant physical exam differences and constellations of biomarker abnormalities were identified. We present these patterns of physical exam findings, anthropometrics, and advanced biomarkers to assist clinicians in diagnostic and therapeutic interventions that may stem the loss of function that precedes the development of the non-communicable chronic diseases of aging.
+(1) Background: A major challenge for post-discharged gastric cancer patients following gastrectomy is the impact of the anatomy change on decreased oral intake, nutritional status, and, ultimately, quality of life. The purpose of this study is to examine the feasibility and preliminary effects of an individualized mHealth nutrition (iNutrition) intervention in post-discharged gastric cancer patients following gastrectomy. (2) Methods: A mixed-method feasibility study with a parallel randomized controlled design was conducted. Patients were randomly assigned to either the iNutrition intervention group (= 12) or the control group (= 12). Participants completed measures at baseline (T0), four (T1), and twelve weeks (T2) post-randomization. (3) Results: Recruitment (33%) and retention (87.5%) rates along with high adherence and acceptability supported the feasibility of the iNutrition intervention for post-discharged gastric cancer patients following gastrectomy, echoed by the qualitative findings. The iNutrition intervention significantly improved participants' nutritional behavior (= 0.005), energy intake (= 0.038), compliance with energy requirements (= 0.006), and compliance with protein requirements (= 0.008). (4) Conclusions: The iNutrition intervention is feasible and potentially benefits post-discharged gastric cancer patients following gastrectomy. A larger trial is required to establish the efficacy of this approach. Trial Registration: 19 October 2022 Chinese Clinical Trial Registry, ChiCTR2200064807.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/jpm13040594
+- DOI: 10.3390/nu15081883
 
 2. Keywords
-- LIFEHOUSE
-- biomarkers
-- functional medicine
-- nutrient deficiency
-- nutrient insufficiency
-- nutrients
-- pattern recognition
-- personalized lifestyle medicine
-- physical examination
-- &#x2018;N-of-1&#x2019; trials
+- gastric cancer
+- mobile health
+- nutrition intervention
+- nutritional behavior
+- randomized controlled trial
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- LIFEHOUSE assessment methods and outcomes
-- biomarkers assessment methods and outcomes
-- functional medicine assessment methods and outcomes
+- gastric cancer assessment methods and outcomes
+- mobile health assessment methods and outcomes
+- nutrition intervention assessment methods and outcomes

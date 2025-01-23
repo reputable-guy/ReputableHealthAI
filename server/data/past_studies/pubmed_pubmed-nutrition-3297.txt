@@ -1,24 +1,26 @@
-Study Title: Preterm Infants on Early Solid Foods and Neurodevelopmental Outcome-A Secondary Outcome Analysis of a Randomized Controlled Trial.
+Study Title: Addressing Pain Using a Mediterranean Ketogenic Nutrition Program in Older Adults with Mild Cognitive Impairment.
 
 Study Summary:
-There are no evidence-based recommendations regarding the introduction of solid foods in preterm infants. The objective of this study was to investigate whether age at the introduction of solid foods affects neurodevelopmental outcomes. This study focuses on analyzing secondary outcomes from a prospective trial involving very low birth weight infants who were randomly assigned to either an early (10-12th week corrected age) or a late (16-18th week corrected age) complementary feeding group. The study evaluated neurodevelopmental outcomes at one and two years of corrected age, as well as at three years and four months of uncorrected age by utilizing Bayley scales. In total, 89 infants were assigned to the early and 88 infants to the late group, all with a mean gestational age of 27 + 1 weeks. A linear mixed-effects model was used to compare neurodevelopmental outcomes across the study groups, taking into account variables such as gestational age at birth, sex, nutrition at discharge, parents' highest education level, and high-grade intraventricular hemorrhage. The analysis did not reveal any significant differences between the groups. The timepoint of the introduction of solid foods had no impact on neurodevelopmental outcomes at one and two years of corrected age, and at three years and four months of uncorrected age.
+Chronic pain has negative physical and cognitive consequences in older adults and may lead to a poorer quality of life. Mediterranean ketogenic nutrition (MKN) is a promising nonpharmacological intervention for pain management, but long-term adherence is challenging due to the carbohydrate restrictive diet regimen. The main objective of this study was to evaluate the effects of the pilot MKN Adherence (MKNA) Program on pain in older adults with mild cognitive impairment and to assess whether improvements in self-reported pain were associated with adherence to MKN. Older adults (N = 58) aged 60-85 with possible mild cognitive impairment were randomized to a 6-week MKNA arm or an MKN Education (MKNE) program arm. Both arms received the same nutrition education and group format; however, the MKNA arm received additional motivational interviewing and cognitive behavioral skills to enhance adherence. Changes in self-reported pain (Brief Pain Inventory, Roland Morris, Patient's Global Impression of Change) and adherence to MKN (ketone levels, self-reported adherence) were assessed at baseline, 6-weeks, and 3-months post intervention. Both arms showed clinically significant reductions in pain. Greater adherence to MKN across the 6-week intervention was associated with higher ratings of pain-related changes on the Patient's Global Impression of Change scale. Based on these findings, adherence to MKN may promote improvements in self-reported pain in older adults with mild cognitive impairment and findings support the need for future full-scale randomized clinical trials evaluating MKN programs on pain. Trial Registration: Clinicaltrials.gov ID: NCT04817176.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16101528
+- DOI: 10.2147/JPR.S451236
 
 2. Keywords
-- neurodevelopmental outcome
-- preterm infants
-- solid foods
+- adherence
+- chronic pain
+- ketogenic diet
+- ketosis
+- nutrition program
 
 3. Key Findings
-- Findings extraction requires manual review
+- Both arms showed clinically significant reductions in pain
 
 This study provides insights into:
-- neurodevelopmental outcome assessment methods and outcomes
-- preterm infants assessment methods and outcomes
-- solid foods assessment methods and outcomes
+- adherence assessment methods and outcomes
+- chronic pain assessment methods and outcomes
+- ketogenic diet assessment methods and outcomes

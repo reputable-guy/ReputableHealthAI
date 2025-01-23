@@ -1,28 +1,26 @@
-Study Title: A randomized controlled mHealth trial that evaluates social comparison-oriented gamification to improve physical activity, sleep quantity, and quality of life in young adults.
+Study Title: Concentration-effect relationships of plasma caffeine on EEG delta power and cardiac autonomic activity during human sleep.
 
 Study Summary:
-The integration of gamification in mHealth interventions presents a novel approach to enhance user engagement and health outcomes. This study aims to evaluate whether comparison-oriented gamification can effectively improve various aspects of health and well-being, including physical activity, sedentary behavior, sleep, and overall quality of life among young adults. Potential 107 young adults (from 19 to 28 years old) participated in an 8-week trial. Participants were assigned to either a gamified mHealth intervention (LevantApp) with daily leaderboards and progress bars (n&#xa0;=&#xa0;53, 26&#xa0;% dropped-out), or a control condition without gamification (n&#xa0;=&#xa0;52, 29&#xa0;% dropped-out). Physical activity (number of steps, moderate and moderate-to-vigorous physical activity -MVPA-) and sleep quantity were measured objectively via accelerometry and subjectively using the International Physical Activity Questionnaire(IPAQ), Pittsburgh Sleep Quality Index(PSQI), Sedentary Behavior Questionnaire(SBQ), and Short Form Health Survey(SF-36). This mHealth intervention with social comparison-oriented gamification significantly improved moderate physical activity to a greater extent than the control group. Additionally, the intervention group showed improvements in the number of steps, moderate physical activity, sedentary time, emotional wellbeing, and social functioning. However, no significant group by time interaction was observed. No significant differences were observed in sleep quality or quantity. s: The LevantApp gamified mHealth intervention was effective in improving moderate physical activity, physical functioning, and role-emotional in young adults. No significant effects were found on step counts, MVPA or sleep, suggesting that while gamification can enhance specific aspects of physical activity and quality of life, its impact may vary across different outcomes.
+Acute caffeine intake affects brain and cardiovascular physiology, yet the concentration-effect relationships on the electroencephalogram and cardiac autonomic activity during sleep are poorly understood. To tackle this question, we simultaneously quantified the plasma caffeine concentration with ultra-high-performance liquid chromatography, as well as the electroencephalogram, heart rate and high-frequency (0.15-0.4&#x2009;Hz) spectral power in heart rate variability, representing parasympathetic activity, with standard polysomnography during undisturbed human sleep. Twenty-one healthy young men in randomized, double-blind, crossover fashion, ingested 160&#x2009;mg caffeine or placebo in a delayed, pulsatile-release caffeine formula at their habitual bedtime, and initiated a 4-hr sleep opportunity 4.5&#x2009;hr later. The mean caffeine levels during sleep exhibited high individual variability between 0.2 and 18.4&#x2009;&#x3bc;mol&#x2005;L. Across the first two non-rapid-eye-movement (NREM)-rapid-eye-movement sleep cycles, electroencephalogram delta (0.75-2.5&#x2009;Hz) activity and heart rate were reliably modulated by waking and sleep states. Caffeine dose-dependently reduced delta activity and heart rate, and increased high-frequency heart rate variability in NREM sleep when compared with placebo. The average reduction in heart rate equalled 3.24&#x2009;&#xb1;&#x2009;0.77 beats per minute. Non-linear statistical models suggest that caffeine levels above ~7.4&#x2009;&#x3bc;mol&#x2005;Ldecreased electroencephalogram delta activity, whereas concentrations above ~4.3&#x2009;&#x3bc;mol&#x2005;Land ~&#x2009;4.9&#x2009;&#x3bc;mol&#x2005;L, respectively, reduced heart rate and increased high-frequency heart rate variability. These findings provide quantitative concentration-effect relationships of caffeine, electroencephalogram delta power and cardiac autonomic activity, and suggest increased parasympathetic activity during sleep after intake of caffeine.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.psychsport.2024.102590
+- DOI: 10.1111/jsr.14140
 
 2. Keywords
-- Motivation
-- Physical activity
-- Sedentary behavior
-- Steps
-- Wearable device
-- mHealth
+- adenosine receptors
+- heart rate variability
+- sleep homeostasis
+- sleep restriction
+- time&#x2010;controlled caffeine release
 
 3. Key Findings
-- Additionally, the intervention group showed improvements in the number of steps, moderate physical activity, sedentary time, emotional wellbeing, and social functioning
-- No significant effects were found on step counts, MVPA or sleep, suggesting that while gamification can enhance specific aspects of physical activity and quality of life, its impact may vary across different outcomes
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Motivation assessment methods and outcomes
-- Physical activity assessment methods and outcomes
-- Sedentary behavior assessment methods and outcomes
+- adenosine receptors assessment methods and outcomes
+- heart rate variability assessment methods and outcomes
+- sleep homeostasis assessment methods and outcomes

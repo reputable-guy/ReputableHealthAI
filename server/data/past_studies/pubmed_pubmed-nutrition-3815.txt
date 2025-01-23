@@ -1,27 +1,28 @@
-Study Title: Inflammatory Mediators and Type 2 Diabetes Risk Factors before and in Response to Lifestyle Intervention among Latino Adolescents with Obesity.
+Study Title: Effect of Oral Nutritional Supplementation on Adequacy of Nutrient Intake among Picky-Eating Children at Nutritional Risk in India: A Randomized Double Blind Clinical Trial.
 
 Study Summary:
-Obesity is associated with chronic inflammation that may contribute to T2D among youth. We examined the association between inflammatory biomarkers and insulin sensitivity and &#x3b2;-cell function and response to lifestyle intervention among Latino youth with obesity. Latino youth (n = 64) were randomized to six months of lifestyle intervention (INT, n = 40) or usual care (UC, n = 24). INT included nutrition education and physical activity. UC involved meeting with a pediatric endocrinologist and registered dietitian to discuss healthy lifestyles. At baseline, multiple linear regression assessed fasting serum interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-&#x3b1;), monocyte chemoattractant protein-1 (MCP-1), high-molecular weight adiponectin (HMW Adpn), IL-10, IL-1 receptor antagonist (IL-1ra) as predictors of insulin sensitivity (whole-body insulin sensitivity index, WBISI) and &#x3b2;-cell function (oral disposition index, oDI). Changes in outcomes between groups were assessed using covariance pattern models. At baseline, MCP-1 (&#x3b2; &#xb1; SE, -0.12 &#xb1; 0.05,= 0.027) and IL-1ra (-0.03 &#xb1; 0.01,= 0.005) were negatively associated with WBISI. Treatment effects were not observed for inflammatory markers. WBISI was significantly increased among both INT (from 1.8 &#xb1; 0.2 to 2.6 &#xb1; 0.4,= 0.005) and UC (from 1.6 &#xb1; 0.2 to 2.8 &#xb1; 0.5,= 0.002) with no significant differences between the groups. Obesity-related inflammatory mediators were associated with T2D risk factors but were unaffected by lifestyle intervention among Latino youth.
+Nutrient inadequacies among picky-eaters have adverse effects on growth and development. Oral nutritional supplements (ONS) along with dietary counseling (DC), rather than DC alone as reported in our earlier publication, promoted growth among picky-eating Indian children aged from >24 m to &#x2264;48 m with weight-for-height percentiles lying between the 5th and 25th (based on WHO Growth Standards) over 90 days. This paper presents the contribution of ONS to nutrient adequacy, dietary diversity, and food consumption patterns in children (N = 321). Weight, height, and dietary intakes, using 24-h food recalls, were measured at baseline (Day 1) and at Days 7, 30, 60, and 90. Nutrient adequacy, dietary diversity score (DDS), and food intake adequacy were calculated in both the supplementation groups (ONS1 + DC and ONS2 + DC; n = 107 in each group) and the control group (DC-only; n = 107). Supplements increased nutrient adequacy in both of the ONS + DC groups relative to control (< 0.05). The proportions of children with adequate nutrient intakes increased significantly at Day 90 in the supplemented groups as compared to in the control group (< 0.05), especially for total fat, calcium, vitamin A, vitamin C, and thiamin. Although no significant differences were observed in DDS in any of the groups, the percentage of children consuming &#x2265;4 food groups in a day had increased in all the groups. Consumption of fruit and vegetables and cereals had increased significantly from baseline to Day 90. ONS along with dietary counseling was found to have improved nutritional adequacy without interfering with the normal food consumption patterns of picky-eating children at nutritional risk.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15112442
+- DOI: 10.3390/nu15112528
 
 2. Keywords
-- adipokine
-- diabetes prevention
-- exercise
-- inflammation
-- nutrition
-- pediatric obesity
+- dietary counseling
+- dietary diversity
+- food consumption pattern
+- food intake adequacy
+- nutrient adequacy
+- oral nutrition supplement
+- picky-eating children
 
 3. Key Findings
-- Findings extraction requires manual review
+- ONS along with dietary counseling was found to have improved nutritional adequacy without interfering with the normal food consumption patterns of picky-eating children at nutritional risk
 
 This study provides insights into:
-- adipokine assessment methods and outcomes
-- diabetes prevention assessment methods and outcomes
-- exercise assessment methods and outcomes
+- dietary counseling assessment methods and outcomes
+- dietary diversity assessment methods and outcomes
+- food consumption pattern assessment methods and outcomes

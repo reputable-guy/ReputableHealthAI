@@ -1,27 +1,26 @@
-Study Title: Personalized Machine Learning-Based Prediction of Wellbeing and Empathy in Healthcare Professionals.
+Study Title: Why did peri-pandemic suicide death rates decrease among non-Hispanic white people while increasing among most people of color?
 
 Study Summary:
-Healthcare professionals are known to suffer from workplace stress and burnout, which can negatively affect their empathy for patients and quality of care. While existing research has identified factors associated with wellbeing and empathy in healthcare professionals, these efforts are typically focused on the group level, ignoring potentially important individual differences and implications for individualized intervention approaches. In the current study, we implemented N-of-1 personalized machine learning (PML) to predict wellbeing and empathy in healthcare professionals at the individual level, leveraging ecological momentary assessments (EMAs) and smartwatch wearable data. A total of 47 mood and lifestyle feature variables (relating to sleep, diet, exercise, and social connections) were collected daily for up to three months followed by applying eight supervised machine learning (ML) models in a PML pipeline to predict wellbeing and empathy separately. Predictive insight into the model architecture was obtained using Shapley statistics for each of the best-fit personalized models, ranking the importance of each feature for each participant. The best-fit model and top features varied across participants, with anxious mood (13/19) and depressed mood (10/19) being the top predictors in most models. Social connection was a top predictor for wellbeing in 9/12 participants but not for empathy models (1/7). Additionally, empathy and wellbeing were the top predictors of each other in 64% of cases. These findings highlight shared and individual features of wellbeing and empathy in healthcare professionals and suggest that a one-size-fits-all approach to addressing modifiable factors to improve wellbeing and empathy will likely be suboptimal. In the future, such personalized models may serve as actionable insights for healthcare professionals that lead to increased wellness and quality of patient care.
+While suicides in the United States decreased during the COVID-19 pandemic, statistically significant decreases have been limited to White people throughout a large portion of 2020. This paper outlines possible explanations for racial/ethnic differences in suicidality in the early pandemic phases. We propose both distal (i.e., tele-mental health usage, internet and technology access, employment protections, and economic security) and proximal (cultural beliefs, coping strategies, clustering, pulling together, and embracing life) factors that may have helped build and foster community and mental wellness. However, this paper argues these factors did not extend, or did not extend as much, to many communities of color. We argue that these disparities are due to the myriad effects of discrimination and systemic racism, encapsulated broadly by the minority stress theory, and provide suggestions for relief and research.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/s24082640
+- DOI: 10.1111/sltb.13088
 
 2. Keywords
-- EMA
-- N-of-1 model
-- empathy
-- healthcare professionals
-- machine learning
-- wellbeing
+- COVID&#x2010;19
+- people of color
+- race
+- suicide
+- suicide attempts
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- EMA assessment methods and outcomes
-- N-of-1 model assessment methods and outcomes
-- empathy assessment methods and outcomes
+- COVID&#x2010;19 assessment methods and outcomes
+- people of color assessment methods and outcomes
+- race assessment methods and outcomes

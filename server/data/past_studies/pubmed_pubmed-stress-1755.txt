@@ -1,29 +1,28 @@
-Study Title: Effectiveness of a novel diet in attenuation of clinical activity of disease in patients with ulcerative colitis: a randomized, clinical trial.
+Study Title: The impact of mindfulness-based stress reduction training on the occupational stress and burnout experienced by nurses in geriatric wards? A randomized controlled trial.
 
 Study Summary:
-Dietary intake plays a pivotal role in ulcerative colitis (UC) initiation and prognosis. The aim of this study was to investigate the effect of a combined Mediterranean, low-FODMAP diet accompanied with partial enteral nutrition (PEN) on clinical and para-clinical characteristics of patients with UC. Fifty patients with active mild to moderate UC were received either a combined diet or a regular diet for 6&#xa0;weeks. Before and after the intervention, disease activity index, quality of life and some inflammatory and oxidative stress factors were measured using valid and reliable questionnaires and blood sampling. Disease activity index was significantly decreased in the combined diet group in comparison to control diet group (p&#x2009;=&#x2009;0.043), and baseline data (p&#x2009;<&#x2009;0.001). Moreover, the quality of life score increased significantly in the combined diet group compared to the control group, and the baseline data (p&#x2009;<&#x2009;0.001). Serum level of high sensitive C-reactive protein (hs-CRP) decreased significantly in the combined group (p&#x2009;<&#x2009;0.01), while it increased in the control group non-significantly. Serum total anti-oxidant capacity (TAC) changes were not statistically significant in two groups. This study indicates that this combination diet has the potential to be used as a safe and highly effective approach in patients with significant intestinal symptoms. Further clinical trial studies with different duration of intervention are needed to confirm these results.Trial registration: The study was registered on IRCT.ir with registration number of IRCT20100524004010N38, on 25/04/2023.
+In this clinical trial, 60 nurses from three geriatric centers were enlisted and randomly split into two groups: control (n = 30) and intervention (n = 30). Statistical analysis using SPSS version 21 employed Kolmogorov-Smirnov, Chi square, and t-test to assess results. The intervention group received eight training sessions. After the MBSR Training in the intervention groups, results showed there was a statistically significant difference between the two groups concerning the scores of the subscales of death and dying (t = 6.161, P < 0.001), conflicts with physicians (t = 7.962, P < 0.001), inadequate preparation (t = t = 6.524, P < 0.001), lack of support resources (t = 5.532, P < 0.001), conflicts with nurses (t = -6.632, P < 0.001), workload (t = 6.587, P < 0.001), uncertainty of treatment (t = 5.587, P < 0.001) as well as the scores of the subscales of burnout.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-64512-8
+- DOI: 10.1016/j.gerinurse.2024.05.034
 
 2. Keywords
-- Diet
-- EN
-- IBD
-- Low-FODMAP diet
-- Mediterranean diet
-- Nutrition
-- UC
-- Ulcerative colitis
+- Burnout
+- Geriatric
+- MBSR
+- Mindfulness
+- Nurses
+- Occupational stress
+- Stress reduction
 
 3. Key Findings
-- Findings extraction requires manual review
+- After the MBSR Training in the intervention groups, results showed there was a statistically significant difference between the two groups concerning the scores of the subscales of death and dying (t = 6
 
 This study provides insights into:
-- Diet assessment methods and outcomes
-- EN assessment methods and outcomes
-- IBD assessment methods and outcomes
+- Burnout assessment methods and outcomes
+- Geriatric assessment methods and outcomes
+- MBSR assessment methods and outcomes

@@ -1,27 +1,25 @@
-Study Title: Randomized controlled trial of a multiple technology-based physical activity intervention for Latina adolescents: Recruitment strategies and baseline data from the Chicas Fuertes trial.
+Study Title: Individualized Versus General Exercise Therapy in People With Subacromial Pain Syndrome: A Randomized Controlled Trial.
 
 Study Summary:
-Latina adolescents report low levels of physical activity (PA) and high lifetime risk of lifestyle-related diseases. They also have high rates of using technology, suggesting interventions delivered through mobile devices may be effective for this population. The current paper describes recruitment methods and baseline study characteristics for Chicas Fuertes, a fully powered randomized trial of a mobile technology PA intervention. Underactive Latina adolescents (aged 13-18) were recruited using social media and presentations at local schools and community organizations in San Diego, California. Participants were randomly assigned 1:1 to either the intervention (Fitbit, tailored texting, social media, and website) or control group. Baseline measures included demographics, psychosocial variables, and PA measured by the 7-Day Physical Activity Recall (PAR), ActiGraph GT3X+ accelerometers, and Fitbits. Baseline data were collected from 2020 to 2023. Social media yielded the most contacts (465), but had the lowest chance of enrollment (14&#xa0;%, vs. 52&#xa0;% from school presentations). Participants (N&#xa0;=&#xa0;160) were mostly second generation (68.8&#xa0;%), and low income (61.8&#xa0;%), but technology access was high (>99&#xa0;%). Median self-reported moderate-to-vigorous PA (MVPA) using the 7-Day PAR was 120&#xa0;min/week (range 0-720), and median daily steps were 5222 (IQR 359). Median MVPA measured by ActiGraphs, however, was 0&#xa0;min per week. There was no correlation between the 7-day PAR and ActiGraphs (&#x3c1;=.13,p=.12). However, ActiGraph MVPA was correlated with total steps recorded by the Fitbit (&#x3c1;=.38,p<.001). Both remote and in-person approaches were successful in recruiting a sample that was underactive and low income, but had high technology use.
+To evaluate the effect of individualized exercises based on movement fault (MF) control on pain intensity, and disability in subjects with chronic subacromial pain syndrome (SAPS). Randomized controlled trial. Rehabilitation clinics. Thirty-eight participants with chronic SAPS (mean [SD] age, 52.23 (8.47); 60 % women). The participants were randomly allocated to 1 of the intervention groups (individualized exercises based on MFs control test designed to target specific movement faults) or the control group (commonly prescribed general scapular stabilization exercises). Both groups received exercise sessions twice a week for 4 weeks. The primary outcome measures were pain intensity at rest (PR) and during arm raising (PAR) using a visual analog scale. Disability was assessed as a key secondary outcome, including the disabilities of the arm, shoulder, and hand (DASH) questionnaire and the Shoulder Pain and Disability Index (SPADI). Following completion of all exercise sessions, PAR was significantly lower in the intervention group compared to the control group (mean, 9.17; 95% confidence interval; 0.31-18.03; P=.04), with a large effect size (0.68). The reduction of PAR remained significantly lower in the intervention group than in the control group after 4 months of follow-up (mean, 18.29; 95% confidence intervals [CI], 9.09-27.48; P<.00) with a large effect size (1.27). Disability significantly decreased at 2-month (mean, 14.58, P=.002 on SPADI index; mean, 10.26, P=.006 on DASH index) and 4-month (mean, 19.85, P<.001 on SPADI index; mean, 12.09, P=.001 on DASH index) follow-ups in the intervention group compared to the control group. Individualized exercises based on MFs control of the shoulder region was accompanied by decreased PAR and disability in subjects with SAPS.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1016/j.cct.2024.107716
+- Publication Date: 2025
+- DOI: 10.1016/j.apmr.2024.08.027
 
 2. Keywords
-- Exercise
-- Fitbit
-- Health disparities
-- Teens
-- Wearables
-- mHealth
+- Exercise therapy
+- Pain
+- Rehabilitation
+- Shoulder impingement syndrome
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Exercise assessment methods and outcomes
-- Fitbit assessment methods and outcomes
-- Health disparities assessment methods and outcomes
+- Exercise therapy assessment methods and outcomes
+- Pain assessment methods and outcomes
+- Rehabilitation assessment methods and outcomes

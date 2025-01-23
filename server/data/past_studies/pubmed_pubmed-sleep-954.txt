@@ -1,26 +1,25 @@
-Study Title: Does a self-reported sleep duration reflect actigraphy reported sleep duration in female football players?
+Study Title: The effect of visual feedback-based clinical monitoring application in patients with chronic low back pain: a randomized controlled trial.
 
 Study Summary:
-Sleep is often compromised in female athletes, and the monitoring of female athletes' sleep is an important preventative and educational tool. With self-reporting of sleep common practice for athletes as part of a daily wellness assessment, there is a need to understand whether sleep indices are being reported accurately, and thus whether self-report data are useful. This study aimed to compare the agreement between self-reported and actigraphy reported sleep duration in female football players, with the intention of informing best practice for athlete monitoring. Twenty-two female footballers (mean age 19.5&#x2009;&#xb1;&#x2009;1.3&#x2009;years) provided a daily self-report across 7&#x2009;days, whilst also wearing an actigraph across the same testing period. Agreement between the two measures was assessed using Bland-Altman limits of agreement, with acceptable limits of agreement defined as&#x2009;<30&#x2009;minutes. Results showed evident disagreement between the two methods, with a mean bias of -0.54 (32 min, 95% CI -0.66 to -0.43) and a potential disagreement range of over 2 h (Lower 95% limits of agreement -1.49 to upper 95% limits of agreement 0.40). Coaches using self-reported sleep durations as a monitoring tool for female footballers should interpret the results with caution and be aware of the potential for inaccuracies in this measure. As such, where possible, coaches should consider other methods of sleep monitoring, rather than solely relying on a self-report, to ensure they are operating with optimal practice within situational constraints.
+No study has addressed the effect of patient-reported outcomes as a visual feedback tool during telerehabilitation. This study aimed to investigate the effect of a visual feedback-based monitoring application PhysioAnalyst on pain, pain catastrophizing, physical functions, quality of life, usability, satisfaction, and exercise adherence in individuals with chronic low back pain (CLBP). A single-blind, randomized controlled trial was conducted with 44 CLBP patients. Participants were randomized into two groups: the tele-assessment feedback group (TAFG) (n&#x2009;=&#x2009;22) and the control group (CG) (n&#x2009;=&#x2009;22). Participants were assessed before the intervention, at the 4th week and after the intervention. Individuals were assessed using the Visual Analog Scale (VAS), Nottingham Health Profile (NHP), Pain Catastrophizing Scale (PCS), Oswestry Disability Index (ODI), Telehealth Usability Questionnaire (TUQ), Telemedicine Satisfaction Questionnaire (TSQ), and Exercise Adaptation Rating Scale (EARS) via PhysioAnalyst. Individuals in the TAFG group received graph-based visual feedback on assessment data in week 4. The improvement in VAS, NHP, ODI, TUQ, TSQ, and EARS of individuals in TAFG was statistically significant (p&#x2009;<&#x2009;0.05). Only ODI and PCS scores in CG showed significant improvement (p&#x2009;<&#x2009;0.05). After the graphics-based visual feedback presented to the TAFG, the VAS, NHP-Emotional, NHP-Sleep, NHP-Total, PCS, TUQ, TSQ, ODI, and EARS scores gained more than CG (p&#x2009;<&#x2009;0.05). The results confirmed the additional contribution of telerehabilitation's graphics-based visual feedback in pain, pain catastrophizing, disability, quality of life, and exercise participation. Since the importance of continuity in long-term rehabilitation in patients with CLBP is comprehended, feedback to increase patient motivation can be added to telerehabilitation applications.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/24733938.2023.2297903
+- DOI: 10.1007/s00586-023-08098-1
 
 2. Keywords
-- Athletes
-- actigraphy
-- monitoring
-- self-report
-- sleep
+- Low back pain
+- Rehabilitation
+- Telerehabilitation
+- Visual feedback
 
 3. Key Findings
-- Results showed evident disagreement between the two methods, with a mean bias of -0
+- Only ODI and PCS scores in CG showed significant improvement (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- Athletes assessment methods and outcomes
-- actigraphy assessment methods and outcomes
-- monitoring assessment methods and outcomes
+- Low back pain assessment methods and outcomes
+- Rehabilitation assessment methods and outcomes
+- Telerehabilitation assessment methods and outcomes

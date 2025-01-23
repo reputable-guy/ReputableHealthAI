@@ -1,27 +1,28 @@
-Study Title: Designing a childhood obesity preventive intervention using the multiphase optimization strategy: The Healthy Bodies Project.
+Study Title: Dietary advanced glycation end-products and postmenopausal hot flashes: A post-hoc analysis of a 12-week randomized clinical trial.
 
 Study Summary:
-Preventing the development of childhood obesity requires multilevel, multicomponent, comprehensive approaches. Study designs often do not allow for systematic evaluation of the efficacy of individual intervention components before the intervention is fully tested. As such, childhood obesity prevention programs may contain a mix of effective and ineffective components. This article describes the design and rationale of a childhood obesity preventive intervention developed using the multiphase optimization strategy, an engineering-inspired framework for optimizing behavioral interventions. Using a series of randomized experiments, the objective of the study was to systematically test, select, and refine candidate components to build an optimized childhood obesity preventive intervention to be evaluated in a subsequent randomized controlled trial. A 2full factorial design was used to test the individual and combined effects of four candidate intervention components intended to reduce the risk for childhood obesity. These components were designed with a focus on (a) improving children's healthy eating behaviors and nutrition knowledge, (b) increasing physical activity and reducing sedentary activity in the childcare setting, (c) improving children's behavioral self-regulation, and (d) providing parental web-based education to address child target outcomes. The components were tested with approximately 1400 preschool children, ages 3-5 years in center-based childcare programs in Pennsylvania, the majority of which served predominantly Head-Start eligible households. Primary child outcomes included healthy eating knowledge, physical and sedentary activity, and behavioral self-regulation. Secondary outcomes included children's body mass index and appetitive traits related to appetite regulation. Four intervention components were developed, including three classroom curricula designed to increase preschool children's nutrition knowledge, physical activity, and behavioral, emotional, and eating regulation. A web-based parent education component included 18 lessons designed to improve parenting practices and home environments that would bolster the effects of the classroom curricula. A plan for analyzing the specific contribution of each component to a larger intervention was developed and is described. The efficacy of the four components can be evaluated to determine the extent to which they, individually and in combination, produce detectable changes in childhood obesity risk factors. The resulting optimized intervention should later be evaluated in a randomized controlled trial, which may provide new information on promising targets for obesity prevention in young children. This research project highlights the ways in which an innovative approach to the design and initial evaluation of preventive interventions may increase the likelihood of long-term success. The lessons from this research project have implications for childhood obesity research as well as other preventive interventions that include multiple components, each targeting unique contributors to a multifaceted problem.
+Postmenopausal hot flashes are associated with an increased risk of cardiovascular disease and diabetes. Because dietary advanced glycation end-products (AGEs) may act as endocrine disruptors, this study examined the potential association of modifications to the intake of dietary AGEs with the frequency and severity of postmenopausal hot flashes. Postmenopausal women (n&#xa0;=&#xa0;84) reporting &#x2265;2 moderate-to-severe hot flashes daily were randomly assigned to either the intervention group or the control group. The former were asked to follow a low-fat, vegan diet, including cooked soybeans (1/2 cup [86&#xa0;g]/day) for 12&#xa0;weeks, and the latter continued their usual diets for 12&#xa0;weeks. Frequency and severity of hot flashes were recorded with a mobile application. Three-day diet records were analyzed using the Nutrition Data System for Research software and dietary AGEs were estimated, using a database. Seventy-one participants completed the whole study and 63 provided complete hot flash and dietary data for the AGEs analysis (n&#xa0;=&#xa0;31 in the intervention and n&#xa0;=&#xa0;24 in the control group). Pearson correlations were used to assess the association between changes in hot flashes and dietary AGEs. Dietary AGEs decreased in the intervention group by 73&#xa0;%, that is by 5509 ku/day on average (95&#xa0;% -7009 to -4009; p&#xa0;<&#xa0;0.001), compared with the control group (+458; 95&#xa0;% CI -835 to +1751; p&#xa0;=&#xa0;0.47; treatment effect -5968 ku/day [95&#xa0;% CI -7945 to -3991]; Gxt, p&#xa0;<&#xa0;0.001). Severe hot flashes decreased by 92&#xa0;% (p&#xa0;<&#xa0;0.001) and moderate-to-severe hot flashes decreased by 88&#xa0;% in the intervention group (p&#xa0;<&#xa0;0.001). Changes in dietary AGEs correlated with changes in severe (r&#xa0;=&#xa0;+0.39; p&#xa0;=&#xa0;0.002) and moderate hot flashes (r&#xa0;=&#xa0;+0.34; p&#xa0;=&#xa0;0.009) and remained significant after adjustment for changes in energy intake (r&#xa0;=&#xa0;+0.45; p&#xa0;<&#xa0;0.001; and r&#xa0;=&#xa0;+0.37; p&#xa0;=&#xa0;0.004, respectively) and changes in body mass index (r&#xa0;=&#xa0;+0.37; p&#xa0;=&#xa0;0.004; and r&#xa0;=&#xa0;+0.27; p&#xa0;=&#xa0;0.04, respectively). The reduction in dietary AGEs required to achieve a predicted reduction in hot flashes by 1/day was 6933 ku/day for severe and 4366 ku/day for moderate-to-severe hot flashes. The reduction in dietary AGEs with a low-fat plant-based diet was associated with a significant reduction in the frequency of severe and moderate-to-severe postmenopausal hot flashes, independent of changes in energy intake and weight loss. Plant-based diets could be used not only to alleviate vasomotor symptoms in postmenopausal women, but also to reduce other health risks associated with AGEs. ClinicalTrials.gov, NCT04587154.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1177/17407745231167115
+- DOI: 10.1016/j.maturitas.2023.03.008
 
 2. Keywords
-- Multiphase optimization strategy
-- healthy eating
-- obesity prevention
-- parenting
-- physical activity
-- self-regulation
+- Diet
+- Dietary advanced glycation end-products
+- Hot flashes
+- Menopause
+- Nutrition
+- Plant-based
+- Vegan
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Multiphase optimization strategy assessment methods and outcomes
-- healthy eating assessment methods and outcomes
-- obesity prevention assessment methods and outcomes
+- Diet assessment methods and outcomes
+- Dietary advanced glycation end-products assessment methods and outcomes
+- Hot flashes assessment methods and outcomes

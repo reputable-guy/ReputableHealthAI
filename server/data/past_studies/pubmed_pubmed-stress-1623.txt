@@ -1,27 +1,29 @@
-Study Title: The effect of music on stress recovery.
+Study Title: The effect of crocin on movement disorders and oxidative DNA damage in Parkinson's disease: Insights from a randomized controlled trial.
 
 Study Summary:
-Previous research has suggested beneficial effects of music in reducing stress levels. However, there is no consistent conclusion demonstrating that music can contribute to stress recovery, primarily due to limitations in stress measurement, and inconsistent methodology within existing studies. Our study explores whether relaxing music, especially when self-selected, outperforms non-music acoustic, and silence conditions, fostering both subjective and biological stress recovery. One hundred and five healthy female participants underwent the Trier Social Stress Test (TSST) before being randomly allocated to one of four conditions: condition 1 (n = 25) listened to researcher-selected relaxing music; condition 2 (n = 27) listened to self-selected relaxing music; condition 3 (n = 26) listened to the sound of rippling water; and condition 4 (n = 27) remained in silence. Stress parameters were repeatedly measured nine times before and after the TSST. Saliva samples were collected for cortisol and saliva alpha-amylase (sAA) analysis, Movisens equipment was used to measure heart rate (HR) and skin conductance levels (SCL), and Visual Analogue Scales (VAS) were used for subjective stress measurement. The examination of SCL, and VAS scores revealed no significant changes following the four relaxation interventions. Although sAA displayed a significant main effect of condition, post hoc tests did not pinpoint specific differences. HR recovery patterns varied among the four relaxation interventions, with the sound of rippling water condition exhibiting a later significant decrease compared to the other conditions. Exploratory analyses revealed that cortisol levels continued increase in all conditions during intervention phase except the researcher-selected music condition. The subjective and biological stress markers did not exhibit better recovery after the music stimulus, except for a tendency in the researcher-selected music condition to mitigate the continued increase in cortisol levels after the stress test. Our study provides the first evidence comparing the impact of researcher- and participant-selected music with silence and a non-music acoustic stimulus, on both subjective and biological stress recovery. Our findings contribute to a more nuanced understanding of the impact of music on stress recovery.
+Parkinson's disease (PD), the second most prevalent neurological disorder in the elderly, manifests with distinctive movement disorders, including bradykinesia, resting tremor, and stiffness. With a progressive course, current treatment strategies primarily target symptomatic relief. Crocin is a chemical compound isolated from the dry stigma of Crocus sativus, and has demonstrated neuroprotective properties. This study explores the impact of crocin on movement disorders and neuronal oxidative DNA damage in PD patients. Conducted as a randomized, blinded, and controlled trial, this research focused on patients aged 30 to 80 with idiopathic PD. Using the second and third parts of the movement disorder society-unified PD rating scale (MDS-UPDRS), aspects of daily life activity and movement disorders were assessed before and after an 8-week intervention. Patients in the crocin groups received capsules containing 30&#xa0;mg of crocin twice daily. Additionally, the 8-hydroxy-2-deoxydiguanosine (8-OHdG) to urinary creatinine ratio (8-OHdG/uCr) was measured to evaluate neuronal oxidative DNA damage. Out of the initially evaluated 164 patients, 30 were randomly assigned to each group, with 53 subjects completing the study. Within-group analysis revealed a significant improvement in the second and third parts of MDS-UPDRS after 8 weeks of crocin intervention (P&#xa0;<&#xa0;0.05). However, the 8-OHdG/uCr did not show significant changes. The well-tolerated daily dose of 60&#xa0;mg of crocin demonstrated minimal side effects. This study establishes the efficacy of crocin in enhancing daily life activities and mitigating movement disorders, suggesting its potential as a supplementary intervention alongside conventional PD medications.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.psyneuen.2024.107137
+- DOI: 10.1016/j.parkreldis.2024.107051
 
 2. Keywords
-- Participant-selected music
-- Researcher-selected music
-- Salivary alpha-amylase
-- Salivary cortisol
-- Stress recovery
+- Crocin
+- Crocus
+- Movement disorders
+- Oxidative stress
+- Parkinson's disease
+- Tremor
 
 3. Key Findings
-- The examination of SCL, and VAS scores revealed no significant changes following the four relaxation interventions
-- Exploratory analyses revealed that cortisol levels continued increase in all conditions during intervention phase except the researcher-selected music condition
+- Crocin is a chemical compound isolated from the dry stigma of Crocus sativus, and has demonstrated neuroprotective properties
+- Within-group analysis revealed a significant improvement in the second and third parts of MDS-UPDRS after 8 weeks of crocin intervention (P&#xa0;<&#xa0;0
+- The well-tolerated daily dose of 60&#xa0;mg of crocin demonstrated minimal side effects
 
 This study provides insights into:
-- Participant-selected music assessment methods and outcomes
-- Researcher-selected music assessment methods and outcomes
-- Salivary alpha-amylase assessment methods and outcomes
+- Crocin assessment methods and outcomes
+- Crocus assessment methods and outcomes
+- Movement disorders assessment methods and outcomes

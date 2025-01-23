@@ -1,33 +1,29 @@
-Study Title: Eggsurance? A randomized controlled trial of a decision aid for elective egg freezing.
+Study Title: Effectiveness of a novel diet in attenuation of clinical activity of disease in patients with ulcerative colitis: a randomized, clinical trial.
 
 Study Summary:
-Does a purpose-designed Decision Aid for women considering elective egg freezing (EEF) impact decisional conflict and other decision-related outcomes? The Decision Aid reduces decisional conflict, prepares women for decision-making, and does not cause distress. Elective egg-freezing decisions are complex, with 78% of women reporting high decisional conflict. Decision Aids are used to support complex health decisions. We developed an online Decision Aid for women considering EEF and demonstrated that it was acceptable and useful in Phase 1 testing. A single-blind, two-arm parallel group randomized controlled trial was carried out. Target sample size was 286 participants. Randomization was 1:1 to the control (existing website information) or intervention (Decision Aid plus existing website information) group and stratified by Australian state/territory and prior IVF specialist consultation. Participants were recruited between September 2020 and March 2021 with outcomes recorded over 12 months. Data were collected using online surveys and data collection was completed in March 2022. Females aged &#x2265;18&#x2009;years, living in Australia, considering EEF, proficient in English, and with internet access were recruited using multiple methods including social media posts, Google advertising, newsletter/noticeboard posts, and fertility clinic promotion. After completing the baseline survey, participants were emailed their allocated website link(s). Follow-up surveys were sent at 6 and 12 months. Primary outcome was decisional conflict (Decisional Conflict Scale). Other outcomes included distress (Depression Anxiety and Stress Scale), knowledge about egg freezing and female age-related infertility (study-specific measure), whether a decision was made, preparedness to decide about egg freezing (Preparation for Decision-Making Scale), informed choice (Multi-Dimensional Measure of Informed Choice), and decision regret (Decision Regret Scale). Overall, 306 participants (mean age 30&#x2009;years; SD: 5.2) were randomized (intervention n&#x2009;=&#x2009;150, control n&#x2009;=&#x2009;156). Decisional Conflict Scale scores were significantly lower at 12&#x2009;months (mean score difference: -6.99 [95% CI: -12.96, -1.02], P&#x2009;=&#x2009;0.022) for the intervention versus control group after adjusting for baseline decisional conflict. At 6&#x2009;months, the intervention group felt significantly more prepared to decide about EEF than the control (mean score difference: 9.22 [95% CI: 2.35, 16.08], P&#x2009;=&#x2009;0.009). At 12&#x2009;months, no group differences were observed in distress (mean score difference: 0.61 [95% CI: -3.72, 4.93], P&#x2009;=&#x2009;0.783), knowledge (mean score difference: 0.23 [95% CI: -0.21, 0.66], P&#x2009;=&#x2009;0.309), or whether a decision was made (relative risk: 1.21 [95% CI: 0.90, 1.64], P&#x2009;=&#x2009;0.212). No group differences were found in informed choice (relative risk: 1.00 [95% CI: 0.81, 1.25], P&#x2009;=&#x2009;0.983) or decision regret (median score difference: -5.00 [95% CI: -15.30, 5.30], P&#x2009;=&#x2009;0.337) amongst participants who had decided about EEF by 12&#x2009;months (intervention n&#x2009;=&#x2009;48, control n&#x2009;=&#x2009;45). Unknown participant uptake and potential sampling bias due to the recruitment methods used and restrictions caused by the coronavirus disease 2019 pandemic. Some outcomes had small sample sizes limiting the inferences made. The use of study-specific or adapted validated measures may impact the reliability of some results. This is the first randomized controlled trial to evaluate a Decision Aid for EEF. The Decision Aid reduced decisional conflict and improved women's preparation for decision making. The tool will be made publicly available and can be tailored for international use. The Decision Aid was developed with funding from the Royal Women's Hospital Foundation and McBain Family Trust. The study was funded by a National Health and Medical Research Council (NHMRC) Project Grant APP1163202, awarded to M. Hickey, M. Peate, R.J. Norman, and R. Hart (2019-2021). S.S., M.P., D.K., and S.B. were supported by the NHMRC Project Grant APP1163202 to perform this work. R.H. is Medical Director of Fertility Specialists of Western Australia and National Medical Director of City Fertility. He has received grants from MSD, Merck-Serono, and Ferring Pharmaceuticals unrelated to this study and is a shareholder of CHA-SMG. R.L. is Director of Women's Health Melbourne (Medical Practice), ANZSREI Executive Secretary (Honorary), RANZCOG CREI Subspecialty Committee Member (Honorary), and a Fertility Specialist at Life Fertility Clinic Melbourne and Royal Women's Hospital Public Fertility Service. R.A.A. has received grants from Ferring Pharmaceuticals unrelated to this study. M.H., K.H., and R.J.N. have no conflicts to declare. ACTRN12620001032943. 11 August 2020. 29 September 2020.
+Dietary intake plays a pivotal role in ulcerative colitis (UC) initiation and prognosis. The aim of this study was to investigate the effect of a combined Mediterranean, low-FODMAP diet accompanied with partial enteral nutrition (PEN) on clinical and para-clinical characteristics of patients with UC. Fifty patients with active mild to moderate UC were received either a combined diet or a regular diet for 6&#xa0;weeks. Before and after the intervention, disease activity index, quality of life and some inflammatory and oxidative stress factors were measured using valid and reliable questionnaires and blood sampling. Disease activity index was significantly decreased in the combined diet group in comparison to control diet group (p&#x2009;=&#x2009;0.043), and baseline data (p&#x2009;<&#x2009;0.001). Moreover, the quality of life score increased significantly in the combined diet group compared to the control group, and the baseline data (p&#x2009;<&#x2009;0.001). Serum level of high sensitive C-reactive protein (hs-CRP) decreased significantly in the combined group (p&#x2009;<&#x2009;0.01), while it increased in the control group non-significantly. Serum total anti-oxidant capacity (TAC) changes were not statistically significant in two groups. This study indicates that this combination diet has the potential to be used as a safe and highly effective approach in patients with significant intestinal symptoms. Further clinical trial studies with different duration of intervention are needed to confirm these results.Trial registration: The study was registered on IRCT.ir with registration number of IRCT20100524004010N38, on 25/04/2023.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/humrep/deae121
+- DOI: 10.1038/s41598-024-64512-8
 
 2. Keywords
-- RCT
-- decision aid
-- decision making
-- decision support
-- decisional conflict
-- egg freezing
-- fertility preservation
-- information
-- oocyte cryopreservation
-- randomized
+- Diet
+- EN
+- IBD
+- Low-FODMAP diet
+- Mediterranean diet
+- Nutrition
+- UC
+- Ulcerative colitis
 
 3. Key Findings
-- We developed an online Decision Aid for women considering EEF and demonstrated that it was acceptable and useful in Phase 1 testing
-- No group differences were found in informed choice (relative risk: 1
-- The Decision Aid was developed with funding from the Royal Women's Hospital Foundation and McBain Family Trust
+- Findings extraction requires manual review
 
 This study provides insights into:
-- RCT assessment methods and outcomes
-- decision aid assessment methods and outcomes
-- decision making assessment methods and outcomes
+- Diet assessment methods and outcomes
+- EN assessment methods and outcomes
+- IBD assessment methods and outcomes

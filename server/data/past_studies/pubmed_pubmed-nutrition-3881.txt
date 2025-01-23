@@ -1,29 +1,30 @@
-Study Title: A High Protein Diet Is Associated with Improved Glycemic Control Following Exercise among Adolescents with Type 1 Diabetes.
+Study Title: Retail Food Equivalents for Post-Oral Immunotherapy Dosing in the Omalizumab as Monotherapy and as Adjunct Therapy to Multi-Allergen Oral Immunotherapy in Food-Allergic Children and Adults&#xa0;(OUtMATCH) Clinical Trial.
 
 Study Summary:
-Nutritional strategies are needed to aid people with type 1 diabetes (T1D) in managing glycemia following exercise. Secondary analyses were conducted from a randomized trial of an adaptive behavioral intervention to assess the relationship between post-exercise and daily protein (g/kg) intake on glycemia following moderate-to-vigorous physical activity (MVPA) among adolescents with T1D. Adolescents (= 112) with T1D, 14.5 (13.8, 15.7) years of age, and 36.6% overweight or obese, provided measures of glycemia using continuous glucose monitoring (percent time above range [TAR, >180 mg/dL], time-in-range [TIR, 70-180 mg/dL], time-below-range [TBR, <70 mg/dL]), self-reported physical activity (previous day physical activity recalls), and 24 h dietary recall data at baseline and 6 months post-intervention. Mixed effects regression models adjusted for design (randomization assignment, study site), demographic, clinical, anthropometric, dietary, physical activity, and timing covariates estimated the association between post-exercise and daily protein intake on TAR, TIR, and TBR from the cessation of MVPA bouts until the following morning. Daily protein intakes of &#x2265;1.2 g/kg/day were associated with 6.9% (= 0.03) greater TIR and -8.0% (= 0.02) less TAR following exercise, however, no association was observed between post-exercise protein intake and post-exercise glycemia. Following current sports nutrition guidelines for daily protein intake may promote improved glycemia following exercise among adolescents with T1D.
+Patients with food allergy may be advised to introduce specific foods into their diets, both to increase tolerance gradually and as next steps after completing oral immunotherapy or other therapeutic interventions. However, the safe use of retail foods depends on the ability to establish the specific allergen protein content of these foods. To develop a systematic approach to estimate the protein content of peanut, milk, egg, wheat, cashew, hazelnut, and walnut in a variety of retail food equivalents for each allergen and associated patient education materials. We created an algorithm that used a multistep process with information from product food labels, nutrient databases, independent weighing and measuring of foods, and information provided by manufacturers, including certificates of analysis, and e-mail communication to estimate the allergen protein content of multiple retail foods for each of seven allergens. Once a variety of retail food equivalents for each allergen and allergen serving size was determined, we developed participant education handouts, which were reviewed by study teams at 10 food allergy centers, the National Institute of Allergy and Infectious Diseases, and the Consortium for Food Allergy Research coordinating center. After 1 year of use, multiple queries were addressed and the retail food equivalents and educational materials were reviewed and edited. We identified a variety of retail food equivalents for seven allergens at six serving sizes, and created 48 unique patient education materials. Our results provide extensive guidance on a variety of retail equivalents for seven foods, and a method to estimate retail food protein equivalents systematically with ongoing reassessment.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15081981
+- DOI: 10.1016/j.jaip.2022.10.022
 
 2. Keywords
-- adolescents
-- exercise
-- glycemia
-- physical activity
-- sports nutrition
-- time-above-range
-- time-in-range
-- type 1 diabetes
+- Allergens
+- Consortium for Food Allergy Research
+- Diet
+- Food allergy
+- Nutrition
+- OUtMATCH
+- Omalizumab
+- Oral immunotherapy
+- Retail food equivalents
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- adolescents assessment methods and outcomes
-- exercise assessment methods and outcomes
-- glycemia assessment methods and outcomes
+- Allergens assessment methods and outcomes
+- Consortium for Food Allergy Research assessment methods and outcomes
+- Diet assessment methods and outcomes

@@ -1,26 +1,27 @@
-Study Title: Effect of postoperative intermittent boluses of subcostal quadratus lumborum block on pulmonary function recovery and analgesia after gastrectomy: a randomized controlled clinical trial.
+Study Title: Phase 1 randomized trial of inpatient high-intensity interval training after major surgery.
 
 Study Summary:
-Following the gastrectomy, the reduction in pulmonary function is partly attributed to postoperative pain. Subcostal quadratus lumborum block (QLB) has recently emerged as a promising component in multimodal analgesia. We aimed to assess the impact of intermittent boluses of subcostal QLB on pulmonary function recovery and analgesic efficacy after gastrectomy. Sixty patients scheduled for gastrectomy were randomly assigned to either control group (multimodal analgesia) or intervention group (intermittent boluses of subcostal QLB plus multimodal analgesia). Two primary outcomes included the preservation of forced expiratory volume in the first second (FEV1) and the pain scores (0-10&#xa0;cm visual analog score) on coughing 24&#xa0;h postoperatively. We assessed the pulmonary function parameters, pain score, morphine consumption and number of rescue analgesia at a 24-h interval up to 72&#xa0;h (Day1, Day2, Day3 respectively) as secondary outcomes. 59 patients were analyzed in a modified intention-to-treat set. The preservation of FEV1 (median difference: 4.0%, 97.5% CI: -5.7 to 14.9, P&#xa0;=&#xa0;0.332) and pain scores on coughing (mean difference: 0.0&#xa0;cm, 97.5% CI: -1.1 to 1.2, P&#xa0;=&#xa0;0.924) did not differ significantly between two groups. In the intervention group, the recovery of forced vital capacity (FVC) was faster 72&#xa0;h after surgery (interaction effect of group*(Day3-Day0): estimated effect (&#x3b2;) =0.30&#xa0;L, standard error (SE) =0.13, P&#xa0;=&#xa0;0.025), pain scores at rest were lower in the first 3&#xa0;days (interaction effect of group*(Day1-Day0): &#x3b2; =&#xa0;-&#xa0;0.8&#xa0;cm, SE&#xa0;=&#xa0;0.4, P&#xa0;=&#xa0;0.035; interaction effect of group*(Day2-Day0): &#x3b2; =&#xa0;-&#xa0;1.0&#xa0;cm, SE&#xa0;=&#xa0;0.4, P&#xa0;=&#xa0;0.014; and interaction effect of group*(Day3-Day0): &#x3b2; =&#xa0;-&#xa0;1.0&#xa0;cm, SE&#xa0;=&#xa0;0.4, P values&#xa0;=&#xa0;0.009 respectively), intravenous morphine consumption was lower during 0-24&#xa0;h (median difference: -3&#xa0;mg, 95% CI -6 to -1, P&#xa0;=&#xa0;0.014) and in total 72&#xa0;h (median difference: -5&#xa0;mg, 95% CI -10 to -1, P&#xa0;=&#xa0;0.019), and the numbers of rescue analgesia was fewer during 24-48&#xa0;h (median difference: 0, 95% CI 0 to 0, P&#xa0;=&#xa0;0.043). Other outcomes didn't show statistical differences. Postoperative intermittent boluses of subcostal QLB did not confer advantages in terms of the preservation of FEV1 or pain scores on coughing 24&#xa0;h after gastrectomy. However, notable effects were observed in analgesia at rest and FVC recovery.
+High-intensity interval training (HIT) can provide physiologic benefits and may improve postoperative recovery but has not been evaluated in inpatients. This study aimed to evaluate the safety and tolerability of HIT after major surgery. We performed a phase I randomized study comparing HIT with low-intensity continuous ambulation (40&#xa0;m) during the initial inpatient stay after major surgery at a large academic center. Clinicopathologic and pre- and post-exercise physiologic data were captured. Perceived exertion was measured throughout the intervention. Twenty-two subjects were enrolled and randomized with 90% (20 subjects, 10 per arm) completing all aspects of the study. One patient declined participation in the exercise intervention. The HIT and continuous ambulation groups were relatively similar in terms of median age (65.5 vs 63.5), female sex (20% vs 40%), White race (90% vs 90%), having a cancer diagnosis (100% vs 80%), undergoing gastrointestinal surgery (60% vs 80%), median Karnofsky score (60 vs 60), and ability to independently ambulate preoperatively (100% vs 90%). All subjects completed the exercise without protocol deviation, cohort crossover, or safety events. Compared with the continuous ambulation group, the HIT group had higher end median perceived exertion (5.0 [IQR, 5.5] vs 3.0 [IQR, 1.8]), shorter overall time to complete assigned exercise (56.6 seconds vs 91.8 seconds), and a trend toward higher median gait speed over 40&#xa0;m (0.71&#xa0;m/s vs 0.44&#xa0;m/s, P&#xa0;=&#xa0;.126). HIT in the hospitalized postoperative patient is safe and may be implemented to help promote positive physiologic outcomes and recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jclinane.2024.111452
+- DOI: 10.1016/j.gassur.2024.01.020
 
 2. Keywords
-- FEV1
-- Gastrectomy
-- Pain management
-- Pulmonary function
-- Subcostal quadratus lumborum block
+- Ambulation
+- Enhanced recovery after surgery
+- Exercise
+- Functional decline
+- High-intensity interval training
+- Surgery
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- FEV1 assessment methods and outcomes
-- Gastrectomy assessment methods and outcomes
-- Pain management assessment methods and outcomes
+- Ambulation assessment methods and outcomes
+- Enhanced recovery after surgery assessment methods and outcomes
+- Exercise assessment methods and outcomes

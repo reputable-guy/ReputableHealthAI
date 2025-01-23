@@ -1,20 +1,27 @@
-Study Title: Examining immune-inflammatory mechanisms of probiotic supplementation in depression: secondary findings from a randomized clinical trial.
+Study Title: Biomarker-guided acute kidney injury risk assessment under liberal versus restrictive fluid therapy - the prospective-randomized MAYDAY-trial.
 
 Study Summary:
-We recently indicated that four-week probiotic supplementation significantly reduced depression along with microbial and neural changes in people with depression. Here we further elucidated the biological modes of action underlying the beneficial clinical effects of probiotics by focusing on immune-inflammatory processes. The analysis included a total of N&#x2009;=&#x2009;43 participants with depression, from which N&#x2009;=&#x2009;19 received the probiotic supplement and N&#x2009;=&#x2009;24 received a placebo over four weeks, in addition to treatment as usual. Blood and saliva were collected at baseline, at post-intervention (week 4) and follow-up (week 8) to assess immune-inflammatory markers (IL-1&#x3b2;, IL-6, CRP, MIF), gut-related hormones (ghrelin, leptin), and a stress marker (cortisol). Furthermore, transcriptomic analyses were conducted to identify differentially expressed genes. Finally, we analyzed the associations between probiotic-induced clinical and immune-inflammatory changes. We observed a significant group x time interaction for the gut hormone ghrelin, indicative of an increase in the probiotics group. Additionally, the increase in ghrelin was correlated with the decrease in depressive symptoms in the probiotics group. Transcriptomic analyses identified 51 up- and 57 down-regulated genes, which were involved in functional pathways related to enhanced immune activity. We identified a probiotic-dependent upregulation of the genes ELANE, DEFA4 and OLFM4 associated to immune activation and ghrelin concentration. These results underscore the potential of probiotic supplementation to produce biological meaningful changes in immune activation in patients with depression. Further large-scale mechanistic trials are warranted to validate and extend our understanding of immune-inflammatory measures as potential biomarkers for stratification and treatment response in depression. Trial Registration: www.clinicaltrials.gov , identifier: NCT02957591.
+Acute kidney injury (AKI) prevalence in surgical patients is high, emphasizing the need for preventative measures. This study addresses the insufficient evidence on nephroprotective intraoperative fluid resuscitation and highlights the drawbacks of relying solely on serum creatinine/urine output to monitor kidney function. This study assessed the impact of intraoperative fluid management on AKI in female breast cancer patients undergoing autologous breast reconstruction, utilizing novel urinary biomarkers (TIMP-2 and IGFBP-7). In a monocentric prospective randomized controlled trial involving 40 patients, liberal (LFA) and restrictive (FRV) fluid management strategies were compared. TIMP-2 and IGFBP-7 biomarker levels were assessed using the NephroCheck (bioMerieux, France) test kit at preoperative, immediate postoperative, and 24-h postoperative stages. FRV showed significantly higher immediate postoperative biomarker levels, indicating renal tubular stress. FRV patients had 21% (4/19) experiencing AKI compared to 13% (2/15) in the LFA group according to KDIGO criteria (p&#x2009;=&#x2009;0.385). Restrictive fluid resuscitation increases the risk of AKI in surgical patients significantly, emphasizing the necessity for individualized hemodynamic management. The findings underscore the importance of urinary biomarkers in early AKI detection.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41398-024-03030-7
+- DOI: 10.1038/s41598-024-68079-2
 
 2. Keywords
-
+- Acute kidney injury
+- Breast neoplasms/surgery
+- Breast reconstruction
+- Fluid therapy
+- Intraoperative fluid management
+- Urinary biomarkers
 
 3. Key Findings
-- We recently indicated that four-week probiotic supplementation significantly reduced depression along with microbial and neural changes in people with depression
+- FRV showed significantly higher immediate postoperative biomarker levels, indicating renal tubular stress
 
 This study provides insights into:
-- General research methodology and outcomes
+- Acute kidney injury assessment methods and outcomes
+- Breast neoplasms/surgery assessment methods and outcomes
+- Breast reconstruction assessment methods and outcomes

@@ -1,28 +1,41 @@
-Study Title: Early enteral nutrition intervention promotes multiple functional recovery in patients with traumatic intracerebral hemorrhage: A prospective randomized controlled study.
+Study Title: Impact of Mobile Apps in Conjunction With Percutaneous Endoscopic Gastrostomy on Patients' Complications, Quality of Life, and Health-Related Self-Care Behaviors: Randomized Clinical Trial.
 
 Study Summary:
-To delve into how early enteral nutrition intervention exert its part in promoting multiple functional recovery in patients with traumatic intracerebral hemorrhage (TICH). This prospective randomized controlled study recruited 152 traumatic intracerebral hemorrhage patients in our hospital. The observation group (n&#xa0;=&#xa0;77) received early enteral nutrition intervention (&#x2264; 48&#xa0;h), while the control group (n&#xa0;=&#xa0;75) were given delayed enteral nutrition (> 48&#xa0;h). Further comparison was performed on the recovery of various physiologic functions between the two groups. After treatment, GCS score and GOS score in the observation group were significantly higher than those in the control group (P&#xa0;<&#xa0;0.05), and mRS Score was significantly lower than that in the control group (P&#xa0;<&#xa0;0.05). Moreover, the observation group demonstrated a considerable post-treatment elevation in adrenocorticotropic hormone (ACTH) and cortisol (Cor) levels, which were notably higher than the control group's levels (both P&#xa0;<&#xa0;0.05). The changes in Bifidobacteria, Enterococcus, and Escherichia coli values pre and post-treatment were more remarkable in the observation group (all P&#xa0;<&#xa0;0.05). Kaplan-Meier survival curve analysis indicated a substantial difference in survival curves between patients who provided with early enteral nutrition and those where it later (P&#xa0;<&#xa0;0.05). The early application of enteral nutrition can promote neurological function recovery, improve the disorder of intestinal flora and the patient's nutritional status, reduce the increase of injury factors under stress, and lower the mortality risk among patients suffering from TICH.
+Percutaneous endoscopic gastrostomy (PEG) is commonly chosen for long-term enteral nutrition support. However, common complications of PEG include wound infection, leakage, obstruction, bleeding, dislodgement, pneumonia, peritonitis, and more. The anticipation of these complications by both patients and their family caregivers underscores the essential requirement of ongoing technical guidance for the daily care of PEG and the adoption of preventative strategies. This study aimed to establish and compare a health education program utilizing a tracking system for PEG using a mobile app (PEG app) and instant messaging software versus a paper-based health education program with instant messaging software. Their effectiveness in preventing complications, avoiding hospital readmissions, improving self-care practices, and enhancing quality of life outcomes was assessed. A randomized controlled trial design was used, and the study sample consisted of patients from a medical center in central Taiwan who underwent thoracic surgery or gastroenterology procedures. Inclusion criteria were being a new case undergoing his or her first gastric tube insertion and having the ability to operate a smartphone. Exclusion criteria were cases requiring tube replacement or nasogastric tubes. A total of 74 participants were enrolled, with 37 participants in the experimental group and 37 participants in the control group. Data collection took place from hospitalization until 1 month after discharge. The experimental group received care using the gastric tube tracking system (PEG app) and the Line app that included phone, text, and photo capture capabilities, while the control group received routine nursing care and used the Line app. The experimental group demonstrated a significant reduction in the occurrence of complications compared with the control group (&#x3c7;=12.087, P=.001). Specifically, the occurrence of leakage events was significantly lower in the experimental group than in the control group (&#x3c7;=12.906, P=.001). However, the experimental group exhibited superior self-care ability compared with the control group (t=2.203, P=.03). There was no significant difference in overall quality of life scores between the experimental and control groups (t=1.603, P=.11). However, the experimental group showed better social aspects of quality of life than the control group (t=2.164, P=.03). Integration of the PEG app with instant messaging can enhance self-care ability, improve social aspects of quality of life, and reduce complications. The study results suggest that the PEG app could be used as an adjunct tool to promote patients' self-directed management of their gastric tube at home, particularly for patients who have undergone their first PEG placement and are being discharged from the hospital. Chinese Clinical Trial Registry ChiCTR2300071271; https://tinyurl.com/4vvy584e.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.clineuro.2023.108010
+- DOI: 10.2196/48970
 
 2. Keywords
-- Early enteral nutrition
-- Endocrine system
-- Intestinal flora
-- Neurological function
-- Nutritional indicator
-- Traumatic intracerebral hemorrhage
+- application
+- behavior
+- care
+- complications
+- education
+- endoscopy
+- gastrostomy
+- health education
+- health promotion
+- mHealth app
+- mHealth intervention
+- mobile application
+- mobile applications tracking system
+- percutaneous endoscopic gastrostomy
+- prevention
+- quality of life
+- self-care
+- tracking
+- utilization
 
 3. Key Findings
-- Moreover, the observation group demonstrated a considerable post-treatment elevation in adrenocorticotropic hormone (ACTH) and cortisol (Cor) levels, which were notably higher than the control group's levels (both P&#xa0;<&#xa0;0
-- Kaplan-Meier survival curve analysis indicated a substantial difference in survival curves between patients who provided with early enteral nutrition and those where it later (P&#xa0;<&#xa0;0
+- The experimental group demonstrated a significant reduction in the occurrence of complications compared with the control group (&#x3c7;=12
+- However, the experimental group showed better social aspects of quality of life than the control group (t=2
 
 This study provides insights into:
-- Early enteral nutrition assessment methods and outcomes
-- Endocrine system assessment methods and outcomes
-- Intestinal flora assessment methods and outcomes
+- application assessment methods and outcomes
+- behavior assessment methods and outcomes
+- care assessment methods and outcomes

@@ -1,26 +1,24 @@
-Study Title: Role of &#x3b2;-Alanine Supplementation on Cognitive Function, Mood, and Physical Function in Older Adults; Double-Blind Randomized Controlled Study.
+Study Title: Hindmilk as a Rescue Therapy in Very Preterm Infants with Suboptimal Growth Velocity.
 
 Study Summary:
-This study investigated 10 weeks of &#x3b2;-alanine (BA) supplementation on changes in cognitive function, mood, and physical performance in 100 older adults (70.6 &#xb1; 8.7 y). Participants were randomized into a BA (2.4 g&#xb7;d) or placebo (PL) group. Testing occurred prior to supplementation (PRE), at the midpoint (MID), and at week-10 (POST). Participants completed cognitive function assessments, including the Montreal cognitive assessment (MOCA) and the Stroop pattern recognition test, at each testing session. Behavioral questionnaires [i.e., the profile of mood states, geriatric depression scale (GDS), and geriatric anxiety scale (GAS)] and physical function assessments (grip strength and timed sit-to-stand) were also conducted. No difference between groups was noted in MoCA scores (= 0.19). However, when examining participants whose MOCA scores at PRE were at or below normal (i.e., &#x2264;26), participants in BA experienced significant improvements in MOCA scores at MID (13.6%,= 0.009) and POST (11.8%,= 0.016), compared to PL. No differences were noted in mood scores, GAS, or any of the physical performance measures. A significant decrease was observed in the GDS for participants consuming BA but not in PL. Results suggested that BA supplementation can improve cognitive function in older adults whose cognitive function at baseline was at or below normal and possibly reduce depression scores.
+Despite advances in neonatal nutrition, very preterm infants remain at increased risk of extrauterine growth faltering. This prospective study aimed to examine the effect of hindmilk, the milk at the end of a breast expression session, on growth and plasma fatty acids (FAs) of infants born <30 weeks' gestation who had been on full enteral feeds for &#x2265;2 weeks and had a weight gain of <15 g/kg/day despite optimizing energy and protein intakes. Weight and plasma FAs were assessed before and two weeks after feeding hindmilk. Growth anthropometrics were assessed weekly for four weeks. Paired t-tests and multiple linear regression were used for statistical analyses of data from 34 infants and their 29 mothers. There was a significant increase in weight gain in the two weeks after feeding hindmilk (MD 3.9, 95%CI 1.2-6.5 g/kg/day). Weight Z-scores were larger at two weeks (MD 0.61, 95%CI 0.02-1.20) and onwards. Head circumference Z-scores were larger at three weeks (MD 0.83, 95%CI 0.20-1.47) and onwards. Plasma linoleic acid (LA) and &#x3b1;-linolenic acid (ALA) increased after feeding hindmilk. In conclusion, hindmilk may improve weight and head growth and increase LA and ALA in very preterm infants with suboptimal growth. A large randomized controlled trial is required to examine and validate the potential benefits of hindmilk.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15040923
+- DOI: 10.3390/nu15040929
 
 2. Keywords
-- aging
-- health
-- nutrition
-- pattern recognition
-- supplementation
+- extrauterine growth restriction
+- growth faltering
+- postnatal growth failure
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- aging assessment methods and outcomes
-- health assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- extrauterine growth restriction assessment methods and outcomes
+- growth faltering assessment methods and outcomes
+- postnatal growth failure assessment methods and outcomes

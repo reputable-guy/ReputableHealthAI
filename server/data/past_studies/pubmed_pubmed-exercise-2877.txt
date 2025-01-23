@@ -1,26 +1,30 @@
-Study Title: Influence of the CYP1A2 c.&#xa0;A&#x2009;>&#x2009;C polymorphism in the effect of caffeine on fat oxidation during exercise: a pilot randomized, double-blind, crossover, placebo-controlled trial.
+Study Title: Effects of combined anodal transcranial direct current stimulation and motor control exercise on cortical topography and muscle activation in individuals with chronic low back pain: A randomized controlled study.
 
 Study Summary:
-The aim of this study was to determine the influence of the CYP1A2 c.-163&#xa0;A&#x2009;>&#x2009;C (rs762551) polymorphism on the effect of oral caffeine intake on fat oxidation during exercise. Using a pilot randomized, double-blind, crossover, placebo-controlled trial, 32 young and healthy individuals (women&#x2009;=&#x2009;14, men&#x2009;=&#x2009;18) performed an incremental test on a cycle ergometer with 3-min stages at workloads from 30 to 70% of maximal oxygen uptake (VOmax). Participants performed this test after the ingestion of (a) placebo; (b) 3&#xa0;mg/kg of caffeine; (c) 6&#xa0;mg/kg of caffeine. Fat oxidation rate during exercise was measured by indirect calorimetry. The influence of the CYP1A2 c.-163&#xa0;A&#x2009;>&#x2009;C polymorphism in the effect of caffeine on fat oxidation rates during exercise was established with a three-way ANOVA (substance &#xd7; genotype &#xd7; intensity). Eight participants were genotyped as AA, 18 participants were CA heterozygotes, and 6 participants were CC. There was a main effect of substance (F&#x2009;=&#x2009;3.348, p&#x2009;=&#x2009;0.050) on fat oxidation rates during exercise with no genotype effect (F&#x2009;=&#x2009;0.158, p&#x2009;=&#x2009;0.959). The post hoc analysis revealed that, in comparison to the placebo, 3 and 6&#xa0;mg/kg of caffeine increased fat oxidation at 40-50% VOmax in AA (all p&#x2009;<&#x2009;0.050) and 50-60% VOmax in CA and CC participants (all p&#x2009;<&#x2009;0.050). Oral intake of 3 and 6&#xa0;mg/kg of caffeine increased fat oxidation rate during aerobic exercise in individuals with AA, CA and CC genotypes. This suggests that the effect of caffeine to enhance fat oxidation during exercise is not influenced by the CYP1A2 c.-163&#xa0;A&#x2009;>&#x2009;C polymorphism. The study was registered on clinicaltrials.gov with ID: NCT05975489.
+Aberrant movement in chronic low back pain (CLBP) is associated with a deficit in the lumbar multifidus (LM) and changes in cortical topography. Anodal transcranial direct current stimulation (a-tDCS) can be used to enhance cortical excitability by priming the neuromuscular system for motor control exercise (MCE), thereby enhancing LM activation and movement control. This study aimed to determine the effects of a 6-week MCE program combined with a-tDCS on cortical topography, LM activation, movement patterns, and clinical outcomes in individuals with CLBP. Twenty-two individuals with CLBP were randomly allocated to the a-tDCS group (a-tDCS; n&#xa0;=&#xa0;12) or sham-tDCS group (s-tDCS; n&#xa0;=&#xa0;10). Both groups received 20&#xa0;min of tDCS followed by 30&#xa0;min of MCE. The LM and erector spinae (ES) cortical topography, LM activation, movement control battery tests, and clinical outcomes (disability and quality of life) were measured pre- and post-intervention. Significant interaction (group&#xa0;&#xd7;&#xa0;time; p&#xa0;<&#xa0;0.01) was found in the distance between LM and ES cortical locations. The a-tDCS group demonstrated significantly fewer discrete peaks (p&#xa0;<&#xa0;0.05) in both ES and LM and significant improvements (p&#xa0;<&#xa0;0.05) in clinical outcomes post-intervention. The s-tDCS group demonstrated a significant increase (p&#xa0;<&#xa0;0.05) in the number of discrete peaks in the LM cortical topography. No significant changes (p&#xa0;>&#xa0;0.05) in LM activation were observed in either group; however, both groups demonstrated improved movement patterns. Our findings suggest that combined a-tDCS with MCE can separate LM and ES locations over time while s-tDCS (MCE alone) reduces the distance. Our study did not find superior benefits of adding a-tDCS before MCE for LM activation, movement patterns, or clinical outcomes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00394-024-03454-3
+- DOI: 10.1002/pri.2111
 
 2. Keywords
-- CYP1A2
-- Endurance exercise
-- Genetics
-- Lipids
-- Substrate oxidation
+- cortical topography
+- lumbar multifidus
+- movement pattern
+- transcranial direct current stimulation
+- transcranial magnetic stimulation
+- ultrasound imaging
 
 3. Key Findings
-- The post hoc analysis revealed that, in comparison to the placebo, 3 and 6&#xa0;mg/kg of caffeine increased fat oxidation at 40-50% VOmax in AA (all p&#x2009;<&#x2009;0
+- 01) was found in the distance between LM and ES cortical locations
+- The a-tDCS group demonstrated significantly fewer discrete peaks (p&#xa0;<&#xa0;0
+- The s-tDCS group demonstrated a significant increase (p&#xa0;<&#xa0;0
+- 05) in LM activation were observed in either group; however, both groups demonstrated improved movement patterns
 
 This study provides insights into:
-- CYP1A2 assessment methods and outcomes
-- Endurance exercise assessment methods and outcomes
-- Genetics assessment methods and outcomes
+- cortical topography assessment methods and outcomes
+- lumbar multifidus assessment methods and outcomes
+- movement pattern assessment methods and outcomes

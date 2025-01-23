@@ -1,28 +1,29 @@
-Study Title: Impact of high-protein enteral nutrition on muscle preservation in mechanically ventilated patients with severe pneumonia: a randomized controlled trial.
+Study Title: The Effect of Meal Frequency and Glycemic Index During the Night Shift on Alertness, Hunger, and Gastrointestinal Complaints in Female Health Care Workers-A Two-Armed Randomized Crossover Trial.
 
 Study Summary:
-This study aimed to assess the effects of enteral nutrition with different protein concentrations on muscle mass in severe pneumonia patients, providing insights for enteral nutrition practice in intensive care units (ICUs). A total of 120 severe pneumonia patients admitted to Dazhou Central Hospital's ICU between June 1, 2022, and February 1, 2023, meeting inclusion criteria, were randomly assigned to either a high-protein group (n&#x2009;=&#x2009;60, 1.8&#xa0;g/kg/d) or a standard-protein group (n&#x2009;=&#x2009;60, 1.2&#xa0;g/kg/d). Changes in relevant indicators were monitored on days 1, 5, and 10 of ICU admission, including quadriceps and diaphragm thickness, nutritional status (prealbumin and albumin), and adverse events such as diarrhea and constipation. Autoregressive of order 1 model (AR(1)) analysis revealed a decrease in both quadriceps and diaphragm thickness over time in both groups. A significant group &#xd7; time interaction was observed in quadriceps thickness. By day 10, compared to baseline, quadriceps thickness decreased in the high-protein (-0.315&#xa0;cm [95% CI, -0.340 to -0.289]) and standard-protein (-0.429&#xa0;cm [95% CI, -0.455 to -0.404]) groups. The high-protein group exhibited a lower quadriceps atrophy rate (13.97&#x2009;&#xb1;&#x2009;2.43%) compared to the standard-protein group (18.96&#x2009;&#xb1;&#x2009;2.61%), showing a significant difference (P&#x2009;<&#x2009;0.001). No significant differences were found in diaphragmatic thickness between groups and over time. By day 10, both groups exhibited decreased diaphragmatic muscle thickness compared to baseline. The high-protein group (33.76&#x2009;&#xb1;&#x2009;5.09%) had a slightly lower phrenic atrophy rate compared to the standard-protein group (33.41&#x2009;&#xb1;&#x2009;4.53%). Both groups experienced enteral nutritional intolerance manifested as diarrhea, constipation, and other adverse events. High-protein enteral nutrition significantly improved quadriceps thickness and demonstrated good safety in severe pneumonia patients, suggesting its suitability for widespread clinical application.
+Nutrition strategies for night-shift workers could optimize alertness and minimize hunger and reduce gastrointestinal complaints, enhancing safety and well-being. This study aimed to investigate the effects of 1 or 3 small meals, with either low or high glycemic index (GI), compared with no meal, on alertness, hunger, and gastrointestinal complaints during the night shift. Fifty-one female health care workers, aged 18 to 61 y, participated in a 2-armed randomized crossover design. In 1 study arm, participants received 1 yogurt meal during the night shift, AND in the other, they received 3. Each study arm involved 3 intervention periods during night shifts, with participants consuming yogurt with low GI (1LGI or 3LGI) OR high GI (1HGI or 3HGI) carbohydrates, or no meal (0NGI). Objective alertness was assessed using a validated brief psychomotor vigilance task (PVT-B), subjective alertness with the Samn-Perelli scale, and hunger and gastrointestinal complaints through questionnaires. Participants in the 1LGI (&#x3b2;: -4.6; 95% CI: 0.0, 9.3) and 3LGI (&#x3b2;: -3.4; 95% CI: 0.0, 6.8) conditions had fewer lapses during the PVT-B than those in the 3HGI condition. No differences were found between meal conditions for median and reciprocal reaction time or subjective alertness. All 4 conditions reported less hunger (&#x3b2;: from -0.6 to -1.2) compared with no meal. The 3LGI condition resulted in more rumbling intestines than the 3HGI (&#x3b2;: 1.1; 95% CI: 0.4, 1.7) and 0NGI (&#x3b2;: 0.74; 95% CI: 0.11, 1.37) conditions. Our study suggests that consuming 3 small low GI meals during the night shift helps maintain alertness and reduces lapses compared with 3 high GI meals. It also minimizes hunger but may cause mild gastrointestinal complaints. This trial was registered at International Clinical Trial Registry (https://trialsearch.who.int/Trial2.aspx?TrialID%3dNL-OMON25574).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s41043-024-00633-0
+- DOI: 10.1016/j.tjnut.2024.09.027
 
 2. Keywords
-- Diaphragmatic thickness
-- Enteral nutrition
-- Muscle wasting
-- Quadriceps muscle layer thickness
-- Severe pneumonia
+- cognitive performance
+- diet
+- gastrointestinal complaints
+- glycemic index
+- hunger feelings
+- night shift
+- nurses
+- occupational health
 
 3. Key Findings
-- Autoregressive of order 1 model (AR(1)) analysis revealed a decrease in both quadriceps and diaphragm thickness over time in both groups
-- No significant differences were found in diaphragmatic thickness between groups and over time
-- High-protein enteral nutrition significantly improved quadriceps thickness and demonstrated good safety in severe pneumonia patients, suggesting its suitability for widespread clinical application
+- No differences were found between meal conditions for median and reciprocal reaction time or subjective alertness
 
 This study provides insights into:
-- Diaphragmatic thickness assessment methods and outcomes
-- Enteral nutrition assessment methods and outcomes
-- Muscle wasting assessment methods and outcomes
+- cognitive performance assessment methods and outcomes
+- diet assessment methods and outcomes
+- gastrointestinal complaints assessment methods and outcomes

@@ -1,25 +1,20 @@
-Study Title: Health topics emerged from brief-motivational interviewing: A&#xa0;randomized clinical trial.
+Study Title: Tight Blood-Glucose Control without Early Parenteral Nutrition in the ICU.
 
 Study Summary:
-The goal of this study was to analyse transcription of audio recordings to determine health topics that emerged from brief-motivational interviewing (MI) compared to traditional oral hygiene instructions (OHI). Fifty-eight periodontal maintenance patients were randomized to a brief-MI or traditional OHI group for a longitudinal 1-year clinical trial. Both groups received four patient education sessions per their assigned group. Audio recordings were transcribed and coded. The overarching themes and subthemes emerged were quantified and reported as the number of instances per participant. Global scores and behavioural counts were compared across baseline, 4, 8, and 12-month research visits using mixed-effect models. Of the six overarching themes, the brief-MI group evoked more topics toward total health. Oral home care behaviours (15 vs. 10.2) and oral diseases/conditions (3.3 vs. 1.9) were discussed more in the brief-MI group compared to the traditional OHI group. This positive outcome for the average number of times a health topic was discussed in the brief-MI group compared to the traditional OHI group continued for the remaining major themes: lifestyle behaviours (1.0 vs. 0.4), nutrition (2.6 vs. 0.8), emotional/mental health (1.8 vs. 0.8) and general health (1.2 vs. 0.4). This study identified that brief-MI was a more successful communication approach to increase discussions of oral home care behaviours, oral diseases/conditions, lifestyle behaviours, nutrition, emotional/mental health and general health compared to traditional OHI in individuals with periodontitis.
+Randomized, controlled trials have shown both benefit and harm from tight blood-glucose control in patients in the intensive care unit (ICU). Variation in the use of early parenteral nutrition and in insulin-induced severe hypoglycemia might explain this inconsistency. We randomly assigned patients, on ICU admission, to liberal glucose control (insulin initiated only when the blood-glucose level was >215 mg per deciliter [>11.9 mmol per liter]) or to tight glucose control (blood-glucose level targeted with the use of the LOGIC-Insulin algorithm at 80 to 110 mg per deciliter [4.4 to 6.1 mmol per liter]); parenteral nutrition was withheld in both groups for 1 week. Protocol adherence was determined according to glucose metrics. The primary outcome was the length of time that ICU care was needed, calculated on the basis of time to discharge alive from the ICU, with death accounted for as a competing risk; 90-day mortality was the safety outcome. Of 9230 patients who underwent randomization, 4622 were assigned to liberal glucose control and 4608 to tight glucose control. The median morning blood-glucose level was 140 mg per deciliter (interquartile range, 122 to 161) with liberal glucose control and 107 mg per deciliter (interquartile range, 98 to 117) with tight glucose control. Severe hypoglycemia occurred in 31 patients (0.7%) in the liberal-control group and 47 patients (1.0%) in the tight-control group. The length of time that ICU care was needed was similar in the two groups (hazard ratio for earlier discharge alive with tight glucose control, 1.00; 95% confidence interval, 0.96 to 1.04; P&#x2009;=&#x2009;0.94). Mortality at 90 days was also similar (10.1% with liberal glucose control and 10.5% with tight glucose control, P&#x2009;=&#x2009;0.51). Analyses of eight prespecified secondary outcomes suggested that the incidence of new infections, the duration of respiratory and hemodynamic support, the time to discharge alive from the hospital, and mortality in the ICU and hospital were similar in the two groups, whereas severe acute kidney injury and cholestatic liver dysfunction appeared less prevalent with tight glucose control. In critically ill patients who were not receiving early parenteral nutrition, tight glucose control did not affect the length of time that ICU care was needed or mortality. (Funded by the Research Foundation-Flanders and others; TGC-Fast ClinicalTrials.gov number, NCT03665207.).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1111/idh.12739
+- DOI: 10.1056/NEJMoa2304855
 
 2. Keywords
-- OHI
-- brief motivational interviewing
-- motivational interviewing
-- patient education
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- (Funded by the Research Foundation-Flanders and others; TGC-Fast ClinicalTrials
 
 This study provides insights into:
-- OHI assessment methods and outcomes
-- brief motivational interviewing assessment methods and outcomes
-- motivational interviewing assessment methods and outcomes
+- General research methodology and outcomes

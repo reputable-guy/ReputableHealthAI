@@ -1,29 +1,25 @@
-Study Title: Optimizing Total Knee Arthroplasty Rehabilitation With Telehealth Physical Activity Behavior Change Intervention: A Randomized Clinical Trial.
+Study Title: High-intensity interval versus moderate-intensity continuous cycling training in Parkinson's disease: a randomized trial.
 
 Study Summary:
-Conventional total knee arthroplasty (TKA) rehabilitation has little impact on sedentary lifestyles that have negative long-term health consequences. The purpose of this trial was to determine the effect of telehealth-based physical activity behavior change intervention on physical activity and functional outcomes following TKA. This study was a 2-arm, parallel randomized controlled superiority trial at a regional Veterans Affairs medical center. The participants were 92 US military veterans (mean age&#x2009;=&#x2009;65.7 [SD =7.8] y) undergoing unilateral TKA. The Physical Activity Behavior Change (PABC) intervention included telehealth-based self-management training (10 30-minute sessions) delivered over 12&#xa0;weeks. The control intervention included telehealth-based health education sessions that matched PABC frequency and duration. Both groups participated in standardized conventional outpatient rehabilitation. Physical activity, measured as average daily step count, was the primary outcome. Secondary outcomes were Life-Space Assessment questionnaire, 30-Second Chair-Stand test, Timed "Up & Go" Test, 6-Minute Walk Test, Western Ontario and McMaster Universities Osteoarthritis Index, and Veterans RAND 12-Item Health Survey. The Self Efficacy for Exercise scale and daily time spent in different postures (sitting/lying, standing, stepping) were exploratory variables. Outcomes were measured at baseline (before surgery), mid-intervention (8&#xa0;weeks after surgery), after the intervention (14&#xa0;weeks after surgery; primary endpoint), and follow-up (38&#xa0;weeks after surgery). The PABC group had an estimated 931 (95% CI&#x2009;=&#x2009;42-1819) more daily steps than the control group from baseline to 14&#xa0;weeks, though a between-group effect was not sustained at 38&#xa0;weeks. There were no group differences in secondary outcomes. Participants included only military veterans using Veterans Health Administration services. The intervention targeted self-management and did not include peer support. The PABC intervention improved physical activity for veterans recovering from unilateral TKA at 14&#xa0;weeks after surgery, though the effect was not sustained at 38&#xa0;weeks. Physical function improved with rehabilitation but was not different between groups, indicating that physical function was not a primary driver of physical activity behavior. Conventional TKA rehabilitation has a negligible effect on free-living physical activity, which is relevant to long-term health outcomes. This trial identified telehealth physical activity self-management as effective in addressing activity behaviors, separate from conventional rehabilitation strategies.
+Exercise training is recommended to improve the quality of life in those living with Parkinson's disease (PD); however, the optimal prescription to improve cardiorespiratory fitness and disease-related motor symptoms remains unknown. Twenty-nine participants with PD were randomly allocated to either 10 wk of high-intensity interval training (HIIT) (= 15; 6 female) or moderate-intensity continuous training (MICT) (= 14; 5 female). The primary outcome was the change in maximal oxygen consumption (V&#x307;o). Secondary outcomes included changes in the Unified Parkinson's Disease Rating Scale (UPDRS) Part III motor score, Parkinson's Fatigue Scale (PFS)-16, resting and exercise cardiovascular measures, gait, balance, and knee extensor strength and fatigability. Exercise training increased V&#x307;o(main effect of time,< 0.01), with a clinically meaningful difference in the change following HIIT versus MICT (&#x394;3.7&#x2009;&#xb1;&#x2009;3.7 vs. 1.7&#x2009;&#xb1;&#x2009;3.2 mL&#xb7;kg&#xb7;min,= 0.099). The UPDRS motor score improved over time (< 0.001) but without any differences between HIIT versus MICT (&#x394;-9.7&#x2009;&#xb1;&#x2009;1.3 vs. -8.4&#x2009;&#xb1;&#x2009;1.4,= 0.51). Self-reported subjective fatigue (PFS-16) decreased over time (< 0.01) but was similar between HIIT and MICT groups (= 0.6). Gait, balance, blood pressure (BP), and heart rate (HR) were unchanged with training (all> 0.09). Knee extensor strength increased over time (= 0.03) but did not differ between HIIT versus MICT (&#x394;8.2&#x2009;&#xb1;&#x2009;5.9 vs. 11.7&#x2009;&#xb1;&#x2009;6.2 Nm,= 0.69). HIIT alone increased the muscular endurance of the knee extensors during an isotonic fatigue task to failure (= 0.04). In participants with PD, HIIT and MICT both increased V&#x307;oand led to improvements in motor symptoms and perceived fatigue; HIIT may offer the potential for larger changes in V&#x307;oand reduced knee extensor fatigability.The optimal exercise prescription to improve cardiorespiratory fitness and disease-related motor symptoms in adults with Parkinson's disease remains unknown. In a single-center randomized trial consisting of either 10 wk of high-intensity interval training (HIIT) or moderate-intensity continuous training (MICT), we found that both training modes increased V&#x307;o, with a larger clinically meaningful difference following HIIT. Both exercise modes improved motor symptoms and subjective fatigue, whereas HIIT increased the muscular endurance of the knee extensors.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/ptj/pzae088
+- DOI: 10.1152/japplphysiol.00219.2024
 
 2. Keywords
-- Accelerometry
-- Aged
-- Arthroplasty
-- Exercise
-- Physical Activity
-- Telerehabilitation
-- Total Knee Arthroplasty
-- Veterans
+- Parkinson&#x2019;s disease
+- exercise training
+- high-intensity interval exercise
+- maximal oxygen consumption
 
 3. Key Findings
-- Findings extraction requires manual review
+- In a single-center randomized trial consisting of either 10 wk of high-intensity interval training (HIIT) or moderate-intensity continuous training (MICT), we found that both training modes increased V&#x307;o, with a larger clinically meaningful difference following HIIT
 
 This study provides insights into:
-- Accelerometry assessment methods and outcomes
-- Aged assessment methods and outcomes
-- Arthroplasty assessment methods and outcomes
+- Parkinson&#x2019;s disease assessment methods and outcomes
+- exercise training assessment methods and outcomes
+- high-intensity interval exercise assessment methods and outcomes

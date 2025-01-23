@@ -1,25 +1,25 @@
-Study Title: Caffeine Mouth Rinse Plus Ingestion Improves the 10-Km Time Trial Compared to Caffeine Mouth Rinse Alone.
+Study Title: Effects of Macronutrient Intake and Number of Meals on Glycemic Outcomes Over 1 Year in Youth with Type 1 Diabetes.
 
 Study Summary:
-The benefits of caffeine to physical performance have been extensively demonstrated, however, it has recently been speculated that there is an effect of the administration route on its effectiveness.The current study investigated the effect of caffeine mouth rinse in isolation or combined with ingestion on performance in a 30-minute constant-load exercise followed by a 10-km cycling time trial.Ten physically active men performed a 30-minute constant-load exercise at 50% of the graded test Wmax, followed by a 10-km cycling time trial. Before and at the middle points of the constant-load exercise and 10-km cycling time trial, the following conditions were administered: PLA (cellulose ingestion plus mouth rinsing with magnesium sulfate), ING (5&#x2009;mg.kgof caffeine ingestion plus mouth rinsing with magnesium sulfate), MR (cellulose ingestion plus mouth rinsing with 1.2% caffeine), and COMB (5&#x2009;mg.kgof caffeine ingestion plus mouth rinsing with 1.2% caffeine).During the 30-minute constant-load exercise, COMB presented a lower rating of perceived exertion (RPE) than MR (&#x2009;=&#x2009;.04). For the 10-km time trial, the COMB was faster than MR (MR&#x2009;=&#x2009;1363&#x2009;&#xb1;&#x2009;345 vs. COMB&#x2009;=&#x2009;1291&#x2009;&#xb1;&#x2009;308s, &#x394;%&#x2009;=&#x2009;5.57,&#x2009;=&#x2009;.05). Mean power output was higher in COMB than PLA, ING, and MR (234&#x2009;&#xb1;&#x2009;15 vs. 169&#x2009;&#xb1;&#x2009;29, 148&#x2009;&#xb1;&#x2009;11, and 145&#x2009;&#xb1;&#x2009;12 W, respectively). There were no differences between conditions for heart rate and RPE during the 10-km time trial.In summary, caffeine mouth rinsing potentiated the effects of caffeine ingestion during the 10-km time trial compared to caffeine mouth rinsing alone.
+Insulin bolus doses derive from glucose levels and planned carbohydrate intake, although fat and protein impact glycemic excursions. We examined the impact of macronutrients and number of daily meals/snacks on glycemic outcomes in youth with type 1 diabetes.Youth (&#x2009;=&#x2009;136, ages 8-17) with type 1 diabetes completed 3-day food records, wore 3-day masked continuous glucose monitoring, and had A1c measurements every 3 months for 1 year. Diet data were analyzed using Nutrition Data System for Research. Longitudinal mixed models assessed effects of macronutrient intake and number of meals/snacks on glycemic outcomes.At baseline, youth (48% male) had mean age of 12.8&#x2009;&#xb1;&#x2009;2.5 years and diabetes duration of 5.9&#x2009;&#xb1;&#x2009;3.1 years; 73% used insulin pumps. Baseline A1c was 8.1%&#x2009;&#xb1;&#x2009;1.0%, percent time in range 70-180&#x2009;mg/dL (%TIR) was 49%&#x2009;&#xb1;&#x2009;17%, % time below range <70&#x2009;mg/dL (%TBR) was 6%&#x2009;&#xb1;&#x2009;8%, % time above range >180&#x2009;mg/dL (%TAR) was 44%&#x2009;&#xb1;&#x2009;20%, and glycemic variability as coefficient of variation (CV) was 41%&#x2009;&#xb1;&#x2009;8%; macronutrient intake included 48%&#x2009;&#xb1;&#x2009;5% carbohydrate, 36%&#x2009;&#xb1;&#x2009;5% fat, and 16%&#x2009;&#xb1;&#x2009;2% protein. Most youth (56%) reported 3-4 meals/snacks daily (range 1-9). Over 1 year, greater carbohydrate intake was associated with lower A1c (&#x2009;=&#x2009;0.0003), more %TBR (&#x2009;=&#x2009;0.0006), less %TAR (&#x2009;=&#x2009;0.002), and higher CV (&#x2009;=&#x2009;0.03). Greater fat intake was associated with higher A1c (&#x2009;=&#x2009;0.006), less %TBR (&#x2009;=&#x2009;0.002), and more %TAR (&#x2009;=&#x2009;0.005). Greater protein intake was associated with higher A1c (&#x2009;=&#x2009;0.01). More daily meals/snacks were associated with lower A1c (&#x2009;=&#x2009;0.001), higher %TIR (&#x2009;=&#x2009;0.0006), and less %TAR (&#x2009;=&#x2009;0.0001).Both fat and protein impact glycemic outcomes. Future automated insulin delivery systems should consider all macronutrients for timely insulin provision. The present research study derived from secondary analysis of the study registered under NCT00999375.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/02701367.2023.2293121
+- DOI: 10.1089/dia.2023.0464
 
 2. Keywords
-- Endurance
-- exercise
-- nutrition
-- trimethylxanthine
+- Family meals
+- Glycemic outcomes
+- Nutrition
+- Type 1 diabetes
 
 3. Key Findings
-- The benefits of caffeine to physical performance have been extensively demonstrated, however, it has recently been speculated that there is an effect of the administration route on its effectiveness
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Endurance assessment methods and outcomes
-- exercise assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- Family meals assessment methods and outcomes
+- Glycemic outcomes assessment methods and outcomes
+- Nutrition assessment methods and outcomes

@@ -1,28 +1,25 @@
-Study Title: Effect of aerobic exercise on neutrophil-lymphocyte ratio, platelet-lymphocyte ratio, and lymphocyte-monocyte ratio in burn patients: A randomized controlled trial.
+Study Title: Effects of Virtual Reality for Postural Control in Chronic Neck Pain: A Single-Blind, Randomized Controlled Study.
 
 Study Summary:
-This study aimed to investigate the effects of aerobic exercises in addition to standard treatment on parameters such as neutrophil-lymphocyte ratio (NLR), platelet-lymphocyte ratio (PLR), and lymphocyte-monocyte ratio (LMR) in patients with burns. A total of 31 hospitalized patients included in the study were divided into two groups using covariate adaptive randomization method according to burn percentage and burn type (1st:standard treatment, 2nd: standard treatment + aerobic training). NLR, PLR, and LMR were evaluated for 5 weeks in all groups. Independent samples t-test and Mann-Whitney U test were used to examine differences between the two groups. For comparing more than two groups, Friedman's test was used for non-normally distributed variables and Bonferroni test was used as the post hoc pairwise comparison method. Intragroup comparison of individuals in group 1 showed that the NLR values on days 7 and 14 were significantly higher than those on days 28 and 35 (p&#xa0;<&#xa0;0.05). Intragroup comparison of individuals in group 2 showed that the NLR values on days 1, 7, and 14 were significantly higher than those on days 21 and 35. Additionally, the NLR values on day 14 were higher than those on day 28. Individuals in group 1 showed a significant increase in PLR values each week (p&#xa0;<&#xa0;0.05). The addition of aerobic training to standard treatment in patients with burns may be more effective in improving inflammation markers such as NLR, PLR, and LMR.
+The purpose of this study was to investigate the effects of virtual reality (VR) on postural control, posture, and kinesiophobia in patients with chronic neck pain (CNP). Forty-one participants with CNP were randomly allocated to the VR and control groups. The VR group experienced VR with glasses for 20 minutes and then performed motor control (MC) exercises for 20 minutes. The control group received only MC exercises for 40 minutes. Both groups received 18 sessions over 6 weeks. Computerized dynamic posturography outcomes, including sensory organization test (SOT), limits of stability, and unilateral stance tests, gait speed, forward head posture (FHP), shoulder protraction (SP), cervical lordosis angle, kinesiophobia, and exercise compliance were recorded. The VR group had more effects regarding composite equilibrium (Cohen's d = 1.20) of SOT and kinesiophobia (Cohen's d = -0.96), P < .05). Also, the VR group was more effective in exercise compliance (P < .05). Contrary to these results, the control group was more effective in correcting FHP and SP (Cohen's d > 0.7, P < .05). Virtual reality seemed to have an effect on postural control, posture, and kinesiophobia in patients with chronic neck pain.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.bjps.2024.05.032
+- DOI: 10.1016/j.jmpt.2024.02.006
 
 2. Keywords
-- Aerobic exercise
-- Burns
-- Lymphocyte&#x2013;monocyte ratio
-- Neutrophil&#x2013;lymphocyte ratio
-- Platelet&#x2013;lymphocyte ratio
+- Kinesiophobia
+- Neck Pain
+- Postural Balance
+- Virtual Reality
 
 3. Key Findings
-- Intragroup comparison of individuals in group 1 showed that the NLR values on days 7 and 14 were significantly higher than those on days 28 and 35 (p&#xa0;<&#xa0;0
-- Intragroup comparison of individuals in group 2 showed that the NLR values on days 1, 7, and 14 were significantly higher than those on days 21 and 35
-- Individuals in group 1 showed a significant increase in PLR values each week (p&#xa0;<&#xa0;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Aerobic exercise assessment methods and outcomes
-- Burns assessment methods and outcomes
-- Lymphocyte&#x2013;monocyte ratio assessment methods and outcomes
+- Kinesiophobia assessment methods and outcomes
+- Neck Pain assessment methods and outcomes
+- Postural Balance assessment methods and outcomes

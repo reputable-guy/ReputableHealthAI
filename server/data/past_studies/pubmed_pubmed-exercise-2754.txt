@@ -1,26 +1,24 @@
-Study Title: Knee Arthroscopic Surgery in Middle-Aged Patients With Meniscal Symptoms: A 10-Year Follow-up of a Prospective, Randomized Controlled Trial.
+Study Title: A mechanistic understanding of cognitive performance deficits concurrent with vigorous intensity exercise.
 
 Study Summary:
-Short- and midterm evaluations of arthroscopic meniscal surgery have shown little or no effect in favor of surgery, although long-term effects, including radiographic changes, are unknown. To compare the 10-year outcomes in middle-aged patients with meniscal symptoms between a group that received an exercise program alone and a group that received knee arthroscopy in addition to the exercise program with respect to the prevalence of radiographic and symptomatic osteoarthritis (OA), patient-reported outcomes, and clinical status. Randomized controlled trial; Level of evidence, 1. Of 179 eligible patients aged 45 to 64 years, 150 were randomized to undergo either 3 months of exercise therapy (nonsurgery group) or knee arthroscopy in addition to the exercise therapy (surgery group). Surgery usually consisted of partial meniscectomy (n = 56) or diagnostic arthroscopy (n = 8). Radiographs were assessed according to the Kellgren-Lawrence score at the baseline and 5- and 10-year follow-ups. Patient-reported outcome measures were reported at the baseline and 1-, 3-, 5-, and 10-year follow-ups. Clinical status was assessed at a 10-year follow-up. The primary outcomes were radiographic OA and changes in the Knee injury and Osteoarthritis Outcome Score Pain subscale (KOOS) from the baseline to the 10-year follow-up. The primary analysis was performed using the intention-to-treat approach. At the time of the 10-year follow-up, eight patients had died, leaving 142 eligible patients. Radiographic OA was assessed for 95 patients (67%), questionnaires were answered by 110 (77%), and the clinical status was evaluated for 95 (67%). Radiographic OA was present in 67% of the patients in each group (&#x2265; .999); symptomatic OA was present in 47% of the nonsurgery group and 57% of the surgery group (= .301). There were no differences between groups regarding changes from baseline to 10 years in any of the KOOS subscales. Knee arthroscopic surgery, in most cases consisting of partial meniscectomy or diagnostic arthroscopy, in addition to exercise therapy in middle-aged patients with meniscal symptoms, did not increase the rates of radiographic or symptomatic OA and resulted in similar patient-reported outcomes at the 10-year follow-up compared with exercise therapy alone. Considering the short-term benefit and no long-term harm from knee arthroscopic surgery, the treatment may be recommended when first-line treatment-including exercise therapy for &#x2265;3 months-does not relieve patient's symptoms. Clinical Trials NCT01288768 (ClinicalTrials.gov identifier).
+This study aimed to evaluate whether cerebral oxygenation of the prefrontal cortex and associative-dissociative focus while completing the task mediate changes in cognition during exercise. Seventy-five young college-aged adults participated in this within-subjects randomized cross-over two-arm experimental design. During each session, participants completed a Stroop task four separate times: at baseline, two times during the exercise session, and at post-test. The experimental arm session involved participants cycling first at a moderate intensity, followed by cycling at a vigorous intensity. The active control arm session involved participants cycling at a very light intensity to ensure any effects were attributable to the level of exertion rather than the control of motor coordination. Cerebral oxygenation of the prefrontal cortex was assessed using fNIRS, while associate-dissociate attention was assessed using a self-report scale to provide insight into two hypothesized mechanisms which may contribute to alterations in cognition during exercise. Replicating well-established findings, results showed that during vigorous-intensity exercise, accuracy rates decreased for the most cognitively demanding conditions of the Stroop task, while reaction times were generally shorter compared to baseline. Neither shifting of attention in response to the dual-task nor prefrontal cortex oxygenation were observed to mediate cognitive deficits associated with vigorous exercise.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/03635465241255653
+- DOI: 10.1016/j.bandc.2024.106208
 
 2. Keywords
-- knee arthroscopy
-- meniscectomy
-- menisci
-- middle-aged
-- radiographic osteoarthritis
+- Cognition
+- Dual-task
+- Transient hypofrontality
 
 3. Key Findings
-- Findings extraction requires manual review
+- Replicating well-established findings, results showed that during vigorous-intensity exercise, accuracy rates decreased for the most cognitively demanding conditions of the Stroop task, while reaction times were generally shorter compared to baseline
 
 This study provides insights into:
-- knee arthroscopy assessment methods and outcomes
-- meniscectomy assessment methods and outcomes
-- menisci assessment methods and outcomes
+- Cognition assessment methods and outcomes
+- Dual-task assessment methods and outcomes
+- Transient hypofrontality assessment methods and outcomes

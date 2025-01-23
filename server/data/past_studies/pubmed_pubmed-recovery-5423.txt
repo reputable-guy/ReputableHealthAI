@@ -1,26 +1,26 @@
-Study Title: Head-neck cooling effects on central and peripheral fatigue, motor accuracy, and blood markers of stress in men with multiple sclerosis and healthy men: A randomized crossover study.
+Study Title: Investigating the impact of patient-centered peer counseling on anxiety and pain among burn patients: A randomized controlled trial.
 
 Study Summary:
-The present study aimed to investigate whether head and neck cooling (at 18 &#xb0;C next to the skin) and fatiguing submaximal exercise at a thermoneutral ambient temperature can induce peripheral and central responses in healthy men and those with multiple sclerosis (MS). A local head-neck cooling (at 18 &#xb0;C next to the skin) intervention in men with a relapsing-remitting form of MS (n = 18; age 30.9 &#xb1; 8.1 years) and healthy men (n = 22; age 26.7 &#xb1; 5.9 years) was assessed. Men in both groups performed 100 intermittent isometric knee extensions with 5 s contractions and 20 s of rest. The primary variables were measured before exercise, after 50 and 100 repetitions, and 1 h after recovery. The central activation ratio, maximal voluntary contraction, electrically induced force, electromyography, contractile properties, blood markers, muscle temperature, and perception of effort were measured. Compared with noncooled conditions, head and neck cooling increased the central capacity to activate exercising muscles but resulted in greater exercise-induced peripheral fatigue in men with MS (p < 0.05). Local cooling did not affect motor accuracy or the amplitude of electromyography signals; however, these factors were related to the intensity of the motor task (p > 0.05). The changes in central and peripheral fatigability induced by local cooling during submaximal exercise were more pronounced in men with MS than in healthy men (p < 0.05). Head and neck cooling enhances central activation of muscles during exercise, leading to improved exercise performance compared with noncooled conditions in men with MS.
+Pain and anxiety are common complications in burn patients, significantly impacting treatment effectiveness and overall patient well-being. Peer counseling, a form of patient education provided by individuals with shared experiences, may hold potential to alleviate this pain and anxiety. This study seeks to investigate the effectiveness of patient-centered education through peer counseling on background pain and state anxiety levels in these patients. A two-arm, parallel, randomized, controlled trial design was employed. A total of 86 participants were randomly allocated to one of two groups: control and intervention groups. State anxiety and background pain levels were assessed using the Spielberger State Anxiety Inventory (STAI) and Visual Analogue Scale (VAS), respectively, before and after intervention. Statistical analyses, including Chi-square test, Fisher's exact test, independent t-test, and paired t-test, were employed to analyze the data. The intervention significantly reduced pain and anxiety in the intervention group compared to baseline (p&#xa0;<&#xa0;.001). There was no significant difference between the control and intervention groups in baseline levels, but there was a significant difference after the intervention (p&#xa0;<&#xa0;.001). This study demonstrates the efficacy of patient-centered education through peer counseling in reducing background pain and state anxiety levels in burn patients. Compared to standard education, peer counseling led to a more pronounced reduction in both pain and anxiety, suggesting its potential as a valuable nonpharmaceutical intervention to improve patient well-being during burn recovery. Based on our findings, we recommend that healthcare providers consider implementing peer-based education programs in burn care settings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.msard.2024.105840
+- DOI: 10.1016/j.burns.2024.07.034
 
 2. Keywords
-- Fatigability
-- Local cooling
-- Motor performance
-- Multiple sclerosis
-- Stress hormones
+- Anxiety
+- Burns
+- Pain
+- Patient Education
+- Peer Influence
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Fatigability assessment methods and outcomes
-- Local cooling assessment methods and outcomes
-- Motor performance assessment methods and outcomes
+- Anxiety assessment methods and outcomes
+- Burns assessment methods and outcomes
+- Pain assessment methods and outcomes

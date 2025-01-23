@@ -1,28 +1,27 @@
-Study Title: Resistance training improves functional capacities in women with multiple sclerosis: a randomized control trial.
+Study Title: Effects of Physical Exercise Breaks on Executive Function in a Simulated Classroom Setting: Uncovering a Window into the Brain.
 
 Study Summary:
-This study aimed to investigate the effects of 12 weeks of resistance exercise training (RT) on oxidative status, muscle strength, functional capacity, quality of life (QoL), and fatigue in women with Multiple Sclerosis (MS). In this randomized control trial (ethical code: SSRI.REC-1402-101; IRCT registration code: IRCT20120912010824N3, 07.09.2023), Iran) twenty-five women with relapsing- remitting MS (aged 18-45 years and expanded disability status scale (EDSS)&#x2009;&#x2264;&#x2009;4) were randomly divided in two groups MS without resistance exercise (MS&#x2009;+&#x2009;non-RT; n&#x2009;=&#x2009;13) and with RT (12 weeks/3 times per week/ 60-80% of 1RM) (MS&#x2009;+&#x2009;RT; n&#x2009;=&#x2009;12). "Informed" consent was obtained from all participants. Then, fifteen healthy aged-matched women participated as a control group (HCON; n&#x2009;=&#x2009;15). Blood serum levels of oxidative stress [malondialdehyde (MDA)] and antioxidant capacity [superoxide dismutase (SOD) and glutathione peroxidase (GPx) activity] were obtained pre and post intervention. In addition, muscle strength by 5-RM test, functional capacity (for lower limb T25FWT, 2MWT, and 5STS tests and for Upper limb Manual dexterity of both hands with the (9-HPT) test and MSWS-12 questionnaire were also assessed over the same period. Also, Quality of life and fatigue were assessed pre- and post- intervention with by 31-MusiQoL questionnaire and FSMC questionnaire. RT led to improvements in muscle strength for leg extension, lying leg curl, bench press movements (P&#x2009;<&#x2009;0.001, P&#x2009;<&#x2009;0.001, P&#x2009;<&#x2009;0.001, respectively). Moreover, compared with the MS&#x2009;+&#x2009;non-RT group, RT demonstrated increased functional capacity (Timed 25 ft Walk Test, Two-Minute Walk Test, 5-Time Sit-To-Stand Test, Twelve Item MS Walking Scale (P&#x2009;<&#x2009;0.001, P&#x2009;<&#x2009;0.001, P&#x2009;<&#x2009;0.001, P&#x2009;<&#x2009;0.001, respectively). Dexterity of the left hand but not the right hand also improved (P&#x2009;<&#x2009;0.01, P&#x2009;=&#x2009;0.057, respectively). Improvements were also found for fatigue and QoL (P&#x2009;<&#x2009;0.01, P&#x2009;<&#x2009;0.05). However, the mean changes of MDA, SOD and GPx noted in RT group were not statistically significant (P&#x2c3;0.05, P&#x2c3;0.05, P&#x2c3;0.05, respectively). RT has positive effects on muscle strength, functional capacity, and quality of life while reducing fatigue in this population. However, markers of oxidative stress were not affected. When we consider the clear role in MS pathogenesis and progression, antioxidant increases in relation to a reduction in pro-oxidant capacity would have provided a positive and important clinical development for people with MS.
+Acknowledging the detrimental effects of prolonged sitting, this study examined the effects of an acute exercise break during prolonged sitting on executive function, cortical hemodynamics, and microvascular status. In this randomized crossover study, 71 college students completed three conditions: (i) uninterrupted sitting (SIT); (ii) SIT with a 15 min moderate-intensity cycling break (MIC); and (iii) SIT with a 15 min vigorous-intensity cycling break (VIC). Behavioral outcomes, retinal vessel diameters (central retinal artery equivalents [CRAE], retinal vein equivalents [CRVE], arteriovenous ratio [AVR]), cortical activation, and effective connectivity were evaluated. Linear mixed models identified significant positive effects of exercise conditions on behavioral reaction time (RT), error rate, and inverse efficiency score (&#x3b2; = -2.62, -0.19, -3.04: ps < 0.05). MIC and VIC conditions produced pre-to-post-intervention increases in CRAE and CRVE (&#x3b2; = 4.46, 6.34), frontal activation, and resting-state and task-state causal density (&#x3b2; = 0.37, 0.06) (ps < 0.05) compared to SIT; VIC was more beneficial for executive function and neurobiological parameters. The effect of AVR on average RT was mediated through task-based causal density (indirect effect: -0.82). Acutely interrupting prolonged sitting improves executive function, microvascular status, and cortical activation and connectivity, with causal density mediating the microvascular-executive function link.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1186/s12883-024-03964-x
+- Publication Date: 2025
+- DOI: 10.1002/advs.202406631
 
 2. Keywords
-- Fatigue
-- Functional capacity
-- Multiple sclerosis
-- Muscle strength
-- Oxidative stress markers
-- Resistance training
+- brain Health
+- cerebrovascular health
+- effective connectivity
+- microvascular health
+- sedentary behavior
+- young adults
 
 3. Key Findings
-- Moreover, compared with the MS&#x2009;+&#x2009;non-RT group, RT demonstrated increased functional capacity (Timed 25 ft Walk Test, Two-Minute Walk Test, 5-Time Sit-To-Stand Test, Twelve Item MS Walking Scale (P&#x2009;<&#x2009;0
-- Improvements were also found for fatigue and QoL (P&#x2009;<&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Fatigue assessment methods and outcomes
-- Functional capacity assessment methods and outcomes
-- Multiple sclerosis assessment methods and outcomes
+- brain Health assessment methods and outcomes
+- cerebrovascular health assessment methods and outcomes
+- effective connectivity assessment methods and outcomes

@@ -1,26 +1,20 @@
-Study Title: Effects of two immunosuppression regimens on T-lymphocyte subsets in elderly kidney transplant recipients.
+Study Title: Impact of Manual Sustained Inflation vs Stepwise PEEP on Pulmonary and Cerebral Outcomes in Carotid Endarterectomy Patients.
 
 Study Summary:
-Despite the growing number of elderly kidney transplant (Ktx) recipients, few studies have examined the effects of immunosuppression on their lymphocyte profiles. We evaluated the early conversion from mycophenolate sodium (MPS) to everolimus (EVL) after rabbit antithymocyte globulin (rATG) 2 mg/kg induction in elderly kidney recipients. Three groups of KTx patients were compared: (a) Young (n=20, 36 &#xb1; 7 y) receiving standard immunosuppression (Group A1) (prednisone, tacrolimus, and MPS), (b) Elderly (n=35, 65 &#xb1; 3 y) receiving standard immunosuppression (Group B1), and (c) Elderly (n=16, 65 &#xb1; 3 y) with early (mean 30 d) conversion from MPS to EVL (Group B2). Naive, memory, and regulatory peripheral blood TCD4lymphocytes were quantified at 0, 30, and 365 d. Results are reported as [mean(p25-p75)]. Young recipients had higher lymphocyte counts at baseline [2,100(1,630-2,400) vs. 1,310 (1,000-1,600)/mm, p<0.0001] maintained higher counts within 365 d [1,850(1,590-2,120) vs. 1,130(460-1,325)/mm, p=0.018 and vs. 1,410(805-1,895)/mm, p=0.268]. Elderly recipients showed a decrease in lymphocytes within 30 d [1,310(1,000-1,600) vs. 910(700-1,198)/mm, p=0.0012] with recovery within 365 d. The same pattern was observed in total lymphocytes and TCD4counts. Rabbit antithymocyte globulin induced a reduction in central memory T-cell percentages at 30 d in both young recipients [6.2(3.77-10.8) vs. 5.32(2.49-7.28)% of CD4, p=0.036] and in elderly recipients [8.17(5.28-12.88) vs. 6.74(4.36-11)% of CD4, p=0.05] on standard immunosuppression, returning to baseline at 365 d in elderly recipients but not in young recipients. Regulatory T CD39cells (Treg) percentages decreased at 30 d in elderly recipients [2.1(1.23-3.51) vs. 1.69(0.8-2.66)% of CD4, p=0.0028] and in young recipients [1.29(0.45-1.85) vs. 0.84(0.18-1.82)% of CD4, p=0.0038], returning to baseline at 365 d in elderly recipients [2.1(1.23-3.51) vs. 2.042(0.88-2.42)% of CD4], but not in young recipients [1.29(0.45-1.85) vs. 0.86(0.7-1.34) % of CD4]. The elderly everolimus conversion group did not show significant changes in cell profile over time or compared to elderly recipients with standard immunosuppression. Aging favored the maintenance of Treg during the late transplantation period despite ongoing immunosuppression. Lymphocyte depletion due to rATG was more prominent in elderly recipients and affected memory subsets with a temporary reduction in central memory T cells. However, conversion to everolimus did not impact Treg profile. Reducing the dose of rATG in elderly recipients seems necessary for the expected lymphocyte changes with EVL to occur. nEverOld Trial, identifier NTC01631058.
+BACKGROUND Recruitment maneuvers (RMs) are used to reduce pulmonary atelectasis in patients under general anesthesia, but they can lead to a decrease in cerebral hemodynamics. MATERIAL AND METHODS Thirty patients undergoing carotid endarterectomy were randomized to a manual sustained inflation (SI) group or a stepwise increase in PEEP (IP) group. During both RMs, the peak airway pressure (Ppeak) was maintained at 30 cmH&#x2082;O for 30 s. Electrical impedance tomography was used to evaluate pulmonary aeration changes. Mean velocity of blood flow in the middle cerebral artery (Vm) and cerebral oxygen saturation (rScO&#x2082;) was monitored intraoperatively. RESULTS IP improved lung aeration better at Ppeak=30 cmH&#x2082;O than SI (58.2&#xb1;8.4% vs 46.0&#xb1;8.3%, P=0.001) and this persisted until the end of surgery. Dorsal (dependent) ventilation 30 min after extubation in the SI group was lower than that before surgery (7.7&#xb1;2.6% vs 9.9&#xb1;3.8%, P=0.003). Vm and rScO&#x2082; returned to baseline immediately after RM in the SI group, while it remained below baseline in the IP group (42.5&#xb1;12.6 vs 50.9&#xb1;18.8 cm/s, P<0.001 and 68.1&#xb1;3.5% vs 70.6&#xb1;3.7%, P=0.001). Heart rate declined significantly during RM only in the SI group (55.9&#xb1;6.6 vs 52.2&#xb1;6.9 bpm, P=0.008). CONCLUSIONS Compared with SI, IP performed better in improving lung aeration, with greater hemodynamic stability. IP resulted in slower recovery of cerebral blood flow and oxygenation.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fimmu.2024.1405855
+- DOI: 10.12659/MSM.944936
 
 2. Keywords
-- elderly
-- everolimus
-- kidney tranplantation
-- memory T CD4+ cells
-- regulatory (Treg) cell
+
 
 3. Key Findings
-- Elderly recipients showed a decrease in lymphocytes within 30 d [1,310(1,000-1,600) vs
+- Findings extraction requires manual review
 
 This study provides insights into:
-- elderly assessment methods and outcomes
-- everolimus assessment methods and outcomes
-- kidney tranplantation assessment methods and outcomes
+- General research methodology and outcomes

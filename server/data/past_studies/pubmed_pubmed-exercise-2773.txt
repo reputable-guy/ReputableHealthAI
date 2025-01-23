@@ -1,28 +1,26 @@
-Study Title: Allied rehabilitation using caregiver-mediated exercises combined with telerehabilitation for stroke (ARMed4Stroke): A randomised controlled trial.
+Study Title: A sensor platform based on SERS detection/janus textile for sweat glucose and lactate analysis toward portable monitoring of wellness status.
 
 Study Summary:
-To assess the added value of caregiver-mediated exercises combined with telerehabilitation in addition to usual care compared to usual care alone on the self-reported mobility outcome after subacute stroke. Multicentre, observer-blinded, parallel randomised controlled trial. An off-site researcher allocated treatments using minimisation. Four rehabilitation centres in the Netherlands. Forty-one patient-caregiver dyads within 3&#x2005;months poststroke. Eight-week blended care program with caregiver-mediated mobility exercises for 2.5&#x2005;h per week supported by telerehabilitation and four face-to-face sessions in addition to usual care. Self-reported mobility domain of the Stroke Impact Scale postintervention. Secondary outcomes were functional outcome, dyads' psychosocial wellbeing, care transition to the community postintervention and after 6 months. Forty-one dyads (21 intervention, 20 control) were randomised, and 37 (N&#x2009;=&#x2009;18; N&#x2009;=&#x2009;19) were analysed following intention-to-treat. The Stroke Impact Scale mobility was not significantly different between groups postintervention (B 0.8, 95% CI -6.8-8.5,= 0.826). The secondary outcomes, namely, (a) caregivers' quality of life postintervention (=&#x2009;0.013), (b) caregivers' symptoms of depression postintervention (=&#x2009;0.025), and (c) independence in leisurely activities at 6&#x2005;months (=&#x2009;0.024), showed significant benefits in favour of caregiver-mediated exercises with telerehabilitation. A significant difference favouring controls was found in self-reported muscle strength at 6&#x2005;months (=&#x2009;0.002). Caregiver-mediated exercises combined with telerehabilitation yielded no differential effect on our primary outcome self-reported mobility. Although the trial is underpowered, current findings are in line with previous trials. Future studies should further explore beneficial effects of caregiver involvement in stroke rehabilitation targeting psychosocial wellbeing.
+Herein we report a wearable sweat sensor of a Janus fabric based on surface enhanced Raman scattering (SERS) technology, mainly detecting the two important metabolites glucose and lactate. Janus fabric is composed of electrospinning PU on a piece of medical gauze (cotton), working as the unidirectional moisture transport component (R&#xa0;=&#xa0;1305%) to collect and transfer sweat efficiently. SERS tags with different structures act as the probe to recognize and detect the glucose and lactate in high sensitivity. Core-shell structured gold nanorods with DTNB inside (AuNRs@DTNB@Au) are used to detect lactate, while gold nanorods with MPBA (AuNRs@MPBA) are used to detect glucose. Through the characteristic SERS information, two calibration functions were established for the concentration determination of glucose and lactate. The concentrations of glucose and lactate in sweat of a 23 years volunteer during three-stage interval running are tested to be 95.5, 53.2, 30.5&#xa0;&#x3bc;M and 4.9, 13.9, 10.8&#xa0;mM, indicating the glucose (energy) consumption during exercise and the rapid accumulation of lactate at the early stage accompanied by the subsequent relief. As expected, this sensing system is able to provide a novel strategy for effective acquisition and rapid detection of essential biomarkers in sweat.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/02692155241261700
+- DOI: 10.1016/j.bios.2024.116612
 
 2. Keywords
-- caregivers
-- exercise
-- randomised controlled trial
-- stroke
-- telerehabilitation
-- walking
+- Glucose and lactate monitoring
+- Gold nanorods
+- Janus fabric
+- SERS detection
+- Sweat sensor
 
 3. Key Findings
-- 024), showed significant benefits in favour of caregiver-mediated exercises with telerehabilitation
-- A significant difference favouring controls was found in self-reported muscle strength at 6&#x2005;months (=&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- caregivers assessment methods and outcomes
-- exercise assessment methods and outcomes
-- randomised controlled trial assessment methods and outcomes
+- Glucose and lactate monitoring assessment methods and outcomes
+- Gold nanorods assessment methods and outcomes
+- Janus fabric assessment methods and outcomes

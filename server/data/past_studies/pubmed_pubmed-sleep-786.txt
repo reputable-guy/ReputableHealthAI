@@ -1,41 +1,26 @@
-Study Title: Mobile-Delivered Mindfulness Intervention on Anxiety Level Among College Athletes: Randomized Controlled Trial.
+Study Title: [Effectiveness of Anvifen in the treatment of insomnia in elderly patients].
 
 Study Summary:
-College athletes are a group often affected by anxiety. Few interventional studies have been conducted to address the anxiety issues in this population. We conducted a mobile-delivered mindfulness intervention among college athletes to study its feasibility and efficacy in lowering their anxiety level and improving their mindfulness (measured by the Five Facet Mindfulness Questionnaire [FFMQ]). In April 2019, we recruited 290 college athletes from a public university in Shanghai, China, and 288 of them were randomized into an intervention group and a control group (closed trial), with the former (n=150) receiving a therapist-guided, smartphone-delivered mindfulness-based intervention and the latter receiving mental health promotion messages (n=138). We offered in-person instructions during the orientation session for the intervention group in a classroom, with the therapist interacting with the participants on the smartphone platform later during the intervention. We used generalized linear modeling and the intent-to-treat approach to compare the 2 groups' outcomes in dispositional anxiety, precompetition anxiety, and anxiety during competition, plus the 5 dimensions of mindfulness (measured by the FFMQ). Our intent-to-treat analysis and generalized linear modeling found no significant difference in dispositional anxiety, precompetition anxiety, or anxiety during competition. Only the "observation" facet of mindfulness measures had a notable difference between the changes experienced by the 2 groups, whereby the intervention group had a net gain of .214 yet fell short of reaching statistical significance (P=.09). Participants who specialized in group sports had a higher level of anxiety (&#x3b2;=.19; SE=.08), a lower level of "nonjudgemental inner experience" in FFMQ (&#x3b2;=-.07; SE=.03), and a lower level of "nonreactivity" (&#x3b2;=-.138; SE=.052) than those specializing in individual sports. No significant reduction in anxiety was detected in this study. Based on the participant feedback, the time availability for mindfulness practice and session attendance for these student athletes in an elite college could have compromised the intervention's effectiveness. Future interventions among this population could explore a more student-friendly time schedule (eg, avoid final exam time) or attempt to improve cognitive and scholastic outcomes. Chinese Clinical Trial Registry ChiCTR1900024449; https://www.chictr.org.cn/showproj.html?proj=40865.
+Purpose of the study to determine the effectiveness of Anvifen in the case of insomnia and meteosensitivity as comorbid stress-induced disorders. 67 patients aged 60-70 years were examined, who were randomly divided into two groups: group 1 - 33 patients (20 men, 13 women), group 2 - 34 patients (19 men, 15 women). The average age of group 1 was 62.7 [61; 65] years, group 2 was 63.1 [60; 66] years (=0.28). Research methods: questionnaire for scoring subjective characteristics of sleep, assessing the influence of meteosensitivity on daily activity using a numerical rank scale (NRS) for the previous three months. Patients in group 1 took Anvifen 250 mg (capsules) in the morning and afternoon, 500 mg (2 capsules) in the evening at 10 p.m., and upon awakening at night - an additional 250 mg of the drug per capsule. Patients in group 2 took Anvifen powder (extracting it from the capsule) 250 mg in the morning and afternoon, 500 mg in the evening at 10 p.m., and upon awakening at night - an additional 250 mg of the drug. The time from the nightly intake of Anvifen to the onset of sleep was also assessed on a three-degree scale: &#xab;fast&#xbb;, &#xab;long&#xbb;, &#xab;very long&#xbb;. The duration of treatment was 4 weeks. Baseline results of measured parameters did not differ significantly between groups. After completion of treatment, the total score of subjective sleep characteristics improved in 1(=0.00001) and 2(=0.000001) groups. Significant differences from group 1 for the better in group 2 were in &#xab;quality of sleep&#xbb; (=0.00027) and &#xab;quality of awakening&#xbb; (=0.00001). Weather sensitivity decreased in 1(=0.00001) and 2(=0.000001) groups. Anvifen showed good effectiveness in the treatment of two comorbid conditions of elderly people - insomnia and meteosensitivity. Using the drug in powder form allows you to get a faster and better effect without side-effects.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/40406
+- DOI: 10.17116/jnevro202412402191
 
 2. Keywords
-- anxiety
-- athletes
-- body
-- calmness
-- cognition
-- college
-- college students
-- feasibility
-- feedback
-- intervention
-- mHealth
-- meditation
-- mindfulness
-- mobile
-- participant
-- positive
-- program
-- relaxation
-- sleep
-- students
+- Anvifen
+- aminophenylbutyric acid
+- elderly patient
+- insomnia
+- meteosensitivity
 
 3. Key Findings
-- Our intent-to-treat analysis and generalized linear modeling found no significant difference in dispositional anxiety, precompetition anxiety, or anxiety during competition
+- Anvifen showed good effectiveness in the treatment of two comorbid conditions of elderly people - insomnia and meteosensitivity
 
 This study provides insights into:
-- anxiety assessment methods and outcomes
-- athletes assessment methods and outcomes
-- body assessment methods and outcomes
+- Anvifen assessment methods and outcomes
+- aminophenylbutyric acid assessment methods and outcomes
+- elderly patient assessment methods and outcomes

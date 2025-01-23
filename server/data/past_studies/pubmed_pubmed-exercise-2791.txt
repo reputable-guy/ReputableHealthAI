@@ -1,28 +1,21 @@
-Study Title: Effect of a physical exercise program supported by wearable technology in children with drug-resistant epilepsy. A randomized controlled trial.
+Study Title: Effects of prenatal exercise interventions on maternal body composition: A secondary analysis of the FitMum randomized controlled trial.
 
 Study Summary:
-to investigate the effects of a physical exercise (PE) program, supported by wearable technology (WT), in children with drug-resistant epilepsy (DRE). 29 children with DRE were randomized to experimental (EG) and control (CG) groups. To encourage PE, the EG performed one hour of aerobic activity three days a week for six months, outside the school setting. Compliance was monitored using activity wristbands, with data reported weekly by parents. Health-related quality of life (HRQoL), seizure frequency, physical activity (PA), physical fitness (musculoskeletal, motor, and Cardiorespiratory Fitness), and body composition, were assessed at baseline, at three and six months. Seizure frequency in the last six months evolved from 10.5 seizures/week at baseline, to 4.5 at the end of the study in the EG, and from 5.2 seizures/week to one in the CG. Significant differences were found in weekly hours-PE (&#x3b7;2= 0.49); motor fitness (&#x3b7;2= 0.08); Cardiorespiratory Fitness (&#x3b7;2= 0.19); weight (&#x3b7;2= 0.003); Triceps skinfold thickness (&#x3b7;2= 0.05); lower limb muscular strength (&#x3b7;2= 0.03); HRQoL (&#x3b7;2= 0.02); and PA (&#x3b7;2= 0.22). Post-hoc ANOVA revealed that EG improved significantly (p < 0.05) between baseline and six months. Negative correlations were observed between PA and seizure frequency. Supported by WT, children with DRE increased the weekly hours of PE at three and six months, with no increase in seizure frequency. Our study provides evidence of the effectiveness of PE for improving HRQoL.
+The main objective of the study was to investigate the effects of prenatal exercise interventions on maternal body composition at 28 weeks gestation and 7-14 days after delivery. We also explored associations between physical activity (PA) per se and body composition. This study presents secondary outcomes of the FitMum randomized controlled trial, which included healthy inactive pregnant women at gestational age &#x2264; 15+0 weeks. They were randomized to structured supervised exercise training, motivational counselling on PA, or standard care. Maternal body composition was measured by doubly labeled water at 28 weeks gestation (n = 134) and by dual-energy X-ray absorptiometry scan 7-14 days after delivery (n = 117). PA, including moderate-to-vigorous-intensity PA (MVPA), active kilocalories, and steps, were measured continuously from inclusion to delivery by a wrist-worn activity tracker. One hundred fifty pregnant women were included with a median pre-pregnancy body mass index (BMI) of 24.1 (21.6-27.9) kg/m2. We found no differences between groups in fat mass, fat percentage or fat-free mass at 28 weeks gestation or 7-14 days after delivery. Visceral adipose tissue mass and bone mineral density measured 7-14 days after delivery did not differ between groups either. Linear regression analyses adjusted for pre-pregnancy BMI showed that a higher number of daily steps was associated with lower fat mass, fat percentage, and visceral adipose tissue mass at 28 weeks gestation and 7-14 days after delivery. Active kilocalories during pregnancy was positively associated with fat-free mass 7-14 days after delivery. Neither structured supervised exercise training nor motivational counselling on PA during pregnancy affected maternal body composition at 28 weeks gestation or 7-14 days after delivery compared to standard care. Interestingly, when adjusted for pre-pregnancy BMI, higher number of daily steps was associated with lower fat content during pregnancy and after delivery, whereas MVPA and active kilocalories were not. Trial registration: ClinicalTrials.gov; NCT03679130; 20/09/2018.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.seizure.2024.07.019
+- DOI: 10.1371/journal.pone.0308214
 
 2. Keywords
-- Cardiorespiratory Fitness
-- Child
-- Drug-resistant epilepsy
-- Exercise
-- Quality of life
-- Seizures
+
 
 3. Key Findings
-- Significant differences were found in weekly hours-PE (&#x3b7;2= 0
-- Post-hoc ANOVA revealed that EG improved significantly (p < 0
+- We found no differences between groups in fat mass, fat percentage or fat-free mass at 28 weeks gestation or 7-14 days after delivery
+- Linear regression analyses adjusted for pre-pregnancy BMI showed that a higher number of daily steps was associated with lower fat mass, fat percentage, and visceral adipose tissue mass at 28 weeks gestation and 7-14 days after delivery
 
 This study provides insights into:
-- Cardiorespiratory Fitness assessment methods and outcomes
-- Child assessment methods and outcomes
-- Drug-resistant epilepsy assessment methods and outcomes
+- General research methodology and outcomes

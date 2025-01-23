@@ -1,27 +1,29 @@
-Study Title: Impact of an internet-based insomnia intervention on suicidal ideation and associated correlates in veterans at elevated suicide risk.
+Study Title: A randomized controlled trial to evaluate the progressive muscle relaxation technique in hip fracture patients.
 
 Study Summary:
-Improving public health approaches to suicide prevention requires scalable evidence-based interventions that can be easily disseminated. Given empirical data supporting the association between insomnia and suicide risk, internet-delivered insomnia interventions are promising candidates to meet this need. The purpose of this study was to examine whether an unguided internet-delivered cognitive-behavioral therapy for insomnia (iCBT-I) improved insomnia severity, suicidal ideation (SI), and suicide risk correlates (depression, post-traumatic stress disorder, anxiety, hostility, belongingness, hopelessness, agitation, irritability, concentration) in a sample of veterans. Secondary data analysis of Operation Enduring Freedom, Operation Iraqi Freedom, and Operation New Dawn veterans (n = 50) with clinically significant insomnia and elevated SI drawn from a larger randomized controlled trial (RCT) of an iCBT-I, Sleep Healthy Using the Internet (SHUTi). Two-sample t-tests or Wilcoxon rank sum tests were used to evaluate between-group differences (SHUTi vs. Insomnia Education Website control) in symptom improvement from baseline to post-intervention. SHUTi participants experienced a significant improvement in insomnia severity (P < .001; d = -1.08) and a non-significant with small (subthreshold medium) effect size reduction of SI (P = .17, d = 0.40), compared to control participants. Significant improvement in hopelessness was observed (medium effect size), with non-significant small to medium effect size reductions in most remaining suicide risk correlates. Self-administered iCBT-I was associated with improvements in insomnia severity in veterans at elevated risk for suicide. These preliminary findings suggest that SI and suicide risk correlates may improve following an iCBT-I intervention, demonstrating the need for future well-powered iCBT-I RCTs targeted for populations at elevated suicide risk.
+The purpose of this research was to ascertain how progressive muscle relaxation (PMR) technique affected hip fracture patients' anxiety, sleep quality, and post-operative pain. This parallel randomized controlled trial was conducted on 100 patients with hip fracture hospitalized in one of the reference orthopedic hospitals in Tehran, Iran who were selected using convenience sampling and randomly were placed in two PMR group (n&#x2009;=&#x2009;50) and control group (n&#x2009;=&#x2009;50). Data were collected by Demographic information questionnaire, Visual analogue scale for pain rating, Pittsburgh Sleep Quality Index and State-Trait Anxiety Inventory. The PMR technique was the progressive muscle relaxation technique, which was started the night after the surgery for three nights before going to bed. Data were collected on two occasions, including before the PMR technique and the day after the last stage of the PMR technique. The data were analyzed by SPSS software using descriptive and inferential statistics. The results revealed significant within-group changes in both groups' post-operative pain, sleep quality, and anxiety scores (P&#x2009;<&#x2009;0.001). The progressive muscle relaxation group experienced decreased post-operative pain and anxiety scores and increased sleep quality scores (P&#x2009;<&#x2009;0.001). The linear mixed model showed that the absolute changes in the follow-up post-operative pain, sleep quality, and anxiety scores were 1.19 and 7.94 units, significantly lower than the baseline, respectively. The results revealed significant within-group changes in both groups' post-operative pain, sleep quality, and anxiety scores (P&#x2009;<&#x2009;0.001). The progressive muscle relaxation group experienced decreased post-operative pain and anxiety scores and increased sleep quality scores (P&#x2009;<&#x2009;0.001). The study's findings demonstrated the beneficial effects of progressive muscle relaxation on hip fracture patients' outcomes, such as their level of anxiety, sleep quality, and post-operative pain. The study's findings can be applied by medical professionals to improve patient satisfaction and care quality.This clinical trial has been registered with the Iranian Registry of Clinical Trials under the code IRCT20231120060119N1, which was approved on 7/12/2023.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/tbm/ibae032
+- DOI: 10.1038/s41598-024-64516-4
 
 2. Keywords
-- insomnia
-- internet intervention
-- sleep treatment
-- suicide
-- technology
-- veteran
+- Anxiety
+- Hip fracture
+- Pain
+- Relaxation
+- Sleep quality
 
 3. Key Findings
-- Findings extraction requires manual review
+- The results revealed significant within-group changes in both groups' post-operative pain, sleep quality, and anxiety scores (P&#x2009;<&#x2009;0
+- The linear mixed model showed that the absolute changes in the follow-up post-operative pain, sleep quality, and anxiety scores were 1
+- The results revealed significant within-group changes in both groups' post-operative pain, sleep quality, and anxiety scores (P&#x2009;<&#x2009;0
+- The study's findings demonstrated the beneficial effects of progressive muscle relaxation on hip fracture patients' outcomes, such as their level of anxiety, sleep quality, and post-operative pain
 
 This study provides insights into:
-- insomnia assessment methods and outcomes
-- internet intervention assessment methods and outcomes
-- sleep treatment assessment methods and outcomes
+- Anxiety assessment methods and outcomes
+- Hip fracture assessment methods and outcomes
+- Pain assessment methods and outcomes

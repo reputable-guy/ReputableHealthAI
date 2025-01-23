@@ -1,20 +1,25 @@
-Study Title: Online RCT of Icon Added-Sugar Warning Labels for Restaurant Menus.
+Study Title: The impact of avocado intake on anthropometric measures among Hispanic/Latino children and adolescents: A cluster randomized controlled trial.
 
 Study Summary:
-To reduce added-sugar consumption, jurisdictions are considering requiring restaurant menu labels to identify high-added-sugar items. This study examined the impacts of added-sugar warning labels on hypothetical choices, knowledge of items' added-sugar content, and perceptions of high-added-sugar items. The design was an online RCT. National sample of adults (N=15,496) was recruited to approximate the U.S. distribution of sex, age, race, ethnicity, and education. Participants viewed fast-food and full-service restaurant menus displaying no warning labels (control) or icon-only added-sugar warning labels next to high-added-sugar items (containing >50% of the daily recommended limit). The main outcome measures were hypothetical ordering of &#x2265;1 high-added-sugar item, grams of added sugar ordered, and knowledge of items' added-sugar content assessed in 2021 and analyzed in 2021-2022. Warning labels reduced the relative probability of ordering &#x2265;1 high-added-sugar item by 2.2% (probability ratio=0.978, 95% CI=0.964, 0.992; p=0.002); improved knowledge of added-sugar content (p<0.001); and led to a nonstatistically significant reduction of 1.5 grams of added sugar ordered, averaged across menus (p=0.07). The label modestly reduced the appeal of high-added-sugar items, increased perceptions that consuming such items often will increase Type 2 diabetes risk, increased perceived control over eating decisions, and increased injunctive norms about limiting consumption of high-added-sugar items (ps<0.001). However, in the warning condition, only 47% noticed nutrition labels, and 21% recalled seeing added-sugar labels. When restricting the warning condition to those who noticed the label, the result for grams of added sugar ordered was significant, with the warning condition ordering 4.9 fewer grams than the controls (95% CI= -7.3, -2.5; p<0.001). Added-sugar warning labels reduced the probability of ordering a high-added-sugar menu item and increased participants' knowledge of whether items contained >50% of the daily value for added sugar. The modest magnitudes of effects may be due to low label noticeability. Menu warning labels should be designed for noticeability. This study was registered at AsPredicted.org #65655.
+While the association between avocado consumption and low metabolic risk has been shown in some studies conducted in adults, little is known about the potential effects of avocado consumption on health outcomes in children and adolescents. Thus, we investigated the impact of two levels of avocado allotment, plus a standard nutrition education, on measures of adiposity in children and adolescents (<18 years old). Children (aged 5-12, n&#xa0;=&#xa0;58) and adolescents (aged 13-17, n&#xa0;=&#xa0;32) in seventy-two families that self-identified as Hispanic, with at least 3 members over the age of 5 that resided in the same home, were free of severe chronic disease, and not on specific diets, were randomized to one of two levels of avocado allotment plus bi-weekly nutrition education sessions. Low allotment families received 3 avocados per week, while high allotment families received 14 avocados per week for 6 months. We performed an intention-to-treat analysis, using unpaired, 2-sided t-tests to test the mean changes in anthropometric measures of adiposity (body mass index (BMI), waist circumference, hip circumference, and weight) between children and adolescents from high and low allotment families after the 6-month intervention. At six months, there were no significant differences in body mass index, waist circumference, hip circumference, or waist circumference to weight ratio by avocado allotment group. In children, there was a significant difference in weight (difference in means: 1.10, 95% CI: 0.09, 2.10, p-value&#xa0;=&#xa0;0.03) and waist circumference to height ratio (difference in means: 0.27, 95% CI: 0.12, 0.41, p-value <0.01) between the avocado allotment groups at six months, but these did not remain significant after sensitivity analyses including per-protocol analyses. In adolescents only, there was a significant reduction in waist to hip circumference ratio in the high allotment group compared to the low allotment group after 6 months (difference in means:&#xa0;-0.05, 95% CI:&#xa0;-0.08, 0.00, p-value&#xa0;=&#xa0;0.04) that persisted after multiple sensitivity analyses. Different levels of avocado availability among children and adolescents does not appear to result in significant changes in anthropometric measures. Further study is needed to determine whether avocado consumption promotes metabolic health in this age group.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.amepre.2023.02.007
+- DOI: 10.1016/j.clnesp.2023.04.020
 
 2. Keywords
-
+- Adiposity
+- Avocado
+- Childhood obesity
+- Nutrition
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Adiposity assessment methods and outcomes
+- Avocado assessment methods and outcomes
+- Childhood obesity assessment methods and outcomes

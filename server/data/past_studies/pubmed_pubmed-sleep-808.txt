@@ -1,22 +1,26 @@
-Study Title: The impact of restricting sleep duration on physical activity: Secondary analysis of a randomized crossover study.
+Study Title: Effect of Reflexology on Pain, Fatigue, Sleep Quality, and Lactation in Postpartum Primiparous Women After Cesarean Delivery: A Randomized Controlled Trial.
 
 Study Summary:
-This study investigated the causal impact of sleep durations on participants' physical activity (PA) in real-world conditions. We performed a secondary analysis of PA data from 146 young adults using a randomized crossover design: both restricted (5-6 hr/night) and well-rested (8-9 hr/night) sleep weeks were assessed, with a washout week in between. Sleep and activity were tracked via research-grade actigraphy. Data analysis of PA involved repeated-measures analysis of variance (ANOVA) and regression techniques. Analysis plans and hypothesis were preregistered before data analysis. The exogenously assigned sleep restriction (SR) treatment reduced nightly sleep an average of 92.65 min (&#xb1; 40.44 min) compared to one's well-rested sleep treatment. The impact of SR on PA was substantial, leading to a 7% reduction in average hourly PA: 18,081.2 (well-rested) versus 16,818.2 (restricted sleep). Significant findings were revealed in daily,(1, 6) = 84.37,< .001, &#x3b7;&#xb2; = 0.934, and hourly comparisons,(1, 166) = 30.47,< .001, &#x3b7;&#xb2; = 0.155. Further, sensitivity analysis using a variety of regression specifications also found that exogenously assigned SR decreased average wake-hour activity counts by approximately 4.4%-4.7% (< .01 in all cases) when controlling for other factors. Exploratory analysis showed the PA effects of SR manifested via reductions in PA intensity with concurrent increases in the proportion of time considered as sedentary. SR significantly lowered PA by around 7%, characterized by reduced intensity and elevated sedentary behavior in a naturalistic setting. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+Mothers commonly experience pain, fatigue, sleep disruption, and breastfeeding problems after cesarean delivery. To date, no follow-up study has examined all of these variables to evaluate the utility of reflexology in reducing these problems and supporting breastfeeding. This study aimed to determine the effect of foot reflexology performed in the postpartum period on pain, fatigue, sleep quality, and lactation in primiparous women who underwent cesarean delivery. This is a two-arm, parallel-group randomized controlled trial. Data were collected between January 1, 2020, and January 31, 2021, with a sample of 80 women who were randomly assigned to the reflexology (&#x2009;=&#x2009;40) and control (&#x2009;=&#x2009;40) groups. The reflexology group received 40&#x2009;minutes of foot reflexology once a week for 8 weeks. The primary outcomes of the study were pain, fatigue, sleep quality, and breastfeeding efficacy. Pain scores in the reflexology group decreased by 90.9% in week 1, 90.2% in week 2, and 59.8% in week 3 compared to the control group. Pain resolved at week 4 in the reflexology group and week 7 in the control group. The reflexology group showed a 36.9% decrease in fatigue level, a 48.0% increase in energy level, a 70.7% increase in sleep quality, and a 20.2% increase in breastfeeding efficacy compared to the control group (p < 0.05). Foot reflexology reduces postpartum symptoms and positively affects breastfeeding and can be used safely in postnatal care practices.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1037/hea0001360
+- DOI: 10.1177/08903344241232982
 
 2. Keywords
-
+- breastfeeding
+- cesarean section
+- lactation
+- postpartum care
+- reflexology
 
 3. Key Findings
-- Significant findings were revealed in daily,(1, 6) = 84
-- Further, sensitivity analysis using a variety of regression specifications also found that exogenously assigned SR decreased average wake-hour activity counts by approximately 4
-- Exploratory analysis showed the PA effects of SR manifested via reductions in PA intensity with concurrent increases in the proportion of time considered as sedentary
+- The reflexology group showed a 36
 
 This study provides insights into:
-- General research methodology and outcomes
+- breastfeeding assessment methods and outcomes
+- cesarean section assessment methods and outcomes
+- lactation assessment methods and outcomes

@@ -1,26 +1,27 @@
-Study Title: Sex Differences in the Ergogenic Response of Acute Caffeine Intake on Muscular Strength, Power and Endurance Performance in Resistance-Trained Individuals: A Randomized Controlled Trial.
+Study Title: The effect of a selenium-based anti-inflammatory strategy on postoperative functional recovery in high-risk cardiac surgery patients - A nested sub-study of the sustain CSX trial.
 
 Study Summary:
-This study assessed the impact of acute caffeine intake on muscular strength, power, and endurance performance between resistance-trained male and female individuals according to load in upper- and lower-body exercises. Here, 76 resistance-trained individuals (38 females, 38 males) participated in a study comparing caffeine and a placebo. Each received either 3 mg/kg of caffeine or a placebo 60 min before tests measuring muscular strength and power through bench press and back squat exercises at different intensities (25%, 50%, 75%, 90% 1RM). Muscular endurance at 65% 1RM was also assessed by performing reps until reaching task failure. Compared to placebo, caffeine increased mean, peak and time to reach peak velocity and power output (< 0.01, &#x3b7;= 0.242-0.293) in the muscular strength/power test in males and females. This effect was particularly observed in the back squat exercise at 50%, 75% and 90% 1RM (2.5-8.5%,< 0.05, g = 1.0-2.4). For muscular endurance, caffeine increased the number of repetitions, mean velocity and power output (< 0.001, &#x3b7;= 0.177-0.255) in both sexes and exercises (3.0-8.9%,< 0.05, g = 0.15-0.33). Acute caffeine intake resulted in a similar ergogenic effect on muscular strength, power, and endurance performance in upper- and lower-body exercises for male and female resistance-trained participants.
+The cardiac surgery-related ischemia-reperfusion-related oxidative stress triggers the release of cytotoxic reactive oxygen and nitrogen species, contributing to organ failure and ultimately influencing patients' short- and long-term outcomes. Selenium is an essential co-factor for various antioxidant enzymes, thereby contributing to the patients' endogenous antioxidant and anti-inflammatory defense mechanisms. Given these selenium's pleiotropic functions, we investigated the effect of a high-dose selenium-based anti-inflammatory perioperative strategy on functional recovery after cardiac surgery. This prospective study constituted a nested sub-study of the SUSTAIN CSX trial, a double-blinded, randomized, placebo-controlled multicenter trial to investigate the impact of high-dose selenium supplementation on high-risk cardiac surgery patients' postoperative recovery. Functional recovery was assessed by 6-min walk distance, Short Form-36 (SF-36) and Barthel Index questionnaires. 174 patients were included in this sub-study. The mean age (SD) was 67.3 (8.9) years, and 78.7&#xa0;% of the patients were male. The mean (SD) predicted 30-day mortality by the European System for Cardiac Operative Risk Evaluation II score was 12.6&#xa0;% (9.4&#xa0;%). There was no difference at hospital discharge and after three months in the 6-min walk distance between the selenium and placebo groups (131&#xa0;m [IQR: not performed - 269] vs. 160&#xa0;m [IQR: not performed - 252], p&#xa0;=&#xa0;0.80 and 400&#xa0;m [IQR: 299-461] vs. 375&#xa0;m [IQR: 65-441], p&#xa0;=&#xa0;0.48). The SF-36 and Barthel Index assessments also revealed no clinically meaningful differences between the selenium and placebo groups. A perioperative anti-inflammatory strategy with high-dose selenium supplementation did not improve functional recovery in high-risk cardiac surgery patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16111760
+- DOI: 10.1016/j.lfs.2024.122841
 
 2. Keywords
-- ergogenic substances
-- force-velocity curve
-- sex differences
-- sport nutrition
-- sport performance
+- Anti-inflammatory strategies
+- Cardiac surgery
+- Functional recovery
+- Inflammation
+- Nutrition
+- Selenium
 
 3. Key Findings
-- Findings extraction requires manual review
+- The SF-36 and Barthel Index assessments also revealed no clinically meaningful differences between the selenium and placebo groups
 
 This study provides insights into:
-- ergogenic substances assessment methods and outcomes
-- force-velocity curve assessment methods and outcomes
-- sex differences assessment methods and outcomes
+- Anti-inflammatory strategies assessment methods and outcomes
+- Cardiac surgery assessment methods and outcomes
+- Functional recovery assessment methods and outcomes

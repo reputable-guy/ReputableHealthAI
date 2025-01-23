@@ -1,28 +1,27 @@
-Study Title: Acute effects of eccentric versus concentric exercise on executive function and attention of older adults.
+Study Title: Ecological Momentary Intervention to Replace Sedentary Time With Physical Activity to Improve Executive Function in Midlife and Older Latino Adults: Pilot Randomized Controlled Trial.
 
 Study Summary:
-Cognitive function is improved acutely after aerobic and/or resistance exercise, but it is unclear if the types of muscle contraction can influence this effect. This study tested the hypothesis that undertaking an acute bout of exercise with eccentric than concentric contractions would be more beneficial for improving cognitive function post-exercise in older adults. Twenty healthy older adults (66-75 years) performed descending stair walking (DSW), ascending stair walking (ASW), and resistance exercise of the knee extensors with eccentric-only (RE-ECC) or concentric-only contractions (RE-CON) for &#x223c;20&#x2009;min each with a week between exercises in a randomized order. The Stroop tests of color naming (STCN) and conflicting color words (STCC), symbol digit modalities test, digit span test (DST), and two types of the trail making test (TMT-A, TMT-B) were assessed before and after sitting for 20&#x2009;min (control session), and each exercise. A significant (&#xa0;<&#xa0;0.05) improvement in the baseline test scores was found from the control session to the fourth exercise session. Time to complete the tests was significantly (&#xa0;<&#xa0;0.05) reduced from pre- to post-exercise as well as after sitting for 20&#x2009;min for STCN (-5.9&#xa0;&#xb1;&#xa0;7.4&#x2009;s, Cohen's&#xa0;=&#xa0;0.79), STCC (-8.9&#xa0;&#xb1;&#xa0;11.1&#x2009;s,&#xa0;=&#xa0;0.80), TMT-A (-22.6&#xa0;&#xb1;&#xa0;9.7&#x2009;s,&#xa0;=&#xa0;2.34) and TMT-B (-23.1&#xa0;&#xb1;&#xa0;13.7&#x2009;s,&#xa0;=&#xa0;1.69) without significant difference among the four exercise conditions. A significant (&#xa0;<&#xa0;0.05) improvement of DST score was found from pre- to post-exercise for DSW (9.0&#xa0;&#xb1;&#xa0;17.6%,&#xa0;=&#xa0;0.51) and RE-ECC (6.5&#xa0;&#xb1;&#xa0;10.6%,&#xa0;=&#xa0;0.61), but not for ASW and RE-CON. These results partially supported the hypothesis that eccentric exercise could affect acute changes in cognitive function greater than concentric exercise.
+Exercise interventions often improve moderate to vigorous physical activity, but simultaneously increase sedentary time due to a compensatory resting response. A higher level of sedentary time is associated with a lower level of executive function, while increased moderate to vigorous physical activity is associated with improved global cognition and working memory among Latino adults. Latino adults are the fastest-growing minority group in the United States and are at high risk for cognitive decline, spend more time sedentary compared to non-Hispanic populations, and engage in low levels of physical activity. Interventions that are culturally appropriate for Latino adults to replace sedentary time with physical activity are critically needed. This study aims to develop and test the feasibility and acceptability of an ecological momentary intervention (EMI; delivered in real time) that is individually designed to replace sedentary time with physical activity in Latino adults. This pilot study randomized 39 (n=26, 67% female; mean age 61, SD 5.8 years) community-dwelling, Spanish-speaking Latino adults (1:1 allocation) to either a 6-week EMI program designed to replace sitting time with physical activity (20/39, 51%) or physical activity guidelines education (19/39, 49%). The program was conducted on the web and in Spanish. The intervention was individualized based on individual interview responses. The intervention included the use of a Fitbit activity monitor, weekly didactic phone meetings, interactive tools (SMS text messages), and coach-delivered feedback. Feasibility and acceptability were assessed via study satisfaction (Likert scales), motivation (ecological momentary assessment), retention, and compliance. Sedentary time and physical activity were assessed via 7-day actigraphy. Cognitive performance was assessed via the trail making test part A and B (part B=executive function) and via the National Institutes of Health Toolbox remote cognitive assessment. Statistical analysis included a linear model on change score from baseline, adjusting for age, sex, and education, emphasizing effect size. Participant satisfaction with EMI was high (9.4/10), with a high degree of motivation to replace sitting time with physical activity (9.8/10). The intervention compliance rate was 79% with low difficulty using the Fitbit (1.7/10). Weekly step count increased in the intervention group by 5543 steps (group difference: d=0.54; P=.05) and sedentary time decreased by a mean 348 (SD 485) minutes (group difference: d=0.47; P=.24) compared to controls, with moderately strong effect sizes. The trail making test part B improved in the intervention group (mean -35.26, SD 60.35 seconds), compared to the control group (mean 7.19, SD 46 seconds; group difference: d=0.74; P=.01). No group differences were observed in other cognitive measures. An individualized EMI designed for midlife and older Latino adults has the potential to replace sitting time with physical activity and improve executive functioning. The intervention was feasible and well received with a high degree of satisfaction. ClinicalTrials.gov NCT04507464; https://tinyurl.com/44c4thk5.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1139/apnm-2024-0242
+- DOI: 10.2196/55079
 
 2. Keywords
-- Stroop test
-- digit span test
-- resistance exercise
-- stair walking
-- symbol digit modalities test
-- trail making test
+- Latinos
+- cognition
+- mobile phone
+- older adults
+- physical activity
+- sedentary time
 
 3. Key Findings
-- 05) improvement in the baseline test scores was found from the control session to the fourth exercise session
-- 05) improvement of DST score was found from pre- to post-exercise for DSW (9
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Stroop test assessment methods and outcomes
-- digit span test assessment methods and outcomes
-- resistance exercise assessment methods and outcomes
+- Latinos assessment methods and outcomes
+- cognition assessment methods and outcomes
+- mobile phone assessment methods and outcomes

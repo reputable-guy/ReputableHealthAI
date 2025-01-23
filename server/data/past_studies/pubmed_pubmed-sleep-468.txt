@@ -1,26 +1,27 @@
-Study Title: Implementation and evaluation of a community-based mindful walking randomized controlled trial to sustain cognitive health in older African Americans at risk for dementia.
+Study Title: Impact of spa therapy on physical activity, sleep and heart rate variability among individuals with fibromyalgia: Results of an ancillary study.
 
 Study Summary:
-With an increasing proportion of older adults and the associated risk of Alzheimer's Disease and Related Dementias (ADRD) around the globe, there is an urgent need to engage in ADRD risk reduction efforts. African American (AA) older adults in the U.S. are disproportionally impacted by ADRD compared to other races and ethnicities. Mindful walking integrates two potentially protective factors of ADRD by elevating mindfulness and physical activity (i.e., walking), resulting in a synergistic behavioral strategy that is feasible and safe for older adults. However, the efficacy of applying this intervention for cognitive health outcomes has not been evaluated using experimental designs. This paper documents the goal and protocol of a community-based, mindful walking randomized controlled trial to examine the short- and longer-term efficacy on cognitive and other health-related outcomes in ADRD at-risk AA older adults. The study outcomes include various brain health determinants, including cognitive function, quality of life, psychological well-being, physical activity, mindfulness, sleep, and overall health status. In addition, the estimated costs of program implementation are also collected throughout the study period. This study will recruit 114 older adults (ages 60+&#x2009;years) with elevated ADRD risk from the Midlands region of South Carolina. Older adults are randomly assigned to participate in 24 sessions of outdoor mindful walking over three months or a delayed mindful walking group (n=57 in each group). Participants in both groups follow identical measurement protocols at baseline, after 12 weeks, after 18 weeks, and after 24 weeks from baseline. The outcome measures are administered in the lab and in everyday settings. Costs per participant are calculated using micro-costing methods. The eliciting participant costs for mindful walking engagement with expected results are reported using the payer and the societal perspectives. This study will generate evidence regarding the efficacy of mindful walking on sustaining cognitive health in vulnerable older adults. The results can inform future large-scale effectiveness trials to support our study findings. If successful, this mindful walking program can be scaled up as a low-cost and viable lifestyle strategy to promote healthy cognitive aging in diverse older adult populations, including those at greatest risk. ClinicalTrials.gov number NCT06085196 (retrospectively registered on 10/08/2023).
+Spa therapy is recommended to manage symptoms of fibromyalgia, but the physiological mechanisms underlying this improvement have been poorly studied. In an original study, we explored the effect of a 3-week rheumatology spa treatment for fibromyalgia patients on quality of life and with a symptom severity questionnaire. We present here the results of an ancillary study which explored three secondary criteria using objective measurement methods: diurnal actimetry for physical activity analysis, nocturnal actimetry for sleep analysis and heart rate variability. Eighty-three fibromyalgia patients were randomized to participate in an immediate 3-week rheumatological spa therapy, either a start within 6 weeks after inclusion (interventional group, n&#xa0;=&#xa0;39) or a delayed, start 6 months after inclusion (control group, n&#xa0;=&#xa0;44). Patients were asked to wear an actimeter (n&#xa0;=&#xa0;56) to assess diurnal physical activity and sleep quality and a 24-h Holter ECG (n&#xa0;=&#xa0;60) to assess nocturnal heart rate variability at baseline, 3 months and 6 months after inclusion. Time spent in sedentary and light physical activity was reduced to &#x223c;30&#xa0;min at 6 months in the interventional group (P&#xa0;=&#xa0;0.027). Sleep quality and heart rate variability were not improved. Spa therapy made it possible to reduce sedentary activities in patients' daily life for up to 6 months afterwards, concomitant with the improvement in quality of life, pain and fatigue as highlighted in the original Thermalgi study.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12877-024-05090-2
+- DOI: 10.1016/j.ctcp.2024.101879
 
 2. Keywords
-- Alzheimer&#x2019;s disease and related dementias
-- Cognitive health
-- Lifestyle physical activity
-- Mind-body intervention
-- Prevention research
+- Actimetry
+- Fibromyalgia
+- Heart rate variability
+- Physical activity
+- Sleep
+- Spa therapy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Alzheimer&#x2019;s disease and related dementias assessment methods and outcomes
-- Cognitive health assessment methods and outcomes
-- Lifestyle physical activity assessment methods and outcomes
+- Actimetry assessment methods and outcomes
+- Fibromyalgia assessment methods and outcomes
+- Heart rate variability assessment methods and outcomes

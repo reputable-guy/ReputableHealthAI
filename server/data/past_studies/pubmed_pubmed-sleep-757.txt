@@ -1,25 +1,26 @@
-Study Title: A 12-week randomized double-blind clinical trial of eicosapentaenoic acid intervention in episodic migraine.
+Study Title: Nature-based virtual reality intervention to manage stress in family caregivers of allogeneic hematopoietic stem cell transplant recipients: a two-phase pilot study protocol.
 
 Study Summary:
-Omega-3 polyunsaturated fatty acids (PUFAs) may benefit migraine improvement, though prior studies are inconclusive. This study evaluated the effect of eicosapentaenoic acid (EPA) on episodic migraine (EM) prevention. Seventy individuals with EM participated in a 12-week randomized, double-blind, placebo-controlled trial from March 2020 and May 2022. They were randomly assigned to either the EPA (N&#xa0;=&#xa0;35, 2&#xa0;g fish oil with 1.8&#xa0;g of EPA as a stand-alone treatment daily), or the placebo group (N&#xa0;=&#xa0;35, 2&#xa0;g soybean oil daily). Migraine frequency and headache severity were assessed using the monthly migraine days, visual analog scale (VAS), Migraine Disability Assessment (MIDAS), Hospital Anxiety and Depression Scale (HADS), Migraine-Specific Quality-of-Life Questionnaire (MSQ), and Pittsburgh Sleep Quality Index (PSQI) in comparison to baseline measurements. The EPA group significantly outperformed the placebo in reducing monthly migraine days (-4.4&#xa0;&#xb1;&#xa0;5.1&#xa0;days vs.&#xa0;-&#xa0;0.6&#xa0;&#xb1;&#xa0;3.5&#xa0;days, p&#xa0;=&#xa0;0.001), days using acute headache medication (-1.3&#xa0;&#xb1;&#xa0;3.0&#xa0;days vs. 0.1&#xa0;&#xb1;&#xa0;2.3&#xa0;days, p&#xa0;=&#xa0;0.035), improving scores for headache severity (&#x394;VAS score: -1.3&#xa0;&#xb1;&#xa0;2.4 vs. 0.0&#xa0;&#xb1;&#xa0;2.2, p&#xa0;=&#xa0;0.030), disability (&#x394;MIDAS score: -13.1&#xa0;&#xb1;&#xa0;16.2 vs. 2.6&#xa0;&#xb1;&#xa0;20.2, p&#xa0;=&#xa0;0.001), anxiety and depression (&#x394;HADS score: -3.9&#xa0;&#xb1;&#xa0;9.4 vs. 1.1&#xa0;&#xb1;&#xa0;9.1, p&#xa0;=&#xa0;0.025), and quality of life (&#x394;MSQ score: -11.4&#xa0;&#xb1;&#xa0;19.0 vs. 3.1&#xa0;&#xb1;&#xa0;24.6, p&#xa0;=&#xa0;0.007). Notably, female particularly benefited from EPA, underscoring its potential in migraine management. In conclusion, high-dose EPA has significantly reduced migraine frequency and severity, improved psychological symptoms and quality of life in EM patients, and shown no major adverse events, suggesting its potential as a prophylactic for EM.
+Millions of family members and/or friends in the U.S. serve as unpaid caregivers for individuals with chronic conditions, such as cancer. Caregiving for someone undergoing an intense allogeneic hematopoietic stem cell transplant (HSCT) is particularly demanding, with accompanying physical and psychological stress. Increased stress and stress-related symptoms could make it difficult for caregivers to fulfill their roles and could negatively impact the health status and quality of life of themselves and the recipients. Virtual reality (VR) is a promising technology increasingly used for treatment and wellness in various medical settings. There is growing evidence that studies have reported the positive effects of the VR intervention in managing and reducing stress among diverse populations in various clinical scenarios; however, no published studies have focused on family caregivers of patients with cancer. The study aims to assess the feasibility and acceptability of a four-week nature-based VR intervention and to examine the effectiveness of the VR intervention on stress in HSCT caregivers. This study comprises two phases. Phase I of the study will be a single-arm pre-post design focused on assessing the feasibility and acceptability of the VR intervention. Phase II of the study will be a prospective randomized controlled group design to examine the effectiveness of the VR intervention on perceived stress. Adults (&#x2265; 18 years) who serve as primary caregivers for a person who will undergo an allogeneic HSCT will be recruited. Fifteen participants will be enrolled for Phase I and 94 participants for Phase II (Active VR arm N=47; Sham VR arm N=47). The nature-based immersive VR program contains 360&#xb0; high-definition videos of nature scenes along with nature sounds through a head-mounted display (HMD) for 20 minutes every day for four weeks. Primary outcome is perceived stress measured by the Perceived Stress Scale. Secondary/exploratory outcomes are stress-related symptoms (e.g., fatigue, sleep disturbance) and physiological biomarkers (e.g., cortisol, alpha-amylase). The importance and innovativeness of this study consist of using a first-of-its-kind, immersive VR technology to target stress and investigating the health outcomes assessed by validated objective biomarkers as well as self-report measures of the nature-based intervention in the caregiver population. ClinicalTrials.gov, identifier NCT05909202.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.bbi.2024.03.019
+- DOI: 10.3389/fpsyt.2024.1295097
 
 2. Keywords
-- Eicosapentaenoic acid (EPA)
-- Episodic migraine (EM)
-- Omega-3 polyunsaturated fatty acids (PUFAs)
-- Prevention
+- biomarkers
+- caregivers
+- hematopoietic stem cell
+- stress
+- virtual reality
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Eicosapentaenoic acid (EPA) assessment methods and outcomes
-- Episodic migraine (EM) assessment methods and outcomes
-- Omega-3 polyunsaturated fatty acids (PUFAs) assessment methods and outcomes
+- biomarkers assessment methods and outcomes
+- caregivers assessment methods and outcomes
+- hematopoietic stem cell assessment methods and outcomes

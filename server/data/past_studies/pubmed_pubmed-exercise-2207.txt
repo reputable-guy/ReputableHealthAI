@@ -1,25 +1,20 @@
-Study Title: Effects of concentric and eccentric exercise regimens on bioenergetic efficiency of lymphocytes in sedentary males.
+Study Title: A live online exercise program for older adults improves depression and life-space mobility: A mixed-methods pilot randomized controlled trial.
 
 Study Summary:
-Eccentric exercise training (EET) increases physical performance while having lower metabolic demand than concentric exercise training (CET). Whether EET influences bioenergetic efficiency in peripheral blood mononuclear cells (PBMCs) remains unclear. This study investigates the effects of EET and CET on PBMC phenotypes and mitochondrial functions in blood. Thirty three sedentary healthy males were randomly assigned to either EET (n&#xa0;=&#xa0;11) or CET (n&#xa0;=&#xa0;11) that performed at progressively increased from 60% to 80% of maximal absolute workload for 30&#xa0;min/day, 5&#xa0;days/week for 6&#xa0;weeks, or a control group (n&#xa0;=&#xa0;11) that did not receive any exercise intervention. A graded exercise stress test (GXT) was performed before and after the intervention. PBMC phenotypes and mitochondrial respiratory capacity were analyzed using flowcytometry and high-resolution respirometry, respectively. In the same absolute workload, EET elicited lower heart rate and rating of perceived exertion than CET. However, EET as CET increased the VOlevel at the ventilatory threshold. Notably, both EET and CET increased central memory (CD45RO/CD62/CD3) T cells and decreased effector memory T cells reexpressing CD45RA (CD45RA/CD62/CD3). Moreover, the two exercise regimens diminished the loss of mitochondrial membrane potential (&#x394;&#x3a8;m) caused by GXT, increased maximal/reserve Oconsumption rates (OCR), and bioenergetic health index in intact PBMCs and enhanced complex I-/II-related OCR in PBMCs with a substrate-rich environment. EET improves aerobic fitness with a lower cardiovascular response to exercise than CET. Moreover, EET as CET reduces senescent T-cell distribution in blood and improves PBMC bioenergetic efficiency by stabilizing &#x394;&#x3a8;m and increasing capacity of oxidative phosphorylation.
+Aging is the primary risk factor for sarcopenia and mobility limitations. Exercise reduces these risks, but older adults have low levels of participation in physical activity and exercise. We investigated the preliminary effectiveness of a live, online exercise program on community-dwelling older adults' physical activity levels. A mixed-method pilot randomized controlled trial was conducted according to CONSORT 2010 statement: extension for pilot and feasibility trials. Sedentary older adults (65-80 years) were randomly assigned to the online exercise intervention (ACTIVE) or a waitlist control (CON) group. Outcomes were measured pre-randomization and following the 8-week intervention for ACTIVE and CON and two months following the end of the intervention for the ACTIVE group. Outcomes included habitual physical activity levels, depression, anxiety, loneliness, life-space mobility, nutrition risk, and feasibility. All participants were invited to participate post-intervention in individual semi-structured qualitative interviews. Reporting of the qualitative research followed the checklist for the Consolidated Criteria for Reporting research. Seventeen older adults (71% women) were allocated to ACTIVE group, while 15 were allocated to CON group (87% women). Following the intervention, participants in the ACTIVE group reported reduced symptoms of depression (ACTIVE: pre = 4.2 &#xb1; 2.5; post = 2.2 &#xb1; 1.9; CON: pre = 3.5 &#xb1; 2.1, post = 3.5 &#xb1; 2.1; p <0.001) and improved life-space mobility (ACTIVE: pre = 62.4 &#xb1; 14.7; post = 71.8 &#xb1; 16.0; CON: pre = 65.1 &#xb1; 19.0, post = 63.6 &#xb1; 22.0; p = 0.003) compared to waitlist control participants. The ACTIVE group had good adherence (97%) and acceptability (98%). Twenty-two participants participated in qualitative interviews. Five themes were identified, including (1) Feasibility of the online exercise program; (2) Perceived health benefits and improvements; (3) Registered Kinesiologists and Physiotherapists contributed to perceived safety; (4) Social connectivity associated with synchronous/live delivery; and (5) Growing old gracefully and preventing disability. Our online exercise program was acceptable to older adults, had good adherence, reduced depression, and increased life space. Participants reported improved functional and mental health benefits. Further research is warranted to expand on these findings. NCT04627493; 13/11/2020.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ejsc.12221
+- DOI: 10.1371/journal.pone.0312992
 
 2. Keywords
-- bioenergetics
-- eccentric exercise
-- leukocytes
-- phenotypes
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- bioenergetics assessment methods and outcomes
-- eccentric exercise assessment methods and outcomes
-- leukocytes assessment methods and outcomes
+- General research methodology and outcomes

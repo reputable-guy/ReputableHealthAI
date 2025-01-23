@@ -1,28 +1,27 @@
-Study Title: A dietary intervention for postmenopausal hot flashes: A potential role of gut microbiome. An exploratory analysis.
+Study Title: A Proof-of-Concept Pilot Test of a Behavioral Intervention to Improve Adherence to Dietary Recommendations for Cancer Prevention.
 
 Study Summary:
-This study examined the role of gut microbiome changes in mediating the effects of a dietary intervention on the frequency and severity of postmenopausal vasomotor symptoms METHODS: Postmenopausal women (n&#xa0;=&#xa0;84) reporting &#x2265;2 moderate-to-severe hot flashes daily were randomly assigned, in 2 successive cohorts, to an intervention including a low-fat, vegan diet and cooked soybeans (&#xbd; cup [86&#xa0;g] daily) or to stay on their usual diet. Over a 12-week period, frequency and severity of hot flashes were recorded with a mobile application. In a subset of 11 women, gut microbiome was analyzed at baseline and after 12 weeks of the dietary intervention (low-fat vegan diet with soybeans), using deep shotgun metagenomic sequencing. Differences in the microbiome between baseline and 12 weeks were assessed by comparing alpha diversity with Wilcoxon signed rank tests, beta diversity with permanovaFL, and taxon abundance with Wilcoxon signed rank tests. Pearson correlations were used to assess the association between changes in hot flashes and gut bacteria. In the subset for which microbiome testing was done, total hot flashes decreased by 95 % during the dietary intervention (p&#xa0;=&#xa0;0.007); severe hot flashes disappeared (from 0.6 to 0.0/day; p&#xa0;=&#xa0;0.06); and moderate-to-severe hot flashes decreased by 96 % (p&#xa0;=&#xa0;0.01). Daytime and nighttime hot flashes were reduced by 96 % (p&#xa0;=&#xa0;0.01) and 94 % (p&#xa0;=&#xa0;0.004), respectively. Alpha and beta diversity did not significantly differ in the intervention group between baseline and 12 weeks. Two families (Enterobacteriaceae and Veillonellaceae), 5 genera (Erysipelatoclostridium, Fusicatenibacter, Holdemanella, Intestinimonas, and Porphyromonas), and 6 species (Clostridium asparagiforme, Clostridium innocuum, Bacteroides thetaiotaomicron, Fusicatenibacter saccharivorans, Intestinimonas butyriciproducens, Prevotella corporis, and Streptococcus sp.) were differentially abundant, but after correction for multiple comparisons, these differences were no longer significant. Changes in the relative abundance of Porphyromonas and Prevotella corporis were associated with the reduction in severe day hot flashes both unadjusted (r&#xa0;=&#xa0;0.61; p&#xa0;=&#xa0;0.047; and r&#xa0;=&#xa0;0.69; p&#xa0;=&#xa0;0.02), respectively), and after adjustment for changes in body mass index (r&#xa0;=&#xa0;0.63; p&#xa0;=&#xa0;0.049; and r&#xa0;=&#xa0;0.73; p&#xa0;=&#xa0;0.02), respectively). Changes in relative abundance of Clostridium asparagiforme were associated with the reduction in total severe hot flashes (r&#xa0;=&#xa0;0.69; p&#xa0;=&#xa0;0.019) and severe night hot flashes (r&#xa0;=&#xa0;0.82; p&#xa0;=&#xa0;0.002) and the latter association remained significant after adjustment for changes in body mass index (r&#xa0;=&#xa0;0.75; p&#xa0;=&#xa0;0.01). This exploratory analysis revealed potential associations between changes in vasomotor symptoms in response to a diet change and changes in the gut microbiome. Larger randomized clinical trials are needed to investigate these findings.
+Prevention programs that can help adults improve the quality of their diets to reduce cancer risk are needed. This Phase IIa study prospectively tested a mHealth intervention designed to improve adherence to dietary quality guidelines for cancer prevention. All participants (N = 62) received nutrition education and a self-regulation skills curriculum, with a primary target of changing grocery shopping behavior. Using a randomized, factorial design, the study varied whether each of the following 4 components were added to the 20-week intervention: (1) location-triggered app messaging, delivered when individuals arrived at grocery stores, (2) reflections on benefits of change, delivered with extra coaching time and tailored app messages, (3) coach monitoring, in which food purchases were digitally monitored by a coach, and (4) involvement of a household member in the intervention. Benchmarks were successfully met for recruitment, retention, and treatment acceptability. Across conditions, there were significant reductions in highly processed food intake (< .001, &#x3b7;= .48), red and processed meat intake (< .001, &#x3b7;= .20), and sugar-sweetened beverage intake (= .008, &#x3b7;= .13) from pre-to post-treatment. Analyses examining whether each intervention component influenced change across time found that participants who received coach monitoring increased their intake of fruits, vegetables, and fiber, whereas those with no coach monitoring had less improvement (= .01, &#x3b7;= .14). The improvement in red and processed meat was stronger among participants with household support ON, at a marginally significant level, than those with household support OFF (= .056, &#x3b7;= .07). This study showed feasibility, acceptability, and preliminary signals of efficacy of a remotely delivered intervention to facilitate adherence to dietary guidelines for cancer prevention and that coach monitoring and household support may be especially effective strategies. A fully powered clinical trial is warranted to test an optimized version of the intervention that includes nutrition education, self-regulation skills training, coach monitoring, and household member involvement. ClinicalTrials.gov NCT04947150.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.ctim.2023.103002
+- DOI: 10.1177/10732748231214122
 
 2. Keywords
-- Diet
-- Gut microbiome
-- Hot flashes
-- Menopause
-- Nutrition
-- Plant-based
-- Vegan
+- cancer prevention
+- diet quality
+- dietary improvements
+- mHealth
+- self-regulation
 
 3. Key Findings
-- This exploratory analysis revealed potential associations between changes in vasomotor symptoms in response to a diet change and changes in the gut microbiome
+- Analyses examining whether each intervention component influenced change across time found that participants who received coach monitoring increased their intake of fruits, vegetables, and fiber, whereas those with no coach monitoring had less improvement (=
+- This study showed feasibility, acceptability, and preliminary signals of efficacy of a remotely delivered intervention to facilitate adherence to dietary guidelines for cancer prevention and that coach monitoring and household support may be especially effective strategies
 
 This study provides insights into:
-- Diet assessment methods and outcomes
-- Gut microbiome assessment methods and outcomes
-- Hot flashes assessment methods and outcomes
+- cancer prevention assessment methods and outcomes
+- diet quality assessment methods and outcomes
+- dietary improvements assessment methods and outcomes

@@ -1,26 +1,26 @@
-Study Title: Enhancing postoperative recovery in total hip arthroplasty: the role of pericapsular nerve group and lateral cutaneous nerve block under spinal anaesthesia.
+Study Title: Valacyclovir or valganciclovir for cytomegalovirus prophylaxis: A randomized controlled trial in adult and pediatric kidney transplant recipients.
 
 Study Summary:
-To compare the efficacy of spinal anaesthesia alone versus spinal anesthesia augmented with ultrasound-guided pericapsular nerve group (PENG) block combined with lateral femoral cutaneous nerve (LFCN) block in improving perioperative analgesia and functional recovery in patients undergoing THA. In a prospective, randomized clinical trial we included 66 patients scheduled for THA were divided into two groups: one receiving spinal anaesthesia alone (SA group; n&#x2009;=&#x2009;32) and the other receiving spinal anaesthesia with regional analgesia blocks PENG&#x2009;+&#x2009;LFCN (SRAB group; n&#x2009;=&#x2009;34). In the SRAB group, PENG followed by LFCN blocks were administered under ultrasound guidance before spinal anaesthesia. There were significant differences between the two groups in the onset of postoperative pain (p&#x2009;<&#x2009;0.01) and the total amount of analgesics required in the first 36 postoperative hours (p&#x2009;<&#x2009;0.01). The combined approach of spinal anaesthesia with PENG and LFCN blockade, enables opioid-free analgesia and may contribute to a safer and more comfortable postoperative experience for THA patients.
+Valganciclovir (valG), a cytomegalovirus (CMV) prophylactic agent, has dose-limiting side effects. The tolerability and effectiveness of valacyclovir (valA) as CMV prophylaxis is unknown. We conducted a randomized, open-label, single-center trial of valA versus valG for all posttransplant CMV prophylaxis in adult and pediatric kidney recipients. Participants were randomly assigned to receive valA or valG. Primary endpoints were the incidence of CMV viremia and side-effect related drug reduction with secondary assessment of incidence of EBV viremia. Of the 137 sequential kidney transplant recipients enrolled, 26 % were positive and negative for CMV antibody in donor and recipient respectively. The incidence of CMV viremia (4 of 71 [6 %]; 8 of 67 [12 %] P = 0.23), time to viremia (P = 0.16) and area under CMV viral load time curve (P = 0.19) were not significantly different. ValG participants were significantly more likely to require side-effect related dose reduction (15/71 [21 %] versus 1/66 [2 %] P = 0.0003). Leukopenia was the most common reason for valG dose reduction and granulocyte-colony stimulating factor was utilized for leukopenia recovery more frequently (25 % in valG vs 5 % in valA: P = 0.0007). Incidence of EBV viremia was not significantly different. ValA has significantly less dose-limiting side effects than valG. In our study population, a significant increase in CMV viremia was not observed, in adults and children after kidney transplant, compared to valG. NCT01329185.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00264-024-06187-4
+- DOI: 10.1016/j.jcv.2024.105678
 
 2. Keywords
-- Enhancing postoperative recovery
-- Lateral cutaneous nerve block
-- Pericapsular nerve group block
-- Primary hip arthroplasty
-- Spinal anaesthesia
+- CMV
+- EBV
+- Infections
+- Pediatric kidney transplant
+- Valganciclovir
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Enhancing postoperative recovery assessment methods and outcomes
-- Lateral cutaneous nerve block assessment methods and outcomes
-- Pericapsular nerve group block assessment methods and outcomes
+- CMV assessment methods and outcomes
+- EBV assessment methods and outcomes
+- Infections assessment methods and outcomes

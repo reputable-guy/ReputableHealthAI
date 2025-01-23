@@ -1,25 +1,29 @@
-Study Title: Effect of Reliable Recovery on Health Care Costs and Productivity Losses in Emotional Disorders.
+Study Title: [Results of a cohort single-center randomized study of the modulating effect of the drug Mexidol in the rehabilitation of patients who suffered acute cerebral insufficiency].
 
 Study Summary:
-Despite the high economic costs associated with emotional disorders, relatively few studies have examined the variation in costs according to whether the patient has achieved a reliable recovery. The aim of this study was to explore differences in health care costs and productivity losses between primary care patients from a previous randomized controlled trial (RCT)-PsicAP-with emotional symptoms who achieved a reliable recovery and those who did not after transdiagnostic cognitive-behavioral therapy (TD-CBT) plus treatment as usual (TAU) or TAU alone. Sociodemographic and cost data were obtained for 134 participants treated at five primary care centers in Madrid for the 12-month posttreatment period. Reliable recovery rates were higher in the patients who received TD-CBT&#x202f;+&#x202f;TAU versus TAU alone (66% vs. 34%, respectively; chi-square&#x202f;=&#x202f;13.78, df&#x202f;=&#x202f;1, p&#x202f;<&#x202f;.001). Patients who did not achieve reliable recovery incurred more costs, especially associated with general practitioner consultations (t&#x202f;=&#x202f;3.01, df&#x202f;=&#x202f;132, p&#x202f;=&#x202f;.003), use of emergency departments (t&#x202f;=&#x202f;2.20, df&#x202f;=&#x202f;132, p&#x202f;=&#x202f;.030), total health care costs (t&#x202f;=&#x202f;2.01, df&#x202f;=&#x202f;132, p&#x202f;=&#x202f;.040), and sick leaves (t&#x202f;=&#x202f;1.97, df&#x202f;=&#x202f;132, p&#x202f;=&#x202f;.048). These findings underscore the societal importance of achieving a reliable recovery in patients with emotional disorders, and further support the value of adding TD-CBT to TAU in the primary care setting.
+Evaluation of the effect of pharmacological modulation of the rehabilitation process with the drug mexidol as an adjuvant component of the rehabilitation treatment of cognitive-emotional disorders in patients who have suffered acute cerebral insufficiency (ACI) due to acute cerebrovascular accident or traumatic brain injury. The study was conducted as a randomized interventional prospective study and consisted of 5 visits. Patients were divided into 2 groups: main (=30, standard therapy + Mexidol IV 500 mg per day for 10 days, followed by Mexidol FORTE 250 orally, 1 tablet 3 times a day for 8 weeks) and control (=30, standard therapy for 66 days). The study randomized 60 patients who underwent ACN and received rehabilitation treatment in accordance with regional routing. In the main group, there was an improvement in cognitive functions comparable to the control group (<0.001, in both groups there was an improvement in the Schulte test &#xab;work efficiency&#xbb; and &#xab;total execution time&#xbb;, according to the MoCA scale (visit 5 - 23.8&#xb1;2.6 vs 22.9&#xb1;31,=0.227). A significant superiority of the main group over the control group was shown in such indicators as a decrease in anxiety (according to the HADS scale) (visit 4 - 2.6&#xb1;2.4 vs 4.4&#xb1;2.4,=0.004), a decrease in the severity of depression (according to the Beck scale) (visit 3 - 7.5&#xb1;4.5 vs 11.4&#xb1;5.6,=0.005). There was a tendency for the main group to be superior in terms of muscle strength (according to the MRC scale (visit 4 - 3.3&#xb1;5.1 vs 2.1&#xb1;2.2,=0.051), level of vital activity (according to the ShRM - visit 5 - 2.9&#xb1;0.7 vs 3.3&#xb1;0.6,=0.053). A statistically significant increase in the level of mobility of patients in the group using the drug Mexidol was proven compared to the control group (the difference in the Rivermead index at the 5th visit was 10.3&#xb1;2.8 and 8.0&#xb1;2.8, respectively,=0.006), the average increase in the Rivermead index by visit 5 (5.4&#xb1;2.1 vs 3.4&#xb1;1.6,<0.001). A decrease in intensive care aftereffects syndrome (ITS) scores was detected in both groups; a statistically significant decrease in the severity of ITS in relation to the previous visit was detected only in the group using the drug Mexidol (<0.001). In the main group, the best indicators of the dynamics of systolic cerebral blood flow velocity and overshoot coefficient were also determined, compared to the control group. There were no adverse events recorded in the study. A positive modulating effect of Mexidol has been demonstrated in terms of accelerating the restoration of tolerance to cognitive loads, improving the psycho-emotional background by reducing symptoms of anxiety and depression, and secondary improving the results of motor rehabilitation in the early recovery period in patients who have undergone ACI, including those with manifestations of PIT syndrome. During the study, no adverse events were recorded, as well as significant differences in vital functions in the study groups, which indicates comparable safety of therapy in the control and main groups.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.beth.2023.08.012
+- DOI: 10.17116/jnevro2024124041108
 
 2. Keywords
-- depression
-- health care costs
-- productivity losses
-- reliable recovery, anxiety
+- Beck scale
+- HADS
+- Mexidol
+- MoCA
+- PICS
+- acute cerebral insufficiency
+- ethylmethylhydroxypyridine succinate
+- modulating effect
 
 3. Key Findings
-- Findings extraction requires manual review
+- A positive modulating effect of Mexidol has been demonstrated in terms of accelerating the restoration of tolerance to cognitive loads, improving the psycho-emotional background by reducing symptoms of anxiety and depression, and secondary improving the results of motor rehabilitation in the early recovery period in patients who have undergone ACI, including those with manifestations of PIT syndrome
 
 This study provides insights into:
-- depression assessment methods and outcomes
-- health care costs assessment methods and outcomes
-- productivity losses assessment methods and outcomes
+- Beck scale assessment methods and outcomes
+- HADS assessment methods and outcomes
+- Mexidol assessment methods and outcomes

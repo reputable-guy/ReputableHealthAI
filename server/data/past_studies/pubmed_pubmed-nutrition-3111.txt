@@ -1,31 +1,26 @@
-Study Title: Impact of Omega-3 Fatty Acid Supplementation in Parenteral Nutrition on Inflammatory Markers and Clinical Outcomes in Critically Ill COVID-19 Patients: A Randomized Controlled Trial.
+Study Title: Neither an Individualised Nor a Standardised Sodium Bicarbonate Strategy Improved Performance in High-Intensity Repeated Swimming, or a Subsequent 200 m Swimming Time Trial in Highly Trained Female Swimmers.
 
 Study Summary:
-The heightened inflammatory response observed in COVID-19 patients suggests that omega-3 fatty acids (O3FA) may confer anti-inflammatory benefits. This randomized, double-blind, single-center clinical trial aimed to evaluate the effect of O3FA supplementation in parenteral nutrition (PN) on inflammatory markers in COVID-19 patients admitted to the intensive care unit (ICU). A total of 69 patients were randomized into three groups: one received standard lipid emulsion, and two received O3FA (Omegaven) at doses of 0.1 g/kg/day and 0.2 g/kg/day, respectively, in addition to Smoflipid. The primary outcomes measured were serum levels of C-reactive protein (CRP) and interleukin-6 (IL-6) on days 1, 5, and 10 of PN initiation. Secondary outcomes included additional inflammatory markers (TNF-&#x3b1;, IFN-&#x3b3;, IL-1Ra, CXCL10), hepatic function, triglyceride levels, and clinical outcomes such as mortality and length of ICU and hospital stay. Results indicated a significant reduction in CRP, IL-6, and CXCL10 levels in the group receiving 0.1 g/kg/day O3FA compared to the control. Additionally, the higher O3FA dose was associated with a shorter ICU and hospital stay. These findings suggest that O3FA supplementation in PN may reduce inflammation and improve clinical outcomes in critically ill COVID-19 patients.
+Inconsistent swimming performances are often observed following sodium bicarbonate (NaHCO) ingestion, possibly because the time taken to reach peak blood buffering capacity is highly variable between individuals. Personalising NaHCOingestion based on time-to-peak blood bicarbonate (HCO) could be a solution; however, this strategy is yet to be explored in swimming, or adequately compared to standardised NaHCOapproaches. Therefore, six highly trained female swimmers ingested 0.3 g&#xb7;kg BMNaHCOin capsules to pre-determine their individual time-to-peak blood HCO. They then participated in three experimental trials, consisting of a 6 &#xd7; 75 m repeated sprint swimming test, followed by a 200 m maximal time trial effort after 30 min active recovery. These experiments were conducted consuming a supplement at three different timings: individualised NaHCO(IND: 105-195 min pre-exercise); standardised NaHCO(STND: 150 min pre-exercise); and placebo (PLA: 90 min pre-exercise). Both NaHCOstrategies produced similar increases in blood HCOprior to exercise (IND: +6.8 vs. STND: +6.1 mmol&#xb7;L,< 0.05 vs. PLA) and fully recovered blood HCOduring active recovery (IND: +6.0 vs. STND: +6.3 mmol&#xb7;Lvs. PLA,< 0.05). However, there were no improvements in the mean 75 m swimming time (IND: 48.2 &#xb1; 4.8 vs. STND: 48.9 &#xb1; 5.8 vs. PLA: 49.1 &#xb1; 5.1 s,= 0.302) nor 200 m maximal swimming (IND: 133.6 &#xb1; 5.0 vs. STND: 133.6 &#xb1; 4.7 vs. PLA: 133.3 &#xb1; 4.4 s,= 0.746). Regardless of the ingestion strategy, NaHCOdoes not appear to improve exercise performance in highly trained female swimmers.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16183046
+- DOI: 10.3390/nu16183123
 
 2. Keywords
-- C-reactive protein
-- COVID-19
-- SARS-CoV-2
-- clinical trial
-- fish oil
-- immunomodulation
-- inflammatory markers
-- intensive care
-- omega-3 fatty acids
-- parenteral nutrition
+- alkalosis
+- competition swimming
+- ergogenic aids
+- sport nutrition
+- supplements
 
 3. Key Findings
-- Results indicated a significant reduction in CRP, IL-6, and CXCL10 levels in the group receiving 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- C-reactive protein assessment methods and outcomes
-- COVID-19 assessment methods and outcomes
-- SARS-CoV-2 assessment methods and outcomes
+- alkalosis assessment methods and outcomes
+- competition swimming assessment methods and outcomes
+- ergogenic aids assessment methods and outcomes

@@ -1,20 +1,27 @@
-Study Title: Physical Activity Engagement After Tai Ji Quan Intervention Among Older Adults With Mild Cognitive Impairment or Memory Concerns: A Secondary Analysis of a Randomized Clinical Trial.
+Study Title: Relationship Between Severity of Ischemia and Coronary Artery Disease for Different Stress Test Modalities in the ISCHEMIA Trial.
 
 Study Summary:
-The effect of exercise interventions on increasing and sustaining moderate to vigorous physical activity (MVPA) among older adults with mild cognitive impairment (MCI), who are at heightened risk of dementia, remains unclear. To examine whether participation in a 6-month, supervised, home-based tai ji quan intervention increases MVPA among US community-dwelling older adults at 1 year. This study was a secondary analysis of a parallel-group, outcome assessor-blinded, randomized clinical trial conducted virtually at participants' homes. Eligible participants were aged 65 years or older, lived independently, and had a baseline Clinical Dementia Rating (CDR) global score of 0.5 or less. Participants were enrolled between October 1, 2019, and June 30, 2022. Final follow-up occurred in May 2023. Participants were randomly assigned (1:1:1) to standard tai ji quan, cognitively enhanced tai ji quan, or stretching, and they exercised (via real-time videoconferencing) 1 hour semiweekly for 6 months. The primary outcome was self-reported time engaged in MVPA (in minutes per week), assessed with the International Physical Activity Questionnaire at baseline and at 4, 6, and 12 months following randomization. The Physical Activity Guidelines for Americans recommend that older adults achieve at least 150 min/wk of MVPA, and the number of participants meeting this recommendation was also assessed. Analyses followed the intention-to-treat principle. Among the 318 participants enrolled, 107 were randomized to standard tai ji quan, 105 to cognitively enhanced tai ji quan, and 106 to stretching. Their mean (SD) age was 76 (5) years, 212 (66.7%) were women, and 247 (77.7%) had a CDR global score of 0.5. A total of 304 participants (95.6%) completed the trial, and 299 (94.0%) had complete data on the primary outcome at the 12-month follow-up. At 12 months, both tai ji quan groups had increased MVPA levels compared with the stretching control group, with mean differences from baseline of 66 min/wk (95% CI, 25-108 min/wk; P&#x2009;=&#x2009;.002) with standard tai ji quan and 65 min/wk (95% CI, 24-108 min/wk; P&#x2009;=&#x2009;.002) with cognitively enhanced tai ji quan. Odds ratios for meeting the recommended amount of MVPA (&#x2265;150 min/wk) were 3.11 (95% CI, 1.75-5.53; P&#x2009;<&#x2009;.001) for the standard tai ji quan group and 3.67 (95% CI, 2.02-6.65; P&#x2009;<&#x2009;.001) for the cognitively enhanced tai ji quan group compared with the stretching group. In this secondary analysis of a randomized clinical trial involving older adults with MCI or self-reported memory concerns, home-based tai ji quan training (delivered via videoconferencing) increased MVPA 6 months following cessation of the intervention compared with stretching. These findings suggest that tai ji quan may be promoted as an avenue to achieve physical activity guidelines for older adults with MCI or subjective memory concerns. ClinicalTrials.gov Identifier: NCT04070703.
+The relationship between the extent and severity of stress-induced ischemia and the extent and severity of anatomic coronary artery disease (CAD) in patients with obstructive CAD is multifactorial and includes the intensity of stress achieved, type of testing used, presence and extent of prior infarction, collateral blood flow, plaque characteristics, microvascular disease, coronary vasomotor tone, and genetic factors. Among chronic coronary disease participants with site-determined moderate or severe ischemia, we investigated associations between ischemia severity on stress testing and the extent of CAD on coronary computed tomography angiography. Clinically indicated stress testing included nuclear imaging, echocardiography, cardiac magnetic resonance imaging, or nonimaging exercise tolerance test. Among those with preserved renal function who underwent coronary computed tomography angiography, we examined relationships between ischemia and CAD by coronary computed tomography angiography, overall, and by stress test modality, regardless of subsequent randomization. Core laboratories categorized ischemia as severe, moderate, mild, or none, while the extent and severity of anatomic CAD were categorized based on the modified Duke prognostic index. Among 3601 participants with interpretable stress tests and coronary computed tomography angiography, ischemia severity was weakly associated with CAD extent/severity (r=0.27), with modest variability in strength of association by modality: nuclear (n=1532; r=0.40), echocardiography (n=827; r=0.15), cardiac magnetic resonance imaging (n=108; r=0.31), and exercise tolerance test (n=1134; r=0.18). The extent of infarction on nuclear imaging and echocardiography was weakly associated with CAD extent/severity. Overall, ischemia severity on stress testing showed weak to moderate associations with the anatomic extent of CAD in this cohort with moderate or severe ischemia on local interpretation and controlled symptoms. URL: https://www.clinicaltrials.gov; Unique identifier: NCT01471522.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1001/jamanetworkopen.2024.50457
+- DOI: 10.1161/CIRCINTERVENTIONS.123.013743
 
 2. Keywords
-
+- angiography
+- coronary artery disease
+- infarction
+- ischemia
+- plaque, atherosclerotic
 
 3. Key Findings
-- Findings extraction requires manual review
+- Clinically indicated stress testing included nuclear imaging, echocardiography, cardiac magnetic resonance imaging, or nonimaging exercise tolerance test
+- Overall, ischemia severity on stress testing showed weak to moderate associations with the anatomic extent of CAD in this cohort with moderate or severe ischemia on local interpretation and controlled symptoms
 
 This study provides insights into:
-- General research methodology and outcomes
+- angiography assessment methods and outcomes
+- coronary artery disease assessment methods and outcomes
+- infarction assessment methods and outcomes

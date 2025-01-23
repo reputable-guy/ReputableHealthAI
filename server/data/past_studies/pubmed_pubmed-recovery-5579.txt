@@ -1,28 +1,20 @@
-Study Title: Efficacy and Safety of High-Dose TBS on Poststroke Upper Extremity Motor Impairment: A Randomized Controlled Trial.
+Study Title: Opioid-sparing effect of erector spinae plane block and intravenous dexmedetomidine for obese patients with obstructive sleep apnea: A randomized controlled trial.
 
 Study Summary:
-Upper extremity (UE) motor function impairment is a major poststroke complication whose recovery remains one of the most challenging tasks in neurological rehabilitation. This study examined the efficacy and safety of the personalized neuroimaging-guided high-dose theta-burst stimulation (TBS) for poststroke UE motor function recovery. Patients after stroke with UE motor impairment from a China rehabilitation center were randomly assigned to receive high-dose intermittent TBS (iTBS) to ipsilesional UE sensorimotor network, continuous TBS (cTBS) to contralesional UE sensorimotor network, or sham stimulation, along with conventional therapy for 3 weeks. The primary outcome was the score changes on the Fugl-Meyer assessment-UE from baseline to 1 and 3 weeks. The secondary outcomes included the response rate on Fugl-Meyer assessment-UE scores posttreatment (&#x2265;9-point improvement) and score changes in multidimensional scales measuring UE, lower extremity, and activities and participation. From June 2021 to June 2022, 45 participants were randomized and 43 were analyzed. The iTBS and continuous TBS groups showed significantly greater improvement in Fugl-Meyer assessment-UE (mean improvement, iTBS: 10.73 points; continuous TBS: 10.79 points) than the sham group (2.43 points) and exhibited significantly greater response rates on Fugl-Meyer assessment-UE (iTBS, 60.0%; continuous TBS, 64.3%) than the sham group (0.0%). The active groups consistently exhibited superior improvement on the other 2 UE assessments at week 3. However, only the iTBS group showed greater efficacy on 1 lower extremity assessment than the sham group at week 3. Both active groups showed significant improvements in activities and participation assessments. The study provides evidence for the efficacy and safety of high-dose TBS in facilitating poststroke UE rehabilitation. URL: www.chictr.org.cn; Unique identifier: ChiCTR2100047340.
+This study assessed the impact of erector spinae plane block (ESPB) and intravenous (IV) dexmedetomidine in reduction of perioperative opioid consumption following bariatric surgery and their impact on post-operative recovery, analgesia, and pulmonary functions. A randomized controlled trial. Tanta University Hospitals, Tanta, Gharboa, Egypt. Forty obese patients with obstructive sleep apnea syndrome (OSAS), aged 20-55 years, and eligible for bariatric surgery were included. Patients randomized into group I (received general anesthesia [GA] with opioid, sham ESPB, and IV normal saline) or group II (received GA [without opioid], ESPB [at T7 level] using 20 mL bupivacaine 0.25 percent and bolus IV dexmedetomidine 1 &#xb5;g/kg and then 0.25 &#xb5;g/kg/h). Fentanyl consumption (primary outcome), sevoflurane consumption, recovery time, Visual Analog Scale (VAS), and pulmonary functions (secondary outcomes) were recorded. Perioperative fentanyl (intraoperative, post-operative, and total) consumption and sevoflurane consumption were substantially lower in group II compared to group I (p = 0.010, <0.001, <0.001, and <0.001, respectively). Moreover, recovery time was shorter in group II (p < 0.001). At 2, 4, 8, and 24 hours after surgery, group I patients had VAS values considerably higher. Relative to preoperative values, pulmonary function did not significantly alter after surgery. Oxygen desaturation was significantly lower in group II (p = 0.001). The ESPB with IV dexmedetomidine is advantageous for OSAS patients having bariatric surgery as it provides anesthesia and opioid-sparing effect with short recovery, adequate analgesia, and nonsignificant complications. Yet, it had no effect on post-operative pulmonary function.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1161/STROKEAHA.124.046597
+- DOI: 10.5055/jom.0873
 
 2. Keywords
-- magnetic resonance imaging
-- neurological rehabilitation
-- stroke
-- transcranial magnetic stimulation
-- upper extremity
+
 
 3. Key Findings
-- The iTBS and continuous TBS groups showed significantly greater improvement in Fugl-Meyer assessment-UE (mean improvement, iTBS: 10
-- However, only the iTBS group showed greater efficacy on 1 lower extremity assessment than the sham group at week 3
-- Both active groups showed significant improvements in activities and participation assessments
+- Findings extraction requires manual review
 
 This study provides insights into:
-- magnetic resonance imaging assessment methods and outcomes
-- neurological rehabilitation assessment methods and outcomes
-- stroke assessment methods and outcomes
+- General research methodology and outcomes

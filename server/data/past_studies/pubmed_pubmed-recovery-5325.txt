@@ -1,25 +1,26 @@
-Study Title: Protocol digest of a phase III randomized trial of gross total resection versus possible resection of fluid-attenuated inversion recovery-hyperintense lesion on MRI for newly diagnosed supratentorial glioblastoma: JCOG2209 (FLAMINGO).
+Study Title: Effect of Perioperative Inhaled Tiotropium for patients with chronic Obstructive Pulmonary disease in Esophageal cancer surgery (EPITOPE): an open-label, randomized, parallel-group pilot study.
 
 Study Summary:
-The goal of surgery for patients with newly diagnosed glioblastoma (GBM) is maximum safe resection of the contrast-enhancing (CE) lesion on magnetic resonance imaging. However, there is no consensus on the efficacy of FLAIRectomy, which is defined as the possible resection of fluid-attenuated inversion recovery (FLAIR)-hyperintense lesions surrounding the CE lesion. Although retrospective analyses suggested the potential benefits of FLAIRectomy, such outcomes have not been confirmed by prospective studies. Therefore, we planned a multicenter, open-label, randomized controlled phase III trial to evaluate the efficacy of FLAIRectomy compared with gross total resection of CE lesions in patients with newly diagnosed GBM. The primary endpoint is overall survival. In total, 130 patients will be enrolled from 47 institutions over 5&#xa0;years. This trial has been registered at the Japan Registry of Clinical Trials (study number jRCT1031230245).
+Chronic obstructive pulmonary disease (COPD) is a risk factor for pneumonia following esophagectomy. This study aimed to investigate the efficacy of perioperative inhaled tiotropium in patients with COPD undergoing esophagectomy. This open-label, randomized controlled trial randomly assigned 32 patients with COPD undergoing esophagectomy to conventional management or addition of tiotropium inhalation. The intervention group received tiotropium from two weeks before esophagectomy until the final evaluation one month after esophagectomy. The primary outcome was the incidence of pneumonia within 30 postoperative days. We also assessed the changes and the percentages from baseline in pulmonary function and walking distance of the incremental shuttle walking test to just before esophagectomy and final evaluation. Enrolled patients were randomly assigned to the control group (n&#x2009;=&#x2009;18) and the intervention group (n&#x2009;=&#x2009;14). Pneumonia was recorded in 4 (28.6%) and 5 (27.8%) patients in the intervention and control groups, respectively (risk difference: 0.8%, 95% confidence interval:&#x2009;-&#x2009;30.6 to 32.2). The intervention group demonstrated a significant improvement in pulmonary function and walking distance preoperatively. Further, the pulmonary function test was significantly better preoperatively in the intervention group than in the control group. Postoperatively, pulmonary function deterioration was more significant in the control group than in the intervention group. Preoperative tiotropium inhalation significantly improved pulmonary function and exercise tolerance in patients with COPD undergoing esophagectomy. The perioperative tiotropium did not reduce pneumonia after esophagectomy, but it may contribute to patient recovery by reducing postoperative pulmonary function deterioration.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2025
-- DOI: 10.1093/jjco/hyae130
+- DOI: 10.1007/s11748-024-02083-1
 
 2. Keywords
-- FLAIRectomy
-- glioblastoma
-- gross tumor resection
-- supratotal resection
+- Chronic obstructive pulmonary disease
+- Esophagectomy
+- Pneumonia
+- Pulmonary function
+- Tiotropium
 
 3. Key Findings
-- Findings extraction requires manual review
+- The intervention group demonstrated a significant improvement in pulmonary function and walking distance preoperatively
 
 This study provides insights into:
-- FLAIRectomy assessment methods and outcomes
-- glioblastoma assessment methods and outcomes
-- gross tumor resection assessment methods and outcomes
+- Chronic obstructive pulmonary disease assessment methods and outcomes
+- Esophagectomy assessment methods and outcomes
+- Pneumonia assessment methods and outcomes

@@ -1,20 +1,26 @@
-Study Title: Hands Up Program: Results of a feasibility study of a randomized controlled trial of a bone health exercise and education program for adults aged 50-65 post distal radius fracture.
+Study Title: Comparison of high-intensity interval training and moderate-intensity continuous training on cardiopulmonary function, cardiac autonomic function and vascular function in adolescent boys with obesity: A randomized controlled trial.
 
 Study Summary:
-Distal radius fractures (DRF) that occur from a fall from level ground are considered fragility fractures and may be the first indication that someone has compromised bone mineral density and is at risk of having osteoporosis. Women at about 50 years of age experience a dramatic increase risk of these fractures. Rehabilitation after DRF focuses on restoring range of motion and strength in the wrist, but rarely address future bone health concerns. We developed a 6-week therapist-developed remote full body exercise and osteoporosis/bone-health education program (called The Hands Up Program). This study was designed to evaluate the feasibility of a larger trial examining the effects of a whole-body exercise and education program for people 50-65 after a DRF. Community dwelling individuals between the age of 50-65 with a radiographically confirmed DRF were recruited from the Roth| McFarlane Hand and Upper Limb Center in London, Ontario. Participants were randomized in a 1:1 ratio into either the Hands Up Program which was a twice weekly exercise and education program for 6 weeks, or the control group where they proceeded with usual care. The intervention was delivered online through a website where participants created a unique username and password to access. The primary feasibility outcomes of the study were recruitment rate (74 participants in 1 year), retention rate (75% completion), and intervention adherence rate (60% of completion of the exercise program). Secondary outcomes included strength, range of motion, self-reported outcomes, and bone density. Overall, 74 participants were recruited in 14 months. Retention did not meet the criteria for success, as only 53% of the participants attended their 12-month visit. Adherence was also not met albeit close with 55% completing the exercise program. Twelve participants withdrew from the study, five due to the time commitment, four without explanation, one due to group allocation, one due to COVID and one participant moved. One participant was deemed ineligible after consent. Four of the participants that withdrew were in the intervention group, and four in the control group, five participants withdrew before they were allocated to a group. Feedback from patients indicated potential improvements to the program: lower assessment burden, spacing out the intervention so that the education portion could be delivered during the immobilization phase of recovery, and creating a more individualized program. Adherence and retention were both a challenge, although adherence was close to target. While achieving adherence to exercise in bone health is a known challenge, given the importance of prevention in the at-risk DRF population and the challenges in co-design and delivery during the pandemic, we believe evaluation of a revitalized program is warranted.
+Adolescent obesity can impair cardiopulmonary function, vascular elasticity, endothelial function, and vago-sympathetic balance. While moderate-intensity continuous training (MICT) benefits cardiovascular health in obese adolescents, the effects of high-intensity interval training (HIIT) are less understood. We hypothesize that HIIT may be more effective than MICT in improving VOpeak, vascular elasticity, endothelial function, and vago-sympathetic balance in obese adolescent boys. Forty four participants were randomly assigned to the HIIT (10&#xa0;&#xd7;&#xa0;1-min at 85%-95% peak HR, intersperse with 2-min active recovery at 60%-70% peak HR) or MICT (35&#xa0;min at 65%-75% peak HR) for an 8-week program. The primary outcome measured was the change in VOwith secondary outcomes including brachial-ankle pulse wave velocity (baPWV), flow-mediated dilation (FMD), and heart rate variability (HRV). Forty four adolescent boys with obesity (age, 14&#xa0;&#xb1;&#xa0;1&#xa0;years old, body mass index, 31.6&#xa0;&#xb1;&#xa0;1.3&#xa0;kg/m) were enrolled and 43 (97.73%) completed the 8-week exercise. No significant difference of VOwas found between the HIIT and MICT group (p&#xa0;=&#xa0;0.243). There was no significant difference of baPWV between the groups (p&#xa0;=&#xa0;0.789). Change in FMD% was significantly higher in the HIIT group compared to the MICT group (p&#xa0;<&#xa0;0.001). The Change in HRV-high frequency (HRV-HF; p&#xa0;=&#xa0;0.009) and HRV-low frequency/high frequency (HRV-LF/HF; p&#xa0;=&#xa0;0.035) was significantly higher in the HIIT group compared to the MICT group. Among adolescent boys with obesity, 8-week HIIT and MICT had similar effects on improving VO. HIIT may be superior to MICT to improve endothelial function and vago-sympathetic balance.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0313013
+- DOI: 10.1002/ejsc.12207
 
 2. Keywords
-
+- autonomic dysfunction
+- flow&#x2010;mediated dilation
+- high&#x2010;intensity interval training
+- pediatric obesity
+- vascular stiffness
 
 3. Key Findings
-- Feedback from patients indicated potential improvements to the program: lower assessment burden, spacing out the intervention so that the education portion could be delivered during the immobilization phase of recovery, and creating a more individualized program
+- No significant difference of VOwas found between the HIIT and MICT group (p&#xa0;=&#xa0;0
 
 This study provides insights into:
-- General research methodology and outcomes
+- autonomic dysfunction assessment methods and outcomes
+- flow&#x2010;mediated dilation assessment methods and outcomes
+- high&#x2010;intensity interval training assessment methods and outcomes

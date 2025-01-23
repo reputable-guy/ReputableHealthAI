@@ -1,26 +1,27 @@
-Study Title: Effect of intensive nutrition education and counseling on hemoglobin level of pregnant women in East Shoa zone, Ethiopia: randomized controlled trial.
+Study Title: Effect of an Integrated School Garden and Home Garden Intervention on Anemia Among School-Aged Children in Nepal: Evidence From a Cluster Randomised Controlled Trial.
 
 Study Summary:
-The aim of this study was to assess the effect of intensive nutrition education and counseling on hemoglobin level during pregnancy. The study was a one year two-arm parallel design cluster randomized controlled trial in East Shoa zone, Ethiopia. End-line data were collected from 163 intervention and 163 control group pregnant women. The intervention was a three consecutive trimester based counseling sessions using health belief model, weekly regular SMS sent on mobile phone containing core message and providing leaflet with food menu of Iron rich diet. The women in the control group received routine nutrition education from facilities. After adjusting for potential confounders, a linear mixed-effects model was used to assess the intervention effect. There was a significant change in both hemoglobin level and proportion of anemia in the intervention group. The mean hemoglobin level within intervention group before and after intervention was (12.08&#xb1; 1.15, 12.53&#xb1; 1.18) with p value of 0.01. The prevalence of anemia among intervention group declined from 14.7 % at the baseline to 9.2% after intervention. At the end of the trial, women in the intervention group had significantly better hemoglobin level than women in the control group (&#x3b2; = 0.50, p < 0.01). The intervention was effective in improving the hemoglobin level and consumption of iron rich diet among pregnant women. Therefore, employing trimester based counseling by using HBM constructs and regular reminding messages have to be provided to pregnant women as part of the regular antenatal care service.
+Integrated school and home garden interventions can improve health outcomes in low-income countries, but rigorous evidence remains scarce, particularly for school-aged children and to reduce anemia. We test if an integrated school and home garden intervention, implemented at pilot stage, improves hemoglobin levels among school children (aged 9-13 years) in a rural district in the mid-hills of Nepal. We use a cluster randomized controlled trial with 15 schools each in the control and treatment groups (n = 680 school children). To test if nutritional improvements translate into a reduction of anemia prevalence, hemoglobin data were collected 6 months after intervention support had ended. Using structural equation modeling, we estimate the direct and indirect effects of the treatment through several pathways, including nutritional knowledge, good food and hygiene practices, and dietary diversity. The integrated school and home garden intervention did not lead to a direct significant reduction in anemia. Causal positive changes of the treatment on nutritional outcomes, although significant, are not strong enough to impact hemoglobin levels. The program improved hemoglobin levels indirectly for children below 12 by increasing the use of good food and hygiene practices at home. These practices are associated with higher hemoglobin levels, particularly for girls, young children, and in households where caregivers are literate. Even integrated school and home garden interventions are not sufficient to reduce anemia among school children. Incorporating behavioral change components around food and hygiene practices into integrated garden interventions is important to unlocking their health impacts.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1186/s12884-023-05992-w
+- DOI: 10.1177/03795721231194124
 
 2. Keywords
-- Ethiopia
-- Hemoglobin
-- Nutrition
-- Pregnancy
-- RCT
+- anemia
+- child health
+- child nutrition
+- home gardens
+- school gardens
+- vegetables
 
 3. Key Findings
-- After adjusting for potential confounders, a linear mixed-effects model was used to assess the intervention effect
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Ethiopia assessment methods and outcomes
-- Hemoglobin assessment methods and outcomes
-- Nutrition assessment methods and outcomes
+- anemia assessment methods and outcomes
+- child health assessment methods and outcomes
+- child nutrition assessment methods and outcomes

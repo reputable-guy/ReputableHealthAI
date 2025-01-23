@@ -1,28 +1,25 @@
-Study Title: The Dose-Response Relationship of an Exercise-Based Injury Prevention Program: A Secondary Analysis of a Randomized Controlled Trial on Athletics (Track-and-Field) Athletes Over a 39-Week Follow-Up.
+Study Title: Karate Kata training: A promising intervention for behavioral problems in elementary school children.
 
 Study Summary:
-Despite exercise-based injury prevention programs (EIPPs) being widely researched and used, several randomized controlled trials (RCTs) have failed to show their protective effect on injury risk. This is potentially due to underappreciating the EIPP dose-response relationship, by not controlling the analysis for the injuries sustained during the early EIPP implementation period, before the EIPP becomes efficacious. To determine the dose-response relationship of EIPP by controlling for the effects of injuries sustained before it became efficacious. We conducted a secondary analysis of an RCT analyzing the EIPP efficacy in athletics over a 39-week follow-up on 840 athletes, by including only those with 100% response rate. We controlled the statistical analyses for a range of lengths of early EIPP implementation period by either excluding the athletes with early injuries (i.e., exclusion approach) or adjusting for the early injuries' effects (i.e., inclusion approach). We estimated the EIPP's dose-response relationship by measuring the EIPP's effect at each length of the controlled period. When we considered no early controlled period, the EIPP showed no effect (OR&#x2009;=&#x2009;0.85 [95% CI: 0.67-1.09]; p&#x2009;=&#x2009;0.209). However, both exclusion and inclusion approaches showed that the EIPP effect increased significantly after 5-6&#x2009;weeks of controlled period. This relationship plateaued at 7-12&#x2009;weeks of controlled period, peaking at 10&#x2009;weeks with the exclusion approach (OR&#x2009;=&#x2009;0.28 [95% CI: 0.16-0.48]; p&#x2009;<&#x2009;0.001), and 7&#x2009;weeks with the inclusion approach (OR&#x2009;=&#x2009;0.37 [95% CI: 0.25-0.55]; p&#x2009;<&#x2009;0.001). Acknowledging the dose-response relationship of EIPPs could help researchers to design and analyze RCTs and practitioners to plan EIPP implementation timely. Trial Registration: ClinicalTrials.gov Identifier: NCT03307434.
+Behavioral issues frequently arise in primary school children, affecting their academic performance, social interactions, and general welfare. These concerns encompass challenges related to attention, concentration, aggression, oppositional behavior, and social maladaptation. The purpose of the current study was to examine the impacts of karate Kata training on extrinsic behavioral problems of elementary school students. The Achenbach Child Behavior Checklist (CBCL) questionnaire was given to all fourth- to sixth-grade students from a male elementary school, totaling 241 students, in Mashhad, Iran. A total of 76 eligible school-aged children with a total score of 65 and above in attention, aggression, oppositional defiance, and social maladaptation issues were selected and randomly assigned to an exercise group (n&#xa0;=&#xa0;38) or a no-exercise control group (n&#xa0;=&#xa0;38). Participants in the exercise group were instructed to engage in Kata training, which consists of a series of choreographed movements designed to enhance physical and mental discipline, for a duration of 12 60-min sessions, whereas the participants in the control group followed their daily activities. The CBCL from the Achenbach System of Empirically Based Assessment was used to assess dependent variables such as attention and concentration, aggression, oppositional defiance, and social maladaptation at baseline and post-intervention. The repeated-measures analysis of variance indicated that Kata training results in significant improvements in attention and concentration and significant reductions in aggression, oppositional defiance, and social maladaptation among elementary school students (all ps&#xa0;<&#xa0;.001). These results highlight the potential benefits of incorporating Kata training into interventions aimed at improving the behavioral outcomes of children.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/sms.14720
+- DOI: 10.1016/j.jecp.2024.106058
 
 2. Keywords
-- athletics
-- efficacy
-- injury prevention
-- methodology
-- program duration
-- prospective study
+- Behavioral problems
+- Child Behavior Checklist
+- Elementary school students
+- Karate Kata training
 
 3. Key Findings
-- When we considered no early controlled period, the EIPP showed no effect (OR&#x2009;=&#x2009;0
-- However, both exclusion and inclusion approaches showed that the EIPP effect increased significantly after 5-6&#x2009;weeks of controlled period
+- The repeated-measures analysis of variance indicated that Kata training results in significant improvements in attention and concentration and significant reductions in aggression, oppositional defiance, and social maladaptation among elementary school students (all ps&#xa0;<&#xa0;
 
 This study provides insights into:
-- athletics assessment methods and outcomes
-- efficacy assessment methods and outcomes
-- injury prevention assessment methods and outcomes
+- Behavioral problems assessment methods and outcomes
+- Child Behavior Checklist assessment methods and outcomes
+- Elementary school students assessment methods and outcomes

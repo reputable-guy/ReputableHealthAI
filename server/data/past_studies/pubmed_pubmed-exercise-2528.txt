@@ -1,27 +1,26 @@
-Study Title: The impact of an exercise and sport intervention on cognitive function and pain among forcibly displaced individuals at risk for PTSD: a secondary analysis of the SALEEM randomized controlled trial.
+Study Title: Exploring the Feasibility of Digital Voice Assistants for Delivery of a Home-Based Exercise Intervention in Older Adults With Obesity and Type 2 Diabetes Mellitus: Randomized Controlled Trial.
 
 Study Summary:
-In response to the global scope of forced displacement, international organizations highlight the need of scalable solutions to support individuals' health and integration into host societies. Exposure to high mental and physical stress perceived before, during, and after displacement can impair functional capabilities, essential for adapting to a new environment. This secondary analysis examined the impact of an exercise and sport intervention on cognitive function and pain severity among individuals living in a refugee camp in Greece. We implemented a randomized controlled trial involving n&#x2009;=&#x2009;142 (52.8% women) forcibly displaced individuals from Southwest Asia and Sub-Saharan Africa. Participants were randomly assigned to a waitlist or a 10-week co-designed exercise and sport intervention with a 1:1 allocation rate between groups and sexes. Assessments at baseline and follow-up included the Flanker task, the Oddball paradigm, pain severity via visual analog scales, and the &#xc5;strand-Rhyming indirect test of maximal oxygen uptake. We analyzed the intervention effects using structural equation modeling. Our findings did not indicate a direct intervention effect on cognitive function or pain (p&#x2009;&#x2265;&#x2009;.332). However, the intervention group significantly improved cardiorespiratory fitness, &#xdf;&#x2009;=&#x2009;.17, p&#x2009;=&#x2009;.010, which was associated with faster reaction times in cognitive tasks, &#xdf;&#x2009;=&#x2009;&#x2009;-&#x2009;.22, p&#x2009;=&#x2009;.004. Moreover, there was some evidence that adherence might be linked to reduced pain severity, &#xdf;&#x2009;=&#x2009;&#x2009;-&#x2009;.14, p&#x2009;=&#x2009;.065. Exercise and sport did not directly impact cognitive function and pain severity among a sociodemographically diverse sample living in a refugee camp, suggesting the need for complementary measures. Nevertheless, our results indicate that improvements in cardiorespiratory fitness benefit aspects of attention. The study was approved by the local ethics committee of the University of Thessaly (no. 39) and registered prospectively on February 8, 2021 at the ISRCTN registry (no. 16291983).
+Current clinical guidelines for the management of type 2 diabetes mellitus (T2DM) in older adults recommend the use of antihyperglycemic medications, monitoring of blood glucose levels, regular exercise, and a healthy diet to improve glycemic control and reduce associated comorbidities. However, adherence to traditional exercise programs is poor (<35%). Common barriers to adherence include fear of hypoglycemia and the need for blood glucose level monitoring before exercise. Digital health strategies offer great promise for managing T2DM as they facilitate patient-practitioner communication, support self-management, and improve access to health care services for underserved populations. We have developed a novel web-based software program allowing practitioners to create tailored interventions and deliver them to patients via digital voice assistants (DVAs) in their own homes. We aim to evaluate the feasibility of a 12-week, home-based, personalized lifestyle intervention delivered and monitored by DVAs for older adults with obesity and T2DM. In total, 50 older adults with obesity aged 50-75 years with oral hypoglycemic agent-treated T2DM were randomized to the intervention (DVA, n=25) or a control group (n=25). Participants allocated to the DVA group were prescribed a home-based muscle strengthening exercise program (~20- to 30-min sessions) and healthy eating intervention, delivered via DVAs (Alexa Echo Show 8; Amazon) using newly developed software ("Buddy Link"; Great Australian Pty Ltd). Control group participants received generalized physical activity information via email. Outcomes were feasibility, DVA usability (System Usability Scale), and objectively assessed physical activity and sedentary time (wrist-worn accelerometers). In total, 45 (90%) out of 50 participants completed this study. Mean adherence to prescribed exercise was 85% (SD 43%) with no intervention-related adverse events. System usability was rated above average (70.4, SD 16.9 out of 100). Compared with controls, the DVA group significantly decreased sedentary time (mean difference -67, SD 23; 95% CI -113 to -21 min/d), which was represented by a medium to large effect size (d=-0.6). A home-based lifestyle intervention delivered and monitored by health professionals using DVAs was feasible for reducing sedentary behavior and increasing moderate-intensity activity in older adults with obesity and T2DM. Australian New Zealand Clinical Trials Registry (ANZCTR) ACTRN12621000307808; https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=381364&isReview=true.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12916-024-03601-x
+- DOI: 10.2196/53064
 
 2. Keywords
-- Executive function
-- Fitness
-- Migrant
-- Physical activity
-- Public health
-- Refugee camp
+- digital health
+- exercise
+- older adults
+- type 2 diabetes mellitus
+- voice activation
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Executive function assessment methods and outcomes
-- Fitness assessment methods and outcomes
-- Migrant assessment methods and outcomes
+- digital health assessment methods and outcomes
+- exercise assessment methods and outcomes
+- older adults assessment methods and outcomes

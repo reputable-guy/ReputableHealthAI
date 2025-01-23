@@ -1,28 +1,28 @@
-Study Title: Impact of diverse aerobic exercise plans on glycemic control, lipid levels, and functional activity in stroke patients with type 2 diabetes mellitus.
+Study Title: Analgesic effect of dance movement therapy: An fNIRS study.
 
 Study Summary:
-This study aimed to assess the effects of Low-to-Moderate Intensity Continuous Training (LMICT), Moderate-Intensity Interval Training (MIIT), and Reduced-Exertion High-Intensity Training (REHIT) on blood glucose regulation, functional recovery, and lipid levels in individuals who have experienced a stroke and are diagnosed with Type 2 Diabetes Mellitus (T2DM). Forty-two T2DM stroke patients were randomly allocated to four groups: LMICT, MIIT, REHIT, and a control group (CON). Participants continuously monitored their blood glucose levels throughout the intervention using continuous glucose monitoring (CGM) devices. The study comprised two exercise intervention cycles: the first lasting from Day 3 to Day 14 and the second from Day 15 to Day 28, with the initial two days serving as contrasting periods. Primary outcomes encompassed CGM-derived blood glucose measurements, the Barthel Index (BI), Fugl-Meyer Assessment lower-extremity subscale (FMA-LE), and alterations in triglycerides (TG), total cholesterol (TC), high-density lipoprotein cholesterol (HDL-c), and low-density lipoprotein cholesterol (LDL-c). Compared with the CON, the MIIT group showed significant improvements in mean glucose (MG), glucose standard deviation (SD), time above range (TAR), and time in range (TIR). The REHIT group exhibited significantly reduced time below range (TBR), glucose SD, and coefficient of variation (CV). Regarding lipid levels, although the REHIT group achieved a significant reduction in TG levels compared with the CON, the overall effects of LMICT, MIIT, and REHIT on lipid profiles were relatively modest. Concerning functional recovery, the REHIT group significantly improved the BI and FMA-LE. Although the short-term quantitative impact of exercise on lipid levels may be limited, both REHIT and MIIT significantly improved glycemic management and reduced glucose variability in post-stroke patients with Type 2 Diabetes Mellitus. Additionally, REHIT notably enhanced functional recovery.
+This study aims to explores the physiological and psychological mechanisms of exercise-induced hypoalgesia (EIH) by combining the behavioral results with neuroimaging data on changes oxy-hemoglobin (HbO) in prefrontal cortex (PFC). A total of 97 healthy participants were recruited and randomly divided into three groups: a single dance movement therapy (DMT) group, a double DMT group, and control group. Evaluation indicators included the pressure pain threshold (PPT) test, the color-word stroop task (CWST) for wearing functional near-infrared spectroscopy (fNIRS), and the self-assessment manikin (SAM). The testing time is before intervention, after intervention, and one hour of sit rest after intervention. 1) Repeated measures ANOVA revealed that, there is a time * group effect on the PPT values of the three groups of participants at three time points. After 30 min of acute dance intervention, an increase in the PPT values of 10 test points occurred in the entire body of the participants in the experimental group with a significant difference than the control group. 2) In terms of fNIRS signals, bilateral DLPFC and left VLPFC channels were significantly activated in the experimental group. 3) DMT significantly awakened participants and brought about pleasant emotions, but cognitive improvement was insignificant. 4) Mediation effect analysis found that the change in HbO concentration in DLPFC may be a mediator in predicting the degree of improvement in pressure pain threshold through dance intervention (total effect &#x3b2; = 0.7140). In healthy adults, DMT can produce a diffuse EIH effect on improving pressure pain threshold, emotional experience but only showing an improvement trend in cognitive performance. Dance intervention significantly activates the left ventrolateral and bilateral dorsolateral prefrontal cortex. This study explores the central nervous system mechanism of EIH from a physiological and psychological perspective.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fendo.2024.1389538
+- DOI: 10.1016/j.neuroimage.2024.120880
 
 2. Keywords
-- aerobic exercise training
-- continuous glucose monitoring
-- functional activity
-- glycemic variability
-- lipid levels
-- stroke
-- type 2 diabetes mellitus
+- Dance movement therapy
+- Dorsolateral Prefrontal Cortex
+- Emotion
+- Exercise-induced hypoalgesia
+- Pain descending pathway
+- Pressure pain threshold
 
 3. Key Findings
-- Compared with the CON, the MIIT group showed significant improvements in mean glucose (MG), glucose standard deviation (SD), time above range (TAR), and time in range (TIR)
+- 1) Repeated measures ANOVA revealed that, there is a time * group effect on the PPT values of the three groups of participants at three time points
+- 4) Mediation effect analysis found that the change in HbO concentration in DLPFC may be a mediator in predicting the degree of improvement in pressure pain threshold through dance intervention (total effect &#x3b2; = 0
 
 This study provides insights into:
-- aerobic exercise training assessment methods and outcomes
-- continuous glucose monitoring assessment methods and outcomes
-- functional activity assessment methods and outcomes
+- Dance movement therapy assessment methods and outcomes
+- Dorsolateral Prefrontal Cortex assessment methods and outcomes
+- Emotion assessment methods and outcomes

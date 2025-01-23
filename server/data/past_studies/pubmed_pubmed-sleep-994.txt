@@ -1,27 +1,24 @@
-Study Title: Effects of an educational intervention on frailty status, physical function, physical activity, sleep patterns, and nutritional status of older adults with frailty or pre-frailty: the FRAGSALUD study.
+Study Title: Motor cortex transcranial direct current stimulation improves non-motor symptoms in early-onset Parkinson's disease: a pilot study.
 
 Study Summary:
-The prevalence of frailty is increasing worldwide, emphasizing the importance of prioritizing healthy ageing. To address this, cost-effective and minimally supervised interventions are being sought. This study aimed to assess the impact of an educational program on frailty status, physical function, physical activity, sleep patterns, and nutritional status in community-dwelling older adults with at least 1 Fried's frailty criteria. A 6-month multicentre randomized controlled trial was conducted from March 2022 to February 2023 in 14 health centres located in Cadiz and Malaga, Spain. The educational intervention consisted of 4 group sessions and 6 follow-up phone calls spread over 6 months. The program focused on educating participants about frailty and its impact on health, providing guidelines for physical activity, healthy dietary habits, cognitive training, psychological well-being and social activities. A total of 163 participants, divided into control (&#x2009;=&#x2009;80) and educational groups (&#x2009;=&#x2009;83) were assessed before and after the intervention. The results showed a significant group-time interaction in the physical function evaluated with a large effect on Short Physical Performance Battery score (&#x3b7;2p&#x2009;=&#x2009;0.179, -0.1 [-1.2-1.0] points for control group vs. 1.0 [0.0-3.0] points for educational group,&#x2009;<&#x2009;0.001), and an effect on the 4-meter gait test ((&#x3b7;2p&#x2009;=&#x2009;0.122, 0.5 [0.1-0.0] s for control group vs. -0.4 [-0.5- -0.3] s for educational group,&#x2009;<&#x2009;0.001), and the 5-repetition sit-to-stand test (&#x3b7;2p&#x2009;=&#x2009;0.136, 1.0 [0.0-1.2] s for control group vs. -4.3 [-7.0- -2.3] for educational group,&#x2009;<&#x2009;0.001). Additionally, the use of accelerometers to assess physical activity, inactivity, and sleep patterns revealed a significant small effect in the number of awakenings at night ((&#x3b7;2p&#x2009;=&#x2009;0.040, 1.1 [-0.5-3.4] awakenings for control group vs. 0.0 [-2.2-0.0] awakenings for educational group,&#x2009;=&#x2009;0.009). The findings also highlighted a significant medium effect regarding malnutrition risk, which was assessed using the Mini-Nutritional Assessment score (&#x3b7;2p&#x2009;=&#x2009;0.088, -0.7 [-2.3-1.5] points for control group vs. 1.5 [-0.5-3.0] points for educational group,&#x2009;<&#x2009;0.001). Thus, the 6-month educational program effectively improved physical function, sleep patterns, and nutritional status compared to usual healthcare attendance in community-dwelling older adults with frailty or pre-frailty. These findings underscore the potential of minimally supervised interventions in promoting a healthy lifestyle in this vulnerable population.
+Early-onset Parkinson's Disease (EOPD) demands tailored treatments. The younger age of patients might account for a higher sensitivity to transcranial direct current stimulation (tDCS) based non-invasive neuromodulation, which may raise as an integrative therapy in the field. Accordingly, here we&#xa0;assessed the safety and efficacy of the primary left motor cortex (M1) anodal tDCS in EOPD. Ten idiopathic EOPD patients received tDCS at 2.0&#xa0;mA per 20&#xa0;min for 10&#xa0;days within a crossover, double-blind, sham-controlled pilot study. The outcome was evaluated by measuring changes in MDS-UPDRS part III, Non-Motor Symptoms Scale (NMSS), PD-cognitive rating scale, and PD Quality of Life Questionnaire-39 scores. We showed that&#xa0;anodal but not sham tDCS significantly reduced the NMSS total and "item 2" (sleep/fatigue) scores. Other parameters were not modified. No adverse events occurred. M1 anodal tDCS might thus&#xa0;evoke plasticity changes in cortical-subcortical circuits involved in non-motor functions, supporting the value as a therapeutic option in EOPD.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.3389/fpubh.2023.1267666
+- Publication Date: 2024
+- DOI: 10.1007/s00702-023-02726-2
 
 2. Keywords
-- accelerometry
-- community-dwelling
-- educational program
-- frail
-- functional capacity
+- Early-onset Parkinson&#x2019;s disease
+- Non-motor symptoms
+- tDCS
 
 3. Key Findings
-- The results showed a significant group-time interaction in the physical function evaluated with a large effect on Short Physical Performance Battery score (&#x3b7;2p&#x2009;=&#x2009;0
-- Additionally, the use of accelerometers to assess physical activity, inactivity, and sleep patterns revealed a significant small effect in the number of awakenings at night ((&#x3b7;2p&#x2009;=&#x2009;0
+- We showed that&#xa0;anodal but not sham tDCS significantly reduced the NMSS total and "item 2" (sleep/fatigue) scores
 
 This study provides insights into:
-- accelerometry assessment methods and outcomes
-- community-dwelling assessment methods and outcomes
-- educational program assessment methods and outcomes
+- Early-onset Parkinson&#x2019;s disease assessment methods and outcomes
+- Non-motor symptoms assessment methods and outcomes
+- tDCS assessment methods and outcomes

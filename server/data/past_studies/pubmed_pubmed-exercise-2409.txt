@@ -1,20 +1,26 @@
-Study Title: The benefits of early pulmonary rehabilitation with incentive spirometer among chronic obstructive pulmonary disease patients with exacerbation of chronic obstructive pulmonary disease.
+Study Title: The effect of home-based neuromuscular electrical stimulation-resistance training and protein supplementation on lean mass in persons with spinal cord injury: A pilot study.
 
 Study Summary:
-Inspiratory muscle dysfunction is prevalent in chronic obstructive pulmonary disease (COPD). This study aimed to compare the benefits of adding volume incentive spirometry (VIS) to active-cycle-breathing technique (ACBT) and ground-based walking (GBW) training in patients hospitalised for COPD exacerbations. The objectives were to evaluate the impact of early initiation of VIS on respiratory muscle strength, measured by maximum inspiratory pressure (MIP), maximum expiratory pressure (MEP) and the 6-minute walk test (6-MWT), as well as on symptoms, as assessed by the COPD assessment test (CAT) score. This randomised, prospective study was conducted among COPD subjects admitted with exacerbation between June 2021 and August 2022. Subjects were randomly assigned to either the VIS (interventional group) or the control group. Baseline assessments, including spirometry, MIP, CAT score, and the 6-minute walk test (6MWT), were performed. Both groups commenced active cycle of breathing techniques (ACBT) and groundbased walking (GBW) training within 72 hours of admission, with daily sessions involving three repetitions of each phase to complete one cycle, repeated three times daily. The intervention group received VIS. Upon discharge, subjects were provided with a diary and instructed to continue a home-based pulmonary exercise regimen, performed for at least 15 minutes per day, 3 days a week, with compliance monitored through weekly phone calls. At the 4-week followup, repeat assessments of spirometry, MIP, maximal expiratory pressure (MEP), CAT score and 6MWT were conducted to evaluate the outcomes. A total of 34 subjects with a median age of 68 years (interquartile range [IQR] 65-74.3 years). The cohort predominantly males (32 subjects, 94%). The distribution of disease severity was as follows: GOLD 2 in 15 subjects (44%) and GOLD 3 in 14 subjects (41%). Additionally, 17 subjects (50%) had experienced three or more exacerbations in the preceding year. The majority of patients (29 out of 34, 85%) had a length of stay of less than 7 days. In the interventional group, the median MIP improved from 50 cm H2O (IQR 40.5-70.5) to 59 cm H2O (IQR 39-76.5), though this was not statistically significant (p = 0.407). The control group saw an improvement from 58 cm H2O (IQR 36.5-85) to 60 cm H2O (IQR 33-88), also not statistically significant (p = 0.112). The 6MWT distance improved in the interventional group from 220 meters (IQR 118-275) to 260 meters (IQR 195-327) (p = 0.002) and in the control group from 250 meters (IQR 144-294) to 280 meters (IQR 213-359.5) (p = 0.001). The median CAT score decreased significantly in the interventional group from 22 (IQR 16-28) to 11 (IQR 7.5-13) (p < 0.001) and in the control group from 21 (IQR 14-24.5) to 10 (IQR 8-12.5) (p < 0.001). Early initiation of pulmonary rehabilitation in patients with acute exacerbations, characterised by poor muscle strength and a history of exacerbations, resulted in significant improvements in patient-reported symptoms and 6MWT outcomes. Although there was only a numerical improvement in MIP and MEP, the intervention did not extend the length of hospital stay, highlighting its safety and efficacy in the acute care setting.
+In persons with a spinal cord injury (SCI), resistance training using neuromuscular electrical stimulation (NMES-RT) increases lean mass in the lower limbs. However, whether protein supplementation in conjunction with NMES-RT further enhances this training effect is unknown. In this randomized controlled pilot trial, 15 individuals with chronic SCI engaged in 3 times/week NMES-RT, with (NMES+PRO, n&#x2009;=&#x2009;8) or without protein supplementation (NMES, n&#x2009;=&#x2009;7), for 12&#x2009;weeks. Before and after the intervention, whole body and regional body composition (DXA) and fasting glucose and insulin concentrations were assessed in plasma. Adherence to the intervention components was &#x2265;96%. Thigh lean mass was increased to a greater extent after NMES+PRO compared to NMES (0.3 (0.2, 0.4) kg; p&#x2009;<&#x2009;0.001). Furthermore, fasting insulin concentration and Homeostatic Model Assessment for Insulin Resistance (HOMA-IR) were decreased similarly in both groups (fasting insulin: 1 [-9, 11] pmol&#x2219;L; HOMA-IR: 0.1 [-0.3, 0.5] AU; both p&#x2009;&#x2265;&#x2009;0.617). Twelve weeks of home-based NMES-RT increased thigh lean mass, an effect that was potentiated by protein supplementation. In combination with the excellent adherence and apparent improvement in cardiometabolic health outcomes, these findings support further investigation through a full-scale randomized controlled trial.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-
+- DOI: 10.14814/phy2.70073
 
 2. Keywords
-
+- exercise training
+- muscle mass
+- paralysis
+- rehabilitation
+- whey protein
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- exercise training assessment methods and outcomes
+- muscle mass assessment methods and outcomes
+- paralysis assessment methods and outcomes

@@ -1,26 +1,26 @@
-Study Title: Hypnosis Intervention for Sleep Disturbances in Individuals with Mild Cognitive Impairment: A Randomized Pilot Study.
+Study Title: Chronic Mild Sleep Restriction Does Not Lead to Marked Neuronal Alterations Compared With Maintained Adequate Sleep in Adults.
 
 Study Summary:
-Poor sleep quality is highly prevalent among individuals with mild cognitive impairment (MCI). Further, poor sleep quality is associated with reduced quality of life, increased stress response, memory impairments, and progression to dementia among individuals with MCI. Pharmacological treatments for sleep have mixed efficacy and can lead to dependency. Therefore, alternatives to pharmacological treatments for improving sleep among individuals with MCI are needed. The present study reports on the feasibility of a non-pharmacological self-administered hypnosis intervention focused on sleep quality in adults with MCI. It was hypothesized that the hypnosis intervention program would be feasible and have acceptable levels of adherence to daily hypnosis practice. A two-armed randomized controlled pilot trial was conducted using a sample of 21 adults with MCI. Eligible participants were randomly assigned to listen to either hypnosis audio recordings or sham hypnosis recordings for five weeks. Program feasibility, program adherence, pain intensity, stress, and sleep quality were measured using a daily home practice log, questionnaires, and wrist actigraphy. The results found mid or higher levels of treatment satisfaction, ease of use, and perceived effectiveness at one-week follow-up, with participants in the hypnosis arm reporting greater perceived benefit. Adherence to assigned audio recordings and meetings were likewise within acceptable margins in both groups. No intervention-related adverse events were reported in either treatment condition. Significant improvements in sleep quality, sleep duration, and daytime sleepiness were found for the hypnosis intervention. The results of this study can be used to inform future research on the effects of hypnosis on sleep quality in adults with MCI.
+Sleep restriction (SR) has been shown to upregulate neuronal reward networks in response to food stimuli, but prior studies were short-term and employed severe SR paradigms. Our goal was to determine whether mild SR, achieved by delaying bedtimes by 1.5 h, influences neuronal networks responsive to food stimuli compared with maintained adequate sleep (AS) >7 h/night. A randomized controlled crossover study with 2 6-wk phases, AS (&#x2265;7 h sleep/night) and SR (-1.5 h/night relative to screening), was conducted. Adults with AS duration, measured using wrist actigraphy over a 2-wk screening period, and self-reported good sleep quality were enrolled. Resting-state and food-stimulated functional neuroimaging (fMRI) was performed at the endpoint of each phase. Resting-state fMRI data analyses included a priori region-of-interest seed-based functional connectivity, whole-brain voxel-wise analyses, and network analyses. Food task-fMRI analyses compared brain activity patterns in response to food cues between conditions. Paired-sample t tests tested differences between conditions. Twenty-six participants (16 males; age 29.6 &#xb1; 5.3 y, body mass index 26.9 &#xb1; 4.0 kg/m) contributed complete data. Total sleep time was 7 h 30 &#xb1; 28 min/night during AS compared with 6 h 12 &#xb1; 26 min/night during SR. We employed different statistical approaches to replicate prior studies in the field and to apply more robust approaches that are currently advocated in the field. Using uncorrected P value of <0.01, cluster &#x2265;10-voxel thresholds, we replicated prior findings of increased activation in response to foods in reward networks after SR compared with AS (right insula, right inferior frontal gyrus, and right supramarginal gyrus). These findings did not survive more rigorous analytical approaches (Gaussian Random Field theory correction at 2-tailed voxel P < 0.001, cluster P < 0.05). The results suggest that mild SR leads to increased reward responsivity to foods but with low confidence given the failure to meet significance from rigorous statistical analyses. Further research is necessary to inform the mechanisms underlying the role of sleep on food intake regulation. This trial was registered at clinicaltrials.gov as NCT02960776.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/00207144.2023.2279672
+- DOI: 10.1016/j.tjnut.2023.12.016
 
 2. Keywords
-- Feasibility
-- hypnosis
-- mild cognitive impairment
-- sleep
+- fMRI
+- food
+- functional connectivity
+- obesity
+- sleep duration
 
 3. Key Findings
-- The results found mid or higher levels of treatment satisfaction, ease of use, and perceived effectiveness at one-week follow-up, with participants in the hypnosis arm reporting greater perceived benefit
-- Significant improvements in sleep quality, sleep duration, and daytime sleepiness were found for the hypnosis intervention
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Feasibility assessment methods and outcomes
-- hypnosis assessment methods and outcomes
-- mild cognitive impairment assessment methods and outcomes
+- fMRI assessment methods and outcomes
+- food assessment methods and outcomes
+- functional connectivity assessment methods and outcomes

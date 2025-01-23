@@ -1,31 +1,25 @@
-Study Title: Microbiota based personalized nutrition improves hyperglycaemia and hypertension parameters and reduces inflammation: a prospective, open label, controlled, randomized, comparative, proof of concept study.
+Study Title: Single-Center Randomized Trial Comparing Feeding Jejunostomy with Nasojejunal Tube Placement in Patients Undergoing Transhiatal Esophagectomy Post-Neoadjuvant Therapy for Esophageal Cancer.
 
 Study Summary:
-Recent studies suggest that gut microbiota composition, abundance and diversity can influence many chronic diseases such as type 2 diabetes. Modulating gut microbiota through targeted nutrition can provide beneficial effects leading to the concept of personalized nutrition for health improvement. In this prospective clinical trial, we evaluated the impact of a microbiome-based targeted personalized diet on hyperglycaemic and hyperlipidaemic individuals. Specifically, BugSpeaks-a microbiome profile test that profiles microbiota using next generation sequencing and provides personalized nutritional recommendation based on the individual microbiota profile was evaluated. A total of 30 participants with type 2 diabetes and hyperlipidaemia were recruited for this study. The microbiome profile of the 15 participants (test arm) was evaluated using whole genome shotgun metagenomics and personalized nutritional recommendations based on their microbiota profile were provided. The remaining 15 participants (control arm) were provided with diabetic nutritional guidance for 3 months. Clinical and anthropometric parameters such as HbA1c, systolic/diastolic pressure, c-reactive protein levels and microbiota composition were measured and compared during the study. The test arm (microbiome-based nutrition) showed a statistically significant decrease in HbA1c level from 8.30 (95% confidence interval (CI), [7.74-8.85]) to 6.67 (95% CI [6.2-7.05]),< 0.001 after 90 days. The test arm also showed a 5% decline in the systolic pressure whereas the control arm showed a 7% increase. Incidentally, a sub-cohort of the test arm of patients with >130 mm Hg systolic pressure showed a statistically significant decrease of systolic pressure by 14%. Interestingly, CRP level was also found to drop by 19.5%. Alpha diversity measures showed a significant increase in Shannon diversity measure (< 0.05), after the microbiome-based personalized dietary intervention. The intervention led to a minimum two-fold (Log2 fold change increase in species likeandwhich might have a beneficial role in the current context and a similar decrease in species likeandwhich have been earlier shown to have some negative effects in the host. Overall, the study indicated a net positive impact of the microbiota based personalized dietary regime on the gut microbiome and correlated clinical parameters.
+Enteral nutrition is the preferred mode of nutrition following esophagectomy. However, the preferred mode of enteral nutrition (feeding jejunostomy (FJ) vs. nasojejunal (NJ) tube) remains contentious. In this randomized controlled trial (RCT), we compared FJ with NJ tube feeding in terms of safety, feasibility, efficacy, and quality-of-life (QOL) parameters in Indian patients undergoing trans-hiatal esophagectomy (THE) for carcinoma esophagus. This single-center, two-armed (FJ and NJ tube), non-inferiority RCT was conducted from March 2020 to January 2024. Forty-eight patients underwent THE with posterior-mediastinal-gastric pull-up and were randomized to NJ and FJ arms (24 in each group). The postoperative complications, catheter efficacy, and QOL parameters were compared between the two groups till the 6-week follow-up. In this RCT, we found no significant difference in the occurrence of catheter-related complications, postoperative complication rate, catheter efficacy, and visual analog pain scores between patients with NJ tube and FJ, following THE for esophageal cancer. There was a significantly better self-reported physical domain QOL score noted in the NJ group, both at the time of discharge (44.7&#x2009;&#xb1;&#x2009;6.2 vs 39.8&#x2009;+&#x2009;5.6; p value, 0.005) and at the 6-week follow-up (55.4&#x2009;&#xb1;&#x2009;5.2 vs 48.6&#x2009;&#xb1;&#x2009;4.5; p value,&#x2009;<&#x2009;0.001). Based on the findings of our RCT, we conclude that both enteral access methods (NJ vs. FJ) exhibit comparable incidences of catheter-related complications. The use of NJ tube is a viable alternative to a surgical FJ, has the benefit of early removal, and saves the distress associated with a tube per abdomen.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7717/peerj.17583
+- DOI: 10.1007/s12029-024-01080-0
 
 2. Keywords
-- Gut microbiome
-- HbA1c
-- Hyperglycemia
-- Personalized nutrition
-- Type 2 diabetes
+- Esophagectomy
+- Feeding jejunostomy
+- Nasojejunal tube
+- Randomized trial
 
 3. Key Findings
-- The test arm (microbiome-based nutrition) showed a statistically significant decrease in HbA1c level from 8
-- The test arm also showed a 5% decline in the systolic pressure whereas the control arm showed a 7% increase
-- Incidentally, a sub-cohort of the test arm of patients with >130 mm Hg systolic pressure showed a statistically significant decrease of systolic pressure by 14%
-- Interestingly, CRP level was also found to drop by 19
-- Alpha diversity measures showed a significant increase in Shannon diversity measure (< 0
-- Overall, the study indicated a net positive impact of the microbiota based personalized dietary regime on the gut microbiome and correlated clinical parameters
+- In this RCT, we found no significant difference in the occurrence of catheter-related complications, postoperative complication rate, catheter efficacy, and visual analog pain scores between patients with NJ tube and FJ, following THE for esophageal cancer
 
 This study provides insights into:
-- Gut microbiome assessment methods and outcomes
-- HbA1c assessment methods and outcomes
-- Hyperglycemia assessment methods and outcomes
+- Esophagectomy assessment methods and outcomes
+- Feeding jejunostomy assessment methods and outcomes
+- Nasojejunal tube assessment methods and outcomes

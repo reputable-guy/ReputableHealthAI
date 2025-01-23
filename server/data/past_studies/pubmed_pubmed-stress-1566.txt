@@ -1,27 +1,26 @@
-Study Title: Heart Rate Variability Biofeedback Training Reduces Early Maternal Stress, Anxiety, and Depression in Women Undergoing Cesarean Delivery: A Randomized Controlled Trial.
+Study Title: Trait Mindfulness Moderates Treatment Outcomes in a Randomized Controlled Trial of Mantram Repetition Program for Veterans with Post-Traumatic Stress Disorder.
 
 Study Summary:
-Women who undergo cesarean delivery have reported experiencing mood distress related to the surgery and postoperative pain. Heart rate variability biofeedback (HRVB) training is known to have positive effects on mental health, but its effects on women undergoing cesarean delivery have not yet been determined. This study evaluated the effects of an HRVB training intervention on stress, anxiety, and depression in women undergoing cesarean delivery. We hypothesized that 10 sessions of HRVB training could cumulatively improve emotion regulation in participants. This study was designed as a double-blinded randomized controlled trial involving a total of 86 enrolled women who were then divided into two groups: intervention and control. During their hospitalization, the intervention group underwent HRVB training daily, while both groups received standard perinatal care. Heart rate variability (HRV) was assessed using root mean square of successive differences (RMSSD), standard deviation of normal-to-normal intervals (SDNN), high-frequency power (HF) and low-frequency power (LF). HRV parameters, stress, anxiety, and depression were evaluated at baseline and on the fifth day after childbirth. Intention-to-treat (ITT) analyses examined change over time between groups. Although no significant effects were found for the RMSSD and HF, a significant increase was observed in SDNN (F&#x2009;=&#x2009;13.43, p&#x2009;=&#x2009;<&#x2009;0.001, &#x19e;= 0.14), and LF at post-assessment (F&#x2009;=&#x2009;4.26, p&#x2009;=&#x2009;.04, &#x19e;= 0.05) compared to the control group. Except for the depression variable, stress (F&#x2009;=&#x2009;6.11, p&#x2009;=&#x2009;.02, &#x19e;= 0.07) and anxiety (F&#x2009;=&#x2009;8.78, p&#x2009;=&#x2009;.004, &#x19e;= 0.10) significantly decreased compared to the control group on the fifth postpartum day. Furthermore, post-hoc analysis showed that HRVB was more effective in decreasing mild to severe depressive symptoms (F&#x2009;=&#x2009;7.60, p&#x2009;=&#x2009;.001, &#x19e;= 0.27). The intervention program successfully decreased self-perceived stress and anxiety in the postpartum period and relieved symptoms in more severely depressed participants. Our findings suggest that this program is suitable and beneficial for application in women during the early postpartum period following cesarean delivery.
+This secondary analysis examined five facets of mindful awareness as potential moderators of clinical outcomes using data from a randomized controlled trial (RCT) that compared Mantram Repetition Program (MRP) with present-centered therapy (PCT) in veterans with post-traumatic stress disorder (PTSD).Data were examined from 173 veterans with military-related PTSD randomly assigned to receive eight sessions of MRP (= 89) or PCT (= 84). Clinician-administered and self-report measures of mindfulness (Five Facet Mindfulness Questionnaire [FFMQ]), PTSD severity, insomnia symptoms, and depression symptoms, and were obtained pre- and post-intervention. Hierarchical regressions were used to test for FFMQ moderation on clinical outcomes within the two treatment groups.For those with greater ability to "describe their internal experience" (+1 standard deviation [SD]), MRP was associated with lower PTSD hyperarousal symptoms post-intervention than PCT (< 0.001). For those with lower "nonreactivity to internal stimuli" (-1 SD), MRP was associated with greater reductions in PTSD avoidance and numbing symptoms and insomnia compared with PCT (alls < 0.002).Pre-intervention mindfulness domains of "describe" and "nonreactivity to inner experience" differentially predicted improvements in PTSD and insomnia symptoms for MRP as compared with PCT subjects. The FFMQ may be an important tool for predicting patient preparedness for mindfulness-based interventions, such as MRP.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10484-024-09656-z
+- DOI: 10.1089/jicm.2024.0181
 
 2. Keywords
-- Anxiety
-- Biofeedback
-- Cesarean delivery
-- Depression
-- Stress
+- PTSD
+- mantram repetition
+- meditation
+- mindfulness
+- moderation
 
 3. Key Findings
-- Although no significant effects were found for the RMSSD and HF, a significant increase was observed in SDNN (F&#x2009;=&#x2009;13
-- Furthermore, post-hoc analysis showed that HRVB was more effective in decreasing mild to severe depressive symptoms (F&#x2009;=&#x2009;7
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Anxiety assessment methods and outcomes
-- Biofeedback assessment methods and outcomes
-- Cesarean delivery assessment methods and outcomes
+- PTSD assessment methods and outcomes
+- mantram repetition assessment methods and outcomes
+- meditation assessment methods and outcomes

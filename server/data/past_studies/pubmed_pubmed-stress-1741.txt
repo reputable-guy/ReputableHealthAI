@@ -1,28 +1,27 @@
-Study Title: SBT2786 Improves Sleep Quality in Japanese Adults with Relatively High Levels of Stress: A Randomized, Double-Blind, Placebo-Controlled Study.
+Study Title: Exercise and Nutrition in the Mental Health of the Older Adult Population: A Randomized Controlled Clinical Trial.
 
 Study Summary:
-Sleep disorders associated with lifestyle changes and unhealthy habits are major public health concerns. Our previous study showed thatSBT2786 has a potent sleep-promoting effect on fruit flies. Fruit flies share many similarities with mammals, making them suitable model organisms for studying sleep. Thus, in the present study, we conducted a randomized, double-blind, placebo-controlled clinical trial to test whether SBT2786 has sleep-enhancing effects in humans. In this study, 61 participants in the SBT2786 group and 65 participants in the placebo group were analyzed. The results showed that SBT2786 increased sleep time; however, it predominantly increased light sleep and did not improve subjective sleep quality. Interestingly, mood improvement was observed. A subgroup analysis was conducted on participants with high stress levels, and results showed that these participants experienced an increase in sleep duration and an improvement in sleepiness upon waking up and reported feeling well-rested during the day. We concluded that SBT2786 may improve sleep quality, particularly in individuals experiencing high levels of stress, and that SBT2786 can be used as a dietary supplement to improve sleep and mood.
+(1) Background: Global population aging is changing demographic structures and presents significant challenges for health systems, which must adapt to an increasingly elderly population. (2) Methods: The study employed a randomized controlled trial design with a total of 116 older adults aged 65 or older, randomly assigned to an experimental group (= 57) undergoing a combined resistance program and Mediterranean diet program and a control group (= 59) who did not receive any intervention. Anxiety and depression were evaluated using the Hospital Anxiety and Depression Scale (HADS), sleep quality through the Pittsburgh Sleep Quality Index (PSQI), and perceived stress using the Perceived Stress Scale (PSS). (3) Results: Statistically significant improvements (< 0.05) were observed both within and between groups in anxiety (Cohen's d = 0.38 and 0.78, respectively), depression (Cohen's d = 0.56 and 0.18, respectively), perceived stress (Cohen's d = 0.15 and 0.39, respectively), and in the PSQI domains: subjective sleep quality (Cohen's d = 1.01 and 0.53, respectively), sleep duration (Cohen's d = 0.112 and 0.53, respectively), sleep disturbances (Cohen's d = 1.92 and 0.95, respectively), use of medications (Cohen's d = 0.34 and 0.40, respectively), and the PSQI total score (Cohen's d = 0.68 and 0.49, respectively). No significant differences were observed in sleep latency or daytime dysfunction. (4) Conclusions: The results of the present study suggest that resistance intervention may be an effective therapeutic option to improve mental health and sleep quality in older adults aged 65 or older, offering a non-pharmacological approach to improving overall well-being in this demographic.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16111702
+- DOI: 10.3390/nu16111741
 
 2. Keywords
-- Bifidobacterium adolescentis SBT2786
-- clinical study
-- sleep
-- stress
+- Mediterranean diet
+- anxiety
+- depression
+- perceived stress
+- resistance program
+- sleep quality
 
 3. Key Findings
-- Our previous study showed thatSBT2786 has a potent sleep-promoting effect on fruit flies
-- The results showed that SBT2786 increased sleep time; however, it predominantly increased light sleep and did not improve subjective sleep quality
-- A subgroup analysis was conducted on participants with high stress levels, and results showed that these participants experienced an increase in sleep duration and an improvement in sleepiness upon waking up and reported feeling well-rested during the day
-- We concluded that SBT2786 may improve sleep quality, particularly in individuals experiencing high levels of stress, and that SBT2786 can be used as a dietary supplement to improve sleep and mood
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Bifidobacterium adolescentis SBT2786 assessment methods and outcomes
-- clinical study assessment methods and outcomes
-- sleep assessment methods and outcomes
+- Mediterranean diet assessment methods and outcomes
+- anxiety assessment methods and outcomes
+- depression assessment methods and outcomes

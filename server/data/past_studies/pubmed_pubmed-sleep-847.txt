@@ -1,26 +1,25 @@
-Study Title: Melatonin treatment has consistent but transient beneficial effects on sleep measures and pain in patients with severe chronic pain: the DREAM-CP randomised controlled trial.
+Study Title: Heterogeneous Effects of Continuous Positive Airway Pressure in Non-Sleepy Obstructive Sleep Apnea on Cardiovascular Disease Outcomes:Machine Learning Analysis of the ISAACC Trial (ECSACT Study).
 
 Study Summary:
-Sleep disturbance is a major issue for patients with chronic pain. Melatonin has been shown to improve symptoms of fibromyalgia, but its efficacy in other chronic non-malignant pain conditions is not fully known. Hence, we determined the effect of melatonin in patients with severe noncancer chronic pain. This was a randomised double-blinded crossover trial of modified-release melatonin as Circadin&#x2122; compared with placebo. Sixty male and female subjects with chronic severe pain were randomised to receive either 2 mg of Circadin&#x2122; or placebo before sleep for 6 weeks, followed by a >4 week washout, then crossing over to the other treatment. Sleep disturbance, quality, and latency were measured using three different validated sleep assessment tools. The primary outcome measure was self-reported sleep disturbance after 6 weeks of treatment. Adverse events were also recorded. Sleep disturbance after 6 weeks was not significantly altered by melatonin treatment, but differences between melatonin and placebo treatment periods after 3 weeks were seen: sleep disturbance (P=0.014), latency (P=0.04), overall sleep quality (P=0.004), and effect of pain on sleep (P=0.032). Pain intensity scores improved during both treatment periods (both P<0.001). There were no differences in adverse events between treatment periods. Circadin&#x2122; treatment did not improve sleep disturbance in patients with severe chronic pain compared with placebo at 6 weeks, but there were consistent improvements in aspects of sleep in the shorter term. Given its favourable safety profile, it could be beneficial for some patients with chronic pain. ISRCTN12861060.
+Randomized controlled trials of continuous positive airway pressure (CPAP) therapy for cardiovascular disease (CVD) prevention among patients with obstructive sleep apnea (OSA) have been largely neutral. However, given that OSA is a heterogeneous disease, there may be unidentified subgroups demonstrating differential treatment effects.We sought to apply a novel data-drive approach to identify nonsleepy OSA subgroups with heterogeneous effects of CPAP on CVD outcomes within the Impact of Sleep Apnea Syndrome in the Evolution of Acute Coronary Syndrome (ISAACC) study.Participants were randomly partitioned into two datasets. One for training (70%) our machine-learning model and a second (30%) for validation of significant findings. Model-based recursive partitioning was applied to identify subgroups with heterogeneous treatment effects. Survival analysis was conducted to compare treatment (CPAP vs. usual care [UC]) outcomes within subgroups.A total of 1,224 nonsleepy OSA participants were included. Of 55 features entered into our model, only two appeared in the final model (i.e., average OSA event duration and hypercholesterolemia). Among participants at or below the model-derived average event duration threshold (19.5&#x2009;s), CPAP was protective for a composite of CVD events (training hazard ratio [HR], 0.46;&#x2009;=&#x2009;0.002). For those with longer event duration (>19.5&#x2009;s), an additional split occurred by hypercholesterolemia status. Among participants with longer event duration and hypercholesterolemia, CPAP resulted in more CVD events compared with UC (training HR, 2.24;&#x2009;=&#x2009;0.011). The point estimate for this harmful signal was also replicated in the testing dataset (HR, 1.83;&#x2009;=&#x2009;0.118).We discovered subgroups of nonsleepy OSA participants within the ISAACC study with heterogeneous effects of CPAP. Among the training dataset, those with longer OSA event duration and hypercholesterolemia had nearly 2.5 times more CVD events with CPAP compared with UC, whereas those with shorter OSA event duration had roughly half the rate of CVD events if randomized to CPAP.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.bja.2024.01.012
+- DOI: 10.1513/AnnalsATS.202309-799OC
 
 2. Keywords
-- chronic pain
-- clinical trial
-- crossover
-- melatonin
-- sleep
+- CPAP
+- OSA
+- machine learning
+- major adverse cardiac events
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- chronic pain assessment methods and outcomes
-- clinical trial assessment methods and outcomes
-- crossover assessment methods and outcomes
+- CPAP assessment methods and outcomes
+- OSA assessment methods and outcomes
+- machine learning assessment methods and outcomes

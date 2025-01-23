@@ -1,25 +1,26 @@
-Study Title: Effects of an integrated poultry value chain, nutrition, gender and WASH intervention (SELEVER) on hygiene and child morbidity and anthropometry in Burkina Faso: A secondary outcome analysis of a cluster randomised trial.
+Study Title: Nutrition Education Package Focusing on Infant and Young Child Feeding in Tanzania.
 
 Study Summary:
-Nutrition-sensitive agriculture programmes have the potential to improve child nutrition outcomes, but livestock intensification may pose risks related to water, sanitation and hygiene (WASH) conditions. We assessed the impact of SELEVER, a nutrition- and gender-sensitive poultry intervention, with and without added WASH focus, on hygiene practices, morbidity and anthropometric indices of nutrition in children aged 2-4 years in Burkina Faso. A 3-year cluster randomised controlled trial was implemented in 120 villages in 60 communes (districts) supported by the SELEVER project. Communes were randomly assigned using restricted randomisation to one of three groups: (1) SELEVER intervention (n&#x2009;=&#x2009;446 households); (2) SELEVER plus WASH intervention (n&#x2009;=&#x2009;432 households); and (3) control without intervention (n&#x2009;=&#x2009;899 households). The study population included women aged 15-49 years with an index child aged 2-4 years. We assessed the effects 1.5-years (WASH substudy) and 3-years (endline) post-intervention on child morbidity and child anthropometry secondary trial outcomes using mixed effects regression models. Participation in intervention activities was low in the SELEVER groups, ranging from 25% at 1.5 years and 10% at endline. At endline, households in the SELEVER groups had higher caregiver&#xa0;knowledge of&#xa0;WASH-livestock risks (&#x2206;&#x2009;=&#x2009;0.10, 95% confidence interval [CI] [0.04-0.16]) and were more likely to keep children separated from poultry (&#x2206;&#x2009;=&#x2009;0.09, 95% CI [0.03-0.15]) than in the control group. No differences were found for other hygiene practices, child morbidity symptoms or anthropometry indicators. Integrating livestock WASH interventions alongside poultry and nutrition interventions can increase knowledge of livestock-related risks and improve livestock-hygiene-related practices, yet may not be sufficient to improve the morbidity and nutritional status of young children.
+To evaluate the effectiveness of a nutrition education package on feeding practices, nutrient intakes and growth of infants in rural Tanzania. Cluster-randomized controlled trial in 18 villages allocated to nutrition education package (n&#xa0;=&#xa0;9) or routine health education (n&#xa0;=&#xa0;9 villages), measured at baseline (6 months) and end of the trial (12 months). Mpwapwa district. Infants aged 6-12 months and their mothers. Six months of nutrition education package (group education, counseling, cooking demonstrations) and regular home visits by village health workers. Primary outcome measure was the mean change in length-for-age z-scores. Secondary outcomes included mean changes in weight-for-length z-scores (WLZ), intakes of energy, fat, iron and zinc, the proportion of children consuming foods from &#x2265; 4 food groups (ie, dietary diversity) and consuming the recommended number of semisolid/soft meals and snacks per day (ie, meal frequency). Multilevel mixed-effects regression models. Mean change in length-for-age z-scores (&#x3b2;&#xa0;=&#xa0;0.20, P&#xa0;=&#xa0;0.02), energy (in kcal) (&#x3b2;&#xa0;=&#xa0;43.8, P&#xa0;=&#xa0;0.02), and fat (in grams) (&#x3b2; =2.7, P&#xa0;=&#xa0;0.03) intakes were significant in the intervention but not in the control group. There was no effect on iron and zinc intakes. More infants in the intervention than the control group consumed meals from &#x2265; 4 food groups (71.8% vs 45.3%, P&#xa0;=&#xa0;0.002). The mean increase in meal frequency (&#x3b2;&#xa0;=&#xa0;0.29, P&#xa0;=&#xa0;0.02) and dietary diversity (&#x3b2;&#xa0;=&#xa0;0.40, P&#xa0;=&#xa0;0.01) were more significant in the intervention than control. The nutrition education package is feasible and can be implemented with high coverage, demonstrating the potential to improve feeding practices, nutrient intake and growth in rural Tanzania.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1111/mcn.13528
+- DOI: 10.1016/j.jneb.2023.04.002
 
 2. Keywords
-- agriculture and nutrition
-- child malnutrition
-- impact evaluation
-- poultry
+- Tanzania
+- complementary feeding practices
+- growth
+- infant
+- nutrition education
 
 3. Key Findings
-- No differences were found for other hygiene practices, child morbidity symptoms or anthropometry indicators
+- Findings extraction requires manual review
 
 This study provides insights into:
-- agriculture and nutrition assessment methods and outcomes
-- child malnutrition assessment methods and outcomes
-- impact evaluation assessment methods and outcomes
+- Tanzania assessment methods and outcomes
+- complementary feeding practices assessment methods and outcomes
+- growth assessment methods and outcomes

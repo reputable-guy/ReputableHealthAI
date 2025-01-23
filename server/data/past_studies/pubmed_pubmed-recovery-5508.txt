@@ -1,21 +1,27 @@
-Study Title: Mindfulness and cognitive-behavioral strategies for psychological detachment: Comparing effectiveness and mechanisms of change.
+Study Title: Patients with type 2 diabetes who achieve reduced postprandial glucose levels during insulin intensive therapy may have a better recovery of &#x3b2;-cell function.
 
 Study Summary:
-Recovering from work is essential for maintaining occupational well-being, health, motivation, and performance, but recovery is often difficult to achieve. In this study, we evaluated and compared the effectiveness of two (parallel) interventions aimed at promoting recovery: one based on mindfulness and one involving applying cognitive-behavioral strategies. Both interventions were embedded in a measurement burst design, which allowed us to examine the mechanisms underlying change or intervention success. To explore mechanisms of change, we used the stressor-detachment model as a theoretical framework. We operationalized the interventions' effects in three ways: as changes from pretest to posttest, as changes in daily states, and as changes in daily associations. To this end, we used intensive longitudinal data to examine the roles that daily negative activation plays in detachment and strain. In a randomized controlled trial (N = 393), we administered three assessments of traits: pretest, posttest (8 weeks later), and follow-up (3 months after the posttest). We also administered 2 work weeks of experience sampling questionnaires (preintervention and postintervention). Latent change models and Bayes factor equivalence tests revealed that both interventions substantially-and to a similar extent-increased detachment. Bayesian multilevel path models showed improvements in all state variables, including improvements in negative activation, and provided some evidence that mindfulness-based and cognitive-behavioral approaches might tackle different processes at the daily level. We discuss theoretical implications for the literature on recovery from work and specifically for the stressor-detachment model. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+To explore parameters that may determine the improvement in C-peptide levels in patients with type 2 diabetes (T2D) receiving continuous subcutaneous insulin infusion (CSII) therapy. The trial included a lead-in period for collecting baseline parameters and correcting hyperglycemia, a 4-day CGM period, and a 2-3&#xa0;weeks treatment period. After screening, patients were hospitalized and randomized to the metformin add-on NovoRapid group or the Prandilin group. Once the glycemic target was reached, all patients underwent a 4-day CGM, with treatments maintained for 2-3&#xa0;weeks. OGTTs were performed at baseline and endpoint. The primary endpoint was identifying factors contributing to better &#x3b2;-cell function recovery after CSII therapy. A total of 99 recruited patients were admitted as inpatients and achieved glycemic control within 3.8&#xa0;&#xb1;&#xa0;1.1&#xa0;days. Of these, 83 (84&#xa0;%) patients showed improvement in C-peptide levels, while 16 (16&#xa0;%) did not show any change in C-peptide levels at the endpoint. Pearson analysis showed a negative correlation between the incremental AUC of glucose concentration (from 0700 to 1000) and the increase in incremental AUC of C-peptide levels (r&#xa0;=&#xa0;-0.199, P&#xa0;<&#xa0;0.05). Drug-na&#xef;ve T2D patients with lower postprandial glucose concentration during CSII therapy exhibit better &#x3b2;-cell function recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1037/ocp0000381
+- DOI: 10.1016/j.diabres.2024.111805
 
 2. Keywords
-
+- Beta cell function
+- C-Peptide levels
+- Continuous subcutaneous insulin infusion
+- Postprandial
+- Type 2 diabetes
 
 3. Key Findings
-- Latent change models and Bayes factor equivalence tests revealed that both interventions substantially-and to a similar extent-increased detachment
-- Bayesian multilevel path models showed improvements in all state variables, including improvements in negative activation, and provided some evidence that mindfulness-based and cognitive-behavioral approaches might tackle different processes at the daily level
+- Of these, 83 (84&#xa0;%) patients showed improvement in C-peptide levels, while 16 (16&#xa0;%) did not show any change in C-peptide levels at the endpoint
+- Pearson analysis showed a negative correlation between the incremental AUC of glucose concentration (from 0700 to 1000) and the increase in incremental AUC of C-peptide levels (r&#xa0;=&#xa0;-0
 
 This study provides insights into:
-- General research methodology and outcomes
+- Beta cell function assessment methods and outcomes
+- C-Peptide levels assessment methods and outcomes
+- Continuous subcutaneous insulin infusion assessment methods and outcomes

@@ -1,20 +1,25 @@
-Study Title: Paresis of an upper extremity. Action observation and motor imagery in recovery of patients with chronic stroke.
+Study Title: Distal Versus Proximal Arm Improvement After Paired Vagus Nerve Stimulation Therapy After Chronic Stroke.
 
 Study Summary:
-Action observation (AO) and motor imagery (MI) are considered functionally equivalent forms of motor representation related to movement execution (ME). Because of their characteristics, AO and MI have been proposed as techniques to facilitate the recovery of post-stroke hemiparesis in the upper extremities. An experimental, longitudinal, prospective, single-blinded design was undertaken. Eleven patients participated, and were randomly assigned to each study group. Both groups received 10 to 12 sessions of physical therapy. Five patients were assigned to the control treatment group, and six patients to the experimental treatment group (AO + MI). All were assessed before and after treatment for function, strength (newtons) and mobility (percentage) in the affected limb, as well as alpha desynchronisation (8-13 Hz) in the supplementary motor area, the premotor cortex and primary motor cortex while performing AO + MI tasks and action observation plus motor execution (AO + ME). The experimental group presented improvement in function and strength. A negative correlation was found between desynchronisation in the supplementary motor area and function, as well as a post-treatment increase in desynchronisation in the premotor cortex of the injured hemisphere in the experimental group only. An AO + MI-based intervention positively impacts recovery of the paretic upper extremity by stimulating the supplementary motor area, a cortex involved in movement preparation and learning. AO + MI therapy can be used as adjunctive treatment in patients with upper extremity paresis following chronic stroke.
+To evaluate differences in upper-extremity (UE) segment-specific (proximal or distal segment) recovery after vagus nerve stimulation (VNS) paired with UE rehabilitation (Paired-VNS) compared with rehabilitation with sham-VNS (Control). We also assessed whether gains in specific UE segments predicted clinically meaningful improvement. This study reports on a secondary analysis of Vagus nerve stimulation paired with rehabilitation for UE motor function after chronic ischemic stroke (VNS-REHAB), a randomized, triple-blinded, sham-controlled pivotal trial. A Rasch latent regression was used to determine differences between Paired-VNS and Controls for distal and proximal UE changes after in-clinic therapy and 3 months later. Subsequently, we ran a random forest model to assess candidate predictors of meaningful improvement. Each item of the Fugl-Meyer Assessment-Upper Extremity (FMA-UE) and Wolf Motor Function Test (WMFT) was evaluated as a predictor of response to treatment. Nineteen stroke rehabilitation centers in the USA and UK. Dataset included 108 participants (N=108) with chronic ischemic stroke and moderate-to-severe UE impairments. Not applicable. FMA-UE and WMFT. Distal UE improvement was significantly greater in the Paired-VNS group than in Controls immediately after therapy (95% confidence interval, 0.27-0.73; P&#x2264;.001) and after 3 months (95% confidence interval, 0.16-0.75; P=.003). Both groups showed similar improvement in proximal UE at both time points. A subset of both distal and proximal items from the FMA-UE and WMFT were predictors of meaningful improvement. Paired-VNS improved distal UE impairment in chronic stroke to a greater degree than intensive rehabilitation alone. Proximal improvements were equally responsive to either treatment. Given that meaningful UE recovery is predicted by improvements across both proximal and distal segments, Paired-VNS may facilitate improvement that is otherwise elusive.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.33588/rn.7811.2024017
+- DOI: 10.1016/j.apmr.2024.05.018
 
 2. Keywords
-
+- Rehabilitation
+- Stroke
+- Upper extremity
+- Vagus nerve stimulation
 
 3. Key Findings
-- A negative correlation was found between desynchronisation in the supplementary motor area and function, as well as a post-treatment increase in desynchronisation in the premotor cortex of the injured hemisphere in the experimental group only
+- Both groups showed similar improvement in proximal UE at both time points
 
 This study provides insights into:
-- General research methodology and outcomes
+- Rehabilitation assessment methods and outcomes
+- Stroke assessment methods and outcomes
+- Upper extremity assessment methods and outcomes

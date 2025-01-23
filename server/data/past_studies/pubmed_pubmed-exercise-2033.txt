@@ -1,25 +1,27 @@
-Study Title: L-Arginine Supplementation Did Not Impact the Rapid Recovery of Cardiovascular and Autonomic Function Following Exercise in Physically Active Healthy Males: A Triple-Blind Randomised Placebo-Controlled Crossover Trial.
+Study Title: Metabolic and Hormonal Responses to Isomaltulose Ingestion Before or During Sustained Submaximal Exercise in Adults with Type 1 Diabetes Using Automated Insulin Delivery Systems.
 
 Study Summary:
-Post-exercise recovery strategies include massage, low-intensity active exercise, thermal contrast, hydration, and nutritional and herbal approaches. These strategies aim to accelerate recovery, enhance performance, and optimise the physical training process. L-arginine (L-ARG) is the physiological precursor of nitric oxide (NO), a crucial mediator of vasodilation and the inhibition of platelet aggregation. A previous study reported that L-ARG supplementation could significantly reduce the systolic blood pressure (SBP) and diastolic blood pressure (DBP). This study aimed to investigate the effects of L-ARG on autonomic and cardiovascular recovery immediately following submaximal exercise. Thirty-two healthy individuals were subjected to two experimental protocols. The first protocol included 60 min of rest, a treadmill warm-up, and load increments until reaching 80% of their maximum HR. Before this protocol, the subjects consumed 3 g of starch (placebo protocol). The second protocol was identical, but the subjects consumed 3 g of L-ARG. Heart rate recovery (HRR), heart rate variability (HRV), and blood pressure (BP) responses were assessed. No significant differences in HRR were found (= 0.944) regarding the root mean square of successive differences in the RR interval (RMSSD30) of HRV (= 0.562) or in the BP responses (mean arterial pressure (MAP),= 0.687; pulse pressure (PP),= 0.929) between the protocols. L-ARG supplementation did not significantly alter immediate post-exercise autonomic recovery in healthy males.
+This article compares metabolic, pancreatic, and gut-derived hormone responses to isomaltulose ingestion, before versus during submaximal sustained exercise, in adults with type 1 diabetes (T1D) using automated insulin delivery systems. In a randomized, cross-over trial, eight participants with T1D being treated with automated insulin pumps (five females, age: 47 &#xb1; 16 years, BMI: 27.5 &#xb1; 3.8 kg&#xb7;m, diabetes duration: 23 &#xb1; 11 years, HbA1c: 8.3 &#xb1; 0.9 [67.5 &#xb1; 9.5]% [mmol/mol]) attended the laboratory on two separate occasions and consumed an isocaloric amount of isomaltulose as either (1) a single serving (0.75g CHO&#xb7;kgBM) with a 25% reduction in bolus insulin 90 min before 45 min of cycling (PEC) or (2) three separate isocaloric servings (0.25g CHO&#xb7;kgBM each) without bolus insulin during exercise (DEC). Plasma glucose (PG), gut incretins (GLP-1 and GIP), pancreatic glucagon, exogenous insulin, and whole-body fuel oxidation rates were determined. Data were treated via a two-way repeated measures ANOVA, with&#x2264; 0.05 accepted as significant. PG concentrations throughout exercise were higher and less variable with DEC compared to PEC. The exercise-induced change in PG was directionally divergent between trials (PEC: &#x2206; - 3.2 &#xb1; 1.2 mmol/L vs. DEC: &#x2206; + 1.7 &#xb1; 1.5 mmol/L,< 0.001), changing at a rate of -0.07 &#xb1; 0.03 mmol/L/min with PEC and +0.04 &#xb1; 0.03 mmol/L/min with DEC (< 0.001 between conditions). Throughout the exercise period, GLP-1, GIP, glucagon, and total insulin concentrations were lower with DEC (all&#x2264; 0.02). The oxidation rates of carbohydrates were lower (= 0.009) and of lipids were greater (= 0.014) with DEC compared to PEC. The consumption of smaller servings of isomaltulose during, rather than as a single isocaloric serving before, submaximal sustained exercise provided (i) a better glycemic protective effect, (ii) a lesser push on pancreatic and gut-mediated glucoregulatory hormones, and (iii) a lower reliance on whole-body carbohydrate oxidation. Such information serves to remind us of the potential importance of nutrition for modulating the metabolic fate of an acute bout of exercise and may help inform best practice guidelines for exercise management in the T1D-sphere.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16234067
+- DOI: 10.3390/nu16234098
 
 2. Keywords
-- arginine
-- autonomic nervous system
+- automated insulin delivery systems
 - exercise
-- nitric oxide and post-exercise recovery techniques
+- glucose
+- incretin hormones
+- nutrition
+- type 1 diabetes
 
 3. Key Findings
-- No significant differences in HRR were found (= 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- arginine assessment methods and outcomes
-- autonomic nervous system assessment methods and outcomes
+- automated insulin delivery systems assessment methods and outcomes
 - exercise assessment methods and outcomes
+- glucose assessment methods and outcomes

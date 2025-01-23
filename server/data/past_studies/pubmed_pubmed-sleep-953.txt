@@ -1,28 +1,27 @@
-Study Title: Cannabidiol for moderate-severe insomnia: a randomized controlled pilot trial of 150 mg of nightly dosing.
+Study Title: Cognitive behavioural therapy for insomnia reduces actigraphy and diary measured sleep discrepancy for individuals with comorbid insomnia and major depressive disorder: A report from the TRIAD study.
 
 Study Summary:
-Low-dose cannabidiol (CBD) has become readily available in numerous countries; however, little consensus exists on its efficacy as a sleep aid. This trial explored the efficacy of 150&#x2009;mg of CBD (n = 15) compared with placebo (n = 15) as a sleep aid in primary insomnia. CBD supplementation was hypothesized to decrease insomnia symptoms and improve aspects of psychological health, relative to placebo. Using a randomized, placebo-controlled, parallel design featuring a single-blind placebo run-in week followed by a 2-week double-blind randomized dosing phase, participants consumed the assigned treatment sublingually 60&#x2009;minutes before bed nightly. Wrist-actigraphy and sleep diaries measured daily sleep. Sleep quality, sleep effort, and well-being were measured weekly over 4 in-laboratory visits. Insomnia severity and trait anxiety were measured at screening and study conclusion. Insomnia severity, self-reported sleep-onset latency, sleep efficiency, and wake after sleep onset did not differ between treatments throughout the trial (all> .05). Compared with placebo, the CBD group reported greater well-being scores throughout the trial (trial end mean difference = 2.60; standard error: 1.20), transient elevated behavior following wakefulness scores after 1&#x2009;week of treatment (mean difference = 3.93; standard error: 1.53), and had superior objective sleep efficiency after 2&#x2009;weeks of treatment (mean difference = 6.85; standard error: 2.95) (all< .05). No other significant treatment effects were observed. Nightly supplementation of 150&#x2009;mg CBD was similar to placebo regarding most sleep outcomes while sustaining greater well-being, suggesting more prominent psychological effects. Additional controlled trials examining varying treatment periods and doses are crucial. Registry: Australian New Zealand Clinical Trials Registry; Name: Cannabidiol (CBD) treatment for insomnia; URL: https://anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12620000070932; Identifier: ACTRN12620000070932. Narayan AJ, Downey LA, Rose S, Di Natale L, Hayley AC. Cannabidiol for moderate-severe insomnia: a randomized controlled pilot trial of 150 mg of nightly dosing.. 2024;20(5):753-763.
+Discrepancies between sleep diaries and actigraphy occur among individuals with insomnia. Cognitive behavioural therapy for insomnia (CBT-I) improves insomnia but the impact on discrepancy is unclear. This study examined CBT-I's effects on actigraphy-diary discrepancy and explored sleep-related beliefs and attitudes as a mediator. Participants were 108 (age M&#xb1;SD&#xa0;=&#xa0;47.23&#xa0;&#xb1;&#xa0;12.42, 67.60&#xa0;% female) adults with insomnia and major depressive disorder from the Treatment of Insomnia and Depression study. They were randomized to 7 sessions of CBT-I or sham Quasi-Desensitization Therapy for Insomnia (DTI), plus 16 weeks of antidepressants. Two weeks of actigraphy and sleep diary were collected at baseline, mid-treatment, end-treatment. Differences between sleep diary and actigraphy total sleep time (TST), sleep onset latency (SOL), wake after sleep onset (WASO), and sleep efficiency (SE) were calculated. Participants completed Dysfunctional Beliefs and Attitudes about Sleep Scale (DBAS) at baseline and mid-treatment. At baseline, diary (versus actigraphy) TST was shorter (1.1&#xa0;&#xb1;&#xa0;1.41h), whilst SOL (21.64&#xa0;&#xb1;&#xa0;41.25min) and WASO (17.45&#xa0;&#xb1;&#xa0;61.99min) were longer. Mixed effects models using daily data showed that after adjusting for age and sex, participants in the CBT-I group (versus DTI) showed greater reduction in all actigraphy-diary discrepancy domains (all p-values<.01), reductions evident from mid-treatment. Group differences on actigraphy-diary discrepancy reductions in TST, SOL, and SE (not WASO) were mediated by changes in DBAS from baseline to mid-treatment (all p-values<.05). Changes in discrepancy did not mediate insomnia symptom changes (p-values>.39). CBT-I reduced actigraphy-diary discrepancy in individuals with comorbid insomnia and depression; this reduction was associated with improved sleep-related attitudes, a therapeutic target of CBT-I. TRIAD (Treatment of Insomnia and Depression): Improving Depression Outcome by Adding Insomnia Therapy to Antidepressants. Prospectively registered with Clinical Trials (NCT00767624). MH078924, MH078961, MH079256.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.5664/jcsm.10998
+- DOI: 10.1016/j.sleep.2023.12.014
 
 2. Keywords
-- CBD
-- anxiety
-- cannabidiol
-- cannabis
-- insomnia
-- mood
-- sleep
+- Actigraphy-diary discrepancy
+- Cognitive behavioural therapy for insomnia
+- Depression
+- Insomnia
+- Randomized controlled trial
+- Sleep-wake state discrepancy
 
 3. Key Findings
-- Findings extraction requires manual review
+- Mixed effects models using daily data showed that after adjusting for age and sex, participants in the CBT-I group (versus DTI) showed greater reduction in all actigraphy-diary discrepancy domains (all p-values<
 
 This study provides insights into:
-- CBD assessment methods and outcomes
-- anxiety assessment methods and outcomes
-- cannabidiol assessment methods and outcomes
+- Actigraphy-diary discrepancy assessment methods and outcomes
+- Cognitive behavioural therapy for insomnia assessment methods and outcomes
+- Depression assessment methods and outcomes

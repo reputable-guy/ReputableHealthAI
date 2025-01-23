@@ -1,20 +1,27 @@
-Study Title: Skin-interfaced microfluidic biosensors for colorimetric measurements of the concentrations of ketones in sweat.
+Study Title: The Association of the Essential Amino Acids Lysine, Methionine, and Threonine with Clinical Outcomes in Patients at Nutritional Risk: Secondary Analysis of a Randomized Clinical Trial.
 
 Study Summary:
-Ketones, such as beta-hydroxybutyrate (BHB), are important metabolites that can be used to monitor for conditions such as diabetic ketoacidosis (DKA) and ketosis. Compared to conventional approaches that rely on samples of urine or blood evaluated using laboratory techniques, processes for monitoring of ketones in sweat using on-body sensors offer significant advantages. Here, we report a class of soft, skin-interfaced microfluidic devices that can quantify the concentrations of BHB in sweat based on simple and low-cost colorimetric schemes. These devices combine microfluidic structures and enzymatic colorimetric BHB assays for selective and accurate analysis. Human trials demonstrate the broad applicability of this technology in practical scenarios, and they also establish quantitative correlations between the concentration of BHB in sweat and in blood. The results represent a convenient means for managing DKA and aspects of personal nutrition/wellness.
+Lysine, methionine, and threonine are essential amino acids with vital functions for muscle and connective tissue health, metabolic balance, and the immune system. During illness, the demand for these amino acids typically increases, which puts patients at risk for deficiencies with harmful clinical consequences. In a secondary analysis of the Effect of Early Nutritional Support on Frailty, Functional Outcomes, and Recovery of Malnourished Medical Inpatients Trial (EFFORT), which compared individualized nutritional support to usual care nutrition in patients at nutritional risk, we investigated the prognostic impact of the lysine, methionine, and threonine metabolism. We had complete clinical and amino acid data in 237 patients, 58 of whom reached the primary endpoint of death at 30 days. In a model adjusted for comorbidities, sex, nutritional risk, and trial intervention, low plasma methionine levels were associated with 30-day mortality (adjusted HR 1.98 [95% CI 1.16 to 3.36],= 0.01) and with a decline in functional status (adjusted OR 2.06 [95% CI 1.06 to 4.01],= 0.03). The results for lysine and threonine did not show statistically significant differences regarding clinical outcomes. These findings suggest that low levels of methionine may be critical during hospitalization among patients at nutritional risk. Further studies should investigate the effect of supplementation of methionine in this patient group to improve outcomes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1039/d4lc00588k
+- DOI: 10.3390/nu16162608
 
 2. Keywords
-
+- biomarker
+- malnutrition
+- mortality
+- muscle health
+- nutritional support
+- sarcopenia
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- biomarker assessment methods and outcomes
+- malnutrition assessment methods and outcomes
+- mortality assessment methods and outcomes

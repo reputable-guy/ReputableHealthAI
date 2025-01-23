@@ -1,26 +1,25 @@
-Study Title: Comparison of Remimazolam Tosilate and Propofol Sedation on the Early Postoperative Quality of Recovery in Patients Undergoing Day Surgery: A Prospective Randomized Controlled Trial.
+Study Title: Expanding the Treatable Imaging Profile in Patients With Large Ischemic Stroke: Subanalysis From a Randomized Clinical Trial.
 
 Study Summary:
-Remimazolam tosilate is a novel ultrafast-acting benzodiazepine that has a rapid emergence even after continuous infusion when using flumazenil. So far, relatively few articles are still focusing on the quality of recovery after general anesthesia with remimazolam, especially in day surgery. This study aimed to compare the early postoperative quality of recovery of remimazolam tosilate with flumazenil and propofol in patients undergoing day surgery. 137 patients scheduled for day surgery were randomly divided into the remimazolam tosilate or propofol group. The primary endpoint was the incidence of overall recovery assessed with the early postoperative quality of recovery scale (PostopQRS) on postoperative day 1 (POD 1). The Richmond Agitation-Sedation Scale (RASS) scores in the post-anesthesia care unit (PACU), extubation time, postoperative recovery profiles, and perioperative data were documented. Any adverse events were recorded. The incidence of overall recovery on POD1 was 47.7% in the remimazolam tosilate group and 65.1% in the propofol group (odds ratio, 0.52; 95% confidence interval (CI) 0.26 to 1.06; P = 0.072). In general, the overall recovery of the PostopQRS increased over time, and its interaction between time and group was significant (P = 0.003). Among the five dimensions of PostopQRS, there exist statistical differences between groups including emotional state and cognitive recovery. Upon arrival at the PACU, the remimazolam group was more sedated and took longer to recover to a RASS score similar to propofol. The frequency of application of vasoactive drugs during anesthesia was similar in both groups (P = 0.119). Despite rapid emergence with remimazolam after flumazenil reversal, re-sedation (10.8%) or somnolence (60%) in the PACU was observed, and the length of PACU stay in patients treated with remimazolam tosilate was longer than that of the propofol (35 min vs 30 min, P<0.001). General anesthesia with remimazolam tosilate in conjunction with flumazenil reversal permits rapid recovery of consciousness in day surgery, but there was a notable occurrence of re-sedation or somnolence observed in PACU.
+We aimed to examine the boundary of the ischemic core volume in patients undergoing endovascular thrombectomy (EVT) versus those receiving medical management to determine the minimum optimal size for favorable treatment outcomes. This is a prespecified substudy of the RESCUE-Japan LIMIT (Recovery by Endovascular Salvage for Cerebral Ultra-Acute Embolism-Japan Large Ischemic Core Trial). Patients with large vessel occlusion were enrolled between November 2018 and September 2021 with a National Institutes of Health Stroke Scale score of at least 6 on admission and an Alberta Stroke Program Early Computed Tomography Score value of 3 to 5. We investigated the correlation between optimal quantified ischemic core volume, assessed solely using magnetic resonance diffusion-weighted imaging, and functional outcomes (modified Rankin Scale score, 0-3) at 90 days by predictive marginal plots. Final infarct volume and safety outcomes (symptomatic intracerebral hemorrhage and mortality) were also assessed. Of the 203 cases, 168 patients (85 in the EVT group versus 83 in the medical management group) were included. The median (interquartile range) core volume was 94 (65-160) mL in patients with EVT and 115 (71-141) mL in the medical management group (=0.72). The predictive marginal probabilities of the 2 groups intersected at 128 mL for estimating functional outcomes. Symptomatic intracerebral hemorrhage and mortality within 90 days had overlay margins through all core volumes in both groups. The median final infarct volume (interquartile range) was smaller in the EVT group (142 [80-223] mL versus 211 [123-289] mL in the medical management group;<0.001). In this prespecified analysis of a randomized clinical trial involving patients with large ischemic strokes, patients with an estimated core volume of up to 128 mL on diffusion-weighted imaging benefit from EVT. URL: https://www.clinicaltrials.gov; Unique identifier: NCT03702413.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/DDDT.S456675
+- DOI: 10.1161/STROKEAHA.124.046828
 
 2. Keywords
-- day surgery
-- flumazenil
-- propofol
-- quality of recovery
-- remimazolam tosilate
+- diffusion magnetic resonance imaging
+- ischemic stroke
+- magnetic resonance imaging
+- thrombectomy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- day surgery assessment methods and outcomes
-- flumazenil assessment methods and outcomes
-- propofol assessment methods and outcomes
+- diffusion magnetic resonance imaging assessment methods and outcomes
+- ischemic stroke assessment methods and outcomes
+- magnetic resonance imaging assessment methods and outcomes

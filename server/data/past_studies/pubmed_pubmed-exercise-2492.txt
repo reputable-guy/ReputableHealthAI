@@ -1,21 +1,25 @@
-Study Title: Evaluating the Impact of Post-Esophagectomy Exercise on 2- and 5-Yr Survival: Findings from the PERFECT Trial.
+Study Title: Suspension training improves bilateral isometric strength asymmetry of knee muscles in people with multiple sclerosis.
 
 Study Summary:
-Despite recent treatment advances, esophageal cancer still has poor survival and a high morbidity. Exploratory evidence suggests that exercise can reduce cancer-related mortality and recurrence rates. Here, we investigated the effects of an exercise intervention in the first year after esophagectomy on survival in participants of the Physical ExeRcise Following Esophageal Cancer Treatment (PERFECT) trial. In the PERFECT trial, esophageal cancer patients who had undergone esophagectomy were randomized to a 12-wk exercise program (EX) or the control group (CG). We assessed 2- and 5-yr (progression-free) survival. (Un)adjusted Cox proportional-hazards models were used to calculate hazard ratios (HRs) for comparison between the trial arms. Sensitivity analyses, excluding patients with events within the exercise intervention period, were performed. In total, 120 participants (EX = 61; CG = 59) were included in the PERFECT trial. After 2-yr follow-up, no significant difference in the risk of death or progression between EX and CG was found (adjusted HR = 1.65 (95% confidence interval (CI), 0.75-3.63) and 1.38 (95% CI, 0.76-2.50), respectively). After excluding patients with events during the intervention period (EX = 8; CG = 4), 2-yr HRs for death (1.03; 95% CI, 0.41-2.56) and progression (1.26; 95% CI, 0.64-2.48) both decreased and remained insignificant. No significant effects were found on 5-yr mortality (1.03; 95% CI, 0.57-1.84) and progression (1.21; 95% CI, 0.72-2.04) either. Sensitivity analysis resulted in attenuated 5-yr HRs for mortality (0.82; 95% CI, 0.42-1.58) and progression (1.08; 95% CI, 0.61-1.92). The results indicate no benefit of a 12-wk exercise program in the first year post-esophagectomy on 2- and 5-yr (progression-free) survival in esophageal cancer patients. The absence of beneficial effects may be explained by the relatively short exercise program, which was performed after treatment completion.
+Most people with multiple sclerosis are diagnosed with bilateral strength asymmetry in the lower limbs. Strength asymmetry increases muscle metabolic cost, muscle fatigability, postural instability, gait disturbance, imbalance, and risk of falling, and negatively affects the quality of life in PwMS. So far, the effects of rehabilitation exercises on reducing the asymmetric index in this population has not been studied convincingly. The purpose of this study was to investigate the effect of suspension exercise on bilateral isometric strength asymmetry of knee muscles in patients with multiple sclerosis. In this randomized controlled trial, twenty-seven female patients were purposively selected as the statistical sample and randomly divided into the control (n = 13, age: 34.72 &#xb1; 5.01 years) and exercise (n = 14, age: 37.62 &#xb1; 4.58 years) groups. The control group received routine care while the exercise group received the suspension exercise protocol. Isometric muscle strength and bilateral asymmetry were measured at baseline and after 8 weeks. The Biodex isokinetic dynamometer was used to measure the maximal voluntary isometric contraction of the flexor and extensor muscles of the knee. The analysis of covariance was used to analyze the data. The isometric strength of the knee extensor muscles in the weak leg at the angle of 20&#xb0; and in both legs at the angle of 70&#xb0; in the exercise group improved significantly. Furthermore, the strength of the knee flexor muscles in the exercise group was increased. The amount of bilateral strength asymmetry in the knee flexor and extensor muscles at the angle of 70&#xb0; significantly decreased in the exercise group. These data suggest that suspension training is a practical approach to manage bilateral asymmetry in knee flexor and extensor muscle strength in patients with an EDSS of less than four.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1249/MSS.0000000000003559
+- Publication Date: 2024
+- DOI: 10.1016/j.msard.2024.105885
 
 2. Keywords
-
+- Asymmetry
+- Isometric strength
+- Multiple sclerosis
+- Suspension training
 
 3. Key Findings
-- After 2-yr follow-up, no significant difference in the risk of death or progression between EX and CG was found (adjusted HR = 1
-- No significant effects were found on 5-yr mortality (1
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Asymmetry assessment methods and outcomes
+- Isometric strength assessment methods and outcomes
+- Multiple sclerosis assessment methods and outcomes

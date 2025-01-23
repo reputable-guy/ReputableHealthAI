@@ -1,26 +1,24 @@
-Study Title: A fibroblast-dependent TGF-&#x3b2;1/sFRP2 noncanonical Wnt signaling axis promotes epithelial metaplasia in idiopathic pulmonary fibrosis.
+Study Title: Exercise intolerance, oxidative stress, and irisin in pediatric cystic fibrosis: Can telehealth-based exercise training make a difference?
 
 Study Summary:
-Reciprocal interactions between alveolar fibroblasts and epithelial cells are crucial for lung homeostasis, injury repair, and fibrogenesis, but underlying mechanisms remain unclear. To investigate, we administered the fibroblast-selective TGF-&#x3b2;1 signaling inhibitor epigallocatechin gallate (EGCG) to interstitial lung disease (ILD) patients undergoing diagnostic lung biopsy and conducted single-cell RNA-Seq on spare tissue. Biopsies from untreated patients showed higher fibroblast TGF-&#x3b2;1 signaling compared with nondisease donor or end-stage ILD tissues. In vivo, EGCG downregulated TGF-&#x3b2;1 signaling and several proinflammatory and stress pathways in biopsy samples. Notably, EGCG reduced fibroblast secreted frizzled-related protein 2 (sFRP2), an unrecognized TGF-&#x3b2;1 fibroblast target gene induced near type II alveolar epithelial cells (AEC2s) in situ. Using AEC2-fibroblast coculture organoids and precision-cut lung slices (PCLSs) from nondiseased donors, we found TGF-&#x3b2;1 signaling promotes a spread AEC2 KRT17+ basaloid state, whereupon sFRP2 then activates a mature cytokeratin 5+ (Krt5+) basal cell program. Wnt-receptor Frizzled 5 (Fzd5) expression and downstream calcineurin signaling were required for sFRP2-induced nuclear NFATc3 accumulation and KRT5 expression. These findings highlight stage-specific TGF-&#x3b2;1 signaling in ILD and the therapeutic potential of EGCG in reducing idiopathic pulmonary fibrosis-related (IPF-related) transcriptional changes and identify TGF-&#x3b2;1/noncanonical Wnt pathway crosstalk via sFRP2 as a mechanism for dysfunctional epithelial signaling in IPF/ILD.
+Patients with cystic fibrosis (CF) experience increased oxidative stress. Tele-exercise can be a new method to improve exercise in CF. This study aimed to investigate the effect of telehealth-based exercise training using different modalities (combined exercise training group, CombG, core stabilization exercise group, SG), in comparison with control group (CG), on exercise capacity, oxidative stress, and irisin in children with CF. Thirty-nine children with CF (mean age=11.41&#xb1;2.18 years, mean FEV(z-score)=-0.66&#xb1;1.96) were included in the study. The children were randomly allocated to groups. The CombG and SG performed core stabilization exercises (CS) 3 days per week for 8 weeks. The CombG also performed aerobic exercises 3 days per week in addition to CS. Physical activity (PA) recommendations were provided to the CG. Exercise capacity was evaluated using the Modified Shuttle Test (MST). Oxidative stress was assessed using total antioxidant status (TAS), total oxidant status (TOS), Oxidative Stress Index (OSI), malondialdehyde (MDA), and superoxide dismutase (SOD). The irisin level was also measured. Children's baseline sex, age, BMI, and FEVz-scores were similar (p > 0.05). The MST distance (p = 0.047,np=0.157) and%MST distance (p = 0.045, np=0.159) significantly improved in the CombG compared with the SG and CG. Although TAS and SOD decreased over time (p < 0.05), no significant changes were observed for TAS, TOS, OSI, MDA, SOD, and irisin parameters between the groups after training (p > 0.05). Combining aerobic exercise training with core stabilization applied using telehealth improved exercise capacity more than core stabilitation training only or PA recommendations in children with CF.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1172/JCI174598
+- DOI: 10.1016/j.hrtlng.2024.06.016
 
 2. Keywords
-- Cytokines
-- Fibrosis
-- Human stem cells
-- Pulmonology
+- Cystic fibrosis
+- Exercise
+- Oxidative stress
 
 3. Key Findings
-- Biopsies from untreated patients showed higher fibroblast TGF-&#x3b2;1 signaling compared with nondisease donor or end-stage ILD tissues
-- Using AEC2-fibroblast coculture organoids and precision-cut lung slices (PCLSs) from nondiseased donors, we found TGF-&#x3b2;1 signaling promotes a spread AEC2 KRT17+ basaloid state, whereupon sFRP2 then activates a mature cytokeratin 5+ (Krt5+) basal cell program
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cytokines assessment methods and outcomes
-- Fibrosis assessment methods and outcomes
-- Human stem cells assessment methods and outcomes
+- Cystic fibrosis assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- Oxidative stress assessment methods and outcomes

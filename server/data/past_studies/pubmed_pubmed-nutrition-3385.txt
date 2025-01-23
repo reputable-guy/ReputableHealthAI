@@ -1,26 +1,27 @@
-Study Title: Reverse-engineered exclusive enteral nutrition in pediatric Crohn's disease: A pilot trial.
+Study Title: The effect of health literacy-grounded web-based education on nutrition and exercise behaviours in adolescents: A randomized controlled trial.
 
 Study Summary:
-In pediatric Crohn's disease (CD), commercial formulas used as exclusive enteral nutrition (EEN) are effective at inducing remission. This study aims to assess the impact of a whole-food blended smoothie as EEN on CD activity and the intestinal microbiome. A 4-week prospective trial assessed the impact of EEN with a whole-food smoothie on newly diagnosed mild-to-moderate active pediatric CD. The smoothie with a multivitamin were developed to meet age-appropriate nutritional requirements. Assessment over 4 weeks included Pediatric Crohn's Disease Activity Index (PCDAI), serum laboratories, fecal calprotectin (FCP), and stool collection for metagenomic shotgun sequencing and microbiota composition analysis. Clinical remission was defined as PCDAI&#x2009;&#x2264;&#x2009;10 at week 4. Ten participants were enrolled with median age 14.5 years, and 8 completed the trial. Baseline mean PCDAI was 26.3&#x2009;&#xb1;&#x2009;9.1 and mean FCP 1149&#x2009;&#xb1;&#x2009;718&#x2009;&#xb5;g/g. At week 4, 80% of participants achieved clinical remission. FCP decreased by over half in 60% of participants, with FCP below 250&#x2009;&#xb5;g/g in 60% and below 100&#x2009;&#xb5;g/g in 40%. Microbiome analysis showed a significant increase in species richness over 4 weeks (p&#x2009;=&#x2009;0.01). Compared to baseline, the relative abundance at week 2 and at week 4 was significantly increased for Bifidobacterium and Streptococcus and decreased for Blautia (p&#x2009;<&#x2009;0.05 for all). A whole-food blended smoothie was effective for inducing clinical remission and decreasing FCP in pediatric CD similar to commercial EEN formulas. Further research may give insight into data-driven whole-food dietary approaches for CD management. gov NCT03508193.
+The research was conducted to measure the effect of health literacy-grounded web-based education program on health literacy, nutrition and exercise behaviours in adolescents. The increasing prevalence of obesity in adolescents is explained by a sedentary lifestyle and unhealthy diet. Health literacy is essential for adolescents to maintain their healthy behaviours. The research was conducted as a parallel group randomized controlled trial. The study was completed by 114 adolescents (experimental&#x2009;=&#x2009;42, control&#x2009;=&#x2009;72). The Personal Information Form, the Health Literacy Scale for School-Age Children and the Nutrition and Exercise Subscales were used to collect data. A web-based education program was implemented. Two-way mixed design ANOVA with Bonferroni test was used to examine the group, time and group&#xa0;*&#xa0;time interaction of the measurements. There was no statistically significant difference between the experimental and control groups regarding health literacy level, nutrition and exercise behaviours pre-test mean scores (p&#x2009;>&#x2009;0.05). In the post-test, the mean scores of health literacy and nutrition behaviours in the experimental group were higher than the control group (p&#x2009;<&#x2009;0.001). However, there was no significant difference in exercise behaviours (p&#x2009;>&#x2009;0.05). The power and effect size in mean scores changes for health literacy (99.8%, &#x3b7;&#x2009;=&#x2009;0.039) and nutrition (99.8%, &#x3b7;&#x2009;=&#x2009;0.039) were moderate. The study concluded that health literacy-grounded web-based education program increased the health literacy levels of adolescents and improved their nutritional behaviours; however, there was no sufficient change in exercise behaviours.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/jpn3.12196
+- DOI: 10.1111/ijn.13253
 
 2. Keywords
-- diet
-- inflammatory bowel disease
-- microbiome
-- treatment
-- whole&#x2010;food
+- adolescent
+- exercise
+- health literacy
+- nursing
+- nutrition
+- web&#x2010;based education
 
 3. Key Findings
-- Microbiome analysis showed a significant increase in species richness over 4 weeks (p&#x2009;=&#x2009;0
+- The study concluded that health literacy-grounded web-based education program increased the health literacy levels of adolescents and improved their nutritional behaviours; however, there was no sufficient change in exercise behaviours
 
 This study provides insights into:
-- diet assessment methods and outcomes
-- inflammatory bowel disease assessment methods and outcomes
-- microbiome assessment methods and outcomes
+- adolescent assessment methods and outcomes
+- exercise assessment methods and outcomes
+- health literacy assessment methods and outcomes

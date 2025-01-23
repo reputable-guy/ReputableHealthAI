@@ -1,24 +1,31 @@
-Study Title: Mineral supplementation for very preterm infants fed fortified human milk.
+Study Title: Meals, Education, and Gardens for In-School Adolescents: A Cluster Randomized Trial of an Adolescent Nutrition Intervention Package in Tanzania.
 
 Study Summary:
-The safety and feasibility of human milk fortification with bovine colostrum (BC) were investigated in very preterm infants (FortiColos trial, NCT03537365). The BC product contained lower calcium, phosphate, and iron levels compared to the conventional fortifier (CF). We tested whether fortification with BC plus extra phosphate was sufficient to support the infants' mineral status assessed by blood biochemistry. In a randomised controlled trial (FortiColos, NCT03537365), mineral status was compared after fortification with BC versus CF. Blood calcium, phosphate, and haemoglobin were determined before and up to 3 weeks after the start of fortification (at the mean age of 8-9 days). The maximum supplemental doses of calcium, phosphate, and iron given were retrieved from patient medical records. Results were adjusted for gestational age,&#xa0;birth weight, and enteral nutrition with the mother's own milk and/or donor human milk. Blood values of calcium, phosphate, and haemoglobin were similar between groups. Infants in both groups required supplementation with calcium and phosphate, but infants fed BC required higher maximum doses of phosphate and calcium (p&#x2009;<&#x2009;0.05) to maintain acceptable blood values. Regardless of fortification groups, the most immature (<29 weeks of gestation) and small for gestational age&#xa0;infants showed a higher risk for requiring additional phosphate (odds ratio [OR]: 3.9, p&#x2009;<&#x2009;0.001; OR: 2.14, p&#x2009;=&#x2009;0.07, respectively). The use of BC as a fortifier for human milk requires additional phosphate and calcium relative to a CF. Regardless of the fortification product, the most immature and small infants require additional mineral supplementation.
+This study aimed to implement and evaluate integrated, school-based nutrition intervention packages for adolescents in Dodoma, Tanzania. A cluster randomized controlled trial was conducted among six secondary schools in Dodoma, Tanzania. Two schools received the full-intervention package of school meals, nutrition education, school gardens, and community workshops. Two schools received the partial-intervention package without the school meals component. Two schools served as the controls and did not receive any intervention. The intervention was implemented over one academic year. The analytical sample included 534 adolescents aged 14 to 17 at baseline and 286 parents. Outcomes included nutrition knowledge, food preferences, diet quality, food insecurity, physical activity, growth, and anemia. Linear models were used to estimate mean differences, and logistic regression models were used to estimate odds ratios (ORs). Compared to the control, both the partial (OR: 0.59; 95% confidence interval [CI]: 0.35, 1.00) and full (OR: 0.49; 95% CI: 0.40, 0.59) interventions were associated with lower odds of poor diet quality among adolescents. Among the parents, both the partial (OR: 0.28; 95% CI: 0.20, 0.40) and full (OR: 0.28; 95% CI: 0.13, 0.58) interventions were associated with lower odds of poor diet quality. The partial (OR: 0.29; 95% CI: 0.18, 0.47) and full (OR: 0.47; 95% CI: 0.30, 0.72) interventions were associated with lower odds of adolescent overweight or obesity. School-based nutritional intervention packages incorporating multiple actions may improve the diet quality of adolescents and their household members and reduce the double burden of adolescent malnutrition.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/jpn3.12190
+- DOI: 10.1016/j.jadohealth.2024.02.032
 
 2. Keywords
-- bovine colostrum
-- fortification
-- nutrition
+- Adolescents
+- Agriculture
+- Education
+- Nutrition
+- Randomized controlled trial
+- School feeding
+- School gardens
+- School meals
+- Secondary schools
+- Tanzania
 
 3. Key Findings
-- Regardless of fortification groups, the most immature (<29 weeks of gestation) and small for gestational age&#xa0;infants showed a higher risk for requiring additional phosphate (odds ratio [OR]: 3
+- Findings extraction requires manual review
 
 This study provides insights into:
-- bovine colostrum assessment methods and outcomes
-- fortification assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- Adolescents assessment methods and outcomes
+- Agriculture assessment methods and outcomes
+- Education assessment methods and outcomes

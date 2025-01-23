@@ -1,22 +1,26 @@
-Study Title: The effects of gaze stability exercises on balance, gait ability, and fall efficacy in patients with chronic stroke: A 2-week follow-up from a randomized controlled trial.
+Study Title: Heart rate reactivity, recovery, and endurance of the incremental shuttle walk test in patients prone to heart failure.
 
 Study Summary:
-This study aimed to examine the effect of gaze stability exercises on balance, gait ability, and fall efficacy in patients with chronic stroke, as well as to investigate whether any observed effects were maintained 2 weeks later. In this experiment, 30 chronic stroke patients were selected. The patients were randomly divided into 3 groups (10 patients in each group). All patients in the 3 groups performed basic neurodevelopmental treatment. Group 1 performed balance exercises accompanied by gaze stability exercises. Group 2 performed gaze stability exercises, and group 3 performed balance exercises. Each exercise program for 40 minutes 3 times a week for 4 weeks. After the intervention period, the patient's balance, gait ability, and fall efficacy were measured again. In order to know whether the training effect is maintained, a 2-week follow-up test was conducted after the training. The results of this study showed that there was a significant improve in balance (overall stability index, limit of stability test, and Berg Balance Scale), gait ability (gait velocity, cadence, step time and step length, Timed Up and Go [TUG] test), and fall efficacy over the different time within the 3 groups. The effect was observed to be maintained in follow-up tests after 2 weeks. In the comparison among 3 groups, the overall stability index, limit of stability test in the balance test and the gait velocity, cadence, step time, step length and Timed Up and Go test in the gait test all showed statistically significant differences, and the other items did not have significant differences. In most of the assessments, group 1 that used balance exercise combined with gaze stability exercise showed a better improvement than the other 2 groups. As a result, for stroke patients, gaze stability exercise is an effective arbitration method to improve balance and gait ability and fall efficacy. With balance exercise combined with gaze stability exercise, a greater effect can be seen than with gaze stability exercise or balance exercise alone. Thus, this combination exercise program can be recommended as effective.
+Few randomized trials assessed the changes over time in the chronotropic heart rate (HR) reactivity (CHR), HR recovery (HRR) and exercise endurance (EE) in response to the incremental shuttle walk test (ISWT). We addressed this issue by analysing the open HOMAGE (Heart OMics in Aging) trial. In HOMAGE, 527 patients prone to heart failure were randomized to usual treatment with or without spironolactone (25-50&#xa0;mg/day). The current sub-study included 113 controls and 114 patients assigned spironolactone (~70% on beta-blockers), who all completed the ISWT at baseline and at Months 1 and 9. Within-group changes over time (follow-up minus baseline) and between-group differences at each time point (spironolactone minus control) were analysed by repeated measures ANOVA, unadjusted or adjusted for sex, age and body mass index, and additionally for baseline for testing 1 and 9&#xa0;month data. Irrespective of randomization, the resting HR and CHR did not change from baseline to follow-up, with the exception of a small decrease in the HR immediately post-exercise (-3.11&#xa0;b.p.m.) in controls at Month 9. In within-group analyses, HR decline over the 5&#xa0;min post-exercise followed a slightly lower course at the 1&#xa0;month visit in controls and at the 9&#xa0;month visits in both groups, but not at the 1&#xa0;month visit in the spironolactone group. Compared with baseline, EE increased by two to three shuttles at Months 1 and 9 in the spironolactone group but remained unchanged in the control group. In the between-group analyses, irrespective of adjustment, there were no HR differences at any time point from rest up to 5&#xa0;min post-exercise or in EE. Subgroup analyses by sex or categorized by the medians of age, left ventricular ejection fraction or glomerular filtration rate were confirmatory. Combining baseline and Months 1 and 9 data in both treatment groups, the resting HR, CHR and HRR at 1 and 5&#xa0;min averaged 61.5, 20.0, 9.07 and 13.8&#xa0;b.p.m. and EE 48.3 shuttles. Spironolactone on top of usual treatment compared with usual treatment alone did not change resting HR, CHR, HRR and EE in response to ISWT. Beta-blockade might have concealed the effects of spironolactone. The current findings demonstrate that the ISWT, already used in a wide variety of pathological conditions, is a practical instrument to measure symptom-limited exercise capacity in patients prone to developing heart failure because of coronary heart disease.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000039221
+- DOI: 10.1002/ehf2.15000
 
 2. Keywords
-
+- heart failure
+- heart rate
+- incremental shuttle walk test
+- mineralocorticoid receptor antagonism
+- spironolactone
 
 3. Key Findings
-- The results of this study showed that there was a significant improve in balance (overall stability index, limit of stability test, and Berg Balance Scale), gait ability (gait velocity, cadence, step time and step length, Timed Up and Go [TUG] test), and fall efficacy over the different time within the 3 groups
-- In the comparison among 3 groups, the overall stability index, limit of stability test in the balance test and the gait velocity, cadence, step time, step length and Timed Up and Go test in the gait test all showed statistically significant differences, and the other items did not have significant differences
-- In most of the assessments, group 1 that used balance exercise combined with gaze stability exercise showed a better improvement than the other 2 groups
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- heart failure assessment methods and outcomes
+- heart rate assessment methods and outcomes
+- incremental shuttle walk test assessment methods and outcomes

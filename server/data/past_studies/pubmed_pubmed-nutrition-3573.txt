@@ -1,23 +1,30 @@
-Study Title: Enabling health and maintaining independence for older people at home (HomeHealth trial): a multicentre randomised controlled trial.
+Study Title: Neurodevelopmental Outcome in Very Preterm Infants Randomised to Receive Two Different Standardised, Concentrated Parenteral Nutrition Regimens.
 
 Study Summary:
-NHS frailty services commonly target more severely frail older people, despite evidence suggesting frailty can be prevented or reversed when addressed at an earlier stage. HomeHealth is a new home-based, manualised voluntary sector service supporting older people with mild frailty to maintain their independence through behaviour change. Over six appointments, a trained HomeHealth worker discusses what matters to the older person and supports them to set and achieve goals around mobility, nutrition, socialising and/or psychological wellbeing. The service showed promising effects in a feasibility trial. We aimed to test the clinical and cost-effectiveness of HomeHealth for maintaining independence in older people with mild frailty compared with treatment as usual. In this single-blind multicentre randomised controlled trial, we recruited community-dwelling older people aged 65 years or older with mild frailty from 27 general practices, community groups and sheltered housing in London, Yorkshire, and Hertfordshire. Participants were randomly assigned (1:1) to receive either HomeHealth monthly for 6 months or treatment as usual (usual GP and outpatient care, no specific frailty services). Our primary outcome was independence in activities of daily living, measured by blinded outcome assessors using the modified Barthel Index, and analysed using linear mixed models, including 6-month and 12-month data and controlling for baseline Barthel score and site. The study was approved by the Social Care Research Ethics Committee, and all participants provided written or orally recorded informed consent. This study is registered with the ISRCTN registry, ISRCTN54268283. This trial took place between Jan 18, 2021, and July 4, 2023. We recruited 388 participants (mean age 81&#xb7;4 years; 64% female [n=250], 94% White British/European [n=364], 2&#xb7;5% Asian [n=10], 1&#xb7;5% Black [n=6], 2&#xb7;0% other [n=8]). We achieved high retention for 6-month follow-up (89%, 345/388), 12-month follow-up (86%, 334/388), and medical notes data (89%, 347/388). 182 (93%) of 195 participants in the intervention group completed the intervention, attending a mean of 5&#xb7;6 appointments. HomeHealth had no effect on Barthel Index scores at 12 months (mean difference 0&#xb7;250, 95% CI -0&#xb7;932 to 1&#xb7;432). At 6 months, there was a small reduction in psychological distress (-1&#xb7;237, -2&#xb7;127 to -0&#xb7;348) and frailty (-0&#xb7;124, -0&#xb7;232 to -0&#xb7;017), and at 12 months, we found small positive effects on wellbeing (1&#xb7;449, 0&#xb7;124 to 2&#xb7;775) in those receiving HomeHealth. Other outcomes in analysis to date showed no significant difference. Health economic outcomes (including quality of life, capability, health services use and care needs or burden) are pending. This high-quality trial showed that HomeHealth did not maintain independence in older people with mild frailty, and had limited effects upon secondary outcomes. Future studies need to explore different ways to promote health in this population. National Institute for Health and Care Research Health Technology Assessment (NIHR HTA).
+We have previously shown that increasing parenteral protein (target: 3.8 versus 2.8 g/kg/d) and energy (12% versus 10% glucose; 3.8 versus 2.8 g/kg/d) intake using a Standardised, Concentrated with Added Macronutrients Parenteral (SCAMP) nutrition regimen ameliorates early head growth failure in very-preterm infants (VPIs). We hypothesised that the SCAMP nutrition regimen would also improve neurodevelopmental outcome. The original double-blind randomised, controlled study (ISRCTN: 76597892) received ethical approval. VPIs were randomised to either start SCAMP or remain on the control regimen. The consent process included neurodevelopmental assessments (Bayley III), all of which were performed (blinded) at 2-3.5 years of corrected gestational age. Bayley III assessments were performed for 38/60 SCAMP survivors and 41/63 control survivors at means of (sd) 29.2 (3.7) and 20.0 (3.9) months, respectively. Motor, cognitive, language, and combined scores were all higher in the SCAMP intervention group, but none of the differences were statistically significant. Nutrient intake and biochemical monitoring data confirmed that protein/energy ratios were maintained in the SCAMP intervention group without increasing the incidence of hyperglycaemia, insulin treatment, or the derangement of plasma mineral/electrolyte levels. This study did not show a statistically significant improvement in neurodevelopmental outcome when administering higher parenteral protein/energy intakes despite optimal energy and mineral intakes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/S0140-6736(23)02071-8
+- DOI: 10.3390/nu15224741
 
 2. Keywords
-
+- energy
+- hyperglycaemia
+- hypokalaemia
+- hypophosphataemia
+- insulin
+- neurodevelopment
+- parenteral nutrition
+- preterm
+- protein
 
 3. Key Findings
-- The service showed promising effects in a feasibility trial
-- At 6 months, there was a small reduction in psychological distress (-1&#xb7;237, -2&#xb7;127 to -0&#xb7;348) and frailty (-0&#xb7;124, -0&#xb7;232 to -0&#xb7;017), and at 12 months, we found small positive effects on wellbeing (1&#xb7;449, 0&#xb7;124 to 2&#xb7;775) in those receiving HomeHealth
-- Other outcomes in analysis to date showed no significant difference
-- This high-quality trial showed that HomeHealth did not maintain independence in older people with mild frailty, and had limited effects upon secondary outcomes
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- energy assessment methods and outcomes
+- hyperglycaemia assessment methods and outcomes
+- hypokalaemia assessment methods and outcomes

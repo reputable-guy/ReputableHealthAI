@@ -1,25 +1,24 @@
-Study Title: Frailty-Preventing Effect of an Intervention Program Using a Novel Complete Nutritional "COMB-FP Meal": A Pilot Randomized Control Trial.
+Study Title: Differential Responders to a Mixed Meal Tolerance Test Associated with Type 2 Diabetes Risk Factors and Gut Microbiota-Data from the MEDGI-Carb Randomized Controlled Trial.
 
 Study Summary:
-Frailty is a huge concern for the aging population, and dietary nutrition is considered a key factor in the prevention of aging. To solve the problem of frailty in the aging population, we developed a novel dietary intervention program using a novel COMpletely Balanced for Frailty Prevention (COMB-FP) meal, based on the Dietary Reference Intake for Japanese; in addition, we conducted a pilot randomized control trial comparing an exercise program only (control group) with exercise plus the COMB-FP meal program (test group). We included 110 male and female healthy volunteers with pre-frailty or frailty; the trial lasted for 12 weeks. Two daily meals were replaced with the COMB-FP meals during the trial in the test group. Walking speed and cognitive function were significantly improved in the test group compared with the control group. We observed a similar pattern in other frailty-related outcomes, such as occupancy of the microbiome, World Health Organization well-being index (WHO-5), and oxidative stress. Our study might indicate the importance of a well-balanced intake of nutrients for frailty prevention.
+The global prevalence of type 2 diabetes mellitus (T2DM) has surged in recent decades, and the identification of differential glycemic responders can aid tailored treatment for the prevention of prediabetes and T2DM. A mixed meal tolerance test (MMTT) based on regular foods offers the potential to uncover differential responders in dynamical postprandial events. We aimed to fit a simple mathematical model on dynamic postprandial glucose data from repeated MMTTs among participants with elevated T2DM risk to identify response clusters and investigate their association with T2DM risk factors and gut microbiota. Data were used from a 12-week multi-center dietary intervention trial involving high-risk T2DM adults, comparing high- versus low-glycemic index foods within a Mediterranean diet context (MEDGICarb). Model-based analysis of MMTTs from 155 participants (81 females and 74 males) revealed two distinct plasma glucose response clusters that were associated with baseline gut microbiota. Cluster A, inversely associated with HbA1c and waist circumference and directly with insulin sensitivity, exhibited a contrasting profile to cluster B. Findings imply that a standardized breakfast MMTT using regular foods could effectively distinguish non-diabetic individuals at varying risk levels for T2DM using a simple mechanistic model.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15204317
+- DOI: 10.3390/nu15204369
 
 2. Keywords
-- complete nutrition
-- diet treatment
-- frailty
-- randomized control trial
+- clustering
+- differential responders
+- personalized nutrition
 
 3. Key Findings
-- Findings extraction requires manual review
+- Model-based analysis of MMTTs from 155 participants (81 females and 74 males) revealed two distinct plasma glucose response clusters that were associated with baseline gut microbiota
 
 This study provides insights into:
-- complete nutrition assessment methods and outcomes
-- diet treatment assessment methods and outcomes
-- frailty assessment methods and outcomes
+- clustering assessment methods and outcomes
+- differential responders assessment methods and outcomes
+- personalized nutrition assessment methods and outcomes

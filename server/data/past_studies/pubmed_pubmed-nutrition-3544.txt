@@ -1,20 +1,21 @@
-Study Title: Effect of the Home to Hospital to Home nutrition management program on postoperative liver cancer patients: A single-center randomized controlled study.
+Study Title: A multicenter case-control study on postoperative intestinal fistula in Chinese patients with Crohn disease.
 
 Study Summary:
-Malnutrition is the most common complication in postoperative liver cancer patients. This study aimed to investigate the effects of the Home to Hospital to Home nutrition management program on postoperative liver cancer patients. A total of 184 liver cancer patients were randomly assigned to either an intervention group (treated under the Home to Hospital to Home nutrition management program) or a control group (treated with the general nutritional method). Nutrition-related indicators, such as prealbumin (PA) and albumin, were assessed before and after treatment in both groups. The incidence of complications (e.g., nausea or vomiting, bloating, difficulty defecating, ascites), length of hospital stay, first time to anal exhaust and out-of-bed activity, and patient satisfaction were recorded. A total of 184 liver cancer patients were randomly assigned to either an intervention group (treated under the Home to Hospital to Home nutrition management program) or a control group (treated with the general nutritional method). Nutrition-related indicators, such as prealbumin (PA) and albumin, were assessed before and after treatment in both groups. The incidence of complications (e.g., nausea or vomiting, bloating, difficulty defecating, ascites), length of hospital stay, first time to anal exhaust and out-of-bed activity, and patient satisfaction were recorded. The Home to Hospital to Home nutrition management program improves the nutritional status of postoperative liver cancer patients, lowers the incidence of complications, shortens hospital stays, increases patient satisfaction, and promotes the early recovery of patients.
+The aim of this study was to (1) assess the independent factors affecting patients with postoperative intestinal fistula from Crohn disease (CD) by analyzing preoperative clinical data, (2) establish a nomogram prediction model for this condition based on these factors, and (3) validate this model and evaluate its accuracy. In this retrospective multicenter case-control study, the clinical data of 240 patients with CD admitted for surgical treatment between September 2019 and September 2021 at 3 centers were collected. Patients were randomly divided into a training set (168 patients) and a validation set (72 patients). Univariate analysis was performed for relevant factors, and statistically significant factors were then analyzed using multivariate logistic regression to determine the independent influencing factors. A nomogram model for predicting postoperative intestinal fistula in patients with CD was constructed and the accuracy of the model was evaluated using calibration curves. Univariate analysis showed that disease behavior, abdominal abscess, intestinal perforation, neutrophil-to-lymphocyte ratio, systemic immunoinflammatory index, and prognostic nutrition index were factors affecting postoperative intestinal fistula in patients with CD. Multivariate logistic regression analysis showed that neutrophil-to-lymphocyte ratio, prognostic nutrition index, disease behavior, and Crohn disease activity index score were independent influencing factors. After assessing the validation set, the area under the curve was 0.899, indicating good predictive accuracy of the nomogram model. The prediction model developed in this study can effectively predict the risk of postoperative intestinal fistula.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1097/MD.0000000000036648
+- DOI: 10.1097/MD.0000000000036159
 
 2. Keywords
 
 
 3. Key Findings
-- Findings extraction requires manual review
+- Univariate analysis showed that disease behavior, abdominal abscess, intestinal perforation, neutrophil-to-lymphocyte ratio, systemic immunoinflammatory index, and prognostic nutrition index were factors affecting postoperative intestinal fistula in patients with CD
+- Multivariate logistic regression analysis showed that neutrophil-to-lymphocyte ratio, prognostic nutrition index, disease behavior, and Crohn disease activity index score were independent influencing factors
 
 This study provides insights into:
 - General research methodology and outcomes

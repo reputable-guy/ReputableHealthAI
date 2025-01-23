@@ -1,26 +1,28 @@
-Study Title: Analysis of mandibular jaw movements to assess ventilatory support management of children with obstructive sleep apnea syndrome treated with positive airway pressure therapies.
+Study Title: Electroencephalography-based investigation of the effects of oral desmopressin on improving slow-wave sleep time in nocturnal polyuria patients (the DISTINCT study): A single-arm, open-label, single-assignment trial.
 
 Study Summary:
-The polysomnography (PSG) is the gold-standard for obstructive sleep apnea (OSA) syndrome diagnosis and assessment under positive airway pressure (PAP) therapies in children. Recently, an innovative digital medicine solution, including a mandibular jaw movement (MJM) sensor coupled with&#xa0;automated analysis, has been validated as an alternative to PSG for pediatric application. This study aimed to assess the reliability of MJM&#xa0;automated analysis for the assessment of residual apnea/hypopnea events during sleep in children with OSA treated with noninvasive ventilation (NIV) or continuous PAP&#xa0;(CPAP). In this open-label prospective non-randomized multicentric trial, we included children aged from 5 to 18 years with a diagnosis of severe OSA. The children underwent in-laboratory PSG with simultaneous MJM monitoring and at-home recording with MJM monitoring 3 months later. Agreement between PSG and MJM analysis in measuring the residual apnea-hypopnea index (AHI) was evaluated by the Bland-Altman method. The treatment effect on residual AHI was estimated for both PSG and MJM analysis. Fifteen (60% males) children were included with a median age of 12 years [interquartile range 8-15]. Two (17%) were ventilated with NIV and 13 (83%) with CPAP. There was a good agreement between MJM-AHI and PSG-AHI with a median bias of -0.25 (95% CI: -3.40 to +2.04) events/h. The reduction in AHI under treatment was consistently significant across the three measurement methods: in-laboratory PSG&#xa0;and MJM recordings in the laboratory and at home. Automated analysis of MJM is a highly reliable alternative method to assess residual events in a small population treated with PAP therapies.
+To investigate changes in subjective and objective sleep quality after desmopressin administration in patients with nocturia due to nocturnal polyuria (NP) using electroencephalography (EEG) and the Pittsburgh sleep quality index (PSQI). Twenty male patients (&#x2265;65 years old) with NP participated in this study. The inclusion criteria were nocturnal frequency&#x2009;&#x2265;&#x2009;2, NP index (NPi)&#x2009;&#x2265;&#x2009;0.33, first uninterrupted sleep period (FUSP)&#x2009;&#x2264;&#x2009;2.5&#x2009;h, serum sodium concentration&#x2009;&#x2265;&#x2009;135 mEq/L, and estimated glomerular filtration rate&#x2009;&#x2265;&#x2009;50&#x2009;mL/min/1.73 m. Participants were given 50&#x2009;&#x3bc;g of desmopressin to be taken orally once daily before bed. The primary endpoint was the change in the duration of slow-wave sleep (nonrapid eye movement sleep stages 3 and 4), as evaluated by EEG 28 days from the baseline. The visual analog scale (VAS) was used as an additional indicator of sleep quality. Analysis of data from 15 participants (median age: 74.0 [70.5, 76.0] years) revealed that from before to after desmopressin administration, significant decreases occurred in the median nocturnal frequency (3.0 [2.0, 4.0] to 1.5 [1.0, 2.0]) and NPi (0.445 [0.380, 0.475] to 0.360 [0.250, 0.430]). Furthermore, FUSP was significantly prolonged from 120.0 (94.0, 150.0) min to 210.0 (203.8, 311.3) min. Although the VAS scores improved, slow-wave sleep duration and the PSQI global score showed no significant differences (68.50 [47.50, 75.50] and 48.00 [38.00, 66.50]; 5.0 [5.0, 10.0] and 7.0 [5.0, 9.0] min, respectively). Oral administration of 50&#x2009;&#x3bc;g desmopressin improved nocturnal frequency and FUSP in older individuals with NP but did not significantly enhance sleep quality. In older adults, decreased nighttime urinary frequency may enhance quality of life; however, its influence on objective sleep quality may be limited.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ppul.27005
+- DOI: 10.1002/nau.25476
 
 2. Keywords
-- continuous positive airway pressure
-- machine learning
-- mandibular jaw movement
-- noninvasive ventilation
-- pediatric obstructive sleep apnea
+- desmopressin
+- male
+- nocturia
+- nocturnal polyuria
+- sleep
+- slow&#x2010;wave sleep
 
 3. Key Findings
-- Findings extraction requires manual review
+- 0] years) revealed that from before to after desmopressin administration, significant decreases occurred in the median nocturnal frequency (3
+- Although the VAS scores improved, slow-wave sleep duration and the PSQI global score showed no significant differences (68
 
 This study provides insights into:
-- continuous positive airway pressure assessment methods and outcomes
-- machine learning assessment methods and outcomes
-- mandibular jaw movement assessment methods and outcomes
+- desmopressin assessment methods and outcomes
+- male assessment methods and outcomes
+- nocturia assessment methods and outcomes

@@ -1,20 +1,25 @@
-Study Title: Comparison of Therapeutic Effect of Apheresis Platelets and Buffy Coat-Derived Platelet Concentrates.
+Study Title: Hoffa's fat pad resection during total knee arthroplasty does not affect functioning and gait: a double-blind randomized clinical trial.
 
 Study Summary:
-The study aimed to investigate the difference in clinical efficacy between apheresis platelets and buffy coat-derived platelet concentrates infusion in patients with hematological diseases. A total of 218 patients with hematological diseases were enrolled in Xi'an Central Hospital, from January 2023 to October 2023, and randomly divided into two groups: 109 patients were treated with apheresis platelet transfusion (AP group) and 109 patients with buffy coat derived platelet concentrates (BC-PC group). Platelet counts were measured before and 24 hours after transfusion, and the corrected platelet ascending number (CCI) and platelet recovery rate (PPR) were calculated. The clinical efficacy and blood transfusion reaction were observed. After 24 hours of platelet transfusion, there was no significant difference in the platelet count between the AP and BC-PC groups (p > 0.05). However, CCI and PPR significantly differed between the two groups (p < 0.05). Moreover, the incidence of transfusion reaction in the AP group was significantly lower than in the BC-PC group. The clinical efficacy of buffy coat-derived platelet concentrates is lower than that of apheresis platelets, but it can also improve the patient's condition and quality of life. Therefore, clinicians could rationally use BC-PC, according to the actual situation of the patients.
+Hoffa's fat pad is considered a source of anterior knee pain and may limit prosthetic knee function. Resection of Hoffa's fat pad in total knee arthroplasty (TKA), however, is controversial, and little is known about the functional outcomes including gait quality. This double-blind randomized controlled trial (i) compared functional recovery between TKAs where Hoffa was resected or preserved, and (ii) compared recovery of self-reported function with objective (gait-related) outcomes. Eighty-five patients (age 66.4&#x2009;&#xb1;&#x2009;8.0 years, 47% women) scheduled to undergo TKA for primary osteoarthritis were randomly assigned to either fat pad resection or preservation. Subjective measures of functioning were assessed at baseline, 6 weeks, 3 months, and 12 months postoperatively and included the Knee Injury and Osteoarthritis Outcome Score (KOOS), Kujala, and visual analog scale (VAS) for pain. Objective measures of functioning were assessed at baseline, 3 months, and 12 months postoperatively and included instrumented range-of-motion and gait analysis. Longitudinal analyses (generalized estimating equations) were used to compare recovery between groups, and chi-square tests compared attainment of minimal clinical important difference (MCID) and patient acceptable symptom state (PASS). Finally, correlation analyses explored associations between subjective and objective recovery in function. Resection patients showed poorer improvement in KOOS quality of life in the first 6 weeks (B=-10.02, 95% confidence interval (CI) [-18.91, -1.12], p&#x2009;=&#x2009;.027), but stronger improvement in knee extension after 3 months (B&#x2009;=&#x2009;3.02, 95%CI [0.45, 5.60], p&#x2009;=&#x2009;.021) compared to preservation patients. Regarding MCID or PASS, no differences were noted between groups at 3 and 12 months (all p&#x2009;>&#x2009;.05). Subjective function substantially improved in the first 3 months, while objective outcomes improved only between 3 and 12 months. Moderate to strong correlations were identified between changes in knee flexion and gait with Kujala and KOOS in the resection but not in the preservation group. Similar functional outcomes were achieved after TKA with or without resection of Hoffa's fat pad. Hence, removing the fat pad to promote surgical exposure will not affect functional outcomes including gait quality. Functional recovery of objective outcomes was not always consistent with subjective recovery, suggesting that both self-reported as well as objective, gait-related outcomes may provide meaningful information on functional recovery following TKA. This clinical trial was prospectively registered under the Netherlands Trial Registry (# NL3638). This registry has recently been replaced by the Dutch Trial Registry where this study can be accessed via https://onderzoekmetmensen.nl/en/trial/20994 .
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7754/Clin.Lab.2024.231149
+- DOI: 10.1007/s00402-024-05503-2
 
 2. Keywords
-
+- Fat pad
+- Functional outcome
+- Gait analysis
+- Total knee arthroplasty
 
 3. Key Findings
-- Findings extraction requires manual review
+- Resection patients showed poorer improvement in KOOS quality of life in the first 6 weeks (B=-10
 
 This study provides insights into:
-- General research methodology and outcomes
+- Fat pad assessment methods and outcomes
+- Functional outcome assessment methods and outcomes
+- Gait analysis assessment methods and outcomes

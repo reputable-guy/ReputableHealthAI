@@ -1,20 +1,26 @@
-Study Title: [Scientific production in Scopus on financial health: period 2011-2022].
+Study Title: Clinical pharmacology and tolerability of REC-994, a redox-cycling nitroxide compound, in randomized phase 1 dose-finding studies.
 
 Study Summary:
-Financial health is related to the overall health of an individual and their family. The objective of this study was to evaluate the scientific production on financial health in the Scopus database for the 2011-2022 period. Scoping review of manuscripts published in journals indexed in the Scopus database between the years 2011 and 2022. The following search terms were used: "Financial obligations", "financial inclusion", "family economy", "financial education", "financial literacy", "financial wellness" and "financial stress", which were entered in the Scopus search engine together with the Boolean operators (AND, OR).&#xa0; Results: A total of 6 940 publications were identified, of which 81.95% were original articles. The United States was the country with the highest scientific production (35.5%). We identified a trend of increasing number of papers during the study period, especially from 2016 onward, with an 860% increase in 2022 (n=1429) with respect to 2011 (n=165). The journals with the highest number of publications were Sustainability (Switzerland) and the Journal of Financial Counseling and Planning (USA). Finally, the key search terms with the greatest yield were "financial inclusion" through the use of technology, "financial stress", "financial education" and "financial health." Research on financial health has increased significantly. The new knowledge on the subject is mostly driven by authors and institutions from the United States, and finally, there is evidence of an increasing trend of pulbications related to financial inclusion and financial education.
+Cerebral cavernous malformation (CCM) has variable clinical symptoms, including potentially fatal hemorrhagic stroke. Treatment options are very limited, presenting a large unmet need. REC-994 (also known as tempol), identified as a potential treatment through an unbiased drug discovery platform, is hypothesized to treat CCMs through a reduction in superoxide, a reactive oxygen species. We investigated the safety, tolerability, and pharmacokinetic profile of REC-994 in healthy volunteers. Single- and multiple-ascending dose (SAD and MAD, respectively) studies were conducted in adult volunteers (ages 18-55). SAD study participants received an oral dose of REC-994 or placebo. MAD study participants were randomized 3:1 to oral doses of REC-994 or matching placebo, once daily for 10&#x2009;days. Thirty-two healthy volunteers participated in the SAD study and 52 in the MAD study. Systemic exposure increased in proportion to REC-994 dose after single doses of 50-800&#x2009;mg and after 10&#x2009;days of dosing over the 16-fold dose range of 50-800&#x2009;mg. Median Tand mean twere independent of dose in both studies, and the solution formulation was more rapidly absorbed. REC-994 was well tolerated. Treatment-emergent adverse effects across both studies were mild and transient and resolved by the end of the study. REC-994 has a favorable safety profile and was well tolerated in single and multiple doses up to 800&#x2009;mg with no dose-limiting adverse effects identified. Data support conducting a phase 2 clinical trial in patients with symptomatic CCM.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.12961/aprl.2024.27.01.05
+- DOI: 10.1002/prp2.1200
 
 2. Keywords
-
+- antioxidants
+- genetic diseases
+- oxidative stress
+- pharmacokinetics
+- phase 1
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- antioxidants assessment methods and outcomes
+- genetic diseases assessment methods and outcomes
+- oxidative stress assessment methods and outcomes

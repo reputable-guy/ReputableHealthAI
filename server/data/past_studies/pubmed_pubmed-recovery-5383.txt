@@ -1,25 +1,26 @@
-Study Title: The Effects of a 6-Week Plyometric and Sprint Interval Training Intervention on Soccer Player's Physical Performance.
+Study Title: Effects of a Manual Treatment on Lumbar Microcirculation and Tissue Stiffness Following Submaximal Eccentric Trunk Extensor Exercise: A Randomized Controlled Trial.
 
 Study Summary:
-Despite the well-documented benefits of sprint interval training (SIT) and plyometric training (PT) in improving the physical fitness of soccer players, it remains unclear which of these training methods is superior for enhancing players' aerobic and anaerobic performance. Therefore, this study aimed to compare the effects of SIT and PT on physical performance measures of male soccer players. Thirty male soccer players were randomly assigned to PT (n = 10), SIT (n = 10), and an active control group (CON, n = 10). Before and after the training period, participants underwent a battery of tests consisting of vertical jump, Wingate, linear sprint with and without ball dribbling, change of direction, ball kick, and the Yo-Yo intermittent recovery level 1 (Yo-Yo IR1) tests. Both groups exhibited similar improvements in maximal kicking distance (PT, effect size [ES] = 0.68; SIT, ES = 0.92) and measures of aerobic fitness including maximum oxygen uptake (PT, ES = 1.24; SIT, ES = 1.26) and first (PT, ES = 0.85; SIT, ES = 1.08) and second (PT, ES = 0.86; SIT, ES = 0.98) ventilatory thresholds. However, PT intervention resulted in greater changes in vertical jump (ES = 1.72 vs. 0.82, p = 0.001), anaerobic power (peak power, ES = 1.62 vs. 0.97, p = 0.009; mean power, ES = 1.15 vs. 1.20, p = 0.05), linear speed (20-m, ES = -1.58 vs. -0.98, p = 0.038; 20-m with ball, ES = -0.93 vs. 0.71, p = 0.038), and change of direction ability (ES = -2.56 vs. -2.71, p = 0.046) than SIT. In conclusion, both PT and SIT demonstrated effectiveness in enhancing aerobic performance among male soccer players. However, PT yielded superior improvements in anaerobic power, vertical jump, linear speed, and change of direction performance compared to SIT. These findings suggest that PT may offer additional benefits beyond aerobic conditioning.
+Recent studies have shown that the extramuscular connective tissue (ECT) is thickened and stiffened in delayed onset muscle soreness (DOMS). However, contrarily to the normal population, severe DOMS is rare in athletes or highly trained individuals. The present randomized, controlled trial therefore aimed to investigate pain as well as microcirculation and stiffness of the ECT and the erector spinae muscle following submaximal eccentric trunk extension exercise not causing DOMS. The effect of manual treatment by a therapist (myofascial release; MFR) on these parameters was to be studied. Trained healthy participants (n = 21; 31.3 &#xb1; 9.6 years; > 4 h exercise per week) performed submaximal eccentric exercise of the trunk extensors. One group was manually treated (n = 11), while the other group (n = 10) received placebo treatment with sham laser therapy. Stiffness of the ECT and the erector spinae muscle (shear wave elastography), microcirculation (white light and laser Doppler spectroscopy), palpation pain (100 mm visual analogue scale, VAS) and pressure pain threshold (indentometry, PPT) were assessed before (t), 24 h (t) and 48 h (t) after conditions. Erector spinae muscle stiffness increased after eccentric exercise from tto t(0.875 m/s) and from tto t(0.869 m/s). After MFR, erector spinae muscle stiffness decreased in contrast to placebo treatment at t(-0.66 m/s), while ECT stiffness remained unchanged. Oxygen saturation increased (17-20.93%) and relative haemoglobin decreased (-9.1 - -12.76 AU) after eccentric exercise and MFR differed from placebo treatment at t(-3.71 AU). PPT differed after MFR from placebo treatment at t(20.69 N/mm), while VAS remained unchanged. Multiple linear regression showed that ECT stiffness and group membership predicted erector spinae muscle stiffness. MFR could have a positive effect on pain, microcirculation and muscle stiffness after submaximal eccentric exercise, suggesting better recovery, which needs to be confirmed by future work.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.52082/jssm.2024.526
+- DOI: 10.52082/jssm.2024.581
 
 2. Keywords
-- Interval training
-- aerobic capacity
-- exercise performance
-- jump training
+- Shear wave elastography
+- connective tissue
+- eccentric exercise
+- manual treatment
+- myofascial release
 
 3. Key Findings
-- In conclusion, both PT and SIT demonstrated effectiveness in enhancing aerobic performance among male soccer players
+- Multiple linear regression showed that ECT stiffness and group membership predicted erector spinae muscle stiffness
 
 This study provides insights into:
-- Interval training assessment methods and outcomes
-- aerobic capacity assessment methods and outcomes
-- exercise performance assessment methods and outcomes
+- Shear wave elastography assessment methods and outcomes
+- connective tissue assessment methods and outcomes
+- eccentric exercise assessment methods and outcomes

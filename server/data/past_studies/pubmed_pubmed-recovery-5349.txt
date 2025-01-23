@@ -1,20 +1,27 @@
-Study Title: Dexmedetomidine <em>versus</em> Ketofol for Moderate Sedation in Endoscopic Retrograde Cholangiopancreatography.
+Study Title: Delaying post-exercise carbohydrate intake impairs next-day exercise capacity but not muscle glycogen or molecular responses.
 
 Study Summary:
-To compare the efficacy of dexmedetomidine versus ketofol for moderate sedation in patients undergoing endoscopic retrograde cholangiopancreatography (ERCP). Randomised controlled trial. Place and Duration of the Study: Department of Anaesthesia, SICU and Pain Management, Sindh Institute of Urology and Transplantation, Karachi, Paksitan, from December 2021 to June 2022. Sixty-two patients aged 20-60 years of any gender scheduled for elective ERCP were included. Patients were randomly divided into Dexmedetomidine group (2ml ampule of 100ug/ml diluted in 18ml of normal saline) and Ketofol group (2ml ketamine and 10ml of propofol 1% diluted in 8ml of normal saline) for sedation. The mean difference in time to achieve Ramsay Sedation Scale (RSS) score of 4 and Modified Aldrete's Score (MAS) of 9 were noted as outcomes in each group. In addition, complications during the procedure and recovery were also noted. The mean age was 39.15 &#xb1; 9.82 years. There were 33 (53.2%) males and 29 (46.8%) females. The mean time to achieve RSS 4 was significantly lower in patients who were treated with Dexmedetomidine as compared to Ketofol, i.e., 11.84 &#xb1; 1.77 minutes vs. 13.10 &#xb1; 1.64 minutes respectively (p-value 0.005, 95% CI -2.12 to -0.39). Similarly, the mean time to achieve MAS score 9 was significantly lower in patients who were treated with Dexmedetomidine as compared to Ketofol, i.e., 11.19 &#xb1; 1.72 minutes vs. 12.23 &#xb1; 1.84 minutes, respectively (p-value 0.026, 95% CI -1.94 to -0.13). Dexmedetomidine proved to be more effective than Ketofol for sedation in ERCP, achieving faster sedation and quicker recovery. Dexmedetomidine, Ketofol, Sedation, Endoscopic Retrograde Cholangiopancreatography.
+To investigate how delayed post-exercise carbohydrate intake affects muscle glycogen, metabolic- and mitochondrial-related molecular responses, and subsequent high-intensity interval exercise (HIIE) capacity. In a double-blind cross-over design, nine recreationally active men performed HIIE (10&#x2009;&#xd7;&#x2009;2-min cycling, ~94% W&#x2d9;) in the fed state, on two occasions. During 0-3&#x2009;h post-HIIE, participants drank either carbohydrates ("Immediate Carbohydrate" [IC], providing 2.4&#x2009;g/kg) or water ("Delayed Carbohydrate" [DC]); total carbohydrate intake over 24 h post-HIIE was matched (~7&#x2009;g/kg/d). Skeletal muscle (sampled pre-HIIE, post-HIIE, +3 h, +8 h, +24&#x2009;h) was analyzed for whole-muscle glycogen and mRNA content, plus signaling proteins in cytoplasmic- and nuclear-enriched fractions. After 24&#x2009;h, participants repeated the HIIE protocol until failure, to test subsequent HIIE capacity; blood lactate, heart rate, and ratings of perceived effort (RPE) were measured throughout. Muscle glycogen concentrations, and relative changes, were similar between conditions throughout (p&#x2009;>&#x2009;0.05). Muscle glycogen was reduced from baseline (mean&#x2009;&#xb1;&#x2009;SD mmol/kg&#x2009;dm; IC: 409&#x2009;&#xb1;&#x2009;166; DC: 352&#x2009;&#xb1;&#x2009;76) at post-HIIE (IC: 253&#x2009;&#xb1;&#x2009;96; DC: 214&#x2009;&#xb1;&#x2009;82), +3&#x2009;h (IC: 276&#x2009;&#xb1;&#x2009;62; DC: 269&#x2009;&#xb1;&#x2009;116) and +&#x2009;8&#x2009;h (IC: 321&#x2009;&#xb1;&#x2009;56; DC: 269&#x2009;&#xb1;&#x2009;116), returning to near-baseline by +24&#x2009;h. Several genes (PGC-1&#x251;, p53) and proteins (p-ACC, p-P38 MAPK) elicited typical exercise-induced changes irrespective of condition. Delaying carbohydrate intake reduced next-day HIIE capacity (5&#x2009;&#xb1;&#x2009;3 intervals) and increased RPE (~2 ratings), despite similar physiological responses between conditions. Molecular responses to HIIE (performed in the fed state) were not enhanced by delayed post-exercise carbohydrate intake. Our findings support immediate post-exercise refueling if the goal is to maximize next-day HIIE capacity and recovery time is &#x2264;24&#x2009;h.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.29271/jcpsp.2024.09.1019
+- DOI: 10.1111/apha.14215
 
 2. Keywords
-
+- carbohydrates
+- exercise
+- mRNA
+- muscle glycogen
+- nutrition
+- signaling
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- carbohydrates assessment methods and outcomes
+- exercise assessment methods and outcomes
+- mRNA assessment methods and outcomes

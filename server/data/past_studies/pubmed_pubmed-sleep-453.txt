@@ -1,27 +1,20 @@
-Study Title: Predicting response to stepped-care cognitive behavioral therapy for insomnia using pre-treatment heart rate variability in cancer patients.
+Study Title: Could TREM-1 be a novel marker in the diagnosis of fibromyalgia?: A cross-sectional study.
 
 Study Summary:
-This study examined whether high frequency heart-rate variability (HF-HRV) and HF-HRV reactivity to worry moderate response to cognitive behavioural therapy for insomnia (CBT-I) within both a standard and stepped-care framework among cancer patients with comorbid insomnia. Biomarkers such as HF-HRV may predict response to CBT-I, a finding which could potentially inform patient allocation to different treatment intensities within a stepped-care framework. 177 participants (86.3&#xa0;% female; M&#xa0;=&#xa0;55.3, SD&#xa0;=&#xa0;10.4) were randomized to receive either stepped-care or standard CBT-I. 145 participants had their HRV assessed at pre-treatment during a rest and worry period. Insomnia symptoms were assessed using the Insomnia Severity Index (ISI) and daily sleep diary across five timepoints from pre-treatment to a 12-month post-treatment follow-up. Resting HF-HRV was significantly associated with pre-treatment sleep efficiency and sleep onset latency but not ISI score. However, resting HF-HRV did not predict overall changes in insomnia across treatment and follow-up. Similarly, resting HF-HRV did not differentially predict changes in sleep diary parameters across standard or stepped-care groups. HRV reactivity was not related to any of the assessed outcome measures in both cross-sectional and longitudinal analyses. Although resting HF-HRV was related to initial daily sleep parameters, HF-HRV measures did not significantly predict longitudinal responses to CBT-I. These findings suggest that HF-HRV does not predict treatment responsiveness to CBT-I interventions of different intensity in cancer patients.
+Triggering receptors expressed on myeloid cells-1 (TREM-1) are transmembrane molecules expressed in cells of the immune system. Activation of TREM-1 leads to the release of pro-inflammatory mediators, which act as amplifiers of inflammation and thereby contribute to the pathogenesis of various diseases, whether inflammatory or not. This study explored the role of TREM-1 in the etiopathogenic context of fibromyalgia syndrome (FMS) and its association with disease activity. This randomized controlled and observational study included 45 patients diagnosed with FMS according to the 2016 American College of Rheumatology criteria. Serum TREM-1 levels were assessed using ELISA, and disease activity was measured using various scales such as the fibromyalgia impact questionnaire (FIQ). Patients were divided into 2 groups according to disease severity based on the FIQ score. Compared to a control group of 46 healthy individuals, patients with FMS exhibited significantly elevated concentrations of TREM-1 (mean&#x2005;&#xb1;&#x2005;SD&#x2005;=&#x2005;216.97 pg/mL&#x2005;&#xb1;&#x2005;16.04), P&#x2005;<&#x2005;.05. The FIQ, Pittsburgh sleep quality index, hospital anxiety and depression scale, fatigue severity scale, and visual analog scale, which confirm symptoms such as pain, disease severity, sleep disturbance, depression, anxiety, and fatigue seen in FMS was significantly correlated with TREM-1 level (P&#x2005;<&#x2005;.001). The optimal threshold value for TREM-1 to disease activity was determined to be 182.250, showing (area under the curve) (CI (95%)): [0.940] (0.887-0.993), a sensitivity of 97% and a specificity of 89% according to the receiver operating characteristic analysis. The positive correlation of TREM-1 with various symptom severity scales and hematological inflammatory indices may be a suitable biomarker for the diagnosis of FMS and a potential therapeutic target.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.06.021
+- DOI: 10.1097/MD.0000000000038806
 
 2. Keywords
-- Cancer
-- Cognitive-behavioral therapy
-- Heart rate variability
-- Insomnia
-- Stepped-care
-- Worry
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Cancer assessment methods and outcomes
-- Cognitive-behavioral therapy assessment methods and outcomes
-- Heart rate variability assessment methods and outcomes
+- General research methodology and outcomes

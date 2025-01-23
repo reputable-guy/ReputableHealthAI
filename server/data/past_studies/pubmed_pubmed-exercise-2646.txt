@@ -1,25 +1,26 @@
-Study Title: Ferric carboxymaltose and exercise capacity in heart failure with preserved ejection fraction and iron deficiency: the FAIR-HFpEF trial.
+Study Title: Effect of Exercise Versus Metformin among Nigerians with Prediabetes: A Randomised Controlled Trial.
 
 Study Summary:
-Evidence is lacking that correcting iron deficiency (ID) has clinically important benefits for patients with heart failure with preserved ejection fraction (HFpEF). FAIR-HFpEF was a multicentre, randomized, double-blind trial designed to compare intravenous ferric carboxymaltose (FCM) with placebo (saline) in 200 patients with symptomatic HFpEF and ID (serum ferritin < 100 ng/mL or ferritin 100-299 ng/mL with transferrin saturation < 20%). The primary endpoint was change in 6-min walking test distance (6MWTD) from baseline to week 24. Secondary endpoints included changes in New York Heart Association class, patient global assessment, and health-related quality of life (QoL). The trial was stopped because of slow recruitment after 39 patients had been included (median age 80 years, 62% women). The change in 6MWTD from baseline to week 24 was greater for those assigned to FCM compared to placebo [least square mean difference 49 m, 95% confidence interval (CI) 5-93; P = .029]. Changes in secondary endpoints were not significantly different between groups. The total number of adverse events (76 vs. 114) and serious adverse events (5 vs. 19; rate ratio 0.27, 95% CI 0.07-0.96; P = .043) was lower with FCM than placebo. In patients with HFpEF and markers of ID, intravenous FCM improved 6MWTD and was associated with fewer serious adverse events. However, the trial lacked sufficient power to identify or refute effects on symptoms or QoL. The potential benefits of intravenous iron in HFpEF with ID should be investigated further in a larger cohort.
+Prediabetes is an important risk factor for the development of type 2 diabetes and is common in Nigeria. Prediabetes often progresses to type 2 diabetes but effective intervention can reverse the carbohydrate intolerance associated with the condition. No studies have been reported among Nigerians on the natural outcome or effect of intervention in prediabetes. To determine and compare the effect of moderate exercise and metformin on glucose tolerance among the participants with prediabetes. Using a randomized placebo-controlled design, 54 Nigerians with prediabetes were selected using simple random sampling. They were offered treatment with metformin, moderate exercise, or placebo and followed up for 12 weeks. Plasma glucose levels were assessed before and after the interventions and the outcome was compared. Forty-nine participants with prediabetes completed the study. Compared to placebo the exercise group had a significant decrease in glycaemic level from the baseline, FPG=5.1mmol/L (6.4% reduction) and 2HPGL=7.6mm/L (20.5% reduction) p-value<0.05. The metformin group also had a significant decrease in glycaemic level from the baseline, FPG=5.1mmol/L (13.3% reduction) and 2HPGL=7.9mmol/L (12.4% reduction) p-value<0.05. Diabetes risk reduction for exercise and metformin interventions were 50% and 40%respectively. Among Nigerians with prediabetes, moderate exercise, and metformin interventions have significantly higher efficacy than placebo in improving glucose tolerance. However, moderate exercise and metformin have comparable efficacy in improving glucose tolerance and diabetes risk reduction. Participants in this study need to be followed up for a longer period to assess the long-term effects of these interventions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/eurheartj/ehae479
+
 
 2. Keywords
-- Exercise capacity
-- Heart failure
-- Iron deficiency
-- Preserved ejection fraction
+- Exercise
+- Metformin
+- Nigerians
+- Prediabetes
+- Type 2 diabetes mellitus
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Exercise capacity assessment methods and outcomes
-- Heart failure assessment methods and outcomes
-- Iron deficiency assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- Metformin assessment methods and outcomes
+- Nigerians assessment methods and outcomes

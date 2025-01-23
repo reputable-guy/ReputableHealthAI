@@ -1,26 +1,20 @@
-Study Title: Pandemic Planning, Response, and Recovery for Pediatricians: A Focus on Health Equity and Social Determinants of Health.
+Study Title: Effect of Remimazolam on Emergence Delirium in Children Undergoing Laparoscopic Surgery: A Double-blinded Randomized Trial.
 
 Study Summary:
-This article summarizes how pediatricians may be uniquely positioned to mitigate the long-term trajectory of COVID-19 on the health and wellness of pediatric patients especially with regard to screening for social determinants of health that are recognized drivers of disparate health outcomes. Health inequities, that is, disproportionately deleterious health outcomes that affect marginalized populations, have been a major source of vulnerability in past public health emergencies and natural disasters. Recommendations are provided for pediatricians to collaborate with disaster planning networks and lead strategies for public health communication and community engagement in pediatric pandemic and disaster planning, response, and recovery efforts.
+Preventing emergence delirium is a clinical goal for pediatric anesthesia, yet there is no consensus on its prevention. This study investigated the hypothesis that a continuous infusion or a single bolus of remimazolam can reduce the incidence of emergence delirium in children. A total of 120 children aged 1 to 6 yr were randomly and equally allocated into three groups: group RC, which received a continuous infusion of remimazolam at 1&#x2009;mg &#xb7; kg-1 &#xb7; h-1; group RB, which received a single bolus of remimazolam at 0.2&#x2009;mg &#xb7; kg-1 at the beginning of wound closure; and group C, which received a continuous infusion of saline at 1&#x2009;ml &#xb7; kg-1 &#xb7; h-1 and a single bolus of saline at 0.2&#x2009;ml &#xb7; kg-1 at the beginning of sutures. The primary outcome was the incidence of emergence delirium assessed by the Pediatric Anesthesia Emergence Delirium scale. Secondary outcomes included the number of rescue propofol administrations in the postanesthesia care unit, recovery time, and adverse events. Emergence delirium was observed in 14 of 40 (35%) patients in group C, 2 of 40 (5%) patients in group RC (vs. group C, P = 0.001; risk ratio, 95% CI: 0.14, 0.04 to 0.59), and 3 of 39 (7.7%) patients in group RB (vs. group C, P = 0.003; risk ratio, 95% CI: 0.22, 0.07 to 0.71). Ten of 40 patients in group C, 2 of 40 patients in group RC (vs. group C, P = 0.012; risk ratio, 95% CI: 0.20, 0.05 to 0.86), and 2 of 39 patients in group RB (vs. group C, P = 0.014; risk ratio, 95% CI: 0.21, 0.05 to 0.88) needed rescue propofol. No differences in the recovery time and adverse effects were detected. Both continuous infusion and single bolus administration of remimazolam can effectively reduce the occurrence of emergence delirium in children.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.pcl.2024.02.001
+- DOI: 10.1097/ALN.0000000000005077
 
 2. Keywords
-- Disaster preparedness
-- Health equity
-- Pandemic preparedness
-- Pediatric readiness
-- Social determinants of health
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Disaster preparedness assessment methods and outcomes
-- Health equity assessment methods and outcomes
-- Pandemic preparedness assessment methods and outcomes
+- General research methodology and outcomes

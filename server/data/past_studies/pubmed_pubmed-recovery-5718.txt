@@ -1,20 +1,26 @@
-Study Title: Impact of Topical 0.05% Cyclosporine A Eye Drops on Post-Femtosecond-Assisted Laser In Situ Keratomileusis Ocular Surface Recovery: A Randomized Clinical Trial.
+Study Title: Fasting horses perioperatively decreases manure production and increases time to manure output postoperatively: a controlled randomized trial.
 
 Study Summary:
-To investigate the effect of topical 0.05% cyclosporine A (CsA) eye drops as an adjunct to conventional therapy in maintaining post-femtosecond-assisted laser in situ keratomileusis (FS-LASIK) ocular surface stability. Sixty-six patients (eyes) undergoing FS-LASIK were randomized into 2 groups: 33 patients (eyes) in group I (conventional treatment group) and 33 patients (eyes) in group II (CsA group). Conventional treatments include topical levofloxacin, fluorometholone, and artificial tears. Group II received topical 0.05% CsA eye drops twice daily for three months in addition to conventional treatment. Ocular Surface Disease Index (OSDI), numerical rating scale (NRS), tear break-up time (TBUT), Schirmer I test (SIt), corneal fluorescein staining (CFS), conjunctival lissamine green (LG) staining, corneal sensitivity, and corneal nerve morphology were measured. In addition, tear inflammatory cytokine levels were measured using the Luminex assay. Follow-up was performed preoperatively and 1 and 3 months postoperatively. In the CsA group, OSDI, TBUT, LG, corneal sensitivity, and corneal nerve fiber total branch density recovered better than in the conventional treatment group. As for tear inflammatory cytokines, interferon (INF) -&#x3b3;, interleukin (IL)-10, and IL-6 levels were significantly higher in the conventional treatment group as compared with the CsA group. In addition, no significant differences in NRS, SIt, and CFS scores were observed between the two groups. In conclusion, 0.05% CsA eye drops is a useful adjunct to conventional treatment for restoring the ocular surface stability after corneal refractive surgery and is more potent in sustaining anti-inflammatory effects.
+To compare 3 perioperative feeding regimens and their effect on anesthetic complications, manure output, and colic proportion in healthy horses. 45 horses presenting for elective orthopedic procedures were randomly assigned to 1 of 3 groups: not fasted (NF; continuous access to hay perioperatively), fasted muzzled (FM; 10-hour preoperative fast with slow refeeding postoperatively and muzzle placement), or fasted not muzzled (FNM; same as FM without muzzle placement). Anesthetic protocol was standardized. Outcomes compared between groups included anesthesia time, arterial oxygenation, duration of hypotension, perioperative manure output, time to first passage of manure postoperatively, pain scores, and colic proportion. Comparisons were made with a mixed model and Fisher exact test with statistical significance considered at P &#x2264; .05. No differences were seen in pain scores, oxygenation, hypotension, or colic between groups. Groups FM and FNM had a significantly greater mean reduction in postoperative manure weight (-81% and -70%; P = .003) and number of manure piles (-63% and -55%; P = .005) compared to group NF (-39% and -22%; P < .001; weight and piles, respectively). Mean &#xb1; SD minutes to passage of manure postoperatively was significantly shorter in group NF (238 &#xb1; 13 minutes) than groups FM (502 &#xb1; 174 minutes; P < .001) and FNM (444 &#xb1; 171 minutes; P = .003). Horses with continuous access to hay prior to and following recovery from anesthesia passed more manure and passed manure sooner after surgery than their fasted counterparts without detrimental effect on anesthetic parameters and postoperative complications. Continuous access to hay perioperatively supports manure production in healthy horses without increase in anesthetic complications.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/ICL.0000000000001103
+- DOI: 10.2460/javma.24.04.0235
 
 2. Keywords
-
+- anesthesia
+- fasting
+- horse
+- manure output
+- postoperative colic
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- anesthesia assessment methods and outcomes
+- fasting assessment methods and outcomes
+- horse assessment methods and outcomes

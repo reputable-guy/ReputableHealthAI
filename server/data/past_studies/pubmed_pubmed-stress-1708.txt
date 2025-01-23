@@ -1,31 +1,24 @@
-Study Title: A Chatbot-Delivered Stress Management Coaching for Students (MISHA App): Pilot Randomized Controlled Trial.
+Study Title: A Randomized Clinical Trial of a Quitline Vaping Cessation Intervention: Baseline Characteristics of Young Adult Exclusive E-Cigarette Users Seeking Treatment.
 
 Study Summary:
-Globally, students face increasing mental health challenges, including elevated stress levels and declining well-being, leading to academic performance issues and mental health disorders. However, due to stigma and symptom underestimation, students rarely seek effective stress management solutions. Conversational agents in the health sector have shown promise in reducing stress, depression, and anxiety. Nevertheless, research on their effectiveness for students with stress remains limited. This study aims to develop a conversational agent-delivered stress management coaching intervention for students called MISHA and to evaluate its effectiveness, engagement, and acceptance. In an unblinded randomized controlled trial, Swiss students experiencing stress were recruited on the web. Using a 1:1 randomization ratio, participants (N=140) were allocated to either the intervention or waitlist control group. Treatment effectiveness on changes in the primary outcome, that is, perceived stress, and secondary outcomes, including depression, anxiety, psychosomatic symptoms, and active coping, were self-assessed and evaluated using ANOVA for repeated measure and general estimating equations. The per-protocol analysis revealed evidence for improvement of stress, depression, and somatic symptoms with medium effect sizes (Cohen d=-0.36 to Cohen d=-0.60), while anxiety and active coping did not change (Cohen d=-0.29 and Cohen d=0.13). In the intention-to-treat analysis, similar results were found, indicating reduced stress (&#x3b2; estimate=-0.13, 95% CI -0.20 to -0.05; P<.001), depressive symptoms (&#x3b2; estimate=-0.23, 95% CI -0.38 to -0.08; P=.003), and psychosomatic symptoms (&#x3b2; estimate=-0.16, 95% CI -0.27 to -0.06; P=.003), while anxiety and active coping did not change. Overall, 60% (42/70) of the participants in the intervention group completed the coaching by completing the postintervention survey. They particularly appreciated the quality, quantity, credibility, and visual representation of information. While individual customization was rated the lowest, the target group fitting was perceived as high. Findings indicate that MISHA is feasible, acceptable, and effective in reducing perceived stress among students in Switzerland. Future research is needed with different populations, for example, in students with high stress levels or compared to active controls. German Clinical Trials Register DRKS 00030004; https://drks.de/search/en/trial/DRKS00030004.
+Despite interest in quitting vaping among young adults (YAs), little is known about characteristics of e-cigarette (EC) users seeking treatment. In this study, YAs aged 18-24 living in the United States interested in vaping cessation treatment were recruited to complete an online survey regarding demographics and EC use. Primary eligibility criteria were EC use on at least 20 days per month (no other tobacco use), and interest in quitting in the next month. We report descriptive statistics for those who did and did not complete a mandatory coaching call (= 981). In this sample, most EC users reported high nicotine dependence, a history of unsuccessful quit attempts (including 29.4% with previous NRT use), along with stress, anxiety, and depression. There were few meaningful differences in demographics, EC use behaviors, or behavioral health factors between those who engaged with a phone coaching call (fully enrolled in study;= 508), and those who did not (= 473). YAs demonstrated interest in vaping cessation support, but there were no clear characteristics for the half who did not complete a coaching call. Vaping cessation program designers should consider tailoring for the self-reported behavioral health concerns present in this population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/54945
+- DOI: 10.3390/ijerph21060809
 
 2. Keywords
-- behavior change
-- coaching
-- conversational agent
-- lifestyle
-- mHealth
-- mobile health
-- mobile phone
-- smartphone
-- stress management
+- e-cigarettes
+- vaping cessation
+- young adult
 
 3. Key Findings
-- The per-protocol analysis revealed evidence for improvement of stress, depression, and somatic symptoms with medium effect sizes (Cohen d=-0
-- In the intention-to-treat analysis, similar results were found, indicating reduced stress (&#x3b2; estimate=-0
+- YAs demonstrated interest in vaping cessation support, but there were no clear characteristics for the half who did not complete a coaching call
 
 This study provides insights into:
-- behavior change assessment methods and outcomes
-- coaching assessment methods and outcomes
-- conversational agent assessment methods and outcomes
+- e-cigarettes assessment methods and outcomes
+- vaping cessation assessment methods and outcomes
+- young adult assessment methods and outcomes

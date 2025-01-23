@@ -1,26 +1,32 @@
-Study Title: Nurse-delivered sleep restriction therapy in primary care for adults with insomnia disorder: a mixed-methods process evaluation.
+Study Title: A mobile healthy lifestyle intervention to promote mental health in adolescence: a mixed-methods evaluation.
 
 Study Summary:
-Sleep restriction therapy (SRT) is a behavioural therapy for insomnia. To conduct a process evaluation of a randomised controlled trial comparing SRT delivered by primary care nurses plus a sleep hygiene booklet with the sleep hygiene booklet only for adults with insomnia disorder. A mixed-methods process evaluation in a general practice setting. Semi-structured interviews were conducted in a purposive sample of patients receiving SRT, the practice nurses who delivered the therapy, and also GPs or practice managers at the participating practices. Qualitative data were explored using framework analysis, and integrated with nurse comments and quantitative data, including baseline Insomnia Severity Index score and serial sleep efficiency outcomes to investigate the relationships between these. In total, 16 patients, 13 nurses, six practice managers, and one GP were interviewed. Patients had no previous experience of behavioural therapy, needed flexible appointment times, and preferred face-to-face consultations; nurses felt prepared to deliver SRT, accommodating patient concerns, tailoring therapy, and negotiating sleep timings despite treatment complexity and delays between training and intervention delivery. How the intervention produced change was explored, including patient and nurse interactions and patient responses to SRT. Difficulties maintaining SRT, negative attitudes towards treatment, and low self-efficacy were highlighted. Contextual factors, including freeing GP time, time constraints, and conflicting priorities for nurses, with suggestions for alternative delivery options, were raised. Participants who found SRT a positive process showed improvements in sleep efficiency, whereas those who struggled did not. SRT was successfully delivered by practice nurses and was generally well received by patients, despite some difficulties delivering and applying the intervention in practice.
+A healthy lifestyle may improve mental health. It is yet not known whether and how a mobile intervention can be of help in achieving this in adolescents. This study investigated the effectiveness and perceived underlying mechanisms of the mobile health (mHealth) intervention #LIFEGOALS to promote healthy lifestyles and mental health. #LIFEGOALS is an evidence-based app with activity tracker, including self-regulation techniques, gamification elements, a support chatbot, and health narrative videos. A quasi-randomized controlled trial (N&#x2009;=&#x2009;279) with 12-week intervention period and process evaluation interviews (n&#x2009;=&#x2009;13) took place during the COVID-19 pandemic. Adolescents (12-15y) from the general population were allocated at school-level to the intervention (n&#x2009;=&#x2009;184) or to a no-intervention group (n&#x2009;=&#x2009;95). Health-related quality of life (HRQoL), psychological well-being, mood, self-perception, peer support, resilience, depressed feelings, sleep quality and breakfast frequency were assessed via a web-based survey; physical activity, sedentary time, and sleep routine via Axivity accelerometers. Multilevel generalized linear models were fitted to investigate intervention effects and moderation by pandemic-related measures. Interviews were coded using thematic analysis. Non-usage attrition was high: 18% of the participants in the intervention group never used the app. An additional 30% stopped usage by the second week. Beneficial intervention effects were found for physical activity (&#x3c7;&#x2009;=&#x2009;4.36, P&#x2009;=&#x2009;.04), sedentary behavior (&#x3c7;&#x2009;=&#x2009;6.44, P&#x2009;=&#x2009;.01), sleep quality (&#x3c7;&#x2009;=&#x2009;6.11, P&#x2009;=&#x2009;.01), and mood (&#x3c7;&#x2009;=&#x2009;2.30, P&#x2009;=&#x2009;.02). However, effects on activity-related behavior were only present for adolescents having normal sports access, and effects on mood only for adolescents with full in-school education. HRQoL (&#x3c7;&#x2009;=&#x2009;14.72, P&#x2009;<&#x2009;.001), mood (&#x3c7;&#x2009;=&#x2009;6.03, P&#x2009;=&#x2009;.01), and peer support (&#x3c7;&#x2009;=&#x2009;13.69, P&#x2009;<&#x2009;.001) worsened in adolescents with pandemic-induced remote-education. Interviewees reported that the reward system, self-regulation guidance, and increased health awareness had contributed to their behavior change. They also pointed to the importance of social factors, quality of technology and autonomy for mHealth effectiveness. #LIFEGOALS showed mixed results on health behaviors and mental health. The findings highlight the role of contextual factors for mHealth promotion in adolescence, and provide suggestions to optimize support by a chatbot and narrative episodes. ClinicalTrials.gov [NCT04719858], registered on 22/01/2021.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3399/BJGP.2023.0162
+- DOI: 10.1186/s12889-023-17260-9
 
 2. Keywords
-- cognitive behavior therapy
-- general practice
-- insomnia disorder
-- nursing primary care
-- programme evaluation
+- Adolescents
+- Conversational agents
+- Digital behavior change interventions
+- Healthy lifestyles
+- Mental health promotion
+- Mobile health applications
+- Narrative persuasion
+- Participatory development
+- Self-regulation techniques
+- Universal prevention
 
 3. Key Findings
-- Participants who found SRT a positive process showed improvements in sleep efficiency, whereas those who struggled did not
+- Beneficial intervention effects were found for physical activity (&#x3c7;&#x2009;=&#x2009;4
+- #LIFEGOALS showed mixed results on health behaviors and mental health
 
 This study provides insights into:
-- cognitive behavior therapy assessment methods and outcomes
-- general practice assessment methods and outcomes
-- insomnia disorder assessment methods and outcomes
+- Adolescents assessment methods and outcomes
+- Conversational agents assessment methods and outcomes
+- Digital behavior change interventions assessment methods and outcomes

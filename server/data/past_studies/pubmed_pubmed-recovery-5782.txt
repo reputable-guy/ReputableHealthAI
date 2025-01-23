@@ -1,25 +1,20 @@
-Study Title: Effect of Continuous Infusion of Different Doses of Esketamine on the Bispectral Index During Sevoflurane Anesthesia: A Randomized Controlled Trial.
+Study Title: Olgotrelvir as a Single-Agent Treatment of Nonhospitalized Patients with Covid-19.
 
 Study Summary:
-To investigate and quantify the effect of continuous esketamine infusion at different doses on the bispectral index (BIS) during sevoflurane anesthesia. A total of 120 patients scheduled for elective laparoscopic renal surgery were randomly divided into three groups. Under steady anesthesia and surgical situations, the patient was started on continuous infusion of the study drug: 0.125 mg/kg/h esketamine (group E1), 0.25 mg/kg/h esketamine (group E2), and the same volume of saline (group C). The primary outcome was changes in BIS value after 15 min (T), 30 min (T), 45 min (T), and 60 min (T) of drug infusion. The secondary outcomes were 95% spectral edge frequency (SEF95), electromyogram (EMG), heart rate (HR), and mean arterial pressure (MAP) from Tto T. Furthermore, postoperative pain, postoperative recovery, and perioperative adverse events were evaluated. Compared with group C, group E1 exhibited significant BIS elevation at T-Tand group E2 at T-T(< 0.001). Compared with group E1, group E2 showed a more significant BIS elevation at T-T(< 0.001). The area under the curve (AUC) of BIS and SEF95 were significantly higher in group E2 than in groups C and E1 (< 0.05). BIS value for any of the three groups was significantly correlated with SEF95 (< 0.001). No significant differences were observed in the AUC of EMG, HR, and MAP among the three groups. Intraoperative remifentanil consumption and postoperative NRS of pain on movement were significantly reduced in group E2 compared with groups C and E1 (< 0.05). Continuous infusion of both 0.125 and 0.25 mg/kg/h of esketamine increased the BIS value during sevoflurane anesthesia, and the BIS value gradually stabilized with the prolongation of the infusion time.
+Olgotrelvir is an oral antiviral with dual mechanisms of action targeting severe acute respiratory syndrome coronavirus 2 main protease (i.e., M) and human cathepsin L. It has potential to serve as a single-agent treatment of coronavirus disease 2019 (Covid-19). We conducted a phase 3, double-blind, randomized, placebo-controlled trial to evaluate the efficacy and safety of olgotrelvir in 1212 nonhospitalized adult participants with mild to moderate Covid-19, irrespective of risk factors, who were randomly assigned to receive orally either 600&#x2009;mg of olgotrelvir or placebo twice daily for 5 days. The primary and key secondary end points were time to sustained recovery of a panel of 11 Covid-19-related symptoms and the viral ribonucleic acid (RNA) load. The safety end point was incidence of treatment-emergent adverse events. The baseline characteristics of 1212 participants were similar in the two groups. In the modified intention-to-treat population (567 patients in the placebo group and 558 in the olgotrelvir group), the median time to symptom recovery was 205 hours in the olgotrelvir group versus 264 hours in the placebo group (hazard ratio, 1.29; 95% confidence interval [CI], 1.13 to 1.46; P<0.001). The least squares mean (95% CI) changes of viral RNA load from baseline were -2.20 (-2.59 to -1.81) logcopies/ml in olgotrelvir-treated participants and -1.40 (-1.79 to -1.01) in participants receiving placebo at day 4. Skin rash (3.3%) and nausea (1.5%) were more frequent in the olgotrelvir group than in the placebo group; there were no treatment-related serious adverse events, and no deaths were reported. Olgotrelvir as a single-agent treatment significantly improved symptom recovery. Adverse effects were not dose limiting. (Funded by Sorrento Therapeutics, a parent company of ACEA Therapeutics; ClinicalTrials.gov number, NCT05716425.).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/DDDT.S457625
+- DOI: 10.1056/EVIDoa2400026
 
 2. Keywords
-- 95% spectral edge frequency
-- bispectral index
-- esketamine
-- sevoflurane
+
 
 3. Key Findings
-- Compared with group E1, group E2 showed a more significant BIS elevation at T-T(< 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- 95% spectral edge frequency assessment methods and outcomes
-- bispectral index assessment methods and outcomes
-- esketamine assessment methods and outcomes
+- General research methodology and outcomes

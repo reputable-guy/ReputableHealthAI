@@ -1,31 +1,29 @@
-Study Title: Effects of a Ketogenic Diet on Body Composition in Healthy, Young, Normal-Weight Women: A Randomized Controlled Feeding Trial.
+Study Title: Preoperative Crohn's Disease Exclusion Diet and Exclusive Enteral Nutrition in Adults with Crohn's Disease: A Feasibility Randomised Controlled Trial.
 
 Study Summary:
-This study investigates the effects of a ketogenic low-carbohydrate high-fat (LCHF) diet on body composition in healthy, young, normal-weight women. With the increasing interest in ketogenic diets for their various health benefits, this research aims to understand their impact on body composition, focusing on women who are often underrepresented in such studies. Conducting a randomized controlled feeding trial with a crossover design, this study compares a ketogenic LCHF diet to a Swedish National Food Agency (NFA)-recommended control diet over four weeks. Seventeen healthy, young, normal-weight women adhered strictly to the provided diets, with ketosis confirmed through blood &#x3b2;-hydroxybutyrate concentrations. Dual-energy X-ray absorptiometry (DXA) was utilized for precise body composition measurements. To avoid bias, all statistical analyses were performed blind. The findings reveal that the ketogenic LCHF diet led to a significant reduction in both lean mass (-1.45 kg 95% CI: [-1.90;-1.00];< 0.001) and fat mass (-0.66 kg 95% CI: [-1.00;-0.32];< 0.001) compared to the control diet, despite similar energy intake and physical activity levels. This study concludes that while the ketogenic LCHF diet is effective for weight loss, it disproportionately reduces lean mass over fat mass, suggesting the need for concurrent strength training to mitigate muscle loss in women following this diet.
+Preoperative exclusive enteral nutrition (EEN) improves nutritional status, reduces intestinal inflammation, and likely improves surgical outcomes. Crohn's disease exclusion diet with partial enteral nutrition (CDED) also reduces intestinal inflammation but its safety preoperatively is unknown. This single-blinded, multicentre, randomised controlled trial of three preoperative nutritional therapies aimed to assess the feasibility of recruiting and retaining patients and collecting primary and secondary effectiveness outcomes. Adults undergoing elective Crohn's disease surgery with a body mass index (BMI) > 18.5 kg/mand without significant weight loss were eligible to participate. Patients were randomly assigned to six weeks of preoperative EEN, CDED, or standard care. Feasibility, nutritional, radiological, and surgical outcomes were recorded. Over 18 months, 48 patients were screened, 17 (35%) were randomised, and 13/17 (76%) patients were retained in the intervention phase. It was feasible to collect primary and secondary effectiveness data; at day 30, three patients had Clavien Dindo Grade 2 complications, and 10 had no complications. Nutritional therapy adherence of patients retained in the study was high. Recruitment and retention of patients who need elective Crohn's disease surgery for preoperative nutritional therapy is possible, although a shorter duration may improve EEN completion. The impact on surgical outcomes should be assessed in a larger study.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16132030
+- DOI: 10.3390/nu16132105
 
 2. Keywords
-- DEXA
-- carbohydrate restriction
-- fat-free mass (FFM)
-- female
-- high-fat diet (HFD)
-- low-carbohydrate diet (LCD)
-- metabolism
-- saturated fatty acids
-- sports nutrition
-- weight reduction
+- Crohn&#x2019;s disease
+- Crohn&#x2019;s disease exclusion diet
+- exclusive enteral nutrition
+- nutritional optimization
+- oral nutrition supplements
+- preoperative rehabilitation
+- surgery
+- surgical complications
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- DEXA assessment methods and outcomes
-- carbohydrate restriction assessment methods and outcomes
-- fat-free mass (FFM) assessment methods and outcomes
+- Crohn&#x2019;s disease assessment methods and outcomes
+- Crohn&#x2019;s disease exclusion diet assessment methods and outcomes
+- exclusive enteral nutrition assessment methods and outcomes

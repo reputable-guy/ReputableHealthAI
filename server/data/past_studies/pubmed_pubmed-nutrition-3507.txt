@@ -1,27 +1,28 @@
-Study Title: Efficacy of ready-to-use food supplement for treatment of moderate acute malnutrition among children aged 6 to 59 months.
+Study Title: An Artificial Neural Network Model Combined with Dietary Retinol Intake from Different Sources to Predict the Risk of Nonalcoholic Fatty Liver Disease.
 
 Study Summary:
-Moderate acute malnutrition (MAM) is a persistent public health problem in Tanzania. The current approach for its management is nutrition counselling. However, there has been no commercial production of ready-to-use supplementary foods for the management of MAM in the country but rather imported from companies outside the country. The objective of the study was to determine the ability of a ready-to-use food supplementation versus corn soya blend (CSB+) to manage MAM. The randomised controlled trial employed three parallel arm approach. The first arm received CSB+ and infant and young child feeding (IYCF) counselling, the second arm received ready-to-use food (RUF) and IYCF counselling and the third arm, a control group, received IYCF as standard care for three consecutive months. Results indicated that the overall proportion of children who recovered from MAM was 65.6%. There was a significant difference (p&#x2009;<&#x2009;0.001) in the proportion of children who recovered from MAM between the three arms (CSB+, RUF and standard care). Results revealed further a high recovery rate of 83.7% in the RUF arm, followed by 71.9% in the CSB+ arm and 41% in the standard care arm. The risk differences for RUF compared with CSB+ and standard care were 11.8% and 42.7%, respectively. RUFs can be used as an alternative supplement to conventional CSB+ for the management of MAM in children and, thus, has the potential to scale up its use to address the problem of MAM among 6 to 59 months'&#xa0;children.
+This study aimed to develop an artificial neural network (ANN) model combined with dietary retinol intake from different sources to predict the risk of non-alcoholic fatty liver disease (NAFLD) in American adults. Data from the 2007 to 2014 National Health and Nutrition Examination Survey (NHANES) 2007-2014 were analyzed. Eligible subjects (= 6,613) were randomly divided into a training set (= 4,609) and a validation set (= 2,004) at a ratio of 7:3. The training set was used to identify predictors of NAFLD risk using logistic regression analysis. An ANN was established to predict the NAFLD risk using a training set. Receiver operating characteristic (ROC) curve analysis was performed to evaluate the accuracy of the model using the training and validation sets. Our study found that the odds ratios (s) and 95% confidence intervals (s) of NAFLD for the highest quartile of plant-derived dietary retinol intake (i.e., provitamin A carotenoids, such as-carotene) (= 0.75, 95%: 0.57 to 0.99) were inversely associated with NAFLD risk, compared to the lowest quartile of intake, after adjusting for potential confounders. The areas under the ROC curves were 0.874 and 0.883 for the training and validation sets, respectively. NAFLD occurs when its incidence probability is greater than 0.388. The ANN model combined with plant-derived dietary retinol intake showed a significant effect on NAFLD. This could be applied to predict NAFLD risk in the American adult population when government departments formulate future health plans.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/mcn.13602
+- DOI: 10.3967/bes2023.120
 
 2. Keywords
-- RUF
-- children aged 6 to 59 months
-- food supplement
-- moderate acute malnutrition
-- undernutrition
+- ANN
+- NAFLD
+- NHANES
+- Plant-derived dietary retinol intake
+- Prediction model
 
 3. Key Findings
-- Results indicated that the overall proportion of children who recovered from MAM was 65
-- Results revealed further a high recovery rate of 83
+- Our study found that the odds ratios (s) and 95% confidence intervals (s) of NAFLD for the highest quartile of plant-derived dietary retinol intake (i
+- 99) were inversely associated with NAFLD risk, compared to the lowest quartile of intake, after adjusting for potential confounders
+- The ANN model combined with plant-derived dietary retinol intake showed a significant effect on NAFLD
 
 This study provides insights into:
-- RUF assessment methods and outcomes
-- children aged 6 to 59 months assessment methods and outcomes
-- food supplement assessment methods and outcomes
+- ANN assessment methods and outcomes
+- NAFLD assessment methods and outcomes
+- NHANES assessment methods and outcomes

@@ -1,29 +1,27 @@
-Study Title: Tailored videoconferencing counselling program to support family carers of people living with dementia during the transition to permanent residential care: a pilot and feasibility randomised trial.
+Study Title: Personalized Machine Learning-Based Prediction of Wellbeing and Empathy in Healthcare Professionals.
 
 Study Summary:
-Decisions surrounding the permanent residential care placement of people living with dementia can be stressful and distressing; however, providing access to targeted information and support prior to placement may help carers better cope. This mixed methods study aimed to test the feasibility, acceptability, and potential benefits of providing a tailored, individual counselling program (the Residential Care Transition Module), delivered via videoconferencing, to Australian family carers of a relative with dementia during the transition to permanent residential care. A total of 18 family carers were randomly allocated to receive either the counselling intervention (six sessions delivered over 12 weeks) or a check-in call, delivered by a trained Transition Counsellor. Both groups received help-sheets about residential care, coping with placement, and managing feelings. Carers completed online surveys about stress, guilt, anxiety, depression, grief, and support for caring at baseline and four months post-baseline. Carers were also invited to participate in semi-structured exit interviews, conducted after follow-up surveys were completed. Process data relating to recruitment, retention, intervention dose and delivery were collected via logs. Quantitative data were analysed using descriptive statistics and repeated measures ANOVA. Qualitative data, relating to feasibility, acceptability, and perceived benefits of the program, were analysed using the 'framework' approach developed by the Medical Research Council to inform the process evaluation of complex interventions. Qualitative findings indicated that delivery of the counselling program during the transition period was deemed by participants to be feasible and acceptable. Delivery via videoconferencing was deemed convenient and acceptable, with few technical issues. The skills and knowledge of the Transition Counsellor were perceived to be important mechanisms of impact. Though not statistically significant, promising quantitative findings were identified in terms of reduced carer stress and guilt and improved support for caring. Delivery of a tailored counselling program via videoconferencing to family carers of people living with dementia during the transition to residential care was feasible and acceptable. The program has the potential to improve transitional support to family carers. This study was registered in the Australian New Zealand Clinical Trials Registry: ACTRN12621001462875.
+Healthcare professionals are known to suffer from workplace stress and burnout, which can negatively affect their empathy for patients and quality of care. While existing research has identified factors associated with wellbeing and empathy in healthcare professionals, these efforts are typically focused on the group level, ignoring potentially important individual differences and implications for individualized intervention approaches. In the current study, we implemented N-of-1 personalized machine learning (PML) to predict wellbeing and empathy in healthcare professionals at the individual level, leveraging ecological momentary assessments (EMAs) and smartwatch wearable data. A total of 47 mood and lifestyle feature variables (relating to sleep, diet, exercise, and social connections) were collected daily for up to three months followed by applying eight supervised machine learning (ML) models in a PML pipeline to predict wellbeing and empathy separately. Predictive insight into the model architecture was obtained using Shapley statistics for each of the best-fit personalized models, ranking the importance of each feature for each participant. The best-fit model and top features varied across participants, with anxious mood (13/19) and depressed mood (10/19) being the top predictors in most models. Social connection was a top predictor for wellbeing in 9/12 participants but not for empathy models (1/7). Additionally, empathy and wellbeing were the top predictors of each other in 64% of cases. These findings highlight shared and individual features of wellbeing and empathy in healthcare professionals and suggest that a one-size-fits-all approach to addressing modifiable factors to improve wellbeing and empathy will likely be suboptimal. In the future, such personalized models may serve as actionable insights for healthcare professionals that lead to increased wellness and quality of patient care.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12877-024-04907-4
+- DOI: 10.3390/s24082640
 
 2. Keywords
-- Counselling
-- Dementia
-- Family carers
-- Nursing home
-- Psychosocial support
-- Residential care
-- Transition
-- Videoconferencing
+- EMA
+- N-of-1 model
+- empathy
+- healthcare professionals
+- machine learning
+- wellbeing
 
 3. Key Findings
-- Qualitative findings indicated that delivery of the counselling program during the transition period was deemed by participants to be feasible and acceptable
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Counselling assessment methods and outcomes
-- Dementia assessment methods and outcomes
-- Family carers assessment methods and outcomes
+- EMA assessment methods and outcomes
+- N-of-1 model assessment methods and outcomes
+- empathy assessment methods and outcomes

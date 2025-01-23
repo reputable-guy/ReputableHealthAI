@@ -1,26 +1,27 @@
-Study Title: Perceived family-centered care and post-traumatic stress in parents of infants cared for in the paediatric cardiac intensive care unit.
+Study Title: The impact of soccer-specific psychophysiological stress on inhibition and cognitive flexibility in elite youth players.
 
 Study Summary:
-Family-centred care (FCC), while a core value of paediatric hospitals, has not been well-studied in the paediatric cardiac intensive care unit (PCICU). To describe parents' perceptions of FCC provided by nurses in the PCICU during their infant's recovery from neonatal cardiac surgery and explore associations of perceptions of FCC on parent post-traumatic stress (PTS) 4&#x2009;months post-discharge. Data obtained from a previously conducted randomized clinical trial (RCT) on telehealth home monitoring after neonatal cardiac surgery at three free-standing paediatric hospitals were analysed from a subset of 164 parents who completed the FCC Scale at hospital discharge, which measures a parent's experience of nursing care that embodies core principles of FCC. The RCT intervention was provided after hospital discharge, having no influence on parent's perception of FCC. The intervention also had no effect on PTS. Perceived FCC was lowest for items 'nurses helped me feel welcomed' and 'nurses helped me feel important in my child's care'. Having 12%-19% points lower perception of FCC at hospital discharge was associated with parent experience of six or more PTS symptoms, at least moderate PTS symptom severity, or PTS disorder diagnosis at 4-month follow-up. Every 10% increase in parental perceptions of FCC was associated with less PTS symptoms (&#x3b2;&#x2009;=&#x2009;-0.29, SE&#x2009;=&#x2009;0.12; p&#x2009;=&#x2009;.02) and lower PTS symptom cluster scores of arousal (&#x3b2;&#x2009;=&#x2009;-0.18, SE&#x2009;=&#x2009;0.08; p&#x2009;=&#x2009;.02). Parents who perceived lower FCC during their infants' hospitalization were at increased risk for the development of PTS symptoms, more PTS symptom severity and PTS disorder diagnosis 4-months post-discharge. Nurses have a prominent role to support the implementation of FCC for infants with cardiac defects and their parents. FCC may positively influence overall parent mental health and well-being, reducing the trauma and distress of the PCICU experience.
+While researchers and practitioners attribute an essential role to executive functions (EFs) for soccer performance, the usefulness of respective diagnostics and the predictive value remain unclear. One limitation restricting the translation and relevance of study results to improve actual game performance is the insufficient consideration of competitive conditions. Thus, this study aimed to conduct soccer-specific cognitive diagnostics under a soccer-specific psychophysiological stress condition, mimicing the demands of a competitive game. A total of 92 (M&#xa0;=&#xa0;15.17, SD&#xa0;=&#xa0;1.45) youth elite players performed tests for inhibition (flanker task) or cognitive flexibility (number-letter task) with a soccer-specific motor response (i.e., pass into goals). After a pre-test in a neutral condition, players were randomly assigned to a neutral (moderate soccer-specific exercise) or a stress condition (physical stress and competitive instructions and filming for psychological stress). Objective (i.e., cortisol, heart rate variability) and subjective stress-related measures (i.e., SAM, VAS) were assessed six times throughout experimental procedure. Analyses revealed significant interaction effects between time and condition for all objective and subjective variables indicating a successful experimental stress induction. For cognitive performance, results revealed significant main effects of time, but no significant interaction effects between time and condition. However, descriptive statistics suggested improved performance under stress, with decreased flanker effect and switch costs. Additionally, response time variability in the flanker task significantly decreased in the stress condition. These findings offer insights into individual stress perception and processing under game-related psychophysiological demands, expanding previous research on situational EF alterations that also hold relevance for applied practitioners.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/nicc.13094
+- DOI: 10.1016/j.psychsport.2024.102682
 
 2. Keywords
-- PTSD
-- congenital heart defect
-- family&#x2010;centred nursing
-- intensive care units
-- posttraumatic stress disorder
+- Competitive stress
+- Diagnostics
+- Elite youth athletes
+- Executive functions
+- Talent development
 
 3. Key Findings
-- Findings extraction requires manual review
+- Analyses revealed significant interaction effects between time and condition for all objective and subjective variables indicating a successful experimental stress induction
+- For cognitive performance, results revealed significant main effects of time, but no significant interaction effects between time and condition
 
 This study provides insights into:
-- PTSD assessment methods and outcomes
-- congenital heart defect assessment methods and outcomes
-- family&#x2010;centred nursing assessment methods and outcomes
+- Competitive stress assessment methods and outcomes
+- Diagnostics assessment methods and outcomes
+- Elite youth athletes assessment methods and outcomes

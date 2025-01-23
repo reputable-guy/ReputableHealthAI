@@ -1,26 +1,25 @@
-Study Title: An online behavioral self-help intervention rapidly improves acute insomnia severity and subjective mood during the coronavirus disease-2019 pandemic: a stratified randomized controlled trial.
+Study Title: Low-dose exogenous melatonin plus evening dim light and time in bed scheduling advances circadian phase irrespective of measured or estimated dim light melatonin onset time: preliminary findings.
 
 Study Summary:
-Stressful life events, such as the coronavirus disease-2019 (COVID-19) pandemic, can cause acute insomnia. Cognitive behavioral therapy for acute insomnia is effective but is both time and resource-intensive. This study investigated if an online behavioral self-help intervention, which has been successfully used alongside sleep restriction for acute insomnia, reduced insomnia severity and improved mood in acute insomnia. This study also assessed good sleepers to explore if a "sleep vaccination" approach was feasible. In this online stratified randomized controlled trial, 344 participants (103 good sleepers and 241 participants with DSM-5 acute insomnia) were randomized to receive the intervention/no intervention (good sleepers) or intervention/intervention after 28 days (poor sleepers). Insomnia severity was assessed using the ISI (primary outcome), and anxiety and depression using the GAD-7/PHQ-9 (secondary outcomes) at baseline, 1 week, 1 month, and 3-month follow-up. In people with acute insomnia, relative to baseline, there were significant reductions in ISI (dz = 1.17), GAD-7 (dz = 0.70), and PHQ-9 (dz = 0.60) scores at 1-week follow-up. ISI, GAD-7, and PHQ-9 scores were significantly lower at all follow-up time points, relative to baseline. Subjective diary-derived sleep continuity was unaffected. No beneficial effects on sleep or mood were observed in good sleepers. An online behavioral self-help intervention rapidly reduces acute insomnia severity (within 1 week), and benefits mood in people with acute insomnia. These beneficial effects are maintained up to 3 months later. Although the use of the intervention is feasible in good sleepers, their subjective sleep was unaffected. Testing an early online intervention for the treatment of disturbed sleep during the COVID-19 pandemic; prospectively registered at ISRCTN on 8 April 2020 (identifier: ISRCTN43900695).
+The purpose of the present study was to preliminarily evaluate whether knowing the dim light melatonin onset (DLMO) time is advantageous when treating delayed sleep-wake phase disorder with low-dose melatonin treatment plus behavioral interventions (ie, evening dim light and time in bed scheduling). In this randomized, controlled, double-blind trial, 40 adults with delayed sleep-wake phase disorder were randomly assigned to 4&#x2009;weeks of 0.5&#x2009;mg timed to be administered either 3&#x2009;hours before the DLMO (measured DLMO group, n = 20) or 5&#x2009;hours before sleep-onset time per actigraphy (estimated DLMO group, n = 20), in conjunction with behavioral interventions. The primary outcome was change in the DLMO (measured in-home). Secondary outcomes included sleep parameters per diary and actigraphy (sleep-onset and -offset times and total sleep time), Morningness-Eveningness Questionnaire, Multidimensional Fatigue Inventory, PROMIS-Sleep Disturbance, PROMIS-Sleep Related Impairment, and Pittsburgh Sleep Quality Index. Mixed-effects models tested for group differences in these outcome. After applying the Bonferroni correction for multiple comparisons (significantvalue set at < .004), there were significant main effects for visit on all outcomes except for the Pittsburgh Sleep Quality Index and total sleep time per wrist actigraphy and diary. There were no group-by-visit interactions for any of the outcomes (> .004). Scheduled low-dose melatonin plus behavioral interventions may improve many circadian and sleep parameters regardless of whether melatonin administration is scheduled based on estimated or measured DLMO. A larger-scale trial is needed to confirm these preliminary findings. Registry: ClinicalTrials.gov; Name: The Clinical Utility of Measuring the Circadian Clock in Treatment of Delayed Sleep-Wake Phase Disorder; URL: https://clinicaltrials.gov/study/NCT03715465; Identifier: NCT03715465. Swanson LM, de Sibour T, DuBuc K, et&#xa0;al. Low-dose exogenous melatonin plus evening dim light and time in bed scheduling advances circadian phase irrespective of measured or estimated dim light melatonin onset time: preliminary findings.. 2024;20(7):1131-1140.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/sleep/zsae059
+- DOI: 10.5664/jcsm.11076
 
 2. Keywords
-- COVID-19
-- clinical trials research
-- insomnia
-- online intervention
-- stress
+- circadian rhythms
+- delayed sleep-wake phase disorder
+- dim light melatonin onset
+- melatonin
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 assessment methods and outcomes
-- clinical trials research assessment methods and outcomes
-- insomnia assessment methods and outcomes
+- circadian rhythms assessment methods and outcomes
+- delayed sleep-wake phase disorder assessment methods and outcomes
+- dim light melatonin onset assessment methods and outcomes

@@ -1,20 +1,30 @@
-Study Title: Mobile Mindfulness Intervention for Psychological Distress Among Intensive Care Unit Survivors: A Randomized Clinical Trial.
+Study Title: Effects of a Chatbot-Based Intervention on Stress and Health-Related Parameters in a Stressed Sample: Randomized Controlled Trial.
 
 Study Summary:
-Although psychological distress is common among survivors of critical illness, there are few tailored therapies. To determine the optimal method for delivering a mindfulness intervention via a mobile app for critical illness survivors. This randomized clinical trial used a 2&#x2009;&#xd7;&#x2009;2&#x2009;&#xd7;&#x2009;2 factorial design and was conducted at 3 sites among survivors of critical illness with elevated postdischarge symptoms of depression. The study was conducted between August 2019 and July 2023. Participants were randomized to 1 of 8 different groups as determined by 3 two-level intervention component combinations: intervention introduction method (mobile app vs therapist call), mindfulness meditation dose (once daily vs twice daily), and management of increasing symptoms (mobile app vs therapist call). The primary outcome was the 9-item Patient Health Questionnaire (PHQ-9) depression scale score (range, 0-27) at 1 month. Secondary outcomes included anxiety (7-item Generalized Anxiety Disorder) and posttraumatic stress disorder (Posttraumatic Stress Scale) symptoms at 1 and 3 months, adherence, and feasibility. General linear models were used to compare main effects and interactions of the components among intervention groups. A formal decisional framework was used to determine an optimized intervention version. A total of 247 participants (mean [SD] age, 50.2 [15.4] years; 104 [42.1%] women) were randomized. Twice-daily meditation compared with once-daily meditation was associated with a 1.2 (95% CI, 0.04-2.4)-unit lower mean estimated PHQ-9 score at 1 month and a 1.5 (95% CI, 0.1-2.8)-unit lower estimated mean score at 3 months. The other 2 intervention components had no main effects on the PHQ-9. Across-group adherence was high (217 participants [87.9%] using the intervention at trial conclusion) and retention was strong (191 [77.3%] and 182 [73.7%] at 1 and 3 months, respectively). A mindfulness intervention for survivors of critical illness that included an app-based introduction, twice-daily guided meditation, and app-based management of increasing depression symptoms was optimal considering effects on psychological distress symptoms, adherence, and feasibility. ClinicalTrials.gov Identifier: NCT04038567.
+Stress levels and the prevalence of mental disorders in the general population have been rising in recent years. Chatbot-based interventions represent novel and promising digital approaches to improve health-related parameters. However, there is a lack of research on chatbot-based interventions in the area of mental health. The aim of this study was to investigate the effects of a 3-week chatbot-based intervention guided by the chatbot ELME, specifically with respect to the ability to reduce stress and improve various health-related parameters in a stressed sample. In this multicenter two-armed randomized controlled trial, 118 individuals with medium to high stress levels were randomized to the intervention group (n=59) or the treatment-as-usual control group (n=59). The ELME chatbot guided participants of the intervention group through 3 weeks of training based on the topics stress, mindfulness, and interoception, with practical and psychoeducative elements delivered in two daily interactive intervention sessions via a smartphone (approximately 10-20 minutes each). The primary outcome (perceived stress) and secondary outcomes (mindfulness; interoception or interoceptive sensibility; subjective well-being; and emotion regulation, including the subfacets reappraisal and suppression) were assessed preintervention (T1), post intervention (T2; after 3 weeks), and at follow-up (T3; after 6 weeks). During both conditions, participants also underwent ecological momentary assessments of stress and interoceptive sensibility. There were no significant changes in perceived stress (&#x3b2;=-.018, SE=.329; P=.96) and momentary stress. Mindfulness and the subfacet reappraisal significantly increased in the intervention group over time, whereas there was no change in the subfacet suppression. Well-being and momentary interoceptive sensibility increased in both groups over time. To gain insight into how the intervention can be improved to achieve its full potential for stress reduction, besides a longer intervention duration, specific sample subgroups should be considered. The chatbot-based intervention seems to have the potential to improve mindfulness and emotion regulation in a stressed sample. Future chatbot-based studies and interventions in health care should be designed based on the latest findings on the efficacy of rule-based and artificial intelligence-based chatbots. German Clinical Trials Register DRKS00027560; https://drks.de/search/en/trial/DRKS00027560. RR2-doi.org/10.3389/fdgth.2023.1046202.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1001/jamainternmed.2024.0823
+- DOI: 10.2196/50454
 
 2. Keywords
-
+- RCT
+- chatbot
+- emotion regulation
+- interoception
+- interoceptive sensibility
+- intervention
+- mindfulness
+- randomized controlled trial
+- stress
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- RCT assessment methods and outcomes
+- chatbot assessment methods and outcomes
+- emotion regulation assessment methods and outcomes

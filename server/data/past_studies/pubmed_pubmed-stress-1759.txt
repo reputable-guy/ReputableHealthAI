@@ -1,20 +1,26 @@
-Study Title: Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation.
+Study Title: How we teach mindfulness matters: Adolescent development and the importance of informal mindfulness.
 
 Study Summary:
-Whether proton-pump inhibitors are beneficial or harmful for stress ulcer prophylaxis in critically ill patients undergoing invasive ventilation is unclear. In this international, randomized trial, we assigned critically ill adults who were undergoing invasive ventilation to receive intravenous pantoprazole (at a dose of 40 mg daily) or matching placebo. The primary efficacy outcome was clinically important upper gastrointestinal bleeding in the intensive care unit (ICU) at 90 days, and the primary safety outcome was death from any cause at 90 days. Multiplicity-adjusted secondary outcomes included ventilator-associated pneumonia,infection, and patient-important bleeding. A total of 4821 patients underwent randomization in 68 ICUs. Clinically important upper gastrointestinal bleeding occurred in 25 of 2385 patients (1.0%) receiving pantoprazole and in 84 of 2377 patients (3.5%) receiving placebo (hazard ratio, 0.30; 95% confidence interval [CI], 0.19 to 0.47; P<0.001). At 90 days, death was reported in 696 of 2390 patients (29.1%) in the pantoprazole group and in 734 of 2379 patients (30.9%) in the placebo group (hazard ratio, 0.94; 95% CI, 0.85 to 1.04; P&#x2009;=&#x2009;0.25). Patient-important bleeding was reduced with pantoprazole; all other secondary outcomes were similar in the two groups. Among patients undergoing invasive ventilation, pantoprazole resulted in a significantly lower risk of clinically important upper gastrointestinal bleeding than placebo, with no significant effect on mortality. (Funded by the Canadian Institutes of Health Research and others; REVISE ClinicalTrials.gov number, NCT03374800.).
+Given high levels of adolescent stress and educational institutions' key role in supporting students' mental health, mindfulness instruction is increasingly being implemented in schools. However, there is growing evidence adolescents find traditionally taught formal mindfulness (e.g., structured regular practice like meditation) challenging. Indeed, school-based studies report high levels of student non-compliance and lack of engagement with formal mindfulness strategies. Thus, informal mindfulness practices (e.g., unstructured brief moments integrated within daily routine) may be more accessible and developmentally appropriate for adolescents. Using a randomized experimental school-based design, this study sought to parse out the acceptability and effectiveness of formal and informal mindfulness for adolescents over time. Adolescents (n&#xa0;=&#xa0;142; 73.9% female) were randomly assigned to a 4-week formal mindfulness, informal mindfulness, or comparison group and assessed on mental health, well-being, and educational outcomes. The informal mindfulness group (a) was more likely to report intending to frequently use the strategies (p&#xa0;=&#xa0;.025, Cramer's V&#xa0;=&#xa0;.262) and (b) reported increased dispositional mindfulness (i.e., general tendency to be mindful) from baseline to follow-up (p&#xa0;=&#xa0;.049, &#x3b7;&#xa0;=&#xa0;.034) which in turn mediated benefits on depression (indirect effect&#xa0;=&#xa0;-.15, 95% CI [-.31, -.03]), anxiety (indirect effect&#xa0;=&#xa0;-.21, 95% CI [-.36, -.06]), general stress (indirect effect&#xa0;=&#xa0;-.16, 95% CI [-.32, -.04]), school-related stress (indirect effect&#xa0;=&#xa0;-.15, 95% CI [-.28, -.05]), negative affect (indirect effect&#xa0;=&#xa0;-.17, 95% CI [-.35, -.04]), and attentional control (indirect effect&#xa0;=&#xa0;.07, 95% CI [.01, .13]). Thus, brief informal mindfulness strategies may be easier for students to use on a regular basis than formal mindfulness. Overall, these findings highlight the importance of going beyond a one-size-fits-all approach by offering accessible and engaging school-based mindfulness instruction to students. Recommendations for school psychologists seeking to teach mindfulness to adolescents are discussed, including the need to directly teach how to integrate informal mindfulness strategies in students' lives.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1056/NEJMoa2404245
+- DOI: 10.1016/j.jsp.2024.101323
 
 2. Keywords
-
+- Adolescence
+- Informal mindfulness
+- Mindfulness
+- Secondary schools
+- Student well-being
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Adolescence assessment methods and outcomes
+- Informal mindfulness assessment methods and outcomes
+- Mindfulness assessment methods and outcomes

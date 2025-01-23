@@ -1,27 +1,26 @@
-Study Title: Effectiveness of repetitive transcranial magnetic stimulation combined with intelligent Gait-Adaptability Training in improving lower limb function and brain symmetry after subacute stroke: a preliminary study.
+Study Title: Bilateral ultrasound-guided erector spinae plane block for postoperative analgesia in paediatric idiopathic scoliosis patients undergoing posterior spine fusion surgery: a randomized controlled trial.
 
 Study Summary:
-Persistent lower limb dysfunction is a major challenge in post-stroke recovery. Repetitive transcranial magnetic stimulation is recognized for addressing post-stroke motor deficits. Our study explores the efficacy of combining rTMS with gait-adaptive training to enhance lower limb function and regulatory mechanisms in subacute stroke. This randomized controlled trial enrolled 27 patients with subacute hemiparesis, dividing them into experimental and control groups. Both groups underwent gait-adaptability training 5 times/week for 4 weeks, with the experimental group receiving daily low-frequency transcranial magnetic stimulation before training. Primary outcomes included the pairwise derived brain symmetry index, lower-extremity Fugl-Meyer Assessment, 10-meter walk test, and Berg Balance Scale. Assessments occurred before and after the four-week intervention. The experimental and control groups showed significant improvements in the Fugl-Meyer Assessment, 10-meter walk test, and Berg Balance Scale after the 4-week intervention compared to baseline (all p<0.05). However, the experimental group demonstrated significantly greater improvements compared to the control group in the Fugl-Meyer Assessment (p=0.024) and the 10-meter walk test (p=0.033). Additionally, the experimental group exhibited a more pronounced decrease in the pairwise derived brain symmetry index (p=0.026) compared to the control group. Within the experimental group, the cortical subgroup's pairwise derived brain symmetry index was significantly lower than that of the control group (p=0.006). Combining low-frequency transcranial magnetic stimulation with Gait-Adaptive Training effectively enhances lower limb function and Regulatory mechanisms of the cerebral hemisphere in subacute stroke recovery, and it can provide rapid and effective rehabilitation effect compared with gait adaptation training alone.
+Major spinal surgery causes severe pain. We examined the ability of erector spinae plane block (ESPB) to alleviate pain after posterior spinal fusion (PSF) in paediatric scoliosis patients. Seventy-two patients who underwent PSF were randomized into a preoperative ultrasound-guided ESPB group or a no-block control group. The composite primary outcome was the area under the curve (AUC) of the numerical rating scale (NRS) score in the first 24&#xa0;h after surgery and the number of parent-controlled intravenous analgesia (PCIA) boluses administered 24&#xa0;h after surgery. The secondary outcomes included the NRS score, opioid consumption, rescue analgesia, adverse events, and quality of recovery. The AUC-NRS at rest was 62 (13) in the ESPB group and 89 (13) in the control group (P&#x2009;<&#x2009;0.001). There were 15 (5) 24-h PCIA boluses administered in the ESPB group and 30 (7) in the control group (P&#x2009;<&#x2009;0.001). Compared with those in the control group, the NRS scores at rest were lower in the ESPB group at 0, 3, 6, and 9&#xa0;h postoperatively, and the NRS scores during movement were lower in the ESPB group at 0, 3, 6, 9 and 12&#xa0;h postoperatively. The ESPB group showed a lower need for PCIA than did the control group at 0-6, 6-12, 12-18 and 1-24&#xa0;h postoperatively. In the ESPB group, fewer patients required rescue analgesics, and patients exhibited a higher quality of recovery. Preoperative ESPB improves postoperative analgesia in paediatric scoliosis patients who underwent PSF. ChiCTR2300074505. August 8, 2023.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jstrokecerebrovasdis.2024.107961
+- DOI: 10.1007/s00586-024-08457-6
 
 2. Keywords
-- Brain symmetry
-- Gait adaptation training
-- Lower limb motor function
-- Repetitive transcranial magnetic stimulation
-- Stroke
+- Erector spinae plane block
+- Idiopathic scoliosis
+- Parent-controlled analgesia
+- Posterior spinal fusion
+- Postoperative analgesia
 
 3. Key Findings
-- The experimental and control groups showed significant improvements in the Fugl-Meyer Assessment, 10-meter walk test, and Berg Balance Scale after the 4-week intervention compared to baseline (all p<0
-- However, the experimental group demonstrated significantly greater improvements compared to the control group in the Fugl-Meyer Assessment (p=0
+- The ESPB group showed a lower need for PCIA than did the control group at 0-6, 6-12, 12-18 and 1-24&#xa0;h postoperatively
 
 This study provides insights into:
-- Brain symmetry assessment methods and outcomes
-- Gait adaptation training assessment methods and outcomes
-- Lower limb motor function assessment methods and outcomes
+- Erector spinae plane block assessment methods and outcomes
+- Idiopathic scoliosis assessment methods and outcomes
+- Parent-controlled analgesia assessment methods and outcomes

@@ -1,29 +1,26 @@
-Study Title: The predictive value of mandibular advancement maneuvers during drug-induced sleep endoscopy for treatment success of oral appliance treatment in obstructive sleep apnea: a prospective study.
+Study Title: An online behavioral self-help intervention rapidly improves acute insomnia severity and subjective mood during the coronavirus disease-2019 pandemic: a stratified randomized controlled trial.
 
 Study Summary:
-To prospectively validate drug-induced sleep endoscopy with mandibular advancement maneuvers as a prediction tool for treatment success of oral appliance treatment (OAT). Seventy-seven patients diagnosed with moderate obstructive sleep apnea were included and underwent drug-induced sleep endoscopy. The upper airway collapse was assessed using the VOTE classification. Additionally, three mandibular advancement maneuvers were performed to predict treatment success of OAT. If the maneuver was negative, the level and degree and configuration of the persistent collapse was described according to the VOTE classification. All patients were treated with OAT and completed a follow-up sleep study with OAT in situ without regard to their anticipated response to treatment. Sixty-four patients completed 6-month follow up. A positive jaw thrust maneuver proved to be significantly associated with favorable OAT response, whereas the chin lift maneuver and the vertical chin lift maneuver were not. Additionally, a persistent lateral oropharyngeal collapse when performing any mandibular advancement maneuver was significantly associated with unfavorable OAT response. The current findings suggest that a jaw thrust maneuver should be preferred over the chin lift maneuver for predicting OAT response. Patients with a positive jaw thrust maneuver should be counseled toward favorable OAT response, whereas those with persistent lateral oropharyngeal collapse should be advised about the likelihood of unfavorable OAT response. A negative jaw thrust maneuver did not prove to be a significant predictor for unfavorable response to OAT. Consequently, uncertainties arise regarding the justification of performing drug-induced sleep endoscopy solely for predicting the efficacy of OAT. However, the results of the current study could be influenced by heterogeneity in the assessment of respiratory parameters, variability in the performance of the mandibular advancement maneuvers, and the instability of bolus technique sedation. Registry: Netherlands Trial Register; Name: Drug-induced Sleep Endoscopy: a prediction tool for success rate of oral appliance treatment; Identifier: NL8425; URL: https://www.onderzoekmetmensen.nl/en/trial/20741. Veugen CCAFM, Kant E, Kelder JC, Schipper A, Stokroos RJ, Copper MP. The predictive value of mandibular advancement maneuvers during drug-induced sleep endoscopy for treatment success of oral appliance treatment in obstructive sleep apnea: a prospective study.. 2024;20(3): 353-361.
+Stressful life events, such as the coronavirus disease-2019 (COVID-19) pandemic, can cause acute insomnia. Cognitive behavioral therapy for acute insomnia is effective but is both time and resource-intensive. This study investigated if an online behavioral self-help intervention, which has been successfully used alongside sleep restriction for acute insomnia, reduced insomnia severity and improved mood in acute insomnia. This study also assessed good sleepers to explore if a "sleep vaccination" approach was feasible. In this online stratified randomized controlled trial, 344 participants (103 good sleepers and 241 participants with DSM-5 acute insomnia) were randomized to receive the intervention/no intervention (good sleepers) or intervention/intervention after 28 days (poor sleepers). Insomnia severity was assessed using the ISI (primary outcome), and anxiety and depression using the GAD-7/PHQ-9 (secondary outcomes) at baseline, 1 week, 1 month, and 3-month follow-up. In people with acute insomnia, relative to baseline, there were significant reductions in ISI (dz = 1.17), GAD-7 (dz = 0.70), and PHQ-9 (dz = 0.60) scores at 1-week follow-up. ISI, GAD-7, and PHQ-9 scores were significantly lower at all follow-up time points, relative to baseline. Subjective diary-derived sleep continuity was unaffected. No beneficial effects on sleep or mood were observed in good sleepers. An online behavioral self-help intervention rapidly reduces acute insomnia severity (within 1 week), and benefits mood in people with acute insomnia. These beneficial effects are maintained up to 3 months later. Although the use of the intervention is feasible in good sleepers, their subjective sleep was unaffected. Testing an early online intervention for the treatment of disturbed sleep during the COVID-19 pandemic; prospectively registered at ISRCTN on 8 April 2020 (identifier: ISRCTN43900695).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.5664/jcsm.10866
+- DOI: 10.1093/sleep/zsae059
 
 2. Keywords
-- DISE
-- MAD
-- OAT
-- OSA
-- drug-induced sleep endoscopy
-- mandibular advancement device
-- obstructive sleep apnea
-- oral appliance treatment
+- COVID-19
+- clinical trials research
+- insomnia
+- online intervention
+- stress
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- DISE assessment methods and outcomes
-- MAD assessment methods and outcomes
-- OAT assessment methods and outcomes
+- COVID-19 assessment methods and outcomes
+- clinical trials research assessment methods and outcomes
+- insomnia assessment methods and outcomes

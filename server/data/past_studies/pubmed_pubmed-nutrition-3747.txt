@@ -1,26 +1,28 @@
-Study Title: Longitudinal changes in choline concentration and associated factors in human breast milk.
+Study Title: Development and validation of a prediction model based on machine learning algorithms for predicting the risk of heart failure in middle-aged and older US people with prediabetes or diabetes.
 
 Study Summary:
-Human breast milk is the primary source of choline and choline-containing compounds for infants at early stages of life. Choline data across lactation in Chinese human milk were limited. This study aimed to quantify the five choline compounds in Chinese human breast milk and explore associated factors. A total of 540 lactating mothers from the MUAI (Maternal Nutrition and Infant Investigation) study were included. The content of water-soluble choline (free choline, phosphocholine, glycerophosphocholine) and lipid-soluble choline (phosphatidylcholine, sphingomyelin) in 892 human milk samples collected from 0 to 400 days postpartum were examined, and associated factors were explored. Choline concentrations in human milk varied from postpartum day 0-400 (92.06&#xa0;&#xb1;&#xa0;65.22 to 171.01&#xa0;&#xb1;&#xa0;47.84&#xa0;mg/L). Water-soluble choline was the major component (88.6%-93.8%) in human milk and ranged from 793.03 (659.22) to 1544.43 (443.32) &#x3bc;mol/L. Its trajectory followed that of total choline, increasing from colostrum to transitional milk and then declining in mature milk. In contrast, lipid-soluble choline accounted for 6.2%-11.4% over lactation and had an opposite trajectory. Choline composition varied by delivery mode and parity history. The concentrations of individual choline and choline-containing compounds during lactation in Chinese human breast milk were described for the first time. Our results address gaps in extant Chinese human milk choline data and support tailored dietary reference intakes for Chinese lactating women and infants. Our data describes the level and profile of choline from 0 to 400 days postpartum in Chinese human breast milk. This is the most updated data on choline and also the first report of water-soluble choline as the predominant type in Chinese human milk. Our results compensate for the deficiencies in data on choline in Chinese human milk. Clinical Trial Registry number: ChiCTR1800015387. Web link to study on registry: https://www.chictr.org.cn/index.aspx.
+The purpose of this study was to develop and validate a machine learning (ML) based prediction model for the risk of heart failure (HF) in patients with prediabetes or diabetes. We used 3527 subjects aged 40 years and older with a prior diagnosis of prediabetes or diabetes from the National Health and Nutrition Examination Survey (NHANES) from 2007 to 2018. The search for independent risk variables linked to HF was conducted using univariate and multivariable logistic regression analysis. The 3527 subjects were randomly divided into training set and validation set in a 7:3 ratio. Five ML models were built on the training set using five ML algorithms, including random forest (RF), and then validated on the validation set. Receiver operating characteristic (ROC) curves, calibration curves, and decision curve analysis and Bootstrap resampling method were used to measure the predictive performance of the five ML models. Multivariate logistic regression analysis showed that age, poverty-to-income ratio, myocardial infarction condition, coronary heart disease condition, chest pain condition, and glucose-lowering medication use were independent predictors of HF. By comparing the performance of the five ML models, the RF model (AUC&#x2009;=&#x2009;0.978) was the best prediction model. The risk of HF in middle-aged and elderly patients with prediabetes or diabetes can be accurately predicted using ML models. The best prediction performance is presented by RF model, which can assist doctors in making clinical decisions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.clnu.2023.07.016
+- DOI: 10.1002/clc.24104
 
 2. Keywords
-- Choline
-- Choline trajectory
-- Choline-containing compounds
-- Human breast milk
-- Lactation stages
+- NHANES
+- diabetes
+- heart failure
+- machine learning
+- national health and nutrition survey
+- prediabetes
+- prediction model
 
 3. Key Findings
-- Findings extraction requires manual review
+- Multivariate logistic regression analysis showed that age, poverty-to-income ratio, myocardial infarction condition, coronary heart disease condition, chest pain condition, and glucose-lowering medication use were independent predictors of HF
 
 This study provides insights into:
-- Choline assessment methods and outcomes
-- Choline trajectory assessment methods and outcomes
-- Choline-containing compounds assessment methods and outcomes
+- NHANES assessment methods and outcomes
+- diabetes assessment methods and outcomes
+- heart failure assessment methods and outcomes

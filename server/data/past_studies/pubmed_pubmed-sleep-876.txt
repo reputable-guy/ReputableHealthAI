@@ -1,28 +1,30 @@
-Study Title: Smartphone-delivered multicomponent lifestyle medicine intervention for improving mental health in a nonclinical population: a randomized controlled trial.
+Study Title: Mobile app measuring sleep and behaviors: A trial in adolescents with addiction.
 
 Study Summary:
-To prevent the exacerbation of mental health burdens, a growing body of research has recommended a balanced approach that emphasizes both the delivery of mental health treatments to individuals with common mental disorders (CMDs) and the strengthening of protective factors for CMDs among nonclinical populations. This randomized controlled trial (RCT) evaluated the efficacy of a smartphone-delivered multicomponent lifestyle medicine (LM) intervention, Lifestyle Hub, for improving mental health among a nonclinical population of Chinese adults. A total of 106 participants with Patient Health Questionnaire-9 total score&#x2009;<&#x2009;10 and Generalized Anxiety Disorder 7-Item Scale <8 were randomly assigned to either the Lifestyle Hub intervention group (LH,&#x2009;=&#x2009;53) or the waitlist control group (WL,&#x2009;=&#x2009;53). Lifestyle Hub is an 8-week smartphone-delivered multicomponent LM intervention developed based on the transtheoretical model. The intervention components included lifestyle psychoeducation, physical activity, diet and nutrition, stress management, sleep management, and motivation and goal-setting techniques. Assessments were conducted at baseline, immediate post-intervention, and 1-month follow-up (LH only). The linear mixed effect model based on the intention-to-treat principle indicated that Lifestyle Hub significantly improved overall mental health, depressive symptoms, anxiety symptoms, stress, insomnia severity, overall health-promoting behaviors, dietary quality, and stress management compared to the WL group at immediate post-intervention (&#x2009;=&#x2009;0.13-0.56). No significant between-group differences were observed in terms of functional impairment, health-related quality of life, health responsibility, physical activity level, spiritual growth, and interpersonal relations. The intervention gains in the LH group were maintained at 1-month follow-up. The LH participants indicated that Lifestyle Hub was an acceptable intervention for improving mental health, although a significantly higher level of study attrition was observed in the LH group (20.8%) relative to the WL group (5.7%). Lifestyle Hub may serve as an efficacious and acceptable intervention for improving mental health in nonclinical adult populations. To extend the benefits of LM interventions at the population level, future studies are warranted to examine a stepped-care approach to delivering LM interventions.: This randomized controlled trial was pre-registered with ClinicalTrials.gov (NCT04295369).
+The smartphones generalisation allows the development of attractive "real-life" monitoring tools for care and research enabling the measurement of addictive behaviours and comorbidities such as sleep disorders. The study objective was to assess the interest of a mobile app collecting such information among adolescents with addictive behaviours in order to enhance the availability of behavioural data in consultation. An open label randomised pilot study was held along two parallel arms. The patients randomised to the intervention group (n=18) used a mobile app to provide daily data for 15 days relating to their sleep and their behaviour (addictive behaviours with or without substances). The patients in the control group (n=18) used a paper diary allowing the collection of the same data, only the medium differed. The patients' median age was 16 years [15.0-16.5]. A median of 67% and 10% of the expected information was completed respectively in the intervention and control groups during the 15 days of follow-up and could be used in consultation (P=0.08). The patient's knowledge, attitudes, intentions to change, behaviour change and seeking help related to the use of the diaries appeared higher in the intervention group (20.5/30) than in the control group (11/20). This study described the high patient compliance with the data collection by means of the app. The diary app seems to have been more impactful for patients than the paper diary. This app could represent an important tool to improve the therapeutic alliance and care due to a better knowledge of the behaviours on the part of the clinician but also a better awareness of the patients themselves.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpubh.2023.1231981
+- DOI: 10.1016/j.encep.2023.11.007
 
 2. Keywords
-- lifestyle
-- mental health
-- mood
-- randomized controlled trial
-- self-help
-- smartphone-based intervention
+- Addiction
+- Adolescent
+- Ecological momentary assessment
+- Mobile health
+- Sant&#xe9; mobile
+- Sleep
+- Sommeil
+- addiction
+- &#xc9;valuation &#xe9;cologique momentan&#xe9;e
 
 3. Key Findings
-- The linear mixed effect model based on the intention-to-treat principle indicated that Lifestyle Hub significantly improved overall mental health, depressive symptoms, anxiety symptoms, stress, insomnia severity, overall health-promoting behaviors, dietary quality, and stress management compared to the WL group at immediate post-intervention (&#x2009;=&#x2009;0
-- The LH participants indicated that Lifestyle Hub was an acceptable intervention for improving mental health, although a significantly higher level of study attrition was observed in the LH group (20
+- Findings extraction requires manual review
 
 This study provides insights into:
-- lifestyle assessment methods and outcomes
-- mental health assessment methods and outcomes
-- mood assessment methods and outcomes
+- Addiction assessment methods and outcomes
+- Adolescent assessment methods and outcomes
+- Ecological momentary assessment assessment methods and outcomes

@@ -1,25 +1,26 @@
-Study Title: Postoperative pain, recovery and discharge after robot-assisted laparoscopic prostatectomy: A multicentre, single blinded, randomised controlled trial.
+Study Title: Ultrasound-guided erector spinae plane block versus thoracic epidural block for postoperative analgesia in pediatric Nuss surgery: a randomized noninferiority trial.
 
 Study Summary:
-General anaesthesia is standard of care for patients undergoing robot assisted laparoscopic prostatectomy (RALP). However, postoperative pain and bladder discomfort remains an issue, and optimising pain management could improve recovery and promote earlier home discharge. The main objective of this trial was to evaluate if patients receiving spinal anaesthesia are more frequently home ready at 8 pm on the same day compared with multimodal pain management following RALP under general anaesthesia. This pragmatic, randomised controlled, multicentre trial was performed between January 2019 to December 2021. Patients undergoing RALP under general anaesthesia were randomised to either multimodal analgesia using parecoxib and morphine intra-operatively (Group GM) or spinal anaesthesia with bupivacaine and sufentanil (Group GS). The primary aim, home readiness, was assessed using a post-anaesthesia discharge scoring system. Of 202 patients analysed, 27% patients reached home readiness criteria after 12 h, 46% after 24 h and 79% after 48 h, without differences between the groups. Urge to pass urine was greater in group GM than in group GS (p &#x27e8;0.001) and lasted for a median of two hours in both groups. More patients expressed satisfaction with postoperative care in group GS (p &#x27e8;0.001). No other significant differences were found between the groups. We found no difference in time to home readiness between the groups. Approximately one-fourth of the patients achieved home readiness the same day after surgery without difference between the groups. Fewer patients had urge, and patient satisfaction was greater in group GS.
+Thoracic epidural anesthesia (TEA) is often used for analgesia after thoracic surgery. Erector spinae plane block (ESPB) has been proposed to provide adequate analgesia. We hypothesized that ESPB would be noninferior to TEA as a part of multimodal analgesia in pediatric patients undergoing the Nuss procedure. Patients aged 7-18&#xa0;years and scheduled for the Nuss procedure were randomly allocated to receive bilateral single-shot ESPB or TEA and a multimodal analgesic regimen including parent-controlled intravenous analgesia (PCIA). At 6&#xa0;h, 12&#xa0;h, 18&#xa0;h, and 24&#xa0;h postoperatively, pain was evaluated using the numeric rating scale (NRS) and opioid consumption was assessed by counting the number of PCIA boluses. The joint primary outcomes were the average pain score and opioid consumption at 24&#xa0;h after surgery. The secondary outcomes were the NRS scores and the number of opioid boluses administered at different postoperative time points, adverse events, and recovery quality. Three hundred patients underwent randomization, and 286 received ESPB (147 patients) or TEA (139 patients). At 24&#xa0;h postoperatively, ESPB was noninferior to TEA in terms of the average NRS score (mean difference,&#x2009;-&#x2009;0.1, 95% confidence interval [CI],&#x2009;-&#x2009;0.3-0.1, margin&#x2009;=&#x2009;1, P for noninferiority&#x2009;<&#x2009;0.001) and the number of opioid boluses administered (mean difference,&#x2009;-&#x2009;1.1, 95% CI,&#x2009;-&#x2009;2.8-0.6, margin&#x2009;=&#x2009;7, P for noninferiority&#x2009;<&#x2009;0.001). Adverse events and patient recovery were comparable between groups. The results demonstrate that combined with a multimodal analgesia, ESPB provides noninferior analgesia compared to TEA with respect to pain score and opioid consumption among pediatric patients undergoing the Nuss procedure.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/aas.14465
+- DOI: 10.1007/s00540-024-03354-0
 
 2. Keywords
-- laparoscopic prostatectomy
-- multimodal analgesia
-- spinal anaesthesia
+- Erector spinae plane block
+- Noninferior test
+- Pediatrics
+- Postoperative analgesia
+- The Nuss procedure
 
 3. Key Findings
-- No other significant differences were found between the groups
-- We found no difference in time to home readiness between the groups
+- Findings extraction requires manual review
 
 This study provides insights into:
-- laparoscopic prostatectomy assessment methods and outcomes
-- multimodal analgesia assessment methods and outcomes
-- spinal anaesthesia assessment methods and outcomes
+- Erector spinae plane block assessment methods and outcomes
+- Noninferior test assessment methods and outcomes
+- Pediatrics assessment methods and outcomes

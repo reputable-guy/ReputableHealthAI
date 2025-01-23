@@ -1,26 +1,20 @@
-Study Title: Effectiveness of a randomized intervention by a geriatric team in frail hospital inpatients in non-geriatric settings: FRAILCLINIC project.
+Study Title: Determinants of knowledge, attitude and self-efficacy towards complementary feeding among rural mothers: Baseline data of a cluster-randomized control trial in South West Ethiopia.
 
 Study Summary:
-Little research has been undertaken on the benefits of frailty management within different hospital settings. The objective of this study is to provide evidence on the viability and effectiveness of frailty management in non-geriatric hospital settings on mortality and functional decline after discharge. Data from the FRAILCLINIC (NCT02643069) study were used. FRAILCLINIC is a randomized controlled trial developed in non-geriatric hospital inpatient settings (emergency room, cardiology and surgery) from Spain (2), Italy (2) and the United Kingdom (1). Inpatients must met frailty criteria (according to the Frailty Phenotype and/or FRAIL scale), &#x2265;75&#xa0;years old. The control group (CG) received usual care. The intervention group (IG) received comprehensive geriatric assessment (CGA) and a coordinated intervention consisting in recommendations to the treating physician about polypharmacy, delirium, falls, nutrition and physical exercise plus a discharge plan. The main outcomes included functional decline (worsening &#x2265;5 points in Barthel Index) and mortality at 3&#xa0;months. We used multivariate logistic regression models adjusted by age, gender and the Charlson index. Intention-to-treat (ITT) and per-protocol (PP) analyses were used. Eight hundred twenty one participants (IG: 416; mean age 83.00&#xa0;&#xb1;&#xa0;4.91; 51.44% women; CG: 405; mean age 82.46&#xa0;&#xb1;&#xa0;6.03; 52.35% women) were included. In the IG, 77.16% of the participants followed the geriatric team's recommendations as implemented by the treating physicians. The intervention showed a benefit on functional decline and mortality [OR: 0.67(0.47-0.96), P-value 0.027 and 0.29(0.14-0.57), P-value&#xa0;<&#xa0;0.001, respectively) when fully followed by the treating physician. A trend to benefit (close to statistical significance) in functional decline and mortality were also observed when any of the recommendations were not followed [OR (95% CI): 0.72 (0.51-1.01), P-value: 0.055; and 0.64 (0.37-1.10), P-value: 0.105, respectively]. An individualized intervention in frail in-patients reduces the risk of functional deterioration and mortality at 3&#xa0;months of follow-up when a care management plan is designed and followed.
+Complementary feeding (CF) is the period when exclusive breastfeeding ends and the introduction of a wide range of foods while breastfeeding should continue until the child is at least 24 months of age. Sub-optimal complementary feeding practices of infants and young children persist due to different factors, which include knowledge, attitude, and self-efficacy of index mothers. Therefore, this study aimed to assess determinants of knowledge, attitude, and self-efficacy towards complementary feeding among rural mothers with index child in rural Ethiopia. A community-based, cross-sectional study was conducted using multistage sampling techniques followed by systematic random sampling techniques. A structured interviewer-administered questionnaire was used. The Chi-square and Fisher's exact probability tests were used to assess the baseline differences in the CF knowledge, attitude, self-efficacy and socio-demographic characteristics of the intervention and control groups. An independent sample t-test was used to determine the mean differences. Multiple linear regression models were fitted to assess the predictors of complementary feeding knowledge, attitude, and self-efficacy. All tests were two-tailed, and a statistically significant association was considered at a p-value &#x2264; 0.05. Overall, 516 mothers were interviewed. 52.5% of the mothers had high complementary feeding (CF) knowledge, whereas only 47.7% and 38.9% had favorable attitude and high self-efficacy, respectively. The socio-demographic characteristics of the intervention and control groups were overall similar. However, there was a significant difference in the child's sex (p = 0.021) and age (p = 0.002). Independent t-tests found no significant difference between the two groups in terms of the mean score of CF knowledge, attitude, and self-efficacy at baseline. Maternal educational status (p = 0.0001), number of ANC visits (p = 0.025), and CF information received (p = 0.011) were significant predictors of CF knowledge. Child sex (p = 0.021) and the number of ANC visits (p = 0.01) were significant predictors of CF attitude. Family size (p = 0.008) and household food security status (p = 0.005) were significant predictors of maternal CF self-efficacy. Overall, half of the mothers had high knowledge. Whereas maternal attitudes and self-efficacy toward CF were low. Maternal educational status, the number of ANC visits, and the CF information received were predictors of CF knowledge. Likewise, child sex and the number of ANC visits were predictors of CF attitude. Family size and household food security status were predictors of CF self-efficacy. These findings imply that nutrition intervention strategies are mandatory, particularly to enhance maternal knowledge, attitude, and self-efficacy towards optimum complementary feeding.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1002/jcsm.13374
+- Publication Date: 2023
+- DOI: 10.1371/journal.pone.0293267
 
 2. Keywords
-- Frailty
-- Functional decline
-- Hospitalization
-- Intervention
-- Mortality
+
 
 3. Key Findings
-- The intervention showed a benefit on functional decline and mortality [OR: 0
+- Independent t-tests found no significant difference between the two groups in terms of the mean score of CF knowledge, attitude, and self-efficacy at baseline
 
 This study provides insights into:
-- Frailty assessment methods and outcomes
-- Functional decline assessment methods and outcomes
-- Hospitalization assessment methods and outcomes
+- General research methodology and outcomes

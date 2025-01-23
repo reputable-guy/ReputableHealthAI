@@ -1,20 +1,26 @@
-Study Title: Use of defibrotide in COVID-19 pneumonia: comparison of a phase II study and a matched real-world cohort control.
+Study Title: The investigation of effect on foot plantar massage on functional recovery in older adults with general surgery, randomized clinical trial.
 
 Study Summary:
-The coronavirus disease 2019 (COVID-19) pandemic led to an unprecedented burden on healthcare systems around the world and a severe global socioeconomic crisis, with more than 750 million confirmed cases and at least 7 million deaths reported by December 31, 2023. The DEFI-VID19 study (clinicaltrials gov. Identifier: NCT04335201), a phase II, single-arm, multicenter, open-label trial was designed in mid-2020 to assess the safety and efficacy of defibrotide in treating patients with COVID-19 pneumonia. Defibrotide was administered at a dose of 25 mg/kg intravenously, divided into four daily doses over a planned 14-day period for patients with COVID-19 pneumonia receiving non-invasive ventilation. The primary endpoint was respiratory failure-free survival (RFFS). Overall survival (OS), the number of post-recovery days, and adverse events were the secondary endpoints. For comparison, a contemporaneous control cohort receiving standard of care only was retrospectively selected by applying the eligibility criteria of the DEFI-VID19 trial. To adjust for the imbalance between the two cohorts in terms of baseline variable distributions, an outcome regression analysis was conducted. In adjusted analysis, patients receiving defibrotide reported a trend towards higher RFFS (hazard ratio [HR]=0.71; 95% confidence interval [CI]: 0.34-1.29; P=0.138) and OS (HR=0.78; 95% CI: 0.33-1.53; P=0.248]) and showed a significantly increased number of post-recovery days (difference in means =3.61; 95% CI: 0.97-6.26; P=0.0037). Despite concomitant thromboprophylaxis with low molecular weight heparin, the safety profile of defibrotide proved to be favorable. Taken together, our findings suggest that defibrotide may represent a valuable addition to the COVID-19 therapeutic options.
+Foot massage is known to be effective on the emotional state (anxiety, depression, etc.) in the postoperative period. However, studies on its effect on functional level are insufficient. The study aimed to investigate the impact of foot plantar massage on functional recovery in older adults undergoing general surgery, employing a randomized clinical trial design. A total of 70 older adults aged 65 years and above who underwent abdominal surgery were included. Various assessments were conducted, including pain levels (Visual Analogue Scale), fear of mobility (Tampa Scale for Kinesiophobia), functional independence (Functional Independence Measure), balance (Berg Balance Scale), basic mobility (Rivermead Mobility Index), mental function status (Standardized Mini-Mental State Examination), and delirium (Nu-DESC). Statistically significant differences were observed in some assessment parameters within the groups during the 2nd and 3rd measurement times, with the intervention group demonstrating significant mean differences. The literature underscores the increase in kinesiophobia scores post-general/abdominal surgery in older adults, emphasizing the importance of evaluating functional level and kinesiophobia to expedite discharge processes and potentially plan early post-discharge rehabilitation to mitigate readmissions for functional reasons. Ultimately, foot massage was found to be effective in reducing kinesiophobia, improving balance, mobility, daily living skills, and mental status in older adults post-abdominal surgery, thereby advocating for the facilitation of post-discharge rehabilitation programs or the reduction of readmission rates. NCT05534490.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3324/haematol.2024.285345
+- DOI: 10.1007/s40520-024-02770-2
 
 2. Keywords
-
+- Aging
+- Kinesiophobia
+- Massage
+- Nurses
+- Rehabilitation
 
 3. Key Findings
-- 248]) and showed a significantly increased number of post-recovery days (difference in means =3
+- Ultimately, foot massage was found to be effective in reducing kinesiophobia, improving balance, mobility, daily living skills, and mental status in older adults post-abdominal surgery, thereby advocating for the facilitation of post-discharge rehabilitation programs or the reduction of readmission rates
 
 This study provides insights into:
-- General research methodology and outcomes
+- Aging assessment methods and outcomes
+- Kinesiophobia assessment methods and outcomes
+- Massage assessment methods and outcomes

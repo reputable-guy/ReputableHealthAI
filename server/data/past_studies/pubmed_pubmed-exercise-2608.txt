@@ -1,25 +1,20 @@
-Study Title: Cardiac biomarkers and effects of aficamten in obstructive hypertrophic cardiomyopathy: the SEQUOIA-HCM trial.
+Study Title: Exploring the Effect of Exercise versus Metformin on Insulin Resistance amongst Nigerians with Pre-diabetes: A Randomised Controlled Trial.
 
 Study Summary:
-The role of biomarker testing in the management of obstructive hypertrophic cardiomyopathy is not well defined. This pre-specified analysis of SEQUOIA-HCM (NCT05186818) sought to define the associations between clinical characteristics and baseline concentrations of N-terminal pro-B-type natriuretic peptide (NT-proBNP) and high-sensitivity cardiac troponin I (hs-cTnI), and to evaluate the effect of treatment with aficamten on biomarker concentrations. Cardiac biomarkers were measured at baseline and serially throughout the study. Regression analyses determined predictors of baseline NT-proBNP and hs-cTnI concentrations, and evaluated whether early changes in these biomarkers relate to later changes in left ventricular outflow tract gradient (LVOT-G), other echocardiographic measures, health status, and functional capacity. Baseline concentration of NT-proBNP was associated with LVOT-G and measures of diastolic function, while hs-cTnI was associated with left ventricular thickness. Within 8 weeks of treatment with aficamten, NT-proBNP was reduced by 79% (95% confidence interval 76%-83%, P < .001) and hs-cTnI by 41% (95% confidence interval 32%-49%, P < .001); both biomarkers reverted to baseline after washout. Reductions in NT-proBNP and hs-cTnI by 24 weeks were strongly associated with a lowering of LVOT-G, improvement in health status, and increased peak oxygen uptake. N-Terminal pro-B-type natriuretic peptide reduction strongly correlated with the majority of improvements in exercise capacity. Furthermore, the change in NT-proBNP by Week 2 was associated with the 24-week change in key endpoints. N-Terminal pro-B-type natriuretic peptide and hs-cTnI concentrations are associated with key variables in obstructive hypertrophic cardiomyopathy. Serial measurement of NT-proBNP and hs-cTnI appears to reflect clinical response to aficamten therapy.
+Pre-diabetes is an important risk factor for the development of type 2 diabetes and is common in Nigeria. Effective intervention can reverse the underlying pathogenesis of insulin resistance in pre-diabetes. This study aimed to determine and compare the impact of moderate exercise and metformin interventions on insulin resistance among participants with pre-diabetes. Using a randomised placebo-controlled design, 54 Nigerians with pre-diabetes were selected using simple random sampling. They were offered metformin, moderate exercise or placebo treatment and followed up for 12 weeks. Insulin resistance was assessed before and after the interventions and the outcome was compared. Forty-nine participants with pre-diabetes completed the study. Participants in both the exercise and metformin groups had significantly decreased insulin resistance compared to placebo after 12 weeks of intervention. However, there was a decrease in insulin resistance by 77.3% (homeostasis model assessment-insulin resistance [HOMA-IR]) and an increase in insulin sensitivity by 81.2% (quantitative insulin sensitivity check index [QUICKI]) in the exercise group. In comparison, participants in the metformin group had a decrease in insulin resistance by 66.3% (HOMA-IR) and an increase in insulin sensitivity by 76.2% (QUICKI). Amongst Nigerians with pre-diabetes, both moderate exercise and metformin have significantly higher efficacy than placebo in improving insulin resistance. However, moderate exercise improved insulin resistance more than the metformin intervention. Participants in this study need to be followed up for a longer period to assess the long-term effects of these interventions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/eurheartj/ehae590
+- DOI: 10.4103/npmj.npmj_148_24
 
 2. Keywords
-- Aficamten
-- Hypertrophic cardiomyopathy
-- Natriuretic peptides
-- Troponin
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Aficamten assessment methods and outcomes
-- Hypertrophic cardiomyopathy assessment methods and outcomes
-- Natriuretic peptides assessment methods and outcomes
+- General research methodology and outcomes

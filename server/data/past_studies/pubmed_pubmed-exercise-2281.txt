@@ -1,25 +1,30 @@
-Study Title: Effectiveness of Internet&#x2009;+&#x2009;E-Coach chronic disease management on blood glucose, lipid levels, liver function, and quality of life in patients with chronic diabetic retinopathy: a comparative study.
+Study Title: A Tailored Postpartum eHealth Physical Activity Intervention for Individuals at High Risk of Postpartum Depression-the POstpartum Wellness Study (POW): Protocol and Data Overview for a Randomized Controlled Trial.
 
 Study Summary:
-This study aims to explore the effect of Internet&#x2009;+&#x2009;E-Coach chronic disease system intervention on fasting blood glucose (FPG), 2-hour postprandial blood glucose(2hPG), fasting serum insulin (FINS), triglyceride (TG), alanine transaminase (ALT) and quality of life in patients with chronic diabetic retinopathy. 208 patients with chronic diabetic retinopathy who were treated in the hospital from March 2021 to March 2023 are chosen and separated into two groups by random number Table 104 patients in the control group received routine continuous intervention, and the research group received Internet&#x2009;+&#x2009;E-Coach chronic disease system intervention. The cognition of disease related knowledge, blood related indicators inflammatory factor levels and improvement of life quality between the two groups before intervention, 6 and 12 months after intervention were compared. Before the intervention, the comparison between the two groups in disease related knowledge scores, blood glucose, blood lipid, liver function indicators, inflammatory factor, and low vision quality of life scale (CLVQOL) scores was with P&#x2009;>&#x2009;0.05. After 6 and 12 months of intervention, the research group had significantly higher scores for basic blood glucose intervention, healthy diet, reasonable exercise, and correct medication use compared to the control group (P&#x2009;<&#x2009;0.05). FPG, 2hPG, TG and ALT in the research group were lower than those in the control group. FINS were higher in the control group, with P&#x2009;<&#x2009;0.05. Interleukin-6 (IL-6), tumor necrosis factor (TNF-&#x3b1;), and hypersensitive C-reactive protein (Hs-CRP) in the research group were obviously lower than those in the control group (P&#x2009;<&#x2009;0.05). The scores of far vision, movement and light perception, adjustment ability, reading and fine work, and daily living ability in the research group were higher than those in the control group, with P&#x2009;<&#x2009;0.05. The intervention of Internet&#x2009;+&#x2009;E-Coach chronic disease system can improve the knowledge of chronic diabetic retinopathy patients about their own condition, stabilize the levels of blood sugar, blood lipid and liver function indicators, reduce the inflammatory reaction of the body, and improve the quality of life.
+Postpartum depression (PPD) is associated with significant health consequences for the parent and child. Current recommendations for PPD prevention require intense health care system resources. Evidence-based interventions for PPD prevention that do not further burden the health care system are needed. Evidence suggests that physical activity (PA) can generally reduce depressive symptoms. Technology-based interventions may help decrease common barriers to PA. This study aims to report the protocol and provide a data overview of the POstpartum Wellness study (POW)-an effectiveness trial evaluating whether an eHealth PA intervention tailored for postpartum individuals increased PA and decreased depressive symptoms among individuals at high PPD risk. This remote parallel-group randomized controlled trial included postpartum individuals with a history of depression or at least moderate current depressive symptoms not meeting the PPD diagnostic threshold and with low PA levels from an integrated health care delivery system. Participants were randomized to an eHealth PA intervention or usual care. The intervention group received access to a library of web-based workout videos designed for postpartum individuals, which included interaction with their infants. At baseline and follow-up (3 and 6 months), PA was measured using questionnaires and a wrist-worn accelerometer. Depressive symptoms were measured using the Patient Health Questionnaire-8 (PHQ-8). Data were collected to assess exploratory outcomes of sleep, perceived stress, anxiety, parent-infant bonding, and infant development. The study was funded in January 2020. Participants were enrolled via REDCap (Research Electronic Data Capture) or telephonically between November 2020 and September 2022; data collection ended in April 2023. Randomized participants (N=99) were 4 months post partum at baseline with moderately severe depressive symptoms (mean PHQ-8 score 12.6, SD 2.2). Intervention (n=50) and usual care (n=49) groups had similar sociodemographic characteristics, months post partum, baseline depressive symptoms, number of children at home, and prepregnancy PA levels. Retention in assessments was &#x2265;66% for questionnaires and &#x2265;48% for accelerometry, with modest differences by group. At 3-month follow-up, 73 of 99 (74%) participants (intervention: 35/50, 70%; usual care: 38/49, 78%) completed questionnaires; 53 of 99 (54%) wore the accelerometer for 7 days (27 of 50 (54%) intervention, 26 of 49 (53%) usual care). At 6-month follow-up, 66 of 99 (67%) participants (30 of 50 (60%) intervention, 36 of 49 (73%) usual care) completed questionnaires and 43 of 99 (43%) wore the accelerometer for 7 days (21 of 50 (42%) intervention, 22 of 49 (45%) usual care). Data analysis is completed, and a manuscript with these findings is currently under review for publication. The POW trial evaluates the effectiveness of an eHealth PA intervention for improving depressive symptoms and increasing PA among postpartum individuals at high PPD risk. Results have implications for the design and delivery of behavioral interventions among vulnerable patients. ClinicalTrials.gov NCT04414696; https://clinicaltrials.gov/ct2/show/NCT04414696. DERR1-10.2196/56882.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12886-024-03737-7
+- DOI: 10.2196/56882
 
 2. Keywords
-- Blood glucose, blood lipid, alanine transaminase
-- Chronic diabetic retinopathy
-- Internet&#x2009;+&#x2009;E-Coach chronic disease system
-- Quality of life
+- depression
+- digital interventions
+- eHealth
+- exercise videos
+- health promotion
+- online workout videos
+- physical activity
+- postpartum depression
+- wellness
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Blood glucose, blood lipid, alanine transaminase assessment methods and outcomes
-- Chronic diabetic retinopathy assessment methods and outcomes
-- Internet&#x2009;+&#x2009;E-Coach chronic disease system assessment methods and outcomes
+- depression assessment methods and outcomes
+- digital interventions assessment methods and outcomes
+- eHealth assessment methods and outcomes

@@ -1,27 +1,26 @@
-Study Title: Kavalactones support motivation to move during intensive training in males preparing for military special operations forces.
+Study Title: Feasibility and effectiveness of a 6-month, home-based, resistance exercise delivered by a remote technological solution in healthy older adults.
 
 Study Summary:
-Military special operators, elite athletes, and others requiring uninterrupted optimal performance currently lack options for sleep and mood support without performance-inhibiting effects. Kavalactones, derived from the root of the kava plant (Forst), have been shown to elevate mood and wellbeing by producing a feeling of relaxation without addiction or cognitive impairment. In this placebo-controlled, crossover study (NCT05381025), we investigated the effects of 2 weeks of kavalactones use on cortisol (diurnal salivary), sleep (RSQ-W; Restorative Sleep Questionnaire, Weekly), mood (DASS-21; Depression Anxiety Stress Scale-21), and motivation state to expend (Move) or conserve (Rest) energy (CRAVE; Cravings for Rest and Volitional Energy Expenditure, Right Now) in a cohort of 15 healthy, physically fit young males engaged in a rigorous, two-a-day preparation class for special operations forces qualification. Cortisol, sleep, and mood were within normal, healthy parameters in this cohort at baseline. This remained unchanged with kavalactones use with no significant findings of clinical interest. However, a statistically similar, positive slope for within-group Move scores was seen in both groups during kavalactones loading (first group Move slope 2.25, second group Move slope 3.29,&#x2009;=&#x2009;0.299). This trend was seen regardless of order and with no apparent effects on the Rest metric (all&#x2009;&#x2265;&#x2009;0.05). Moreover, a significant between-group difference appeared after 1 week of kavalactones use in the first phase (0.044) and persisted through the end of the first loading period (&#x2009;=&#x2009;0.022). Following the 10-day washout, this between-groups divergence remained significant (&#x2009;=&#x2009;0.038) but was reversed by 1 week after the crossover (0.072), with Move scores once again statistically similar between groups and compared to baseline at study end. Furthermore, the group taking kavalactones first never experienced a significant decrease in Move motivation state (lowest mean score 21.0, highest 28.6, all&#x2009;&#x2265;&#x2009;0.05), while the group receiving kavalactones in the last 2 weeks of the study had Move scores that were statistically lower than baseline (lowest mean score 8.6, highest 25.9, all&#x2009;&#x2264;&#x2009;0.05) at all time points but the last (&#x2009;=&#x2009;0.063) after 2 weeks of kavalactones exposure. We report a novel finding that kavalactones may support performance by maintaining or rescuing the desire to expend energy in the context of significant physical and mental strain in well-conditioned individuals, even in a context of already normal cortisol, sleep, and mood.
+Aging is characterized by a physiological decline in physical function, muscle mass, strength, and power. Home-based resistance training interventions have gained increasing attention from scientists and healthcare system operators, but their efficacy is yet to be fully determined. to verify the safety, feasibility, and efficacy of a home-based resistance training program delivered by innovative technological solution in healthy older adults. 73 participants (36 females) were randomly allocated to either a control (C) or an intervention (I) group consisting of a 6-months home-based resistance training program delivered through an innovative technological solution, which included a wearable inertial sensor and a dedicated tablet. The safety and feasibility of the intervention were assessed by recording training-related adverse events and training adherence. Body composition, standing static balance, 10-meter walking, and loaded 5 sit-to-stand tests were monitored to quantify efficacy. No adverse events were recorded. Adherence to the training program was relatively high (61 % of participants performed the target 3 sessions) in the first trimester, significantly dropping during the second one. The intervention positively affected walking parameters (p < 0.05) and maximal force (p = 0.009) while no effect was recorded on body composition, balance, and muscle power. The home-based device-supported intervention was safe and feasible, positively affecting walking parameters and lower limbs' maximal force. This approach should be incentivized when barriers to participation in traditional resistance exercise programs are present.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/15502783.2024.2377194
+- DOI: 10.1016/j.archger.2024.105559
 
 2. Keywords
-- Cortisol
-- Piper methysticum
-- dietary supplement
-- exercise
-- kava
-- motivation state
+- Aging
+- Physical function
+- Sarcopenia prevention
+- Strength training
+- Teleexercise
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Cortisol assessment methods and outcomes
-- Piper methysticum assessment methods and outcomes
-- dietary supplement assessment methods and outcomes
+- Aging assessment methods and outcomes
+- Physical function assessment methods and outcomes
+- Sarcopenia prevention assessment methods and outcomes

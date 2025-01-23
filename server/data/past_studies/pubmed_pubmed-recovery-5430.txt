@@ -1,26 +1,27 @@
-Study Title: Bilateral ultrasound-guided erector spinae plane block for postoperative analgesia in paediatric idiopathic scoliosis patients undergoing posterior spine fusion surgery: a randomized controlled trial.
+Study Title: Effect of Repetitive Transcranial Magnetic Stimulation on Post-Stroke Comorbid Cognitive Impairment and Depression: A Randomized Controlled Trial.
 
 Study Summary:
-Major spinal surgery causes severe pain. We examined the ability of erector spinae plane block (ESPB) to alleviate pain after posterior spinal fusion (PSF) in paediatric scoliosis patients. Seventy-two patients who underwent PSF were randomized into a preoperative ultrasound-guided ESPB group or a no-block control group. The composite primary outcome was the area under the curve (AUC) of the numerical rating scale (NRS) score in the first 24&#xa0;h after surgery and the number of parent-controlled intravenous analgesia (PCIA) boluses administered 24&#xa0;h after surgery. The secondary outcomes included the NRS score, opioid consumption, rescue analgesia, adverse events, and quality of recovery. The AUC-NRS at rest was 62 (13) in the ESPB group and 89 (13) in the control group (P&#x2009;<&#x2009;0.001). There were 15 (5) 24-h PCIA boluses administered in the ESPB group and 30 (7) in the control group (P&#x2009;<&#x2009;0.001). Compared with those in the control group, the NRS scores at rest were lower in the ESPB group at 0, 3, 6, and 9&#xa0;h postoperatively, and the NRS scores during movement were lower in the ESPB group at 0, 3, 6, 9 and 12&#xa0;h postoperatively. The ESPB group showed a lower need for PCIA than did the control group at 0-6, 6-12, 12-18 and 1-24&#xa0;h postoperatively. In the ESPB group, fewer patients required rescue analgesics, and patients exhibited a higher quality of recovery. Preoperative ESPB improves postoperative analgesia in paediatric scoliosis patients who underwent PSF. ChiCTR2300074505. August 8, 2023.
+There are currently no uniform treatments for post-stroke comorbid cognitive impairment and depression (PSCCID). To verify whether repetitive transcranial magnetic stimulation (rTMS) can improve PSCCID symptoms and explore the underlying roles of resting-state functional magnetic resonance imaging (rs-fMRI). Thirty PSCCID patients were randomized in a 1&#x200a;:&#x200a;1 ratio to receive 4 weeks of rTMS (intervention group) or sham rTMS (control group) over the left dorsolateral prefrontal cortex (DLPFC). rs-fMRI was acquired to analyze the functional plasticity of brain regions at baseline and immediately after the last intervention. Cognition, depression status, and neural electrophysiology were improved in both intervention and control groups after treatment (p&#x200a;=&#x200a;0.015-0.042), and the intervention group had more significant improvement than the control group. Analysis of functional connectivities (FCs) within the default mood network (DMN) showed that the connection strength of the left temporal pole/left parahippocampal cortex and right lateral temporal cortex/right retrosplenial cortex in the intervention group were enhanced compared with its pre-intervention and that in the control group after treatment (p&#x200a;<&#x200a;0.05), and the both FC values were positively correlated with MMSE scores (p&#x200a;<&#x200a;0.001). The intervention group had stronger FCs within the DMN compared with the control group after treatment, and some of the enhanced FCs were correlated with the P300 latency and amplitude. rTMS over the left DLPFC is an effective treatment for improving both cognitive impairment and depression among patients with PSCCID. The enhanced FCs within the DMN may serve as a compensatory functional recombination to promote clinical recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00586-024-08457-6
+- DOI: 10.3233/JAD-240505
 
 2. Keywords
-- Erector spinae plane block
-- Idiopathic scoliosis
-- Parent-controlled analgesia
-- Posterior spinal fusion
-- Postoperative analgesia
+- Alzheimer&#x2019;s disease
+- cognitive impairment
+- default mood network
+- depression
+- repetitive transcranial magnetic stimulation
+- stroke
 
 3. Key Findings
-- The ESPB group showed a lower need for PCIA than did the control group at 0-6, 6-12, 12-18 and 1-24&#xa0;h postoperatively
+- Analysis of functional connectivities (FCs) within the default mood network (DMN) showed that the connection strength of the left temporal pole/left parahippocampal cortex and right lateral temporal cortex/right retrosplenial cortex in the intervention group were enhanced compared with its pre-intervention and that in the control group after treatment (p&#x200a;<&#x200a;0
 
 This study provides insights into:
-- Erector spinae plane block assessment methods and outcomes
-- Idiopathic scoliosis assessment methods and outcomes
-- Parent-controlled analgesia assessment methods and outcomes
+- Alzheimer&#x2019;s disease assessment methods and outcomes
+- cognitive impairment assessment methods and outcomes
+- default mood network assessment methods and outcomes

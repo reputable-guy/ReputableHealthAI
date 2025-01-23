@@ -1,20 +1,25 @@
-Study Title: Study protocol of a breathing and relaxation intervention included in antenatal education: A randomised controlled trial (BreLax study).
+Study Title: Effects of sildenafil on gas exchange, ventilatory, and sensory responses to exercise in subjects with mild-to-moderate COPD: A randomized cross-over trial.
 
 Study Summary:
-Antenatal education is part of antenatal care in many countries. Physical and mental preparation for childbirth and information on pain management are considered key elements of antenatal education classes. Evidence suggests that women who participate in antenatal education classes appear to benefit in terms of self-efficacy and childbirth experience. In particular, women with increased fear of childbirth benefit from trained breathing and relaxation techniques in antenatal education. However, little is known about the effect of breathing and relaxation techniques on the outcomes of healthy pregnant women without fear of childbirth or who do not have medical or obstetric risks, or on neonatal outcomes. The aim of this study is to test whether including a breathing and relaxation technique in an antenatal education class will improve self-efficacy towards birth compared to a standard antenatal education class. The study will be a two-armed randomised controlled trial (RCT). Healthy pregnant women between the 12th and 30th week of gestation with singleton low-risk pregnancies and who are receiving routine antenatal care will be recruited in a hospital in Switzerland. All women included will attend an 8-hour antenatal education class. The intervention group will additionally practise a breathing and relaxation technique, receive a handbook to guide their exercise practice at home, and be provided with access to an online brochure with video and audio recordings for guidance. Data on maternal and neonatal outcomes will be collected after recruitment, in the 37th week of pregnancy, and two to four weeks postpartum. The effectiveness of including a breathing and relaxation technique in antenatal education classes on women's self-efficacy is discussed as a means to improving women's pregnancy and childbirth outcomes. NCT06003946, SNCTP000005672.
+Excess exercise ventilation (high ventilation (V&#x307;)/carbon dioxide output (V&#x307;CO)) contributes significantly to dyspnea and exercise intolerance since the earlier stages of chronic obstructive pulmonary disease (COPD). A selective pulmonary vasodilator (inhaled nitric oxide) has shown to increase exercise tolerance secondary to lower V&#x307;/V&#x307;COand dyspnea in this patient population. We aimed to assess whether a clinically more practical option - oral sildenafil - would be associated with similar beneficial effects. In a randomized, placebo-controlled study, twenty-four patients with mild-to-moderate COPD completed, on different days, two incremental cardiopulmonary exercise tests (CPET) one hour after sildenafil or placebo. Eleven healthy participants performed a CPET in a non-interventional visit for comparative purposes with patients when receiving placebo. Patients (FEV= 69.4 &#xb1; 13.5&#x202f;% predicted) showed higher ventilatory demands (V&#x307;/V&#x307;CO), worse pulmonary gas exchange, and higher dyspnea during exercise compared to controls (FEV= 98.3 &#xb1;11.6&#x202f;% predicted). Contrary to our expectations, however, sildenafil (50&#x202f;mg; N= 15) did not change exertional V&#x307;/V&#x307;CO, dead space/tidal volume ratio, operating lung volumes, dyspnea, or exercise tolerance compared to placebo (P>0.05). Due to the lack of significant beneficial effects, nine additional patients were trialed with a higher dose (100&#x202f;mg). Similarly, active intervention was not associated with positive physiological or sensory effects. In conclusion, acute oral sildenafil (50 or 100&#x202f;mg) failed to improve gas exchange efficiency or excess exercise ventilation in patients with predominantly moderate COPD. The current study does not endorse a therapeutic role for sildenafil to mitigate exertional dyspnea in this specific patient subpopulation. Clinical trial registry: https://ensaiosclinicos.gov.br/rg/RBR-4qhkf4 Web of Science Researcher ID: O-7665-2019.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0308480
+- DOI: 10.1016/j.resp.2024.104359
 
 2. Keywords
-
+- Chronic Obstructive Pulmonary Disease
+- Dyspnea
+- Exercise Test
+- Phosphodiesterase Inhibitors 5
 
 3. Key Findings
-- Findings extraction requires manual review
+- 5&#x202f;% predicted) showed higher ventilatory demands (V&#x307;/V&#x307;CO), worse pulmonary gas exchange, and higher dyspnea during exercise compared to controls (FEV= 98
 
 This study provides insights into:
-- General research methodology and outcomes
+- Chronic Obstructive Pulmonary Disease assessment methods and outcomes
+- Dyspnea assessment methods and outcomes
+- Exercise Test assessment methods and outcomes

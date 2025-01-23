@@ -1,26 +1,25 @@
-Study Title: miR-9-5p is Downregulated in Serum Extracellular Vesicles of Patients Treated with Biperiden After Traumatic Brain Injury.
+Study Title: Assessment of Dependency in Activities of Daily Living (ADL) and its Predictors: A Cross-Sectional Study among the Elderly Rural Population in a Sub-Himalayan UT of India.
 
 Study Summary:
-Traumatic brain injury (TBI) is a prevalent and debilitating condition, which often leads to the development of post-traumatic epilepsy (PTE), a condition that yet lacks preventive strategies. Biperiden, an anticholinergic drug, is a promising candidate that has shown efficacy in murine models of PTE. MicroRNAs (miRNAs), small regulatory RNAs, can help in understanding the biological basis of PTE and act as TBI- and PTE-relevant biomarkers that can be detected peripherally, as they are present in extracellular vesicles (EVs) that cross the blood-brain barrier. This study aimed to investigate miRNAs in serum EVs from patients with TBI, and their association with biperiden treatment and PTE. Blood samples of 37 TBI patients were collected 10&#xa0;days after trauma and treatment initiation in a double-blind clinical trial. A total of 18 patients received biperiden, with three subjects developing PTE, and 19 received placebo, with two developing PTE. Serum EVs were characterized by size distribution and protein profiling, followed by high-throughput sequencing of the EV miRNome. Differential expression analysis revealed no significant differences in miRNA expression between TBI patients with and without PTE. Interestingly, miR-9-5p displayed decreased expression in biperiden-treated patients compared to the placebo group. This miRNA regulates genes enriched in stress response pathways, including axonogenesis and neuronal death, relevant to both PTE and TBI. These findings indicate that biperiden may alter miR-9-5p expression in serum EVs, which may play a role in TBI resolution.
+With an increase in life expectancy over the last few decades, there has been a parallel increase in the prevalence of disabilities among the elderly population. To estimate the prevalence of dependency in activities of daily living (ADL) and its predictors among the rural elderly population. This was a cross-sectional study carried out in the community among the rural geriatric population in the field practice area of PG Department of Community Medicine, Government Medical College Jammu. The Barthel Scale Index was used to measure ADL dependency. PSPP software was used to analyze the data. The mean age of study participants was 68.31 &#xb1; 7.9 years. ADL dependency was observed in 46.3% of the subjects, with the majority demonstrating mild to moderate dependence. Only 2.5% of the respondents reported a severe degree of ADL dependence. The mean ADL score was 94.47 &#xb1; 8.98. On multivariate logistic regression analysis, age, educational status, the presence of stress in the family, personal history, and the presence of co-morbidities emerged to be independent predictors of ADL dependence. High prevalence of physical disability in the geriatric population is now an area of major concern. This emphasizes the significance of setting up geriatric care centers especially in rural areas preferably integrating with health and wellness centers.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s12035-024-04194-5
+- DOI: 10.4103/ijcm.ijcm_1001_22
 
 2. Keywords
-- Anticholinergic
-- Extracellular vesicle
-- Post-traumatic epilepsy
-- Traumatic brain injury
-- microRNA
+- Activity of daily living (ADL)
+- Barthel index
+- elderly
+- rural areas
 
 3. Key Findings
-- Differential expression analysis revealed no significant differences in miRNA expression between TBI patients with and without PTE
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Anticholinergic assessment methods and outcomes
-- Extracellular vesicle assessment methods and outcomes
-- Post-traumatic epilepsy assessment methods and outcomes
+- Activity of daily living (ADL) assessment methods and outcomes
+- Barthel index assessment methods and outcomes
+- elderly assessment methods and outcomes

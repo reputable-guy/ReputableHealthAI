@@ -1,20 +1,26 @@
-Study Title: Adolescents With a High Burden of New-Onset Mood Symptoms After Sport-Related Concussion Benefit From Prescribed Aerobic Exercise, a Secondary Analysis of 2 Randomized Controlled Trials.
+Study Title: Recovery effect of self-myofascial release treatment using different type of a foam rollers.
 
 Study Summary:
-Approximately 20% of students with sport-related concussion (SRC) report new symptoms of anxiety and depression which may be associated with delayed recovery and increased risk for developing a mood disorder. Early prescribed aerobic exercise facilitates recovery in athletes with concussion-related exercise intolerance. We studied the effect of aerobic exercise treatment on new mood symptoms early after SRC. Exploratory secondary analysis of 2 randomized controlled trials (RCT). Sports medicine clinics associated with UB (Buffalo, NY), CHOP (Philadelphia, PA), and Boston Children's Hospital (Boston, MA). Male and female adolescents (aged 13-18 years) diagnosed with SRC (2-10 days since injury). Participants were randomized to individualized targeted heart rate aerobic exercise (n = 102) or to a placebo intervention designed to mimic relative rest (n = 96). Incidence of Persisting Post-Concussive Symptoms (PPCS, symptoms &#x2265;28 days). First RCT recruited from 2016 to 2018 and the second from 2018 to 2020. Of 198 adolescents, 156 (79%) reported a low burden (mean 1.2 &#xb1; 1.65/24) while 42 (21%) reported a high burden (mean 9.74 &#xb1; 3.70/24) of emotional symptoms before randomization. Intervention hazard ratio for developing PPCS for low burden was 0.767 (95% CI, 0.546-1.079; P = 0.128; &#x3b2; = 0.085) and for high burden was 0.290 (95% CI, 0.123-0.683; P = 0.005; &#x3b2; = 0.732). High burden of mood symptoms early after injury increases risk for PPCS, but the sports medicine model of providing early targeted aerobic exercise treatment reduces it. Nonsports medicine clinicians who treat patients with a high burden of new mood symptoms after concussion should consider prescribing aerobic exercise treatment to reduce the risk of PPCS and a mood disorder.
+Among athletes, foam rolling is popular technique of myofascial release aimed to support recovery processes and counteract delayed onset muscle soreness. However, there is no consensus on the optimal parameters of the roller texture used in the procedure. The study aimed to determine whether using rollers with different textures and hardness (smooth/soft, grooved/mid, serrated/hard) in myofascial release affects post-exertional restitution rate and the level of perceived DOMS (Delayed Onset Muscle Soreness) after intense anaerobic exercise. The study involved 60 healthy and physically active men randomly divided into three experimental groups and one control group (passive rest)-each consisting of 15 individuals: STH-rolling with a smooth roller; G-rolling with a grooved roller; TP-rolling with a serrated roller; Pass-passive rest group. After performing a exercise test (one-minute high-intensity squat), blood lactate (LA), creatine kinase (CK) and pain perception (VAS Scale) were monitored. The analysis of the average LA concentration in the blood 30&#xa0;min post-exercise showed a statistical difference for all rolling groups compared to the passive rest group: STH (p&#x2009;<&#x2009;0.001), G (p&#x2009;<&#x2009;0.001), TP (p&#x2009;=&#x2009;0.035). No statistically significant differences were found between the CK measurement results in individual assessments. Statistically significant differences in VAS values were observed between G (p&#x2009;=&#x2009;0.013) and TP (p&#x2009;=&#x2009;0.006) groups and the Pass group at 48&#xa0;h, as well as between STH (p&#x2009;=&#x2009;0.003); G (p&#x2009;=&#x2009;0.001); TP (p&#x2009;<&#x2009;0.001) groups and the Pass group at 72&#xa0;h. Based on statistical data, a strong influence (&#x3b7;&#x2009;=&#x2009;0.578) of time on the quadriceps VAS variable was noted. The research results confirm the effectiveness of rolling in supporting immediate and prolonged recovery. The conducted studies indicate a significantly better pace of post-exertional recovery after a rolling procedure lasting at least 120&#xa0;s. The texture and hardness of the tool used did not matter with such a duration of the treatment.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1097/JSM.0000000000001242
+- Publication Date: 2024
+- DOI: 10.1038/s41598-024-66577-x
 
 2. Keywords
-
+- Creatine kinase
+- Lactate clearance
+- Myofascial release
+- Regeneration
 
 3. Key Findings
-- Findings extraction requires manual review
+- The analysis of the average LA concentration in the blood 30&#xa0;min post-exercise showed a statistical difference for all rolling groups compared to the passive rest group: STH (p&#x2009;<&#x2009;0
+- No statistically significant differences were found between the CK measurement results in individual assessments
 
 This study provides insights into:
-- General research methodology and outcomes
+- Creatine kinase assessment methods and outcomes
+- Lactate clearance assessment methods and outcomes
+- Myofascial release assessment methods and outcomes

@@ -1,20 +1,35 @@
-Study Title: Treatment of sleep apnoea early after myocardial infarction with adaptive servo-ventilation: a proof-of-concept randomised controlled trial.
+Study Title: The Effects of a Complex Interactive Multimodal Intervention on Personalized Stress Management Among Health Care Workers in China: Nonrandomized Controlled Study.
 
 Study Summary:
-Sleep disordered breathing (SDB) has been associated with less myocardial salvage and smaller infarct size reduction after acute myocardial infarction (AMI). The Treatment of sleep apnoea Early After Myocardial infarction with Adaptive Servo-Ventilation (TEAM-ASV I) trial investigated the effects of adding adaptive servo-ventilation (ASV) for SDB to standard therapy on the myocardial salvage index (MSI) and change in infarct size within 12&#x2009;weeks after AMI. In this multicentre, randomised, open-label trial, patients with AMI and successful percutaneous coronary intervention within 24&#x2009;h after symptom onset plus SDB (apnoea-hypopnoea index &#x2265;15&#x2009;events&#xb7;h) were randomised to standard medical therapy alone (control) or plus ASV (starting 3.6&#xb1;1.4&#x2009;days post-AMI). The primary outcome was the MSI at 12&#x2009;weeks post-AMI. Cardiac magnetic resonance (CMR) imaging was performed at &#x2264;5&#x2009;days and 12&#x2009;weeks after AMI. 76 individuals were enrolled from February 2014 to August 2020; 39 had complete CMR data for analysis of the primary end-point. The MSI was significantly higher in the ASVcontrol group (difference 14.6% (95% CI 0.14-29.1%); p=0.048). At 12&#x2009;weeks, absolute (6.6 (95% CI 4.8-8.5)2.8 (95% CI 0.9-4.8) % of left ventricular mass; p=0.003) and relative (44 (95% CI 30-57)21 (95% CI 6-35) % of baseline; p=0.013) reductions in infarct size were greater in the ASVcontrol group. No serious treatment-related adverse events occurred. Early treatment of SDB with ASV improved the MSI and decreased infarct size at 12&#x2009;weeks after AMI. Larger randomised trials are required to confirm these findings.
+Health care workers (HCWs) frequently face multiple stressors at work, particularly those working night shifts. HCWs who have experienced distress may find it difficult to adopt stress management approaches, even if they are aware of the effects of stress and coping processes. Therefore, an individualized intervention may be required to assist distressed HCWs in bridging the "knowledge-practice" gap in stress management and effectively alleviating stress symptoms. The main objective of this research was to compare the effects of a complex interactive multimodal intervention (CIMI) to self-guided stress management interventions on stress symptoms of distressed HCWs, as measured by physiological (heart rate variability), psychological (perceived stress, mental distress, and subjective happiness), and sleep disorder (fatigue and sleepiness) indicators. We conducted a nonrandomized, controlled study in 2 Chinese general hospitals. The participants in this study were 245 HCWs who fulfilled at least 1 of the 3 dimensions on the Depression, Anxiety, and Stress Scale. All eligible individuals were required to complete a questionnaire and wear a 24-hour Holter device to determine the physiological signs of stress as indexed by heart rate variability at both baseline and after the intervention. The CIMI group received a 12-week online intervention with 4 components-mobile stress management instruction, a web-based WeChat social network, personalized feedback, and a nurse coach, whereas the control group simply received a self-guided intervention. After a 12-week intervention, the Perceived Stress Scale (PSS) scores reduced significantly in the CIMI group (mean difference [MD] -5.31, 95% CI -6.26 to -4.37; P<.001) compared to the baseline levels. The changes in PSS scores before and after the intervention exhibited a significant difference between the CIMI and control groups (d=-0.64; MD -4.03, 95% CI -5.91 to -2.14; P<.001), and the effect was medium. In terms of physiological measures, both the control group (MD -9.56, 95% CI -16.9 to -2.2; P=.01) and the CIMI group (MD -8.45, 95% CI -12.68 to -4.22; P<.001) demonstrated a significant decrease in the standard deviation of normal-to-normal intervals (SDNN) within the normal clinical range; however, there were no significant differences between the 2 groups (d=0.03; MD 1.11, 95% CI -7.38 to 9.59; P=.80). The CIMI was an effective intervention for improving sleep disorders, as well as parts of the psychological stress measures in distressed HCWs. The findings provide objective evidence for developing a mobile stress management intervention that is adaptable and accessible to distressed HCWs, but its long-term effects should be investigated in future research. ClinicalTrials.gov NCT05239065; https://clinicaltrials.gov/ct2/show/NCT05239065.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1183/13993003.02338-2023
+- DOI: 10.2196/45422
 
 2. Keywords
-
+- autonomic nervous system
+- engagement
+- health care workers
+- human support
+- management
+- mental health
+- mobile phone
+- multimodal intervention
+- perceived stress
+- physiological stress
+- psychological stress
+- social network
+- stress
+- stress management
 
 3. Key Findings
-- Findings extraction requires manual review
+- 001) demonstrated a significant decrease in the standard deviation of normal-to-normal intervals (SDNN) within the normal clinical range; however, there were no significant differences between the 2 groups (d=0
 
 This study provides insights into:
-- General research methodology and outcomes
+- autonomic nervous system assessment methods and outcomes
+- engagement assessment methods and outcomes
+- health care workers assessment methods and outcomes

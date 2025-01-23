@@ -1,21 +1,28 @@
-Study Title: Effects of prenatal exercise interventions on maternal body composition: A secondary analysis of the FitMum randomized controlled trial.
+Study Title: Digital Intervention Promoting Physical Activity in People Newly Diagnosed with Parkinson's Disease: Feasibility and Acceptability of the Knowledge, Exercise-Efficacy and Participation (KEEP) Intervention.
 
 Study Summary:
-The main objective of the study was to investigate the effects of prenatal exercise interventions on maternal body composition at 28 weeks gestation and 7-14 days after delivery. We also explored associations between physical activity (PA) per se and body composition. This study presents secondary outcomes of the FitMum randomized controlled trial, which included healthy inactive pregnant women at gestational age &#x2264; 15+0 weeks. They were randomized to structured supervised exercise training, motivational counselling on PA, or standard care. Maternal body composition was measured by doubly labeled water at 28 weeks gestation (n = 134) and by dual-energy X-ray absorptiometry scan 7-14 days after delivery (n = 117). PA, including moderate-to-vigorous-intensity PA (MVPA), active kilocalories, and steps, were measured continuously from inclusion to delivery by a wrist-worn activity tracker. One hundred fifty pregnant women were included with a median pre-pregnancy body mass index (BMI) of 24.1 (21.6-27.9) kg/m2. We found no differences between groups in fat mass, fat percentage or fat-free mass at 28 weeks gestation or 7-14 days after delivery. Visceral adipose tissue mass and bone mineral density measured 7-14 days after delivery did not differ between groups either. Linear regression analyses adjusted for pre-pregnancy BMI showed that a higher number of daily steps was associated with lower fat mass, fat percentage, and visceral adipose tissue mass at 28 weeks gestation and 7-14 days after delivery. Active kilocalories during pregnancy was positively associated with fat-free mass 7-14 days after delivery. Neither structured supervised exercise training nor motivational counselling on PA during pregnancy affected maternal body composition at 28 weeks gestation or 7-14 days after delivery compared to standard care. Interestingly, when adjusted for pre-pregnancy BMI, higher number of daily steps was associated with lower fat content during pregnancy and after delivery, whereas MVPA and active kilocalories were not. Trial registration: ClinicalTrials.gov; NCT03679130; 20/09/2018.
+Exercise promotion interventions for people with Parkinson's disease (PD) are often offered on a face-to-face basis, follow a generic "one-size-fit-all" approach, and are not typically delivered at diagnosis. Considering PD's heterogenous nature, the existing evidence on the merits of exercise on symptom management and the expressed wishes of people living with PD for access to timely and tailored evidence-based information, there is a demand for interventions that are easily accessible, scalable and co-designed with people living with PD. Evaluate the feasibility and acceptability of a co-designed digital intervention promoting exercise and physical activity, in people newly diagnosed with PD. Thirty people living with PD for less than one year participated in an assessor-blinded randomized feasibility trial from June 2022 to April 2023. The intervention group received the 8-week Knowledge, Exercise Efficacy and Participation (KEEP) intervention comprising 6 interactive digital modules and 4 online live group discussions facilitated by a specialist physiotherapist. Assessments were performed at baseline, post intervention and at 6-month follow up. Thirty participants were recruited to target with a 64% recruitment rate (30/47). All but one participant completed the 6-month follow-up assessment. There was high retention (97%), module completion (91%), and online discussion attendance (88%). Outcome measure collection was feasible, including accelerometer data with a daily average wear time of 23.9 hours (SD:0.295). The KEEP intervention was feasible and acceptable in people newly diagnosed with PD. A larger trial is needed to assess intervention efficacy and correlation between knowledge, self-efficacy, and activity levels.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0308214
+- DOI: 10.3233/JPD-240071
 
 2. Keywords
-
+- Parkinson&#x2019;s disease
+- Physical activity
+- co-design
+- digital health
+- exercise promotion
+- feasibility study
+- physical literacy
 
 3. Key Findings
-- We found no differences between groups in fat mass, fat percentage or fat-free mass at 28 weeks gestation or 7-14 days after delivery
-- Linear regression analyses adjusted for pre-pregnancy BMI showed that a higher number of daily steps was associated with lower fat mass, fat percentage, and visceral adipose tissue mass at 28 weeks gestation and 7-14 days after delivery
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Parkinson&#x2019;s disease assessment methods and outcomes
+- Physical activity assessment methods and outcomes
+- co-design assessment methods and outcomes

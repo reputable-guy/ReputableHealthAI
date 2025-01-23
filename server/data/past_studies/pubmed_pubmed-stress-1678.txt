@@ -1,20 +1,20 @@
-Study Title: Comparison of the effects of axillary brachial plexus block, inhalation anesthesia, and total intravenous anesthesia on tourniquet-induced ischemia-reperfusion injury in upper extremity surgery.
+Study Title: Comparisons of different general anesthetic techniques on immune function in patients undergoing flap reconstruction for oral cancer.
 
 Study Summary:
-Post-ischemia reperfusion can lead to oxidative stress and an increase in oxidative markers. Employing preventive strategies and antioxidant agents may help mitigate ischemia-reperfusion injury (IRI). The use of a tourniquet in extremity surgery has been associated with IRI. This study aims to investigate the impact of three different approaches- brachial plexus block, total intravenous anesthesia (TIVA), and inhalation anesthesia-on IRI during upper extremity surgery using a tourniquet. Patients aged 18 to 45 with American Society of Anesthesiologists (ASA) I-II scores were randomly assigned to one of three groups: Group A received an axillary block with bupivacaine; Group I underwent inhalation anesthesia with sevoflurane; and Group T received TIVA with propofol and remifentanil infusion. Blood samples were collected to measure glucose, lactate, total anti-oxidant status (TAS), total oxidant status (TOS), and ischemia-modified albumin (IMA) levels at various time points: before anesthesia (t1), 1 minute before tourniquet release (t2), 20 minutes after tourniquet release (t3), and 4 hours after tourniquet release (t4). In Group I, lactate levels at t3, and glucose levels at t2 and t3, were higher compared to the other groups. Group A exhibited lower IMA levels at t2, t3, and t4 than the other groups. Additionally, Group I had lower IMA levels at t2, t3, and t4 compared to Group T. TAS levels were higher in Group I at t2, t3, and t4 compared to the other groups. TOS levels at t2 and t3 were lower in Group A than in Group I. Axillary anesthesia results in a sympathetic block, promoting better perfusion of the upper extremity. This study demonstrated lower levels of oxidative stress markers with axillary plexus block. Therefore, these results suggest that the axillary block has the potential to mitigate IRI.
+Anesthetic-induced immunosuppression is of particular interest in tumor surgery. This study aimed to investigate the influence of the 4 most common general anesthetic techniques on immune function in patients undergoing flap reconstruction for oral cancer. 116 patients were randomly divided into 4 groups. Patients in group S were given sevoflurane-based anesthesia. Group P was administered propofol-based anesthesia. The SD group received sevoflurane combined with dexmedetomidine anesthesia. The propofol combined with dexmedetomidine anesthesia (PD) group received PD. Blood samples were obtained at 5 time points: baseline (T0), 1 hour after the start of the operation (T1), end of the operation (T2), 24 hours (T3), and 48 hours (T4) after the operation. Lymphocyte subsets (including CD3+, CD4+, CD8+, and B lymphocytes) and dendritic cells were analyzed by flow cytometry. Blood glucose, norepinephrine, and cortisol levels were measured using ELISA and a blood gas analyzer respectively. In total, 107 patients were included in the final analysis. Immunological indicators, except CD8+ counts, were all decreased in groups S, P, and SD at T1-4 compared with the baseline value, and the counts of CD3+, CD4+, and dendritic cells, as well as CD4+/CD8+ ratios, were significantly higher in the PD group than in the S, P, and SD at T1-3 (P&#x2005;<&#x2005;.05). There were no significant differences between groups P and SD at any observation time point. Intraoperative stress indices, including norepinephrine and cortisol levels, were significantly lower in the PD group than in the other 3 groups at T1-2 (P&#x2005;<&#x2005;.05). These findings suggest that PD as a probably optimal choice can alleviate immunosuppression in patients undergoing flap reconstruction for oral cancer.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.14744/tjtes.2024.63534
+- DOI: 10.1097/MD.0000000000038653
 
 2. Keywords
 
 
 3. Key Findings
-- This study demonstrated lower levels of oxidative stress markers with axillary plexus block
+- Findings extraction requires manual review
 
 This study provides insights into:
 - General research methodology and outcomes

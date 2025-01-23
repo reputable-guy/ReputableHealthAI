@@ -1,25 +1,25 @@
-Study Title: The analgesic effect of ultrasound-guided cervical erector spinae block in arthroscopic shoulder surgery: a randomized controlled clinical trial.
+Study Title: The impacts of task shifting on the management and treatment of malnourished children in Northern Kenya: a cluster-randomized controlled trial.
 
 Study Summary:
-Erector spinae plane block (ESPB) is a novel fascial plane block technique that can provide effective perioperative analgesia for thoracic, abdominal and lumbar surgeries. However, the effect of cervical ESPB on postoperative analgesia after arthroscopic shoulder surgery is unknown. The aim of this study is to investigate the analgesic effect and safety of ultrasound-guided cervical ESPB in arthroscopic shoulder surgery. Seventy patients undergoing arthroscopy shoulder surgery were randomly assigned to one of two groups: ESPB group (n&#x2009;=&#x2009;35) or control group (n&#x2009;=&#x2009;35). Patients in the ESPB group received an ultrasound-guided ESPB at the C7 level with 30 mL of 0.25% ropivacaine 30&#xa0;min before induction of general anesthesia, whereas patients in the control group received no block. The primary outcome measures were the static visual analogue scale (VAS) pain scores at 4, 12, and 24&#xa0;h after surgery. Secondary outcomes included heart rate (HR) and mean arterial pressure (MAP) before anesthesia (t1), 5&#xa0;min after anesthesia (t2), 10&#xa0;min after skin incision (t3), and 10&#xa0;min after extubation (t4); intraoperative remifentanil consumption; the Bruggrmann comfort scale (BCS) score, quality of recovery-15 (QoR-15) scale score and the number of patients who required rescue analgesia 24&#xa0;h after surgery; and adverse events. The static VAS scores at 4, 12 and 24&#xa0;h after surgery were significantly lower in the ESPB group than those in the control group (2.17&#x2009;&#xb1;&#x2009;0.71 vs. 3.14&#x2009;&#xb1;&#x2009;1.19, 1.77&#x2009;&#xb1;&#x2009;0.77 vs. 2.63&#x2009;&#xb1;&#x2009;0.84, 0.74&#x2009;&#xb1;&#x2009;0.66 vs. 1.14&#x2009;&#xb1;&#x2009;0.88, all P&#x2009;<&#x2009;0.05). There were no significant differences in HR or MAP at any time point during the perioperative period between the two groups (all P&#x2009;>&#x2009;0.05). The intraoperative consumption of remifentanil was significantly less in the ESPB group compared to the control group (P&#x2009;<&#x2009;0.05). The scores of BCS and QoR-15 scale were higher in the ESPB group 24&#xa0;h after surgery than those in the control group (P&#x2009;<&#x2009;0.05). Compared to the control group, fewer patients in the ESPB group required rescue analgesia 24&#xa0;h after surgery (P&#x2009;<&#x2009;0.05). No serious complications occurred in either group. Ultrasound-guided cervical ESPB can provide effective postoperative analgesia following arthroscopic shoulder surgery, resulting in a better postoperative recovery with fewer complications. Chictr.org.cn identifier ChiCTR2300070731 (Date of registry: 21/04/2023, prospectively registered).
+Treating children with acute malnutrition can be challenging, particularly regarding access to healthcare facilities during treatment. Task shifting, a strategy of transferring specific tasks to health workers with shorter training and fewer qualifications, is being considered as an effective approach to enhancing health outcomes in primary healthcare. This study aimed to assess the effectiveness of integrating the treatment of acute malnutrition by community health volunteers into integrated community case management in two sub-counties in northern Kenya (Loima and Isiolo). We conducted a two-arm non-inferiority cluster-randomized controlled trial across 20 community health units. Participants were children aged 6-59&#x2009;months with uncomplicated acute malnutrition. In the intervention group, community health volunteers used simplified tools and protocols to identify and treat eligible children at home and provided the usual integrated community case management package. In the control group, community health volunteers provided the usual integrated community case management package only (screening and referral of the malnourished children to the health facilities). The primary outcome was recovery (MUAC &#x2265;12.5&#x2009;cm for 2 consecutive weeks). Results show that children in the intervention group were more likely to recover than those in the control group [73 vs 50; risk difference (RD)&#x2009;=&#x2009;26% (95% CI 12 to 40) and risk ratio (RR)&#x2009;=&#x2009;2 (95% CI 1.2 to 1.9)]. The probability of defaulting was lower in the intervention group than in the control group: RD&#x2009;=&#x2009;-21% (95% CI -31 to -10) and RR&#x2009;=&#x2009;0.3 (95% CI 0.2 to 0.5). The intervention reduced the length of stay by about 13&#x2009;days, although this was not statistically significant and varied substantially by sub-county. Integrating the treatment of acute malnutrition by community health volunteers into the integrated community case management programme led to better malnutrition treatment outcomes. There is a need to integrate acute malnutrition treatment into integrated community case management and review policies to allow community health volunteers to treat uncomplicated acute malnutrition.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12871-024-02586-7
+- DOI: 10.1093/heapol/czae036
 
 2. Keywords
-- Arthroscopic shoulder surgery
-- Erector spinae plane block
-- Pain
-- Postoperative analgesia
+- Task shifting
+- child malnutrition
+- community health volunteers
+- non-inferiority cluster-randomized controlled trial
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Arthroscopic shoulder surgery assessment methods and outcomes
-- Erector spinae plane block assessment methods and outcomes
-- Pain assessment methods and outcomes
+- Task shifting assessment methods and outcomes
+- child malnutrition assessment methods and outcomes
+- community health volunteers assessment methods and outcomes

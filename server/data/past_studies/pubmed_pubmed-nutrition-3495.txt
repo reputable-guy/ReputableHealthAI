@@ -1,26 +1,27 @@
-Study Title: Acute Beetroot Juice Supplementation Has No Effect on Upper- and Lower-Body Maximal Isokinetic Strength and Muscular Endurance in International-Level Male Gymnasts.
+Study Title: Risk factors for moderate acute malnutrition among children with acute diarrhoea in India and Tanzania: a secondary analysis of data from a randomized trial.
 
 Study Summary:
-Nitrate (NO3-) has properties that can improve muscle function, leading to improvements in metabolic cost of exercise as well as enhance force production. Gymnastics is a whole-body sport, involving events that demand a high level of strength and fatigue resistance. However, the effect of NO3- supplementation on both upper- and lower-body function in gymnasts is unknown. This study examined the effect of acute beetroot juice (BRJ) supplementation on isokinetic strength and endurance of the upper- and lower-body in highly trained international-level male gymnasts. In a double-blind, randomized crossover design, 10 international-level male gymnasts completed two acute supplementation periods, consuming either 2 &#xd7; 70&#xa0;ml NO3--rich (&#x223c;12.8&#xa0;mmol/L of NO3-) or NO3--depleted (PLA) BRJ. Maximal strength of the upper-leg and upper-arm at 60&#xb0;/s, 120&#xb0;/s, 180&#xb0;/s, and 300&#xb0;/s, and muscular endurance (50 repeated isokinetic contractions at 180&#xb0;/s) were assessed. Plasma NO3- (BRJ: 663 &#xb1; 164&#xa0;&#x3bc;M, PLA: 89 &#xb1; 48&#xa0;&#x3bc;M) and nitrite (NO2-) concentrations (BRJ: 410 &#xb1; 137&#xa0;nmol/L, PLA: 125 &#xb1; 36&#xa0;nmol/L) were elevated following BRJ compared to PLA (both p < .001). Maximal strength of knee and elbow extensors and flexors did not differ between supplements (p > .05 for all velocities). Similarly, fatigue index of knee and elbow extension and flexion was not different between supplements (all p > .05). Acute BRJ supplementation, containing &#x223c;12.8&#xa0;mmol/L of NO3-, increased plasma NO3- and NO2- concentrations, but did not enhance isokinetic strength or fatigue resistance of either upper or lower extremities in international-level male gymnasts.
+Moderate acute malnutrition (MAM) affects over 30 million children aged&#x2009;<&#x2009;5&#xa0;years worldwide. MAM may confer a greater risk of developing severe malnutrition and even mortality in children. Assessing risk factors for MAM may allow for earlier recognition of children at risk of deleterious health outcomes. To determine risk factors associated with the prevalence and development of MAM among children aged 6 to 59&#xa0;months with acute diarrhoea who received treatment with oral rehydration solution and zinc supplementation. We conducted a secondary analysis of data from a randomized, dose-finding trial of zinc among children with acute diarrhoea in India and Tanzania. We used regression models to assess risk factors for prevalent MAM at the start of diarrhoea treatment and to identify risk factors associated with the development of MAM at 60&#xa0;days. MAM was defined as weight for length (or height) Z score&#x2009;&#x2264;-2 and&#x2009;>&#x2009;-3 or mid-upper arm circumference&#x2009;<&#x2009;12.5 and&#x2009;&#x2265;&#x2009;11.5&#xa0;cm. A total of 4,500 children were enrolled; 593 (13.2%) had MAM at the baseline. MAM at baseline was significantly less common among children in Tanzania than in India (adjusted risk ratio [aRR] 0.37, 95% confidence interval [CI]: 0.30, 0.44, P&#x2009;<&#x2009;0.001), in children aged 24-&#x2009;<&#x2009;60&#xa0;months versus 6-&#x2009;<&#x2009;12&#xa0;months (aRR 0.46, 95% CI: 0.38, 0.56, P&#x2009;<&#x2009;0.001), and in families with household wealth index higher than the median (aRR 0.79, 95% CI: 0.68, 0.92, P&#x2009;=&#x2009;0.002). Sixty days after outpatient treatment and follow-up, 87 (2.5%) children developed MAM. When compared to children aged 6-&#x2009;<&#x2009;12&#xa0;months, children aged 24-&#x2009;<&#x2009;60&#xa0;months had a 52% lower risk of developing MAM. Every one unit increase in weight for length (or height) Z score at enrolment was associated with a 93% lower risk of developing MAM during follow-up. Among children with diarrhoea, younger children and those from households with lower wealth were at greater risk of MAM. These children may benefit from targeted interventions focusing on feeding (targeted nutrition support for at-risk households) and follow up in order to reduce the occurrence of MAM and its consequences.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1123/ijsnem.2023-0202
+- DOI: 10.1186/s12887-024-04551-2
 
 2. Keywords
-- ergogenic aid
-- functional food
-- musculoskeletal
-- nitric oxide
-- sport nutrition
+- Acute diarrhoea
+- India
+- Moderate Acute Malnutrition
+- Paediatric
+- Tanzania
+- Zinc
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- ergogenic aid assessment methods and outcomes
-- functional food assessment methods and outcomes
-- musculoskeletal assessment methods and outcomes
+- Acute diarrhoea assessment methods and outcomes
+- India assessment methods and outcomes
+- Moderate Acute Malnutrition assessment methods and outcomes

@@ -1,27 +1,25 @@
-Study Title: Middle-range scores from the patient determined disease steps scale reflect varying levels of walking dysfunction in multiple sclerosis.
+Study Title: Effect of moderate-intensity aquatic treadmill exercise on cognitive function and cerebral blood flow for healthy older adults.
 
 Study Summary:
-Multiple sclerosis (MS) is a leading cause of neurological disability among young and middle-aged adults worldwide, and disability is measured using a variety of approaches, including patient reported outcome measures (PROMs) such as the Patient Determined Disease Steps (PDDS) scale. There is limited evidence for the validity of inferences from the middle-range of scores on the PDDS (i.e., 3 "gait disability" - 6 "bilateral support"), but that range of scores seemingly represents moderate disability characterized by varying levels of walking dysfunction. The current study examined whether the middle-range of scores from the PDDS reflect varying levels of walking dysfunction among people with MS. Participants (N&#x2009;=&#x2009;374) completed the Patient Determined Disease Steps (PDDS) scale, Multiple Sclerosis Walking Scale-12 (MSWS-12), timed 25-foot walk (T25FW), six-minute walk (6&#xa0;MW), Modified Fatigue Impact Scale (MFIS), and Multiple Sclerosis Impact Scale-29 (MSIS-29), and underwent a neurological exam for generating an Expanded Disability Status Scale (EDSS) score as part of screening and baseline data collection for a clinical trial of exercise training in MS. We undertook a series of linear trend analyses that examined differences in the outcomes of EDSS, T25FW, 6&#xa0;MW, MSWS-12, MFIS subscales, and MSIS-29 subscales across the 4 levels of PDDS scores (i.e., 3-6). There were statistically significant and strong linear trends for EDSS (F= 306.1, p&#x2009;<&#x2009;.0001, &#x3b7;&#x2009;=&#x2009;0.48), T25FW (F= 161.0, p&#x2009;<&#x2009;.0001, &#x3b7;&#x2009;=&#x2009;0.32), 6&#xa0;MW (F= 178.9, p&#x2009;<&#x2009;.0001, &#x3b7;&#x2009;=&#x2009;0.34), and MSWS-12 (F= 97.0, p&#x2009;<&#x2009;.0001, &#x3b7;&#x2009;=&#x2009;0.24). There was a strong correlation between PDDS and EDSS scores (r= 0.695, 95% CI&#x2009;=&#x2009;0.643, 0.748). Both PDDS and EDSS scores had strong correlations with walking outcomes, yet weaker correlations with measures of fatigue and QOL. The PDDS could serve as a simple, inexpensive, and rapidly administered PROM for remote screening and early detection of walking dysfunction for initial eligibility into clinical trials and practice for managing mobility-specific disability in MS. The study was registered on ClinicalTrials.gov on March 19, 2018 (NCT03468868).
+To compare the effect of moderate-intensity aquatic treadmill exercise (ATM) on cerebral blood flow (CBF) and cognitive function in healthy older adults to that of moderate-intensity land-based treadmill exercise (LTM). This randomized controlled trial study was conducted between May 2023 and Oct 2023. Twenty-eight participants aged 60-80 were randomly assigned to either ATM group (N&#xa0;=&#xa0;14) or LTM group (N&#xa0;=&#xa0;14). Cognitive function and cerebral blood flow were assessed before and after the exercise. The outcome measures used in this study were the Digit Symbol Substitution Test (DSST) and the Digit Span Test (DST) to assess cognitive performance, and the mean middle cerebral artery blood velocity (MCAvmean) to evaluate CBF. A mixed effects model was used to analyze the within-group and between-group differences in cognitive function and CBF outcomes pre-to-post treadmill by SPSS. The DSST demonstrated a statistically significant improvement within both the ATM [&#x3b2;&#xa0;&#xb1;&#xa0;SE: -13.643&#xa0;&#xb1;&#xa0;2.407, 95&#xa0;% CI: -18.749, -8.537] and LTM [&#x3b2;&#xa0;&#xb1;&#xa0;SE: -19.25&#xa0;&#xb1;&#xa0;3.66, 95&#xa0;% CI: -26.424, -12.076] groups, indicating clinical significance in both groups. Both ATM and LTM groups exhibited post-exercise improvements within their respective groups for forward Digit Span Test (FDST) [ATM &#x3b2;&#xa0;&#xb1;&#xa0;SE: -0.143&#xa0;&#xb1;&#xa0;0.362, 95&#xa0;% CI: -0.92, 0.634; LTM &#x3b2;&#xa0;&#xb1;&#xa0;SE: -0.286&#xa0;&#xb1;&#xa0;0.37, 95&#xa0;% CI: -1.078, 0.506] and backward Digit Span Test (BDST) (ATM &#x3b2;&#xa0;&#xb1;&#xa0;SE: -1.741&#xa0;&#xb1;&#xa0;5.377, 95&#xa0;% CI: -13.27, 9.792; LTM &#x3b2;&#xa0;&#xb1;&#xa0;SE: -6.729&#xa0;&#xb1;&#xa0;5.370, 95&#xa0;% CI: -4.788, 18.24). In terms of MCAv, there is a higher improvement of CBF in ATM group [&#x3b2;&#xa0;&#xb1;&#xa0;SE: -138.669&#xa0;&#xb1;&#xa0;67.9217, 95&#xa0;% CI: -288.164, 10.826] than LTM group [&#x3b2;&#xa0;&#xb1;&#xa0;SE: -9.305&#xa0;&#xb1;&#xa0;70.076, 95&#xa0;% CI: -153.617, 135.007]. Hence, a single bout of moderate-intensity ATM and LTM can enhance cognitive function and CBF in healthy older adults, suggesting their potential as preventive strategies against age-related declines.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12883-024-03871-1
+- DOI: 10.1016/j.exger.2024.112605
 
 2. Keywords
-- Multiple sclerosis
-- Neurological disability
-- Neurological disease
-- Patient reported Outcome measure
-- Validity
-- Walking
+- Aerobic exercise
+- Aquatics training
+- Cerebral perfusion
+- Cognition
 
 3. Key Findings
-- Findings extraction requires manual review
+- The DSST demonstrated a statistically significant improvement within both the ATM [&#x3b2;&#xa0;&#xb1;&#xa0;SE: -13
 
 This study provides insights into:
-- Multiple sclerosis assessment methods and outcomes
-- Neurological disability assessment methods and outcomes
-- Neurological disease assessment methods and outcomes
+- Aerobic exercise assessment methods and outcomes
+- Aquatics training assessment methods and outcomes
+- Cerebral perfusion assessment methods and outcomes

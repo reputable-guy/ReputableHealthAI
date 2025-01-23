@@ -1,20 +1,29 @@
-Study Title: Early and Sustained Improvements in Symptoms and Quality of Life with Upadacitinib in Adults and Adolescents with Moderate-to-Severe Atopic Dermatitis: 52-Week Results from Two Phase III Randomized Clinical Trials (Measure Up 1 and Measure&#xa0;Up&#xa0;2).
+Study Title: Comparative Analysis of Psychophysiological Responses in Fibromyalgia Patients: Evaluating Neuromodulation Alone, Neuromodulation Combined with Virtual Reality, and Exercise Interventions.
 
 Study Summary:
-Atopic dermatitis is a chronic inflammatory disease characterized by increased itch, skin pain, poor sleep quality, and other symptoms that negatively affect patient quality of life. Upadacitinib, an oral selective Janus kinase (JAK) inhibitor with greater inhibitory potency for JAK1 than JAK2, JAK3, or tyrosine kinase 2, is approved to treat moderate-to-severe atopic dermatitis. We aimed to evaluate the effect of upadacitinib on patient-reported outcomes over 52&#xa0;weeks in adults and adolescents with moderate-to-severe atopic dermatitis. Data from two phase III monotherapy trials of upadacitinib (Measure Up 1, NCT03569293; Measure Up 2, NCT03607422) were integrated. Changes in pruritus, pain, other skin symptoms, sleep, quality of life, mental health, and patient impression were evaluated. Patient-reported outcome assessments included the Worst Pruritus Numerical Rating Scale, Patient-Oriented Eczema Measure, Dermatology Life Quality Index, Atopic Dermatitis Symptom Scale, Atopic Dermatitis Impact Scale, Hospital Anxiety and Depression Scale, SCORing Atopic Dermatitis index, Patient Global Impression of Severity, Patient Global Impression of Change, and Patient Global Impression of Treatment. Minimal clinically important differences, achievement of scores representing minimal disease burden, and the change from baseline were evaluated in patients who received upadacitinib through week 52 and in patients who received placebo through week&#xa0;16. This analysis included 1609 patients (upadacitinib 15 mg, N&#xa0;=&#xa0;557; upadacitinib 30 mg, N&#xa0;=&#xa0;567; placebo, N&#xa0;=&#xa0;485). Baseline demographics and disease characteristics were generally similar across all arms. The proportion of patients treated with upadacitinib reporting improvements in itch increased rapidly by week 1, increased steadily through week 8, and was sustained through week 52. Patients receiving upadacitinib also experienced improvements in pain and other skin symptoms by week 1, which continued through week 16; improvements were maintained through week 52. Patient reports of improved sleep increased rapidly from baseline to week 1, increased steadily through week 32, and were sustained through week 52. Patients experienced quality-of-life improvements through week 8, which were maintained through week 52. By week 1, patients in both upadacitinib groups experienced rapid improvements in emotional state, and by week 12, patients also achieved meaningful improvements in anxiety and depression. Improvements in mental health continued steadily through week 32 and were maintained through week 52. Patients treated with upadacitinib&#xa0;30&#xa0;mg generally experienced improvements in patient-reported outcomes earlier than those treated with upadacitinib 15 mg. Through week 16, patients receiving upadacitinib experienced greater improvements versus those receiving placebo in all assessed patient-reported outcomes. Adults and adolescents with moderate-to-severe atopic dermatitis treated with once-daily upadacitinib 15 or 30 mg experienced early improvements in itch, pain, other skin symptoms, sleep, quality of life, and mental health that were sustained through week&#xa0;52. ClinicalTrials.gov identifiers NCT03569293 (13 August 2018) and NCT03607422 (27 July 2018).
+Fibromyalgia, a chronic condition, manifests as widespread musculoskeletal pain, fatigue, sleep disturbances, autonomic and cognitive dysfunction, hypersensitivity to stimuli, and various somatic and psychiatric symptoms. This study, a controlled and randomized experiment, aimed to evaluate and compare the immediate effects of different treatments on fibromyalgia patients. The treatments included the EXOPULSE Mollii suit, a combination of the EXOPULSE Mollii suit with a virtual reality (VR) protocol, and a physical exercise regimen. A cohort of 89 female fibromyalgia patients was randomly assigned to one of four groups: Control (= 20), Suit only (= 22), Suit combined with VR (= 21), and Exercise (= 26). This study found notable differences across the groups in several key parameters. In the Control group, significant changes were observed in Forced Expiratory Volume (FEV 1/FEV 6), the Numeric Rating Scale (NRS) for pain, Pressure Pain Threshold (PPT) at the epicondyle, cortical arousal levels, the 10 m up-and-go test, and in all measured variables related to temperature and muscle oxygenation. For the group using the suit alone, there were significant differences noted in the NRS, the chair stand test, palm temperature, and all muscle oxygenation parameters. The Suit + VR group showed significant changes in the NRS, PPT at the knee, handgrip strength test, the 10 m up-and-go test, one-leg balance test with the right leg, muscle oxygen saturation (SmO), deoxygenated hemoglobin (HHb), and oxygenated hemoglobin (OHb). Finally, the Exercise group exhibited significant differences in FEV 1/FEV 6, chest perimeter difference, NRS, PPT at both the epicondyle and knee, cortical arousal, the chair stand test, the 10-m up-and-go test, and in SmO, HHb, and OHb levels. combining neuromodulation with VR and targeted exercise regimens can effectively alleviate fibromyalgia symptoms, offering promising avenues for non-pharmacological management.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s40257-024-00853-4
+- DOI: 10.3390/medicina60030404
 
 2. Keywords
-
+- electrostimulation
+- exercise therapy
+- fibromyalgia innovations
+- pain management
+- pain modulation
+- psychophysiological assessment
+- virtual rehabilitation
 
 3. Key Findings
-- Findings extraction requires manual review
+- This study found notable differences across the groups in several key parameters
+- The Suit + VR group showed significant changes in the NRS, PPT at the knee, handgrip strength test, the 10 m up-and-go test, one-leg balance test with the right leg, muscle oxygen saturation (SmO), deoxygenated hemoglobin (HHb), and oxygenated hemoglobin (OHb)
 
 This study provides insights into:
-- General research methodology and outcomes
+- electrostimulation assessment methods and outcomes
+- exercise therapy assessment methods and outcomes
+- fibromyalgia innovations assessment methods and outcomes

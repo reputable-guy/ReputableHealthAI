@@ -1,26 +1,20 @@
-Study Title: Proposal and validation of a new approach in tele-rehabilitation with 3D human posture estimation: a randomized controlled trial in older individuals with sarcopenia.
+Study Title: Adolescents With a High Burden of New-Onset Mood Symptoms After Sport-Related Concussion Benefit From Prescribed Aerobic Exercise, a Secondary Analysis of 2 Randomized Controlled Trials.
 
 Study Summary:
-Through a randomized controlled trial on older adults with sarcopenia, this study compared the training effects of an AI-based remote training group using deep learning-based 3D human pose estimation technology with those of a face-to-face traditional training group and a general remote training group. Seventy five older adults with sarcopenia aged 60-75 from community organizations in Changchun city were randomly divided into a face-to-face traditional training group (TRHG), a general remote training group (GTHG), and an AI-based remote training group (AITHG). All groups underwent a 3-month program consisting of 24-form Taichi exercises, with a frequency of 3 sessions per week and each session lasting 40&#xa0;min. The participants underwent Appendicular Skeletal Muscle Mass Index (ASMI), grip strength, 6-meter walking pace, Timed Up and Go test (TUGT), and quality of life score (QoL) tests before the experiment, during the mid-term, and after the experiment. This study used SPSS26.0 software to perform one-way ANOVA and repeated measures ANOVA tests to compare the differences among the three groups. A significance level of p&#x2009;<&#x2009;0.05 was defined as having significant difference, while p&#x2009;<&#x2009;0.01 was defined as having a highly significant difference. (1) The comparison between the mid-term and pre-term indicators showed that TRHG experienced significant improvements in ASMI, 6-meter walking pace, and QoL (p&#x2009;<&#x2009;0.01), and a significant improvement in TUGT timing test (p&#x2009;<&#x2009;0.05); GTHG experienced extremely significant improvements in 6-meter walking pace and QoL (p&#x2009;<&#x2009;0.01); AITHG experienced extremely significant improvements in ASMI, 6-meter walking pace, and QoL (p&#x2009;<&#x2009;0.01), and a significant improvement in TUGT timing test (p&#x2009;<&#x2009;0.05). (2) The comparison between the post-term and pre-term indicators showed that TRHG experienced extremely significant improvements in TUGT timing test (p&#x2009;<&#x2009;0.01); GTHG experienced significant improvements in ASMI and TUGT timing test (p&#x2009;<&#x2009;0.05); and AITHG experienced extremely significant improvements in TUGT timing test (p&#x2009;<&#x2009;0.01). (3) During the mid-term, there was no significant difference among the groups in all tests (p&#x2009;>&#x2009;0.05). The same was in post-term tests (p&#x2009;>&#x2009;0.05). Compared to the pre-experiment, there was no significant difference at the post- experiment in the recovery effects on the muscle quality, physical activity ability, and life quality of patients with sarcopenia between the AI-based remote training group and the face-to-face traditional training group. 3D pose estimation is equally as effective as traditional rehabilitation methods in enhancing muscle quality, functionality and life quality in older adults with sarcopenia. The trial was registered in ClinicalTrials.gov (NCT05767710).
+Approximately 20% of students with sport-related concussion (SRC) report new symptoms of anxiety and depression which may be associated with delayed recovery and increased risk for developing a mood disorder. Early prescribed aerobic exercise facilitates recovery in athletes with concussion-related exercise intolerance. We studied the effect of aerobic exercise treatment on new mood symptoms early after SRC. Exploratory secondary analysis of 2 randomized controlled trials (RCT). Sports medicine clinics associated with UB (Buffalo, NY), CHOP (Philadelphia, PA), and Boston Children's Hospital (Boston, MA). Male and female adolescents (aged 13-18 years) diagnosed with SRC (2-10 days since injury). Participants were randomized to individualized targeted heart rate aerobic exercise (n = 102) or to a placebo intervention designed to mimic relative rest (n = 96). Incidence of Persisting Post-Concussive Symptoms (PPCS, symptoms &#x2265;28 days). First RCT recruited from 2016 to 2018 and the second from 2018 to 2020. Of 198 adolescents, 156 (79%) reported a low burden (mean 1.2 &#xb1; 1.65/24) while 42 (21%) reported a high burden (mean 9.74 &#xb1; 3.70/24) of emotional symptoms before randomization. Intervention hazard ratio for developing PPCS for low burden was 0.767 (95% CI, 0.546-1.079; P = 0.128; &#x3b2; = 0.085) and for high burden was 0.290 (95% CI, 0.123-0.683; P = 0.005; &#x3b2; = 0.732). High burden of mood symptoms early after injury increases risk for PPCS, but the sports medicine model of providing early targeted aerobic exercise treatment reduces it. Nonsports medicine clinicians who treat patients with a high burden of new mood symptoms after concussion should consider prescribing aerobic exercise treatment to reduce the risk of PPCS and a mood disorder.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1186/s12877-024-05188-7
+- Publication Date: 2025
+- DOI: 10.1097/JSM.0000000000001242
 
 2. Keywords
-- Human pose estimation technology
-- Remote rehabilitation
-- Tai chi
-- sarcopenia
+
 
 3. Key Findings
-- (1) The comparison between the mid-term and pre-term indicators showed that TRHG experienced significant improvements in ASMI, 6-meter walking pace, and QoL (p&#x2009;<&#x2009;0
-- (2) The comparison between the post-term and pre-term indicators showed that TRHG experienced extremely significant improvements in TUGT timing test (p&#x2009;<&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Human pose estimation technology assessment methods and outcomes
-- Remote rehabilitation assessment methods and outcomes
-- Tai chi assessment methods and outcomes
+- General research methodology and outcomes

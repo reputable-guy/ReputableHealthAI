@@ -1,27 +1,31 @@
-Study Title: The OMNIVEG STUDY: Health outcomes of shifting from a traditional to a vegan Mediterranean diet in healthy men. A&#xa0;controlled crossover trial.
+Study Title: Evaluating the effectiveness of a multi-component lifestyle therapy program versus psychological therapy for managing mood disorders (HARMON-E): protocol of a randomised non-inferiority trial.
 
 Study Summary:
-The Mediterranean diet is a plant-based dietary pattern with well-established health benefits such as the reduced risk of cardiovascular disease. Additionally, incorporating more plant-based foods into a Mediterranean diet may provide further health benefits. The study aimed to assess the effect of shifting from a traditional Mediterranean diet to a vegan Mediterranean diet on cardiorespiratory fitness and lipid profile in physically active and healthy men. Participants underwent a baseline period with adhesion to the general patterns of the Mediterranean diet for three weeks and then they changed to an isocaloric vegan version of the Mediterranean diet for four weeks, with a 7-day washout period between diets. The shift from the traditional Mediterranean diet to the vegan Mediterranean diet required substituting animal-based foods with plant-based foods that contain comparable amounts of protein and fat. Fourteen participants with a mean age of 24.6&#xa0;&#xb1;&#xa0;7.0 years (range: 18-37 years), completed the study protocol. The change from the traditional to the vegan Mediterranean diet reduced blood concentration of total cholesterol (-22.6&#xa0;mg/dl, p&#xa0;<&#xa0;0.01, Effect size [ES]&#xa0;=&#xa0;1.07) and low-density lipoprotein cholesterol (-12.8&#xa0;mg/dl, p&#xa0;<&#xa0;0.01, ES&#xa0;=&#xa0;0.72). An inverse correlation was observed between the intake of dietary fibre and LDL-C (partial rho&#xa0;=&#xa0;-0.43, p&#xa0;=&#xa0;0.040). The adoption of a vegan Mediterranean diet with plant-based proteins and fats instead of the traditional Mediterranean diet improved several cardiometabolic health outcomes in physically active and healthy men. NCT06008886.
+Mood disorders, including unipolar and bipolar depression, contribute significantly to the global burden of disease. Psychological therapy is considered a gold standard non-pharmacological treatment for managing these conditions; however, a growing body of evidence also supports the use of lifestyle therapies for these conditions. Despite some clinical guidelines endorsing the application of lifestyle therapies as a first-line treatment for individuals with mood disorders, there is limited evidence that this recommendation has been widely adopted into routine practice. A key obstacle is the insufficient evidence on whether lifestyle therapies match the clinical and cost effectiveness of psychological therapy, particularly for treating those with moderate to severe symptoms. The HARMON-E Trial seeks to address this gap by conducting a non-inferiority trial evaluating whether a multi-component lifestyle therapy program is non-inferior to psychological therapy on clinical and cost-effectiveness outcomes over 8-weeks for adults with major depressive disorder and bipolar affective disorder. This trial uses an individually randomised group treatment design with computer generated block randomisation (1:1). Three hundred and seventy-eight adults with clinical depression or bipolar affective disorder, a recent major depressive episode, and moderate-to-severe depressive symptoms are randomised to receive either lifestyle therapy or psychological therapy (adjunctive to any existing treatments, including pharmacotherapies). Both therapy programs are delivered remotely, via a secure online video conferencing platform. The programs comprise an individual session and six subsequent group-based sessions over 8-weeks. All program aspects (e.g. session duration, time of day, and communications between participants and facilitators) are matched except for the content and program facilitators. Lifestyle therapy is provided by a dietitian and exercise physiologist focusing on four pillars of lifestyle (diet, physical activity, sleep, and substance use), and the psychological therapy program is provided by two psychologists using a cognitive behavioural therapy approach. Data collection occurs at baseline, 8-weeks, 16-weeks, and 6 months with research assistants blinded to allocation. The primary outcome is depressive symptoms at 8 weeks, measured using the Montgomery-&#xc5;sberg Depression Rating Scale (MADRS) (minimal clinically important difference&#x2009;=&#x2009;1.6). A pre-specified within-trial economic evaluation will also be conducted. Should lifestyle therapy be found to be as clinically and cost effective as psychological therapy for managing mood disorders, this approach has potential to be considered as an adjunctive treatment for those with moderate to severe depressive symptoms. Australia and New Zealand Clinical Trials Register (ANZCTR): ACTRN12622001026718, registered 22nd July 2022. &#xa0;4.14, 26/06/2024.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.numecd.2024.08.008
+- DOI: 10.1186/s12888-024-06098-z
 
 2. Keywords
-- Aerobic performance
-- Diet therapy
-- Healthy lifestyle
-- Sports nutrition
-- Vegan diet
-- Vegans
+- Bipolar affective disorder
+- Depression
+- Diet
+- Exercise
+- Mental Health
+- Nutrition
+- Physical activity
+- Psychotherapy
+- Sleep
+- Substance use
 
 3. Key Findings
-- Findings extraction requires manual review
+- Should lifestyle therapy be found to be as clinically and cost effective as psychological therapy for managing mood disorders, this approach has potential to be considered as an adjunctive treatment for those with moderate to severe depressive symptoms
 
 This study provides insights into:
-- Aerobic performance assessment methods and outcomes
-- Diet therapy assessment methods and outcomes
-- Healthy lifestyle assessment methods and outcomes
+- Bipolar affective disorder assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Diet assessment methods and outcomes

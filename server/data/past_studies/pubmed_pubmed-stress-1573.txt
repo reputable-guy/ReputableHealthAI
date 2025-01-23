@@ -1,20 +1,20 @@
-Study Title: Remote ischaemic preconditioning on gene expression and circulating proteins after subacute laparoscopic cholecystectomy: randomized clinical trial.
+Study Title: High-Dose Intravenous Vitamin C Combined with Docetaxel in Men with Metastatic Castration-Resistant Prostate Cancer: A Randomized Placebo-Controlled Phase II Trial.
 
 Study Summary:
-Surgical stress may lead to postsurgical hypercoagulability, endothelial dysfunction and systemic inflammation, which can impact on patient recovery. Remote ischaemic preconditioning is a procedure that activates the body's endogenous defences against ischaemia and reperfusion injury. Studies have suggested that remote ischaemic preconditioning has antithrombotic, antioxidative and anti-inflammatory effects. The hypothesis was that remote ischaemic preconditioning reduces surgery-induced systemic stress response. During a 24-month period (2019-2021), adult patients undergoing subacute laparoscopic cholecystectomy due to acute cholecystitis were randomized to remote ischaemic preconditioning or control. Remote ischaemic preconditioning was performed less than 4 h before surgery on the upper arm. It consisted of four cycles of 5 min ischaemia and 5 min reperfusion. The gene expression of 750 genes involved in inflammatory processes, oxidative stress and endothelial function was investigated preoperatively and 2-4 h after surgery in both groups. In addition, changes in 20 inflammation- and vascular trauma-associated proteins were assessed preoperatively, 2-4 h after surgery and 24 h after surgery. A total of 60 patients were randomized. There were no statistically significant differences in gene expression 2-4 h after surgery between the groups (P > 0.05). Remote ischaemic preconditioning did not affect concentrations of circulating proteins up to 24 h after surgery (P > 0.05). The study did not demonstrate any effect of remote ischaemic preconditioning on expression levels of the chosen genes or in circulating immunological cytokines and vascular trauma-associated proteins up to 24&#x2005;h after subacute laparoscopic cholecystectomy in patients with acute cholecystitis.
+High-dose intravenous vitamin C (HDIVC) administered to produce pharmacologic concentrations shows promise in preclinical models and small clinical trials, but larger prospective randomized trials are lacking. We evaluated the clinical benefit of combining HDIVC with docetaxel in patients with progressive metastatic castration-resistant prostate cancer (mCRPC). In this double-blind, placebo-controlled phase II trial, 47 patients were randomized 2:1 to receive docetaxel (75 mg/m2 i.v.) with either HDIVC (1 g/kg) or placebo. Coprimary endpoints were PSA50 response and adverse event rates. Secondary endpoints included overall survival, radiographic progression-free survival, and quality of life measured using the Functional Assessment of Cancer Therapy-Prostate instrument. Correlative analyses included pharmacokinetics and oxidative stress markers. Eighty-nine percent of patients previously had three or more lines of therapy. The PSA50 response rate was 41% in the HDIVC group and 33% in the placebo group (P = 0.44), with comparable adverse event rates in both groups. There were no significant differences in Functional Assessment of Cancer Therapy-Prostate scores. The median radiographic progression-free survival was not significantly different between the HDIVC and placebo groups, with durations of 10.1 and 10.0 months (HR, 1.35; 95% confidence interval, 0.66-2.75; P = 0.40), respectively. The median overall survival was 15.2 months in the HDIVC group and 29.5 months in the placebo group (HR, 1.98; 95% confidence interval, 0.85-4.58; P = 0.11). HDIVC did not decrease F2-isoprostanes, indicators of oxidative stress. The study was suspended after prespecified interim analysis indicated futility in achieving primary endpoints. In this patient population, combining HDIVC with docetaxel did not improve PSA response, toxicity, or other clinical outcomes compared with docetaxel alone. Findings do not support the routine use of HDIVC in mCRPC treatment outside of clinical trials. This is the first randomized, placebo-controlled, double-blind trial to evaluate HDIVC in cancer treatment. The addition of HDIVC to docetaxel in patients with mCRPC does not improve PSA response, toxicity, or other clinical outcomes compared with docetaxel alone. The routine use of HDIVC in mCRPC treatment is not supported outside of clinical trials.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/bjsopen/zrae067
+- DOI: 10.1158/2767-9764.CRC-24-0225
 
 2. Keywords
 
 
 3. Key Findings
-- Findings extraction requires manual review
+- The study was suspended after prespecified interim analysis indicated futility in achieving primary endpoints
 
 This study provides insights into:
 - General research methodology and outcomes

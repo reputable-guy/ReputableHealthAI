@@ -1,27 +1,27 @@
-Study Title: Efficacy of Mobile App-Based Cognitive Behavioral Therapy for Insomnia: Multicenter, Single-Blind Randomized Clinical Trial.
+Study Title: The effect of acupressure and halogen light stimulation on nonstress testing and antenatal anxiety: A randomized controlled trial.
 
 Study Summary:
-Cognitive behavioral therapy for insomnia (CBTi) is the first-line therapy for chronic insomnia. Mobile app-based CBTi (MCBTi) can enhance the accessibility of CBTi treatment; however, few studies have evaluated the effectiveness of MCBTi using a multicenter, randomized controlled trial design. We aimed to assess the efficacy of Somzz, an MCBTi that provides real-time and tailored feedback to users, through comparison with an active comparator app. In our multicenter, single-blind randomized controlled trial study, participants were recruited from 3 university hospitals and randomized into a Somzz group and a sleep hygiene education (SHE) group at a 1:1 ratio. The intervention included 6 sessions for 6 weeks, with follow-up visits over a 4-month period. The Somzz group received audiovisual sleep education, guidance on relaxation therapy, and real-time feedback on sleep behavior. The primary outcome was the Insomnia Severity Index score, and secondary outcomes included sleep diary measures and mental health self-reports. We analyzed the outcomes based on the intention-to-treat principle. A total of 98 participants were randomized into the Somzz (n=49, 50%) and SHE (n=49, 50%) groups. Insomnia Severity Index scores for the Somzz group were significantly lower at the postintervention time point (9.0 vs 12.8; t=3.85; F=22.76; &#x3b7;=0.13; P<.001) and at the 3-month follow-up visit (11.3 vs 14.7; t=2.61; F=5.85; &#x3b7;=0.03; P=.01) compared to those of the SHE group. The Somzz group maintained their treatment effect at the postintervention time point and follow-ups, with a moderate to large effect size (Cohen d=-0.62 to -1.35; P<.01 in all cases). Furthermore, the Somzz group showed better sleep efficiency (t=-3.32; F=69.87; &#x3b7;=0.41; P=.001), wake after sleep onset (t=2.55; F=51.81; &#x3b7;=0.36; P=.01), satisfaction (t=-2.05; F=26.63; &#x3b7;=0.20; P=.04) related to sleep, and mental health outcomes, including depression (t=2.11; F=29.64; &#x3b7;=0.21; P=.04) and quality of life (t=-3.13; F=54.20; &#x3b7;=0.33; P=.002), compared to the SHE group after the intervention. The attrition rate in the Somzz group was 12% (6/49). Somzz outperformed SHE in improving insomnia, mental health, and quality of life. The MCBTi can be a highly accessible, time-efficient, and effective treatment option for chronic insomnia, with high compliance. Clinical Research Information Service (CRiS) KCT0007292; https://cris.nih.go.kr/cris/search/detailSearch.do?seq=22214&search_page=L.
+Acupressure and halogen light stimulation, are used to reduce false non-reactive nonstress test results related to fetal sleep. This study was conducted to determine the effect of acupressure and halogen light stimulation on nonstress testing and anxiety during pregnancy. Randomized controlled experimental study. The population of the study consisted of pregnant women who were requested to have a nonstress test. The sample of the study included 132 pregnant women (acupressure group:44; halogen light group:45, and control group:43). The acupressure group was applied acupressure on the Zhiyin acupuncture point three times, the halogen light group was applied halogen light stimulation twice on the fetal head from the mother's abdomen. In the interpretation of the results, the level of statistical significance was taken as P < 0.05. In our study, there was no difference between the acupressure and halogen light groups in terms of the mean number of fetal movements, the number of accelerations, the time to the first acceleration, and the time to reach the reactive result in the nonstress test (P > 0.05), while the mean number of fetal movements and accelerations of these two groups were higher, and the mean time to the first acceleration and the mean time to reach the reactive result in the nonstress test were shorter than those of the control group (P < 0.05). In addition, no statistically significant difference was found between the groups in terms of mean state anxiety inventory scores (P > 0.05). Acupressure and halogen light stimulation increased the rates of reactive nonstress tests.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/50555
+- DOI: 10.1016/j.explore.2024.103035
 
 2. Keywords
-- cognitive behavioral therapy
-- digital therapeutics
-- insomnia
-- mental health
-- mobile app&#x2013;based cognitive behavioral therapy for insomnia
-- mobile phone
+- Acupressure,
+- Anxiety
+- Cardiotocography
+- Halogen light stimulation
+- Nonstress test
+- Pregnancy
 
 3. Key Findings
-- Furthermore, the Somzz group showed better sleep efficiency (t=-3
+- In addition, no statistically significant difference was found between the groups in terms of mean state anxiety inventory scores (P > 0
 
 This study provides insights into:
-- cognitive behavioral therapy assessment methods and outcomes
-- digital therapeutics assessment methods and outcomes
-- insomnia assessment methods and outcomes
+- Acupressure, assessment methods and outcomes
+- Anxiety assessment methods and outcomes
+- Cardiotocography assessment methods and outcomes

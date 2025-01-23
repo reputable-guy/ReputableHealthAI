@@ -1,26 +1,26 @@
-Study Title: Association of Age, Frailty, and Strategy for Initiation of Renal-Replacement Therapy: A Post Hoc analysis of the STARRT-Acute Kidney Injury Trial.
+Study Title: Identifying the Mechanisms of a Peripherally Limited Exercise Phenotype in Patients With Heart Failure With Preserved Ejection Fraction.
 
 Study Summary:
-This study was designed to assess the association of age and frailty with clinical outcomes in patients with severe acute kidney injury (AKI), according to accelerated and standard renal-replacement therapy (RRT) initiation strategies in the STARRT-AKI trial. This was a secondary analysis of an international randomized trial. Older age was defined as &#x2265;65 years. Frailty was assessed using the clinical frailty scale (CFS) score and defined as a score &#x2265;5. The primary outcome was all-cause mortality at 90 days. Secondary outcomes included RRT dependence and RRT-free days at 90 days. We used logistic and linear regression and interaction testing to explore the impact of age and frailty on clinical outcomes. Of 2,927 patients randomized in the STARRT-AKI trial, 1,616 (55.2%) were aged &#x2265;65 years (median [interquartile range] 73.9 [69.4-78.9]). Older patients had greater comorbid cardiovascular and chronic kidney disease, were more likely to be surgical admissions and to receive vasopressors at baseline. Older patients had higher 90-day mortality (50.4% vs. 35.6%, adjusted-odds ratio (OR), 1.81 [1.53-2.13], p &lt; 0.001). There was no significant difference in RRT dependence at 90 days between older and younger patients (8.7% vs. 7.8%, adjusted-OR, 1.21 [0.82-1.79], p = 0.325). Patients with frailty had higher mortality; but no difference in RRT dependence at 90 days. There was no significant interaction between age and CFS score in relation to mortality, RRT dependence at 90 days, and other secondary outcomes. There was no significant difference in the proportion of patients who received RRT in the standard-strategy stratified by age groups (adjusted-OR, 0.85 [0.67-1.08], p = 0.180). In this secondary analysis of the STARRT-AKI trial, older and frail patients had higher mortality at 90 days; however, there was no difference in RRT dependence. Mortality and RRT dependence were not modified by RRT initiation strategy in older or frail patients.
+We identified peripherally limited patients using cardiopulmonary exercise testing and measured skeletal muscle oxygen transport and utilization during invasive single leg exercise testing to identify the mechanisms of the peripheral limitation. Forty-five patients with heart failure with preserved ejection fraction (70&#xb1;7 years, 27 females) completed seated upright cardiopulmonary exercise testing and were defined as having a (1) peripheral limitation to exercise if cardiac output/oxygen consumption (VO) was elevated (&#x2265;6) or 5 to 6 with a stroke volume reserve >50% (n=31) or (2) a central limitation to exercise if cardiac output/VOslope was &#x2264;5 or 5 to 6 with stroke volume reserve <50% (n=14). Single leg knee extension exercise was used to quantify peak leg blood flow (Doppler ultrasound), arterial-to-venous oxygen content difference (femoral venous catheter), leg VO, and muscle oxygen diffusive conductance. In a subset of participants (n=36), phosphocreatine recovery time was measured by magnetic resonance spectroscopy to determine skeletal muscle oxidative capacity. Peak VOduring cardiopulmonary exercise testing was not different between groups (central: 13.9&#xb1;5.7 versus peripheral: 12.0&#xb1;3.1 mL/min per kg;=0.135); however, the peripheral group had a lower peak arterial-to-venous oxygen content difference (central: 13.5&#xb1;2.0 versus peripheral: 11.1&#xb1;1.6 mLO/dL blood;<0.001). During single leg knee extension, there was no difference in peak leg VO(=0.306), but the peripherally limited group had greater blood flow/VOratio (=0.024), lower arterial-to-venous oxygen content difference (central: 12.3&#xb1;2.5 versus peripheral: 10.3&#xb1;2.2 mLO/dL blood;=0.013), and lower muscle oxygen diffusive conductance (=0.021). A difference in magnetic resonance spectroscopy-derived phosphocreatine recovery time was not detected (=0.199). Peripherally limited patients with heart failure with preserved ejection fraction identified by cardiopulmonary exercise testing have impairments in oxygen transport and utilization at the level of the skeletal muscle quantified by invasive knee extension exercise testing, which includes an increased blood flow/V&#x307;Oratio and poor muscle diffusive capacity. URL: https://www.clinicaltrials.gov; Unique identifier: NCT04068844.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1159/000540323
+- DOI: 10.1161/CIRCHEARTFAILURE.123.011693
 
 2. Keywords
-- Acute kidney injury
-- Mortality
-- Older population
-- Recovery
-- Renal-replacement therapy
+- exercise test
+- heart failure
+- magnetic resonance imaging
+- muscle, skeletal
+- stroke volume
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Acute kidney injury assessment methods and outcomes
-- Mortality assessment methods and outcomes
-- Older population assessment methods and outcomes
+- exercise test assessment methods and outcomes
+- heart failure assessment methods and outcomes
+- magnetic resonance imaging assessment methods and outcomes

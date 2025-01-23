@@ -1,24 +1,27 @@
-Study Title: Can heartbeat recovery be improved with terminal non-cardioplegic warm blood perfusion prior to aortic unclamping in single-clamp technique coronary artery bypass surgery? A randomized controlled trial.
+Study Title: Longitudinal cardiac magnetic resonance imaging following clinical response to rilonacept and prior to recurrence upon treatment suspension: a RHAPSODY subgroup analysis.
 
 Study Summary:
-The objective of this study is to investigate whether the use of antegrade perfusion with terminal non-cardioplegic warm blood (TNWB) before aortic unclamping in single-clamp technique coronary artery bypass has a positive impact on intraoperative heartbeat recovery. Between December 2022 and May 2023, 40 consecutive patients undergoing coronary artery bypass using single-clamp technique were randomized into one of two groups: the TNWB group received an antegrade perfusion with TNWB before removing the aortic cross-clamp (n&#x2009;=&#x2009;20), while the control group did not receive (n&#x2009;=&#x2009;20). The time intervals between coronary perfusion and the onset of the first heartbeats and sinus rhythms, occurrences of spontaneous sinus rhythm, intraoperative defibrillation requirements, as well as postoperative CK-MB and troponin T levels were recorded and subjected to analysis. In the TNWB group, the median onset of the first heartbeats after the initiation of coronary perfusion was 34&#xa0;s (4-100), while in the control group, it was 90&#xa0;s (15-340) (p&#x2009;<&#x2009;0.001). The median onset of the sinus rhythms was 100&#xa0;s (28-290) in the TNWB group and was 132&#xa0;s (45-350) in the control group (p&#x2009;=&#x2009;0.023). The occurrence of intraoperative arrhythmias was 15% in the TNWB group compared to 50% in the control group (p&#x2009;=&#x2009;0.018), and the incidence for internal defibrillation was 5% in the TNWB group and was 30% in the control group (p&#x2009;=&#x2009;0.037). The TNWB group showed the median CK-MB levels at 6&#xa0;h postoperative was 14.10 ng/mL (9.78-19.26), compared to 18.31 ng/mL (13.98-23.80) in the control group (p&#x2009;=&#x2009;0.045). During single clamp coronary artery bypass, administration TNWB into the aortic root before aortic unclamping has the potential to enhance heartbeat recovery, as evidenced by the shortened time to the initial heartbeat and the establishment of sinus beats following coronary perfusion. Trial registration number (Study ID): TCTR20231002003.
+In the Phase 3 trial, RHAPSODY, rilonacept effectively resolved active pericarditis recurrences, and long-term treatment led to sustained pericarditis recurrence risk reduction. Prior analysis suggested association between higher late gadolinium enhancement (LGE) at baseline and more rapid recurrence upon rilonacept suspension after 12 weeks of treatment. This subgroup analysis assessed the utility of longitudinal serial cardiac magnetic resonance (CMR) imaging for tracking clinical improvement and predicting post-treatment cessation outcomes to help guide clinical decision-making. At an 18-month decision milestone (18MDM) in the RHAPSODY long-term extension, investigators decided if patients would continue rilonacept, suspend rilonacept for off-treatment observation, or discontinue the study. Pericardial thickness, pericardial oedema (T2-short tau inversion recovery, T2-STIR), and LGE were determined at baseline and 18MDM by an imaging core lab blinded to clinical data, and pericarditis recurrence was investigator-assessed. CMR results in patients with data at both baseline and 18MDM (n = 13) showed that pericardial thickness, T2-STIR, and LGE were reduced during rilonacept treatment. Among patients with CMR data who suspended rilonacept at the 18MDM (n = 7), five (71%) had a pericarditis recurrence within 1-4 months of rilonacept suspension, despite all having had none/trace LGE (n = 7) and negative T2-STIR (n = 7) at the 18MDM and two having received prophylactic colchicine. Continued clinical improvement during prolonged rilonacept treatment corresponded with improvement on CMR, including reduced pericardial thickness, resolution of pericardial oedema, and resolution of LGE. However, none/trace LGE at 18MDM while on treatment did not predict absence of pericarditis recurrence upon subsequent rilonacept suspension in this size-limited subgroup.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13019-024-03006-0
+- DOI: 10.1093/ehjci/jeae200
 
 2. Keywords
-- Heart beat recovery
-- Terminal non-cardioplegic warm blood perfusion
-- Terminal warm blood perfusion
+- clinical decision-making
+- gadolinium
+- interleukin-1
+- magnetic resonance imaging
+- pericarditis
+- rilonacept
 
 3. Key Findings
-- The TNWB group showed the median CK-MB levels at 6&#xa0;h postoperative was 14
+- CMR results in patients with data at both baseline and 18MDM (n = 13) showed that pericardial thickness, T2-STIR, and LGE were reduced during rilonacept treatment
 
 This study provides insights into:
-- Heart beat recovery assessment methods and outcomes
-- Terminal non-cardioplegic warm blood perfusion assessment methods and outcomes
-- Terminal warm blood perfusion assessment methods and outcomes
+- clinical decision-making assessment methods and outcomes
+- gadolinium assessment methods and outcomes
+- interleukin-1 assessment methods and outcomes

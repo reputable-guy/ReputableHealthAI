@@ -1,26 +1,26 @@
-Study Title: Alpha-1 Antitrypsin Augmentation Therapy in Chronic Pancreatitis Patients Undergoing Total Pancreatectomy and Islet Autotransplantation: A Randomized, Controlled Study.
+Study Title: Acute moderate normobaric hypoxia does not modify circulating thyroid hormone concentrations induced by 1 h of head-out cold-water immersion.
 
 Study Summary:
-Stress-induced islet graft loss during the peri-transplantation period reduces the efficacy of islet transplantation. In this prospective, randomized, double-blind clinical trial, we evaluated the safety and efficacy of 60 mg/kg human alpha-1 antitrypsin (AAT) or placebo infusion weekly for four doses beginning before surgery in chronic pancreatitis (CP) patients undergoing total pancreatectomy and islet autotransplantation (TP-IAT). Subjects were followed for 12 months post-TP-IAT. The dose of AAT was safe, as there was no difference in the types and severity of adverse events in participants from both groups. There were some biochemical signals of treatment effect with a higher oxygen consumption rate in AAT islets before transplantation and a lower serum C-peptide (an indicator of islet death) in the AAT group at 15 min after islet infusion. Findings per the statistical analysis plan using a modified intention to treat analysis showed no difference in the C-peptide area under the curve (AUC) following a mixed meal tolerance test at 12 months post-TP-IAT. There was no difference in the secondary and exploratory outcomes. Although AAT therapy did not show improvement in C-peptide AUC in this study, AAT therapy is safe in CP patients and there are experiences gained on optimal clinical trial design in this challenging disease.
+This study tested the hypothesis that acute moderate normobaric hypoxia augments circulating thyroid hormone concentrations during and following 1 h of cold head-out water immersion (HOWI), compared with when cold HOWI is completed during normobaric normoxia. In a randomized crossover single-blind design, 12 healthy adults (27&#x2009;&#xb1;&#x2009;2 yr, 2 women) completed 1 h of cold (22.0&#x2009;&#xb1;&#x2009;0.1&#xb0;C) HOWI breathing either normobaric normoxia ([Formula: see text] = 0.21) or normobaric hypoxia ([Formula: see text] = 0.14). Free and total thyroxine (T3) and triiodothyronine (T4), and thyroid-stimulating hormone (TSH) concentrations were measured in venous blood samples obtained before (baseline), during (15-, 30-, and 60 min), and 15 min following HOWI (post-), and were corrected for changes in plasma volume. Arterial oxyhemoglobin saturation and core (rectal) temperature were measured continuously. Arterial oxyhemoglobin saturation was lower during hypoxia (90&#x2009;&#xb1;&#x2009;3%) compared with normoxia (98&#x2009;&#xb1;&#x2009;1%,< 0.001). Core temperature fell from baseline (normoxia: 37.2&#x2009;&#xb1;&#x2009;0.4&#xb0;C, hypoxia: 37.2&#x2009;&#xb1;&#x2009;0.4&#xb0;C) to post-cold HOWI (normoxia: 36.4&#x2009;&#xb1;&#x2009;0.5&#xb0;C, hypoxia: 36.3&#x2009;&#xb1;&#x2009;0.5&#xb0;C,< 0.001) in both conditions but did not change differently between conditions (condition &#xd7; time:= 0.552). Circulating TSH, total T3, free T4, total T3, and free T4 concentrations demonstrated significant main effects of time (all&#x2264; 0.024), but these changes did not differ between normoxic and hypoxic conditions (condition &#xd7; time: all&#x2265; 0.163). These data indicate that acute moderate normobaric hypoxia does not modify the circulating thyroid hormone response during 1 h of cold HOWI.Acute head-out cold (22&#xb0;C) water immersion (HOWI) decreased core temperature and increased thermogenesis. This thermogenic response was paralleled by the activation of the hypothalamic-pituitary-thyroid axis, as evidenced by changes in thyroid hormones. However, cold HOWI in combination with moderate normobaric hypoxia did not modify the thermogenic nor the circulating thyroid hormone response. This finding suggests that hypoxia-induced alterations in thyroid hormone concentrations are unlikely to acutely contribute to adaptations resulting from repeated cold-water exposures.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/09636897241243014
+- DOI: 10.1152/japplphysiol.00061.2024
 
 2. Keywords
-- alpha-1 antitrypsin
-- autologous islet transplantation
-- chronic pancreatitis
-- islet survival
-- islet transplantation
+- cold stress
+- diving
+- hypothermia
+- hypoxia
+- thermogenesis
 
 3. Key Findings
-- Findings per the statistical analysis plan using a modified intention to treat analysis showed no difference in the C-peptide area under the curve (AUC) following a mixed meal tolerance test at 12 months post-TP-IAT
+- Circulating TSH, total T3, free T4, total T3, and free T4 concentrations demonstrated significant main effects of time (all&#x2264; 0
 
 This study provides insights into:
-- alpha-1 antitrypsin assessment methods and outcomes
-- autologous islet transplantation assessment methods and outcomes
-- chronic pancreatitis assessment methods and outcomes
+- cold stress assessment methods and outcomes
+- diving assessment methods and outcomes
+- hypothermia assessment methods and outcomes

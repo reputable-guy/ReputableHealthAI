@@ -1,20 +1,27 @@
-Study Title: LSD increases sleep duration the night after microdosing.
+Study Title: OFF-times before, during, and after nighttime sleep periods in Parkinson's disease patients with motor fluctuations and the effects of opicapone: A post hoc analysis of diary data from BIPARK-1 and -2.
 
 Study Summary:
-Microdosing psychedelic drugs at a level below the threshold to induce hallucinations is an increasingly common lifestyle practice. However, the effects of microdosing on sleep have not been previously reported. Here, we report results from a Phase 1 randomized controlled trial in which 80 healthy adult male volunteers received a 6-week course of either LSD (10&#x2009;&#xb5;g) or placebo with doses self-administered every third day. Participants used a commercially available sleep/activity tracker for the duration of the trial. Data from 3231 nights of sleep showed that on the night after microdosing, participants in the LSD group slept an extra 24.3&#x2009;min per night (95% Confidence Interval 10.3-38.3&#x2009;min) compared to placebo-with no reductions of sleep observed on the dosing day itself. There were no changes in the proportion of time spent in various sleep stages or in participant physical activity. These results show a clear modification of the physiological sleep requirements in healthy male volunteers who microdose LSD. The clear, clinically significant changes in objective measurements of sleep observed are difficult to explain as a placebo effect. Trial registration: Australian New Zealand Clinical Trials Registry: A randomized, double-blind, placebo-controlled trial of repeated microdoses of lysergic acid diethylamide (LSD) in healthy volunteers; https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=381476 ; ACTRN12621000436875.
+In BIPARK-1 and BIPARK-2, addition of once-daily opicapone to levodopa/carbidopa significantly reduced daily "OFF"-time relative to placebo in adults with Parkinson's disease (PD) and motor fluctuations. Diary data from these studies were pooled and analyzed post hoc to characterize "OFF"-times around nighttime sleep and to explore the effects of opicapone 50&#xa0;mg. "OFF" before sleep (OBS), "OFF during the nighttime sleep period" (ODNSP), early morning "OFF" (EMO), and duration of nighttime sleep and awake periods were analyzed descriptively at baseline. Mean changes from baseline to Week 14/15 (end of double-blind treatment) were analyzed using two-sided t-tests in participants with data for both visits. At baseline, 88.3&#xa0;% (454/514) of participants reported having OBS (34.0&#xa0;%), ODNSP (17.1&#xa0;%), or EMO (79.6&#xa0;%). Those with ODNSP had substantially shorter mean duration of uninterrupted sleep (4.4&#xa0;h) than the overall pooled population (7.1&#xa0;h). At Week 14/15, mean decrease from baseline in ODNSP duration was significantly greater with opicapone than with placebo (-0.9 vs. -0.4&#xa0;h, P&#xa0;<&#xa0;0.05). In participants with ODNSP at baseline, the decrease in total time spent awake during the night-time sleep period was significantly greater with opicapone than with placebo (-1.0 vs. -0.4&#xa0;h, P&#xa0;<&#xa0;0.05), as was the reduction in percent time spent awake during the night-time sleep period (-12.8&#xa0;% vs. -4.5&#xa0;%, P&#xa0;<&#xa0;0.05). "OFF"-times around nighttime sleep were common in BIPARK-1 and BIPARK-2. Opicapone may improve sleep by decreasing the amount of time spent awake during the night in patients with PD who have night-time sleep period "OFF" episodes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41398-024-02900-4
+- DOI: 10.1016/j.parkreldis.2024.106971
 
 2. Keywords
-
+- Motor fluctuations
+- Nighttime sleep
+- OFF time
+- Opicapone
+- Parkinson's disease
+- Treatment
 
 3. Key Findings
-- Data from 3231 nights of sleep showed that on the night after microdosing, participants in the LSD group slept an extra 24
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Motor fluctuations assessment methods and outcomes
+- Nighttime sleep assessment methods and outcomes
+- OFF time assessment methods and outcomes

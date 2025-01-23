@@ -1,27 +1,31 @@
-Study Title: Living together-does it help or hinder the pursuit of a healthful diet, physical activity, and weight loss among cancer survivors and their chosen partners?
+Study Title: Evaluating the effectiveness of a multi-component lifestyle therapy program versus psychological therapy for managing mood disorders (HARMON-E): protocol of a randomised non-inferiority trial.
 
 Study Summary:
-Parental or spousal cohabitating relationships are often targeted in behavioral interventions, but the contribution of cohabitation is poorly understood. This study explored whether cohabitation status moderated the impact of social cognitive theory constructs on adiposity, diet, and exercise in a dyadic, web-based weight loss intervention among cancer survivors and their chosen partners. The 24-week weight loss intervention was conducted among 56 dyads, comprised of a cancer survivor and their chosen partner (n&#x2009;=&#x2009;112). Baseline and 6-month data on social cognitive theory constructs (self-efficacy, social support, and perceived barriers), and study outcomes of adiposity (weight and waist circumference), diet (calories and diet quality), and moderate-to-vigorous physical activity (MVPA) were used to perform moderated-mediation analyses among cohabitating (n&#x2009;=&#x2009;25) versus non-cohabitating (n&#x2009;=&#x2009;31) dyads. The intervention was positively associated with dietary social support (path a: 0.36, 95% CI [0.083, 0.659]) and inversely associated with perceived dietary barriers (path a:&#x2009;-&#x2009;10.57, 95% CI [-&#x2009;19.109,&#x2009;-&#x2009;3.091]) and perceived exercise barriers (path a:&#x2009;-&#x2009;11.29, 95% CI [-&#x2009;22.098,&#x2009;-&#x2009;3.500]) among those who did not cohabitate (effects not observed among cohabitating pairs). The intervention's mediating effects through perceived barriers on weight (indirect effect (ab):&#x2009;-&#x2009;2.21, 95% CI [-&#x2009;4.794,&#x2009;-&#x2009;0.548]), waist circumference (ab:&#x2009;-&#x2009;1.13, 95% CI [-&#x2009;2.452,&#x2009;-&#x2009;0.171]), caloric intake (ab:&#x2009;-&#x2009;5.09 (2.86), 95% CI [-&#x2009;12.602,&#x2009;-&#x2009;0.709]), and self-reported MVPA (ab: 0.29 (0.18), 95% CI [0.019, 0.754]) also were stronger among non-cohabitating pairs. These findings suggest that social support partners outside the home substantially enhance intervention impact, though relationship quality and gender dynamics warrant further exploration. ClinicalTrials.gov Identifier: NCT04132219.
+Mood disorders, including unipolar and bipolar depression, contribute significantly to the global burden of disease. Psychological therapy is considered a gold standard non-pharmacological treatment for managing these conditions; however, a growing body of evidence also supports the use of lifestyle therapies for these conditions. Despite some clinical guidelines endorsing the application of lifestyle therapies as a first-line treatment for individuals with mood disorders, there is limited evidence that this recommendation has been widely adopted into routine practice. A key obstacle is the insufficient evidence on whether lifestyle therapies match the clinical and cost effectiveness of psychological therapy, particularly for treating those with moderate to severe symptoms. The HARMON-E Trial seeks to address this gap by conducting a non-inferiority trial evaluating whether a multi-component lifestyle therapy program is non-inferior to psychological therapy on clinical and cost-effectiveness outcomes over 8-weeks for adults with major depressive disorder and bipolar affective disorder. This trial uses an individually randomised group treatment design with computer generated block randomisation (1:1). Three hundred and seventy-eight adults with clinical depression or bipolar affective disorder, a recent major depressive episode, and moderate-to-severe depressive symptoms are randomised to receive either lifestyle therapy or psychological therapy (adjunctive to any existing treatments, including pharmacotherapies). Both therapy programs are delivered remotely, via a secure online video conferencing platform. The programs comprise an individual session and six subsequent group-based sessions over 8-weeks. All program aspects (e.g. session duration, time of day, and communications between participants and facilitators) are matched except for the content and program facilitators. Lifestyle therapy is provided by a dietitian and exercise physiologist focusing on four pillars of lifestyle (diet, physical activity, sleep, and substance use), and the psychological therapy program is provided by two psychologists using a cognitive behavioural therapy approach. Data collection occurs at baseline, 8-weeks, 16-weeks, and 6 months with research assistants blinded to allocation. The primary outcome is depressive symptoms at 8 weeks, measured using the Montgomery-&#xc5;sberg Depression Rating Scale (MADRS) (minimal clinically important difference&#x2009;=&#x2009;1.6). A pre-specified within-trial economic evaluation will also be conducted. Should lifestyle therapy be found to be as clinically and cost effective as psychological therapy for managing mood disorders, this approach has potential to be considered as an adjunctive treatment for those with moderate to severe depressive symptoms. Australia and New Zealand Clinical Trials Register (ANZCTR): ACTRN12622001026718, registered 22nd July 2022. &#xa0;4.14, 26/06/2024.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00520-024-08907-3
+- DOI: 10.1186/s12888-024-06098-z
 
 2. Keywords
-- Cancer survivors
-- Cohabitation
+- Bipolar affective disorder
+- Depression
 - Diet
-- Partners
+- Exercise
+- Mental Health
+- Nutrition
 - Physical activity
-- Weight loss
+- Psychotherapy
+- Sleep
+- Substance use
 
 3. Key Findings
-- Findings extraction requires manual review
+- Should lifestyle therapy be found to be as clinically and cost effective as psychological therapy for managing mood disorders, this approach has potential to be considered as an adjunctive treatment for those with moderate to severe depressive symptoms
 
 This study provides insights into:
-- Cancer survivors assessment methods and outcomes
-- Cohabitation assessment methods and outcomes
+- Bipolar affective disorder assessment methods and outcomes
+- Depression assessment methods and outcomes
 - Diet assessment methods and outcomes

@@ -1,31 +1,25 @@
-Study Title: Personalized Nutrition Therapy without Weight Loss Counseling Produces Weight Loss in Individuals with Prediabetes Who Are Overweight/Obese: A Randomized Controlled Trial.
+Study Title: Effect of Customized Nutritious Breakfast and Nutrition Education on Nutritional Status of Preschool Children in Economically Underdeveloped Multi-Ethnic Areas: A Cluster Randomized Clinical Trial in Linxia, China.
 
 Study Summary:
-Obesity stands out as a primary risk factor for diabetes. Attaining healthy weight loss, especially reducing body fat, is important in managing prediabetes and preventing progression to full diabetes and its co-morbidities. This study examined the effects of personalized nutrition therapy (PNT) combined with continuous glucose monitoring (CGM) on body weight and composition in individuals with prediabetes. A total of 30 individuals with prediabetes who were overweight or obese were assigned randomly to either the treatment, observed CGM data plus PNT, or the control group which was blinded to their blood glucose results throughout the study. Both groups were provided with dietary recommendations for calorie intake and macronutrient distribution, coupled with personalized goal setting for glucose control and healthy eating, without any specific emphasis on weight reduction or changes in physical activity. Regular visits were scheduled every 10 days to perform measurements and replace CGMs. Data were analyzed using General Linear Model with repeated measures. Over the 30-day follow-up period, both groups experienced significant reductions in weight and fat mass. The treatment group exhibited two-fold greater reductions in both weight and fat mass, a significant decrease in carbohydrate intake, and a significant increase in time spent on physical activitycompared to the control group. In addition, compliance was notably higher in the treatment group. These findings indicate that overweight or obese individuals with prediabetes can achieve weight loss and improved body composition through personalized education for glucose control, without exclusively emphasizing weight loss as the primary objective. Additionally, the real-time feedback provided by CGM enhances these improvements.
+The nutritional status of preschool children in economically underdeveloped multi-ethnic areas is a global concern. This study aimed to examine the effect of a 2.2-year cluster randomized clinical trial that provided customized nutritious breakfast and nutrition education to preschool children in Linxia County, China. A total of 578 children aged 3 to 6 years were enrolled. After the intervention, the incidence of undernourishment was significantly lower in the intervention group compared to the control group (8.73% vs. 9.92%, OR = 0.01 [95%CI 0.00, 0.39],= 0.014). Additionally, children with non-Muslim dietary habits had a lower incidence of undernourishment compared to those with Muslim dietary habits (OR = 0.05 [95%CI 0.00, 0.88];= 0.010). The intervention group also had a lower prevalence rate of wasting (OR = 0.02 [95%CI 0.00, 0.40];= 0.011) and a higher mean BMI-for-age Z-score (= 1.05 [95%CI 0.32, 1.77];= 0.005) compared to the control group. These findings suggest that providing nutritious breakfast and nutrition education is an effective strategy to improve the nutrition and health of preschool children, particularly in economically disadvantaged regions and among children with Muslim dietary habits.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16142218
+- DOI: 10.3390/nu16142287
 
 2. Keywords
-- body composition
-- continuous glucose monitoring
-- diabetes
-- diet therapy
-- muscle mass
-- obesity
-- overweight
-- personalized nutrition therapy
-- prediabetes
-- weight loss
+- cluster randomized clinical trial
+- economically underdeveloped multi-ethnic areas
+- nutritional intervention
+- preschool students
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- body composition assessment methods and outcomes
-- continuous glucose monitoring assessment methods and outcomes
-- diabetes assessment methods and outcomes
+- cluster randomized clinical trial assessment methods and outcomes
+- economically underdeveloped multi-ethnic areas assessment methods and outcomes
+- nutritional intervention assessment methods and outcomes

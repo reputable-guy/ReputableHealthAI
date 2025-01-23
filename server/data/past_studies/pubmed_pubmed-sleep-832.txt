@@ -1,20 +1,26 @@
-Study Title: Sleep Quality in Individuals with and without Persistent Postpartum Hypertension.
+Study Title: DAHOS Study: Efficacy of dapagliflozin in treating heart failure with reduced ejection fraction and obstructive sleep apnea syndrome - A 3-month, multicenter, randomized controlled clinical trial.
 
 Study Summary:
-This study aimed to compare sleep quality at 1 year postpartum following a hypertensive disorder of pregnancy (HDP) among individuals with persistent postpartum hypertension (HTN) compared with those with normal blood pressures (BPs). We combined data from the Heart Health 4 New Moms pilot randomized trial (&#x2009;=&#x2009;118) and the Pathways prospective cohort study (&#x2009;=&#x2009;36). Individuals with a singleton pregnancy complicated by gestational HTN or preeclampsia underwent a research study visit at a mean 48.7&#x2009;&#xb1;&#x2009;9.5 weeks postpartum with standardized BP measurement and assessment of subjective sleep quality with the Pittsburgh Sleep Quality Index (PSQI). Persistent postpartum HTN was defined as Stage 1 HTN or greater (mean systolic BP&#x2009;&#x2265;&#x2009;130&#x2009;mm Hg or mean diastolic BP&#x2009;&#x2265;&#x2009;80&#x2009;mm Hg over three measurements at rest) or requiring antihypertensive medication. Statistical analysis was performed using univariate and multivariable logistic regression analyses. Of 154 individuals with an HDP included in the analysis, 84 (55%) were normotensive at 1 year postpartum and 70 (45%) had persistent postpartum HTN. Individuals with persistent postpartum HTN were more likely to be older, self-identify as Black race, have higher prepregnancy and 1-year postpartum body mass index (BMI), be multiparous, and deliver at an earlier gestational age. The mean global PSQI score was 8.7&#x2009;&#xb1;&#x2009;3.7, with 81% reporting poor sleep (PSQI&#x2009;>&#x2009;5), and scores were higher among individuals who were persistently hypertensive (9.6&#x2009;&#xb1;&#x2009;3.5) compared with those who were normotensive at 1 year postpartum (7.9&#x2009;&#xb1;&#x2009;3.6),&#x2009;<&#x2009;0.01. Findings were unchanged in a multivariable model adjusting for age, self-reported race, prepregnancy BMI, and parity. Following an HDP, individuals reported poor sleep quality at 1 year postpartum. Individuals with persistent postpartum HTN reported lower sleep quality, suggesting that sleep behavior may be a target for intervention to improve maternal cardiovascular health following an HDP. &#xb7; After an HDP, poor sleep quality was common at 1 year postpartum.. &#xb7; Those with persistent postpartum HTN reported worse sleep quality at 1 year postpartum.. &#xb7; Sleep behavior may be a target for intervention to improve maternal cardiovascular health..
+The recent discovery of new therapeutic approaches to heart failure with reduced ejection fraction (HFrEF), including sodium-glucose cotransporter-2 (SGLT-2) inhibitors, as well as improved treatment of co-morbidities has provided much needed help to HFrEF. In addition, dapagliflozin, one of the SGLT-2 inhibitors, serves as a promising candidate in treating obstructive sleep apnea (OSA) of HFrEF patients due to its likely mechanism of countering the pathophysiology of OSA of HFrEF. This 3-month multicenter, prospective, randomized controlled trial enrolled participants with left ventricular ejection fraction (LVEF) less than 40% and apnea-hypopnea index (AHI) greater than 15. Participants were randomized into two groups: the treatment group received optimized heart failure treatment and standard-dose dapagliflozin, while the control group only received optimized heart failure treatment. The primary endpoint was the difference in AHI before and after treatment between the two groups. Secondary endpoints included oxygen desaturation index (ODI), minimum oxygen saturation, longest apnea duration, inflammatory factors (CRP, IL-6), quality of life score, and LVEF. A total of 107 patients were included in the final analysis. AHI, LVEF and other baseline data were similar for the dapagliflozin and control groups. After 12 weeks of dapagliflozin treatment, the dapagliflozin group showed significant improvements in sleep parameters including AHI, HI, longest pause time, ODI, time spent with SpO&#x2009;<&#x2009;90%, and average SpO. Meanwhile, the control group showed no significant changes in sleep parameters, but did demonstrate significant improvements in left ventricular end-diastolic diameter, LVEF, and NT-proBNP levels at 12 weeks. In the experimental group, BMI was significantly reduced, and there were improvements in ESS score, MLHFQ score, and EQ-5D-3L score, as well as significant reductions in CRP and IL-6 levels, while the CRP and IL-6 levels were not improved in the control group. The decrease in LVEF was more significant in the experimental group compared to the control group. There were no significant differences in the magnitude of the decreases between the two groups. Dapagliflozin may be an effective treatment for heart failure complicated with OSA, and could be considered as a potential new treatment for OSA. (Trial registration&#xa0; www.chictr.org.cn ,&#xa0;ChiCTR2100049834. Registered 10 August 2021).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1055/s-0044-1780537
+- DOI: 10.1007/s00228-024-03643-3
 
 2. Keywords
-
+- Dapagliflozin
+- Heart failure
+- Obstructive sleep apnea
+- Sleep-disordered breathing
 
 3. Key Findings
-- Findings extraction requires manual review
+- After 12 weeks of dapagliflozin treatment, the dapagliflozin group showed significant improvements in sleep parameters including AHI, HI, longest pause time, ODI, time spent with SpO&#x2009;<&#x2009;90%, and average SpO
+- Meanwhile, the control group showed no significant changes in sleep parameters, but did demonstrate significant improvements in left ventricular end-diastolic diameter, LVEF, and NT-proBNP levels at 12 weeks
 
 This study provides insights into:
-- General research methodology and outcomes
+- Dapagliflozin assessment methods and outcomes
+- Heart failure assessment methods and outcomes
+- Obstructive sleep apnea assessment methods and outcomes

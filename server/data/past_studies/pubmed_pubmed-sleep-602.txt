@@ -1,27 +1,20 @@
-Study Title: Exogenous melatonin's effect on salivary cortisol and amylase: A randomized controlled trial.
+Study Title: Benefits of Individualized Training in Fatigued Patients with Multiple Sclerosis.
 
 Study Summary:
-This study aimed to examine the effect of acute exogenous melatonin administration on salivary cortisol and alpha-amylase (sCort and sAA) as representatives of the HPA axis and the sympathetic nervous system, respectively. A single-dose prolonged-release melatonin (2&#x2009;mg) or a placebo tablet was given to healthy volunteers (n&#x2009;=&#x2009;64) at 20:00&#x2009;h in a crossover design. The saliva was collected at six time points (20:00, 21:00, awakening, 30&#x2009;min after awakening, 10:00, and 12:00&#x2009;h) and was measured for sCort, sAA, and salivary melatonin (sMT) levels. Pulse rates and sleep parameters were also collected. Melatonin was effective in improving sleep onset latency by 7:04&#x2009;min (p&#x2009;=&#x2009;.037) and increasing total sleep time by 24&#x2009;min (p&#x2009;=&#x2009;.006). Participants with poor baseline sleep quality responded more strongly to melatonin than participants with normal baseline sleep quality as they reported more satisfaction in having adequate sleep (p&#x2009;=&#x2009;.017). Melatonin administration resulted in higher sCort levels at awakening time point (p&#x2009;=&#x2009;.023) and a tendency of lower sAA levels but these were not significant. Melatonin ingestion at 20:00&#x2009;h resulted in a marked increase in sMT levels at 21:00&#x2009;h and remained higher than baseline up to at least 10:00&#x2009;h (p&#x2009;<&#x2009;.001). Melatonin increases sCort levels at certain time point with a tendency to lower sAA levels. These opposing effects of melatonin suggested a complex interplay between melatonin and these biomarkers. Also, the results confirmed the positive acute effect of a single-dose melatonin on sleep quality.
+Chronic fatigue is the most common and debilitating symptom in people with multiple sclerosis (PwMS). Recently, exercise has been proven to alleviate chronic fatigue and improve physical functions. Tailoring the training intervention to the potential fatigue causes could optimize the beneficial effects of training on fatigue. The objective of this study was to compare the effectiveness of an individualized (IND) versus a traditional (TRAD) exercise intervention in reducing chronic fatigue. Twenty-nine PwMS with high chronic fatigue were randomly assigned to 12 wk of either a TRAD or IND exercise intervention. TRAD comprised aerobic and resistance exercises according to the guidelines for PwMS. IND specifically addressed identified individual weaknesses. Participants visited the laboratory before and after training for the following assessments: patient-reported outcomes (fatigue, quality of life, depression questionnaires), incremental cycling test (peak oxygen uptake (V&#x307;O 2peak )), and cycling fatigue test (maximal voluntary contraction, rating of perceived exertion). Similar improvements in fatigue, depression, and quality of life were observed between groups ( P > 0.05). Compared with TRAD, IND induced a significant greater increase in V&#x307;O 2peak (+21.0% &#xb1; 13.9% vs 6.8% &#xb1; 11.5%, P < 0.05) and a greater reduction in rating of perceived exertion at a given submaximal intensity (-30.3% &#xb1; 18.9% vs -12.1% &#xb1; 20.4%, P < 0.001), whereas maximal voluntary contraction increased similarly in both groups ( P > 0.05). Although tailored exercise improved similarly fatigue and other subjective parameters (depression, quality of life, sleep quality) compared with than traditional exercise intervention, prescribing an individualized intervention led to greater improvement in V&#x307;O 2peak (but not maximal strength) and perception of effort. This may have positive functional consequences for patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/prp2.1205
+- DOI: 10.1249/MSS.0000000000003474
 
 2. Keywords
-- PSQI
-- amylase
-- cortisol
-- melatonin
-- saliva
-- sleep
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- PSQI assessment methods and outcomes
-- amylase assessment methods and outcomes
-- cortisol assessment methods and outcomes
+- General research methodology and outcomes

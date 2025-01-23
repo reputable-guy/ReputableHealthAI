@@ -1,25 +1,62 @@
-Study Title: Effects of oral oligopeptide preparation and exercise intervention in older people with sarcopenia: a randomized controlled trial.
+Study Title: Long-Term Effectiveness of a Multi-Strategy Choice Architecture Intervention in Increasing Healthy Food Choices of High-School Students From Online Canteens (Click & Crunch High Schools): Cluster Randomized Controlled Trial.
 
 Study Summary:
-Nutrition and exercise are important interventions for sarcopenia. There were few studies on oral oligopeptide nutrition preparations combined with exercise to intervene in the older people with sarcopenia. The aim of this study was to verify the effectiveness of oligopeptide nutrition preparation combined with exercise intervention on the older people with sarcopenia in community. A total of 219 subjects aged 65 years or older with sarcopenia were randomly divided into 4 groups. The nutrition group (n&#x2009;=&#x2009;58) was given individualized nutrition education and oral oligopeptide nutrition preparation. The exercise group (n&#x2009;=&#x2009;50) received exercise intervention. The combined group (n&#x2009;=&#x2009;52) received both oral nutrition preparation and exercise interventions. The control group (n&#x2009;=&#x2009;59) only received individualized nutrition education. The nutrition preparation can provide energy 185kcal and protein 24.2g per day. The exercise intervention including warm-up exercise, resistance exercise and aerobic exercise, the training time was 60min for 5 times every week. The intervention lasted for 16&#xa0;weeks. Hand grip strength, gait speed, body composition and hematology parameters were measured before and after intervention. A total of 159 subjects completed the study. Compared with baseline, the left grip strength and 6-m walking speed of the subjects in nutrition group increased significantly after the intervention, and the grip strength of both hands in exercise group and combined group increased significantly. The body weight of the subjects in nutrition group, exercise group and combined group increased significantly after intervention, but no increase in soft lean mass (SLM) and skeletal muscle mass (SMM) was observed in any of the four groups. The fat-free mass (FFM) of the legs of the control group, exercise group and nutrition group decreased after intervention, and only the FFM of the legs of the combined group maintained the level before the intervention. Both oral peptide nutrition and exercise interventions can improve the muscle strength or function of the older people with sarcopenia. However, there were no increases in muscle mass observed. ChiCTR, ChiCTR2100052135. Registered 20 October 2021, https://www.chictr.org.cn/showproj.html?proj=135743.
+School canteens are a recommended setting to influence adolescent nutrition due to their scope to improve student food choices. Online lunch ordering systems ("online canteens") are increasingly used and represent attractive infrastructure to implement choice architecture interventions that nudge users toward healthier food choices. A recent cluster randomized controlled trial demonstrated the short-term effectiveness (2-month follow-up) of a choice architecture intervention to increase the healthiness of foods purchased by high school students from online canteens. However, there is little evidence regarding the long-term effectiveness of choice architecture interventions targeting adolescent food purchases, particularly those delivered online. This study aimed to determine the long-term effectiveness of a multi-strategy choice architecture intervention embedded within online canteen infrastructure in high schools at a 15-month follow-up. A cluster randomized controlled trial was undertaken with 1331 students (from 9 high schools) in New South Wales, Australia. Schools were randomized to receive the automated choice architecture intervention (including menu labeling, positioning, feedback, and prompting strategies) or the control (standard online ordering). The foods purchased were classified according to the New South Wales Healthy Canteen strategy as either "everyday," "occasional," or "should not be sold." Primary outcomes were the average proportion of "everyday," "occasional," and "should not be sold" items purchased per student. Secondary outcomes were the mean energy, saturated fat, sugar, and sodium content of purchases. Outcomes were assessed using routine data collected by the online canteen. From baseline to 15-month follow-up, on average, students in the intervention group ordered significantly more "everyday" items (+11.5%, 95% CI 7.3% to 15.6%; P<.001), and significantly fewer "occasional" (-5.4%, 95% CI -9.4% to -1.5%; P=.007) and "should not be sold" items (-6%, 95% CI -9.1% to -2.9%; P<.001), relative to controls. There were no between-group differences over time in the mean energy, saturated fat, sugar, or sodium content of lunch orders. Given their longer-term effectiveness, choice architecture interventions delivered via online canteens may represent a promising option for policy makers to support healthy eating among high school students. Australian Clinical Trials ACTRN12620001338954, https://anzctr.org.au/Trial/Registration/TrialReview.aspx?id=380546&#x200a;; Open Science Framework osf.io/h8zfr, https://osf.io/h8zfr/.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12877-024-04860-2
+- DOI: 10.2196/51108
 
 2. Keywords
-- Nutrition
-- Older people
-- Peptide
-- Sarcopenia
+- RCT
+- architecture
+- behavior change
+- behavioral economics
+- behaviour change
+- canteen
+- canteens
+- choice
+- choices
+- controlled trial
+- controlled trials
+- diet
+- digital intervention
+- eating
+- food
+- lunch
+- meal
+- meal delivery apps
+- meals
+- menu
+- menu labelling
+- menus
+- nudge
+- nudges
+- nutrition
+- nutritional
+- ordering
+- prompt
+- prompting
+- prompts
+- public health nutrition
+- purchase
+- purchasing
+- randomized
+- randomized controlled trial
+- school
+- schools
+- secondary school
+- student
+- students
+- web-based ordering systems
 
 3. Key Findings
-- Findings extraction requires manual review
+- A recent cluster randomized controlled trial demonstrated the short-term effectiveness (2-month follow-up) of a choice architecture intervention to increase the healthiness of foods purchased by high school students from online canteens
 
 This study provides insights into:
-- Nutrition assessment methods and outcomes
-- Older people assessment methods and outcomes
-- Peptide assessment methods and outcomes
+- RCT assessment methods and outcomes
+- architecture assessment methods and outcomes
+- behavior change assessment methods and outcomes

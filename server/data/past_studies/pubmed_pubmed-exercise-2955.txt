@@ -1,27 +1,26 @@
-Study Title: Exercise-Induced Oxygen Desaturation Increases Arterial Stiffness in Patients with COPD During the 6WMT.
+Study Title: Aerobic high-intensity interval training and maximal strength training in patients with unspecific musculoskeletal disorders improve V&#x307;Oand maximal strength more than moderate training.
 
 Study Summary:
-Given the established impact of exercise in reducing arterial stiffness and the potential for intermittent hypoxia to induce its elevation, this study aims to understand how oxygen desaturation during exercise affects arterial stiffness in individuals with COPD. We enrolled patients with stable COPD from China-Japan Friendship Hospital from November 2022 to June 2023. The 6-minute walk test (6-MWT) was performed with continuous blood oxygen saturation (SpO) monitoring in these patients. The patients were classified into three groups: non-exercise induced desaturation (EID), mild-EID and severe-EID, according to the changes in SpOduring the 6-MWT. The Cardio-Ankle Vascular Index (CAVI) and the change in CAVI (&#x394;CAVI, calculated as CAVI before 6MWT minus CAVI after the 6MWT) were measured before and immediately after the 6MWT to assess the acute effects of exercise on arterial stiffness. GOLD Stage, pulmonary function, and other functional outcomes were also measured in this study. A total of 37 patients with stable COPD underwent evaluation for changes in CAVI (&#x394;CAVI) before and after the 6-MWT. Stratification based on revealed three subgroups: non-EID (n=12), mild-EID (n=15), and severe-EID (n=10). The &#x394;CAVI values was -0.53 (-0.95 to -0.31) in non-EID group, -0.20 (-1.45 to 0.50) in mild-EID group, 0.6 (0.08 to 0.73) in severe-EID group. Parametric tests indicated significant differences in &#x394;CAVI among EID groups (p = 0.005). Pairwise comparisons demonstrated significant distinctions between mild-EID and severe-EID groups, as well as between non-EID and severe-EID groups (p = 0.048 and p = 0.003, respectively). Multivariable analysis, adjusting for age, sex, GOLD stage, diffusion capacity, and blood pressure, identified severe-EID as an independent factor associated with &#x394;CAVI (B = 1.118, p = 0.038). Patients with COPD and severe-EID may experience worsening arterial stiffness even during short periods of exercise.
+Improving peak oxygen uptake (V&#x307;O) and maximal strength are key objectives of rehabilitation for patients with unspecific musculoskeletal disorders (MSDs). Although high-intensity training yield superior outcomes for these factors, patients with MSDs may not tolerate high-intensity due to pain and fear. Therefore, we examined the effect and feasibility of incorporating aerobic high-intensity intervals (HIITs) and maximal strength training (MST) in a standard clinical rehabilitation program for patients with unspecific MSDs. 73 patients (45&#xa0;&#xb1;&#xa0;10&#xa0;years) with MSDs partaking in a standard, public, and 4-week rehabilitation program were randomized to high-intensity training (HG: 4&#xa0;&#xd7;&#xa0;4 minutes intervals at &#x223c;90% of maximal heart rate; HR, and 4&#xa0;&#xd7;&#xa0;4 repetitions leg press at &#x223c;90% of 1 repetition maximum; 1RM, with maximal intended velocity) or keep todays treatment of low-to moderate-intensity training (MG: various cycling, walking, and/or running activities at &#x223c;70%-80% of HRand 3&#xa0;&#xd7;&#xa0;8&#xa0;-&#xa0;10 repetitions leg press at &#x223c;75% of 1RM without maximal intended velocity). HG improved V&#x307;O(12&#xa0;&#xb1;&#xa0;7%) and leg press 1RM (43&#xa0;&#xb1;&#xa0;34%) more than moderate-intensity group (V&#x307;O; 5&#xa0;&#xb1;&#xa0;6%, 1RM; 19&#xa0;&#xb1;&#xa0;18%, both p&#xa0;<&#xa0;0.001). We observed that no adverse events and no between-group differences in dropout rate or self-reported quality of life (both p&#xa0;>&#xa0;0.05). There were positive correlations between improved V&#x307;Oand improved physical (p&#xa0;=&#xa0;0.024) and emotional (0.016) role functioning. We conclude that both high-intensity interval training and MST are feasible and improve V&#x307;Oand maximal strength more than standard low-to moderate-intensity treatment of patients with unspecific MSDs. Our findings suggest that high-intensity training should be implemented as a part of standard clinical care of this patient population.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/COPD.S465843
+- DOI: 10.1002/ejsc.12126
 
 2. Keywords
-- COPD
-- arterial stiffness
-- exercise-induced oxygen desaturation
-- rehabilitation
+- exercise
+- fibromyalgia
+- low back pain
+- maximal oxygen uptake
+- resistance training
 
 3. Key Findings
-- Stratification based on revealed three subgroups: non-EID (n=12), mild-EID (n=15), and severe-EID (n=10)
-- Parametric tests indicated significant differences in &#x394;CAVI among EID groups (p = 0
-- Pairwise comparisons demonstrated significant distinctions between mild-EID and severe-EID groups, as well as between non-EID and severe-EID groups (p = 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- COPD assessment methods and outcomes
-- arterial stiffness assessment methods and outcomes
-- exercise-induced oxygen desaturation assessment methods and outcomes
+- exercise assessment methods and outcomes
+- fibromyalgia assessment methods and outcomes
+- low back pain assessment methods and outcomes

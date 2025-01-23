@@ -1,27 +1,25 @@
-Study Title: Changes in bone density and microarchitecture following treatment of Graves' disease and the effects of vitamin D supplementation. A randomized clinical trial.
+Study Title: Recovery quality of transversus abdominis plane block with liposomal bupivacaine after cesarean delivery: A randomized trial.
 
 Study Summary:
-Thyrotoxicosis leads to loss of bone mass. Vitamin D is important to bone health. In this randomized, placebo-controlled trial, we showed that bone restoration did not improve when adding vitamin D supplementation to standard care of Graves' disease thyrotoxicosis. Bone density and microarchitecture improved markedly with treatment of thyrotoxicosis. Vitamin D is important to skeletal health and ensuring a replete vitamin D status is recommended. In thyrotoxicosis, bone turnover is increased and bone mass density (BMD) reduced. We examined whether vitamin D supplementation improves bone recovery in thyrotoxicosis caused by Graves' disease (GD). Using a double-blinded design, hyperthyroid patients with GD were randomized to vitamin D3 70&#xa0;&#xb5;g/day (2800&#xa0;IU) or similar placebo as add-on to antithyroid drugs (ATD). At baseline and 9&#xa0;months, we measured BMD and bone architecture using DXA and high resolution peripheral quantitative computerized tomography. Bone turnover markers (BTM) were measured at 3&#xa0;months also. Effect of vitamin D versus placebo and the response to ATD treatment were analyzed using linear mixed modelling. Eighty-six GD patients were included (age 41&#x2009;&#xb1;&#x2009;14&#xa0;years, 86% females). Compared to placebo, vitamin D3 did not improve BMD or microarchitecture. In response to ATD, BMD increased in the hip by 2% (95%CI: 1-4%). Cortical porosity decreased in tibia (-&#x2009;7% [95%CI:&#x2009;-&#x2009;12 to&#x2009;-&#x2009;2%]) and radius [-&#x2009;14% [95%CI:&#x2009;-&#x2009;24 to&#x2009;-&#x2009;3%]), and trabecular thickness increased (tibia (5% [95%CI: 2&#x2009;-&#x2009;9%]) and radius (4% [95%CI: 1-7%]). Changes in BTM, but not thyroid hormones, were associated with changes in BMD by DXA and with changes in the cortical compartment. In newly diagnosed GD, 9&#xa0;months of high dose vitamin D3 supplementation does not offer benefit by improving skeletal health. Treatment of thyrotoxicosis is associated with the recovery of BMD and microarchitecture. NCT02384668.
+This study aimed to investigate the effect of liposomal bupivacaine in transversus abdominis plane block (TAP) on recovery quality after cesarean delivery. A randomized trial. An operating room, a post-anesthesia care unit, and a hospital ward. A total of 147 women scheduled for cesarean delivery under spinal anesthesia were enrolled and randomized to receive a TAP block with plain bupivacaine (bupivacaine group), liposomal bupivacaine (liposomal group), or a mixture of plain bupivacaine and liposomal bupivacaine (mixture group). The bupivacaine group received bilateral TAP blocks with plain bupivacaine 50&#xa0;mg alone. The liposomal group received bilateral TAP blocks with liposomal bupivacaine 266&#xa0;mg alone. The mixture group received bilateral TAP blocks with plain bupivacaine 50&#xa0;mg followed by liposomal bupivacaine 266&#xa0;mg. The primary outcome was the Quality of Recovery-15 (QoR&#xa0;-&#xa0;15) score assessed 24&#xa0;h postoperatively. Secondary outcomes encompassed the QoR&#xa0;-&#xa0;15 score at 48&#xa0;h post-surgery, the VAS pain score at rest and with movement at 24, 48, and 72&#xa0;h postoperatively, opioid consumption within the 0-24&#xa0;h and 24-48&#xa0;h periods following surgery, as well as patient's satisfaction with analgesic. The QoR&#xa0;-&#xa0;15 score at 24&#xa0;h postoperatively was significantly higher in both the liposomal group and the mixture group compared to the bupivacaine group. Specifically, the QoR&#xa0;-&#xa0;15 score for the liposomal group versus the bupivacaine group (median [IQR]: 120 [107, 128] vs. 109 [104, 120]; median difference, 7; 95&#xa0;% CI, 2 to 13; P&#xa0;=&#xa0;0.011) and for the mixture group versus the bupivacaine group (median [IQR]: 122 [112, 128] vs. 109 [104, 120]; median difference, 9; 95&#xa0;% CI, 4 to 14; P&#xa0;=&#xa0;0.001). The QoR&#xa0;-&#xa0;15 score in both the liposomal group and the mixture group were also higher than those in the bupivacaine group at 48&#xa0;h postoperatively, though the difference was not clinically meaningful. Additionally, both the liposomal and mixture groups exhibited lower pain score at 24&#xa0;h and 48&#xa0;h postoperatively compared to the bupivacaine group, but no significant clinical differences were achieved in either pain scores or opioid consumption. Patients in both the liposomal and mixture groups reported higher satisfaction score with analgesia than those in the bupivacaine group. TAP block using either liposomal bupivacaine or a mixture of plain bupivacaine and liposomal bupivacaine provided superior quality of recovery at 24&#xa0;h after cesarean delivery compared to using plain bupivacaine alone.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00198-024-07241-y
+- DOI: 10.1016/j.jclinane.2024.111608
 
 2. Keywords
-- Bone density
-- Bone microarchitecture
-- Bone turnover markers
-- Graves&#x2019; disease
-- Thyrotoxicosis
-- Vitamin D
+- Cesarean delivery
+- Liposomal bupivacaine
+- Quality of recovery
+- TAP block
 
 3. Key Findings
-- In this randomized, placebo-controlled trial, we showed that bone restoration did not improve when adding vitamin D supplementation to standard care of Graves' disease thyrotoxicosis
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Bone density assessment methods and outcomes
-- Bone microarchitecture assessment methods and outcomes
-- Bone turnover markers assessment methods and outcomes
+- Cesarean delivery assessment methods and outcomes
+- Liposomal bupivacaine assessment methods and outcomes
+- Quality of recovery assessment methods and outcomes

@@ -1,26 +1,27 @@
-Study Title: Effect of esketamine on haemodynamic fluctuations in patients undergoing hysteroscopic surgery: A prospective, double-blind randomized clinical trial.
+Study Title: Comparing autologous blood, corticosteroid, and a combined injection of both for treating lateral epicondylitis: a randomized clinical trial.
 
 Study Summary:
-We explored whether esketamine anesthesia during hysteroscopic surgery can reduce intraoperative hemodynamic fluctuations and improve patient benefit. A total of 170 patients undergoing hysteroscopic surgery were enrolled, and 151 patients were finally included in the analysis, among which 19 used vasoactive drugs during surgery. Patients were randomly assigned to either the esketamine anesthesia group (E group) or the sufentanil anesthesia group (S group). The primary outcomes were blood pressure and heart rate during the surgery. Secondary outcomes included resistance to laryngeal mask insertion, demand for propofol and remifentanil, nausea and vomiting, Richmond Agitation and Sedation Scale (RASS), dizziness and pain intensity after resuscitation, vasoactive medication treatment, hospitalization time and expenses. E group had a more stable heart rate, systolic blood pressure, diastolic blood pressure and mean blood pressure than the S group (p < 0.001). Patients in E group had a higher demand for propofol (p < 0.001) but better RASS scores (p < 0.001) after resuscitation. The incidence of intraoperative vasoactive medication use was higher in the S group (18.4% vs. 6.7%, p = 0.029). There were no statistically significant differences in terms of resistance to laryngeal mask insertion, remifentanil demand, time required for resuscitation, postoperative pain, dizziness, nausea or vomiting. Compared with sufentanil, esketamine-induced anesthesia during hysteroscopic surgery can reduce intraoperative hemodynamic fluctuations and the incidence of intraoperative vasoactive medication. Although esketamine-induced anesthesia may increase the demand for propofol during surgery, it does not affect the anesthesia recovery time and the quality of patient recovery is better.
+Because lateral epicondylitis is a common musculoskeletal disorder that affects the forearm's extensor tendons, an effective therapeutic approach should reverse the degeneration and promote regeneration. This study aimed to compare the efficacies of autologous blood (AB) injection, corticosteroid (CS) injection, and a combined injection of both in treating lateral epicondylitis (LE), hypothesizing that the combined approach might offer immediate symptom resolution and a lower recurrence. A total of 120 patients diagnosed with lateral epicondylitis were systematically distributed among three distinct therapeutic injection groups. Those in the AB group were administered 1&#xa0;ml of autologous venous blood mixed with 2&#xa0;ml of 2% prilocaine HCl. Participants in the CS category were given 1&#xa0;ml of 40&#xa0;mg methylprednisolone acetate mixed with 2&#xa0;ml of 2% prilocaine HCl. Meanwhile, patients in the combined group received a mixture containing 1&#xa0;ml each of autologous venous blood and 40&#xa0;mg methylprednisolone acetate along with 1&#xa0;ml of 2% prilocaine HCl. Prior to receiving their respective injections, a comprehensive assessment of all participants was carried out. Follow-up assessments were subsequently conducted on days 15, 30, and 90 utilizing metrics of the patient-rated tennis elbow evaluation (PRTEE) and measurements of hand grip strength (HGS). One patient dropped out from the combined group, and 119 patients completed the trial. No complications were recorded during the course of follow-up. By day 15, all groups had demonstrated significant PRTEE improvement, with CS showing the most pronounced reduction (p&#x2009;=&#x2009;0.001). However, the benefits of CS had deteriorated by day 30 and had deteriorated further by day 90. The AB and AB&#xa0;+&#xa0;CS groups demonstrated sustained improvement, with AB&#xa0;+&#xa0;CS revealing the most effective treatment, achieving a clinically significant improvement in 97.4% of the patients. The improved HGS parallelled the functional enhancements, as it was more substantial in the AB and AB&#xa0;+&#xa0;CS groups (p&#x2009;=&#x2009;0.001), corroborating the sustained benefits of these treatments. The study concluded that while AB and CS individually offer distinct benefits, a combined AB&#xa0;+&#xa0;CS approach optimizes therapeutic outcomes, providing swift and sustained functional improvement with a lower recurrence rate. These findings have substantial clinical implications, suggesting a balanced, multimodal treatment strategy for enhanced patient recovery in LE. Randomized clinical trial, level 1 evidence. NCT06236178.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/bcp.16165
+- DOI: 10.1186/s10195-024-00772-4
 
 2. Keywords
-- blood pressure
-- esketamine
-- heart rate
-- hysteroscopic surgery
-- randomized clinical trial
+- Autologous blood
+- Corticosteroid
+- Lateral epicondylitis
+- Tennis elbow
 
 3. Key Findings
-- Findings extraction requires manual review
+- By day 15, all groups had demonstrated significant PRTEE improvement, with CS showing the most pronounced reduction (p&#x2009;=&#x2009;0
+- The AB and AB&#xa0;+&#xa0;CS groups demonstrated sustained improvement, with AB&#xa0;+&#xa0;CS revealing the most effective treatment, achieving a clinically significant improvement in 97
+- The study concluded that while AB and CS individually offer distinct benefits, a combined AB&#xa0;+&#xa0;CS approach optimizes therapeutic outcomes, providing swift and sustained functional improvement with a lower recurrence rate
 
 This study provides insights into:
-- blood pressure assessment methods and outcomes
-- esketamine assessment methods and outcomes
-- heart rate assessment methods and outcomes
+- Autologous blood assessment methods and outcomes
+- Corticosteroid assessment methods and outcomes
+- Lateral epicondylitis assessment methods and outcomes

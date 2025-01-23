@@ -1,30 +1,20 @@
-Study Title: Efficacy and safety of a synbiotic infant formula for the prevention of respiratory and gastrointestinal infections: a randomized controlled trial.
+Study Title: Short-term reduction of dietary gluten improves metabolic-dysfunction associated steatotic liver disease: A randomised, controlled proof-of-concept study.
 
 Study Summary:
-Early life nutrition is crucial for the development of the gut microbiota that, in turn, plays an essential role in the maturation of the immune system and the prevention of infections. The aim of this study was to investigate whether feeding synbiotic infants and follow-on formulas during the first year of life reduces the incidence rate (IR) of infectious diarrhea compared with standard formulas. Secondary endpoints included the IR of other infectious diseases as well as fecal milieu parameters. In this double-blind, controlled trial, 460 healthy, 1-mo-old infants were randomly assigned to receive a synbiotic [galacto-oligosaccharides (GOS)/Limosilactobacillus fermentum CECT 5716] (IF, n = 230) or a control formula (CF, n = 230) until 12 mo of age. A reference group of breastfed infants (HM, n = 80) was included. Data on infections were recorded throughout the study period and stool samples were collected at 4 and 12 mo of age. IR of infectious diarrhea during the first year of life was 0.60 (CF), 0.56 (IF), and 0.29 (HM), with no statistically significant difference between groups. The IR of lower respiratory tract infections, 1 of the secondary endpoints, however, was lower in IF than in CF [0.79 compared with 1.01, IR ratio = 0.77 (0.60-1.00)]. Additionally, fecal pH was significantly lower at 4 mo (P < 0.0001), whereas secretory IgA was significantly higher at 12 mo of age (P = 0.015) in IF compared with CF. Although no difference is observed in the incidence of diarrhea, consumption of a synbiotic formula containing L.&#xa0;fermentum CECT5716 and GOS in infancy may reduce the incidence of lower respiratory tract infections and affect the immune system and fecal milieu. Additional research is warranted to further investigate the potential interaction of the gut-lung axis. This trial was registered at clinicaltrials.gov as NCT02221687.
+The current management of metabolic dysfunction-associated steatotic liver disease (MASLD) relies on lifestyle intervention. Prior studies have shown that nutritional wheat amylase trypsin inhibitors (ATI) activate toll-like receptor 4 on intestinal myeloid cells to enhance intestinal and extra-intestinal inflammation, including the promotion of murine MASLD, insulin resistance and liver fibrosis. We aimed to assess the impact of ATI (gluten)-free diet in liver as well as metabolic parameters of biopsy-proven MASLD patients. We performed a 6-week, proof-of-concept 1:1 randomised controlled trial of an ATI-free diet. The controls followed a balanced diet recommended by the German Nutrition Society. We assessed changes in controlled attenuation parameter (CAP), body mass index (BMI) and homeostatic model assessment of insulin resistance (HOMA-IR). Patient-reported outcomes were assessed by the CLDQ-NASH questionnaire. Forty-five patients were consecutively enrolled (21 in the intervention arm and 24 in the control arm). Three patients from each arm discontinued the study. In the ATI-free diet group, a significant decrease in BMI (p&#x2009;=&#x2009;0.018), CAP (p&#x2009;=&#x2009;0.018) and HOMA-IR (p&#x2009;=&#x2009;0.042) was observed at 6&#x2009;weeks. The mean difference in CAP between the two arms at week 6 was 30.5&#x2009;dB/m (p&#x2009;=&#x2009;0.039), with a delta significantly higher in the ATI-free diet group (p&#x2009;=&#x2009;0.043). Only an ATI-free diet could achieve a significant improvement in CLDQ-NASH domains (p value for total scoring: 0.013). A short-term ATI-free diet leads to significant improvements in liver and metabolic parameters, as well as patient-reported outcomes with good tolerability. A larger follow-up study is justified to corroborate these findings. NCT04066400.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ajcnut.2024.03.005
+- DOI: 10.1111/apt.17941
 
 2. Keywords
-- GOS
-- Limosilactobacillus fermentum
-- formula
-- gut microbiota
-- gut&#x2013;lung axis
-- infant
-- infections
-- respiratory tract
-- synbiotic
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- GOS assessment methods and outcomes
-- Limosilactobacillus fermentum assessment methods and outcomes
-- formula assessment methods and outcomes
+- General research methodology and outcomes

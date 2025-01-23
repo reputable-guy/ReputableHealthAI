@@ -1,25 +1,20 @@
-Study Title: Child routines moderate a brief behavioral intervention to enhance sleep in school-aged children.
+Study Title: Design of OASIS 1 and 2: phase 3 clinical trials assessing the efficacy and safety of elinzanetant for the treatment of vasomotor symptoms associated with menopause.
 
 Study Summary:
-To examine whether child routines (the consistency or variation in children's daily routines, household responsibilities, discipline routines, and homework routines) moderated the effectiveness of a brief behavioral intervention to enhance sleep in school-aged children. Secondary analysis was conducted with a subset of 66 families with short sleeping (&#x2264;9.5&#x2009;hr/day) children, 8-11&#x2009;years old (female&#x2009;=&#x2009;68%; mean age&#x2009;=&#x2009;9.76, SD&#x2009;=&#x2009;1.02) who completed the Child Routines Inventory at baseline and were then randomized to receive a behavioral sleep intervention (n&#x2009;=&#x2009;32) or to control (n&#x2009;=&#x2009;34). Sleep period was objectively measured using wrist actigraphy at baseline and 2&#x2009;months post-randomization. Moderation analysis was performed using ordinary least squares regression using the PROCESS macro for SPSS. Controlling for sleep period at baseline, treatment condition was significantly related to the sleep period at 2&#x2009;months post-randomization, with the intervention group achieving a longer sleep period compared to the usual sleep period group (control) (b&#x2009;=&#x2009;46.30, p < .01). Intervention response was moderated by child routines (b&#x2009;=&#x2009;1.43, p < .05). Specifically, the intervention produced the greatest change in sleep period for children who engaged in greater routine behaviors at baseline than those who engaged in fewer routine behaviors. Families that engage in routine behaviors may be better equipped to adopt the behavioral modifications required to get a good night's sleep. The findings highlight the importance of working with families to establish routine behaviors to improve responses to behavioral sleep interventions.
+Elinzanetant is a selective neurokinin-1,3 receptor antagonist in development for the treatment of vasomotor symptoms (VMS) associated with menopause. The pivotal, double-blind, randomized, placebo-controlled phase 3 studies Overall Assessment of efficacy and Safety of elinzanetant In patients with vasomotor Symptoms (OASIS) 1 and 2 will assess the efficacy and safety of elinzanetant in women with VMS. The OASIS 1 and 2 pivotal studies are designed in accordance with regulatory guidance. Postmenopausal women with moderate/severe VMS are randomized to receive 120 mg elinzanetant or placebo once daily for 12 weeks, followed by a 14-week active treatment extension. Primary endpoints are the mean change in frequency and severity of moderate/severe VMS from baseline to weeks 4 and 12. Key secondary endpoints will assess the onset of action and effects on sleep disturbance and menopause-related quality of life. Primary and key secondary endpoints will be analyzed using a mixed model with repeated measures. Feedback from postmenopausal women with VMS was used during protocol development. Women confirmed the relevance of endpoints that assess the impact of VMS, sleep disturbance, and mood changes, and the need for new nonhormone treatments. Educational materials around study design, conduct and expected assessments and procedures were developed based on questions and concerns raised by women. The OASIS 1 and 2 pivotal phase 3 studies will enable assessment of the efficacy and safety of elinzanetant as a treatment for VMS, together with its effect on sleep disturbances, depressive symptoms, and menopause-related quality of life. Feedback from postmenopausal women with VMS was used to maximize patient centricity in the trials.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/jpepsy/jsae015
+- DOI: 10.1097/GME.0000000000002350
 
 2. Keywords
-- behavioral sleep intervention
-- child routines
-- school-aged children
-- sleep
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- behavioral sleep intervention assessment methods and outcomes
-- child routines assessment methods and outcomes
-- school-aged children assessment methods and outcomes
+- General research methodology and outcomes

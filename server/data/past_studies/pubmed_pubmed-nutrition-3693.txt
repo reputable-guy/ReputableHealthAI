@@ -1,26 +1,24 @@
-Study Title: Diet Outcomes from a Randomized Controlled Trial Assessing a Parenting Intervention Simultaneously Targeting Healthy Eating and Substance Use Prevention among Hispanic Middle-School Adolescents.
+Study Title: Using Body Composition Analysis for Improved Nutritional Intervention in Septic Patients: A Prospective Interventional Study.
 
 Study Summary:
-Parents play a significant role in adolescent health behaviors; however, few nutrition interventions for Hispanic adolescents involve parents. This study assessed the effects of a 10-week parenting intervention simultaneously targeting nutrition and substance use prevention. Hispanic parent/6th-8th-grade adolescent dyads (n = 239) were randomized to Families Preparing the New Generation Plus (FPNG+; nutrition/substance use prevention), FPNG (substance use prevention only), or Realizing the American Dream (RAD; academic success control). Surveys assessed diet, alcohol use, substance use intentions, and substance use norms at baseline (T1), immediately post-intervention (T2), and at 16 weeks post-intervention (T3). Latent change modeling assessed diet changes; adolescent substance use outcomes were assessed using effect sizes. Among adolescents, those in FPNG+ increased fruit (+0.32 cup equivalents,= 0.022) and fiber intake (+1.06 g,= 0.048) and did not change added sugars intake at T2; those in FPNG and RAD reduced their intake of fruit and fiber (< 0.05 for both). FPNG+ parents marginally increased fruit/vegetable intake (+0.17 cup equivalents,= 0.054) and increased whole grains intake (+0.25-ounce equivalents,< 0.05), in contrast to the reduction among RAD and FPNG parents (< 0.05). Reductions in added sugar intake at T2 were greater among FPNG and FPNG+ parents relative to RAD parents (< 0.05). FPNG+ and FPNG had comparable substance use outcomes (i.e., both had lower alcohol use and intentions to use substances relative to RAD). Engaging parents in a nutrition and substance use prevention parenting intervention yielded positive changes in dietary intake and maintained substance use prevention outcomes among their adolescent children.
+The study aimed to determine whether using body composition data acquired through bio-electrical impedance analysis (BIA) to adjust diet formulas could improve outcomes in septic patients. There were 132 septic patients in medical intensive care units enrolled in the prospective, randomized, double-blind, interventional study. For the intervention group, dietitians had access to BIA data for adjusting diet formulas according to body composition variables on days 1, 3, and 8. The patients were also stratified based on nutritional risk using the modified Nutrition Risk in Critically ill (mNUTRIC) score. Patients with intervention were more likely to achieve caloric and protein intake goals compared to the control group, especially in the low-risk group. The intervention did not significantly affect mortality, but the survival curves suggested potential benefits. The high-risk group had longer ICU stays and mechanical ventilation duration, which were mitigated by the intervention. Certain body composition variables (e.g., extracellular water to total body water ratio and phase angle) showed differences between high-risk and low-risk groups and may be related to patient outcomes. Non-invasive body composition assessment using BIA can help dietitians adjust diet formulas for critically ill septic patients. Body composition variables may be associated with sepsis outcomes, but further research with larger patient numbers is needed to confirm these findings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15173790
+- DOI: 10.3390/nu15173814
 
 2. Keywords
-- Hispanic
-- adolescents
-- diet
-- families
-- parenting intervention
+- body composition
+- phase angle
+- sepsis
 
 3. Key Findings
-- Findings extraction requires manual review
+- , extracellular water to total body water ratio and phase angle) showed differences between high-risk and low-risk groups and may be related to patient outcomes
 
 This study provides insights into:
-- Hispanic assessment methods and outcomes
-- adolescents assessment methods and outcomes
-- diet assessment methods and outcomes
+- body composition assessment methods and outcomes
+- phase angle assessment methods and outcomes
+- sepsis assessment methods and outcomes

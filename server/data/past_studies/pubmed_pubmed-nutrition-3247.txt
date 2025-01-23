@@ -1,27 +1,26 @@
-Study Title: Adherence to a lifestyle intervention - just a question of self-efficacy? Analysis of the AgeWell.de-intervention against cognitive decline.
+Study Title: The effect of mechanical ventilation compared to high-flow nasal cannula on gastric residual volume and reflux events using novel automated technology.
 
 Study Summary:
-Aim of this study was to detect predictors of better adherence to the AgeWell.de-intervention, a two-year randomized multi-domain lifestyle intervention against cognitive decline. Data of 317 intervention group-participants comprising a risk group for dementia (Cardiovascular Risk Factors, Ageing and Dementia (CAIDE) score of&#x2009; &#x2265;&#x2009;9; mean age 68.9&#xa0;years, 49.5% women) from the AgeWell.de intervention study were analysed. Regression models with four blocks of predictors (sociodemographic, cognitive and psychosocial, lifestyle factors and chronic conditions) were run on adherence to the components of nutrition, enhancement of social and physical activity and cognitive training. Adherence to each component was operationalised by assessing the degree of goal achievement per component at up to seven time points during the intervention period, measured using a 5-point Likert scale (mean score of goal achievement). Increasing age was negatively associated with adherence, while higher education positively predicted adherence. Participants with better mental state (Montreal Cognitive Assessment (MoCA)-score&#x2009;>&#x2009;25) at baseline and higher self-efficacy adhered better. Diabetes and cardiovascular conditions were not associated with adherence, whereas smoking negatively affected adherence. Highest education and quitting smoking in the past were the only predictors associated with all four intervention components. Results identified predictors for better and worse adherence. Particularly self-efficacy seems to be of considerable influence on adherence. This should be considered when designing future intervention trials. German Clinical Trials Register (ref. number: DRKS00013555).
+High flow nasal cannula (HFNC) oxygen therapy is frequently used following extubation. A case report, utilizing an innovative medical technology (The smART&#xa0;+&#xa0;Platform, ART MEDICAL Ltd., Netanya, Israel) that enables the detection of gastric refluxes and gastric residual volumes (GRV), has suggested that HFNC may be associated with increased reflux events and GRV. This study measured reflux events and GRV using smART+ in mechanically ventilated patients before and after extubation while they were receiving HFNC therapy. We aim to show if there is a significant difference in reflux events and GRV between HFNC users and mechanically ventilated patients. This is a post hoc analysis examines data of a randomized controlled trial (RCT) involving critically ill adult patients who received enteral nutrition through the smART&#xa0;+&#xa0;Platform. The study was approved by the local ethics committee. We compared the frequency and amplitude of reflux events and GRV in mechanically ventilated patients. These parameters were assessed both 3&#xa0;h before extubation and subsequently after extubation when the patients were connected to HFNC. Patients served as their own controls. To evaluate the differences between the pre- and post-extubation measurements, we applied a parametric paired t-test. Ten patients (mean age of 58 years; mean APACHE II score 22; mean 3.9 days of mechanical ventilation) were included. Three hours prior extubation the mean GRV was 4.1&#xa0;ml/h compared to 14.03&#xa0;ml/h on HFNC (p&#xa0;=&#xa0;0.004). The mean frequency of major reflux events was 2.33/h in ventilated patients versus 4.4/h in the HFNC patients (p&#xa0;=&#xa0;0.73). The mean frequency of major reflux events was 9.17/h in ventilated patients versus 9.83/h in HFNC patients (p&#xa0;=&#xa0;0.14). Leveraging the smART&#xa0;+&#xa0;Platform, we demonstrated that the use of HFNC significantly increases GRV compared with patients on mechanical ventilation and may increase the frequency of major reflux events, thereby increasing the risk of aspiration. Further studies are required to support our conclusions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13195-024-01499-4
+- DOI: 10.1016/j.clnesp.2024.06.009
 
 2. Keywords
-- Adherence
-- Dementia
-- Intervention
-- Lifestyle
-- Predictors
-- Prevention
+- Critical care
+- Enteral nutrition
+- Gastric residual volume
+- Nasogastric tube
+- Reflux
 
 3. Key Findings
-- Findings extraction requires manual review
+- Leveraging the smART&#xa0;+&#xa0;Platform, we demonstrated that the use of HFNC significantly increases GRV compared with patients on mechanical ventilation and may increase the frequency of major reflux events, thereby increasing the risk of aspiration
 
 This study provides insights into:
-- Adherence assessment methods and outcomes
-- Dementia assessment methods and outcomes
-- Intervention assessment methods and outcomes
+- Critical care assessment methods and outcomes
+- Enteral nutrition assessment methods and outcomes
+- Gastric residual volume assessment methods and outcomes

@@ -1,25 +1,28 @@
-Study Title: Effect of exercise referral schemes and self-management strategies on healthcare service utilisation among community-dwelling older adults: secondary analyses of two randomised controlled trials.
+Study Title: Effect of perioperative rehabilitation exercise on postoperative outcomes in patients aged &#x2265;65&#xa0;years undergoing gastrointestinal surgery: A multicenter randomized controlled trial.
 
 Study Summary:
-The objective of this study is to explore whether offering an integrated self-management strategy and exercise referral scheme intervention (ERS+SMS) or a stand-alone ERS intervention is more effective in reducing healthcare service utilisation among community-dwelling older adults over time compared with a stand-alone SMS/control intervention. Secondary analyses of two randomised controlled trials (RCTs) with linkage to Danish national health registries. Three Danish municipalities: Esbjerg, Slagelse and Odense. Danish community-dwelling older adults, aged 65 years or older, were included in the study. Participants originated from two completed RCTs: the Welfare Innovation in Primary Prevention (WIPP, n=115) and the SITLESS project (SITLESS, n=333). Participants in the two trials were randomly assigned to one of three intervention groups: ERS in combination with SMS (ERS+SMS), ERS alone or an SMS/control intervention. Annual number of days with contact to general practice (GP) and days hospitalised for all causes. No statistically significant between-group difference was observed in the annual number of days with contact with GP between participants randomised to ERS+SMS (p=0.759) or ERS only (p=0.156) compared with those randomised to the SMS/control group. In addition, no statistically significant between-group differences in days hospitalised were observed when comparing the ERS+SMS (p=0.222) or ERS only (p=0.060) group to the SMS/control group. Neither the integrated intervention (ERS+SMS) nor the ERS alone intervention was more effective in reducing healthcare service utilisation during a 2-year follow-up period compared with a stand-alone SMS/control intervention. A potential stabilising effect of ERS and/or SMS interventions on the general age-related increase in healthcare service utilisation cannot be ruled out but needs further exploration in future studies along with the exploration of the effects of long-term interventions. NCT04531852 : and : NCT02629666 : .
+This study aimed to assess the effect of perioperative rehabilitation exercise, initiated shortly after hospital admission, on postoperative outcomes in elderly patients. A prospective, multicenter, randomized, controlled, open-label, and assessor-blinded clinical trial. Hospital wards. Elderly patients (&#x2265;65&#xa0;years, n&#xa0;=&#xa0;160) scheduled for gastrointestinal surgery between June 2021 and November 2022 were enrolled and randomly assigned to the intervention or control group. Patients were divided into two groups base on whether they had received a specific type of exercise program initiated after hospital admission and continued until 30&#xa0;days after surgery. The primary outcome was the Comprehensive Complications Index (CCI) measured at 30&#xa0;days after surgery. Secondary outcomes were the rate of complications, number of complications, patient satisfaction, hospital readmission, postoperative length of stay, gastrointestinal function recovery, postoperative quality of life and psychological status. Intention-to-treat (ITT) and per-protocol (PP) analyses were conducted. ITT analysis showed a significantly lower 30-day CCI in the intervention group (&#x3b2;: -6.31; 95&#xa0;% Confidence Interval [CI], -11.26 to -1.37, P&#xa0;=&#xa0;0.013). Compared to controls, the intervention group had a decreased rate of hospital readmission (Odds Ratio: 0.00; 95&#xa0;% CI, 0.00 to 0.32, P&#xa0;=&#xa0;0.022), less number of complications (&#x3b2;: -0.57; 95&#xa0;% CI, -1.03 to -0.11, P&#xa0;=&#xa0;0.016), as well as lower rate of postoperative anxiety (&#x3b2;: -0.74; 95&#xa0;% CI, -1.42 to -0.06, P&#xa0;=&#xa0;0.033) and depression scores (&#x3b2;: -1.13; 95&#xa0;% CI, -0.97 to -1.30, P&#xa0;=&#xa0;0.008). Additionally, the intervention group reported higher satisfaction (&#x3b2;: 0.98; 95&#xa0;% CI, 0.33 to 1.64, P&#xa0;=&#xa0;0.004) and Euro quality of life-Visual Analogue Scale scores (&#x3b2;: 8.88; 95&#xa0;% CI, 2.48 to 15.28, P&#xa0;=&#xa0;0.007). Similar results were found in the PP analysis. Perioperative rehabilitation exercise has a positive impact on postoperative complications, quality of life and psychological well-being in elderly patients undergoing gastrointestinal surgery, even when implemented after hospital admission.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/bmjopen-2024-084938
+- DOI: 10.1016/j.jclinane.2024.111670
 
 2. Keywords
-- Aged
-- Health Services for the Aged
-- PUBLIC HEALTH
-- REGISTRIES
+- Comprehensive complication index
+- Elderly surgical patient
+- Exercise
+- Gastrointestinal surgery
+- Postoperative complications
+- Rehabilitation
 
 3. Key Findings
-- Findings extraction requires manual review
+- ITT analysis showed a significantly lower 30-day CCI in the intervention group (&#x3b2;: -6
+- Similar results were found in the PP analysis
 
 This study provides insights into:
-- Aged assessment methods and outcomes
-- Health Services for the Aged assessment methods and outcomes
-- PUBLIC HEALTH assessment methods and outcomes
+- Comprehensive complication index assessment methods and outcomes
+- Elderly surgical patient assessment methods and outcomes
+- Exercise assessment methods and outcomes

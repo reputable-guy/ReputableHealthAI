@@ -1,26 +1,29 @@
-Study Title: Improvement in depressive symptoms is associated with sustained improvement in fatigue impact in adults with multiple sclerosis.
+Study Title: Acute oral digoxin in healthy adults hastens fatigue and increases plasma Kduring intense exercise, despite preserved skeletal muscle Na,K-ATPase.
 
 Study Summary:
-Fatigue is one of the most common and disabling symptoms of multiple sclerosis (MS). Behavioral interventions that target one or more behaviors such as sleep hygiene, exercise, energy management, cognitive processes, as well as mood have been shown to reduce fatigue in people with MS. Yet, little is known about mechanisms of intervention effects on MS fatigue. Research suggests that depressive symptoms may be an important intervention target for improving MS fatigue. This study examined the association between pre- to post-intervention improvement in depressive symptoms and improvement in MS fatigue impact from pre-intervention through six months post-intervention. This study is a secondary analysis of data from a randomized controlled trial comparing a fatigue self-management intervention to general MS education for improving fatigue in people with MS. Adults with MS (N = 218) were recruited for the parent trial from the Portland, Seattle, Baltimore, and North Florida/South Georgia VA Medical Centers, affiliated academic medical centers, and surrounding communities. Both study interventions showed similar efficacy, so participants were combined into one sample for this secondary analysis. Structural equation modeling was used to examine whether clinically significant change in depressive symptoms (a 17.5 % reduction in the total Beck Depression Inventory-II score) from pre- to post-intervention, was associated with improvement in fatigue impact on the physical, cognitive, and psychosocial subscales of the Modified Fatigue Impact Scale from pre-intervention through six-month follow-up. Participants were predominantly female (72 %), middle-aged (M = 53.7 &#xb1; 10.1), and White (76 %) with a disease duration of 12.5 &#xb1; 8.4 years. Over half of the sample (58 %) had relapsing-remitting MS. Clinically significant improvement in depressive symptoms was associated with reduction in physical fatigue impact (&#x3b2; = -0.17, p = .004, 95 % CI [-0.28, -0.05]), cognitive fatigue impact (&#x3b2; = -0.20, p = .000, 95 % CI [-0.31, -0.10]), and psychosocial fatigue impact (&#x3b2; = -0.13, p = .03, 95 % CI [-0.25, -0.01]) through the six-month follow-up controlling for baseline depressive symptoms and fatigue impact, MS subtype (RRMS or Progressive MS), and income level. The model demonstrated adequate fit, &#x3c7;2(6) = 12.747, p = .047, RMSEA = 0.072, CFI = 0.986, SRMR = 0.016, and accounted for 32 %, 39 %, and 28 % of the variance in physical, cognitive, and psychosocial fatigue impact respectively, which corresponded with large effect sizes. These findings, building on previous research, support the importance of reducing depressive symptoms for improving fatigue impact in people with MS. Future research should examine whether explicit focus on reducing depressive symptoms or related cognitive behavioral factors reduces fatigue in people with MS.
+We investigated acute effects of the Na,K-ATPase (NKA) inhibitor, digoxin, on muscle NKA content and isoforms, arterial plasma [K] ([K]) and fatigue with intense exercise. In a randomised, crossover, double-blind design, 10 healthy adults ingested 0.50&#xa0;mg digoxin (DIG) or placebo (CON) 60&#xa0;min before cycling for 1&#xa0;min at 60%then at 95%until fatigue. Pre- and post-exercise muscle biopsies were analysed for [H]-ouabain binding site content without (OB-F) and after incubation in digoxin antibody (OB+F) and NKA &#x3b1;and &#x3b2;isoform proteins. In DIG, pre-exercise serum [digoxin] reached 3.36 (0.80) nM [mean (SD)] and muscle NKA-digoxin occupancy was 8.2%. Muscle OB-Fdid not differ between trials, whereas OB+Fwas higher in DIG than CON (8.1%, treatment main effect, P&#xa0;=&#xa0;0.001), whilst muscle NKA &#x3b1;and &#x3b2;abundances were unchanged by digoxin. Fatigue occurred earlier in DIG than CON [-7.7%, 2.90 (0.77) vs. 3.14 (0.86) min, respectively; P&#xa0;=&#xa0;0.037]. [K]increased during exercise until 1&#xa0;min post-exercise (P&#xa0;=&#xa0;0.001), and fell below baseline at 3-10 (P&#xa0;=&#xa0;0.001) and 20&#xa0;min post-exercise (P&#xa0;=&#xa0;0.022, time main effect). In DIG, [K](P&#xa0;=&#xa0;0.035, treatment effect) and [K]rise pre-fatigue were greater [1.64 (0.73) vs. 1.55 (0.73), P&#xa0;=&#xa0;0.016], with lesser post-exercise [K]decline than CON [-2.55 (0.71) vs. -2.74 (0.62) mM, respectively, P&#xa0;=&#xa0;0.003]. Preserved muscle OB-Fwith digoxin, yet increased OB+Fwith unchanged NKA isoforms, suggests a rapid regulatory assembly of existing NKA &#x3b1; and &#x3b2; subunits exists to preserve muscle NKA capacity. Nonetheless, functional protection against digoxin was incomplete, with earlier fatigue and perturbed [K]with exercise. KEY POINTS: Intense exercise causes marked potassium (K) shifts out of contracting muscle cells, which may contribute to muscle fatigue. Muscle and systemic Kperturbations with exercise are largely regulated by increased activity of Na,K-ATPase in muscle, which can be specifically inhibited by the cardiac glycoside, digoxin. We found that acute oral digoxin in healthy adults reduced time to fatigue during intense exercise, elevated the rise in arterial plasma Kconcentration during exercise and slowed Kconcentration decline post-exercise. Muscle functional Na,K-ATPase content was not reduced by acute digoxin, despite an 8.2% digoxin occupancy, and was unchanged at fatigue. Muscle Na,K-ATPase isoform protein abundances were unchanged by digoxin or fatigue. These suggest possible rapid assembly of existing subunits into functional pumps. Thus, acute digoxin impaired performance and exacerbated plasma Kdisturbances with intense, fatiguing exercise in healthy participants. These occurred despite the preservation of functional Na,K-ATPase in muscle.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.msard.2024.106158
+- DOI: 10.1113/JP287274
 
 2. Keywords
-- Depression
-- Fatigue
-- Multiple sclerosis
-- Nonpharmacological intervention
+- Na+,K+&#x2010;pump
+- cardiac glycoside
+- digoxin
+- exercise
+- fatigue
+- lactate
+- ouabain binding
+- potassium
 
 3. Key Findings
-- Both study interventions showed similar efficacy, so participants were combined into one sample for this secondary analysis
-- The model demonstrated adequate fit, &#x3c7;2(6) = 12
+- We found that acute oral digoxin in healthy adults reduced time to fatigue during intense exercise, elevated the rise in arterial plasma Kconcentration during exercise and slowed Kconcentration decline post-exercise
 
 This study provides insights into:
-- Depression assessment methods and outcomes
-- Fatigue assessment methods and outcomes
-- Multiple sclerosis assessment methods and outcomes
+- Na+,K+&#x2010;pump assessment methods and outcomes
+- cardiac glycoside assessment methods and outcomes
+- digoxin assessment methods and outcomes

@@ -1,27 +1,27 @@
-Study Title: Delaying post-exercise carbohydrate intake impairs next-day exercise capacity but not muscle glycogen or molecular responses.
+Study Title: Changes in bone density and microarchitecture following treatment of Graves' disease and the effects of vitamin D supplementation. A randomized clinical trial.
 
 Study Summary:
-To investigate how delayed post-exercise carbohydrate intake affects muscle glycogen, metabolic- and mitochondrial-related molecular responses, and subsequent high-intensity interval exercise (HIIE) capacity. In a double-blind cross-over design, nine recreationally active men performed HIIE (10&#x2009;&#xd7;&#x2009;2-min cycling, ~94% W&#x2d9;) in the fed state, on two occasions. During 0-3&#x2009;h post-HIIE, participants drank either carbohydrates ("Immediate Carbohydrate" [IC], providing 2.4&#x2009;g/kg) or water ("Delayed Carbohydrate" [DC]); total carbohydrate intake over 24 h post-HIIE was matched (~7&#x2009;g/kg/d). Skeletal muscle (sampled pre-HIIE, post-HIIE, +3 h, +8 h, +24&#x2009;h) was analyzed for whole-muscle glycogen and mRNA content, plus signaling proteins in cytoplasmic- and nuclear-enriched fractions. After 24&#x2009;h, participants repeated the HIIE protocol until failure, to test subsequent HIIE capacity; blood lactate, heart rate, and ratings of perceived effort (RPE) were measured throughout. Muscle glycogen concentrations, and relative changes, were similar between conditions throughout (p&#x2009;>&#x2009;0.05). Muscle glycogen was reduced from baseline (mean&#x2009;&#xb1;&#x2009;SD mmol/kg&#x2009;dm; IC: 409&#x2009;&#xb1;&#x2009;166; DC: 352&#x2009;&#xb1;&#x2009;76) at post-HIIE (IC: 253&#x2009;&#xb1;&#x2009;96; DC: 214&#x2009;&#xb1;&#x2009;82), +3&#x2009;h (IC: 276&#x2009;&#xb1;&#x2009;62; DC: 269&#x2009;&#xb1;&#x2009;116) and +&#x2009;8&#x2009;h (IC: 321&#x2009;&#xb1;&#x2009;56; DC: 269&#x2009;&#xb1;&#x2009;116), returning to near-baseline by +24&#x2009;h. Several genes (PGC-1&#x251;, p53) and proteins (p-ACC, p-P38 MAPK) elicited typical exercise-induced changes irrespective of condition. Delaying carbohydrate intake reduced next-day HIIE capacity (5&#x2009;&#xb1;&#x2009;3 intervals) and increased RPE (~2 ratings), despite similar physiological responses between conditions. Molecular responses to HIIE (performed in the fed state) were not enhanced by delayed post-exercise carbohydrate intake. Our findings support immediate post-exercise refueling if the goal is to maximize next-day HIIE capacity and recovery time is &#x2264;24&#x2009;h.
+Thyrotoxicosis leads to loss of bone mass. Vitamin D is important to bone health. In this randomized, placebo-controlled trial, we showed that bone restoration did not improve when adding vitamin D supplementation to standard care of Graves' disease thyrotoxicosis. Bone density and microarchitecture improved markedly with treatment of thyrotoxicosis. Vitamin D is important to skeletal health and ensuring a replete vitamin D status is recommended. In thyrotoxicosis, bone turnover is increased and bone mass density (BMD) reduced. We examined whether vitamin D supplementation improves bone recovery in thyrotoxicosis caused by Graves' disease (GD). Using a double-blinded design, hyperthyroid patients with GD were randomized to vitamin D3 70&#xa0;&#xb5;g/day (2800&#xa0;IU) or similar placebo as add-on to antithyroid drugs (ATD). At baseline and 9&#xa0;months, we measured BMD and bone architecture using DXA and high resolution peripheral quantitative computerized tomography. Bone turnover markers (BTM) were measured at 3&#xa0;months also. Effect of vitamin D versus placebo and the response to ATD treatment were analyzed using linear mixed modelling. Eighty-six GD patients were included (age 41&#x2009;&#xb1;&#x2009;14&#xa0;years, 86% females). Compared to placebo, vitamin D3 did not improve BMD or microarchitecture. In response to ATD, BMD increased in the hip by 2% (95%CI: 1-4%). Cortical porosity decreased in tibia (-&#x2009;7% [95%CI:&#x2009;-&#x2009;12 to&#x2009;-&#x2009;2%]) and radius [-&#x2009;14% [95%CI:&#x2009;-&#x2009;24 to&#x2009;-&#x2009;3%]), and trabecular thickness increased (tibia (5% [95%CI: 2&#x2009;-&#x2009;9%]) and radius (4% [95%CI: 1-7%]). Changes in BTM, but not thyroid hormones, were associated with changes in BMD by DXA and with changes in the cortical compartment. In newly diagnosed GD, 9&#xa0;months of high dose vitamin D3 supplementation does not offer benefit by improving skeletal health. Treatment of thyrotoxicosis is associated with the recovery of BMD and microarchitecture. NCT02384668.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/apha.14215
+- DOI: 10.1007/s00198-024-07241-y
 
 2. Keywords
-- carbohydrates
-- exercise
-- mRNA
-- muscle glycogen
-- nutrition
-- signaling
+- Bone density
+- Bone microarchitecture
+- Bone turnover markers
+- Graves&#x2019; disease
+- Thyrotoxicosis
+- Vitamin D
 
 3. Key Findings
-- Findings extraction requires manual review
+- In this randomized, placebo-controlled trial, we showed that bone restoration did not improve when adding vitamin D supplementation to standard care of Graves' disease thyrotoxicosis
 
 This study provides insights into:
-- carbohydrates assessment methods and outcomes
-- exercise assessment methods and outcomes
-- mRNA assessment methods and outcomes
+- Bone density assessment methods and outcomes
+- Bone microarchitecture assessment methods and outcomes
+- Bone turnover markers assessment methods and outcomes

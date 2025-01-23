@@ -1,21 +1,26 @@
-Study Title: Delayed Onset Muscle Soreness Following Acute Resistance Exercise in Untrained Females: A Comparative Study Between Vegans and Omnivores.
+Study Title: Electrophysiological differences of randomized deep sedation with dexmedetomidine versus propofol.
 
 Study Summary:
-This study aimed to assess the levels of delayed onset muscle soreness (DOMS) markers in individuals adhering to vegan and omnivore diets after engaging in acute resistance exercise. A total of 54 untrained young, healthy, normal-body-weight women (age: 26.8&#xb1;4.1 years; body mass index: 22.5&#xb1;2.7&#x2009;kg/m) participated in the study. Participants were categorized into two groups: vegans (n=27) and omnivores (n=27) based on their dietary preferences, with all subjects having adhered to their respective diets for a minimum of 2 years. DOMS was induced by a single eccentric resistance exercise session, comprising four exercises (leg press, chest press, leg curls, and arm curls), each consisting of four sets of 10 repetitions. Various measurements, including dietary factors, state of wellness, body composition, muscle circumferences, muscle pressure point thresholds (PPTs), and muscle strength, were recorded both before and 48&#x2009;hours after the exercise session. The results showed that wellness and muscle circumferences remained unchanged or displayed similar changes between the vegan and omnivore groups following acute resistance exercise. However, notable differences were observed in PPTs in favor of vegans, specifically for the right biceps (95% CI: 1.4 to 10.2; p=0.01), the left vastus medialis (95% CI: 0.5 to 6.4; p=0.02), and the right vastus lateralis (95% CI: 3.2 to 12.1; p=0.001). Furthermore, significant differences in right grip strength were found in favor of vegans after the exercise session (95% CI: 3.1 to 26.2; p=0.01). In conclusion, our findings suggest that vegans may experience more favorable changes in DOMS levels following acute resistance exercise in comparison to omnivores. This discrepancy in DOMS markers may indicate enhanced muscle recovery in vegans.
+Dexmedetomidine and propofol are common sedatives in intensive care units and for interventional procedures. Both may compromise sinus node function and atrioventricular conduction. The objective of this prospective, randomized study is to compare the effect of dexmedetomidine with propofol on sinus node function and atrioventricular conduction. In a tertiary care center in Switzerland we included from September 2019 to October 2020 160 patients (65&#x2009;&#xb1;&#x2009;11&#xa0;years old; 32% female) undergoing first ablation for atrial fibrillation by cryoballoon ablation or by radiofrequency ablation. Patients were randomly assigned to deep sedation with dexmedetomidine (DEX group) versus propofol (PRO group). A standard electrophysiological study&#xa0;was performed after pulmonary vein isolation with the patients still deeply sedated and hemodynamically stable. Eighty patients each were randomized to the DEX and PRO group. DEX group patients had higher baseline sinus cycle length (1022 vs. 1138 ms; p&#x2009;=&#x2009;0.003) and longer sinus node recovery time (SNRT400; 1597 vs. 1412 ms; p&#x2009;=&#x2009;0.042). However, both corrected SNRT and normalized SNRT did not differ. DEX group patients had longer PR interval (207 vs. 186 ms; p&#x2009;=&#x2009;0.002) and AH interval (111 vs. 95 ms, p&#x2009;=&#x2009;0.008), longer Wenckebach cycle length of the atrioventricular node (512 vs. 456 ms; p&#x2009;=&#x2009;0.005), and longer atrioventricular node effective refractory period (390 vs. 344 ms; p&#x2009;=&#x2009;0.009). QRS width and HV interval were not different. An arrhythmia, mainly atrial fibrillation, was induced in 33 patients during the electrophysiological study, without differences among groups (20% vs. 15%, p&#x2009;=&#x2009;0.533). Dexmedetomidine has a more pronounced slowing effect on sinus rate and suprahissian AV conduction than propofol, but not on infrahissian AV conduction and ventricular repolarization. These differences need to be taken into account when using these sedatives. ClinicalTrials.gov number NCT03844841, 19/02/2019.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1055/a-2350-8681
+- DOI: 10.1186/s12871-024-02647-x
 
 2. Keywords
-
+- Atrial fibrillation
+- Catheter ablation
+- Dexmedetomidine
+- Propofol
+- Sedation
 
 3. Key Findings
-- The results showed that wellness and muscle circumferences remained unchanged or displayed similar changes between the vegan and omnivore groups following acute resistance exercise
-- Furthermore, significant differences in right grip strength were found in favor of vegans after the exercise session (95% CI: 3
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Atrial fibrillation assessment methods and outcomes
+- Catheter ablation assessment methods and outcomes
+- Dexmedetomidine assessment methods and outcomes

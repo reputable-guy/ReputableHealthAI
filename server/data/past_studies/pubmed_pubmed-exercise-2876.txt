@@ -1,25 +1,27 @@
-Study Title: Impact of rehabilitation unit-based physical activity therapy versus symptomatic supportive treatment on older patients with advanced cancer: a non-randomized controlled study.
+Study Title: Acute inorganic nitrate ingestion does not impact oral microbial composition, cognitive function, or high-intensity exercise performance in female team-sport athletes.
 
 Study Summary:
-Relatively few studies have investigated the effects of rehabilitation-based physical activity therapy as a treatment for older patients with advanced cancer. This study evaluated the effects of individualized precise and structured exercise interventions, prescribed by a rehabilitation physician, on fatigue, quality of life (QOL), and physical activity in older patients with advanced cancer. After admission to the rehabilitation department, older cancer patients were divided into groups receiving conventional symptomatic supportive therapy (SST) or physical activity therapy plus conventional symptomatic supportive therapy (PAT). The SST group was given symptomatic supportive treatment, exercised on their own, and were observed at home after their symptoms improved. The PAT group was required to implement physical exercise along with SST, involving 30&#xa0;min of moderate-intensity exercise per day and 5&#xa0;days per week, and were discharged after 4&#xa0;weeks and instructed to continue to exercise outside the hospital. Cancer-related fatigue (CRF) at 4 and 8&#xa0;weeks was the primary endpoint of the study, while the secondary endpoints included patients' QOL, physical activity, and exercise adherence rate. Sixty-five patients were included; 37 (56.92%) chose to enter the PAT group, and 28 (43.08%) chose to enter the SST group. After 4 and 8&#xa0;weeks of treatment, CRF relief and QOL improvement were significantly better in the PAT group than in the SST group (p&#x2009;<&#x2009;0.05), whereas global health status did not differ between the two treatment groups (T1: p&#x2009;=&#x2009;0.84; T2: p&#x2009;=&#x2009;0.92). Mild physical activity significantly increased for the PAT group at T1 and T2 (T1: p&#x2009;=&#x2009;0.03; T2: p&#x2009;=&#x2009;0.005). At the T2 time point, the PAT group exhibited a higher level of participation in moderate-intensity physical activities as well as a higher total leisure activity score (p&#x2009;<&#x2009;0.05). Thirty-three patients (94.29%) completed the PAT exercise program during hospitalization. Only four (12.12%) patients achieved moderate-intensity exercise, while the other 29 (87.88%) patients were able to continue exercising after their exercise intensity was decreased. Implementation of precise and individualized exercise interventions, prescribed by the rehabilitation team, can lead to the reduction of CRF and improvement of QOL, and change in behavior related to physical activity.
+The purpose of this study was to investigate the effects of acute nitrate (NO)-rich beetroot juice ingestion on explosive and high-intensity exercise performance, oral microbiota composition, and cognitive flexibility (i.e., function), before and after maximal intermittent running exercise. Fifteen women team-sport athletes were assigned in a randomized, double-blind, crossover design to consume concentrated NO-depleted beetroot juice (PL; 0.1&#xa0;mmol NO) and NO-rich beetroot juice (BR; 12.0&#xa0;mmol NO) 2.5&#xa0;h prior to performing a battery of exercise performance tasks and cognitive testing before and after the Yo-Yo intermittent recovery level 1 (YYIR1) running test. Resting plasma [NO] and plasma nitrite ([NO]) were elevated following BR (P&#x2009;<&#x2009;0.001). BR did not impact global composition or relative abundance of taxa in the oral microbiome (P&#x2009;>&#x2009;0.05) or cognitive flexibility before or after exercise (P&#x2009;>&#x2009;0.05). There was no significant difference in performance during 20-m (PRE, PL: 4.38&#x2009;&#xb1;&#x2009;0.27 vs. BR: 4.38&#x2009;&#xb1;&#x2009;0.32&#xa0;s; POST, PL: 4.45&#x2009;&#xb1;&#x2009;0.29 vs. BR: 4.43&#x2009;&#xb1;&#x2009;0.35&#xa0;s) and 10-m sprints (PRE, PL 2.78&#x2009;&#xb1;&#x2009;0.15 vs. BR 2.79&#x2009;&#xb1;&#x2009;0.18&#xa0;s; POST, PL: 2.82&#x2009;&#xb1;&#x2009;0.16 vs. BR: 2.81&#x2009;&#xb1;&#x2009;0.19&#xa0;s), isokinetic handgrip dynamometry, medicine ball throw, horizontal countermovement jump, or YYIR1 (PL: 355&#x2009;&#xb1;&#x2009;163&#xa0;m vs. BR: 368&#x2009;&#xb1;&#x2009;184&#xa0;m) between BR and PL (P&#x2009;>&#x2009;0.05). These findings indicate that acute dietary NOmay not influence the oral microbiome, explosive and high-intensity exercise performance, or cognitive function in women team-sport athletes.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00520-024-08701-1
+- DOI: 10.1007/s00421-024-05552-w
 
 2. Keywords
-- Advanced cancer
-- Older patients
-- Physical activity therapy
-- Rehabilitation
+- 16S rRNA sequencing
+- Beetroot
+- Exercise
+- Females
+- Nitric oxide
+- Strength
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Advanced cancer assessment methods and outcomes
-- Older patients assessment methods and outcomes
-- Physical activity therapy assessment methods and outcomes
+- 16S rRNA sequencing assessment methods and outcomes
+- Beetroot assessment methods and outcomes
+- Exercise assessment methods and outcomes

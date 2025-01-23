@@ -1,26 +1,26 @@
-Study Title: Continuous Ketone Monitoring via Wearable Microneedle Patch Platform.
+Study Title: Prenatal and Pediatric Primary Care-Based Child Obesity Prevention: Effects of Adverse Social Determinants of Health on Intervention Attendance and Impact.
 
 Study Summary:
-Ketone bodies (KBs), especially &#x3b2;-hydroxybutyrate (BHB), have gained tremendous attention as potential biomarkers as their presence in bodily fluids is closely associated with health and wellness. While a variety of blood fingerstick test strips are available for self-testing of BHB, there are major needs for wearable devices capable of continuously tracking changing BHB concentrations. To address these needs, we present here the first demonstration of a wearable microneedle-based continuous ketone monitoring (CKM) in human interstitial fluid (ISF) and illustrate its ability to closely follow the intake of ketone drinks. To ensure highly stable and selective continuous detection of ISF BHB, the new enzymatic microneedle BHB sensor relies on a gold-coated platinum working electrode modified with a reagent layer containing toluidine blue O (TBO) redox mediator, &#x3b2;-hydroxybutyrate dehydrogenase (HBD) enzyme, a nicotinamide adenine dinucleotide (NAD) cofactor, along with carbon nanotubes (CNTs), chitosan (Chit), and a poly(vinyl chloride) (PVC) outer protective layer. The skin-worn microneedle sensing device operates with a miniaturized electrochemical analyzer connected wirelessly to a mobile electronic device for capturing, processing, and displaying the data. Cytotoxicity and skin penetration studies indicate the absence of potential harmful effects. A pilot study involving multiple human subjects evaluated continuous BHB monitoring in human ISF, against gold standard BHB meter measurements, revealing the close correlation between the two methods. Such microneedle-based CKM offers considerable promise for dynamic BHB tracking toward the management of diabetic ketoacidosis and personal nutrition and wellness.
+Adverse social determinants of health (SDoHs), specifically psychosocial stressors and material hardships, are associated with early childhood obesity. Less is known about whether adverse SDoHs modify the efficacy of early childhood obesity prevention programs.We conducted a secondary analysis of publicly insured birthing parent-child dyads with Latino backgrounds participating in a randomized controlled trial of the Starting Early Program (StEP), a child obesity prevention program beginning in pregnancy. We measured baseline adverse SDoHs categorized as psychosocial stressors (low social support, single marital status, and maternal depressive symptoms) and material hardships (food insecurity, housing disrepair, and financial difficulties) individually and cumulatively in the third trimester. Logistic regression models tested effects of adverse SDoHs on StEP attendance. We then tested whether adverse SDoHs moderated intervention impacts on weight at age 2 years.We observed heterogeneous effects of adverse SDoHs on outcomes in 358 parent-child dyads. While housing disrepair decreased odds of higher attendance [adjusted odds ratio (aOR) 0.52, 95% confidence interval (CI): 0.29-0.94], high levels of psychosocial stressors doubled odds of higher attendance (aOR 2.36, 95% CI: 1.04-5.34). Similarly, while certain adverse SDoHs diminished StEP impact on weight (housing disrepair), others (high psychosocial stress) enhanced StEP impact on weight.Effects of adverse SDoHs on intervention outcomes depend on the specific adverse SDoH. Highest engagement and benefit occurred in those with high psychosocial stress at baseline, suggesting that StEP components may mitigate aspects of psychosocial stressors. Findings also support integration of adverse SDoH assessment into strategies to enhance obesity prevention impacts on families with material hardships.This study is registered on clinicaltrials.gov: Starting Early Obesity Prevention Program (NCT01541761); https://clinicaltrials.gov/ct2/show/NCT01541761.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1021/acssensors.3c02677
+- DOI: 10.1089/chi.2023.0149
 
 2. Keywords
-- continuous ketone monitoring
-- human interstitial fluid
-- ketone bodies
-- wearable microneedle patch
-- &#x3b2;-hydroxybutyrate
+- early childhood obesity
+- intervention
+- nutrition
+- parenting
+- social determinants of health
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- continuous ketone monitoring assessment methods and outcomes
-- human interstitial fluid assessment methods and outcomes
-- ketone bodies assessment methods and outcomes
+- early childhood obesity assessment methods and outcomes
+- intervention assessment methods and outcomes
+- nutrition assessment methods and outcomes

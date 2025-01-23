@@ -1,20 +1,26 @@
-Study Title: The Acute Effects of a Preload Upper-Body Power Exercise on 50-m Freestyle Performance in Youth Swimmers.
+Study Title: The Effect of Delayed Photobiomodulation Therapy on Inferior Alveolar Nerve Recovery After Third Molar Removal: A Triple-Blinded Randomized Clinical Trial.
 
 Study Summary:
-Hill, V, Patterson, S, Buckthorpe, M, and Legg, HS. The acute effects of a preload upper-body power exercise on 50-m freestyle performance in youth swimmers. J Strength Cond Res 38(7): 1295-1299, 2024-This study aimed to investigate the acute effects of a medicine ball slam and the optimal recovery time required to induce a postactivation performance enhancement (PAPE) response on 50-meter freestyle swimming performance. Twenty-four (13 female, 11 male) competitive, adolescent swimmers (mean &#xb1; SD: age, 16.7 &#xb1; 1.2 years; height, 173.3 &#xb1; 6.7 cm; mass, 63.1 &#xb1; 6.4 kg) participated in a randomized crossover study. After the PAPE intervention (3 &#xd7; 5 medicine ball slams), subjects had 1-minute, 4-minute, and 8-minute recovery periods before a 50-m maximal freestyle swim. A 1-way repeated-measures ANOVA revealed that different recovery times elicited changes in 50-m performance (F = 12.12, p < 0.0005). After 4 minutes of recovery, 50-m performance was 1.6% (0.47 seconds) faster (95% confidence interval [CI] [0.17-0.77], p < 0.001). When the data were split by sex, after 4 minutes of recovery, 50-m performance was 2% (0.64 seconds) faster for women (95% CI [0.279-0.998], p < 0.001). In conclusion, an upper-body power exercise, before performance, can induce a PAPE response and enhance 50-m freestyle performance after a 4-minute recovery period.
+Third molar removal is the primary reason for inferior alveolar nerve (IAN) damage, with 2% causing persistent neurosensory deficits. This study aimed to investigate how delayed photobiomodulation therapy affects long-lasting neurosensory disturbances.This study was conducted on patients with neurosensory disturbances lasting longer than 6 months. Patients were randomly allocated to the study and control groups, with the study group receiving a low-power diode laser (continuous wavelength of 810 nm, power of 200 mW) on 16 points (30 sec at each) for 12 sessions (2 sessions/week), while the control group received a placebo treatment by switched-off laser probe. Visual analog scale (VAS; ranging from 1 to 5), static light touch, two-point discrimination, direction discrimination, pinprick, and thermal discrimination tests were performed on each visit up to 9 months post-therapy to evaluate the recovery status.Each group comprised 18 participants. The mean time since injury was 8.26 &#xb1; 2.05 and 8.38 &#xb1; 1.98 months for the control and intervention groups, respectively (= 0.81). There was a significant improvement in the intervention group on the static light touch (= 0.041), two-point discrimination (= 0.028), VAS (= 0.031), and pinprick (= 0.014) tests on the 11th session and subsequent visits and also on direction discrimination test on the 12th session (= 0.044) and after that. There was no significant difference in the thermal discrimination tests between the two groups (> 0.05).Photobiomodulation demonstrated potential benefits in resolving persistent neurosensory deficits of the IAN, with noticeable improvements typically observed after around 35 days of treatment initiation (10 sessions).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1519/JSC.0000000000004792
+- DOI: 10.1089/pho.2024.0016
 
 2. Keywords
-
+- low-level light therapy
+- mandibular nerve injuries
+- paresthesia
+- photobiomodulation therapy
+- sensation disorders
 
 3. Key Findings
-- A 1-way repeated-measures ANOVA revealed that different recovery times elicited changes in 50-m performance (F = 12
+- Photobiomodulation demonstrated potential benefits in resolving persistent neurosensory deficits of the IAN, with noticeable improvements typically observed after around 35 days of treatment initiation (10 sessions)
 
 This study provides insights into:
-- General research methodology and outcomes
+- low-level light therapy assessment methods and outcomes
+- mandibular nerve injuries assessment methods and outcomes
+- paresthesia assessment methods and outcomes

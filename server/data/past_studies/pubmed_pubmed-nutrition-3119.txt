@@ -1,26 +1,20 @@
-Study Title: Sex differences in clinical presentation, treatment response, and side effects of nutritional therapy among patients at nutritional risk: a secondary analysis of the randomized clinical trial EFFORT.
+Study Title: Individual, dyadic, collaborative planning, physical activity, and nutrition: A randomized controlled trial in parent-child dyads.
 
 Study Summary:
-Considering sex-specific factors has become an increasingly recognized area for research and practice, in the field of clinical nutrition, there is insufficient evidence regarding differences in clinical presentation, treatment response, and side effects of nutritional therapy among female and male patients. We hypothesized that the clinical presentation, response to nutritional therapy, and side effects from the intervention would differ in the two sexes. This secondary analysis investigated differences among female and male patients at risk for malnutrition regarding initial presentation, clinical outcomes, and treatment response in patients included in the Effect of Early Nutritional Support on Frailty, Functional Outcomes, and Recovery of Malnourished Medical Inpatients Trial (EFFORT), a randomized controlled trial comparing individualized nutritional support to usual care. Of 2028 patients included in the trial, 964 were females and 1064 were males. The nutritional history and clinical presentation of female patients was different: they consumed less food and had a greater loss of appetite than the male population. Male patients had higher risk for mortality at 180 d [27% compared with 19%; adjusted hazards ratio (HR): 1.35; 95% CI: 1.12, 1.63] and further adverse clinical outcomes. However, there was no difference in the effect of nutritional support on mortality among female and male patients (HR: 0.76; 95% CI: 0.45, 1.27, compared with HR: 0.81; 95% CI: 0.54, 1.21, respectively; P-interaction = 0.939). Results of this multicenter randomized trial suggest that multimorbid female inpatients have a different clinical presentation and are more prone to loss of appetite and reduced daily dietary intake than male inpatients. Importantly, the favorable response to nutritional interventions was similar in both sexes. This trial was registered at clinicaltrials.gov as NCT02517476.
+This study was designed to investigate the effects of individual, dyadic, and collaborative planning on moderate-to-vigorous physical activity (MVPA; primary outcome) and energy-dense food intake (secondary outcome) in dyads of parents and their 9-15-year-old children. Individual planning reflects an "I-for-me" planning of one person's behavior. Collaborative ("we-for-us") planning refers to joint planning of both dyad members' behavior, whereas dyadic ("we-for-me") planning involves joint planning of only the target person's behavior. = 247 dyads participated in a randomized controlled trial with individual, dyadic, or collaborative physical activity (PA) planning and control conditions (education about PA, sedentary behavior, nutrition, energy intake-expenditure balance). MVPA was measured with ActiGraph wGT3X-BT accelerometers at baseline, 1-week, and 36-week follow-ups. Energy-dense food intake was self-reported at baseline, 9-week, and 36-week follow-ups. Linear mixed models were fit for parents and children separately. At the 36-week follow-up, children in the dyadic "we-for-me" planning condition decreased their MVPA compared to the control condition. At the same time, children in the dyadic planning condition also decreased energy-dense food intake at the 36-week follow-up. No effects were found among children in individual and collaborative PA planning conditions. Parents in any experimental conditions decreased energy-dense food intake. Children's decrease in MVPA in dyadic PA planning condition was offset by a reduction of energy intake, which may represent a compensatory mechanism. The limited effectiveness of the dyadic "we-for-me" interventions in parent-child dyads may result from young people's needs for individuation and their reactance to parental support. (PsycInfo Database Record (c) 2025 APA, all rights reserved).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1016/j.ajcnut.2024.09.020
+- Publication Date: 2025
+- DOI: 10.1037/hea0001405
 
 2. Keywords
-- individualized nutrition support
-- malnutrition
-- nutritional risk screening (NRS)
-- nutritional support
-- sex difference
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- No effects were found among children in individual and collaborative PA planning conditions
 
 This study provides insights into:
-- individualized nutrition support assessment methods and outcomes
-- malnutrition assessment methods and outcomes
-- nutritional risk screening (NRS) assessment methods and outcomes
+- General research methodology and outcomes

@@ -1,29 +1,24 @@
-Study Title: Effect of exercise and manual therapy or kinesiotaping on sEMG and pain perception in chronic low back pain: a randomized trial.
+Study Title: Comparison of the effects of isokinetic and isotonic strength training in team sport athletes: A randomized controlled trial.
 
 Study Summary:
-The importance of incorporating lumbo-pelvic stability core and controlling motor exercises in patients with chronic low back pain (CLBP) reinforces the use of strategies to improve biopsychosocial beliefs by reducing biomedical postulations. However, clinical practice guidelines recommend multimodal approaches incorporating exercise and manual therapy (MT), and instead reject the application of kinesiotape (KT) in isolation. Therefore, the objectives of this study were to analyze the effects of 12 weeks of exercises combined with MT or KT on perceived low back pain using the visual analog scale (VAS) and muscle electric activity measured with electromyography (EMG) of the rectus abdominis and multifidus in CLBP (mild disability) and to explore the relationship between the rectus abdominis and multifidus ratios and pain perception after intervention. A blinded, 12-week randomized controlled trial (RCT) was carried out, involving three parallel groups of patients with CLBP. The study was registered at Clinicaltrial.gov and assigned the identification number NCT05544890 (19/09/22). The trial underwent an intention-to-treat analysis. The primary outcome revealed a multimodal treatment program supplemented by additional therapies such as MT and KT, resulting in significant reductions in perceived low back pain. The subjective assessment of individuals with CLBP indicated no discernible distinction between exclusive core stability exercises and control-motor training when combined with MT or KT. Notably, our findings demonstrated positive alterations in both the mean and peak EMG values of the right rectus abdominis in the exercise group, suggesting a beneficial impact on muscle activation. This study focused on assessing the activation levels of the trunk musculature, specifically the rectus abdominis (RA) and multifidus (MF), in individuals with CLBP exhibiting mild disability according to the Oswestry Disability Index. Importantly, improvements in the VAS values were observed independently of changes in muscle electrical activity.
+Athletes may benefit from isokinetic training (IK) to improve strength and jump performance. Previous studies comparing IK methods to isotonic resistance training (IT) have utilized high-repetition protocols and a Dynamometer, which are usually reserved for laboratory or rehabilitation settings. This study compared effects of IK and IT using&#xa0;&#x2264;&#xa0;6 repetitions on strength and jump performance in 50 male, team-sport athletes (ages 18-35) during COVID-19 lockdown using the commercially-available TechnoGym BioCircuit Dynamometer. This 4-group randomized parallel study assessed the effects of an 8-week isokinetic at 80&#xb0;/s (IK80; n&#xa0;=&#xa0;16) and 25&#xb0;/s (IK25; n&#xa0;=&#xa0;12) or isotonic training program (IT; n&#xa0;=&#xa0;15) compared to a control group (CG; n&#xa0;=&#xa0;7) on anthropometric measurements, peak torque at 80&#xb0;/s (PT80) and 25&#xb0;/s (PT25), one-repetition maximum (1-RM) leg extension, and countermovement (CMJ) and squat jump height (SJ). Anthropomorphic data showed minimal differences between groups post-intervention. Strength increased in IT, and IK25 compared to CG, with no difference between intervention groups. SJ increased in all groups compared to the control group, with differences between groups. Counter movement jump (CMJ) improved only in IT and IK80 with no between-group difference. These results do support the hypothesis that low-repetition IK and IT can be used to effectively improve strength and jump performance in athletic populations. However, the efficacy of IK on CMJ depends on training velocity and repetition range, with a higher velocity training protocol (80&#xb0;/s) being more effective for jump performance and lower speeds potentially more useful for improving maximal strength (25&#xb0;/s).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12891-024-07667-9
+- DOI: 10.1016/j.jbiomech.2024.112246
 
 2. Keywords
-- Chronic pain
-- Electromyography
-- Exercise
-- Low back pain
-- Musculoskeletal manipulations
-- Pain perception
+- Isokinetic training
+- Leg extension exercise
+- Resistance training
 
 3. Key Findings
-- The primary outcome revealed a multimodal treatment program supplemented by additional therapies such as MT and KT, resulting in significant reductions in perceived low back pain
-- The subjective assessment of individuals with CLBP indicated no discernible distinction between exclusive core stability exercises and control-motor training when combined with MT or KT
-- Notably, our findings demonstrated positive alterations in both the mean and peak EMG values of the right rectus abdominis in the exercise group, suggesting a beneficial impact on muscle activation
+- Anthropomorphic data showed minimal differences between groups post-intervention
 
 This study provides insights into:
-- Chronic pain assessment methods and outcomes
-- Electromyography assessment methods and outcomes
-- Exercise assessment methods and outcomes
+- Isokinetic training assessment methods and outcomes
+- Leg extension exercise assessment methods and outcomes
+- Resistance training assessment methods and outcomes

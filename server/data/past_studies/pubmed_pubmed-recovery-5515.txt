@@ -1,28 +1,26 @@
-Study Title: Exploring the association between adherence to home-based exercise recommendations and recovery of nonspecific low back pain: a prospective cohort study.
+Study Title: A study on the effect of clinical intervention of evidence-based nursing measures on complications in patients after breast-conserving surgery.
 
 Study Summary:
-Adherence to home-based exercise (HBE) recommendations is critical in physiotherapy for patients with low back pain (LBP). However, limited research has explored its connection with clinical outcomes. This study examined how adherence to HBE relates to changes in physical function, pain intensity, and recovery from LBP in patients undergoing physiotherapy treatment. Data from a multicenter cluster randomized controlled trial in the Netherlands involving patients with LBP from 58 primary care physiotherapy practices were used. Adherence to HBE was assessed with the Exercise Adherence Scale (EXAS) at each treatment session. Previously identified adherence trajectories served as a longitudinal measure of adherence and included the classes "declining adherence" (12% of participants), "stable adherence" (45%), and "increasing adherence" (43%). The main outcomes included disability (Oswestry Disability Index), pain (Numeric Pain Rating Scale), and recovery (pain-free for >&#x2009;4 weeks), which were measured at baseline and after three months. Linear and binomial logistic regression analyses adjusted for confounders were used to examine adherence-outcome relationships. In the parent trial, 208 participants were included. EXAS scores were available for 173 participants, collected over a median of 4.0 treatment sessions (IQR 3.0 to 6.0). Forty-five (28.5%) patients considered themselves to have recovered after three months. The median changes in the Oswestry Disability Index and Numeric Pain Rating Scale were -&#x2009;8 (IQR -&#x2009;1 to -20) and -&#x2009;2 (IQR -&#x2009;0.5 to -4), respectively. The mean EXAS scores varied among patient classes: "declining adherence" (46.0, SD 19.4), "stable adherence" (81.0, SD 12.4), and "increasing adherence" (39.9, SD 25.3), with an overall mean of 59.2 (SD 25.3). No associations between adherence and changes in physical functioning or pain were found in the regression analyses. No association between adherence to HBE recommendations and changes in clinical outcomes in patients with LBP was found. These findings suggest that the relationship between adherence to HBE recommendations and treatment outcomes may be more complex than initially assumed. Further research using detailed longitudinal data combined with qualitative methods to investigate patient motivation and beliefs may lead to a deeper understanding of the relationship between adherence and clinical outcomes in patients with LBP.
+Breast-conserving surgery is an important treatment for breast cancer, which not only eradicates the disease, but also protects the integrity of the breast, however, postoperative nausea and vomiting often bother patients. This study examines the effects of evidence-based nursing practices on nausea and vomiting in patients after breast-conserving surgery, with the aim of providing new perspectives for clinical nursing practice. One hundred and sixty patients who underwent breast-conserving surgery from January 2023 to December 2023 in Fudan University Shanghai Cancer Center were enrolled. The patients were divided into an intervention group (evidence-based nursing group) and a control group (conventional nursing group) using the random number table method, both groups comprised 80 patients. The control group used conventional nursing methods, and the intervention group added evidence-based nursing intervention on this basis. Comparative analysis focused on the incidence of nausea and vomiting, quality of life metrics, and postoperative satisfaction. In the intervention group, notably lower incidence rates of postoperative nausea and vomiting were observed compared to the control group within both the 0-24 hour and 24-48-hour postoperative periods (P< 0.05). Furthermore, the intervention group exhibited significantly higher scores across all five dimensions as well as the overall score of the FACT-B scale in comparison to the control group (P< 0.05), accompanied by heightened satisfaction with the nursing staff. This study demonstrated the positive clinical intervention effects of evidence-based nursing measures and emphasized their importance in improving postoperative nausea and vomiting and quality of life. Future studies are expected to incorporate evidence-based nursing practices into nursing care to improve patient recovery and overall quality of care.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12891-024-07705-6
+- DOI: 10.3233/THC-240814
 
 2. Keywords
-- Adherence
-- Disability
-- Exercise
-- Home-based exercise
-- Low back pain
+- Breast cancer
+- breast-conserving surgery
+- evidence-based nursing practices
+- interventions
+- nausea and vomiting
 
 3. Key Findings
-- Linear and binomial logistic regression analyses adjusted for confounders were used to examine adherence-outcome relationships
-- No associations between adherence and changes in physical functioning or pain were found in the regression analyses
-- No association between adherence to HBE recommendations and changes in clinical outcomes in patients with LBP was found
+- This study demonstrated the positive clinical intervention effects of evidence-based nursing measures and emphasized their importance in improving postoperative nausea and vomiting and quality of life
 
 This study provides insights into:
-- Adherence assessment methods and outcomes
-- Disability assessment methods and outcomes
-- Exercise assessment methods and outcomes
+- Breast cancer assessment methods and outcomes
+- breast-conserving surgery assessment methods and outcomes
+- evidence-based nursing practices assessment methods and outcomes

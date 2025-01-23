@@ -1,27 +1,26 @@
-Study Title: Effects of intradialytic bicycle ergometer exercise on transcription factors NF-&#x138;B and Nrf2 in patients with chronic kidney disease: A randomized crossover clinical trial.
+Study Title: Acute endothelial, blood pressure, and glycemic responses after aerobic sessions in type-2 diabetic with hypertension: A double-blinded randomized study.
 
 Study Summary:
-To evaluate the effects of an intradialytic aerobic exercise training program on the expression of transcription factors nuclear factor &#x3ba;appa B (NF-&#x3ba;B) and nuclear factor erythroid 2-related factor 2 (Nrf2), related to inflammatory and antioxidant pathways, respectively, in patients with chronic kidney disease (CKD) on hemodialysis. This was a longitudinal, randomized clinical trial with a washout period and crossover performed with 33 patients randomized into two groups: Exercise (individualized intradialytic aerobic exercise on an adapted stationary exercise bike) three times per week for three months and control (without exercise). After the washout period (1 month), the exercise group became the control, and the other group performed the exercises for another three months. Blood sample collection, food intake, and anthropometry were evaluated at the beginning and end of each study phase. Nrf2, its target gene NAD(P)H quinone oxidoreductase 1 (NQO1), and NF-&#x3ba;B transcription factors were evaluated by quantitative real-time polymerase chain reaction (qRT-PCR) and the inflammatory cytokines tumor necrosis factor-&#x3b1; (TNF-&#x3b1;) and interleukin-6 (IL-6) by ELISA assay. Eighteen patients [11 men, 44.1&#xa0;&#xb1;&#xa0;8.4 years, 17.3 (6.6-124) months on HD] completed all the study. The obtained data revealed that the intervention did not affect Nrf2, NQO1, and NF-&#x3ba;B mRNA expression. Also, TNF-&#x3b1; levels were not changed. However, IL-6 showed a tendency to decrease after the exercise intervention (p&#xa0;=&#xa0;0.054). In hemodialysis patients, three months of intradialytic aerobic exercise did not modulate the transcription factors associated with inflammation (NF-&#x3ba;B) and antioxidant activity (Nrf2 and NQO1). NCT04375553.
+To compare the acute response of moderate intensity continuous exercise (MICE) vs moderate intensity interval exercise (MIIE) on endothelial function, post-exercise hypotension (PEH), and glycemia in type 2 diabetes (T2DM) with hypertension. Twelve T2DM (aged 52.8&#xa0;&#xb1;&#xa0;3.8 years old) patients with hypertension underwent a randomized cross-over study following isocaloric (200&#xa0;kcal) protocols: (i) MICE: walk-jogging at 50% of VOpeak, (ii) MIIE session: walking - jogging (stimulus/recovery - 3:3&#xa0;min each) at 60% of VOpeak followed by recovery at 40% of VOpeak, and (iii) control (CON): lying quietly in a supine position for 30&#xa0;min. A generalized estimating equation was utilized to verify possible differences over time&#xa0;&#xd7;&#xa0;session. The %FMD (Baseline: 3.59&#xa0;&#xb1;&#xa0;1.58 vs. 30 min: 6.73&#xa0;&#xb1;&#xa0;4.34) and the absolute FMD changed after MIIE (Baseline: 0.16&#xa0;&#xb1;&#xa0;0.10 vs. 30 min: 0.17&#xa0;&#xb1;&#xa0;0.14). Only absolute FMD changed after MIIE (Baseline: 0.14&#xa0;&#xb1;&#xa0;0.07 vs. 30 min: 0.16&#xa0;&#xb1;&#xa0;0.07). Besides, MIIE at 30&#xa0;min provides higher absolute FMD values when compared to baseline from MICE and baseline, 30&#xa0;min, and 60&#xa0;min from control. Regarding blood pressure, no PEH statistical main effect was found. Finally, the glycemia changed at baseline vs. 30&#xa0;min and 60&#xa0;min after MIIE (210.5&#xa0;&#xb1;&#xa0;9.4 vs. 127.6&#xa0;&#xb1;&#xa0;10.0 and 120&#xa0;&#xb1;&#xa0;8.9), MICE (219.5&#xa0;&#xb1;&#xa0;12.7 vs. 125.2&#xa0;&#xb1;&#xa0;12.0 and 118.2&#xa0;&#xb1;&#xa0;11.6), and control sessions (215.9&#xa0;&#xb1;&#xa0;11.8 vs. 187.4&#xa0;&#xb1;&#xa0;11.2 and 172.6&#xa0;&#xb1;&#xa0;11.3&#xa0;mg/dL, p&#xa0;<&#xa0;0.05). However, MIIE and MICE showed higher decreases compared to the control. MIIE and MICE sessions are similar and effective exercise strategies to induce changes in endothelial function and glycemic responses in type-2 diabetics with hypertension.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jbmt.2024.08.003
+- DOI: 10.1016/j.jbmt.2024.10.064
 
 2. Keywords
-- Chronic kidney disease
-- Hemodialysis
-- Inflammation
-- Oxidative stress
-- Physical exercise
+- Blood pressure
+- Exercise training
+- Type 2 diabetes
+- endothelial function
 
 3. Key Findings
-- The obtained data revealed that the intervention did not affect Nrf2, NQO1, and NF-&#x3ba;B mRNA expression
-- However, IL-6 showed a tendency to decrease after the exercise intervention (p&#xa0;=&#xa0;0
+- Regarding blood pressure, no PEH statistical main effect was found
+- However, MIIE and MICE showed higher decreases compared to the control
 
 This study provides insights into:
-- Chronic kidney disease assessment methods and outcomes
-- Hemodialysis assessment methods and outcomes
-- Inflammation assessment methods and outcomes
+- Blood pressure assessment methods and outcomes
+- Exercise training assessment methods and outcomes
+- Type 2 diabetes assessment methods and outcomes

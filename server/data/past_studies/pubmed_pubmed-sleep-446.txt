@@ -1,27 +1,26 @@
-Study Title: A 6-month educational program improves sleep behaviour in community-dwelling frail older adults: A randomised controlled trial.
+Study Title: Low- versus High-Glycemic Index Mediterranean-Style Eating Patterns Improved Some Domains of Health-Related Quality of Life but Not Sleep in Adults at Risk for Type 2 Diabetes: The MEDGICarb Randomized Controlled Trial.
 
 Study Summary:
-The prevalence of sleep-related issues among older adults is a significant concern, with half of the older population reporting these problems. Consequently, strategies to improve sleep are needed for this population. This study aims to assess the effects of a health educational program on sleep behaviour among pre-frail or frail older adults residing in the community and to explore possible associations with frailty. This randomised controlled trial (NCT05610605) included a total of 197 community-dwelling older adults with frailty/pre-frailty, divided into control (n&#xa0;=&#xa0;88) and educational (n&#xa0;=&#xa0;109) groups, were assessed at baseline, after the 6-month educational program (6 months), and 6 months after the intervention (12 months). The intervention comprised four group sessions and six follow-up phone calls, focusing on frailty, physical activity, dietary habits, and cognitive training. Sleep quality was measured using the Pittsburgh Sleep Quality Index (PSQI) and wrist-worn accelerometry. At 6 months, a significant time-by-group interaction was found for self-reported [&#x3b2;&#xa0;=&#xa0;-0.449, 95%CI (-0.844, -0.053), p&#xa0;=&#xa0;0.026] and accelerometer-measured [&#x3b2;&#xa0;=&#xa0;0.505, 95%CI (0.085, 0.926), p&#xa0;=&#xa0;0.019] sleep efficiency, showing improved sleep efficiency in the intervention group vs. controls. A significant time-by-group interaction at 6 months was noted for sleep awakenings [&#x3b2;&#xa0;=&#xa0;-0.402, 95%CI (-0.825, -0.020), p&#xa0;=&#xa0;0.047]. The educational program led to a significant decrease in awakenings, while the control group experienced an increase. The change in the number of awakenings (Rs&#xa0;=&#xa0;0.183, p&#xa0;=&#xa0;0.020) at 6 months was significantly associated with changes in frailty. Moreover, a significant time-by-group interaction was reported at the 12-month assessment [&#x3b2;&#xa0;=&#xa0;-0.449, 95%CI (-0.844, -0.053), p&#xa0;=&#xa0;0.026] for self-reported sleep quality, indicating better results in the intervention group compared to controls. The educational program improved sleep quality and sleep efficiency while reducing the number of awakenings per night among community-dwelling frail older adults, offering a practical approach to addressing sleep-related challenges in this demographic.
+A healthy eating pattern such as the Mediterranean-style healthy eating pattern (MED-HEP) is associated with favorable effects on both cardiometabolic risk markers and self-reported health outcomes. Limited evidence exists regarding the influence of the glycemic index (GI) of carbohydrate foods consumed within a healthy eating pattern on self-reported health status and sleep. To investigate the effects of a low- compared with high-GI MED-HEP on changes in health-related quality of life (HRQoL) and sleep. The MEDGICarb-intervention trial is a 12-wk randomized, controlled, parallel multi-center trial in adults with &#x2265;2 features of the metabolic syndrome. Participants consumed an eu-energetic diet profiled as a MED-HEP with either low GI (experimental) or high GI (control). HRQoL and sleep were measured with Medical Outcomes Study 36-item short-form health survey version 2, Pittsburgh sleep quality index, and Epworth Sleepiness Scale at baseline and postintervention. One hundred and sixty adults with &#x2265;2 features of the metabolic syndrome completed the intervention [53% females, age 56 &#xb1; 10 y, body mass index (kg/m) 31.0 &#xb1; 3.1]. Low- compared with high-GI MED-HEP resulted in differential changes between the groups in the HRQoL domains role physical [5.6 &#xb1; 2.2 arbitrary units (AU) compared with -2.5 &#xb1; 2.5 AU) and vitality (6.9 &#xb1; 1.7 AU compared with 0.0 &#xb1; 1.8 AU] (P < 0.05), which were driven mostly by improvements in the low-GI group. There were no significant differences between the MED-HEPs for changes in aggregated physical or mental components or for the other individual domains of HRQoL (physical functioning, bodily pain, general health, social functioning, role emotional, and mental health) or for sleep quality or daytime sleepiness. Low compared to high GI in the context of a MED-HEP resulted in modest improvements in some, but not all, health domains of HRQoL. No major differences were seen between the groups for measures of sleep. This trial was registered at clinicaltrials.gov as NCT03410719.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.07.011
+- DOI: 10.1016/j.tjnut.2024.07.005
 
 2. Keywords
-- Accelerometer
-- Actigraphy
-- Aging
-- Health education
-- Health promotion
-- Sleep disorders
+- Mediterranean diet
+- glycemic control
+- glycemic index
+- sleep
+- well-being
 
 3. Key Findings
-- At 6 months, a significant time-by-group interaction was found for self-reported [&#x3b2;&#xa0;=&#xa0;-0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Accelerometer assessment methods and outcomes
-- Actigraphy assessment methods and outcomes
-- Aging assessment methods and outcomes
+- Mediterranean diet assessment methods and outcomes
+- glycemic control assessment methods and outcomes
+- glycemic index assessment methods and outcomes

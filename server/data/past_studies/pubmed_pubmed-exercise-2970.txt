@@ -1,27 +1,25 @@
-Study Title: 'Walk Buds': A walking intervention to increase physical activity, physical fitness, and emotional wellbeing, in 9-13&#x2009;year old children with intellectual disabilities. Results of a clustered randomised feasibility trial.
+Study Title: Impact of 12-Month Late-in-Life Exercise Training on Cardiopulmonary Reserve, Static Cardiac Structure, and Function: A Randomized Clinical Trial.
 
 Study Summary:
-Children with intellectual disability are less physically active and more sedentary than typically developing peers. To date no studies have tested the feasibility of a school-based walking intervention for children with Intellectual Disability. A clustered randomised controlled trial (cRCT), with an embedded process evaluation, was used to test the feasibility of a school-based walking intervention. Eight schools (n&#x2009;=&#x2009;161 pupils aged 9-13&#x2009;years) were randomised into either an intervention arm or an 'exercise as usual' arm. Measures included physical activity, physical fitness and emotional wellbeing. Baseline and 3-month follow-up data were collected. The 'Walk Buds' intervention was found to be acceptable to teaching staff and pupils, with an uptake rate of the walking sessions offered of 84%. A number of challenges were experienced, relating to the COVID-19 pandemic, and difficulties collecting accelerometer data. Barriers, facilitators and required changes identified through the mixed methods process evaluation are discussed.
+Although the cardiac benefits of maintaining a lifelong exercise routine are undisputed, to what extent late-in-life exercise training can ameliorate cardiac aging remains unclear. We examined the impact of a 12-month exercise training program on cardiac reserve, static cardiac structure, and cardiac function in older adults. This study was a single-center, randomized trial using Zelen design. Participants in the center-based exercise (CBE) group underwent an individualized multicomponent exercise training program. In total, 120 community-dwelling older adults aged 65-85&#xa0;years were evenly divided into a CBE group and a control group. The primary outcome indicator was absolute change in peak oxygen uptake (peakVO) per kilogram from baseline to 12&#xa0;months. The secondary outcome indicators were the absolute changes in other cardiopulmonary exercise test indices and cardiac magnetic resonance parameters. This study has been registered at the Chinese Clinical Trial Registry Network (ChiCTR2400081824). In total, 47 older adults in the control group and 49 in the CBE group ultimately completed the 12-month follow-up and were analyzed. Of all participants, 52 (46.4%) were men, and the mean age was 71.22 &#xb1; 4.55&#xa0;years. The absolute change in peakVO/kg was significantly different between the CBE and control groups by&#xa0;+3.32&#xa0;mL/kg/min (95% CI 2.10-4.53; P < .001), and a sex-related difference was observed. Additionally, the right ventricular peak filling and ejection rate improved to a greater degree in the CBE than control group (+65.57&#xa0;mL/s, P&#xa0;= .006;&#xa0;+56.39&#xa0;mL/s, P&#xa0;= .026, respectively). A 12-month exercise training program started later in life was effective in improving cardiopulmonary reserve, and men showed a better response to training than women. The right ventricular function increased after late-in-life exercise training.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/jar.13260
+- DOI: 10.1016/j.jamda.2024.105117
 
 2. Keywords
-- clustered RCT
-- feasibility
-- fidelity
-- intellectual disability
-- school&#x2010;based
-- walking intervention
+- Cardiopulmonary reserve
+- cardiac structure
+- exercise training
+- late-in-life
 
 3. Key Findings
-- The 'Walk Buds' intervention was found to be acceptable to teaching staff and pupils, with an uptake rate of the walking sessions offered of 84%
+- A 12-month exercise training program started later in life was effective in improving cardiopulmonary reserve, and men showed a better response to training than women
 
 This study provides insights into:
-- clustered RCT assessment methods and outcomes
-- feasibility assessment methods and outcomes
-- fidelity assessment methods and outcomes
+- Cardiopulmonary reserve assessment methods and outcomes
+- cardiac structure assessment methods and outcomes
+- exercise training assessment methods and outcomes

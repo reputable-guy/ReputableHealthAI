@@ -1,31 +1,26 @@
-Study Title: Accuracy of energy and nutrient intake estimation versus observed intake using 4 technology-assisted dietary assessment methods: a randomized crossover feeding study.
+Study Title: Culinary Medicine: Needs and Strategies for Incorporating Nutrition into Medical Education in the United States.
 
 Study Summary:
-Technology-assisted 24-h dietary recalls (24HRs) have been widely adopted in population nutrition surveillance. Evaluations of 24HRs inform improvements, but direct comparisons of 24HR methods for accuracy in reference to a measure of true intake are rarely undertaken in a single study population. To compare the accuracy of energy and nutrient intake estimation of 4 technology-assisted dietary assessment methods relative to true intake across breakfast, lunch, and dinner. In a controlled feeding study with a crossover design, 152 participants [55% women; mean age 32 y, standard deviation (SD) 11; mean body mass index 26 kg/m, SD 5] were randomized to 1 of 3 separate feeding days to consume breakfast, lunch, and dinner, with unobtrusive weighing of foods and beverages consumed. Participants undertook a 24HR the following day [Automated Self-Administered Dietary Assessment Tool-Australia (ASA24); Intake24-Australia; mobile Food Record-Trained Analyst (mFR-TA); or Image-Assisted Interviewer-Administered 24-hour recall (IA-24HR)]. When assigned to IA-24HR, participants referred to images captured of their meals using the mobile Food Record (mFR) app. True and estimated energy and nutrient intakes were compared, and differences among methods were assessed using linear mixed models. The mean difference between true and estimated energy intake as a percentage of true intake was 5.4% (95% CI: 0.6, 10.2%) using ASA24, 1.7% (95% CI: -2.9, 6.3%) using Intake24, 1.3% (95% CI: -1.1, 3.8%) using mFR-TA, and 15.0% (95% CI: 11.6, 18.3%) using IA-24HR. The variances of estimated and true energy intakes were statistically significantly different for all methods (P < 0.01) except Intake24 (P = 0.1). Differential accuracy in nutrient estimation was present among the methods. Under controlled conditions, Intake24, ASA24, and mFR-TA estimated average energy and nutrient intakes with reasonable validity, but intake distributions were estimated accurately by Intake24 only (energy and protein). This study may inform considerations regarding instruments of choice in future population surveillance. This trial was registered at Australian New Zealand Clinical Trials Registry as ACTRN12621000209897.
+In the past decade, medical education has increasingly incorporated evidence-based lifestyle interventions as primary strategies for preventing and managing noncommunicable diseases. This shift embraces the growing recognition of the significant impact of lifestyle on health outcomes, driving diseases including obesity, diabetes, heart disease, and cancer. Now deemed "food is medicine" (FIM), diet-related interventions witnessed integration into healthcare systems and recognition in the United States' White House Conference on Hunger, Nutrition, and Health in 2023. As FIM gains traction, investigating optimal strategies for team-based education becomes essential. Healthcare teams need the necessary knowledge and tools to effectively administer FIM services and collaborate across disciplines, ultimately enhancing disease prevention, chronic disease management, health quality, value, and overall wellness. Culinary medicine (CM), a vital component of FIM, bridges nutrition education, pragmatic culinary skills, and conventional strategies to improve chronic disease management. CM involves experiential learning, imparts practical skills, and encourages behavior change by addressing food-related determinants of health and promoting equitable access. Teaching kitchens serve as physical or virtual learning spaces and as a didactic and experiential method (skills lab), playing a crucial role by integrating culinary, lifestyle, integrative, and conventional medicine. A growing number of medical schools in the United States and globally offer CM education via diverse methods including interest groups, electives, and specialty tracks, encompassing didactic sessions, hands-on kitchen education, and virtual teaching methods. Given the rising demand for CM programs, this article aims to describe, map, and compare existing CM education types in medical education. It provides actionable recommendations for medical schools to establish and expand CM programs by fostering service-learning partnerships, clinical innovation, and interdisciplinary research. As FIM gains prominence, cultivating a robust foundation of educational strategies is vital to ensure seamless integration into both medical education and collaborative medical practice.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ajcnut.2024.04.030
+- DOI: 10.1177/23821205241249379
 
 2. Keywords
-- Automated Self-Administered Dietary Assessment Tool
-- Intake24
-- controlled feeding
-- dietary assessment
-- dietary measurement error
-- image-assisted
-- interview-administered dietary recall
-- mobile food record
-- mobile technology
-- validation
+- Culinary medicine
+- education
+- interprofessional
+- medical school
+- nutrition
 
 3. Key Findings
-- Findings extraction requires manual review
+- As FIM gains prominence, cultivating a robust foundation of educational strategies is vital to ensure seamless integration into both medical education and collaborative medical practice
 
 This study provides insights into:
-- Automated Self-Administered Dietary Assessment Tool assessment methods and outcomes
-- Intake24 assessment methods and outcomes
-- controlled feeding assessment methods and outcomes
+- Culinary medicine assessment methods and outcomes
+- education assessment methods and outcomes
+- interprofessional assessment methods and outcomes

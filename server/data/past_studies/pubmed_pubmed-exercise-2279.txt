@@ -1,27 +1,26 @@
-Study Title: Early In-Bed Cycle Ergometry With Critically Ill, Mechanically Ventilated Patients: Statistical Analysis Plan for CYCLE (Critical Care Cycling to Improve Lower Extremity Strength), an International, Multicenter, Randomized Clinical Trial.
+Study Title: Does antenatal exercise shape labor and delivery outcomes?
 
 Study Summary:
-Survivors of critical illness are at risk of developing physical dysfunction following intensive care unit (ICU) discharge. ICU-based rehabilitation interventions, such as early in-bed cycle ergometry, may improve patients' short-term physical function. Before unblinding and trial database lock, we describe a prespecified statistical analysis plan (SAP) for the CYCLE (Critical Care Cycling to Improve Lower Extremity Strength) randomized controlled trial (RCT). CYCLE is a 360-patient, international, multicenter, open-label, parallel-group RCT (1:1 ratio) with blinded primary outcome assessment at 3 days post-ICU discharge. The principal investigator and statisticians of CYCLE prepared this SAP with approval from the steering committee and coinvestigators. The SAP defines the primary and secondary outcomes (including adverse events) and describes the planned primary, secondary, and subgroup analyses. The primary outcome of the CYCLE trial is the Physical Function Intensive Care Unit Test-scored (PFIT-s) at 3 days post-ICU discharge. The PFIT-s is a reliable and valid performance-based measure. We plan to use a frequentist statistical framework for all analyses. We will conduct a linear regression to evaluate the primary outcome, incorporating randomization as an independent variable and adjusting for age (&#x2265;65 years versus <65 years) and center. The regression results will be reported as mean differences in PFIT-s scores with corresponding 95% CIs and P values. We consider a 1-point difference in PFIT-s score to be clinically important. Additionally, we plan to conduct 3 subgroup analyses: age (&#x2265;65 years versus <65 years), frailty (Baseline Clinical Frailty Scale &#x2265;5 versus <5), and sex (male versus female). CYCLE was funded in 2017, and enrollment was completed in May 2023. Data analyses are complete, and the first results were submitted for publication in 2024. We developed and present an SAP for the CYCLE RCT and will adhere to it for all analyses. This study will add to the growing body of evidence evaluating the efficacy and safety of ICU-based rehabilitation interventions. ClinicalTrials.gov NCT03471247; https://clinicaltrials.gov/ct2/show/NCT03471247 and NCT02377830; https://clinicaltrials.gov/ct2/show/NCT02377830. RR1-10.2196/54451.
+Incorporating regular physical activity into the lifestyle of a pregnant woman offers numerous health benefits and prepares her effectively for labor. This study was conducted to determine the impact of antenatal exercise on labor, delivery and perinatal outcome. An interventional study was conducted including 200 women attending the antenatal clinic of Obstetrics and Gynaecology department of PGIMS Rohtak, India. The study subjects were randomly divided into two groups-exercise group and control group. The demographic profile of both the groups was similar. A higher proportion of patients in control group required labor induction compared to exercise group (33% vs 16%, P&#x2009;=&#x2009;0.002). The rate of vaginal delivery was significantly higher in exercise group than in control group (71% vs 56%, P&#x2009;=&#x2009;0.027). Additionally, women in exercise group had fewer assisted vaginal deliveries than control group (7% vs 20%, P&#x2009;=&#x2009;0.007). Rates of cesarean section were comparable between both groups (P&#x2009;=&#x2009;0.736). The mean duration of labor was significantly shorter in exercise group compared to control group (428.69&#x2009;&#xb1;&#x2009;131.242&#xa0;min vs 516.91&#x2009;&#xb1;&#x2009;143.105&#xa0;min, P&#x2009;<&#x2009;0.0001). Mean Visual Analog Scale (VAS) score for pain was 6.38&#x2009;&#xb1;&#x2009;1.94 in exercise group compared to 7.89&#x2009;&#xb1;&#x2009;1.49 in control group (P&#x2009;<&#x2009;0.0001). No significant difference was observed between the groups in birth weight and APGAR score of neonates. A structured exercise program, practiced regularly during the antenatal period reduced the need for labor induction, shortened labor duration, increased the incidence of vaginal deliveries, and decreased pain perception during labor and delivery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/54451
+- DOI: 10.1007/s00404-024-07801-x
 
 2. Keywords
-- critical illness
-- cycle ergometry
-- exercise therapy
-- mechanical ventilation
-- recovery of function
-- rehabilitation
+- Antenatal exercise
+- Duration
+- Labor
+- Pain
+- Pregnancy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- critical illness assessment methods and outcomes
-- cycle ergometry assessment methods and outcomes
-- exercise therapy assessment methods and outcomes
+- Antenatal exercise assessment methods and outcomes
+- Duration assessment methods and outcomes
+- Labor assessment methods and outcomes

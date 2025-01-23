@@ -1,20 +1,27 @@
-Study Title: Acute supplementation with a curcuminoid-based formulation fails to enhance resting or exercise-induced NRF2 activity in males and females.
+Study Title: Effects of controlled supramaximal high-intensity interval training on muscle capacities and physical functions for older adults: analysis of secondary outcomes from the Ume&#xe5; HIT study-a randomised controlled trial.
 
 Study Summary:
-: Exercise and (poly)phenols may activate nuclear factor erythroid 2-related factor 2 (NRF2), a transcription factor that coordinates antioxidant synthesis. The purpose of this study was to determine whether curcuminoid supplementation augments resting and exercise-induced NRF2 activity.: In a double-blinded, randomised, between-subjects design, 14 males and 12 females performed plyometric exercise (100 drop jumps, 50 squat jumps) following 4 d supplementation with a curcuminoid-based formulation (CUR + EX;= 13; &#x223c;200 mg dcurcuminoids) or a placebo (PLA + EX;= 13). NRF2/DNA binding in peripheral blood mononuclear cells, plasma glutathione peroxidase (GPX), and plasma cytokines (interleukin-6 [IL-6], tumour necrosis factor-alpha [TNF-&#x3b1;]) were measured pre-, post-, 1, 2 h post-exercise. Curcuminoid metabolites were measured 0, 1, 2 h post-administration of a single bolus.: Total area under the curve for total curcuminoid metabolites was greater in CUR + EX (< 0.01), with bioavailability peaking at 2 h post administration (CUR + EX: [0 h] 80.9 &#xb1; 117 nM [1 h] 76.6 &#xb1; 178.5 nM [2 h] 301.1 &#xb1; 584.7 nM; PLA + EX: [0 h] 10.4 &#xb1; 1.6 [1 h] 8.5 &#xb1; 2.6 [2 h] 10.6 &#xb1; 2.1). NRF2 activity did not increase in PLA + EX (= 0.78) or CUR + EX (= 0.76); however, curcuminoid metabolite concentrations did positively predict NRF2/DNA binding (= 0.39;= 0.02). Exercise increased IL-6 (= 0.03) but TNF-&#x3b1; was unresponsive (= 0.97) and lower across PLA + EX (= 0.03). GPX activity was higher in CUR + EX (< 0.01) but not in PLA + EX (= 0.94).: Supplementation with a curcuminoid-based formulation failed to augment resting or exercise-induced NRF2/DNA binding; however, higher concentrations of curcuminoid metabolites predicted NRF2/DNA binding response, suggesting effects may be dependent on bioavailability.
+This study investigated the effectiveness of supramaximal high-intensity interval training (supramaximal HIT) on muscle capacities and physical function compared to moderate-intensity training (MIT) for older adults. Sixty-eight older adults (66-79&#xa0;years, 56% women), not engaged in regular exercise, were randomised to 3&#xa0;months of twice-weekly supramaximal HIT (20&#xa0;minutes including 10&#x2009;&#xd7;&#x2009;6-second intervals) or MIT (40&#xa0;minutes including 3&#x2009;&#xd7;&#x2009;8-minute intervals). Both groups performed the training on stationary bicycles in a group setting. Target intensity was watt-controlled, with standardised cadence and individualised resistance. Outcomes analysed with linear-mixed models included leg power (Nottingham Power Rig), hand grip strength (Jamar dynamometer), static and dynamic balance (One leg stance, 30-second step test), chair stand (30-second chair stand), and anaerobic cycling performance (modified Borg Cycle Strength Test). Baseline values were (supramaximal HIT/MIT, mean&#x2009;&#xb1;&#x2009;SD) leg power 198&#x2009;&#xb1;&#x2009;60/189&#x2009;&#xb1;&#x2009;53&#xa0;W, hand grip strength 4.2&#x2009;&#xb1;&#x2009;1.0/4.3&#x2009;&#xb1;&#x2009;1.1&#xa0;N/kg, static balance 64&#x2009;&#xb1;&#x2009;41/62&#x2009;&#xb1;&#x2009;41&#xa0;s, dynamic balance 39&#x2009;&#xb1;&#x2009;7/38&#x2009;&#xb1;&#x2009;5 steps, chair stands 22&#x2009;&#xb1;&#x2009;6/22&#x2009;&#xb1;&#x2009;6 and anaerobic cycling performance 224&#x2009;&#xb1;&#x2009;60/217&#x2009;&#xb1;&#x2009;55&#xa0;W. At 3-month follow-up, a between-group difference in favour of supramaximal HIT [95% CI] was observed in anaerobic cycling performance of 19[3;35] W. Within-group mean changes for supramaximal HIT/MIT were for leg power 8.4[0.9;15.8]/6.0[-1.3;13.3] W, hand grip strength 0.14[0.00;0.27]/0.13[-0.01;0.26] N/kg, static balance 11[3;20]/10[1;18] s, dynamic balance 1.6[0.3;2.8]/2.3[1.1;3.6] steps, 2.1[1.1;3.1]/1.4[0.4;2.3] chair stands and anaerobic cycling performance 31.3[19.6;43.0]/12.0[0.4;23.5] W. Supramaximal HIT showed superior effect on anaerobic cycling performance when compared to MIT. Additionally, the results indicate that supramaximal HIT is comparably beneficial as MIT in terms of effects on muscle capacity and physical function for older adults.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1039/d4fo02681k
+- DOI: 10.1093/ageing/afae226
 
 2. Keywords
-
+- aged
+- exercise
+- high-intensity interval training (HIIT)
+- older people
+- randomised controlled trial
+- sprint interval training (SIT)
 
 3. Key Findings
-- Findings extraction requires manual review
+- Supramaximal HIT showed superior effect on anaerobic cycling performance when compared to MIT
 
 This study provides insights into:
-- General research methodology and outcomes
+- aged assessment methods and outcomes
+- exercise assessment methods and outcomes
+- high-intensity interval training (HIIT) assessment methods and outcomes

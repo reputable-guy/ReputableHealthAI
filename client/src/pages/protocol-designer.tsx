@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { useSearch } from "wouter";
 import { Card } from "@/components/ui/card";
 import ProtocolPreview from "@/components/protocol/protocol-preview";
 import HypothesisSelector from "@/components/protocol/hypothesis-selector";
@@ -43,10 +44,33 @@ type InitialSetup = {
 };
 
 export default function ProtocolDesigner() {
+  const search = useSearch();
   const [initialSetup, setInitialSetup] = useState<InitialSetup | null>(null);
   const [protocolData, setProtocolData] = useState<Partial<ProtocolData>>();
   const [error, setError] = useState<string | null>(null);
   const { toast } = useToast();
+
+  useEffect(() => {
+    const params = new URLSearchParams(search);
+    const productName = params.get("product");
+    const websiteUrl = params.get("url");
+    const encodedHypothesis = params.get("hypothesis");
+
+    if (productName && encodedHypothesis) {
+      try {
+        const hypothesis = JSON.parse(decodeURIComponent(encodedHypothesis));
+        setInitialSetup({
+          productName,
+          websiteUrl: websiteUrl || "",
+          studyGoal: "Evaluate product efficacy",
+        });
+        handleHypothesisSelected(hypothesis);
+      } catch (error) {
+        console.error("Error parsing URL parameters:", error);
+        setError("Invalid URL parameters");
+      }
+    }
+  }, [search]);
 
   const handleInitialSetup = (setup: InitialSetup) => {
     setInitialSetup(setup);

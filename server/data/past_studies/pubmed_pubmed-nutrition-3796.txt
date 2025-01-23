@@ -1,26 +1,26 @@
-Study Title: Developing a telehealth medical nutrition therapy (MNT) service for adults living in rural Australia at risk of cardiovascular disease: An intervention development study.
+Study Title: Randomized control trial of a childhood obesity prevention family-based program: "Abriendo Caminos" and effects on BMI.
 
 Study Summary:
-Receiving medical nutrition therapy (MNT) from an accredited practising dietitian (APD) can reduce diet-related cardiovascular disease (CVD) risk factors. However, people living in rural areas of Australia experience barriers to accessing dietitians because of their remote location. Telehealth has the potential to improve dietetic access in rural areas; however, there is limited research into the development and delivery of telehealth MNT interventions specific to these areas. The present study describes the development of the Healthy Rural Hearts (HealthyRHearts) telehealth MNT intervention, which was developed as a part of the HealthyRHearts randomised control trial, set in primary care practices in rural areas of the Hunter New England and Central Coast Primary Health Network. The aim of HealthyRHearts is to improve diet-related risk factors for CVD in rural adults at moderate to high CVD risk using a telehealth MNT intervention delivered by an APD. The study describes the development of the HealthyRHearts telehealth MNT intervention, using the 14-item GUIDance for rEporting of intervention Development (GUIDED) checklist and the Template for Intervention Description and Replication (TIDieR) framework to guide description. HealthyRHearts is a complex intervention that aims to translate a telehealth MNT intervention for CVD prevention into rural and remote primary care settings. The intervention is designed to be implemented across multiple sites of varying characteristics and needs, with the ability to accommodate individual complexities within the rural context and target population. Participants are adults aged 45-75 years who are assessed as moderate to high risk of CVD by their general practitioner (GP). Consenting participants are referred to the intervention by their GPs and receive five telehealth MNT consultations with an APD over 6-months. APDs are trained in the intervention protocol including intervention materials, resources and behaviour change counselling strategies. Using the GUIDED and TIDieR frameworks to guide description of the HealthyRHearts intervention development process facilitates detailed description of decision-making pathways for each element of the intervention design. The comprehensive description of the intervention development process for HealthyRHearts is intended to facilitate replication, iteration and optimisation of the intervention for rural contexts.
+Hispanic individuals are at increased risk for obesity and other chronic health conditions. This article evaluates the effect of a family-based, childhood obesity primary prevention intervention in a community setting. A multi-site, randomized controlled trial community program with assessments at pre (T0), post-program (T1), and 6-months post-program (T2). Participating families were recruited from five sites. Only families of Mexican or Puerto Rican heritage with a least one child between 6 and 18 years were included in the study, without weight restrictions. Families were randomized to the intervention and control arms. Intervention families received six-2&#x2005;h weekly workshops. Control families received printed generic nutrition and wellness information. Heights and weights were measured at the 3-time points to calculate BMI z-scores, BMI-percentiles, and weight status using age- and sex-specific growth charts, according to the CDC guidelines. There were no differences in BMI-z scores between children in the intervention (&#x2009;=&#x2009;239) and control groups (&#x2009;=&#x2009;187) at T0. BMI z-scores decreased in the intervention group (-0.03, 95% CI, -0.066, -0.003,&#x2009;=&#x2009;0.032) at T1, but not in the control group at T1. Changes in BMI z-scores were not statistically significant at T2. The Abriendo Caminos intervention effectively prevented unhealthy weight gain in Hispanic children in the short-term, but not at 6-months post-intervention. Younger children and girls benefited more from the program at 6-months post-intervention. Additional efforts are needed to sustain long-term changes. Culturally-tailored programs can provide families with the knowledge to produce short-term changes and a potential pathway for sustainable changes in implementing healthy behaviors.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1111/jhn.13193
+- DOI: 10.3389/fped.2023.1137825
 
 2. Keywords
-- cardiovascular
-- intervention development
-- nutrition
-- prevention
-- rural
+- BMI z-score
+- Hispanics
+- childhood obesity
+- family-based program
+- obesity prevention
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- cardiovascular assessment methods and outcomes
-- intervention development assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- BMI z-score assessment methods and outcomes
+- Hispanics assessment methods and outcomes
+- childhood obesity assessment methods and outcomes

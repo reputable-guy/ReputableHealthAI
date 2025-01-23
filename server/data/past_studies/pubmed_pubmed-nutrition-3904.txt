@@ -1,26 +1,27 @@
-Study Title: Design of the Equity in Prevention and Progression of Hypertension by Addressing Barriers to Nutrition and Physical Activity Study: A Cluster Randomized Trial.
+Study Title: Replacement of dietary saturated with unsaturated fatty acids is associated with beneficial effects on lipidome metabolites: a secondary analysis of a randomized trial.
 
 Study Summary:
-High rates of hypertension and poverty in the rural south contribute to health disparities with Black adults experiencing higher rates of cardiovascular disease than White adults, underscoring the need to identify prevention strategies. The equity in prevention and progression of hypertension by addressing barriers to nutrition and physical activity (EPIPHANY) study is a cluster randomized controlled trial testing a multilevel intervention to reduce barriers to a healthy lifestyle to lower blood pressure (BP) among rural, Black adults. Health education fairs offered to 20 churches in the Alabama Black Belt are being used to screen and enroll adults with elevated BP or stage 1 hypertension (systolic BP 120-139 mmHg and diastolic BP < 90 mmHg) who are not recommended for antihypertensive medication, according to the 2017 American College of Cardiology/American Heart Association BP guideline. Participants (n = 240) in churches randomized to the control condition are offered access to online resources including cooking and exercise classes. Participants (n = 240) in churches randomized to the intervention are receiving access to online resources; telephone-based peer support for lifestyle modification; funding for churches to develop programs to address food access and/or barriers to physical activity; and training of church members to serve as church champions to deliver training for church members on lifestyle modification. We will employ a Type 1 hybrid implementation-effectiveness design to assess effectiveness and implementation. The EPIPHANY study is designed to prevent hypertension among rural, Black adults by addressing structural and individual barriers to lifestyle modification through peer support.
+The effects of replacing dietary saturated fatty acids (SFAs) with monounsaturated fatty acids (MUFAs) and/or polyunsaturated fatty acids (PUFAs) on the plasma lipidome in relation to the cardiometabolic disease (CMD) risk is poorly understood. We aimed to assess the impact of substituting dietary SFAs with unsaturated fatty acids (UFAs) on the plasma lipidome and examine the relationship between lipid metabolites modulated by diet and CMD risk. Plasma fatty acid (FA) concentrations among 16 lipid classes (within-class FAs) were measured in a subgroup from the Dietary Intervention and VAScular function (DIVAS) parallel randomized controlled trial (n = 113/195), which consisted of three 16-wk diets enriched in SFAs (target SFA:MUFA:n-6PUFA ratio = 17:11:4% total energy [TE]), MUFAs (9:19:4% TE), or a MUFA/PUFA mixture (9:13:10% TE). Similar lipidomics analyses were conducted in the European Prospective Investigation into Cancer and Nutrition (EPIC)-Potsdam study (specific case/cohorts: n = 775/1886 for type 2 diabetes [T2D], n = 551/1671 for cardiovascular disease [CVD]). Multiple linear regression and multivariable Cox models identified within-class FAs sensitive to replacement of dietary SFA with UFA in DIVAS and their association with CMD risk in EPIC-Potsdam. Elastic-net regression models identified within-class FAs associated with changes in CMD risk markers post-DIVAS interventions. DIVAS high-UFA interventions reduced plasma within-class FAs associated with a higher CVD risk in EPIC-Potsdam, especially SFA-containing glycerolipids and sphingolipids (e.g., diacylglycerol (20:0) z-score = -1.08; SE = 0.17; P value < 10), whereas they increased those inversely associated with CVD risk. The results on T2D were less clear. Specific sphingolipids and phospholipids were associated with changes in markers of endothelial function and ambulatory blood pressure, whereas higher low-density lipoprotein cholesterol concentrations were characterized by higher plasma glycerolipids containing lauric and stearic acids. These results suggest a mediating role of plasma lipid metabolites in the association between dietary fat and CMD risk. Future research combining interventional and observational findings will further our understanding of the role of dietary fat in CMD etiology. This trial was registered in ClinicalTrials.gov as NCT01478958.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1093/ajh/hpad011
+- DOI: 10.1016/j.ajcnut.2023.03.024
 
 2. Keywords
-- blood pressure
-- hypertension
-- lifestyle modification
-- prevention
-- social determinants of health
+- EPIC-Potsdam
+- cardiovascular disease
+- dietary fat
+- lipidomics
+- randomized controlled trial
+- type 2 diabetes
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- blood pressure assessment methods and outcomes
-- hypertension assessment methods and outcomes
-- lifestyle modification assessment methods and outcomes
+- EPIC-Potsdam assessment methods and outcomes
+- cardiovascular disease assessment methods and outcomes
+- dietary fat assessment methods and outcomes

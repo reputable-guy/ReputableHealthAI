@@ -1,31 +1,28 @@
-Study Title: Early time-restricted carbohydrate consumption vs conventional dieting in type 2 diabetes: a randomised controlled trial.
+Study Title: Infant Milk Formula with Large, Milk Phospholipid-coated Lipid Droplets Enriched in Dairy Lipids Affects Body Mass Index Trajectories and Blood Pressure at School Age: Follow-up of a Randomized Controlled Trial.
 
 Study Summary:
-Early time-restricted carbohydrate consumption (eTRC) is a novel dietary strategy that involves restricting carbohydrate-rich food intake to the morning and early afternoon to align with circadian variations in glucose tolerance. We examined the efficacy, feasibility and safety of eTRC in individuals with type 2 diabetes under free-living conditions. In this randomised, parallel-arm, open label, controlled trial, participants with type 2 diabetes and overweight/obesity (age 67.2&#xb1;7.9 years, 47.8% women, BMI 29.4&#xb1;3.7 kg/m, HbA49&#xb1;5 mmol/mol [6.6&#xb1;0.5%]) were randomised, using computer-generated random numbers, to a 12 week eTRC diet or a Mediterranean-style control diet with matched energy restriction and macronutrient distribution (50% carbohydrate, 30% fat and 20% protein). The primary outcome was the between-group difference in HbAat 12 weeks. Body composition, 14 day flash glucose monitoring and food diary analysis were performed every 4 weeks. Mixed meal tolerance tests with mathematical beta cell function modelling were performed at baseline and after 12 weeks. Twelve (85.7%) participants in the eTRC arm and 11 (84.6%) participants in the control arm completed the study, achieving similar reductions in body weight and fat mass. The two groups experienced comparable improvements in HbA(-3 [-6, -0.3] mmol/mol vs -4 [-6, -2] mmol/mol, corresponding to -0.2 [-0.5, 0]% and -0.3 [-0.5, -0.1]%, respectively, p=0.386), fasting plasma glucose, flash glucose monitoring-derived glucose variability and mixed meal tolerance test-derived glucose tolerance, insulin resistance, insulin clearance and plasma glucagon levels, without changes in model-derived beta cell function parameters, glucagon-like peptide-1, glucose-dependent insulinotropic polypeptide and non-esterified fatty acid levels. The two diets similarly reduced liver function markers and triglyceride levels, being neutral on other cardiometabolic and safety variables. In exploratory analyses, diet-induced changes in body weight and glucometabolic variables were not related to the timing of carbohydrate intake. The proposed eTRC diet provides a feasible and effective alternative option for glucose and body weight management in individuals with type 2 diabetes, with no additional metabolic benefits compared with conventional dieting. ClinicalTrials.gov NCT05713058 FUNDING: This study was supported by the European Society for Clinical Nutrition and Metabolism (ESPEN) and the Italian Society of Diabetology (SID).
+Human milk comprises large fat globules enveloped by a native phospholipid membrane, whereas infant formulas contain small, protein-coated lipid droplets. Previous experimental studies indicated that mimicking the architecture of human milk lipid droplets in infant milk formula (IMF) alters lipid metabolism with lasting beneficial impact on later metabolic health. To evaluate in a follow-up (FU) study of a randomized, controlled trial whether a Concept IMF with large, milk phospholipid-coated lipid droplets enriched with dairy lipids beneficially impacts long-term body mass index (BMI in kg/m) trajectories and blood pressure at school age. Fully formula-fed infants were randomly assigned to Concept IMF (n = 115) or Control IMF with conventional, small lipid droplets containing vegetable oils (n = 108) for the first 4 mo of age. A group of 88 breastfed infants served as a reference. During FU, anthropometrics were collected at 1, 3, 4, and 5 y of age, and blood pressure only at the last visit. Compared to Control, Concept group children had consistently lower mean BMI values during FU, with the most marked difference at 1 y of age (difference in means -0.71 kg/m, 95% confidence interval (CI): -1.13, -0.29; P = 0.001); mean values were close to the breastfed group (P > 0.05). Contrary, the mean BMI values of the Control group were higher compared with the breastfed group during FU from 1 to 5 y of age (differences in means from 0.59 to 0.96 kg/m, respectively; P < 0.02). At 5 y of age, the Concept group had a lower mean diastolic and arterial blood pressure compared with the Control group; -4.3mm Hg (95% CI: -7.3, -1.3; P = 0.005) and -3.7 mm Hg (95% CI: -6.5, -0.9; P = 0.01), respectively. Early life feeding of an innovative IMF with large, milk phospholipid-coated lipid droplets enriched with dairy lipids results in a BMI trajectory closer to breastfed infants and a lower blood pressure at school age. This trial was registered at the Dutch Trial Register as NTR3683 and NTR5538.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00125-023-06045-9
+- DOI: 10.1016/j.ajcnut.2023.10.017
 
 2. Keywords
-- Blood glucose control
-- Circadian rhythm
-- Dietary carbohydrates
-- Glucagon
-- Glucose-dependent insulinotropic peptide
-- Nutrition therapy
-- Obesity
-- Randomised controlled trial
-- Time-restricted eating
-- Type 2 diabetes
+- childhood
+- dietary lipid quality
+- growth trajectories
+- infant nutrition
+- metabolic health
+- milk fat globule membrane (MFGM)
+- nutritional programming
 
 3. Key Findings
-- Findings extraction requires manual review
+- Previous experimental studies indicated that mimicking the architecture of human milk lipid droplets in infant milk formula (IMF) alters lipid metabolism with lasting beneficial impact on later metabolic health
 
 This study provides insights into:
-- Blood glucose control assessment methods and outcomes
-- Circadian rhythm assessment methods and outcomes
-- Dietary carbohydrates assessment methods and outcomes
+- childhood assessment methods and outcomes
+- dietary lipid quality assessment methods and outcomes
+- growth trajectories assessment methods and outcomes

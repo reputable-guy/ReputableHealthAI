@@ -1,27 +1,26 @@
-Study Title: Pre-exercise ingestion of a low glycaemic index rice-based mixed meal increases fat oxidation and endurance running performance in a hot-humid environment.
+Study Title: Cerebral blood flow and arterial transit time responses to exercise training in older adults.
 
 Study Summary:
-Relative to exercise in a thermoneutral environment, there is only limited evidence demonstrating that a low glycaemic index (LGI) pre-exercise meal can enhance endurance exercise performance in a hot-humid (HH) condition. Also, previous studies predominantly utilised Western-based and single food items, with minimal focus on Asian-based mixed meals. This study aimed to investigate the impact of pre-exercise LGI and high glycaemic index (HGI) rice-based mixed meals on endurance performance among acclimatised trained athletes in HH condition (32 &#xb0;C, 65% relative humidity). Twelve native-born endurance-trained male runners (age 22.0&#xa0;&#xb1;&#xa0;5.8 years; peak oxygen consumption (V&#x307;O) 64.2&#xa0;&#xb1;&#xa0;5.5&#xa0;mL kgmin) completed two trials consisting of 45&#x2009;min steady-state (SS) run at 70% V&#x307;Ofollowed by 10&#xa0;km performance run (TT). Three hours before exercise, participants consumed an isocaloric rice-based mixed meals containing either LGI (GI value&#xa0;=&#xa0;47) or HGI (GI value&#xa0;=&#xa0;80), providing 1.3&#xa0;g of carbohydrate (CHO) per kg of body mass. Participants ran faster during TTafter consuming the LGI meal compared to the HGI meal (LGI: 55.18&#xa0;&#xb1;&#xa0;1.22&#xa0;vs. HGI: 57.03&#xa0;&#xb1;&#xa0;2.25&#xa0;min,&#xa0;=&#xa0;0.010). End rectal temperature did not significantly differ between trials (LGI: 39.16&#xa0;&#xb1;&#xa0;0.74&#xa0;vs. HGI: 38.95&#xa0;&#xb1;&#xa0;0.46 &#xb0;C,&#xa0;=&#xa0;0.352). Fat oxidation was higher during the SS run in the LGI compared to the HGI trial (LGI: 0.19&#xa0;&#xb1;&#xa0;0.05&#xa0;vs. HGI: 0.13&#xa0;&#xb1;&#xa0;0.19&#xa0;g min,&#xa0;=&#xa0;0.001). This study demonstrated that, relative to HGI, consuming a pre-exercise LGI rice-based mixed meal enhanced endurance performance in HH environment among acclimatised trained male athletes.
+Brain vascular health worsens with age, as is made evident by resting grey matter cerebral blood flow (CBF) reductions and lengthening arterial transit time (ATT). Exercise training can improve aspects of brain health in older adults, yet its effects on CBFand ATTremain unclear. This randomised controlled trial assessed responses of CBFand ATTto a 26 week exercise intervention in 65 healthy older adults (control: n = 33, exercise: n = 32, aged 60-81 years), including whether changes in CBFor ATTwere associated with changes in cognitive functions. Multiple-delay pseudo-continuous arterial spin labelling data were used to estimate resting global and regional CBFand ATT. Results showed no between-group differences in CBFor ATTfollowing the intervention. However, exercise participants with the greatest cardiorespiratory gains (n = 17; &#x2206;V&#x307;O>2 mL/kg/min) experienced global CBFreductions (-4.0 [-7.3, -0.8] mL/100 g/min). Cognitive functions did not change in either group and changes were not associated with changes in CBFor ATT. Our findings indicate that exercise training in older adults may induce global CBFreductions when high cardiorespiratory fitness gains are induced, but this does not appear to affect cognitive functions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1139/apnm-2024-0219
+- Publication Date: 2024
+- DOI: 10.1016/j.neuroimage.2024.120919
 
 2. Keywords
-- endurance running
-- exercise nutrition
-- glycaemic index
-- heat stress
-- mixed meal
-- trained-runners
+- Ageing
+- Arterial transit time
+- Cerebral blood flow
+- Cognitive function
+- Exercise training
 
 3. Key Findings
-- This study demonstrated that, relative to HGI, consuming a pre-exercise LGI rice-based mixed meal enhanced endurance performance in HH environment among acclimatised trained male athletes
+- Results showed no between-group differences in CBFor ATTfollowing the intervention
 
 This study provides insights into:
-- endurance running assessment methods and outcomes
-- exercise nutrition assessment methods and outcomes
-- glycaemic index assessment methods and outcomes
+- Ageing assessment methods and outcomes
+- Arterial transit time assessment methods and outcomes
+- Cerebral blood flow assessment methods and outcomes

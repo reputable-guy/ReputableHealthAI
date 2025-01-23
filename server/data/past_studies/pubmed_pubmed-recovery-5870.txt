@@ -1,26 +1,25 @@
-Study Title: Anti-SARS-CoV-2 glyco-humanized polyclonal antibody XAV-19: phase II/III randomized placebo-controlled trial shows acceleration to recovery for mild to moderate patients with COVID-19.
+Study Title: Comparison of the Outcomes of Enhanced Recovery After Surgery and Traditional Recovery Pathway in Robotic Hysterectomy for Benign Indications: A Randomized Controlled Trial.
 
 Study Summary:
-XAV-19 is a glyco-humanized swine polyclonal antibody targeting SARS-CoV-2 with high neutralizing activity. The safety and clinical efficacy of XAV-19 were investigated in patients with mild to moderate COVID-19. This phase II/III, multicentric, randomized, double-blind, placebo-controlled clinical trial was conducted to evaluate the safety and clinical efficacy of XAV-19 in patients with a seven-point WHO score of 2 to 4 at randomization, i.e., inpatients with COVID-19 requiring or not requiring low-flow oxygen therapy, and outpatients not requiring oxygen (EUROXAV trial, NCT04928430). Adult patients presenting in specialized or emergency units with confirmed COVID-19 and giving their consent to participate in the study were randomized to receive 150 mg of XAV-19 or placebo. The primary endpoint was the proportion of patients with aggravation within 8 days after treatment, defined as a worsening of the seven-point WHO score of at least one point between day 8 and day 1 (inclusion). The neutralization activity of XAV-19 against variants circulating during the trial was tested in parallel. From March 2021 to October 2022, 279 patients received either XAV-19 (N = 140) or placebo (N = 139). A slow enrollment and a low rate of events forced the termination of the premature trial. XAV-19 was well tolerated. Underpowered statistics did not allow the detection of any difference in the primary endpoint between the two groups or in stratified groups. Interestingly, analysis of the time to improvement (secondary endpoint) showed that XAV-19 significantly accelerated the recovery for patients with a WHO score of 2 or 3 (median at 7 days vs. 14 days, p = 0.0159), and even more for patients with a WHO score of 2 (4 days vs. 14 days, p = 0.0003). The neutralizing activity against Omicron and BA.2, BA.2.12.1, BA.4/5, and BQ.1.1 subvariants was shown. In this randomized placebo- controlled trial with premature termination, reduction of aggravation by XAV-19 at day 8 in patients with COVID-19 was not detectable. However, a significant reduction of the time to improvement for patients not requiring oxygen was observed. XAV-19 maintained a neutralizing activity against SARS-CoV-2 variants. Altogether, these data support a possible therapeutic interest for patients with mild to moderate COVID-19 requiring anti-SARS-CoV-2 neutralizing antibodies. https://clinicaltrials.gov/, identifier NCT04928430; https://www.clinicaltrialsregister.eu/about.html (EudraCT), identifier 2020-005979-12.
+The present study aimed to evaluate the impact of the implementation of the enhanced recovery after surgery (ERAS) program in patients undergoing robotic hysterectomy for benign indications in comparison with conventional management. Randomized controlled trial. North Indian tertiary care hospital. Patients aged 40 to 60 years willing to sign the informed written consent were included, whereas cases with contraindications for neuraxial anesthesia were excluded. A total of 130 subjects undergoing robotic hysterectomy were divided into ERAS (n = 65) and conventional (non-ERAS) (n = 65) groups. Components of the ERAS protocol included preoperative counseling, carbohydrate loading, early removal of catheter, and early ambulation. Both groups underwent optimization of medical conditions, standardized anesthesia, and venous thromboembolism prophylaxis. Outcome measures included length of hospital stay (LOHS), time to tolerance of diet, postoperative complications, readmission rates, and quality of life assessed by WHO-QOL BREF. Baseline characteristics were comparable between groups. ERAS group showed significantly lower docking time (4.82 &#xb1; 0.73 vs 5.31 &#xb1; 0.92 minutes), faster tolerance of diet (0.14 &#xb1; 0.35 vs 1.14 &#xb1; 0.35 days), and earlier resumption of ambulation (0.42 &#xb1; 0.5 vs 1.26 &#xb1; 0.44 days). Time for "fit for discharge" (1.43 &#xb1; 0.61 vs 2.97 &#xb1; 1.1 days) and LOHS (2.85 &#xb1; 1.09 vs 3.78 &#xb1; 1.29 days) were significantly lower in the ERAS group. Postoperative complications and readmission rates were comparable. Quality-of-life scores favored the ERAS group at postoperative days 1 and 30. The combination of ERAS and robotic surgery improves patient outcomes, shortens hospital stays, and enhances postoperative recovery without increasing complications. This research serves as a pioneering effort in assessing the impact of ERAS on robotic hysterectomy for benign indications, providing valuable insights for future multicentric studies and supporting the integration of ERAS protocols to enhance patient outcomes and quality of life.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fimmu.2024.1330178
+- DOI: 10.1016/j.jmig.2024.04.019
 
 2. Keywords
-- (glyco-humanized) polyclonal antibody
-- COVID-19
-- SARS-CoV-2 variants
-- XAV-19
-- clinical trial
+- Minimally invasive surgery
+- Perioperative care
+- Postoperative recovery
+- Quality of life
 
 3. Key Findings
-- Interestingly, analysis of the time to improvement (secondary endpoint) showed that XAV-19 significantly accelerated the recovery for patients with a WHO score of 2 or 3 (median at 7 days vs
+- ERAS group showed significantly lower docking time (4
 
 This study provides insights into:
-- (glyco-humanized) polyclonal antibody assessment methods and outcomes
-- COVID-19 assessment methods and outcomes
-- SARS-CoV-2 variants assessment methods and outcomes
+- Minimally invasive surgery assessment methods and outcomes
+- Perioperative care assessment methods and outcomes
+- Postoperative recovery assessment methods and outcomes

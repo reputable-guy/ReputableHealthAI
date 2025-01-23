@@ -1,26 +1,25 @@
-Study Title: The Association Between Malnutrition and High Protein Treatment on Outcomes in Critically Ill Patients: A Post Hoc Analysis of the EFFORT Protein Randomized Trial.
+Study Title: Clinical nursing application of parenteral nutrition combined with enteral nutrition support in neurosurgery.
 
 Study Summary:
-Preexisting malnutrition in critically ill patients is associated with adverse clinical outcomes. Malnutrition can be diagnosed with the Global Leadership Initiative on Malnutrition using parameters such as weight loss, muscle wasting, and BMI. International critical care nutrition guidelines recommend high protein treatment to improve clinical outcomes in critically ill patients diagnosed with preexisting malnutrition. However, this recommendation is based on expert opinion. In critically ill patients, what is the association between preexisting malnutrition and time to discharge alive (TTDA), and does high protein treatment modify this association? This multicenter randomized controlled trial involving 16 countries was designed to investigate the effects of high vs&#xa0;usual protein treatment in 1,301 critically ill patients. The primary outcome was TTDA. Multivariable regression was used to identify if preexisting malnutrition was associated with TTDA and if protein delivery modified their association. The prevalence of preexisting malnutrition was 43.8%, and the cumulative incidence of live hospital discharge by day 60 was 41.2%&#xa0;vs&#xa0;52.9%&#xa0;in the groups with and without preexisting malnutrition, respectively. The average protein delivery in the high vs&#xa0;usual treatment groups was 1.6 g/kg per day vs&#xa0;0.9 g/kg per day. Preexisting malnutrition was independently associated with slower TTDA (adjusted hazard ratio, 0.81; 95%&#xa0;CI, 0.67-0.98). However, high protein treatment in patients with and without preexisting malnutrition was not associated with TTDA (adjusted hazard ratios of 0.84 [95%&#xa0;CI, 0.63-1.11] and 0.97 [95%&#xa0;CI, 0.77-1.21]). Furthermore, no effect modification was observed (ratio of adjusted hazard ratio, 0.84; 95%&#xa0;CI, 0.58-1.20). Malnutrition was associated with slower TTDA, but high protein treatment did not modify the association. These findings challenge current international critical care nutrition guidelines. ClinicalTrials.gov; No.: NCT03160547; URL: www. gov.
+To explore the clinical nursing effect of parenteral nutrition combined with enteral nutrition support in neurosurgery. 200 neurosurgical patients were randomly divided into two groups. The time of parenteral nutrition combined with enteral nutrition support in our hospital (January 2021) was used as the cut-off point, the PN group and the PN+EN group were divided according to the cut-off point. Nutritional status, immune status, occurrence of adverse events, prognosis-related indicators were compared between the two groups. Nutritional status and immune status at 7 days of nutritional support in the PN+EN group were higher than those in the PN group, The difference was statistically significant. The total incidence of adverse events in the PN+EN group (3.00%) was significantly lower than that in the PN group (11.00%), and the difference was statistically significant. The average ICU treatment time, average hospital stay and emerging infection rate in the PN+EN group were lower than those in the PN group, and the differences were statistically significant (< 0.05). Parenteral nutrition combined with enteral nutrition support in neurosurgery can achieve a more ideal intervention effect. It is beneficial to the prognosis of patients and has a certain value of promotion and application.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.chest.2024.02.008
+- DOI: 10.4314/ahs.v23i3.64
 
 2. Keywords
-- GLIM
-- NUTRIC
-- critically ill patients
-- malnutrition
-- protein
+- Neurosurgery
+- enteral nutrition support
+- nursing effect
+- parenteral nutrition support
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- GLIM assessment methods and outcomes
-- NUTRIC assessment methods and outcomes
-- critically ill patients assessment methods and outcomes
+- Neurosurgery assessment methods and outcomes
+- enteral nutrition support assessment methods and outcomes
+- nursing effect assessment methods and outcomes

@@ -1,26 +1,28 @@
-Study Title: Preventing radiation-induced dysphagia and trismus in head and neck cancer-A randomized controlled trial.
+Study Title: Baker's yeast beta glucan supplementation was associated with an improved innate immune mRNA expression response after exercise.
 
 Study Summary:
-Radiation-induced dysphagia and restricted mouth opening are common problems among patients with head and neck cancer. The aim of the present randomized controlled trial was to determine if an exercise protocol could prevent swallowing and mouth opening impairment. Eighty-nine participants were randomly assigned to either an active group performing preventive swallowing and mouth opening exercises (n&#x2009;=&#x2009;45) or to a control group (n&#x2009;=&#x2009;44). Outcome measures were collected at baseline before radiotherapy and approximately 1-month post-treatment. Primary endpoints were changes in swallowing function according to the Penetration Aspiration Scale and mouth opening ability measured in millimeters. Intention-to-treat analysis was used. Swallowing function and mouth opening deteriorated in both groups, with no statistically significant positive effect of the protocol detected at follow-up. Among patients who completed >75% of exercises, there was a trend toward better outcomes. Preventive exercises did not improve short-term swallowing function and mouth opening after radiotherapy.
+Beta glucans are found in many natural sources, however, only Baker's Yeast Beta Glucan (BYBG) has been well documented to have structure-function effects that are associated with improved innate immune response to stressors (e.g., exercise, infection, etc.). The purpose was to identify a BYBG-associated mRNA expression pattern following exercise. Participants gave IRB-approved consent and were randomized to BYBG (Wellmune&#xae;; N=9) or Placebo (maltodextrin; N=10) for 6-weeks prior to performing 90&#xa0;min of whole-body exercise. Paxgene blood samples were collected prior to exercise (PRE), after exercise (POST), two hours after exercise (2H), and four hours after exercise (4H). Total RNA was isolated and analyzed for the expression of 770 innate immune response mRNA (730 mRNA targets; 40 housekeepers/controls; Nanostring nCounter). The raw data were normalized against housekeeping controls and expressed as Logfold change from PRE for a given condition. Significance was set at p&#xa0;<&#xa0;0.05 with adjustments for multiple comparisons and false discovery rate. We identified 47 mRNA whose expression was changed after exercise with BYBG and classified them to four functional pathways: 1) Immune Cell Maturation (8 mRNA), 2) Immune Response and Function (5 mRNA), 3) Pattern Recognition Receptors and DAMP or PAMP Detection (25 mRNA), and 4) Detection and Resolution of Tissue Damage (9 mRNA). The identified mRNA whose expression was altered after exercise with BYBG may represent an innate immune response pattern and supports previous conclusions that BYBG improves immune response to a future sterile inflammation or infection.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/hed.27886
+- DOI: 10.1016/j.ymeth.2024.07.013
 
 2. Keywords
-- deglutition disorders
-- head and neck neoplasms
-- intervention study
-- radiotherapy
-- randomized
+- DAMP
+- Infection
+- Innate Immune Priming
+- Innate Immune Training
+- Nanostring
+- PAMP
+- Sterile-Inflammation
 
 3. Key Findings
-- Findings extraction requires manual review
+- Beta glucans are found in many natural sources, however, only Baker's Yeast Beta Glucan (BYBG) has been well documented to have structure-function effects that are associated with improved innate immune response to stressors (e
 
 This study provides insights into:
-- deglutition disorders assessment methods and outcomes
-- head and neck neoplasms assessment methods and outcomes
-- intervention study assessment methods and outcomes
+- DAMP assessment methods and outcomes
+- Infection assessment methods and outcomes
+- Innate Immune Priming assessment methods and outcomes

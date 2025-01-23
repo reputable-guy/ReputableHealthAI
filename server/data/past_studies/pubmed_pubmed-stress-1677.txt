@@ -1,20 +1,26 @@
-Study Title: Comparisons of different general anesthetic techniques on immune function in patients undergoing flap reconstruction for oral cancer.
+Study Title: A Fullerton Functional Fitness Test-based exercise intervention for older adults yields quick physical and psychological benefits.
 
 Study Summary:
-Anesthetic-induced immunosuppression is of particular interest in tumor surgery. This study aimed to investigate the influence of the 4 most common general anesthetic techniques on immune function in patients undergoing flap reconstruction for oral cancer. 116 patients were randomly divided into 4 groups. Patients in group S were given sevoflurane-based anesthesia. Group P was administered propofol-based anesthesia. The SD group received sevoflurane combined with dexmedetomidine anesthesia. The propofol combined with dexmedetomidine anesthesia (PD) group received PD. Blood samples were obtained at 5 time points: baseline (T0), 1 hour after the start of the operation (T1), end of the operation (T2), 24 hours (T3), and 48 hours (T4) after the operation. Lymphocyte subsets (including CD3+, CD4+, CD8+, and B lymphocytes) and dendritic cells were analyzed by flow cytometry. Blood glucose, norepinephrine, and cortisol levels were measured using ELISA and a blood gas analyzer respectively. In total, 107 patients were included in the final analysis. Immunological indicators, except CD8+ counts, were all decreased in groups S, P, and SD at T1-4 compared with the baseline value, and the counts of CD3+, CD4+, and dendritic cells, as well as CD4+/CD8+ ratios, were significantly higher in the PD group than in the S, P, and SD at T1-3 (P&#x2005;<&#x2005;.05). There were no significant differences between groups P and SD at any observation time point. Intraoperative stress indices, including norepinephrine and cortisol levels, were significantly lower in the PD group than in the other 3 groups at T1-2 (P&#x2005;<&#x2005;.05). These findings suggest that PD as a probably optimal choice can alleviate immunosuppression in patients undergoing flap reconstruction for oral cancer.
+Functional fitness is essential for healthy living in older adults. Specially targeted fitness programs might be the most beneficial. This intervention study aimed to assess the efficacy of a specific 16-week exercise program in improving functions as measured by the Fullerton Functional Fitness Test (FFFT), also known as the Senior Test, in older adults. Thirty-eight participants (66&#xa0;% women, M&#xa0;=&#xa0;80.15, SD&#xa0;=&#xa0;7.21) were randomized into an exercise group (n&#xa0;=&#xa0;24) and a waiting list control group (n&#xa0;=&#xa0;14). The exercise group trained three times a week for 1&#xa0;h. Objective tests (FFFT and handgrip power) and subjective psychological measures (life satisfaction, resilience, happiness, perceived stress, and well-being) were obtained at baseline, after eight weeks, and after 16 weeks. The data were analyzed using mixed-effect regression models. The results yielded statistically significant group-by-time interactions in all models, indicating improvements in physical and psychological measures over time in the treatment group compared to the control group. Significant differences between the groups in the estimated marginal means (with adjusted 95&#xa0;% confidence intervals) emerged after 16 weeks in happiness (-3.5 [-6.5, -0.4]), resilience (-5.5 [-9.9, -1.2]), perceived stress (2.2 [0.2, 4.2]), well-being (-5.8 [-7.9, -3.6]), upper limb strength (-5.7 [-9.0, -2.4]), upper body flexibility (-8.7 [-16.4, -1.0]), and agility and balance (4.6 [1.2, 8.1]). Except for happiness and resilience, these differences surfaced already after eight weeks. The here-employed 16-week exercise program, targeting the test elements of the FFFT, efficiently induced physical and mental improvements in older adults.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000038653
+- DOI: 10.1016/j.ctcp.2024.101880
 
 2. Keywords
-
+- Ageing
+- Exercise
+- Objective measures
+- Physical activity
+- Subjective measures
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Ageing assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- Objective measures assessment methods and outcomes

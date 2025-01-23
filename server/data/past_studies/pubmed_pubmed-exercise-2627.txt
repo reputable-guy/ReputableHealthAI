@@ -1,26 +1,26 @@
-Study Title: Creatine Improves Total Sleep Duration Following Resistance Training Days versus Non-Resistance Training Days among Naturally Menstruating Females.
+Study Title: Impact of Physical Activity in Patients With Atrial Fibrillation Undergoing Catheter Ablation: The Multicenter Randomized BE-ACTION Trial.
 
 Study Summary:
-Females historically experience sleep disturbances and overall poor sleep compared to males. Creatine has been proposed to impact sleep; however, the effects are not well known. The purpose of this study was to examine the effects of creatine supplementation on sleep among naturally menstruating females. Twenty-one participants completed a double-blind, randomized controlled trial in which they consumed 5 g creatine + 5 g maltodextrin or placebo, 10 g maltodextrin, daily for 6 weeks. Participants completed resistance training 2x/week using the TONAL(Tonal Systems Inc., San Francisco, CA, USA) at-home gym. Pre- and post-testing assessed body composition, Pittsburgh Sleep Quality Index (PSQI), dietary intake, and muscular strength. Sleep was assessed nightly using an &#x14c;URA(Oulu, Finland) ring. Compared to the placebo group, those consuming creatine experienced significant increases in total sleep on training days (= 0.013). No significant changes in chronic sleep and PSQI (pre-post) were observed. There was a significant increase in TONALstrength score over time (< 0.001), with no between-group differences. Participants reduced their total calorie (kcal) (= 0.039), protein (g/kg) (= 0.009), carbohydrate (g/kg) (= 0.023), and fat (g) (= 0.036) intake over time. Creatine supplementation increases sleep duration on resistance training days in naturally menstruating females.
+Arrhythmia recurrence after pulmonary vein isolation (PVI) is common. We conducted a multicenter, randomized trial to determine the impact of increased physical activity on atrial fibrillation recurrence after PVI. From 2018 to 2020, we randomly assigned 200 patients with atrial fibrillation to the ACTION or NO-ACTION group in 4 different centers in the local country of Brandenburg, Germany. Patients were eligible if they were scheduled to undergo PVI, aged &#x2265;50 to &#x2264;77 years, body mass index &#x2265;23 to &#x2264;35 kg/m, and accepted wearing an activity tracker allowing 24-hour activity monitoring via mobile app. Patients in the ACTION group were actively remote-controlled via transmitted activity data by a physiotherapist, and individual motivational interviewing call sessions were scheduled with each ACTION patient every 2 weeks. The primary end point was the composite of recurrence of any atrial arrhythmia >30 seconds, additional ablation procedure, cardioversion, and new onset of antiarrhythmic drugs earliest after 90 days after index PVI over 12 months. Overall, the median age of patients was 66 (interquartile range, 61-71) years, 33.5% were women, and 52% had persistent atrial fibrillation. The number of steps per day increased in both groups of patients from baseline to 12 months (<0.001). The absolute increase in steps per day did not differ between patients in the ACTION group with +3205 steps (597-4944) compared with those in the NO-ACTION group +2423 steps (17-4284),=0.325. Unadjusted intention-to-treat analysis showed no difference in the primary composite end point in the ACTION group (27.3%) versus the NO-ACTION group (32.7%),=0.405. Physical activity improved in patients after PVI. The present randomized controlled trial shows that activity tracker and motivational calls to increase physical activity versus activity tracker alone did not reduce the occurrence of the primary composite end point of atrial fibrillation recurrence or the absolute increase in steps per day. URL: https://www.cochranelibrary.com; Unique identifier: DRKS00012914.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16162772
+- DOI: 10.1161/CIRCOUTCOMES.124.010877
 
 2. Keywords
-- body composition
-- creatine monohydrate
-- female health
-- resistance exercise
-- sleep
+- anti-arrhythmia agents
+- atrial fibrillation
+- exercise
+- fitness trackers
+- pulmonary veins
 
 3. Key Findings
-- Findings extraction requires manual review
+- Unadjusted intention-to-treat analysis showed no difference in the primary composite end point in the ACTION group (27
 
 This study provides insights into:
-- body composition assessment methods and outcomes
-- creatine monohydrate assessment methods and outcomes
-- female health assessment methods and outcomes
+- anti-arrhythmia agents assessment methods and outcomes
+- atrial fibrillation assessment methods and outcomes
+- exercise assessment methods and outcomes

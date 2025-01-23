@@ -1,25 +1,27 @@
-Study Title: In-person versus remote (mHealth) delivery for a responsive parenting intervention in rural Kenya: a cluster randomized controlled trial.
+Study Title: Relationships of B12 and Homocysteine with Outcomes in the SURE-PD, SURE-PD3, and STEADY-PDIII Trials.
 
 Study Summary:
-An estimated 43% of children under age 5 in low- and middle-income countries (LMICs) experience compromised development due to poverty, poor nutrition, and inadequate psychosocial stimulation. Numerous early childhood development (ECD) parenting interventions have been shown to be effective at improving ECD outcomes, at least in the short-term, but they are (a) still too expensive to implement at scale in low-resource and rural settings, and (b) their early impacts tend to fade over time. New approaches to deliver effective ECD parenting interventions that are low-cost, scalable, and sustainable are sorely needed. Our study will experimentally test a traditional in-person group-based delivery model for an evidence-based ECD parenting intervention against a hybrid-delivery model that increasingly substitutes in-person meetings with remote (mHealth) delivery via smartphones, featuring audiovisual content and WhatsApp social interactions and learning. We will assess the relative effectiveness and cost of this hybrid-delivery model compared to in-person delivery and will extend the interventions over two years to increase their ability to sustain changes in parenting behaviors and ECD outcomes longer-term. Our evaluation design is a cluster Randomized Controlled Trial (cRCT) across 90 villages and approximately 1200 households. Midline and endline surveys collected 12 and 24 months after the start of the interventions, respectively, will examine short- and sustained two-year intention-to-treat impacts on primary outcomes. We will also examine the mediating pathways using mediation analysis. We hypothesize that a hybrid-delivery ECD intervention will be lower in cost, but remote interactions among participants may be an inferior substitute for in-person visits, leaving open the question of the most cost-effective program. Our goal is to determine the best model to maximize the intervention's reach and sustained impacts to improve child outcomes. By integrating delivery into the ongoing operations of local Community Health Promoters (CHPs) within Kenya's rural health care system, and utilizing new low-cost technology, our project has the potential to make important contributions towards discovering potentially scalable, sustainable solutions for resource-limited settings. NCT06140017 (02/08/2024) AEARCTR0012704.
+DATATOP was a study of early Parkinson's disease (PD) conducted in the 1980&#x200a;s, before mandatory folic acid fortification in the United States. Our analysis of its baseline serum samples revealed a geometric mean vitamin B12 of 369&#x200a;pg/mL and homocysteine (tHcy) of 9.5&#x3bc;mol/l. We also found that low B12 predicted greater worsening of ambulatory capacity (AC) and elevated tHcy (>15&#x3bc;mol/L) predicted greater declines in cognitive function. We sought to measure B12 and tHcy in contemporary trial participants with early PD who had not started dopaminergic treatment and to determine whether these analytes were associated with clinical progression. We measured B12 and tHcy from baseline and end-of-study blood samples from three recent clinical trials. Baseline geometric mean B12 levels for these studies ranged from 484- 618&#x200a;pg/ml and for tHcy ranged from 7.4- 10&#x3bc;mol/L. Use of B12-containing supplements ranged from 41- 61%, and those taking supplements had higher B12 and lower tHcy. Those who began levodopa, but were not taking B12-supplements, had greater end-of-study tHcy. There was no association of baseline tHcy&#x200a;>&#x200a;15&#x3bc;mol/L with annualized change in Montreal Cognitive Assessment and no association of baseline B12 tertiles with change in AC. In these longitudinal trials, B12 levels were higher than for DATATOP, due in large part to increased B12-supplement intake, while tHcy levels were similar. Initiation of levodopa was associated with increases of tHcy in those not taking a B12-containing supplement. These smaller studies did not replicate prior findings of low B12 and elevated tHcy with features of progression, possibly due to higher baseline B12.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12889-024-19828-5
+- DOI: 10.3233/JPD-240035
 
 2. Keywords
-- Early childhood development
-- Parenting intervention
-- Remote delivery
-- mHealth
+- Nutrition
+- cognitive impairment
+- gait instability
+- leucine-rich repeat kinase 2
+- neuroprotection
 
 3. Key Findings
-- Findings extraction requires manual review
+- Our analysis of its baseline serum samples revealed a geometric mean vitamin B12 of 369&#x200a;pg/mL and homocysteine (tHcy) of 9
+- We also found that low B12 predicted greater worsening of ambulatory capacity (AC) and elevated tHcy (>15&#x3bc;mol/L) predicted greater declines in cognitive function
 
 This study provides insights into:
-- Early childhood development assessment methods and outcomes
-- Parenting intervention assessment methods and outcomes
-- Remote delivery assessment methods and outcomes
+- Nutrition assessment methods and outcomes
+- cognitive impairment assessment methods and outcomes
+- gait instability assessment methods and outcomes

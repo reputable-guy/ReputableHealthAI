@@ -1,28 +1,26 @@
-Study Title: Validity of Cardiopulmonary Exercise Testing for Assessing Aerobic Capacity in Neuromuscular Diseases.
+Study Title: Effectiveness of Hybrid Form Impulse Therapy (HFIT) Compared to Traditional Transcutaneous Electronic Nerve Stimulation (TENS) in Patients with Chronic Low Back and Knee Pain: A Randomized Controlled Trial.
 
 Study Summary:
-To determine the content validity of cardiopulmonary exercise testing (CPET) for assessing peak oxygen uptake (VO) in neuromuscular diseases (NMD). Baseline assessment of a randomized controlled trial. Academic hospital. Eighty-six adults (age: 58.0&#xb1;13.9 y) with Charcot-Marie-Tooth disease (n=35), postpolio syndrome (n=26), or other NMD (n=25). Not applicable. Workload, gas exchange variables, heart rate, and ratings of perceived exertion were measured during CPET on a cycle ergometer, supervised by an experienced trained assessor. Muscle strength of the knee extensors was assessed isometrically with a fixed dynamometer. Criteria for confirming maximal cardiorespiratory effort during CPET were established during 3 consensus meetings of an expert group. The percentage of participants meeting these criteria was assessed to quantify content validity. The following criteria were established for maximal cardiorespiratory effort: a plateau in oxygen uptake (VO) as the primary criterion, or 2 of 3 secondary criteria: (1) peak respiratory exchange ratio (RER) &#x2265;1.10 (2), peak heart rate &#x2265;85% of predicted maximal heart rate; and (3) peak rating of perceived exertion (RPE) &#x2265;17 on the 6-20 Borg scale. These criteria were attained by 71 participants (83%). VO, RER&#x2265;1.10, peak heart rate &#x2265;85%, and RPE&#x2265;17 were attained by 31%, 73%, 69%, and 72% of the participants, respectively. Peak workload, VO, and knee extension muscle strength were significantly higher, and body mass index was lower (all P<.05), in participants with maximal cardiorespiratory effort than other participants. Most people with NMD achieved maximal cardiorespiratory effort during CPET. This study provides high quality evidence of sufficient content validity of VOas a maximal aerobic capacity measure. Content validity may be lower in more severely affected people with lower physical fitness.
+Physical therapy (PT) and conservative care are recommended first-line treatments for musculoskeletal (MSK) pain. While essential to high-quality care, these solutions often do not provide immediate or sufficient pain relief. Traditional transcutaneous electronic nerve stimulation (TENS) devices are often recommended; however, there is mixed evidence behind their effectiveness. A novel approach called hybrid form impulse therapy (HFIT) incorporates a priming pulse with a traditional TENS pulse width and frequency. This randomized controlled trial (RCT) aimed to compare the effectiveness of HFIT versus traditional TENS versus usual care among members of a digital MSK program. A three-arm RCT comparing HFIT versus TENS versus usual care was conducted. A total of 325 people with chronic back or knee pain who were members of a digital MSK program consisting of PT-guided exercise therapy, education, and coaching were randomized. Outcomes including pain, function, anxiety, and depression were examined at 1, 2, and 4 weeks (primary endpoint). Engagement was measured through exercise therapy (ET) sessions completed. Unadjusted and adjusted logistic generalized estimating equations were conducted. Adjusted per-protocol results at 4 weeks showed significantly lower odds of achieving pain improvement for both TENS (OR: 0.42, 95% CI: [0.19, 0.92]) and usual care (OR: 0.35, 95% CI: [0.17, 0.72]) groups, compared to HFIT group. Both HFIT and usual care users had significantly higher engagement than the TENS users (p=0.026 and p=0.002, respectively). No adverse events were reported throughout the study. More participants of a digital MSK program who were randomized to the HFIT group experienced meaningful pain improvement at 4 weeks than participants who used TENS and usual care. HFIT can be an effective, non-pharmaceutical solution for relief as a complement to first-line treatments for patients with chronic back and knee pain.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.apmr.2024.07.006
+- DOI: 10.2147/JPR.S461343
 
 2. Keywords
-- Aerobic exercise
-- Cardiorespiratory fitness
-- Maximal exercise test
-- Measurement properties
-- Neuromuscular disorders
-- Rehabilitation
-- VO(2max)
+- HFIT
+- chronic pain
+- neuromodulation
+- noninvasive treatment
+- pain
 
 3. Key Findings
-- Findings extraction requires manual review
+- Adjusted per-protocol results at 4 weeks showed significantly lower odds of achieving pain improvement for both TENS (OR: 0
 
 This study provides insights into:
-- Aerobic exercise assessment methods and outcomes
-- Cardiorespiratory fitness assessment methods and outcomes
-- Maximal exercise test assessment methods and outcomes
+- HFIT assessment methods and outcomes
+- chronic pain assessment methods and outcomes
+- neuromodulation assessment methods and outcomes

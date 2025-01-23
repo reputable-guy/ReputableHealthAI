@@ -1,27 +1,25 @@
-Study Title: Effects of variation in exercise training load on cognitive performances and neurotrophic biomarkers in patients with coronary artery disease.
+Study Title: The impact of physical therapy intervention of dysphagia on preventing pneumonia in acute stroke patients: A randomized controlled trial.
 
 Study Summary:
-This study compared the effects of linear (LP) and nonlinear (NLP) training periodization on cognitive functions, neurotrophic biomarkers [plasma brain-derived neurotrophic factor (BDNF), insulin-like growth factor-1 (IGF-1)], and cathepsin-B in patients with coronary artery disease (CAD). Forty-four patients with CAD reported to our laboratory on two occasions to undergo testing procedures before and after training sessions, and were then blindly randomized to NLP or LP for 36 training sessions.included blood samples and a maximal cardiopulmonary exercise testing to get maximal oxygen uptake (V&#x307;o).included cognitive functions assessment. Thirty-nine patients completed the study (LP:= 20, NLP:= 19), with no observed changes in cognitive performances after the training intervention in either group. IGF-1 concentration decreased in both groups (time-effect:< 0.001), whereas BDNF concentration increased (time-effect:< 0.05) without group interaction, and cathepsin-B did not change after the intervention. Associations were found between &#x394;V&#x307;oand &#x394;BDNF (= 0.18,= 0.04), and &#x394;IGF-1 and &#x394;short-term/working memory (= 0.17,= 0.01) in the pooled sample, with &#x394;IGF-1 and &#x394;BDNF accounting for 10% of the variance in &#x394;short-term/working memory. In the LP group, associations were found between &#x394;V&#x307;oand &#x394;BDNF (= 0.45,= 0.02), &#x394;BDNF and &#x394;short-term/working memory (= 0.62,= 0.004), &#x394;IGF-1 and &#x394;short-term/working memory (= 0.31,= 0.01), and &#x394;IGF-1 and &#x394;executive function (= 0.22,= 0.04). This study indicates that linear and nonlinear training periodization led to an increase in BDNF, and a decrease in IGF-1, without change in cognitive function in individuals with stable CAD.We used a novel and supervised iso-energetic training, integrating both moderate- and high-intensity aerobic exercises. Our findings indicate that greater variation in training load did not yield cognitive enhancements, although both protocols exhibited positive effects on brain-derived neurotrophic factor (BDNF) levels. Moreover, this study establishes a clear positive association between short-term and working memory and neurotrophic biomarkers. In addition, the independent predictive value of change in insulin-like growth factor-1 (IGF-1) on improvement in short-term and working memory highlight the close relationship between neurotrophic markers and cognition. Consequently, our results advocate for exercise training interventions targeting neurotrophic biomarkers to enhance cognitive function among individuals with coronary artery disease.
+Dysphagia is a common complication following stroke. It corresponds to the development of pneumonia, which is always associated with bad prognosis, longer hospital stays and increased mortality. The aim of the study was to assess the impact of physical therapy intervention of dysphagia on preventing pneumonia in acute stroke patients. A single-blind randomized controlled trial was carried out on 70 ischemic stroke patients with oropharyngeal dysphagia, age ranged from 49 to 65&#xa0;years. They were randomly assigned to two groups (control and study) of equal number. Patients in the control group received oral care and nasogastric tube feeding, while patients in the study group received the same program in addition to the designed physical therapy program (exercises and neuromuscular electrical stimulation). The intervention program was applied for 40&#xa0;min/session, 1 session/day, and 5&#xa0;days/week for 4&#xa0;weeks. Gugging swallowing screen (GUSS), and stroke associated pneumonia (SAP) control and prevention criteria were used to assess dysphagia and incidence of pneumonia at baseline, after two and 4&#xa0;weeks of intervention for both groups. Before treatment, all patients were susceptible to pneumonia after two and 4&#xa0;weeks of intervention; there were a significant increase in GUSS score in both groups with more improvement in favor of the study group (p&#xa0;<&#xa0;0.05) and a statistically significant increase in incidence of SAP after 2&#xa0;weeks of intervention only in the control group (p&#xa0;<&#xa0;0.05). The results also showed a significant negative correlation between GUSS score and SAP (r&#xa0;=&#xa0;- 0.3662, p&#xa0;=&#xa0;0.0018) IMPLICATIONS FOR PHYSIOTHERAPY PRACTICE: adding physical therapy (exercise therapy and neuromuscular electrical stimulation) to oral care and nasogastric tube feeding is effective in improving oropharyngeal dysphagia and decreasing the incidence of aspiration pneumonia in acute ischemic stroke patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1152/japplphysiol.00636.2023
+- DOI: 10.1002/pri.2108
 
 2. Keywords
-- aerobic exercise
-- cognitive function
-- coronary artery disease
-- secondary prevention
-- training periodization
+- acute stroke
+- dysphagia
+- physical therapy
+- pneumonia
 
 3. Key Findings
-- Associations were found between &#x394;V&#x307;oand &#x394;BDNF (= 0
-- In the LP group, associations were found between &#x394;V&#x307;oand &#x394;BDNF (= 0
+- The results also showed a significant negative correlation between GUSS score and SAP (r&#xa0;=&#xa0;- 0
 
 This study provides insights into:
-- aerobic exercise assessment methods and outcomes
-- cognitive function assessment methods and outcomes
-- coronary artery disease assessment methods and outcomes
+- acute stroke assessment methods and outcomes
+- dysphagia assessment methods and outcomes
+- physical therapy assessment methods and outcomes

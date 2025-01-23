@@ -1,27 +1,27 @@
-Study Title: Effect of a Single Light-intensity Walking Session on Sleep Quality of Patients with Bladder Cancer: A Randomized Cross-Over Study.
+Study Title: Managing Circadian Disruption due to Hospitalization: A Pilot Randomized Controlled Trial of the CircadianCare Inpatient Management System.
 
 Study Summary:
-Exercise has been recommended to enhance sleep. However, there is a paucity of studies investigating the relationships between exercise and sleep problems in patients with bladder cancer. The authors explored the effects of a single bout of light-intensity walking on the sleep quality of patients with bladder cancer who have sleep disorders. A total of 14 patients with bladder cancer with sleep disorders were recruited for this trial. The participants were randomly assigned to the walking or control condition in a cross-over design to explore the effects of a single light-intensity walking session on objectively measured sleep quality. A two-way repeated measures analysis of variance and a nonparametric permutation test were used to examine intervention effects. Twelve participants (85.7%) completed the trial. A significant group&#x202f;&#xd7;&#x202f;time interaction for sleep latency (P&#x202f;=&#x202f;.023) was identified. The pairwise comparison showed significant results (P&#x202f;=&#x202f;.012) for the difference between the post-test sleep latency and the pre-test. No significant group&#x202f;&#xd7;&#x202f;time interactions were observed for the remaining seven sleep parameters. Additionally, only the main effects of time on length of awakening and time in bed were significant (P < .001). A single bout of light-intensity walking has a positive effect on shortening the sleep latency of patients with bladder cancer who have sleep disorders. Oncology nurses can encourage patients with bladder cancer to exercise, even light-intensity walking, which may improve sleep quality.
+The objective of the present study was to test the effects of an inpatient management system (CircadianCare) aimed at limiting the negative impact of hospitalization on sleep by enhancing circadian rhythmicity. Fifty inpatients were randomized to either CircadianCare (&#x2009;=&#x2009;25; 18 males, 62.4&#x2009;&#xb1;&#x2009;1.9 years) or standard of care (&#x2009;=&#x2009;25; 14 males, 64.5&#x2009;&#xb1;&#x2009;2.3 years). On admission, all underwent a full sleep-wake evaluation; they then completed daily sleep diaries and wore an actigraph for the whole length of hospitalization. On days 1 (T0), 7 (T1), and 14 (T2, if still hospitalized), salivary melatonin for dim light melatonin onset (DLMO) and 24-h skin temperature were recorded. In addition, environmental noise, temperature, and illuminance were monitored. Patients in the CircadianCare arm followed 1 of 3 schedules for light/dark, meal, and physical activity timings, based on their diurnal preference/habits. They wore short-wavelength-enriched light-emitting glasses for 45&#x2009;min after awakening and short-wavelength light filter shades from 18:00 h until sleep onset. While the first, primary registered outcome (reduced sleep-onset latency on actigraphy or diary) was not met, based on sleep diaries, there was a trend (0.05&#x2009;<&#x2009;&#x2009;<&#x2009;0.1) toward an advance in bedtime for CircadianCare compared to standard of care patients between T0 and T1. Similarly, DLMO time significantly advanced in the small group of patients for whom it could be computed on both occasions, with untreated ones starting from earlier baseline values. Patients sleeping near the window had significantly higher sleep efficiency, regardless of treatment arm. As noise fluctuation increased, so did the number of night awakenings, regardless of treatment arm. In conclusion, the CircadianCare management system showed positive results in terms of advancing sleep timing and the circadian rhythm of melatonin. Furthermore, our study identified a combination of environmental noise and lighting indices, which could be easily modulated to prevent hospitalization-related insomnia.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.soncn.2023.151571
+- DOI: 10.1177/07487304231213916
 
 2. Keywords
-- Bladder cancer
-- Exercise
-- Light intensity
-- Physical activity
-- Sleep quality
-- Walking
+- chronobiotic
+- chronotherapy
+- hospitalization
+- light
+- misalignment
+- noise
 
 3. Key Findings
-- The pairwise comparison showed significant results (P&#x202f;=&#x202f;
+- In conclusion, the CircadianCare management system showed positive results in terms of advancing sleep timing and the circadian rhythm of melatonin
 
 This study provides insights into:
-- Bladder cancer assessment methods and outcomes
-- Exercise assessment methods and outcomes
-- Light intensity assessment methods and outcomes
+- chronobiotic assessment methods and outcomes
+- chronotherapy assessment methods and outcomes
+- hospitalization assessment methods and outcomes

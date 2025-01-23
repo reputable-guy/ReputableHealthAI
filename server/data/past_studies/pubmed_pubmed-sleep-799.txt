@@ -1,27 +1,28 @@
-Study Title: Safety Profile of Pimavanserin Therapy in Elderly Patients with Neurodegenerative Disease-Related Neuropsychiatric Symptoms: A Phase 3B Study.
+Study Title: Melatonin does not reduce delirium severity in hospitalized older adults: Results of a randomized placebo-controlled trial.
 
 Study Summary:
-Pimavanserin, a 5-HT2A receptor inverse agonist/antagonist, is the only medication approved by the FDA for the treatment of hallucinations and delusions associated with Parkinson's disease psychosis (PDP). Further expanding knowledge of the safety profile of pimavanserin in PDP and neurodegenerative diseases (NDD) such as Alzheimer's disease is of great interest for informing its use in patients with PDP (with or without dementia), given this population is highly sensitive to adverse effects following antipsychotic use. This trial evaluated the effects of pimavanserin compared to placebo in frail older adults and elderly patients with neuropsychiatric symptoms related to NDD, such as hallucinations and delusions, to better understand the safety of pimavanserin in this population. This was a phase 3b, 8-week treatment (study duration of up to 16 weeks), multicenter, randomized, double-blind, placebo-controlled, two-arm parallel-group trial (NCT03575052). The primary endpoint was safety and tolerability, measured by treatment-emergent adverse events (TEAEs). Secondary safety endpoints were change from baseline in motor and cognitive function; exploratory endpoints included suicidality, sleep quality, and neuropsychiatric symptoms. Incidences of TEAEs were similar between treatment groups; 29.8% reported &#x2265;1 TEAE (pimavanserin: 30.4%; placebo: 29.3%), and 1.8% reported serious TEAEs (pimavanserin: 2.0%; placebo: 1.5%). Pimavanserin did not impact motor- or cognitive-related function. Pimavanserin was well tolerated and not associated with motor or cognitive impairment. Together, these findings highlight the manageable and generally favorable safety profile of pimavanserin in patients with NDD, contributing to our knowledge on the safety of pimavanserin as it generalizes to patients with PDP.
+Delirium is common in older inpatients, causing distress, cognitive decline, and death. Current therapies are unsatisfactory, limited by lack of efficacy and adverse effects. There is an urgent need for effective delirium treatment. Sleep wake cycle is disturbed in delirium; endogenous Melatonin is perturbed, and exogenous Melatonin is a safe and effective medication for sleep disorders. This study aims to determine the effect of oral Melatonin 5&#x2009;mg immediate release (IR) nightly for five nights on the severity of delirium in older (&#x2265;65&#x2009;years) medical inpatients. This was a double-blinded, randomized controlled trial in general internal medicine units of a tertiary teaching hospital. Older inpatients with Confusion Assessment Method positive, hyperactive or mixed delirium within 48&#x2009;h of admission or onset of in-hospital delirium were included. The primary outcome was change in delirium severity measured with the Memorial Delirium Assessment Scale (MDAS). A previous pilot trial showed 120 participants randomized 1:1 to Melatonin or Placebo would provide 90% power to demonstrate a 3-point reduction in the MDAS. One hundred and twenty participants were randomized, 61 to Melatonin 5&#x2009;mg and 59 to Placebo. The medication was well tolerated. The mean MDAS improvement was 4.9 (SD 7.6) in the Melatonin group and 5.4 (SD 7.2) in the Placebo group, p-value 0.42, a non-significant difference. A post-hoc analysis showed length of stay (LOS) was shorter in the intervention group (median 9&#x2009;days [Interquartile Range (IQR) 4, 12] vs. Placebo group 10 [IQR 6, 16] p-value&#x2009;=&#x2009;0.033, Wilcoxon Rank Sum test). This trial does not support the hypothesis that Melatonin reduces the severity of delirium. This may be due to no effect of Melatonin, a smaller effect than anticipated, an effect not captured on a multidimensional delirium assessment scale, or a type II statistical error. Melatonin may improve LOS; this hypothesis should be studied.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3233/JAD-231167
+- DOI: 10.1111/jgs.18825
 
 2. Keywords
-- Alzheimer&#x2019;s disease
-- elderly patients
-- neurodegenerative diseases
-- neuropsychiatric symptoms
-- pimavanserin
-- safety
+- aged neurocognitive disorders
+- delirium
+- inpatients
+- melatonin
+- sepsis&#x2010;associated encephalopathy
+- sleep wake disorders
 
 3. Key Findings
-- Findings extraction requires manual review
+- A previous pilot trial showed 120 participants randomized 1:1 to Melatonin or Placebo would provide 90% power to demonstrate a 3-point reduction in the MDAS
+- A post-hoc analysis showed length of stay (LOS) was shorter in the intervention group (median 9&#x2009;days [Interquartile Range (IQR) 4, 12] vs
 
 This study provides insights into:
-- Alzheimer&#x2019;s disease assessment methods and outcomes
-- elderly patients assessment methods and outcomes
-- neurodegenerative diseases assessment methods and outcomes
+- aged neurocognitive disorders assessment methods and outcomes
+- delirium assessment methods and outcomes
+- inpatients assessment methods and outcomes

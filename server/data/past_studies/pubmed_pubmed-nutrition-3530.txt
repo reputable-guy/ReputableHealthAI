@@ -1,26 +1,26 @@
-Study Title: Administration of Free Amino Acids Improves Exogenous Amino Acid Availability when Compared with Intact Protein in Critically Ill Patients: A Randomized Controlled Study.
+Study Title: Real-Time Camera Image-Guided Nasoenteric Tube Placement in Prone COVID-19 ICU Patients: A Single-Center Study.
 
 Study Summary:
-Protein digestion and amino acid absorption appear compromised in critical illness. The provision of enteral feeds with free amino acids rather than intact protein may improve postprandial amino acid availability. Our objective was to quantify the uptake of diet-derived phenylalanine after the enteral administration of intact protein compared with an equivalent amount of free amino acids in critically ill patients. Sixteen patients who were mechanically ventilated in intensive care unit (ICU) at risk of malabsorption received a primed continuous infusion of L-[ring-H]-phenylalanine and L-[ring-3,5-H]-tyrosine after an overnight fast. Patients were randomly allocated to receive 20 g intrinsically L-[1-C]-phenylalanine-labeled milk protein or an equivalent amount of amino acids labeled with free L-[1-C]-phenylalanine via a nasogastric tube over a 2-h period. Protein digestion and amino acid absorption kinetics and whole-body protein net balance were assessed throughout a 6-h period. After enteral nutrient infusion, both plasma phenylalanine and leucine concentrations increased (P-time < 0.001), with a more rapid and greater rise after free amino acid compared with intact protein administration (P-time &#xd7; treatment = 0.003). Diet-derived phenylalanine released into the circulation was 25% greater after free amino acids compared with intact protein administration [68.7% (confidence interval {CI}: 62.3, 75.1%) compared with 43.8% (CI: 32.4, 55.2%), respectively; P < 0.001]. Whole-body protein net balance became positive after nutrient administration (P-time < 0.001) and tended to be more positive after free amino acid in provision (P-time &#xd7; treatment = 0.07). The administration of free amino acids as opposed to intact protein further increases postprandial plasma amino acid availability in critically ill patients, allowing more diet-derived phenylalanine to become available to peripheral tissues. This trial was registered at clinicaltrials.gov as NCT04791774.
+This study aims to assess the application value of the real-time camera image-guided nasoenteric tube placement in critically ill COVID-19 patients undergoing endotracheal intubation and prone position ventilation therapy.We enrolled 116 COVID-19 patients receiving endotracheal intubation and prone position ventilation therapy in the intensive care unit (ICU). Patients were randomly divided into the real-time camera image-guided nasoenteric tube placement (n&#x2009;=&#x2009;58) and bedside blind insertion (n&#x2009;=&#x2009;58) groups. The success rate, placement time, complications, cost, heart rate, respiratory rate, Glasgow Coma Scale (GCS), and Acute Physiology and Chronic Health Evaluation II (APACHE-II) scores were compared between the 2 groups.For ICU patients with COVID-19 undergoing prone position ventilation therapy, the success rate and cost were significantly higher in the real-time camera image-guided group compared to the bedside blind group (&#x2009;<&#x2009;.05). The placement time and complication incidence were significantly lower in the real-time camera image-guided group (&#x2009;<&#x2009;.05). The differences in heart rate, respiratory rate, GCS scores, and APACHE-II scores were insignificant (&#x2009;>&#x2009;.05).The real-time camera image-guided nasoenteric tube placement system had advantages for ICU COVID-19 patients undergoing prone position ventilation therapy, including a high success rate, short placement time, and no impact on patient position during tube placement. Real-time camera image-guided nasoenteric tube placement can be performed in any position, and demonstrates high efficiency, safety, and accuracy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.tjnut.2023.12.015
+- DOI: 10.1177/08850666231220909
 
 2. Keywords
-- absorption
-- critical illness
-- digestion
-- protein nutrition
-- stable isotopes
+- ICU COVID-19 patients
+- bedside blind placement
+- enteral nutrition
+- prone position ventilation
+- real-time camera image-guided nasoenteric tube placement
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- absorption assessment methods and outcomes
-- critical illness assessment methods and outcomes
-- digestion assessment methods and outcomes
+- ICU COVID-19 patients assessment methods and outcomes
+- bedside blind placement assessment methods and outcomes
+- enteral nutrition assessment methods and outcomes

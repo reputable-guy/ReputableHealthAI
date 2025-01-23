@@ -1,26 +1,29 @@
-Study Title: Failure of Digital Device Performance in Monitoring Physical Exercise in a Pilot Study in Sedentary Persons with HIV.
+Study Title: The Effect of Iron-Fortified Lentils on Blood and Cognitive Status among Adolescent Girls in Bangladesh.
 
 Study Summary:
-Digital devices have gained popularity in the last 10 years as a tool for exercise prescription, the monitoring of daily physical activity, and nutrition for the management of a health-related parameter. Therefore, the aim of this study was to assess the effectiveness of the use of digital devices to monitor exercise data in sedentary persons with HIV who exercise following an individualized activity pacing (AP) protocol on cardiorespiratory fitness body composition, blood lipid profile, and psychological parameters. Twenty-four PLWH were enrolled in an 18-week randomized, open-label, pilot AP exercise protocol. All participants were monitored by a Health Band connected to a mobile app that transmitted the data to a server. At week 3, they were randomized either in an experimental group (EG), in which an open device configuration enabled them to receive training data feedback (= 12), or continued with no data feedback (control group,= 12). The primary endpoint was improvement from the baseline of 15% of steady-state oxygen consumption (V&#x2d9;O) during a 6-min walking test. Technical issues occurred when pairing the health band with the app, which prevented EG participants from regularly receiving data feedback, and with data transmission to the server, which enabled only 40% monitoring of the total training days. Consequently, the study outcomes could not be compared between the two groups, and participants also lost confidence in the study. However, 19 out of 24 participants completed the AP program. Overall, only 6 (32%) improved steady-state V&#x2d9;O, with no significant changes at W18 from the baseline. Significant reductions were observed of BMI (= 0.040), hip circumference (= 0.027), and total-(= 0.049) and HDL-cholesterol (= 0.045). The failure of digital device performance substantially affected study procedures, monitoring, and participants' engagement, and likely limited the potential benefits of the AP exercise program.
+Iron deficiency is highly prevalent in South Asia, especially among women and children in Bangladesh. Declines in cognitive performance are among the many functional consequences of iron deficiency. We tested the hypothesis that, over the course of a 4-month iron fortification trial, cognitive performance would improve, and that improvement would be related to improvements in iron status. Participants included 359 adolescent girls attending Bangladesh Rural Advancement Committee (BRAC) clubs as a subsample of a larger double-blind, cluster-randomized community trial in which participants were assigned to one of three conditions: a condition in which no lentils were supplied (NL, n = 118, but which had the usual intake of lentils), a control (non-fortified) lentil condition (CL, n = 124), and an iron-fortified lentil condition (FL, n = 117). In the FL and CL conditions, approximately 200 g of cooked lentils were served five days per week for a total of 85 feeding days. In addition to biomarkers of iron status, five cognitive tasks were measured at baseline (BL) and endline (EL): simple reaction time task (SRT), go/no-go task (GNG), attentional network task (ANT), the Sternberg memory search Task (SMS), and a cued recognition task (CRT). Cognitive performance at EL was significantly better for those in the FL relative to the CL and NL conditions, with this being true for at least one variable in each task, except for the GNG. In addition, there were consistent improvements in cognitive performance for those participants whose iron status improved. Although there were overall declines in iron status from BL to EL, the declines were smallest for those in the FL condition, and iron status was significantly better for those in FL condition at EL, relative to those in the CL and NL conditions. the provision of iron-fortified lentils provided a protective effect on iron status in the context of declines in iron status and supported higher levels of cognitive performance for adolescent girls at-risk of developing iron deficiency.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/s23239461
+- DOI: 10.3390/nu15235001
 
 2. Keywords
-- health
-- lifestyle
-- monitoring
-- physical activity
-- smart devices
+- Bangladesh
+- adolescence
+- cognition
+- community nutrition
+- international nutrition
+- iron deficiency
+- iron fortification
+- memory
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- health assessment methods and outcomes
-- lifestyle assessment methods and outcomes
-- monitoring assessment methods and outcomes
+- Bangladesh assessment methods and outcomes
+- adolescence assessment methods and outcomes
+- cognition assessment methods and outcomes

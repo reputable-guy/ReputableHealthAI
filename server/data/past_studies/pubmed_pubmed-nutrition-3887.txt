@@ -1,29 +1,27 @@
-Study Title: Safety and Suitability of an Infant Formula Manufactured from Extensively Hydrolysed Protein in Healthy Term Infants.
+Study Title: Effects of Dietary Supplementation of a Microalgae Extract Containing Fucoxanthin Combined with Guarana on Cognitive Function and Gaming Performance.
 
 Study Summary:
-We aimed to demonstrate that healthy term infants experience noninferior growth with infant formula manufactured from extensively hydrolysed whey protein (eHF) compared to intact cow's milk protein (control formula, CF). This prospective, randomised, double-blind, parallel-group, controlled, multicentre trial included healthy term infants who were exclusively formula-fed. Infants &#x2264; 25 days of age received eHF or CF for at least three months up to 120 days of age, with a follow-up until 180 days of age. A reference group included exclusively breastfed infants (BF). Of 318 infants randomised, 297 (148 CF, 149 eHF) completed the study per protocol. Weight gain up to 120 days of age was noninferior (margin -3.0 g/day) in eHF (28.95 (95% CI: 27.21; 30.68) g/day) compared to CF (28.85 (95% CI: 27.10; 30.61) g/day) with a difference in means of 0.09 g/day and a lower limit of the one-sided 97.5% CI of -0.86 g/day (< 0.0001 for noninferiority testing). Weight gain remained comparable during follow-up. Further anthropometric parameters did not differ between the infant formula groups throughout the study. Growth was comparable in BF. No relevant safety issues were observed. To conclude, eHF meets infant requirements for adequate growth during the first six months of life and can be considered safe and suitable.
+Esports competitive gaming requires selective visual attention, memory, quick judgment, and an ability to sustain psychomotor performance over time. Fucoxanthin is a carotenoid, found in specific microalgae varieties such as(), that has been purported to possess nootropic and neuroprotective effects through its anti-inflammatory and antioxidant properties. This study evaluated whether acute and 30-day supplementation of an extract offrom microalgae combined with guarana (a natural source of caffeine) affects cognitive function in gamers. In a double-blind, placebo-controlled manner, 61 experienced gamers (21.7 &#xb1; 4.1 years, 73 &#xb1; 13 kg) were randomly assigned to ingest a placebo (PL), a low-dose (LD) supplement containing 440 mg ofextract including 1% fucoxanthin +500 mg of guarana containing 40-44 mg caffeine (MicroPhyt&#x2122;, Microphyt, Baillargues, FR), or a high-dose (HD) supplement containing 880 mg ofextract +500 mg of guarana for 30 days. At baseline, cognitive function tests were administered before supplementation, 15 min post-supplementation, and after 60 min of competitive gameplay with participants' most played video game. Participants continued supplementation for 30 days and then repeated pre-supplementation and post-gaming cognitive function tests. General linear model univariate analyses with repeated measures and changes from baseline with 95% confidence intervals were used to analyze data. There was some evidence that acute and 30-day ingestion of theextract from microalgae with guarana improved reaction times, reasoning, learning, executive control, attention shifting (cognitive flexibility), and impulsiveness. While some effects were seen after acute ingestion, the greatest impact appeared after 30 days of supplementation, with some benefits seen in the LD and HD groups. Moreover, there was evidence that both doses of theextract from microalgae with guarana may support mood state after acute and 30-day supplementation. Registered clinical trial #NCT04851899.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15081901
+- DOI: 10.3390/nu15081918
 
 2. Keywords
-- breastfed
-- extensively hydrolysed whey protein
-- infant formula
-- infant growth
-- infant nutrition
-- infant weight
-- neonatal
-- protein hydrolysate
+- ergogenic aid
+- esports
+- fucoxanthin caffeine
+- gaming
+- nootropic
+- sports nutrition
 
 3. Key Findings
-- Findings extraction requires manual review
+- Fucoxanthin is a carotenoid, found in specific microalgae varieties such as(), that has been purported to possess nootropic and neuroprotective effects through its anti-inflammatory and antioxidant properties
 
 This study provides insights into:
-- breastfed assessment methods and outcomes
-- extensively hydrolysed whey protein assessment methods and outcomes
-- infant formula assessment methods and outcomes
+- ergogenic aid assessment methods and outcomes
+- esports assessment methods and outcomes
+- fucoxanthin caffeine assessment methods and outcomes

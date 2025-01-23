@@ -1,25 +1,26 @@
-Study Title: Sweat lactate sensor for detecting anaerobic threshold in heart failure: a prospective clinical trial (LacS-001).
+Study Title: Assessing the efficacy of tocotrienol-rich fraction vitamin E in obese children with non-alcoholic fatty liver disease: a single-blind, randomized clinical trial.
 
 Study Summary:
-A simple method for determining the anaerobic threshold in patients with heart failure (HF) is needed. This prospective clinical trial (LacS-001) aimed to investigate the safety of a sweat lactate-monitoring sensor and the correlation between lactate threshold in sweat (sLT) and ventilatory threshold (VT). To this end, we recruited 50 patients with HF and New York Heart Association functional classification I-II (mean age: 63.5&#xa0;years, interquartile range: 58.0-72.0). Incremental exercise tests were conducted while monitoring sweat lactate levels using our sensor. sLT was defined as the first steep increase in lactate levels from baseline. Primary outcome measures were a correlation coefficient of&#x2009;&#x2265;&#x2009;0.6 between sLT and VT, similarities as assessed by the Bland-Altman analysis, and standard deviation of the difference within 15 W. A correlation coefficient of 0.651 (95% confidence interval, 0.391-0.815) was achieved in 32/50 cases. The difference between sLT and VT was -4.9&#x2009;&#xb1;&#x2009;15.0 W. No comparative error was noted in the Bland-Altman plot. No device-related adverse events were reported among the registered patients. Our sweat lactate sensor is safe and accurate for detecting VT in patients with HF in clinical settings, thereby offering valuable additional information for treatment.
+Childhood obesity is a growing concern, and non-alcoholic fatty liver disease (NAFLD) is a significant consequence. Currently, there are no approved drugs to treat NAFLD in children. However, a recent study explored the potential of vitamin E enriched with tocotrienol (TRF) as a powerful antioxidant for NAFLD. The aims of the present study were to investigate the effectiveness and safety of TRF in managing children with obesity and NAFLD. A total of 29 patients aged 10 to 18 received a daily oral dose of 50&#xa0;mg TRF for six months (January 2020 to February 2022), and all had fatty liver disease were detected by ultrasonography and abnormally high alanine transaminase levels (at least two-fold higher than the upper limits for their respective genders). Various parameters, including biochemical markers, FibroScan, LiverFASt, DNA damage, and cytokine expression, were monitored. APO-A1 and AST levels decreased significantly from 1.39&#x2009;&#xb1;&#x2009;0.3 to 1.22&#x2009;&#xb1;&#x2009;0.2&#xa0;g/L (P&#x2009;=&#x2009;0.002) and from 30&#x2009;&#xb1;&#x2009;12 to 22&#x2009;&#xb1;&#x2009;10&#xa0;g/L (P&#x2009;=&#x2009;0.038), respectively, in the TRF group post-intervention. Hepatic steatosis was significantly reduced in the placebo group from 309.38&#x2009;&#xb1;&#x2009;53.60 db/m to 277.62&#x2009;&#xb1;&#x2009;39.55 db/m (p&#x2009;=&#x2009;0.048), but not in the TRF group. Comet assay analysis showed a significant reduction in the DNA damage parameters in the TRF group in the post-intervention period compared to the baseline, with tail length decreasing from 28.34&#x2009;&#xb1;&#x2009;10.9 to 21.69&#x2009;&#xb1;&#x2009;9.84; (p&#x2009;=&#x2009;0.049) and with tail DNA (%) decreasing from 54.13&#x2009;&#xb1;&#x2009;22.1to 46.23&#x2009;&#xb1;&#x2009;17.9; (p&#x2009;=&#x2009;0.043). Pro-inflammatory cytokine expression levels were significantly lower in the TRF group compared to baseline levels for IL-6 (2.10 6.3 to 0.7 1.0&#xa0;pg/mL; p&#x2009;=&#x2009;0.047&#xa0;pg/mL) and TNF-1 (1.73 5.5&#xa0;pg/mL to 0.7 0.5&#xa0;pg/mL; p&#x2009;=&#x2009;0.045). The study provides evidence that TRF supplementation may offer a risk-free treatment option for children with obesity and NAFLD. The antioxidant and anti-inflammatory properties of TRF offer a promising adjuvant therapy for NAFLD treatment. In combination with lifestyle modifications such as exercise and calorie restriction, TRF could play an essential role in the prevention of NAFLD in the future. However, further studies are needed to explore the long-term effects of TRF supplementation on NAFLD in children. The study has been registered with the International Clinical Trial Registry under reference number (NCT05905185) retrospective registration on (15/06/2023).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-70001-9
+- DOI: 10.1186/s12887-024-04993-8
 
 2. Keywords
-- Anaerobic threshold
-- Heart failure
-- Sweat lactate sensor
-- Ventilatory threshold
+- Anti-inflammatory agent
+- Antioxidants
+- Non-alcoholic fatty liver disease
+- Oxidative stress
+- Tocotrienols
 
 3. Key Findings
-- Findings extraction requires manual review
+- Comet assay analysis showed a significant reduction in the DNA damage parameters in the TRF group in the post-intervention period compared to the baseline, with tail length decreasing from 28
 
 This study provides insights into:
-- Anaerobic threshold assessment methods and outcomes
-- Heart failure assessment methods and outcomes
-- Sweat lactate sensor assessment methods and outcomes
+- Anti-inflammatory agent assessment methods and outcomes
+- Antioxidants assessment methods and outcomes
+- Non-alcoholic fatty liver disease assessment methods and outcomes

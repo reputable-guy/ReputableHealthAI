@@ -1,25 +1,25 @@
-Study Title: Cognition, Depression, Pain, and Exercise Motives as Predictors of Longitudinal Profiles of Physical Activity During a Seven-Year Follow-Up Among Older Adults.
+Study Title: Sportizumab - Multimodal progressive exercise over 10&#xa0;weeks decreases Th17 frequency and CD49d expression on CD8T cells in relapsing-remitting multiple sclerosis: A randomized controlled trial.
 
 Study Summary:
-This study investigated longitudinal physical activity (PA) profiles over 7&#x2009;years in the Finnish Geriatric Intervention Study to Prevent Cognitive Impairment and Disability (FINGER). Cognition, depression, pain, and PA motives were included as determinants of the PA profiles. The 1259 participants, aged 60-77&#x2009;years at baseline, were randomized into either a control group receiving general health advice, or an intervention group offered a comprehensive 2-year multidomain intervention including physical exercise, diet advice, cognitive training, and vascular risk factor management. The participants reported weekly moderate-intensity PA at baseline and 1, 2, 5, and 7&#x2009;years after the baseline. Those providing PA data at two or more time points were included (n&#x2009;=&#x2009;1188). Longitudinal PA profiles were determined using latent class growth analysis, and their associations with baseline determinants via multinomial logistic regression analysis. Interaction terms were added to investigate whether the intervention modified these associations. Six PA profiles were identified: Very high-stable (6%), High-stable (22%), Moderate-declining (47%), Moderate-steeply declining (5%), Low-increasing (9%), and Constantly low (12%). Participants in the intervention group and those motivated by distal and proximal benefits of exercise were likelier to maintain high PA level. Conversely, depressive symptoms and pain were predictors of Constantly low profile. Results show that high baseline PA was generally maintained, while greater variability in PA changes was observed among initially less active participants.
+Multiple Sclerosis (MS) represents a neuroinflammatory autoimmune disease characterized by the predominance of circulating T cell subsets with proinflammatory characteristics and increased central nervous system (CNS)-homing potential. Substantial evidence confirms various beneficial effects of chronic exercise interventions in MS, but it is unknown how long-term multi-modal intense exercise affects MS-associated lymphocytes that are commonly targeted by medication in persons with relapsing remitting MS (pwRRMS). A total of 45 participants with defined RRMS were randomized to either the exercise (n&#xa0;=&#xa0;22) or passive waitlist-control group (n&#xa0;=&#xa0;23). A 10-week intervention consisting of progressive resistance and strength-endurance exercises was applied (3x/week &#xe0; 60&#xa0;min). Blood was drawn before (T) and after (T) the intervention period. Flow cytometry was used for phenotyping lymphocyte subsets. Relative protein expression of CD49d within CD8T cells, quantified via mean fluorescence intensity (MFI), is significantly associated with the Expanded Disability Status Scale (p&#xa0;=&#xa0;0.007, r&#xa0;=&#xa0;0.440), decreased in the exercise group (p&#xa0;=&#xa0;0.001) only, and was significantly lower in the exercise compared to the control group at T(p&#xa0;<&#xa0;0.001). T helper (Th) 17 cell frequency decreased only in the exercise group (p&#xa0;<&#xa0;0.001). CD8CD20T cell frequency was significantly lower in the exercise compared to the control group at T(p&#xa0;=&#xa0;0.003), without showing significant time effects. The 10-week multimodal exercise intervention mainly affected circulating T cells harboring a pathophysiological phenotype in MS. The findings of a decreased frequency of pathogenic Th17 cells and the reduced CNS-homing potential of CD8T cells, indicated by reduced CD49d MFI, substantiate the positive effects of exercise on cellular biomarkers involved in disease activity and progression in MS. To confirm exercise-mediated beneficial effects on both disease domains, clinical endpoints (i.e., relapse rate, lesion formation, EDSS score) should be assessed together with these cellular and molecular markers in studies with a larger sample size and a duration of six to twelve months or longer.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1111/sms.14777
+- Publication Date: 2025
+- DOI: 10.1016/j.bbi.2024.12.017
 
 2. Keywords
-- determinants of physical activity
-- geriatric intervention
-- longitudinal study
-- physical activity profiles
+- CD49d
+- Exercise
+- Immunology
+- Multiple sclerosis
 
 3. Key Findings
-- Findings extraction requires manual review
+- The findings of a decreased frequency of pathogenic Th17 cells and the reduced CNS-homing potential of CD8T cells, indicated by reduced CD49d MFI, substantiate the positive effects of exercise on cellular biomarkers involved in disease activity and progression in MS
 
 This study provides insights into:
-- determinants of physical activity assessment methods and outcomes
-- geriatric intervention assessment methods and outcomes
-- longitudinal study assessment methods and outcomes
+- CD49d assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- Immunology assessment methods and outcomes

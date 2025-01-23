@@ -1,31 +1,26 @@
-Study Title: Evaluating the effectiveness of a multi-component lifestyle therapy program versus psychological therapy for managing mood disorders (HARMON-E): protocol of a randomised non-inferiority trial.
+Study Title: Prevention of allergies and infections by minimally processed milk in infants-The MARTHA feasibility and safety trial.
 
 Study Summary:
-Mood disorders, including unipolar and bipolar depression, contribute significantly to the global burden of disease. Psychological therapy is considered a gold standard non-pharmacological treatment for managing these conditions; however, a growing body of evidence also supports the use of lifestyle therapies for these conditions. Despite some clinical guidelines endorsing the application of lifestyle therapies as a first-line treatment for individuals with mood disorders, there is limited evidence that this recommendation has been widely adopted into routine practice. A key obstacle is the insufficient evidence on whether lifestyle therapies match the clinical and cost effectiveness of psychological therapy, particularly for treating those with moderate to severe symptoms. The HARMON-E Trial seeks to address this gap by conducting a non-inferiority trial evaluating whether a multi-component lifestyle therapy program is non-inferior to psychological therapy on clinical and cost-effectiveness outcomes over 8-weeks for adults with major depressive disorder and bipolar affective disorder. This trial uses an individually randomised group treatment design with computer generated block randomisation (1:1). Three hundred and seventy-eight adults with clinical depression or bipolar affective disorder, a recent major depressive episode, and moderate-to-severe depressive symptoms are randomised to receive either lifestyle therapy or psychological therapy (adjunctive to any existing treatments, including pharmacotherapies). Both therapy programs are delivered remotely, via a secure online video conferencing platform. The programs comprise an individual session and six subsequent group-based sessions over 8-weeks. All program aspects (e.g. session duration, time of day, and communications between participants and facilitators) are matched except for the content and program facilitators. Lifestyle therapy is provided by a dietitian and exercise physiologist focusing on four pillars of lifestyle (diet, physical activity, sleep, and substance use), and the psychological therapy program is provided by two psychologists using a cognitive behavioural therapy approach. Data collection occurs at baseline, 8-weeks, 16-weeks, and 6 months with research assistants blinded to allocation. The primary outcome is depressive symptoms at 8 weeks, measured using the Montgomery-&#xc5;sberg Depression Rating Scale (MADRS) (minimal clinically important difference&#x2009;=&#x2009;1.6). A pre-specified within-trial economic evaluation will also be conducted. Should lifestyle therapy be found to be as clinically and cost effective as psychological therapy for managing mood disorders, this approach has potential to be considered as an adjunctive treatment for those with moderate to severe depressive symptoms. Australia and New Zealand Clinical Trials Register (ANZCTR): ACTRN12622001026718, registered 22nd July 2022. &#xa0;4.14, 26/06/2024.
+Consumption of raw cow's milk has repeatedly been shown to protect from asthma, allergies, and respiratory infections. As raw milk bears potential health hazards, it cannot be recommended for prevention. Therefore, we performed an intervention study with microbially safe but otherwise minimally processed cow's milk. Here we describe feasibility and safety of the trial. The MARTHA trial (DRKS00014781) was set up as a double-blind randomized intervention in a population residing in Bavaria. Infants from 6 to 36&#x2009;months of age consumed minimally processed cow's milk (intervention arm) or ultra-heat-treated (UHT) semi-skimmed milk (comparator arm). At the age of 6 to 12&#x2009;months, 260 infants were enrolled, with 72% having a family history of atopy. The extensive screening system for milk consumption and symptoms suggestive of adverse events was well accepted with 22,988 completed weekly surveys and an average completion of 82% surveys sent out. The children consumed the study milk on average on 457&#x2009;days (61% of intervention days). The intervention proved to be safe without any case of milk allergy or milk intolerance under the intervention in both arms. All 6 cases of serious adverse events were unrelated to milk. The most common reason was unscheduled hospitalization of more than 3&#x2009;days. The intervention with minimally processed milk and the study instruments proved feasible. During the age of 6 to 36&#x2009;months, there was no increased risk of milk allergy in a population with a substantial proportion of family history of atopy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12888-024-06098-z
+- DOI: 10.1111/pai.14251
 
 2. Keywords
-- Bipolar affective disorder
-- Depression
-- Diet
-- Exercise
-- Mental Health
-- Nutrition
-- Physical activity
-- Psychotherapy
-- Sleep
-- Substance use
+- asthma
+- asthma: infectious diseases
+- food allergy
+- food allergy: cow's milk
+- nutrition
 
 3. Key Findings
-- Should lifestyle therapy be found to be as clinically and cost effective as psychological therapy for managing mood disorders, this approach has potential to be considered as an adjunctive treatment for those with moderate to severe depressive symptoms
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Bipolar affective disorder assessment methods and outcomes
-- Depression assessment methods and outcomes
-- Diet assessment methods and outcomes
+- asthma assessment methods and outcomes
+- asthma: infectious diseases assessment methods and outcomes
+- food allergy assessment methods and outcomes

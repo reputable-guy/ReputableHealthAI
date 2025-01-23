@@ -1,24 +1,20 @@
-Study Title: Therapeutic sleep deprivation for major depressive disorder: A randomized controlled trial.
+Study Title: Impact of heartfulness meditation practice compared to the gratitude practices on wellbeing and work engagement among healthcare professionals: Randomized trial.
 
 Study Summary:
-Major depressive disorder (MDD) is treated primarily using antidepressant drugs, but clinical effects may be delayed for weeks to months. This study investigated the efficacy of brief therapeutic sleep deprivation (TSD) for inducing rapid improvements in MDD symptoms. From November 2020 to February 2023, 54 inpatients with MDD were randomly allocated to TSD and Control groups. The TSD group (23 cases) remained awake for 36&#xa0;h, while the Control group (31 cases) maintained regular sleep patterns. All participants continued regular drug therapy. Mood was assessed using the 24-item Hamilton Depression Scale (HAMD-24) at baseline and post-intervention in both groups. In the TSD group, the Visual Analogue Scale (VAS) was utilized to evaluate subjective mood during and after the intervention. Cognitive function was assessed at baseline and post-intervention using the Montreal Cognitive Assessment (MoCA). Objective sleep parameters were recorded in the TSD group by polysomnography. The follow-up period spanned one week. HAMD-24 scores did not differ between groups at baseline or post-intervention. However, the clinical response rate was 34.8&#xa0;% higher in the TSD group on day 3 post-intervention compared to the Control group (3.2&#xa0;%), but not sustained by day 7. Moreover, responders demonstrated a faster improvement in the VAS score during TSD than non-responders (p&#xa0;=&#xa0;0.047). There were no significant differences in MoCA scores or objective sleep parameters between the groups. Small sample size and notable attrition rate. Therapeutic sleep deprivation can rapidly improve MDD symptoms without influencing sleep parameters or cognitive functions. Assessment of longer-term effects and identification of factors predictive of TSD response are warranted.
+To investigate whether Heartfulness meditation practice, compared to Gratitude practice, leads to measurable changes in mental wellbeing among healthcare providers across the US. Participants were randomly assigned to one of the following 6-week interventions: the trainer-guided virtual Heartfulness meditation program or the podcast-based self-guided gratitude practice group. The Professional Quality of Life Scale-5 (ProQOL-5) was used to determine Compassion Satisfaction (CS) and risk for Burnout (BO) and secondary traumatic stress (STS). The Utrecht Work Engagement Scale (UWES) was used to assess vigor, dedication, and absorption at work. Outcomes were collected at baseline and the end of the study period. Qualitative questions regarding the experience of learning and practicing were also offered at the end of the six weeks. The majority of participants were nurses (50%), followed by allied healthcare professionals (37%) and physicians (13%) (N = 83). There was a general trend towards increases in CS in the Heartfulness group compared to the gratitude group. However, this was not statistically significant. Strong evidence suggests there was a significant improvement in BO for the Heartfulness group between Week 0 and Week 6 (p = 0.002), as well as STS (p = 0.0004) and vigor (p = 0.0392). Qualitative data analysis revealed that the subjects in the Heartfulness arm reported improved sleep and decreased reactivity to stress. Subjects in the gratitude arm reported improved mood and favorable results using gratitude practices at home with family members. In our study, Heartfulness meditation practice was associated with a significant improvement in burnout and vigor at work, with a trend towards compassion satisfaction after six weeks compared with gratitude practices. Qualitative analysis indicates the benefits of both Heartfulness and Gratitude practices. Further randomized trials with a larger sample size are needed to explore these science-based practices for the wellbeing of healthcare workers.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jad.2024.06.005
+- DOI: 10.1371/journal.pone.0304093
 
 2. Keywords
-- Chronotherapy
-- Major depressive disorder
-- Therapeutic sleep deprivation
+
 
 3. Key Findings
-- Moreover, responders demonstrated a faster improvement in the VAS score during TSD than non-responders (p&#xa0;=&#xa0;0
+- Qualitative data analysis revealed that the subjects in the Heartfulness arm reported improved sleep and decreased reactivity to stress
 
 This study provides insights into:
-- Chronotherapy assessment methods and outcomes
-- Major depressive disorder assessment methods and outcomes
-- Therapeutic sleep deprivation assessment methods and outcomes
+- General research methodology and outcomes

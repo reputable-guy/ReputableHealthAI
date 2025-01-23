@@ -1,24 +1,25 @@
-Study Title: Psychological aspects of the longest, solo, unsupported one-way polar ski expedition in Antarctica by a female adventurer.
+Study Title: Nutritional impairment, psychological health and quality of life among older adults with advanced cancer: A secondary analysis of a randomized clinical trial.
 
 Study Summary:
-Antarctic expeditions present exceptional physiological and mental challenges. Research data are lacking on psychological aspects of such endeavours. The aim of our study is to provide data on changes in mood, well-being, personality traits and personal experiences during an Antarctica crossing. This is a study of a 33-year-old female British Army officer (height 175 cm; weight 75 kg; body mass index 24.49 kg/m; VO49 mL/kg/min) who completed the longest, solo, unsupported, one-way polar ski expedition. The expedition started at Hercules Inlet and finished at Ross Ice Shelf, lasting 70 days and 16 hours covering 1484.53 km, with temperatures estimating from -12&#xb0;C to -50&#xb0;C and wind speeds of up to 60 miles per hour. The adventurer pulled all equipment and nutrition in a pulk (sled), weighing approximately 120 kg. Five psychometric questionnaires were completed pre post and during the expedition, including the International Personality Item Pool - Neuroticism, Extraversion and Openness-60, Brief Assessment of Mood, Positive and Negative Affective Schedule, Profile of Mood States, Wellness questionnaire, as well as an unstructured open questionnaire. Mood generally deteriorated, particularly positive affective mood. Scores for fatigue and muscle soreness increased, with a reduction in sleep times. Personality traits of openness, agreeableness, and conscientiousness remained stable throughout the expedition, with some reduction in extraversion and an increase in neuroticism. Personal accounts give a unique insight into the increasing demands on the mental and physical impact of the expedition. Meticulous preparation and planning may have led to a successful expedition, including physical preparation, prior on-field experience, and psychological preparedness and resiliance. Some of these strategies may be applicable to a range of settings, including future Antarctic expeditions, expeditions in extreme environments, or missions within a military context.
+Nutritional impairment is associated with treatment toxicity and worse overall survival in patients with cancer. We aimed to (1) evaluate the association of nutritional impairment with psychological health and quality of life (QOL) and (2) examine which measures of nutrition had the strongest association with psychological health and QOL among older adults receiving cancer treatment with palliative intent. This secondary analysis was performed on baseline data from a nationwide cluster randomized clinical trial (ClinicalTrials.gov identifier: NCT02107443; PI: Mohile). Adults age &#x2265;70 with advanced cancer and &#x2265;1 geriatric assessment (GA) impairment were enrolled from 2014 to 2017. In line with geriatric oncology standards, we defined nutritional impairment as Mini Nutritional Assessment Short Form (MNA-SF) &#x2264;11, body mass index (BMI) <21&#x2009;kg/m, or >10% involuntary weight loss in the past 6&#x2009;months. We conducted multivariable linear regressions to evaluate the association of nutritional impairment with each measure of psychological health and QOL: Geriatric Depression Scale (GDS-15, range 0-15), Generalized Anxiety Disorder-7 (GAD-7, range 0-21), NCCN Distress Thermometer (NCCN DT, range 0-10), and Functional Assessment of Cancer Therapy-General (FACT-G, range 0-108). Analyses were adjusted for patient demographics, clinical characteristics, and GA. Among 541 patients, the mean age was 77 (range 70-96) and 60% had nutritional impairment. Mean baseline scores: GDS-15 3.1 (SD 2.7), GAD-7 2.9 (SD 4.0), NCCN DT 2.9 (SD 2.7), and FACT-G 80 (SD 15). In the adjusted model, compared to those with no nutritional impairment, older adults with nutritional impairment had greater depression (&#x3b2;&#x2009;=&#x2009;0.79, 95% CI 0.36-1.23) and anxiety severity (&#x3b2;&#x2009;=&#x2009;0.86, 95% CI 0.19-1.53), and worse QOL (&#x3b2;&#x2009;=&#x2009;-6.31, 95% CI -8.62 to -4.00). Of the measures of nutrition, MNA-SF &#x2264;11 demonstrated the strongest associations with depression, anxiety, distress, and QOL. Nutritional impairment is associated with impaired psychological health and worse QOL. Clinicians should use the MNA-SF to screen older adults for nutritional impairment and offer tailored supportive interventions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/military-2023-002647
+- DOI: 10.1002/cam4.7348
 
 2. Keywords
-- MENTAL HEALTH
-- SLEEP MEDICINE
-- SPORTS MEDICINE
+- nutritional impairment
+- older adults
+- psychological health
+- quality of life
 
 3. Key Findings
-- Findings extraction requires manual review
+- Of the measures of nutrition, MNA-SF &#x2264;11 demonstrated the strongest associations with depression, anxiety, distress, and QOL
 
 This study provides insights into:
-- MENTAL HEALTH assessment methods and outcomes
-- SLEEP MEDICINE assessment methods and outcomes
-- SPORTS MEDICINE assessment methods and outcomes
+- nutritional impairment assessment methods and outcomes
+- older adults assessment methods and outcomes
+- psychological health assessment methods and outcomes

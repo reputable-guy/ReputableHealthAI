@@ -1,25 +1,30 @@
-Study Title: Effects of Macronutrient Intake and Number of Meals on Glycemic Outcomes Over 1 Year in Youth with Type 1 Diabetes.
+Study Title: Adaptation of nutritional risk screening tools may better predict response to nutritional treatment: a secondary analysis of the randomized controlled trial Effect of early nutritional therapy on Frailty, Functional Outcomes, and Recovery of malnourished medical inpatients Trial (EFFORT).
 
 Study Summary:
-Insulin bolus doses derive from glucose levels and planned carbohydrate intake, although fat and protein impact glycemic excursions. We examined the impact of macronutrients and number of daily meals/snacks on glycemic outcomes in youth with type 1 diabetes.Youth (&#x2009;=&#x2009;136, ages 8-17) with type 1 diabetes completed 3-day food records, wore 3-day masked continuous glucose monitoring, and had A1c measurements every 3 months for 1 year. Diet data were analyzed using Nutrition Data System for Research. Longitudinal mixed models assessed effects of macronutrient intake and number of meals/snacks on glycemic outcomes.At baseline, youth (48% male) had mean age of 12.8&#x2009;&#xb1;&#x2009;2.5 years and diabetes duration of 5.9&#x2009;&#xb1;&#x2009;3.1 years; 73% used insulin pumps. Baseline A1c was 8.1%&#x2009;&#xb1;&#x2009;1.0%, percent time in range 70-180&#x2009;mg/dL (%TIR) was 49%&#x2009;&#xb1;&#x2009;17%, % time below range <70&#x2009;mg/dL (%TBR) was 6%&#x2009;&#xb1;&#x2009;8%, % time above range >180&#x2009;mg/dL (%TAR) was 44%&#x2009;&#xb1;&#x2009;20%, and glycemic variability as coefficient of variation (CV) was 41%&#x2009;&#xb1;&#x2009;8%; macronutrient intake included 48%&#x2009;&#xb1;&#x2009;5% carbohydrate, 36%&#x2009;&#xb1;&#x2009;5% fat, and 16%&#x2009;&#xb1;&#x2009;2% protein. Most youth (56%) reported 3-4 meals/snacks daily (range 1-9). Over 1 year, greater carbohydrate intake was associated with lower A1c (&#x2009;=&#x2009;0.0003), more %TBR (&#x2009;=&#x2009;0.0006), less %TAR (&#x2009;=&#x2009;0.002), and higher CV (&#x2009;=&#x2009;0.03). Greater fat intake was associated with higher A1c (&#x2009;=&#x2009;0.006), less %TBR (&#x2009;=&#x2009;0.002), and more %TAR (&#x2009;=&#x2009;0.005). Greater protein intake was associated with higher A1c (&#x2009;=&#x2009;0.01). More daily meals/snacks were associated with lower A1c (&#x2009;=&#x2009;0.001), higher %TIR (&#x2009;=&#x2009;0.0006), and less %TAR (&#x2009;=&#x2009;0.0001).Both fat and protein impact glycemic outcomes. Future automated insulin delivery systems should consider all macronutrients for timely insulin provision. The present research study derived from secondary analysis of the study registered under NCT00999375.
+Nutritional screening tools have proven valuable for predicting clinical outcomes but have failed to determine which patients would be most likely to benefit from nourishment interventions. The Nutritional Risk Screening 2002 (NRS) and the Mini Nutritional Assessment (MNA) are 2 of these tools, which are based on both nutritional parameters and parameters reflecting disease severity. We hypothesized that the adaptation of nutritional risk scores, by removing parameters reflecting disease severity, would improve their predictive value regarding response to a nutritional intervention while providing similar prognostic information regarding mortality at short and long terms. We reanalyzed data of 2028 patients included in the Swiss-wide multicenter, randomized controlled trial EFFORT (Effect of early nutritional therapy on Frailty, Functional Outcomes, and Recovery of malnourished medical inpatients Trial) comparing individualized nutritional support with usual care nutrition in medical inpatients. The primary endpoint was 30-d all-cause mortality. Although stratifying patients by high compared with low NRS score showed no difference in response to nutritional support, patients with high adapted NRS showed substantial benefit, whereas patients with low adapted NRS showed no survival benefit [adjusted hazard ratio: 0.55 [95% confidence interval (CI): 0.37, 0.80]] compared with 1.17 (95% CI: 0.70, 1.93), a finding that was significant in an interaction analysis [coefficient: 0.48 (95% CI: 0.25, 0.94), P = 0.031]. A similar effect regarding treatment response was found when stratifying patients on the basis of MNA compared with the adapted MNA. Regarding the prognostic performance, both original scores were slightly superior in predicting mortality than the adapted scores. Adapting the NRS and MNA by including nutritional parameters only improves their ability to predict response to a nutrition intervention, but slightly reduces their overall prognostic performance. Scores dependent on disease severity may best be considered prognostic scores, whereas nutritional risk scores not including parameters reflecting disease severity may indeed improve a more personalized treatment approach for nourishment interventions. The trial was registered at clinicaltrials.gov as NCT02517476.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1089/dia.2023.0464
+- DOI: 10.1016/j.ajcnut.2024.01.013
 
 2. Keywords
-- Family meals
-- Glycemic outcomes
-- Nutrition
-- Type 1 diabetes
+- clinical outcome
+- disease-related malnutrition
+- mortality
+- nutritional risk screening
+- nutritional support
+- personalized nutrition
+- polymorbid medical inpatient
+- treatment response
 
 3. Key Findings
-- Findings extraction requires manual review
+- Although stratifying patients by high compared with low NRS score showed no difference in response to nutritional support, patients with high adapted NRS showed substantial benefit, whereas patients with low adapted NRS showed no survival benefit [adjusted hazard ratio: 0
+- A similar effect regarding treatment response was found when stratifying patients on the basis of MNA compared with the adapted MNA
 
 This study provides insights into:
-- Family meals assessment methods and outcomes
-- Glycemic outcomes assessment methods and outcomes
-- Nutrition assessment methods and outcomes
+- clinical outcome assessment methods and outcomes
+- disease-related malnutrition assessment methods and outcomes
+- mortality assessment methods and outcomes

@@ -1,20 +1,25 @@
-Study Title: Efficacy of Standardized Process Management of Early Postoperative Enteral Nutrition After Laparoscopic Hepatectomy: A Randomized Controlled Trial.
+Study Title: Nomogram Model Based on Iodine Nutrition and Clinical Characteristics of Papillary Thyroid Carcinoma to Predict Lateral Lymph Node Metastasis.
 
 Study Summary:
-We sought to investigate the efficacy of standardized process management of early postoperative enteral nutrition in patients undergoing laparoscopic hepatectomy. From January 2022 to January 2023, a total of 98 patients undergoing laparoscopic hepatectomy in our hospital were enrolled in this prospective study. The participants were allocated into the study group (49 cases, given standardized process management of early postoperative enteral nutrition) and the control group (49 cases, given conventional early postoperative enteral nutrition) based on a random number table. Observation indicators included postoperative recovery, nutritional status, quality of life, and complications. The time of first anal exhaust, eating, off-bed, first defecation, and postoperative hospital stay in the 2 groups was significantly shorter than those in the control group ( P <0.05). After the intervention, the levels of transferrin, prealbumin, and albumin in the study group were evidently higher than those in the control group ( P <0.05). The scores of overall health, body pain, body function, physiological function, vitality, social function, emotional function, and mental health in the study group were significantly higher than those in the control group after intervention ( P <0.05). The standardized process management of early postoperative enteral nutrition showed promising results in effectively improving the nutritional status, rehabilitation, and quality of life, as well as reducing the incidence of related complications among patients undergoing laparoscopic hepatectomy, which supports a wide application in clinical practice.
+Preoperative evaluation of lateral lymph node metastasis (LLNM) in patients with papillary thyroid carcinoma (PTC) has been one of the major clinical challenges. This study aims to develop and validate iodine nutrition-related nomogram models to predict lateral cervical lymph node metastasis in patients with PTC. This is a retrospective study. Urinary iodine concentration (UIC) and serum iodine concentration (SIC) were measured in 187 LLNM patients and 289 non-LLNM (NLLNM) patients. All patients were randomized 3:1 into the training cohort (n = 355) and the validation cohort (n = 121). Using logistic regression analysis, we analyzed the influence of iodine nutrition-related factors and clinicopathological characteristics on LLNM in PTC patients. Lasso regression method was used to screen risk factors and construct a nomogram for predicting LLNM. The receiver operating characteristic curve (ROC curve), calibration curve, and decision curve analysis (DCA) of the nomogram models were carried out for the training and validation cohorts. Gender, SIC, smoking history, drinking history, family history of PTC, multifocality, bilateral or unilateral tumors, TSH, Tg, and tumor size were included in the nomogram model predicting LLNM, with an area under the curve (AUC) of .795. The nomogram model showed good calibration and clinical benefit in both the training and validation cohorts. The nomogram model based on iodine nutrition and other clinicopathological features is effective for predicting the lateral lymph node metastasis in PTC patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1097/SLE.0000000000001217
+- DOI: 10.1177/10732748231193248
 
 2. Keywords
-
+- iodine nutrition
+- lateral lymph node metastasis
+- nomogram model
+- papillary thyroid carcinoma
 
 3. Key Findings
-- The standardized process management of early postoperative enteral nutrition showed promising results in effectively improving the nutritional status, rehabilitation, and quality of life, as well as reducing the incidence of related complications among patients undergoing laparoscopic hepatectomy, which supports a wide application in clinical practice
+- The nomogram model showed good calibration and clinical benefit in both the training and validation cohorts
 
 This study provides insights into:
-- General research methodology and outcomes
+- iodine nutrition assessment methods and outcomes
+- lateral lymph node metastasis assessment methods and outcomes
+- nomogram model assessment methods and outcomes

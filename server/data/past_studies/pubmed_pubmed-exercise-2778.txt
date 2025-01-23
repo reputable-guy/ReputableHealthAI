@@ -1,26 +1,29 @@
-Study Title: Respiratory physiological mechanism of two types of equal-intensity inspiratory muscle training in stable patients with chronic obstructive pulmonary disease.
+Study Title: Sex-Related Glycemic and Cardiovascular Responses After Continuous and Interval Aerobic Sessions in Patients With Type 1 Diabetes: A Randomized Crossover Study.
 
 Study Summary:
-This study aimed to investigate the respiratory physiological changes resulting from short-term inspiratory resistance training (R-IMT) and inspiratory threshold training (T-IMT) in patients with chronic obstructive pulmonary disease (COPD) and to compare the mechanisms of the two training methods. A total of 75 stable patients with COPD combined with inspiratory muscle weakness were randomly allocated to three groups: R-IMT (n&#xa0;=&#xa0;26), T-IMT (n&#xa0;=&#xa0;24), and control (n&#xa0;=&#xa0;25). Before and after 8 weeks of inspiratory muscle training(IMT), cardiopulmonary exercise tests were conducted to assess respiratory patterns, respiratory central drive, exercise tolerance, and ventilation efficiency. After 8 weeks of IMT, Inspiratory muscle strength, represented by MIP (maximum inspiratory mouth pressure) and exercise capacity increased during exercise in both IMT groups (P&#xa0;<&#xa0;0.05). In the R-IMT group, inspiratory time (Ti) prolonged (P&#xa0;<&#xa0;0.05), tidal volume (Vt) increased (P&#xa0;<&#xa0;0.05), ventilation efficiency (represented by ventilation-center coupling) increased (P&#xa0;<&#xa0;0.05) during exercise. Conversely, the T-IMT group did not exhibit any of these changes after IMT (P&#xa0;>&#xa0;0.05). In summary, the improvement in exercise tolerance was associated with an increase in inspiratory muscle reserve in both R-IMT and T-IMT. However, only R-IMT was associated with deeper and slower breathing, as well as improved ventilation efficiency.
+We aimed to investigate sex-related glycemic and cardiovascular responses after intensity- (moderate) and duration- (30 minutes) matched interval aerobic exercise (IAE) and continuous (CAE) aerobic exercise sessions in patients with type 1 diabetes mellitus (T1DM). A total of 19 volunteers (10 women) participated in 2 randomized and crossover sessions (1:1). Heart rate, systolic and diastolic blood pressure, double product, and blood glucose (BG) levels were measured before (PRE), immediately after (POST-0), and 20 minutes after (POST-20) each session. The rates of perceived exertion (RPE) and enjoyment levels (ELs) were assessed after each session. Generalized estimating equations were used to analyze the data (condition &#xd7; time &#xd7; sex). Regarding sex-related changes, men showed BG reductions at POST-0 and POST-20 after CAE (&#x2206;: -3.7 and -3.7 mmol/L, respectively) and only at POST-0 after IAE (&#x2206;: -1.6 mmol/L), with 1 episode of hypoglycemia occurring in the latter group. In contrast, women showed reduced BG values only after CAE at both time points (&#x2206;: -1.4 and -1.7 mmol/L) compared with PRE values. The decrease in BG levels at both time points was higher for men after CAE than IAE. Cardiovascular responses, RPEs, and ELs were similar between exercise sessions, except for blood pressure, which showed higher values in men. In conclusion, lower BG levels were observed after CAE, with greater reductions in men. Similar cardiovascular, RPE, and EL responses were found across sexes and sessions. Consideration of sex-specific recommendations may be warranted when prescribing aerobic exercise, particularly, for men with irregular physical activity levels.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.rmed.2024.107747
+- DOI: 10.1016/j.amjcard.2024.07.028
 
 2. Keywords
-- COPD
-- Inspiratory resistive training
-- Respiratory central drive
-- Threshold load training
-- Ventilation efficiency
+- diabetes mellitus
+- enjoyment
+- exercise
+- glucose
+- hypotension
 
 3. Key Findings
-- Findings extraction requires manual review
+- Regarding sex-related changes, men showed BG reductions at POST-0 and POST-20 after CAE (&#x2206;: -3
+- In contrast, women showed reduced BG values only after CAE at both time points (&#x2206;: -1
+- Cardiovascular responses, RPEs, and ELs were similar between exercise sessions, except for blood pressure, which showed higher values in men
+- Similar cardiovascular, RPE, and EL responses were found across sexes and sessions
 
 This study provides insights into:
-- COPD assessment methods and outcomes
-- Inspiratory resistive training assessment methods and outcomes
-- Respiratory central drive assessment methods and outcomes
+- diabetes mellitus assessment methods and outcomes
+- enjoyment assessment methods and outcomes
+- exercise assessment methods and outcomes

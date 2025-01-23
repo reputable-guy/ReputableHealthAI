@@ -1,28 +1,26 @@
-Study Title: Daridorexant for patients with chronic insomnia disorder: number needed to treat, number needed to harm, and likelihood to be helped or harmed.
+Study Title: Effectiveness of a 12-week telerehabilitation training in people with long COVID: A randomized controlled trial.
 
 Study Summary:
-Appraise the evidence for daridorexant 50&#x2009;mg and 25&#x2009;mg versus placebo when treating chronic insomnia disorder in terms of number needed to treat (NNT), number needed to harm (NNH), and likelihood to be helped or harmed (LHH). NNT, NNH, and LHH were calculated from a 3-month pivotal Phase 3 study (&#x2009;=&#x2009;930; randomized 1:1:1 to daridorexant 50&#x2009;mg, daridorexant 25&#x2009;mg, or placebo once nightly). Wakefulness after sleep onset, latency to persistent sleep, self-reported total sleep time, Insomnia Daytime Symptoms and Impacts Questionnaire (IDSIQ), and Insomnia Severity Index were used for the NNT efficacy analysis. NNH safety analysis was performed using rates of adverse events (AEs) occurring in&#x2009;>1% of the participants in any arm. LHH was assessed for all NNT estimates, contrasting them with NNH estimates for somnolence, headache, and fatigue AEs. NNT estimates for daridorexant 50&#x2009;mg versus placebo were&#x2009;<10 for clinically meaningful thresholds across all outcomes. NNT estimates for daridorexant 25&#x2009;mg versus placebo were not as robust as those observed for daridorexant 50&#x2009;mg, with many values exceeding 10. NNH estimates for daridorexant 50&#x2009;mg and 25&#x2009;mg versus placebo did not show a statistically significant treatment difference except for falls, where NNH was negative for the daridorexant 50&#x2009;mg group (-44 [95% CI -328; -21]; rate of falls was greater with placebo than for daridorexant 50&#x2009;mg). All LHH ratios at Months 1 and 3 were&#x2009;>1 (except for daridorexant 25&#x2009;mg for the IDSIQ alert/cognition domain), indicating that patients were more likely to respond to daridorexant 50&#x2009;mg and 25&#x2009;mg than to experience an AE of somnolence, headache, or fatigue. Daridorexant 50&#x2009;mg and 25&#x2009;mg have a favorable benefit-risk ratio over 3&#x2009;months. Daridorexant 50&#x2009;mg demonstrated more robust (lower) NNT estimates versus placebo than daridorexant 25&#x2009;mg.
+Telerehabilitation has been developed and applied for years for cardiac and pulmonary diseases with good clinical outcomes. However, its application to participants with long COVID remains limited. To investigate the effectiveness of a 12-week telerehabilitation training program in participants with long COVID. The primary outcome was cardiorespiratory fitness (CRF), and secondary outcomes were physical activity (PA) amounts, exercise self-efficacy, sleep quality, and health-related quality of life (HRQOL). A parallel-group, randomized controlled trial was conducted. Eligible participants with long COVID (n = 182) were randomly assigned in a 1:1 ratio to either the experimental group (EG) or the control group (CG). The EG received 12 weeks of telerehabilitation training with weekly remote monitoring for exercise maintenance and support. The CG received PA counseling only. CRF, PA amounts, exercise self-efficacy, sleep quality, and HRQOL were assessed at baseline and 12 weeks. Generalized estimating equations were used to analyze the intervention effects by examining the interaction between time and group. One hundred twenty-two participants (67 %) completed the study, and 182 were included in the intention-to-treat analysis. The EG had greater walking behavior (&#x3b2; = -763.3, p < 0.001), total amount of PA (&#x3b2;= -711, p = 0.003), exercise self-efficacy (&#x3b2; = -1.19, p < 0.001), and better sleep quality (&#x3b2; = 1.69, p = 0.012) after the 12-weeks of telerehabilitation training than the CG. However, there were no significant differences in any CRF parameters or HRQOL at 12 weeks between the EG and CG. Telerehabilitation training offers a personalized and convenient approach that can increase exercise willingness and PA amounts and improve sleep quality. These findings underscore the potential benefits of telerehabilitation training for promoting healthier lifestyles and improving overall health outcomes. The study was registered at ClinicalTrials.gov (NCT05205460) on January 25, 2022.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/00325481.2024.2359891
+- DOI: 10.1016/j.rehab.2024.101853
 
 2. Keywords
-- Number needed to treat
-- chronic insomnia disorder
-- daridorexant
-- efficacy
-- likelihood to be helped or harmed
-- number needed to harm
-- safety
+- Cardiorespiratory fitness
+- Long COVID
+- Quality of life
+- Sleep quality
+- Telerehabilitation
 
 3. Key Findings
-- Daridorexant 50&#x2009;mg demonstrated more robust (lower) NNT estimates versus placebo than daridorexant 25&#x2009;mg
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Number needed to treat assessment methods and outcomes
-- chronic insomnia disorder assessment methods and outcomes
-- daridorexant assessment methods and outcomes
+- Cardiorespiratory fitness assessment methods and outcomes
+- Long COVID assessment methods and outcomes
+- Quality of life assessment methods and outcomes

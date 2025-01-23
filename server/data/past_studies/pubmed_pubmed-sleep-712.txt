@@ -1,24 +1,26 @@
-Study Title: Leukocyte-Poor Platelet-Rich Plasma as an Adjuvant to Arthroscopic Rotator Cuff Repair Reduces the Retear Rate But Does Not Improve Functional Outcomes: A Double-Blind Randomized Controlled Trial.
+Study Title: Analysis of mandibular jaw movements to assess ventilatory support management of children with obstructive sleep apnea syndrome treated with positive airway pressure therapies.
 
 Study Summary:
-Whether the use of PRP as an adjuvant of rotator cuff repairs leads to improved tendon healing and better functional outcomes remains unclear in clinical evidence. The main purpose of this study was to assess whether the use of leukocyte-poor platelet-rich plasma (LP-PRP) as an adjuvant to arthroscopic rotator cuff repair (ARCR) decreases the rate of retears compared with a control group. The secondary objective was to analyze whether LP-PRP improves patient-reported outcomes. Randomized controlled trial; Level of evidence, 1. This was a double-blind randomized controlled trial at a single center. A consecutive series of 96 patients with rotator cuff tears <3 cm were enrolled and randomly allocated to the control group (double-row suture-bridge ARCR alone [n = 48]) and the PRP group (double-row suture-bridge repair, followed by 1 LP-PRP injection during surgery [n = 48]). The visual analog scale (VAS) for pain, the American Shoulder and Elbow Surgeons (ASES) score, the Single Assessment Numeric Evaluation (SANE), and the Pittsburgh Sleep Quality Index (PSQI) were administered preoperatively and at 6- and 12-month follow-up. Magnetic resonance imaging (MRI) was performed to evaluate tendon integrity at 6-month follow-up. Both patients and assessors were blinded to the intervention received during surgery. The mean patient age was 56.1 &#xb1; 2.98 years. Of the 96 patients, 90 had MRI performed at 6 months after surgery (94% radiological follow-up). The retear rate in the PRP group was 15.2% (7/46 [95% CI, 6%-28%]), which was lower than that in the control group of 34.1% (15/44 [95% CI, 20%-49%]) (= .037). Therefore, the risk ratio of ruptures in patients exposed to LP-PRP was 0.44 (95% CI, 0.2-0.9;= .037). Overall, the ASES, VAS, SANE, and PSQI scores showed a statistical improvement after surgery (< .001). There were no significant differences in functional scores between the groups. Most of the patients exceeded the minimal clinically important difference for the ASES, SANE, and VAS without significant differences between the groups. In patients with rotator cuff tears <3 cm undergoing double-row suture-bridge repair, a 5-mL dose of LP-PRP injected at the tendon-bone interface significantly reduced the retear rate. However, the use of LP-PRP in terms of postoperative pain and patient-reported outcomes failed to show clinically meaningful effects. NCT04703998 (ClinicalTrials.gov identifier).
+The polysomnography (PSG) is the gold-standard for obstructive sleep apnea (OSA) syndrome diagnosis and assessment under positive airway pressure (PAP) therapies in children. Recently, an innovative digital medicine solution, including a mandibular jaw movement (MJM) sensor coupled with&#xa0;automated analysis, has been validated as an alternative to PSG for pediatric application. This study aimed to assess the reliability of MJM&#xa0;automated analysis for the assessment of residual apnea/hypopnea events during sleep in children with OSA treated with noninvasive ventilation (NIV) or continuous PAP&#xa0;(CPAP). In this open-label prospective non-randomized multicentric trial, we included children aged from 5 to 18 years with a diagnosis of severe OSA. The children underwent in-laboratory PSG with simultaneous MJM monitoring and at-home recording with MJM monitoring 3 months later. Agreement between PSG and MJM analysis in measuring the residual apnea-hypopnea index (AHI) was evaluated by the Bland-Altman method. The treatment effect on residual AHI was estimated for both PSG and MJM analysis. Fifteen (60% males) children were included with a median age of 12 years [interquartile range 8-15]. Two (17%) were ventilated with NIV and 13 (83%) with CPAP. There was a good agreement between MJM-AHI and PSG-AHI with a median bias of -0.25 (95% CI: -3.40 to +2.04) events/h. The reduction in AHI under treatment was consistently significant across the three measurement methods: in-laboratory PSG&#xa0;and MJM recordings in the laboratory and at home. Automated analysis of MJM is a highly reliable alternative method to assess residual events in a small population treated with PAP therapies.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/03635465241239062
+- DOI: 10.1002/ppul.27005
 
 2. Keywords
-- platelet-rich plasma
-- retear
-- rotator cuff tear
+- continuous positive airway pressure
+- machine learning
+- mandibular jaw movement
+- noninvasive ventilation
+- pediatric obstructive sleep apnea
 
 3. Key Findings
-- Overall, the ASES, VAS, SANE, and PSQI scores showed a statistical improvement after surgery (<
+- Findings extraction requires manual review
 
 This study provides insights into:
-- platelet-rich plasma assessment methods and outcomes
-- retear assessment methods and outcomes
-- rotator cuff tear assessment methods and outcomes
+- continuous positive airway pressure assessment methods and outcomes
+- machine learning assessment methods and outcomes
+- mandibular jaw movement assessment methods and outcomes

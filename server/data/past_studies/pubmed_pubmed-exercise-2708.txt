@@ -1,25 +1,27 @@
-Study Title: The independent and combined effects of aerobic exercise intensity and dose differentially increase post-exercise cerebral shear stress and blood flow.
+Study Title: The effects of combining visual-auditory stimuli with exercise on short-term affect improvement: a randomized controlled trial.
 
 Study Summary:
-This research examined the impact of aerobic exercise intensity and dose on acute post-exercise cerebral shear stress and blood flow. Fourteen young adults (27&#xa0;&#xb1;&#xa0;5&#xa0;years of age, eight females) completed a maximal oxygen uptake () treadmill test followed by three randomized study visits: treadmill exercise at 30% offor 30&#xa0;min, 70% offor 30&#xa0;min and 70% offor a duration that resulted in caloric expenditure equal to that in the 30%visit (EqEE). A venous blood draw and internal carotid artery (ICA) ultrasound were collected before and immediately following exercise. ICA diameter and blood velocity were determined using automated edge detection software, and blood flow was calculated. Using measures of blood viscosity, shear stress was calculated. Aerobic exercise increased ICA shear stress (time: P&#xa0;=&#xa0;0.005, condition: P&#xa0;=&#xa0;0.012) and the increase was greater following exercise at 70%(&#x2206;4.1&#xa0;&#xb1;&#xa0;3.5&#xa0;dyn/cm) compared with 30%(&#x2206;1.1&#xa0;&#xb1;&#xa0;1.9&#xa0;dyn/cm; P&#xa0;=&#xa0;0.041). ICA blood flow remained elevated following exercise (time: P&#xa0;=&#xa0;0.002, condition: P&#xa0;=&#xa0;0.010) with greater increases after 70%(&#x394;268&#xa0;&#xb1;&#xa0;150&#xa0;mL/min) compared with 30%(&#x2206;125&#xa0;&#xb1;&#xa0;149&#xa0;mL/min; P&#xa0;=&#xa0;0.041) or 70%EqEE (&#x2206;127&#xa0;&#xb1;&#xa0;177&#xa0;mL/min; P&#xa0;=&#xa0;0.004). Therefore, aerobic exercise resulted in both intensity- and dose-dependent effects on acute post-exercise ICA blood flow whereby vigorous intensity exercise provoked a larger increase in ICA blood flow compared to light intensity exercise when performed at a higher dose.
+Prior research has explored the effects of engaging with real or virtual natural landscapes and listening to music during aerobic exercise on short-term affect, however, the specific differences in the improvement of short-term affect by different combinations of Virtual Reality (VR) and music rhythm require further investigation. The objective of this study is to investigate the effects of various combinations of VR and music on short-term mood, thereby providing a reference for future research on public fitness. This study recruited 132 valid participants (mean age 24.0&#x2009;&#xb1;&#x2009;0.9&#xa0;years), with a gender distribution of 68 males and 64 females. Participants were randomly assigned to one of four groups: Visual-Music (V-M), Music-Visual (M-V), Visual-only (V), and Music-only (M). The exercise mode was 15&#xa0;min of aerobic power cycling with 2&#xa0;min of low-intensity power cycling intervals in the middle. After the exercise, the participants were asked to sit and then performed either a VR intervention or a music intervention for 15&#xa0;min. The collected indicators included blood pressure, positive/negative affect, and heart rate variability indicators (RMSSD, SDNN, LF/HF). Data analysis included descriptive statistics, repeated measures ANOVA, and multifactor ANOVA. The effect of different VR and Music combined with exercise interventions on the improvement of short-term affect was analyzed based on the effect size (&#x273;p) and combined with the significance p-value. Intra-group results showed that DBP, positive and negative affect, SDNN, RMSSD indicators in V-M group were significant differences (p&#x2009;<&#x2009;0.05), while SBP, positive affect, negative affect, SDNN, RMSSD, LF/HF indicators in M-V group were significant differences (p&#x2009;<&#x2009;0.05). Only SDNN and RMSSD indicators in M group had significant differences (p&#x2009;<&#x2009;0.05), and only SBP and RMSSD indicators in V group had significant differences (p&#x2009;<&#x2009;0.05). The results between groups showed that only SDNN and LH/HF groups had a significant difference (p&#x2009;<&#x2009;0.05), other indicators had a trend of improvement or positive promotion to a certain extent, but the statistical difference was not significant (p&#x2009;>&#x2009;0.05). Aerobic exercise with consistent intensity and the combined visual-auditory interventions (M-V and V-M) significantly improved blood pressure, and the short-term affect of physiological responses (LF/HF, SDNN, RMSSD), along with subjective affect measures, compared to other groups. These findings suggest that incorporating VR and music with exercise can effectively enhance short-term affect, recommending an integrated approach to aerobic exercise and relaxation through music and visual exposure to natural environments.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1113/EP091856
+- DOI: 10.1038/s41598-024-69578-y
 
 2. Keywords
-- aerobic exercise
-- blood flow
-- internal carotid artery
-- shear stress
+- Aerobic exercise
+- Heart rate variability
+- Music
+- Short-term affect
+- Virtual reality
 
 3. Key Findings
-- Findings extraction requires manual review
+- Intra-group results showed that DBP, positive and negative affect, SDNN, RMSSD indicators in V-M group were significant differences (p&#x2009;<&#x2009;0
+- The results between groups showed that only SDNN and LH/HF groups had a significant difference (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- aerobic exercise assessment methods and outcomes
-- blood flow assessment methods and outcomes
-- internal carotid artery assessment methods and outcomes
+- Aerobic exercise assessment methods and outcomes
+- Heart rate variability assessment methods and outcomes
+- Music assessment methods and outcomes

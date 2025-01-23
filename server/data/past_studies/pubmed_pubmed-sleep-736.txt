@@ -1,27 +1,27 @@
-Study Title: Impact of 24&#xa0;h shifts on urinary catecholamine in emergency physicians: a cross-over randomized trial.
+Study Title: Tirzepatide for the treatment of obstructive sleep apnea: Rationale, design, and sample baseline characteristics of the SURMOUNT -OSA phase 3 trial.
 
 Study Summary:
-24-h shift (24&#xa0;hS) exposed emergency physicians to a higher stress level than 14-h night shift (14&#xa0;hS), with an impact spreading on several days. Catecholamines are supposed to be chronic stress biomarker. However, no study has used catecholamines to assess short-term residual stress or measured them over multiple shifts. A shift-randomized trial was conducted to study urinary catecholamines levels of 17 emergency physicians during a control day (clerical work on return from leave) and two working day (14&#xa0;hS and 24&#xa0;hS). The Wilcoxon matched-pairs test was utilized to compare the mean catecholamine levels. Additionally, a multivariable generalized estimating equations model was employed to further analyze the independent relationships between key factors such as shifts (compared to control day), perceived stress, and age with catecholamine levels. Dopamine levels were lower during 24&#xa0;hS than 14&#xa0;hS and the control day. Norepinephrine levels increased two-fold during both night shifts. Epinephrine levels were higher during the day period of both shifts than on the control day. Despite having a rest day, the dopamine levels did not return to their normal values by the end of the third day after the 24&#xa0;hS. The generalized estimating equations model confirmed relationships of catecholamines with workload and fatigue. To conclude, urinary catecholamine biomarkers are a convenient and non-invasive strong measure of stress during night shifts, both acutely and over time. Dopamine levels are the strongest biomarker with a prolonged alteration of its circadian rhythm. Due to the relation between increased catecholamine levels and both adverse psychological effects and cardiovascular disease, we suggest that emergency physicians restrict their exposure to 24&#xa0;hS to mitigate these risks.
+Weight reduction is a standard recommendation for obstructive sleep apnea (OSA) treatment in people with obesity or overweight; however, weight loss can be challenging to achieve and maintain without bariatric surgery. Currently, no approved anti-obesity medication has demonstrated effectiveness in OSA management. This study is evaluating the efficacy and safety of tirzepatide for treatment of moderate to severe OSA in people with obesity. SURMOUNT-OSA, a randomized, placebo -controlled, 52-week phase 3 trial, is investigating the efficacy and safety of tirzepatide for treatment of moderate to severe OSA (apnea hypopnea- index &#x2265;15 events/h) in participants with obesity (body mass index &#x2265;30&#xa0;kg/m) and an established OSA diagnosis. SURMOUNT-OSA is made of 2 intervention-specific appendices (ISAs): ISA-1 includes participants with no current OSA treatment, and ISA-2 includes participants using positive airway pressure therapy. Overall, 469 participants have been randomized 1:1 to receive tirzepatide or placebo across the master protocol (ISA-1, n&#xa0;=&#xa0;234; ISA-2, n&#xa0;=&#xa0;235). All participants are also receiving lifestyle intervention for weight reduction. The primary endpoint for the individual ISAs is the difference in apnea hypopnea- index response, as measured by polysomnography, between tirzepatide and placebo arms at week 52. Secondary endpoints include sleep apnea-specific hypoxic burden, functional outcomes, and cardiometabolic biomarkers. The trial employs digital wearables, including home sleep testing to capture time to improvement and accelerometry for daily physical activity assessment, to evaluate exploratory outcomes. SURMOUNT-OSA brings a novel design to investigate if tirzepatide provides clinically meaningful improvement in obesity-related OSA by targeting the underlying etiology. ClinicalTrials.gov, NCT05412004.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-58070-2
+- DOI: 10.1016/j.cct.2024.107516
 
 2. Keywords
-- Dopamine
-- Epinephrine
-- Health-care workers
-- Shift work
+- Apnea
+- Daily functioning
+- Lung
+- Obesity
 - Sleep
-- Stress
+- Weight loss
 
 3. Key Findings
-- Findings extraction requires manual review
+- Currently, no approved anti-obesity medication has demonstrated effectiveness in OSA management
 
 This study provides insights into:
-- Dopamine assessment methods and outcomes
-- Epinephrine assessment methods and outcomes
-- Health-care workers assessment methods and outcomes
+- Apnea assessment methods and outcomes
+- Daily functioning assessment methods and outcomes
+- Lung assessment methods and outcomes

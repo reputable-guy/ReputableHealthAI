@@ -1,26 +1,20 @@
-Study Title: Alpha transcranial alternating current stimulation as add-on to neglect training: a randomized trial.
+Study Title: Trajectories of perinatal depression among women living with HIV in Uganda.
 
 Study Summary:
-Visuospatial neglect is a common and debilitating condition following unilateral stroke, significantly impacting cognitive functioning and daily life. There is an urgent need for effective treatments that can provide clinically relevant and sustained benefits. In addition to traditional stroke treatment, non-invasive brain stimulation, such as transcranial alternating current stimulation, shows promise as a complementary approach to enhance stroke recovery. In the current study, we aimed to evaluate the additive effects of multi-session transcranial alternating current stimulation at alpha frequency when combined with visual scanning training in chronic stroke patients with visuospatial neglect. In this double-blind randomized controlled trial, we compared the effects of active transcranial alternating current stimulation at alpha frequency to sham (placebo) transcranial alternating current stimulation, both combined with visual scanning training. Both groups received eighteen 40-minute training sessions over a 6-week period. A total of 22 chronic visuospatial neglect patients participated in the study (active group= 12, sham group= 10). The median age was 61.0 years, with a median time since stroke of 36.1 months. We assessed the patients at six time-points: at baseline, after the first, ninth and eighteenth training sessions, as well as 1 week and 3 months following the completion of the combined neuromodulation intervention. The primary outcome measure was the change in performance on a visual search task, specifically the star cancellation task. Secondary outcomes included performance on a visual detection task, two line bisection tasks and three tasks evaluating visuospatial neglect in daily living. We found significantly improved visual search (primary outcome) and visual detection performance in the neglected side in the active transcranial alternating current stimulation group, compared to the sham transcranial alternating current stimulation group. We did not observe stimulation effects on line bisection performance nor in daily living. Time effects were observed on all but one outcome measures. Multi-session transcranial alternating current stimulation combined with visual scanning training may be a more effective treatment for chronic visuospatial neglect than visual scanning training alone. These findings provide valuable insights into novel strategies for stroke recovery, even long after the injury, with the aim of enhancing cognitive rehabilitation outcomes and improving the overall quality of life for individuals affected by this condition.: ClinicalTrials.gov; registration number: NCT05466487; https://clinicaltrials.gov/ct2/show/NCT05466487.
+Perinatal depression affects one-third of pregnant women living with HIV (WLH). We examined patterns of treatment response to a novel stepped model of depression care among WLH with perinatal depression in Uganda. As part of the Maternal Depression Treatment in HIV (M-DEPTH) cluster randomised controlled trial, 191 women were enrolled across four antenatal care clinics assigned to provide stepped care including behavioural and antidepressant therapy (ADT), and another 200 across four clinics assigned to provide usual care. They were assessed for depression severity using the Patient Health Questionnaire (PHQ-9) at enrolment and multiple times over 12 months of follow-up. We used repeated measures latent class analysis (LCA) to identify discrete trajectories of depression symptoms, while multinomial regression analyses measured correlates of class membership. The LCA identified three trajectories among those in the treatment group: mildly depressed individuals who improved (MiD-I) (n&#x2009;=&#x2009;143, 75%), moderately depressed individuals who improved (MoD-I) (n&#x2009;=&#x2009;33, 17%), and moderately depressed individuals who remained depressed (MoD-R) (n&#x2009;=&#x2009;15, 8%). Membership in MiD-I was associated with lower levels of intimate partner violence at baseline (P&#x2009;=&#x2009;0.04) and month 6 (P&#x2009;<&#x2009;0.001), and less recent trauma exposure (P&#x2009;=&#x2009;0.03) at baseline. At month 6, social support was lowest in MoD-R, while the degree of negative problem-solving orientation was highest (both P&#x2009;<&#x2009;0.001) in this class. The LCA also identified three trajectories among those in the usual care comparison group: mildly depressed (MiD) (n&#x2009;=&#x2009;62, 31%), moderately depressed (MoD) (n&#x2009;=&#x2009;71, 35%), and seriously depressed (SiD) (n&#x2009;=&#x2009;67, 34%), with each experiencing slight improvement. Recent traumas at baseline were highest in SiD (P&#x2009;<&#x2009;0.001); this group also reported the lowest positive problem-solving orientation and highest negative problem-solving orientation (P&#x2009;<&#x2009;0.001) at baseline. Depression symptom trajectories among women with perinatal depression are related to modifiable factors such as problem-solving orientation and interpersonal dynamics, with the latter including intimate partner violence and social support. Most treatment recipients were characterised by trajectories indicating recovery from depression. ClinicalTrials.Gov (NCT03892915).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/braincomms/fcae287
+- DOI: 10.7189/jogh.14.04147
 
 2. Keywords
-- activities of daily living (ADL)
-- neglect
-- randomized controlled trial (RCT)
-- stroke
-- transcranial electrical stimulation (tES)
+
 
 3. Key Findings
-- We found significantly improved visual search (primary outcome) and visual detection performance in the neglected side in the active transcranial alternating current stimulation group, compared to the sham transcranial alternating current stimulation group
+- Findings extraction requires manual review
 
 This study provides insights into:
-- activities of daily living (ADL) assessment methods and outcomes
-- neglect assessment methods and outcomes
-- randomized controlled trial (RCT) assessment methods and outcomes
+- General research methodology and outcomes

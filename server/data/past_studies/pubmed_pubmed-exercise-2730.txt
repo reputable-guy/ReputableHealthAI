@@ -1,24 +1,25 @@
-Study Title: Evaluating the Impact of Seated Pilates on Functional Outcomes Among Those With Mild, Moderate, and Severe Multiple Sclerosis Impairment: A Pilot Feasibility Trial.
+Study Title: Effects of home-based telerehabilitation-assisted inspiratory muscle training in patients with idiopathic pulmonary fibrosis: A randomized controlled trial.
 
 Study Summary:
-This pilot study assessed the feasibility and functional benefits of a twice-weekly, 12-week, virtual, seated, group-based Pilates program in persons with mild to severe multiple sclerosis (MS). Participants were randomized into either a Pilates-only group or a Pilates group, which also incorporated hip and shoulder-cuff activation exercises. Process, management, and scientific-feasibility metrics were analyzed descriptively. Functional outcomes, physical activity, and MS-related outcomes (impact, fatigue, and quality of life) were measured pre- and postintervention and analyzed using mixed-effects models, analysis of variance, and cluster analysis. Twenty-two participants completed baseline testing. Sixteen completed the intervention and postintervention testing. Collapsed across groups, analyses demonstrated improvements in the Timed 25-Foot Walk (36%), Timed Up-and-Go (13%), and the Berg Balance Scale (10%, statistically significant). Neither between-groups differences nor physical activity or MS outcome changes were significant. Participants reported high satisfaction. Findings suggest that&#xa0;virtual, seated Pilates is feasible and may confer balance benefits to individuals with MS.
+There are few studies that have used inspiratory muscle training (IMT) as an intervention for patients with isolated idiopathic pulmonary fibrosis (IPF). This study aimed to investigate and interpret the effects of home-based telerehabilitation-assisted IMT in patients with IPF. Twenty-eight participants with IPF took part in the study. Lung function tests, functional exercise capacity by 6-min walk distance (6MWD), dyspnoea perception by modified medical research council dyspnoea scale (mMRC), and inspiratory muscle strength by maximal inspiratory pressure (MIP) were assessed. IMT was performed twice a day, 7&#x2009;days/week, for 8&#x2009;weeks. The intervention group (n&#x2009;=&#x2009;14) performed IMT at 50% of their baseline MIP while the control group (n&#x2009;=&#x2009;14) performed IMT without applied resistance. Loading intensity was progressed by keeping the load at 4-6 on a modified Borg scale for the highest tolerable perceived respiratory effort for each patient. Dyspnoea based on mMRC score (p&#x2009;<&#x2009;0.001, &#x3b7;effect size&#x2009;=&#x2009;0.48) significantly decreased within the intervention group compared with the control group. There were significant increases in the intervention group compared to the control group based on 6MWD (p&#x2009;<&#x2009;0.001, &#x3b7;effect size&#x2009;=&#x2009;0.43), MIP (p&#x2009;=&#x2009;0.006, &#x3b7;effect size&#x2009;=&#x2009;0.25) and MIP % predicted (p&#x2009;=&#x2009;0.008, &#x3b7;effect size&#x2009;=&#x2009;0.25). The findings of this study suggest that an 8-week home-based telerehabilitation-assisted IMT intervention produced improvements in inspiratory muscle strength, leading to improvements in functional exercise capacity and dyspnoea.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1123/apaq.2023-0159
+- DOI: 10.1111/resp.14810
 
 2. Keywords
-- exercise training
-- neurological conditions
-- peer group
+- exercise and pulmonary rehabilitation
+- interstitial lung disease
+- lung fibrosis
+- pulmonary fibrosis
 
 3. Key Findings
-- Collapsed across groups, analyses demonstrated improvements in the Timed 25-Foot Walk (36%), Timed Up-and-Go (13%), and the Berg Balance Scale (10%, statistically significant)
+- Findings extraction requires manual review
 
 This study provides insights into:
-- exercise training assessment methods and outcomes
-- neurological conditions assessment methods and outcomes
-- peer group assessment methods and outcomes
+- exercise and pulmonary rehabilitation assessment methods and outcomes
+- interstitial lung disease assessment methods and outcomes
+- lung fibrosis assessment methods and outcomes

@@ -1,21 +1,26 @@
-Study Title: A multicenter case-control study on postoperative intestinal fistula in Chinese patients with Crohn disease.
+Study Title: Failure of Digital Device Performance in Monitoring Physical Exercise in a Pilot Study in Sedentary Persons with HIV.
 
 Study Summary:
-The aim of this study was to (1) assess the independent factors affecting patients with postoperative intestinal fistula from Crohn disease (CD) by analyzing preoperative clinical data, (2) establish a nomogram prediction model for this condition based on these factors, and (3) validate this model and evaluate its accuracy. In this retrospective multicenter case-control study, the clinical data of 240 patients with CD admitted for surgical treatment between September 2019 and September 2021 at 3 centers were collected. Patients were randomly divided into a training set (168 patients) and a validation set (72 patients). Univariate analysis was performed for relevant factors, and statistically significant factors were then analyzed using multivariate logistic regression to determine the independent influencing factors. A nomogram model for predicting postoperative intestinal fistula in patients with CD was constructed and the accuracy of the model was evaluated using calibration curves. Univariate analysis showed that disease behavior, abdominal abscess, intestinal perforation, neutrophil-to-lymphocyte ratio, systemic immunoinflammatory index, and prognostic nutrition index were factors affecting postoperative intestinal fistula in patients with CD. Multivariate logistic regression analysis showed that neutrophil-to-lymphocyte ratio, prognostic nutrition index, disease behavior, and Crohn disease activity index score were independent influencing factors. After assessing the validation set, the area under the curve was 0.899, indicating good predictive accuracy of the nomogram model. The prediction model developed in this study can effectively predict the risk of postoperative intestinal fistula.
+Digital devices have gained popularity in the last 10 years as a tool for exercise prescription, the monitoring of daily physical activity, and nutrition for the management of a health-related parameter. Therefore, the aim of this study was to assess the effectiveness of the use of digital devices to monitor exercise data in sedentary persons with HIV who exercise following an individualized activity pacing (AP) protocol on cardiorespiratory fitness body composition, blood lipid profile, and psychological parameters. Twenty-four PLWH were enrolled in an 18-week randomized, open-label, pilot AP exercise protocol. All participants were monitored by a Health Band connected to a mobile app that transmitted the data to a server. At week 3, they were randomized either in an experimental group (EG), in which an open device configuration enabled them to receive training data feedback (= 12), or continued with no data feedback (control group,= 12). The primary endpoint was improvement from the baseline of 15% of steady-state oxygen consumption (V&#x2d9;O) during a 6-min walking test. Technical issues occurred when pairing the health band with the app, which prevented EG participants from regularly receiving data feedback, and with data transmission to the server, which enabled only 40% monitoring of the total training days. Consequently, the study outcomes could not be compared between the two groups, and participants also lost confidence in the study. However, 19 out of 24 participants completed the AP program. Overall, only 6 (32%) improved steady-state V&#x2d9;O, with no significant changes at W18 from the baseline. Significant reductions were observed of BMI (= 0.040), hip circumference (= 0.027), and total-(= 0.049) and HDL-cholesterol (= 0.045). The failure of digital device performance substantially affected study procedures, monitoring, and participants' engagement, and likely limited the potential benefits of the AP exercise program.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1097/MD.0000000000036159
+- DOI: 10.3390/s23239461
 
 2. Keywords
-
+- health
+- lifestyle
+- monitoring
+- physical activity
+- smart devices
 
 3. Key Findings
-- Univariate analysis showed that disease behavior, abdominal abscess, intestinal perforation, neutrophil-to-lymphocyte ratio, systemic immunoinflammatory index, and prognostic nutrition index were factors affecting postoperative intestinal fistula in patients with CD
-- Multivariate logistic regression analysis showed that neutrophil-to-lymphocyte ratio, prognostic nutrition index, disease behavior, and Crohn disease activity index score were independent influencing factors
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- health assessment methods and outcomes
+- lifestyle assessment methods and outcomes
+- monitoring assessment methods and outcomes

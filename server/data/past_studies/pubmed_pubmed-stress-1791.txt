@@ -1,28 +1,29 @@
-Study Title: Effects of using a mobile application on pelvic floor training in women with stress urinary incontinence: A randomized controlled clinical study.
+Study Title: Effects of occupational health promotion interventions on health-related outcomes among employees of small businesses and self-employed individuals: A systematic review.
 
 Study Summary:
-Urinary incontinence (UI) is defined as any involuntary loss of urine that causes negative impacts on women's lives. Pelvic floor muscle training (PFMT) is considered to be "level A" of scientific evidence in the treatment of UI. Despite its efficacy, it is known that the effect of PFMT may depend on continuous adherence. Therefore, healthcare professionals are looking for alternatives to improve adherence in their patients. Healthcare has been innovating through mobile device apps. Thus, the objective of this study was to verify the effects of PFMT with the use of a mobile device app in incontinent women. This was a controlled, randomized clinical trial that occurred remotely. A total of 104 women with stress UI and/or mixed incontinence, over 18 years old, literate, with preserved cognitive capacity, with internet access and a mobile device with the Android system, participated in this study. They were randomly divided into two groups: The App group and the Booklet group, which underwent a PFMT protocol guided by a mobile app and a booklet, respectively. Both groups received daily reminders to perform the exercises. Before and after 12 weeks of intervention, it was evaluated using the International Consultation on Incontinence Questionnaire-Short Form (ICIQ-SF) and the King's Health Questionnaire (KHQ). Both groups showed improvements in the final ICIQ-SF score. However, superior results were shown for the Booklet group (App: pre: 11.5 [&#xb1;3.8], post: 9.8 [&#xb1;4.5]; Booklet: pre: 12.6 [&#xb1;4.5], post: 7.4 [&#xb1;4.3]; p&#x2009;=&#x2009;0.03). It was concluded that PFMT, with the use of a mobile app, is capable of reducing UI and the impact of UI, but it is not superior to training with the use of booklet instructions.
+Compared to workers of larger companies it is less clear what health promoting interventions might be beneficial for employees of small businesses and self-employed individuals. Our aim was to critically appraise trials investigating health promotion programs among small business workers and self-employed individuals, by means of a systematic review. We conducted a search of primary studies using MEDLINE, Web of Science, LIVIVO and the Cochrane library. Our assessment followed the recommendations of the Cochrane Handbook for Systematic Reviews of Interventions and PRISMA. We identified six trials including 5,854 participants from Asia, North America and Australia. Most were of moderate methodological quality, only one was of low quality. Some of the supervised psycho-educational lifestyle programs focusing on individual behavior changes showed benefits in terms of stress reduction and increased physical activity levels among small enterprise employees. There is a huge knowledge gap on evidence-based health promotion interventions for self-employed and for small business workers, especially in Europe.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/nau.25522
+- DOI: 10.3233/WOR-230441
 
 2. Keywords
-- exercise
-- mobile applications
-- pelvic floor
-- telehealth
-- urinary incontinence
-- women
+- Intervention
+- health promotion
+- medium-sized business
+- microenterprise
+- occupational health
+- small business
+- systematic review
+- wellness programs
 
 3. Key Findings
-- Both groups showed improvements in the final ICIQ-SF score
-- It was concluded that PFMT, with the use of a mobile app, is capable of reducing UI and the impact of UI, but it is not superior to training with the use of booklet instructions
+- Some of the supervised psycho-educational lifestyle programs focusing on individual behavior changes showed benefits in terms of stress reduction and increased physical activity levels among small enterprise employees
 
 This study provides insights into:
-- exercise assessment methods and outcomes
-- mobile applications assessment methods and outcomes
-- pelvic floor assessment methods and outcomes
+- Intervention assessment methods and outcomes
+- health promotion assessment methods and outcomes
+- medium-sized business assessment methods and outcomes

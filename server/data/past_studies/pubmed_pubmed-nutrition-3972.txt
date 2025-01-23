@@ -1,26 +1,33 @@
-Study Title: Students' consumption of high and low nutrition foods and reduced plate waste by schools' wellness-related policies and garden program participation.
+Study Title: Effectiveness of a Sodium-Reduction Smartphone App and Reduced-Sodium Salt to Lower Sodium Intake in Adults With Hypertension: Findings From the Salt Alternatives Randomized Controlled Trial.
 
 Study Summary:
-Participation in school-based programs that may support children's nutritious dietary behaviours varies across schools. We examined school participation in wellness-related policies, school-based garden programs and students' dietary behaviours. Among matching schools who did and did not participate in school-based garden programs, we analysed the lunches of 80 Pittsburgh Public Schools (PPS) students in 1st, 2nd, 6th and 7th grades during Autumn 2019 using digital food photography. We also acquired school wellness policy data. Using cross-sectional linear regression, we estimated the association between school-based garden programming, wellness-related policies and dietary outcomes, adjusting for grade. School's implementation of nutrition services policies was negatively associated with energy wasted from lunch (). The number of semesters the students' school had participated in the garden program was positively associated with students' whole grain consumption (). Cross-sectional associations suggest that schools that are more engaged in wellness policies and garden programs may provide environments that are more supportive of students' nutrition than in other schools.
+Even modest reductions in blood pressure (BP) can have an important impact on population-level morbidity and mortality from cardiovascular disease. There are 2 promising approaches: the SaltSwitch smartphone app, which enables users to scan the bar code of a packaged food using their smartphone camera and receive an immediate, interpretive traffic light nutrition label on-screen alongside a list of healthier, lower-salt options in the same food category; and reduced-sodium salts (RSSs), which are an alternative to regular table salt that are lower in sodium and higher in potassium but have a similar mouthfeel, taste, and flavor. Our aim was to determine whether a 12-week intervention with a sodium-reduction package comprising the SaltSwitch smartphone app and an RSS could reduce urinary sodium excretion in adults with high BP. A 2-arm parallel randomized controlled trial was conducted in New Zealand (target n=326). Following a 2-week baseline period, adults who owned a smartphone and had high BP (&#x2265;140/85 mm Hg) were randomized in a 1:1 ratio to the intervention (SaltSwitch smartphone app + RSS) or control (generic heart-healthy eating information from The Heart Foundation of New Zealand). The primary outcome was 24-hour urinary sodium excretion at 12 weeks estimated via spot urine. Secondary outcomes were urinary potassium excretion, BP, sodium content of food purchases, and intervention use and acceptability. Intervention effects were assessed blinded using intention-to-treat analyses with generalized linear regression adjusting for baseline outcome measures, age, and ethnicity. A total of 168 adults were randomized (n=84, 50% per group) between June 2019 and February 2020. Challenges associated with the COVID-19 pandemic and smartphone technology detrimentally affected recruitment. The adjusted mean difference between groups was 547 (95% CI -331 to 1424) mg for estimated 24-hour urinary sodium excretion, 132 (95% CI -1083 to 1347) mg for urinary potassium excretion, -0.66 (95% CI -3.48 to 2.16) mm Hg for systolic BP, and 73 (95% CI -21 to 168) mg per 100 g for the sodium content of food purchases. Most intervention participants reported using the SaltSwitch app (48/64, 75%) and RSS (60/64, 94%). SaltSwitch was used on 6 shopping occasions, and approximately 1/2 tsp per week of RSS was consumed per household during the intervention. In this randomized controlled trial of a salt-reduction package, we found no evidence that dietary sodium intake was reduced in adults with high BP. These negative findings may be owing to lower-than-anticipated engagement with the trial intervention package. However, implementation and COVID-19-related challenges meant that the trial was underpowered, and it is possible that a real effect may have been missed. Australian New Zealand Clinical Trials Registry ACTRN12619000352101; https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=377044 and Universal Trial U1111-1225-4471.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1111/jhn.13167
+- DOI: 10.2196/43675
 
 2. Keywords
-- child
-- dietary behaviours
-- gardens
-- nutrition
-- school policy
+- blood pressure
+- cardiovascular disease
+- mHealth
+- mobile health
+- mobile phone
+- reduced-sodium salt
+- salt
+- smartphone
+- smartphone app
+- sodium
+- technology
 
 3. Key Findings
-- Findings extraction requires manual review
+- Following a 2-week baseline period, adults who owned a smartphone and had high BP (&#x2265;140/85 mm Hg) were randomized in a 1:1 ratio to the intervention (SaltSwitch smartphone app + RSS) or control (generic heart-healthy eating information from The Heart Foundation of New Zealand)
+- In this randomized controlled trial of a salt-reduction package, we found no evidence that dietary sodium intake was reduced in adults with high BP
 
 This study provides insights into:
-- child assessment methods and outcomes
-- dietary behaviours assessment methods and outcomes
-- gardens assessment methods and outcomes
+- blood pressure assessment methods and outcomes
+- cardiovascular disease assessment methods and outcomes
+- mHealth assessment methods and outcomes

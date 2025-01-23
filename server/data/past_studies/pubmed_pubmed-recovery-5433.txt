@@ -1,28 +1,24 @@
-Study Title: Efficacy and safety of SENS-401 in sudden sensorineural hearing loss: The AUDIBLE-S randomized placebo-controlled phase IIb trial.
+Study Title: Comparison Between Histidine-Tryptophan-Ketoglutarate Cardioplegia and Cold Blood Cardioplegia for Myocardial Protection in Tetralogy of Fallot Patients Undergoing Surgical Repair: A Randomized Clinical Trial.
 
 Study Summary:
-Safety and efficacy of SENS-401, a serotonin type 3 (5-HT) receptor antagonist and calcineurin inhibitor, in patients with acute sudden sensorineural hearing loss (SSNHL). Multicentre randomized, double blind, placebo-controlled trial enrolled adult subjects with sudden sensorineural hearing loss (SSNHL) or unilateral/bilateral acute acoustic trauma leading to SSNHL within 96&#xa0;h of disease onset. Subjects were randomly assigned to one of the three oral dose groups: 29&#xa0;mg, 43.5&#xa0;mg or placebo given twice daily for 28&#xa0;days. The primary endpoint was the change from baseline in Pure Tone Average (PTA) in the affected ear to the end of treatment visit (day 28). Subjects were further followed up 8&#xa0;weeks after the end of the treatment period (day 84). A total of 115 subjects were randomized. SENS-401 was well tolerated. Although the primary efficacy endpoint was not met at day 28, post-hoc analyses revealed clinically significant and meaningful efficacy outcomes with SENS-401 when compared to placebo in a substantial group of participants diagnosed with idiopathic SSNHL and who had received corticosteroid treatment. Notable improvements were observed in the PTA change from baseline, the complete hearing recovery rate, and the Word Recognition Score (WRS), particularly at day 84. The responder rate consistently favored treated subjects over those who received the placebo. While the primary endpoint was not achieved at the end of the treatment period, the study revealed consistently positive efficacy results of clinical relevance in patients with idiopathic SSNHL who received SENS-401, particularly in the 8-weeks follow-up phase after the completion of the treatment.
+This study was conducted to compare the efficacy of histidine-tryptophan-ketoglutarate (HTK) cardioplegia and cold blood cardioplegia (CBC), especially for postoperative right ventricular (RV) function after tetralogy of Fallot repair. Randomized, double-blinded, parallel-group, controlled clinical trial. Ain Shams University Hospitals. A total of 100 children (1 to 5 years old) scheduled for tetralogy of Fallot repair. Patients were allocated (double-blinded 1:1 allocation ratio) to either the HTK group that received HTK cardioplegia (30 mL/kg via antegrade route) or the CBC group that received cold blood cardioplegia with blood-to-Ringer solution (4:1) in a volume of 20 mL/kg. The HTK group showed a statistically significant reduction of the vasoactive inotropic score on admission to the pediatric intensive care unit (13.0 &#xb1; 4.1) in comparison to the CBC group (15.5 &#xb1; 5.4), with a p value of 0.011. However, after 24 hours, the vasoactive-inotropic score was comparable. Lactate level during the first 24 hours was 6.2 &#xb1; 0.7 mmol/L in the HTK group and 6.9 &#xb1; 0.4 mmol/L in the CBC group (p < 0.0001). Serial troponin measurements were lower in the HTK group (1.49 &#xb1; 0.45) compared to the CBC group (1.69 &#xb1; 0.18) at the first 72 hours postoperatively (p = 0.005). Postoperative echocardiographic assessment of RV function by means of tricuspid annular plane systolic excursion and myocardial performance index were better in the HTK group than in the CBC grpup (p < 0.05). HTK cardioplegia may offer better cardiac protection to pediatric patients undergoing tetralogy of Fallot repair than our institutional standard CBC with better recovery for the hypertrophic RV.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.amjoto.2024.104480
+- DOI: 10.1053/j.jvca.2024.07.038
 
 2. Keywords
-- 5HT3 antagonist
-- Curative treatment
-- Hearing loss
-- Idiopathic sudden sensorineural hearing loss
-- SENS-401
-- Sudden sensorineural hearing loss
+- cardioplegia
+- myocardium
+- tetralogy of Fallot, myocardial protection, congenital heart surgery
 
 3. Key Findings
-- Although the primary efficacy endpoint was not met at day 28, post-hoc analyses revealed clinically significant and meaningful efficacy outcomes with SENS-401 when compared to placebo in a substantial group of participants diagnosed with idiopathic SSNHL and who had received corticosteroid treatment
-- While the primary endpoint was not achieved at the end of the treatment period, the study revealed consistently positive efficacy results of clinical relevance in patients with idiopathic SSNHL who received SENS-401, particularly in the 8-weeks follow-up phase after the completion of the treatment
+- The HTK group showed a statistically significant reduction of the vasoactive inotropic score on admission to the pediatric intensive care unit (13
 
 This study provides insights into:
-- 5HT3 antagonist assessment methods and outcomes
-- Curative treatment assessment methods and outcomes
-- Hearing loss assessment methods and outcomes
+- cardioplegia assessment methods and outcomes
+- myocardium assessment methods and outcomes
+- tetralogy of Fallot, myocardial protection, congenital heart surgery assessment methods and outcomes

@@ -1,20 +1,29 @@
-Study Title: Effects of respiratory exercises in sleep bruxism and associated obstructive sleep apnea: a double-blind, placebo-controlled randomized clinical trial.
+Study Title: Effects of a work schedule with abated quick returns on insomnia, sleepiness, and work-related fatigue: results from a large-scale cluster randomized controlled trial.
 
 Study Summary:
-The aim of this study is to assess the effects of respiratory exercises (inspiratory and expiratory) in individuals with sleep bruxism (SB) and associated obstructive sleep apnea (OSA). This is a double-blind, placebo-controlled randomized clinical trial including individuals with SB and associated respiratory events in OSA. Respiratory physical therapy was performed using inspiratory (Threshold&#xae; IMT), expiratory (Threshold&#xae; PEP) muscle training, and compared with a placebo group. A total of 30 daily respiratory cycles (inspiration and expiration) were performed five times a week for 12 weeks. Individuals were reassessed at two times, at baseline (T1) and after 12 weeks of training (T2) by means of the Pittsburgh Sleep Quality Index and Polysomnography. Awakening was significantly different (p &#x2264; 0.05) between the inspiratory group and placebo 12 weeks after respiratory physical therapy. The number of contractions of the masseter muscle differed between the inspiratory, expiratory, and placebo groups (p &#x2264; 0.05). Respiratory physical therapy for OSA improved awaking levels in 80 and 67% of the number of masseter muscle contractions, when compared to placebo. Brazilian Registry of Clinical Trials (No. RBR-9F6JKM).
+To investigate the effect of a work schedule with abated quick returns (i.e.&#x2005;>&#x2005;11 hours between two shifts) on insomnia, daytime sleepiness, and work-related fatigue compared to a shift schedule maintaining the usual number of quick returns. A two-armed cluster randomized controlled trial including 66 units was conducted at a university hospital in Norway. Units with healthcare workers on rotating shift schedules were randomly assigned to a shift schedule with abated quick returns (intervention) or to continue with a schedule including quick returns as usual (control) for 6 months. Questionnaires assessed symptoms of insomnia (Bergen Insomnia Scale [BIS]), daytime sleepiness (Epworth Sleepiness Scale [ESS]), and work-related fatigue (Revised Swedish Occupational Fatigue Inventory) at baseline and towards the end of the intervention. Data were analyzed using multilevel linear mixed-effects models, and Cohen's d was used to calculate the effect size between groups. Overall, 1314 healthcare workers (85.2% female) completed the baseline questionnaire (response rate 49.1%), and 552 completed the follow-up questionnaire. The intervention reduced quick returns from an average of 13.2 (SD = 8.7) to 6.7 (SD =&#x2005;6.0), while the control group's average remained relatively unchanged from 13.2 (SD&#x2005;=&#x2005;8.7) to 12.0 (SD&#x2005;=&#x2005;9.3). Results showed a small improvement in symptoms of insomnia (BIS; d&#x2005;=&#x2005;-0.13, p&#x2005;=&#x2005;.022) and daytime sleepiness (ESS; d&#x2005;=&#x2005;-0.14, p&#x2005;=&#x2005;.013) in favor of the intervention. No effects were observed on work-related fatigue. Reducing the number of quick returns in the work schedule resulted in improvements in insomnia and daytime sleepiness. The findings highlight the importance of sufficient daily rest time in the work schedule of healthcare workers. Health Promoting Work Schedules: The Effect of Abolishing Quick Returns (HeWoS); clinicaltrials.gov/ct2/show/NCT04693182; Registered at ClinicalTrials.gov with the identifier NCT04693182.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2340/aos.v83.40252
+- DOI: 10.1093/sleep/zsae086
 
 2. Keywords
-
+- daily rest periods
+- daytime sleepiness
+- fatigue
+- healthcare workers
+- insomnia
+- insufficient sleep
+- quick returns
+- shift work
 
 3. Key Findings
-- Findings extraction requires manual review
+- Results showed a small improvement in symptoms of insomnia (BIS; d&#x2005;=&#x2005;-0
 
 This study provides insights into:
-- General research methodology and outcomes
+- daily rest periods assessment methods and outcomes
+- daytime sleepiness assessment methods and outcomes
+- fatigue assessment methods and outcomes

@@ -1,28 +1,27 @@
-Study Title: Digitizing Survivorship Care Plans Through the POST-Treatment Health Outcomes of Cancer Survivors (POSTHOC) Mobile App: Protocol for a Phase II Randomized Controlled Trial.
+Study Title: Multiphase optimization strategy to establish optimal delivery of nutrition-related services in healthcare settings: A step towards clinical trial.
 
 Study Summary:
-Survivorship care plans (SCPs) are provided at the completion of cancer treatment to aid in the transition from active treatment to long-term survivorship. They describe the details of a patient's diagnosis and treatment and offer recommendations for follow-up appointments, referrals, and healthy behaviors. The plans are currently paper-based and become outdated as soon as a patient's health status changes. There is a need to digitize these plans to improve their accessibility, modifiability, and longevity. With current technology, SCPs can be linked to mobile devices and activity trackers so that patients can track health behaviors and compare them to their clinical goals, taking charge of their own health. A mobile app, POSTHOC (POST-Treatment Health Outcomes of Cancer Survivors), that digitizes the SCP was developed, with goals of integrating it with wearable technologies and electronic medical records. Herein, we are conducting a randomized controlled trial that evaluates the POSTHOC app versus the traditional SCP on total symptom burden in the early posttreatment period. We will recruit 54 patients who have recently completed curative therapy for cancer (any type) in person and remotely. They will be randomized 2:1, POSTHOC:usual care (unblinded). Those randomized to the POSTHOC group will receive their SCP via the app and will choose to focus on nutrition or exercise for the duration of the study based on their individual plan and personal preferences. Those randomized to the control group will get a paper-based plan. At baseline, 6 weeks, and 12 weeks, we will evaluate patient-reported outcomes, including total symptom burden (web-based questionnaire), diet (24-hour Automated Self-Administered [ASA24]), and physical activity (Fitbit Charge 6 [Google LLC]). We will also collect quantitative and qualitative feedback on the usability of the app from those in the POSTHOC arm to improve the app for future implementation studies, with a specific focus on patient-provider communication. For feasibility, we will calculate the percentage of patients who used the POSTHOC app at least 3 times per week. We will use linear mixed models to evaluate the effects of the POSTHOC app versus those of usual care on other outcomes at weeks 6 and 12. This trial is open to accrual in the University of Maryland Medical System as of March 2024, and as of July 3, 2024, a total of 20 participants have consented. This study is among the first to digitize the SCP in a mobile app and test the effects of a mobile health-delivered behavioral health intervention on symptom burden in cancer survivors. Our results will provide evidence about the effects of health self-management on symptoms. This knowledge will be integral to larger randomized controlled studies, integration with the electronic medical record, and nationwide implementation. ClinicalTrials.gov NCT05499663; https://clinicaltrials.gov/ct2/show/NCT05499663. DERR1-10.2196/59222.
+Minorities living in the Southern US generally have greater incidence and prevalence of cardiometabolic diseases compared to other groups. Cardiometabolic disease prevalence and risk can be reduced by focusing on diet and lifestyle modifications. There is need for holistic and integrated care models for community-based healthcare organizations who are already working with minorities. This research aimed to select and optimize essential psychosocial and structural components to address diet behaviors among racial/ethnic minorities, and/or disadvantaged background young to middle aged adult populations in Mississippi. Nutrition360 was guided by a community-academic team using a participatory approach and included a preparation and two optimization phases to examine different approaches to dietary interventions utilizing the multiphase optimization strategy. Each intervention arm included three different modalities to identify the most feasible delivery method. The intervention was conducted at a community-based, outpatient healthcare center located in Jackson, MS. Eligible participants were between 25 and 50&#xa0;years old, residents of Jackson metropolitan area, at risk for cardiovascular disease-related premature mortality, and had internet access. Individuals who completed baseline surveys were randomly assigned to an intervention group and then to modality order. Co-primary outcomes were research participant burden and cost-effectiveness and secondary outcomes were attendance, and dietary measures. Thirty-one, African American individuals with a mean age of 40.5&#xa0;years completed baseline surveys and were randomized to an intervention program. The two most feasible and cost-effective interventions will be combined to further test this model's delivery in the real-world setting as part of the next optimization phase. ClinicalTrials.gov, NCT06286618. https://clinicaltrials.gov/study/NCT06286618.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/59222
+- DOI: 10.1016/j.cct.2024.107683
 
 2. Keywords
-- clinical trial
-- mHealth
-- mobile health
-- mobile phone
-- oncology
-- posttreatment
-- symptoms
+- Cardiometabolic health
+- Cardiovascular disease
+- Integrated care
+- Minority health
+- Multiphase optimization strategy
+- Nutrition
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- clinical trial assessment methods and outcomes
-- mHealth assessment methods and outcomes
-- mobile health assessment methods and outcomes
+- Cardiometabolic health assessment methods and outcomes
+- Cardiovascular disease assessment methods and outcomes
+- Integrated care assessment methods and outcomes

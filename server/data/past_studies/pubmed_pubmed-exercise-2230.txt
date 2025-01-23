@@ -1,26 +1,26 @@
-Study Title: Effectiveness of a theory-underpinning exercise intervention among community-dwelling (pre)frail older adults: A stepped-wedge cluster-randomized trial.
+Study Title: Clinical benefit of physical rehabilitation after total hip and knee arthroplasty: A pragmatic, randomized, controlled trial (The DRAW1 trial).
 
 Study Summary:
-To evaluate the effectiveness of a theory-underpinning exercise intervention among Chinese community-dwelling (pre)frail older adults, and the impacts of intervening late as opposed to intervening early. This was a stepped-wedge cluster-randomized trial. Participants were enrolled from six communities in a county of central China from January to November in 2021 (n&#xa0;=&#xa0;149). A 12-week exercise intervention based on the integration of Health Belief Model, Theory of Planned Behavior and Health Action Process Approach was implemented among 149 community-dwelling (pre)frail older adults during the study period. The primary outcomes were frailty and muscle mass, muscle strength and physical performance. Secondary outcomes included physical disability, fear of falling, cognitive function, depressive symptoms, social support and quality of life. Assessments were conducted at baseline and at 12, 24 and 36&#xa0;weeks. A multilevel regression model was used for statistical analysis. The positive effects were statistically significant on frailty (&#x3b2;&#xa0;=&#xa0;-1.166, p&#xa0;=&#xa0;0.016), muscle mass (&#x3b2;&#xa0;=&#xa0;1.499, p&#xa0;=&#xa0;0.005), handgrip strength (&#x3b2;&#xa0;=&#xa0;14.758, p < 0.001), physical performance (Short Physical Performance Battery, &#x3b2;&#xa0;=&#xa0;6.043, p < 0.001), physical disability (Activities of Daily Living: &#x3b2;&#xa0;=&#xa0;0.462, p&#xa0;=&#xa0;0.043; Instrumental Activities of Daily Living: &#x3b2;&#xa0;=&#xa0;0.693, p&#xa0;=&#xa0;0.049;) and fear of falling (&#x3b2;&#xa0;=&#xa0;-1.490, p&#xa0;=&#xa0;0.003), cognitive function (&#x3b2;&#xa0;=&#xa0;-0.466, p&#xa0;=&#xa0;0.011), depressive symptoms (&#x3b2;&#xa0;=&#xa0;-0.541, p < 0.001), social support (&#x3b2;&#xa0;=&#xa0;27.661, p < 0.001), physical (&#x3b2;&#xa0;=&#xa0;2.413, p&#xa0;=&#xa0;0.013) and mental (&#x3b2;&#xa0;=&#xa0;7.837, p < 0.001) components of quality of life at 0-week postintervention, and most of them persisted at 12- and 24-week postintervention. The effectiveness significantly differed by the time of interventions on muscle mass (&#x3b2;&#xa0;=&#xa0;-1.217, p&#xa0;=&#xa0;0.002), 5-time chair stand test (&#x3b2;&#xa0;=&#xa0;-1.172, p&#xa0;=&#xa0;0.018), cognitive function (&#x3b2;&#xa0;=&#xa0;0.600, p&#xa0;=&#xa0;0.014) and mental component of quality of life (&#x3b2;&#xa0;=&#xa0;-12.679, p&#xa0;=&#xa0;0.002). The theory-underpinning exercise intervention has positive immediate and persistent effects on frailty, frailty-related characteristics as well as physical, mental and social functioning among Chinese community-dwelling (pre)frail older adults. Late intervention attenuated the significant intervention effect. Chinese Clinical Trial Registry ChiCTR2100041981.
+Comparative effectiveness trials have not shown superiority of one type of physical rehabilitation over another following total hip (THA) and knee (TKA) arthroplasty. We therefore ask the fundamental effectiveness question: Does physical rehabilitation "work" better than no physical rehabilitation? To compare the effectiveness of a 6-week program of physical rehabilitation (home-based telerehabilitation, or home-based rehabilitation) to no physical rehabilitation following THA and TKA. 3-arm,randomized, controlled, superiority trial with blinded outcome assessments. 377 patients (210 THA/167 TKA) were screened for eligibility before the targeted sample size of 168 patients was reached. Outcome measures were assessed at baseline, at the end of intervention (6 weeks), and 3 and 12 months postoperatively. The primary outcome was the Hip disability and Osteoarthritis Outcome Score (HOOS)/Knee injury and Osteoarthritis Outcome Score (KOOS)-subscale: function in daily living. Secondary outcomes included: HOOS/KOOS-subscales: pain, symptoms, and quality of life, patient global assessment, analgesics, walking aids, 30-s chair stand test, 4&#xa0;&#x200b;&#xd7;&#xa0;&#x200b;10&#xa0;&#x200b;m fast-paced walk test, exercise adherence, and satisfaction. Comparing physical rehabilitation (home-based telerehabilitation, and home-based rehabilitation) to no physical rehabilitation, the mean group-differences for the primary outcome were 3.3 (95%CI: -1.9 to 8.6; p&#xa0;&#x200b;=&#xa0;&#x200b;0.10) points at 6 weeks, and 1.9 (95%CI: -3.7 to 7.6; p&#xa0;&#x200b;=&#xa0;&#x200b;0.25) and 2.6 (95%CI: -4.4 to 9.6; p&#xa0;&#x200b;=&#xa0;&#x200b;0.23) points at the 3- and 12-months follow-ups, respectively. Physical rehabilitation was not superior to the no physical rehabilitation comparator following THA or TKA in terms of self-reported function or any of the secondary outcomes. NCT03750448 (November 23, 2018), URL: https://clinicaltrials.gov/ct2/show/NCT03750448.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ijnurstu.2024.104933
+- DOI: 10.1016/j.ocarto.2024.100530
 
 2. Keywords
-- Effectiveness
-- Exercise intervention
-- Frailty
-- Psychological theory
-- Stepped-wedge cluster-randomized trial
+- Rehabilitation
+- Telerehabilitation
+- Total hip arthroplasty
+- Total joint replacement
+- Total knee arthroplasty
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Effectiveness assessment methods and outcomes
-- Exercise intervention assessment methods and outcomes
-- Frailty assessment methods and outcomes
+- Rehabilitation assessment methods and outcomes
+- Telerehabilitation assessment methods and outcomes
+- Total hip arthroplasty assessment methods and outcomes

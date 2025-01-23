@@ -1,25 +1,29 @@
-Study Title: Single-Center Randomized Trial Comparing Feeding Jejunostomy with Nasojejunal Tube Placement in Patients Undergoing Transhiatal Esophagectomy Post-Neoadjuvant Therapy for Esophageal Cancer.
+Study Title: A single-blinded, randomized, parallel intervention to evaluate genetics and omics-based personalized nutrition in general population via an e-commerce tool: The PREVENTOMICS e-commerce study.
 
 Study Summary:
-Enteral nutrition is the preferred mode of nutrition following esophagectomy. However, the preferred mode of enteral nutrition (feeding jejunostomy (FJ) vs. nasojejunal (NJ) tube) remains contentious. In this randomized controlled trial (RCT), we compared FJ with NJ tube feeding in terms of safety, feasibility, efficacy, and quality-of-life (QOL) parameters in Indian patients undergoing trans-hiatal esophagectomy (THE) for carcinoma esophagus. This single-center, two-armed (FJ and NJ tube), non-inferiority RCT was conducted from March 2020 to January 2024. Forty-eight patients underwent THE with posterior-mediastinal-gastric pull-up and were randomized to NJ and FJ arms (24 in each group). The postoperative complications, catheter efficacy, and QOL parameters were compared between the two groups till the 6-week follow-up. In this RCT, we found no significant difference in the occurrence of catheter-related complications, postoperative complication rate, catheter efficacy, and visual analog pain scores between patients with NJ tube and FJ, following THE for esophageal cancer. There was a significantly better self-reported physical domain QOL score noted in the NJ group, both at the time of discharge (44.7&#x2009;&#xb1;&#x2009;6.2 vs 39.8&#x2009;+&#x2009;5.6; p value, 0.005) and at the 6-week follow-up (55.4&#x2009;&#xb1;&#x2009;5.2 vs 48.6&#x2009;&#xb1;&#x2009;4.5; p value,&#x2009;<&#x2009;0.001). Based on the findings of our RCT, we conclude that both enteral access methods (NJ vs. FJ) exhibit comparable incidences of catheter-related complications. The use of NJ tube is a viable alternative to a surgical FJ, has the benefit of early removal, and saves the distress associated with a tube per abdomen.
+Personalized nutrition (PN) has been proposed as a strategy to increase the effectiveness of dietary recommendations and ultimately improve health status. We aimed to assess whether including omics-based PN in an e-commerce tool improves dietary behavior and metabolic profile in general population. A 21-wk parallel, single-blinded, randomized intervention involved 193 adults assigned to a control group following Mediterranean diet recommendations (n = 57, completers = 36), PN (n = 70, completers = 45), or personalized plan (PP, n = 68, completers = 53) integrating a behavioral change program with PN recommendations. The intervention used metabolomics, proteomics, and genetic data to assist participants in creating personalized shopping lists in a simulated e-commerce retailer portal. The primary outcome was the Mediterranean diet adherence screener (MEDAS) score; secondary outcomes included biometric and metabolic markers and dietary habits. Volunteers were categorized with a scoring system based on biomarkers of lipid, carbohydrate metabolism, inflammation, oxidative stress, and microbiota, and dietary recommendations delivered accordingly in the PN and PP groups. The intervention significantly increased MEDAS scores in all volunteers (control-3 points; 95% confidence interval [CI]: 2.2, 3.8; PN-2.7 points; 95% CI: 2.0, 3.3; and PP-2.8 points; 95% CI: 2.1, 3.4; q < 0.001). No significant differences were observed in dietary habits or health parameters between PN and control groups after adjustment for multiple comparisons. Nevertheless, personalized recommendations significantly (false discovery rate < 0.05) and selectively enhanced the scores calculated with biomarkers of carbohydrate metabolism (&#x3b2;: -0.37; 95% CI: -0.56, -0.18), oxidative stress (&#x3b2;: -0.37; 95% CI: -0.60, -0.15), microbiota (&#x3b2;: -0.38; 95% CI: -0.63, -0.15), and inflammation (&#x3b2;: -0.78; 95% CI: -1.24, -0.31) compared with control diet. Integration of personalized strategies within an e-commerce-like tool did not enhance adherence to Mediterranean diet or improved health markers compared with general recommendations. The metabotyping approach showed promising results and more research is guaranteed to further promote its application in PN. This trial was registered at clinicaltrials.gov as NCT04641559 (https://clinicaltrials.gov/study/NCT04641559?cond=NCT04641559&rank=1).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s12029-024-01080-0
+- DOI: 10.1016/j.ajcnut.2024.04.004
 
 2. Keywords
-- Esophagectomy
-- Feeding jejunostomy
-- Nasojejunal tube
-- Randomized trial
+- dietary patterns
+- genome-wide association studies
+- health status
+- healthy diets
+- lifestyle intervention
+- physiologic characterization
+- precision nutrition
+- targeted nutrition
 
 3. Key Findings
-- In this RCT, we found no significant difference in the occurrence of catheter-related complications, postoperative complication rate, catheter efficacy, and visual analog pain scores between patients with NJ tube and FJ, following THE for esophageal cancer
+- The metabotyping approach showed promising results and more research is guaranteed to further promote its application in PN
 
 This study provides insights into:
-- Esophagectomy assessment methods and outcomes
-- Feeding jejunostomy assessment methods and outcomes
-- Nasojejunal tube assessment methods and outcomes
+- dietary patterns assessment methods and outcomes
+- genome-wide association studies assessment methods and outcomes
+- health status assessment methods and outcomes

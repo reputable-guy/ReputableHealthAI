@@ -1,28 +1,25 @@
-Study Title: Analgesic effect of dance movement therapy: An fNIRS study.
+Study Title: Dietary quality and chemotherapy-induced peripheral neuropathy in colon cancer.
 
 Study Summary:
-This study aims to explores the physiological and psychological mechanisms of exercise-induced hypoalgesia (EIH) by combining the behavioral results with neuroimaging data on changes oxy-hemoglobin (HbO) in prefrontal cortex (PFC). A total of 97 healthy participants were recruited and randomly divided into three groups: a single dance movement therapy (DMT) group, a double DMT group, and control group. Evaluation indicators included the pressure pain threshold (PPT) test, the color-word stroop task (CWST) for wearing functional near-infrared spectroscopy (fNIRS), and the self-assessment manikin (SAM). The testing time is before intervention, after intervention, and one hour of sit rest after intervention. 1) Repeated measures ANOVA revealed that, there is a time * group effect on the PPT values of the three groups of participants at three time points. After 30 min of acute dance intervention, an increase in the PPT values of 10 test points occurred in the entire body of the participants in the experimental group with a significant difference than the control group. 2) In terms of fNIRS signals, bilateral DLPFC and left VLPFC channels were significantly activated in the experimental group. 3) DMT significantly awakened participants and brought about pleasant emotions, but cognitive improvement was insignificant. 4) Mediation effect analysis found that the change in HbO concentration in DLPFC may be a mediator in predicting the degree of improvement in pressure pain threshold through dance intervention (total effect &#x3b2; = 0.7140). In healthy adults, DMT can produce a diffuse EIH effect on improving pressure pain threshold, emotional experience but only showing an improvement trend in cognitive performance. Dance intervention significantly activates the left ventrolateral and bilateral dorsolateral prefrontal cortex. This study explores the central nervous system mechanism of EIH from a physiological and psychological perspective.
+Chemotherapy-induced peripheral neuropathy (CIPN) is a common and dose-limiting chemotoxicity caused by oxaliplatin. This study investigated the relationship between dietary quality and the development of moderate and/or severe CIPN in colon cancer survivors using data from the Focus on Reducing Dose-Limiting Toxicities in Colon Cancer with Resistance Exercise trial (ClinicalTrials.gov identifier NCT03291951). Diet quality was collected using a 127-item food-frequency questionnaire and was scored using the Alternative Healthy Eating Index-2010 (AHEI-2010). CIPN was assessed with the Patient-Reported Outcomes version of the Common Terminology Criteria for Adverse Events at each chemotherapy cycle. The association of dietary quality with time to the first moderate-to-severe (moderate-severe) or severe event of CIPN was estimated using Cox proportional hazards models. Only participants who received oxaliplatin were included in this analysis (n&#xa0;=&#xa0;132). Seventy-four participants (56.1%) reported moderate-severe CIPN. Higher dietary quality was associated with a significantly decreased risk of moderate-severe CIPN (hazard ratio [HR], 0.96; 95% confidence interval [CI], 0.93-0.99) and severe CIPN (HR, 0.91; 95% CI, 0.85-0.98). Consumption of red and processed meat (HR, 1.78; 95% CI, 1.07-2.83) and sugar-sweetened beverages (HR, 1.33; 95% CI, 1.10-1.59) was associated with an increased risk of moderate-severe CIPN. Consumption of sugar-sweetened beverages also was associated with an increased risk of severe CIPN (HR, 1.57; 95% CI, 1.14-2.18), whereas vegetable consumption was associated with a reduced risk of severe CIPN (HR, 0.29; 95% CI, 0.09-0.73). Among patients with colon cancer who received oxaliplatin-based chemotherapy, higher baseline dietary quality was associated with a reduced risk of moderate-severe CIPN.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1016/j.neuroimage.2024.120880
+- Publication Date: 2025
+- DOI: 10.1002/cncr.35599
 
 2. Keywords
-- Dance movement therapy
-- Dorsolateral Prefrontal Cortex
-- Emotion
-- Exercise-induced hypoalgesia
-- Pain descending pathway
-- Pressure pain threshold
+- Alternative Healthy Eating Index
+- colon cancer
+- diet quality
+- neuropathy
 
 3. Key Findings
-- 1) Repeated measures ANOVA revealed that, there is a time * group effect on the PPT values of the three groups of participants at three time points
-- 4) Mediation effect analysis found that the change in HbO concentration in DLPFC may be a mediator in predicting the degree of improvement in pressure pain threshold through dance intervention (total effect &#x3b2; = 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Dance movement therapy assessment methods and outcomes
-- Dorsolateral Prefrontal Cortex assessment methods and outcomes
-- Emotion assessment methods and outcomes
+- Alternative Healthy Eating Index assessment methods and outcomes
+- colon cancer assessment methods and outcomes
+- diet quality assessment methods and outcomes

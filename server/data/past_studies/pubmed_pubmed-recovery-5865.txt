@@ -1,24 +1,27 @@
-Study Title: Randomised controlled trial of tourniquet associated pain generated in lower limb after exsanguination by Esmarch bandage versus limb elevation.
+Study Title: Virtual Reality Action Observation and Motor Imagery to Enhance Neuroplastic Capacity in the Human Motor Cortex: A Pilot Double-blind, Randomized Cross-over Trial.
 
 Study Summary:
-Tourniquets are common adjuncts in the operating theatre but can be associated with post-operative pain. This study was designed to compare what effect pre-tourniquet Esmarch bandage exsanguination has on pain, compared to pre-tourniquet exsanguination by elevation alone. 52 volunteers (104 lower limbs) were included in this study with each volunteer acting as their own matched control. The primary outcome was patient reported pain, measured in both legs simultaneously using area under curve. Secondary outcomes were pain score during inflation and deflation, cumulative pain score, duration of recovery and blood pressure during testing. Pain after Esmarch was superior to elevation as measured by area under pain curve (68.9 SD 26.1 vs 77.2 SD 27.3, p&#x2009;=&#x2009;0.0010), independent of leg dominance. Cumulative pain scores demonstrated the same superiority after inflation (50.7 SD 17.1 vs 52.9 SD 17.0, p&#x2009;=&#x2009;0.026) but not after deflation (p&#x2009;=&#x2009;0.59). Blood pressure was not significantly different. Time to full recovery of the lower limb was the same for both groups-7.6&#xa0;min (SD 2.1&#xa0;min, p&#x2009;=&#x2009;0.80). Previous studies describe a positive effect on pain when Esmarch bandage was used prior to tourniquet inflation for upper limb. Our findings suggest the same benefit from Esmarch when it was used on lower limbs-particularly during inflation of tourniquet. In addition to pain profiles, surgeon preference and patient factors need to be considered when deciding between elevation and Esmarch bandage.
+Neuroplasticity is important for learning, development and recovery from injury. Therapies that can upregulate neuroplasticity are therefore of interest across a range of fields. We developed a novel virtual reality action observation and motor imagery (VR-AOMI) intervention and evaluated whether it could enhance the efficacy of mechanisms of neuroplasticity in the human motor cortex of healthy adults. A secondary question was to explore predictors of the change in neuroplasticity following VR-AOMI. A pre-registered, pilot randomized controlled cross-over trial was performed. Twenty right-handed adults (13 females; mean age: 23.0&#xa0;&#xb1;&#xa0;4.53&#xa0;years) completed two experimental conditions in separate sessions; VR-AOMI and control. We used intermittent theta burst stimulation (iTBS) to induce long term potentiation-like plasticity in the motor cortex and recorded motor evoked potentials at multiple timepoints as a measure of corticospinal excitability. The VR-AOMI task did not significantly increase the change in MEP amplitude following iTBS when compared to the control task (Group&#xa0;&#xd7;&#xa0;Timepoint interaction p&#xa0;=&#xa0;0.17). However, regression analysis identified the change in iTBS response following VR-AOMI was significantly predicted by the baseline iTBS response in the control task. Specifically, participants that did not exhibit the expected increase in MEP amplitude following iTBS in the control condition appear to have greater excitability following iTBS in the VR-AOMI condition (r&#xa0;=&#xa0;-0.72, p&#xa0;<&#xa0;0.001). Engaging in VR-AOMI might enhance capacity for neuroplasticity in some people who typically do not respond to iTBS. VR-AOMI may prime the brain for enhanced neuroplasticity in this sub-group.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13018-024-04749-1
+- DOI: 10.1016/j.neuroscience.2024.04.011
 
 2. Keywords
-- Lower limb
-- Pain
-- Tourniquet
+- motor cortex
+- motor imagery
+- neuroplasticity
+- non-invasive brain stimulation
+- transcranial magnetic stimulation
+- virtual reality
 
 3. Key Findings
-- Cumulative pain scores demonstrated the same superiority after inflation (50
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Lower limb assessment methods and outcomes
-- Pain assessment methods and outcomes
-- Tourniquet assessment methods and outcomes
+- motor cortex assessment methods and outcomes
+- motor imagery assessment methods and outcomes
+- neuroplasticity assessment methods and outcomes

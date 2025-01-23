@@ -1,27 +1,37 @@
-Study Title: Ecological Momentary Intervention to Replace Sedentary Time With Physical Activity to Improve Executive Function in Midlife and Older Latino Adults: Pilot Randomized Controlled Trial.
+Study Title: The Physical and Psychological Effects of Telerehabilitation-Based Exercise for Patients With Nonspecific Low Back Pain: Prospective Randomized Controlled Trial.
 
 Study Summary:
-Exercise interventions often improve moderate to vigorous physical activity, but simultaneously increase sedentary time due to a compensatory resting response. A higher level of sedentary time is associated with a lower level of executive function, while increased moderate to vigorous physical activity is associated with improved global cognition and working memory among Latino adults. Latino adults are the fastest-growing minority group in the United States and are at high risk for cognitive decline, spend more time sedentary compared to non-Hispanic populations, and engage in low levels of physical activity. Interventions that are culturally appropriate for Latino adults to replace sedentary time with physical activity are critically needed. This study aims to develop and test the feasibility and acceptability of an ecological momentary intervention (EMI; delivered in real time) that is individually designed to replace sedentary time with physical activity in Latino adults. This pilot study randomized 39 (n=26, 67% female; mean age 61, SD 5.8 years) community-dwelling, Spanish-speaking Latino adults (1:1 allocation) to either a 6-week EMI program designed to replace sitting time with physical activity (20/39, 51%) or physical activity guidelines education (19/39, 49%). The program was conducted on the web and in Spanish. The intervention was individualized based on individual interview responses. The intervention included the use of a Fitbit activity monitor, weekly didactic phone meetings, interactive tools (SMS text messages), and coach-delivered feedback. Feasibility and acceptability were assessed via study satisfaction (Likert scales), motivation (ecological momentary assessment), retention, and compliance. Sedentary time and physical activity were assessed via 7-day actigraphy. Cognitive performance was assessed via the trail making test part A and B (part B=executive function) and via the National Institutes of Health Toolbox remote cognitive assessment. Statistical analysis included a linear model on change score from baseline, adjusting for age, sex, and education, emphasizing effect size. Participant satisfaction with EMI was high (9.4/10), with a high degree of motivation to replace sitting time with physical activity (9.8/10). The intervention compliance rate was 79% with low difficulty using the Fitbit (1.7/10). Weekly step count increased in the intervention group by 5543 steps (group difference: d=0.54; P=.05) and sedentary time decreased by a mean 348 (SD 485) minutes (group difference: d=0.47; P=.24) compared to controls, with moderately strong effect sizes. The trail making test part B improved in the intervention group (mean -35.26, SD 60.35 seconds), compared to the control group (mean 7.19, SD 46 seconds; group difference: d=0.74; P=.01). No group differences were observed in other cognitive measures. An individualized EMI designed for midlife and older Latino adults has the potential to replace sitting time with physical activity and improve executive functioning. The intervention was feasible and well received with a high degree of satisfaction. ClinicalTrials.gov NCT04507464; https://tinyurl.com/44c4thk5.
+Physical therapy has demonstrated efficacy in managing nonspecific low back pain (NLBP) among patients. Nevertheless, the prevalence of NLBP poses a challenge, as the existing medical infrastructure may be insufficient to care for the large patient population, particularly in geographically remote regions. Telerehabilitation emerges as a promising method to address this concern by offering a method to deliver superior medical care to a greater number of patients with NLBP. The purpose of this study is to demonstrate the physical and psychological effectiveness of a user-centered telerehabilitation program, consisting of a smartphone app and integrated sensors, for patients with NLBP. This was a single-center, prospective, randomized controlled trial for individuals with NLBP for a duration exceeding 3 months. All participants were assigned randomly to either the telerehabilitation-based exercise group (TBEG) or the outpatient-based exercise group (OBEG). All participants completed a 30-minute regimen of strength and stretching exercises 3 times per week, for a total of 8 weeks, and were required to complete assessment questionnaires at 0, 2, 4, and 8 weeks. The TBEG completed home-based exercises and questionnaires using a telerehabilitation program, while the OBEG completed them in outpatient rehabilitation. The Oswestry Disability Index (ODI) served as the primary outcome measure, assessing physical disability. Secondary outcomes included the Numeric Pain Rating Scale, Fear-Avoidance Beliefs Questionnaire, and 36-item Short-Form Health Survey. In total, 54 of 129 eligible patients were enrolled and randomly assigned to the study. The completion of all the interventions and assessments in the TBEG and OBEG was 89% (24/27) and 81% (22/27). The findings indicate that no statistical significance was found in the difference of ODI scores between the TBEG and the OBEG at 2 weeks (mean difference -0.91; odds ratio [OR] 0.78, 95% CI -5.96 to 4.14; P=.72), 4 weeks (mean difference -3.80; OR 1.33, 95% CI -9.86 to -2.25; P=.21), and 8 weeks (mean difference -3.24; OR 0.92, 95% CI -8.65 to 2.17; P=.24). The improvement of the ODI in the TBEG (mean -16.42, SD 7.30) and OBEG (mean -13.18, SD 8.48) was higher than 10 after an 8-week intervention. No statistically significant differences were observed between the 2 groups at the 8-week mark regarding the Fear-Avoidance Beliefs Questionnaire (mean difference 8.88; OR 1.04, 95% CI -2.29 to 20.06; P=.12) and Numeric Pain Rating Scale (mean difference -0.39; OR 0.44, 95% CI -2.10 to 1.31; P=.64). In the subgroup analysis, there was no statistically significant difference in outcomes between the 2 groups. Telerehabilitation interventions demonstrate comparable therapeutic efficacy for individuals with NLBP when compared to conventional outpatient-based physical therapy, yielding comparable outcomes in pain reduction and improvement in functional limitations.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/55079
+- DOI: 10.2196/56580
 
 2. Keywords
-- Latinos
-- cognition
+- back pain
+- efficacy
+- exercise
+- health survey
+- low back pain
+- medical infrastructure
 - mobile phone
-- older adults
-- physical activity
-- sedentary time
+- nonspecific low back pain
+- pain intensity
+- physical therapy
+- psychological
+- quality of life
+- randomized controlled trial
+- telerehabilitation
+- therapeutic
 
 3. Key Findings
-- Findings extraction requires manual review
+- Physical therapy has demonstrated efficacy in managing nonspecific low back pain (NLBP) among patients
+- The findings indicate that no statistical significance was found in the difference of ODI scores between the TBEG and the OBEG at 2 weeks (mean difference -0
 
 This study provides insights into:
-- Latinos assessment methods and outcomes
-- cognition assessment methods and outcomes
-- mobile phone assessment methods and outcomes
+- back pain assessment methods and outcomes
+- efficacy assessment methods and outcomes
+- exercise assessment methods and outcomes

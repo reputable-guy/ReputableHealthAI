@@ -1,20 +1,26 @@
-Study Title: Exercise and Heat Stress in Well-Healed Burn Survivors: Effects of Cooling Modalities on Thermal and Perceptual Responses.
+Study Title: Different intensities of aerobic training for patients with type 2 diabetes mellitus and knee osteoarthritis: a randomized controlled trial.
 
 Study Summary:
-Burn injuries that require grafting impair thermoregulation, which may dissuade individuals with such injuries from being physically active. We tested the hypothesis that cooling modalities attenuate core temperature elevations and perceptions of heat stress during physical activity in the heat among adults with well-healed burn injuries. Adults with no burn injuries (non-burned), 20%-40% body surface area burn injuries (moderate burn), and >40% body surface area burn injuries (large burn) performed 1 h of moderate-intensity exercise (2.5 &#xb1; 0.2 mph and 2% grade) on four different occasions in two environmental conditions (30&#xb0;C and 39&#xb0;C, 40% relative humidity). Within each environmental condition, we applied one of the following cooling modalities, random assigned, for each visit: no cooling (control), fan at 4 m&#xb7;s -1 (fan), water spray every 5 min (water spray; scaled to burn area size), or a combination of water spray + fan. In 30&#xb0;C, perceptual strain index (PeSI) was reduced in the non-burned and moderate burn groups with water spray + fan, whereas PeSI was reduced with all cooling modalities in the large burn group. The cooling modalities did not affect core temperature responses. In the 39&#xb0;C environment, water spray and water spray + fan attenuated the elevation in core temperature ( P &#x2264; 0.007) only in the large burn group. In the moderate burn group, PeSI was decreased with water spray + fan ( P = 0.017). In the large burn group, both water spray alone and water spray + fan ( P &#x2264; 0.041) lowered PeSI. For both environments across burn groups, the applied cooling modalities were generally more effective at reducing indices of perceptual strain relative to indices of thermal strain (e.g., core temperature).
+The purpose of this study was to compare different intensities of aerobic exercise for patients with knee osteoarthritis (KOA) and type 2 diabetes mellitus (T2DM) in terms of glycemic control, pain relief, and functional outcomes. A prospective randomized open-label parallel multicenter clinical trial conducted at two hospitals in Shanghai and Sichuan that included 228 patients with type 2 diabetes mellitus (T2DM) and knee osteoarthritis (KOA). Enrollment occurred between January 2021 and February 2023, and follow-up was completed in September 2023. Participants were randomized to threshold training/high-intensive stationary cycling training (n=76), intensive endurance/moderate-intensive stationary cycling training (n=77), and regular rehabilitation programs (n=75). The primary outcome at the 6-month follow-up was the HbA1c level. Key secondary outcomes included the Knee Injury and Osteoarthritis Outcome Score (KOOS) subscale of pain and quality of life. Of 228 patients, 212 (93%) completed the trial. The mean adjusted (sex, baseline BMI, and baseline outcome measures) HbA1c level at the 6-month follow-up decreased significantly in the high-intensive training group compared with other groups (high-intensity group vs. control group; difference, 0.51%, 95% confidence interval, 0.05% to 1.15%). Mean KOOS subscales of pain and quality of life were statistically significantly different between the control group and moderate-intensity or high-intensity groups, but no statistical differences were noted between the different intensities of aerobic exercise. Patients in all groups achieved a greater reduction in BMI but no significant differences were observed between groups. In KOA and T2DM patients, high-intensity stationary cycling can significantly improve glycemic control compared with moderate-intensity and regular rehabilitation programs. However, high-intensity stationary cycling does not exert a superior effect on pain relief and functional improvement for KOA compared with moderate-intensity and regular rehabilitation programs.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1249/MSS.0000000000003557
+- Publication Date: 2024
+- DOI: 10.3389/fendo.2024.1463587
 
 2. Keywords
-
+- HbA1c
+- KOOS
+- aerobic training
+- knee osteoarthritis
+- type 2 diabetes mellitus
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- HbA1c assessment methods and outcomes
+- KOOS assessment methods and outcomes
+- aerobic training assessment methods and outcomes

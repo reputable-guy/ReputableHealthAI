@@ -1,25 +1,26 @@
-Study Title: Assessing the influence of insulin type (ultra-rapid vs rapid insulin) and exercise timing on postprandial exercise-induced hypoglycaemia risk in individuals with type 1 diabetes: a randomised controlled trial.
+Study Title: Where's the Joy in That? Sexual Minority College Students Report Lower Physical Activity Engagement and Enjoyment Compared to Heterosexual Students.
 
 Study Summary:
-The relationship between pre-meal insulin type, exercise timing and the risk of postprandial exercise-induced hypoglycaemia in people living with type 1 diabetes is unknown. We aimed to evaluate the effects of exercise timing (60 vs 120 min post meal) and different insulin types (aspart vs ultra-rapid aspart) on hypoglycaemic risk. This was a four-way crossover randomised trial including 40 individuals with type 1 diabetes using multiple daily injections (mean HbA56 mmol/mol [7.4%]). Participants, who were recruited from the Montreal Clinical Research Institute, undertook 60 min cycling sessions (60% of) after breakfast (60 min [EX60min] or 120 min [EX120min] post meal) with 50% of their usual insulin dose (aspart or ultra-rapid aspart). Eligibility criteria included age &#x2265;18 years old, clinical diagnosis of type 1 diabetes for at least 1 year and HbA&#x2264;80 mmol/mol (9.5%). Participants were allocated using sequentially numbered, opaque sealed envelopes. Participants were masked to their group assignment, and each participant was allocated a unique identification number to ensure anonymisation. The primary outcome was change in blood glucose levels between exercise onset and nadir. Prior to exercise onset, time spent in hyperglycaemia was lower for EX60min vs EX120min (time >10.0 mmol/l: 56.6% [1.2-100%] vs 78.0% [52.7-97.9%]; p<0.001). The glucose reduction between exercise onset and nadir was less pronounced with EX60min vs EX120min (-3.8&#xb1;2.7 vs -4.7&#xb1;2.5 mmol/l; p<0.001). A similar number of hypoglycaemic events occurred during both exercise timings. Blood glucose between exercise onset and nadir decreased less with ultra-rapid aspart compared with aspart (-4.1&#xb1;2.3 vs -4.4&#xb1;2.8 mmol/l; p=0.037). While a similar number of hypoglycaemic events during exercise were observed, less post-exercise hypoglycaemia occurred with ultra-rapid aspart (n=0, 0%, vs n=15, 38%; p=0.003). No interactions between insulin types and exercise timings were found. EX60min blunted the pre-exercise glucose increase following breakfast and was associated with a smaller glucose reduction during exercise. Ultra-rapid aspart led to a smaller blood glucose reduction during exercise and might be associated with diminished post-exercise hypoglycaemia. ClinicalTrials.gov NCT03659799 FUNDING: This study was funded by Novo Nordisk Canada.
+Sexual minority (e.g. non-heterosexual) individuals are at greater risk for negative health outcomes, often linked to inadequate physical activity (PA). The purpose of this study was to assess PA levels and PA enjoyment among college students, by sexual orientation. Data were collected from a volunteer sample of college students enrolled in general health and wellness courses offered at a large, Northeastern U.S. university via an online survey. Participants self-reported demographic information, PA levels using the Global Physical Activity Questionnaire (GPAQ), and PA enjoyment using a 7-item Physical Activity Enjoyment scale (PACES). Among participants (&#x2009;=&#x2009;1471), independent sample t-tests showed that sexual minority (SM) students reported significantly lower mean MET-mins/week of MPA (568.09&#x2009;&#xb1;&#x2009;488.12 vs.&#x2009;=&#x2009;469.95&#x2009;&#xb1;&#x2009;471.51;&#x2009;=&#x2009;.006) and VPA (1089.54&#x2009;&#xb1;&#x2009;1110.64 vs.&#x2009;=&#x2009;628.93&#x2009;&#xb1;&#x2009;942.78;&#x2009;<&#x2009;.001), ST days/week (1.93&#x2009;&#xb1;&#x2009;1.90 vs.&#x2009;=&#x2009;1.00&#x2009;&#xb1;&#x2009;1.60;&#x2009;<&#x2009;.001), and reported lower total PACES score (7.80&#x2009;&#xb1;&#x2009;1.92 vs.&#x2009;=&#x2009;6.87&#x2009;&#xb1;&#x2009;2.14;&#x2009;<&#x2009;.001) compared to heterosexual students. Bootstrap mediation analyses with 5000 samples revealed that PACES has direct and indirect mediation effects on the association between sexual orientation status and MET-mins/week of MPA and VPA, and ST days/week. The current findings provide evidence of the underlying mechanisms linked to the physical activity disparities experienced by SM college students compared to heterosexual students. Additionally, PACES can serve as a facilitator to promote PA engagement among SM students. These findings can inform future intervention work to target PA enjoyment for meaningful behavior change.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00125-024-06234-0
+- DOI: 10.1080/02701367.2024.2383944
 
 2. Keywords
-- Exercise timing
-- Hypoglycaemia
-- Postprandial exercise
-- Ultra-rapid insulin
+- Exercise
+- LGBTQ
+- mediation
+- young adult
 
 3. Key Findings
-- No interactions between insulin types and exercise timings were found
+- Among participants (&#x2009;=&#x2009;1471), independent sample t-tests showed that sexual minority (SM) students reported significantly lower mean MET-mins/week of MPA (568
+- Bootstrap mediation analyses with 5000 samples revealed that PACES has direct and indirect mediation effects on the association between sexual orientation status and MET-mins/week of MPA and VPA, and ST days/week
 
 This study provides insights into:
-- Exercise timing assessment methods and outcomes
-- Hypoglycaemia assessment methods and outcomes
-- Postprandial exercise assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- LGBTQ assessment methods and outcomes
+- mediation assessment methods and outcomes

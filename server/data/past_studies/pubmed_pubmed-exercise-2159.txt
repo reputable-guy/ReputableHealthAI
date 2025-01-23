@@ -1,27 +1,29 @@
-Study Title: The Efficacy of 12-Week Progressive Home-Based Strength and Tai-Chi Exercise Snacking in Older Adults: A Mixed-Method Exploratory Randomised Control Trial.
+Study Title: Impact of cognitive-aerobic exercise training on brain-derived neurotrophic factor, dual-tasking abilities, and mood state in individuals with multiple sclerosis.
 
 Study Summary:
-Maintaining physical function is important for independence and frailty prevention in later life, but very few older adults meet exercise recommendations. Previous studies found that 4-week 'exercise and Tai-chi snacking' as a viable alternative to traditional exercise is acceptable to healthy older adults. This study aimed to investigate the effectiveness of a 12-week progressive exercise and Tai-chi snacking programme on physical function and psychological outcomes in pre-frail older adults. Randomised controlled trial. Community-dwelling older adults. 90 older adults with impaired strength and balance were recruited. Participants were randomly allocated to an intervention or waitlist control group. A 12-week progressive exercise and Tai-chi snacking programme. Physical function (the short physical performance battery (SPPB), single-leg balance test and sit-to-stand test) was remotely measured at participants' homes via video calls at baseline, 4-, 8-, and 12-weeks. The self-reported psychological outcomes were also assessed every 4 weeks using online questionnaires. A subset of 40 participants also completed in-person functional assessments, and 26 intervention participants underwent semi-structured interviews to feedback on their experiences. The 12-week progressive home-based exercise and Tai-chi snacking improved SPPB strength (estimated mean difference in week 4: 1.05; week 8: 0.79; and week 12: 0.79) and balance (estimated mean difference in week 4: 0.71; week 8: 0.57; and week 12: 0.65) at each timepoint compared to control group. Timed-up-and-go (estimated mean difference in week 4: 1.94; week 8: 1.58; and week 12: 1.1) and total SPPB scores (estimated mean difference in week 4: 2.24; week 8: 1.79; and week 12: 1.76) were also better in the intervention group compared to the control group in lab subset participants. Based on the qualitative findings, Participants found the programme accessible and beneficial, making it suitable for older adults and increasing self-efficacy in physical activities. The home-based exercise and Tai-chi snacking programme significantly improved lower extremity strength, balance, and mobility in pre-frail older adults. This programme is considered to be a beneficial, acceptable and easy implemented physical function intervention.
+Multiple sclerosis (MS) is a chronic neurological disorder characterized by demyelination and neurodegeneration, leading to various physical, cognitive, and emotional challenges. Dual-task (DT) training, involving performing mental and physical tasks simultaneously, addresses the complex interaction between motor and cognitive functions. Given the extensive physical, cognitive, and mood-related issues in this population, this study aimed to examine the effects of combined aerobic-cognitive training (Brythonic) and aerobic training on brain-derived neurotrophic factor (BDNF), DT performance, and mood state in MS patients. Thirty patients (22 women and 8 men) with relapsing-remitting multiple sclerosis (RRMS) and an expanded disability status scale (EDSS) score below four were randomly assigned to three groups: aerobic-cognitive training (Brythonic), aerobic training, and control. The training groups participated in 10 weeks of home-based online training, with two sessions per week. Each session included a 10-minute warmup, 15 to 35 min of exercise, and a 5-minute cool-down. The Brythonic group performed aerobic movements while reciting motivational words, forming a complete positive sentence over ten weeks. The aerobic group performed the same movements without cognitive tasks. Serum BDNF levels, DT performance, and profile of mood states (POMS) were measured before and after the 10-week training period. A two-way ANOVA with repeated measures was used to analyze differences between and within groups, with a significance level of P &#x2264; 0.05. BDNF levels significantly increased in the Brythonic group (P = 0.048) and significantly decreased in the control group compared to baseline. In the DT test, the Brythonic group showed significant improvements in the number of correct answers and DT values compared to the aerobic and control groups. The Brythonic group also had a significantly reduced response time compared to the control group. Additionally, selective speed significantly increased in both training groups. In the POMS test, the Brythonic group showed significant improvements in all items except depression compared to the control group. Within the Brythonic group, all items significantly improved from baseline. This study demonstrated that combining motivational words with aerobic movements significantly impacts BDNF levels, DT performance, and mood states. Adding mental exertion to physical activity appears beneficial for patients with MS. Future studies should re-examine these findings with a larger patient cohort.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.14283/jfa.2024.32
+- Publication Date: 2025
+- DOI: 10.1016/j.physbeh.2024.114756
 
 2. Keywords
-- Tai-chi snacking
-- Pre-frail
-- exercise snacks
-- physical function improvement
-- progressive home-based exercise
+- BDNF
+- Brythonic
+- Cognitive Impairment
+- MS
+- Physical Activity
+- Vitality Principle of Training
 
 3. Key Findings
-- Previous studies found that 4-week 'exercise and Tai-chi snacking' as a viable alternative to traditional exercise is acceptable to healthy older adults
-- Based on the qualitative findings, Participants found the programme accessible and beneficial, making it suitable for older adults and increasing self-efficacy in physical activities
+- In the DT test, the Brythonic group showed significant improvements in the number of correct answers and DT values compared to the aerobic and control groups
+- In the POMS test, the Brythonic group showed significant improvements in all items except depression compared to the control group
+- This study demonstrated that combining motivational words with aerobic movements significantly impacts BDNF levels, DT performance, and mood states
 
 This study provides insights into:
-- Tai-chi snacking assessment methods and outcomes
-- Pre-frail assessment methods and outcomes
-- exercise snacks assessment methods and outcomes
+- BDNF assessment methods and outcomes
+- Brythonic assessment methods and outcomes
+- Cognitive Impairment assessment methods and outcomes

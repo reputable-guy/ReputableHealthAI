@@ -1,26 +1,27 @@
-Study Title: Comparison of the effects of pelvic floor muscle training and modified pilates exercises in elderly women with stress urinary incontinence: A randomized clinical trial.
+Study Title: Metformin improves skeletal muscle and physical capacity by stabilizing neuromuscular junction in older adults.
 
 Study Summary:
-The aim of this study was to compare the effects of pelvic floor muscle training (PFMT) and modified pilates exercises (MPE) in elderly women with stress urinary incontinence (SUI). Both randomized groups [Group 1: PFMT (n&#xa0;=&#xa0;17), Group 2: MPE (n&#xa0;=&#xa0;17)] performed their exercises twice a week for 12&#xa0;weeks. Incontinence Severity Index (ISI), Urogenital Distress Inventory-Short Form (UDI-6) and Incontinence Impact Questionnaire-Short Form (IIQ-7) were used to assess SUI frequency and level of exposure from symptoms, electromyography (EMG) device was used to assess PFM activation response and a stabilizer was used to assess transversus abdominis (TrA) muscle strength. The assessments were performed at baseline and at week 12. While in-group assessment there were statistically significant differences in ISI, UDI-6, IIQ-7 in both groups at week 12 (p&#xa0;<&#xa0;0.05); in the assessment between groups, there were statistically significant difference for EMG-work avarage (U&#xa0;=&#xa0;60.00, P&#xa0;=&#xa0;0.02), EMG-work peak (U&#xa0;=&#xa0;62,50, P&#xa0;=&#xa0;0.03) and EMG-rest peak (U&#xa0;=&#xa0;61,50, P&#xa0;=&#xa0;0.03) in favor of Group 1 and TrA muscle strength (U&#xa0;=&#xa0;61.00, P&#xa0;=&#xa0;0.02) in favor of Group 2 from baseline to week 12 (p&#xa0;<&#xa0;0.05). In summary, MPE can be considered alternative and safe exercise in clinic for elderly women with SUI who do not want to receive PFMT for various reasons.
+Metformin is an anti-diabetic drug with protective effects on skeletal muscle and physical capacity. However, the relevant mechanisms of action on skeletal muscle remain poorly understood. We investigated the potential contribution of neuromuscular junction (NMJ) degradation to skeletal muscle and physical capacity in geriatric men taking metformin. We recruited geriatric men for placebo (Age=73.1 &#xb1; 4.2 years, n = 70) and metformin (Age=70.1 &#xb1; 4.5 years, n = 62) groups. The patients in the metformin group received 1700 mg of metformin twice a day for 16 weeks. We measured plasma c-terminal agrin-fragment-22 (CAF22) and neurofilament light chain (NfL) as markers of neuromuscular junction (NMJ) degradation and neurodegeneration, respectively, with relevance to handgrip strength (HGS) and short physical performance battery (SPPB; a marker of physical capacity) in older adults taking metformin. These findings were associated with reduced oxidative stress in the metformin group. At baseline, both groups had similar HGS, gait speed, SPPB scores, and plasma biochemistry. Metformin improved HGS, gait speed, and cumulative SPPB scores in geriatric men (all p < 0.05). Metformin also reduced plasma CAF22 and NfL levels when compared to baseline. Similar observations were not found in the placebo group. Correlation analysis revealed significant correlations of plasma CAF22 with HGS, gait speed, and cumulative SPPB scores in the metformin group. These observations were associated with reduced oxidative stress in the metformin group. Altogether, the restorative effects of metformin on skeletal muscle and physical capacity involve NMJ stabilization. Our data is clinically relevant for geriatric men with functional disabilities.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ejogrb.2024.07.033
+- DOI: 10.1016/j.archger.2024.105587
 
 2. Keywords
-- Aging
-- Exercise
-- Pelvic floor
-- Urinary incontinence
-- Women
+- CAF22
+- Handgrip strength
+- Metformin
+- Neuromuscular junction
+- Short physical performance battery
 
 3. Key Findings
-- Findings extraction requires manual review
+- Similar observations were not found in the placebo group
+- Correlation analysis revealed significant correlations of plasma CAF22 with HGS, gait speed, and cumulative SPPB scores in the metformin group
 
 This study provides insights into:
-- Aging assessment methods and outcomes
-- Exercise assessment methods and outcomes
-- Pelvic floor assessment methods and outcomes
+- CAF22 assessment methods and outcomes
+- Handgrip strength assessment methods and outcomes
+- Metformin assessment methods and outcomes

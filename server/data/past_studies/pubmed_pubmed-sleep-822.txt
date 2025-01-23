@@ -1,25 +1,26 @@
-Study Title: CPAP may promote an endothelial inflammatory milieu in sleep apnoea after coronary revascularization.
+Study Title: Is it Time to Include Wearable Sleep Trackers in the Applied Psychologists' Toolbox?
 
 Study Summary:
-Continuous positive airway pressure (CPAP) has failed to reduce cardiovascular risk in obstructive sleep apnoea (OSA) in randomized trials. CPAP increases angiopoietin-2, a lung distension-responsive endothelial proinflammatory marker associated with increased cardiovascular risk. We investigated whether CPAP has unanticipated proinflammatory effects in patients with OSA and cardiovascular disease. Patients with OSA (apnoea-hypopnea index [AHI] &#x2265;15 events/h without excessive sleepiness) in the Randomized Intervention with CPAP in Coronary Artery Disease and OSA study were randomized to CPAP or usual care following coronary revascularization. Changes in plasma levels of biomarkers of endothelial (angiopoietin-2, Tie-2, E-selectin, vascular endothelial growth factor [VEGF-A]) and lung epithelial (soluble receptor of advanced glycation end-products [sRAGE]) function from baseline to 12-month follow-up were compared across groups and associations with cardiovascular morbidity and mortality assessed. Patients with OSA (n&#xa0;=&#xa0;189; 84% men; age 66&#xa0;&#xb1;&#xa0;8 years, BMI 28&#xa0;&#xb1;&#xa0;3.5&#xa0;kg/m, AHI 41&#xa0;&#xb1;&#xa0;23 events/h) and 91 patients without OSA participated. Angiopoietin-2 remained elevated whereas VEGF-A declined significantly over 12 months in the CPAP group (n&#xa0;=&#xa0;91). In contrast, angiopoietin-2 significantly declined whereas VEGF-A remained elevated in the usual care (n&#xa0;=&#xa0;98) and OSA-free groups. The changes in angiopoietin-2 and VEGF-A were significantly different between CPAP and usual care, whereas Tie-2, sRAGE and E-selectin were similar. Greater 12-month levels of angiopoietin-2 were associated with greater mortality. Greater CPAP levels were associated with worse cardiovascular outcomes. Greater CPAP levels increase proinflammatory, lung distension-responsive angiopoietin-2 and reduce cardioprotective angiogenic factor VEGF-A compared to usual care, which may counteract the expected cardiovascular benefits of treating OSA. National Institutes of Health/National Heart, Lung, and Blood Institute; Swedish Research Council; Swedish Heart-Lung Foundation; ResMed Foundation.
+Wearable sleep trackers are increasingly used in applied psychology. Particularly, the recent boom in the fitness tracking industry has resulted in a number of relatively inexpensive consumer-oriented devices that further enlarge the potential applications of ambulatory sleep monitoring. While being largely positioned as wellness tools, wearable sleep trackers could be considered useful health devices supported by a growing number of independent peer-reviewed studies evaluating their accuracy. The inclusion of sensors that monitor cardiorespiratory physiology, diurnal activity data, and other environmental signals allows for a comprehensive and multidimensional approach to sleep health and its impact on psychological well-being. Moreover, the increasingly common combination of wearable trackers and experience sampling methods has the potential to uncover within-individual processes linking sleep to daily experiences, behaviors, and other psychosocial factors. Here, we provide a concise overview of the state-of-the-art, challenges, and opportunities of using wearable sleep-tracking technology in applied psychology. Specifically, we review key device profiles, capabilities, and limitations. By providing representative examples, we highlight how scholars and practitioners can fully exploit the potential of wearable sleep trackers while being aware of the most critical pitfalls characterizing these devices. Overall, consumer wearable sleep trackers are increasingly recognized as a valuable method to investigate, assess, and improve sleep health. Incorporating such devices in research and professional practice might significantly improve the quantity and quality of the collected information while opening the possibility of involving large samples over representative time periods. However, a rigorous and informed approach to their use is necessary.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ebiom.2024.105015
+- DOI: 10.1017/SJP.2024.8
 
 2. Keywords
-- Cardiovascular risk
-- Continuous positive airway pressure
-- Inflammation
-- Sleep apnoea
+- applied psychology
+- sleep assessment
+- sleep health
+- wearable sleep trackers
+- wearable technology
 
 3. Key Findings
-- National Institutes of Health/National Heart, Lung, and Blood Institute; Swedish Research Council; Swedish Heart-Lung Foundation; ResMed Foundation
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cardiovascular risk assessment methods and outcomes
-- Continuous positive airway pressure assessment methods and outcomes
-- Inflammation assessment methods and outcomes
+- applied psychology assessment methods and outcomes
+- sleep assessment assessment methods and outcomes
+- sleep health assessment methods and outcomes

@@ -1,26 +1,20 @@
-Study Title: Prenatal and Pediatric Primary Care-Based Child Obesity Prevention: Effects of Adverse Social Determinants of Health on Intervention Attendance and Impact.
+Study Title: Sugar tax and product reformulation proposals reduce the perceived legitimacy of health-promotion institutions: a randomized population-based survey experiment.
 
 Study Summary:
-Adverse social determinants of health (SDoHs), specifically psychosocial stressors and material hardships, are associated with early childhood obesity. Less is known about whether adverse SDoHs modify the efficacy of early childhood obesity prevention programs.We conducted a secondary analysis of publicly insured birthing parent-child dyads with Latino backgrounds participating in a randomized controlled trial of the Starting Early Program (StEP), a child obesity prevention program beginning in pregnancy. We measured baseline adverse SDoHs categorized as psychosocial stressors (low social support, single marital status, and maternal depressive symptoms) and material hardships (food insecurity, housing disrepair, and financial difficulties) individually and cumulatively in the third trimester. Logistic regression models tested effects of adverse SDoHs on StEP attendance. We then tested whether adverse SDoHs moderated intervention impacts on weight at age 2 years.We observed heterogeneous effects of adverse SDoHs on outcomes in 358 parent-child dyads. While housing disrepair decreased odds of higher attendance [adjusted odds ratio (aOR) 0.52, 95% confidence interval (CI): 0.29-0.94], high levels of psychosocial stressors doubled odds of higher attendance (aOR 2.36, 95% CI: 1.04-5.34). Similarly, while certain adverse SDoHs diminished StEP impact on weight (housing disrepair), others (high psychosocial stress) enhanced StEP impact on weight.Effects of adverse SDoHs on intervention outcomes depend on the specific adverse SDoH. Highest engagement and benefit occurred in those with high psychosocial stress at baseline, suggesting that StEP components may mitigate aspects of psychosocial stressors. Findings also support integration of adverse SDoH assessment into strategies to enhance obesity prevention impacts on families with material hardships.This study is registered on clinicaltrials.gov: Starting Early Obesity Prevention Program (NCT01541761); https://clinicaltrials.gov/ct2/show/NCT01541761.
+Structural nutrition interventions like a sugar tax or a product reformulation are strongly supported among the public health community but may cause a considerable backlash (e.g. inspiring aversion to institutions initiating the interventions among citizens). Such a backlash potentially undermines future health-promotion strategies. This study aims to uncover whether such backlash exists. We fielded a pre-registered randomized, population-based survey experiment among adults from the Longitudinal Internet Studies for the Social Sciences panel (n&#x2009;=&#x2009;1765; based on a random sampling of the Dutch population register). Participants were randomly allocated to the control condition (brief facts about health-information provision/nudging), or one of two experimental groups (the same facts, expanded with either a proposed sugar tax on or reformulation of sugar-sweetened beverages). Ordinary least squares regression was used to estimate the proposed interventions' effects on four outcome variables: trust in health-promotion institutions involved; perceptions that these institutions have citizens' well-being in mind (i.e. benevolence); perceptions that these institutions' perspectives are similar to those of citizens (i.e. alignment of perspectives); and attitudes toward nutrition information. Trust, perceived benevolence and perceived alignment of perspectives were affected negatively by a proposed sugar tax (-0.24, 95% CI -0.38 to -0.10; -0.15, -0.29 to -0.01; -0.15, -0.30 to 0.00) or product reformulation (-0.32, -0.46 to -0.18; -0.24, -0.37 to -0.11; -0.18, 0.33 to -0.03), particularly among the non-tertiary educated respondents. Sugar taxes or product reformulations may delegitimize health-promotion institutions, potentially causing public distancing from or opposition to these bodies. This may be exploited by political and commercial parties to undermine official institutions. https://osf.io/qr9jy/?view_only=5e2e875a1fc348f3b28115b7a3fdfd90. Registered 3 February 2022.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1089/chi.2023.0149
+- DOI: 10.1093/eurpub/ckae013
 
 2. Keywords
-- early childhood obesity
-- intervention
-- nutrition
-- parenting
-- social determinants of health
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- early childhood obesity assessment methods and outcomes
-- intervention assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- General research methodology and outcomes

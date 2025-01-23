@@ -1,24 +1,26 @@
-Study Title: Prevalence of lifestyle-related behavioral information in claims data in the U.S.
+Study Title: Mobile Application Increased Nutrition Knowledge Among Brazilian Physicians.
 
 Study Summary:
-Given their association with varying health risks, lifestyle-related behaviors are essential to consider in population-level disease prevention. Health insurance claims are a key source of information for population health analytics, but the availability of lifestyle information within claims data is unknown. Our goal was to assess the availability and prevalence of data items that describe lifestyle behaviors across several domains within a large U.S. claims database. We conducted a retrospective, descriptive analysis to determine the availability of the following claims-derived lifestyle domains: nutrition, eating habits, physical activity, weight status, emotional wellness, sleep, tobacco use, and substance use. To define these domains, we applied a serial review process with three physicians to identify relevant diagnosis and procedure codes within claims for each domain. We used enrollment files and medical claims from a large national U.S. health plan to identify lifestyle relevant codes filed between 2016 and 2020. We calculated the annual prevalence of each claims-derived lifestyle domain and the proportion of patients by count within each domain. Approximately half of all members within the sample had claims information that identified at least one lifestyle domain (2016&#xa0;=&#xa0;41.9%; 2017&#xa0;=&#xa0;46.1%; 2018&#xa0;=&#xa0;49.6%; 2019&#xa0;=&#xa0;52.5%; 2020&#xa0;=&#xa0;50.6% of patients). Most commonly identified domains were weight status (19.9-30.7% across years), nutrition (13.3-17.8%), and tobacco use (7.9-9.8%). Our study demonstrates the feasibility of using claims data to identify key lifestyle behaviors. Additional research is needed to confirm the accuracy and validity of our approach and determine its use in population-level disease prevention.
+To assess whether using a Dietary Approaches to Stop Hypertension (DASH) diet recommendation application increases primary care physicians' knowledge and dietary counseling skills. A randomized controlled trial. Brazilian public primary care service. Two hundred and twenty-two physicians (intervention group: n&#xa0;=&#xa0;111; control group: n&#xa0;=&#xa0;111). Thirty days of using the Dieta Dash application. The application provides information about nutritional recommendations for hypertension management. Nutrition knowledge score. self-assessment of knowledge, self-confidence, assessment of eating habits, and barriers to dietary counseling. Linear mixed-effects models for repeated measures and generalized estimating equations for comparing changes between groups. A total of 66.2% of participants completed the follow-up. There was no significant difference between the groups regarding the mean knowledge score (P&#xa0;=&#xa0;0.15). The prevalence of high knowledge increased by 12% (prevalence ratio [PR]&#xa0;=&#xa0;1.12; 95% confidence interval [CI], 1.00-1.25) in the intervention group and showed an improvement in the self-confidence assessment (PR&#xa0;=&#xa0;1.21; 95% CI, 1.02-1.44), and increased assessment of eating habits (PR&#xa0;=&#xa0;1.26; 95% CI, 1.10-1.55). The Dieta Dash application helped address dietary counseling, improving knowledge and self-confidence. However, innovative strategies are needed to minimize the primary care barriers.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ypmed.2023.107826
+- DOI: 10.1016/j.jneb.2023.11.001
 
 2. Keywords
-- Insurance claim review
-- Life style
-- Population health
+- hypertension
+- medical education
+- mobile application
+- nutrition
+- primary care
 
 3. Key Findings
-- Findings extraction requires manual review
+- 25) in the intervention group and showed an improvement in the self-confidence assessment (PR&#xa0;=&#xa0;1
 
 This study provides insights into:
-- Insurance claim review assessment methods and outcomes
-- Life style assessment methods and outcomes
-- Population health assessment methods and outcomes
+- hypertension assessment methods and outcomes
+- medical education assessment methods and outcomes
+- mobile application assessment methods and outcomes

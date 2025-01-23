@@ -1,25 +1,26 @@
-Study Title: The Effect of Mobile Application Follow-Up on Treatment Compliance and Self-Care Management in Patients With Hypertension: Randomized Controlled Trial.
+Study Title: The Effectiveness of Remote Exercise Rehabilitation Based on the "SCeiP" Model in Homebound Patients With Coronary Heart Disease: Randomized Controlled Trial.
 
 Study Summary:
-Hypertension (HT) is a global health problem. Although there are effective treatment protocols, patients have difficulty in adapting to regular use of drugs, diet, and lifestyle changes. Mobile apps can be a potential alternative for managing HT and improving self-care behavior. This study aimed to determine the effect of mobile application follow-up on treatment compliance and self-care management in patients with HT. This randomized controlled trial was conducted in November 2021 and March 2022 with 40 experimental and 40 control group patients with HT. Research data were collected using a patient information form, "Hill-Bone Hypertension Treatment Compliance Scale (HBHTTCS)," "Hypertension Self-Care Profile-Motivation Scale (HTSPMS)," a mobile application program (daily blood pressure, pulse, medication, diet, exercise tracking) uploaded to the mobile phones of the patients, and individual motivational messages. The mean total score of the HBHTTCS at Week 6 was 14.57&#xa0;&#xb1;&#xa0;1.89 and the mean total score of the HTSPMS was 78.15&#xa0;&#xb1;&#xa0;2.05.&#xa0;There was a statistically significant difference in mean total HTSPMS (p = 0.000) and HBHTTCS (p = 0.000) scores and mean scores on medical (p = 0.002) and nutrition (p = 0.002) subscales of HBHTTCS between the first interview (1st-week follow-up) and the last interview (6th-week follow-up) of patients in the intervention group. This study showed that mobile application follow-up increased motivation levels and treatment compliance in patients with HT and resulted in better self-care. These positive findings indicate importance of integrating mobile applications in the disease management of HT patients. ClinicalTrials.gov ID: NCT05334446, https://clinicaltrials.gov/ct2/show/NCT05334446.
+While exercise rehabilitation is recognized as safe and effective, medium- to long-term compliance among patients with coronary heart disease (CHD) remains low. Therefore, promoting long-term adherence to exercise rehabilitation for these patients warrants significant attention. This study aims to investigate the impact of remote exercise rehabilitation on time investment and related cognitive levels in homebound patients with CHD. This study utilizes the SCeiP (Self-Evaluation/Condition of Exercise-Effect Perception-Internal Drive-Persistence Behavior) model, alongside WeChat and exercise bracelets. A total of 147 patients who underwent percutaneous coronary intervention in the cardiovascular department of a grade III hospital in Jiangsu Province from June 2022 to March 2023 were selected as study participants through convenience sampling. The patients were randomly divided into an experimental group and a control group. The experimental group received an exercise rehabilitation promotion strategy based on the "SCeiP" model through WeChat and exercise bracelets, while the control group followed rehabilitation training according to a standard exercise rehabilitation guide. The days and duration of exercise, levels of cardiac rehabilitation cognition, exercise planning, and exercise input were analyzed before the intervention and at 1 month and 3 months after the intervention. A total of 81 men (55.1%) and 66 women (44.9%) were recruited for the study. The completion rate of exercise days was significantly higher in the experimental group compared with the control group at both 1 month (t145=5.429, P<.001) and 3 months (t145=9.113, P<.001) after the intervention. Similarly, the completion rate of exercise duration was significantly greater in the experimental group (t145=3.471, P=.001) than in the control group (t145=5.574, P<.001). The levels of autonomy, exercise planning, and exercise input in the experimental group were significantly higher than those in the control group at both 1 month and 3 months after the intervention (P<.001). Additionally, the experimental group exhibited a significant reduction in both process anxiety and outcome anxiety scores (P<.001). Repeated measures ANOVA revealed significant differences in the trends of cognitive function related to cardiac rehabilitation between the 2 patient groups over time: autonomy, F1,145(time&#xd7;group)=9.055 (P<.001); process anxiety, F1,145(time&#xd7;group)=30.790 (P<.001); and outcome anxiety, F1,145(time&#xd7;group)=28.186 (P<.001). As expected, the scores for exercise planning (t145=2.490, P=.01 and t145=3.379, P<.001, respectively) and exercise input (t145=2.255, P=.03 and t145=3.817, P<.001, respectively) consistently demonstrated superiority in the experimental group compared with the control group at both 1 and 3 months after the intervention. Interestingly, we observed that the levels of exercise planning and exercise input in both groups initially increased and then slightly decreased over time, although both remained higher than the preintervention levels (P<.001). The remote health intervention based on the "SCeiP" model effectively enhances exercise compliance, exercise planning, exercise input, and cognitive levels during cardiac rehabilitation in patients with CHD. Chinese Clinical Trial Registry ChiCTR2300069463; https://www.chictr.org.cn/showproj.html?proj=192461.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1111/phn.13476
+- Publication Date: 2024
+- DOI: 10.2196/56552
 
 2. Keywords
-- hypertension
-- mobile application
-- self&#x2010;care
-- treatment compliance
+- coronary heart disease
+- exercise rehabilitation
+- home rehabilitation
+- promotion strategy
 
 3. Key Findings
-- This study showed that mobile application follow-up increased motivation levels and treatment compliance in patients with HT and resulted in better self-care
+- Repeated measures ANOVA revealed significant differences in the trends of cognitive function related to cardiac rehabilitation between the 2 patient groups over time: autonomy, F1,145(time&#xd7;group)=9
+- 001, respectively) consistently demonstrated superiority in the experimental group compared with the control group at both 1 and 3 months after the intervention
 
 This study provides insights into:
-- hypertension assessment methods and outcomes
-- mobile application assessment methods and outcomes
-- self&#x2010;care assessment methods and outcomes
+- coronary heart disease assessment methods and outcomes
+- exercise rehabilitation assessment methods and outcomes
+- home rehabilitation assessment methods and outcomes

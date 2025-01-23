@@ -1,27 +1,27 @@
-Study Title: Exploring the feasibility of a cluster pilot randomised control trial to improve children's 24-hour movement behaviours and dietary intake: Happy homework.
+Study Title: One session of repetitive transcranial magnetic stimulation induces mild and transient analgesic effects among female individuals with painful temporomandibular disorders.
 
 Study Summary:
-We aimed to explore the feasibility, acceptability, and potential efficacy of Happy Homework (HH); an 8-week home-focussed intervention, with the purpose of encouraging children's positive dietary behaviours and engagement in positive physical activity (PA) and sleep behaviours. We randomised four Scottish schools (&#x2009;=&#x2009;71 participants; 5 classrooms) to either the HH intervention (&#x2009;=&#x2009;2) or usual curriculum control group (&#x2009;=&#x2009;2). HH consisted of movement and dietary-focused parent and child tasks. Primary outcome measures were intervention feasibility, acceptability, and potential efficacy. Secondary outcomes were objectively measured PA via ActiGraph GT3X+, sedentary behaviours (SBs) and sleep duration via activPAL4&#x2122; accelerometers and dietary behaviours, fruit and vegetable consumption and screen-time via questionnaires. After controlling for pre-test levels, post intervention stepping time and sleep duration were significantly greater for the HH group in comparison to the control group. The HH group reported eating more fruit and vegetables at post-test than the control group. Participants also reported the intervention to be enjoyable and motivating. These findings provide promising evidence that given a greater sample size, better retention and the prioritisation of health and wellbeing homework, HH could enhance children's health and wellbeing.
+Temporomandibular disorders (TMD) are characterised by chronic pain and dysfunction in the jaw joint and masticatory muscles. Repetitive transcranial magnetic stimulation (rTMS) has emerged as a potential non-invasive treatment for chronic pain; however, its effectiveness in individuals with TMD has not been thoroughly investigated. This study aimed to evaluate the immediate and sustained (over seven consecutive days) effects of a single session of active rTMS compared to sham stimulation on pain intensity and pain unpleasantness in individuals with TMD. A randomised, double-blind, sham-controlled trial enrolled 41 female participants with chronic TMD. Pain intensity and pain unpleasantness were assessed immediately pre- and post-intervention, as well as twice daily for 21&#x2009;days using electronic diaries. Secondary outcomes included pain interference, sleep quality, positive and negative affect and pain catastrophizing. Adverse effects were monitored. Repeated measures ANOVA and multilevel modelling regression analyses were employed for data analysis. Active rTMS demonstrated a significant immediate mild reduction in pain intensity and pain unpleasantness compared to sham stimulation. However, these effects were not sustained over the 7-day post-intervention period. No significant differences were observed between interventions for pain interference, sleep quality and negative affect. A minority of participants reported minor and transient side effects, including headaches and fatigue. A single session of active rTMS was safe and led to immediate mild analgesic effects in individuals with TMD compared to sham stimulation. However, no significant differences were observed between interventions over the 7-day post-intervention period. Based on this study, rTMS stimulation appears to be a promising safe approach to be tested in TMD patients with longer stimulation protocols.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/02640414.2023.2300562
+- DOI: 10.1111/joor.13655
 
 2. Keywords
-- 24 h movement
-- Children
-- diet
-- physical activity
-- sedentary behaviour
-- self-determination theory
+- brain stimulation
+- myofascial pain
+- sleep
+- temporomandibular joint disorders
+- treatment
+- unpleasantness
 
 3. Key Findings
-- Findings extraction requires manual review
+- Active rTMS demonstrated a significant immediate mild reduction in pain intensity and pain unpleasantness compared to sham stimulation
 
 This study provides insights into:
-- 24 h movement assessment methods and outcomes
-- Children assessment methods and outcomes
-- diet assessment methods and outcomes
+- brain stimulation assessment methods and outcomes
+- myofascial pain assessment methods and outcomes
+- sleep assessment methods and outcomes

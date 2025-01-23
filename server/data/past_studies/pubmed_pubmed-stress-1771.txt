@@ -1,25 +1,27 @@
-Study Title: Evaluation of a New Integrative Health and Wellness Clinic for Veterans at the San Francisco VA Health Care System: A Mixed-Methods Pilot Study.
+Study Title: Effects of Bifidobacterium breve 207-1 on regulating lifestyle behaviors and mental wellness in healthy adults based on the microbiome-gut-brain axis: a randomized, double-blind, placebo-controlled trial.
 
 Study Summary:
-The Integrative Health and Wellness Clinic (IHWC), established in 2019 at the San Francisco VA Health Care System, is an interdisciplinary clinic consisting of a medical provider, dietician, physical therapist, and psychologist trained in complementary and integrative health (CIH) following the VA Whole Health model of care. Veterans with complex chronic conditions seeking CIH and nonpharmacologic approaches are referred to the IHWC. This study evaluated the clinic's acceptability and feasibility among veteran patients and its preliminary impact on health and wellbeing, health-related goals, and use of CIH approaches. Mixed methods were used to assess patient-reported outcomes and experiences with the IHWC. Participants completed surveys administered at baseline and 6-months and a subset completed a qualitative interview. Pre- and post-scores were compared using t-tests and chi-square tests. Thirty-five veterans completed baseline and 6-month follow up surveys. Of these, 13% were women; 24% < 50 years of age, and 44% identified as racial/ethnic minorities. Compared to baseline, at 6 months, there were significant (< .05) improvements in overall health, physical health, perceived stress, and perceived helpfulness of clinicians in assisting with goal attainment; there was a trend toward improved mental health (= .057). Interviews (n = 25) indicated satisfaction with the interdisciplinary clinical model, support of IHWC providers in goal attainment, and positive impact on physical and mental health. Areas for improvement included logistics related to scheduling of multiple IHWC providers and referrals to other CIH services. Results revealed significant improvement in important clinical domains and satisfaction with interprofessional IHWC clinic providers, but also opportunities to improve clinic processes and care coordination. An interdisciplinary clinic focused on CIH and Whole Health is a feasible and acceptable model of care for veterans with complex chronic health conditions in the VA healthcare system.
+Our study aimed to explore the efficacy of Bifidobacterium breve 207-1 on specific neurotransmitters and hormones and the ability to regulate lifestyle behaviors in healthy adults. In total, 120 healthy adults with high mental stress, overweight, insomnia, and constipation were randomly assigned to receive low-dose B. breve 207-1 (LD, n&#x2009;=&#x2009;40), high-dose B. breve 207-1 (HD, n&#x2009;=&#x2009;40), or placebo (n&#x2009;=&#x2009;40) for 28 days. Fecal and blood samples were collected and questionnaires were answered before and after the trial. Neurotransmitters and serum hormones were detected using enzyme-linked immunosorbent assay. The gut microbiota composition was assessed using 16&#xa0;S rRNA sequencing. Short-chain fatty acids (SCFAs) concentrations were determined via gas chromatography-mass spectrometry (GC-MS). The primary outcome of our study was changes in mental wellness, including neurotransmitters, the hypothalamic-pituitary-adrena (HPA) axis hormones, and the psychological scales. The results showed that &#x3b3;-aminobutyric acid (GABA) increased significantly and the HPA axis hormones were suppressed overall in the probiotic groups while 5-hydroxytryptamine (5-HT) did not change significantly. However, there was no significant change in mood scale scores. The secondary outcome focused on the ability of 207-1 to regulate the body and lifestyle of healthy adults (e.g., sleep, diet, exercise, etc.). The PSQI scores in the probiotics groups significantly decreased, indicating improved sleep quality. Meanwhile, the probiotic groups had a slight increase in exercise consumption while dietary intake stabilized. By physical examination, the participants showed weight loss although no statistically significant difference was observed between the groups. Then, validated by gut microbiota, changes in the gut microbiota were observed under the effective intervention of 207-1 while short-chain fatty acids (SCFAs) increased in the LD group, particularly acetic and propionic acids. There was a slight decrease in alpha-diversity in the HD group. Bifidobacterium breve 207-1 entered the organism and affected neurotransmitter and the HPA axis hormone levels via the microbiome-gut-brain axis. Meanwhile, 207-1 supplementation improved daily lifestyle behaviors in healthy adults, which may in turn lead to changes in their bodies (e.g. weight and lipid metabolism). However, this study did not find significant mood-modulating efficacy. The mechanism of the overall study is unclear, but we hypothesize that SCFAs may be the key pathway, and more experiments are needed for validation in the future. This trial was retrospectively registered in the Chinese Clinical Trial Registry under the accession number ChiCTR2300069453 on March 16, 2023.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/27536130241260034
+- DOI: 10.1007/s00394-024-03447-2
 
 2. Keywords
-- integrative medicine
-- veterans
-- whole health
+- Bifidobacterium
+- 5-HT
+- GABA
+- Gut microbiota
+- HPA axis
 
 3. Key Findings
-- Interviews (n = 25) indicated satisfaction with the interdisciplinary clinical model, support of IHWC providers in goal attainment, and positive impact on physical and mental health
-- Results revealed significant improvement in important clinical domains and satisfaction with interprofessional IHWC clinic providers, but also opportunities to improve clinic processes and care coordination
+- The results showed that &#x3b3;-aminobutyric acid (GABA) increased significantly and the HPA axis hormones were suppressed overall in the probiotic groups while 5-hydroxytryptamine (5-HT) did not change significantly
+- By physical examination, the participants showed weight loss although no statistically significant difference was observed between the groups
 
 This study provides insights into:
-- integrative medicine assessment methods and outcomes
-- veterans assessment methods and outcomes
-- whole health assessment methods and outcomes
+- Bifidobacterium assessment methods and outcomes
+- 5-HT assessment methods and outcomes
+- GABA assessment methods and outcomes

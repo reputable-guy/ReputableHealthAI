@@ -1,26 +1,20 @@
-Study Title: Randomized Comparative Effectiveness Trial of 2 Federally Recommended Strategies to Reduce Excess Body Fat in Overweight, Low-Income Patients: MyPlate.gov vs Calorie Counting.
+Study Title: Effect of milk protein and whey permeate in large quantity lipid-based nutrient supplement on linear growth and body composition among stunted children: A randomized 2 &#xd7; 2 factorial trial in Uganda.
 
 Study Summary:
-Since 2011, US authorities have supported the following 2 approaches to healthier body fat composition: the Centers for Disease Control and Prevention National Diabetes Prevention Program's calorie counting (CC) approach and the US Department of Agriculture's MyPlate (adherence to federal nutrition guidelines). The purpose of this study was to compare the effect of CC vs MyPlate approaches on satiety/satiation and on achieving healthier body fat composition among primary care patients. We conducted a randomized controlled trial comparing the CC and MyPlate approaches from 2015 to 2017. The adult participants were overweight, of low income, and were mostly Latine (n = 261). For both approaches, community health workers conducted 2 home education visits, 2 group education sessions, and 7 telephone coaching calls over a period of 6 months. Satiation and satiety were the primary patient-centered outcome measures. Waist circumference and body weight were the primary anthropometric measures. Measures were assessed at baseline, 6 months, and 12 months. Satiation and satiety scores increased for both groups. Waist circumference was significantly decreased in both groups. MyPlate, but not CC, resulted in lower systolic blood pressure at 6 months but not at 12 months. Participants for both MyPlate and CC reported greater quality of life and emotional well-being and high satisfaction with their assigned weight-loss program. The most acculturated participants showed the greatest decreases in waist circumference. A MyPlate-based intervention might be a practical alternative to the more traditional CC approach to promoting satiety and facilitating decreases in central adiposity among low-income, mostly Latine primary care patients.
+Despite possible benefits for growth, milk is costly to include in foods for undernourished children. Furthermore, the relative effects of different milk components, milk protein (MP), and whey permeate (WP) are unclear. We aimed to assess the effects of MP and WP in lipid-based nutrient supplement (LNS), and of LNS itself, on linear growth and body composition among stunted children. We performed a randomized, double-blind, 2 &#xd7; 2 factorial trial among 12 to 59 months old stunted children in Uganda. Children were randomized to 4 formulations of LNS with MP or soy protein isolate and WP or maltodextrin (100 g/day for 12 weeks) or no supplementation. Investigators and outcome assessors were blinded; however, participants were only blinded to the ingredients in LNS. Data were analyzed based on intention-to-treat (ITT) using linear mixed-effects models adjusted for age, sex, season, and site. Primary outcomes were change in height and knee-heel length, and secondary outcomes included body composition by bioimpedance analysis (ISRCTN13093195). Between February and September 2020, we enrolled 750 children with a median age of 30 (interquartile range 23 to 41) months, with mean (&#xb1; standard deviation) height-for-age z-score (HAZ) -3.02 &#xb1; 0.74 and 12.7% (95) were breastfed. The 750 children were randomized to LNS (n = 600) with or without MP (n = 299 versus n = 301) and WP (n = 301 versus n = 299), or no supplementation (n = 150); 736 (98.1%), evenly distributed between groups, completed 12-week follow-up. Eleven serious adverse events occurred in 10 (1.3%) children, mainly hospitalization with malaria and anemia, all deemed unrelated to the intervention. Unsupplemented children had 0.06 (95% confidence interval, CI [0.02, 0.10]; p = 0.015) decline in HAZ, accompanied by 0.29 (95% CI [0.20, 0.39]; p < 0.001) kg/m2 increase in fat mass index (FMI), but 0.06 (95% CI [-0.002; 0.12]; p = 0.057) kg/m2 decline in fat-free mass index (FFMI). There were no interactions between MP and WP. The main effects of MP were 0.03 (95% CI [-0.10, 0.16]; p = 0.662) cm in height and 0.2 (95% CI [-0.3, 0.7]; p = 0.389) mm in knee-heel length. The main effects of WP were -0.08 (95% CI [-0.21, 0.05]; p = 220) cm and -0.2 (95% CI [-0.7; 0.3]; p = 403) mm, respectively. Interactions were found between WP and breastfeeding with respect to linear growth (p < 0.02), due to positive effects among breastfed and negative effects among non-breastfed children. Overall, LNS resulted in 0.56 (95% CI [0.42, 0.70]; p < 0.001) cm height increase, corresponding to 0.17 (95% CI [0.13, 0.21]; p < 0.001) HAZ increase, and 0.21 (95% CI [0.14, 0.28]; p < 0.001) kg weight increase, of which 76.5% (95% CI [61.9; 91.1]) was fat-free mass. Using height-adjusted indicators, LNS increased FFMI (0.07 kg/m2, 95% CI [0.0001; 0.13]; p = 0.049), but not FMI (0.01 kg/m2, 95% CI [-0.10, 0.12]; p = 0.800). Main limitations were lack of blinding of caregivers and short study duration. Adding dairy to LNS has no additional effects on linear growth or body composition in stunted children aged 12 to 59 months. However, supplementation with LNS, irrespective of milk, supports linear catch-up growth and accretion of fat-free mass, but not fat mass. If left untreated, children already on a stunting trajectory gain fat at the expense of fat-free mass, thus nutrition programs to treat such children should be considered. ISRCTN13093195.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1370/afm.2964
+- DOI: 10.1371/journal.pmed.1004227
 
 2. Keywords
-- Latine
-- clinical trial
-- immigrant
-- nutrition intervention
-- obesity treatment
+
 
 3. Key Findings
-- The most acculturated participants showed the greatest decreases in waist circumference
+- Interactions were found between WP and breastfeeding with respect to linear growth (p < 0
 
 This study provides insights into:
-- Latine assessment methods and outcomes
-- clinical trial assessment methods and outcomes
-- immigrant assessment methods and outcomes
+- General research methodology and outcomes

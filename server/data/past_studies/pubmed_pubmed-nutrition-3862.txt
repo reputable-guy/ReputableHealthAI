@@ -1,30 +1,25 @@
-Study Title: Higher dietary fiber intake associated with better survival in male but not female cancer patients: Evidence from National Health and Nutrition Examination Survey 1999-2014.
+Study Title: Supplementation of caffeine and sodium bicarbonate together could not improve performance and performance-related factors in CrossFit participants: a randomized, double-blind, placebo-controlled study.
 
 Study Summary:
-Recent studies have found that dietary fiber improves prognosis in cancer patients. However, few subgroup analyses exist. Subgroups can differ greatly in terms of different factors such as dietary intake, lifestyle, and sex. It is unclear whether fiber benefits all of the subgroups equally. In this study, we examined differences in dietary fiber consumption and cancer mortality between subgroups, including sex. This trial was conducted using eight consecutive National Health and Nutrition Examination Surveys (NHANESs) cycles data between 1999 and 2014. Subgroup analyses were used to investigate the results and heterogeneity within subgroups. Survival analysis was performed using the Cox proportional hazard model and Kaplan-Meier curves. Multivariable Cox regression models and restricted cubic spline analysis were applied to examine the association between dietary fiber intake and mortality. In total, 3504 cases were included in this study. Among the participants, the mean age (SD) was 65.5 (15.7) y and 1657 (47.3%) of the participants were men. Subgroup analysis found that men differed significantly from women (P for interaction < 0.001). We found no significant differences in the other subgroups (all P for interaction > 0.05). During an average follow-up of 6.8 y, 342 cancer deaths were recorded. The Cox regression models found that fiber consumption was associated with a lower cancer mortality rate in men (model I: hazard ratio [HR]&#xa0;=&#xa0;0.60; 95% CI, 0.50-0.72; model II: HR&#xa0;=&#xa0;0.60; 95% CI, 0.47-0.75; and model III: HR&#xa0;=&#xa0;0.61; 95% CI, 0.48-0.77). However, there was no relationship between fiber consumption and cancer mortality in women (model I: HR&#xa0;=&#xa0;1.06; 95% CI, 0.88-1.28; model II: HR&#xa0;=&#xa0;1.03; 95% CI, 0.84-1.26; and model III: HR&#xa0;=&#xa0;1.04; 95% CI, 0.87-1.50). The Kaplan-Meier curve illustrates that male patients who consumed higher levels of dietary fiber survived significantly longer than those who consumed lower levels of fiber (P < 0.001). However, there were no significant differences between the two groups in terms of female patients (P&#xa0;=&#xa0;0.84). A dose-response analysis found an L-shaped relationship between fiber intake and mortality among men. This study found that higher dietary fiber intake was only associated with better survival in male cancer patients, not in female cancer patients. Sex differences between dietary fiber intake and cancer mortality were observed.
+CrossFit includes weightlifting, powerlifting, and gymnastics in various combinations of overloads and repetitions with limited rest periods or no rest between training sets. Due to the novelty of CrossFit, there are few studies on the effect of nutritional strategies on the acute response to this type of sports activity. This study examined the effect of caffeine (CAF) and sodium bicarbonate (NaHCO) ingestion separately and in combination on the performance and rate of perceived exertion (RPE) during the Cindy CrossFit workout (Cindy) in CrossFit participants. In a double-blind, crossover, randomized, placebo-controlled trial, 20 CrossFit participants underwent five experimental conditions, including control (CON), placebo (PLA), CAF, NaHCO, and CAF&#x2009;+&#x2009;NaHCO(7&#x2009;days to wash-out between assessment sessions) before completing the Cindy protocol (age: 22.30&#x2009;&#xb1;&#x2009;2.88&#x2009;years, body mass index: 25.22&#x2009;&#xb1;&#x2009;2.51&#x2009;kg/m). Capsules containing 6&#x2009;mg/kg body weight (BW) CAF were consumed 50&#x2009;min before the Cindy workout while 0.3&#x2009;g/kg BW NaHCOwas consumed for 3 days, leading to 120, 90, and 60&#x2009;min before the Cindy workout. Performance, RPE, muscular power (MP), handgrip strength (HGS), and maximum heart rate (MHR) were measured before and shortly after the Cindy. The performance of CrossFit participants during the Cindy protocol was not significantly improved following CAF, NaHCO, and CAF&#x2009;+&#x2009;NaHCO(&#x2009;>&#x2009;0.05). In contrast, RPE during and at the end of the Cindy was significantly decreased following CAF&#x2009;+&#x2009;NaHCOconsumption compared to PLA and CON (&#x2009;=&#x2009;0.001,&#x2009;=&#x2009;0.02). However, MP (&#x2009;=&#x2009;0.82) and HGS (&#x2009;=&#x2009;0.52) were not significantly different between conditions. Also, MHR was significantly greater following CAF, NaHCO, and CAF&#x2009;+&#x2009;NaHCOconsumption than CON (&#x2009;=&#x2009;0.01). CAF&#x2009;+&#x2009;NaHCOsupplementation decreased RPE despite significantly increased MHR, but with no significant effect on performance, HGS, or MP. Therefore, CrossFit participants may benefit from the ergogenic effects of CAF and NaHCOwhen consumed separately or together.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.nut.2023.112035
+- DOI: 10.1080/15502783.2023.2206390
 
 2. Keywords
-- Cancer mortality
-- Fiber
-- Retrospective cohort
-- Sex differences
+- Sports performance
+- muscle strength
+- sports nutrition
+- supplementation
 
 3. Key Findings
-- Recent studies have found that dietary fiber improves prognosis in cancer patients
-- Subgroup analysis found that men differed significantly from women (P for interaction < 0
-- We found no significant differences in the other subgroups (all P for interaction > 0
-- The Cox regression models found that fiber consumption was associated with a lower cancer mortality rate in men (model I: hazard ratio [HR]&#xa0;=&#xa0;0
-- A dose-response analysis found an L-shaped relationship between fiber intake and mortality among men
-- This study found that higher dietary fiber intake was only associated with better survival in male cancer patients, not in female cancer patients
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Cancer mortality assessment methods and outcomes
-- Fiber assessment methods and outcomes
-- Retrospective cohort assessment methods and outcomes
+- Sports performance assessment methods and outcomes
+- muscle strength assessment methods and outcomes
+- sports nutrition assessment methods and outcomes

@@ -1,26 +1,25 @@
-Study Title: Effects of esketamine on postoperative fatigue syndrome in patients after laparoscopic resection of gastric carcinoma: a randomized controlled trial.
+Study Title: The Effect of 14-Day Consumption of Hydrogen-Rich Water Alleviates Fatigue but Does Not Ameliorate Dyspnea in Long-COVID Patients: A Pilot, Single-Blind, and Randomized, Controlled Trial.
 
 Study Summary:
-Despite the implementation of various postoperative management strategies, the prevalence of postoperative fatigue syndrome (POFS) remains considerable among individuals undergoing laparoscopic radical gastrectomy. While the N-methyl-D-aspartic acid receptor antagonist esketamine has demonstrated efficacy in enhancing sleep quality and alleviating postoperative pain, its impact on POFS remains uncertain. Consequently, the objective of this study is to ascertain whether perioperative administration of esketamine can effectively mitigate the occurrence of POFS in patients undergoing laparoscopic radical gastrectomy. A total of 133 patients diagnosed with gastric cancer were randomly assigned to two groups, namely the control group (Group C) (n&#x2009;=&#x2009;66) and the esketamine group (Group E) (n&#x2009;=&#x2009;67), using a double-blind method. The Group C received standardized anesthesia, while the Group E received esketamine in addition to the standardized anesthesia. The primary outcome measure assessed was the Christensen fatigue score at 3 days after the surgical procedure, while the secondary outcomes included the disparities in postoperative fatigue, postoperative pain, sleep quality, and adverse reactions between the two groups. In the group receiving esketamine, the fatigue scores of Christensen on the third day after surgery were significantly lower compared to the Group C (estimated difference, -0.70; 95% CI, -1.37 to -0.03; P&#x2009;=&#x2009;0.040). Additionally, there was a significant decrease in the occurrence of fatigue in the Group E compared to the Group C on the first and third days following surgery (P&#x2009;<&#x2009;0.05). Also, compared to individuals who had distal gastrectomy, those who had entire gastrectomy demonstrated a higher degree of postoperative tiredness reduction with esketamine. Furthermore, the Group E exhibited reduced postoperative pain and improved sleep in comparison to the Group C. Both groups experienced similar rates of adverse events. The use of esketamine during the perioperative period can improve POFS after laparoscopic radical gastrectomy, without adverse reactions. Registered in the Chinese Clinical Trial Registry (ChiCTR2300072167) on 05/06 /2023.
+(1) Background: Hydrogen (H) may be a potential therapeutic agent for managing Long COVID symptoms due to its antioxidant and anti-inflammatory properties. However, more scientific literature is needed to describe the effects of Hadministration on treating symptoms. A study aimed to investigate the impact of hydrogen-rich water (HRW) administration on the fatigue and dyspnea of Long-COVID patients for 14 consecutive days. (2) Methods: In this randomized, single-blind, placebo-controlled study, 55 participants were recruited, and 23 of them were excluded. A total of 32 eligible participants were randomized into a hydrogen-rich water (HRW) group (= 16) and a placebo water (PW) group (= 16) in which they were instructed to consume hydrogen-rich water or placebo water for 14 days, respectively. The participants completed the Fatigue Severity Scale (FSS), Six-Minute Walk Test (6MWT), 30 s Chair Stand Test (30s-CST), Modified Medical Research Council Dyspnea Rating Scale (mMRC), Pittsburgh Sleep Quality Index (PSQI), and depression anxiety stress scale (DASS-21) before and after the intervention. A linear mixed-effects model was used to analyze the effects of HRW. Cohen's d values were used to assess the effect size when significance was observed. The mean change with 95% confidence intervals (95% CI) was also reported. (3) Results: The effects of HRW on lowering FSS scores (= 0.046, [95% CI = -20.607, -0.198, d = 0.696] and improving total distance in the 6WMT (< 0.001, [95% CI = 41.972, 61.891], d = 1.010), total time for the 30s-CST (= 0.002, [95% CI = 1.570, 6.314], d = 1.190), and PSQI scores (= 0.012, [95% CI = -5.169, 0.742], d = 1.274) compared to PW were of a significantly moderate effect size, while there was no significant difference in mMRC score (= 0.556) or DASS-21 score (> 0.143). (4) Conclusions: This study demonstrates that HRW might be an effective strategy for alleviating fatigue and improving cardiorespiratory endurance, musculoskeletal function, and sleep quality. Still, it does not ameliorate dyspnea among Long-COVID patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12871-024-02513-w
+- DOI: 10.3390/nu16101529
 
 2. Keywords
-- Esketamine
-- Gastric carcinoma
-- Postoperative fatigue syndrome
-- Randomized controlled trial
+- Long-COVID
+- dyspnea
+- fatigue
+- hydrogen-rich water
 
 3. Key Findings
-- While the N-methyl-D-aspartic acid receptor antagonist esketamine has demonstrated efficacy in enhancing sleep quality and alleviating postoperative pain, its impact on POFS remains uncertain
-- Also, compared to individuals who had distal gastrectomy, those who had entire gastrectomy demonstrated a higher degree of postoperative tiredness reduction with esketamine
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Esketamine assessment methods and outcomes
-- Gastric carcinoma assessment methods and outcomes
-- Postoperative fatigue syndrome assessment methods and outcomes
+- Long-COVID assessment methods and outcomes
+- dyspnea assessment methods and outcomes
+- fatigue assessment methods and outcomes

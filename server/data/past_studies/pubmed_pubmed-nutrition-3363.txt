@@ -1,28 +1,26 @@
-Study Title: Zinc Supplementation Initiated Prior to or During Pregnancy Modestly Impacted Maternal Status and High Prevalence of Hypozincemia in Pregnancy and Lactation: The Women First Preconception Maternal Nutrition Trial.
+Study Title: A randomized controlled trial to test the effects of displaying the Nutri-Score in food advertising on consumer perceptions and intentions to purchase and consume.
 
 Study Summary:
-Data regarding effects of small-quantity-lipid-based nutrient supplements (SQ-LNS) on maternal serum zinc concentrations (SZC) in pregnancy and lactation are limited. The objectives of this study were to evaluate the effect of preconception compared with prenatal zinc supplementation (compared with control) on maternal SZC and hypozincemia during pregnancy and early lactation in women in low-resource settings, and assess associations with birth anthropometry. From &#x223c;100 women/arm at each of 3 sites (Guatemala, India, and Pakistan) of the Women First Preconception Maternal Nutrition trial, we compared SZC at 12- and 34-wk gestation (n = 651 and 838, respectively) and 3-mo postpartum (n = 742) in women randomly assigned to daily SQ-LNS containing 15 mg zinc from &#x2265;3 mo before conception (preconception, arm 1), from &#x223c;12 wk gestation through delivery (early pregnancy, arm 2) or not at all (control, arm 3). Birth anthropometry was examined for newborns with ultrasound-determined gestational age. Statistical analyses were performed separately for each time point. At 12-wk gestation and 3-mo postpartum, no statistical differences in mean SZC were observed among arms. At 34-wk, mean SZC for arms 1 and 2 were significantly higher than for arm 3 (50.3, 50.8, 47.8 &#x3bc;g/dL, respectively; P = 0.005). Results were not impacted by correction for inflammation or albumin concentrations. Prevalence of hypozincemia at 12-wk (<56 &#x3bc;g/dL) was 23% in Guatemala, 26% in India, and 65% in Pakistan; at 34 wk (<50 &#x3bc;g/dL), 36% in Guatemala, 48% in India, and 74% in Pakistan; and at 3-mo postpartum (<66 &#x3bc;g/dL) 79% in Guatemala, 91% in India, and 92% in Pakistan. Maternal hypozincemia at 34-wk was associated with lower birth length-for-age Z-scores (all sites P = 0.013, Pakistan P = 0.008) and weight-for-age Z-scores (all sites P = 0.017, Pakistan P = 0.022). Despite daily zinc supplementation for &#x2265;7 mo, high rates of maternal hypozincemia were observed. The association of hypozincemia with impaired fetal growth suggests widespread zinc deficiency in these settings. This trial is registered at clinicaltrials.gov as #NCT01883193.
+Some research shows that advertising for high-fat, sugar, or salt (HFSS) products is contributing to a shift in consumer preferences toward products of poor nutritional quality, leading to unhealthy nutritional intakes that increase the risk of obesity and chronic diseases. A strategy of displaying simple and understandable nutritional information (like the front-of-pack nutrition label Nutri-Score) in food messages could be an aid to help guide consumers' choice towards healthier products. A randomized controlled experiment was conducted on 27,085 participants randomly assigned to two experimental conditions or a control condition. In both experimental conditions (independent variable: advertising messages with vs. without the Nutri-Score), participants were exposed to advertisements for diversified food products with contrasting nutritional quality and belonging to nine different food categories. Participants were then asked questions about their perception, affective evaluation, and intentions to purchase and consume the products. In the control condition, they were not exposed to the advertisements. Overall, interaction effects between the two variables (1) the messages with vs. without the Nutri-Score and (2) the nutritional quality of products, were significant for all dependent variables, with effect sizes between large and medium. Overall, the better the products' nutritional quality, the more positive their perceptions, affective evaluations, and intentions to buy and consume them. When the Nutri-score was displayed in advertising messages (vs. when it was not), perceptions, affective evaluation, and behavioral intentions: (1) became more positive for products of good nutritional quality (Nutri-score A and B), (2) became more negative for products of poor nutritional quality (Nutri-score D and E), (3) changed little or not at all for products of intermediate nutritional quality (Nutri-Score C). This research is the first in the literature to demonstrate that displaying the Nutri-Score in advertising messages assists consumers in directing their choices towards healthier foods. Regulations mandating the display of the Nutri-Score in food advertising could be an effective public health measure.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.tjnut.2024.04.018
+- DOI: 10.1186/s12966-024-01588-5
 
 2. Keywords
-- birth length
-- birth weight
-- inflammation
-- lactation
-- pregnancy
-- small-quantity lipid-based nutrient supplement (SQ-LNS)
-- zinc deficiency
+- Advertising messages
+- Nutri-Score
+- Nutrition labelling
+- Perceived quality product
+- Public health
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- birth length assessment methods and outcomes
-- birth weight assessment methods and outcomes
-- inflammation assessment methods and outcomes
+- Advertising messages assessment methods and outcomes
+- Nutri-Score assessment methods and outcomes
+- Nutrition labelling assessment methods and outcomes

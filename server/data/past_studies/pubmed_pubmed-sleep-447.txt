@@ -1,25 +1,29 @@
-Study Title: Effects of high-intensity interval training on subjective sleep quality and daytime sleepiness in patients with obstructive sleep apnea: A secondary analysis from a randomized controlled trial.
+Study Title: Effects of short-chain fatty acid-butyrate supplementation on expression of circadian-clock genes, sleep quality, and inflammation in patients with active ulcerative colitis: a double-blind randomized controlled trial.
 
 Study Summary:
-This study aimed to verify the effect of 12 weeks of HIIT on the perceived sleep quality and excessive daytime sleepiness in patients with obstructive sleep apnea (OSA). For this, a secondary analysis of a randomized controlled trial, including 36 adults with moderate-severe OSA (19 males; 52.2&#xa0;&#xb1;&#xa0;9.8 years; body mass index&#xa0;=&#xa0;34.2&#xa0;&#xb1;&#xa0;5.8; AHI&#xa0;=&#xa0;42.0&#xa0;&#xb1;&#xa0;22.9 e/h) was performed. Participants were randomly assigned to HIIT [5 periods of 4&#xa0;min of walking or running on a treadmill at 90-95 % of maximum heart rate (HRmax) interspersed with 3&#xa0;min of walking at 50-55 % of HRmax performed three times per week for 12 weeks] or a control group (CG; stretching exercises performed two times per week for 12 weeks). Specific domains of subjective sleep quality and EDS were assessed at baseline and post 12 weeks. Generalized estimated equation were used to verify between groups and times differences. There were no group&#xa0;&#xd7;&#xa0;time interactions for the domains sleep duration (0.416), sleep efficiency (0.198), sleep disturbance (0.523), and sleep medications (0.915). However, significant group&#xa0;&#xd7;&#xa0;time interactions were observed for global sleep score (0.022), and for the domains sleep quality (0.001), sleep latency (0.029), and daytime dysfunction (0.012). In addition, there was a significant group&#xa0;&#xd7;&#xa0;time interaction for EDS (HIIT&#xa0;=&#xa0;-3.4&#xa0;&#xb1;&#xa0;0.9; CG change&#xa0;=&#xa0;-1.0&#xa0;&#xb1;&#xa0;1.0; p&#xa0;=&#xa0;0.023). Thus, in patients with OSA, 12 weeks of HIIT improves perceived sleep quality and daytime sleepiness.
+The regulation of the circadian clock genes, which coordinate the activity of the immune system, is disturbed in inflammatory bowel disease (IBD). Emerging evidence suggests that butyrate, a short-chain fatty acid produced by the gut microbiota is involved in the regulation of inflammatory responses as well as circadian-clock genes. This study was conducted to investigate the effects of sodium-butyrate supplementation on the expression of circadian-clock genes, inflammation, sleep and life quality in active ulcerative colitis (UC) patients. In the current randomized placebo-controlled trial, 36 active UC patients were randomly divided to receive sodium-butyrate (600&#xa0;mg/kg) or placebo for 12-weeks. In this study the expression of circadian clock genes (CRY1, CRY2, PER1, PER2, BMAl1 and CLOCK) were assessed by real time polymerase chain reaction (qPCR) in whole blood. Gene expression changes were presented as fold changes in expression (2^-&#x394;&#x394;CT) relative to the baseline. The faecal calprotectin and serum level of high-sensitivity C-reactive protein (hs-CRP) were assessed by enzyme-linked immunosorbent assay method (ELIZA). Moreover, the sleep quality and IBD quality of life (QoL) were assessed by Pittsburgh sleep quality index (PSQI) and inflammatory bowel disease questionnaire-9 (IBDQ-9) respectively before and after the intervention. The results showed that sodium-butyrate supplementation in comparison with placebo significantly decreased the level of calprotectin (-133.82&#x2009;&#xb1;&#x2009;155.62 vs. 51.58&#x2009;&#xb1;&#x2009;95.57, P-value&#x2009;<&#x2009;0.001) and hs-CRP (-0.36 (-1.57, -0.05) vs. 0.48 (-0.09-4.77), P-value&#x2009;<&#x2009;0.001) and upregulated the fold change expression of CRY1 (2.22&#x2009;&#xb1;&#x2009;1.59 vs. 0.63&#x2009;&#xb1;&#x2009;0.49, P-value&#x2009;<&#x2009;0.001), CRY2 (2.15&#x2009;&#xb1;&#x2009;1.26 vs. 0.93&#x2009;&#xb1;&#x2009;0.80, P-value&#x2009;=&#x2009;0.001), PER1 (1.86&#x2009;&#xb1;&#x2009;1.77 vs. 0.65&#x2009;&#xb1;&#x2009;0.48, P-value&#x2009;=&#x2009;0.005), BMAL1 (1.85&#x2009;&#xb1;&#x2009;0.97 vs. 0.86&#x2009;&#xb1;&#x2009;0.63, P-value&#x2009;=&#x2009;0.003). Also, sodium-butyrate caused an improvement in the sleep quality (PSQI score: -2.94&#x2009;&#xb1;&#x2009;3.50 vs. 1.16&#x2009;&#xb1;&#x2009;3.61, P-value&#x2009;<&#x2009;0.001) and QoL (IBDQ-9: 17.00&#x2009;&#xb1;&#x2009;11.36 vs. -3.50&#x2009;&#xb1;&#x2009;6.87, P-value&#x2009;<&#x2009;0.001). Butyrate may be an effective adjunct treatment for active UC patients by reducing biomarkers of inflammation, upregulation of circadian-clock genes and improving sleep quality and QoL.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.07.006
+- DOI: 10.1186/s12944-024-02203-z
 
 2. Keywords
-- Excessive daytime sleepiness
-- High-intensity interval training
+- Butyrate
+- Circadian-clock genes
+- IBD
+- Inflammation
+- Post-biotic
+- Short-chain fatty acids
 - Sleep
-- Sleep quality
+- Ulcerative colitis
 
 3. Key Findings
-- Findings extraction requires manual review
+- The results showed that sodium-butyrate supplementation in comparison with placebo significantly decreased the level of calprotectin (-133
 
 This study provides insights into:
-- Excessive daytime sleepiness assessment methods and outcomes
-- High-intensity interval training assessment methods and outcomes
-- Sleep assessment methods and outcomes
+- Butyrate assessment methods and outcomes
+- Circadian-clock genes assessment methods and outcomes
+- IBD assessment methods and outcomes

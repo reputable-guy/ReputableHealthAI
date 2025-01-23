@@ -1,26 +1,24 @@
-Study Title: Fear of negative and positive evaluation as mediators and moderators of treatment outcome in social anxiety disorder.
+Study Title: Stress-related eating in pregnancy? An RCT examining links between prenatal stress and food choices.
 
 Study Summary:
-Elevated fear of negative evaluation (FNE) and fear of positive evaluation (FPE) are thought to play key roles in the maintenance of social anxiety disorder (SAD). Although efficacious therapies exist for SAD, the potential mediating and moderating effects of FNE and FPE on social anxiety treatment outcome have not been examined. This sample comprised a secondary analysis of 210 individuals who participated in one of three randomized controlled trials for the treatment of SAD. Participants were randomized to: individual cognitive behavioral therapy (CBT), group CBT, community mindfulness-based stress reduction (MBSR), group MBSR, or they were randomized to waitlist and offered treatment after waitlist. Assessments were completed pre- and post-treatment/waitlist and, for the treatment groups, at three-month follow-up. CBT and MBSR led to greater reductions in FNE and FPE than waitlist, with CBT more efficacious in reducing FPE than MBSR. For both CBT (vs. waitlist) and MBSR (vs. waitlist), there were significant indirect effects on post-treatment social anxiety through both FNE and FPE, and the indirect effect through FPE was greater for CBT than MBSR. However, in the fully longitudinal model testing mediation, CBT and MBSR were not differentially mediated by FPE. Baseline FNE and FPE each moderated CBT treatment outcome compared to waitlist - higher baseline FNE and FPE were associated with higher baseline social anxiety and greater reductions in social anxiety during CBT. FNE and FPE contributed in sometimes similar and sometimes distinct ways to the mediation and moderation of psychosocial approaches for treating SAD. This supports the importance of distinguishing between fears of negative and positive evaluation in the assessment and treatment of SAD.
+Diet quality during pregnancy is important for maternal health and offspring development. However, national dietary recommendations are not always met. A potential barrier for healthy food choices might be the experience of stress. Previous literature in non-pregnant populations suggests a negative effect of acute stress on diet quality. This preregistered study is the first to test whether an acute stressor leads to unhealthy food choices in pregnancy and examine the moderating role of stress, depressive and anxiety complaints in daily life. Pregnant women (N = 110, 3rd trimester) completed online self-reported surveys measuring stress, depressive and anxiety complaints in daily life. Hereafter, participants were invited for a laboratory visit, in which they were exposed to the Trier Social Stress Test or a control task. After this manipulation, self-reported and actual food choices and food intake were assessed. At the end of the visit, a hair sample was collected. Throughout the visit, visual analogue scales on negative affect were completed and saliva samples were collected. The stress group experienced significantly more psychological stress than the control group during the experimental manipulation. Main regression analyses showed that the acute laboratory stressor did not cause unhealthy food choices in the third trimester of pregnancy. In fact, the stress group chose fewer unhealthy foods and consumed fewer kilocalories compared to the control group. Additionally, the findings point at a moderating role of depressive and stress complaints in daily life on food choices within the control group: higher scores were related to more unhealthy food choices and more kilocalories consumed. As this was the first study to test the effect of an acute stressor on food choices in pregnant women, more research is needed to obtain a better understanding of stress-related eating in pregnancy. This knowledge may inform future interventions to support pregnant women in improving their diet quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.janxdis.2024.102874
+- DOI: 10.1016/j.psyneuen.2024.107073
 
 2. Keywords
-- CBT
-- Fear of negative evaluation
-- Fear of positive evaluation
-- MBSR
-- Social anxiety
+- Food choice
+- Prenatal stress
+- TSST
 
 3. Key Findings
-- Findings extraction requires manual review
+- Main regression analyses showed that the acute laboratory stressor did not cause unhealthy food choices in the third trimester of pregnancy
 
 This study provides insights into:
-- CBT assessment methods and outcomes
-- Fear of negative evaluation assessment methods and outcomes
-- Fear of positive evaluation assessment methods and outcomes
+- Food choice assessment methods and outcomes
+- Prenatal stress assessment methods and outcomes
+- TSST assessment methods and outcomes

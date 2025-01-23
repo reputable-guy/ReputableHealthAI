@@ -1,26 +1,27 @@
-Study Title: Protective Assets Reinforced With Integrated Care and Technology (PARITY): Protocol for a Randomized Controlled Trial.
+Study Title: A randomized controlled trial modifying insomnia-consistent interpretation bias in students.
 
 Study Summary:
-Black women are significantly more likely to experience severe maternal morbidity and are 3 times as likely to die from pregnancy-related causes compared to White women. Using a strengths-based wellness approach within an integrated supportive care program provided by a community doula could offer pragmatic solutions for Black maternal disparities. The Protective Assets Reinforced with Integrated Care and Technology (PARITY) program consists of a wellness technology platform, including informational links to wellness content and reinforcing motivational SMS text messages, as well as community-based doula support delivered both in person and through the technology platform to improve Black maternal wellness. This pilot randomized controlled trial (RCT) and mixed methods evaluation aims to (1) determine the feasibility and acceptability of the PARITY intervention; (2) investigate the preliminary efficacy of the PARITY intervention on clinical outcomes (maternal blood pressure, gestational weight gain, and cesarean birth); and (3) investigate changes to wellness behavioral outcomes (nutrition, physical activity, sleep, and health care adherence) and empowered strengths (self-efficacy, social support, motivation, resilience, problem-solving, and self-regulation) in the intervention group compared to a control group. A 2-arm RCT and mixed methods evaluation will be conducted. Overall, 60 Black pregnant individuals will be randomized in a ratio of 1:1 to either the intervention or informational control group. Participants in the intervention group will receive access to the technology platform over a 12-week period that ends before birth. Intervention participants will be assigned a doula interventionist, who will meet with them 4 times during the intervention. All participants (intervention and control) will receive a referral for a birth doula at no cost, printed materials about having a healthy pregnancy, and community resources. Feasibility and acceptability will be assessed at the end of the program. Measures will be obtained at baseline (20-28 weeks), the 36th week of pregnancy, birth, and 6-12 weeks post partum. Summary statistics and distribution plots will be used to describe measured variables at each time point. A generalized linear mixed model with a shared random component will be used to analyze the effects of PARITY on clinical, wellness behavioral, and empowered strength outcomes, including baseline nutrition, physical activity, and sleep measures as covariates. For significant effects, post hoc contrasts will be adjusted using the Holm method to maintain comparison-wise error at or <.05. Missing data will be addressed using a pattern-mixture model. The National Institute of Nursing Research funded this pilot RCT. Recruitment, enrollment, and data collection are ongoing, and the estimated study completion date is October 2024. The expected results of this study will provide the feasibility and preliminary efficacy of the PARITY intervention, to be used in a larger trial with a 12-month PARITY program intervention. ClinicalTrials.gov NCT05802615; https://clinicaltrials.gov/study/NCT05802615. DERR1-10.2196/58580.
+This study aimed to determine the causal role of insomnia-consistent interpretation bias within the cognitive model of insomnia, by modifying this bias in students experiencing subclinical levels of insomnia and assessing subsequent effects on sleep parameters. A sample of 128 students underwent randomization to receive either a single session of online Cognitive Bias Modification-Interpretation (CBM-I) or a sham training. Participants then tracked their pre-sleep worry and sleep parameters for seven consecutive days. Interpretation bias was assessed using an encoding-recognition task specifically designed for insomnia-related interpretation bias. The CBM-I manipulation utilized ambiguous scenarios to redirect participants away from making insomnia-related interpretations. Results revealed that CBM-I effectively decreased insomnia-consistent interpretation bias compared to the sham treatment, with interpretation bias being absent post-training in the CBM-I group. This reduction did not lead to improvements in pre-sleep worry or any sleep parameters. This study has been the first to investigate the causal role of interpretation bias on symptoms of insomnia. Although results indicated this bias to be modifiable, its causality within the cognitive model proves to be more complicated. Future research focusing on optimization of cognitive bias modifications could shed more light on the effects of biased cognitions on insomnia symptoms.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/58580
+- DOI: 10.1016/j.brat.2024.104607
 
 2. Keywords
-- African American
-- doula
-- health disparities
-- maternal health
-- mobile phone
+- Cognitive bias
+- Insomnia
+- Interpretive bias
+- Sleep
+- Students
 
 3. Key Findings
-- Findings extraction requires manual review
+- Results revealed that CBM-I effectively decreased insomnia-consistent interpretation bias compared to the sham treatment, with interpretation bias being absent post-training in the CBM-I group
+- Although results indicated this bias to be modifiable, its causality within the cognitive model proves to be more complicated
 
 This study provides insights into:
-- African American assessment methods and outcomes
-- doula assessment methods and outcomes
-- health disparities assessment methods and outcomes
+- Cognitive bias assessment methods and outcomes
+- Insomnia assessment methods and outcomes
+- Interpretive bias assessment methods and outcomes

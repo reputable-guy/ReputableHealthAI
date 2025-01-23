@@ -1,24 +1,27 @@
-Study Title: Hot flashes and sleep disruption in a randomized trial in menopausal women.
+Study Title: Sleep-loss related to itch in atopic dermatitis: assessing content validity and psychometric properties of a patient-reported sleep-loss rating scale.
 
 Study Summary:
-Hot flashes, common during menopause, affect up to 80% of the Western menopausal women and are reported to contribute to sleep disturbances in midlife. Few prospective data are available to confirm the specific role of hot flashes in disrupting sleep in midlife women, however, or confirm whether changes in hot flashes in response to clinical therapies result in improvement in sleep. To examine the effects of continuous nitroglycerin therapy on sleep quality in perimenopausal and postmenopausal women with frequent hot flashes (pre-specified secondary trial endpoint) and to examine prospective associations between hot flashes and sleep disruption in this population. Sleep data were analyzed from a randomized, double-blinded, placebo-controlled trial of continuous transdermal nitroglycerin (NTG) therapy to suppress nitric oxide-mediated vasodilation in perimenopausal or postmenopausal women with hot flashes. Participants were randomized to uninterrupted use of transdermal NTG (0.2-0.6&#xa0;mg/hour) or placebo for 12&#xa0;weeks. Nocturnal hot flashes awakening participants from sleep were evaluated using 7-day symptom diaries at baseline, 5&#xa0;weeks, and 12&#xa0;weeks. Sleep disruption (wakefulness after sleep onset, WASO) was assessed using validated sleep diaries, and global sleep quality was assessed by the validated Pittsburgh Sleep Quality Index (PSQI: range 0 [best] 21 [worst]) questionnaire. Mixed linear models examined changes in sleep quality and disruption, as well as the strength of associations between nocturnal hot flash frequency and sleep outcomes, over 5 and 12&#xa0;weeks, adjusting for baseline values, age, race, and ethnicity. Among the 141 participants (70 to NTG and 71 to placebo, mean age 54.6 [&#xb1;3.9] years), the mean baseline hot flash frequency was 10.8 (&#xb1;3.5) per day, including 2.6 (&#xb1;1.7) nocturnal hot flashes awakening participants. At baseline, hot flashes were the most commonly reported reason for nocturnal awakening, with 62.6% of participants reporting waking due to hot flashes at least twice nightly. Over 5 and 12&#xa0;weeks, mean frequency of nocturnal hot flashes causing awakenings decreased in both groups (NTG:&#xa0;-0.9 episodes/night, placebo:&#xa0;-1.0 episodes/night). Sleep disruption as measured by average nightly WASO also decreased (NTG:&#xa0;-10.1&#xa0;minutes, placebo:&#xa0;-7.3&#xa0;minutes), and mean PSQI score improved (NTG:&#xa0;-1.3 points, placebo:&#xa0;-1.2 points). No significant between-group differences in change in sleep outcomes were detected from baseline to 5 and 12&#xa0;weeks, including PSQI sleep quality score as a prespecified secondary trial endpoint (P&#x2265;.05 for all). Greater improvement in nocturnal hot flash frequency over 5 and 12&#xa0;weeks was associated with greater improvement in PSQI sleep quality score (&#x3b2;=&#xa0;-0.30, P=.01) and sleep disruption reflected by WASO (&#x3b2;=&#xa0;-1.88, P=.02) in the combined sample. Among menopausal women in a randomized trial of continuous NTG therapy for hot flashes, hot flashes were the most frequently reported cause of nocturnal awakenings. Compared to placebo, continuous NTG therapy did not result in greater improvements in sleep quality from baseline to 5 and 12&#xa0;weeks. Based on night-by-night symptom diaries and questionnaires, however, greater improvement in nocturnal hot flash frequency in both groups was associated with greater improvement in sleep quality and disruption.
+Sleep loss is a key factor contributing to disease burden in people with atopic dermatitis (AD). Mitigating itch to improve sleep is an important outcome of AD treatment. This study explored the content validity and measurement properties of the Sleep-Loss Scale, a single-item rating scale for assessing itch interference with sleep in clinical trials of AD treatments. Concept elicitation and cognitive debriefing interviews were conducted with 21 adults and adolescents (12-17 years of age) with moderate-to-severe AD to develop a conceptual model of patient experience in AD and explore the content validity of the scale. Data collected from adults with moderate-to-severe AD enrolled in a phase 2b study (NCT03443024) were used to assess Sleep-Loss Scale's psychometric performance, including reliability, construct validity, and ability to detect change. Meaningful within-patient change (MWPC) thresholds were also determined using anchor-based methods. Qualitative findings from concept elicitation highlighted the importance of sleep-loss related to itch in AD. Debriefing analysis of the Sleep-Loss Scale indicated that the scale was relevant, appropriate, and interpreted as intended. Trial data supported good reliability, construct validity and ability to detect improvement. MWPC was defined as a 1-point improvement using trial data, a finding supported by qualitative data. The Sleep-Loss Scale provides a valid and reliable patient-reported measure of the impact of itch on sleep in patients with AD, and can detect change, indicating it is fit-for-purpose to evaluate the efficacy of AD treatments in moderate-to-severe patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ajog.2024.07.022
+- DOI: 10.1186/s41687-024-00764-2
 
 2. Keywords
-- menopause transition
-- sleep efficiency
-- vasomotor symptoms
+- Atopic dermatitis
+- Itch
+- Mixed-methods research
+- Patient-reported outcome
+- Rating scale
+- Sleep impact
 
 3. Key Findings
-- Findings extraction requires manual review
+- Debriefing analysis of the Sleep-Loss Scale indicated that the scale was relevant, appropriate, and interpreted as intended
 
 This study provides insights into:
-- menopause transition assessment methods and outcomes
-- sleep efficiency assessment methods and outcomes
-- vasomotor symptoms assessment methods and outcomes
+- Atopic dermatitis assessment methods and outcomes
+- Itch assessment methods and outcomes
+- Mixed-methods research assessment methods and outcomes

@@ -1,26 +1,25 @@
-Study Title: Home-based exercise prehabilitation to improve disease-free survival and return to intended oncologic treatment after cancer surgery in older adults with frailty: a secondary analysis of a randomized trial.
+Study Title: Effect of Sitting Baduanjin exercise on early rehabilitation of sepsis patients with non-invasive ventilation : a randomized controlled trial.
 
 Study Summary:
-Improving survivorship for patients with cancer and frailty is a priority. We aimed to estimate whether exercise prehabilitation improves disease-free survival and return to intended oncologic treatment for older adults with frailty undergoing cancer surgery. We conducted a secondary analysis of the oncologic outcomes of a randomized trial of patients&#x2009;&#x2265;&#x2009;60&#xa0;yr of age with frailty undergoing elective cancer surgery. Participants were randomized either to a supported, home-based exercise program plus nutritional guidance or to usual care. Outcomes for this analysis were one-year disease-free survival and return to intended oncologic treatment. We estimated complier average causal effects to account for intervention adherence. We randomized 204 participants (102 per arm); 182 were included in our modified intention-to-treat population and, of these participants, 171/182 (94%) had complete one-year follow up. In the prehabilitation group, 18/94 (11%) died or experienced cancer recurrence, compared with 19/88 (11%) in the control group (hazard ratio [HR], 1.25; 95% confidence interval [CI], 0.66 to 2.34; P&#x2009;=&#x2009;0.49). Return to intended oncologic treatment occurred in 24/94 (29%) patients the prehabilitation group vs 20/88 (23%) in the usual care group (HR, 1.53; 95% CI, 0.84 to 2.77; P&#x2009;=&#x2009;0.16). Complier average causal effects directionally diverged for disease-free survival (HR, 0.91; 95% CI, 0.20 to 4.08; P&#x2009;=&#x2009;0.90) and increased the point estimate for return to treatment (HR, 2.04; 95% CI, 0.52 to 7.97; P&#x2009;=&#x2009;0.30), but in both cases the CIs included 1. Randomization to home-based exercise prehabilitation did not lead to significantly better disease-free survival or earlier return to intended oncologic treatment in older adults with frailty undergoing cancer surgery. Our results could inform future trials powered for more plausible effect sizes, especially for the return to intended oncologic treatment outcome. ClinicalTrials.gov ( NCT02934230 ); first submitted 22 August 2016.
+For patients with sepsis receiving non-invasive ventilation (NIV), early rehabilitation is crucial. The Sitting Baduanjin (SBE) is an efficient early rehabilitation exercise suitable for bed patients. There is no consensus about the effect of SBE on the early rehabilitation of septic patients with NIV. This study focused on how the SBE affected the early rehabilitation of sepsis patients with NIV. 96 sepsis patients with NIV were randomly assigned to either an Baduanjin group that received the SBE based on the routine rehabilitation exercise (n&#x2009;=&#x2009;48) or a control group (n&#x2009;=&#x2009;48) that received routine rehabilitation exercise. The primary outcome was the Medical Research Council(MRC)score, and the Barthel Index score, the duration of NIV, length of ICU stay, length of total stay, hospitalization expense as secondary outcomes. A total of 245 sepsis patients were screened, with 96 randomly assigned. The study was completed by 90 patients out of the 96 participants.Results revealed that the MRC score increased in both groups, but the improvement of muscle strength in Baduanjin group was more obvious, with statistical significance (p&#x2009;<&#x2009;0.001).There was statistically significantly difference between the two groups in Barthel Index at the day of transfer out of ICU(P&#x2009;=&#x2009;0.028).The patients in the Baduanjin group had an average reduction of 24.09&#xa0;h in the duration of NIV and 3.35 days in total length of hospital stay compared with the control group (p&#x2009;<&#x2009;0.05).Of note, the Baduanjin group had significantly reduction the total hospitalization expense. No serious adverse events occurred during the intervention period. In patients with sepsis, the SBE appears to improve muscle strength and activities of daily living (ADL), and lowed the duration of NIV, the length of the total stay, and the hospitalization expense. The study registered on the Chinese Clinical Trial Registry ( www.chictr.org.cn ), Clinical Trials identifier ChiCTR1800015011 (28/02/2018).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s12630-024-02835-w
+- DOI: 10.1186/s12906-024-04626-8
 
 2. Keywords
-- cancer
-- exercise
-- frailty
-- prehabilitation
-- randomized trial
+- Early rehabilitation
+- Non-invasive ventilation
+- Sepsis
+- The sitting baduanjin
 
 3. Key Findings
-- Findings extraction requires manual review
+- Results revealed that the MRC score increased in both groups, but the improvement of muscle strength in Baduanjin group was more obvious, with statistical significance (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- cancer assessment methods and outcomes
-- exercise assessment methods and outcomes
-- frailty assessment methods and outcomes
+- Early rehabilitation assessment methods and outcomes
+- Non-invasive ventilation assessment methods and outcomes
+- Sepsis assessment methods and outcomes

@@ -1,26 +1,27 @@
-Study Title: A Randomized Controlled Trial of Clinical Hypnosis as an Opioid-Sparing Adjunct Treatment for Pain Relief in Adults Undergoing Major Oncologic Surgery.
+Study Title: Effects of Prebiotic Yeast Mannan on Gut Health and Sleep Quality in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled Study.
 
 Study Summary:
-Clinical hypnosis is an effective strategy for managing acute pain in the surgical setting. However, the opioid sparing effects of clinical hypnosis are not as well understood. This pre-registered (NCT03730350) randomized, controlled trial (RCT) examined the impact of clinical hypnosis, pre- and post-surgery, on opioid consumption during hospitalization as well as on measures of pain intensity, pain interference, depressed mood, anxiety, sleep, and pain catastrophizing. Participants (M = 57.6 years; SD = 10.9) awaiting oncologic surgery were randomized to treatment-as-usual (n = 47) or hypnosis (n = 45). Intent-to-treat analyses were conducted using linear mixed effects modeling. A significant Group &#xd7; Time interaction,(6, 323.34) = 3.32,= 0.003, indicated an opioid sparing effect of clinical hypnosis during the acute postoperative period. Hypnosis also protected against increases in pain catastrophizing at one-week after surgery,(1, 75.26) = 4.04,= 0.048. A perioperative clinical hypnosis intervention had a sparing effect on opioid consumption in-hospital after major oncologic surgery. These findings extend the efficacy of clinical hypnosis as an adjunct tool for perioperative pain management.
+Human gut health is closely related to sleep. We aimed to evaluate the efficacy of yeast mannan (YM) in improving bowel habits and sleep quality, along with metabolomics in fecal samples. A total of 40 healthy adults (age range, 22-64 years) with discomfort in defecation were enrolled and randomly allocated to receive either YM (= 20; 1.1 g/day) or placebo (= 20) for four weeks. Participants recorded their defecation habits throughout the test periods. Sleep electroencephalogram (EEG) recording using an EEG device and fecal sampling were performed pre- and post-treatment. The YM group significantly increased defecation frequency and stool volumes compared to the placebo group. After 4 weeks of treatment, the non-REM sleep stage 3 (N3) duration in the YM group was significantly higher than that in the placebo group. YM ingestion significantly lengthened total time in bed (TIB) and significantly shortened N3 latency compared to placebo intake during the trial. The metabolomics analysis found a total of 20 metabolite differences between the YM and placebo groups. As a result of stepwise linear regression, changes in fecal propionate and gamma-aminobutyric acid (GABA) levels were identified as the primary factors explaining changes in TIB and N3 latency, respectively. Our findings suggest that the prebiotic YM could be beneficial to gut health and sleep quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/JPR.S424639
+- DOI: 10.3390/nu16010141
 
 2. Keywords
-- clinical hypnosis
-- oncologic surgery
-- pain catastrophizing
-- postoperative opioid use
-- postoperative pain
+- fecal metabolomics
+- gut health
+- mannan
+- prebiotic
+- sleep
+- yeast
 
 3. Key Findings
-- 003, indicated an opioid sparing effect of clinical hypnosis during the acute postoperative period
+- The metabolomics analysis found a total of 20 metabolite differences between the YM and placebo groups
 
 This study provides insights into:
-- clinical hypnosis assessment methods and outcomes
-- oncologic surgery assessment methods and outcomes
-- pain catastrophizing assessment methods and outcomes
+- fecal metabolomics assessment methods and outcomes
+- gut health assessment methods and outcomes
+- mannan assessment methods and outcomes

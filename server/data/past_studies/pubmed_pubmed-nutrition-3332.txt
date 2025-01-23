@@ -1,26 +1,27 @@
-Study Title: Physician workload and practice management in pediatric gastroenterology.
+Study Title: Differential effect by chronic disease risk: A secondary analysis of the ChooseWell 365 randomized controlled trial.
 
 Study Summary:
-The pediatric gastroenterology workforce has grown in the last few decades. The North American Society of Pediatric Gastroenterology, Hepatology and Nutrition (NASPGHAN) formed a task force to understand current pediatric gastroenterology organizations' practice&#xa0;structures. 19-item electronic survey was distributed to NASPGHAN members who were clinical or academic division directors. 30% responded to the survey, all directors of academic practices. The median number of clinical sessions per week was seven sessions, and the median individual work relative value unit&#xa0;(wRVU) target for practices was 4000-4500. Healthcare team ratios compared to provider clinical full-time equivalent&#xa0;were reported as the following: Nursing 0.80, medical assistant (MA) 0.29, dietitian 0.29, social worker 0.14, and psychologist 0.13. Regarding compensation, 68.0% were salaried with bonus based on billing or director decision, 28.0% were salaried with no incentive pay, and 4.0% were salaried with a portion at risk if the target was not met, and a bonus was given if the target was met. Most practices participated in a wellness activity with the most common strategies being didactic lectures about physician burnout (80%), annual burnout check-ins (68%), and/or after-hours social activities&#xa0;(60%). Pediatric gastroenterology practices vary regarding clinical sessions per week and annual wRVU targets with the median at seven&#xa0;sessions per week and an annual goal of 4000-4500 wRVUs, similar to reported national benchmark goals at the 50th percentile. Healthcare teams, including nursing, MAs, dietitians, social workers, and psychologists, had similar ratios of staff to providers for all sizes and types of practices. Most practices are engaging in wellness initiatives.
+Whether employees' health status is associated with the effectiveness of workplace health promotion programs is unknown. The objective of this study was to determine if the effect of a workplace healthy eating intervention differed by baseline chronic disease status. This was a secondary analysis of a randomized controlled trial conducted September 2016 to February 2018 among US hospital employees to test the effect of a 12-month behavioral intervention (personalized feedback, peer comparisons, and financial incentives) on diet and weight. Participants were classified as having chronic disease (yes/no) based on self-reported hypertension, hyperlipidemia, heart disease, stroke, pre-diabetes, diabetes, cancer or another serious illness. BMI was measured at study visits and calories purchased were measured from cafeteria sales data over 24&#xa0;months. Mixed models with random effects assessed heterogeneity of treatment effects by chronic disease. Participants (N&#xa0;=&#xa0;548) were mostly female (79.7&#xa0;%) and white (81.2&#xa0;%); 224 (40.9&#xa0;%) had chronic disease. Among those with chronic disease, intervention participants reduced caloric intake by 74.4 [22.3] kcal more than control, with a smaller difference between intervention and control (-1.9 [18.7] kcal) (three-way p-interaction&#xa0;=&#xa0;0.02). The effect on BMI for those with chronic disease (0.47 [0.21] kg/m) indicated weight stability among intervention participants and weight gain among controls while the effect (-0.56 [0.18] kg/m) for those without chronic disease was the opposite (three-way p-interaction&#xa0;<&#xa0;0.01). Those with chronic diseases had greater reductions in calories purchased and gained less weight. Employers with limited resources for health promotion might consider tailoring programs to employees at highest risk.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/jpn3.12226
+- DOI: 10.1016/j.pmedr.2024.102736
 
 2. Keywords
-- business management
-- clinical practice
-- physician burnout
-- wellness
-- workforce
+- Behavioral economics
+- Diet quality
+- Lifestyle
+- Nutrition
+- Weight maintenance
+- Workplace wellness program
 
 3. Key Findings
-- Findings extraction requires manual review
+- 21] kg/m) indicated weight stability among intervention participants and weight gain among controls while the effect (-0
 
 This study provides insights into:
-- business management assessment methods and outcomes
-- clinical practice assessment methods and outcomes
-- physician burnout assessment methods and outcomes
+- Behavioral economics assessment methods and outcomes
+- Diet quality assessment methods and outcomes
+- Lifestyle assessment methods and outcomes

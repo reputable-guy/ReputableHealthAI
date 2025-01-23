@@ -1,25 +1,26 @@
-Study Title: Greater lactate accumulation does not alter peripheral concentrations of key appetite-regulating neuropeptides.
+Study Title: A randomized trial of aerobic exercise in colorectal cancer: Rationale, design, recruitment, and exercise adherence results.
 
 Study Summary:
-The potential mechanisms involved in lactate's role in exercise-induced appetite suppression require further examination. We used sodium bicarbonate (NaHCO) supplementation in a double-blind, placebo-controlled, randomized crossover design to explore lactate's role on neuropeptide Y (NPY), agouti-related peptide (AgRP), and alpha-melanocyte-stimulating hormone (&#x3b1;-MSH) concentrations. Twelve adults (7 males; 24.2&#x2009;&#xb1;&#x2009;3.4 kg&#xb7;m; 42.18&#x2009;&#xb1;&#x2009;8.56 mL&#xb7;kg&#xb7;min) completed two identical high-intensity interval training sessions following ingestion of NaHCO(BICARB) or sodium chloride (PLACEBO) pre-exercise. Blood lactate, acylated ghrelin, NPY, AgRP, &#x3b1;-MSH, and appetite perceptions were measured pre-exercise, 0-, 30-, 60-, and 90-min postexercise. Free-living energy intake (electronic food diaries) was measured the day before, of, and after each experimental session. In BICARB, blood lactate was greater postexercise (< 0.002,> 0.70), though acylated ghrelin was similar (= 0.075, [Formula: see text] = 0.206) at all time points postexercise (> 0.034,< 0.22). NPY (= 0.006, [Formula: see text] > 0.509) and AgRP (< 0.001, [Formula: see text] > 0.488) had main effects of time increasing following exercise and returning to baseline, with no differences between sessions (NPY:= 0.0.192, [Formula: see text] = 0.149; AgRP:= 0.422, [Formula: see text] = 0.060). &#x3b1;-MSH had no main effect of time (= 0.573, [Formula: see text] = 0.063) or session (= 0.269, [Formula: see text] = 0.110). Appetite perceptions were similar during BICARB and PLACEBO (= 0.007,= 0.28), increasing in both sessions postexercise (< 0.088,> 0.57). Energy intake had a main effect of day (= 0.025, [Formula: see text] = 0.825), where the experimental session day was greater than the day before (= 0.010,= 0.59) with no other differences between days (> 0.260,< 0.38). The lower accumulation of lactate than our previous work did not generate exercise-induced appetite suppression as there were no differences in acylated ghrelin, appetite perceptions, or peripheral concentrations of neuropeptides.Current evidence supports lactate's role in exercise-induced appetite suppression. Here, we demonstrate a smaller degree of lactate accumulation with sodium bicarbonate ingestion and HIIT than our previous work and no subsequent suppression of acylated ghrelin concentrations, subjective appetite perceptions, or peripheral concentrations of neuropeptides. These results suggest either changes in central appetite-regulating neuropeptides are not reflected peripherally or the smaller magnitude of lactate accumulation did not generate exercise-induced appetite suppression as seen previously.
+Physical activity is associated with improved disease-free survival in colorectal cancer survivors. This report describes the purpose, design, recruitment, and exercise adherence results of the National Cancer Institute (NCI)-sponsored Exercise and Colorectal Cancer Treatment (EXACT) trial. The primary objective of the EXACT trial is to determine if randomization to 150&#xa0;min per week of moderate-intensity aerobic exercise reduces systemic inflammation among stage I-III colorectal cancer survivors compared with a waitlist control group over 12&#xa0;weeks. Participants were provided with an in-home treadmill and heart rate monitor. Characteristics associated with randomization were identified using &#x3c7;or Fisher's exact test for categorical variables and t-tests or analysis of covariance (ANCOVA). Exercise adherence was calculated as the total minutes exercised by total minutes prescribed. Between August 2019 and February 2023, 3082 colorectal cancer survivors were invited to participate, 89 were screened, and 60 were randomized to the study protocol. Younger age (P&#xa0;=&#xa0;0.02), female sex (P&#xa0;=&#xa0;0.002), white race (P&#xa0;=&#xa0;0.01), proximal time since tumor resection (P&#xa0;=&#xa0;0.02), and regional tumor stage (P&#xa0;<&#xa0;0.001) were associated with study participation. Average exercise adherence was 92.2&#xa0;% (95&#xa0;% CI: 85.5, 98.8) and all study participants achieved &#x2265;80&#xa0;% exercise adherence. Endpoint data collection was completed for all participants in May 2023. The results from the EXACT trial will characterize the changes that occur from exercise to advance our understanding of the biological mechanisms by which exercise may prevent tumor recurrence and death in colorectal cancer survivors.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1152/japplphysiol.00559.2024
+- DOI: 10.1016/j.cct.2024.107702
 
 2. Keywords
-- appetite-regulation
-- food intake
-- gut hormones
-- neuropeptides
+- Colorectal cancer
+- Inflammation
+- Insulin resistance
+- Physical activity
+- Survivorship
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- appetite-regulation assessment methods and outcomes
-- food intake assessment methods and outcomes
-- gut hormones assessment methods and outcomes
+- Colorectal cancer assessment methods and outcomes
+- Inflammation assessment methods and outcomes
+- Insulin resistance assessment methods and outcomes

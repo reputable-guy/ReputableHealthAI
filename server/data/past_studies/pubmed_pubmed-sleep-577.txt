@@ -1,27 +1,30 @@
-Study Title: Repeated electrical vestibular nerve stimulation (VeNS) reduces severity in moderate to severe insomnia; a randomised, sham-controlled trial; the modius sleep study.
+Study Title: Comparative evaluation of the sleep quality metrics between a cardboard bed and a camp cot: a randomized controlled crossover study.
 
 Study Summary:
-Insomnia is a prevalent health concern in the general population associated with a range of adverse health effects. New, effective, safe and low-cost treatments, suitable for long-term use, are urgently required. Previous studies have shown the potential of electrical vestibular nerve stimulation (VeNS) in improving insomnia symptoms, however only one sham-controlled trial has been conducted on people with chronic insomnia. Repeated VeNS delivered by the Modius Sleep device prior to sleep onset will show superior improvement in Insomnia Severity Index (ISI) scores over a 4-week period compared to sham stimulation. In this double-blinded, multi-site, randomised, sham-controlled study, 147 participants with moderate to severe insomnia (ISI&#x2265;15) were recruited and allocated a VeNS or a sham device (1:1 ratio) which they were asked to use at home for 30&#xa0;min daily (minimum 5 days per week) for 4 weeks. After 4 weeks, mean ISI score reduction was 2.26 greater in the VeNS treatment group than the sham group (p&#xa0;=&#xa0;0.002). In the per protocol analysis, the treatment group had a mean ISI score decrease of 5.8 (95&#xa0;% CI [-6.8, -4.81], approaching the clinically meaningful threshold of a 6-point reduction, with over half achieving a clinically significant decrease. Furthermore, the treatment group showed superior improvement to the sham group in the SF-36 (Quality of Life) energy/fatigue component (PP p&#xa0;=&#xa0;0.004, effect size 0.26; ITT p&#xa0;=&#xa0;0.006, effect size 0.22). Modius sleep has the potential to provide a viable, non-invasive and safe clinically meaningful alternative treatment option for insomnia.
+Health-beneficial emergency bedding has become increasingly important for dealing with natural disasters such as the anticipated Nankai Trough earthquake in Japan. When the Great East Japan Earthquake occurred, cardboard beds were provided to evacuees. However, there were concerns about lower back pain and sleep disturbances, as cardboard beds offer insufficient pressure distribution. This study aimed to compare the effects of cardboard beds with those of foldable camp cots on sleep quality. A randomized controlled crossover study involving 20 healthy participants aged 18-45 years was conducted between June 2022 and January 2023. Participants were asked to sleep for one night on a camp cot and for another night on a cardboard bed, with a minimum three-day washout period between the two nights. Body pressure distribution and sleep metrics obtained from polysomnography (PSG) and questionnaires were compared between the two-bed types (< 0.05). The camp cot exhibited better body pressure distribution than a cardboard bed, leading to improved sleep satisfaction, bedding comfort, and reduced morning sleepiness. Nevertheless, polysomnography revealed no notable differences in sleep metrics or sleep architecture between the two types of beds. Our findings indicate that cardboard beds have lower pressure dispersion capabilities than camp cots, leading to an increased number of position changes during sleep. Additionally, subjective sleep quality, such as alertness on waking, sleep comfort, and sleep satisfaction, was lower for cardboard beds, suggesting that camp cots might offer a more comfortable bedding option for evacuees. However, there were no discernible differences between the two-bed types in terms of objective sleep metrics derived from PSG. The potential for sleep disturbances caused by lower back pain from a hard mattress has been noted, and it is possible that a single night's experience in healthy individuals might not be enough for sleep issues to manifest.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.brs.2024.05.010
+- DOI: 10.7717/peerj.17392
 
 2. Keywords
-- Brain
-- Insomnia
-- Quality of life
-- RCT
-- Sleep
-- Vestibular stimulation
+- Body pressure distribution
+- Camp cots
+- Cardboard beds
+- Emergency beds
+- Ergonomics
+- Evacuation shelter
+- Evacuees
+- Musculoskeletal strain
+- Sleep quality
 
 3. Key Findings
-- Furthermore, the treatment group showed superior improvement to the sham group in the SF-36 (Quality of Life) energy/fatigue component (PP p&#xa0;=&#xa0;0
+- Nevertheless, polysomnography revealed no notable differences in sleep metrics or sleep architecture between the two types of beds
 
 This study provides insights into:
-- Brain assessment methods and outcomes
-- Insomnia assessment methods and outcomes
-- Quality of life assessment methods and outcomes
+- Body pressure distribution assessment methods and outcomes
+- Camp cots assessment methods and outcomes
+- Cardboard beds assessment methods and outcomes

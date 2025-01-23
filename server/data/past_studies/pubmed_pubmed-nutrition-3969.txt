@@ -1,26 +1,28 @@
-Study Title: Engaging Fathers Through Nutrition Behavior Communication Change Does Not Increase Child Dietary Diversity in a Cluster Randomized Control Trial in Rural Ethiopia.
+Study Title: A 12-Week Randomized Intervention Comparing the Healthy US, Mediterranean, and Vegetarian Dietary Patterns of the US Dietary Guidelines for Changes in Body Weight, Hemoglobin A1c, Blood Pressure, and Dietary Quality among African American Adults.
 
 Study Summary:
-Adding food vouchers or paternal nutrition behavior change communication (BCC) activities to maternal BCC may improve child diets and household food security but their effect is unknown. We assessed whether maternal BCC, maternal and paternal BCC, maternal BCC and a food voucher, or maternal and paternal BCC and a food voucher improved nutrition knowledge, child diet diversity scores (CDDS), and household food security. We implemented a cluster randomized control trial in 92 Ethiopian villages. Treatments were as follows: maternal (M) BCC only; maternal BCC and paternal BCC (M+P); maternal BCC and food vouchers (M+V); and maternal BCC, food vouchers, and paternal BCC (M+V+P). Effects were assessed using generalized estimating equations. Maternal BCC and paternal BCC increased the maternal and paternal knowledge of optimal infant and young child feeding practices by 4.2-6.8 percentage points (P < 0.05) and by 8.3-8.4 percentage points (P < 0.01), respectively. Combining maternal BCC with either paternal BCC or the food voucher increased CDDS by 21.0%-23.1% (P < 0.05). The treatments M, M+V, and M+P increased the proportion of children who met minimum acceptable diet standards by 14.5, 12.8, and 20.1 percentage points, respectively (P < 0.01). Adding paternal BCC to the maternal BCC treatment or to the maternal BCC and voucher treatment did not lead to a larger increase in CDDS. Increased paternal involvement does not necessarily translate into improvements in child feeding outcomes. Understanding the intrahousehold decision-making dynamics that underlie this is an important area for future research. This study was registered at clinicaltrials.gov as NCT03229629.
+The US Dietary Guidelines (USDG) form the basis of nutrition guidelines, but the research informing the 3 USDG dietary patterns (Healthy US-Style [H-US], Mediterranean [Med], and vegetarian [Veg]) has been drawn largely from observational studies among White populations. The Dietary Guidelines 3 Diets study was a 3-arm, 12-wk randomly assigned intervention among African American (AA) adults at risk of type 2 diabetes mellitus that tested the 3 USDG dietary patterns. The AAs (ages 18-65 y, BMI 25-49.9 kg/m, and BMI was measured in kg/m) with &#x2265;3 type 2 diabetes mellitus risk factors were recruited. Weight, HbA1c, blood pressure, and dietary quality (healthy eating index [HEI]) were collected at baseline and 12 wk. In addition, participants attended weekly online classes that were designed using material from the USDG/MyPlate. Repeated measures, mixed models with maximum likelihood estimation, and robust computation of standard errors were tested. Of the 227 participants screened, 63 were eligible (83% female; age 48.0 &#xb1; 10.6 y, BMI 35.9 &#xb1; 0.8 kg/m) and randomly assigned to the Healthy US-Style Eating Pattern (H-US) (n = 21, 81% completion), healthy Mediterranean-style eating pattern (Med) (n = 22, 86% completion), or healthy vegetarian eating pattern (Veg) (n = 20, 70% completion) groups. Within-group, but not between groups, weight loss was significant (-2.4 &#xb1; 0.7 kg H-US, -2.6 &#xb1; 0.7 kg Med, -2.4 &#xb1; 0.8 kg Veg; P = 0.97 between group). There was also no significant difference between groups for changes in HbA1c (0.03 &#xb1; 0.05% H-US, -0.10 &#xb1; 0.05% Med, 0.07 &#xb1; 0.06% Veg; P = 0.10), systolic BP (-5.5 &#xb1; 2.7 mmHg H-US, -3.2 &#xb1; 2.5 mmHg Med, -2.4 &#xb1; 2.9 mmHg Veg; P = 0.70), diastolic blood pressure (-5.2 &#xb1; 1.8 mmHg H-US, -2.0 &#xb1; 1.7 mmHg Med, -3.4 &#xb1; 1.9 mmHg Veg; P = 0.41), or HEI (7.1 &#xb1; 3.2 H-US, 15.2 &#xb1; 3.1 Med, 4.6 &#xb1; 3.4 Veg; P = 0.06). Post hoc analyses showed that the Med group had significantly greater improvements in HEI compared to the Veg group (difference = -10.6 &#xb1; 4.6; 95% CI: -19.7, -1.4; P = 0.02). The present study demonstrates that all 3 USDG dietary patterns lead to significant weight loss among AA adults. However, none of the outcomes were significantly different between groups. This trial was registered at clinicaltrials.gov as NCT04981847.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.tjnut.2022.12.023
+- DOI: 10.1016/j.tjnut.2022.11.020
 
 2. Keywords
-- Ethiopia
-- behavior change communication
-- child dietary diversity
-- food vouchers
-- paternal involvement
+- African American
+- diet patterns
+- diet quality
+- dietary Guidelines
+- hypertension
+- type 2 diabetes
+- weight loss
 
 3. Key Findings
-- Findings extraction requires manual review
+- Post hoc analyses showed that the Med group had significantly greater improvements in HEI compared to the Veg group (difference = -10
 
 This study provides insights into:
-- Ethiopia assessment methods and outcomes
-- behavior change communication assessment methods and outcomes
-- child dietary diversity assessment methods and outcomes
+- African American assessment methods and outcomes
+- diet patterns assessment methods and outcomes
+- diet quality assessment methods and outcomes

@@ -1,20 +1,28 @@
-Study Title: Varus Thrust Assessment Identified Responders to Quadriceps Exercise in Individuals at Risk of or with Knee Osteoarthritis.
+Study Title: Online-delivered resistance exercise intervention among racially diverse breast cancer survivors: Feasibility, acceptability, and exploratory outcomes of B-REP.
 
 Study Summary:
-Identification of responders/nonresponders to unsupervised therapeutic exercise represents a critical challenge toward establishment of tailored self-management at home. Focusing on visualized varus thrust during gait as a possible effect moderator, this study determined whether and how varus thrust influences the therapeutic effects of home-based quadriceps exercise in individuals at increased risk of, or with, established knee osteoarthritis. This study is a secondary subgroup analysis of a randomized controlled trial ( n = 50). Varus thrust at baseline was assessed via recorded gait movie. Analysis of covariance and subsequent mediation analysis were used to determine whether and how varus thrust influences the therapeutic effect of home-based quadriceps exercise after adjustment for covariates. To address the possible distinct impact of varus thrust on unsupervised and supervised exercise, the results were cross-checked with previous supervised exercise cohort using a meta-analysis. Individuals without varus thrust displayed greater and clinically meaningful pain relief after exercise after adjustment for covariates. The greater pain relief in individuals without varus thrust was attributed, at least partly, to an improvement in knee flexion range of motion. Notably, the meta-analysis revealed that unsupervised and supervised exercise programs induce consistent and clinically meaningful pain reduction in individuals without varus thrust. Varus thrust is a robust effect moderator of the pain-reducing effect of quadriceps exercise. Furthermore, greater pain reduction may be a function of improvement of knee flexion range of motion. These studies provide evidence that varus thrust assessment represents valuable approach to identify responders/nonresponders to quadriceps exercise even for unsupervised protocol at their home environment.
+The aims are to determine the feasibility of an online-delivered resistance exercise program among racially diverse breast cancer survivors and to conduct an exploratory analysis of the intervention on muscular strength, physical activity levels, health-related quality of life, and self-efficacy. A 2-arm randomized controlled trial study design with assessments at pre- and post-intervention was used. Participants (n&#x2009;=&#x2009;52) were recruited from clinics at the host institution and randomized to either intervention (n&#x2009;=&#x2009;28) or minimal contact control (MCC) conditions (n&#x2009;=&#x2009;24). All participants received a 12-week individualized resistance exercise prescription based on their baseline functional strength assessment. Intervention participants exercised one-on-one once per week over Zoom with an exercise trainer. MCC participants received no supervision. Descriptive statistics were used to determine feasibility and acceptability (primary outcomes). Repeated measures ANOVAs were used to examine exploratory outcomes. The intervention demonstrated high rates for feasibility outcomes of enrollment (80.0%) and post-intervention assessment completion (92.9%). Acceptability outcomes were high for session attendance (98.0%) and satisfaction (M&#x2009;=&#x2009;4.87 out of 5, SD&#x2009;=&#x2009;.18). The intervention group increased upper- (p&#x2009;<&#x2009;.01) and lower- (p&#x2009;<&#x2009;.02) body strength compared to MCC condition. The intervention was feasible, acceptable, and demonstrated increases in muscular strength. Limitations include a small sample recruited from one cancer center. Future research is needed to determine longitudinal impacts of resistance exercise on survivorship outcomes. Online-delivered resistance exercise shows promising efficacy among racially diverse breast cancer survivors. gov registration: NCT04562233 on September 18, 2020.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1249/MSS.0000000000003526
+- DOI: 10.1007/s00520-024-08769-9
 
 2. Keywords
-
+- Breast cancer
+- Racial diversity
+- Resistance exercise
+- Strength training
+- Survivorship
+- Weightlifting
 
 3. Key Findings
-- Notably, the meta-analysis revealed that unsupervised and supervised exercise programs induce consistent and clinically meaningful pain reduction in individuals without varus thrust
+- The intervention demonstrated high rates for feasibility outcomes of enrollment (80
+- The intervention was feasible, acceptable, and demonstrated increases in muscular strength
 
 This study provides insights into:
-- General research methodology and outcomes
+- Breast cancer assessment methods and outcomes
+- Racial diversity assessment methods and outcomes
+- Resistance exercise assessment methods and outcomes

@@ -1,21 +1,25 @@
-Study Title: Effects of brief remote high ventilation breathwork with retention on mental health and wellbeing: a randomised placebo-controlled trial.
+Study Title: Can Listening to a Verbal Trauma Report Induce Intrusions? - Replication of a Randomized Trial.
 
 Study Summary:
-High ventilation breathwork with retention (HVBR) has been growing in popularity over the past decade and might be beneficial for mental and physical health. However, little research has explored the potential therapeutic effects of brief, remotely delivered HVBR and the tolerability profile of this technique. Accordingly, we investigated the effects of a fully-automated HVBR protocol, along with its tolerability, when delivered remotely in a brief format. This study (NCT06064474) was the largest blinded randomised-controlled trial on HVBR to date in which 200 young, healthy adults balanced for gender were randomly allocated in blocks of 2 by remote software to 3&#xa0;weeks of 20&#xa0;min daily HVBR (fast breathing with long breath holds) or a placebo HVBR comparator (15 breaths/min with short breath holds). The trial was concealed as a 'fast breathwork' study wherein both intervention and comparator were masked, and only ~&#x2009;40% guessed their group assignment with no difference in accuracy between groups. Both groups reported analogous credibility and expectancy of benefit, subjective adherence, positive sentiment, along with short- and long-term tolerability. At post-intervention (primary timepoint) for stress level (primary outcome), we found no significant group&#x2009;&#xd7;&#x2009;time interaction, F(1,180)&#x2009;=&#x2009;1.98, p&#x2009;=&#x2009;0.16, &#x3b7;&#x2009;=&#x2009;0.01, d&#x2009;=&#x2009;0.21), nor main effect of group, (F&#x2009;=&#x2009;0.35, p&#x2009;=&#x2009;0.55, &#x3b7;&#x2009;<&#x2009;0.01) but we did find a significant main effect of time, (F&#x2009;=&#x2009;13.0, p&#x2009;<&#x2009;0.01, &#x3b7;&#x2009;=&#x2009;0.07). There was a significant improvement in stress pre-post-intervention in both groups, however there was no significant difference in such improvement between groups. In addition to stress at follow-up, we found no significant group x time interactions for secondary trait outcomes of anxiety, depression, mental wellbeing, and sleep-related impairment. This was also the case for state positive and negative affect after the first session of breathwork and at post-intervention. Brief remote HVBR therefore may not be more efficacious at improving mental health than a well-designed active comparator in otherwise healthy, young adults.
+Recent evidence suggests that indirect verbal exposure to traumatic events can be sufficient to cause intrusions and other posttraumatic stress symptoms. In this study, we used a verbal trauma report to experimentally induce intrusions and a tactile task to manipulate the putative processes underlying intrusion development. Our findings indicate that the verbal report indeed induced intrusive recall. Moreover, the verbal report induced negative mood, state anxiety, and state dissociation, with mood and state dissociation predicting intrusion development. Additionally, the tactile task interfered with intrusion formation as indicated by the primary diary measure, but not the retrospective self-report. However, these results await further replication as this and previous trials suffered from limited statistical power. The findings support the reports by trauma therapists who experience secondary traumatization. They also challenge the assumption that all intrusions develop bottom-up from low-level sensory input via sensory representations. Future studies should explore differential processes for intrusion development based on their modality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-64254-7
+- DOI: 10.1080/15299732.2024.2374369
 
 2. Keywords
-
+- Intrusive thoughts
+- experimental replication
+- imagery
+- post-traumatic stress
 
 3. Key Findings
-- At post-intervention (primary timepoint) for stress level (primary outcome), we found no significant group&#x2009;&#xd7;&#x2009;time interaction, F(1,180)&#x2009;=&#x2009;1
-- In addition to stress at follow-up, we found no significant group x time interactions for secondary trait outcomes of anxiety, depression, mental wellbeing, and sleep-related impairment
+- Additionally, the tactile task interfered with intrusion formation as indicated by the primary diary measure, but not the retrospective self-report
 
 This study provides insights into:
-- General research methodology and outcomes
+- Intrusive thoughts assessment methods and outcomes
+- experimental replication assessment methods and outcomes
+- imagery assessment methods and outcomes

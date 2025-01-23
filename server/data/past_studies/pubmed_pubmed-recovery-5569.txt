@@ -1,27 +1,26 @@
-Study Title: The effect of music on stress recovery.
+Study Title: Evaluation of the Teaching Recovery Techniques intervention among newcomer students in Swedish schools: a randomised controlled trial turned into a feasibility study.
 
 Study Summary:
-Previous research has suggested beneficial effects of music in reducing stress levels. However, there is no consistent conclusion demonstrating that music can contribute to stress recovery, primarily due to limitations in stress measurement, and inconsistent methodology within existing studies. Our study explores whether relaxing music, especially when self-selected, outperforms non-music acoustic, and silence conditions, fostering both subjective and biological stress recovery. One hundred and five healthy female participants underwent the Trier Social Stress Test (TSST) before being randomly allocated to one of four conditions: condition 1 (n = 25) listened to researcher-selected relaxing music; condition 2 (n = 27) listened to self-selected relaxing music; condition 3 (n = 26) listened to the sound of rippling water; and condition 4 (n = 27) remained in silence. Stress parameters were repeatedly measured nine times before and after the TSST. Saliva samples were collected for cortisol and saliva alpha-amylase (sAA) analysis, Movisens equipment was used to measure heart rate (HR) and skin conductance levels (SCL), and Visual Analogue Scales (VAS) were used for subjective stress measurement. The examination of SCL, and VAS scores revealed no significant changes following the four relaxation interventions. Although sAA displayed a significant main effect of condition, post hoc tests did not pinpoint specific differences. HR recovery patterns varied among the four relaxation interventions, with the sound of rippling water condition exhibiting a later significant decrease compared to the other conditions. Exploratory analyses revealed that cortisol levels continued increase in all conditions during intervention phase except the researcher-selected music condition. The subjective and biological stress markers did not exhibit better recovery after the music stimulus, except for a tendency in the researcher-selected music condition to mitigate the continued increase in cortisol levels after the stress test. Our study provides the first evidence comparing the impact of researcher- and participant-selected music with silence and a non-music acoustic stimulus, on both subjective and biological stress recovery. Our findings contribute to a more nuanced understanding of the impact of music on stress recovery.
+During recent years, Europe has faced the arrival of migrants whereof a considerable group of youth present mental health problems, such as symptoms of post-traumatic stress disorder (PTSD). Schools offer a safe environment for mental health interventions to these groups, yet there is limited research on the impact of school-based interventions addressing mental health problems in newcomer youths, especially in the Swedish context. This cluster randomized controlled trial (RCT) aimed to explore the effectiveness of the Teaching Recovery Techniques (TRT) intervention among newcomer students with PTSD symptoms in Swedish secondary schools. Nine schools were randomly assigned to TRT or a wait list control group prior to the baseline assessment. Follow-up data were collected immediately following the intervention and three months post-intervention. In total, 531 students were approached, of which 61 gave consent and were eligible to be included in the study: 55 in TRT and 6 in the control condition. Given the low number of participants in the control condition, we merely analyzed students who had received TRT. We report on feasibility of recruitment, data collection, intervention delivery and intervention effectiveness. In terms of intervention effectiveness, within subjects ANOVAs revealed significant reductions in PTSD symptoms and general mental health problems from baseline to the three months-follow-up (p&#x2009;<&#x2009;0.001). Our results indicate that TRT is a promising school-based intervention for newcomer students with PTSD symptoms. For a successful implementation of TRT in the school context, schools need to be engaged and the implementation should be managed by a local coordinator. ISRCTN, ISRCTN48178969, Retrospectively registered 20/12/2019.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.psyneuen.2024.107137
+- DOI: 10.1186/s12889-024-19412-x
 
 2. Keywords
-- Participant-selected music
-- Researcher-selected music
-- Salivary alpha-amylase
-- Salivary cortisol
-- Stress recovery
+- Mental health problems
+- Newcomers
+- Post-traumatic stress disorder (PTSD)
+- School context
+- Teaching recovery techniques (TRT)
 
 3. Key Findings
-- The examination of SCL, and VAS scores revealed no significant changes following the four relaxation interventions
-- Exploratory analyses revealed that cortisol levels continued increase in all conditions during intervention phase except the researcher-selected music condition
+- In terms of intervention effectiveness, within subjects ANOVAs revealed significant reductions in PTSD symptoms and general mental health problems from baseline to the three months-follow-up (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- Participant-selected music assessment methods and outcomes
-- Researcher-selected music assessment methods and outcomes
-- Salivary alpha-amylase assessment methods and outcomes
+- Mental health problems assessment methods and outcomes
+- Newcomers assessment methods and outcomes
+- Post-traumatic stress disorder (PTSD) assessment methods and outcomes

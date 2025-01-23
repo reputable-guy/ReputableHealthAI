@@ -1,26 +1,25 @@
-Study Title: Correlation properties of heart rate variability for exercise prescription during prolonged running at constant speeds: A randomized cross-over trial.
+Study Title: A new injury prevention program 'FUNBALL' improves cognitive performance of young football (soccer) players: A cluster randomized controlled trial.
 
 Study Summary:
-The study explores the validity of the nonlinear index alpha 1 of detrended fluctuation analysis (DFAa1) of heart rate (HR) variability for exercise prescription in prolonged constant load running bouts of different intensities. 21 trained endurance athletes (9&#xa0;w and 12&#xa0;m) performed a ramp test for ventilatory threshold (vVT1 and vVT2) and DFAa1-based (vDFAa1-1 at 0.75 and vDFAa1-2 at 0.5) running speed detection as well as two 20-min running bouts at vDFAa1-1 and vDFAa1-2 (20-vDFAa1-1 and 20-vDFAa1-2), in which HR, oxygen consumption (VO), respiratory frequency (RF), DFAa1, and blood lactate concentration [La-] were assessed. 20-vDFAa1-2 could not be finished by all participants (finisher group (FG), n&#xa0;=&#xa0;15 versus exhaustion group (EG), n&#xa0;=&#xa0;6). Despite similar mean external loads of vDFAa1-1 (10.6&#xa0;&#xb1;&#xa0;1.9&#xa0;km/h) and vDFAa1-2 (13.1&#xa0;&#xb1;&#xa0;2.4&#xa0;km/h) for all participants compared to vVT1 (10.8&#xa0;&#xb1;&#xa0;1.7&#xa0;km/h) and vVT2 (13.2&#xa0;&#xb1;&#xa0;1.9&#xa0;km/h), considerable differences were present for 20-vDFAa1-2 in EG (15.2&#xa0;&#xb1;&#xa0;2.4&#xa0;km/h). 20-vDFAa1-1 and 20-DFAa1-2 yielded significant differences in FG for HR (76.2&#xa0;&#xb1;&#xa0;5.7 vs. 86.4&#xa0;&#xb1;&#xa0;5.9 %HR), VO(62.1&#xa0;&#xb1;&#xa0;5.0 vs. 77.5&#xa0;&#xb1;&#xa0;8.6 %VO), RF (40.6&#xa0;&#xb1;&#xa0;11.3 vs. 46.1&#xa0;&#xb1;&#xa0;9.8&#xa0;bpm), DFA-a1 (0.86&#xa0;&#xb1;&#xa0;0.23 vs. 0.60&#xa0;&#xb1;&#xa0;0.15), and [La-] (1.41&#xa0;&#xb1;&#xa0;0.45 vs. 3.34&#xa0;&#xb1;&#xa0;2.24&#xa0;mmol/L). Regarding alterations during 20-vDFAa1-1, all parameters showed small changes for all participants, while during 20-vDFAa1-2 RF and DFAa1 showed substantial alterations in FG (RF: 15.6% and DFAa1: -12.8%) and more pronounced in EG (RF: 20.1% and DFAa1: -35.9%). DFAa1-based exercise prescription from incremental testing could be useful for most participants in prolonged running bouts, at least in the moderate to heavy intensity domain. In addition, an individually different increased risk of overloading may occur in the heavy to severe exercise domains and should be further elucidated in the light of durability and decoupling assessment.
+The youth football injury prevention program 'FUNBALL' contains exercises requiring high cognitive demands, which are performed concurrently to the training of the respective motor task. This study evaluates whether the program increases cognitive performances of young football players. 1253 football players (aged 13-19 years old) were randomly assigned to either a control (CON) or an intervention (INT) group. The INT group performed the 'FUNBALL' program at least twice per week in their training sessions for one season (9 months). The CON group continued their training routine. From the total sample, the cognitive performance of 304 players (n&#xa0;=&#xa0;135 CON; n&#xa0;=&#xa0;169 INT) was assessed at the beginning and the end of the season using the Cogstate&#xae; Brief Battery, with the following subtests: One Back test (accuracy), Two Back test (accuracy), One Card Learning test (accuracy), Chase Test (correct moves per second), Set Shifting (accuracy), Identification test (speed), Detection test (speed), Groton Maze Learning Test (accuracy), and Groton Maze Learning Test Delayed Recall (accuracy). A multivariate analysis of variance (MANOVA) on the cognitive performance improvements from pre-to posttest showed that the INT group improved their performances more strongly than the CON group for all cognitive tests, namely for working memory, visual learning, visual motor control, attention, psychomotor function, memory, and executive function. The present study indicates that the exercise-based injury prevention program 'FUNBALL' may improve the cognitive performance of young football players. Future research should include an active control group, and should investigate whether the improvement in cognition also has beneficial effects on in-game performance. TRIAL REGISTRATION NUMBER: AsPredicted (https://aspredicted.org/2kb3b.pdf).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ejsc.12175
+- DOI: 10.1016/j.psychsport.2024.102743
 
 2. Keywords
-- DFAa1
-- HRV
-- decoupling
-- endurance sports
-- intensity distribution
+- Cognitive performance
+- Injury prevention program
+- Young football players
+- cRCT
 
 3. Key Findings
-- Regarding alterations during 20-vDFAa1-1, all parameters showed small changes for all participants, while during 20-vDFAa1-2 RF and DFAa1 showed substantial alterations in FG (RF: 15
+- A multivariate analysis of variance (MANOVA) on the cognitive performance improvements from pre-to posttest showed that the INT group improved their performances more strongly than the CON group for all cognitive tests, namely for working memory, visual learning, visual motor control, attention, psychomotor function, memory, and executive function
 
 This study provides insights into:
-- DFAa1 assessment methods and outcomes
-- HRV assessment methods and outcomes
-- decoupling assessment methods and outcomes
+- Cognitive performance assessment methods and outcomes
+- Injury prevention program assessment methods and outcomes
+- Young football players assessment methods and outcomes

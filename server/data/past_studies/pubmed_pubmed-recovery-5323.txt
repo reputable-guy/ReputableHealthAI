@@ -1,20 +1,26 @@
-Study Title: Randomized Phase III SIERRA Trial ofI-Apamistamab Before Allogeneic Hematopoietic Cell Transplantation Versus Conventional Care for Relapsed/Refractory AML.
+Study Title: Hybrid 1 randomized controlled trial of an integrated stepped-care mental health intervention for traumatic injury patients.
 
 Study Summary:
-Older patients with relapsed or refractory AML (RR AML) have dismal prognoses without allogeneic hematopoietic cell transplantation (alloHCT). SIERRA compared a targeted pretransplant regimen involving the anti-CD45 radioconjugateI-apamistamab with conventional care. SIERRA (ClinicalTrials.gov identifier: NCT02665065) was a phase III open-label trial. Patients age &#x2265;55 years with active RR AML were randomly assigned 1:1 to either anI-apamistamab-led regimen before alloHCT or conventional care followed by alloHCT if initial complete remission (CR)/CR with incomplete platelet recovery (CRp) occurred. Initial response was assessed 28-56 days after alloHCT in theI-apamistamab group and 28-42 days after salvage chemotherapy initiation; patients without CR/CRp or with AML progression could cross over to receiveI-apamistamab followed by alloHCT. The primary end point was durable complete remission (dCR) lasting 180 days after initial CR/CRp. Secondary end points were overall survival (OS) and event-free survival (EFS), assessed hierarchically in the intention-to-treat (ITT) population. The ITT population included 153 patients (I-apamistamab [n = 76]; conventional care [n = 77]). In total, 44/77 conventional care arm patients crossed over and 40/77 (52%) receivedI-apamistamab and alloHCT, with six patients (13.6%) experiencing a dCR. In the ITT population, the dCR rate was significantly higher withI-apamistamab (17.1% [95% CI, 9.4 to 27.5]) than conventional care (0% [95% CI, 0 to 4.7];< .0001). The OS hazard ratio (HR) was 0.99 (95% CI, 0.70 to 1.41;= .96), and the EFS HR was 0.23 (95% CI, 0.15 to 0.34), with HR <1 favoringI-apamistamab. Grade &#x2265;3 treatment-related adverse events occurred in 59.7% and 59.2% of theI-apamistamab and conventional care groups, respectively. TheI-apamistamab-led regimen was associated with a higher dCR rate than conventional care in older patients with RR AML.I-apamistamab was well tolerated and could address an unmet need in this population.
+Annually, nearly 3 million individuals in the US are hospitalized after experiencing a traumatic injury (e.g., serious automobile crash, gunshot wound, stab injury). Many traumatically injured patients experience a trajectory of resilience. However, 20-40&#xa0;% develop mental health problems such as posttraumatic stress disorder and depression; population estimates exceed 600,000 patients annually. Most trauma centers do not provide direct services to address mental health recovery, but the 2022 American College of Surgeons guidelines have established this as a priority. Cost-effective interventions are needed that meet the needs of patients at each stage of the recovery process while achieving sustainability at the level of implementation. This protocol paper describes a study that rigorously tests the Trauma Resilience and Recovery Program (TRRP), a scalable, sustainable technology-enhanced intervention to support the mental health recovery of patients who have experienced a traumatic injury. We describe a randomized controlled trial with 1-year follow up of TRRP vs. enhanced usual care with 350 traumatically injured patients, including recruitment and retention procedures, assessment, implementation and fidelity monitoring, and statistical plans. Novel components of our design include integration of technology-based elements, use of a stepped-care model, and implementation in a trauma center that did not previously have a mental health program. Data collected address the impact of TRRP and inform improvements to the model and its implementation in preparation for large-scale testing and implementation initiatives. This body of work is critical to informing the field as it continues to move toward national standards and recommendations. NCT05497115Clinicaltrials.gov.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1200/JCO.23.02018
+- Publication Date: 2024
+- DOI: 10.1016/j.cct.2024.107694
 
 2. Keywords
-
+- Depression
+- Digital health
+- PTSD
+- Stepped care
+- Traumatic injury
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Depression assessment methods and outcomes
+- Digital health assessment methods and outcomes
+- PTSD assessment methods and outcomes

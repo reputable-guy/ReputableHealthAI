@@ -1,24 +1,26 @@
-Study Title: Recognition of Traumatic Brain Injury as a Chronic Condition: A Commentary.
+Study Title: Pharmacokinetics and safety of colistin sulfate after single and multiple intravenous doses in healthy Chinese subjects.
 
 Study Summary:
-Many clinicians believe that residual impairments due to traumatic brain injury (TBI) are static once initial recovery has plateaued. That is, the effects of the injury are not expected to change significantly over the remainder of a person's life. This assumption has been called into question by several independent longitudinal studies showing that the long-term course of TBI may be better characterized asrather than static. Health care services that recognize brain injury as a chronic condition would encourage education on self-management to improve or protect health, as well as proactive health care that anticipates common co-morbidities. Those who have had a TBI would be encouraged to engage in lifestyles that optimize wellness. Almost all developed countries commit additional public health resources to addressing chronic conditions. In the United States, specific benefits are available from health insurance plans, particularly Medicare and Medicaid, for persons experiencing chronic health conditions. Potentially the most important benefit would derive from health care practitioners becoming aware of the dynamic nature of chronic brain injury and thus being more attentive to how their patients could be better served to optimize improvement and minimize decline. Recognition of TBI as a chronic condition would not only focus more resources on problems associated with living with brain injury but would also enhance both the public's and professionals' awareness of how to optimize the health and well-being of persons living with the effects of TBI.
+Increasing antimicrobial resistance has led to the revival of the polymyxins as a last-resort therapeutic option for multidrug-resistant Gram-negative bacterial infections. A parenteral formulation of colistin sulfate is available solely in China. While the onset of action of IV colistin may occur faster than with its prodrug CMS, its pharmacokinetic (PK) profile remains unclear. This single-centre, open-label, single- and multi-dose, phase 1 trial examined the PKs and safety of colistin sulfate in healthy Chinese adults. Participants received a single 10,000 units/kg (equivalent to 0.452 mg/kg) dose of colistin sulfate (single-dose group, n = 12) or the same dose q12h for 7 days (multi-dose group, n = 12) via a 2-h IV infusion. Colistin concentrations in plasma and urine were determined using LC-MS/MS, and the PK parameters calculated using non-compartmental analysis. After a single dose the peak concentration (C), area under the curve from 0 to 12 h (AUC), terminal half-life (T), volume of distribution (V), and total body clearance (CL) of colistin were 1.08 &#xb1; 0.18 mg/L, 4.73 &#xb1; 0.89 h&#xb7;mg/L, 3.65 &#xb1; 0.55 h, 16.82 &#xb1; 2.70 L, and 3.24 &#xb1; 0.51 L/h, respectively. No accumulation of colistin was observed after multiple doses. The cumulative urinary recovery of colistin was 0.9 &#xb1; 0.7% within 24 h after multi-dose administration. No nephrotoxicity was reported. This study is the first to report colistin PKs in healthy Chinese subjects after single and multiple doses of colistin sulfate. The PK and safety data are required for optimal dose selection in clinical practice.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1089/neu.2024.0356
+- DOI: 10.1016/j.ijantimicag.2024.107326
 
 2. Keywords
-- chronic health condition
-- disease management
-- traumatic brain injury
+- Colistin sulfate
+- Healthy Subject
+- Pharmacokinetics
+- Polymyxin
+- Safety
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- chronic health condition assessment methods and outcomes
-- disease management assessment methods and outcomes
-- traumatic brain injury assessment methods and outcomes
+- Colistin sulfate assessment methods and outcomes
+- Healthy Subject assessment methods and outcomes
+- Pharmacokinetics assessment methods and outcomes

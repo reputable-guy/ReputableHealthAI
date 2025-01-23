@@ -1,30 +1,26 @@
-Study Title: Impact of 8-hour time-limited eating on sleep in adolescents with obesity.
+Study Title: Effect of botulinum toxin-A injection applied to the mentalis muscle on free gingival graft operation: A retrospective study.
 
 Study Summary:
-The relationship between time-limited eating (TLE) and sleep quality is a topic of growing interest in the field of chronobiology. Data in adult cohorts shows that TLE may improve sleep quality, but this has not been evaluated in adolescents. The aim of this secondary analysis was to (1) examine the impact of 8-hour TLE on sleep parameters in youth with obesity and (2) explore if there was any association between sleep patterns and glycemic profiles. Adolescents with obesity were randomized into one of three groups: 8-hour TLE (participants self-selected their eating window) + real-time continuous glucose monitor, 8-hour TLE + blinded continuous glucose monitor, or a prolonged eating window. In the primary analysis, it was found that participants in the real-time continuous glucose monitor group + 8-hour TLE group did not access their continuous glucose monitor data and thus for this analysis the two TLE groups were combined and only completers who had available Pittsburgh Sleep Quality Index (PSQI) data at all three time points were included. Participants completed the PSQI at baseline, week 4, and week 12. Mixed-effects generalized linear regression models were utilized to examine the change in PSQI score and assess association between glycemic variability and PSQI total score overtime by intervention arm. The median PSQI total score for the TLE groups (n = 27) was 6 at week 0 (interquartile range = 5 to 10) and 5 at week 12 (interquartile range = 2 to 7). There was no significant difference in the change in total PSQI score or sleep latency between TLE and control over the study period (> .05). There was no association between PSQI score and change in weight or glycemic profile between groups (allvalues > 0.05). These results suggest that in adolescents with obesity, an 8-hour TLE approach did not negatively impact sleep quality or efficiency when compared to a prolonged eating window. The potential effects of TLE on sleep should be further investigated in larger randomized trials. Jayakumr A, Gillett ES, Wee CP, Kim A, Vidmar AP. Impact of 8-hour time-limited eating on sleep in adolescents with obesity.. 2023;19(11):1941-1949.
+The purpose of this retrospective study was to investigate the effects of Botulinum Toxin-A (BTX-A) injection into the mentalis muscle on the free gingival graft (FGG). Forty patients with keratinized gingiva insufficiency and Cairo's RT 2 gingival recession (formerly classified as Miller class III) in their mandibular central incisors were randomly divided into two groups: FGG and FGG&#x2009;+&#x2009;BTX. Plaque index (PI), gingival index (GI), probing pocket depth (PPD), keratinized gingiva width (KGW), attached gingiva width (AGW), clinical attachment level (CAL), gingival thickness (GT), gingival recession amount (GRA), gingival recession width (GRW), and root closure percentage (RCP%) parameters were measured at baseline and at first, third, and sixth months after the operation. There was no difference in PI, GI, and PPD levels in both groups (p&#x2009;>&#x2009;0.05). While the change in GT and RCP% levels were found to be statistically significantly higher at FGG&#x2009;+&#x2009;BTX group than FGG group, the change in GRW and CAL levels were statistically significantly lower (p&#x2009;<&#x2009;0.05). The findings of this study indicate that BTX-A injection applied to the mentalis muscle after FGG operation may have positive effects in terms of KGW, AGW, GT, RCP%, GRW, and CAL parameters. As a result of the fact that BTX-A injection into the mentalis muscle contributed to the nutrition and immobility of FGG, positive developments were obtained in terms of clinical periodontal parameters. BTX-A injection into the mentalis muscle may be an alternative method that increases the success rate of Cairo's RT 2 gingival recession.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2023
-- DOI: 10.5664/jcsm.10734
+- Publication Date: 2024
+- DOI: 10.1111/jerd.13110
 
 2. Keywords
-- PSQI
-- TLE
-- adolescent
-- endocrinology
-- glucose
-- nutrition
-- obesity
-- quality
-- sleep
+- botulinum toxin-A
+- free gingival graft
+- gingival recession
+- keratinized gingiva
+- mentalis muscle
 
 3. Key Findings
-- In the primary analysis, it was found that participants in the real-time continuous glucose monitor group + 8-hour TLE group did not access their continuous glucose monitor data and thus for this analysis the two TLE groups were combined and only completers who had available Pittsburgh Sleep Quality Index (PSQI) data at all three time points were included
+- While the change in GT and RCP% levels were found to be statistically significantly higher at FGG&#x2009;+&#x2009;BTX group than FGG group, the change in GRW and CAL levels were statistically significantly lower (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- PSQI assessment methods and outcomes
-- TLE assessment methods and outcomes
-- adolescent assessment methods and outcomes
+- botulinum toxin-A assessment methods and outcomes
+- free gingival graft assessment methods and outcomes
+- gingival recession assessment methods and outcomes

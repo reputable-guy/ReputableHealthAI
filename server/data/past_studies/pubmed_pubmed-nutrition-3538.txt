@@ -1,29 +1,24 @@
-Study Title: Smartphone survey data reveal the timecourse of changes in mood outcomes following vitamin C or kiwifruit intervention in adults with low vitamin C.
+Study Title: Impact of a multidisciplinary collaborative nutritional treatment model in patients who are critically ill with neurological disorders: A randomized controlled trial.
 
 Study Summary:
-Vitamin C-rich foods can improve mood; however, the timecourse of these benefits is unknown. This study utilised intensive longitudinal smartphone surveys from a three-armed placebo-controlled trial to determine mood-related changes following supplementation with vitamin C (250 mg tablet/d), kiwifruit (2 SunGold&#x2122; kiwifruit/d) or a placebo (1 tablet/d). Secondary data were analysed from the KiwiC for Vitality trial (Trial ID: ACTRN12617001031358). Adults (155, 63 % female, aged 18-35 years) with low plasma vitamin C (<40 &#x3bc;mol/l) completed a 14-d lead-in, 28-d intervention and 14-d washout. Participants self-reported vitality (SF-36), mood (POMS total mood disturbance), flourishing (flourishing scale), sleep quality, sleep quantity and physical activity every second day using smartphone surveys. Plasma vitamin C, measured fortnightly, reached saturation after 2 weeks of vitamin C or kiwifruit supplementation. Kiwifruit supplementation improved vitality and mood within 4 days, peaking around 14-16 days, and improved flourishing from day 14. Vitamin C marginally improved mood until day 12. Incremental AUC analyses revealed significant overall effects of kiwifruit consumption on vitality and mood compared with placebo, which were stronger than effects for vitamin C tablets, but attenuated when adjusting for covariates. Sensitivity analyses of participants with low baseline vitamin C status revealed improved mood (vitamin C and kiwifruit) and flourishing (kiwifruit only). This is the first study to use intensive smartphone surveys to model the day-to-day timecourse of mood-related states following vitamin C intervention and highlights the value of using smartphone surveys to reveal the temporal changes in mood-related outcomes following nutrient supplementation.
+Malnutrition is a widespread problem in critically ill patients with neurological disorders. The purpose of this study is to investigate the effect of a multidisciplinary collaborative nutritional treatment mode based on a standardized unit for nutritional support on the outcome metrics in patients with neurological disorders who are critically ill. We enrolled 84 participants who were hospitalized in the intensive care unit (ICU) of Yancheng No. 1 People's Hospital for neurological disorders between June 2018 and December 2021. The participants were randomly assigned to the control group and the test group. The control group received traditional nutritional support, while the test group was treated with a multidisciplinary collaborative nutritional treatment mode based on a standardized unit for nutritional support. We collected the general information, feeding tolerance (FT), nutritional risk score, and laboratory indicators before intervention, after intervention for one week, and after intervention for 2 weeks, and other data of the participants. After the intervention, the test group scored significantly lower than the control group in the incidence of gastroparesis and diarrhea, as well as the NUTRIC score, with statistically significant differences (P< 0.001). The prealbumin levels in the test group increased progressively prior to intervention, after intervention for one week, and after intervention for two weeks. Compared to the control group, the test group had higher prealbumin levels prior to intervention, after intervention for one week, and after intervention for two weeks, with statistically significant differences (P< 0.001). We developed a multidisciplinary collaborative nutritional treatment model based on a standard unit for nutritional support. This model can improve neural function, FT, and pertinent outcome indicators and is generally applicable.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1017/S0007114523002787
+- DOI: 10.3233/THC-230791
 
 2. Keywords
-- Daily diary
-- Diet
-- Flourishing
-- Mental health
-- Nutrition
-- Vitality
-- Well-being
+- Nervous system diseases
+- nutrition therapy
+- patient care team
 
 3. Key Findings
-- Incremental AUC analyses revealed significant overall effects of kiwifruit consumption on vitality and mood compared with placebo, which were stronger than effects for vitamin C tablets, but attenuated when adjusting for covariates
-- Sensitivity analyses of participants with low baseline vitamin C status revealed improved mood (vitamin C and kiwifruit) and flourishing (kiwifruit only)
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Daily diary assessment methods and outcomes
-- Diet assessment methods and outcomes
-- Flourishing assessment methods and outcomes
+- Nervous system diseases assessment methods and outcomes
+- nutrition therapy assessment methods and outcomes
+- patient care team assessment methods and outcomes

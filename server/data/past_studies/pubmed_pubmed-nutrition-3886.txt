@@ -1,27 +1,25 @@
-Study Title: Effects of Dietary Supplementation of a Microalgae Extract Containing Fucoxanthin Combined with Guarana on Cognitive Function and Gaming Performance.
+Study Title: Longitudinal Trajectories of Dietary Fibre Intake and Its Determinants in Early Childhood: Results from the Melbourne InFANT Program.
 
 Study Summary:
-Esports competitive gaming requires selective visual attention, memory, quick judgment, and an ability to sustain psychomotor performance over time. Fucoxanthin is a carotenoid, found in specific microalgae varieties such as(), that has been purported to possess nootropic and neuroprotective effects through its anti-inflammatory and antioxidant properties. This study evaluated whether acute and 30-day supplementation of an extract offrom microalgae combined with guarana (a natural source of caffeine) affects cognitive function in gamers. In a double-blind, placebo-controlled manner, 61 experienced gamers (21.7 &#xb1; 4.1 years, 73 &#xb1; 13 kg) were randomly assigned to ingest a placebo (PL), a low-dose (LD) supplement containing 440 mg ofextract including 1% fucoxanthin +500 mg of guarana containing 40-44 mg caffeine (MicroPhyt&#x2122;, Microphyt, Baillargues, FR), or a high-dose (HD) supplement containing 880 mg ofextract +500 mg of guarana for 30 days. At baseline, cognitive function tests were administered before supplementation, 15 min post-supplementation, and after 60 min of competitive gameplay with participants' most played video game. Participants continued supplementation for 30 days and then repeated pre-supplementation and post-gaming cognitive function tests. General linear model univariate analyses with repeated measures and changes from baseline with 95% confidence intervals were used to analyze data. There was some evidence that acute and 30-day ingestion of theextract from microalgae with guarana improved reaction times, reasoning, learning, executive control, attention shifting (cognitive flexibility), and impulsiveness. While some effects were seen after acute ingestion, the greatest impact appeared after 30 days of supplementation, with some benefits seen in the LD and HD groups. Moreover, there was evidence that both doses of theextract from microalgae with guarana may support mood state after acute and 30-day supplementation. Registered clinical trial #NCT04851899.
+Optimal nutrition during early childhood, including dietary fibre intake, is important for children's health and development. Knowledge of fibre intake and its determinants in early childhood is limited. We aimed to describe fibre intake and sources and to identify trajectories of fibre intake at age 9, 18, 42, and 60 months and its child and maternal determinants. Associations between fibre trajectory groups and BMI z-scores and child overweight status were also assessed. This is a secondary analysis of longitudinal data from the Melbourne InFANT Program, trial registration: Current Controlled Trials (ISRCTN81847050). Group-based trajectory modelling was used to identify trajectories of fibre intake from ages 9 to 60 months (= 503). Multivariable logistic or linear regression was used to assess the determinants of fibre intake trajectories and the association between fibre intake trajectories and obesity outcomes. Four fibre intake trajectory groups were identified, with three groups following stable, rising trajectories of "Low" (52.3%), "Moderate" (32.2%), and "High" (13.3%), respectively. The remaining followed an "unstable" trajectory (2.2%). Girls versus boys were more likely to follow the "Low" fibre intake trajectory, whereas children who were breastfed for &#x2265;6 months and whose mother had a university education were less likely to follow the "Low" fibre trajectory. No association was found between fibre trajectory groups and obesity outcomes. Most children followed a stable, rising trajectory of low fibre intake in early childhood. Child sex, breastfeeding duration and maternal education were significant determinants of low fibre intake trajectory.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15081918
+- DOI: 10.3390/nu15081932
 
 2. Keywords
-- ergogenic aid
-- esports
-- fucoxanthin caffeine
-- gaming
-- nootropic
-- sports nutrition
+- determinants
+- fibre intake
+- obesity
+- trajectory
 
 3. Key Findings
-- Fucoxanthin is a carotenoid, found in specific microalgae varieties such as(), that has been purported to possess nootropic and neuroprotective effects through its anti-inflammatory and antioxidant properties
+- No association was found between fibre trajectory groups and obesity outcomes
 
 This study provides insights into:
-- ergogenic aid assessment methods and outcomes
-- esports assessment methods and outcomes
-- fucoxanthin caffeine assessment methods and outcomes
+- determinants assessment methods and outcomes
+- fibre intake assessment methods and outcomes
+- obesity assessment methods and outcomes

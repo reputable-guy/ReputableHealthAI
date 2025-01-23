@@ -1,26 +1,29 @@
-Study Title: Family-Based Motivational Interviewing and Resource Mobilization to Prevent Obesity: Living Well Together Trial.
+Study Title: Sustained acoustic medicine treatment of discogenic chronic low back pain: A randomized, multisite, double-blind, placebo-controlled trial.
 
 Study Summary:
-Test an obesity intervention for families with low incomes. A total of 208 families were included (a parent with a body mass index [BMI] &#x2265; 30 and a child aged 6-12 years). A 12-month randomized controlled trial combining family health coaching (motivational interviewing) and connection to community resources. Comparison group: referrals for basic needs, written educational materials. Questionnaires, accelerometry, and anthropometrics. Intention-to-treat analysis of change in outcomes. Two-sided t test with multiple imputation. Parents were 95% female, 31% Black, and 27% Hispanic. Children had a mean BMI-Z score of 1.15. Primary outcomes did not differ between groups at 12 months. Both groups significantly (P < 0.05) improved on the Family Nutrition and Physical Activity Scale for behaviors related to childhood obesity (mean &#xb1; SE: comparison, 2.8 &#xb1; 1.0; intervention, 2.2 &#xb1; 0.9), increased child sedentary activity (comparison, 32.5 &#xb1; 12.1; intervention, 39.9 &#xb1; 12.4 min/d), and decreased child moderate-vigorous physical activity (comparison, -9.6 &#xb1; 3.3; intervention -7.0 &#xb1; 3.0 min/d). Parents had no change in BMI. We successfully embedded screening and referral to address social needs within an obesity intervention. The coaching intervention did not provide additional benefits. Future research could explore ways to make these interventions more accessible, valuable, and effective for families.
+Sustained acoustic medicine (SAM) is a noninvasive long-term treatment that provides essential mechanical and thermal stimulus to accelerate soft tissue healing, alleviate pain, and improve physical activity. SAM increases localized deep tissue temperature, blood flow, cellular proliferation, migration, and nutrition exchange, resulting in reduced inflammation and an increased rate of tissue regeneration. To assess the efficacy of SAM treatment of discogenic back pain in the lower spinal column to reduce pain, improve quality of life, and lower pharmacotherapy use. Sixty-five subjects with chronic low back pain were randomly assigned to SAM (N= 33) or placebo (N= 32) groups. Subjects self-applied SAM device bilaterality on the lower lumbar region for 4 hours daily for 8 weeks and completed daily pain diaries before, during, and after treatment. Subjects recorded pain reduction using a numeric rating scale (NRS), medication use, and physical activity using the Global Rating of Change (GROC) and Oswestry Disability Index (ODI). SAM treatment significantly reduced chronic lower back pain from baseline relative to placebo treatment (p< 0.0001). SAM treated subjects reported significantly lower back pain at 4 weeks, with the highest pain reduction (-2.58 points NRS, p< 0.0001) reported at 8 weeks. Similar trends were observed in improved physical activity (3.48 GROC, p< 0.0001, 69-88% ODI, p< 0.0001) and 22.5% (15.2 morphine milligram equivalent) reduction in the use of opioid medication from baseline to 8 weeks. Daily, home-use SAM treatment significantly improves the clinical symptoms of chronic lower back pain, improves physical mobility, and reduces daily medication use. SAM treatment is well-tolerated by patients and may be considered a safe, non-invasive treatment option for chronic discogenic, lower back pain.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jneb.2024.05.227
+- DOI: 10.3233/BMR-230402
 
 2. Keywords
-- childhood obesity
-- clinical trials
-- family
-- motivational interviewing
-- social determinants of health
+- Low back pain
+- chronic pain
+- durable medical equipment
+- herniated discs
+- low-intensity continuous ultrasound
+- mechanotransduction
+- sustained acoustic medicine
+- ultrasound therapy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- childhood obesity assessment methods and outcomes
-- clinical trials assessment methods and outcomes
-- family assessment methods and outcomes
+- Low back pain assessment methods and outcomes
+- chronic pain assessment methods and outcomes
+- durable medical equipment assessment methods and outcomes

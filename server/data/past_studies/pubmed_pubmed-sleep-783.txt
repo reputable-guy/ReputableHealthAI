@@ -1,27 +1,20 @@
-Study Title: Healthy couple, better sleep: Exploring connections and changes in couple relationship education participants.
+Study Title: The effects of virtual reality neuroscience-based therapy on clinical and neuroimaging outcomes in patients with chronic back pain: a randomized clinical trial.
 
 Study Summary:
-Considerable evidence suggests couple relationship education (CRE) programs are effective in improving couples' relationship functioning, yet few studies have examined the implications of CRE programs on indicators of physical health despite substantial research supporting links between relational and physical health. This study utilized a sample of 308 couples randomly assigned to a CRE curriculum to explore the dyadic links between conflict management and self-care skills (emphasized in CRE), stress, and sleep dysfunction concurrently. We prospectively tested whether changes in skills drove changes in sleep dysfunction or vice versa, for both self and partner. Results from a series of structural equation models indicated indirect links for men and women between conflict management and self-care skills and sleep dysfunction through lower stress level at program start. Dyadically, men's and women's better conflict management skills were associated with partners' lower stress, which was in turn associated with partners' lower sleep dysfunction. Men's better self-care skills were linked with partners' lower stress levels, which were linked with partners' lower sleep dysfunction. Tests of dyadic prospective cross-lagged effects among changes in sleep and changes in skills indicated that initial improvements in both partners' sleep predicted improvements in their own conflict management skills 1&#x2009;year later. Initial improvements in women's conflict management skills predicted reduced sleep dysfunction for themselves. Additionally, for both partners, early changes in self-care predicted later reductions in sleep dysfunction. Dyadically, immediate improvements in men's self-care predicted reduced sleep dysfunction for their partner a year later. Implications for research and practice are discussed.
+Chronic pain remains poorly managed. The integration of immersive technologies (ie, virtual reality [VR]) with neuroscience-based principles may provide effective pain treatment by targeting cognitive and affective neural processes that maintain pain and therefore potentially changing neurobiological circuits associated with pain chronification and amplification. We tested the effectiveness of a novel VR neuroscience-based therapy (VRNT) to improve pain-related outcomes in n = 31 participants with chronic back pain, evaluated against usual care (waitlist control; n = 30) in a 2-arm randomized clinical trial ( NCT04468074) . We also conducted pre-treatment and post-treatment MRI to test whether VRNT affects brain networks previously linked to chronic pain and treatment effects. Compared with the control condition, VRNT led to significantly reduced pain intensity (g = 0.63) and pain interference (g = 0.84) at post-treatment vs pre-treatment, with effects persisting at 2-week follow-up. These improvements were partially mediated by reduced kinesiophobia and pain catastrophizing. Several secondary clinical outcomes were also improved by VRNT, including disability, quality of life, sleep, and fatigue. In addition, VRNT was associated with increases in dorsomedial prefrontal functional connectivity with the superior somatomotor, anterior prefrontal and visual cortices, and decreased white matter fractional anisotropy in the corpus callosum adjacent to the anterior cingulate, relative to the control condition. Thus, VRNT showed preliminary efficacy in significantly reducing pain and improving overall functioning, possibly through changes in somatosensory and prefrontal brain networks.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/famp.12987
+- DOI: 10.1097/j.pain.0000000000003198
 
 2. Keywords
-- couple relationship education
-- couple relationship skills
-- dyadic
-- longitudinal
-- sleep
+
 
 3. Key Findings
-- Results from a series of structural equation models indicated indirect links for men and women between conflict management and self-care skills and sleep dysfunction through lower stress level at program start
-- Tests of dyadic prospective cross-lagged effects among changes in sleep and changes in skills indicated that initial improvements in both partners' sleep predicted improvements in their own conflict management skills 1&#x2009;year later
+- Thus, VRNT showed preliminary efficacy in significantly reducing pain and improving overall functioning, possibly through changes in somatosensory and prefrontal brain networks
 
 This study provides insights into:
-- couple relationship education assessment methods and outcomes
-- couple relationship skills assessment methods and outcomes
-- dyadic assessment methods and outcomes
+- General research methodology and outcomes

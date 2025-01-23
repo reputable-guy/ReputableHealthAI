@@ -1,24 +1,30 @@
-Study Title: Association of Burnout and Other Factors Within Physicians and Advanced Practice Providers in an Academic Surgery Department.
+Study Title: Effects of a Tai Chi rehabilitation program implemented using a hybrid online and offline mode on oxidative stress and inflammatory responses in patients with coronary heart disease: a randomized controlled trial.
 
 Study Summary:
-Provider burnout is a work-related syndrome that is under-recognized, under-reported, and has negative repercussions on the individual, system, and patients. This study investigated burnout incidence and its association with wellness characteristics such as resilience, psychological safety, and perceptions of the workplace to inform future work in improving well-being. Electronic surveys were sent to 153 physicians and advanced practice providers (APPs) in the department of surgery at a single institution. Survey topics included demographics, intention to stay, engagement, and items from validated measures for workplace perceptions including work pace/stress (Mini Z), burnout, psychological safety, and resilience. Descriptive statistics, bivariate associations, and logistic regression were used to evaluate responses. Overall response rate was 47%. The majority of providers reported feeling burned out (56%), and 48% indicated they would probably leave the organization within three years. Additionally, 61% reported being satisfied with their job and 55% felt that they contributed professionally in the ways they value most (meaningful work/engagement). Significant predictors for burnout included negative work environment perceptions (work pace/stress), low resilience, low meaningful work, and professional role (physician vs APP). Maintaining a healthy workforce requires investigation into the factors that support workplace well-being. The strongest predictors of burnout were work pace/stress. Protective factors against burnout were psychological safety and resilience. An organizational culture that promotes psychological safety, as well as workplace improvements to enhance providers' sense of meaning in work, and decreasing work pace and stress may contribute to the prevention of burnout and the retention.
+Coronary heart disease (CHD) is the leading cause of death in both developed and many developing countries. Exercise training is a fundamental component of cardiac rehabilitation programs for patients with CHD. This study aims to investigate the effects of a Tai Chi rehabilitation program, which is provided through a hybrid online and offline mode, on oxidative stress and inflammatory responses in patients with CHD. A total of 34 patients with coronary heart disease were randomly assigned to two groups: an experiment group (&#x2009;=&#x2009;14, age 62.07&#x2009;&#xb1;&#x2009;9.076&#x2009;years) and a control group (&#x2009;=&#x2009;20, age 61.90&#x2009;&#xb1;&#x2009;9.700&#x2009;years). The experiment group underwent a 12-week Tai Chi cardiac rehabilitation program (TCCRP), while the control group followed a conventional exercise rehabilitation program (CERP) consisting of 1-h sessions, 3 times per week, for a total of 36 sessions. Participants were studied at baseline and post-intervention. The main assessments include the levels of Malondialdehyde (MDA), Superoxide dismutase (SOD), Tumor necrosis factor (TNF-&#x3b1;) and Interleukin-10 (IL&#x2009;-&#x2009;10) in blood samples. Pearson correlation analysis was used, and the differences between the two groups were subsequently tested using two-way repeated ANOVA. Statistical significance was defined as a two-sided-value of <0.05. The key finding of the study reveals that MDA was significantly reduced by 1.027&#x2009;nmoL/mL. Additionally, the TCCRP showed significant improvements in SOD and IL-10, with values of 10.110&#x2009;U/mL and 2.441&#x2009;pg./mL, respectively. Notably, a significant positive correlation was found between SOD and IL-10 (&#x2009;=&#x2009;0.689,&#x2009;=&#x2009;0.006), while MDA showed a significant positive correlation with TNF-a (&#x2009;=&#x2009;0.542,&#x2009;=&#x2009;0.045). In contrast, the ECRP group only showed a significant improvement in SOD. The study conducted a 12-week program on TCCRP, which utilized a hybrid online and offline model for individuals with coronary heart disease. The program showed promising results in alleviating oxidative stress and inflammation, possibly by regulating the balance between oxidative and antioxidative factors, as well as pro-inflammatory and anti-inflammatory factors.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/00031348241244636
+- DOI: 10.3389/fpubh.2024.1369675
 
 2. Keywords
-- burnout
-- surgical education
-- well-being
+- Tai Chi
+- coronary heart disease
+- inflammatory response
+- oxidative stress
+- randomized controlled trial
 
 3. Key Findings
-- The majority of providers reported feeling burned out (56%), and 48% indicated they would probably leave the organization within three years
+- Additionally, the TCCRP showed significant improvements in SOD and IL-10, with values of 10
+- Notably, a significant positive correlation was found between SOD and IL-10 (&#x2009;=&#x2009;0
+- 006), while MDA showed a significant positive correlation with TNF-a (&#x2009;=&#x2009;0
+- In contrast, the ECRP group only showed a significant improvement in SOD
+- The program showed promising results in alleviating oxidative stress and inflammation, possibly by regulating the balance between oxidative and antioxidative factors, as well as pro-inflammatory and anti-inflammatory factors
 
 This study provides insights into:
-- burnout assessment methods and outcomes
-- surgical education assessment methods and outcomes
-- well-being assessment methods and outcomes
+- Tai Chi assessment methods and outcomes
+- coronary heart disease assessment methods and outcomes
+- inflammatory response assessment methods and outcomes

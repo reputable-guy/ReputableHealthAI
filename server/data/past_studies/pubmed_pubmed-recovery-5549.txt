@@ -1,26 +1,26 @@
-Study Title: Stem cell collection and hematological recovery in the Fondazione Italiana Linfomi (FIL) MCL0208 clinical trial.
+Study Title: Association of Age, Frailty, and Strategy for Initiation of Renal-Replacement Therapy: A Post Hoc analysis of the STARRT-Acute Kidney Injury Trial.
 
 Study Summary:
-In the frontline high-dose phase 3 FIL-MCL0208 trial (NCT02354313), 8% of enrolled mantle cell lymphoma (MCL) patients could not be randomised to receive lenalidomide (LEN) maintenance vs observation after autologous stem cell transplantation (ASCT) due to inadequate hematological recovery and 52% of those who started LEN, needed a dose reduction due to toxicity. We therefore focused on the role played by CD34&#x2009;+&#x2009;hematopoietic stem cells (PBSC) harvesting and reinfusion on toxicity and outcome. Overall, 90% (n&#x2009;=&#x2009;245) of enrolled patients who underwent the first leukapheresis collected&#x2009;&#x2265;&#x2009;4&#x2009;&#xd7;&#x2009;10PBSC/kg, 2.6% (n&#x2009;=&#x2009;7) mobilized&#x2009;<&#x2009;4&#x2009;&#xd7;&#x2009;10PBSC/kg and 7.7% (n&#x2009;=&#x2009;21) failed the collection. Similar results were obtained for the planned second leukapheresis, with only one patient failing both attempts. Median count of reinfused PBSC was 5&#x2009;&#xd7;&#x2009;10/kg and median time to recovery from neutropenia G4 was 10&#xa0;days from ASCT. No impact of mobilizing subtype or number of reinfused PBSC on hematological recovery and LEN dose reduction was noted. At a median follow-up of 75&#xa0;months from ASCT, PFS and OS of transplanted patients were 50% and 73%, respectively. A long lasting G4 neutropenia after ASCT (>&#x2009;10&#xa0;days) was associated with a worse outcome, both in terms of PFS and OS. In conclusion, although the harvesting procedures proved feasible for younger MCL patients, long-lasting cytopenia following ASCT remains a significant issue: this can hinder the administration of effective maintenance therapies, potentially increasing the relapse rate and negatively affecting survival outcomes.
+This study was designed to assess the association of age and frailty with clinical outcomes in patients with severe acute kidney injury (AKI), according to accelerated and standard renal-replacement therapy (RRT) initiation strategies in the STARRT-AKI trial. This was a secondary analysis of an international randomized trial. Older age was defined as &#x2265;65 years. Frailty was assessed using the clinical frailty scale (CFS) score and defined as a score &#x2265;5. The primary outcome was all-cause mortality at 90 days. Secondary outcomes included RRT dependence and RRT-free days at 90 days. We used logistic and linear regression and interaction testing to explore the impact of age and frailty on clinical outcomes. Of 2,927 patients randomized in the STARRT-AKI trial, 1,616 (55.2%) were aged &#x2265;65 years (median [interquartile range] 73.9 [69.4-78.9]). Older patients had greater comorbid cardiovascular and chronic kidney disease, were more likely to be surgical admissions and to receive vasopressors at baseline. Older patients had higher 90-day mortality (50.4% vs. 35.6%, adjusted-odds ratio (OR), 1.81 [1.53-2.13], p &lt; 0.001). There was no significant difference in RRT dependence at 90 days between older and younger patients (8.7% vs. 7.8%, adjusted-OR, 1.21 [0.82-1.79], p = 0.325). Patients with frailty had higher mortality; but no difference in RRT dependence at 90 days. There was no significant interaction between age and CFS score in relation to mortality, RRT dependence at 90 days, and other secondary outcomes. There was no significant difference in the proportion of patients who received RRT in the standard-strategy stratified by age groups (adjusted-OR, 0.85 [0.67-1.08], p = 0.180). In this secondary analysis of the STARRT-AKI trial, older and frail patients had higher mortality at 90 days; however, there was no difference in RRT dependence. Mortality and RRT dependence were not modified by RRT initiation strategy in older or frail patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-67906-w
+- DOI: 10.1159/000540323
 
 2. Keywords
-- Autologous stem cell transplantation (ASCT)
-- Hematological recovery
-- Leukapheresis (LK)
-- Mantle cell lymphoma (MCL)
-- Peripheral blood stem cells (PBSC)
+- Acute kidney injury
+- Mortality
+- Older population
+- Recovery
+- Renal-replacement therapy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Autologous stem cell transplantation (ASCT) assessment methods and outcomes
-- Hematological recovery assessment methods and outcomes
-- Leukapheresis (LK) assessment methods and outcomes
+- Acute kidney injury assessment methods and outcomes
+- Mortality assessment methods and outcomes
+- Older population assessment methods and outcomes

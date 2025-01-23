@@ -1,27 +1,25 @@
-Study Title: Comparison of Machine Learning Algorithms for Heartbeat Detection Based on Accelerometric Signals Produced by a Smart Bed.
+Study Title: Child routines moderate a brief behavioral intervention to enhance sleep in school-aged children.
 
 Study Summary:
-This work aims to compare the performance of Machine Learning (ML) and Deep Learning (DL) algorithms in detecting users' heartbeats on a smart bed. Targeting non-intrusive, continuous heart monitoring during sleep time, the smart bed is equipped with a 3D solid-state accelerometer. Acceleration signals are processed through an STM 32-bit microcontroller board and transmitted to a PC for recording. A photoplethysmographic sensor is simultaneously checked for ground truth reference. A dataset has been built, by acquiring measures in a real-world set-up: 10 participants were involved, resulting in 120 min of acceleration traces which were utilized to train and evaluate various Artificial Intelligence (AI) algorithms. The experimental analysis utilizes K-fold cross-validation to ensure robust model testing across different subsets of the dataset. Various ML and DL algorithms are compared, each being trained and tested using the collected data. The Random Forest algorithm exhibited the highest accuracy among all compared models. While it requires longer training time compared to some ML models such as Na&#xef;ve Bayes, Linear Discrimination Analysis, and K-Nearest Neighbour Classification, it keeps substantially faster than Support Vector Machine and Deep Learning models. The Random Forest model demonstrated robust performance metrics, including recall, precision, F1-scores, macro average, weighted average, and overall accuracy well above 90%. The study highlights the better performance of the Random Forest algorithm for the specific use case, achieving superior accuracy and performance metrics in detecting user heartbeats in comparison to other ML and DL models tested. The drawback of longer training times is not too relevant in the long-term monitoring target scenario, so the Random Forest model stands out as a viable solution for real-time ballistocardiographic heartbeat detection, showcasing potential for healthcare and wellness monitoring applications.
+To examine whether child routines (the consistency or variation in children's daily routines, household responsibilities, discipline routines, and homework routines) moderated the effectiveness of a brief behavioral intervention to enhance sleep in school-aged children. Secondary analysis was conducted with a subset of 66 families with short sleeping (&#x2264;9.5&#x2009;hr/day) children, 8-11&#x2009;years old (female&#x2009;=&#x2009;68%; mean age&#x2009;=&#x2009;9.76, SD&#x2009;=&#x2009;1.02) who completed the Child Routines Inventory at baseline and were then randomized to receive a behavioral sleep intervention (n&#x2009;=&#x2009;32) or to control (n&#x2009;=&#x2009;34). Sleep period was objectively measured using wrist actigraphy at baseline and 2&#x2009;months post-randomization. Moderation analysis was performed using ordinary least squares regression using the PROCESS macro for SPSS. Controlling for sleep period at baseline, treatment condition was significantly related to the sleep period at 2&#x2009;months post-randomization, with the intervention group achieving a longer sleep period compared to the usual sleep period group (control) (b&#x2009;=&#x2009;46.30, p < .01). Intervention response was moderated by child routines (b&#x2009;=&#x2009;1.43, p < .05). Specifically, the intervention produced the greatest change in sleep period for children who engaged in greater routine behaviors at baseline than those who engaged in fewer routine behaviors. Families that engage in routine behaviors may be better equipped to adopt the behavioral modifications required to get a good night's sleep. The findings highlight the importance of working with families to establish routine behaviors to improve responses to behavioral sleep interventions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/s24061900
+- DOI: 10.1093/jpepsy/jsae015
 
 2. Keywords
-- accelerometer sensor
-- artificial intelligence algorithm
-- deep learning
-- heartbeat detection
-- machine learning
-- smart bed
+- behavioral sleep intervention
+- child routines
+- school-aged children
+- sleep
 
 3. Key Findings
-- The Random Forest model demonstrated robust performance metrics, including recall, precision, F1-scores, macro average, weighted average, and overall accuracy well above 90%
+- Findings extraction requires manual review
 
 This study provides insights into:
-- accelerometer sensor assessment methods and outcomes
-- artificial intelligence algorithm assessment methods and outcomes
-- deep learning assessment methods and outcomes
+- behavioral sleep intervention assessment methods and outcomes
+- child routines assessment methods and outcomes
+- school-aged children assessment methods and outcomes

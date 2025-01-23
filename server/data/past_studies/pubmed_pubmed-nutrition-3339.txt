@@ -1,20 +1,24 @@
-Study Title: A cluster-randomized trial of water, sanitation, handwashing and nutritional interventions on stress and epigenetic programming.
+Study Title: Assessing nutrition literacy and nutrition counseling proficiency following an interdisciplinary culinary medicine elective.
 
 Study Summary:
-A regulated stress response is essential for healthy child growth and development trajectories. We conducted a cluster-randomized trial in rural Bangladesh (funded by the Bill & Melinda Gates Foundation, ClinicalTrials.gov NCT01590095) to assess the effects of an integrated nutritional, water, sanitation, and handwashing intervention on child health. We previously reported on the primary outcomes of the trial, linear growth and caregiver-reported diarrhea. Here, we assessed additional prespecified outcomes: physiological stress response, oxidative stress, and DNA methylation (N&#x2009;=&#x2009;759, ages 1-2 years). Eight neighboring pregnant women were grouped into a study cluster. Eight geographically adjacent clusters were block-randomized into the control or the combined nutrition, water, sanitation, and handwashing (N&#x2009;+&#x2009;WSH) intervention group (receiving nutritional counseling and lipid-based nutrient supplements, chlorinated drinking water, upgraded sanitation, and handwashing with soap). Participants and data collectors were not masked, but analyses were masked. There were 358 children (68 clusters) in the control group and 401 children (63 clusters) in the intervention group. We measured four F2-isoprostanes isomers (iPF(2&#x3b1;)-III; 2,3-dinor-iPF(2&#x3b1;)-III; iPF(2&#x3b1;)-VI; 8,12-iso-iPF(2&#x3b1;)-VI), salivary alpha-amylase and cortisol, and methylation of the glucocorticoid receptor (NR3C1) exon 1F promoter including the NGFI-A binding site. Compared with control, the N&#x2009;+&#x2009;WSH group had lower concentrations of F2-isoprostanes isomers (differences ranging from -0.16 to -0.19&#x2009;log&#x2009;ng/mg of creatinine, P&#x2009;<&#x2009;0.01), elevated post-stressor cortisol (0.24&#x2009;log&#x2009;&#xb5;g/dl; P&#x2009;<&#x2009;0.01), higher cortisol residualized gain scores (0.06&#x2009;&#xb5;g/dl; P&#x2009;=&#x2009;0.023), and decreased methylation of the NGFI-A binding site (-0.04; P&#x2009;=&#x2009;0.037). The N&#x2009;+&#x2009;WSH intervention enhanced adaptive responses of the physiological stress system in early childhood.
+Culinary medicine (CM) is a growing field of education that aims to bridge the gap between the clinical need for nutritional counseling and the lack of education on the topic. Healthcare professionals can aid in nutrition-related noncommunicable disease (NCD) prevention by improving a patient's dietary behavior. However, the presence of nutrition education in healthcare curricula is lacking. Early evidence indicates that CM could address this gap. The objectives of this study are to determine if&#xa0;the provision of an interdisciplinary CM elective will improve student knowledge and confidence with counseling on nutrition and culinary principles, and to improve personal dietary habits of students. This was a one-group pretest-posttest quasi-experimental design. First- and second-year osteopathic medical students (OMS) and nurse practitioner students were recruited to participate in a CM elective via email. Participants were excluded if they were not in good academic standing at their respective institutions. Twelve individuals (n=8 medical; n=4 nursing) were enrolled in the course. Participants completed pre- and postcourse surveys to determine changes in nutrition literacy (Nutrition Literacy Assessment Instrument [NLit42]), nutrition counseling proficiency (Nutrition Survey for Family Practitioners), and dietary quality (Automated Self-Administered 24-h dietary assessment tool; ASA24). A two-sided, paired t test was conducted to determine changes in outcome variables. All 12 participants completed the precourse assessments, and 8 participants completed the postcourse assessments. Culinary activity attendance was 94.5&#x202f;%. Participants exhibited a statistically significant increase in their overall nutrition literacy scores after completing the CM elective (p=0.006). Literacy subcategories indicated that the improvement came from the participant's ability to understand household measurements (p=0.005) better. Increases in self-reported proficiency were observed for participants' confidence to counsel on nutrition and prevention/wellness (p=0.02) and macronutrients in health and food safety (p=0.01). No statistically significant changes in the personal dietary pattern or quality were observed. The interdisciplinary CM elective improved nutrition literacy and some aspects of counseling proficiency. Although small shifts in dietary variables were observed, the elective did not statistically improve participants' dietary pattern. However, some changes that were observed may lead to clinically relevant outcomes if maintained long-term. These findings are encouraging. Implementing CM as an educational tool could improve healthcare practitioners' ability to understand and counsel patients on nutrition to prevent the nutrition-related NCDs.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41467-024-47896-z
+- DOI: 10.1515/jom-2023-0094
 
 2. Keywords
-
+- culinary medicine
+- medical education
+- nutrition counseling
 
 3. Key Findings
-- We conducted a cluster-randomized trial in rural Bangladesh (funded by the Bill & Melinda Gates Foundation, ClinicalTrials
+- Literacy subcategories indicated that the improvement came from the participant's ability to understand household measurements (p=0
 
 This study provides insights into:
-- General research methodology and outcomes
+- culinary medicine assessment methods and outcomes
+- medical education assessment methods and outcomes
+- nutrition counseling assessment methods and outcomes

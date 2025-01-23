@@ -1,26 +1,27 @@
-Study Title: A prospective non-randomized feasibility study of an online membership-based fitness program for promoting physical activity in people with mobility impairments.
+Study Title: Activation of skeletal muscle mechanoreceptors and nociceptors reduces the exercise performance of the contralateral homologous muscles.
 
 Study Summary:
-People with mobility limitations have a disproportionately higher rate of acquiring secondary conditions such as obesity, cardiovascular comorbidity, pain, fatigue, depression, deconditioning, and type 2 diabetes. These conditions often result from poor access to home and community-based health promotion/wellness programs. The aim of this project was to determine the feasibility of delivering an online community membership-based fitness program for individuals with mobility impairments. For this prospective single-arm study, participants were recruited from members of a community fitness facility that serves people with physical disabilities and chronic health conditions. While all members had access to the online platform, individuals had to opt-in to participate in the research component. Activity options included 16 pre-recorded videos and 9 live exercise classes. During the 8-week program, participants had an opportunity to earn three exercise incentives for reaching certain activity milestones. Enrollment percentage, attendance, and attrition were tracked to assess program feasibility and acceptability. Changes in participant-reported outcomes including self-reported physical activity, psychosocial outcomes, and health-related quality of life (HRQOL) were examined using non-parametric analyses. A total of 146 eligible individuals were screened of which 33 enrolled (22.6%). Two participants withdrew from the study, so a total of 31 were used for analyses. Participants included 29 women and 12 Black people with an average age of 60 (&#xb1;&#x2009;15.9) years. Health conditions included stroke, post-polio, arthritis, neuropathy, cerebral palsy, and obesity. Ten participants used an assistive device to get around inside the home. Twenty-six participants (78.8%) completed the online program, and 5 participants earned all 3 participation incentives. The mean number of live Zoom exercise classes attended by the participants was 12.8 (range&#x2009;=&#x2009;0-43) over 8&#xa0;weeks; 3 of 31 participants did not attend any classes. On average, participants watched 128&#xa0;min (range&#x2009;=&#x2009;0-704&#xa0;min) of pre-recorded videos; 6 of 31 participants did not view any pre-recorded videos. Self-reported physical activity showed the largest improvement (11.15 units; 95% CI, 3.08, 19.56) with an effect size of 0.51 (Cohen's d). This pilot study of an online membership-based fitness program for people with mobility impairments demonstrated preliminary effectiveness in increasing physical activity and was found to be feasible and acceptable. Feasibility endpoints do indicate potential to improve retention. These results suggest that online delivery of exercise programs can broaden the reach of specialized community fitness programs and is a promising direction for future work and fully powered trials are warranted to assess intervention efficacy. ClinicalTrials.gov, NCT05138809. Registered September 2, 2021, ClinicalTrials.gov PRS: Record Summary NCT05138809.
+Increasing evidence suggests that activation of muscle nerve afferents may inhibit central motor drive, affecting contractile performance of remote exercising muscles. Although these effects are well documented for metaboreceptors, very little is known about the activation of mechano- and mechanonociceptive afferents on performance fatigability. Therefore, the purpose of the present study was to examine the influence of mechanoreceptors and nociceptors on performance fatigability. Eight healthy young males undertook four randomized experimental sessions on separate occasions in which the experimental knee extensors were the following:) resting (CTRL),) passively stretched (ST),) resting with delayed onset muscle soreness (DOMS), or) passively stretched with DOMS (DOMS+ST), whereas the contralateral leg performed an isometric time to task failure (TTF). Changes in maximal voluntary contraction (&#x394;MVC), potentiated twitch force (&#x394;Q), and voluntary muscle activation (&#x394;VA) were also assessed. TTF was reduced in DOMS+ST (-43%) and ST (-29%) compared with CTRL. DOMS+ST also showed a greater reduction of VA (-25% vs. -8%, respectively) and MVC compared with CTRL (-28% vs. -45%, respectively). Rate of perceived exertion (RPE) was significantly increased at the initial stages (20-40-60%) of the TTF in DOMS+ST compared with all conditions. These findings indicate that activation of mechanosensitive and mechanonociceptive afferents of a muscle with DOMS reduces TTF of the contralateral homologous exercising limb, in part, by reducing VA, thereby accelerating mechanisms of central fatigue.We found that activation of mechanosensitive and nociceptive nerve afferents of a rested muscle group experiencing delayed onset muscle soreness was associated with reduced exercise performance of the homologous exercising muscles of the contralateral limb. This occurred with lower muscle voluntary activation of the exercising muscle at the point of task failure.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s40814-024-01528-x
+- DOI: 10.1152/ajpregu.00069.2024
 
 2. Keywords
-- Community program
-- Online fitness
-- Physical activity
-- Physical disability
+- exercise performance
+- exercise-induced muscle damage
+- muscle nerve afferents
+- neuromuscular fatigue
+- stretching
 
 3. Key Findings
-- Self-reported physical activity showed the largest improvement (11
-- This pilot study of an online membership-based fitness program for people with mobility impairments demonstrated preliminary effectiveness in increasing physical activity and was found to be feasible and acceptable
+- DOMS+ST also showed a greater reduction of VA (-25% vs
+- We found that activation of mechanosensitive and nociceptive nerve afferents of a rested muscle group experiencing delayed onset muscle soreness was associated with reduced exercise performance of the homologous exercising muscles of the contralateral limb
 
 This study provides insights into:
-- Community program assessment methods and outcomes
-- Online fitness assessment methods and outcomes
-- Physical activity assessment methods and outcomes
+- exercise performance assessment methods and outcomes
+- exercise-induced muscle damage assessment methods and outcomes
+- muscle nerve afferents assessment methods and outcomes

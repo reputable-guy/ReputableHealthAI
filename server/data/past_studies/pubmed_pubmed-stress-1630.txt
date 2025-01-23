@@ -1,39 +1,26 @@
-Study Title: Detection of Common Respiratory Infections, Including COVID-19, Using Consumer Wearable Devices in Health Care Workers: Prospective Model Validation Study.
+Study Title: Can a six-week Swedish massage reduce mood disorders and enhance the quality of life in individuals with Multiple Sclerosis? A randomized control clinical trial.
 
 Study Summary:
-The early detection of respiratory infections could improve responses against outbreaks. Wearable devices can provide insights into health and well-being using longitudinal physiological signals. The purpose of this study was to prospectively evaluate the performance of a consumer wearable physiology-based respiratory infection detection algorithm in health care workers. In this study, we evaluated the performance of a previously developed system to predict the presence of COVID-19 or other upper respiratory infections. The system generates real-time alerts using physiological signals recorded from a smartwatch. Resting heart rate, respiratory rate, and heart rate variability measured during the sleeping period were used for prediction. After baseline recordings, when participants received a notification from the system, they were required to undergo testing at a Northwell Health System site. Participants were asked to self-report any positive tests during the study. The accuracy of model prediction was evaluated using respiratory infection results (laboratory results or self-reports), and postnotification surveys were used to evaluate potential confounding factors. A total of 577 participants from Northwell Health in New York were enrolled in the study between January 6, 2022, and July 20, 2022. Of these, 470 successfully completed the study, 89 did not provide sufficient physiological data to receive any prediction from the model, and 18 dropped out. Out of the 470 participants who completed the study and wore the smartwatch as required for the 16-week study duration, the algorithm generated 665 positive alerts, of which 153 (23.0%) were not acted upon to undergo testing for respiratory viruses. Across the 512 instances of positive alerts that involved a respiratory viral panel test, 63 had confirmed respiratory infection results (ie, COVID-19 or other respiratory infections detected using a polymerase chain reaction or home test) and the remaining 449 had negative upper respiratory infection test results. Across all cases, the estimated false-positive rate based on predictions per day was 2%, and the positive-predictive value ranged from 4% to 10% in this specific population, with an observed incidence rate of 198 cases per week per 100,000. Detailed examination of questionnaires filled out after receiving a positive alert revealed that physical or emotional stress events, such as intense exercise, poor sleep, stress, and excessive alcohol consumption, could cause a false-positive result. The real-time alerting system provides advance warning on respiratory viral infections as well as other physical or emotional stress events that could lead to physiological signal changes. This study showed the potential of wearables with embedded alerting systems to provide information on wellness measures.
+There is a limited amount of research specifically focusing on the effects of Swedish massage on mood disorders and the quality of life (QOL) among individuals with MS, emphasizing the need for further investigation. Therefore, this study aimed to assess the effects of a 6-week Swedish massage on the quality of life, stress, anxiety, depression, pain, fatigue, spasticity, and sleep quality in MS patients. This randomized controlled trial involved 70 MS patients who were divided into two groups. The massage group underwent two 50-minute sessions of whole-body Swedish massage per week for six weeks, while the usual treatment group maintained their regular medical care routine. Outcomes were Short Form-36 (SF-36) and the Depression, Anxiety, and Stress Scale (DASS), Visual Analog Scale (VAS), Fatigue Severity Scale (FSS), Pittsburgh Sleep Quality Index (PSQI-P), and Modified Ashworth Scale (MAS). These measurements were taken before and after the massage intervention. The massage group demonstrated significant improvements in QOL and its components compared to the usual treatment group (Hedge's g = 0.53 for QOL, ranging from 0.31 to 0.58 for QOL components; p < 0.001). Participants in the massage group also reported significantly lower levels of stress (Hedge's g = 0. 80), anxiety (Hedge's g = 0.47), and depression (Hedge's g = 0.70) than those in the usual treatment group (p < 0.001). Additionally, the massage group had lower levels of pain, fatigue, and spasticity, and better sleep quality compared to the usual treatment group (p < 0.05). Swedish massage can be considered a valuable complementary and alternative treatment alongside conventional medicine for individuals with MS.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/53716
+- DOI: 10.1016/j.explore.2024.103032
 
 2. Keywords
-- COVID detection
-- COVID-19
-- algorithm
-- emotional stress
-- health
-- health care worker
-- infection
-- physical stress
-- physiology
-- prediction
-- respiratory infection
-- respiratory virus
-- respiratory virus detection
-- wearable
-- wearable device
-- well-being
+- Alternative medicine
+- Anxiety
+- Complementary medicine
+- Depression
+- Stress
 
 3. Key Findings
-- The accuracy of model prediction was evaluated using respiratory infection results (laboratory results or self-reports), and postnotification surveys were used to evaluate potential confounding factors
-- Detailed examination of questionnaires filled out after receiving a positive alert revealed that physical or emotional stress events, such as intense exercise, poor sleep, stress, and excessive alcohol consumption, could cause a false-positive result
-- This study showed the potential of wearables with embedded alerting systems to provide information on wellness measures
+- The massage group demonstrated significant improvements in QOL and its components compared to the usual treatment group (Hedge's g = 0
 
 This study provides insights into:
-- COVID detection assessment methods and outcomes
-- COVID-19 assessment methods and outcomes
-- algorithm assessment methods and outcomes
+- Alternative medicine assessment methods and outcomes
+- Anxiety assessment methods and outcomes
+- Complementary medicine assessment methods and outcomes

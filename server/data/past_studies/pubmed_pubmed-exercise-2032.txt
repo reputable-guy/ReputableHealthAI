@@ -1,27 +1,25 @@
-Study Title: Metabolic and Hormonal Responses to Isomaltulose Ingestion Before or During Sustained Submaximal Exercise in Adults with Type 1 Diabetes Using Automated Insulin Delivery Systems.
+Study Title: Healthy Lifestyle Changes Improve Cortisol Levels and Liver Steatosis in MASLD Patients: Results from a Randomized Clinical Trial.
 
 Study Summary:
-This article compares metabolic, pancreatic, and gut-derived hormone responses to isomaltulose ingestion, before versus during submaximal sustained exercise, in adults with type 1 diabetes (T1D) using automated insulin delivery systems. In a randomized, cross-over trial, eight participants with T1D being treated with automated insulin pumps (five females, age: 47 &#xb1; 16 years, BMI: 27.5 &#xb1; 3.8 kg&#xb7;m, diabetes duration: 23 &#xb1; 11 years, HbA1c: 8.3 &#xb1; 0.9 [67.5 &#xb1; 9.5]% [mmol/mol]) attended the laboratory on two separate occasions and consumed an isocaloric amount of isomaltulose as either (1) a single serving (0.75g CHO&#xb7;kgBM) with a 25% reduction in bolus insulin 90 min before 45 min of cycling (PEC) or (2) three separate isocaloric servings (0.25g CHO&#xb7;kgBM each) without bolus insulin during exercise (DEC). Plasma glucose (PG), gut incretins (GLP-1 and GIP), pancreatic glucagon, exogenous insulin, and whole-body fuel oxidation rates were determined. Data were treated via a two-way repeated measures ANOVA, with&#x2264; 0.05 accepted as significant. PG concentrations throughout exercise were higher and less variable with DEC compared to PEC. The exercise-induced change in PG was directionally divergent between trials (PEC: &#x2206; - 3.2 &#xb1; 1.2 mmol/L vs. DEC: &#x2206; + 1.7 &#xb1; 1.5 mmol/L,< 0.001), changing at a rate of -0.07 &#xb1; 0.03 mmol/L/min with PEC and +0.04 &#xb1; 0.03 mmol/L/min with DEC (< 0.001 between conditions). Throughout the exercise period, GLP-1, GIP, glucagon, and total insulin concentrations were lower with DEC (all&#x2264; 0.02). The oxidation rates of carbohydrates were lower (= 0.009) and of lipids were greater (= 0.014) with DEC compared to PEC. The consumption of smaller servings of isomaltulose during, rather than as a single isocaloric serving before, submaximal sustained exercise provided (i) a better glycemic protective effect, (ii) a lesser push on pancreatic and gut-mediated glucoregulatory hormones, and (iii) a lower reliance on whole-body carbohydrate oxidation. Such information serves to remind us of the potential importance of nutrition for modulating the metabolic fate of an acute bout of exercise and may help inform best practice guidelines for exercise management in the T1D-sphere.
+Steatotic liver disease associated with metabolic dysfunction (MASLD) affects up to about 30% of the general adult population and is closely related to obesity and the metabolic syndrome. Cortisol, a stress-related hormone contributing to hepatic fat accumulation and insulin resistance, also promotes progression of the disease. The study aims to investigate the impact of lifestyle modifications on cortisol levels and hepatic steatosis in patients with MASLD.In a 16-week three-arm randomized trial, 42 patients were randomly assigned to three groups who received dietary advice (CG), dietary advice combined with aerobic exercise (AE + DA), or dietary advice with high-intensity interval training (HIIT + DA). Before the start, after 2 months of intervention, and at the end of the project, medical evaluations, routine biochemical assessments, and psychological questionnaires were analyzed. At baseline and at the end of 4 months, hepatic steatosis was evaluated by Fibroscan.In the study population, severe hepatic steatosis (74%) and obesity (98%) were prevalent at the beginning of the study. A statistically significant (-value = 0.001) reduction in circulating cortisol levels was observed over time in the two groups doing exercise, especially in HIIT + DA (-value = 0.006). Hepatic steatosis, assessed by Fibroscan, disappeared in 10 participants (CAP value < 248,-value = 0.003). CAP values and waist circumference decreased in all groups, statistically significantly in the AE + DA group (-value = 0.005;-value = 0.04, respectively).The study emphasizes the benefits of combining diet and exercise in managing MASLD. HIIT + DA significantly decreased cortisol levels, while AE + DA was the most potent intervention for reducing hepatic steatosis.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16234098
+- DOI: 10.3390/nu16234225
 
 2. Keywords
-- automated insulin delivery systems
+- Mediterranean diet
 - exercise
-- glucose
-- incretin hormones
-- nutrition
-- type 1 diabetes
+- hepatic steatosis
+- steatotic liver disease associated with metabolic dysfunction
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- automated insulin delivery systems assessment methods and outcomes
+- Mediterranean diet assessment methods and outcomes
 - exercise assessment methods and outcomes
-- glucose assessment methods and outcomes
+- hepatic steatosis assessment methods and outcomes

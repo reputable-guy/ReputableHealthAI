@@ -1,25 +1,27 @@
-Study Title: The effect of increasing duration of family members' presence on sleep status in patients with acute coronary syndrome in cardiac care unit: A randomized controlled trial.
+Study Title: Safety Profile of Pimavanserin Therapy in Elderly Patients with Neurodegenerative Disease-Related Neuropsychiatric Symptoms: A Phase 3B Study.
 
 Study Summary:
-To investigate the effect of increasing duration of family members' presence on sleep status in patients with acute coronary syndrome (ACS) admitted to the cardiac care unit. Randomized controlled trial. Ninety patients with ACS randomly assigned into two groups. No intervention was performed in control group. In the intervention group, the time of family members presence was changed from 1 h per day to 2 h per day from the second to the fourth day. Then, ST Mary's Hospital Sleep Questionnaire was completed by the patients every day during the study. The patients in the intervention group had statistically significantly better sleep status during the course of intervention compared to the control group. The increasing duration of family members' presence can improve the sleep quality and quantity of ACS patients.
+Pimavanserin, a 5-HT2A receptor inverse agonist/antagonist, is the only medication approved by the FDA for the treatment of hallucinations and delusions associated with Parkinson's disease psychosis (PDP). Further expanding knowledge of the safety profile of pimavanserin in PDP and neurodegenerative diseases (NDD) such as Alzheimer's disease is of great interest for informing its use in patients with PDP (with or without dementia), given this population is highly sensitive to adverse effects following antipsychotic use. This trial evaluated the effects of pimavanserin compared to placebo in frail older adults and elderly patients with neuropsychiatric symptoms related to NDD, such as hallucinations and delusions, to better understand the safety of pimavanserin in this population. This was a phase 3b, 8-week treatment (study duration of up to 16 weeks), multicenter, randomized, double-blind, placebo-controlled, two-arm parallel-group trial (NCT03575052). The primary endpoint was safety and tolerability, measured by treatment-emergent adverse events (TEAEs). Secondary safety endpoints were change from baseline in motor and cognitive function; exploratory endpoints included suicidality, sleep quality, and neuropsychiatric symptoms. Incidences of TEAEs were similar between treatment groups; 29.8% reported &#x2265;1 TEAE (pimavanserin: 30.4%; placebo: 29.3%), and 1.8% reported serious TEAEs (pimavanserin: 2.0%; placebo: 1.5%). Pimavanserin did not impact motor- or cognitive-related function. Pimavanserin was well tolerated and not associated with motor or cognitive impairment. Together, these findings highlight the manageable and generally favorable safety profile of pimavanserin in patients with NDD, contributing to our knowledge on the safety of pimavanserin as it generalizes to patients with PDP.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/nop2.2114
+- DOI: 10.3233/JAD-231167
 
 2. Keywords
-- CCU
-- acute coronary syndrome
-- family member
-- sleep
+- Alzheimer&#x2019;s disease
+- elderly patients
+- neurodegenerative diseases
+- neuropsychiatric symptoms
+- pimavanserin
+- safety
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- CCU assessment methods and outcomes
-- acute coronary syndrome assessment methods and outcomes
-- family member assessment methods and outcomes
+- Alzheimer&#x2019;s disease assessment methods and outcomes
+- elderly patients assessment methods and outcomes
+- neurodegenerative diseases assessment methods and outcomes

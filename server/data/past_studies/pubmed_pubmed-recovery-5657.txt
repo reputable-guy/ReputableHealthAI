@@ -1,26 +1,25 @@
-Study Title: Low-dose pegylated recombinant human granulocyte-colony stimulating factor as hematopoietic support for adjuvant chemotherapy in Chinese patients with breast cancer: An open-label, randomized, non-inferiority trial.
+Study Title: Impact of Intraoperative Nefopam on Postoperative Pain, Opioid Use, and Recovery Quality with Parietal Pain Block in Single-Port Robotic Cholecystectomy: A Prospective Randomized Controlled Trial.
 
 Study Summary:
-The recommended dosage of pegylated recombinant human granulocyte-colony stimulating factor (PEG-rhG-CSF) for Western chemotherapy patients is 6&#xa0;mg per cycle. However, for Eastern Asians, the optimal dose remains unknown. This open-label, randomized, non-inferiority trial (NCT05283616) enrolled Chinese female breast cancer patients receiving adjuvant chemotherapy. Participants were randomized to receive either 3 or 6&#xa0;mg of PEG-rhG-CSF per cycle, stratified by body weight (BW; &#x2264;60&#x2009;kg vs. >60&#x2009;kg). The primary endpoint was timely absolute neutrophil count (ANC) recovery before the second cycle of chemotherapy. A total of 122 patients were randomized and 116 were included for efficacy analyses. The timely ANC recovery rate in the 3&#xa0;mg arm was 89.8%, compared to 93.0% in the 6&#xa0;mg arm (one-sided 95% confidence interval [CI] lower limit for difference: -11.7%), meeting the prespecified non-inferiority margin of 15%. The rate was 93.3% with PEG-rhG-CSF 3&#xa0;mg and 96.6% with 6&#xa0;mg in patients with BW&#x2009;&#x2264;&#x2009;60&#x2009;kg, and 86.2% and 89.3%, respectively, in those with BW&#x2009;>&#x2009;60&#x2009;kg. Although the incidence of severe neutropenia was similar across arms, the occurrence of excessively high ANC and white blood cell counts was higher in the 6&#xa0;mg arm. No grade &#x2265;3 adverse events related to PEG-rhG-CSF occurred. Three milligrams of PEG-rhG-CSF per cycle provided non-inferior neutrophil protection and attenuated neutrophil overshoot compared to 6&#xa0;mg doses. This low-dose regimen could be a new supportive care option for Chinese breast cancer patients receiving anthracycline-based adjuvant chemotherapy.
+: This study explored how nefopam, a non-opioid analgesic in a multimodal regimen, impacts postoperative pain, opioid use, and recovery quality in single-port robot-assisted laparoscopic cholecystectomy (RALC) patients with a parietal pain block, addressing challenges in postoperative pain management.: Forty patients scheduled for elective single-port RALC were enrolled and randomized to receive either nefopam or normal saline intravenously. Parietal pain relief was provided through a rectus sheath block (RSB). Postoperative pain was assessed using a numeric rating scale (NRS) in the right upper quadrant (RUQ) of the abdomen, at the umbilicus, and at the shoulder. Opioid consumption and recovery quality, measured using the QoR-15K questionnaire, were also recorded.: The 40 patients had a mean age of 48.3 years and an average body mass index (BMI) of 26.2 kg/m. There were no significant differences in the pre- or intraoperative variables between groups. Patients receiving nefopam reported significantly lower RUQ pain scores compared to the controls, while the umbilicus and shoulder pain scores were similar. Rescue fentanyl requirements were lower in the nefopam group in both the PACU and ward. The QoR-15K questionnaire scores for nausea and vomiting were better in the nefopam group, but the overall recovery quality scores were comparable between the groups.: Nefopam reduces RUQ pain and opioid use post-single-port RALC with a parietal pain block without markedly boosting RSB's effect on umbilicus or shoulder pain. It may also better manage postoperative nausea and vomiting, underscoring its role in analgesia strategies for this surgery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/bcp.16151
+- DOI: 10.3390/medicina60060848
 
 2. Keywords
-- dose&#x2010;dense chemotherapy
-- neutropenia
-- pegfilgrastim
-- pegylated recombinant human granulocyte&#x2010;colony stimulating factor
-- primary breast cancer
+- nefopam
+- postoperative analgesia
+- rectus sheath block
+- single-port robot-assisted laparoscopic cholecystectomy
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- dose&#x2010;dense chemotherapy assessment methods and outcomes
-- neutropenia assessment methods and outcomes
-- pegfilgrastim assessment methods and outcomes
+- nefopam assessment methods and outcomes
+- postoperative analgesia assessment methods and outcomes
+- rectus sheath block assessment methods and outcomes

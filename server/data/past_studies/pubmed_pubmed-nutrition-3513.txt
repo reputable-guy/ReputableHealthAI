@@ -1,26 +1,27 @@
-Study Title: Construction and evaluation of neonatal respiratory failure risk prediction model for neonatal respiratory distress syndrome.
+Study Title: Effect of nutrition education integrating the health belief model and theory of planned behavior on dietary diversity of pregnant women in Southeast Ethiopia: a cluster randomized controlled trial.
 
 Study Summary:
-Neonatal respiratory distress syndrome (NRDS) is a common respiratory disease in preterm infants, often accompanied by respiratory failure. The aim of this study was to establish and validate a nomogram model for predicting the probability of respiratory failure in NRDS patients. Patients diagnosed with NRDS were extracted from the MIMIC-iv database. The patients were randomly assigned to a training and a validation cohort. Univariate and stepwise Cox regression analyses were used to determine the prognostic factors of NRDS. A nomogram containing these factors was established to predict the incidence of respiratory failure in NRDS patients. The area under the receiver operating characteristic curve (AUC), receiver operating characteristic curve (ROC), calibration curves and decision curve analysis were used to determine the effectiveness of this model. The study included 2,705 patients with NRDS. Univariate and multivariate stepwise Cox regression analysis showed that the independent risk factors for respiratory failure in NRDS patients were gestational age, pH, partial pressure of oxygen (PO), partial pressure of carbon dioxide (PCO), hemoglobin, blood culture, infection, neonatal intracranial hemorrhage, Pulmonary surfactant (PS), parenteral nutrition and respiratory support. Then, the nomogram was constructed and verified. This study identified the independent risk factors of respiratory failure in NRDS patients and used them to construct and evaluate respiratory failure risk prediction model for NRDS. The present findings provide clinicians with the judgment of patients with respiratory failure in NRDS and help clinicians to identify and intervene in the early stage.
+Maternal anemia, miscarriage, low birth weight (LBW), preterm birth (PTB), intrauterine growth restriction (IUGR), prenatal and infant mortality, morbidity, and the risk of chronic disease later in life are all increased by a lack of dietary diversity during pregnancy. However, evidence for the effect of nutrition education on the dietary diversity score (DDS) among pregnant women was sparse in Ethiopia, particularly in the study areas. This study aimed to assess the effect of nutrition education on dietary diversity among pregnant women in urban settings in Southeast Ethiopia. A community-based two-arm parallel cluster randomized controlled trial was conducted among 447 randomly selected pregnant women attending antenatal care (224 intervention group and 223 control group) at health facilities from February to December 2021. A multistage cluster sampling technique, followed by systematic sampling, was used to select the pregnant women. Pregnant women who participated in the interventions were given nutrition education starting at 16 weeks of gestation and continuing for 6 months. We used a pre-tested, interviewer-administered, structured questionnaire to collect the data. A 24-hour qualitative dietary recall was used to calculate the dietary diversity score (DDS). A multivariable generalized estimating equation (GEE) model was conducted to evaluate the intervention effect. After the intervention, the proportion of adequate dietary diversity was 14.15% higher in the intervention arm compared to the control group (45.09% versus 30.94%, P&#x2009;=&#x2009;0.002). The overall difference in adequate dietary diversity between the two groups was 8.5%. After adjusting for background characteristics, the multivariable GEE binary logistic model revealed that having received intervention [(AOR&#x2009;=&#x2009;1.89, 95% CI: 1.27, 2.79)], being literate [(AOR&#x2009;=&#x2009;3.41, 95% CI: 1.13, 10.23)], and having high wealth [(AOR&#x2009;=&#x2009;1.60, 95% CI: 1.09, 2.35)] significantly improved adequate dietary diversity. The findings indicated that having received the intervention, being literate, and having a high level of wealth significantly improved maternal dietary diversity. Efforts should be made to increase nutrition education using the health belief model (HBM) and the theory of planned behavior (TPB). Moreover, there is a need to improve literacy and economic empowerment through income-generating activities to enhance adequate dietary diversification during pregnancy. Clinicaltrials.gov (PACTR202201731802989, Retrospectively registered on 24 January 2022).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12890-023-02819-4
+- DOI: 10.1186/s12937-023-00907-z
 
 2. Keywords
-- MIMIC-IV database
-- NRDS
-- Nomogram
-- Predictive model
-- Respiratory failure
+- Dietary diversity
+- Ethiopia
+- GEE
+- Nutrition education
+- Pregnant women
 
 3. Key Findings
-- Univariate and multivariate stepwise Cox regression analysis showed that the independent risk factors for respiratory failure in NRDS patients were gestational age, pH, partial pressure of oxygen (PO), partial pressure of carbon dioxide (PCO), hemoglobin, blood culture, infection, neonatal intracranial hemorrhage, Pulmonary surfactant (PS), parenteral nutrition and respiratory support
+- After adjusting for background characteristics, the multivariable GEE binary logistic model revealed that having received intervention [(AOR&#x2009;=&#x2009;1
+- The findings indicated that having received the intervention, being literate, and having a high level of wealth significantly improved maternal dietary diversity
 
 This study provides insights into:
-- MIMIC-IV database assessment methods and outcomes
-- NRDS assessment methods and outcomes
-- Nomogram assessment methods and outcomes
+- Dietary diversity assessment methods and outcomes
+- Ethiopia assessment methods and outcomes
+- GEE assessment methods and outcomes

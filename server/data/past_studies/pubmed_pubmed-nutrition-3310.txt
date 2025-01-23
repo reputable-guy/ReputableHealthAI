@@ -1,25 +1,20 @@
-Study Title: 6-Week student wellness program improves psychological wellbeing of students.
+Study Title: Wearable Vertical Graphene-Based Microneedle Biosensor for Real-Time Ketogenic Diet Management.
 
 Study Summary:
-Employing a waitlist control design, the current study examined the effectiveness of a shortened version of a newly developed wellness program.Twenty-four students were randomly assigned to an experimental wellness (EW) group or a waitlist control (WLC) group. The 6-week wellness program focused on specific wellness topics (i.e., relaxation and mindfulness, yoga, gratitude and self-compassion, emotion regulation, goal setting and time management, and nutrition and movement). Both mental health and wellbeing outcomes were examined pre-post group.Findings revealed that the EW group reported significantly improved overall psychological wellbeing, optimism, self-compassion, and satisfaction with life following the program relative to baseline, but the WLC group did not.
+Ketogenic diets have attracted substantial interest in the treatment of chronic diseases, but there are health risks with long-term regimes. Despite the advancements in diagnostic and therapeutic methods in modern medicine, there is a huge gap in personalized health management of this dietary strategy. Hence, we present a wearable microneedle biosensor for real-time ketone and glucose monitoring. The microneedle array possesses excellent mechanical properties, allowing for consistent sampling of interstitial biomarkers while reducing the pain associated with skin puncture. Vertical graphene with outstanding electrical conductivity provides the resulting sensor with a high sensitivity of 234.18 &#x3bc;A mMcmand a low limit detection of 1.21 &#x3bc;M. When this fully integrated biosensor was used in human volunteers, it displayed an attractive analytical capability for tracking the dynamic metabolite levels. Moreover, the results of the on-body evaluation established a significant correlation with commercial blood measurements. Overall, this cost-effective and efficient sensing platform can accelerate the application of a ketogenic diet in personal nutrition and wellness management.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/07448481.2024.2351431
+- DOI: 10.1021/acs.analchem.4c00960
 
 2. Keywords
-- Mental health
-- student wellness
-- wellbeing
-- wellness program
+
 
 3. Key Findings
-- Findings revealed that the EW group reported significantly improved overall psychological wellbeing, optimism, self-compassion, and satisfaction with life following the program relative to baseline, but the WLC group did not
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Mental health assessment methods and outcomes
-- student wellness assessment methods and outcomes
-- wellbeing assessment methods and outcomes
+- General research methodology and outcomes

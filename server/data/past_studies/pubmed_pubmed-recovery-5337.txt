@@ -1,26 +1,20 @@
-Study Title: Pharmacokinetics and safety of colistin sulfate after single and multiple intravenous doses in healthy Chinese subjects.
+Study Title: The DAV132 colon-targeted adsorbent does not interfere with plasma concentrations of antibiotics but prevents antibiotic-related dysbiosis: a randomized phase I trial in healthy volunteers.
 
 Study Summary:
-Increasing antimicrobial resistance has led to the revival of the polymyxins as a last-resort therapeutic option for multidrug-resistant Gram-negative bacterial infections. A parenteral formulation of colistin sulfate is available solely in China. While the onset of action of IV colistin may occur faster than with its prodrug CMS, its pharmacokinetic (PK) profile remains unclear. This single-centre, open-label, single- and multi-dose, phase 1 trial examined the PKs and safety of colistin sulfate in healthy Chinese adults. Participants received a single 10,000 units/kg (equivalent to 0.452 mg/kg) dose of colistin sulfate (single-dose group, n = 12) or the same dose q12h for 7 days (multi-dose group, n = 12) via a 2-h IV infusion. Colistin concentrations in plasma and urine were determined using LC-MS/MS, and the PK parameters calculated using non-compartmental analysis. After a single dose the peak concentration (C), area under the curve from 0 to 12 h (AUC), terminal half-life (T), volume of distribution (V), and total body clearance (CL) of colistin were 1.08 &#xb1; 0.18 mg/L, 4.73 &#xb1; 0.89 h&#xb7;mg/L, 3.65 &#xb1; 0.55 h, 16.82 &#xb1; 2.70 L, and 3.24 &#xb1; 0.51 L/h, respectively. No accumulation of colistin was observed after multiple doses. The cumulative urinary recovery of colistin was 0.9 &#xb1; 0.7% within 24 h after multi-dose administration. No nephrotoxicity was reported. This study is the first to report colistin PKs in healthy Chinese subjects after single and multiple doses of colistin sulfate. The PK and safety data are required for optimal dose selection in clinical practice.
+The deleterious impact of antibiotics (ATB) on the microbiome negatively influences immune checkpoint inhibitors (ICI) response in patients with cancer. We conducted a randomized phase I study (EudraCT:2019-A00240-57) with 148 healthy volunteers (HV) to test two doses of DAV132, a colon-targeted adsorbent, alongside intravenous ceftazidime-avibactam (CZA), piperacillin-tazobactam (PTZ) or ceftriaxone (CRO) and a group without ATB. The primary objective of the study was to assess the effect of DAV132 on ATB plasma concentrations and both doses of DAV132 did not alter ATB levels. Secondary objectives included safety, darkening of the feces, and fecal ATB concentrations. DAV132 was well tolerated, with no severe toxicity and similar darkening at both DAV132 doses. DAV132 led to significant decrease in CZA or PTZ feces concentration. When co-administered with CZA or PTZ, DAV132 preserved microbiome diversity, accelerated recovery to baseline composition and protected key commensals. Fecal microbiota transplantation (FMT) in preclinical cancer models in female mice from HV treated with CZA or PTZ alone inhibited anti-PD-1 response, while transplanted samples from HV treated with ATB&#x2009;+&#x2009;DAV132 circumvented resistance to anti-PD-1. This effect was linked to activated CD8T cell populations in the tumor microenvironment. DAV132 represents a promising strategy for overcoming ATB-related dysbiosis and further studies are warranted to evaluate its efficacy in cancer patients.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ijantimicag.2024.107326
+- DOI: 10.1038/s41467-024-52373-8
 
 2. Keywords
-- Colistin sulfate
-- Healthy Subject
-- Pharmacokinetics
-- Polymyxin
-- Safety
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Colistin sulfate assessment methods and outcomes
-- Healthy Subject assessment methods and outcomes
-- Pharmacokinetics assessment methods and outcomes
+- General research methodology and outcomes

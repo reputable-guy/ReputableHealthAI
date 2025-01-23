@@ -1,27 +1,27 @@
-Study Title: Longitudinal cardiac magnetic resonance imaging following clinical response to rilonacept and prior to recurrence upon treatment suspension: a RHAPSODY subgroup analysis.
+Study Title: Effects of neuromuscular block reversal with neostigmine/glycopyrrolate versus sugammadex on bowel motility recovery after laparoscopic colorectal surgery: A randomized controlled trial.
 
 Study Summary:
-In the Phase 3 trial, RHAPSODY, rilonacept effectively resolved active pericarditis recurrences, and long-term treatment led to sustained pericarditis recurrence risk reduction. Prior analysis suggested association between higher late gadolinium enhancement (LGE) at baseline and more rapid recurrence upon rilonacept suspension after 12 weeks of treatment. This subgroup analysis assessed the utility of longitudinal serial cardiac magnetic resonance (CMR) imaging for tracking clinical improvement and predicting post-treatment cessation outcomes to help guide clinical decision-making. At an 18-month decision milestone (18MDM) in the RHAPSODY long-term extension, investigators decided if patients would continue rilonacept, suspend rilonacept for off-treatment observation, or discontinue the study. Pericardial thickness, pericardial oedema (T2-short tau inversion recovery, T2-STIR), and LGE were determined at baseline and 18MDM by an imaging core lab blinded to clinical data, and pericarditis recurrence was investigator-assessed. CMR results in patients with data at both baseline and 18MDM (n = 13) showed that pericardial thickness, T2-STIR, and LGE were reduced during rilonacept treatment. Among patients with CMR data who suspended rilonacept at the 18MDM (n = 7), five (71%) had a pericarditis recurrence within 1-4 months of rilonacept suspension, despite all having had none/trace LGE (n = 7) and negative T2-STIR (n = 7) at the 18MDM and two having received prophylactic colchicine. Continued clinical improvement during prolonged rilonacept treatment corresponded with improvement on CMR, including reduced pericardial thickness, resolution of pericardial oedema, and resolution of LGE. However, none/trace LGE at 18MDM while on treatment did not predict absence of pericarditis recurrence upon subsequent rilonacept suspension in this size-limited subgroup.
+To compare the effects of neostigmine/glycopyrrolate (a traditional agent) and sugammadex on bowel motility recovery and the occurrence of digestive system complications after colorectal surgery. Prospective, randomized controlled trial. A single tertiary center. 111 patients undergoing laparoscopic colorectal surgery. Patients were randomized into two groups based on the block reversal agent: 1) a mixture of 50&#xa0;&#x3bc;g.kgof neostigmine and 10&#xa0;&#x3bc;g.kg-1 of glycopyrrolate (neostigmine group) and 2) 2&#xa0;mg.kgof sugammadex (sugammadex group). The primary outcome was the time from the surgery's completion to the first flatus. The time to the first postoperative defecation, incidences of postoperative nausea or vomiting, ileus, and dry mouth, as well as postoperative length of stay, were also assessed. The time to the first flatus was significantly shorter in the sugammadex group than in the neostigmine group (59 [42-79] h vs 69 [53-90] h, P&#xa0;=&#xa0;0.027). The time to the first defecation and the incidences of postoperative nausea or vomiting and ileus did not differ between the groups, nor did the postoperative length of stay. However, the incidence of postoperative dry mouth was significantly lower in the sugammadex group than in the neostigmine group (7 patients [13%] vs 39 patients [71%], P&#xa0;<&#xa0;0.001). The time to the first flatus was shorter using 2&#xa0;mg.kgsugammadex to reverse the neuromuscular block for laparoscopic colorectal surgery compared to reversal with conventional neostigmine/glycopyrrolate.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/ehjci/jeae200
+- DOI: 10.1016/j.jclinane.2024.111588
 
 2. Keywords
-- clinical decision-making
-- gadolinium
-- interleukin-1
-- magnetic resonance imaging
-- pericarditis
-- rilonacept
+- Anesthesia
+- Anticholinergics
+- Bowel motility
+- Colorectal surgery
+- Laparoscopic surgery
+- Sugammadex
 
 3. Key Findings
-- CMR results in patients with data at both baseline and 18MDM (n = 13) showed that pericardial thickness, T2-STIR, and LGE were reduced during rilonacept treatment
+- Findings extraction requires manual review
 
 This study provides insights into:
-- clinical decision-making assessment methods and outcomes
-- gadolinium assessment methods and outcomes
-- interleukin-1 assessment methods and outcomes
+- Anesthesia assessment methods and outcomes
+- Anticholinergics assessment methods and outcomes
+- Bowel motility assessment methods and outcomes

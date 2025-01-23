@@ -1,35 +1,20 @@
-Study Title: Effect of oxygen supplementation on cognitive performance among HEMS providers after acute exposure to altitude: the HEMS II randomized clinical trial.
+Study Title: Remote ischaemic preconditioning on gene expression and circulating proteins after subacute laparoscopic cholecystectomy: randomized clinical trial.
 
 Study Summary:
-Emergency medical services (EMS) providers transiently ascend to high altitude for primary missions and secondary transports in mountainous areas in helicopters that are unpressurised and do not have facilities for oxygen supplementation. The decrease in cerebral oxygen saturation can lead to impairment in attention and reaction time as well as in quality of care during acute exposure to altitude. The primary aim of the current study was to investigate the effect of oxygen supplementation on cognitive performance in Helicopter EMS (HEMS) providers during acute exposure to altitude. This interventional, randomized, controlled, double-blind, cross-over clinical trial was conducted in October 2021. Each trial used a simulated altitude scenario equivalent to 4000&#xa0;m, in which volunteers were exposed to hypobaric hypoxia with a constant rate of ascent of 4&#xa0;m/s in an environmental chamber under controlled, replicable, and safe conditions. Trials could be voluntarily terminated at any time. Inclusion criteria were being members of emergency medical services and search and rescue services with an age between 18 and 60&#xa0;years and an American Society of Anesthesiologists physical status class I. Each participant conducted 2 trials, one in which they were exposed to altitude with oxygen supplementation (intervention trial) and the other in which they were exposed to altitude with ambient air supplementation (control trial). Measurements included peripheral oxygen saturation (SpO), cerebral oxygenation (ScO), breathing and heart rates, Psychomotor Vigilance Test (PVT), Digit-Symbol Substitution Test (DSST), n-Back test (2-BACK), the Grooved Pegboard test, and questionnaires on subjective performance, stress, workload, and positive and negative affect. Paired t-tests were used to compare conditions (intervention vs. control). Data were further analyzed using generalized estimating equations (GEE). A total of 36 volunteers (30 men; mean [SD] age, 36 [9] years; mean [SD] education, 17 [4] years) were exposed to the intervention and control trials. The intervention trials, compared with the control trials, had higher values of SpO(mean [SD], 97.9 [1.6] %&#xa0;vs. 86 [2.3]&#xa0;%, t-test, p&#x2009;=&#x2009;0.004) and ScO(mean [SD], 69.9 [5.8] %&#xa0;vs. 62.1 [5.2]&#xa0;%, paired t-test, p&#x2009;=&#x2009;0.004). The intervention trials compared with the control trials had a shorter reaction time (RT) on the PVT after 5&#xa0;min (mean [SD], 277.8 [16.7] ms vs. 282.5 [15.3] ms, paired t-test, p&#x2009;=&#x2009;0.006) and after 30&#xa0;min (mean [SD], 276.9 [17.7] ms vs. 280.7 [15.0] ms, paired t-test, p&#x2009;=&#x2009;0.054) at altitude. While controlling for other variables, there was a RT increase of 0.37&#xa0;ms for each % of SpOdecrease. The intervention trials showed significantly higher values for DSST number of correct responses (with a difference of mean [SD], 1.2 [3.2], paired t-test, p&#x2009;=&#x2009;0.035). Variables in the intervention trials were otherwise similar to those in the control trials for DSST number of incorrect responses, 2-BACK, and the Grooved Pegboard test. This randomized clinical trial found that oxygen supplementation improves cognitive performance among HEMS providers during acute exposure to 4000 m altitude. The use of oxygen supplementation may allow to maintain attention and timely reaction in HEMS providers. The impact of repeated altitude ascents on the same day, sleep-deprivation, and additional stressors should be investigated. Trial registration NCT05073406, ClinicalTrials.gov trial registration.
+Surgical stress may lead to postsurgical hypercoagulability, endothelial dysfunction and systemic inflammation, which can impact on patient recovery. Remote ischaemic preconditioning is a procedure that activates the body's endogenous defences against ischaemia and reperfusion injury. Studies have suggested that remote ischaemic preconditioning has antithrombotic, antioxidative and anti-inflammatory effects. The hypothesis was that remote ischaemic preconditioning reduces surgery-induced systemic stress response. During a 24-month period (2019-2021), adult patients undergoing subacute laparoscopic cholecystectomy due to acute cholecystitis were randomized to remote ischaemic preconditioning or control. Remote ischaemic preconditioning was performed less than 4 h before surgery on the upper arm. It consisted of four cycles of 5 min ischaemia and 5 min reperfusion. The gene expression of 750 genes involved in inflammatory processes, oxidative stress and endothelial function was investigated preoperatively and 2-4 h after surgery in both groups. In addition, changes in 20 inflammation- and vascular trauma-associated proteins were assessed preoperatively, 2-4 h after surgery and 24 h after surgery. A total of 60 patients were randomized. There were no statistically significant differences in gene expression 2-4 h after surgery between the groups (P > 0.05). Remote ischaemic preconditioning did not affect concentrations of circulating proteins up to 24 h after surgery (P > 0.05). The study did not demonstrate any effect of remote ischaemic preconditioning on expression levels of the chosen genes or in circulating immunological cytokines and vascular trauma-associated proteins up to 24&#x2005;h after subacute laparoscopic cholecystectomy in patients with acute cholecystitis.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13049-024-01238-6
+- DOI: 10.1093/bjsopen/zrae067
 
 2. Keywords
-- Altitude
-- Attention
-- Brain
-- Cognition
-- Helicopter emergency medical services
-- Hypobaric hypoxia
-- Motor skills
-- Oxygen supplementation
-- Processing speed
-- Reaction time
-- Stress
-- Working memory
-- Workload
+
 
 3. Key Findings
-- The intervention trials showed significantly higher values for DSST number of correct responses (with a difference of mean [SD], 1
-- This randomized clinical trial found that oxygen supplementation improves cognitive performance among HEMS providers during acute exposure to 4000 m altitude
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Altitude assessment methods and outcomes
-- Attention assessment methods and outcomes
-- Brain assessment methods and outcomes
+- General research methodology and outcomes

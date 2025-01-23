@@ -1,30 +1,29 @@
-Study Title: Support after return to alcohol use: a mixed-methods study on how abstinence motivation and app use change after return to alcohol use in an app-based aftercare intervention for individuals with alcohol use disorder.
+Study Title: Group schema therapy versus group cognitive behavioral therapy for patients with social anxiety disorder and comorbid avoidant personality disorder: A randomized controlled trial.
 
 Study Summary:
-As the return to alcohol use in individuals with alcohol use disorder (AUD) is common during treatment and recovery, it is important that abstinence motivation is maintained after such critical incidences. Our study aims to explore how individuals with AUD participating in an app-based intervention with telephone coaching after inpatient treatment perceived their abstinence motivation after the return to alcohol use, whether their app use behavior was affected and to identify helpful factors to maintain abstinence motivation. Using a mixed-methods approach, ten participants from the intervention group of the randomized controlled trial SmartAssistEntz who returned to alcohol use and recorded this in the app Appstinence, a smartphone application with telephone coaching designed for individuals with AUD, were interviewed about their experiences. The interviews were recorded, transcribed and coded using qualitative content analysis. App use behavior was additionally examined by using log data. Of the ten interviewees, seven reported their abstinence motivation increased after the return to alcohol use. Reasons included the reminder of negative consequences of drinking, the desire to regain control of their situation as well as the perceived support provided by the app. App data showed that app use remained stable after the return to alcohol use with an average of 58.70 days of active app use (SD&#x2009;=&#x2009;25.96, Mdn&#x2009;=&#x2009;58.50, range&#x2009;=&#x2009;24-96, IQR&#x2009;=&#x2009;44.25) after the return to alcohol use which was also indicated by the participants' reported use behavior. The findings of the study tentatively suggest that the app can provide support to individuals after the return to alcohol use to maintain and increase motivation after the incidence. Future research should (1) focus on specifically enhancing identification of high risk situations and reach during such critical incidences, (2) actively integrate the experience of the return to alcohol use into app-based interventions to better support individuals in achieving their personal AUD behavior change goals, and (3) investigate what type of support individuals might need who drop out of the study and intervention and discontinue app use altogether. The primary evaluation study is registered in the German Clinical Trials Register&#xa0;(DRKS, registration number DRKS00017700) and received approval of the ethical committee of the Friedrich-Alexander University Erlangen-Nuremberg (193_19 B).
+Patients with social anxiety (SAD) and comorbid avoidant personality disorder (AVPD) are severely impaired. Group cognitive behavioral therapy (GCBT) is considered an effective treatment for SAD. More knowledge on treatment of SAD with comorbid AVPD is needed. Schema therapy, developed for personality and chronic mental disorders, may be a promising treatment. We conducted a randomized controlled trial in an outpatient population (n&#xa0;=&#xa0;154) with both SAD and AVPD. Group Schema Therapy (GST) and GCBT were compared on SAD symptoms (Liebowitz Social Anxiety Scale) and manifestations of AVPD (Avoidant Personality Disorder Severity Index). Intention-to-treat analysis showed no significant differences between treatments at 3 months post-treatment and one-year follow-up. Both modalities led to significant and substantial improvements. No significant between-differences were found in depressive symptoms (Inventory of Depressive Symptoms) and quality of life (World Health Organization Quality of Life-BREF). Per-protocol analysis showed similar outcomes and no significant differences in recovery from SAD and AVPD. Significantly more patients completed GST. GST and GCBT are valuable treatments for SAD with comorbid AVPD. The higher treatment retention in ST indicates ST is more acceptable than GCBT. Future studies should focus on enhancing treatment effects and improving retention to GCBT.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13722-024-00457-7
+- DOI: 10.1016/j.janxdis.2024.102860
 
 2. Keywords
-- Abstinence motivation
-- Alcohol Use Disorder
-- App
-- Intervention
-- Mixed methods
-- Qualitative interviews
-- Relapse prevention
-- Telephone coaching
+- Avoidant personality disorder
+- Cognitive behavioral therapy
+- Personality disorder
+- RCT
+- Schema therapy
+- Social anxiety disorder
 
 3. Key Findings
-- App data showed that app use remained stable after the return to alcohol use with an average of 58
-- 25) after the return to alcohol use which was also indicated by the participants' reported use behavior
+- Intention-to-treat analysis showed no significant differences between treatments at 3 months post-treatment and one-year follow-up
+- No significant between-differences were found in depressive symptoms (Inventory of Depressive Symptoms) and quality of life (World Health Organization Quality of Life-BREF)
+- Per-protocol analysis showed similar outcomes and no significant differences in recovery from SAD and AVPD
 
 This study provides insights into:
-- Abstinence motivation assessment methods and outcomes
-- Alcohol Use Disorder assessment methods and outcomes
-- App assessment methods and outcomes
+- Avoidant personality disorder assessment methods and outcomes
+- Cognitive behavioral therapy assessment methods and outcomes
+- Personality disorder assessment methods and outcomes

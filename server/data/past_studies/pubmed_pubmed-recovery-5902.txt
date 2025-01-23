@@ -1,27 +1,26 @@
-Study Title: Erector spinae plane block did not improve postoperative pain-related outcomes and recovery after video-assisted thoracoscopic surgery : a randomised controlled double-blinded multi-center trial.
+Study Title: SARS-CoV-2 RNA and Nucleocapsid Antigen Are Blood Biomarkers Associated With Severe Disease Outcomes That Improve in Response to Remdesivir.
 
 Study Summary:
-There is a sizable niche for a minimally invasive analgesic technique that could facilitate ambulatory video-assisted thoracoscopic surgery (VATS). Our study aimed to determine the analgesic potential of a single-shot erector spinae plane (ESP) block for VATS. The primary objective was the total hydromorphone consumption with patient-controlled analgesia (PCA) 24&#xa0;h after surgery. We conducted a randomized, controlled, double-blind study with patients scheduled for VATS in two major university-affiliated hospital centres. We randomized 52 patients into two groups: a single-shot ESP block using bupivacaine or an ESP block with normal saline (control). We administered a preoperative and postoperative (24&#xa0;h) quality of recovery (QoR-15) questionnaire and assessed postoperative pain using a verbal numerical rating scale (VNRS) score. We evaluated the total standardized intraoperative fentanyl administration, total postoperative hydromorphone consumption (PCA; primary endpoint), and the incidence of adverse effects. There was no difference in the primary objective, hydromorphone consumption at 24&#xa0;h (7.6 (4.4) mg for the Bupivacaine group versus 8.1 (4.2) mg for the Control group). Secondary objectives and incidence of adverse events were not different between the two groups at any time during the first 24&#xa0;h following surgery. Our multi-centre randomized, controlled, double-blinded study found no advantage of an ESP block over placebo for VATS for opioid consumption, pain, or QoR-15 scores. Further studies are ongoing to establish the benefits of using a denser block (single-shot paravertebral with a continuous ESP block), which may provide a better quality of analgesia.
+Although antivirals remain important for the treatment COVID-19, methods to assess treatment efficacy are lacking. Here, we investigated the impact of remdesivir on viral dynamics and their contribution to understanding antiviral efficacy in the multicenter Adaptive COVID-19 Treatment Trial 1, which randomized patients to remdesivir or placebo. Longitudinal specimens collected during hospitalization from a substudy of 642 patients with COVID-19 were measured for viral RNA (upper respiratory tract and plasma), viral nucleocapsid antigen (serum), and host immunologic markers. Associations with clinical outcomes and response to therapy were assessed. Higher baseline plasma viral loads were associated with poorer clinical outcomes, and decreases in viral RNA and antigen in blood but not the upper respiratory tract correlated with enhanced benefit from remdesivir. The treatment effect of remdesivir was most pronounced in patients with elevated baseline nucleocapsid antigen levels: the recovery rate ratio was 1.95 (95% CI, 1.40-2.71) for levels >245&#x2005;pg/mL vs 1.04 (95% CI, .76-1.42) for levels <245&#x2005;pg/mL. Remdesivir also accelerated the rate of viral RNA and antigen clearance in blood, and patients whose blood levels decreased were more likely to recover and survive. Reductions in SARS-CoV-2 RNA and antigen levels in blood correlated with clinical benefit from antiviral therapy. NCT04280705 (ClinicalTrials.gov).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12871-024-02544-3
+- DOI: 10.1093/infdis/jiae198
 
 2. Keywords
-- Erector spinae plane block
-- Plane blocks
-- Recovery score
-- Regional anesthesia
-- Thoracic surgery
-- Video-assisted thoracoscopic surgery
+- COVID-19
+- SARS-CoV-2
+- antiviral efficacy
+- clinical trial
+- remdesivir
 
 3. Key Findings
-- Our multi-centre randomized, controlled, double-blinded study found no advantage of an ESP block over placebo for VATS for opioid consumption, pain, or QoR-15 scores
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Erector spinae plane block assessment methods and outcomes
-- Plane blocks assessment methods and outcomes
-- Recovery score assessment methods and outcomes
+- COVID-19 assessment methods and outcomes
+- SARS-CoV-2 assessment methods and outcomes
+- antiviral efficacy assessment methods and outcomes

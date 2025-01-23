@@ -1,27 +1,26 @@
-Study Title: Pilot trial testing the effects of exercise on chemotherapy-induced peripheral neurotoxicity (CIPN) and the interoceptive brain system.
+Study Title: Effects of exercise therapy on chemotherapy delivery and response in primary breast cancer: A secondary analysis of a randomized trial.
 
 Study Summary:
-Chemotherapy-induced peripheral neurotoxicity (CIPN) is a prevalent, dose-limiting, tough-to-treat toxicity involving numbness, tingling, and pain in the extremities with enigmatic pathophysiology. This randomized controlled pilot study explored the feasibility and preliminary efficacy of exercise during chemotherapy on CIPN and the role of the interoceptive brain system, which processes bodily sensations. Nineteen patients (65&#x2009;&#xb1;&#x2009;11 years old, 52% women; cancer type: breast, gastrointestinal, multiple myeloma) starting neurotoxic chemotherapy were randomized to 12 weeks of exercise (home-based, individually tailored, moderate intensity, progressive walking, and resistance training) or active control (nutrition education). At pre-, mid-, and post-intervention, we assessed CIPN symptoms (primary clinical outcome: CIPN-20), CIPN signs (tactile sensitivity using monofilaments), and physical function (leg strength). At pre- and post-intervention, we used task-free ("resting") fMRI to assess functional connectivity in the interoceptive brain system, involving the salience and default mode networks. The study was feasible (74-89% complete data across measures) and acceptable (95% retention). We observed moderate/large beneficial effects of exercise on CIPN symptoms (CIPN-20, 0-100 scale:&#x2009;-&#x2009;7.9&#x2009;&#xb1;&#x2009;5.7, effect size [ES]&#x2009;=&#x2009;&#x2009;-&#x2009;0.9 at mid-intervention;&#x2009;-&#x2009;4.8&#x2009;&#xb1;&#x2009;7.3, ES&#x2009;=&#x2009;-&#x2009;0.5 at post-intervention), CIPN signs (ES&#x2009;=&#x2009;&#x2009;-&#x2009;1.0 and&#x2009;-&#x2009;0.1), and physical function (ES&#x2009;=&#x2009;0.4 and 0.3). Patients with worse CIPN after neurotoxic chemotherapy had lower functional connectivity within the default mode network (R&#x2009;=&#x2009;40-60%) and higher functional connectivity within the salience network (R&#x2009;=&#x2009;20-40%). Exercise tended to increase hypoconnectivity and decrease hyperconnectivity seen in CIPN (R&#x2009;=&#x2009;12%). Exercise during neurotoxic chemotherapy is feasible and may attenuate CIPN symptoms and signs, perhaps via changes in interoceptive brain circuitry. Future work should test for replication with larger samples. Registered Jan 2017 on ClinicalTrials.gov as NCT03021174.
+Whether structured exercise therapy improves chemotherapy delivery, tolerability, and tumor response is unclear. This was a secondary analysis of a phase 2 trial investigating exercise therapy (n&#xa0;=&#xa0;72) versus usual care (n&#xa0;=&#xa0;72) in patients with primary breast cancer. Exercise therapy comprised individualized treadmill walking three times weekly for 20-50 minutes per session at 55%-100% of pretreatment exercise capacity. Chemotherapy delivery was assessed according to the relative dose intensity (RDI), tolerability was assessed according to patient-reported outcomes and blood laboratory values, and response was assessed based on the pathologic complete response rate in patients who received neoadjuvant chemotherapy. In the exercise therapy group, 51 patients (71%) reached 100% RDI (median, 100%; interquartile range, 100%-100%) compared with 41 patients (57%) in the usual care group (median, 100%; interquartile range, 95%-100%; p&#xa0;=&#xa0;.08). Tolerability was similar in both groups; the rates of grade 3 or higher neutropenia and anemia were 22% versus 39% and 7% versus 10% in the exercise and usual care groups, respectively. In patients who received anthracyclines (n&#xa0;=&#xa0;104), 41 (77%) had 100% chemotherapy RDI in the exercise therapy group versus 29 (57%) in the usual care group (p&#xa0;=&#xa0;.026). In the neoadjuvant chemotherapy subgroup (n&#xa0;=&#xa0;51 tumors), the postneoadjuvant therapy (yp) pathologic complete response (ypT0ypN0) rate was 27% (95% confidence interval, 12%-50%) in the exercise therapy group compared with 28% (95% confidence interval, 13%-47%) in the usual care group (p&#xa0;>&#xa0;.9). In patients with primary breast cancer, exercise therapy was associated with improved delivery of anthracycline-based chemotherapy. Although exercise therapy was not significantly associated with tumor response, effects varied by tumor subtype (trial registration: Clinicaltrials.gov identifier NCT01943695).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1007/s00520-024-08855-y
+- Publication Date: 2025
+- DOI: 10.1002/cncr.35575
 
 2. Keywords
-- Brain
-- Chemotherapy-induced peripheral neurotoxicity (CIPN)
-- Exercise
-- FMRI
-- Interoception
-- Neuropathy
+- breast cancer
+- chemotherapy delivery
+- chemotherapy tolerability
+- exercise
+- treatment response
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Brain assessment methods and outcomes
-- Chemotherapy-induced peripheral neurotoxicity (CIPN) assessment methods and outcomes
-- Exercise assessment methods and outcomes
+- breast cancer assessment methods and outcomes
+- chemotherapy delivery assessment methods and outcomes
+- chemotherapy tolerability assessment methods and outcomes

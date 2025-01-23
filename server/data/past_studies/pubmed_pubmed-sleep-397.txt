@@ -1,27 +1,26 @@
-Study Title: The effect of acupressure and halogen light stimulation on nonstress testing and antenatal anxiety: A randomized controlled trial.
+Study Title: Gefapixant as a P2X3 receptor antagonist treatment for obstructive sleep apnea: a randomized controlled trial.
 
 Study Summary:
-Acupressure and halogen light stimulation, are used to reduce false non-reactive nonstress test results related to fetal sleep. This study was conducted to determine the effect of acupressure and halogen light stimulation on nonstress testing and anxiety during pregnancy. Randomized controlled experimental study. The population of the study consisted of pregnant women who were requested to have a nonstress test. The sample of the study included 132 pregnant women (acupressure group:44; halogen light group:45, and control group:43). The acupressure group was applied acupressure on the Zhiyin acupuncture point three times, the halogen light group was applied halogen light stimulation twice on the fetal head from the mother's abdomen. In the interpretation of the results, the level of statistical significance was taken as P < 0.05. In our study, there was no difference between the acupressure and halogen light groups in terms of the mean number of fetal movements, the number of accelerations, the time to the first acceleration, and the time to reach the reactive result in the nonstress test (P > 0.05), while the mean number of fetal movements and accelerations of these two groups were higher, and the mean time to the first acceleration and the mean time to reach the reactive result in the nonstress test were shorter than those of the control group (P < 0.05). In addition, no statistically significant difference was found between the groups in terms of mean state anxiety inventory scores (P > 0.05). Acupressure and halogen light stimulation increased the rates of reactive nonstress tests.
+Obstructive sleep apnea (OSA) is a highly prevalent disorder with serious health consequences but limited therapeutic options. For a subset of those with OSA, a key underlying mechanism is hypersensitive chemoreflex control of breathing. There is no approved therapy that targets this endotypic trait. Here we determine whether the P2X3 receptor antagonist gefapixant, which is predicted to attenuate hypersensitive carotid chemoreflexes, reduces OSA severity in patients with chemoreflex-dependent OSA. In a randomized placebo-controlled crossover study, 24 patients with moderate-to-severe OSA (aged 39-68 years, non-continuous positive airway pressure users) whose disorder was partially responsive to supplemental oxygen (chemoreflex-dependent OSA) were treated with gefapixant 180 mg (or placebo) administered as tablets taken orally before bedtime for 7 days and assessed via overnight polysomnography. The primary analysis examined whether gefapixant treatment resulted in a greater reduction in the apnea-hypopnea index from baseline than placebo. Gefapixant did not lower the apnea-hypopnea index significantly more than placebo; the estimated ratio of the apnea-hypopnea index on gefapixant vs placebo was 0.92 (90% confidence interval: 0.73, 1.17). Notably, nocturnal hypoxemia was increased (ratio of total sleep time with saturated peripheral oxygen < 90% on gefapixant vs placebo = 2.08 [90% confidence interval: 1.53, 2.82]), consistent with reduced chemoreflex output. Commonly reported adverse events with gefapixant included ageusia, dysgeusia, oral hypoaesthesia, nausea, somnolence, and taste disorders. Gefapixant, while generally well tolerated, did not reduce OSA severity in patients with chemoreflex-dependent OSA. P2X3 receptor antagonism is unlikely to provide an avenue for therapeutic intervention in OSA. Registry: ClinicalTrials.gov; Name: Safety and Tolerability of Gefapixant (MK-7264) in Participants with Obstructive Sleep Apnea (MK-7264-039); URL: https://clinicaltrials.gov/study/NCT03882801; Identifier: NCT03882801. Robbins JA, Sands S, Maganti L, et&#xa0;al. Gefapixant as a P2X3 receptor antagonist treatment for obstructive sleep apnea: a randomized controlled trial.. 2024;20(12):1905-1913.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.explore.2024.103035
+- DOI: 10.5664/jcsm.11272
 
 2. Keywords
-- Acupressure,
-- Anxiety
-- Cardiotocography
-- Halogen light stimulation
-- Nonstress test
-- Pregnancy
+- P2X3 receptor antagonist
+- gefapixant
+- hypersensitive chemoreflex control
+- obstructive sleep apnea
+- ventilatory drive
 
 3. Key Findings
-- In addition, no statistically significant difference was found between the groups in terms of mean state anxiety inventory scores (P > 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Acupressure, assessment methods and outcomes
-- Anxiety assessment methods and outcomes
-- Cardiotocography assessment methods and outcomes
+- P2X3 receptor antagonist assessment methods and outcomes
+- gefapixant assessment methods and outcomes
+- hypersensitive chemoreflex control assessment methods and outcomes

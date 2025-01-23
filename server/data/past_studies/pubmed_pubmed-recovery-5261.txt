@@ -1,20 +1,25 @@
-Study Title: A microbiome-directed therapeutic food for children recovering from severe acute malnutrition.
+Study Title: The efficacy of loco-regional ropivacaine analgesia via intercostal catheters after lung resection: a randomized, double-blind, placebo-controlled, superiority study.
 
 Study Summary:
-Globally, severe acute malnutrition (SAM), defined as a weight-for-length-score more than three SDs below a reference mean (WLZ < -3), affects 14 million children under 5 years of age. Complete anthropometric recovery after standard, short-term interventions is rare, with children often left with moderate acute malnutrition (MAM; WLZ -2 to -3). We conducted a randomized controlled trial (RCT) involving 12- to 18-month-old Bangladeshi children from urban and rural sites, who, after initial hospital-based treatment for SAM, received a 3-month intervention with a microbiome-directed complementary food (MDCF-2) or a calorically more dense, standard ready-to-use supplementary food (RUSF). The rate of WLZ improvement was significantly greater in MDCF-2-treated children (= 8.73 &#xd7; 10), similar to our previous RCT of Bangladeshi children with MAM without antecedent SAM (= 0.032). A correlated meta-analysis of plasma levels of 4520 proteins in both RCTs revealed 215 positively associated with WLZ (largely representing musculoskeletal and central nervous system development) and 44 negatively associated (primarily related to immune activation). Moreover, the positively associated proteins were significantly enriched by MDCF-2 (= 1.1 &#xd7; 10). Characterizing the abundances of 754 bacterial metagenome-assembled genomes in serially collected fecal samples disclosed the effects of acute rehabilitation for SAM on the microbiome and how, during treatment for MAM, specific strains offunction at the intersection between MDCF-2 glycan metabolism and anthropometric recovery. These results provide a rationale for further testing the generalizability of MDCF efficacy and for identifying biomarkers to define treatment responses.
+Postoperative pain remains a burden for patients after minimally invasive anatomic lung resection. Current guidelines recommend the intraoperative placement of intercostal catheters to promote faster recovery. This trial aimed to determine the analgesic efficacy of continuous loco-regional ropivacaine application via intercostal catheter and establish this method as a possible standard of care. Between December 2021 and October 2023, patients were randomly assigned to receive ropivacaine 0.2% or a placebo through an intercostal catheter with a flow rate of 6-8&#x2009;ml/h for 72&#x2009;h after surgery. Patients were undergoing anatomic VATS lung resection under general anaesthesia for confirmed or suspected stage I lung cancer (UICC, 8th edition). The sample size was calculated to assess a difference in numerical rating scale associated with pain reduction of 1.5 points. Fourteen patients were included in the ropivacaine group, whereas the placebo group comprised 18 participants. Patient characteristics and preoperative pain scores were similar in both groups. There was no statistically significant difference in postoperative pain scores and morphine consumption between the 2 groups. The mean numerical rating scale when coughing during the first 24&#x2009;h postoperatively was 4.9 (SD: 2.2) in the ropivacaine group and 4.3 (SD: 2.4); P&#x2009;=&#x2009;0.47 in the placebo group. We were unable to determine any effect of administered ropivacaine on the postoperative pulmonary function (FEV1, PEF). Our preliminary results suggest that continuous loco-regional ropivacaine administration via surgically placed intercostal catheter has no positive effect on postoperative pain scores or morphine requirements. NCT04939545.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1126/scitranslmed.adn2366
+- DOI: 10.1093/ejcts/ezae342
 
 2. Keywords
-
+- Intercostal catheter
+- Minimally invasive lung surgery
+- Regional anaesthesia
+- Video-assisted thoracoscopic surgery
 
 3. Key Findings
-- A correlated meta-analysis of plasma levels of 4520 proteins in both RCTs revealed 215 positively associated with WLZ (largely representing musculoskeletal and central nervous system development) and 44 negatively associated (primarily related to immune activation)
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Intercostal catheter assessment methods and outcomes
+- Minimally invasive lung surgery assessment methods and outcomes
+- Regional anaesthesia assessment methods and outcomes

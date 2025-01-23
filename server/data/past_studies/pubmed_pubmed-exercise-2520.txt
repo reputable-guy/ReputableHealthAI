@@ -1,22 +1,29 @@
-Study Title: Effect of an exercise intervention or combined exercise and diet intervention on health-related quality of life-physical functioning after kidney transplantation: the Active Care after Transplantation (ACT) multicentre randomised controlled trial.
+Study Title: Acute and prolonged effects of Bacillus amyloliquefaciens GF424-derived SOD on antioxidant defense in healthy individuals challenged with intense aerobic exercise.
 
 Study Summary:
-Robust evidence for interventions to improve health-related quality of life (HRQoL) in people who receive a kidney transplant is scarce. We aimed to assess the effects of a lifestyle intervention in this context. We conducted a multicentre, open-label, parallel-group, randomised controlled trial among people who have received a kidney transplant. Participants from six hospitals across the Netherlands were randomly assigned 1:1:1 by an independent company into: usual care, exercise, and exercise plus diet. The exercise intervention encompassed two phases, a 3-month supervised exercise programme (twice weekly) followed by 12&#xa0;months of lifestyle coaching, with 15&#xa0;months of additional dietary counselling (12 sessions) for the exercise plus diet group. The primary outcome was HRQoL-domain physical functioning, assessed using the 36-item Short Form Survey at 15&#xa0;months. From Oct 12, 2010&#xa0;to Nov 18, 2016, 221&#xa0;participants who had received a kidney transplant (138 [62%] male and 83 [38%] female, with a mean age of 52&#xb7;5 [SD 13&#xb7;5] years, who were a median of 5&#xb7;5 [IQR 3&#xb7;6-8&#xb7;4] months post-transplant) were included and randomly assigned to usual care (n=74), exercise intervention (n=77), and exercise plus diet intervention (n=70). In the intention-to-treat analyses, at 15&#xa0;months post-baseline, no significant differences in&#xa0;HRQoL-domain physical functioning were found for the exercise group (5&#xb7;3&#xa0;arbitrary units, 95% CI -4&#xb7;2&#xa0;to 14&#xb7;9; p=0&#xb7;27), and the exercise plus diet group (5&#xb7;9&#xa0;arbitrary units, -4&#xb7;1&#xa0;to 16&#xb7;0; p=0&#xb7;25) compared with control. Safety outcomes showed no safety concerns. After 3&#xa0;months of supervised exercise intervention, HRQoL-domain physical functioning improved in the exercise group (7&#xb7;3&#xa0;arbitrary units, 95% CI 1&#xb7;2&#xa0;to 13&#xb7;3; p=0&#xb7;018) but not in the exercise plus diet group (5&#xb7;8&#xa0;arbitrary units, -0&#xb7;5&#xa0;to 12&#xb7;1; p=0&#xb7;072). A lifestyle intervention is safe and feasible in people who have received kidney transplants, paving the way for lifestyle intervention studies in other multimorbid populations with polypharmacy. However, improving HRQoL for people who have received a kidney transplant is challenging. The lifestyle interventions in the current study did not show significant improvements in HRQoL at the end of the study at the total group level. Dutch Kidney Foundation, Innovation Fund of the Dutch Medical Insurance Companies, and University Medical Center Groningen.
+Reactive oxygen species (ROS) play a vital role in cellular functions but can lead to oxidative stress and contribute to degenerative diseases when produced in excess. Maintaining redox balance is essential and can be achieved through innate defense mechanisms or external antioxidants. Superoxide dismutase (SOD) is a key enzyme that mitigates intracellular oxidative stress by converting harmful free radicals into hydrogen peroxide, which is subsequently neutralized by catalase and glutathione peroxidase. Previous studies have demonstrated the antioxidant capabilities of SOD derived from Bacillus amyloquefaciens GF424 (BA-SOD) in murine models exposed to either irradiation or SOD1 gene deletion. In this study, a randomized clinical trial was conducted to evaluate the antioxidative benefits of BA-SOD in healthy individuals undergoing acute aerobic exercise (AAE). Eighty participants were randomly assigned to receive either BA-SOD or a placebo for 8 weeks. Antioxidant enzyme activities and glutathione levels were measured before, immediately after, and 30&#xa0;min post-exercise. A single dose of BA-SOD significantly reduced ROS levels induced by AAE, primarily by enhancing SOD activity in erythrocytes and activating glutathione peroxidase. Continuous BA-SOD administration was associated with a sustained increase in catalase activity and elevated levels of reduced glutathione (GSH). Transcriptomic and metabolomic analyses revealed that a single BA-SOD dose facilitated GSH oxidation, as evidenced by decreased levels of serine, glutamine, and glycine, and increased pyroglutamate levels. Additionally, repeated dosing led to increased expression of genes encoding isocitrate dehydrogenase and malic enzyme, which are involved in NADPH synthesis, as well as nicotinamide phosphoribosyl transferase and NAD kinase, which are essential for NADP availability-critical for converting oxidized glutathione (GSSG) back to GSH. These molecular insights align with clinical observations, suggesting that both acute and long-term BA-SOD supplementation may effectively enhance antioxidant defenses and maintain redox balance under oxidative stress conditions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.lanhl.2024.07.005
+- DOI: 10.1016/j.freeradbiomed.2024.09.015
 
 2. Keywords
-
+- Aerobic exercise
+- Antioxidant
+- BA-SOD supplementation
+- Glutathione redox balance
+- Oxidative stress
+- Superoxide dismutase
+- Transcriptomic and metabolomic analyses
 
 3. Key Findings
-- In the intention-to-treat analyses, at 15&#xa0;months post-baseline, no significant differences in&#xa0;HRQoL-domain physical functioning were found for the exercise group (5&#xb7;3&#xa0;arbitrary units, 95% CI -4&#xb7;2&#xa0;to 14&#xb7;9; p=0&#xb7;27), and the exercise plus diet group (5&#xb7;9&#xa0;arbitrary units, -4&#xb7;1&#xa0;to 16&#xb7;0; p=0&#xb7;25) compared with control
-- Safety outcomes showed no safety concerns
-- Dutch Kidney Foundation, Innovation Fund of the Dutch Medical Insurance Companies, and University Medical Center Groningen
+- Previous studies have demonstrated the antioxidant capabilities of SOD derived from Bacillus amyloquefaciens GF424 (BA-SOD) in murine models exposed to either irradiation or SOD1 gene deletion
+- Transcriptomic and metabolomic analyses revealed that a single BA-SOD dose facilitated GSH oxidation, as evidenced by decreased levels of serine, glutamine, and glycine, and increased pyroglutamate levels
 
 This study provides insights into:
-- General research methodology and outcomes
+- Aerobic exercise assessment methods and outcomes
+- Antioxidant assessment methods and outcomes
+- BA-SOD supplementation assessment methods and outcomes

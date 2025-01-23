@@ -1,27 +1,25 @@
-Study Title: Efficacy of Dietary Intervention with Group Activities on Dietary Intakes, Frailty Status, and Working Memory: A Cluster-Randomized Controlled Trial in Community Strongholds.
+Study Title: Design and Implementation of a Time-Restricted Eating Intervention in a Randomized, Controlled Eating Study.
 
 Study Summary:
-Geriatric community centers often offer nutrition lectures to older adults. In order to make learning more interesting and pragmatic, we developed group activity sessions. This undertaking was tested for its efficacy in changes of frailty status and several other geriatric health parameters. A cluster-randomized controlled trial was conducted between September 2018 and December 2019 at 13 luncheon-providing community strongholds in Taipei, Taiwan. During the 3-month intervention period, 6 experimental strongholds received a weekly 1 h exercise workout and 1 h nutrition activities aiming at achieving the recommendations of the Taiwanese Daily Food Guide for elderlies; the other 7 received a weekly 1 h exercise workout and 1 h other activities. Dietary intakes and frailty status were the primary outcomes. Secondary outcomes included working memory and depression. The measurements were performed at baseline, 3 months, and 6 months. The nutrition intervention significantly reduced the intake of refined grains and roots (= 0.003) and increased that of non-refined grains and roots (= 0.008), dairy products (< 0.0001), and seeds and nuts (at borderline,= 0.080) at 3 months. Some, but not all, of these changes were maintained at 6 months. Performance improvements included the frailty status score (= 0.036) and forward digit span (= 0.004), a working memory parameter, at 3 months. Only the forward digit span remained improved (= 0.007) at 6 months. The 3-month nutrition group activities combined with exercise sessions improved the frailty status and working memory more than exercise alone. The dietary and frailty improvements were accompanied by improved dietary intakes and advanced behavioral stages. However, the improved frailty status backslid after intervention ceased, suggesting that boosting activities are needed for maintaining the intervention effect.
+The efficacy of time-restricted eating for weight loss has not been established, as prior studies were limited by a lack of controlled isocaloric designs. This study describes the design and implementation of interventions in a controlled eating study evaluating time-restricted eating. We designed a randomized, controlled, parallel-arm eating study comparing time-restricted eating (TRE) to a usual eating pattern (UEP) for the primary outcome of weight change. Participants were aged 21-69 years with prediabetes and obesity. TRE consumed 80% of calories by 1300 h (military time), and UEP consumed &#x2265; 50% of calories after 1700 h (military time). Both arms consumed identical macro- and micro-nutrients based on a healthy, palatable diet. We calculated individual calorie requirements, which were maintained throughout the intervention. The desired distribution of calories across eating windows in both arms was achieved, as were the weekly averages for macronutrients and micronutrients. We actively monitored participants and adapted diets to facilitate adherence. We provide the first report, to our knowledge, on the design and implementation of eating study interventions that isolated the effect of meal timing on weight while maintaining constant caloric intake and identical diets during the study period.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15081976
+- DOI: 10.3390/nu15081978
 
 2. Keywords
-- community strongholds
-- dietary intervention
-- frailty
-- group activities
-- older adults
-- working memory
+- controlled eating study
+- nutrition interventions
+- study design
+- time-restricted eating
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- community strongholds assessment methods and outcomes
-- dietary intervention assessment methods and outcomes
-- frailty assessment methods and outcomes
+- controlled eating study assessment methods and outcomes
+- nutrition interventions assessment methods and outcomes
+- study design assessment methods and outcomes

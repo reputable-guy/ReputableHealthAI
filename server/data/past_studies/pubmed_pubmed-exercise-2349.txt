@@ -1,20 +1,28 @@
-Study Title: Disparities Between Rural and Urban Communities: Response to 18 Months of Diet and Exercise Versus Control for Knee Osteoarthritis and Overweight or Obesity.
+Study Title: Effects of Acute Citrulline Malate Supplementation on CrossFitExercise Performance: A Randomized, Double-Blind, Placebo-Controlled, Cross-Over Study.
 
 Study Summary:
-The study objective was to determine whether the clinical response of older adults with knee osteoarthritis and overweight or obesity to 18 months of diet and exercise (D + E) or attention control (C) interventions differed between participants from rural versus urban communities. Participants were 823 older adults (mean age, 64.6 years; 77% women) with knee osteoarthritis and overweight or obesity who resided in rural (n = 410) and urban (n = 413) counties in North Carolina. All were enrolled in the Weight Loss and Exercise for Communities with Arthritis in North Carolina clinical trial that randomly assigned participants to either 18 months of D + E or C interventions. General linear models were used to examine differences in clinical outcomes between rural and urban groups after adjusting for covariates. The rural group had significant differences (P < 0.05) at baseline in clinical outcomes, education, comorbidities, medication use, and income compared with the urban dwellers. After adjusting for baseline differences, the group (rural or urban) by treatment (D + E or C) interactions for Western Ontario McMasters Universities Osteoarthritis Index (WOMAC) pain (rural: D + E - C = -0.63, 95% confidence interval [CI] -1.31 to 0.06; urban: D + E - C= -0.29, 95% CI -0.99 to 0.41; P = 0.50) and WOMAC function (rural: D + E - C = -4.60, 95% CI -6.89 to -2.31; urban: D + E - C = -1.38, 95% CI -3.73 to 0.94; P = 0.054) indicated that the groups responded similarly to the interventions. Among participants with knee osteoarthritis and overweight or obesity, D + E compared to C led to similar pain outcomes in rural and urban dwellers that favored D + E. The possibility that there may be greater differential efficacy in functional outcomes among rural participants needs further study.
+Given the increasing popularity of CrossFitas a high-intensity functional training program and the potential benefits of citrulline malate (CM) in enhancing exercise performance through its role as a precursor to L-arginine and nitric oxide production, this study aimed to investigate the acute effects of CM supplementation on CrossFitperformance and cardiovascular function. Using a randomized, double-blind, placebo-controlled, cross-over design, 21 recreationally active participants (mean age 22.2 &#xb1; 2.6 years, mean body weight 75.9 &#xb1; 10.4 kg) with CrossFitexperience completed the "Cindy" workout under CM and placebo conditions. Participants consumed 4.4 g of CM or a placebo 60 min before the workout, and the performance was measured by the number of rounds completed. Secondary outcomes included heart rate response, time spent in different heart rate intensity zones, and post-exercise recovery time. The results indicated no significant difference in the number of rounds completed between the CM and placebo conditions (13.5 &#xb1; 5.2 vs. 13.8 &#xb1; 6.7 rounds, respectively;= 0.587). However, the time spent in zone 4 (80-90% of HR max) was significantly increased in the CM condition (527 &#xb1; 395 s vs. 453 &#xb1; 334 s;= 0.017), suggesting a potential benefit for aerobic capacity and anaerobic threshold. No significant differences in post-exercise recovery time were observed (6.6 &#xb1; 4.7 h vs. 6.9 &#xb1; 4.7 h;= 0.475). This study highlights the need for further research with larger sample sizes, both genders, and different CM dosages to clarify these findings and better understand CM's role in enhancing athletic performance.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/acr.25448
+- DOI: 10.3390/nu16193235
 
 2. Keywords
-
+- CrossFit&#xae;
+- cardiovascular function
+- citrulline malate
+- ergogenic aid
+- exercise performance
+- heart rate zones
+- post-exercise recovery
 
 3. Key Findings
-- 054) indicated that the groups responded similarly to the interventions
+- The results indicated no significant difference in the number of rounds completed between the CM and placebo conditions (13
 
 This study provides insights into:
-- General research methodology and outcomes
+- CrossFit&#xae; assessment methods and outcomes
+- cardiovascular function assessment methods and outcomes
+- citrulline malate assessment methods and outcomes

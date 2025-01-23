@@ -1,27 +1,28 @@
-Study Title: Delaying post-exercise carbohydrate intake impairs next-day exercise capacity but not muscle glycogen or molecular responses.
+Study Title: From womb to wellness: early environmental exposures, cord blood DNA methylation and disease origins.
 
 Study Summary:
-To investigate how delayed post-exercise carbohydrate intake affects muscle glycogen, metabolic- and mitochondrial-related molecular responses, and subsequent high-intensity interval exercise (HIIE) capacity. In a double-blind cross-over design, nine recreationally active men performed HIIE (10&#x2009;&#xd7;&#x2009;2-min cycling, ~94% W&#x2d9;) in the fed state, on two occasions. During 0-3&#x2009;h post-HIIE, participants drank either carbohydrates ("Immediate Carbohydrate" [IC], providing 2.4&#x2009;g/kg) or water ("Delayed Carbohydrate" [DC]); total carbohydrate intake over 24 h post-HIIE was matched (~7&#x2009;g/kg/d). Skeletal muscle (sampled pre-HIIE, post-HIIE, +3 h, +8 h, +24&#x2009;h) was analyzed for whole-muscle glycogen and mRNA content, plus signaling proteins in cytoplasmic- and nuclear-enriched fractions. After 24&#x2009;h, participants repeated the HIIE protocol until failure, to test subsequent HIIE capacity; blood lactate, heart rate, and ratings of perceived effort (RPE) were measured throughout. Muscle glycogen concentrations, and relative changes, were similar between conditions throughout (p&#x2009;>&#x2009;0.05). Muscle glycogen was reduced from baseline (mean&#x2009;&#xb1;&#x2009;SD mmol/kg&#x2009;dm; IC: 409&#x2009;&#xb1;&#x2009;166; DC: 352&#x2009;&#xb1;&#x2009;76) at post-HIIE (IC: 253&#x2009;&#xb1;&#x2009;96; DC: 214&#x2009;&#xb1;&#x2009;82), +3&#x2009;h (IC: 276&#x2009;&#xb1;&#x2009;62; DC: 269&#x2009;&#xb1;&#x2009;116) and +&#x2009;8&#x2009;h (IC: 321&#x2009;&#xb1;&#x2009;56; DC: 269&#x2009;&#xb1;&#x2009;116), returning to near-baseline by +24&#x2009;h. Several genes (PGC-1&#x251;, p53) and proteins (p-ACC, p-P38 MAPK) elicited typical exercise-induced changes irrespective of condition. Delaying carbohydrate intake reduced next-day HIIE capacity (5&#x2009;&#xb1;&#x2009;3 intervals) and increased RPE (~2 ratings), despite similar physiological responses between conditions. Molecular responses to HIIE (performed in the fed state) were not enhanced by delayed post-exercise carbohydrate intake. Our findings support immediate post-exercise refueling if the goal is to maximize next-day HIIE capacity and recovery time is &#x2264;24&#x2009;h.
+Fetal exposures can induce epigenetic modifications, particularly DNA methylation, potentially predisposing individuals to later health issues. Cord blood (CB) DNA methylation provides a unique window into the fetal epigenome, reflecting the intrauterine environment's impact. Maternal factors, including nutrition, smoking and toxin exposure, can alter CB DNA methylation patterns, associated with conditions from obesity to neurodevelopmental disorders. These epigenetic changes underscore prenatal exposures' enduring effects on health trajectories. Technical challenges include tissue specificity issues, limited coverage of current methylation arrays and confounding factors like cell composition variability. Emerging technologies, such as single-cell sequencing, promise to overcome some of these limitations. Longitudinal studies are crucial to elucidate exposure-epigenome interactions and develop prevention strategies. Future research should address these challenges, advance public health initiatives to reduce teratogen exposure and consider ethical implications of epigenetic profiling. Progress in CB epigenetics research promises personalized medicine approaches, potentially transforming our understanding of developmental programming and offering novel interventions to promote lifelong health from the earliest stages of life.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/apha.14215
+- DOI: 10.1080/17501911.2024.2390823
 
 2. Keywords
-- carbohydrates
-- exercise
-- mRNA
-- muscle glycogen
-- nutrition
-- signaling
+- DNA methylation
+- DOHaD
+- cord blood
+- disease origin
+- early life
+- environmental exposure
+- epigenome
 
 3. Key Findings
-- Findings extraction requires manual review
+- Technical challenges include tissue specificity issues, limited coverage of current methylation arrays and confounding factors like cell composition variability
 
 This study provides insights into:
-- carbohydrates assessment methods and outcomes
-- exercise assessment methods and outcomes
-- mRNA assessment methods and outcomes
+- DNA methylation assessment methods and outcomes
+- DOHaD assessment methods and outcomes
+- cord blood assessment methods and outcomes

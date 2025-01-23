@@ -1,25 +1,26 @@
-Study Title: Effect of rest duration between sets on fatigue and recovery after short intense plyometric exercise.
+Study Title: Nicotine exacerbates exertional heat strain in trained men: a randomized, placebo-controlled, double-blind study.
 
 Study Summary:
-Plyometric training is characterized by high-intensity exercise which is performed in short term efforts divided into sets. The purpose of the present study was twofold: first, to investigate the effects of three distinct plyometric exercise protocols, each with varying work-to-rest ratios, on muscle fatigue and recovery using an incline-plane training machine; and second, to assess the relationship between changes in lower limb muscle strength and power and the biochemical response to the three exercise variants employed. Forty-five adult males were randomly divided into 3 groups (n&#x2009;=&#x2009;15) performing an exercise of 60 rebounds on an incline-plane training machine. The G0 group performed continuous exercise, while the G45 and G90 groups completed 4 sets of 15 repetitions, each set lasting 45&#xa0;s with 45&#xa0;s rest in G45 (work-to-rest ratio of 1:1) and 90&#xa0;s rest in G90 (1:2 ratio). Changes in muscle torques of knee extensors and flexors, as well as blood lactate (LA) and ammonia levels, were assessed before and every 5&#xa0;min for 30&#xa0;min after completing the workout. The results showed significantly higher (p&#x2009;<&#x2009;0.001) average power across all jumps generated during intermittent compared to continuous exercise. The greatest decrease in knee extensor strength immediately post-exercise was recorded in group G0 and the least in G90. The post-exercise time course of LA changes followed a similar pattern in all groups, while the longer the interval between sets, the faster LA returned to baseline. Intermittent exercise had a more favourable effect on muscle energy metabolism and recovery than continuous exercise, and the work-to-rest ratio of 1:2 in plyometric exercises was sufficient rest time to allow the continuation of exercise in subsequent sets at similar intensity.
+To determine whether using nicotine exacerbates exertional heat strain through an increased metabolic heat production (H) or decreased skin blood flow (SkBF), 10 nicotine-na&#xef;ve trained males [37 &#xb1; 12 yr; peak oxygen consumption (V&#x307;o): 66 &#xb1; 10 mL&#xb7;min&#xb7;kg] completed four trials at 20&#xb0;C and 30&#xb0;C following overnight transdermal nicotine (7 mg&#xb7;24 h) and placebo use in a crossover, double-blind design. They cycled for 60 min (55% V&#x307;o) followed by a time trial (&#x223c;75% V&#x307;o) during which measures of gastrointestinal (T) and mean weighted skin ([Formula: see text]) temperatures, SkBF, H, and mean arterial pressure (MAP) were made. The difference in &#x394;Tbetween nicotine and placebo trials was greater during 30&#xb0;C (0.4 &#xb1; 0.5&#xb0;C) than 20&#xb0;C (0.1 &#xb1; 0.7&#xb0;C), with [Formula: see text]higher during nicotine than placebo trials (0.5 &#xb1; 0.5&#xb0;C,= 0.02). SkBF became progressively lower during nicotine than placebo trials (= 0.01) and progressively higher during 30&#xb0;C than 20&#xb0;C trials (< 0.01); MAP increased from baseline (< 0.01) and remained elevated in all trials. The difference in Hbetween 30&#xb0;C and 20&#xb0;C trials was lower during nicotine than placebo (= 0.01) and became progressively higher during 30&#xb0;C than 20&#xb0;C trials with exercise duration (= 0.03). Mean power output during the time trial was lower during 30&#xb0;C than 20&#xb0;C trials (24 &#xb1; 25 W,= 0.02), and although no effect of nicotine was observed (> 0.59), two participants (20%) were unable to complete their 30&#xb0;C nicotine trials as one reached the ethical limit for T(40.0&#xb0;C), whereas the other withdrew due to "nausea and chills" (T= 39.7&#xb0;C). These results demonstrate that nicotine use increases thermal strain and risk of exertional heat exhaustion by reducing SkBF.In na&#xef;ve participants, acute nicotine use exerts a hyperthermic effect that increases the risk of heat exhaustion during exertional heat strain, which is driven by a blunted skin blood flow response. This has implications for) populations that face exertional heat strain and demonstrate high nicotine use (e.g., athletes and military, 25%-50%) and) study design whereby screening and exclusion for nicotine use or standardization of prior use (e.g., overnight abstinence) is encouraged.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1038/s41598-024-66146-2
+- DOI: 10.1152/japplphysiol.00403.2024
 
 2. Keywords
-- Ammonia
-- Lactate
-- Muscle torques
-- Peak power
+- exercise
+- heat stress
+- metabolic heat production
+- nicotine
+- skin blood flow
 
 3. Key Findings
-- The results showed significantly higher (p&#x2009;<&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Ammonia assessment methods and outcomes
-- Lactate assessment methods and outcomes
-- Muscle torques assessment methods and outcomes
+- exercise assessment methods and outcomes
+- heat stress assessment methods and outcomes
+- metabolic heat production assessment methods and outcomes

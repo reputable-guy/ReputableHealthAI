@@ -1,25 +1,25 @@
-Study Title: Crossover effect of knee and ankle joint training on knee mechanics after ACL reconstruction: A randomized controlled trial.
+Study Title: Acute partial sleep deprivation attenuates blood pressure responses to cycling exercise.
 
 Study Summary:
-Anterior cruciate ligament (ACL) rehabilitation is a common intervention after ACL reconstruction. Since different types of exercise can influence muscle and kinematic parameters in diverse ways, the training order between the knee and ankle joints may also change gait parameters. This study aimed to investigate whether the training sequence of the knee and ankle joints (knee followed by ankle training or vice-versa) in an ACL reconstruction (ACLR) rehabilitation program has any effects on knee extension and flexion torques. Forty-two men (aged 20-30 years) with ACLR participated in this study. They were randomly allocated to receive one of two interventions: (A) knee joint training followed by ankle training or (B) ankle joint training followed by knee training. After five weeks (four weeks of intervention and one-week washout), participants crossed from one group to another for an additional four weeks. Knee extension and flexion torques were assessed during the stance phase of the gait cycle before and after the intervention program. Two-way Mixed-design MANOVA showed that knee extension torque improved significantly in both groups after training (p = 0.001, Cohen's D = 0.65), while the knee flexion torque increased significantly only in group B (p= 0.001, Cohen's D = 0.97). When comparing both groups, patients of group B presented significant improvements in the post-training mean values of all tested variables compared with group A. Starting a post-ACLR rehabilitation program with ankle training followed by knee training is better to improve knee flexion and extension torques during the stance phase of the gait cycle than starting the program by training the knee first, followed by the ankle. Future studies using a mixed-gender sample and different types of ACLR operations are necessary to examine whether similar improvements will happen as well as to test their effects on many sports activities.
+Exaggerated blood pressure (BP) responses during exercise are independently associated with future development of hypertension. Partial sleep deprivation (PSD) can increase 24-h ambulatory BP, but the effects on exercise BP are unclear. We hypothesized that acute PSD would augment the BP response to constant load cycling exercise and a 20-min time trial. Twenty-two healthy adults (22&#x2009;&#xb1;&#x2009;3 yr old; 13 males; V&#x307;o, 43.6&#x2009;&#xb1;&#x2009;8.2 mL&#xb7;kg&#xb7;min) completed a randomized crossover trial in which they either slept normally (normal sleep-wake schedule for each participant) or sleep was partially deprived (early awakening, 40% of normal sleep duration). Each participant completed a 12-min warm-up consisting of two 6-min steps (, 62&#x2009;&#xb1;&#x2009;25 W;, 137&#x2009;&#xb1;&#x2009;60 W) followed by a 20-min time trial on a cycle ergometer. PSD did not alter power output during the 20-min time trial [(control vs. PSD) 170&#x2009;&#xb1;&#x2009;68 vs. 168&#x2009;&#xb1;&#x2009;68 W,= 0.65]. Systolic BP did not differ duringof the warm-up (141&#x2009;&#xb1;&#x2009;15 vs. 137&#x2009;&#xb1;&#x2009;12 mmHg,= 0.39) but was lower following PSD during(165&#x2009;&#xb1;&#x2009;21 vs. 159&#x2009;&#xb1;&#x2009;22 mmHg,= 0.004) and the 20-min time trial (171&#x2009;&#xb1;&#x2009;20 vs. 164&#x2009;&#xb1;&#x2009;23 mmHg,< 0.001). These results were maintained when peak oxygen uptake (V&#x307;o) was included as a covariate. Systolic BP responses were modulated by sex (time &#xd7; visit &#xd7; sex interaction= 0.03), with attenuated systolic BP during the warm-up and the 20-min time trial in males but not in females. In contrast to our hypothesis, acute PSD attenuates systolic BP responses during constant load and 20-min time trial cycling exercise; however, these observations appear to be primarily driven by changes in males.A single night of partial sleep deprivation (PSD) can increase ambulatory blood pressure (BP) the following day. Despite this phenomenon, the present study found that acute PSD attenuates systolic BP responses to both constant load cycling and a 20-min cycling time trial in young healthy adults. Interestingly, the attenuated systolic BP responses following PSD appeared to be modulated by sex such that attenuations were observed in males but not in females.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.gaitpost.2024.08.011
+- DOI: 10.1152/ajpheart.00453.2024
 
 2. Keywords
-- ACL rehabilitation
-- Anterior cruciate ligament reconstruction
-- Gait
-- Kinetics
+- blood pressure
+- exercise
+- partial sleep deprivation
+- sex differences
 
 3. Key Findings
-- Two-way Mixed-design MANOVA showed that knee extension torque improved significantly in both groups after training (p = 0
+- Despite this phenomenon, the present study found that acute PSD attenuates systolic BP responses to both constant load cycling and a 20-min cycling time trial in young healthy adults
 
 This study provides insights into:
-- ACL rehabilitation assessment methods and outcomes
-- Anterior cruciate ligament reconstruction assessment methods and outcomes
-- Gait assessment methods and outcomes
+- blood pressure assessment methods and outcomes
+- exercise assessment methods and outcomes
+- partial sleep deprivation assessment methods and outcomes

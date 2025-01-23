@@ -1,24 +1,26 @@
-Study Title: Stress-related eating in pregnancy? An RCT examining links between prenatal stress and food choices.
+Study Title: Oxytocin-Augmented Modular-Based Group Intervention for Loneliness: A Proof-Of-Concept Randomized Controlled Trial.
 
 Study Summary:
-Diet quality during pregnancy is important for maternal health and offspring development. However, national dietary recommendations are not always met. A potential barrier for healthy food choices might be the experience of stress. Previous literature in non-pregnant populations suggests a negative effect of acute stress on diet quality. This preregistered study is the first to test whether an acute stressor leads to unhealthy food choices in pregnancy and examine the moderating role of stress, depressive and anxiety complaints in daily life. Pregnant women (N = 110, 3rd trimester) completed online self-reported surveys measuring stress, depressive and anxiety complaints in daily life. Hereafter, participants were invited for a laboratory visit, in which they were exposed to the Trier Social Stress Test or a control task. After this manipulation, self-reported and actual food choices and food intake were assessed. At the end of the visit, a hair sample was collected. Throughout the visit, visual analogue scales on negative affect were completed and saliva samples were collected. The stress group experienced significantly more psychological stress than the control group during the experimental manipulation. Main regression analyses showed that the acute laboratory stressor did not cause unhealthy food choices in the third trimester of pregnancy. In fact, the stress group chose fewer unhealthy foods and consumed fewer kilocalories compared to the control group. Additionally, the findings point at a moderating role of depressive and stress complaints in daily life on food choices within the control group: higher scores were related to more unhealthy food choices and more kilocalories consumed. As this was the first study to test the effect of an acute stressor on food choices in pregnant women, more research is needed to obtain a better understanding of stress-related eating in pregnancy. This knowledge may inform future interventions to support pregnant women in improving their diet quality.
+Loneliness poses a significant health problem and existing psychological interventions have shown only limited positive effects on loneliness. Based on preliminary evidence for impaired oxytocin signaling in trait-like loneliness, the current proof-of-concept study used a randomized, double-blind, placebo-controlled design to probe intranasal oxytocin (OT) as an adjunct to a short-term modular-based group intervention for individuals suffering from high trait-like loneliness (HL, UCLA Loneliness Scale &#x2265;55). Seventy-eight healthy HL adults (56 women) received five weekly group psychotherapy sessions. HL participants received OT or placebo before the intervention sessions. Primary outcomes were trait-like loneliness measured at baseline, after the intervention, and again at two follow-up time points (3 weeks and 3 months), and, assessed at each session, state loneliness (visual analog scale), perceived stress (Perceived Stress Scale, PSS-10), quality of life (World Health Organization Five Well-Being Index, WHO-5), and the therapeutic relationship (Group Questionnaire, GQ-D). The psychological intervention was associated with significantly reduced perceived stress and improved trait-like loneliness across treatment groups, which was still evident at the 3-month follow-up. OT had no significant effect on trait-like loneliness, quality of life, or perceived stress. However, compared to placebo, OT significantly facilitated the decrease in state loneliness within sessions and significantly improved positive bonding between the group members. Despite significantly improved trait-like loneliness after the intervention, OT did not significantly augment this effect. Further studies are needed to determine optimal intervention designs to translate the observed acute effects of OT into long-term benefits.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.psyneuen.2024.107073
+- DOI: 10.1159/000538752
 
 2. Keywords
-- Food choice
-- Prenatal stress
-- TSST
+- Intervention
+- Oxytocin
+- Psychotherapy
+- State loneliness
+- Trait-like loneliness
 
 3. Key Findings
-- Main regression analyses showed that the acute laboratory stressor did not cause unhealthy food choices in the third trimester of pregnancy
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Food choice assessment methods and outcomes
-- Prenatal stress assessment methods and outcomes
-- TSST assessment methods and outcomes
+- Intervention assessment methods and outcomes
+- Oxytocin assessment methods and outcomes
+- Psychotherapy assessment methods and outcomes

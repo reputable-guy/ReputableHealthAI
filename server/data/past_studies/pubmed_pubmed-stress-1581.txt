@@ -1,26 +1,36 @@
-Study Title: Revitalising Riboflavin: Unveiling Its Timeless Significance in Human Physiology and Health.
+Study Title: Cognitive-behavioral treatment for insomnia and mindfulness-based stress reduction in nurses with insomnia: a non-inferiority internet delivered randomized controlled trial.
 
 Study Summary:
-Since the early twentieth century, research on vitamins has revealed their therapeutic potential beyond their role as essential micronutrients. Riboflavin, known as vitamin B2, stands out for its unique characteristics. Despite numerous studies, riboflavin remains vital, with implications for human health. Abundantly present in various foods, riboflavin acts as a coenzyme in numerous enzymatic reactions crucial for human metabolism. Its role in energy production, erythrocyte synthesis, and vitamin metabolism underscores its importance in maintaining homeostasis. The impact of riboflavin extends to neurological function, skin health, and cardiovascular well-being, with adequate levels linked to reduced risks of various ailments. However, inadequate intake or physiological stress can lead to deficiency, a condition that poses serious health risks, including severe complications. This underscores the importance of maintaining sufficient levels of riboflavin for general wellness. The essential role of riboflavin in immune function further emphasises its significance for human health and vitality. This paper examines the diverse effects of riboflavin on health and stresses the importance of maintaining sufficient levels for overall well-being.
+Insomnia is a highly prevalent sleep disorder frequently comorbid with mental health conditions in nurses. Despite the effectiveness of evidence-based cognitive behavioral therapy for insomnia (CBT-I), there is a critical need for alternative approaches. This study investigated whether internet-delivered mindfulness-based stress reduction (IMBSR) for insomnia could be an alternative to internet-delivered CBT-I (ICBT-I). The hypothesis was that the IMBSR would be noninferior to the ICBT-I in reducing the severity of insomnia among nurses with insomnia. Additionally, it was expected that ICBT-I would produce a greater reduction in the severity of insomnia and depression than IMBSR. Among 240 screened nurses, 134 with insomnia were randomly allocated (IMBSR,=&#xa0;67; ICBT-I,= 67). The assessment protocol comprised clinical interviews and self-reported outcome measures, including the Insomnia Severity Index (ISI), Patient Health Questionnaire-9 (PHQ-9), the 15-item Five Facet Mindfulness Questionnaire (FFMQ), and the Client Satisfaction Questionnaire (CSQ-I). The retention rate was 55% with 77.6% (&#xa0;=&#xa0;104) of participants completing the study. At post-intervention, the noninferiority analysis of the ISI score showed that the upper limit of the 95% confidence interval was 4.88 (&#xa0;=&#xa0;0.46), surpassing the pre-specified noninferiority margin of 4 points. Analysis of covariance revealed that the ICBT-I group had significantly lower ISI (Cohen's= 1.37) and PHQ-9 (Cohen's= 0.71) scores than did the IMBSR group. In contrast, the IMBSR group showed a statistically significant increase in the FFMQ-15 score (Cohen's d = 0.67). Within-group differences showed that both the IMBSR and ICBT-I were effective at reducing insomnia severity and depression severity and improving mindfulness. Overall, nurses demonstrated high levels of satisfaction and adherence to both interventions. The IMBSR significantly reduced insomnia severity and depression, but the findings of this study do not provide strong evidence that the IMBSR is at least as effective as the ICBT-I in reducing insomnia symptoms among nurses with insomnia. The ICBT-I was found to be significantly superior to the IMBSR in reducing insomnia severity, making it a recommended treatment option for nurses with insomnia.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/foods13142255
+- DOI: 10.7717/peerj.17491
 
 2. Keywords
-- coenzyme
-- human health
-- metabolic function
-- riboflavin
-- therapeutical potential
+- CBT-I
+- COVID-19
+- Digital health
+- Insomnia
+- Internet intervention
+- MBSR
+- Mindfulness
+- Nursing
+- Randomized controlled trial
+- Sleep disorders
 
 3. Key Findings
-- Since the early twentieth century, research on vitamins has revealed their therapeutic potential beyond their role as essential micronutrients
+- At post-intervention, the noninferiority analysis of the ISI score showed that the upper limit of the 95% confidence interval was 4
+- Analysis of covariance revealed that the ICBT-I group had significantly lower ISI (Cohen's= 1
+- In contrast, the IMBSR group showed a statistically significant increase in the FFMQ-15 score (Cohen's d = 0
+- Within-group differences showed that both the IMBSR and ICBT-I were effective at reducing insomnia severity and depression severity and improving mindfulness
+- Overall, nurses demonstrated high levels of satisfaction and adherence to both interventions
+- The ICBT-I was found to be significantly superior to the IMBSR in reducing insomnia severity, making it a recommended treatment option for nurses with insomnia
 
 This study provides insights into:
-- coenzyme assessment methods and outcomes
-- human health assessment methods and outcomes
-- metabolic function assessment methods and outcomes
+- CBT-I assessment methods and outcomes
+- COVID-19 assessment methods and outcomes
+- Digital health assessment methods and outcomes

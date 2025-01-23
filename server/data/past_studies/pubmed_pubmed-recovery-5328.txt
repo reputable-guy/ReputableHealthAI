@@ -1,25 +1,27 @@
-Study Title: Comparison of the efficacy and safety of ciprofol and propofol for ERCP anesthesia in older patients: A single-center randomized controlled clinical study.
+Study Title: Impact of staged goal-directed fluid therapy on postoperative pulmonary complications in patients undergoing McKeown esophagectomy: a randomized controlled trial.
 
 Study Summary:
-Ciprofol is a novel agonist at the gamma-aminobutyric acid-A (GABA) receptor, exhibiting better cardiovascular stability and rapid recovery. The objective of this study was to compare the efficacy and safety of ciprofol and propofol for endoscopic retrograde cholangiopancreatography (ERCP) anesthesia in older patients. A single-center, randomized, parallel controlled clinical study. General Hospital of Northern Theater Command. We recruited 284 patients and intended to conduct ERCP from November 2021 to June 2022. Patients scheduled for ERCP were randomly assigned to two groups (n&#xa0;=&#xa0;142 each): ciprofol group (anesthesia induction 0.3-0.4&#xa0;mg/kg, anesthesia maintenance 0.8-1.2&#xa0;mg/kg/h) and propofol group (anesthesia induction 1.5-2.0&#xa0;mg/kg, anesthesia maintenance 4-12&#xa0;mg/kg/h). The primary outcome was sedation success rate, defined as the proportion of patients with successful anesthesia induction. Secondary outcomes encompassed the time of successful induction, the time of complete recovery, the time of leaving the room and the incidence rate of adverse events (hypoxemia, hypotension and injection pain). The success rate of sedation in both groups was 100&#xa0;%. The 95&#xa0;% CI of the difference of sedation success rate was (- 2.63&#xa0;%, 2.63&#xa0;%), and the lower limit was greater than the non-inferiority limit of -8&#xa0;%.The time of successful sedation induction in ciprofol group (38.4&#xa0;&#xb1;&#xa0;6.5&#xa0;s) was longer than that in propofol group (30.6&#xa0;&#xb1;&#xa0;6.2&#xa0;s, p&#xa0;<&#xa0;0.05).The time of complete recovery in ciprofol group (12.8&#xa0;&#xb1;&#xa0;5.8&#xa0;min) was shorter than that in propofol group (16.9&#xa0;&#xb1;&#xa0;5.0&#xa0;min, p&#xa0;<&#xa0;0.05). The time of leaving the room in ciprofol group (21.8&#xa0;&#xb1;&#xa0;5.8&#xa0;min) was shorter than those in propofol group (25.9&#xa0;&#xb1;&#xa0;5.1&#xa0;min, p&#xa0;<&#xa0;0.05). The incidence of injection pain in ciprofol group (2&#xa0;%) was lower than that in the propofol group (25&#xa0;%, p&#xa0;<&#xa0;0.05). Other outcomes didn't show statistical differences. Compared with propofol, ciprofol exhibited a comparable level of sedation in older patients undergoing ERCP, and recovery was safe and rapid with less injection pain. www.chictr.org.cn (Registration number ChiCTR2100053386, Registration date November 20, 2021).
+Our aim was to evaluate the influence of staged goal directed therapy (GDT) on postoperative pulmonary complications (PPCs), intraoperative hemodynamics and oxygenation in patients undergoing Mckeown esophagectomy. Patients were randomly divided into three groups, staged GDT group (group A, n&#x2009;=&#x2009;56): stroke volume variation (SVV) was set at 8-10% during the one lung ventilation (OLV) stage and 8-12% during the two lung ventilation (TLV) stage, GDT group (group B, n&#x2009;=&#x2009;56): received GDT with a target SVV of 8-12% During the entire surgical procedure, and control group (group C, n&#x2009;=&#x2009;56): conventional fluid therapy was administered by mean arterial pressure (MAP), central venous pressure (CVP), and urine volume. The primary outcome was the incidence of postoperative pulmonary complications within Postoperative days (POD) 7. The secondary outcomes were postoperative lung ultrasound (LUS) B-lines artefacts (BLA) scoring, incidence of other complications, the length of hospital stay, intraoperative hemodynamic and oxygenation indicators included mean arterial pressure (MAP), heart rate (HR), cardiac index (CI), cardiac output (CO), oxygenation index (OI), respiratory indices (RI), alveolar-arterial oxygen difference (Aa-DO). Patients in group A and group B had a lower incidence of PPCs (7/56 vs. 17/56 and 9/56 vs. 17/56, p&#x2009;<&#x2009;0.05), and a fewer B-lines score on postoperative ultrasound (4.61&#x2009;&#xb1;&#x2009;0.51 vs. 6.15&#x2009;&#xb1;&#x2009;0.74 and 4.75&#x2009;&#xb1;&#x2009;0.62 vs. 6.15&#x2009;&#xb1;&#x2009;0.74, p&#x2009;<&#x2009;0.05) compared to group C. The CI, CO, MAP, and OI were higher in group A compared to group B and group C in the stage of thoracic operation. During the abdominal operation stage, patients in group A and group B had a better hemodynamic and oxygenation indicators than group C. In comparison to conventional fluid therapy, intraoperative staged GDT can significantly reduce the incidence of postoperative pulmonary complications in patients undergoing McKeown esophagectomy, facilitating patient recovery. Compared to GDT, it can improve intraoperative oxygenation and stabilize intraoperative hemodynamics in patients. This study was registered in the Chinese Clinical Trial Registry on 24/11/2021 (ChiCTR2100053598).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jclinane.2024.111609
+- DOI: 10.1186/s12871-024-02719-y
 
 2. Keywords
-- Ciprofol
-- Endoscopic retrograde cholangiopancreatography
-- Older patients
-- Propofol
+- Goal-directed therapy
+- Hemodynamic monitoring
+- McKeown esophagectomy
+- Postoperative
+- Pulmonary complications
+- Stroke volume variation
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Ciprofol assessment methods and outcomes
-- Endoscopic retrograde cholangiopancreatography assessment methods and outcomes
-- Older patients assessment methods and outcomes
+- Goal-directed therapy assessment methods and outcomes
+- Hemodynamic monitoring assessment methods and outcomes
+- McKeown esophagectomy assessment methods and outcomes

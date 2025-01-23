@@ -1,30 +1,25 @@
-Study Title: A 3&#x2009;month nutrition and exercise program improved hallux strength among senior daycare center users in Korea: a cluster randomized controlled trial.
+Study Title: Variability of cardiopulmonary exercise testing in patients with atrial fibrillation and determination of exercise responders to high-intensity interval training and moderate-to-vigorous intensity continuous training.
 
 Study Summary:
-With a growing aging population, the focus on the health and well-being of older adults, especially in preventing falls, becomes crucial. This 3&#x2009;month study, initiated in July 2022, aimed to assess the impact of a nutrition and exercise program in senior daycare centers in Chuncheon, South Korea. A 3&#x2009;month study, beginning in July 2022, included 204 older adults from 10 senior daycare centers in Chuncheon, South Korea. Randomly assigned to intervention or control groups, the intervention involved nutrition, daily toe exercises, or both. Control centers received interventions post-measurements. Pre- and post-intervention analyses used paired t-tests and multiple linear regression, assessing metrics like toe grip strength for significance. While 204 were initially enrolled, the analysis included 151 participants due to dropouts. Participants, with a mean age of 83.3&#x2009;years (43.1% aged &#x2265; 85&#x2009;years), exhibited mild to moderate cognitive impairment and multiple chronic illnesses. Health data indicated that 37.3% were obese, and the average BMI was 24.0&#x2009;kg/m. Both the intervention and control groups showed significant improvements in toe grip strength post-intervention. Specifically, the exercise-only and combined exercise-nutrition groups demonstrated significant differences in hallux strength compared to the control group after adjusting for age and gender. The study showed that a basic nutrition and exercise program increased toe strength in older adults with chronic diseases, including mild cognitive impairments. This intervention holds potential to prevent muscle strength decline and reduce fall risks in older individuals. As the first of its kind in Korean senior daycare centers, it emphasizes the need for future research and standardized programs for senior daycare users.
+Disabling atrial fibrillation (AF)-related symptoms and different testing settings may influence day-to-day cardiopulmonary exercise testing (CPET) measurements, which can affect exercise prescription for high-intensity interval training (HIIT) and moderate-to-vigorous intensity continuous training (M-VICT) and their outcomes. This study examined the reliability of CPET in patients with AF and assessed the proportion of participants achieving minimal detectable changes (MDC) in peak oxygen consumption (V&#x307;O) following HIIT and M-VICT. Participants were randomized into HIIT or M-VICT after completing two baseline CPETs: one with cardiac stress technologists (CPET) and the other with a research team of exercise specialists (CPET). Additional CPET was completed following 12 weeks of twice-weekly training. The reliability of CPETand CPETwas assessed by intraclass correlation coefficient (ICC) and dependenttests. The MDC score was calculated for V&#x307;Ousing a reliable change index. The proportion of participants achieving MDC was compared between HIIT and M-VICT using chi-square analysis. Eighteen participants (69&#xa0;&#xb1;&#xa0;7 years, 33% females) completed two baseline CPETs. The ICCs were significant for all measured variables. However, peak power output (PO: 124 &#xb1; 40&#xa0;vs. 148&#xa0;&#xb1;&#xa0;40 watts,&#xa0;<&#xa0;0.001) and HR (HR: 136 &#xb1; 22&#xa0;vs. 148 &#xb1; 30&#xa0;bpm,&#xa0;=&#xa0;0.023) were significantly greater in CPETthan CPET. Few participants achieved MDC in V&#x307;O(5.6&#x2009;mL/kg/min) with no difference between HIIT (0%) and M-VICT (10.0%,&#xa0;=&#xa0;0.244). POand HRdiffered significantly in patients with AF when CPETs were repeated under different settings. Caution must be practised when prescribing exercise intensity based on these measures as under-prescription may increase the number of exercise non-responders.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpubh.2024.1364908
+- DOI: 10.1139/apnm-2024-0060
 
 2. Keywords
-- aged
-- dietary supplements
-- exercise
-- hallux
-- intervention study
-- senior daycare center
+- arrhythmia
+- cardiopulmonary fitness
+- cardiovascular rehabilitation
+- peak oxygen consumption
 
 3. Key Findings
-- Health data indicated that 37
-- Both the intervention and control groups showed significant improvements in toe grip strength post-intervention
-- Specifically, the exercise-only and combined exercise-nutrition groups demonstrated significant differences in hallux strength compared to the control group after adjusting for age and gender
-- The study showed that a basic nutrition and exercise program increased toe strength in older adults with chronic diseases, including mild cognitive impairments
+- Findings extraction requires manual review
 
 This study provides insights into:
-- aged assessment methods and outcomes
-- dietary supplements assessment methods and outcomes
-- exercise assessment methods and outcomes
+- arrhythmia assessment methods and outcomes
+- cardiopulmonary fitness assessment methods and outcomes
+- cardiovascular rehabilitation assessment methods and outcomes

@@ -1,27 +1,27 @@
-Study Title: Aortic valve replacement vs. conservative treatment in asymptomatic severe aortic stenosis: long-term follow-up of the AVATAR trial.
+Study Title: Comparative analysis of biomechanical characteristics between the new Tai Chi elastic band exercise for opening and closing movement and elastic band resistance training for the reverse fly movement.
 
 Study Summary:
-The question of when and how to treat truly asymptomatic patients with severe aortic stenosis (AS) and normal left ventricular (LV) systolic function is still subject to debate and ongoing research. Here, the results of extended follow-up of the AVATAR trial are reported (NCT02436655, ClinicalTrials.gov). The AVATAR trial randomly assigned patients with severe, asymptomatic AS and LV ejection fraction &#x2265; 50% to undergo either early surgical aortic valve replacement (AVR) or conservative treatment with watchful waiting strategy. All patients had negative exercise stress testing. The primary hypothesis was that early AVR will reduce a primary composite endpoint comprising all-cause death, acute myocardial infarction, stroke, or unplanned hospitalization for heart failure (HF), as compared with conservative treatment strategy. A total of 157 low-risk patients (mean age 67 years, 57% men, mean Society of Thoracic Surgeons score 1.7%) were randomly allocated to either the early AVR group (n = 78) or the conservative treatment group (n = 79). In an intention-to-treat analysis, after a median follow-up of 63 months, the primary composite endpoint outcome event occurred in 18/78 patients (23.1%) in the early surgery group and in 37/79 patients (46.8%) in the conservative treatment group [hazard ratio (HR) early surgery vs. conservative treatment 0.42; 95% confidence interval (CI) 0.24-0.73, P = .002]. The Kaplan-Meier estimates for individual endpoints of all-cause death and HF hospitalization were significantly lower in the early surgery compared with the conservative group (HR 0.44; 95% CI 0.23-0.85, P = .012, for all-cause death and HR 0.21; 95% CI 0.06-0.73, P = .007, for HF hospitalizations). The extended follow-up of the AVATAR trial demonstrates better clinical outcomes with early surgical AVR in truly asymptomatic patients with severe AS and normal LV ejection fraction compared with patients treated with conservative management on watchful waiting.
+The objective of this study was to compare and analyze the representative opening and closing movement of Tai Chi elastic band exercise with the reverse fly movement of elastic band resistance training. The aim was to explore the biomechanical differences between the two exercises and provide theoretical support for the application of Tai Chi elastic band exercise in health intervention. A total of 26 male participants were recruited and randomly divided into two groups in a 1:1 ratio. There were 13 participants in each Tai Chi elastic band exercise group and elastic band resistance training group. Both groups of participants used an elastic band to perform movement in the experiment. Experimental data were collected using the Vicon infrared motion capture system and Delsys surface EMG system. The AnyBody software was utilized to simulate the creation of a musculoskeletal model for both exercises. The study found that the Tai Chi elastic band exercise group exhibited smaller horizontal abduction angle and flexion angle of the shoulder joint, as well as normalized RMS of the anterior deltoid and triceps brachii, compared to the elastic band resistance training group (< 0.01); the Tai Chi elastic band exercise group exhibited greater elbow flexion angle, elbow flexion torque, and muscle strength of the infraspinatus, coracobrachialis, biceps brachii, brachialis and brachioradialis, compared to the elastic band resistance training group (< 0.01); the Tai Chi elastic band exercise group exhibited smaller horizontal abduction angular velocity of the shoulder joint and a lower normalized RMS of the posterior deltoid, compared to the elastic band resistance training group (< 0.05). (1) The opening and closing movement of Tai Chi elastic band exercise is characterized by a large elbow flexion angle, a small shoulder joint horizontal angle and flexion angle, and a slow and uniform speed of movement. The reverse fly movement of elastic band resistance training is characterized by a large horizontal abduction angle of the shoulder joint, a large flexion angle of the shoulder joint, a small flexion angle of the elbow joint, and a fast and uneven speed. (2) The opening and closing movement exerts a greater torque on the elbow flexion, while the reverse fly movement exerts a greater torque on the shoulder joint horizontal abduction and external rotation. (3) The opening and closing movement provide greater stimulation to the infraspinatus, coracobrachialis, and elbow flexor, while the reverse fly movement provides greater stimulation to the posterior deltoid, anterior deltoid, subscapularis, and elbow extensor. In summary, the variation in joint angle, joint angular velocity, and hand position could be the factor contributing to the differences in joint torque and muscle activity between the opening and closing movement of Tai Chi elastic band exercise and the reverse fly movement of elastic band resistance training.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/eurheartj/ehae585
+- DOI: 10.7717/peerj.17839
 
 2. Keywords
-- Aortic stenosis
-- Aortic valve surgery
-- Asymptomatic
-- Low-risk
-- Outcomes
-- Treatment
+- AnyBody simulation
+- Elastic band resistance training
+- Joint
+- Muscle
+- Sport health
+- Tai Chi elastic band exercise
 
 3. Key Findings
-- Findings extraction requires manual review
+- The study found that the Tai Chi elastic band exercise group exhibited smaller horizontal abduction angle and flexion angle of the shoulder joint, as well as normalized RMS of the anterior deltoid and triceps brachii, compared to the elastic band resistance training group (< 0
 
 This study provides insights into:
-- Aortic stenosis assessment methods and outcomes
-- Aortic valve surgery assessment methods and outcomes
-- Asymptomatic assessment methods and outcomes
+- AnyBody simulation assessment methods and outcomes
+- Elastic band resistance training assessment methods and outcomes
+- Joint assessment methods and outcomes

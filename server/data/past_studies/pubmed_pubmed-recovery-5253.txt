@@ -1,26 +1,26 @@
-Study Title: Passive Mobilization With Place-and-Hold Versus Active Mobilization Therapy After Flexor Tendon Repair: 5-Year Minimum Follow-Up of a Randomized Controlled Trial.
+Study Title: Real-world study on the application of enhanced recovery after surgery protocol in video-assisted thoracoscopic day surgery for pulmonary nodule resection.
 
 Study Summary:
-There is no consensus on the optimal postoperative rehabilitation program following flexor tendon repair. Some studies suggest a faster recovery after active mobilization, whereas other studies have failed to find any differences between active and passive mobilization at 12 months. To our knowledge, no prior randomized controlled trial has compared the long-term effects of these two approaches. This randomized controlled trial compared the long-term outcomes of active mobilization with those of passive mobilization in combination with place-and-hold. Sixty-four patients with a flexor tendon injury in zones I or II were included in the study. After surgery, patients were randomized to either active mobilization or passive mobilization with place-and-hold. Forty-seven patients were available for the 5-year minimum follow-up. Assessments included range of motion, grip strength, key pinch, as well as the Disabilities of the Arm, Shoulder, and Hand (DASH) and ABILHAND questionnaires. At the 5-year minimum follow-up, range of motion was significantly better in the group treated with passive mobilization with place-and-hold compared with the active mobilization group. Furthermore, there was a significant deterioration in the range of motion and an increased flexion contracture in the active mobilization group compared with 1 year after surgery. Grip strength deteriorated significantly in both groups from the 1-year to the 5-year minimum follow-up, but key pinch did not change. In both groups, DASH and ABILHAND scores improved from the 1-year to the 5-year minimum follow-up. Passive mobilization with place-and-hold following flexor tendon repair results in superior long-term outcomes compared with active mobilization. Therapeutic I.
+This study aims to evaluate the real-world effectiveness of applying different levels of Enhanced Recovery After Surgery (ERAS) guidelines to video-assisted thoracic day surgery (VATS). The goal is to determine the optimal degree of ERAS protocols and management requirements to improve postoperative recovery outcomes. It was designed as a single-centre, prospective pragmatic randomized controlled trial (PRCT), including patients who underwent VATS at the Day Surgery Center of West China Hospital, between January 2021 and November 2022. Patients were divided into Group A and Group B through convenience sampling to implement different levels of ERAS management protocols. Data collection included the baseline characteristics (gender, age, marital status, education level, BMI, PONV risk score, ASA classification), surgery-related indicators (type of surgery, pathological results, hospitalization costs, duration of surgery, intraoperative blood loss, intraoperative rehydration volume), postoperative recovery indicators (postoperative chest tube duration time, time to first postoperative ambulation and urination, postoperative complications, follow-up condition), pain-related indicators (pain threshold score, pain score at 6&#xa0;h postoperatively, bedtime, and predischarge), psychological state indicators (anxiety level), Athens Insomnia Scale (AIS) scores, and social support scores. Propensity score matching (PSM) was utilized and statistical analyses were conducted using R version 4.4.1. Comparisons of categorical variables were performed using the &#x3c7;&#xb2; test, while comparisons of continuous variables were conducted using ANOVA or the Kruskal-Wallis rank-sum test. A significance level of &#x3b1;&#x2009;=&#x2009;0.05 was set for statistical tests. A total of 340 patients were included, with 187 in Group A and 153 in Group B. After propensity score matching (PSM), there were 142 patients in Group A and 105 in Group B, with no significant baseline differences. Group A had a significantly higher proportion of chest tube removals within 24&#xa0;h postoperatively (P&#x2009;<&#x2009;0.001) and earlier mobilization (P&#x2009;<&#x2009;0.001). Despite a higher pain threshold in Group A (P&#x2009;=&#x2009;0.016), their postoperative pain scores were not higher than those in Group B. Additionally, Group A had a lower incidence of postoperative complications. The more comprehensive ERAS protocol significantly improved postoperative recovery, confirming its value in day-case VATS and supporting its clinical adoption. However, the study has limitations; future research should focus on standardizing ERAS protocols and expanding their application to a broader patient population to validate these findings further. This study underwent review by the Ethics Committee of West China Hospital of Sichuan University under No. 2020 (1001). It has been officially registered with the China Clinical Trial Registry, TRN: ChiCTR2100051372 and registration date is Sept. 22, 2021.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jhsa.2024.08.011
+- DOI: 10.1186/s12893-024-02566-1
 
 2. Keywords
-- Early active mobilization
-- flexor tendon repair
-- long-term follow-up
-- passive mobilization
-- zones I and II
+- Day surgery
+- ERAS
+- Real world study
+- VATS
+- Video-assisted thoracoscopic surgery
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Early active mobilization assessment methods and outcomes
-- flexor tendon repair assessment methods and outcomes
-- long-term follow-up assessment methods and outcomes
+- Day surgery assessment methods and outcomes
+- ERAS assessment methods and outcomes
+- Real world study assessment methods and outcomes

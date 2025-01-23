@@ -1,28 +1,27 @@
-Study Title: Effect of high-dosesupplementation on hospitalized adults with COVID-19: a randomized controlled trial.
+Study Title: Effects of intraoperative low-dose esketamine on postoperative pain after vestibular schwannoma resection: A prospective randomized, double-blind, placebo-controlled study.
 
 Study Summary:
-() is a cyanobacterium proven to have anti-inflammatory, antiviral, and antioxidant effects. However, the effect of high-dosesupplementation on hospitalized adults with COVID-19 is currently unclear. This study aimed to evaluate the efficacy and safety of high-dosefor SARS-CoV-2 infection. We conducted a randomized, controlled, open-label trial involving 189 patients with COVID-19 who were randomly assigned in a 1:1 ratio to an experimental group that received 15.2g ofsupplement plus standard treatment (44 non-intensive care unit (non-ICU) and 47 ICU), or to a control group that received standard treatment alone (46 non-ICU and 52 ICU). The study was conducted over six days. Immune mediators were monitored on days 1, 3, 5, and 7. The primary outcome of this study was mortality or hospital discharge within seven days, while the overall discharge or mortality was considered the secondary outcome. Within seven days, there were no deaths in thegroup, while 15 deaths (15.3%) occurred in the control group. Moreover, within seven days, there was a greater number of patients discharged in thegroup (97.7%) in non-ICU compared to the control group (39.1%) (HR, 6.52; 95% CI, 3.50 to 12.17). Overall mortality was higher in the control group (8.7% non-ICU, 28.8% ICU) compared to thegroup (non-ICU HR, 0.13; 95% CI, 0.02 to 0.97; ICU, HR, 0.16; 95% CI, 0.05 to 0.48). In non-ICU, patients who receivedshowed a significant reduction in the levels of IL-6, TNF-&#x3b1;, IL-10, and IP-10 as intervention time increased. Furthermore, in ICU, patients who receivedshowed a significant decrease in the levels of MIP-1&#x3b1; and IL-6. IFN-&#x3b3; levels were significantly higher in the intervention group in both ICU and non-ICU subgroups as intervention time increased. No side effects related tosupplements were observed during the trial. High-dosesupplements coupled with the standard treatment of COVID-19 may improve recovery and remarkably reduce mortality in hospitalized patients with COVID-19. https://irct.ir/trial/54375, Iranian Registry of Clinical Trials number (IRCT20210216050373N1).
+Esketamine may reduce acute postoperative pain in several settings. However, the effects of low-dose esketamine on postoperative pain after vestibular schwannoma (VS) resection with propofol/remifentanil total intravenous anaesthesia (TIVA) are unclear. The aim of this study is to observe the effects of intraoperative low-dose esketamine on postoperative pain after vestibular schwannoma resection. This single-centre, randomized, placebo-controlled, double-blind trial included 90 adults undergoing VS resection via the retrosigmoid approach with TIVA. The patients were randomly allocated to two groups: esketamine or control (n&#x2009;=&#x2009;45 in each group). Patients received low-dose esketamine (0.2 mg/kg) or a similar volume of normal saline after dural closure. The primary outcome was the pain score during movement (gentle head movement) at 24 h postoperatively. Secondary outcomes included recovery time, bispectral index (BIS) values and haemodynamic profiles during the first 30 min after esketamine administration, and adverse effects. Low-dose esketamine did not reduce pain scores at rest (P > .05) or with movement (P > .05) within the first 24 h after surgery. Esketamine moderately increased BIS values for at least 30 min after administration (P < .0001) but did not affect heart rate (P&#x2009;=&#x2009;.992) or mean arterial blood pressure (P&#x2009;=&#x2009;.994). Esketamine prolonged extubation time (P&#x2009;=&#x2009;.042, 95% confidence interval: 0.08 to 4.42) and decreased the effect-site concentration of remifentanil at extubation (P&#x2009;=&#x2009;.001, 95% confidence interval: -0.53 to -0.15) but did not affect the time to resumption of spatial orientation. Postoperative nausea and vomiting rates did not differ between groups, and no hallucinations or excessive sedation was observed. Intraoperative low-dose esketamine did not significantly reduce acute pain after VS resection with propofol/remifentanil TIVA. However, BIS values increased for at least 30&#x2009;min after esketamine administration.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fimmu.2024.1332425
+- DOI: 10.1111/bcp.16081
 
 2. Keywords
-- COVID-19
-- Spirulina platensis
-- hospital discharge
-- immune mediators
-- intensive care unit (ICU) & non-ICU
-- mortality
+- analgesia
+- craniotomy
+- esketamine
+- monitoring
+- postoperative pain
+- vestibular schwannoma
 
 3. Key Findings
-- In non-ICU, patients who receivedshowed a significant reduction in the levels of IL-6, TNF-&#x3b1;, IL-10, and IP-10 as intervention time increased
-- Furthermore, in ICU, patients who receivedshowed a significant decrease in the levels of MIP-1&#x3b1; and IL-6
+- Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 assessment methods and outcomes
-- Spirulina platensis assessment methods and outcomes
-- hospital discharge assessment methods and outcomes
+- analgesia assessment methods and outcomes
+- craniotomy assessment methods and outcomes
+- esketamine assessment methods and outcomes

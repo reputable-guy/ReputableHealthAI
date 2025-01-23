@@ -1,20 +1,30 @@
-Study Title: A novel proprioceptive rehabilitation program: A pilot randomized controlled trail as an approach to address proprioceptive deficits in patients with diabetic polyneuropathy.
+Study Title: Exergames for falls prevention in sheltered homes: a feasibility study.
 
 Study Summary:
-Diabetic polyneuropathy (DPN) is a notable microvascular complication of DM, affecting 16%-66% globally. DPN often leads to proprioceptive deficits in the lower limbs (LL), leading to impaired functional performance. However, evidence supporting proprioceptive rehabilitation programs (PRP) for DPN remains scarce. This pilot study aims to evaluate the effectiveness of a novel 12-week PRP on LL static and dynamic proprioception and shed light on the potential benefits of PRP for DPN population. Randomized Controlled Trail was conducted among 30 DPN patients (age 53.25&#xb1;7.72 years, BMI 24.01&#xb1;1.41 and DM duration 9.48&#xb1;6.45 years), randomly allocated to intervention (n = 15) or control (n = 15) groups. The intervention group received PRP 3 times/week for 12 weeks. The control group received no exercise. Both groups received regular diabetic care. Static and dynamic proprioception of both LL were assessed at baseline, 6 weeks and 12 weeks. Position-reposition test was used to assess ankle joint position sense by obtaining difference between target and reproduced angles. Error in detecting knee angle and speed were obtained by performing Lower Limb Matching and Sense of Movement tests respectively to assess dynamic proprioception. Two-way ANOVA and paired comparisons revealed, no significant improvement in proprioceptive deficits at 6 weeks (p>0.05), but significant improvement was achieved at 12-weeks (p<0.05) in the intervention group. Mean errors in Pposition re-position(R:p<0.001, L;p<0.001) and Lower limb matching (R:p<0.001, L;p<0.001) tests reduced by 5&#xb0; and 10&#xb0; respectively, indicating a70% improvement in the intervention group. Error of detecting speed reduced only on right side by 0.041ms-1 accounting for a 42% improvement. No improvements were observed in the control group. Novel 12-week PRP may yield a significant reduction in LL proprioceptive deficits among DPN patients. Future RCTs with larger samples should compare the effectiveness of this PRP compared with conventional rehabilitation programs.
+Falls prevention is a global priority given its substantial impact on older adults and cost to healthcare systems. Advances in telerehabilitation technology such as `exergaming' show potential for delivering accessible, engaging exercise programs for older adults. This study aimed to establish the feasibility, acceptability and usability of exergaming in sheltered housing. A mixed-methods study with participants randomised in 2 sheltered housing facilities to intervention (&#x2009;=&#x2009;1 home, 12 participants) and control (&#x2009;=&#x2009;1 home 2, 12 participants) provided usual care for all, (physiotherapy prescribed strength and balance exercises and falls prevention advice) and a 6-week supervised exergaming programme (MIRA) offered 3 times per week to the intervention group only. At 6 weeks, feasibility, usability and acceptability outcomes were collected and analysed using descriptive statistics; qualitative focus groups with participants and interviews with staff were also completed and thematically analysed to elicit barriers and facilitators to usability and acceptability. Mean exercise per week increased from 10.6 to 14.1 minutes in the control group and 9.6 to 36.8 minutes in the intervention group. All study processes and measures appeared feasible; 72% of those invited consented to taking part and 92% completed 6-week follow-up. Individual domains for the System Usability Scores (SUS) showed participants felt `very confident' using the system with support (70%), would `like to use exergames frequently' (50%) and found the system `easy to use' (90%). However, they also felt they `needed to learn a lot at the beginning' (40%) and would `need technical support' (70%) for independent use of the exergames. Mean overall SUS was 63 reflecting moderate usability for independent use. Qualitative data indicated exergames were well received and highlighted motivational and social aspects; costs and set up. Staff also felt exergaming complemented traditional care. Our study contributes to the evidence guiding the use of exergames to deliver suitable falls prevention interventions for older adults within sheltered housing in community settings.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0305055
+- DOI: 10.3389/fpubh.2024.1344019
 
 2. Keywords
-
+- active video game
+- exergame
+- fall prevention
+- falls
+- older adults
+- sheltered housing
+- strength and balance
+- telecare
 
 3. Key Findings
-- Two-way ANOVA and paired comparisons revealed, no significant improvement in proprioceptive deficits at 6 weeks (p>0
+- Individual domains for the System Usability Scores (SUS) showed participants felt `very confident' using the system with support (70%), would `like to use exergames frequently' (50%) and found the system `easy to use' (90%)
+- Qualitative data indicated exergames were well received and highlighted motivational and social aspects; costs and set up
 
 This study provides insights into:
-- General research methodology and outcomes
+- active video game assessment methods and outcomes
+- exergame assessment methods and outcomes
+- fall prevention assessment methods and outcomes

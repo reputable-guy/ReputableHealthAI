@@ -1,26 +1,26 @@
-Study Title: The effects of dry needling and face yoga on pain, depression, function, and sleep quality in patients with temporomandibular dysfunction.
+Study Title: Suvorexant alters dynamics of the sleep-electroencephalography-power spectrum and depressive-symptom trajectories during inpatient opioid withdrawal.
 
 Study Summary:
-Temporomandibular joint dysfunction (TMD) poses significant challenges due to its diverse symptoms and impact on patients' daily lives. This study aimed to explore the effectiveness of two innovative interventions, dry needling and face yoga, in managing TMD-related issues such as pain, depression, and sleep quality. Ninety patients with TMD symptoms were enrolled in a prospective randomized controlled trial. The patients were divided into three groups: dry needling, face yoga, and a control group. Various assessments, including Visual Analog Scale for pain, Beck Depression Inventory for depression, and Pittsburgh Sleep Quality Index for sleep quality, were conducted before and 6 weeks after the interventions. A decrease in pain levels and a statistically significant increase in jaw joint movements (mouth opening, protrusive movement, lateral movements) were observed in the dry needling and face yoga groups after treatment (p <0.05). Additionally, improvements in sleep quality were observed (p <0.05). Dry needling and face yoga interventions demonstrated efficacy in managing TMD symptoms, including pain relief and improved jaw movement. The findings suggest that these interventions can be valuable additions to the treatment regimen for patients suffering from TMD-related issues. However, further research is warranted to explore the long-term effects and mechanisms underlying these interventions in TMD management.
+Opioid withdrawal is an aversive experience that often exacerbates depressive symptoms and poor sleep. The aims of the present study were to examine the effects of suvorexant on oscillatory sleep-electroencephalography (EEG) band power during medically managed opioid withdrawal, and to examine their association with withdrawal severity and depressive symptoms. Participants with opioid use disorder (N&#x2005;=&#x2005;38: age-range:21-63, 87% male, 45% white) underwent an 11-day buprenorphine taper, in which they were randomly assigned to suvorexant (20 mg [n&#x2005;=&#x2005;14] or 40 mg [n&#x2005;=&#x2005;12]), or placebo [n&#x2005;=&#x2005;12], while ambulatory sleep-EEG data was collected. Linear mixed-effect models were used to explore: (1) main and interactive effects of drug group, and time on sleep-EEG band power, and (2) associations between sleep-EEG band power change, depressive symptoms, and withdrawal severity. Oscillatory spectral power tended to be greater in the suvorexant groups. Over the course of the study, decreases in delta power were observed in all study groups (&#x3b2;&#x2005;=&#x2005;-189.082, d&#x2005;=&#x2005;-0.522, p&#x2005;=&#x2005;<0.005), increases in beta power (20 mg: &#x3b2;&#x2005;=&#x2005;2.579, d&#x2005;=&#x2005;0.413, p&#x2005;=&#x2005;0.009 | 40 mg &#x3b2;&#x2005;=&#x2005;5.265, d&#x2005;=&#x2005;0.847, p&#x2005;<&#x2005;0.001) alpha power (20 mg: &#x3b2;&#x2005;=&#x2005;158.304, d&#x2005;=&#x2005;0.397, p&#x2005;=&#x2005;0.009 | 40 mg: &#x3b2;&#x2005;=&#x2005;250.212, d&#x2005;=&#x2005;0.601, p&#x2005;=&#x2005;0.001) and sigma power (20 mg: &#x3b2;&#x2005;=&#x2005;48.97, d&#x2005;=&#x2005;0.410, p&#x2005;<&#x2005;0.001 | 40 mg: &#x3b2;&#x2005;=&#x2005;71.54, d&#x2005;=&#x2005;0.568, p&#x2005;<&#x2005;0.001) were observed in the two suvorexant groups. During the four-night taper, decreases in delta power were associated with decreases in depressive symptoms (20 mg: &#x3b2;&#x2005;=&#x2005;190.90, d&#x2005;=&#x2005;0.308, p&#x2005;=&#x2005;0.99 | 40 mg: &#x3b2;&#x2005;=&#x2005;433.33, d&#x2005;=&#x2005;0.889 p&#x2005;=&#x2005;<0.001), and withdrawal severity (20 mg: &#x3b2;&#x2005;=&#x2005;215.55, d&#x2005;=&#x2005;0.034, p&#x2005;=&#x2005;0.006 | 40 mg: &#x3b2;&#x2005;=&#x2005;192.64, d&#x2005;=&#x2005;-0.854, p&#x2005;=&#x2005;<0.001), in both suvorexant groups and increases in sigma power were associated with decreases in withdrawal severity (20 mg: &#x3b2;&#x2005;=&#x2005;-357.84, d&#x2005;=&#x2005;-0.659, p&#x2005;=&#x2005;0.004 | 40 mg: &#x3b2;&#x2005;=&#x2005;-906.35, d&#x2005;=&#x2005;-1.053, p&#x2005;=&#x2005;<0.001). Post-taper decreases in delta (20 mg: &#x3b2;&#x2005;=&#x2005;740.58, d&#x2005;=&#x2005;0.964 p&#x2005;=&#x2005;<0.001 | 40 mg: &#x3b2;&#x2005;=&#x2005;662.23, d&#x2005;=&#x2005;0.882, p&#x2005;=&#x2005;<0.001) and sigma power (20 mg only: &#x3b2;&#x2005;=&#x2005;335.54, d&#x2005;=&#x2005;0.560, p&#x2005;=&#x2005;0.023) were associated with reduced depressive symptoms in the placebo group. Results highlight a complex and nuanced relationship between sleep-EEG power and symptoms of depression and withdrawal. Changes in delta power may represent a mechanism influencing depressive symptoms and withdrawal.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.explore.2024.01.006
+- DOI: 10.1093/sleep/zsae025
 
 2. Keywords
-- Bruxism
-- Chronic pain
-- Dry needling
-- Temporomandibular joint disorders
-- Yoga
+- depression
+- power spectrum
+- sleep-EEG
+- suvorexant
+- withdrawal
 
 3. Key Findings
-- Dry needling and face yoga interventions demonstrated efficacy in managing TMD symptoms, including pain relief and improved jaw movement
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Bruxism assessment methods and outcomes
-- Chronic pain assessment methods and outcomes
-- Dry needling assessment methods and outcomes
+- depression assessment methods and outcomes
+- power spectrum assessment methods and outcomes
+- sleep-EEG assessment methods and outcomes

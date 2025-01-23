@@ -1,7 +1,7 @@
-Study Title: Effect of Upper Limb Repetitive Facilitative Exercise on Gait of Stroke Patients based on Artificial Intelligence and Computer Vision Evaluation.
+Study Title: [Efficacy of transdermal lidocaine 5% patches in postoperative analgesia following knee arthroscopy].
 
 Study Summary:
-This study aims to assess how enhancing upper limb function on the affected side of stroke influences the gait of the lower limb. Forty eligible stroke patients were randomly assigned to either a control group or a treatment group, with 20 patients in each group. Both groups underwent dynamic evaluation using artificial intelligence and computer vision before treatment. This evaluation focused on analyzing the range of motion of the shoulder and elbow during the gait cycle, as well as various gait parameters (such as step length, step speed, and percentage of stance phase) on the affected side. Following evaluation, the control group received routine rehabilitation treatment. The results indicated that there was no significant difference between the two groups before treatment. However, following treatment, there was a notable improvement in the motion of the shoulder and elbow joints on the affected side among patients in the treatment group (p<0.05), whereas the control group showed only slight improvement, which was not statistically significant (p>0.05). The improvement in upper limb function on the affected side also appears to positively influence gait recovery. However, it's important to note that the observation period was relatively short. Further studies are needed to confirm whether this effect is sustained over the long term.
+knee arthroscopy is a common orthopedic procedure associated with postoperative pain, so optimizing pain management is essential for patient recovery and satisfaction. Lidocaine, a local anesthetic with well-established safety profiles, offers a potential alternative to traditional analgesic methods. Research regarding lidocaine patches has been conducted in several types of surgeries (laparoscopy, gynecological surgery, prostatectomy, etc.) showing promising results for some. This study investigates the effectiveness of transdermal lidocaine 5% patches as a novel approach to postoperative analgesia after knee arthroscopy. a randomized, single-blind, placebo-controlled trial was conducted with participants undergoing knee arthroscopy. Patients were divided into two groups: one receiving transdermal lidocaine 5% patches and the other a placebo, both along traditional postoperative pain management, and using opioid only in cases with moderate-severe pain. Pain scores, opioid consumption, and patient-reported outcomes were assessed at various postoperative intervals. there was a significant reduction in pain scores and opioid consumption in the lidocaine patch group compared to the placebo group. transdermal lidocaine 5% patches emerge as a promising adjunct to postoperative pain management in knee arthroscopy patients. Their ease of application, minimal side effects, and opioid-sparing effects contribute to a multifaceted analgesic approach. This study underscores the potential of transdermal lidocaine patches in enhancing the overall postoperative experience for knee arthroscopy patients, advocating for their consideration in clinical practice.
 
 Methodology:
 
@@ -11,17 +11,16 @@ Methodology:
 
 
 2. Keywords
-- Artificial Intelligence
-- Computer Vision
-- Gait
-- Repetitive Facilitative Exercise
-- Stroke
+- knee arthroscopy
+- lidocaine patch
+- multimodal analgesia
+- opioid sparing
+- transdermal lidocaine
 
 3. Key Findings
-- The results indicated that there was no significant difference between the two groups before treatment
-- 05), whereas the control group showed only slight improvement, which was not statistically significant (p>0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Artificial Intelligence assessment methods and outcomes
-- Computer Vision assessment methods and outcomes
-- Gait assessment methods and outcomes
+- knee arthroscopy assessment methods and outcomes
+- lidocaine patch assessment methods and outcomes
+- multimodal analgesia assessment methods and outcomes

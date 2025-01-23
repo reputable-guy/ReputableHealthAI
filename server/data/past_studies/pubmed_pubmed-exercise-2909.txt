@@ -1,26 +1,26 @@
-Study Title: HIIT at Home: Enhancing Cardiorespiratory Fitness in Older Adults-A Randomized Controlled Trial.
+Study Title: Effects of Physical Activity on Blood Lipids and Hemoglobin A1c in Healthy Pregnant Women: The FitMum Randomized Controlled Trial.
 
 Study Summary:
-This study aimed to investigate the effectiveness of a 6-month home-based high-intensity interval training (HIIT) intervention to improve peak oxygen consumption (V&#x307;Opeak) and lactate threshold (LT) in older adults. Two hundred thirty-three healthy older adults (60-84&#x2009;years; 54% females) were randomly assigned to either 6-month, thrice-weekly home-based HIIT (once-weekly circuit training and twice-weekly interval training) or a passive control group. Exercise sessions were monitored using a Polar watch and a logbook for objective and subjective data, respectively, and guided by a personal coach. The outcomes were assessed using a modified Balke protocol combining V&#x307;Opeak and LT measures. General linear regression models assessed between-group differences in change and within-group changes for each outcome. There was a significant between-group difference in the pre-to-post change in V&#x307;Opeak (difference: 1.8 [1.2; 2.3] mL/kg/min; exercise: +1.4 [1.0; 1.7] mL/kg/min [~5%]; control: -0.4 [-0.8; -0.0] mL/kg/min [approximately -1.5%]; effect size [ES]: 0.35). Compared with controls, the exercise group had lower blood lactate concentration (-0.7 [-0.9; -0.4] mmol/L, ES: 0.61), % of peak heart rate (-4.4 [-5.7; -3.0], ES: 0.64), and % of V&#x307;Opeak (-4.5 [-6.1; -2.9], ES: 0.60) at the intensity corresponding to preintervention LT and achieved a higher treadmill stage (% incline) at LT (0.6 [0.3; 0.8]; ES: 0.47), following the intervention. This study highlights the effectiveness of a home-based HIIT intervention as an accessible and equipment-minimal strategy to induce clinically meaningful improvements in cardiorespiratory fitness in older adults. Over 6&#x2009;months, the exercise group showed larger improvements in all outcomes compared with the control group. Notably, the LT outcome exhibited a more pronounced magnitude of change than V&#x307;Opeak.
+Maternal blood lipid and glucose concentrations during pregnancy affect fetal growth and the risk of pregnancy and delivery complications. We aimed to investigate the effects of physical activity (PA) during pregnancy on maternal blood lipid and hemoglobin A1c (HbA1c) concentrations. We hypothesized that higher PA was associated with improved lipid profile and glycemic control. In a secondary analysis of a randomized controlled trial, we included 216 pregnant women before week 15&#xa0;+&#xa0;0 and tested the effects of two different PA interventions throughout pregnancy compared to standard care on maternal blood lipid and HbA1c concentrations. Additionally, we investigated the effect of PA per se measured by an activity tracker. Total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), triglyceride, and HbA1c concentrations were measured at week &#x2264;15&#xa0;+&#xa0;0, 28+0-6, 34+0-6, and at delivery (week 32&#xa0;+&#xa0;1 to 42&#xa0;+&#xa0;0). Effects of the interventions and PA per se were tested using linear mixed effects models and linear regression analyses, respectively. No effects of the PA interventions were detected on maternal lipids or HbA1c during pregnancy. In PA per se analyses, more minutes per week of moderate-to-vigorous intensity PA were associated with less increase in TC (-1.3E-04, P&#xa0;=&#xa0;.020) and LDL-C (-8.5E-05, P&#xa0;=&#xa0;.035) as pregnancy progresses. More active kilocalories were associated with less increase in TC (-5.5E-05, P&#xa0;<&#xa0;.001), HDL-C (-9.5E-06, P&#xa0;=&#xa0;.024), and LDL-C (-3.2E-05, P&#xa0;=&#xa0;.005). Whilst there were no effects of offering PA interventions, higher PA was associated with reduced increases in TC, HDL-C, and LDL-C as pregnancy progressed.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/sms.14694
+- DOI: 10.1016/j.eprac.2024.07.002
 
 2. Keywords
-- V&#x307;O2peak
-- adherence
-- home&#x2010;based
-- lactate threshold
-- public health
+- Maternal exercise interventions
+- blood glucose
+- blood lipids
+- physical activity
+- pregnancy
 
 3. Key Findings
-- Over 6&#x2009;months, the exercise group showed larger improvements in all outcomes compared with the control group
+- Findings extraction requires manual review
 
 This study provides insights into:
-- V&#x307;O2peak assessment methods and outcomes
-- adherence assessment methods and outcomes
-- home&#x2010;based assessment methods and outcomes
+- Maternal exercise interventions assessment methods and outcomes
+- blood glucose assessment methods and outcomes
+- blood lipids assessment methods and outcomes

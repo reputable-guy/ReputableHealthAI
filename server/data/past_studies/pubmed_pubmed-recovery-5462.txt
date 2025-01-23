@@ -1,26 +1,25 @@
-Study Title: Risk factors of textbook outcome in laparoscopic pancreatoduodenectomy: results from a prospective high-volume center study.
+Study Title: Nutritional support in hospitalised patients with diabetes and risk for malnutrition: a secondary analysis of an investigator-initiated, Swiss, randomised controlled multicentre trial.
 
 Study Summary:
-Achieving textbook outcome (TO) implies a smooth recovery post-operation without specified composite complications. This study aimed to evaluate TO in laparoscopic pancreaticoduodenectomy (LPD) and identify independent risk factors associated with achieving TO. We conducted a retrospective analysis of data from a randomized controlled trial on LPD at West China Hospital (ChiCTR1900026653). Patients were categorized into the TO and non-TO groups. Perioperative variables were compared between these groups. Multivariate logistic regression was utilized to identify the risk factors. A total of 200 consecutive patients undergoing LPD were included in this study. TO was achieved in 82.5% (n&#x2009;=&#x2009;165) of the patients. Female patients (OR: 2.877, 95% CI: 1.219-6.790; P&#x2009;=&#x2009;0.016) and those with a hard pancreatic texture (OR: 2.435, 95% CI: 1.018-5.827; P&#x2009;=&#x2009;0.046) were associated with an increased likelihood of achieving TO. TO can be achieved in more than 80% of patients in a high-volume LPD center. Independent risk factors associated with achieving TO included gender (male) and pancreatic texture (soft).
+The main objective of this study was to investigate the effects of nutritional support on mortality in hospitalised patients with diabetes and nutritional risk participating in the(EFFORT) trial. Secondary analysis of a Swiss-wide multicentre, randomised controlled trial. Patients with diabetes and risk for malnutrition. Individualised nutritional support versus usual care. 30-day all-cause mortality. Of the 2028 patients included in the original trial, 445 patients were diagnosed with diabetes and included in this analysis. In terms of efficacy of nutritional therapy, there was a 25% lower risk for mortality in patients with diabetes receiving nutritional support compared with controls (7% vs 10%, adjusted HR 0.75 (95% CI 0.39 to 1.43)), a finding that was not statistically significant but similar to the overall trial effects with no evidence of interaction (p=0.92). Regarding safety of nutritional therapy, there was no increase in diabetes-specific complications associated with nutritional support, particularly there was no increase in risk for hyperglycaemia (adjusted OR 0.97, 95% CI 0.56 to 1.67 p=0.90). Patients with diabetes and malnutrition in the hospital setting have a particularly high risk for adverse outcomes and mortality. Individualised nutritional support reduced mortality in this secondary analysis of a randomized trial, but this effect was not significant calling for further large-scale trials in this vhighly ulnerable patient population. NCT02517476.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12893-024-02529-6
+- DOI: 10.1136/bmjopen-2024-084754
 
 2. Keywords
-- Complications
-- High-volume center
-- Laparoscopic pancreaticoduodenectomy
-- Risk factors
-- Textbook Outcome
+- DIABETES & ENDOCRINOLOGY
+- NUTRITION & DIETETICS
+- Nutritional support
+- Randomized Controlled Trial
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Complications assessment methods and outcomes
-- High-volume center assessment methods and outcomes
-- Laparoscopic pancreaticoduodenectomy assessment methods and outcomes
+- DIABETES & ENDOCRINOLOGY assessment methods and outcomes
+- NUTRITION & DIETETICS assessment methods and outcomes
+- Nutritional support assessment methods and outcomes

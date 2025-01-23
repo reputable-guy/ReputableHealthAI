@@ -1,28 +1,28 @@
-Study Title: Changes in health-related quality of life and sleep habits after a 6-month non-randomised cluster-controlled trial among children with overweight or obesity.
+Study Title: Effects of periodic breathing on sleep at high altitude: a randomized, placebo-controlled, crossover study using inspiratory CO.
 
 Study Summary:
-Being overweight or obese can have severe negative psychological impacts and reduce health-related functioning. To improve health-related quality of life (HRQoL) and sleep habits for children with overweight or obesity, it is important to design and implement effective interventions. The aim of this study was to evaluate the effects of a 6-month family-based lifestyle intervention on HRQoL and sleep habits in Norwegian children with overweight or obesity in a primary-care setting. This 6-month, non-randomised, cluster-controlled trial included Norwegian children aged 5-13&#xa0;years with overweight or obesity and their parents. A questionnaire was filled out by the parents. A total of 33 and 52 children in the control group and 41 and 78 children in the intervention group answered the HRQoL and sleep habits questions, respectively, and were included. The intervention group received individual family counselling and participated in physical activity groups and nutrition courses. The Children's Sleep Habits Questionnaire (CSHQ) and Kidscreen-10 index were used to assess sleep habits and HRQoL. At baseline, the mean average scores for HRQoL were 50.0 [standard deviation (SD) 8.1] for the intervention group and 49.0 (SD 10.1) for the control group. For sleep habits at baseline, the mean average scores were 45.2 (SD 11.8) for the intervention group and 46.0 (SD 11.9) for the control group. No significant changes in HRQoL and sleep habits after the intervention were revealed. Overall, the family-based lifestyle intervention targeting overweight and obese children in a primary-care setting showed no significant effect on HRQoL or sleep quality.
+Hypoxia at high altitude facilitates changes in ventilatory control that can lead to nocturnal periodic breathing (nPB). Here, we introduce a placebo-controlled approach to prevent nPB by increasing inspiratory COand used it to assess whether nPB contributes to the adverse effects of hypoxia on sleep architecture. In a randomized, single-blinded, crossover design, 12 men underwent two sojourns (three days/nights each, separated by 4&#xa0;weeks) in hypobaric hypoxia corresponding to 4000&#xa0;m altitude, with polysomnography during the first and third night of each sojourn. During all nights, subjects' heads were encompassed by a canopy retaining exhaled CO, and COconcentration in the canopy (i.e. inspiratory COconcentration) was controlled by adjustment of fresh air inflow. Throughout the placebo sojourn inspiratory COwas &#x2264;0.2%, whereas throughout the other sojourn it was increased to 1.76% (IQR, 1.07%-2.44%). During the placebo sojourn, total sleep time (TST) with nPB was 54.3% (37.4%-80.8%) and 45.0% (24.5%-56.5%) during the first and the third night, respectively (P&#xa0;=&#xa0;0.042). Increased inspiratory COreduced TST with nPB by an absolute 38.1% (28.1%-48.1%), the apnoea-hypopnoea index by 58.1/h (40.1-76.1/h), and oxygen desaturation index &#x2265;3% by 56.0/h (38.9.1-73.2/h) (all P&#xa0;<&#xa0;0.001), whereas it increased the mean arterial oxygen saturation in TST by 2.0% (0.4%-3.5%, P&#xa0;=&#xa0;0.035). Increased inspiratory COslightly increased the percentage of N3&#xa0;sleep during the third night (P&#xa0;=&#xa0;0.045), without other effects on sleep architecture. Increasing inspiratory COeffectively prevented hypoxia-induced nPB without affecting sleep macro-architecture, indicating that nPB does not explain the sleep deterioration commonly observed at high altitudes. KEY POINTS: Periodic breathing is common during sleep at high altitude, and it is unclear how this affects sleep architecture. We developed a placebo-controlled approach to prevent nocturnal periodic breathing (nPB) with inspiratory COadministration and used it to assess the effects of nPB on sleep in hypobaric hypoxia. Nocturnal periodic breathing was effectively mitigated by an increased inspiratory COfraction in a blinded manner. Prevention of nPB did not lead to relevant changes in sleep architecture in hypobaric hypoxia. We conclude that nPB does not explain the deterioration in sleep architecture commonly observed at high altitude.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00787-024-02375-0
+- DOI: 10.1113/JP285397
 
 2. Keywords
-- Children
-- Family-based intervention
-- Obesity
-- Overweight
-- Quality of life
-- Sleep
+- Cheyne&#x2010;Stokes
+- acclimatization
+- carbon dioxide
+- hypobaric
+- hypoxia
+- placebo
+- polysomnography
 
 3. Key Findings
-- No significant changes in HRQoL and sleep habits after the intervention were revealed
-- Overall, the family-based lifestyle intervention targeting overweight and obese children in a primary-care setting showed no significant effect on HRQoL or sleep quality
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Children assessment methods and outcomes
-- Family-based intervention assessment methods and outcomes
-- Obesity assessment methods and outcomes
+- Cheyne&#x2010;Stokes assessment methods and outcomes
+- acclimatization assessment methods and outcomes
+- carbon dioxide assessment methods and outcomes

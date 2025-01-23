@@ -1,20 +1,30 @@
-Study Title: Acute cardiovascular responses of postmenopausal women to resistance training sessions differing in set configuration: A study protocol for a crossover trial.
+Study Title: A Multiomics Evaluation of the Countermeasure Influence of 4-Week Cranberry Beverage Supplementation on Exercise-Induced Changes in Innate Immunity.
 
 Study Summary:
-Resistance training is hardly recommended for postmenopausal women to counteract negative effects of hormonal changes. However, some concern exists about the marked hemodynamic responses caused by high-load resistance exercises. In this regard, studies on young, healthy, physically active individuals suggest that set configuration can modulate acute cardiovascular, metabolic, and cardiac autonomic responses caused by resistance training sessions, but this has not yet been explored in postmenopausal women. A sample of 60 physically active postmenopausal women (30 normotensive, 30 hypertensive) will participate in this crossover study. After a medical exam, ergometry, familiarization session, and two testing sessions, participants will complete three experimental sessions and one control session in a randomized order. Each experimental session includes 36 repetitions of four exercises (horizontal leg press, bench press, prone leg curl, and lat pull-down) differing in set configuration: 9 sets of 4 repetitions (i.e., 33% intensity of effort) with 45 s of inter-set recovery, 6 sets of 6 repetitions (50% intensity of effort) with 72 s, and 4 sets of 9 repetitions (75% intensity of effort) with 120 s; with 4 min rest between exercises. Before and immediately after each session, arterial stiffness, hemodynamic variables, cardiac autonomic modulation, baroreflex sensitivity, sympathetic vasomotor tone, and resting oxygen uptake will be evaluated. Furthermore, perceived effort, mechanical performance (e.g., power, velocity), heart rate, and lactatemia will be collected throughout sessions. The impact of set configuration on these variables will be analyzed, along with comparisons between normotensive and hypertensive women. Cardiovascular responses to resistance exercise have been scarcely studied in females, particularly postmenopausal women. The results of this study will provide information about the modulating role of set structure on metabolic and cardiovascular responses of normotensive and hypertensive postmenopausal women to resistance training. NCT05544357 on 7 December 2022.
+This study examined the effect of a 4-week unsweetened cranberry beverage (CRAN) (317 mg polyphenols) versus placebo beverage (PLAC) ingestion (240 mL/day) on moderating exercise-induced changes in innate immunity. Participants included 25 male and female non-elite cyclists. A randomized, placebo-controlled, double-blind crossover design was used with two 4-week supplementation periods and a 2-week washout period. Supplementation periods were followed by an intensive 2.25 h cycling bout. Six blood samples were collected before and after supplementation (in an overnight fasted state) and at 0 h, 1.5 h, 3 h, and 24 h post-exercise. Stool and urine samples were collected pre- and post-supplementation. Outcome measures included serum creatine kinase, myoglobin, and cortisol, complete blood counts, plasma untargeted proteomics, plasma-targeted oxylipins, untargeted urine metabolomics, and stool microbiome composition via whole genome shotgun (WGS) sequencing. Urine CRAN-linked metabolites increased significantly after supplementation, but no trial differences in alpha or beta microbiota diversity were found in the stool samples. The 2.25 h cycling bout caused significant increases in plasma arachidonic acid (ARA) and 53 oxylipins (FDR q-value < 0.05). The patterns of increase for ARA, four oxylipins generated from ARA-cytochrome P-450 (CYP) (5,6-, 8,9-, 11,12-, and 14,15-diHETrEs), two oxylipins from linoleic acid (LA) and CYP (9,10-DiHOME, 12,13-DiHOME), and two oxylipins generated from LA and lipoxygenase (LOX) (9-HODE, 13-HODE) were slightly but significantly higher for the CRAN versus PLAC trial (all interaction effects,< 0.05). The untargeted proteomics analysis showed that two protein clusters differed significantly between the CRAN and PLAC trials, with CRAN-related elevations in proteins related to innate immune activation and reduced levels of proteins related to the regulation of the complement cascade, platelet activation, and binding and uptake of ligands by scavenger receptors. No trial differences were found for cortisol and muscle damage biomarkers. CRAN versus PLAC juice resulted in a significant increase in CRAN-related metabolites but no differences in the gut microbiome. CRAN supplementation was associated with a transient and modest but significant post-exercise elevation in selected oxylipins and proteins associated with the innate immune system.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0311524
+- DOI: 10.3390/nu16193250
 
 2. Keywords
-
+- cranberry
+- exercise
+- gut microbiome
+- immunity
+- metabolomics
+- oxylipins
+- proteomics
 
 3. Key Findings
-- Findings extraction requires manual review
+- Urine CRAN-linked metabolites increased significantly after supplementation, but no trial differences in alpha or beta microbiota diversity were found in the stool samples
+- The untargeted proteomics analysis showed that two protein clusters differed significantly between the CRAN and PLAC trials, with CRAN-related elevations in proteins related to innate immune activation and reduced levels of proteins related to the regulation of the complement cascade, platelet activation, and binding and uptake of ligands by scavenger receptors
+- No trial differences were found for cortisol and muscle damage biomarkers
 
 This study provides insights into:
-- General research methodology and outcomes
+- cranberry assessment methods and outcomes
+- exercise assessment methods and outcomes
+- gut microbiome assessment methods and outcomes

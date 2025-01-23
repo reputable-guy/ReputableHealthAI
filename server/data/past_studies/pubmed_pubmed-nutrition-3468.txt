@@ -1,20 +1,27 @@
-Study Title: Sugar tax and product reformulation proposals reduce the perceived legitimacy of health-promotion institutions: a randomized population-based survey experiment.
+Study Title: Nutrition self-efficacy intervention to improve nutritional status of Iranian older adults.
 
 Study Summary:
-Structural nutrition interventions like a sugar tax or a product reformulation are strongly supported among the public health community but may cause a considerable backlash (e.g. inspiring aversion to institutions initiating the interventions among citizens). Such a backlash potentially undermines future health-promotion strategies. This study aims to uncover whether such backlash exists. We fielded a pre-registered randomized, population-based survey experiment among adults from the Longitudinal Internet Studies for the Social Sciences panel (n&#x2009;=&#x2009;1765; based on a random sampling of the Dutch population register). Participants were randomly allocated to the control condition (brief facts about health-information provision/nudging), or one of two experimental groups (the same facts, expanded with either a proposed sugar tax on or reformulation of sugar-sweetened beverages). Ordinary least squares regression was used to estimate the proposed interventions' effects on four outcome variables: trust in health-promotion institutions involved; perceptions that these institutions have citizens' well-being in mind (i.e. benevolence); perceptions that these institutions' perspectives are similar to those of citizens (i.e. alignment of perspectives); and attitudes toward nutrition information. Trust, perceived benevolence and perceived alignment of perspectives were affected negatively by a proposed sugar tax (-0.24, 95% CI -0.38 to -0.10; -0.15, -0.29 to -0.01; -0.15, -0.30 to 0.00) or product reformulation (-0.32, -0.46 to -0.18; -0.24, -0.37 to -0.11; -0.18, 0.33 to -0.03), particularly among the non-tertiary educated respondents. Sugar taxes or product reformulations may delegitimize health-promotion institutions, potentially causing public distancing from or opposition to these bodies. This may be exploited by political and commercial parties to undermine official institutions. https://osf.io/qr9jy/?view_only=5e2e875a1fc348f3b28115b7a3fdfd90. Registered 3 February 2022.
+Older adults are a vulnerable group that is at risk of poor nutritional status, which can lead to disease and increase their healthcare costs. Our study aimed to investigate the impact of a self-efficacy intervention on the nutritional status of older adults. A controlled before and after study was conducted on 110 older adults in the Mashhad, Iran, from 2020 to 2022. Participants were randomly allocated to the intervention (n&#x2009;=&#x2009;55) and control groups (n&#x2009;=&#x2009;55). Participants in the intervention group received educational training that was based on the self-efficacy theory. The control group received the routine care. Data collection tools included demographic information questionnaire, Mini Nutritional Assessment Questionnaire, and standard self-efficacy questionnaire. The questionnaires were completed at baseline (before intervention), instantly after the intervention, and at 3-months follow-up by participants in both groups. Data were analyzed using SPSS version 25 and the significance level was considered less than 0.05. The Mean of nutritional status in the intervention group, at the baseline, immediately after intervention and 3 months of follow-up were 25.1&#x2009;&#xb1;&#x2009;2.3, 28.3&#x2009;&#xb1;&#x2009;5.2 and 27.6&#x2009;&#xb1;&#x2009;6., respectively. This increase was significant (p&#x2009;<&#x2009;0.001). Our findings revealed that self-efficacy among participants in the intervention group significantly changed (P&#x2009;<&#x2009;0.001) across time from baseline through follow-up. There was no significant difference in the mean of self-efficacy and nutritional status in the control group during the study period (P&#x2009;>&#x2009;0.05). This current study provided a basis to examine in the effectiveness of such intervention using a properly powered randomized controlled study. Therefore, it can be concluded that self-efficacy interventions are a promising approach to improving the nutritional behaviors of the older adults. IRCT20160619028529N9.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/eurpub/ckae013
+- DOI: 10.1186/s41043-024-00519-1
 
 2. Keywords
-
+- Aged
+- Health education
+- Health promotion
+- Malnutrition
+- Self-efficacy
 
 3. Key Findings
-- Findings extraction requires manual review
+- Our findings revealed that self-efficacy among participants in the intervention group significantly changed (P&#x2009;<&#x2009;0
+- Therefore, it can be concluded that self-efficacy interventions are a promising approach to improving the nutritional behaviors of the older adults
 
 This study provides insights into:
-- General research methodology and outcomes
+- Aged assessment methods and outcomes
+- Health education assessment methods and outcomes
+- Health promotion assessment methods and outcomes

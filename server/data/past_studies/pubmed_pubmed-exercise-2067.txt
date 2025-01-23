@@ -1,28 +1,27 @@
-Study Title: Dry needling as an adjunct treatment to multimodal rehabilitation protocol following rotator cuff repair surgery: a preliminary, randomized sham-controlled trial.
+Study Title: The acute effects of whole-body vibration exercise on cortical activation in young adults: An fNIRS study.
 
 Study Summary:
-Rotator cuff repair (RCR) is one of the most prevalent procedures to manage rotator cuff tears (RCT). Postoperative shoulder pain is a common complication following RCR and may be aggravated by activation of myofascial trigger points (MTrP) associated with the injury to the soft tissues surrounding the surgical incision. This study aimed to describe a preliminary, randomized, sham-controlled trial to evaluate the effectiveness of implementing 4 sessions of myofascial trigger point dry needling (MTrP-DN) as a muscle treatment approach along with 10 sessions of multimodal rehabilitation protocol (MRh) consisting of therapeutic exercise, manual therapy, and electrotherapy on postoperative shoulder pain, range of motion (ROM), strength, and functional outcome scores for patients following RCR surgery. Forty-six patients aged 40-75 following RCR surgery were recruited and randomly allocated into 2 groups: (1) MTrP-DN plus MRh (experimental group), and (2) sham dry needling (S-DN) plus MRh (control group). This trial had a 4-week intervention period. The primary outcome was the Numeric Pain Rating Scale (NPRS) for postoperative shoulder pain. Secondary outcomes were the Shoulder Pain and Disability Index (SPADI), ROM, and strength. The mentioned outcomes were measured at baseline and week 4. In the current study, adverse events were recorded as well. No statistically significant differences were observed between groups when adding MTrP-DN to MRh for postoperative shoulder pain after 4 weeks of intervention (mean difference 0.32, [95% CI -0.41,1.05], p&#x2009;=&#x2009;0.37). However, this trial found a small effect size for postoperative shoulder pain. No significant between-group differences were detected in any of the secondary outcomes (p&#x2009;>&#x2009;0.05) either. We found significant within-group changes in all studied outcome measures. (p&#x2009;<&#x2009;0.001). This study also reported minor adverse events. following the needling approach. The lack of statistically significant differences in the outcomes and small clinical significance in shoulder pain highlights the complexity of pain management, suggesting that alternative methodologies may be needed for meaningful clinical benefits. Future studies should consider different control groups, long-term follow ups, larger sample sizes, and more MTrP-DN sessions to better understand their potential impact. This trial was registered at ( https://www.irct.ir ), (IRCT20211005052677N1) on 19/02/2022.
+Whole-body vibration (WBV) training has emerged as an alternative exercise modality for individuals unable to participate in regular physical activity. While previous studies demonstrated positive effects of WBV on physical outcomes, its impact on cognition remains relatively unexplored, despite studies suggesting cognitive benefits. This study aims to investigate the cortical activation patterns in the primary somatosensory cortex (S1) and dorsolateral prefrontal cortex (DLPFC) during WBV and a subsequent cognitive task. Oxygenated hemoglobin (HbO2) levels in the brain were measured using functional near-infrared spectroscopy (fNIRS). Cognitive functioning was assessed using the Stroop Color-Word Interference (CWIT) and Color-Block test (CBT). Twenty-four participants (21.50&#x202f;&#xb1;&#x202f;1.59 years, 11 female) were randomly assigned to one of twelve balanced orders, involving different frequencies (24&#x202f;Hz, 12&#x202f;Hz, control) and postures (sitting or standing) on a side-alternating vibration plate. HbO2 levels were lower at 12 and 24&#x202f;Hz versus control, most prominently in the left DLPFC. During the CWIT, HbO2 levels tended to be higher after WBV versus control. CWIT performance significantly improved after WBV versus control at 12&#x202f;Hz in sitting posture, and at 12 and 24&#x202f;Hz in standing posture. Our results point towards decreased cortical activation during WBV, especially in the left DLPFC, but beneficial effects as a consequence of WBV expressed in increased activation during the CWIT and improved cognitive performance, indicating cognitive readiness. These results underscore the potential efficacy of WBV as a cognitive-enhancing therapy. Replicating these findings in older adults would enhance the study's generalizability and practical implications.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1186/s12998-024-00555-y
+- Publication Date: 2025
+- DOI: 10.1016/j.bbr.2024.115381
 
 2. Keywords
-- Dry needling
-- Postoperative shoulder Pain
-- Rotator Cuff repair
-- Rotator cuff tear
-- Shoulder rehabilitation
-- Trigger point
+- Cognition
+- DLPFC
+- Hemoglobin
+- Near infrared spectrometry
+- Oxygenation
+- Somatosensory cortex
 
 3. Key Findings
-- However, this trial found a small effect size for postoperative shoulder pain
-- We found significant within-group changes in all studied outcome measures
+- While previous studies demonstrated positive effects of WBV on physical outcomes, its impact on cognition remains relatively unexplored, despite studies suggesting cognitive benefits
 
 This study provides insights into:
-- Dry needling assessment methods and outcomes
-- Postoperative shoulder Pain assessment methods and outcomes
-- Rotator Cuff repair assessment methods and outcomes
+- Cognition assessment methods and outcomes
+- DLPFC assessment methods and outcomes
+- Hemoglobin assessment methods and outcomes

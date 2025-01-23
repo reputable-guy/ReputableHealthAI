@@ -1,27 +1,26 @@
-Study Title: Effect of prematurely elevated late follicular progesterone on pregnancy outcomes following ovarian stimulation-intrauterine insemination for unexplained infertility: secondary analysis of the AMIGOS trial.
+Study Title: A Comparison Between Fondaparinux Sodium and Low-Molecular-Weight Heparin in Preventing Patients Undergoing Hip Replacement from Deep Vein Thrombosis.
 
 Study Summary:
-What is the relationship between late follicular phase progesterone levels and clinic pregnancy and live birth rates in couples with unexplained infertility undergoing ovarian stimulation with IUI (OS-IUI)? Late follicular progesterone levels between 1.0 and <1.5&#x2009;ng/ml were associated with higher live birth and clinical pregnancy rates while the outcomes in groups with higher progesterone levels did not differ appreciably from the <1.0&#x2009;ng/ml reference group. Elevated late follicular progesterone levels have been associated with lower live birth rates after fresh embryo transfer following controlled ovarian stimulation and egg retrieval, but less is known about whether an association exists with outcomes in OS-IUI cycles. Existing studies are few and have been limited to ovarian stimulation with gonadotrophins, but the use of oral agents, such as clomiphene citrate and letrozole, is common with these treatments and has not been well studied. The study was a prospective cohort analysis of the Assessment of Multiple Intrauterine Gestations from Ovarian Stimulation (AMIGOS) randomized controlled trial. Frozen serum was available for evaluation from 2121 cycles in 828 AMIGOS participants. The primary pregnancy outcome was live birth per cycle, and the secondary pregnancy outcome was clinical pregnancy rate per cycle. Couples with unexplained infertility in the AMIGOS trial, for whom female serum from day of trigger with hCG was available in at least one cycle of treatment, were included. Stored frozen serum samples from day of hCG trigger during treatment with OS-IUI were evaluated for serum progesterone level. Progesterone level <1.0&#x2009;ng/ml was the reference group for comparison with progesterone categorized in increments of 0.5&#x2009;ng/ml up to &#x2265;3.0&#x2009;ng/ml. Unadjusted and adjusted risk ratios (RR) and 95% CI were estimated using cluster-weighted generalized estimating equations to estimate modified Poisson regression models with robust standard errors. Compared to the reference group with 110/1363 live births (8.07%), live birth rates were significantly increased in cycles with progesterone 1.0 to <1.5&#x2009;ng/ml (49/401 live births, 12.22%) in both the unadjusted (RR 1.56, 95% CI 1.14, 2.13) and treatment-adjusted models (RR 1.51, 95% CI 1.10, 2.06). Clinical pregnancy rates were also higher in this group (55/401 clinical pregnancies, 13.72%) compared to reference group with 130/1363 (9.54%) (unadjusted RR 1.46, 95% CI 1.10, 1.94 and adjusted RR 1.42, 95% CI 1.07, 1.89). In cycles with progesterone 1.5&#x2009;ng/ml and above, there was no evidence of a difference in clinical pregnancy or live birth rates relative to the reference group. This pattern remained when stratified by ovarian stimulation treatment group but was only statistically significant in letrozole cycles. The AMIGOS trial was not designed to answer this clinical question, and with small numbers in some progesterone categories our analyses were underpowered to detect differences between some groups. Inclusion of cycles with progesterone values above 3.0&#x2009;ng/ml may have included those wherein ovulation had already occurred at the time the IUI was performed. These cycles would be expected to experience a lower success rate but pregnancy may have occurred with intercourse in the same cycle. Compared to previous literature focusing primarily on OS-IUI cycles using gonadotrophins, these data include patients using oral agents and therefore may be generalizable to the wider population of infertility patients undergoing IUI treatments. Because live births were significantly higher when progesterone ranged from 1.0 to <1.5&#x2009;ng/ml, further study is needed to clarify whether this progesterone range may truly represent a prognostic indicator in OS-IUI cycles. Oklahoma Shared Clinical and Translational Resources (U54GM104938) National Institute of General Medical Sciences (NIGMS). AMIGOS was funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development: U10 HD077680, U10 HD39005, U10 HD38992, U10 HD27049, U10 HD38998, U10 HD055942, HD055944, U10 HD055936, and U10HD055925. Research made possible by the funding by American Recovery and Reinvestment Act. Dr Burks has disclosed that she is a member of the Board of Directors of the Pacific Coast Reproductive Society. Dr Hansen has disclosed that he is the recipient of NIH grants unrelated to the present work, and contracts with Ferring International Pharmascience Center US and with May Health unrelated to the present work, as well as consulting fees with May Health also unrelated to the present work. Dr Diamond has disclosed that he is a stockholder and a member of the Board of Directors of Advanced Reproductive Care, Inc., and that he has a patent pending for the administration of progesterone to trigger ovulation. Dr Anderson, Dr Gavrizi, and Dr Peck do not have conflicts of interest to disclose. N/A.
+Total hip arthroplasty (THA) is a highly successful and effective surgery for improving hip functions and relieving pain. However, the lower extremities are prone to deep vein thrombosis (DVT) and swelling after surgery, thereby delaying recovery. In this study, we investigated the preventive effects of fondaparinux sodium (FS) and low-molecular-weight heparin (LMWH) on DVT of the lower extremity after THA. Firstly, 60 patients who underwent THA at the First Affiliated Hospital of Wannan Medical College from March 2020 to December 2020 were included. Next, the patients were randomly divided into an LMWH group (n = 30) and an FS group (n = 30). Then, the indexes related to DVT were compared between both groups. Specifically, the differences in baseline data, such as age, gender and body mass index (BMI), between the two groups were not statistically significant. The postoperative weight bearing time of patients in the FS group was much shorter than that in the LMWH group. Subcutaneous injection of FS not only exhibits superior effects to LMWH in preventing DVT after THA but also has a correlation with reducing the risk of thrombosis and improving patient symptoms.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/humrep/deae113
+
 
 2. Keywords
-- IUI
-- infertility
-- intrauterine insemination
-- ovarian stimulation
-- progesterone
-- unexplained infertility
+- Deep Vein Thrombosis
+- Fondaparinux Sodium
+- Low-Molecular-Weight Heparin
+- Preventive Effect
+- Total Hip Arthroplasty
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- IUI assessment methods and outcomes
-- infertility assessment methods and outcomes
-- intrauterine insemination assessment methods and outcomes
+- Deep Vein Thrombosis assessment methods and outcomes
+- Fondaparinux Sodium assessment methods and outcomes
+- Low-Molecular-Weight Heparin assessment methods and outcomes

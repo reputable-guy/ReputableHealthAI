@@ -1,26 +1,28 @@
-Study Title: Prolonged Fasting Induces Histological and Ultrastructural Changes in the Intestinal Mucosa That May Reduce Absorption and Revert after Enteral Refeeding.
+Study Title: Measuring diet by metabolomics: a 14-d controlled feeding study of weighed food intake.
 
 Study Summary:
-Malnutrition is usual in patients referred for endoscopic gastrostomy (PEG). Refeeding syndrome is rarely observed in PEG-fed patients, which could possibly be associated with reduced absorption induced by prolonged starvation.In patients submitted to PEG after a significant period of fasting, the present study aims to: 1. evaluate the histological/ultrastructural initial changes in the intestinal mucosa, potentially associated with reduced absorption, and 2. assess if these changes could reverse with enteral refeeding.The present study is an observational, prospective, controlled study. Adult patients with ingestion below 50% of daily needs for at least one month and/or diagnosis of malnutrition were enrolled. Duodenal biopsies were taken at baseline and after 3-6 months of PEG feeding, which then underwent histological/ultrastructural analysis. Random healthy individuals were used as controls.A total of 30 patients (16 men/14 women) aged 67.1 &#xb1; 13.5 years were included. Malnutrition was found in 40% of patients. Approximately 14 patients completed follow-up during both periods (46.7%). At baseline: duodenal mucosal atrophy was evident in three patients (10%); the median villi length (MVL) was 0.4 mm (0.25-0.6 mm), with it being shorter than the controls, which was 0.6 mm (0.4-0.7 mm) (= 0.006); ultrastructural changes included focal shortening, bending, and disruption of enterocyte microvilli, the presence of citoplasmatic autophagic vacuoles, dilation and vesiculation of the smooth endoplasmic reticulum, and the presence of dilated intercellular spaces with basement membrane detachment. After refeeding, most patients displayed normal histology (92.9%) and increase MVL (< 0.001), ultrastructural changes disappeared, and enterocytes resumed a normal appearance, although retaining scarce, small, dense bodies in apical regions from the evolution of previous autophagy.Prolonged fasting induces histological and ultrastructural changes in the intestinal mucosa that may reflect impaired absorption in the early post-PEG period. These changes were reverted after refeeding with enteral nutrition.
+Metabolomics has the potential to enhance dietary assessment by revealing objective measures of many aspects of human food intake. Although metabolomics studies indicate that hundreds of metabolites are associated with dietary intake, correlations have been modest (e.g., r < 0.50), and few have been evaluated in controlled feeding studies. The aim of this study was to evaluate associations between metabolites and weighed food and beverage intake in a controlled feeding study of habitual diet. Healthy postmenopausal females from the Women's Health Initiative (N = 153) were provided with a customized 2-wk controlled diet designed to emulate their usual diet. Metabolites were measured by liquid chromatography tandem mass spectrometry in end-of-study 24-h urine and fasting serum samples (1293 urine metabolites; 1113 serum metabolites). We calculated partial Pearson correlations between these metabolites and intake of 65 food groups, beverages, and supplements during the feeding study. The threshold for significance was Bonferroni-adjusted to account for multiple testing (5.94 &#xd7; 10for urine metabolites; 6.91 &#xd7; 10for serum metabolites). Significant diet-metabolite correlations were identified for 23 distinct foods, beverages, and supplements (171 distinct metabolites). Among foods, strong metabolite correlations (r &#x2265; 0.60) were evident for citrus (highest r = 0.80), dairy (r = 0.65), and broccoli (r = 0.63). Among beverages and supplements, strong correlations were evident for coffee (r = 0.86), alcohol (r = 0.69), multivitamins (r = 0.69), and vitamin E supplements (r = 0.65). Moderate correlations (r = 0.50-0.60) were also observed for avocado, fish, garlic, grains, onion, poultry, and black tea. Correlations were specific; each metabolite correlated with one food, beverage, or supplement, except for metabolites correlated with juice or multivitamins. Metabolite levels had moderate to strong correlations with weighed intake of habitually consumed foods, beverages, and supplements. These findings exceed in magnitude those previously observed in population studies and exemplify the strong potential of metabolomics to contribute to nutrition research. The Women's Health Initiative is registered at clinicaltrials.gov as NCT00000611.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16010128
+- DOI: 10.1016/j.ajcnut.2023.10.016
 
 2. Keywords
-- PEG
-- duodenal mucosa
-- histology
-- malnutrition
-- ultrastructure
+- citrus
+- coffee
+- controlled feeding study
+- diet
+- dietary biomarkers
+- metabolomics
+- regression calibration
 
 3. Key Findings
-- Malnutrition was found in 40% of patients
+- Findings extraction requires manual review
 
 This study provides insights into:
-- PEG assessment methods and outcomes
-- duodenal mucosa assessment methods and outcomes
-- histology assessment methods and outcomes
+- citrus assessment methods and outcomes
+- coffee assessment methods and outcomes
+- controlled feeding study assessment methods and outcomes

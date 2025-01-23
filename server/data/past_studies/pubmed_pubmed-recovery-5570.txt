@@ -1,20 +1,25 @@
-Study Title: Effectiveness of ultrasound-guided rhomboid intercostal and sub-serratus block for perioperative analgesia in male patients undergoing combined power-assisted liposuction with pull-through excision of the gland for breast definition and reshaping.
+Study Title: Nitroglycerin versus milrinone for low central venous pressure in patients undergoing laparoscopic hepatectomy: a double-blinded randomized controlled trial.
 
 Study Summary:
-The newly introduced ultrasound guided interfacial rhomboid intercostal and sub-serratus (RISS) block technique demonstrated promising efficacy in managing perioperative pain among patients undergoing abdominal and thoracic procedures. Thus, this study investigated the efficiency of bilateral ultrasound-guided RISS (US-RISS) as a perioperative pain control technique in male subjects receiving gynecomastia surgery. This prospective randomized study involved sixty patients who underwent gynecomastia surgery. Individuals were randomly divided into two groups: the RISS group (N.=30) and the control group (N.=30). After anesthesia induction, the patients received bilateral US-RISS using 40 mL of 0.25% levobupivacaine, or conventional intravenous analgesia with no intervention, respectively. The primary outcome was the overall morphine consumption in 24 hours, and the secondary endpoints involved the time elapsed till rescue analgesia was requested, the quality of recovery after 24 hours and side effects' incidence. Morphine consumption was noticeably decreased in the RISS group compared to the control group, with 14.07&#xb1;4.91 mg and 35.83&#xb1;1.70 mg mean values, respectively (P<0.001). Furthermore, in the RISS group, the initial rescue analgesia request occurred significantly later than in the control group, with mean values of 15.58&#xb1;1.41 hours and 0.96&#xb1;0.63 hours, respectively (P<0.001). Additionally, within the RISS group, there was a high quality of recovery observed, with a low incidence of opioid-related adverse events in comparison to the control group. Bilateral US-RISS block is a beneficial intervention in gynecomastia surgery for pain management and improves the quality of recovery.
+Conventional anesthesia used to reduce central venous pressure (CVP) during hepatectomy includes fluid restriction and vasodilator drugs, which can lead to a reduction in blood perfusion in vital organs and may counteract the benefits of low blood loss. In this study, we hypothesized that milrinone is feasible and effective in controlling low CVP (LCVP) during laparoscopic hepatectomy (LH). Compared with conventional anesthesia such as nitroglycerin, milrinone is beneficial in terms of intraoperative blood loss, surgical environment, hemodynamic stability, and patients' recovery. In total, 68 patients undergoing LH under LCVP were randomly divided into the milrinone group (n&#x2009;=&#x2009;34) and the nitroglycerin group (n&#x2009;=&#x2009;34). Milrinone was infused with a loading dose of 10&#xa0;&#xb5;g/kg followed by a maintenance dose of 0.2-0.5&#xa0;&#xb5;g/kg/min and nitroglycerin was administered at a rate of 0.2-0.5&#xa0;&#xb5;g/kg/min until the liver lesions were removed. The characteristics of patients, surgery, intraoperative vital signs, blood loss, the condition of the surgical field, the dosage of norepinephrine, perioperative laboratory data, and postoperative complications were compared between groups. Blood loss during LH was considered the primary outcome. Blood loss during hepatectomy and total blood loss were significantly lower in the milrinone group compared with those in the nitroglycerin group (P&#x2009;<&#x2009;0.05). Both the nitroglycerin group and milrinone group exerted similar CVP (P&#x2009;>&#x2009;0.05). Nevertheless, the milrinone group had better surgical field grading during liver resection (P&#x2009;<&#x2009;0.05) and also exhibited higher cardiac index and cardiac output during the surgery (P&#x2009;<&#x2009;0.05). Significant differences were also found in terms of fluids administered during hepatectomy, urine volume during hepatectomy, total urine volume, and norepinephrine dosage used in the surgery between the two groups. The two groups showed a similar incidence of postoperative complications (P&#x2009;>&#x2009;0.05). Our findings indicate that the intraoperative infusion of milrinone can help in maintaining an LCVP and hemodynamic stability during LH while reducing intraoperative blood loss and providing a better surgical field compared with nitroglycerin. ChiCTR2200056891,first registered on 22/02/2022.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.23736/S0375-9393.24.17985-0
+- DOI: 10.1186/s12871-024-02631-5
 
 2. Keywords
-
+- Laparoscopic hepatectomy
+- Low central venous pressure
+- Milrinone
 
 3. Key Findings
-- The newly introduced ultrasound guided interfacial rhomboid intercostal and sub-serratus (RISS) block technique demonstrated promising efficacy in managing perioperative pain among patients undergoing abdominal and thoracic procedures
+- Significant differences were also found in terms of fluids administered during hepatectomy, urine volume during hepatectomy, total urine volume, and norepinephrine dosage used in the surgery between the two groups
+- The two groups showed a similar incidence of postoperative complications (P&#x2009;>&#x2009;0
 
 This study provides insights into:
-- General research methodology and outcomes
+- Laparoscopic hepatectomy assessment methods and outcomes
+- Low central venous pressure assessment methods and outcomes
+- Milrinone assessment methods and outcomes

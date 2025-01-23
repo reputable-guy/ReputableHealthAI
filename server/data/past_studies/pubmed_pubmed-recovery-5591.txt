@@ -1,22 +1,26 @@
-Study Title: Predictors of subacute postoperative pain after total knee arthroplasty: A secondary analysis of two randomized trials.
+Study Title: The Influence of Piriform Recess Instillation with Lidocaine Before Bronchoscopy on Post-General Anesthesia Cough: A Randomized Controlled Trial.
 
 Study Summary:
-Methods for identifying high-pain responders undergoing total knee arthroplasty remain important to improve individualized pain management. This study aimed at evaluating pre- and perioperative predictors of pain on Days 2-7 after total knee arthroplasty. This is a secondary analysis of data from 227 patients participating in two randomized trials. Pain outcomes were mean pain during walking on Days 2-7 and on Days 2, 4 and 7. Multivariable linear and logistic regressions were carried out in two steps. First, only preoperative available variables including demographics, comorbidities, pain catastrophizing scale and preoperative pain were evaluated while controlling for trial intervention and recruitment site. In the second step, perioperative variables and pain during walking 24&#x2009;h postoperatively were added. The model with only preoperative predictors for mean pain Days 2-7 showed preoperative pain (R-squared 0.097) as the only predictor. In the second model, adding postoperative available variables, only pain 24&#x2009;h postoperatively (R-squared 0.248) was significant, with a significant main effect of recruitment site. Results for the separate day analysis similarly showed preoperative pain and pain during walking 24&#x2009;h postoperatively as predictors. The overall best sensitivity (60%) and specificity (74%) for predicting a high-subacute postoperative pain response on Days 2-7 was with cut-off values of VAS 45.5 (out of 100) for pain during walking 24&#x2009;h postoperatively. Postoperative pain during walking at 24&#x2009;h is predictive of subacute postoperative pain on Days 2-7 after total knee arthroplasty, while preoperative pain was only a weak predictor. This study investigated factors associated with pain after total knee arthroplasty beyond the immediate postoperative period. The analysis revealed significant associations between preoperative pain levels and, particularly, pain 24&#x2009;h postoperatively, with subsequent subacute pain the following week. These findings can assist in identifying patients who would benefit from enhanced, individualized analgesic interventions to facilitate postoperative recovery.
+Postoperative cough is a common complication of general anesthesia after bronchoscopy. The aim of the present study was to determine the safety profile and efficacy of piriform recess instillation with lidocaine in reducing the incidence of coughing. To what extent could piriform recess instillation with lidocaine decrease the incidence of cough at 10min after extubation? Eighty-eight consecutive patients were equally randomized to a lidocaine group receiving piriform recess instillation with 2mL 2% lidocaine, and a normal saline group receiving piriform recess instillation with 2mL saline. The primary outcome was the incidence of cough after extubation, and the secondary outcomes were throat score at 10 min and 6 h after extubation assessed by the numerical rating scale, cough severity at 10 min and 6 h after extubation assessed by the Visual Analog Scale (VAS), 24 h 40-item Quality of Recovery Score (QoR-40), and subject-rated satisfaction score on a VAS. Compared with saline group, the incidence of cough in lidocaine group was significantly lower (63.6% vs 86.4%,=0.014). The sore throat score at 10 min after extubation was significantly lower (0[0,0] vs 1[0,2],<0.001). The subject-rated overall anesthesia satisfaction score was significantly higher (84.8[&#xb1;6.2] vs 76.6[&#xb1;8.6],<0.001). The severity of cough at 10 min after extubation was significantly lower (Mild: 36.4% vs 11.4%,=0.006; Severe: 9.1% vs 43.2%,<0.001). There was no significant difference in the sore throat score at 6 h after extubation, severity of cough at 6 h after extubation, or QoR-40 at 24 h after extubation between the two groups. Piriform recess instillation with lidocaine before bronchoscopy is a simple and effective method for reducing early cough intensity and alleviating early sore throat. At 6 hours, there were no differences observed between the groups. Chinese Clinical Trial Registry (identifier: ChiCTR2200067087).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ejp.4703
+- DOI: 10.2147/DDDT.S458058
 
 2. Keywords
-
+- bronchoscopy
+- cough
+- general anesthesia
+- lidocaine
+- piriform recess
 
 3. Key Findings
-- The model with only preoperative predictors for mean pain Days 2-7 showed preoperative pain (R-squared 0
-- Results for the separate day analysis similarly showed preoperative pain and pain during walking 24&#x2009;h postoperatively as predictors
-- The analysis revealed significant associations between preoperative pain levels and, particularly, pain 24&#x2009;h postoperatively, with subsequent subacute pain the following week
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- bronchoscopy assessment methods and outcomes
+- cough assessment methods and outcomes
+- general anesthesia assessment methods and outcomes

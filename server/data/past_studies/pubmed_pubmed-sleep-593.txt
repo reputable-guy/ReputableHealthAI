@@ -1,25 +1,27 @@
-Study Title: Financial hardship experience in middle- and older-aged patients with advanced lung cancer.
+Study Title: Telehealth cognitive behaviour therapy for the management of sleep disturbance in women with early breast cancer receiving chemotherapy: a feasibility study.
 
 Study Summary:
-Advancements in medical treatments have resulted in increased medical costs for cancer patients. More than half of the patients with advanced lung cancer reported unmet financial needs. The purpose of this study is to examine the differences in the prevalence and correlates of financial hardship between middle- and older-aged patients with advanced lung cancer, and its impact on multiple health-related outcomes. This study presents a cross-sectional analysis involving 226 patients with advanced lung cancer, who were enrolled in a randomized controlled trial conducted between 2018 and 2020. Data collection was performed through self-reported questionnaires and electronic medical records. Multivariable logistic and linear regression models were adopted for analysis. 58.0% reported experiencing financial hardships. Middle-aged participants who were single and had a lower education level were more likely to experience financial difficulties. However, males and higher performance status were associated with a lower likelihood of experiencing financial difficulties among older-aged participants. Financial hardship was significantly associated with anxiety (p&#x2009;<&#x2009;0.001), depression (p&#x2009;<&#x2009;0.001), sleep disturbances (p&#x2009;<&#x2009;0.001), quality of life, global health status (p&#x2009;=&#x2009;0.002), functional scale score (p&#x2009;<&#x2009;0.001), symptom scale score (p&#x2009;<&#x2009;0.001), and lung cancer-specific scale score (p&#x2009;<&#x2009;0.001). More than half of the patients with advanced lung cancer experienced financial hardships caused by cancer or its treatment, with a higher prevalence reported in middle-aged patients. Different sociodemographic and clinical variables correlated with financial hardship in middle- and older-aged participants, respectively. More attention should be paid to middle-aged patients with advanced lung cancer, particularly during routine assessments.
+Sleep quality commonly deteriorates in people receiving chemotherapy for breast cancer (BC). We aimed to determine feasibility and acceptability of telehealth-delivered cognitive behaviour therapy for insomnia (CBT-I) in people with early BC receiving (neo)adjuvant chemotherapy. Multi-centre, single arm, phase 2 feasibility trial. People with stage I-III BC received 4 sessions of telehealth CBT-I over 8 weeks, during chemotherapy. Participants completed Pittsburgh Sleep Quality Index (PSQI) and other Patient Reported Outcome Measures (PROMs) at baseline, post-program (week 9) and post-chemotherapy (week 24); and an Acceptability Questionnaire at week 9. Primary endpoint was proportion completing 4 sessions of telehealth CBT-I. In total, 41 participants were recruited: mean age 51 years (range 31-73). All 4 CBT-I sessions were completed by 35 (85%) participants. Acceptability of the program was high and 71% reported 'the program was useful'. There was no significant difference in the number of poor sleepers (PSQI score&#x2009;&#x2265;&#x2009;5) at baseline 29/40 (73%) and week 24 17/25 (68%); or in the mean PSQI score at baseline (7.43, SD 4.06) and week 24 (7.48, SD 4.41). From baseline to week 24, 7/25 (28%) participants had a&#x2009;&#x2265;&#x2009;3 point improvement in sleep quality on PSQI, and 5/25 (20%) had a&#x2009;&#x2265;&#x2009;3 point deterioration. There was no significant difference in mean PROM scores. It is feasible to deliver telehealth CBT-I to people with early BC receiving chemotherapy. Contrary to literature predictions, sleep quality did not deteriorate. Telehealth CBT-I has a potential role in preventing and managing sleep disturbance during chemotherapy. Australian New Zealand Clinical Trials Registry (ANZCTR) registration number: ACTRN12620001379909 and date 22/12/2020.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00520-024-08571-7
+- DOI: 10.1007/s00520-024-08554-8
 
 2. Keywords
-- Correlates
-- Financial hardship
-- Health outcomes
-- Lung cancer
+- Breast cancer
+- Chemotherapy
+- Insomnia
+- Quality of life
+- Sleep disturbance
+- Telehealth
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Correlates assessment methods and outcomes
-- Financial hardship assessment methods and outcomes
-- Health outcomes assessment methods and outcomes
+- Breast cancer assessment methods and outcomes
+- Chemotherapy assessment methods and outcomes
+- Insomnia assessment methods and outcomes

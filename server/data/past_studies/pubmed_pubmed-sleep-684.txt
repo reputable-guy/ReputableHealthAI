@@ -1,32 +1,28 @@
-Study Title: The effects of progressive muscle relaxation exercise applied to lung cancer patients receiving chemotherapy on dyspnea, pain and sleep quality: A randomized controlled trial.
+Study Title: Effect of daridorexant on sleep architecture in patients with chronic insomnia disorder: a pooled post hoc analysis of two randomized phase 3 clinical studies.
 
 Study Summary:
-The aim of the present study is the analysis of how progressive muscle relaxation exercise affects dyspnea, pain and sleep quality in patients with lung cancer receiving chemotherapy. Seventy-four patients diagnosed with lung cancer were included in this randomized controlled study. A total of 16 sessions of progressive muscle relaxation exercises were applied to the patients in the intervention group for a duration of 30&#xa0;min, 2 days a week for 8 weeks. Patient Information Form, Medical Research Council Dyspnea Scale (MRC dyspnea scale), Pitssburg Sleep Quality Index (PSQI), Visual Analog Scale- Pain (VAS-P) were used to collect data. Socio-demographic and disease characteristics were found to be similar in control and intervention groups. Final scores indicated significant differences between the experimental and control groups in all variables. The experimental group showed significantly more favorable results in dyspnea (p&#xa0;<&#xa0;0.001), pain (p&#xa0;<&#xa0;0.003) and sleep (p&#xa0;<&#xa0;0.001) symptoms. When the effect size values (Cohen's d) of these findings were analyzed, PMR exercise was found to have a moderate effect on mean VAS-P scores (0.548) and a large effect on mean MRC dyspnea scale (1.073) and PSQI (0.970) scores. These results indicated significant differences in pre and post intervention mean scores. Progressive muscle relaxation exercise applied to lung cancer patients receiving chemotherapy was found to be effective in reducing dyspnea and pain severity and improving sleep quality. Clinical trial registration at ClinicalTrials.gov. NCT04978805.
+Post hoc analysis to evaluate the effect of daridorexant on sleep architecture in people with insomnia, focusing on features associated with hyperarousal. We studied sleep architecture in adults with chronic insomnia disorder from two randomized phase 3 clinical studies (Clinicaltrials.gov: NCT03545191 and NCT03575104) investigating 3 months of daridorexant treatment (placebo, daridorexant 25 mg, daridorexant 50 mg). We analyzed sleep-wake transition probabilities, EEG spectra, and sleep spindle properties including density, dispersion, and slow oscillation phase coupling. The wake EEG similarity index (WESI) was determined using a machine learning algorithm analyzing the spectral profile of the EEG. At month 3, daridorexant 50 mg decreased wake-to-wake transition probabilities (p&#x2005;<&#x2005;.05) and increased the probability of transitions from wake-to-N1 (p&#x2005;<&#x2005;.05), N2 (p&#x2005;<&#x2005;.05), and REM sleep (p&#x2005;<&#x2005;.05), as well as from N1-to-N2 (p&#x2005;<&#x2005;.05) compared to baseline and placebo. Daridorexant 50 mg decreased relative beta power during wake (p&#x2005;=&#x2005;.011) and N1 (p&#x2005;<&#x2005;.001) compared to baseline and placebo. During the wake, relative alpha power decreased (p&#x2005;<&#x2005;.001) and relative delta power increased (p&#x2005;<&#x2005;.001) compared to placebo. Daridorexant did not alter EEG spectra bands in N2, N3, and REM stages or in sleep spindle activity. Daridorexant decreased the WESI score during wake compared to baseline (p&#x2005;=&#x2005;.004). Effects with 50 mg were consistent between months 1 and 3 and less pronounced with 25 mg. Daridorexant reduced EEG features associated with hyperarousal as indicated by reduced wake-to-wake transition probabilities and enhanced spectral features associated with drowsiness and sleep during wake and N1. ClinicalTrials.gov NCT03545191: study to assess the efficacy and safety of ACT-541468 (daridorexant) in adult and elderly participants with insomnia disorder. URL: Study Details | study to assess the efficacy and safety of ACT-541468 (daridorexant) in adult and elderly participants with insomnia disorder | ClinicalTrials.gov ClinicalTrials.gov NCT03575104:study to assess the efficacy and safety of ACT-541468 (daridorexant) in adult and elderly participants who experience difficulties sleeping. URL: study details | study to assess the efficacy and safety of ACT-541468 (daridorexant) in adult and elderly participants who experience difficulties sleeping | ClinicalTrials.gov.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.ejon.2024.102580
+- DOI: 10.1093/sleep/zsae098
 
 2. Keywords
-- Dyspnea
-- Exercise
-- Lung cancer
-- Pain
-- Progressive muscle relation
-- Sleep
+- EEG analysis
+- insomnia
+- neurobiology of sleep and arousal
+- sleep and the brain
+- sleep spindles
+- sleep&#x2013;wake mechanisms
+- sleep&#x2013;wake physiology
 
 3. Key Findings
-- Socio-demographic and disease characteristics were found to be similar in control and intervention groups
-- Final scores indicated significant differences between the experimental and control groups in all variables
-- The experimental group showed significantly more favorable results in dyspnea (p&#xa0;<&#xa0;0
-- When the effect size values (Cohen's d) of these findings were analyzed, PMR exercise was found to have a moderate effect on mean VAS-P scores (0
-- These results indicated significant differences in pre and post intervention mean scores
-- Progressive muscle relaxation exercise applied to lung cancer patients receiving chemotherapy was found to be effective in reducing dyspnea and pain severity and improving sleep quality
+- Daridorexant reduced EEG features associated with hyperarousal as indicated by reduced wake-to-wake transition probabilities and enhanced spectral features associated with drowsiness and sleep during wake and N1
 
 This study provides insights into:
-- Dyspnea assessment methods and outcomes
-- Exercise assessment methods and outcomes
-- Lung cancer assessment methods and outcomes
+- EEG analysis assessment methods and outcomes
+- insomnia assessment methods and outcomes
+- neurobiology of sleep and arousal assessment methods and outcomes

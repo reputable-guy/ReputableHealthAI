@@ -1,25 +1,20 @@
-Study Title: PROVIT-CLOCK: A Potential Influence of Probiotics and Vitamin B7 Add-On Treatment and Metabolites on Clock Gene Expression in Major Depression.
+Study Title: Mandibular Advancement vs Combined Airway and Positional Therapy for Snoring: A Randomized Clinical Trial.
 
 Study Summary:
-An increasing body of evidence suggests a strong relationship between gut health and mental state. Lately, a connection between butyrate-producing bacteria and sleep quality has been discussed. The PROVIT study, as a randomized, double-blind, 4-week, multispecies probiotic intervention study, aims at elucidating the potential interconnection between the gut's metabolome and the molecular clock in individuals with major depressive disorder (MDD). The aim of the PROVIT-CLOCK study was to analyze changes in core clock gene expression during treatment with probiotic intervention versus placebo in fasting blood and the connection with the serum- and stool-metabolome in patients with MDD (n = 53). In addition to clinical assessments in the PROVIT study, metabolomics analyses with 1H nuclear magnetic resonance spectroscopy (stool and serum) and gene expression (RT-qPCR) analysis of the core clock genes ARNTL, PER3, CLOCK, TIMELESS, NR1D1 in peripheral blood mononuclear cells of fasting blood were performed. The gene expression levels of the clock gene CLOCK were significantly altered only in individuals receiving probiotic add-on treatment. TIMELESS and ARNTL gene expression changed significantly over the 4-week intervention period in both groups. Various positive and negative correlations between metabolites in serum/stool and core clock gene expression levels were observed. Changing the gut microbiome by probiotic treatment potentially influences CLOCK gene expression. The preliminary results of the PROVIT-CLOCK study indicate a possible interconnection between the gut microbiome and circadian rhythm potentially orchestrated by metabolites.
+Approximately 150 million individuals in the US snore in the absence of obstructive sleep apnea (primary snoring), but few studies have examined the efficacy of treatments for snoring or evaluated the effect of snoring in sleeping partners. To evaluate the efficacy of 2 treatments for primary snoring. This pilot randomized clinical trial that included a convenience sample of people who snore without sleep apnea and their sleeping partner who underwent 4 weeks of snoring treatment was conducted at an academic medical center between October 3, 2022, and July 3, 2023. Fifty couples were randomized to either use a mandibular advancement device (MAD) or receive combined airway and positional therapy (CAPT; external nasal dilator, nasal saline lavage with mometasone, mouth taping, and lateral positional therapy). Percentage of sleeping partners who reported that their partner's snoring was either very much improved or much improved (responder) on the Clinical Global Impression of Improvement scale. A total of 42 dyads completed the study; 23 (55%) were randomized to MAD and 19 (45%) to CAPT. Among people who snore, 26 (62%) were female, and the mean (SD) age was 48 (14) years. Of 23 dyads randomized to MAD, 21 people who snore (91%) were rated by the sleeping partner as a responder, while 11 of the 19 dyads (58%) randomized to CAPT were rated by the sleeping partner as responder, resulting in a difference of 33 percentage points (95% CI, 8-58) and a number needed to treat of 3. Of the 10 participants who were withdrawn, 4 were withdrawn due to adverse effects of the treatment that were evenly distributed between the MAD (n&#x2009;=&#x2009;2) and CAPT (n&#x2009;=&#x2009;2) groups. The results of this randomized clinical trial showed that the MAD may be more effective than CAPT for treating primary snoring, while both treatment options were found to reduce primary snoring. Physicians should have a patient-centered discussion to determine which treatment is best for individual patients with primary snoring, weighing convenience, adverse effects, and cost as factors. ClinicalTrials.gov Identifier: NCT05756647.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1159/000538781
+- DOI: 10.1001/jamaoto.2024.1035
 
 2. Keywords
-- Circadian clock genes
-- Gut-brain axis
-- Major depressive disorder
-- Randomized controlled trial
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- The results of this randomized clinical trial showed that the MAD may be more effective than CAPT for treating primary snoring, while both treatment options were found to reduce primary snoring
 
 This study provides insights into:
-- Circadian clock genes assessment methods and outcomes
-- Gut-brain axis assessment methods and outcomes
-- Major depressive disorder assessment methods and outcomes
+- General research methodology and outcomes

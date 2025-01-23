@@ -1,26 +1,21 @@
-Study Title: HLA-mismatched allogeneic adoptive immune therapy in patients with severely immunosuppressed AIDS: a multicenter, open-label, controlled, phase 2a study.
+Study Title: subsp.LPL-RH improves postoperative gastrointestinal symptoms and nutrition indexes by regulating the gut microbiota in patients with valvular heart disease: a randomized controlled trial.
 
 Study Summary:
-Recurrent opportunistic infections (OIs) in patients with severely immunosuppressed AIDS remain an unresolved medical challenge despite advancements in antiretroviral therapy (ART). To address this gap, we developed an HLA-mismatched allogeneic adoptive immune therapy (AAIT) specifically targeting this patient population. The safety and efficacy of this novel therapeutic approach were preliminarily confirmed in our phase 1 trial. Subsequently, a multicenter, open-label, controlled, phase 2a trial was conducted to evaluate the efficacy of AAIT in combination with ART compared with the conventional ART-only regimen. No difference in the incidence of adverse events (AEs) was observed between the two groups at the 96-week follow-up. AAIT treatment improved CD4+ T cell recovery at weeks 72 (=&#x2009;0.048) and 96 (=&#x2009;0.024) compared to the Control Group. Additionally, stratified analysis of patients in the AAIT Group showed that donor/recipient sex mismatch was significantly associated with the likelihood of patients achieving an immunological response (OR&#x2009;=&#x2009;8.667; 95% CI, 2.010-37.377;=&#x2009;0.004). These findings suggest that AAIT serves as a promising adjunct therapy for improving the outcomes of patients with severely immunosuppressed AIDS. Further studies are needed to elucidate the immunological mechanisms underlying AAIT and identify the subpopulations that respond optimally to this therapeutic approach. This trial is registered at www.clinicaltrials.gov (NCT04098770).ClinicalTrials.gov identifier: NCT04098770.ClinicalTrials.gov identifier: NCT02651376.
+Gastrointestinal symptoms constitute a frequent complication in postoperative patients with valvular heart disease (VHD), impacting their postoperative recovery. Probiotics contribute to regulating human gut microbiota balance and alleviating postoperative gastrointestinal symptoms. Our objective involved assessing the potential ofsubsp.LPL-RH to alleviate postoperative gastrointestinal symptoms and expedite patient recovery. Adult patients diagnosed with VHD scheduled for valve surgery were enrolled. 110 patients were randomly divided into two groups and received LPL-RH or a placebo for 14 days. Gastrointestinal symptoms were evaluated using the Gastrointestinal Symptoms Questionnaire. An analysis of the time to recovery of bowel function and various postoperative variables was conducted in both study groups. Variations in the intestinal microbiota were detected16S rRNA sequencing. The study was completed by 105 participants, with 53 in the probiotic group and 52 in the placebo group. Compared to the placebo group, LPL-RH significantly reduced the total gastrointestinal symptom score after surgery (= 0.004). Additionally, LPL-RH was found to significantly reduce abdominal pain (= 0.001), bloating (= 0.018), and constipation (= 0.022) symptom scores. Furthermore, LPL-RH dramatically shortened the time to recovery of bowel function (= 0.017). Moreover, LPL-RH administration significantly enhanced patients' postoperative nutrition indexes (red blood cell counts, hemoglobin level,< 0.05). Microbiome analysis showed that the composition and diversity of the postoperative intestinal microbiota differed between the probiotic and placebo groups. No adverse incidents associated with probiotics were documented, emphasizing their safety. This study initially discovered that oralsubsp.LPL-RH can assist in regulating intestinal microbiota balance, alleviating gastrointestinal symptoms, promoting intestinal function recovery, and enhancing nutrition indexes in patients with VHD after surgery. Regulating the intestinal microbiota may represent a potential mechanism for LPL-RH to exert clinical benefits.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/22221751.2024.2364744
+- DOI: 10.1039/d4fo01471e
 
 2. Keywords
-- AIDS
-- allogeneic
-- cell therapy
-- clinical trail
-- immune restoration
+
 
 3. Key Findings
-- Additionally, stratified analysis of patients in the AAIT Group showed that donor/recipient sex mismatch was significantly associated with the likelihood of patients achieving an immunological response (OR&#x2009;=&#x2009;8
+- Additionally, LPL-RH was found to significantly reduce abdominal pain (= 0
+- Microbiome analysis showed that the composition and diversity of the postoperative intestinal microbiota differed between the probiotic and placebo groups
 
 This study provides insights into:
-- AIDS assessment methods and outcomes
-- allogeneic assessment methods and outcomes
-- cell therapy assessment methods and outcomes
+- General research methodology and outcomes

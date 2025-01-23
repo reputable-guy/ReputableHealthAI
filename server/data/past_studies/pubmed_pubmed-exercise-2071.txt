@@ -1,27 +1,29 @@
-Study Title: Exercise into Pain in Chronic Rotator Cuff-Related Shoulder Pain: A Randomized Controlled Trial with 6-Month Follow-Up.
+Study Title: Effect of physical exercise training on neural activity during working memory in major depressive disorder.
 
 Study Summary:
-Exercise therapy is the first-line treatment in rotator cuff-related shoulder pain (RCRSP), and diverse types of exercise seem effective. However, it is not still clear if painful exercise should be allowed or avoided during exercises. The objective of this study was to investigate if exercise into pain is more effective than no pain in RCRSP. A randomized controlled trial was conducted in a physiotherapy clinic in Belgium. Forty-three participants with chronic RCRSP were randomly allocated to G1 (exercising into pain) or G2 (exercising without pain) in a 12-week intervention with 6-month follow-up. Primary outcome was the Shoulder Pain and Disability Index (SPADI); secondary outcomes were pain intensity, fear-avoidance beliefs, fear of pain, quality of life, strength, and range of motion. Outcomes were measured at baseline (T0), after 9&#xa0;weeks (T1), 12&#xa0;weeks (T2), and 6 months (T3) from the first session and analysed with linear mixed models. No between-group difference in SPADI (time-by-group interaction, p = 0.25) up to 6 months was found, with mean difference (G1-G2) at T1 = 5.78 (CI95%: -3.43,14.59; p = 0.33), at T2 = 0.93 (CI95%: -7.20,9.05; p = 0.82), at T3 = 4.15 (CI95%: -2.61,10.92; p = 0.33). No between-group differences were found for any other outcomes. Pain provocation seems not to be necessary in RCRSP for achieving successful treatment effect in pain and disability reduction, fear-related beliefs, and quality of life up to 6 months. ClinicalTrials.gov NCT04553289.
+Deficits in working memory (WM) are common in patients with Major Depression Disorder (MDD). Previous research mainly in healthy adults indicated that physical exercise training may improve cognitive functions by stimulating neuronal plasticity particularly in hippocampal structures. Thus, the goal of this functional Magnetic Resonance Imaging (fMRI) study was to examine alterations in neuronal activity during a WM task and to investigate changes in brain volume and functioning following a physical exercise training in patients with MDD with a specific focus on hippocampal structures. 86 (39 female) MDD outpatients (average age 37.3), diagnosed by clinical psychologists, were randomly assigned to one of three groups for a 12-week intervention: High intensity exercise training (HEX), low intensity exercise training (LEX) or waiting list control group (WL). An n-back task (with WM loads of 0, 1, 2, and 3) during fMRI was conducted before and after interventions/waiting period. Both exercise groups showed better performance and shorter reaction times at higher WM loads after 12-weeks of physical exercise training. Specifically in the HEX, we found an improvement in physical fitness and an increase in neural activation in the left hippocampus as compared to the WL following the exercise training. Training-related structural volume changes in gray matter or hippocampus were not detected. Our results partly support the hypothesis that physical exercise training positively affects WM functions by improving neuronal plasticity in hippocampal regions. Exercise training seems to be a promising intervention to improve deficient WM performance in patients with MDD. Neurobiological correlates and mechanisms of the augmentation of psychotherapy with endurance exercise in mild to moderate depression - SPeED, http://apps.who.int/trialsearch/Trial2.aspx?TrialID=DRKS00008869, DRKS00008869.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.2147/OAJSM.S483272
+- Publication Date: 2025
+- DOI: 10.1016/j.jad.2024.12.016
 
 2. Keywords
-- exercise therapy
-- physical therapy modalities
-- rehabilitation
-- shoulder impingement syndrome
-- shoulder pain
+- Depression
+- Functional magnetic resonance imaging
+- Hippocampus
+- Major depressive disorder
+- Physical exercise training
+- Working memory
 
 3. Key Findings
-- 25) up to 6 months was found, with mean difference (G1-G2) at T1 = 5
-- No between-group differences were found for any other outcomes
+- Previous research mainly in healthy adults indicated that physical exercise training may improve cognitive functions by stimulating neuronal plasticity particularly in hippocampal structures
+- Both exercise groups showed better performance and shorter reaction times at higher WM loads after 12-weeks of physical exercise training
+- Specifically in the HEX, we found an improvement in physical fitness and an increase in neural activation in the left hippocampus as compared to the WL following the exercise training
 
 This study provides insights into:
-- exercise therapy assessment methods and outcomes
-- physical therapy modalities assessment methods and outcomes
-- rehabilitation assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Functional magnetic resonance imaging assessment methods and outcomes
+- Hippocampus assessment methods and outcomes

@@ -1,26 +1,20 @@
-Study Title: The investigation of effect on foot plantar massage on functional recovery in older adults with general surgery, randomized clinical trial.
+Study Title: Cognitive-Behavioral-Based Physical Therapy for Improving Recovery After a Traumatic Lower-Extremity Injury: The Results of a Randomized Controlled Trial.
 
 Study Summary:
-Foot massage is known to be effective on the emotional state (anxiety, depression, etc.) in the postoperative period. However, studies on its effect on functional level are insufficient. The study aimed to investigate the impact of foot plantar massage on functional recovery in older adults undergoing general surgery, employing a randomized clinical trial design. A total of 70 older adults aged 65 years and above who underwent abdominal surgery were included. Various assessments were conducted, including pain levels (Visual Analogue Scale), fear of mobility (Tampa Scale for Kinesiophobia), functional independence (Functional Independence Measure), balance (Berg Balance Scale), basic mobility (Rivermead Mobility Index), mental function status (Standardized Mini-Mental State Examination), and delirium (Nu-DESC). Statistically significant differences were observed in some assessment parameters within the groups during the 2nd and 3rd measurement times, with the intervention group demonstrating significant mean differences. The literature underscores the increase in kinesiophobia scores post-general/abdominal surgery in older adults, emphasizing the importance of evaluating functional level and kinesiophobia to expedite discharge processes and potentially plan early post-discharge rehabilitation to mitigate readmissions for functional reasons. Ultimately, foot massage was found to be effective in reducing kinesiophobia, improving balance, mobility, daily living skills, and mental status in older adults post-abdominal surgery, thereby advocating for the facilitation of post-discharge rehabilitation programs or the reduction of readmission rates. NCT05534490.
+Lower-extremity injuries can result in severe impairment and substantial years lived with a disability. Persistent pain and psychological distress are risk factors for poor long-term outcomes and negatively influence the recovery process following a traumatic injury. Cognitive-behavioral therapy (CBT) interventions have the potential to address these risk factors and subsequently improve outcomes. This study aimed to evaluate the effect of a telephone-delivered cognitive-behavioral-based physical therapy (CBPT) program on physical function, pain, and general health at 12 months after hospital discharge following lower-extremity trauma. The CBPT program was hypothesized to improve outcomes compared with an education program. A multicenter, randomized controlled trial was conducted involving 325 patients who were 18 to 60 years of age and had at least 1 acute orthopaedic injury to the lower extremity or to the pelvis or acetabulum requiring operative fixation. Patients were recruited from 6 Level-I trauma centers and were screened and randomized to the CBPT program or the education program early after hospital discharge. The primary outcome was the Patient-Reported Outcomes Measurement Information System (PROMIS) Physical Function (PF) scale. The secondary outcomes were objective physical function tests (4-square step test, timed stair ascent test, sit-to-stand test, and self-selected walking speed test), PROMIS Pain Intensity and Pain Interference, and the Veterans RAND 12-Item Health Survey. Treatment effects were calculated using targeted maximum likelihood estimation, a robust analytical approach appropriate for causal inference with longitudinal data. The mean treatment effect on the 12-month baseline change in PROMIS PF was 0.94 (95% confidence interval, -0.68 to 2.64; p = 0.23). There were also no observed differences in secondary outcomes between the intervention group and the control group. The telephone-delivered CBPT did not appear to yield any benefits for patients with traumatic lower-extremity injuries in terms of physical function, pain intensity, pain interference, or general health. Improvements were observed in both groups, which questions the utility of telephone-delivered cognitive-behavioral strategies over educational programs. Therapeutic Level I . See Instructions for Authors for a complete description of levels of evidence.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s40520-024-02770-2
+- DOI: 10.2106/JBJS.23.01234
 
 2. Keywords
-- Aging
-- Kinesiophobia
-- Massage
-- Nurses
-- Rehabilitation
+
 
 3. Key Findings
-- Ultimately, foot massage was found to be effective in reducing kinesiophobia, improving balance, mobility, daily living skills, and mental status in older adults post-abdominal surgery, thereby advocating for the facilitation of post-discharge rehabilitation programs or the reduction of readmission rates
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Aging assessment methods and outcomes
-- Kinesiophobia assessment methods and outcomes
-- Massage assessment methods and outcomes
+- General research methodology and outcomes

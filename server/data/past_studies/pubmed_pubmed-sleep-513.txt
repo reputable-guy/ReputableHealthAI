@@ -1,28 +1,27 @@
-Study Title: SBT2786 Improves Sleep Quality in Japanese Adults with Relatively High Levels of Stress: A Randomized, Double-Blind, Placebo-Controlled Study.
+Study Title: Development of a mindfulness-based intervention for narcolepsy: a feasibility study.
 
 Study Summary:
-Sleep disorders associated with lifestyle changes and unhealthy habits are major public health concerns. Our previous study showed thatSBT2786 has a potent sleep-promoting effect on fruit flies. Fruit flies share many similarities with mammals, making them suitable model organisms for studying sleep. Thus, in the present study, we conducted a randomized, double-blind, placebo-controlled clinical trial to test whether SBT2786 has sleep-enhancing effects in humans. In this study, 61 participants in the SBT2786 group and 65 participants in the placebo group were analyzed. The results showed that SBT2786 increased sleep time; however, it predominantly increased light sleep and did not improve subjective sleep quality. Interestingly, mood improvement was observed. A subgroup analysis was conducted on participants with high stress levels, and results showed that these participants experienced an increase in sleep duration and an improvement in sleepiness upon waking up and reported feeling well-rested during the day. We concluded that SBT2786 may improve sleep quality, particularly in individuals experiencing high levels of stress, and that SBT2786 can be used as a dietary supplement to improve sleep and mood.
+Mindfulness-based interventions (MBI) have been shown to improve psychosocial functioning in medical populations but have not been studied in narcolepsy. This study examined the feasibility and acceptability of an MBI that was adapted for narcolepsy, including three variations in program length. Adults with narcolepsy (N&#x2005;=&#x2005;60) were randomized to MBI groups of varying durations: brief (4 weeks), standard (8 weeks), or extended (12 weeks). Participants completed assessments at baseline, 4, 8, and 12 weeks. To assess feasibility and acceptability, primary outcomes included attendance, meditation practice, and data completeness. Additionally, participants completed measures of mindfulness, self-compassion, mood, sleep, psychosocial functioning, and cognition. An effect size of Cohen's d&#x2005;&#x2265;&#x2005;0.5 was used as the prespecified benchmark for a minimal clinically important difference (MCID). The attendance, meditation, and data completeness benchmarks were met by 71.7%, 61.7%, and 78.3% of participants, respectively. Higher proportions of the brief and extended groups met these benchmarks compared to the standard group. All groups met the MCID for mindfulness, self-compassion, self-efficacy for managing emotions, positive psychosocial impact, global mental health, and fatigue. Standard and extended groups met the MCID for anxiety and depression, and extended groups met the MCID for additional measures including social and cognitive functioning, daytime sleepiness, hypersomnia symptoms, and hypersomnia-related functioning. Results suggest that the remote delivery and data collection methods are feasible to employ in future clinical trials, and it appears that the extended MBI provides the most favorable clinical impact while maintaining attendance and engagement in meditation practice. Awareness and Self-Compassion Enhancing Narcolepsy Treatment (ASCENT), NCT04306952, https://clinicaltrials.gov/ct2/show/NCT04306952.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16111702
+- DOI: 10.1093/sleep/zsae137
 
 2. Keywords
-- Bifidobacterium adolescentis SBT2786
-- clinical study
-- sleep
-- stress
+- Narcolepsy
+- anxiety
+- depression
+- mind-body therapies
+- mindfulness
+- psychosocial functioning
 
 3. Key Findings
-- Our previous study showed thatSBT2786 has a potent sleep-promoting effect on fruit flies
-- The results showed that SBT2786 increased sleep time; however, it predominantly increased light sleep and did not improve subjective sleep quality
-- A subgroup analysis was conducted on participants with high stress levels, and results showed that these participants experienced an increase in sleep duration and an improvement in sleepiness upon waking up and reported feeling well-rested during the day
-- We concluded that SBT2786 may improve sleep quality, particularly in individuals experiencing high levels of stress, and that SBT2786 can be used as a dietary supplement to improve sleep and mood
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Bifidobacterium adolescentis SBT2786 assessment methods and outcomes
-- clinical study assessment methods and outcomes
-- sleep assessment methods and outcomes
+- Narcolepsy assessment methods and outcomes
+- anxiety assessment methods and outcomes
+- depression assessment methods and outcomes

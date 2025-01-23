@@ -1,26 +1,26 @@
-Study Title: Microstructural properties in subacute aphasia: concurrent and prospective relationships underpinning recovery.
+Study Title: Gastrointestinal functions after laparoscopic right colectomy with intracorporeal anastomosis: a pilot randomized clinical trial on effects of abdominal drain, prolonged antibiotic prophylaxis, and D3 lymphadenectomy with complete mesocolic excision.
 
 Study Summary:
-Few investigations examined the relationship between microstructural white matter integrity and subacute post-stroke linguistic performance or the relationship between microstructural integrity and the recovery of language function. We examined two key questions: (1) How does subacute language performance, measured in single words and discourse, relate to the microstructural integrity of key white matter regions of interest in the language network? and (2) Does the integrity of these regions before treatment predict the improvement or resolution of linguistic symptoms immediately and chronically following treatment? 58 participants within the first three months of stroke were enrolled in a randomized, single-center, double-blind, sham-controlled, study of anodal transcranial direct current stimulation combined with a computer-delivered speech and language naming therapy for subacute aphasia and were asked to complete magnetic resonance imaging at enrollment. Microstructural integrity was evaluated using diffusion tensor imaging processed with atlas-based segmentation. Regression and correlation analyses were conducted. A subset of 22 participants received diffusion tensor imaging. Picture naming accuracy significantly correlated with lower mean diffusivity (higher microstructural integrity) in the left posterior inferior temporal gyrus. Recovery of naming performance was predicted by days since stroke and baseline microstructural integrity of the left posterior middle temporal gyrus, arcuate fasciculus, and superior longitudinal fasciculus. Recovery of discourse efficiency was significantly predicted by the same model. This study demonstrates an association between picture naming and discourse and microstructural integrity of the key regions in the language network for patients with subacute post-stroke aphasia. Baseline microstructural integrity significantly predicts language recovery.
+Routine use of abdominal drain or prolonged antibiotic prophylaxis is no longer part of current clinical practice in colorectal surgery. Nevertheless, in patients undergoing laparoscopic right hemicolectomy with intracorporeal anastomosis (ICA), it may reduce perioperative abdominal contamination. Furthermore, in cancer patients, prolonged surgery with extensive dissection such as central vascular ligation and complete mesocolon excision with D3 lymphadenectomy (altogether radical right colectomy RRC) is called responsible for affecting postoperative ileus. The aim was to evaluate postoperative resumption of gastrointestinal functions in patients undergoing right hemicolectomy for cancer with ICA and standard D2 dissection or RRC, with or without abdominal drain and prolonged antibiotic prophylaxis. Monocentric factorial parallel arm randomized pilot trial including all consecutive patients undergoing laparoscopic right hemicolectomy and ICA for cancer, in 20&#xa0;months. Patients were randomized on a 1:1:1 ratio to receive abdominal drain, prolonged antibiotic prophylaxis or neither (I level), and 1:1 to receive RRC or D2 colectomy (II level). Patients were not blinded. The primary aim was the resumption of gastrointestinal functions (time to first gas and stool, time to tolerated fluids and food). Secondary aims were length of stay and complications' rate. gov no. NCT04977882. Fifty-seven patients were screened; according to sample size, 36 were randomized, 12 for each arm for postoperative management, and 18 for each arm according to surgical techniques. A difference in time to solid diet favored the group without drain or antibiotic independently from standard or RRC. Furthermore, when patients were divided with respect to surgical technique and into matched cohorts, no differences were seen for primary and secondary outcomes. Abdominal drainage and prolonged antibiotic prophylaxis in patients undergoing right hemicolectomy for cancer with ICA seem to negatively affect the resumption of a solid diet after laparoscopic right hemicolectomy with ICA for cancer. RRC does not seem to influence gastrointestinal function recovery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00429-024-02826-z
+- DOI: 10.1007/s00384-024-04657-0
 
 2. Keywords
-- Aphasia
-- Discourse
-- Naming
-- Stroke
-- tDCS
+- Anastomosis
+- Colectomy
+- Colonic neoplasms
+- Ileus
+- Mesocolon
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Aphasia assessment methods and outcomes
-- Discourse assessment methods and outcomes
-- Naming assessment methods and outcomes
+- Anastomosis assessment methods and outcomes
+- Colectomy assessment methods and outcomes
+- Colonic neoplasms assessment methods and outcomes

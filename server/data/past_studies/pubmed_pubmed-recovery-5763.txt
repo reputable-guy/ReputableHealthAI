@@ -1,27 +1,26 @@
-Study Title: Quality-of-life outcomes of the ROBOtic-assisted versus Conventional Open Partial nephrectomy (ROBOCOP) II trial.
+Study Title: Comparison of the recovery time of remimazolam besylate and propofol for gastrointestinal endoscopy sedation in elderly patients.
 
 Study Summary:
-To comprehensively compare quality-of-life (QoL) outcomes between open partial nephrectomy (OPN) and robot-assisted PN (RAPN) from the randomised ROBOtic-assisted versus Conventional Open Partial nephrectomy (ROBOCOP) II trial, as QoL data comparing OPN and RAPN are virtually non-existent, especially not from randomised controlled trials (RCTs). The ROBOCOP II was a single-centre, open-label RCT between OPN and RAPN. The pre-planned analyses of QoL outcomes are presented. Data were analysed descriptively in a modified intention-to-treat population. A total of 50 patients underwent surgery. At postoperative Day 90 (POD90), there was no significant difference for the Kidney Disease Quality of Life-Short Form questionnaire score (mean [sd] OPN 72&#x2009;[20] vs RAPN 76&#x2009;[15], P&#x2009;=&#x2009;0.850), while there were advantages for RAPN in the subdomains of 'Pain' (P&#x2009;=&#x2009;0.006) and 'Physical functioning' (P&#x2009;=&#x2009;0.011) immediately after surgery. For the European Organisation for Research and Treatment of Cancer quality of life questionnaire 30-item core there were overall advantages directly after surgery (mean [sd] score OPN 63&#x2009;[20] vs RAPN 75&#x2009;[17], P&#x2009;=&#x2009;0.031), as well as for the subdomains 'Fatigue' (P&#x2009;=&#x2009;0.026), 'Pain' (P&#x2009;=&#x2009;0.002) and 'Constipation' (P&#x2009;=&#x2009;0.045) but no differences at POD90. There were no differences for the EuroQoL five Dimensions five Levels questionnaire at POD90 (mean [sd] score OPN 70&#x2009;[22] vs RAPN 72&#x2009;[17], P&#x2009;=&#x2009;1.0) or at any other time point. Finally, no significant differences were found for the overall Convalescence and Recovery Evaluation questionnaire score at POD90 (mean [sd] OPN 84&#x2009;[13] vs RAPN 86&#x2009;[10], P&#x2009;=&#x2009;0.818) but less pain in the RAPN group (P&#x2009;=&#x2009;0.017) directly after surgery. Pain and physical functioning as subdomains of QoL are improved after RAPN compared to OPN in the early postoperative course, while there are no differences anymore after 3&#x2009;months.
+Recovery time is a crucial factor in ensuring the safety and effectiveness of both patients and endoscopy centers. Propofol is often preferred due to its fast onset and minimal side effects. Remimazolam is a new intravenous sedative agent, characterized by its rapid onset of action, quick recovery and organ-independent metabolism. Importantly, its effect can be specifically antagonized by flumazenil. The primary goal of this study is to compare the recovery time of remimazolam besylate and propofol anesthesia during endoscopic procedures in elderly patients.60 patients aged 65-95 years who underwent gastrointestinal endoscopy were randomly and equally assigned to two groups: the remimazolam group (Group R) and the propofol group (Group P). The primary measure was the recovery time, defined as the time from discontinuing remimazolam or propofol until reaching an Observer's Assessment of Alertness and Sedation scale (OAA/S) score of 5 (responds readily to name spoken in normal tone). The time required to achieve an OAA/S score of 3 (responds after name spoken loudly or repeatedly along with glazed marked ptosis) was also recorded and compared.The recovery time for Group R (2.6 &#xb1; 1.6 min) was significantly shorter than that for Group P (10.8 &#xb1; 3.0 min), with a 95% confidence interval (CI): 6.949-9.431 min,<0.001. Similarly, the time to attain an OAA/S score of 3 was significantly less in Group R (1.6 &#xb1; 0.9 min) compared to Group P (9.6 &#xb1; 2.6 min), with a 95% CI: 6.930-8.957 min,<0.001.Our study demonstrated that remimazolam anesthesia combined with flumazenil antagonism causes a shorter recovery time for elderly patients undergoing gastrointestinal endoscopy compared to propofol. Remimazolam followed by flumazenil antagonism provides a promising alternative to propofol for geriatric patients, particularly during gastrointestinal endoscopy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/bju.16407
+- DOI: 10.7150/ijms.93045
 
 2. Keywords
-- evidence&#x2010;based medicine
-- kidney cancer
-- partial nephrectomy
-- quality of life
-- randomised controlled trial
-- robot&#x2010;assisted&#x2010;surgery
+- elderly patients
+- gastrointestinal endoscopy
+- propofol
+- recovery time
+- remimazolam
 
 3. Key Findings
-- Finally, no significant differences were found for the overall Convalescence and Recovery Evaluation questionnaire score at POD90 (mean [sd] OPN 84&#x2009;[13] vs RAPN 86&#x2009;[10], P&#x2009;=&#x2009;0
+- Our study demonstrated that remimazolam anesthesia combined with flumazenil antagonism causes a shorter recovery time for elderly patients undergoing gastrointestinal endoscopy compared to propofol
 
 This study provides insights into:
-- evidence&#x2010;based medicine assessment methods and outcomes
-- kidney cancer assessment methods and outcomes
-- partial nephrectomy assessment methods and outcomes
+- elderly patients assessment methods and outcomes
+- gastrointestinal endoscopy assessment methods and outcomes
+- propofol assessment methods and outcomes

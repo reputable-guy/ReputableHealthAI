@@ -1,29 +1,21 @@
-Study Title: Unsupervised robot-assisted rehabilitation after stroke: feasibility, effect on therapy dose, and user experience.
+Study Title: Total Intravenous Anesthesia with Propofol Reduces Discharge Times Compared with Inhaled General Anesthesia in Shoulder Arthroscopy: A Randomized Controlled Trial.
 
 Study Summary:
-Unsupervised robot-assisted rehabilitation is a promising approach to increase the dose of therapy after stroke, which may help promote sensorimotor recovery without requiring significant additional resources and manpower. However, the unsupervised use of robotic technologies is not yet a standard, as rehabilitation robots often show low usability or are considered unsafe to be used by patients independently. In this paper we explore the feasibility of unsupervised therapy with an upper limb rehabilitation robot in a clinical setting, evaluate the effect on the overall therapy dose, and assess user experience during unsupervised use of the robot and its usability. Subacute stroke patients underwent a four-week protocol composed of daily 45&#xa0;min-sessions of robot-assisted therapy. The first week consisted of supervised therapy, where a therapist explained how to interact with the device. The second week was minimally supervised, i.e., the therapist was present but intervened only if needed. After this phase, if participants learnt how to use the device, they proceeded to two weeks of fully unsupervised training. Feasibility, dose of robot-assisted therapy achieved during unsupervised use, user experience, and usability of the device were evaluated. Questionnaires to evaluate usability and user experience were performed after the minimally supervised week and at the end of the study, to evaluate the impact of therapists' absence. Unsupervised robot-assisted therapy was found to be feasible, as 12 out of the 13 recruited participants could progress to unsupervised training. During the two weeks of unsupervised therapy participants on average performed an additional 360&#xa0;min of robot-assisted rehabilitation. Participants were satisfied with the device usability (mean System Usability Scale scores&#x2009;>&#x2009;79), and no adverse events or device deficiencies occurred. We demonstrated that unsupervised robot-assisted therapy in a clinical setting with an actuated device for the upper limb was feasible and can lead to a meaningful increase in therapy dose. These results support the application of unsupervised robot-assisted therapy as a complement to usual care in clinical settings and pave the way to its application in home settings. Registered on 13.05.2020 on clinicaltrials.gov (NCT04388891).
+Shoulder arthroscopy is commonly performed at ambulatory surgical centers (ASCs) with use of an interscalene block and inhaled general anesthesia (IGA). However, an alternative option known as total intravenous anesthesia with propofol (TIVA-P) has shown promising results in reducing recovery time for other surgeries. The objective of this study was to assess whether there is a clinically meaningful difference in post-anesthesia care unit phase-I (PACU-I) time following shoulder arthroscopy between patients receiving an interscalene block with IGA and those receiving an interscalene block with TIVA-P. Patients who underwent shoulder arthroscopy performed by a single surgeon at the ASC of our institution between 2020 and 2023 were enrolled. Enrollment was conducted in blocks, with up to 3 planned interim analyses. After 2 blocks, enrollment was halted because the study arms demonstrated a significant difference in the primary outcome measure, PACU-I time. A total of 96 patients were randomized into the TIVA-P and IGA groups; after patient withdrawals, the groups comprised 42 and 40 patients, respectively. Patients underwent shoulder arthroscopy with use of the anesthesia method corresponding to their assigned group. Pain, satisfaction, antiemetic use, perioperative interventions, surgical time, PACU-II time, postoperative care time, and total time until discharge were recorded and were analyzed with use of chi-square and Mann-Whitney U tests with a significance cutoff of 0.0167 to account for the interim analyses. Across groups, 81.7% of patients were non-Hispanic White and 58.5% were male. Significant differences were observed between the TIVA-P and IGA groups with respect to median PACU-I time (0.0 minutes [interquartile range (IQR), 0.0 to 6.0 minutes] versus 25.5 minutes [IQR, 20.5 to 32.5 minutes]; p < 0.001) and median total time until discharge (135.5 minutes [IQR, 118.5 to 156.8 minutes] versus 148.5 minutes [IQR, 133.8 to 168.8 minutes]; p = 0.0104). The TIVA-P group had a 9.1% quicker discharge time, primarily as a result of bypassing PACU-I (66.7% of patients) and spending 25.5 fewer minutes there overall. The TIVA-P group also had a lower rate of antiemetic use than the IGA group (59.5% versus 92.5% of patients; p = 0.0013). No significant differences were detected between the TIVA-P and IGA groups in terms of median pain improvement (1.0 [IQR, 0.0 to 2.0] versus 1.0 [IQR, 0.0 to 2.0]; p = 0.6734), perioperative interventions (78.6% versus 77.5% of patients, p = 1.0000), or median patient satisfaction (4.0 [IQR, 4.0 to 4.0] versus 4.0 [IQR, 3.8 to 4.0]; p = 0.4148). TIVA-P showed potential to improve both PACU-I time and the total time until discharge while reducing antiemetic use without impacting pain or satisfaction. TIVA-P thus warrants consideration by orthopaedic surgeons for use in shoulder arthroscopy performed at ASCs. Therapeutic Level I . See Instructions for Authors for a complete description of levels of evidence.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12984-024-01347-4
+- DOI: 10.2106/JBJS.23.00954
 
 2. Keywords
-- Neurocognitive therapy
-- Neurorehabilitation
-- Rehabilitation technologies
-- Robot-assisted therapy
-- Self-directed rehabilitation
-- Stroke
-- Unsupervised rehabilitation
+
 
 3. Key Findings
-- Unsupervised robot-assisted therapy was found to be feasible, as 12 out of the 13 recruited participants could progress to unsupervised training
-- We demonstrated that unsupervised robot-assisted therapy in a clinical setting with an actuated device for the upper limb was feasible and can lead to a meaningful increase in therapy dose
+- After 2 blocks, enrollment was halted because the study arms demonstrated a significant difference in the primary outcome measure, PACU-I time
+- TIVA-P showed potential to improve both PACU-I time and the total time until discharge while reducing antiemetic use without impacting pain or satisfaction
 
 This study provides insights into:
-- Neurocognitive therapy assessment methods and outcomes
-- Neurorehabilitation assessment methods and outcomes
-- Rehabilitation technologies assessment methods and outcomes
+- General research methodology and outcomes

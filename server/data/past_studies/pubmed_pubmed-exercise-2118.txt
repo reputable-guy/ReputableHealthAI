@@ -1,26 +1,27 @@
-Study Title: The efficacy of myofascial release at the cervicothoracic region in patients with rotator cuff repairs: A randomized controlled pilot study.
+Study Title: Assessing Changes in Motor Function and Mobility in Individuals with Parkinson's Disease After 12 Sessions of Patient-Specific Adaptive Dynamic Cycling.
 
 Study Summary:
-Coactivation between tonic and phasic muscles is essential for correct posture and movement. Impaired movement patterns and postural changes facilitate the flexor response to protect painful tissue in the injured area. Tone changes between tonic and phasic muscles lead to an imbalance in the rotator cuff (RC) muscles. A randomized controlled pilot study. The purpose of this study is to determine the effects of applying myofascial release (MFR) to the muscles in the cervicothoracic region for the treatment of fascia limitations in patients with postoperative RC tear. A total of 20 patients were randomly divided into 2 groups. The patients in the control group performed exercises, whereas those in the MFR group performed exercises in addition to MFR. Pain intensity, grip strength, pectoralis minor flexibility, Constant Murley Score (CMS), and Short Form-36 (SF-36) score were evaluated. Pain intensity was recorded before and after the MFR sessions. There were no significant differences between the groups regarding pain, grip strength, pectoralis minor flexibility, CMS values, or SF-36 score (p&#xa0;>&#xa0;0.05). There were significant differences in pain levels measured before and after all MFR sessions. Moreover, a significant decrease is shown between the first and last sessions in the MFR group (p&#xa0;<&#xa0;0.05). MFR can be useful, especially in postoperative RC patients who have pain in the early period. Significant reductions in pain intensity after MFR can help prepare patients for exercise and reduce pain-related medication use.
+This pilot randomized controlled trial evaluated the effects of 12 sessions of patient-specific adaptive dynamic cycling (PSADC) versus non-adaptive cycling (NA) on motor function and mobility in individuals with Parkinson's disease (PD), using inertial measurement unit (IMU) sensors for objective assessment. Twenty-three participants with PD (13 in the PSADC group and 10 in the NA group) completed the study over a 4-week period. Motor function was measured using the Kinesia&#x2122; sensors and the MDS-UPDRS Motor III, while mobility was assessed with the TUG test using OPAL IMU sensors. The PSADC group showed significant improvements in MDS-UPDRS Motor III scores (= 5.165,< 0.001) and dopamine-sensitive symptoms (= 4.629,= 0.001), whereas the NA group did not improve. Both groups showed non-significant improvements in TUG time. IMU sensors provided continuous, quantitative, and unbiased measurements of motor function and mobility, offering a more precise and objective tracking of improvements over time. PSADC demonstrated enhanced treatment effects on PD motor function compared to NA while also reducing variability in individual responses. The integration of IMU sensors was essential for precise monitoring, supporting the potential of a data-driven, individualized exercise approach to optimize treatment outcomes for individuals with PD.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jbmt.2024.06.006
+- DOI: 10.3390/s24227364
 
 2. Keywords
-- Myofascial restrictions
-- Pain
-- Physiotherapy
-- Rotator cuff repair
-- Soft tissue mobilization
+- motor control
+- movement disorders
+- neurorehabilitation
+- wearable technology
 
 3. Key Findings
-- Findings extraction requires manual review
+- The PSADC group showed significant improvements in MDS-UPDRS Motor III scores (= 5
+- Both groups showed non-significant improvements in TUG time
+- PSADC demonstrated enhanced treatment effects on PD motor function compared to NA while also reducing variability in individual responses
 
 This study provides insights into:
-- Myofascial restrictions assessment methods and outcomes
-- Pain assessment methods and outcomes
-- Physiotherapy assessment methods and outcomes
+- motor control assessment methods and outcomes
+- movement disorders assessment methods and outcomes
+- neurorehabilitation assessment methods and outcomes

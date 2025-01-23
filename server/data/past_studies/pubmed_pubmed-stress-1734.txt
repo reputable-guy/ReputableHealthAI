@@ -1,21 +1,28 @@
-Study Title: The Effect of Foot Reflexology on Stress, Fatigue, and Low Back Pain in Intensive Care Unit Nurses: A Randomized Controlled Trial.
+Study Title: Serum Calcification Propensity Is Increased in Myocardial Infarction and Hints at a Pathophysiological Role Independent of Classical Cardiovascular Risk Factors.
 
 Study Summary:
-This study, which uses a randomized controlled design, aimed to determine the effect of foot reflexology on stress, fatigue, and low back pain (LBP) in intensive care unit (ICU) nurses. The study was conducted with intensive care unit nurses at two hospitals in a city between September 2022 and April 2023. The study sample consisted of 42 nurses, 21 of whom had low back pain for at least 3 months and 21 of whom were controls. In the study, foot reflexology was applied to the intervention group for 20 minutes (10 minutes on each foot) once a week for 4 weeks. There was no intervention applied to the control group. Data were collected using the Personal Information Form, the Perceived Stress Scale (PSS), the Fatigue Severity Scale (FSS), and the Visual Analog Scale (VAS). Based on the change in the mean scores of the scale in the intervention and control groups over time, a statistically significant decrease was found between the pre-test (before foot reflexology) and post-test mean scores of the LBP-VAS (from 6.33 to 2.24, respectively) and the Fatigue Severity Scale (from 4.81 to 3.60, respectively) in the intervention group. Although there was no statistically significant difference between the perceived stress scale pre-test and post-test scores, it was found that there was a decrease in favor of the intervention group. Foot reflexology appears to offer promise as an effective method for ICU nurses to reduce lower back pain and fatigue.
+Vascular calcification is associated with increased mortality in patients with cardiovascular disease. Secondary calciprotein particles are believed to play a causal role in the pathophysiology of vascular calcification. The maturation time (T) of calciprotein particles provides a measure of serum calcification propensity. We compared Tbetween patients with ST-segment-elevated myocardial infarction and control subjects and studied the association of Twith cardiovascular risk factors and outcome. Twas measured by nephelometry in 347 patients from the GIPS-III trial (Metabolic Modulation With Metformin to Reduce Heart Failure After Acute Myocardial Infarction: Glycometabolic Intervention as Adjunct to Primary Coronary Intervention in ST Elevation Myocardial Infarction: a Randomized Controlled Trial) and in 254 matched general population controls from PREVEND (Prevention of Renal and Vascular End-Stage Disease). We also assessed the association between Tand left ventricular ejection fraction, as well as infarct size, the incidence of ischemia-driven reintervention during 5 years of follow-up, and serum nitrite as a marker of endothelial dysfunction. Patients with ST-segment-elevated myocardial infarction had a significantly lower T(ie, higher serum calcification propensity) compared with controls (T: 289&#xb1;63 versus 338&#xb1;56 minutes;<0.001). In patients with ST-segment-elevated myocardial infarction, lower Twas associated with female sex, lower systolic blood pressure, lower total cholesterol, lower LDL (low-density lipoprotein) cholesterol, lower triglycerides, and higher HDL (high-density lipoprotein) cholesterol but not with circulating nitrite or nitrate. Ischemia-driven reintervention was associated with higher LDL (=0.03) and had a significant interaction term for Tand sex (=0.005), indicating a correlation between ischemia-driven reintervention and Tabove the median in men and below the median in women, between 150 days and 5 years of follow-up. Serum calcification propensity is increased in patients with ST-segment-elevated myocardial infarction compared with the general population, and its contribution is more pronounced in women than in men. Its lack of/inverse association with nitrite and blood pressure confirms Tto be orthogonal to traditional cardiovascular disease risk factors. Lower Twas associated with a more favorable serum lipid profile, suggesting the involvement of divergent pathways of calcification stress and lipid stress in the pathophysiology of myocardial infarction.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.pmn.2024.05.013
+- DOI: 10.1161/ATVBAHA.124.320974
 
 2. Keywords
-
+- ST elevation myocardial infarction
+- atherosclerosis
+- heart disease risk factors
+- myocardial infarction
+- nephelometry and turbidimetry
+- triglycerides
+- vascular calcification
 
 3. Key Findings
-- Based on the change in the mean scores of the scale in the intervention and control groups over time, a statistically significant decrease was found between the pre-test (before foot reflexology) and post-test mean scores of the LBP-VAS (from 6
-- Although there was no statistically significant difference between the perceived stress scale pre-test and post-test scores, it was found that there was a decrease in favor of the intervention group
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- ST elevation myocardial infarction assessment methods and outcomes
+- atherosclerosis assessment methods and outcomes
+- heart disease risk factors assessment methods and outcomes

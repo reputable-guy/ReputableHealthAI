@@ -1,27 +1,26 @@
-Study Title: Effect of Lifestyle Counselling via a Mobile Application on Disease Activity Control in Inflammatory Arthritis: A Single-Blinded, Randomized Controlled Study.
+Study Title: Comparing the Efficacy of Digital and In-Person Weight Loss Interventions for Patients with Obesity and Glycemic Disorders: Evidence from a Randomized Non-Inferiority Trial.
 
 Study Summary:
-Mobile applications (apps) are a resource for information on lifestyle and nutrition which are associated to improved outcomes in inflammatory arthritis. The aim of this study was to explore whether targeted lifestyle counselling via an app improves disease activity in arthritis patients. Patients with rheumatoid arthritis (RA), spondyloarthritis (SpA), psoriatic arthritis (PsA) were randomized to 12 weeks of lifestyle counselling via an app (Mida, Midaia GmbH, Germany) pertaining to a healthy Mediterranean Diet, physical activity, and mental health. Disease activity was measured with specific instruments by a blinded physician and categorized (remission, low, moderate, high). Dietary adherence was assessed by the Mediterranean Diet Adherence Screener (MEDAS). Mixed effects logistic regression adjusted to baseline disease activity, age, and sex were calculated. Of 158 patients included (73% female, 53.3 &#xb1; 11.7 years), 74 were in the active counselling group (ACG). All showed improvement in low disease activity or remission. ACG patients had an odds ratio (OR) of 2.8 (95%-CI 1.1-7.2,= 0.035), while OR in the control group was not significant OR = 2.1 (0.9-5.0,= 0.097). The control group was less likely to reach a MEDAS >= 4 (OR = 0.16 (0.03-0.77),= 0.02), while this was not seen in the ACG (OR = 0.54 (0.06-4.63),= 0.6). Patients in the ACG showed a tendency towards improved adhesion to a Mediterranean Diet (MEDAS) (&#x3b2; = 0.35 (-0.05-0.74),= 0.086). This tendency was not observed in the control group (&#x3b2; = 0.09 (-0.29-0.46),= 0.64). Individualized lifestyle and dietary counselling via app may help to improve disease control in inflammatory arthritis patients.
+Digital weight loss interventions present a viable and cost-effective alternative to traditional therapy. However, further evidence is needed to establish the equal effectiveness of both approaches. This randomized controlled non-inferiority trial aimed to compare the effects of an intensive in-person weight loss intervention program with Vitadio digital therapy. One hundred patients with obesity and diagnosed with type 2 diabetes, prediabetes, or insulin resistance were enrolled and randomly assigned to one of the two treatment groups. Over a 6-month period, the control group received five in-person consultations with a physician who specialized in obesity treatment, a dietitian and/or a nutrition nurse, while the intervention group followed the digital program based on a multimodal therapeutic approach. The extent of weight loss was assessed and compared between the groups. Additionally, changes in body composition and metabolic parameters for the digital intervention group were analyzed. The study results demonstrated comparable effectiveness of both treatments for weight reduction. The positive effects of Vitadio were further evidenced by favorable changes in body composition and lipid metabolism and improved glycemic control in the intervention group. These findings suggest that Vitadio is an effective tool for assisting patients with managing obesity and preventing diabetes progression.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16101488
+- DOI: 10.3390/nu16101510
 
 2. Keywords
-- Mediterranean Diet
-- axial spondyloarthritis
-- healthy lifestyle
-- psoriatic arthritis
-- rheumatoid arthritis
+- diabetes mellitus type 2
+- digital therapeutics
+- insulin resistance
+- lifestyle intervention
+- obesity
 
 3. Key Findings
-- All showed improvement in low disease activity or remission
-- Patients in the ACG showed a tendency towards improved adhesion to a Mediterranean Diet (MEDAS) (&#x3b2; = 0
+- The study results demonstrated comparable effectiveness of both treatments for weight reduction
 
 This study provides insights into:
-- Mediterranean Diet assessment methods and outcomes
-- axial spondyloarthritis assessment methods and outcomes
-- healthy lifestyle assessment methods and outcomes
+- diabetes mellitus type 2 assessment methods and outcomes
+- digital therapeutics assessment methods and outcomes
+- insulin resistance assessment methods and outcomes

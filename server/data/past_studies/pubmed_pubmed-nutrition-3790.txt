@@ -1,27 +1,20 @@
-Study Title: Usage and Daily Attrition of a Smartphone-Based Health Behavior Intervention: Randomized Controlled Trial.
+Study Title: Efficacy of a multidimensional self-management intervention on low-education women with metabolic syndrome: a cluster randomized controlled trial.
 
 Study Summary:
-Although most adolescents have access to smartphones, few of them use mobile health (mHealth) apps for health improvement, highlighting the apparent lack of interest in mHealth apps among adolescents. Adolescent mHealth interventions have been burdened with high attrition rates. Research on these interventions among adolescents has frequently lacked detailed time-related attrition data alongside analysis of attrition reasons through usage. The objective was to obtain daily attrition rates among adolescents in an mHealth intervention to gain a deeper understanding of attrition patterns, including the role of motivational support, such as altruistic rewards, through analysis of app usage data. A randomized controlled trial was conducted with 304 adolescent participants (152 boys and 152 girls) aged 13-15 years. Based on 3 participating schools, participants were randomly assigned to control, treatment as usual (TAU), and intervention groups. Measures were obtained at baseline, continuously throughout the 42-day trial period (research groups), and at the trial end. The mHealth app is called SidekickHealth and is a social health game with the following 3 main categories: nutrition, mental health, and physical health. Primary measures were attrition based on time from launch, and the type, frequency, and time of health behavior exercise usage. Outcome differences were obtained through comparison tests, while regression models and survival analyses were used for attrition measures. Attrition differed significantly between the intervention and TAU groups (44.4% vs 94.3%; &#x3c7;=61.220; P<.001). The mean usage duration was 6.286 days in the TAU group and 24.975 days in the intervention group. In the intervention group, male participants were active significantly longer than female participants (29.155 vs 20.433 days; &#x3c7;=6.574; P<.001). Participants in the intervention group completed a larger number of health exercises in all trial weeks, and a significant decrease in usage was observed from the first to second week in the TAU group (t=9.208; P<.001) but not in the intervention group. There was a significant increase in health exercises in the intervention group from the fifth to sixth week (t=3.446; P<.001). Such a significant increase in usage was not evident in the TAU group. The research group was significantly related to attrition time (hazard ratio 0.308, 95% CI 0.222-0.420), as well as the numbers of mental health exercises (P<.001) and nutrition exercises (P<.001). Differences in attrition rates and usage between groups of adolescents were identified. Motivational support is a significant factor for lowering attrition in adolescent mHealth interventions. The results point to sensitivity periods in the completion of diverse health tasks, and emphasis on time-specific attrition, along with the type, frequency, and time of health behavior exercise usage, is likely a fruitful avenue for further research on mHealth interventions for adolescent populations, in which attrition rates remain excessive. ClinicalTrials.gov NCT05912439; https://clinicaltrials.gov/study/NCT05912439.
+Low-education women, a substantially older population, are subject to increased risks of metabolic syndrome and consequent cardiometabolic diseases; early detection and effective management were urgently needed. Ninety-nine women with metabolic syndrome, age 61 and education&#x2009;&#x2264;&#x2009;6&#xa0;years, from four community units were randomly assigned to either a self-management intervention (n&#x2009;=&#x2009;51) or a control arm (n&#x2009;=&#x2009;48). The intervention consisted of five dimensions, physical activity and diet modifications (daily exercise classes and two nutrition courses), goal setting, coaching and peer support, problem-solving, and self-monitoring. The control arm received an education leaflet. Assessments were performed at baseline, six&#xa0;months, and 18&#xa0;months. Compared with the control, the intervention participants improved the overall rate of meeting the recommended servings for six health foods, including vegetables, dairy products, and nuts (except whole grains, fruits, and protein); the rate of meeting regular leisure-time physical activity; and criteria biomarkers-waist circumference, fasting blood glucose, high-density lipoprotein cholesterol (except blood pressure and triglycerides); as well as body weight and body mass index; consequently decreased the number of risk factors and rate of metabolic syndrome. In conclusion, the multidimensional self-management intervention improved physical activity, healthy eating, and metabolic syndrome risks among low-education women with metabolic syndrome.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.2196/45414
+- DOI: 10.1038/s41598-023-36971-y
 
 2. Keywords
-- adolescent
-- attrition
-- mHealth intervention
-- mental health
-- mobile health
-- physical activity
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- adolescent assessment methods and outcomes
-- attrition assessment methods and outcomes
-- mHealth intervention assessment methods and outcomes
+- General research methodology and outcomes

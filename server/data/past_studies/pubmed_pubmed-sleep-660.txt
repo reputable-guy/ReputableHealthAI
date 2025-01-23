@@ -1,24 +1,27 @@
-Study Title: Multi-center safety and efficacy study of a negative-pressure intraoral device in obstructive sleep apnea.
+Study Title: Which training load indicators are greater correlated with maturation and wellness variables in elite U14 soccer players?
 
 Study Summary:
-Intraoral devices, with or without negative oral pressure, can stabilize the oropharynx and reduce obstructive sleep apneas. We tested the hypothesis that treatment with the iNAP&#xae; Sleep Therapy System, which applies negative oral pressure through an intra-oral appliance, would reduce the severity of obstructive sleep apnea in a multi-center, prospective, first-night-randomized-order cross-over study. 130 patients fulfilled the entry criteria (age <75, AHI 15-55, BMI <33), and 63 entered the primary endpoint cohort (Total Sleep Time &#x2265;4&#xa0;h/night on the baseline polysomnogram and an oral negative vacuum time maintained by iNAP&#xae;&#xa0;&#x2265;&#xa0;4&#xa0;h/night and total sleep time &#x2265;4&#xa0;h/night during the first treatment study). 54 patients completed a second treatment sleep study at least 28 days after the first sleep study. Among the primary endpoint cohort (n&#xa0;=&#xa0;63, age&#xa0;=&#xa0;53.2&#xa0;&#xb1;&#xa0;11.3, BMI&#xa0;=&#xa0;27.1&#xa0;&#xb1;&#xa0;2.8), 33 patients (52&#xa0;%; 95&#xa0;% confidence interval&#xa0;=&#xa0;40%-64&#xa0;%, p&#xa0;<&#xa0;0.001) responded to iNAP treatment according to the Sher criteria (>50&#xa0;% reduction in AHI and an AHI &#x2264;20 events/hr). The average oxy-hemoglobin saturation increased by 1-2%, and the average percent oxygen desaturation decreased (was less severe) by 1&#xa0;% while using the iNAP device. The incidence of adverse events, all self-limited, was low. The reduction in the apnea-hypopnea index was durable over the 28-day study. Patients used iNAP on average 5.6&#xa0;h per night during the study period. The iNAP&#xae; Sleep Therapy System achieved a durable benefit in more than half the patients with moderate to severe obstructive sleep apnea and may be considered in patients who object to or failed continuous positive airway pressure. ClinicalTrials.gov Identifier: NCT02698059.
+Monitoring of training load is done to improve physical performance and minimize the incidence of injuries. The study examined the correlation between accumulated training load parameters based on periods with maturity (i.e., maturity offset and peak height velocity -PHV- and wellness variables -e.g., stress and sleep quality-). The second aim was to analyze the multi-linear regression between the above indicators. Twenty elite young U14 soccer players (M&#x2009;=&#x2009;13.26&#x2009;&#xb1;&#x2009;0.52 years, 95% CI [13.02, 13.51]) were evaluated over 26 weeks (early, mid, and end-season) to obtain stress, sleep quality, and measures of workload in the season (accumulated acute workload [AW], accumulated chronic workload [CW], accumulated acute: chronic workload ratio [ACWLR], accumulated training monotony [TM], accumulated training strain [TS]). The analysis revealed a moderate, statistically significant negative correlation between sleep quality and training monotony (r = -0.461, p&#x2009;<&#x2009;0.05). No significant correlations were observed between other variables (p&#x2009;>&#x2009;0.05). In the multi-linear regression analysis, maturity, PHV, sleep, and stress collectively accounted for variances of 17% in AW, 17.1% in CW, 11% in ACWLR, 21.3% in TM, and 22.6% in TS. However, individual regression coefficients for these predictors were not statistically significant (p&#x2009;>&#x2009;0.05), indicating limited predictive power. The study highlights the impact of sleep quality on training monotony, underscoring the importance of managing training load to mitigate the risks of overtraining. The non-significant regression coefficients suggest the complexity of predicting training outcomes based on the assessed variables. These insights emphasize the need for a holistic approach in training load management and athlete wellness monitoring.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.sleep.2024.04.015
+- DOI: 10.1186/s12887-024-04744-9
 
 2. Keywords
-- Obstructive sleep apnea
-- Oral appliance treatment
-- Sher criteria
+- Football
+- Maturation
+- Monotony
+- Psychological states
+- RPE
+- Youth sports
 
 3. Key Findings
-- Findings extraction requires manual review
+- The analysis revealed a moderate, statistically significant negative correlation between sleep quality and training monotony (r = -0
 
 This study provides insights into:
-- Obstructive sleep apnea assessment methods and outcomes
-- Oral appliance treatment assessment methods and outcomes
-- Sher criteria assessment methods and outcomes
+- Football assessment methods and outcomes
+- Maturation assessment methods and outcomes
+- Monotony assessment methods and outcomes

@@ -1,27 +1,20 @@
-Study Title: Reliability and Validity of Diabetes Nutrition Self-Efficacy and Behavior Measures for the "What Can I Eat" Diabetes Nutrition Education Program for American Indian and Alaska Native Adults With Type 2 Diabetes.
+Study Title: Early versus late parenteral nutrition in term and late preterm infants: a randomised controlled trial.
 
 Study Summary:
-American Indian and Alaska Native (AI/AN) people have high rates of diabetes and limited access to nutrition education. The "What Can I Eat? Healthy Choices for People With Type 2 Diabetes" (WCIE) diabetes nutrition education program was culturally adapted for AI/AN adults. This analysis was designed to evaluate the reliability and validity of items developed to measure diabetes nutrition self-efficacy (ie, confidence one can engage in specific behaviors) and diabetes nutrition behavior among participants in the WCIE program for AI/AN adults. This study was a secondary analysis of data from a randomized controlled trial designed to evaluate the WCIE program for AI/AN adults. Baseline data were used to assess the reliability and validity of the self-efficacy and behavior items, which were collected via survey. Due to COVID-19 safety protocols, the intervention was conducted via Zoom (Zoom Video Communications), and both survey and clinical data were collected at home by participants. The study was conducted from January to December 2021 with 5 AI/AN-serving health care programs in Oklahoma, Illinois, North Carolina, California, and New York. AI/AN adults with type 2 diabetes who spoke English and had internet access were eligible. Sixty people participated. Analyses examined validity and reliability of diabetes nutrition self-efficacy and behavior items. To test reliability, internal consistency and factor structures of the scales were examined. To evaluate convergent validity, Pearson correlations were computed to examine the association of the self-efficacy and behavior measures with each other and with clinical indicators (ie, body mass index, blood pressure, and hemoglobin A1c). Two self-efficacy factors were identified. Each showed strong internal consistency (Cronbach &#x3b1; &#x2265; 0.85; McDonald &#x3c9; &#x2265; 0.88) and was directly associated with diabetes nutrition behavior (P < .001). The factor assessing Confidence in Using the Diabetes Plate was inversely associated with hemoglobin A1c (Pearson correlation&#xa0;= -0.32, P&#xa0;= .0243). The behavior measure capturing Healthy Nutrition Behavior showed strong internal consistency (&#x3b1;&#xa0;= 0.89; &#x3c9;&#xa0;= 0.92) and was inversely associated with hemoglobin A1c (Pearson correlation&#xa0;= -0.38, P&#xa0;= .0057). Diabetes nutrition self-efficacy and behavior items developed for the WCIE program for AI/AN adults are valid and reliable. These items can facilitate rigorous and consistent evaluation of the AI/AN WCIE program.
+There is limited evidence regarding the optimal time to commence parenteral nutrition (PN) in term and late preterm infants. Single-centre, non-blinded, exploratory randomised controlled trial. A level-3 neonatal unit in a stand-alone paediatric hospital. Infants born &#x2265;34 weeks of gestation and &#x2264;28 days, who needed PN. Eligible infants were randomised on day 1 or day 2 of admission. Early (day 1 or day 2 of admission, N=30) or late (day 6 of admission, N=30) PN. Plasma phenylalanine and F-isoprostane levels on day 4 and day 8 of admission. Secondary outcomes were amino-acid and fatty-acid profiles on day 4 and day 8, and clinical outcomes. The postnatal age at randomisation was similar between the groups (2.3 (SD 0.8) vs 2.3 (0.7) days, p=0.90). On day 4, phenylalanine levels in early-PN infants were higher than in late-PN (mean (SD) 62.9 (26.7) vs 45.5 (15.3) &#xb5;mol/L; baseline-adjusted percentage difference 25.8% (95% CI 11.6% to 39.9%), p<0.001). There was no significant difference in phenylalanine levels between the two groups on day 8. There was no significant difference between the groups for F-isoprostane levels on day 4 (early-PN mean (SD) 389 (176) vs late-PN 419 (291) pg/mL; baseline-adjusted percentage difference: -4.4% (95% CI -21.5% to 12.8%) p=0.62) and day 8 (mean (SD) 305 (125) vs 354 (113) pg/mL; adjusted mean percentage difference -16.1 (95% CI -34.1 to 1.9) p=0.09).Postnatal growth restriction for weight was less severe in the early-PN group (change in weight z-score from baseline to discharge: -0.6 (0.6) vs -1.0 (0.6); p=0.02). The incidence of hyperglycaemia was greater in the early-PN group (20/30 (66.7%) vs 11/30 (36.7%), p=0.02). The timing of the commencement of PN did not seem to affect the degree of oxidative stress in critically ill term and late preterm infants. The effect of transiently high plasma phenylalanine with early PN on clinical outcomes requires further investigation. ACTRN12620000324910.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jand.2024.05.004
+- DOI: 10.1136/bmjpo-2024-002579
 
 2. Keywords
-- American Indians and Alaska Natives
-- Diabetes self-management education and support
-- Nutrition education
-- Type 2 diabetes mellitus
-- Validation study
+- Neonatology
 
 3. Key Findings
-- Each showed strong internal consistency (Cronbach &#x3b1; &#x2265; 0
-- The behavior measure capturing Healthy Nutrition Behavior showed strong internal consistency (&#x3b1;&#xa0;= 0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- American Indians and Alaska Natives assessment methods and outcomes
-- Diabetes self-management education and support assessment methods and outcomes
-- Nutrition education assessment methods and outcomes
+- Neonatology assessment methods and outcomes

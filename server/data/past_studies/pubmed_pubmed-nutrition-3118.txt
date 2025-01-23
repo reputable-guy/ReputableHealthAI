@@ -1,20 +1,26 @@
-Study Title: Individual, dyadic, collaborative planning, physical activity, and nutrition: A randomized controlled trial in parent-child dyads.
+Study Title: Treatment adherence and wellness, nutrition, and physical&#xa0;activity outcomes of diabetic patients with comorbid&#xa0;depression during the 18-month follow-up of the TELE-DD study.
 
 Study Summary:
-This study was designed to investigate the effects of individual, dyadic, and collaborative planning on moderate-to-vigorous physical activity (MVPA; primary outcome) and energy-dense food intake (secondary outcome) in dyads of parents and their 9-15-year-old children. Individual planning reflects an "I-for-me" planning of one person's behavior. Collaborative ("we-for-us") planning refers to joint planning of both dyad members' behavior, whereas dyadic ("we-for-me") planning involves joint planning of only the target person's behavior. = 247 dyads participated in a randomized controlled trial with individual, dyadic, or collaborative physical activity (PA) planning and control conditions (education about PA, sedentary behavior, nutrition, energy intake-expenditure balance). MVPA was measured with ActiGraph wGT3X-BT accelerometers at baseline, 1-week, and 36-week follow-ups. Energy-dense food intake was self-reported at baseline, 9-week, and 36-week follow-ups. Linear mixed models were fit for parents and children separately. At the 36-week follow-up, children in the dyadic "we-for-me" planning condition decreased their MVPA compared to the control condition. At the same time, children in the dyadic planning condition also decreased energy-dense food intake at the 36-week follow-up. No effects were found among children in individual and collaborative PA planning conditions. Parents in any experimental conditions decreased energy-dense food intake. Children's decrease in MVPA in dyadic PA planning condition was offset by a reduction of energy intake, which may represent a compensatory mechanism. The limited effectiveness of the dyadic "we-for-me" interventions in parent-child dyads may result from young people's needs for individuation and their reactance to parental support. (PsycInfo Database Record (c) 2025 APA, all rights reserved).
+A good adherence to pharmacological treatment in chronic pathologies such as type 2 diabetes and clinical depression is essential to improve illness prognosis. The main goal of the TELE-DD study was to analyze the effectiveness of a telephone, psychoeducational, and individualized intervention carried out by nurses in patients with type 2 diabetes mellitus and comorbid clinical depression with prior nonadherence to pharmacological treatment. In this paper, we describe and analyze secondary outcomes of the trial intervention. A prospective cohort study was used to assess the effectiveness of a telephonic intervention (IG) in n&#x2009;=&#x2009;191 participants with a similar control group (CG). Adherence to pharmacological treatment was assessed using the patient's self-perceived adherence questionnaire. In addition to clinical (HbAc1, HDL, LDL), physical (body mass index, blood pressure) and psychological measures (Patient Health Questionnaire-9 affective state), and psychosocial distress due to Diabetes Distress Scale Questionnaire at 3, 6, 12, and 18&#x2009;months of follow-up were also analyzed. The proportion of "Total Adherents" in the IG was higher throughout the study. This was particularly true at month 18 of the intervention. Self-perceived adherence rates increased by 27.1% in the IG and by 1.1% in the CG. Results of clinical and physical measures were higher in the IG than in the CG at month 18 of the intervention. The interview based on positive reinforcement as well as individualized attention and flexibility in making telephone calls and dissemination of the intervention in the media closest to the patients were key to achieving good participation and collaboration as well as continuity in adherence to treatment and self-care.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1037/hea0001405
+- Publication Date: 2024
+- DOI: 10.1111/wvn.12744
 
 2. Keywords
-
+- depression
+- medication adherence
+- nursing
+- patient education
+- type 2 diabetes mellitus
 
 3. Key Findings
-- No effects were found among children in individual and collaborative PA planning conditions
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- depression assessment methods and outcomes
+- medication adherence assessment methods and outcomes
+- nursing assessment methods and outcomes

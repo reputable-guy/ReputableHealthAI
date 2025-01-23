@@ -1,26 +1,20 @@
-Study Title: The association of the Affordable Care Act with nutrient consumption in adults in the United States.
+Study Title: An exploratory study of clinical factors associated with IGF-1 and IGFBP-3 in preterm infants.
 
 Study Summary:
-The Patient Protection and Affordable Care Act, more commonly known as the ACA, was legislation passed in the United States in 2010 to expand access to health insurance coverage for millions of Americans with a key emphasis on preventive care. Nutrition plays a critical role in overall wellness, disease prevention and resilience to chronic illness but prior to the ACA many Americans did not have adequate health insurance coverage to ensure proper nutrition. With passage of the ACA, more individuals received access to nutritional counseling through their primary care physicians as well as prescription vitamins and supplements free of charge. The objective of this study was to evaluate the impact of a national health insurance reform on nutrient intake among general population, including more vulnerable low-income individuals and patients with chronic conditions. Using data from the National Health and Nutrition Examination Survey (NHANES), we identified 8,443 adults aged 21&#x2009;years and older who participated in the survey before (2011-2012) and after the ACA (2015-2016) implementation and conducted a subgroup analysis of 952 respondents who identified as Medicaid beneficiaries and 719 patients with a history of cancer. Using pre-post study design and bivariate and multivariable logistic analyses, we compared nutrient intake from food and supplementation before and after the ACA and identified risk factors for inadequate intake. Our results suggest that intake of micronutrients found in nutrient-dense foods, mainly fruit and vegetables, has not changed significantly after the ACA. However, overall use of nutritional supplements increased after the ACA (=&#x2009;0.05), particularly magnesium (OR&#x2009;=&#x2009;1.02), potassium (OR&#x2009;=&#x2009;0.76), vitamin D (both D2, and D3, OR&#x2009;=&#x2009;1.34), vitamin K (OR&#x2009;=&#x2009;1.15) and zinc (OR&#x2009;=&#x2009;0.83), for the general population as well as those in our subgroup analysis Cancer Survivors and Medicaid Recipients. Given the association of increased use of nutritional supplements and expansion of insurance access, particularly in our subgroup analysis, more research is necessary to understand the effect of increasing access to nutritional supplements on the overall intake of micro- and macronutrients to meet daily nutritional recommended allowances.
+Despite advances in parenteral nutrition, postnatal growth failure in very low birthweight (VLBW) preterm infants is common and associated with chronic health problems. Insulin-like growth factor 1 (IGF-1) is positively associated with improved infant growth, but factors which promote IGF-1 levels in this population have not been clearly identified. The objective of this study was to explore early factors that influence IGF-1 in VLBW preterm infants. VLBW infants were enrolled into a prospective, randomized controlled nutrition trial (N&#x2009;=&#x2009;87). Outcome measures included IGF-1 and IGFBP-3 levels measured at 35 weeks PMA. Linear regression analyses tested the relationships between candidate clinical predictors and levels of IGF-1 and IGFBP-3. Higher protein intake, longer duration of parenteral nutrition, and lower IGFBP-3 levels at 1 week of life were associated with lower IGF-1 levels at 35 weeks PMA. Neither early markers of insulin resistance nor degree of illness were associated with IGF-1 levels at 35 weeks PMA. Optimization of early nutrient intake, and attention to route of delivery, may have a lasting influence on IGF-1/IGFBP-3, and in turn, long-term health outcomes. In very low birthweight preterm infants, early protein intake, duration of parenteral nutrition, and insulin-like growth factor binding protein 3 (IGFBP-3) levels at 1 week of life are positively associated with insulin-like growth factor 1 (IGF-1) levels at 35 weeks postmenstrual age. Data from this study highlight the influence of early nutrition on components of the endocrine axis in preterm infants. Strategies aimed at early initiation of enteral nutrition, as well as optimizing composition of parenteral nutrition, may bolster hormones involved in promoting preterm infant growth.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpubh.2023.1244042
+- DOI: 10.1038/s41390-023-02970-y
 
 2. Keywords
-- Affordable Care Act
-- National Health and Nutrition Examination Survey
-- cancer
-- nutritional status
-- nutritional supplements
+
 
 3. Key Findings
-- Our results suggest that intake of micronutrients found in nutrient-dense foods, mainly fruit and vegetables, has not changed significantly after the ACA
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Affordable Care Act assessment methods and outcomes
-- National Health and Nutrition Examination Survey assessment methods and outcomes
-- cancer assessment methods and outcomes
+- General research methodology and outcomes

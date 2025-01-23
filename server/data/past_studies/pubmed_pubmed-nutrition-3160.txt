@@ -1,24 +1,28 @@
-Study Title: Postoperative Hydration in Children Using Intermittent Boluses of Balanced Salt Solution: Results of a Randomized Control Trial.
+Study Title: Effect of nutrition education on the nutritional status of pregnant women in Robe and Goba Towns, Southeast Ethiopia, using a cluster randomized controlled trial.
 
 Study Summary:
-Postoperative maintenance fluids are traditionally provided via hypotonic dextrose containing fluids administered intravenously by continuous infusion. We hypothesized that scheduled weight-based boluses of balanced salt solution would be more physiologic, reduce fluid volumes, and improve patient comfort. As part of an IRB-approved randomized controlled trial (Boluses of Ringer's in Surgical Kids, BRiSK), we randomized patients aged 1-21 years undergoing elective abdominal or thoracic surgery to post-operatively receive weight-based D0.45NS+20mEq/L KCl at a continuous rate or intermittent boluses of Lactated Ringer's solution until oral liquid toleration. Patients with nephropathy, diabetes, or receiving parenteral nutrition were excluded. We analyzed electrolytes, urine output, fluid volume, and adverse events. We enrolled and randomized 60 patients: 29 to continuous fluids and 31 to bolus fluids. One patient from the bolus group dropped out. No patients crossed over due to difficulties with application of the bolus protocol. There were no baseline differences between groups with a mean age of 12.6&#xa0;&#xb1;&#xa0;1.4yr and weight of 50.9&#xa0;&#xb1;&#xa0;7.2&#xa0;kg. There were no serious adverse events or electrolyte disturbances in either group. Patients in the bolus group received significantly less total fluid than those in the continuous group (0.43&#xa0;mL/kg/h vs 1.1&#xa0;mL/kg/h, p&#xa0;<&#xa0;0.001) with no difference in urine output [1.4&#xa0;&#xb1;&#xa0;0.2&#xa0;mL/kg/h vs 1.6&#xa0;&#xb1;&#xa0;0.3&#xa0;mL/kg/h, p&#xa0;=&#xa0;0.211]. There were two episodes of mild hypoglycemia in the bolus group compared to seven episodes of mild hyperglycemia in the continuous group. Administration of post-operative intravenous fluids as boluses of balanced salt solution is feasible, safe, and results in significantly less fluid administered compared to a traditional continuous protocol. II.
+Maternal malnutrition is pervasive throughout the world, notably in sub-Saharan Africa (SSA), including Ethiopia. This study aimed to assess the effect of nutrition education on the nutritional status of pregnant women in urban settings in Southeast Ethiopia. A community-based two-arm parallel cluster randomized controlled trial was conducted among 447 randomly selected pregnant women attending antenatal care (224 intervention and 223 control). We used a multistage cluster sampling technique followed by systematic sampling to select the pregnant women. Pregnant women who participated in the intervention arm received six nutrition education sessions. Women in the control group received standard care. A nonstretchable mid-upper arm circumference (MUAC) tape was used to measure the MUAC. A linear mixed effects model (LMM) was used to evaluate the effect of the intervention on MUAC, accounting for the clustering. The net mean&#x2009;&#xb1;&#x2009;standard error of MUAC between the intervention and control groups was 0.59&#x2009;&#xb1;&#x2009;0.05 (P&#x2009;<&#x2009;0.0001). The multivariable LMM indicated that having received nutrition education interventions (&#x3b2;&#x2009;=&#x2009;0.85, 95% CI 0.60, 1.12, P&#x2009;<&#x2009;0.0001) improved the MUAC measurement of pregnant women. Thus, nutrition education during pregnancy will combat undernutrition among pregnant women.Trial Registration: Clinicaltrials.gov (PACTR202201731802989), retrospectively registered on 24/01/2022.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jpedsurg.2024.07.045
+- DOI: 10.1038/s41598-024-70861-1
 
 2. Keywords
-- Balanced salt solution
-- Maintenance fluids
-- Post-operative hydration
+- Ethiopia
+- HBM
+- LMM
+- Nutrition education
+- Nutritional status
+- Pregnant women
+- TPB
 
 3. Key Findings
-- Findings extraction requires manual review
+- The multivariable LMM indicated that having received nutrition education interventions (&#x3b2;&#x2009;=&#x2009;0
 
 This study provides insights into:
-- Balanced salt solution assessment methods and outcomes
-- Maintenance fluids assessment methods and outcomes
-- Post-operative hydration assessment methods and outcomes
+- Ethiopia assessment methods and outcomes
+- HBM assessment methods and outcomes
+- LMM assessment methods and outcomes

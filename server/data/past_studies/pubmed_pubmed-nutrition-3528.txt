@@ -1,27 +1,24 @@
-Study Title: Impact of food swap recommendations on dietary choices in an online supermarket: A randomized controlled trial.
+Study Title: Prevalence of lifestyle-related behavioral information in claims data in the U.S.
 
 Study Summary:
-One novel strategy to shift food choices in digital shopping environments is to automatically recommend healthier alternatives when an unhealthy choice is made. However, this raises the question which alternative products to recommend. This study assesses 1) whether healthier food swap recommendations are effective, even though the unhealthy choice was made in the presence of visible FOP nutrition labels, and 2) how the similarity of the alternatives influences the acceptance of food swap recommendations. Based on a pre-test, similarity of the recommendation was operationalized in terms of animal-based versus plant-based options. A randomized controlled trial (healthy food swap recommendation conditions: none, similar animal-based, dissimilar plant-based, or mixed animal- and plant-based) with 428 Dutch participants was conducted in a simulated online supermarket. Additional healthier food swap recommendations improved the nutritional quality of the final basket compared to only providing Nutri-Score nutrition labels (-1.7 mean FSA score, p&#xa0;<&#xa0;.001, medium Cohen's d&#xa0;=&#xa0;-0.48). Compared to the dissimilar condition, acceptance of an alternative was more likely in the mixed (odds-ratio&#xa0;=&#xa0;2.78, p&#xa0;=&#xa0;.015) and in the similar condition (odds-ratio&#xa0;=&#xa0;2.24, p&#xa0;=&#xa0;.048), but the nutritional quality of the final basket did not differ between treatment conditions. Individuals in treatment conditions who did not receive any recommendation (i.e. only made healthy choices) had higher Nutri-Score familiarity and general health interest than individuals who received recommendations. This suggests that for individuals with higher knowledge and motivation FOP nutrition labels were sufficient, whereas for individuals with lower knowledge and motivation additional food swap recommendations can improve dietary choices. Food swap recommendations may act as meaningful reminders by disrupting the automatic choice process and triggering individuals to rethink their (unhealthy) choice.
+Given their association with varying health risks, lifestyle-related behaviors are essential to consider in population-level disease prevention. Health insurance claims are a key source of information for population health analytics, but the availability of lifestyle information within claims data is unknown. Our goal was to assess the availability and prevalence of data items that describe lifestyle behaviors across several domains within a large U.S. claims database. We conducted a retrospective, descriptive analysis to determine the availability of the following claims-derived lifestyle domains: nutrition, eating habits, physical activity, weight status, emotional wellness, sleep, tobacco use, and substance use. To define these domains, we applied a serial review process with three physicians to identify relevant diagnosis and procedure codes within claims for each domain. We used enrollment files and medical claims from a large national U.S. health plan to identify lifestyle relevant codes filed between 2016 and 2020. We calculated the annual prevalence of each claims-derived lifestyle domain and the proportion of patients by count within each domain. Approximately half of all members within the sample had claims information that identified at least one lifestyle domain (2016&#xa0;=&#xa0;41.9%; 2017&#xa0;=&#xa0;46.1%; 2018&#xa0;=&#xa0;49.6%; 2019&#xa0;=&#xa0;52.5%; 2020&#xa0;=&#xa0;50.6% of patients). Most commonly identified domains were weight status (19.9-30.7% across years), nutrition (13.3-17.8%), and tobacco use (7.9-9.8%). Our study demonstrates the feasibility of using claims data to identify key lifestyle behaviors. Additional research is needed to confirm the accuracy and validity of our approach and determine its use in population-level disease prevention.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.appet.2023.107158
+- DOI: 10.1016/j.ypmed.2023.107826
 
 2. Keywords
-- Food swap
-- Front-of-pack label
-- Healthy food choice
-- Nutrition label
-- Plant-based food
-- Supermarket
+- Insurance claim review
+- Life style
+- Population health
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Food swap assessment methods and outcomes
-- Front-of-pack label assessment methods and outcomes
-- Healthy food choice assessment methods and outcomes
+- Insurance claim review assessment methods and outcomes
+- Life style assessment methods and outcomes
+- Population health assessment methods and outcomes

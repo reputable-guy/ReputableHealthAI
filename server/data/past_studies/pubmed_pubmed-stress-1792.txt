@@ -1,26 +1,28 @@
-Study Title: Effects of Baduanjin exercise on cognitive frailty, oxidative stress, and chronic inflammation in older adults with cognitive frailty: a randomized controlled trial.
+Study Title: Effects of using a mobile application on pelvic floor training in women with stress urinary incontinence: A randomized controlled clinical study.
 
 Study Summary:
-Oxidative stress and chronic inflammation play an important role in the pathogenesis process of cognitive frailty (CF). Regular Baduanjin exercise could improve cognitive frailty in older adults, but it is unclear whether the effect of Baduanjin exercise on improving CF is mediated by modulating circulating oxidative stress and inflammatory process. A total of 102 community-dwelling older adults with CF were recruited and randomly allocated into a 24-week Baduanjin exercise training group or no specific exercise intervention control group at an equal rate. Cognitive function and physical frailty index were assessed using the Montreal Cognitive Assessment (MoCA) and the Edmonton Frail Scale (EFS), as well as the oxidative stress and inflammatory cytokines were measured at baseline and after intervention. After 24&#x2009;weeks of intervention, the increased MoCA score (2.51&#x2009;&#xb1;&#x2009;0.32 points,&#x2009;<&#x2009;0.001) and the decreased EFS scores (1.94&#x2009;&#xb1;&#x2009;0.20 points,&#x2009;=&#x2009;0.012) in the Baduanjin group were significantly higher than those in the control group. Serum antioxidant SOD levels were increased by 10.03 &#xb1; 4.73 U/mL (< 0.001), and the prooxidative MDA and 8-iso-PGF2&#x3b1; levels were decreased by -1.08 &#xb1; 0.80 nmol/mL (= 0.030) and -86.61 &#xb1; 15.03 ng/L (< 0.001) in the Baduanjin training group; while inflammatory cytokines IFN-&#x3b3;, IL-2 and IL-4 levels were increased (1.08 &#xb1; 0.33 pg./mL,= 0.034, 2.74 &#xb1; 0.75 pg./mL,= 0.04 and 1.48 &#xb1; 0.35 pg./mL,= 0.042). In addition, a mediation effect that Baduanjin training improved cognitive ability mediated by an increase of circulating IFN-&#x3b3; and IL-2 levels were observed in this study. Regular Baduanjin exercise training could improve the cognitive frailty of the community-dwelling older adults with CF, and modulate oxidative stress and inflammatory processes by reducing circulating pro-oxidative MDA and 8-iso-PGF2&#x3b1; levels and increasing anti-oxidative SOD levels, as well as impacting inflammatory cytokines IFN-&#x3b3;, IL-2, and IL-4 levels. Nevertheless, the mechanism of Baduanjin exercise mediating oxidative stress and inflammatory processes should be cautious to be explained. http://www.chictr.org.cn/index.aspx, ChiCTR1800020341.
+Urinary incontinence (UI) is defined as any involuntary loss of urine that causes negative impacts on women's lives. Pelvic floor muscle training (PFMT) is considered to be "level A" of scientific evidence in the treatment of UI. Despite its efficacy, it is known that the effect of PFMT may depend on continuous adherence. Therefore, healthcare professionals are looking for alternatives to improve adherence in their patients. Healthcare has been innovating through mobile device apps. Thus, the objective of this study was to verify the effects of PFMT with the use of a mobile device app in incontinent women. This was a controlled, randomized clinical trial that occurred remotely. A total of 104 women with stress UI and/or mixed incontinence, over 18 years old, literate, with preserved cognitive capacity, with internet access and a mobile device with the Android system, participated in this study. They were randomly divided into two groups: The App group and the Booklet group, which underwent a PFMT protocol guided by a mobile app and a booklet, respectively. Both groups received daily reminders to perform the exercises. Before and after 12 weeks of intervention, it was evaluated using the International Consultation on Incontinence Questionnaire-Short Form (ICIQ-SF) and the King's Health Questionnaire (KHQ). Both groups showed improvements in the final ICIQ-SF score. However, superior results were shown for the Booklet group (App: pre: 11.5 [&#xb1;3.8], post: 9.8 [&#xb1;4.5]; Booklet: pre: 12.6 [&#xb1;4.5], post: 7.4 [&#xb1;4.3]; p&#x2009;=&#x2009;0.03). It was concluded that PFMT, with the use of a mobile app, is capable of reducing UI and the impact of UI, but it is not superior to training with the use of booklet instructions.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpubh.2024.1385542
+- DOI: 10.1002/nau.25522
 
 2. Keywords
-- Baduanjin
-- chronic inflammation
-- cognitive frailty
-- older adults
-- oxidative stress
+- exercise
+- mobile applications
+- pelvic floor
+- telehealth
+- urinary incontinence
+- women
 
 3. Key Findings
-- Findings extraction requires manual review
+- Both groups showed improvements in the final ICIQ-SF score
+- It was concluded that PFMT, with the use of a mobile app, is capable of reducing UI and the impact of UI, but it is not superior to training with the use of booklet instructions
 
 This study provides insights into:
-- Baduanjin assessment methods and outcomes
-- chronic inflammation assessment methods and outcomes
-- cognitive frailty assessment methods and outcomes
+- exercise assessment methods and outcomes
+- mobile applications assessment methods and outcomes
+- pelvic floor assessment methods and outcomes

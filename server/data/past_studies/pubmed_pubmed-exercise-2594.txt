@@ -1,27 +1,26 @@
-Study Title: An online delivered running and walking group program to support low-active post-secondary students' well-being and exercise behavior during the COVID-19 pandemic: a pilot randomized controlled trial.
+Study Title: A Randomized Controlled Trial to Determine the Impact of Resistance Training versus Aerobic Training on the Management of FGF-21 and Related Physiological Variables in Obese Men with Type 2 Diabetes Mellitus.
 
 Study Summary:
-Examine the feasibility and acceptability of a social identity-informed, online delivered, running and walking group program to support low-active post-secondary students' exercise behavior and well-being during the COVID-19 pandemic. A two-arm, non-blinded, parallel pilot randomized controlled trial was conducted whereby low-active post-secondary students at a Canadian university were equally randomized to an online delivered running/walking group program or an attention control condition. Primary feasibility and acceptability outcomes included program interest, study enrolment and retention, questionnaire completion, program attendance, program satisfaction, and affective exercise attitudes. Post-program interviews were conducted to ascertain participants' experiences with the program. Secondary outcomes included well-being, exercise behavior, social identity, social support, and exercise identity. Ninety-two individuals were screened for eligibility, and 72 were equally randomized to the online group program or attention control condition. Recruitment exceeded the target sample size (60), study adherence and questionnaire completion were above 90%, program attendance was moderate (M&#x2009;=&#x2009;5.03/8), self-report program satisfaction was moderate-to-high (M&#x2009;=&#x2009;4.13/5), and there was no condition effect for affective attitudes. During interviews, participants expressed satisfaction with the program. They also discussed challenges with developing a shared sense of identity and social connection with group members via online platforms. There were small condition effects for exercise-related well-being and exercise identity and no condition effects for the remaining secondary outcomes. Social identity scores were moderate (M&#x2009;=&#x2009;4.63/7). The STRIDE program was feasible and acceptable but should be delivered and piloted in-person before a full-scale efficacy trial is conducted. ClinicalTrials.gov NCT04857918; 2021-04-20.
+Fibroblast growth factor 21 (FGF-21) has been suggested as a potential therapeutic target for insulin resistance in health-related metabolic disorders such as type 2 diabetes. Despite the metabolic effects of resistance (RT) and aerobic training (AT) on diabetes symptoms, uncertainty exists regarding the superiority of effects manifested through these training approaches on FGF-21 and biochemical and physiological variables associated with metabolic disorders in men diagnosed with type 2 diabetes. This study aimed to investigate the impact of a 12-week RT and AT on FGF-21 levels and symptoms associated with metabolic disorders in male individuals diagnosed with type 2 diabetes. Thirty-six sedentary obese diabetic men (40 to 45 years old) were matched based on the level of FGF-1. They and were randomly divided into two training groups (RT, n = 12 and AT, n = 12) performing three days per week of moderate-intensity RT or AT for 12 weeks and an inactive control group (n = 12). Both training interventions significantly improved FGF-21, glucose metabolism, lipid profile, hormonal changes, strength, and aerobic capacity. Subgroup analysis revealed that RT had greater adaptive responses (p < 0.01) in fasting blood sugar (ES = -0.52), HOMA-IR (ES = -0.87), testosterone (ES = 0.52), cortisol (ES = -0.82), FGF-21 (ES = 0.61), and maximal strength (ES = 1.19) compared to AT. Conversely, AT showed greater changes (p < 0.01) in cholesterol (ES = -0.28), triglyceride (ES = -0.64), HDL (ES = 0.46), LDL (ES = -0.73), and aerobic capacity (ES = 1.18) compared to RT. Overall, both RT and AT interventions yielded significant moderate to large ES in FGF-21 levels and enhanced the management of biochemical variables. RT is an effective method for controlling FGF-21 levels and glucose balance, as well as for inducing hormonal changes. On the other hand, AT is more suitable for improving lipid profiles in overweight men with type 2 diabetes mellitus.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s10865-024-00516-z
+- DOI: 10.52082/jssm.2024.495
 
 2. Keywords
-- Fitness applications
-- Goal
-- Identity
-- Physical activity
-- Strava
-- University students
+- Exercise
+- insulin resistance
+- lipid profile
+- metabolism
 
 3. Key Findings
-- Findings extraction requires manual review
+- Subgroup analysis revealed that RT had greater adaptive responses (p < 0
+- Conversely, AT showed greater changes (p < 0
 
 This study provides insights into:
-- Fitness applications assessment methods and outcomes
-- Goal assessment methods and outcomes
-- Identity assessment methods and outcomes
+- Exercise assessment methods and outcomes
+- insulin resistance assessment methods and outcomes
+- lipid profile assessment methods and outcomes

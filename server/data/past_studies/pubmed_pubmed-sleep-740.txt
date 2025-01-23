@@ -1,27 +1,28 @@
-Study Title: Well-being of undergraduate dental students: Questionnaire design, findings and future directions.
+Study Title: The effect of the Yara smartphone application on anxiety, sleep quality, and suicidal thoughts in patients with major depressive disorder in Iran: a randomized controlled trial.
 
 Study Summary:
-The recent pandemic has highlighted the importance of addressing well-being in the overall health of students. There is a need for support systems within dental schools to help students demonstrate resilience, adapt to learning environments and thrive in their professional careers. The main aim of the study was to evaluate Bachelor of Dental Surgery (BDS) students' understanding and experience of well-being. The objectives were to create a suitable survey to assess students' well-being, investigate the factors affecting dental students' well-being and develop a student well-being action plan based on the analysis of the survey. A literature review was conducted to identify and critically assess existing measures of well-being in dental students. Four domains of well-being (emotional, physical, social, intellectual) relevant to dental students were identified. Through a comprehensive iterative process, a two-part survey was developed and tested, which measured individual experiences of well-being across the four domains and collected feedback on proposed initiatives to support student well-being. The survey was disseminated to all 452 dental students from Years 1 through 6, of which 71% (321) responded. The survey revealed low levels of overall well-being among the dental student population, which worsened with increasing years of clinical study. Fear of failing exams presented the biggest challenge with regard to emotional well-being, while sleep deprivation and occupational health hazards most affected the physical well-being domain. Intellectual well-being was compromised by insufficient free time to pursue extracurricular interests and concerns about achieving the required skills. Despite a majority experiencing positive relationships with their peers and tutors, less than a fifth agreed that the Faculty of Dentistry 'supported my well-being as a dental student'. As the first investigation of the well-being of dental students in Hong Kong, the key stressors identified were examinations, long schedules and the physical burden of dental work, which are consistent with international literature. The findings reveal students' needs and preferences for well-being initiatives which will be optimized in the implementation of student-centred curricular activities.
+Depression is one of the most common mental disorders that leads to anxiety, sleep disturbances, and suicidal thoughts. Due to the high cost of treatment and the reluctance of many patients to seek medical help, major depressive disorder (MDD) is becoming more prevalent. Therefore, alternative methods like smartphone applications can help prevent and improve depression symptoms. The present study aimed to determine the effect of the newly developed Yara smartphone application on anxiety, sleep quality, and suicidal thoughts in patients with MDD. This randomized controlled trial with a pretest-posttest design was conducted on Iranian patients with MDD in 2022. Sixty-four patients were recruited using convenience sampling and randomly assigned to two control and intervention groups. The intervention was conducted using the Yara smartphone application for three months. Data were collected using the Spielberger State-Trait Anxiety Inventory (STAI), Pittsburgh Sleep Quality Index (PSQI), and Beck Scale for Suicidal Ideation (BSSI). Data were first entered into IBM SPSS Statistics for Windows, version 22 (IBM Corp., Armonk, N.Y., USA) and then analyzed using descriptive and analytical statistics. There was no statistically significant difference in the mean score of anxiety and sleep quality between the intervention and control groups before the intervention (p &#x2265; .05). However, this difference in the mean score of anxiety and sleep quality was statistically significant in the two groups after the intervention (p < .05). The results showed no statistically significant difference in the mean score of suicidal thoughts between the two groups before and after the intervention (p &#x2265; .05). The use of the Yara smartphone application had a significant positive effect on anxiety and sleep quality in depressed patients (p < .001). At the same time, it had no significant effect on suicidal thoughts (p &#x2265; .05). Considering the positive effect of using the Yara smartphone application on reducing anxiety and improving sleep quality in depressed patients, this application can help alleviate the problems of depressed patients alongside existing treatment methods. Thus, this application is recommended for this group of patients in psychiatric clinics and departments. The Yara application's effectiveness was not approved on suicidal thoughts in this study so that further investigation would be necessary. Iranian Registry of Clinical Trial approval code (IRCT# IRCT20131112015390N7).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/eje.13003
+- DOI: 10.1186/s12888-024-05688-1
 
 2. Keywords
-- dental education
-- dental student
-- dentistry
-- mental health
-- wellness
-- well&#x2010;being
+- Anxiety
+- Iran
+- Major depressive disorder
+- Sleep Quality
+- Smartphone Apps
+- Suicide
+- Thought
 
 3. Key Findings
-- The survey revealed low levels of overall well-being among the dental student population, which worsened with increasing years of clinical study
+- The results showed no statistically significant difference in the mean score of suicidal thoughts between the two groups before and after the intervention (p &#x2265;
 
 This study provides insights into:
-- dental education assessment methods and outcomes
-- dental student assessment methods and outcomes
-- dentistry assessment methods and outcomes
+- Anxiety assessment methods and outcomes
+- Iran assessment methods and outcomes
+- Major depressive disorder assessment methods and outcomes

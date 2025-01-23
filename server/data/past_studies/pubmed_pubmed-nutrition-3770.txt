@@ -1,27 +1,27 @@
-Study Title: A Randomized Controlled Study to Test Front-of-Pack (FOP) Nutrition Labels in the Kingdom of Saudi Arabia.
+Study Title: The Effects of Yogurt Supplementation and Nutritional Education on Malnourished Infants: A Pilot RCT in Dhaka's Slums.
 
 Study Summary:
-One common strategy for governments to tackle the non-communicable disease (NCD) epidemic is front-of-package (FOP) nutrition labeling. The Kingdom of Saudi Arabia (KSA) is considering implementing a new FOP label that is based on either France's Nutri-Score (NS), which labels all foods (A = healthiest to E = least healthy) based on overall nutritional quality, or the Chilean warning label (WL) approach, which identifies foods to avoid based on select nutritional characteristics. Using a fully functional online grocery store, this study aimed to test these two promising FOP strategies by randomizing 656 KSA adults into one of the three versions of the store to complete a hypothetical grocery shop: no-label (control), NS, and WL. The NS was modified with a sugar percentage tag given that reducing sugar consumption is one of KSA's public health goals. We found that both modified NS labels and Chilean warning labels positively influenced food and beverage choices among KSA participants, but there were differential effects across the two labels. Relative to the control, NS improved the overall diet quality of the shopping baskets, measured by the weighted (by the number of servings) average NS point (ranging from 0, least healthy, to 55, healthiest), by 2.5 points [95% CI: 1.7, 3.4;< 0.001], whereas results for WL were not statistically significant (0.6 points [95% CI: -0.2,1.5]). With respect to each nutritional attribute, we found that NS reduced sugar intake per serving, whereas WL was effective at decreasing energy and saturated fat intake per serving from food and beverages purchased. Our results suggest that the NS approach that identifies the healthiness of all foods using a holistic approach appears preferable if the purpose of the label is to improve overall diet quality as opposed to addressing select nutrients to avoid.
+Our objective was to quantify the effects of yogurt supplementation and nutrition education over three months on the linear growth of infants at risk of stunting. We conducted a three-arm pilot randomized controlled trial: (1) nutrition education for mothers; (2) nutrition education plus a daily yogurt supplement (50 g) for the index child; and (3) usual care (control). Dyads of children aged 4-6 months and at risk of stunting [length-for-age z-score (LAZ) &#x2264; -1 SD and >-2 SD] and their mothers with &#x2264;10 years of education were eligible for the study. Participants were recruited from five slum areas in Dhaka, Bangladesh. Intention-to-treat (N = 162) and complete-case analyses (N = 127) showed no between-group statistically significant differences in LAZ or weight-for-age (WAZ). However, the yogurt group showed greater change in linear growth compared to the control (LAZ: mean difference 0.20, 95% CI: -0.06, 0.47,-value 0.13), which was also slightly greater than the education-only group. Children in the yogurt plus group were five times (95% CI: 0.80, 31.80,-value 0.09) more likely to meet the minimum dietary diversity (MDD) score compared to the control. A 3-month follow-up of this pilot study did not demonstrate that yogurt was beneficial to linear growth. However, there were encouraging trends that merit replication of the intervention with larger samples and longer follow-ups.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15132904
+- DOI: 10.3390/nu15132986
 
 2. Keywords
-- Chilean warning labels
-- Nutri-Score
-- diet quality
-- front-of-pack labeling
-- online grocery shopping
+- Bangladesh
+- LMICs
+- RCT
+- child growth
+- yogurt
 
 3. Key Findings
-- We found that both modified NS labels and Chilean warning labels positively influenced food and beverage choices among KSA participants, but there were differential effects across the two labels
-- With respect to each nutritional attribute, we found that NS reduced sugar intake per serving, whereas WL was effective at decreasing energy and saturated fat intake per serving from food and beverages purchased
+- Intention-to-treat (N = 162) and complete-case analyses (N = 127) showed no between-group statistically significant differences in LAZ or weight-for-age (WAZ)
+- However, the yogurt group showed greater change in linear growth compared to the control (LAZ: mean difference 0
 
 This study provides insights into:
-- Chilean warning labels assessment methods and outcomes
-- Nutri-Score assessment methods and outcomes
-- diet quality assessment methods and outcomes
+- Bangladesh assessment methods and outcomes
+- LMICs assessment methods and outcomes
+- RCT assessment methods and outcomes

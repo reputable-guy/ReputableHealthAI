@@ -1,24 +1,27 @@
-Study Title: Exercise training improves cardiovascular fitness in dilated cardiomyopathy caused by truncating titin variants.
+Study Title: Implementation Evaluation of a Parks- and Faith-Based Multilevel Intervention to Promote Physical Activity Among Latinos.
 
 Study Summary:
-Participation in regular exercise activities is recommended for patients with chronic heart failure. However, less is known about the effect of exercise in patients with genetic dilated cardiomyopathy (DCM). We sought to examine the effect of vigorousintensity training on physical capacity in patients with DCM caused by truncating titin variants (TTNtv). Non-randomised clinical pre-post trial of exercise training. Individuals with DCM-TTNtv were included from outpatient clinics for inherited cardiac diseases. The trial consisted of 8 weeks of usual care followed by 8 weeks of regular vigorous-intensity cycling exercise, enclosed by three test days. The primary outcome was change in peak oxygen uptake (VO). Secondary outcomes included change in blood volume, total haemoglobin mass, measures of systolic function and cardiac output/stroke volume during exercise. Thirteen out of 14 included participants (43%&#x2009;women, age 48&#xb1;11 years, body mass index: 30&#xb1;6&#x2009;kg/m) completed the trial. In the exercise training period, peak VOincreased by +1.9&#x2009;mL/kgmin (95%&#x2009;CI +0.9&#x2009;to +2.9, p=0.002). Compared with usual care, exercise training improved peak VOby +2.9&#x2009;mL/kg/min (95% CI +1.2&#x2009;to +4.5, p=0.002), corresponding to a 10% increase. Adaptations to exercise training included an increase in resting cardiac output (+0.8&#x2009;L/min, p=0.042), total blood volume (+713&#x2009;mL, p<0.001), total haemoglobin mass (+73 g, p<0.001), and improved left ventricular (LV) systolic function (LV ejection fraction: +3.2% (p=0.053) and global longitudinal strain: -2.0% (p=0.044)). No exercise-related adverse events or change in plasma biomarkers of cardiac or skeletal muscle damage were observed. Our study shows that vigorous intensity exercise training improved peak VOin patients with DCM-TTNtv. Exercise training was associated with improved LV systolic function and increased blood volume and oxygen carrying capacity. Future research should investigate the effect of long-term exercise in this group. NCT05180188.
+Latinos in the United States face multiple barriers to engaging in physical activity (PA). We implemented a faith-based multilevel intervention to promote PA in parks for Latino adults, which was partially adapted to a virtual platform during the COVID-19 pandemic, and evaluated it using the Reach, Effectiveness, Adoption, Implementation, and Maintenance framework. We conducted in-depth semistructured interviews (83% in Spanish) with 24 intervention participants (75% women) participating in a cluster randomized controlled trial in 2019-2022 that linked 6 churches (3 intervention, 3 control) with parks in East Los Angeles, CA. The intervention included in-person, park-based fitness classes, which were adapted to Facebook during the pandemic; PA motivational text messages; and other activities. Interviews assessed Reach (participation), Effectiveness (perceived impacts), Implementation (participation barriers/facilitators), and Maintenance (plans for sustaining PA), as well as perceived pandemic impacts. About 80% of interviewees participated in &#x2265;1 park class and 67% in &#x2265;1 virtual class (Reach). Interviewees perceived positive intervention impacts across multiple health and well-being domains (Effectiveness) despite perceived negative pandemic impacts; several facilitators to participation (personal, social, program) and few barriers (personal, virtual, environmental; Implementation); and plans for maintaining PA (eg,&#xa0;revisiting intervention text messages and video recordings; Maintenance). Findings support the utility of Reach, Effectiveness, Adoption, Implementation, and Maintenance to understand the broad impacts of a faith-based PA intervention. Findings point to the adaptability and robustness of the intervention during a public health crisis. Overall, findings may help inform the translation of the intervention to other communities to advance health equity.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/heartjnl-2024-323995
+- DOI: 10.1123/jpah.2024-0290
 
 2. Keywords
-- Cardiac Rehabilitation
-- Cardiomyopathy, Dilated
-- Heart Failure
+- RE-AIM
+- exercise
+- health equity
+- health promotion
+- hispanics
+- implementation science
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Cardiac Rehabilitation assessment methods and outcomes
-- Cardiomyopathy, Dilated assessment methods and outcomes
-- Heart Failure assessment methods and outcomes
+- RE-AIM assessment methods and outcomes
+- exercise assessment methods and outcomes
+- health equity assessment methods and outcomes

@@ -1,26 +1,31 @@
-Study Title: Lebrikizumab monotherapy impacts on quality of life scores through improved itch and sleep interference in two Phase 3 trials.
+Study Title: Effect of prosthetic management and its timing on otological and audiological outcomes in infants with cleft lip and palate: A clinical trial.
 
 Study Summary:
-Lebrikizumab improved itch, interference of itch on sleep, and quality of life (QoL) in patients with moderate-to-severe atopic dermatitis (AD), in two Phase 3 trials at 16&#x2009;weeks compared to placebo. We assess improvements in itch and sleep interference due to itch and their impact on QoL measurements after treatment. Data were analyzed from ADvocate1 (NCT04146363) and ADvocate2 (NCT04178967) in patients with moderate-to-severe AD. QoL was evaluated using Dermatology Life Quality Index (DLQI) at Week 16 in patients (>16&#x2009;years of age) who were itch responders/non-responders (defined as &#x2265;4-point improvement in Pruritus Numeric Rating Scale) or Sleep-Loss Scale responders/non-responders (defined as &#x2265;2-point improvement in itch interference on sleep). In ADvocate1 and ADvocate2, significantly greater proportions of itch responders had a clinically meaningful improvement in measures related to QoL (DLQI scores (0/1), &#x2264;5 DLQI total score and &#x2265;4-point DLQI improvement) compared to itch non-responders. In both studies, a significantly greater proportion of Sleep-Loss Scale responders, reported a DLQI score of (0/1), DLQI total score of &#x2264;5 and DLQI improvement of &#x2265;4 points compared to Sleep-Loss Scale non-responders. Improvement in itch and sleep interference due to itch is associated with improvement in the QoL of patients after treatment with lebrikizumab for moderate-to-severe AD. ClinicalTrials.gov registration NCT04146363 (ADvocate1) and NCT04178967 (ADvocate2).
+To evaluate how prosthetic management affects the otological and audiological state of infants with cleft lip and palate by preventing or treating otitis media (OM). Thirty infants with cleft lip and palate (L/P) were assigned to three equal groups according to the age of prosthetic intervention; Group I: immediately after birth, Group II: 2 months old, Group III: 5 months old. Assessment of middle ear function by tympanometry and hearing quality by auditory brainstem response (ABR) under natural sleep was conducted before and after prosthetic treatment every month till 10 months of age. Data from the study groups were compared. No statistically significant differences were found between Gp I and Gp II in the 2nd, 3rd, and 4th months for right and left ears (p > 0.05). In the 5th month, statistically significant differences between the three groups were found in tympanometry for right (p = 0.011) and left (p = 0.024) ears also, in ABR for right (p = 0.007) and left (p = 0.011) ears. Tympanometric readings starting from the 6th till the 10th month showed no statistically significant differences between the three groups (p >0.05). The final ABR outcomes of the 10th month indicated statistically significant differences between the three groups for both ears (p = 0.027). Early prosthetic care could delay the development of OM, so it could potentially improve the otological and audiological state in infants with cleft L/P. However, prosthetic treatment may not be able to completely prevent or eliminate middle ear disorders.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1080/09546634.2024.2329240
+- DOI: 10.1111/jopr.13861
 
 2. Keywords
-- Atopic dermatitis
-- itch
-- lebrikizumab
-- quality of life
-- sleep interference
+- ABR
+- Otitis media
+- auditory brainstem response
+- cleft lip and palate
+- feeding appliance
+- middle ear problems
+- tympanometry
 
 3. Key Findings
-- Findings extraction requires manual review
+- No statistically significant differences were found between Gp I and Gp II in the 2nd, 3rd, and 4th months for right and left ears (p > 0
+- In the 5th month, statistically significant differences between the three groups were found in tympanometry for right (p = 0
+- Tympanometric readings starting from the 6th till the 10th month showed no statistically significant differences between the three groups (p >0
+- The final ABR outcomes of the 10th month indicated statistically significant differences between the three groups for both ears (p = 0
 
 This study provides insights into:
-- Atopic dermatitis assessment methods and outcomes
-- itch assessment methods and outcomes
-- lebrikizumab assessment methods and outcomes
+- ABR assessment methods and outcomes
+- Otitis media assessment methods and outcomes
+- auditory brainstem response assessment methods and outcomes

@@ -1,27 +1,27 @@
-Study Title: Efficacy of exercise with the hybrid assistive limb lumbar type on physical function in mobility-limited older adults: A 5-week randomized controlled trial.
+Study Title: Inflammatory markers and noncoding-RNAs responses to low and high compressions of HIIT with or without berberine supplementation in middle-aged men with prediabetes.
 
 Study Summary:
-Sarcopenia and frailty often worsen in older adults because of declines in activities of daily living and social connections that are associated with chronic diseases and traumatic injuries such as falls and fractures. Exercise intervention for sarcopenia can take >3&#xa0;months to improve muscle mass, muscle strength, and walking speed. Thus, a specialized intervention system for shorter periods of time is needed. In this study, we aimed to evaluate the short-term efficacy of an exercise program using the wearable cyborg Hybrid Assistive Limb (HAL) lumbar type in physical function in mobility-limited older adults who do not require transition to long-term care. This randomized, single-blind, parallel-group study involved 79 community-dwelling older adults with physical frailty or locomotive syndrome assigned to an intervention group (n&#xa0;=&#xa0;40) with the HAL lumbar type exercise program or a control group (n&#xa0;=&#xa0;39) without the exercise program. The intervention group underwent trunk training (including trunk and hip flexion, standing and sitting from a single sitting position, and squats) and gait training (treadmill and parallel bars) twice a week for 5&#xa0;weeks while wearing the HAL lumbar type. The 10-m usual and maximum walking speeds, Timed Up and Go test results, 5-times chair-standing test results, 5-question Geriatric Locomotive Function Scale (GLFS-5) scores, body-fat percentage, and muscle mass were measured before and after the intervention and analyzed using the intention-to-treat method. The intervention (23&#xa0;% male; mean age, 74.7&#xa0;&#xb1;&#xa0;4.7&#xa0;years) and control (21&#xa0;% male; mean age, 75.1&#xa0;&#xb1;&#xa0;4.1&#xa0;years) groups did not differ significantly in baseline characteristics. Seventy-seven participants completed the program; two withdrew for personal reasons. The mean difference (standard error) between the groups for the primary outcome (usual walking speed) was 0.35 (0.04) m/s; the time-by-group interaction was significant (p&#xa0;<&#xa0;0.001). Secondary outcomes (maximum walking speed, Timed Up and Go test results, 5-times chair-standing test results, and GLFS-5 scores) significantly improved in the intervention group. Body composition was unchanged in both groups. A 5-week exercise program using the HAL lumbar type is a promising option for community-dwelling older adults with limited mobility who do not require nursing care, resulting in clinically meaningful improvements in most physical functions within a short period.
+This study compared the capacity of two different models of HIIT [high-(HC) and low-(LC) compression], with or without the use of berberine (BBR), on NOD-like receptor pyrin domain-containing protein-3 (NLRP3), H19, interleukin (IL)-1&#x3b2;, high-sensitivity C-reactive protein (hs-CRP), and insulin resistance markers. Fifty-four middle-aged men with overweight or obesity and prediabetes [fasting blood glucose (FBG) 110-180&#x2009;mg/dL] were randomly and equally assigned to the HC, LC, HC&#x2009;+&#x2009;BBR, LC&#x2009;+&#x2009;BBR, BBR, and non-exercising control (CON) groups. The HC (2:1 work-to-rest) and LC (1:1 work-to-rest) home-based training programs included 2-4 sets of 8 exercises at 80%-95% HRmax, twice a week for 8&#x2009;weeks. Participants in the berberine groups received approximately 1000&#x2009;mg daily. All exercise interventions led to a significant reduction in hs-CRP, IL-1&#x3b2;, insulin, FBG, and insulin resistance index (HOMA-IR) versus CON. Notably, there was a significant reduction in FBG and HOMA-IR with the BBR group compared to the baseline. Both NLRP3 and H19 experienced a significant drop only with LC in comparison to the baseline. While both exercise protocols were beneficial overall, LC uniquely exhibited more anti-inflammatory effects, as indicated by reductions in H19 and NLRP3. However, the addition of berberine to the exercise programs did not demonstrate additional benefits.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.exger.2024.112536
+- DOI: 10.14814/phy2.16146
 
 2. Keywords
-- Biofeedback
-- Exercise
-- Frailty
-- Hybrid assistive limb
-- Sarcopenia
-- Walking speed
+- Berberine
+- H19
+- HIIT
+- NLRP3
+- insulin resistance
+- interleukin&#x2010;1&#x3b2;
 
 3. Key Findings
-- Findings extraction requires manual review
+- While both exercise protocols were beneficial overall, LC uniquely exhibited more anti-inflammatory effects, as indicated by reductions in H19 and NLRP3
 
 This study provides insights into:
-- Biofeedback assessment methods and outcomes
-- Exercise assessment methods and outcomes
-- Frailty assessment methods and outcomes
+- Berberine assessment methods and outcomes
+- H19 assessment methods and outcomes
+- HIIT assessment methods and outcomes

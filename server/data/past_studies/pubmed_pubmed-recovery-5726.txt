@@ -1,27 +1,27 @@
-Study Title: Comparison of propofol-esketamine versus propofol-sufentanil for deep sedation and analgesia in children with autism: A randomized double-blind clinical trial.
+Study Title: Analgesic effect of ultrasound-guided transversus abdominis plane block with or without rectus sheath block in laparoscopic cholecystectomy: a randomized, controlled trial.
 
 Study Summary:
-Propofol sedation, routinely used for endoscopic procedures, is safe and acceptable for children. Adjuvants, such as esketamine or sufentanil, are commonly added to improve the efficacy and safety of propofol sedation. This study aimed to compare the clinical efficacy and safety of propofol-esketamine (PE) versus propofol-sufentanil (PS) for deep sedation and analgesia in children with autism undergoing colonoscopy procedure. One hundred and twenty-four children with autism undergoing colonoscopy procedure were included in the study. Patients were randomly assigned to receive one of the two adjuvants: esketamine (0.3&#x2009;mg/kg) or sufentanil (0.2&#x2009;&#x3bc;g/kg), subsequently administered propofol 2.0&#x2009;mg/kg to induce anesthesia. Additional doses of propofol (0.5-1.0&#x2009;mg/kg) were administered as needed to ensure patient tolerance for the remaining duration of the procedure. Movement during the procedure, hemodynamic variables, the total dose of propofol, recovery time, and adverse events were recorded. The PE group exhibited a significantly lower incidence of severe movement during the procedure compared with the PS group (14.52% vs. 32.26%, p&#x2009;=&#x2009;0.020). The PE group showed significantly lower incidence of respiratory depression, hypotension, and severe injection pain of propofol than the PS group during the procedure (all p&#x2009;<&#x2009;0.05). The mean arterial pressure (MAP) decreased significantly after anesthesia induction in the PS group and remained lower than baseline (all p&#x2009;<&#x2009;0.05). Compared with the combination of low-dose sufentanil (0.2&#x2009;&#x3bc;g/mg) with propofol, the low-dose esketamine (0.3&#x2009;mg/kg) combined with propofol provided more stable hemodynamics, higher quality of sedation, and fewer adverse events in children with autism undergoing colonoscopy procedure.
+Ultrasound-guided transversus abdominis plane (TAP) block is commonly used for pain control in laparoscopic cholecystectomy. However, significant pain persists, affecting patient recovery and sleep quality on the day of surgery. We compared the analgesic effect of ultrasound-guided TAP block with or without rectus sheath (RS) block in patients undergoing laparoscopic cholecystectomy using the visual analog scale (VAS) scores. The study was registered before patient enrollment at the Clinical Research Information Service (registration number: KCT0006468, 19/08/2021). 88 American Society of Anesthesiologist physical status I-III patients undergoing laparoscopic cholecystectomy were divided into two groups. RS-TAP group received right lateral and right subcostal TAP block, and RS block with 0.2% ropivacaine (30 mL); Bi-TAP group received bilateral and right subcostal TAP block with same amount of ropivacaine. The primary outcome was visual analogue scale (VAS) for 48&#xa0;h postoperatively. Secondary outcomes included the use of rescue analgesics, cumulative intravenous patient-controlled analgesia (IV-PCA) consumption, patient satisfaction, sleep quality, and incidence of adverse events. There was no significant difference in VAS score between two groups for 48&#xa0;h postoperatively. We found no difference between the groups in any of the secondary outcomes: the use of rescue analgesics, consumption of IV-PCA, patient satisfaction with postoperative pain control, sleep quality, and the incidence of postoperative adverse events. Both RS-TAP and Bi-TAP blocks provided clinically acceptable pain control in patients undergoing laparoscopic cholecystectomy, although there was no significant difference between two combination blocks in postoperative analgesia or sleep quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/aur.3172
+- DOI: 10.1186/s12871-024-02590-x
 
 2. Keywords
-- anesthesia
-- autism
-- colonoscopy
-- esketamine
-- propofol
-- sufentanil
+- Block
+- ERAS
+- Laparoscopic cholecystectomy
+- Rectus sheath
+- Sleep quality
+- Transversus Abdominis plane block
 
 3. Key Findings
-- The PE group showed significantly lower incidence of respiratory depression, hypotension, and severe injection pain of propofol than the PS group during the procedure (all p&#x2009;<&#x2009;0
+- We found no difference between the groups in any of the secondary outcomes: the use of rescue analgesics, consumption of IV-PCA, patient satisfaction with postoperative pain control, sleep quality, and the incidence of postoperative adverse events
 
 This study provides insights into:
-- anesthesia assessment methods and outcomes
-- autism assessment methods and outcomes
-- colonoscopy assessment methods and outcomes
+- Block assessment methods and outcomes
+- ERAS assessment methods and outcomes
+- Laparoscopic cholecystectomy assessment methods and outcomes

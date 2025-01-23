@@ -1,26 +1,30 @@
-Study Title: Are dietary intake and nutritional status of specific polyunsaturated fatty acids correlated with sarcopenia outcomes in community-dwelling older adults with sarcopenia? - Exploratory results from ENHANce.
+Study Title: Higher dietary fiber intake associated with better survival in male but not female cancer patients: Evidence from National Health and Nutrition Examination Survey 1999-2014.
 
 Study Summary:
-To explore the relationship between dietary polyunsaturated fatty acids (PUFAs) intake, nutritional PUFAs status and sarcopenia outcomes in sarcopenic older adults. The Exercise and Nutrition for Healthy AgeiNg (ENHANce) is an ongoing 5-armed triple blinded randomized controlled trial, in sarcopenic older adults (>&#x2009;65y) aiming to assess the effect of combined anabolic interventions (protein, omega-3 supplement and exercise) on physical performance in these adults, compared to single/placebo interventions. Baseline data were used for a secondary, exploratory, cross-sectional analysis. Dietary PUFAs intake was assessed with 4-day food records, status with RBC membrane fatty acids profiles. Spearman's rho(&#x3c1;) correlation coefficients were calculated to explore associations of PUFAs intake and status with sarcopenia-defining parameters (muscle strength, mass and physical performance), physical activity (step count) and quality of life (SF-36, SarQoL). In total, 29 subjects (9&#x2642;/20&#x2640;, mean age 76.3&#x2009;&#xb1;&#x2009;5.4y) were included. Total omega-3 intake of participants (1.99&#x2009;&#xb1;&#x2009;0.99&#xa0;g/d) was below the recommended intake (&#x2642;:2.8-5.6&#xa0;g/d; &#x2640;:2.2-4.4&#xa0;g/d). Intake and status of PUFAs were not correlated. Regarding correlations with outcomes, &#x3b1;-linolenic acid status was inversely associated with appendicular lean mass (aLM) (&#x3c1;:-0.439; p&#x2009;=&#x2009;0.017), whereas docosahexaenoic acid status was positively associated with aLM (&#x3c1;:0.388; p&#x2009;=&#x2009;0.038). Some omega-3 PUFAs intake and status markers were positively associated with step count, SF-36 and SarQoL scores, whereas gamma-linolenic acid status was inversely associated with SF-36 physical component summary score (&#x3c1;&#x2009;=&#x2009;-0.426; p&#x2009;=&#x2009;0.024). Although intake of omega-3 and omega-6 was low, the present exploratory study generated new hypotheses for potential correlations of PUFAs intake and status with sarcopenia outcomes in older adults with sarcopenia.
+Recent studies have found that dietary fiber improves prognosis in cancer patients. However, few subgroup analyses exist. Subgroups can differ greatly in terms of different factors such as dietary intake, lifestyle, and sex. It is unclear whether fiber benefits all of the subgroups equally. In this study, we examined differences in dietary fiber consumption and cancer mortality between subgroups, including sex. This trial was conducted using eight consecutive National Health and Nutrition Examination Surveys (NHANESs) cycles data between 1999 and 2014. Subgroup analyses were used to investigate the results and heterogeneity within subgroups. Survival analysis was performed using the Cox proportional hazard model and Kaplan-Meier curves. Multivariable Cox regression models and restricted cubic spline analysis were applied to examine the association between dietary fiber intake and mortality. In total, 3504 cases were included in this study. Among the participants, the mean age (SD) was 65.5 (15.7) y and 1657 (47.3%) of the participants were men. Subgroup analysis found that men differed significantly from women (P for interaction < 0.001). We found no significant differences in the other subgroups (all P for interaction > 0.05). During an average follow-up of 6.8 y, 342 cancer deaths were recorded. The Cox regression models found that fiber consumption was associated with a lower cancer mortality rate in men (model I: hazard ratio [HR]&#xa0;=&#xa0;0.60; 95% CI, 0.50-0.72; model II: HR&#xa0;=&#xa0;0.60; 95% CI, 0.47-0.75; and model III: HR&#xa0;=&#xa0;0.61; 95% CI, 0.48-0.77). However, there was no relationship between fiber consumption and cancer mortality in women (model I: HR&#xa0;=&#xa0;1.06; 95% CI, 0.88-1.28; model II: HR&#xa0;=&#xa0;1.03; 95% CI, 0.84-1.26; and model III: HR&#xa0;=&#xa0;1.04; 95% CI, 0.87-1.50). The Kaplan-Meier curve illustrates that male patients who consumed higher levels of dietary fiber survived significantly longer than those who consumed lower levels of fiber (P < 0.001). However, there were no significant differences between the two groups in terms of female patients (P&#xa0;=&#xa0;0.84). A dose-response analysis found an L-shaped relationship between fiber intake and mortality among men. This study found that higher dietary fiber intake was only associated with better survival in male cancer patients, not in female cancer patients. Sex differences between dietary fiber intake and cancer mortality were observed.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1186/s12877-023-04007-9
+- DOI: 10.1016/j.nut.2023.112035
 
 2. Keywords
-- Older adults
-- Omega-3
-- Omega-6
-- Polyunsaturated fatty acids
-- Sarcopenia
+- Cancer mortality
+- Fiber
+- Retrospective cohort
+- Sex differences
 
 3. Key Findings
-- Findings extraction requires manual review
+- Recent studies have found that dietary fiber improves prognosis in cancer patients
+- Subgroup analysis found that men differed significantly from women (P for interaction < 0
+- We found no significant differences in the other subgroups (all P for interaction > 0
+- The Cox regression models found that fiber consumption was associated with a lower cancer mortality rate in men (model I: hazard ratio [HR]&#xa0;=&#xa0;0
+- A dose-response analysis found an L-shaped relationship between fiber intake and mortality among men
+- This study found that higher dietary fiber intake was only associated with better survival in male cancer patients, not in female cancer patients
 
 This study provides insights into:
-- Older adults assessment methods and outcomes
-- Omega-3 assessment methods and outcomes
-- Omega-6 assessment methods and outcomes
+- Cancer mortality assessment methods and outcomes
+- Fiber assessment methods and outcomes
+- Retrospective cohort assessment methods and outcomes

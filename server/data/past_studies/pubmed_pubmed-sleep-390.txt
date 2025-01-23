@@ -1,35 +1,22 @@
-Study Title: Effect of oxygen supplementation on cognitive performance among HEMS providers after acute exposure to altitude: the HEMS II randomized clinical trial.
+Study Title: Keeping Pace with Wearables: A Living Umbrella Review of Systematic Reviews Evaluating the Accuracy of Consumer Wearable Technologies in Health Measurement.
 
 Study Summary:
-Emergency medical services (EMS) providers transiently ascend to high altitude for primary missions and secondary transports in mountainous areas in helicopters that are unpressurised and do not have facilities for oxygen supplementation. The decrease in cerebral oxygen saturation can lead to impairment in attention and reaction time as well as in quality of care during acute exposure to altitude. The primary aim of the current study was to investigate the effect of oxygen supplementation on cognitive performance in Helicopter EMS (HEMS) providers during acute exposure to altitude. This interventional, randomized, controlled, double-blind, cross-over clinical trial was conducted in October 2021. Each trial used a simulated altitude scenario equivalent to 4000&#xa0;m, in which volunteers were exposed to hypobaric hypoxia with a constant rate of ascent of 4&#xa0;m/s in an environmental chamber under controlled, replicable, and safe conditions. Trials could be voluntarily terminated at any time. Inclusion criteria were being members of emergency medical services and search and rescue services with an age between 18 and 60&#xa0;years and an American Society of Anesthesiologists physical status class I. Each participant conducted 2 trials, one in which they were exposed to altitude with oxygen supplementation (intervention trial) and the other in which they were exposed to altitude with ambient air supplementation (control trial). Measurements included peripheral oxygen saturation (SpO), cerebral oxygenation (ScO), breathing and heart rates, Psychomotor Vigilance Test (PVT), Digit-Symbol Substitution Test (DSST), n-Back test (2-BACK), the Grooved Pegboard test, and questionnaires on subjective performance, stress, workload, and positive and negative affect. Paired t-tests were used to compare conditions (intervention vs. control). Data were further analyzed using generalized estimating equations (GEE). A total of 36 volunteers (30 men; mean [SD] age, 36 [9] years; mean [SD] education, 17 [4] years) were exposed to the intervention and control trials. The intervention trials, compared with the control trials, had higher values of SpO(mean [SD], 97.9 [1.6] %&#xa0;vs. 86 [2.3]&#xa0;%, t-test, p&#x2009;=&#x2009;0.004) and ScO(mean [SD], 69.9 [5.8] %&#xa0;vs. 62.1 [5.2]&#xa0;%, paired t-test, p&#x2009;=&#x2009;0.004). The intervention trials compared with the control trials had a shorter reaction time (RT) on the PVT after 5&#xa0;min (mean [SD], 277.8 [16.7] ms vs. 282.5 [15.3] ms, paired t-test, p&#x2009;=&#x2009;0.006) and after 30&#xa0;min (mean [SD], 276.9 [17.7] ms vs. 280.7 [15.0] ms, paired t-test, p&#x2009;=&#x2009;0.054) at altitude. While controlling for other variables, there was a RT increase of 0.37&#xa0;ms for each % of SpOdecrease. The intervention trials showed significantly higher values for DSST number of correct responses (with a difference of mean [SD], 1.2 [3.2], paired t-test, p&#x2009;=&#x2009;0.035). Variables in the intervention trials were otherwise similar to those in the control trials for DSST number of incorrect responses, 2-BACK, and the Grooved Pegboard test. This randomized clinical trial found that oxygen supplementation improves cognitive performance among HEMS providers during acute exposure to 4000 m altitude. The use of oxygen supplementation may allow to maintain attention and timely reaction in HEMS providers. The impact of repeated altitude ascents on the same day, sleep-deprivation, and additional stressors should be investigated. Trial registration NCT05073406, ClinicalTrials.gov trial registration.
+Consumer wearable technologies have become ubiquitous, with clinical and non-clinical populations leveraging a variety of devices to quantify various aspects of health and wellness. However, the accuracy with which these devices measure biometric outcomes such as heart rate, sleep and physical activity remains unclear. To conduct a 'living' (i.e. ongoing) evaluation of the accuracy of consumer wearable technologies in measuring various physiological outcomes. A systematic search of the literature was conducted in the following scientific databases: MEDLINE via PubMed, Embase, Cinahl and SPORTDiscus via EBSCO. The inclusion criteria required systematic reviews or meta-analyses that evaluated the validation of consumer wearable devices against accepted reference standards. In addition to publication details, review protocol, device specifics and a summary of the authors' results, we extracted data on mean absolute percentage error (MAPE), pooled absolute bias, intraclass correlation coefficients (ICCs) and mean absolute differences. Of 904 identified studies through the initial search, 24 systematic reviews met our inclusion criteria; these systematic reviews included 249 non-duplicate validation studies of consumer wearable devices involving 430,465 participants (43% female). Of the commercially available wearable devices released to date, approximately 11% have been validated for at least one biometric outcome. However, because a typical device can measure a multitude of biometric outcomes, the number of validation studies conducted represents just 3.5% of the total needed for a comprehensive evaluation of these devices. For heart rate, wearables showed a mean bias of&#x2009;&#xb1;&#x2009;3%. In arrhythmia detection, wearables exhibited a pooled sensitivity and specificity of 100% and 95%, respectively. For aerobic capacity, wearables significantly overestimated VOby&#x2009;&#xb1;&#x2009;15.24% during resting tests and&#x2009;&#xb1;&#x2009;9.83% during exercise tests. Physical activity intensity measurements had a mean absolute error ranging from 29 to 80%, depending on the intensity of the activity being undertaken. Wearables mostly underestimated step counts (mean absolute percentage errors ranging from -&#x2009;9 to&#x2009;&#x2009;12%) and energy expenditure (mean bias&#x2009;=&#x2009;&#x2009;-&#x2009;3&#xa0;kcal per minute, or&#x2009;-&#x2009;3%, with error ranging from&#x2009;-&#x2009;21.27 to 14.76%). For blood oxygen saturation, wearables showed a mean absolute difference of up to 2.0%. Sleep measurement showed a tendency to overestimate total sleep time (mean absolute percentage error typically&#x2009;>&#x2009;10%). While consumer wearables show promise in health monitoring, a conclusive assessment of their accuracy is impeded by pervasive heterogeneity in research outcomes and methodologies. There is a need for standardised validation protocols and collaborative industry partnerships to enhance the reliability and practical applicability of wearable technology assessments. CRD42023402703.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13049-024-01238-6
+- DOI: 10.1007/s40279-024-02077-2
 
 2. Keywords
-- Altitude
-- Attention
-- Brain
-- Cognition
-- Helicopter emergency medical services
-- Hypobaric hypoxia
-- Motor skills
-- Oxygen supplementation
-- Processing speed
-- Reaction time
-- Stress
-- Working memory
-- Workload
+
 
 3. Key Findings
-- The intervention trials showed significantly higher values for DSST number of correct responses (with a difference of mean [SD], 1
-- This randomized clinical trial found that oxygen supplementation improves cognitive performance among HEMS providers during acute exposure to 4000 m altitude
+- For heart rate, wearables showed a mean bias of&#x2009;&#xb1;&#x2009;3%
+- For blood oxygen saturation, wearables showed a mean absolute difference of up to 2
+- Sleep measurement showed a tendency to overestimate total sleep time (mean absolute percentage error typically&#x2009;>&#x2009;10%)
 
 This study provides insights into:
-- Altitude assessment methods and outcomes
-- Attention assessment methods and outcomes
-- Brain assessment methods and outcomes
+- General research methodology and outcomes

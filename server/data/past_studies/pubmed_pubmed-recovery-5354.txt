@@ -1,25 +1,26 @@
-Study Title: Effects of auricular vagus nerve stimulation and electrical earlobe stimulation on motor-evoked potential changes induced by paired associative stimulation.
+Study Title: Twenty-Four-Hour Post-Thrombolysis NIHSS Score As the Strongest Prognostic Predictor After Acute Ischemic Stroke: ENCHANTED Study.
 
 Study Summary:
-Paired associative stimulation (PAS) is a combination of transcranial magnetic stimulation (TMS) and peripheral nerve stimulation (PNS). PAS can induce long-term potentiation (LTP)-like plasticity in humans, manifested as motor-evoked potential (MEP) enhancement. We have developed a variant of PAS ("high-PAS"), which consists of high-frequency PNS and high-intensity TMS and targets spinal plasticity and promotes rehabilitation after spinal cord injury (SCI). Vagus nerve stimulation (VNS) promotes LTP-like plasticity and enhances recovery in SCI and stroke in humans and animals when combined with repetitive motor training. We combined high-PAS with simultaneous noninvasive transcutaneous auricular VNS (aVNS) to determine if aVNS enhances the extent of PAS-induced MEP amplitude increase. Sixteen healthy participants were stimulated for 20&#x2009;min in four different sessions (PAS, PAS&#x2009;+&#x2009;aVNS, PAS&#x2009;+&#x2009;shamVNS, and aVNS) in a randomized single-blind setup. MEPs were measured before, immediately after, and at 30, 60, and 90&#x2009;min post-stimulation. Stimulation protocols with PAS significantly potentiated MEPs (p&#xa0;=&#x2009;0.005) when compared with aVNS (p&#xa0;=&#x2009;0.642). Although not significant, MEP enhancement observed after PAS (43.5%) is further increased by aVNS (49.7%) and electrical earlobe stimulation (63.9%). Our aVNS setup failed to significantly enhance the effect of PAS, but sham VNS revealed a trend towards enhanced plasticity. Optimization of auricular VNS stimulation setup is required for possible tests of patients with SCI.
+This study was conducted to determine optimal predictive ability of National Institutes of Health Stroke Scale (NIHSS) measurements at baseline, 24&#x2009;hours, and change from baseline to 24&#x2009;hours after thrombolysis on functional recovery in patients with acute ischemic stroke who participated in the ENCHANTED (Enhanced Control of Hypertension and Thrombolysis Stroke Study). ENCHANTED was an international, multicenter, 2&#xd7;2 quasifactorial, prospective, randomized open trial of low-dose versus standard-dose intravenous alteplase and intensive versus guideline-recommended blood pressure lowering in thrombolysis-eligible patients with acute ischemic stroke. Absolute (baseline minus 24&#x2009;hours) and percentage (absolute change/baseline&#x2009;&#xd7;&#x2009;100) changes in NIHSS scores were calculated. Receiver operating characteristic curve analyses assessed performance of different NIHSS measurements on 90-day favorable functional recovery (modified Rankin Scale [mRS] score 0-2) and excellent functional recovery (mRS score 0-1). Youden index was used to identify optimal predictor cutoff points. A total of 4410 patients in the ENCHANTED trial were enrolled. The 24-hour NIHSS score had the highest discriminative ability for predicting favorable 90-day functional recovery (mRS score 0-2; area under the curve 0.866 versus 0.755, 0.689, 0.764;<0.001) than baseline, absolute, and percentage change of NIHSS score, respectively. The optimal cutoff point of 24-hour NIHSS score for predicting favorable functional recovery was &#x2264;4 (sensitivity 66.5%, specificity 87.1%, adjusted odds ratio, 9.44 [95% CI, 7.77-11.48]). The 24-hour NIHSS score (&#x2264;3) was the best predictor of 90-day excellent functional recovery (mRS score 0-1). Findings were consistent across subgroups, including sex, race, baseline NIHSS score, stroke subtype, and age. In thrombolysis-eligible patients with acute ischemic stroke, 24-hour NIHSS score (optimal cutpoint of 4) is the strongest predictor of 90-day functional recovery over baseline and early change of NIHSS score. URL: https://clinicaltrials.gov. Unique Identifier: NCT01422616.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/ejn.16539
+- DOI: 10.1161/JAHA.124.036109
 
 2. Keywords
-- motor&#x2010;evoked potential
-- peripheral nerve stimulation
-- spinal plasticity
-- transcranial magnetic stimulation
+- ENCHANTED
+- NIHSS score
+- ischemic stroke
+- predictor
+- thrombolysis
 
 3. Key Findings
-- Our aVNS setup failed to significantly enhance the effect of PAS, but sham VNS revealed a trend towards enhanced plasticity
+- Findings extraction requires manual review
 
 This study provides insights into:
-- motor&#x2010;evoked potential assessment methods and outcomes
-- peripheral nerve stimulation assessment methods and outcomes
-- spinal plasticity assessment methods and outcomes
+- ENCHANTED assessment methods and outcomes
+- NIHSS score assessment methods and outcomes
+- ischemic stroke assessment methods and outcomes

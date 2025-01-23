@@ -1,25 +1,20 @@
-Study Title: The effects of Mediterranean diets with low or high glycemic index on plasma glucose and insulin profiles are different in adult men and women: Data from MEDGI-Carb randomized clinical trial.
+Study Title: Randomized Trial of Exercise and Nutrition on Chemotherapy Completion and Pathologic Complete Response in Women With Breast Cancer: The Lifestyle, Exercise, and Nutrition Early After Diagnosis Study.
 
 Study Summary:
-Recent evidence suggests that the ability to regulate glucose and insulin homeostasis is different in men and women. Against this background, it has been hypothesized that the impact on daily plasma glucose and insulin profiles of the glycemic index (GI) of the habitual diet may differ according to sex. The aim of this study is to evaluate whether 8-h average plasma glucose and insulin profiles during a low- or a high-GI diet in individuals at high risk of developing type 2 diabetes are influenced by sex. We conducted a randomized, controlled, parallel group dietary intervention, comparing high-versus low-GI diets in a multi-national (Italy, Sweden, and the United States) sample of 156 adults at risk for type 2 diabetes. For 12 weeks, 82 vs 74 participants consumed either a low-GI or high-GI Mediterranean diet, respectively. The two experimental diets contained the same quantity of available carbohydrate (270&#xa0;g/d) and fiber (35&#xa0;g/d) and the same foods and beverages, except for the major sources of starch that was specific to the low-GI and high-GI groups (pasta, brown rice, flatbread, all bran, and wheat bread plus rye and seeds, vs jasmine rice, potato, couscous, wholegrain bread, and rusks). At baseline and after the intervention plasma glucose and insulin profiles were evaluated for 8&#xa0;h in the two intervention groups - separately for men and women - with both breakfast and lunch resembling food choices of the assigned diet. One hundred fifty-six adults (82 women, 74 men) with at least two traits of the metabolic syndrome completed the intervention. In women, the high-GI induced significantly higher (23%, p&#xa0;<&#xa0;0.05) 8-h average plasma glucose concentrations in comparison to the low-GI diet&#xa0;already on the first day of the intervention; the difference increased up to 37% (p&#xa0;<&#xa0;0.05) after 12 weeks of diet. Conversely, there were no significant differences between the two diets in men. These results were confirmed by the two-way analysis of variance showing a statistically significant interaction between the effects of sex and diet on the glucose profile after breakfast and lunch (F&#xa0;=&#xa0;7.887, p&#xa0;=&#xa0;0.006). The results of our intervention show that women, compared to men, are more sensitive to the metabolic effects of the dietary GI. This has a strong clinical and scientific relevance and, if confirmed in further studies, it might have important implications for dietary strategies for diabetes and cardiovascular disease prevention in the context of personalized nutrition. Clinicaltrials.gov n. NCT03410719.
+Successful completion of chemotherapy is critical to improve breast cancer outcomes. Relative dose intensity (RDI), defined as the ratio of chemotherapy delivered to prescribed, is a measure of chemotherapy completion and is associated with cancer mortality. The effect of exercise and eating a healthy diet on RDI is unknown. We conducted a randomized trial of an exercise and nutrition intervention on RDI and pathologic complete response (pCR) in women diagnosed with breast cancer initiating chemotherapy. One hundred seventy-three women with stage I-III breast cancer were randomly assigned to usual care (UC; n = 86) or a home-based exercise and nutrition intervention with counseling sessions delivered by oncology-certified registered dietitians (n = 87). Chemotherapy dose adjustments and delays and pCR were abstracted from electronic medical records. T-tests and chi-square tests were used to examine the effect of the intervention versus UC on RDI and pCR. Participants randomly assigned to intervention had greater improvements in exercise and diet quality compared with UC (< .05). RDI was 92.9% &#xb1; 12.1% and 93.6% &#xb1; 11.1% for intervention and UC, respectively (= .69); the proportion of patients in the intervention versus UC who achieved &#x2265;85% RDI was 81% and 85%, respectively (= .44). The proportion of patients who had at least one dose reduction and/or delay was 38% intervention and 36% UC (= .80). Among 72 women who received neoadjuvant chemotherapy, women randomly assigned to intervention were more likely to have a pCR than those randomly assigned to UC (53%28%;= .037). Although a diet and exercise intervention did not affect RDI, the intervention was associated with a higher pCR in patients with hormone receptor-positive/human epidermal growth factor receptor 2-negative and triple-negative breast cancer undergoing neoadjuvant chemotherapy.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.clnu.2023.08.016
+- DOI: 10.1200/JCO.23.00871
 
 2. Keywords
-- Glucose response
-- Glycemic index
-- Insulin response
-- Type 2 diabetes prevention
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Glucose response assessment methods and outcomes
-- Glycemic index assessment methods and outcomes
-- Insulin response assessment methods and outcomes
+- General research methodology and outcomes

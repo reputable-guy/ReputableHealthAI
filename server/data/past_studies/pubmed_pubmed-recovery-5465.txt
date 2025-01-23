@@ -1,20 +1,27 @@
-Study Title: The effect of tart cherry juice compared to a sports drink on cycling exercise performance, substrate metabolism, and recovery.
+Study Title: Internet&#x200a;+&#x200a;wearable device training effects on limb function recovery and serum neurocytokine content in stroke patients.
 
 Study Summary:
-Tart cherries have low glycemic index, antioxidant and anti-inflammatory properties, and therefore may benefit performance and recovery from exercise. We determined the effects of consuming tart cherry juice versus a high-glycemic index sports drink on cycling performance, substrate oxidation, and recovery of low-frequency fatigue. Using a randomized, counter-balanced cross-over design, with one-month washout, 12 recreational cyclists (8 males and 4 females; 35&#xb1;16y; VO2peak 38.2&#xb1;7.4 ml/kg/min) consumed cherry juice or sports drink twice a day (300mL/d) for 4d before and 2d after exercise. On the exercise day, beverages (providing 1g/kg carbohydrate) were consumed 45min before 90min of cycling at 65%VO2peak, followed by a 10km time trial. Blood glucose, lactate, carbohydrate and fat oxidation, respiratory exchange ratio (RER), O2 cost of cycling, and rating of perceived exertion (RPE) were measured during the initial 90min of cycling. Muscle soreness, maximal voluntary contraction (MVC) and low-frequency fatigue were determined at baseline and after the time trial on the exercise day, and 30min after beverage consumption 24 and 48h later. There were no differences for time trial performance (17&#xb1;3min cherry juice vs. 17&#xb1;2min sports drink, p = 0.27) or any other measures between drink conditions. There were time main effects (p<0.05) for isometric MVC (decreasing) and low-frequency fatigue (increasing; i.e. decreased force at low relative to high stimulation frequencies), changing significantly from baseline to post-exercise and then returning to baseline at 24h post-exercise. Tart cherry juice was not effective for improving performance, substrate oxidation during exercise, and recovery from exercise, compared to a high-glycemic index sports drink.
+The traditional method of post-hospital intervention and guidance of stroke patients has some limitations. To investigate the effects of Internet&#x200a;+&#x200a;wearable device training on limb function recovery and the levels of serum neurocytokines (BDNF, NT-3, and NGF) in stroke patients. 80 stroke patients with hemiplegia were randomly selected from the Department of Neurorehabilitation, Affiliated Rehabilitation Hospital of Chongqing Medical University. They were divided into a control group and an observation group, with 40 patients in each group. The control group received routine post-hospital follow-up guidance, while the observation group received Internet remote home rehabilitation guidance combined with wearable device training. The interventions were compared between the two groups. At 4 weeks and 12 weeks after discharge, the observation group showed higher scores on the Fugl-Meyer scale (FMA), Berg Balance Scale (BBS), modified Barthel Index (MBI), stride length, gait speed, gait frequency, and higher levels of BDNF, NT-3, and NGF. Additionally, the observation group had lower scores on the Hamilton Anxiety and Depression Scale (HADS) (P&#x200a;<&#x200a;0.05). The application of Internet remote home rehabilitation guidance combined with wearable device training in stroke patients with hemiplegia can improve limb function recovery. It effectively increases the levels of BDNF, NT-3, and NGF, promoting the nutritional repair of damaged nerves. These findings hold clinical significance.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0307263
+- DOI: 10.3233/NRE-230347
 
 2. Keywords
-
+- Internet
+- hemiplegia
+- limb function
+- neurocytokines
+- stroke
+- wearable device training
 
 3. Key Findings
-- Findings extraction requires manual review
+- At 4 weeks and 12 weeks after discharge, the observation group showed higher scores on the Fugl-Meyer scale (FMA), Berg Balance Scale (BBS), modified Barthel Index (MBI), stride length, gait speed, gait frequency, and higher levels of BDNF, NT-3, and NGF
 
 This study provides insights into:
-- General research methodology and outcomes
+- Internet assessment methods and outcomes
+- hemiplegia assessment methods and outcomes
+- limb function assessment methods and outcomes

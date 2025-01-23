@@ -1,26 +1,26 @@
-Study Title: Matched Comparison Examining the Effect of Obesity on Clinical, Economic, and Humanistic Outcomes in Patients with Bipolar&#xa0;I Disorder.
+Study Title: Protective Assets Reinforced With Integrated Care and Technology (PARITY): Protocol for a Randomized Controlled Trial.
 
 Study Summary:
-Bipolar&#xa0;I disorder (BD-I) is associated with an increased risk of obesity, but few studies have evaluated the real-world clinical, humanistic, and economic effects associated with obesity in people with BD-I. This was a retrospective, cross-sectional analysis of responses to the 2016 and 2020 National Health and Wellness surveys. Respondents (18-64&#xa0;years) with a self-reported physician diagnosis of BD-I were matched to controls without BD-I based on demographic and health characteristics. Respondents were categorized by body mass index as underweight/normal weight (<&#x2009;25&#xa0;kg/m), overweight (25 to <&#x2009;30&#xa0;kg/m), or obese (&#x2265;&#x2009;30&#xa0;kg/m). Multivariable regression models were used to compare obesity-related comorbidities, healthcare resource utilization (HCRU), health-related quality of life (HRQoL), work productivity, and indirect and direct costs. Before matching, the BD-I cohort was younger than the non-BD-I cohort and included more female and white respondents and a greater proportion covered by Medicaid or Medicare. After matching, the BD-I and non-BD-I cohorts had similar characteristics. A total of 5418 respondents (BD-I, n&#x2009;=&#x2009;1806; matched controls, n&#x2009;=&#x2009;3612) were analyzed. Obese respondents with BD-I reported the highest adjusted prevalences of high blood pressure (50%), high cholesterol (35%), sleep apnea (27%), osteoarthritis (17%), type&#xa0;2 diabetes (12%), and liver disease (4%). Obesity in respondents with BD-I was associated with the lowest HRQoL scores. Measures of work impairment were highest in respondents with BD-I and obesity, as was HCRU. Respondents with BD-I and obesity had the highest associated total indirect and direct medical costs ($25,849 and $44,482, respectively). Obese respondents with BD-I had greater frequencies of obesity-related comorbidities, higher HCRU, lower HRQoL, greater work impairments, and higher indirect and direct medical costs. These findings highlight the real-world burden of obesity in people with BD-I and the importance of considering treatments that may reduce this burden.
+Black women are significantly more likely to experience severe maternal morbidity and are 3 times as likely to die from pregnancy-related causes compared to White women. Using a strengths-based wellness approach within an integrated supportive care program provided by a community doula could offer pragmatic solutions for Black maternal disparities. The Protective Assets Reinforced with Integrated Care and Technology (PARITY) program consists of a wellness technology platform, including informational links to wellness content and reinforcing motivational SMS text messages, as well as community-based doula support delivered both in person and through the technology platform to improve Black maternal wellness. This pilot randomized controlled trial (RCT) and mixed methods evaluation aims to (1) determine the feasibility and acceptability of the PARITY intervention; (2) investigate the preliminary efficacy of the PARITY intervention on clinical outcomes (maternal blood pressure, gestational weight gain, and cesarean birth); and (3) investigate changes to wellness behavioral outcomes (nutrition, physical activity, sleep, and health care adherence) and empowered strengths (self-efficacy, social support, motivation, resilience, problem-solving, and self-regulation) in the intervention group compared to a control group. A 2-arm RCT and mixed methods evaluation will be conducted. Overall, 60 Black pregnant individuals will be randomized in a ratio of 1:1 to either the intervention or informational control group. Participants in the intervention group will receive access to the technology platform over a 12-week period that ends before birth. Intervention participants will be assigned a doula interventionist, who will meet with them 4 times during the intervention. All participants (intervention and control) will receive a referral for a birth doula at no cost, printed materials about having a healthy pregnancy, and community resources. Feasibility and acceptability will be assessed at the end of the program. Measures will be obtained at baseline (20-28 weeks), the 36th week of pregnancy, birth, and 6-12 weeks post partum. Summary statistics and distribution plots will be used to describe measured variables at each time point. A generalized linear mixed model with a shared random component will be used to analyze the effects of PARITY on clinical, wellness behavioral, and empowered strength outcomes, including baseline nutrition, physical activity, and sleep measures as covariates. For significant effects, post hoc contrasts will be adjusted using the Holm method to maintain comparison-wise error at or <.05. Missing data will be addressed using a pattern-mixture model. The National Institute of Nursing Research funded this pilot RCT. Recruitment, enrollment, and data collection are ongoing, and the estimated study completion date is October 2024. The expected results of this study will provide the feasibility and preliminary efficacy of the PARITY intervention, to be used in a larger trial with a 12-month PARITY program intervention. ClinicalTrials.gov NCT05802615; https://clinicaltrials.gov/study/NCT05802615. DERR1-10.2196/58580.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s12325-024-02953-3
+- DOI: 10.2196/58580
 
 2. Keywords
-- Body mass index
-- Comorbidity
-- Health care costs
-- Health-related quality of life
-- Obesity
+- African American
+- doula
+- health disparities
+- maternal health
+- mobile phone
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Body mass index assessment methods and outcomes
-- Comorbidity assessment methods and outcomes
-- Health care costs assessment methods and outcomes
+- African American assessment methods and outcomes
+- doula assessment methods and outcomes
+- health disparities assessment methods and outcomes

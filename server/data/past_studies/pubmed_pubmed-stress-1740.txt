@@ -1,27 +1,25 @@
-Study Title: Exercise and Nutrition in the Mental Health of the Older Adult Population: A Randomized Controlled Clinical Trial.
+Study Title: Randomized Trial to Assess the Safety and Tolerability of Daily Intake of an Allulose Amino Acid-Based Hydration Beverage in Men and Women.
 
 Study Summary:
-(1) Background: Global population aging is changing demographic structures and presents significant challenges for health systems, which must adapt to an increasingly elderly population. (2) Methods: The study employed a randomized controlled trial design with a total of 116 older adults aged 65 or older, randomly assigned to an experimental group (= 57) undergoing a combined resistance program and Mediterranean diet program and a control group (= 59) who did not receive any intervention. Anxiety and depression were evaluated using the Hospital Anxiety and Depression Scale (HADS), sleep quality through the Pittsburgh Sleep Quality Index (PSQI), and perceived stress using the Perceived Stress Scale (PSS). (3) Results: Statistically significant improvements (< 0.05) were observed both within and between groups in anxiety (Cohen's d = 0.38 and 0.78, respectively), depression (Cohen's d = 0.56 and 0.18, respectively), perceived stress (Cohen's d = 0.15 and 0.39, respectively), and in the PSQI domains: subjective sleep quality (Cohen's d = 1.01 and 0.53, respectively), sleep duration (Cohen's d = 0.112 and 0.53, respectively), sleep disturbances (Cohen's d = 1.92 and 0.95, respectively), use of medications (Cohen's d = 0.34 and 0.40, respectively), and the PSQI total score (Cohen's d = 0.68 and 0.49, respectively). No significant differences were observed in sleep latency or daytime dysfunction. (4) Conclusions: The results of the present study suggest that resistance intervention may be an effective therapeutic option to improve mental health and sleep quality in older adults aged 65 or older, offering a non-pharmacological approach to improving overall well-being in this demographic.
+Maintaining adequate hydration is critical to optimal health, well-being, and performance. Those who are physically active in stressful environments, such as warm and/or humid scenarios, may be at particular risk for dehydration with ensuing loss of electrolytes, leading to sluggishness and impaired physical performance. We evaluated an electrolyte and amino acid product containing L-alanine and L-glutamine, as well as select vitamins [B3 (niacin), B5 (pantothenic acid), B6 (pyridoxine), B12 (cobalamin), and vitamin C (ascorbic acid)]. Subjects (= 40; four groups,= 10) were randomized to consume either a placebo packet or one, two, or three packets daily of the test product for 4 weeks with site visits at 0, 2, and 4 weeks. We tested safety and tolerability by analyzing hematological parameters (complete blood counts), metabolic parameters (hepatic, renal, acid-base balance), urinalysis end products, thyroid status [T3 (triiodothyronine), T4 (thyroxine), TSH (thyroid-stimulating hormone)], tolerability (via questionnaire), vital signs, and dietary intake. Statistical analyses displayed ten significant main effects (< 0.05) with white blood cells, lymphocytes, neutrophils, urinary pH, thyroxine, urination frequency, calcium, calories, fat, and cholesterol. Interactions for time and group (< 0.05) were observed for MCV, eGFR, potassium, overall tolerability, bloating, and cramping-demonstrating mild GA disturbances. Little to no change of physiological relevance was noted for any outcome variable, regardless of dosing level. Our results indicate the product was well-tolerated at all dosing levels and no significant adverse changes occurred in any of the test parameters compared to the placebo group, indicating relative safety of ingestion over a 4-week treatment period, at the volumes used, and outside the context of physical stress.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16111741
+- DOI: 10.3390/nu16111766
 
 2. Keywords
-- Mediterranean diet
-- anxiety
-- depression
-- perceived stress
-- resistance program
-- sleep quality
+- amino acids
+- electrolytes
+- hydration
+- safety
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Mediterranean diet assessment methods and outcomes
-- anxiety assessment methods and outcomes
-- depression assessment methods and outcomes
+- amino acids assessment methods and outcomes
+- electrolytes assessment methods and outcomes
+- hydration assessment methods and outcomes

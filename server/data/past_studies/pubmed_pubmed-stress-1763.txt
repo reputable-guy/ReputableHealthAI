@@ -1,30 +1,26 @@
-Study Title: A multidomain lifestyle intervention to maintain optimal cognitive functioning in Dutch older adults-study design and baseline characteristics of the FINGER-NL randomized controlled trial.
+Study Title: Randomized effectiveness-implementation trial of dialectical behavior therapy interventions for young people with borderline personality disorder symptoms.
 
 Study Summary:
-Evidence on the effectiveness of multidomain lifestyle interventions to prevent cognitive decline in older people without dementia is mixed. Embedded in the World-Wide FINGERS initiative, FINGER-NL aims to investigate the effectiveness of a 2-year multidomain lifestyle intervention on cognitive functioning in older Dutch at risk individuals. Multi-center, randomized, controlled, multidomain lifestyle intervention trial with a duration of 24&#xa0;months. 1210 adults between 60-79&#xa0;years old with presence of&#x2009;&#x2265;&#x2009;2 modifiable risk factors and&#x2009;&#x2265;&#x2009;1 non-modifiable risk factor for cognitive decline were recruited between January 2022 and May 2023 via the Dutch Brain Research Registry and across five study sites in the Netherlands. Participants were randomized to either a high-intensity or a low-intensity intervention group. The multidomain intervention comprises a combination of 7 lifestyle components (physical activity, cognitive training, cardiovascular risk factor management, nutritional counseling, sleep counseling, stress management, and social activities) and 1 nutritional product (Souvenaid&#xae;) that could help maintain cognitive functioning. The high-intensity intervention group receives a personalized, supervised and hybrid intervention consisting of group meetings (on-site and online) and individual sessions guided by a trained lifestyle coach, and access to a digital intervention platform that provides custom-made training materials and selected lifestyle apps. The low-intensity intervention group receives bi-monthly online lifestyle-related health advice via the digital intervention platform. Primary outcome is 2-year change on a cognitive composite score covering processing speed, executive function, and memory. Within 17&#xa0;months, participant recruitment has been successfully completed (N&#x2009;=&#x2009;1210; mean age: 67.7&#xa0;years (SD: 4.6); 64% female). Modifiable risk factors commonly present at baseline were physical inactivity (89%), low mental/cognitive activity (50%), low social engagement (39%), hypertension (39%) and high alcohol consumption (39%). The mean body mass index of participants was 28.3 (SD: 4.2) and the total serum cholesterol was 5.4&#xa0;mmol/L (SD: 1.2). Baseline lifestyle and clinical measurements showed successful recruitment of participants with sufficient potential for prevention. Results of FINGER-NL will provide further insight into the efficacy of a multidomain lifestyle intervention to prevent cognitive decline in older adults. ClinicalTrials.gov (ID: NCT05256199)/2022-01-11.
+Dialectical behavior therapy (DBT) is an evidence-based treatment for people with emerging borderline personality disorder (BPD). In "real world" clinical settings, standard DBT is resource intensive. Emerging evidence suggests that group-based DBT skills training alone can lead to promising outcomes. This hybrid type 1 effectiveness-implementation trial directly compared the effectiveness of an 8-week group DBT-skills training program and a 16-week DBT-informed program including individual treatment and group-based skills training. This pragmatic trial employed a staggered, parallel-groups design. We recruited 104 participants, aged 16-25 years, with emotion dysregulation or emerging BPD symptoms. Participants were randomized to receive either program at a youth mental health service located in the Gold Coast, Australia. Data was collected via online surveys at baseline, 8-week, 16-week, and 24-week follow-up. Mixed effect linear models compared groups on the primary outcomes of emotion dysregulation and BPD symptoms, and secondary outcomes of suicidal ideation, coping skills, depression, anxiety, and stress. Across groups there were significant and sustained improvements relating to emotion dysregulation, BPD symptoms, stress, depression, and emotion-focused coping; but not suicide risk, anxiety, or task-focused coping. There was no significant time by group differences between the 8-week and 16-week interventions on any primary or secondary outcome. The more intensive mode of delivering DBT was not more effective than the brief group-based skills training. Both interventions resulted in significant improvements across both primary and most secondary outcomes. These results have implications for clinical practice regarding length and intensity of DBT treatment in young people.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s13195-024-01495-8
+- DOI: 10.1002/jclp.23725
 
 2. Keywords
-- Alzheimer&#x2019;s disease
-- Cognitive impairment
-- Dementia
-- Intervention
-- Lifestyle
-- Multidomain
-- Prevention
-- Randomized controlled trial
-- Risk factors
+- borderline personality disorder
+- dialectical behavior therapy
+- emotion dysregulation
+- randomized controlled trial
+- young people
 
 3. Key Findings
-- Baseline lifestyle and clinical measurements showed successful recruitment of participants with sufficient potential for prevention
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Alzheimer&#x2019;s disease assessment methods and outcomes
-- Cognitive impairment assessment methods and outcomes
-- Dementia assessment methods and outcomes
+- borderline personality disorder assessment methods and outcomes
+- dialectical behavior therapy assessment methods and outcomes
+- emotion dysregulation assessment methods and outcomes

@@ -1,26 +1,29 @@
-Study Title: Beneficial Effects of Ketoanalogues on the Evolution of Renal Function and Bone Mineral Disorders in Patients with Advanced Chronic Kidney Disease: A Pilot Study.
+Study Title: A randomized translational study on protein- and glucose metabolism in skeletal muscles evaluated by gene-ontology, following preoperative oral carbohydrate loading compared to overnight peripheral parenteral nutrition (PPN) before major cancer surgery.
 
 Study Summary:
-The supplementation with Ketoanalogues in patients on very low-protein diets has shown a favorable effect on the evolution of renal function. The aim of the present study was to evaluate the progression of renal function in advanced chronic kidney disease patients on a low-protein diet (<0.8 g/kg/d) with or without additional Ketoanalogues. The primary criterion is the evolution of the renal function at 6, 12, and 24 months for the two groups. The secondary criteria comprise the evolution of the body weight, mean blood pressure, 24-h proteinuria, salt and protein consumption, energy consumption, hemoglobin levels, serum albumin, prealbumin, C-reactive protein, liver function tests, serum electrolyte and phosphate levels, parathormone as well as calcium levels at the same time periods. There was a significant nephroprotective effect of the Ketoanalogues after 12 and 24 months with no differences in the protein consumption between the two groups. Mean blood pressure, hemoglobin levels, 24-hour proteinuria, serum electrolyte, liver function tests, salt and protein consumption, and serum albumin and prealbumin did not present any significant differences. Serum bicarbonate and calcium levels were higher while serum phosphate and parathormone levels were lower in the Ketoanalogue group at all follow-up time points. During the 24-month follow-up period, 4 patients from the Ketoanalogue group and 8 patients from the control group quit the study. A low-protein diet supplemented with Ketoanalogues exerts significant nephroprotective effects and better bone mineral metabolism parameters compared to a low-protein diet only.
+Effects of preoperative drinks on muscle metabolism are unclear despite general recommendations. The aim of the present study was therefore to compare metabolic effects of a preoperative oral nutrition drink, recommended by protocols for enhanced recovery after surgery (ERAS), compared to overnight preoperative peripheral total parenteral nutrition (PPN) on skeletal muscle metabolism in patients aimed at major gastrointestinal cancer surgery. Patients were randomized, based on diagnosis and clinical characteristics, to receive either a commercial carbohydrate-rich nutrition drink (Drink); or overnight (12&#xa0;h) peripheral parenteral nutrition (PPN) as study regimens; compared to isotone Ringer-acetate as Control regimen. Arterial blood- and abdominal muscle tissue specimens were collected at start of surgery. Blood chemistry included substrate- and hormone concentrations. Muscle mRNA transcript analyses were performed by microarray and evaluated for changes in gene activities by Gene Ontology algorithms. Patient groups were comparable in all measured preoperative assessments. The Nutrition Drink had significant metabolic alterations on muscle glucose metabolism (p&#x2009;<&#x2009;0.05), without any significant effects on amino acid- and protein metabolism. PPN showed similar significant effects on glucose metabolism as Drinks (p&#x2009;<&#x2009;0.05), but indicated also major positive effects on amino acid- (p&#x2009;<&#x2009;0.001) and protein anabolism (p&#x2009;<&#x2009;0.05), particularly by inhibition of muscle protein degradation, related to both ubiquitination of proteins and autophagy/lysosome pathways (p&#x2009;<&#x2009;0.05). Conventional overnight preoperative PPN seems effective to induce and support improved muscle protein metabolism in patients aimed at major cancer surgery while preoperative oral carbohydrate loading, according to ERAS-protocols, was ineffective to improve skeletal muscle catabolism and should therefore not be recommended before major cancer surgery. Trial registration Clinical trials.gov: NCT05080816, Registered June 10th 2021- Retrospectively registered. https://clinicaltrials.gov/study/NCT05080816.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1159/000540472
+- DOI: 10.1186/s12967-024-05484-1
 
 2. Keywords
-- Bone mineral disorders
-- Chronic kidney disease
-- Ketoanalogues
-- Nutrition
-- Renal function
+- Carbohydrate loading
+- ERAS
+- Gene expression
+- Parenteral nutrition
+- Preoperative nutrition
+- Skeletal muscle metabolism
+- mTOR signaling
 
 3. Key Findings
-- Findings extraction requires manual review
+- PPN showed similar significant effects on glucose metabolism as Drinks (p&#x2009;<&#x2009;0
+- 05), but indicated also major positive effects on amino acid- (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- Bone mineral disorders assessment methods and outcomes
-- Chronic kidney disease assessment methods and outcomes
-- Ketoanalogues assessment methods and outcomes
+- Carbohydrate loading assessment methods and outcomes
+- ERAS assessment methods and outcomes
+- Gene expression assessment methods and outcomes

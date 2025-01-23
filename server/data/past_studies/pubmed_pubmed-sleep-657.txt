@@ -1,25 +1,26 @@
-Study Title: Maternal positional therapy for fetal growth and customised birth weight centile benefit in a Bayesian reanalysis of a double-blind, sham-controlled, randomised clinical trial.
+Study Title: Effects of three-duration Tai-Chi exercises on depression and sleep quality in older women.
 
 Study Summary:
-To update the Ghana PrenaBelt Trial's (GPT) primary outcome data with the latest fetal growth standard and reanalyse it. To estimate the posterior probability, under various clinically relevant prior probabilities, of maternal nightly positional therapy (PT) throughout the third-trimester having a beneficial effect on customised birth weight centile (CBWC) using Bayesian analyses. A reanalysis of a double-blind, sham-controlled, randomised clinical trial. A single, tertiary-level centre in Accra, Ghana. Two-hundred participants entered, 181 completed and 167 were included in the final analysis. Participants were Ghanaian, healthy, aged 18-35 years, with low-risk, singleton pregnancies in their third-trimester, with Body Mass Index<35&#x2009;kg/mat the first antenatal appointment for the index pregnancy and without known fetal abnormalities, pregnancy complications or medical conditions complicating sleep. Participants were randomised to receive treatment with either a PT or sham-PT device. The primary outcome was the CBWC using the latest Perinatal Institute, Gestation-Related Optimal Weight calculator. Using Bayesian methods, posterior probabilities of achieving a greater than 0%, 5% and 10% benefit in CBWC with PT were estimated. There was no secondary outcome. The median (IQR) CBWC was 42% (15-71) and 28% (9-52) in the PT and sham-PT groups, respectively (difference 8.4%; 95% CI -0.30 to 18.2; p=0.06). For achieving a >0%, >5% and >10%&#x2009;gain in CBWC with PT, the posterior probabilities were highly probable, probable and unlikely, respectively, given a range of prior probabilities reflecting varying degrees of pre-existing enthusiasm and scepticism. Maternal nightly PT throughout the third-trimester did not have a statistically significant effect on CBWC on a frequentist analysis using the latest fetal growth standard. However, from a Bayesian analysis, clinicians can infer that PT is likely to benefit fetal growth but with a modest effect size. NCT02379728.
+This study aims to explore the effects of 24&#xa0;weeks of three-duration Tai-Chi (TC) practice on depression and sleep quality in older women. A total of 124 older women were randomly divided into four groups: short-time group (SG, n&#x2009;=&#x2009;31, mean age: 65.3), medium-time group (MG, n&#x2009;=&#x2009;30, mean age: 65.7), long-time group (LG, n&#x2009;=&#x2009;32, mean age: 64.9) and control group (CG, n&#x2009;=&#x2009;31, mean age: 66.2). The Beck Depression Inventory (BDI) and Pittsburgh Sleep Quality Index (PSQI), and serum levels of tumor necrosis factor-&#x3b1; (TNF-&#x3b1;), interleukin-6 (IL-6) and 5-hydroxytryptamine (5-HT) were measured. 1) Within-group comparisons: Compared with the baseline, the 12th and 24th weeks showed reductions in TNF-&#x3b1; and IL-6 levels and increase in 5-HT level in the SG, MG and LG (p&#x2009;<&#x2009;0.05). The LG at the 24th week had reduced BDI and PSQI scores (p&#x2009;<&#x2009;0.05). Compared with the 12th week, the 24th week showed reductions in TNF-&#x3b1; and IL-6 levels (p&#x2009;<&#x2009;0.01) and increase in 5-HT level (p&#x2009;<&#x2009;0.05) in the SG, MG, and LG. 2) Between-group comparisons: The SG, MG, and LG had lower TNF-&#x3b1; and IL-6 levels and higher 5-HT level than the CG at 12th and 24th weeks (p&#x2009;<&#x2009;0.05). At the 24th week, the LG had lower BDI and PSQI scores than the CG and lower TNF-&#x3b1; level than the SG and MG (p&#x2009;<&#x2009;0.05). The MG had lower TNF-&#x3b1; levels than the SG in the 24th week (p&#x2009;<&#x2009;0.01). These results indicate that older individuals may undertake at least 12&#xa0;weeks of TC exercise with a duration of 60&#xa0;min per session to significantly improve depressive mood and sleep quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1136/bmjopen-2023-078315
+- DOI: 10.1007/s41999-024-00981-4
 
 2. Keywords
-- Fetal medicine
-- Maternal medicine
-- SLEEP MEDICINE
-- STATISTICS & RESEARCH METHODS
+- Depression
+- Different exercise durations
+- Sleep quality
+- Tai Chi
 
 3. Key Findings
-- Findings extraction requires manual review
+- 1) Within-group comparisons: Compared with the baseline, the 12th and 24th weeks showed reductions in TNF-&#x3b1; and IL-6 levels and increase in 5-HT level in the SG, MG and LG (p&#x2009;<&#x2009;0
+- Compared with the 12th week, the 24th week showed reductions in TNF-&#x3b1; and IL-6 levels (p&#x2009;<&#x2009;0
 
 This study provides insights into:
-- Fetal medicine assessment methods and outcomes
-- Maternal medicine assessment methods and outcomes
-- SLEEP MEDICINE assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Different exercise durations assessment methods and outcomes
+- Sleep quality assessment methods and outcomes

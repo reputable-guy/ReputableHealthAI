@@ -1,40 +1,20 @@
-Study Title: Effects of a Mobile App to Promote Social Participation on Older Adults: Randomized Controlled Trial.
+Study Title: The benefits of early pulmonary rehabilitation with incentive spirometer among chronic obstructive pulmonary disease patients with exacerbation of chronic obstructive pulmonary disease.
 
 Study Summary:
-Social participation is crucial for healthy aging, improving physical and mental health, cognitive function, and quality of life among older adults. However, social participation tends to decline with age due to factors like loss of social networks and health issues. Mobile health apps show promise in promoting healthy behaviors among older adults, but their effectiveness in increasing social participation remains understudied. This randomized controlled trial aimed to evaluate the efficacy of a mobile app called Encouragement of Social Participation (ESP, "Shakai Sanka no Susume;" Hitachi) in promoting social participation and physical activity among community-dwelling older adults. The study recruited 181 community-dwelling adults aged 60 years or older from 2 municipalities in Japan and through a web-based research panel. Participants were randomly assigned to either the intervention group (n=87), which used the ESP app for 12 weeks, or the control group (n=94), which used only Google Fit. The ESP app incorporated features such as self-monitoring of social participation, personalized feedback, gamification elements, and educational content. Primary outcomes were changes in social participation frequency over the previous 2 months and changes in step counts, measured at baseline and week 12. Secondary outcomes included changes in specific types of social activities and subjective well-being. Data were analyzed using analysis of covariance and linear mixed-effects models. The intervention group showed a significantly greater increase in social participation frequency compared with the control group (adjusted difference 3.03; 95% CI 0.17-5.90; P=.04). Specifically, the intervention group demonstrated higher frequencies of participation in hobbies (adjusted difference: 0.82; 95% CI 0.01-1.63) and cultural clubs (adjusted difference 0.65; 95% CI 0.07-1.23) compared with the control group. However, there were no significant differences in weekly step counts between the groups. Subgroup analyses suggested potentially larger effects among participants who were older than 70 years, female, had lower educational attainment, and were recruited from community settings, although only females and the lower educational attainment subgroups demonstrated 95% CIs that did not encompass zero. The ESP mobile app effectively promoted social participation among community-dwelling older adults, particularly in hobbies and cultural club activities. However, it did not significantly impact physical activity levels as measured by step counts. These findings suggest that mobile apps can be valuable tools for encouraging social engagement in older populations, potentially contributing to healthy aging. Future research should focus on optimizing app features to maintain long-term engagement and exploring strategies to enhance physical activity alongside social participation. University Medical Information Network Clinical Trial Registry UMIN000049045; https://center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000055781.
+Inspiratory muscle dysfunction is prevalent in chronic obstructive pulmonary disease (COPD). This study aimed to compare the benefits of adding volume incentive spirometry (VIS) to active-cycle-breathing technique (ACBT) and ground-based walking (GBW) training in patients hospitalised for COPD exacerbations. The objectives were to evaluate the impact of early initiation of VIS on respiratory muscle strength, measured by maximum inspiratory pressure (MIP), maximum expiratory pressure (MEP) and the 6-minute walk test (6-MWT), as well as on symptoms, as assessed by the COPD assessment test (CAT) score. This randomised, prospective study was conducted among COPD subjects admitted with exacerbation between June 2021 and August 2022. Subjects were randomly assigned to either the VIS (interventional group) or the control group. Baseline assessments, including spirometry, MIP, CAT score, and the 6-minute walk test (6MWT), were performed. Both groups commenced active cycle of breathing techniques (ACBT) and groundbased walking (GBW) training within 72 hours of admission, with daily sessions involving three repetitions of each phase to complete one cycle, repeated three times daily. The intervention group received VIS. Upon discharge, subjects were provided with a diary and instructed to continue a home-based pulmonary exercise regimen, performed for at least 15 minutes per day, 3 days a week, with compliance monitored through weekly phone calls. At the 4-week followup, repeat assessments of spirometry, MIP, maximal expiratory pressure (MEP), CAT score and 6MWT were conducted to evaluate the outcomes. A total of 34 subjects with a median age of 68 years (interquartile range [IQR] 65-74.3 years). The cohort predominantly males (32 subjects, 94%). The distribution of disease severity was as follows: GOLD 2 in 15 subjects (44%) and GOLD 3 in 14 subjects (41%). Additionally, 17 subjects (50%) had experienced three or more exacerbations in the preceding year. The majority of patients (29 out of 34, 85%) had a length of stay of less than 7 days. In the interventional group, the median MIP improved from 50 cm H2O (IQR 40.5-70.5) to 59 cm H2O (IQR 39-76.5), though this was not statistically significant (p = 0.407). The control group saw an improvement from 58 cm H2O (IQR 36.5-85) to 60 cm H2O (IQR 33-88), also not statistically significant (p = 0.112). The 6MWT distance improved in the interventional group from 220 meters (IQR 118-275) to 260 meters (IQR 195-327) (p = 0.002) and in the control group from 250 meters (IQR 144-294) to 280 meters (IQR 213-359.5) (p = 0.001). The median CAT score decreased significantly in the interventional group from 22 (IQR 16-28) to 11 (IQR 7.5-13) (p < 0.001) and in the control group from 21 (IQR 14-24.5) to 10 (IQR 8-12.5) (p < 0.001). Early initiation of pulmonary rehabilitation in patients with acute exacerbations, characterised by poor muscle strength and a history of exacerbations, resulted in significant improvements in patient-reported symptoms and 6MWT outcomes. Although there was only a numerical improvement in MIP and MEP, the intervention did not extend the length of hospital stay, highlighting its safety and efficacy in the acute care setting.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/64196
+
 
 2. Keywords
-- aging
-- apps
-- community dwelling older adult
-- digital health
-- digital interventions
-- digital technology
-- elderly
-- exercise
-- geriatrics
-- gerontology
-- mHealth
-- older adults
-- older people
-- physical activity
-- smartphone
-- social participation
-- walking
+
 
 3. Key Findings
-- The intervention group showed a significantly greater increase in social participation frequency compared with the control group (adjusted difference 3
-- Specifically, the intervention group demonstrated higher frequencies of participation in hobbies (adjusted difference: 0
-- Subgroup analyses suggested potentially larger effects among participants who were older than 70 years, female, had lower educational attainment, and were recruited from community settings, although only females and the lower educational attainment subgroups demonstrated 95% CIs that did not encompass zero
+- Findings extraction requires manual review
 
 This study provides insights into:
-- aging assessment methods and outcomes
-- apps assessment methods and outcomes
-- community dwelling older adult assessment methods and outcomes
+- General research methodology and outcomes

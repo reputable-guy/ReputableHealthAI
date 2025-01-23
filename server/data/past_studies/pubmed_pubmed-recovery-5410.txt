@@ -1,25 +1,28 @@
-Study Title: Hoffa's fat pad resection during total knee arthroplasty does not affect functioning and gait: a double-blind randomized clinical trial.
+Study Title: Comparison of analgesic efficacy of continuous perineural catheter, liposomal bupivacaine, and dexamethasone as an adjuvant for interscalene block in total shoulder arthroplasty: a triple-blinded randomized controlled trial.
 
 Study Summary:
-Hoffa's fat pad is considered a source of anterior knee pain and may limit prosthetic knee function. Resection of Hoffa's fat pad in total knee arthroplasty (TKA), however, is controversial, and little is known about the functional outcomes including gait quality. This double-blind randomized controlled trial (i) compared functional recovery between TKAs where Hoffa was resected or preserved, and (ii) compared recovery of self-reported function with objective (gait-related) outcomes. Eighty-five patients (age 66.4&#x2009;&#xb1;&#x2009;8.0 years, 47% women) scheduled to undergo TKA for primary osteoarthritis were randomly assigned to either fat pad resection or preservation. Subjective measures of functioning were assessed at baseline, 6 weeks, 3 months, and 12 months postoperatively and included the Knee Injury and Osteoarthritis Outcome Score (KOOS), Kujala, and visual analog scale (VAS) for pain. Objective measures of functioning were assessed at baseline, 3 months, and 12 months postoperatively and included instrumented range-of-motion and gait analysis. Longitudinal analyses (generalized estimating equations) were used to compare recovery between groups, and chi-square tests compared attainment of minimal clinical important difference (MCID) and patient acceptable symptom state (PASS). Finally, correlation analyses explored associations between subjective and objective recovery in function. Resection patients showed poorer improvement in KOOS quality of life in the first 6 weeks (B=-10.02, 95% confidence interval (CI) [-18.91, -1.12], p&#x2009;=&#x2009;.027), but stronger improvement in knee extension after 3 months (B&#x2009;=&#x2009;3.02, 95%CI [0.45, 5.60], p&#x2009;=&#x2009;.021) compared to preservation patients. Regarding MCID or PASS, no differences were noted between groups at 3 and 12 months (all p&#x2009;>&#x2009;.05). Subjective function substantially improved in the first 3 months, while objective outcomes improved only between 3 and 12 months. Moderate to strong correlations were identified between changes in knee flexion and gait with Kujala and KOOS in the resection but not in the preservation group. Similar functional outcomes were achieved after TKA with or without resection of Hoffa's fat pad. Hence, removing the fat pad to promote surgical exposure will not affect functional outcomes including gait quality. Functional recovery of objective outcomes was not always consistent with subjective recovery, suggesting that both self-reported as well as objective, gait-related outcomes may provide meaningful information on functional recovery following TKA. This clinical trial was prospectively registered under the Netherlands Trial Registry (# NL3638). This registry has recently been replaced by the Dutch Trial Registry where this study can be accessed via https://onderzoekmetmensen.nl/en/trial/20994 .
+Interscalene catheters (ISC) are considered as the gold standard for perioperative pain control after total shoulder arthroplasty. Liposomal bupivacaine (LB) for interscalene blocks (ISBs) and the addition of dexamethasone to ISBs have both presented as additional options for extended analgesia. We aimed to compare the efficacy of LB to a single-shot ISB (SISB) with added dexamethasone to an ISC. We hypothesized that a single injection of LB or an ISB with dexamethasone would provide noninferior duration and quality of analgesia compared with an ISC. A single-center triple-blinded randomized controlled trial evaluated patients who underwent elective primary total shoulder arthroplasty. Patients were randomized to 3 groups: group A (control): 0.5% bupivacaine 15 mL with a rescue catheter left in situ (0.125% bupivacaine infusion), group B: 0.5% bupivacaine 14 mL with 4 mg (1 mL) dexamethasone with a catheter left in situ (saline infusion), group C: 10 mL of LB (133 mg) with 0.5% bupivacaine 5 mL, with a catheter left in situ (saline infusion). The primary outcome was the worst numeric rating scale measured on arrival to the postanesthesia care unit, 6, 12, 24, and 36 hours postoperatively. Secondary outcomes recorded were time to first analgesic request; intraoperative opioid consumption; total inpatient opioid consumption; arm weakness; arm numbness; time of analgesia duration; time of motor recovery; sensory testing using a pinprick on postoperative day 1, q36, and q48; hand strength assessment using a dynamometer on postoperative day 1, q36, and q48; and postanesthesia care unit and hospital length of stay. We analyzed 72 patients in 3 groups (group A 24, group B 24, and group C 24). The presurgery physical function scores were similar between the groups. The change in postoperative pain was not different among the 3 groups. All 3 groups demonstrated an increase in the postoperative values, a change that was not statistically significant between the groups. Likewise, no difference in the mental function score was seen within or between the groups. No differences in sleep quality or satisfaction were seen among the groups (P = .405 and 1.00, respectively). No adverse events were reported in all groups. No significant difference was demonstrated between a single-injection ISB with dexamethasone, an LB injection, and an ISC. Given the equivalence in analgesia provided with these 3 modalities, providers should carefully consider the option that best fits each patient. Thus, a single injection of LB or a single injection of bupivacaine with dexamethasone provides similar analgesic efficacy to an ISC.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1007/s00402-024-05503-2
+- Publication Date: 2025
+- DOI: 10.1016/j.jse.2024.06.014
 
 2. Keywords
-- Fat pad
-- Functional outcome
-- Gait analysis
-- Total knee arthroplasty
+- Total shoulder arthroplasty
+- dexamethasone
+- interscalene block
+- interscalene catheter
+- liposomal bupivacaine
+- postoperative&#xa0;pain
 
 3. Key Findings
-- Resection patients showed poorer improvement in KOOS quality of life in the first 6 weeks (B=-10
+- All 3 groups demonstrated an increase in the postoperative values, a change that was not statistically significant between the groups
+- No significant difference was demonstrated between a single-injection ISB with dexamethasone, an LB injection, and an ISC
 
 This study provides insights into:
-- Fat pad assessment methods and outcomes
-- Functional outcome assessment methods and outcomes
-- Gait analysis assessment methods and outcomes
+- Total shoulder arthroplasty assessment methods and outcomes
+- dexamethasone assessment methods and outcomes
+- interscalene block assessment methods and outcomes

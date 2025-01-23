@@ -1,25 +1,27 @@
-Study Title: Early enteral nutrition with arginine compensates for negative nitrogen balance in patients undergoing curative total gastrectomy.
+Study Title: A low-fat diet improves fatigue in multiple sclerosis: Results from a randomized controlled trial.
 
 Study Summary:
-The effects of early enteral arginine-rich nutrition (EAN) were analyzed among patients undergoing curative-intent total gastrectomy for gastric cancer. There were 19 patients in this prospective study, all randomly assigned to either a parenteral nutrition (PN) group or an EAN group for the first seven days after surgery. The EAN group received 1.8-fold greater arginine (10.1 g/day) compared with the PN group, which was administered through an enteral tube inserted into the jejunal loop. Both groups were provided almost identical amounts of total amino acids (54 g/day), and the total energy was set at 65% of the total requirement (25 kcal/kg/day). No significant differences were observed between the two groups in postoperative complications, length of hospital stay, oral intake, nutritional status, or body weight. The serum arginine profile was similar in the two groups, as it decreased significantly on postoperative day (POD) 1, and gradually returned to preoperative levels by POD 7. The nitrogen balance remained negative until POD 7 in the PN group, but turned neutral at POD 7 in the EAN group. While we could not confirm body weight loss improvement, these results suggested that early arginine-rich enteral nutrition could improve the nitrogen balance after total gastrectomy. J. Med. Invest. 70 : 325-333, August, 2023.
+Fatigue can be a disabling multiple sclerosis (MS) symptom with no effective treatment options. Determine whether a low-fat diet improves fatigue in people with MS (PwMS). We conducted a 16-week randomized controlled trial (RCT) and allocated PwMS to a low-fat diet (active, total daily fat calories not exceeding 20%) or wait-list (control) group. Subjects underwent 2 weeks of baseline diet data collection (24-hour diet recalls (24HDRs)), followed by randomization. The active group received 2 weeks of nutrition counseling and underwent a 12-week low-fat diet intervention. One set of three 24HDRs at baseline and week 16 were collected. We administered a food frequency questionnaire (FFQ) and Modified Fatigue Impact Scale (MFIS) every 4 weeks. The control group continued their pre-study diet and received diet training during the study completion. We recruited 39 PwMS (20-active; 19-control). The active group decreased their daily caloric intake by 11% (95% confidence interval (CI): -18.5%, -3.0%) and the mean MFIS by 4.0 (95% CI: -12.0, 4.0) compared to the control (intent-to-treat). Sensitivity analysis strengthened the association with a mean MFIS difference of -13.9 (95% CI: -20.7, -7.2). We demonstrated a significant reduction in fatigue with a low-fat dietary intervention in PwMS.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.2152/jmi.70.325
+- DOI: 10.1177/13524585231208330
 
 2. Keywords
-- arginine
-- early enteral nutrition
-- gastric cancer
-- nitrogen balance
+- Multiple sclerosis
+- actigraphy
+- clinical trial
+- fatigue
+- low-fat diet
+- randomized controlled trial
 
 3. Key Findings
-- Findings extraction requires manual review
+- We demonstrated a significant reduction in fatigue with a low-fat dietary intervention in PwMS
 
 This study provides insights into:
-- arginine assessment methods and outcomes
-- early enteral nutrition assessment methods and outcomes
-- gastric cancer assessment methods and outcomes
+- Multiple sclerosis assessment methods and outcomes
+- actigraphy assessment methods and outcomes
+- clinical trial assessment methods and outcomes

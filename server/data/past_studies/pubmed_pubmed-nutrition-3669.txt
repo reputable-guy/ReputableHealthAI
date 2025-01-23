@@ -1,28 +1,25 @@
-Study Title: The Effect of Choline and Resistance Training on Strength and Lean Mass in Older Adults.
+Study Title: Acute Intake of Sucrose but Not of the Intense Sweetener Sucralose Is Associated with Post-Prandial Endotoxemia in Healthy Young Adults-A Randomized Controlled Trial.
 
 Study Summary:
-Choline plays many important roles, including the synthesis of acetylcholine, and may affect muscle responses to exercise. We previously observed correlations between low choline intake and reduced gains in strength and lean mass following a 12-week resistance exercise training (RET) program for older adults. To further explore these findings, we conducted a randomized controlled trial. Three groups of 50-to-69-year-old healthy adults underwent a 12-week RET program (3x/week, 3 sets, 8-12 reps, 70% of maximum strength (1RM)) and submitted >48 diet logs (>4x/week for 12 weeks). Participants' diets were supplemented with 0.7 mg/kg lean/d (low, n = 13), 2.8 mg/kg lean/d (med, n = 11), or 7.5 mg/kg lean/d (high, n = 13) of choline from egg yolk and protein powder. The ANCOVA tests showed that low choline intake, compared with med or high choline intakes, resulted in significantly diminished gains in composite strength (leg press + chest press 1RM; low, 19.4 &#xb1; 8.2%; med, 46.8 &#xb1; 8.9%; high, 47.4 &#xb1; 8.1%;= 0.034) and thigh-muscle quality (leg press 1RM/thigh lean mass; low, 12.3 &#xb1; 9.6%; med/high, 46.4 &#xb1; 7.0%;= 0.010) after controlling for lean mass, protein, betaine, and vitamin B. These data suggest that low choline intake may negatively affect strength gains with RET in older adults.
+Sugar-rich diets, but also the use of intense sweeteners, may alter intestinal barrier function. Here, we assessed the effect of sucrose and sucralose on post-prandial endotoxemia in a randomized placebo-controlled single-blinded crossover-designed study. Following a 2-day standardization of their diet, healthy men and women received a beverage containing either sucrose, sucralose (iso-sweet) or an isocaloric combination of sucralose + maltodextrin. Plasma endotoxin levels were measured after consumption of the respective beverages. Moreover, the effect of sucrose and sucralose on intestinal permeability was assessed in Caco-2 cells and ex vivo in an everted gut sac model. The nutritional standardization recommended by nutrition societies was associated with a significant decrease in plasma endotoxin levels. The intake of the sucrose-sweetened beverage resulted in a significant increase in plasma endotoxin levels while being unchanged after the intake of sucralose-sweetened beverages. In Caco-2 cells, the challenge with sucrose but not with sucralose significantly increased the permeation of the bacterial endotoxin across the cell monolayer. Xylose permeation in small intestinal everted tissue sacs was significantly higher upon the challenge with sucrose while remaining unchanged in sucralose-challenged sacs. Our data suggest that an acute intake of physiologically relevant amounts of sucrose but not of sucralose can result in post-prandial endotoxemia.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15183874
+- DOI: 10.3390/nu15184038
 
 2. Keywords
-- choline
-- exercise
-- nutrition
-- older population
-- sarcopenia
-- skeletal muscle
-- strength
+- intense sweetener
+- intestinal permeability
+- sucralose
+- sucrose
 
 3. Key Findings
-- The ANCOVA tests showed that low choline intake, compared with med or high choline intakes, resulted in significantly diminished gains in composite strength (leg press + chest press 1RM; low, 19
+- Findings extraction requires manual review
 
 This study provides insights into:
-- choline assessment methods and outcomes
-- exercise assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- intense sweetener assessment methods and outcomes
+- intestinal permeability assessment methods and outcomes
+- sucralose assessment methods and outcomes

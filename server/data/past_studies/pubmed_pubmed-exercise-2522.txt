@@ -1,20 +1,26 @@
-Study Title: Machine Learning-Driven Phenogrouping and Cardiorespiratory Fitness Response in Metastatic Breast Cancer.
+Study Title: Effectiveness of Pilates compared with home-based exercises in individuals with chronic non-specific low back pain: Randomised controlled trial.
 
 Study Summary:
-The magnitude of cardiorespiratory fitness (CRF) impairment during anticancer treatment and CRF response to aerobic exercise training (AT) are highly variable. The aim of this ancillary analysis was to leverage machine learning approaches to identify patients at high risk of impaired CRF and poor CRF response to AT. We evaluated heterogeneity in CRF among 64 women with metastatic breast cancer randomly assigned to 12 weeks of highly structured AT (n = 33) or control (n = 31). Unsupervised hierarchical cluster analyses were used to identify representative variables from multidimensional prerandomization (baseline) data, and to categorize patients into mutually exclusive subgroups (ie, phenogroups). Logistic and linear regression evaluated the association between phenogroups and impaired CRF (ie, &#x2264;16 mL O&#xb7;kg&#xb7;min) and CRF response. Baseline CRF ranged from 10.2 to 38.8 mL O&#xb7;kg&#xb7;min; CRF response ranged from -15.7 to 4.1 mL O&#xb7;kg&#xb7;min. Of the n = 120 candidate baseline variables, n = 32 representative variables were identified. Patients were categorized into two phenogroups. Compared with phenogroup 1 (n = 27), phenogroup 2 (n = 37) contained a higher number of patients with none or >three lines of previous anticancer therapy for metastatic disease and had lower resting left ventricular systolic and diastolic function, cardiac output reserve, hematocrit, lymphocyte count, patient-reported outcomes, and CRF (< .05) at baseline. Among patients allocated to AT (phenogroup 1, n = 12; 44%; phenogroup 2, n = 21; 57%), CRF response (-1.94 &#xb1; 3.80 mL O&#xb7;kg&#xb7;min0.70 &#xb1; 2.22 mL O&#xb7;kg&#xb7;min) was blunted in phenogroup 2 compared with phenogroup 1. Phenotypic clustering identified two subgroups with unique baseline characteristics and CRF outcomes. The identification of CRF phenogroups could help improve cardiovascular risk stratification and guide investigation of targeted exercise interventions among patients with cancer.
+To investigate the effectiveness of a Pilates exercise program compared with home-based exercises in individuals with chronic non-specific low back pain. A randomised controlled trial with a six-month follow-up. Rehabilitation clinic. One hundred and forty-five individuals (18-50 years of age) with low back pain for &#x2265; 12 consecutive weeks were enrolled and randomly allocated to either Pilates (&#x2009;=&#x2009;72) or home-based exercise groups (&#x2009;=&#x2009;73). Method Pilates (Mat Pilates exercises using accessories) versus home-based exercise (postural exercises, muscle stretching and strengthening, and spine stabilisation/mobilisation), twice a week, for 6 weeks. Assessments were performed at baseline, post-intervention, and six months follow-up. Outcomes were pain intensity, disability, and health-related quality of life. At post-intervention, the Pilates group had significantly lower pain intensity (mean difference&#x2009;=&#x2009;-1.14; 95% CI -2.05; -0.23), less disability (mean difference&#x2009;=&#x2009;-6.7; 95% CI -11.3; -2.0), and higher health-related quality of life (mean difference&#x2009;=&#x2009;0.102; 95% CI 0.054; 0151) compared to the home-based exercise group. At follow-up, the Pilates group had a significantly higher health-related quality of life (mean difference&#x2009;=&#x2009;0.055; 95% CI 0.003; 0.106) compared with the home-based exercise group but there were no significant differences in pain and disability. A significant overall effect of Pilates compared to home-based exercise was found for disability (mean difference&#x2009;=&#x2009;-4.4; 95% CI -7.6; -1.1), and health-related quality of life (mean difference&#x2009;=&#x2009;0.049; 95% CI 0.022; 0.076), but not for pain. Although Pilates was significantly superior to home exercise for pain and disability, the differences were not considered clinically relevant. However, Pilates did provide significant and clinically relevant differences in utility.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1200/CCI.24.00031
+- DOI: 10.1177/02692155241277041
 
 2. Keywords
-
+- Back pain
+- disability
+- exercise
+- physical therapy
+- quality of life
 
 3. Key Findings
-- Findings extraction requires manual review
+- A significant overall effect of Pilates compared to home-based exercise was found for disability (mean difference&#x2009;=&#x2009;-4
 
 This study provides insights into:
-- General research methodology and outcomes
+- Back pain assessment methods and outcomes
+- disability assessment methods and outcomes
+- exercise assessment methods and outcomes

@@ -1,29 +1,26 @@
-Study Title: Influence of folic acid and vitamin B12 supplementation on arsenic methylation: A double-blinded, placebo-controlled trial in Bangladeshi children.
+Study Title: Caffeine Improves Sprint Time in Simulated Freestyle Swimming Competition but Not the Vertical Jump in Female Swimmers.
 
 Study Summary:
-Inorganic arsenic is metabolized to monomethyl- (MMAs) and dimethyl- (DMAs) species via one-carbon metabolism (OCM); this facilitates urinary arsenic elimination. OCM is influenced by folate and vitamin B12 and previous randomized control trials (RCTs) showed that folic acid (FA) supplementation increases arsenic methylation in adults. This RCT investigated the effects of FA&#xa0;+&#xa0;B12 supplementation on arsenic methylation in children, a key developmental stage where OCM supports growth. A total of 240 participants (8-11&#xa0;years, 53&#xa0;% female) drinking from wells with arsenic concentrations&#xa0;>&#xa0;50&#xa0;&#x3bc;g/L, were encouraged to switch to low arsenic wells and were randomized to receive 400&#xa0;&#x3bc;g FA&#xa0;+&#xa0;5&#xa0;&#x3bc;g B12 or placebo daily for 12-weeks. Urine and blood samples were collected at baseline, week 1 (only urine) and week 12. Generalized estimated equation (GEE) models were used to assess treatment effects on arsenic species in blood and urine. At baseline, the mean &#xb1; SD total blood and urinary arsenic were 5.3 &#xb1; 2.9&#xa0;&#x3bc;g/L and 91.2 &#xb1; 89.5&#xa0;&#x3bc;g/L. Overall, total blood and urine arsenic decreased by 11.7% and 17.6%, respectively, at the end of follow up. Compared to placebo, the supplementation group experienced a significant increase in the concentration of blood DMAs by 14.0% (95% CI 5.0, 25.0) and blood secondary methylation index (DMAs/MMAs) by 0.19 (95% CI: 0.09, 0.35) at 12&#xa0;weeks. Similarly, there was a 1.62% (95% CI: 0.43, 20.83) significantly higher urinary %DMAs and -1.10% (95% CI: -1.73, -0.48) significantly lower urinary %MMAs in the supplementatio group compared to the placebo group after 1&#xa0;week. The direction of the changes in the urinary %iAs, %MMAs, and %DMAs at week 12 were consistent with those at week 1, though estimates were not significant. Treatment effects were stronger among participants with higher baseline blood arsenic concentrations. Results were consistent across males and females, and participants with higher and lower folate and B12 status at baseline. This RCT confirms that FA&#xa0;+&#xa0;B12 supplementation increases arsenic methylation in children as reflected by decreased MMAs and increased DMAs in blood and urine. Nutritional interventions may improve arsenic methylation and elimination in children, potentially reducing arsenic toxicity while also improving nutritional status.
+Caffeine (CAF) has been shown to be an effective ergogenic aid in enhancing sports performance, including vertical jump (VJ), sprint, balance, agility, and freestyle swimming performance (FSP). However, whether acute CAF supplementation improves FSP in moderately trained female swimmers has not been well documented. Therefore, this study aimed to investigate the effects of CAF intake on vertical jump, balance, auditory reaction time (ART), and swimming performance in female swimmers. In a double-blind, cross-over design, eight moderately trained female swimmers (age: 21.3 &#xb1; 1.4 years, height: 161.2 &#xb1; 7.1 cm, body mass: 56.3 &#xb1; 6.7 kg, body mass index (BMI): 21.9 &#xb1; 1.3 kg/m, and habitual CAF intake: 246.4 &#xb1; 111.4 mg/day) ingested caffeine (CAF) (6 mg/kg) or a placebo (PLA) 60 min before completing VJ, balance, ART, and 25/50 m FSP. CAF supplementation resulted in a significantly lower time both in 25m (= 0.032) and 50m (= 0.033) FSP. However, CAF resulted in no significant difference in VJ, ART, and RPE (> 0.05). Balance test results showed a non-significant moderate main effect (d = 0.58). In conclusion, CAF seems to reduce time in short-distance swimming performances, which could be the determinant of success considering the total time of the race. Thus, we recommend coaches and practitioners incorporate CAF into swimmers' nutrition plans before competitions, which may meet the high performance demands.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.envint.2024.108715
+- DOI: 10.3390/nu16091253
 
 2. Keywords
-- Arsenic
-- Arsenic Methylation
-- Biomarkers
-- Children
-- DMAs
-- Folic Acid
-- MMAs
-- Nutrition
+- caffeine
+- ergogenic aid
+- jump performance
+- sports nutrition
+- swimming performance
 
 3. Key Findings
-- OCM is influenced by folate and vitamin B12 and previous randomized control trials (RCTs) showed that folic acid (FA) supplementation increases arsenic methylation in adults
+- Balance test results showed a non-significant moderate main effect (d = 0
 
 This study provides insights into:
-- Arsenic assessment methods and outcomes
-- Arsenic Methylation assessment methods and outcomes
-- Biomarkers assessment methods and outcomes
+- caffeine assessment methods and outcomes
+- ergogenic aid assessment methods and outcomes
+- jump performance assessment methods and outcomes

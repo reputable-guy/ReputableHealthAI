@@ -1,20 +1,26 @@
-Study Title: Validity of an Exercise Log for Measuring Duration of Exercise in Older Women With Knee Osteoarthritis.
+Study Title: Effects of coffee intake on skeletal muscle microvascular reactivity at rest and oxygen extraction during exercise: a randomized cross-over trial.
 
 Study Summary:
-To examine the validity and usability of a paper log for evaluating exercise duration in older women. Data from 23 females (mean age = 70.4 years) who completed an 8-week pilot randomized controlled trial investigating the effects of yoga and aerobic/strength training on knee osteoarthritis were included in this secondary analysis. Participants were asked to complete a paper log and video recording of their home exercise sessions. Concurrent validity was high between minutes reported on the paper logs and video recordings during Weeks 2 to 7 (= 0.878). Usability was high, with participants completing 79% to 91% of paper logs and 74% to 100% of video diaries weekly. Overall minutes reported on the paper exercise logs and video diaries were positively correlated to Physical Activity Scale for the Elderly scores at 8 weeks. Exercise logs are a valid and useful method in assessing adherence to prescribed exercise duration in unsupervised home programs. [(5), 219-225.].
+The effects of coffee ingestion on skeletal muscle microvascular function are not well understood. This study aimed to investigate the acute effects of coffee intake with varying levels of caffeine on skeletal muscle microvascular reactivity at rest and oxygen extraction during maximal incremental exercise in physically active individuals. Twenty healthy young male participants were administered coffee with low caffeine (3&#x2009;mg/kg body weight; LC), high caffeine (6&#x2009;mg/kg body weight; HC), and placebo (decaf) in different sessions. Skeletal muscle reactivity indexes, including tissue saturation index 10s slope (TSI10) and TSI half time recovery (TSI &#xbd;) following 5-minute ischemia were measured at rest and were measured at baseline and post-coffee consumption using near-infrared spectroscopy (NIRS). Post-coffee intake, NIRS was also used to measure microvascular oxygen extraction during exercise via maximal incremental exercise. Peak oxygen consumption and peak power output (W) were simultaneously evaluated. Post-coffee consumption, TSI10 was significantly higher in the LC condition compared to placebo (&#x2009;=&#x2009;0.001) and significantly higher in the HC condition compared to placebo (&#x2009;<&#x2009;0.001). However, no difference was detected between LC and HC conditions (&#x2009;=&#x2009;0.527). HC condition also showed significant less TSI &#xbd; compared to placebo (&#x2009;=&#x2009;0.005). However, no difference was detected for microvascular oxygen extraction during exercise, despite the greater Wfound for HC condition (&#x2009;<&#x2009;0.001) compared to placebo. Coffee ingestion with high caffeine level (6&#x2009;mg/kg body weight) significantly enhanced skeletal muscle reactivity at rest. However, the improvement of exercise performance with coffee intake is not accompanied by alterations in muscle oxygen extraction.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3928/19404921-20240911-01
+- DOI: 10.1080/15502783.2024.2409673
 
 2. Keywords
-
+- Caffeine
+- exercise performance
+- microvascular function
+- near-infrared spectroscopy
 
 3. Key Findings
-- Findings extraction requires manual review
+- HC condition also showed significant less TSI &#xbd; compared to placebo (&#x2009;=&#x2009;0
+- However, no difference was detected for microvascular oxygen extraction during exercise, despite the greater Wfound for HC condition (&#x2009;<&#x2009;0
 
 This study provides insights into:
-- General research methodology and outcomes
+- Caffeine assessment methods and outcomes
+- exercise performance assessment methods and outcomes
+- microvascular function assessment methods and outcomes

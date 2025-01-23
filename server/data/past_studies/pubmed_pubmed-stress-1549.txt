@@ -1,27 +1,28 @@
-Study Title: Charting Wellness in India: Piloting the iTHRIVE's Functional Nutrition Approach to Improve Glycaemic and Inflammatory Parameters in Prediabetes and Type 2 Diabetes Mellitus.
+Study Title: Dapagliflozin Enhances Arterial and Venous Compliance During Exercise in Heart Failure With Preserved Ejection Fraction: Insights From the CAMEO-DAPA Trial.
 
 Study Summary:
-Introduction Type 2 diabetes mellitus (T2DM) is characterized by elevation of blood glucose levels due to underlying insulin resistance and inflammation. Multiple modifiable risk factors such as unhealthy dietary habits, physical inactivity, obesity, smoking and psychological stress contribute to&#xa0;T2DM. We&#xa0;investigated the efficacy of a comprehensive functional nutrition approach aimed at mitigating T2DM&#xa0;using the iTHRIVE approach which encompassed anti-inflammatory and elimination diets, micronutrient supplements, physical activity, stress management&#xa0;and environmental modifications through a pre-post study design. The research assessed changes in blood glucose and inflammatory markers following the implementation of the&#xa0;functional nutrition program. Methods A prospective pre-post intervention pilot study was conducted at ThriveTribe Wellness Solutions Pvt Ltd. (iTHRIVE), where 50 study participants from urban areas of Pune city, India&#xa0;(n=25 each group) were recruited voluntarily in the age group of 20-60 years. The participants were subjected to 90 days of the iTHRIVE functional nutrition approach which consisted of eliminating certain inflammatory foods and adding a combination of nutritious organic foods, adding dietary supplements like magnesium, vitamin D, alpha lipoic acid, chromium picolinate, berberine and biogymnema, physical activities like resistance training, stress reduction techniques like meditation and deep breathing exercises along with environmental changes. The blood parameters like fasting blood glucose, postprandial blood glucose, glycated haemoglobin (HbA1C), fasting serum insulin, post-prandial serum insulin, high sensitivity C-reactive protein (hs-CRP), erythrocyte sedimentation rate (ESR), vitamin D, body weight and waist circumference were measured before and after the intervention. The changes were statistically analyzed using a paired t-test. Results The mean age of the participants was found to be 43.76&#xb1;10.58 years. Around 68%&#xa0;of the participants were prediabetic (HbA1c: 5.7-6.4%) and 32% had T2DM (HbA1c &#x2265;6.5%). A significant reduction was observed in the average HbA1c (13.75% reduction, p<0.0001), average post-prandial blood glucose levels (14.51% reduction, p<0.048), average post-prandial serum insulin (34.31% reduction, p<0.017) and average ESR levels (34.51% reduction, p<0.006). The hs-CRP levels were reduced by 6.6%, but not statistically significant. The average body weight of the participants dropped from 78.59&#xb1;15.18 kg to 75.20&#xb1;14.20 kg with a mean loss of 2.91 kg (p<0.05) whereas the waist circumference decreased from 37.54&#xb1;5.09 to 35.97&#xb1;4.74 inches with an average loss of 1.19 inches (p<0.0004). Conclusions Following the intervention, several health indicators indicated significant improvements. Particularly, there was a significant drop in HbA1c levels, suggesting better long-term blood glucose control. Blood glucose and serum insulin levels after a meal dropped significantly, indicating enhanced insulin sensitivity. There was a decrease in systemic inflammation as evidenced by the decrease&#xa0;in ESR levels. These results imply that the iTHRIVE functional nutrition approach used in this investigation might be beneficial for enhancing glycemic control&#xa0;and insulin sensitivity, along with reducing inflammatory markers in people with prediabetes and T2DM. Larger sample sizes and longer periods of monitoring would be useful in subsequent research to validate and build on these encouraging findings.
+Systemic arterial compliance and venous capacitance are typically impaired in patients with heart failure with preserved ejection fraction (HFpEF), contributing to hemodynamic congestion with stress. Sodium-glucose cotransporter-2 inhibitors reduce hemodynamic congestion and improve clinical outcomes in patients with HFpEF, but the mechanisms remain unclear. This study tested the hypothesis that Dapagliflozin would improve systemic arterial compliance and venous capacitance during exercise in patients with HFpEF. In this secondary analysis from the CAMEO-DAPA trial (Cardiac and Metabolic Effects of Dapagliflozin in Heart Failure With Preserved Ejection Fraction Trial), 37 patients with HFpEF (mean age 68 &#xb1; 9 years, women 65%) underwent invasive hemodynamic exercise testing with simultaneous echocardiography at baseline and following treatment for 24 weeks with Dapagliflozin or placebo. Radial artery pressure (BP) was measured continuously using a fluid-filled catheter with transformation to aortic pressure, central hemodynamics were measured using high-fidelity micromanometers, and stressed blood volume was estimated from hemodynamic indices fit to a comprehensive cardiovascular model. There was no statistically significant effect of Dapagliflozin on resting BP, but Dapagliflozin reduced systolic BP during peak exercise (estimated treatment difference [ETD], -18.8 mm&#x2009;Hg [95% CI, -33.9 to -3.7]=0.016). Reduction in BP was related to improved exertional total arterial compliance (ETD, 0.06 mL/mm&#x2009;Hg/m[95% CI, 0.003-0.11]=0.039) and aortic root characteristic impedance (ETD, -2.6 mm&#x2009;Hg/mL*sec [95% CI: -5.1 to -0.03]=0.048), with no significant effect on systemic vascular resistance. Dapagliflozin reduced estimated stressed blood volume at rest and during peak exercise (ETD, -292 mm&#x2009;Hg [95% CI, -530 to -53]=0.018), and improved venous capacitance evidenced by a decline in ratio of estimated stressed blood volume to total blood volume (ETD, -7.3% [95% CI, -13.3 to -1.3]=0.020). Each of these effects of Dapagliflozin at peak exercise were also observed during matched 20W exercise intensity. Improvements in total arterial compliance and estimated stressed blood volume were correlated with decreases in body weight, and reduction in systolic BP with treatment was correlated with the change in estimated stressed blood volume during exercise (r=0.40,=0.019). Decreases in BP were correlated with reduction in pulmonary capillary wedge pressure during exercise (r=0.56,<0.001). In patients with HFpEF, treatment with Dapagliflozin improved systemic arterial compliance and venous capacitance during exercise, while reducing aortic characteristic impedance, suggesting a reduction in arterial wall stiffness. These vascular effects may partially explain the clinical benefits with sodium-glucose cotransporter-2 inhibitors in HFpEF. URL: https://www.clinicaltrials.gov; Unique identifier: NCT04730947.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.7759/cureus.63744
+- DOI: 10.1161/CIRCULATIONAHA.124.068788
 
 2. Keywords
-- functional nutrition
-- inflammation
-- insulin resistance
-- prediabetes
-- type 2 diabetes mellitus
+- Dapagliflozin
+- arterial compliance
+- exercise
+- heart failure, diastolic
+- hemodynamics
+- vascular stiffness
+- venous function
 
 3. Key Findings
-- Results The mean age of the participants was found to be 43
-- Conclusions Following the intervention, several health indicators indicated significant improvements
+- Findings extraction requires manual review
 
 This study provides insights into:
-- functional nutrition assessment methods and outcomes
-- inflammation assessment methods and outcomes
-- insulin resistance assessment methods and outcomes
+- Dapagliflozin assessment methods and outcomes
+- arterial compliance assessment methods and outcomes
+- exercise assessment methods and outcomes

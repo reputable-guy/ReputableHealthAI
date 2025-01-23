@@ -1,25 +1,20 @@
-Study Title: Dietary quality and chemotherapy-induced peripheral neuropathy in colon cancer.
+Study Title: Effectiveness of neck-specific exercises with and without internet-based support on dizziness/unsteadiness in chronic whiplash-associated disorders: Secondary analyses of a randomised controlled trial.
 
 Study Summary:
-Chemotherapy-induced peripheral neuropathy (CIPN) is a common and dose-limiting chemotoxicity caused by oxaliplatin. This study investigated the relationship between dietary quality and the development of moderate and/or severe CIPN in colon cancer survivors using data from the Focus on Reducing Dose-Limiting Toxicities in Colon Cancer with Resistance Exercise trial (ClinicalTrials.gov identifier NCT03291951). Diet quality was collected using a 127-item food-frequency questionnaire and was scored using the Alternative Healthy Eating Index-2010 (AHEI-2010). CIPN was assessed with the Patient-Reported Outcomes version of the Common Terminology Criteria for Adverse Events at each chemotherapy cycle. The association of dietary quality with time to the first moderate-to-severe (moderate-severe) or severe event of CIPN was estimated using Cox proportional hazards models. Only participants who received oxaliplatin were included in this analysis (n&#xa0;=&#xa0;132). Seventy-four participants (56.1%) reported moderate-severe CIPN. Higher dietary quality was associated with a significantly decreased risk of moderate-severe CIPN (hazard ratio [HR], 0.96; 95% confidence interval [CI], 0.93-0.99) and severe CIPN (HR, 0.91; 95% CI, 0.85-0.98). Consumption of red and processed meat (HR, 1.78; 95% CI, 1.07-2.83) and sugar-sweetened beverages (HR, 1.33; 95% CI, 1.10-1.59) was associated with an increased risk of moderate-severe CIPN. Consumption of sugar-sweetened beverages also was associated with an increased risk of severe CIPN (HR, 1.57; 95% CI, 1.14-2.18), whereas vegetable consumption was associated with a reduced risk of severe CIPN (HR, 0.29; 95% CI, 0.09-0.73). Among patients with colon cancer who received oxaliplatin-based chemotherapy, higher baseline dietary quality was associated with a reduced risk of moderate-severe CIPN.
+To investigate the effectiveness in individuals with chronic whiplash-associated disorders (WADs) of neck-specific exercise (NSE) supervised by a physiotherapist twice a week for 12 weeks versus neck-specific exercise with internet support and four physiotherapy visits (NSEIT) regarding dizziness, unsteadiness and balance, and to investigate the differences between WAD grades. This is a secondary analysis of a prospective randomised multicentre study (RCT) with concealed allocation (ClinicalTrials.gov Protocol ID: NCT03022812). The outcomes were dizziness measured on the Dizziness Handicap Inventory (DHI); dizziness at rest and during activity and unsteadiness using visual analogue scales; and standing on one leg with eyes closed (SOLEC). Participants (n = 140) were randomised to NSE or NSEIT. Measurements were obtained at baseline, and at three- and 15-month follow-ups by assessor-blinded investigators. There were no significant differences between NSEIT and NSE in any of the outcomes (p>0.38). Both NSEIT and NSE improved over time (p<0.02; effect size (ES) = 0.74-1.01) in DHI score and dizziness during activity. There was a significant group-by-time interaction effect in dizziness (at rest: p = 0.035; ES: 0.66; and during activity: p = 0.016; ES: 1.24) between WAD grades. Individuals with WAD grade 3 had dizziness/unsteadiness to a greater extent and improved in all outcomes over time (p<0.04) compared to those with WAD grade 2, except for SOLEC. There were no significant group differences between NSEIT and NSE. Both groups decreased in terms of self-reported dizziness (DHI, dizziness during activity), with medium to large effect size. Those with WAD grade 3 have dizziness/unsteadiness to a greater extent than those with WAD grade 2. Despite improvements, many participants still reported dizziness at 15-month follow-up, and additional balance training and/or vestibular exercise may be investigated for potential additional effect.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2025
-- DOI: 10.1002/cncr.35599
+- Publication Date: 2024
+- DOI: 10.1371/journal.pone.0311145
 
 2. Keywords
-- Alternative Healthy Eating Index
-- colon cancer
-- diet quality
-- neuropathy
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Alternative Healthy Eating Index assessment methods and outcomes
-- colon cancer assessment methods and outcomes
-- diet quality assessment methods and outcomes
+- General research methodology and outcomes

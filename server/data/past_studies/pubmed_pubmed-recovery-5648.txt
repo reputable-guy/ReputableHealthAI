@@ -1,26 +1,20 @@
-Study Title: Photobiomodulation Treatment with a Home-Use Device for COVID-19: A Randomized Controlled Trial for Efficacy and Safety.
+Study Title: Semirecumbent Positioning During Anesthesia Recovery and Postoperative Hypoxemia: A Randomized Clinical Trial.
 
 Study Summary:
-Photobiomodulation therapy (PBMT) using devices to deliver red and/or near-infrared light to tissues has shown promising effects in clinical settings for respiratory diseases, including potential benefits in managing symptoms associated with COVID-19.To determine if at-home self-administered PBMT for patients with COVID-19 is safe and effective.This was a randomized controlled trial (RCT) carried out at home during the COVID-19 pandemic (September 2020 to August 2021). The treatment group self-administered the Vielight RX Plus PBMT device (635 nm intranasal and 810 nm chest LEDs) and were monitored remotely. Eligible patients scored 4-7 (out of 7) for severity on the Wisconsin Upper Respiratory Symptom Survey (WURSS-44). Patients were randomized equally to Control group receiving standard-of-care (SOC) only or Treatment group receiving SOC plus PBMT. The device was used for 20 min 2X/day for 5 days and, subsequently, once daily for 30 days. The primary end-point was time-to-recovery (days) based on WURSS-44 question 1, "How sick do you feel today?". Subgroup analysis was performed, and Kaplan-Meier and Cox Proportional Hazards analysis were employed.One hundred and ninety-nine eligible patients (18-65 years old) were divided into two subgroups as follows: 136 patients with 0-7 days of symptoms at baseline and 63 patients with 8-12 days of symptoms. Those with 0-7 days of symptoms at baseline recovered significantly faster with PBMT. The median for Treatment group was 18 days [95% confidence interval (CI), 13-20] versus the Control group 21 days (95% CI, 15-28),= 0.050. The treatment:control hazard ratio was 1.495 (95% CI, 0.996-2.243),= 0.054. Patients with symptom duration &#x2265;7 days did not show any significant improvement. No deaths or severe adverse events (SAEs) occurred in the Treatment group, whereas there was 1 death and 3 SAEs requiring hospitalization in the Control group.Patients with &#x2264;7 days of COVID-19 symptoms recovered significantly faster with PBMT compared to SOC. Beyond 7 days, PBMT showed no superiority over SOC.ClinicalTrials.gov NCT04418505.
+The efficacy of a semirecumbent position (SRP) in reducing postoperative hypoxemia during anesthesia emergence is unclear despite its widespread use. To determine the differences in postoperative hypoxemia between patients in an SRP and a supine position. This randomized clinical trial was performed at a tertiary hospital in China between March 20, 2021, and May 10, 2022. Patients scheduled to undergo laparoscopic upper abdominal surgery under general anesthesia were enrolled. Study recruitment and follow-up are complete. Patients were randomized to 1 of the following positions at the end of the operation until leaving the postanesthesia care unit: supine (group S), 15&#xb0; SRP (group F), or 30&#xb0; SRP (group T). The primary outcome was the incidence of postoperative hypoxemia in the postanesthesia care unit. Severe hypoxemia was also evaluated. Out of 700 patients (364 men [52.0%]; mean [SD] age, 47.8 [11.3] years), 233 were randomized to group S (126 men [54.1%]; mean [SD] age, 48.2 [10.9] years), 233 to group F (122 men [52.4%]; mean [SD] age, 48.1 [10.9] years), and 234 to group T (118 women [50.4%]; mean [SD] age, 47.2 [12.1] years). Postoperative hypoxemia differed significantly among the 3 groups (group S, 109 of 233 [46.8%]; group F, 105 of 233 [45.1%]; group T, 76 of 234 [32.5%]; P&#x2009;=&#x2009;.002). This difference was statistically significant for groups T vs S (risk ratio [RR], 0.69 [95% CI, 0.55-0.87]; P&#x2009;=&#x2009;.002) and groups T vs F (RR, 0.72 [95% CI, 0.57-0.91]; P&#x2009;=&#x2009;.007), but not for groups F vs S (RR, 0.96 [95% CI, 0.79-1.17]; P&#x2009;=&#x2009;.78). Severe hypoxemia also differed among the 3 groups (group S, 61 of 233 [26.2%]; group F, 53 of 233 [22.7%]; group T, 36 of 234 [15.4%]; P&#x2009;=&#x2009;.01). This difference was statistically significant for groups T vs S (RR, 0.59 [95% CI, 0.41-0.85]; P&#x2009;=&#x2009;.005). In this randomized clinical trial of SRP during anesthesia recovery in patients undergoing laparoscopic upper abdominal surgery, postoperative hypoxemia was significantly reduced in group T compared with group F or group S. Chinese Clinical Trial Registry Identifier: ChiCTR2100045087.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1089/pho.2023.0179
+- DOI: 10.1001/jamanetworkopen.2024.16797
 
 2. Keywords
-- COVID-19
-- Vielight
-- clinical trial
-- home-use device
-- photobiomodulation
+
 
 3. Key Findings
-- Beyond 7 days, PBMT showed no superiority over SOC
+- Findings extraction requires manual review
 
 This study provides insights into:
-- COVID-19 assessment methods and outcomes
-- Vielight assessment methods and outcomes
-- clinical trial assessment methods and outcomes
+- General research methodology and outcomes

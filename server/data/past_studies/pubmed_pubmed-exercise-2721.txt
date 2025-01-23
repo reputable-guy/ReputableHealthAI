@@ -1,26 +1,20 @@
-Study Title: Heart rate reactivity, recovery, and endurance of the incremental shuttle walk test in patients prone to heart failure.
+Study Title: Thermal and Cardiovascular Responses during Exertional Heat Stress after Diphenhydramine Use: A Randomized Crossover Trial.
 
 Study Summary:
-Few randomized trials assessed the changes over time in the chronotropic heart rate (HR) reactivity (CHR), HR recovery (HRR) and exercise endurance (EE) in response to the incremental shuttle walk test (ISWT). We addressed this issue by analysing the open HOMAGE (Heart OMics in Aging) trial. In HOMAGE, 527 patients prone to heart failure were randomized to usual treatment with or without spironolactone (25-50&#xa0;mg/day). The current sub-study included 113 controls and 114 patients assigned spironolactone (~70% on beta-blockers), who all completed the ISWT at baseline and at Months 1 and 9. Within-group changes over time (follow-up minus baseline) and between-group differences at each time point (spironolactone minus control) were analysed by repeated measures ANOVA, unadjusted or adjusted for sex, age and body mass index, and additionally for baseline for testing 1 and 9&#xa0;month data. Irrespective of randomization, the resting HR and CHR did not change from baseline to follow-up, with the exception of a small decrease in the HR immediately post-exercise (-3.11&#xa0;b.p.m.) in controls at Month 9. In within-group analyses, HR decline over the 5&#xa0;min post-exercise followed a slightly lower course at the 1&#xa0;month visit in controls and at the 9&#xa0;month visits in both groups, but not at the 1&#xa0;month visit in the spironolactone group. Compared with baseline, EE increased by two to three shuttles at Months 1 and 9 in the spironolactone group but remained unchanged in the control group. In the between-group analyses, irrespective of adjustment, there were no HR differences at any time point from rest up to 5&#xa0;min post-exercise or in EE. Subgroup analyses by sex or categorized by the medians of age, left ventricular ejection fraction or glomerular filtration rate were confirmatory. Combining baseline and Months 1 and 9 data in both treatment groups, the resting HR, CHR and HRR at 1 and 5&#xa0;min averaged 61.5, 20.0, 9.07 and 13.8&#xa0;b.p.m. and EE 48.3 shuttles. Spironolactone on top of usual treatment compared with usual treatment alone did not change resting HR, CHR, HRR and EE in response to ISWT. Beta-blockade might have concealed the effects of spironolactone. The current findings demonstrate that the ISWT, already used in a wide variety of pathological conditions, is a practical instrument to measure symptom-limited exercise capacity in patients prone to developing heart failure because of coronary heart disease.
+Despite sparse systematic evidence, current exercise heat safety recommendations suggest that antihistamines blunt sweating and increase the risk for heat-related injury during exertional heat stress. The primary purpose of the present study was to examine whether diphenhydramine hydrochloride (DPH), a first-generation antihistamine, affects the sweating, core temperature, and heart rate (HR) response during exertional heat stress using a double-blind randomized crossover design. On two occasions separated by >48 h, 20 healthy adults (10 females, 23 &#xb1; 3 yr, body surface area: 1.9 &#xb1; 0.2 m 2 , body mass index: 23.7 &#xb1; 2.2 kg&#xb7;m -2 ) orally consumed either 50 mg of DPH or placebo (PLA), and then rested for 2 h in a climate-controlled room maintained at 30&#xb0;C and 35% relative humidity (heat index of ~29&#xb0;C), followed by a 60-min fixed-heat production treadmill walk (6.3 &#xb1; 1.0 W&#xb7;kg -1 ). Whole-body sweat loss, local sweat rate, rectal temperature ( Trec ), and HR were measured. Whole-body sweat loss was not different between conditions (PLA: 406 &#xb1; 78 g, DPH: 396 &#xb1; 75 g; P = 0.26, treatment effect: -10 g; 95% confidence interval, -28 to 8). No differences were observed for the onset of sweating (PLA: 13.5 &#xb1; 2.4 min, DPH: 13.3 &#xb1; 2.7 min; P = 0.79) and steady-state local sweat rate (PLA: 0.83 &#xb1; 0.26 mg&#xb7;cm -2 &#xb7;min -1 , DPH: 0.82 &#xb1; 0.27 mg&#xb7;cm -2 &#xb7;min -1 ; P = 0.99). No difference in baseline Trec was observed (PLA: 37.09&#xb0;C &#xb1; 0.35&#xb0;C, DPH: 37.13&#xb0;C &#xb1; 0.33&#xb0;C; P = 0.68), and the 60-min &#x394; Trec was not different ( P = 0.99) between PLA (0.83&#xb0;C &#xb1; 0.29&#xb0;C) and DPH (0.81&#xb0;C &#xb1; 0.30&#xb0;C). HR was similar at baseline (PLA: 86 &#xb1; 13 bpm, DPH: 84 &#xb1; 11 bpm; P = 0.30) and end-exercise (PLA: 134 &#xb1; 28 bpm, DPH: 132 &#xb1; 26 bpm; P = 0.90). Fifty milligrams of DPH does not modify the sweating, core temperature, and HR response during exertional heat stress in young healthy adults.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/ehf2.15000
+- DOI: 10.1249/MSS.0000000000003527
 
 2. Keywords
-- heart failure
-- heart rate
-- incremental shuttle walk test
-- mineralocorticoid receptor antagonism
-- spironolactone
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- heart failure assessment methods and outcomes
-- heart rate assessment methods and outcomes
-- incremental shuttle walk test assessment methods and outcomes
+- General research methodology and outcomes

@@ -1,27 +1,26 @@
-Study Title: The Effect of Nattokinase-Monascus Supplements on Dyslipidemia: A Four-Month Randomized, Double-Blind, Placebo-Controlled Clinical Trial.
+Study Title: Beneficial Effects of Oral Nutrition Supplements on the Nutritional Status and Physical Performance of Older Nursing Home Residents at Risk of Malnutrition.
 
 Study Summary:
-Dyslipidemia, a condition implying high cardiovascular risks, has been widely studied on its potential nutrition interventions, including functional foods. This study aims to examine the effect of nattokinase monascus supplements (NMSs) on cardiovascular biomarkers and carotid intima-media thickness (CIMT) in patients with dyslipidemia. A total of 113 eligible subjects were randomly assigned to receive either NMSs or a placebo (55 and 58, respectively). After a 120-day intervention, there were significant mean absolute changes in total cholesterol (TC), low-density cholesterol (LDL-C), non-high-density cholesterol (non-HDL-C), and low-density cholesterol to high-density cholesterol ratio (LDL-C to HDL-C ratio), with values of -0.52 (95% CI: -0.51 to -0.54) mmol/L, -0.43 (95% CI: -0.45 to -0.41) mmol/L, -0.52 (95% CI: -0.52 to -0.52) mmol/L, and -0.29 (95% CI: -0.30 to -0.28) mmol/L, respectively, between the two groups. However, no significant differences were found in triglycerides (TGs), high-density cholesterol (HDL-C), and CIMT. Furthermore, the results for lipids and CIMT remained essentially unchanged after adjusting for various confounding factors using the analysis of covariance model. There were no significant differences in coagulation, liver function, renal function, or other indicators. No intervention-related adverse events, such as mouth ulcers, drooling, and stomach pain, were reported. The study results demonstrate that NMSs can ameliorate lipid levels (TC, LDL-C, non-HDL-C, and the LDL-C to HDL-C ratio) without the occurrence of adverse events. However, it did not significantly affect serum TG, HDL-C, and CIMT.
+The purpose of this study was to compare the effects of nutritional supplement drinks (NSDs) and nutritional education (NE) on the nutritional status and physical performance of older nursing home residents who were at risk of malnutrition. This study was a clustered, randomized, parallel, multi-center clinical trial, with 107 participants more than 65 years old and at risk of malnutrition recruited from several nursing homes in this study. Participants were divided into two groups: an NE group (= 50) and an NSD group (= 57). The NE group was given NE by a dietitian, while the NSD group was provided with two packs of NSD except receiving NE (Mei Balance, Meiji Holdings, Tokyo, Japan) per day as a snack between meals and before bed. Anthropometric data, blood pressure, nutritional status, blood biochemical biomarkers, and physical performance were measured before and after 12-week interventions. After 12 weeks of NE combined with NSD intervention, body weight, body-mass index, the mini nutritional assessment-short form (MNA-SF) score, walking speed, and SF-36 questionnaire score were improved in older nursing home residents at risk of malnutrition.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15194239
+- DOI: 10.3390/nu15194291
 
 2. Keywords
-- dyslipidemia
-- lovastatin
-- nattokinase
-- nattokinase-monascus supplements
-- red yeast rice
+- malnutrition
+- nutritional education
+- older nursing home residents
+- oral nutritional supplement
+- physical performance
 
 3. Key Findings
-- However, no significant differences were found in triglycerides (TGs), high-density cholesterol (HDL-C), and CIMT
-- Furthermore, the results for lipids and CIMT remained essentially unchanged after adjusting for various confounding factors using the analysis of covariance model
+- Findings extraction requires manual review
 
 This study provides insights into:
-- dyslipidemia assessment methods and outcomes
-- lovastatin assessment methods and outcomes
-- nattokinase assessment methods and outcomes
+- malnutrition assessment methods and outcomes
+- nutritional education assessment methods and outcomes
+- older nursing home residents assessment methods and outcomes

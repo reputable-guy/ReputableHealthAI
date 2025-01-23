@@ -1,20 +1,31 @@
-Study Title: Routine Stress Testing After PCI in Patients With and Without Acute Coronary Syndrome: A Secondary Analysis of the POST-PCI Randomized Clinical Trial.
+Study Title: A Chatbot-Delivered Stress Management Coaching for Students (MISHA App): Pilot Randomized Controlled Trial.
 
 Study Summary:
-The appropriate follow-up surveillance strategy for patients with acute coronary syndrome (ACS) who have undergone percutaneous coronary intervention (PCI) remains unknown. To assess clinical outcomes in patients with and without ACS who have undergone high-risk PCI according to a follow-up strategy of routine stress testing at 12 months after PCI vs standard care alone. The POST-PCI (Pragmatic Trial Comparing Symptom-Oriented vs Routine Stress Testing in High-Risk Patients Undergoing Percutaneous Coronary Intervention) trial was a randomized clinical trial that compared follow-up strategies of routine functional testing vs standard care alone 12 months after high-risk PCI. Patients were categorized as presenting with or without ACS. Patients were enrolled in the trial from November 2017 through September 2019, and patients were randomized from 11 sites in South Korea; data analysis was performed in 2022. Patients categorized as presenting with or without ACS were randomized to either a routine functional testing or standard care alone follow-up strategy 12 months after high-risk PCI. The primary outcome was a composite of death from any cause, myocardial infarction, or hospitalization for unstable angina at 2 years following randomization. Kaplan-Meier event rates through 2 years and Cox model hazard ratios (HRs) were generated, and interactions were tested. Of 1706 included patients, 350 patients (20.5%) were female, and the mean (SD) patient age was 64.7 (10.3) years. In total, 526 patients (30.8%) presented with ACS. Compared with those without ACS, patients with ACS had a 55% greater risk of the primary outcome (HR, 1.55; 95% CI, 1.03-2.33; P&#x2009;=&#x2009;.03) due to higher event rates in the first year. The 2-year incidences of the primary outcome were similar between strategies of routine functional testing or standard care alone in patients with ACS (functional testing: 16 of 251 [6.6%]; standard care: 23 of 275 [8.5%]; HR, 0.76; 95% CI, 0.40-1.44; P&#x2009;=&#x2009;.39) and in patients without ACS (functional testing: 30 of 598 [5.1%]; standard care: 28 of 582 [4.9%]; HR, 1.04; 95% CI, 0.62-1.74; P&#x2009;=&#x2009;.88) (P for interaction for ACS&#x2009;=&#x2009;.45). Although a landmark analysis suggested that the rates of invasive angiography and repeat revascularization were higher after 1 year in the routine functional testing group, the formal interactions between ACS status and either invasive angiography or repeat revascularization were not significant. Despite being at higher risk for adverse clinical events in the first year after PCI than patients without ACS, patients with ACS who had undergone high-risk PCI did not derive incremental benefit from routine surveillance stress testing at 12 months compared with standard care alone during follow-up. ClinicalTrials.gov Identifier: NCT03217877.
+Globally, students face increasing mental health challenges, including elevated stress levels and declining well-being, leading to academic performance issues and mental health disorders. However, due to stigma and symptom underestimation, students rarely seek effective stress management solutions. Conversational agents in the health sector have shown promise in reducing stress, depression, and anxiety. Nevertheless, research on their effectiveness for students with stress remains limited. This study aims to develop a conversational agent-delivered stress management coaching intervention for students called MISHA and to evaluate its effectiveness, engagement, and acceptance. In an unblinded randomized controlled trial, Swiss students experiencing stress were recruited on the web. Using a 1:1 randomization ratio, participants (N=140) were allocated to either the intervention or waitlist control group. Treatment effectiveness on changes in the primary outcome, that is, perceived stress, and secondary outcomes, including depression, anxiety, psychosomatic symptoms, and active coping, were self-assessed and evaluated using ANOVA for repeated measure and general estimating equations. The per-protocol analysis revealed evidence for improvement of stress, depression, and somatic symptoms with medium effect sizes (Cohen d=-0.36 to Cohen d=-0.60), while anxiety and active coping did not change (Cohen d=-0.29 and Cohen d=0.13). In the intention-to-treat analysis, similar results were found, indicating reduced stress (&#x3b2; estimate=-0.13, 95% CI -0.20 to -0.05; P<.001), depressive symptoms (&#x3b2; estimate=-0.23, 95% CI -0.38 to -0.08; P=.003), and psychosomatic symptoms (&#x3b2; estimate=-0.16, 95% CI -0.27 to -0.06; P=.003), while anxiety and active coping did not change. Overall, 60% (42/70) of the participants in the intervention group completed the coaching by completing the postintervention survey. They particularly appreciated the quality, quantity, credibility, and visual representation of information. While individual customization was rated the lowest, the target group fitting was perceived as high. Findings indicate that MISHA is feasible, acceptable, and effective in reducing perceived stress among students in Switzerland. Future research is needed with different populations, for example, in students with high stress levels or compared to active controls. German Clinical Trials Register DRKS 00030004; https://drks.de/search/en/trial/DRKS00030004.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1001/jamacardio.2024.1556
+- DOI: 10.2196/54945
 
 2. Keywords
-
+- behavior change
+- coaching
+- conversational agent
+- lifestyle
+- mHealth
+- mobile health
+- mobile phone
+- smartphone
+- stress management
 
 3. Key Findings
-- Findings extraction requires manual review
+- The per-protocol analysis revealed evidence for improvement of stress, depression, and somatic symptoms with medium effect sizes (Cohen d=-0
+- In the intention-to-treat analysis, similar results were found, indicating reduced stress (&#x3b2; estimate=-0
 
 This study provides insights into:
-- General research methodology and outcomes
+- behavior change assessment methods and outcomes
+- coaching assessment methods and outcomes
+- conversational agent assessment methods and outcomes

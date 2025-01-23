@@ -1,27 +1,20 @@
-Study Title: Patients with type 2 diabetes who achieve reduced postprandial glucose levels during insulin intensive therapy may have a better recovery of &#x3b2;-cell function.
+Study Title: Superiority of opioid free anesthesia with regional block over opioid anesthesia with regional block in the quality of recovery after retroperitoneiscopic renal surgery: a randomized controlled trial.
 
 Study Summary:
-To explore parameters that may determine the improvement in C-peptide levels in patients with type 2 diabetes (T2D) receiving continuous subcutaneous insulin infusion (CSII) therapy. The trial included a lead-in period for collecting baseline parameters and correcting hyperglycemia, a 4-day CGM period, and a 2-3&#xa0;weeks treatment period. After screening, patients were hospitalized and randomized to the metformin add-on NovoRapid group or the Prandilin group. Once the glycemic target was reached, all patients underwent a 4-day CGM, with treatments maintained for 2-3&#xa0;weeks. OGTTs were performed at baseline and endpoint. The primary endpoint was identifying factors contributing to better &#x3b2;-cell function recovery after CSII therapy. A total of 99 recruited patients were admitted as inpatients and achieved glycemic control within 3.8&#xa0;&#xb1;&#xa0;1.1&#xa0;days. Of these, 83 (84&#xa0;%) patients showed improvement in C-peptide levels, while 16 (16&#xa0;%) did not show any change in C-peptide levels at the endpoint. Pearson analysis showed a negative correlation between the incremental AUC of glucose concentration (from 0700 to 1000) and the increase in incremental AUC of C-peptide levels (r&#xa0;=&#xa0;-0.199, P&#xa0;<&#xa0;0.05). Drug-na&#xef;ve T2D patients with lower postprandial glucose concentration during CSII therapy exhibit better &#x3b2;-cell function recovery.
+Opioids are the main analgesic drugs used in the perioperative period, but they often have various adverse effects. Recent studies have shown that quadratus lumborum block (QLB) has an opioid sparing effect. The aim of this study was to further evaluate the effect of opioid-free anesthesia (OFA) combined with regional block on the quality of recovery in patients undergoing retroperitoneoscopic renal surgery. Sixty patients undergoing elective retroperitoneoscopic renal surgery were divided into the opioid-free anesthesia with quadratus lumborum block group (OFA group, N.=30) and opioid anesthesia with quadratus lumborum block group (OA group, N.=30) using the random number table method. The main outcome measures were the quality of recovery assessed by Quality of Recover-40 (QoR-40) at the 24postoperative hour. Secondary outcomes were postoperative pain score, postoperative opioid consumption, postoperative nausea and vomiting, time to ambulate, and time to readiness for discharge. The QoR-40 score on the first postoperative day was significantly higher in the OFA group than that in the OA group (175.41&#xb1;6.74 vs. 165.07&#xb1;4.55; P<0.05). OFA also significantly reduced postoperative pain (P<0.05) and morphine consumption at both the 24th and 48th postoperative hour (P<0.05), as well as time to ambulate, and time to readiness for discharge (P<0.05). OFA with regional block is superior to opioid anesthesia with regional block in the quality of recovery after retroperitoneiscopic renal surgery.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.diabres.2024.111805
+- DOI: 10.23736/S0375-9393.24.18186-2
 
 2. Keywords
-- Beta cell function
-- C-Peptide levels
-- Continuous subcutaneous insulin infusion
-- Postprandial
-- Type 2 diabetes
+
 
 3. Key Findings
-- Of these, 83 (84&#xa0;%) patients showed improvement in C-peptide levels, while 16 (16&#xa0;%) did not show any change in C-peptide levels at the endpoint
-- Pearson analysis showed a negative correlation between the incremental AUC of glucose concentration (from 0700 to 1000) and the increase in incremental AUC of C-peptide levels (r&#xa0;=&#xa0;-0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Beta cell function assessment methods and outcomes
-- C-Peptide levels assessment methods and outcomes
-- Continuous subcutaneous insulin infusion assessment methods and outcomes
+- General research methodology and outcomes

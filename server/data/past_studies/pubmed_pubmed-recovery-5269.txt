@@ -1,26 +1,30 @@
-Study Title: Evaluation of the single and combined therapeutic effects of individually manufactured earplug therapy in patients with myogenous temporomandibular disorders: A randomized controlled clinical trial.
+Study Title: Peer-led intervention for individuals with major depression: study protocol for a randomized controlled trial (SUPEERMood).
 
 Study Summary:
-To evaluate the effect of individually manufactured earplug therapy on pain intensity (PI), symptom severity (SS), and maximum mouth opening (MMO), in patients with myogenous temporomandibular disorders (TMD). One-hundred-twenty patients were randomly allocated to six groups: Groups EP (earplug), OS (occlusal splint), EX (exercise), EPO (earplug with occlusal splint), EPE (earplug with exercise), and C (control). Outcomes were PI (assessed with a visual analog scale (VAS)), SS (assessed with the modified Symptom Severity Index Questionnaire (mSSI)), and MMO (evaluated with a digital caliper). Measurements were performed at T0 (before the therapy), T1 (1-month follow-up), and T2 (3-month follow-up). Data were analyzed using one-way analysis of variance (ANOVA), Tukey's HSD, and chi-square tests (alpha&#x2009;=&#x2009;0.05). At T1 and T2, the greatest VAS and mSSI reduction was detected for the groups EPE (VAS&#x2009;=&#x2009;5.3&#x2009;&#xb1;&#x2009;1.05, 3.3&#x2009;&#xb1;&#x2009;0.7; mSSI&#x2009;=&#x2009;38.2&#x2009;&#xb1;&#x2009;2.27, 43.6&#x2009;&#xb1;&#x2009;3.94) and EPO (VAS&#x2009;=&#x2009;5.2&#x2009;&#xb1;&#x2009;0.91, 3.2&#x2009;&#xb1;&#x2009;0.78; mSSI&#x2009;=&#x2009;36.3&#x2009;&#xb1;&#x2009;3.97, 42.2&#x2009;&#xb1;&#x2009;3.19), respectively (p&#x2009;<&#x2009;0.05). At T1, occlusal splint groups (groups OS (34.8&#x2009;&#xb1;&#x2009;2.97&#xa0;mm) and EPO (33.8&#x2009;&#xb1;&#x2009;3.49&#xa0;mm)) gave the highest MMO values, while T2 values did not constitute a significant difference with T1 (p&#x2009;>&#x2009;0.05). The short-term use of combined earplug therapy resulted in a decrease in both PI and SS. Improvement in MMO in participants using occlusal splints was observed in the 1st month and was maintained through the 3rd month. Earplug therapy can be applied as a complementary therapy to occlusal splint and exercise treatments to decrease PI and SS in patients with myogenous TMD. To achieve functional recovery such as MMO, its combined use with splints should be taken into consideration by clinicians.
+Major Depressive Disorder (MDD) is one of the most disabling mental health problems worldwide. The Recovery Model emphasizes peer support to empower individuals with MDD, improve self-management, and patients' quality of life. Despite the demonstrated efficacy of peer-led interventions, further research is needed due to methodological limitations and variability in interventions across studies. Therefore, the objective of this trial is to evaluate the effectiveness of an adjuvant peer-led intervention for the reduction of depressive symptoms in individuals diagnosed with MDD attended in primary care mental health units. A controlled, parallel, randomized clinical trial will be conducted. The intervention group (n&#x2009;=&#x2009;35) will receive 6&#xa0;weeks of peer-led sessions based on a peer support program drive whilst supervised by nurses, while the control group (n&#x2009;=&#x2009;35) will use a mobile Health (mHealth) application for emotional wellness based on CBT for 6&#xa0;weeks. Measurements will be collected at baseline, at 6&#xa0;weeks, at 6 and 12&#xa0;months after the intervention to evaluate post-intervention effects. The primary outcome is the reduction of depressive symptoms through the Beck Depression Inventory (BDI-II) after the intervention. Secondary outcomes will involve measures such as adherence to psychiatric treatment, quality of life, adherence to mediterranean diet, alcohol consumption and physical activity. We hypothesize that this peer-led intervention, in contrast to the mHealth, will show improvement in BDI-II score reduction of 6 points after six weeks, 6 and 12&#xa0;months. Standardized peer-led programs can benefit patients and professionals in terms of efficacy and feasibility of clinical treatment of depression, healthy habits, self-care and quality of life. In addition, they can provide recovery and relapse reduction, improved psychosocial support, minimization of intensive care use, and support for patient autonomy through self-management. The trial protocol is prospectively registered with ClinicalTrials.gov under protocol registration number NCT06398561. Date of registration: May 01, 2024. Recruitment is ongoing.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s00784-024-05956-0
+- DOI: 10.1186/s12888-024-06094-3
 
 2. Keywords
-- Earplug
-- Mouth opening
-- Myogenous temporomandibular disorders
-- Occlusal splint
-- Pain measurement
+- Depression
+- Depressive disorders
+- Health education
+- MHealth
+- Major depression disorder
+- Mental health
+- Peer support
+- Peer-leader
+- Randomized controlled trial
 
 3. Key Findings
-- Findings extraction requires manual review
+- Despite the demonstrated efficacy of peer-led interventions, further research is needed due to methodological limitations and variability in interventions across studies
 
 This study provides insights into:
-- Earplug assessment methods and outcomes
-- Mouth opening assessment methods and outcomes
-- Myogenous temporomandibular disorders assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Depressive disorders assessment methods and outcomes
+- Health education assessment methods and outcomes

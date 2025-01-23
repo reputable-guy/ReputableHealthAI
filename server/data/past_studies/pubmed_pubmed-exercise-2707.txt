@@ -1,27 +1,25 @@
-Study Title: A comparison between the effects of vibration exercise and needle therapy on fibromyalgia symptoms and well-being in community-dwelling older adults: A randomized control study.
+Study Title: Sweat lactate sensor for detecting anaerobic threshold in heart failure: a prospective clinical trial (LacS-001).
 
 Study Summary:
-This randomized controlled pilot study compared the efficiency of exercise on a vibration machine combined with needle therapy versus needle therapy alone in managing fibromyalgia symptoms and well-being among older adults. Conducted at King Khalid Hospital in Alkharj, Saudi Arabia, the study involved eighty-six patients aged 60 to 67 years. Participants were randomly assigned to either the VENT (Vibration Exercise Device) group or the NT (Needle Therapy) group. The VENT group underwent 10-minute vibration training sessions twice a week, paired with 30-minute needle acupuncture sessions once a week, while the NT group received needle therapy alone. Both interventions were carried out over 12 weeks. Pre- and post-intervention assessments measured disability, pain, balance, and quality of life. Data analysis showed that 94.1% of participants completed the study, with significant improvements in disability observed in the VENT group. Both groups demonstrated significant improvements in pain, balance, and well-being. However, post-intervention comparisons favored the VENT group, showing significantly better outcomes. The findings suggest that combining vibratory exercise with needle therapy offers enhanced benefits for older adults with fibromyalgia.
+A simple method for determining the anaerobic threshold in patients with heart failure (HF) is needed. This prospective clinical trial (LacS-001) aimed to investigate the safety of a sweat lactate-monitoring sensor and the correlation between lactate threshold in sweat (sLT) and ventilatory threshold (VT). To this end, we recruited 50 patients with HF and New York Heart Association functional classification I-II (mean age: 63.5&#xa0;years, interquartile range: 58.0-72.0). Incremental exercise tests were conducted while monitoring sweat lactate levels using our sensor. sLT was defined as the first steep increase in lactate levels from baseline. Primary outcome measures were a correlation coefficient of&#x2009;&#x2265;&#x2009;0.6 between sLT and VT, similarities as assessed by the Bland-Altman analysis, and standard deviation of the difference within 15 W. A correlation coefficient of 0.651 (95% confidence interval, 0.391-0.815) was achieved in 32/50 cases. The difference between sLT and VT was -4.9&#x2009;&#xb1;&#x2009;15.0 W. No comparative error was noted in the Bland-Altman plot. No device-related adverse events were reported among the registered patients. Our sweat lactate sensor is safe and accurate for detecting VT in patients with HF in clinical settings, thereby offering valuable additional information for treatment.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.gerinurse.2024.07.040
+- DOI: 10.1038/s41598-024-70001-9
 
 2. Keywords
-- Community-dwelling older adults
-- Fibromyalgia
-- Needle therapy
-- Quality of life
-- Vibration exercise
+- Anaerobic threshold
+- Heart failure
+- Sweat lactate sensor
+- Ventilatory threshold
 
 3. Key Findings
-- Data analysis showed that 94
-- Both groups demonstrated significant improvements in pain, balance, and well-being
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Community-dwelling older adults assessment methods and outcomes
-- Fibromyalgia assessment methods and outcomes
-- Needle therapy assessment methods and outcomes
+- Anaerobic threshold assessment methods and outcomes
+- Heart failure assessment methods and outcomes
+- Sweat lactate sensor assessment methods and outcomes

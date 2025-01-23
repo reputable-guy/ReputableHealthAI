@@ -1,31 +1,28 @@
-Study Title: Sweetener System Intervention Shifted Neutrophils from Homeostasis to Priming.
+Study Title: Delayed Macronutrients' Target Achievement in Parenteral Nutrition Reduces the Risk of Hyperglycemia in Preterm Newborn: A Randomized Controlled Trial.
 
 Study Summary:
-Non-nutritive sweeteners (NNS) are part of personalized nutrition strategies supporting healthy glycemic control. In contrast, the consumption of non-nutritive sweeteners has been related to person-specific and microbiome-dependent glycemic impairments. Reports on the effects of NNS on our highly individual cellular immune system are sparse. The recent identification of taste receptor expression in a variety of immune cells, however, suggested their immune-modulatory relevance. We studied the influence of a beverage-typical NNS system on the transcriptional profiling of sweetener-cognate taste receptors, selected cytokines and their receptors, and on Casignaling in isolated blood neutrophils. We determined plasma concentrations of saccharin, acesulfame-K, and cyclamate by HPLC-MS/MS, upon ingestion of a soft drink-typical sweetener surrogate. In an open-labeled, randomized intervention study, we determined pre- versus post-intervention transcript levels by RT-qPCR of sweetener-cognate taste receptors and immune factors. Here we show that the consumption of a food-typical sweetener system modulated the gene expression of cognate taste receptors and induced the transcriptional regulation signatures of early homeostasis- and late receptor/signaling- and inflammation-related genes in blood neutrophils, shifting their transcriptional profile from homeostasis to priming. Notably, sweeteners at postprandial plasma concentrations facilitated fMLF (-formyl-Met-Leu-Phe)-induced Casignaling. Our results support the notion of sweeteners priming neutrophils to higher alertness towards their adequate stimuli.
+Hyperglycemia (HG) is an independent risk factor of mortality and morbidity in very low birth weight newborns (VLBW). Achievement of high nutritional intakes in the first days of life (DoL) by parenteral nutrition (PN) increases the risk of HG. We aim to assess if a delayed achievement of the PN macronutrient target dose could reduce the occurrence of HG in VLBW. We enrolled 353 VLBW neonates in a randomized controlled clinical trial comparing two PN protocols that differed in the timing of energy and amino acid target dose achievement: (1) early target dose achievement (energy within 4-5 DoL; amino acids within 3-4 DoL) vs. (2) late target dose achievement (energy within 10-12 DoL; amino acids within 5-7 DoL). The primary outcome was the occurrence of HG during the first week of life. An additional endpoint was long-term body growth. We observed a significant difference in the rate of HG between the two groups (30.7% vs. 12.2%,= 0.003). Significant differences were observed in terms of body growth at 12 months of life between the two groups (weight Z-Score: -0.86 vs. 0.22,= 0.025; length: -1.29 vs. 0.55,< 0.001). Delayed achievement of energy and amino acid intake may be useful to reduce the risk of HG along with an increase of growth parameters in VLBW neonates.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/nu15051260
+- DOI: 10.3390/nu15051279
 
 2. Keywords
-- GPCR
-- acesulfame-K
-- chemokines
-- chemoreception
-- cyclamate
-- cytokines
-- healthy subjects
-- polymorphonuclear neutrophils
-- saccharin
-- taste receptors
+- EUGR
+- VLBW
+- amino acids
+- energy
+- growth
+- intake
+- neonates
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- GPCR assessment methods and outcomes
-- acesulfame-K assessment methods and outcomes
-- chemokines assessment methods and outcomes
+- EUGR assessment methods and outcomes
+- VLBW assessment methods and outcomes
+- amino acids assessment methods and outcomes

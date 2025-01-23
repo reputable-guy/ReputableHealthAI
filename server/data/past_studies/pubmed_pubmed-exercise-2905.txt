@@ -1,25 +1,26 @@
-Study Title: Construction and application of a home exercise rehabilitation management program for elderly stroke patients based on the Functional Independence Measure score.
+Study Title: Affordable web-based foot-ankle exercise program proves effective for diabetic foot care in a randomized controlled trial with economic evaluation.
 
 Study Summary:
-The objective of this study was to develop a home exercise rehabilitation management program for elderly stroke patients based on the Functional Independence Measure (FIM) score and assess its effectiveness through practical application. A prospective asynchronous controlled trial was conducted involving 290 elderly stroke patients, with 145 assigned to the control group and 145 to the intervention group. The control group received standard home rehabilitation instructions, while the intervention group followed a home exercise rehabilitation program guided by FIM scores. The program was developed through research group discussions, evidence-based literature review, and expert input. The efficacy of the program was evaluated by comparing self-care ability and exercise function between the two patient groups. After 4 and 8&#xa0;weeks of intervention, the motor assessment scale (MAS), Barthel Index scores and Mini-Mental State Examination (MMSE) of the intervention group were higher than those of the control group, and the modified Rankin scale (mRS) was lower than this of the control group (P&#xa0;<&#xa0;0.05). The home exercise rehabilitation management program for elderly stroke patients based on FIM scores was developed in a scientifically sound manner. This program holds significant theoretical implications for enhancing the home exercise regimen of elderly stroke patients and facilitating the rehabilitation of their limb functions.
+The aim of this study was to shed light on a crucial issue through a comprehensive evaluation of the cost-effectiveness and cost-utility of a cutting-edge web-based foot-ankle therapeutic exercise program (SOPeD) designed for treating modifiable risk factors for ulcer prevention in individuals with diabetes-related peripheral neuropathy (DPN). In this randomized controlled trial, 62 participants diagnosed with DPN were assigned to the SOPeD software or received usual care for diabetic foot. Primary outcomes were DPN symptoms and severity, foot pain and function, and quality-adjusted life years (QALYs). Between-group comparisons provided 95% confidence intervals. The study also calculated incremental cost-effectiveness and cost-utility ratios (ICERs), analyzed direct costs from a healthcare perspective, and performed a sensitivity analysis to assess uncertainty. The web-based intervention effectively reduced foot pain, improved foot function and showed favorable cost-effectiveness, with ICERs ranging from (USD) $5.37-$148.71 per improvement in different outcomes. There is a high likelihood of cost-effectiveness for improving DPN symptoms and severity, foot pain, and function, even when the minimum willingness-to-pay threshold was set at $1000.00 USD. However, the intervention did not prove to be cost-effective in terms of QALYs. This study reveals SOPeD's effectiveness in reducing foot pain, improving foot function, and demonstrating cost-effectiveness in enhancing functional and clinical outcomes. SOPeD stands as a potential game-changer for modifiable risk factors for ulcers, with our findings indicating a feasible and balanced integration into public health systems. Further studies and considerations are vital for informed decisions to stakeholders and the successful implementation of this preventive program on a larger scale.Trial Registration: ClinicalTrials.gov, NCT04011267. Registered on 8 July 2019.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.jocn.2024.07.002
+- DOI: 10.1038/s41598-024-67176-6
 
 2. Keywords
-- Elderly stroke patients
-- FIM score
-- Home exercise rehabilitation
-- Program construction
+- Cost-effectiveness
+- Diabetic neuropathies
+- Foot exercise therapy
+- Prevention
+- Rehabilitation technology
 
 3. Key Findings
-- Findings extraction requires manual review
+- The web-based intervention effectively reduced foot pain, improved foot function and showed favorable cost-effectiveness, with ICERs ranging from (USD) $5
 
 This study provides insights into:
-- Elderly stroke patients assessment methods and outcomes
-- FIM score assessment methods and outcomes
-- Home exercise rehabilitation assessment methods and outcomes
+- Cost-effectiveness assessment methods and outcomes
+- Diabetic neuropathies assessment methods and outcomes
+- Foot exercise therapy assessment methods and outcomes

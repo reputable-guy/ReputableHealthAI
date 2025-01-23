@@ -1,26 +1,26 @@
-Study Title: Effects of Combined Visual-Motor Response Training on Cognitive Function and Brain Plasticity Mechanisms in Various Populations: Protocol for a Single-Center, Open-Label, Controlled Clinical Trial.
+Study Title: The Responsiveness of Exercise Tests in COPD: A Randomized Controlled Trial.
 
 Study Summary:
-Cognitive impairment is one of the major diseases facing the aging population. The progressive decline of cognitive function can lead to declining health or even the loss of life, work, and social ability. Exercise and behavioral stimulation can increase neurotransmitters in the brain and improve overall health and cognitive function. Reactivity training can mobilize neuromuscular function and induce changes in brain plasticity, which may effectively improve cognitive dysfunction and delay the occurrence and development of Alzheimer disease; however, the evidence supporting its effectiveness is still limited. This study aims to explore the effectiveness and reliability of visual-motor reaction training in improving cognitive function, thereby promoting the application of novel nonpharmacological therapies. This study is a single-center, open-label, controlled clinical trial. A total of 78 participants will be recruited for the study, including an equal number of athletes, ordinary healthy college students, and ordinary older adults in the community. Participants will receive 2 weeks of visual-motor response training. The primary outcome of this study is to assess differences in functional magnetic resonance imaging (fMRI) at 2 weeks. The secondary outcomes were the following: acousto-optic response time, Hamilton Depression Rating Scale (HAM-D), Hamilton Anxiety Rating Scale (HAM-A), Mini Mental State Examination (MMSE), Activity of Daily Living (ADL) Scale, Subjective Cognitive Decline Questionnaire-9 (SCD-Q9), a 10-word memory test, and safety. The study was approved by the Shanghai Clinical Research Ethics Committee on January 2, 2024 (SECCR/2023-162-01). As of September 11, 2024, we have completed the recruitment of all 3 groups of volunteers. We expect to complete data collection and analysis by February 2025. The purpose of this study is to compare improvements in brain perceptual motor functions and cognitive levels across different populations through response ability training and to explore the efficacy and safety of exercise-based nonpharmacological therapies in improving cognitive function. Other potential benefits include understanding the functional differences and perceptual characteristics of the brain's perceptual-motor system between athletes and the general population and exploring the adaptability of the brain in acquiring skills during competitive sports training. This could provide an evidence base for early sports talent development and broader youth development. Chinese Clinical Trial Registry ChiCTR2400079602; https://tinyurl.com/23fbbndw. DERR1-10.2196/56424.
+COPD is characterized by reduced exercise tolerance, and improving physical performance is an important therapeutic goal. A variety of exercise tests are commonly used to assess exercise tolerance, including laboratory and field-based tests. The responsiveness of these various tests to common COPD interventions is yet to be compared, but the results may inform test selection in clinical and research settings. What exercise test possesses the greatest sensitivity to change from before to after intervention in patients with COPD? One hundred fifty-four patients with symptomatic COPD were recruited and randomized (2:1:1) to 6&#xa0;weeks of long-acting muscarinic antagonist, pulmonary rehabilitation (PR), or usual care. Before and after intervention, participants performed an incremental cycle exercise test and constant work rate cycle test (CWRCT), incremental shuttle walk test and endurance shuttle walk test (ESWT), 6-min walk test, and 4-m gait speed test. One hundred three participants (mean &#xb1; SD age, 67 &#xb1; 8 years; 75 male participants [73%]; FEV, 50.6 &#xb1; 16.8%&#xa0;predicted) completed the study. Significant improvements in the incremental cycle exercise test, CWRCT, incremental cycle exercise test, ESWT, and 6-min walk test results were observed after PR (P&#xa0;< .05), with the greatest improvements seen in the constant work rate protocols (percentages change: CWRCT, 42%; ESWT, 41%). The ESWT and CWRCT seemed to be the most responsive exercise test protocols to long-acting muscarinic antagonist and PR therapy. The magnitude of change was much greater after a program of rehabilitation compared with bronchodilator therapy. International Standard Randomised Controlled Trial Number (ISRCTN): No. 64759523; URL: https://www.isrctn.com/ISRCTN64759523.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.2196/56424
+- Publication Date: 2025
+- DOI: 10.1016/j.chest.2024.05.051
 
 2. Keywords
-- brain plasticity mechanism
-- cognitive function
-- response ability training
-- study protocol
-- visual-motor
+- COPD
+- exercise testing
+- outcome measure
+- pulmonary rehabilitation
+- responsiveness
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- brain plasticity mechanism assessment methods and outcomes
-- cognitive function assessment methods and outcomes
-- response ability training assessment methods and outcomes
+- COPD assessment methods and outcomes
+- exercise testing assessment methods and outcomes
+- outcome measure assessment methods and outcomes

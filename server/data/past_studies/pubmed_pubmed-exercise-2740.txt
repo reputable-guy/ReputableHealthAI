@@ -1,42 +1,24 @@
-Study Title: Remote Exercise Training Intervention During the COVID-19 Pandemic: Randomized Controlled Trial.
+Study Title: Evaluating the Impact of Seated Pilates on Functional Outcomes Among Those With Mild, Moderate, and Severe Multiple Sclerosis Impairment: A Pilot Feasibility Trial.
 
 Study Summary:
-Societal measures to contain the spread of COVID-19 (eg, lockdown and contact restrictions) have been associated with decreased health and well-being. A multitude of prepandemic studies identified the beneficial effects of physical exercise on both physical and mental health. We report on the feasibility of a remote physical exercise intervention and its stress-buffering potential in 2 untrained cohorts: a pre-COVID-19 cohort that completed the intervention in 2019 and a lockdown cohort that started the intervention shortly before pandemic-related restrictions were implemented. In a randomized controlled trial, participants were assigned to either an intervention group (IG; pre-COVID-19 cohort: n=7 and lockdown cohort: n=9) or a control group (CG; pre-COVID-19 cohort: n=6 and lockdown cohort: n=6). IG participants received weekly individualized training recommendations delivered via web-based support. The intervention period was initially planned for 8 weeks, which was adhered to in the pre-COVID-19 cohort (mean 8.3, SD 0.5 weeks) but was extended to an average of 17.7 (SD 2.0) weeks in the lockdown cohort. Participants' health parameters were assessed before and after the intervention: aerobic capacity was measured as peak oxygen uptake (VO) via cardiopulmonary exercise testing. Depressive symptoms were scored via the depression subscale of the Brief Symptom Inventory-18. Dropout rates were low in both cohorts in the IG (pre-COVID-19 cohort: n=0, 0% and lockdown cohort: n=2, 16.7%) and the CG (pre-COVID-19 cohort: n=0, 0% and lockdown cohort: n=2, 20%). The mean adherence to the training sessions of the IG for both cohorts was 84% (pre-COVID-19 cohort: SD 5.5% and lockdown cohort: SD 11.6%). Aligned rank transform ANOVAs in the lockdown cohort indicated deterioration of VOand depressive symptoms from before to after the intervention in the CG but no longitudinal changes in the IG. Analyses in the pre-COVID-19 cohort revealed significant increases in VOfor the IG compared to the CG (P=.04) but no intervention effects on depressive symptoms. With low dropout rates and high adherence, the remote intervention was feasible for healthy adults under regular conditions and in the face of pandemic-related stressors. Moreover, our results hint at a stress-buffering effect as well as a buffering of a lockdown-induced deconditioning of remote physical exercise interventions in the pandemic scenario, which can be used in future studies to overcome equally stressful periods of life. However, due to limited statistical power, these findings should be replicated in similar scenarios. German Clinical Trials Register DRKS00018078; https://drks.de/search/en/trial/DRKS00018078.
+This pilot study assessed the feasibility and functional benefits of a twice-weekly, 12-week, virtual, seated, group-based Pilates program in persons with mild to severe multiple sclerosis (MS). Participants were randomized into either a Pilates-only group or a Pilates group, which also incorporated hip and shoulder-cuff activation exercises. Process, management, and scientific-feasibility metrics were analyzed descriptively. Functional outcomes, physical activity, and MS-related outcomes (impact, fatigue, and quality of life) were measured pre- and postintervention and analyzed using mixed-effects models, analysis of variance, and cluster analysis. Twenty-two participants completed baseline testing. Sixteen completed the intervention and postintervention testing. Collapsed across groups, analyses demonstrated improvements in the Timed 25-Foot Walk (36%), Timed Up-and-Go (13%), and the Berg Balance Scale (10%, statistically significant). Neither between-groups differences nor physical activity or MS outcome changes were significant. Participants reported high satisfaction. Findings suggest that&#xa0;virtual, seated Pilates is feasible and may confer balance benefits to individuals with MS.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2196/53145
+- DOI: 10.1123/apaq.2023-0159
 
 2. Keywords
-- COVID-19
-- adult
-- adults
-- aerobic
-- aerobic capacity
-- anxiety
-- depression
-- feasibility
-- intervention
-- lockdown
-- lockdown cohort
-- mental health
-- pandemic
-- pandemic-related
-- physical exercise
-- pre-COVID-19
-- prepandemic cohort
-- randomized controlled trial
-- remote exercise
-- web-based
+- exercise training
+- neurological conditions
+- peer group
 
 3. Key Findings
-- Aligned rank transform ANOVAs in the lockdown cohort indicated deterioration of VOand depressive symptoms from before to after the intervention in the CG but no longitudinal changes in the IG
-- Analyses in the pre-COVID-19 cohort revealed significant increases in VOfor the IG compared to the CG (P=
+- Collapsed across groups, analyses demonstrated improvements in the Timed 25-Foot Walk (36%), Timed Up-and-Go (13%), and the Berg Balance Scale (10%, statistically significant)
 
 This study provides insights into:
-- COVID-19 assessment methods and outcomes
-- adult assessment methods and outcomes
-- adults assessment methods and outcomes
+- exercise training assessment methods and outcomes
+- neurological conditions assessment methods and outcomes
+- peer group assessment methods and outcomes

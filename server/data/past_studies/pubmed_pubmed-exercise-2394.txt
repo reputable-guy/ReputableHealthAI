@@ -1,26 +1,27 @@
-Study Title: A randomized trial of aerobic exercise in colorectal cancer: Rationale, design, recruitment, and exercise adherence results.
+Study Title: Acute impact of inorganic nitrate supplementation after ischemia and during small muscle mass exercise in postmenopausal females: A pilot study.
 
 Study Summary:
-Physical activity is associated with improved disease-free survival in colorectal cancer survivors. This report describes the purpose, design, recruitment, and exercise adherence results of the National Cancer Institute (NCI)-sponsored Exercise and Colorectal Cancer Treatment (EXACT) trial. The primary objective of the EXACT trial is to determine if randomization to 150&#xa0;min per week of moderate-intensity aerobic exercise reduces systemic inflammation among stage I-III colorectal cancer survivors compared with a waitlist control group over 12&#xa0;weeks. Participants were provided with an in-home treadmill and heart rate monitor. Characteristics associated with randomization were identified using &#x3c7;or Fisher's exact test for categorical variables and t-tests or analysis of covariance (ANCOVA). Exercise adherence was calculated as the total minutes exercised by total minutes prescribed. Between August 2019 and February 2023, 3082 colorectal cancer survivors were invited to participate, 89 were screened, and 60 were randomized to the study protocol. Younger age (P&#xa0;=&#xa0;0.02), female sex (P&#xa0;=&#xa0;0.002), white race (P&#xa0;=&#xa0;0.01), proximal time since tumor resection (P&#xa0;=&#xa0;0.02), and regional tumor stage (P&#xa0;<&#xa0;0.001) were associated with study participation. Average exercise adherence was 92.2&#xa0;% (95&#xa0;% CI: 85.5, 98.8) and all study participants achieved &#x2265;80&#xa0;% exercise adherence. Endpoint data collection was completed for all participants in May 2023. The results from the EXACT trial will characterize the changes that occur from exercise to advance our understanding of the biological mechanisms by which exercise may prevent tumor recurrence and death in colorectal cancer survivors.
+Menopause is associated with reduced endothelial-dependent vasodilation and increased cardiovascular disease (CVD) risk. Dietary nitrate, a non-pharmacological approach, may increase vasodilatory capacity consequentially reducing CVD risk. We investigated macro- and microvascular function after acute nitrate supplementation in postmenopausal females (PMF). Vascular function was studied with flow-mediated vasodilation (FMD) and near-infrared post occlusive reactive hyperemia (PORH). Incremental handgrip exercise was performed to investigate blood flow and tissue oxygenation. We hypothesized acute dietary nitrate would not impact resting endothelial measures but would increase post ischemic vasodilation and incremental exercise blood flow. Late-phase PMF (n&#x2009;=&#x2009;12) participated in a randomized crossover design with 140&#x2009;mL of nitrate-rich (NR) beetroot juice or nitrate-poor black currant juice. Testing included a 5-min FMD, a 3-min ischemic exercise FMD, and incremental exercise at 10%, 15%, and 20% maximal voluntary contraction to measure blood flow and pressure responses. A p&#x2009;&#x2264;&#x2009;0.05 was considered significant. One-way ANOVA indicated lower resting pressures, but no change to FMD, or PORH in either protocol. Two-way repeated measures ANOVA indicated NR supplementation significantly reduced mean arterial pressure at rest and during incremental exercise at all intensities without changes to blood flow. Acute nitrate is effective for resting and exercising blood pressure management in PMF.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.cct.2024.107702
+- DOI: 10.14814/phy2.70076
 
 2. Keywords
-- Colorectal cancer
-- Inflammation
-- Insulin resistance
-- Physical activity
-- Survivorship
+- aging
+- blood flow
+- ischemic exercise
+- near&#x2010;infrared spectroscopy
+- oxygenation
 
 3. Key Findings
-- Findings extraction requires manual review
+- One-way ANOVA indicated lower resting pressures, but no change to FMD, or PORH in either protocol
+- Two-way repeated measures ANOVA indicated NR supplementation significantly reduced mean arterial pressure at rest and during incremental exercise at all intensities without changes to blood flow
 
 This study provides insights into:
-- Colorectal cancer assessment methods and outcomes
-- Inflammation assessment methods and outcomes
-- Insulin resistance assessment methods and outcomes
+- aging assessment methods and outcomes
+- blood flow assessment methods and outcomes
+- ischemic exercise assessment methods and outcomes

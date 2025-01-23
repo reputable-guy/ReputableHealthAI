@@ -1,22 +1,26 @@
-Study Title: Assessment of continuous low-dose and high-dose burst of inhaled nitric oxide in spontaneously breathing COVID-19 patients: A randomized controlled trial.
+Study Title: Early Postoperative Rapid Rehabilitation Yields More Favorable Short-term Outcomes in Patients Undergoing Patellar Realignment Surgery for Recurrent Patellar Dislocation: A Prospective Randomized Controlled Study.
 
 Study Summary:
-Inhaled nitric oxide (iNO) showed to improve oxygenation at low doses by reducing intrapulmonary shunt and to display antiviral properties at high doses. To assess the safety and potential benefits, we designed an exploratory clinical trial comparing low-dose with intermittent high-dose iNO to only intermittent high-dose iNO in hypoxemic COVID-19 patients. In this single-center interventional non-inferiority randomized trial (ClinicalTrials.gov, NCT04476992), twenty oxygen-dependent COVID-19 patients were randomly assigned to the high-dose (200&#xa0;ppm for 30&#xa0;min)&#xa0;+&#xa0;continuous low-dose (20&#xa0;ppm) iNO group (iNO) or the high-dose iNO group (iNO). Methemoglobinemia (MetHb) assessed 48&#xa0;h after iNO initiation was the primary endpoint. Reverse-transcription polymerase chain reaction for SARS-CoV-2, inflammatory markers during hospitalization, and heart ultrasounds during the iNOtreatments were evaluated. MetHb difference between iNO groups remained within the non-inferiority limit of 3&#xa0;%, indicating comparable treatments despite being statistically different (p-value<0.01). Both groups presented similar SpO/FiOratio at 48&#xa0;h (iNOvs. iNO&#xa0;341[334-356] vs. 359 [331-380], respectively, p-value&#xa0;=&#xa0;0.436). Both groups showed the same time to SARS-CoV-2 negativization, hospital length of stay, and recovery time. iNO-treated patients showed quicker SARS-CoV-2 negativization compared to a similar group of non-iNO patients (HR 2.57, 95%CI 1.04-6.33). During the 228 treatments, iNOand iNOgroups were comparable for safety, hemodynamic stability, and respiratory function improvement. iNOand iNOare equally safe in non-intubated patients with COVID-19-induced respiratory failure with regards to MetHb and NO. Larger studies should investigate whether iNOleads to better outcomes compared to non-iNO treated patients.
+Use of a rapid rehabilitation protocol for postoperative recovery after recurrent patellar dislocation (RPD) has gradually gained attention; nonetheless, evidence of its safety and effectiveness is lacking. To compare the short-term postoperative outcomes of early rapid rehabilitation with those of conservative rehabilitation in patients with RPD. Randomized controlled trial; Level of evidence, 2. A total of 50 patients with RPD who underwent tibial tubercle osteotomy combined with medial patellofemoral ligament reconstruction were enrolled between January 2018 and February 2019. Postoperatively, the patients were randomly assigned to either the early rapid group (rapid group; n = 25 patients) or the conservative group (control group; n = 25 patients) for rehabilitation training. The rapid group underwent faster progression in weightbearing and range of motion (ROM) training. Knee joint functional scores, ROM, bilateral thigh circumference differences, and imaging data were recorded preoperatively and at 6 weeks and 3, 6, 12, and 24 months postoperatively for comparison. Postoperative complications were recorded over the 24-month follow-up period. The baseline data did not significantly differ between the 2 groups. Postoperatively, compared with the control group, the rapid group had higher Tegner scores at 6 weeks and 3 months; higher Lysholm scores at 3 and 6 months; higher International Knee Documentation Committee scores at 6 weeks, 3 months, and 12 months; better ROM; and smaller bilateral thigh circumference differences at 24 months (< .05 for all). However, no differences were observed in the Tegner, Lysholm, and International Knee Documentation Committee scores at 24 months postoperatively. At the 6-week and subsequent follow-up visits, the Caton and Insall indices were lower in the control group than in the rapid group (< .01 for all). Moreover, compared with the control group, the rapid group had a lower incidence of patella baja at 24 months (0% vs 17%) and fewer complications during the whole follow-up period (< .01). Early rapid postoperative rehabilitation appears to be safe and effective for patients who undergo tibial tubercle osteotomy combined with medial patellofemoral ligament reconstruction to treat RPD. In the short term, this approach was shown to be more advantageous than conservative rehabilitation in improving functional scores, allowing an earlier return to daily activities, although the lack of difference at 24 months implies no long-term benefits. In addition, it potentially helped to prevent the occurrence of complications, including patella baja. ChiCTR1800014648 (ClinicalTrials.gov identifier).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.niox.2024.06.003
+- DOI: 10.1177/03635465241254524
 
 2. Keywords
-
+- medial patellofemoral ligament reconstruction
+- patellar height
+- rapid rehabilitation
+- recurrent patellar dislocation
+- tibial tubercle osteotomy
 
 3. Key Findings
-- Inhaled nitric oxide (iNO) showed to improve oxygenation at low doses by reducing intrapulmonary shunt and to display antiviral properties at high doses
-- Both groups showed the same time to SARS-CoV-2 negativization, hospital length of stay, and recovery time
-- iNO-treated patients showed quicker SARS-CoV-2 negativization compared to a similar group of non-iNO patients (HR 2
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- medial patellofemoral ligament reconstruction assessment methods and outcomes
+- patellar height assessment methods and outcomes
+- rapid rehabilitation assessment methods and outcomes

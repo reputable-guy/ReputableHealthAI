@@ -1,25 +1,20 @@
-Study Title: Effect of Supervised and Unsupervised Exercise Training in Outdoor Gym on the Lifestyle of Elderly People.
+Study Title: A Randomized Controlled Trial of&#xa0;Precision Nutrition Counseling for&#xa0;Service Members at Risk for&#xa0;Metabolic Syndrome.
 
 Study Summary:
-The aim of this study was to investigate the effectiveness of supervised and unsupervised physical training programs using outdoor gym equipment on the lifestyles of elderly people. physically independent elderly people were randomly distributed into three groups: supervised training (n: 20; ST), unsupervised training (n: 20; UT) and control (n: 20; C). The ST and UT groups completed a 12-week program, with exercises performed three times a week. The ST group underwent weekly 30 min sessions consisting of a 5 min warm-up (walking at 60% of HR), followed by 20 sets of 30, "monitored by a metronome with 30" of passive recovery between sets and a five-minute cool-down. The following equipment was used: elliptical, rowing, surfing and leg press. The UT group was instructed to freely attend the gym and train spontaneously using the same equipment used by ST. Lifestyle changes were evaluated using a questionnaire containing specific domains. no significant differences were identified in the domains for family, physical activity, nutrition, smoking, sleep, behavior, introspection, work and overall score; however, the values corresponding to the alcohol domain for the ST and UT groups were lower (< 0.05) than the C group, remaining even lower after the 12 weeks of intervention. Time effect (< 0.05) was found only in the ST group for the physical domains, sleep, behavior and overall score. elderly people submitted to supervised and unsupervised physical exercise programs using outdoor gym equipment present positive changes in lifestyle parameters compared to physical inactive elderly people.
+Metabolic syndrome (MetS) is a threat to the active component military as it impacts health, readiness, retention, and cost to the Military Health System. The most prevalent risk factors documented in service members' health records are high blood pressure (BP), low high-density lipoprotein cholesterol, and elevated triglycerides. Other risk factors include abdominal obesity and elevated fasting blood glucose. Precision nutrition counseling and wellness software applications have demonstrated positive results for weight management when coupled with high levels of participant engagement and motivation. In this prospective randomized controlled trial, trained registered dietitians conducted nutrition counseling using results of targeted sequencing, biomarkers, and expert recommendations to reduce the risk for MetS. Upon randomization, the treatment arm initiated six weekly sessions and the control arm received educational pamphlets. An eHealth application captured diet and physical activity. Anthropometrics and BP were measured at baseline, 6 weeks, and 12&#x2009;weeks, and biomarkers were measured at baseline and 12&#x2009;weeks. The primary outcome was a change in weight at 12&#x2009;weeks. Statistical analysis included descriptive statistics and t-tests or analysis of variance with significance set at P&#x2009;<&#x2009;.05. Overall, 138 subjects enrolled from November 2019 to February 2021 between two military bases; 107 completed the study. Demographics were as follows: 66% male, mean age 31&#x2009;years, 66% married, and 49% Caucasian and non-Hispanic. Weight loss was not significant between groups or sites at 12&#x2009;weeks. Overall, 27% of subjects met the diagnostic criteria for MetS on enrollment and 17.8% upon study completion. High deleterious variant prevalence was identified for genes with single-nucleotide polymorphisms linked to obesity (40%), cholesterol (38%), and BP (58%). Overall, 65% of subjects had low 25(OH)D upon enrollment; 45% remained insufficient at study completion. eHealth app had low adherence yet sufficient correlation with a valid reference. Early signs of progress with weight loss at 6&#x2009;weeks were not sustained at 12&#x2009;weeks. DNA-based nutrition counseling was not efficacious for weight loss.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.3390/ijerph20217022
+- DOI: 10.1093/milmed/usad276
 
 2. Keywords
-- aging
-- lifestyle
-- outdoor equipment
-- physical exercises
+
 
 3. Key Findings
-- 05) was found only in the ST group for the physical domains, sleep, behavior and overall score
+- Precision nutrition counseling and wellness software applications have demonstrated positive results for weight management when coupled with high levels of participant engagement and motivation
 
 This study provides insights into:
-- aging assessment methods and outcomes
-- lifestyle assessment methods and outcomes
-- outdoor equipment assessment methods and outcomes
+- General research methodology and outcomes

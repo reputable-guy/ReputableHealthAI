@@ -1,26 +1,25 @@
-Study Title: Can a six-week Swedish massage reduce mood disorders and enhance the quality of life in individuals with Multiple Sclerosis? A randomized control clinical trial.
+Study Title: Study on the mechanisms of acupuncture combined with paroxetine in the treatment of mild to moderate depression based on DNA methylation analysis.
 
 Study Summary:
-There is a limited amount of research specifically focusing on the effects of Swedish massage on mood disorders and the quality of life (QOL) among individuals with MS, emphasizing the need for further investigation. Therefore, this study aimed to assess the effects of a 6-week Swedish massage on the quality of life, stress, anxiety, depression, pain, fatigue, spasticity, and sleep quality in MS patients. This randomized controlled trial involved 70 MS patients who were divided into two groups. The massage group underwent two 50-minute sessions of whole-body Swedish massage per week for six weeks, while the usual treatment group maintained their regular medical care routine. Outcomes were Short Form-36 (SF-36) and the Depression, Anxiety, and Stress Scale (DASS), Visual Analog Scale (VAS), Fatigue Severity Scale (FSS), Pittsburgh Sleep Quality Index (PSQI-P), and Modified Ashworth Scale (MAS). These measurements were taken before and after the massage intervention. The massage group demonstrated significant improvements in QOL and its components compared to the usual treatment group (Hedge's g = 0.53 for QOL, ranging from 0.31 to 0.58 for QOL components; p < 0.001). Participants in the massage group also reported significantly lower levels of stress (Hedge's g = 0. 80), anxiety (Hedge's g = 0.47), and depression (Hedge's g = 0.70) than those in the usual treatment group (p < 0.001). Additionally, the massage group had lower levels of pain, fatigue, and spasticity, and better sleep quality compared to the usual treatment group (p < 0.05). Swedish massage can be considered a valuable complementary and alternative treatment alongside conventional medicine for individuals with MS.
+To explore the therapeutic effect of acupuncture combined with paroxetine for mild to moderate depression and the regulatory role of brain derived neurotrophic factor (BDNF) in patients based on DNA methylation. A total of 66 patients with mild to moderate depression who met the inclusion and exclusion criteria were randomly divided into an observation (acupuncture+medication) group and a control (medication) group, with 33 patients in each group, and other 25 healthy volunteers were taken as the healthy group. The patients of the control group were treated by oral administration of paroxetine 20 mg/d for 4 weeks. The patients of the observation group were treated by acupuncture stimulation of Zhongwan (CV12), Qihai (CV6), Zusanli (ST36), Sanyinjiao (SP6), Shangxing (GV23), Shuigou (GV26), Shaoshang (LU11), Yinbai (SP1) and Daling (PC7) (for 20 min, 3 times a week for 4 weeks) on the basis of medication treatment (the same as that of the control group). Before treatment, 2 and 4 weeks of treatment, and 2 weeks of follow-up, the therapeutic effect was assessed using Hamilton Depression Scale 17 (HAMD-17). The SPSS25.0 software was used to form a randomized grouping and to randomly select 25 patients from the observation group and 25 patients from the control group for blood collecting and data analysis. The blood samples were taken for assaying serum BDNF content and the methylation degree of BDNF gene promotor I with ELISA and MassARRAY techniques, respectively. 1) In comparison with those before treatment, the total score of HAMD-17, sleep disorder factor score, and anxiety somatization factor score of both the observation and control groups were significantly decreased after 2 and 4 weeks of treatment, and 2 weeks of follow-up (<0.05), except sleep disorder factor score in the control group after 2 weeks of the treatment. Compared with the same time-points of the control group, the HAMD-17 total score and sleep disorder factor score of the observation group were decreased after 2 and 4 weeks of treatment, and 2 weeks of follow-up (<0.05), while the anxiety somatization factor score was evidently decreased after 2 weeks of treatment (<0.05). 2) Following 2 weeks of treatment, the total effective rate and markedly effective rate of the observation group were 80%(24/30)and 36.67% (11/30), respectively, being significantly higher than those &#xff3b;(26.67% and 0 %)&#xff3d; of the control group. After 4 weeks of treatment, the markedly effective rate of the observation group was 70.00% (21/30), being significantly higher than that 40% (12/30) of the control group (<0.05), while the total effective rates of the observation and control groups were the same (100%). 3) Before the treatment, comparison among the healthy, observation and control groups showed no statistical significance in the methylation degree of each site (CpG1.2, CpG5.6, CpG8.9, CpG26, CpG27, CpG31, and CpG33.34) of BDNF gene promotor I, while after 4 weeks of the treatment, the methylation degree of CpG31 was considerably lower in the observation group than in the control group (<0.05). 4) Before the treatment, the contents of serum BDNF of both observation and control group had no significant difference, but were evidently lower than that of the healthy group (<0.05). Compared with that before treatment, the serum BDNF contents in both observation and control groups were significantly increased after the treatment (<0.05), and was significantly higher in the observation group than in the control group (<0.05). 5) The correlation analysis showed a negative correlation between the BDNF protein content and HAMD-17 score (correlation coefficient &#x3c1;=-0.686,<0.01). Acupuncture may have an antidepressant role by decreasing CpG31 methylation of BDNF and increasing the serum content of BDNF protein in patients with depression. In addition, acupuncture combined with paroxetine has more advantages in treating mild to moderate depression than oral paroxetine alone, and can improve sleep disorders and anxiety somatization symptoms more quickly.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.explore.2024.103032
+- DOI: 10.13702/j.1000-0607.20230243
 
 2. Keywords
-- Alternative medicine
-- Anxiety
-- Complementary medicine
+- Acupuncture
 - Depression
-- Stress
+- Methylation of Brain-derived neurotrophic factor gene promoter I
 
 3. Key Findings
-- The massage group demonstrated significant improvements in QOL and its components compared to the usual treatment group (Hedge's g = 0
+- 3) Before the treatment, comparison among the healthy, observation and control groups showed no statistical significance in the methylation degree of each site (CpG1
+- 5) The correlation analysis showed a negative correlation between the BDNF protein content and HAMD-17 score (correlation coefficient &#x3c1;=-0
 
 This study provides insights into:
-- Alternative medicine assessment methods and outcomes
-- Anxiety assessment methods and outcomes
-- Complementary medicine assessment methods and outcomes
+- Acupuncture assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Methylation of Brain-derived neurotrophic factor gene promoter I assessment methods and outcomes

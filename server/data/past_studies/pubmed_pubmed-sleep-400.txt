@@ -1,20 +1,31 @@
-Study Title: The effect of progressive muscle relaxation exercises on postmenopausal sleep quality and fatigue: a single-blind randomized controlled study.
+Study Title: Study of Two Sedative Protocols for Drug-Induced Sleep Endoscopy: Propofol versus Propofol-Remifentanil Combination, Delivered in Target-Controlled Infusion Mode.
 
 Study Summary:
-This single-blind, randomized controlled study aimed to determine the effect of progressive muscle relaxation exercises on sleep quality and fatigue in the postmenopausal period. Progressive muscle relaxation aims to relax the muscles in the body and includes breathing techniques. This study was carried out between January 2022 and July 2022 with 63 postmenopausal women who applied to a district state hospital and had poor sleep quality. The women assigned to the experimental group (EG) (n = 31) applied progressive muscle relaxation exercises every day for 8 weeks. In contrast, the women in the control group (CG) (n = 32) continued their routine coping habits related to sleep problems and fatigue in the postmenopausal period. The EG and CG were reevaluated using the Piper Fatigue Scale and the Pittsburg Sleep Quality Index in the fourth and eighth weeks. The women applied progressive muscle relaxation exercises with a guide prepared by the researchers and the compact disc of the Turkish Psychologists Association. In the data analysis, the independent-samples t test, Fisher's exact test, and &#x3c7;2 test were used to compare individual, obstetric, and medical characteristics between the groups. The difference between dependent groups at different times was evaluated by repeated-measures analysis of variance. There was an improvement in fatigue symptoms in the progressive muscle relaxation exercises-performing EG at the end of 8 weeks compared with the CG, and fatigue symptoms increased in the CG (P < 0.001). There was a greater improvement in the sleep quality of the progressive muscle relaxation exercises-performing EG at the end of 8 weeks compared with the CG (P < 0.001). In our study, it was determined that progressive muscle relaxation exercises had an improving effect on sleep quality and fatigue.
+Obstructive sleep apnea (OSA) is a prevalent sleep-disordered breathing pathology with significant clinical consequences, including increased cardiovascular risk and cognitive decline. Continuous positive airway pressure (CPAP) is the gold-standard treatment, but alternative strategies are sometimes needed for patients intolerant to CPAP. Drug-induced sleep endoscopy (DISE) is a key diagnostic tool for assessing upper airway obstruction in OSA patients and subsequently tailoring a surgical approach, with sedation protocols playing a crucial role in its efficacy and results accuracy. This study aimed to investigate the effect of adding remifentanil to a propofol target-controlled infusion (TCI) regimen on the sedation parameters and procedural outcomes of DISE.The study was conducted at the Central University and Emergency Military Hospital "Dr. Carol Davila" and Ria Clinic in Bucharest between July 2021 and October 2023. Thirty-one patients were enrolled and randomised into two groups: a propofol group (P group,= 11) and a remifentanil-propofol group (R-P group,= 20). DISE was performed using standardised protocols, sedative drugs were administered in TCI mode, and data on sedation levels, respiratory and cardiovascular parameters, and procedural incidents were collected.The addition of remifentanil at 1 ng/mL effect-site concentration significantly reduced the effect-site concentration of propofol required for adequate sedation (3.4 &#xb1; 0.7 &#xb5;g/mL in the P group vs. 2.8 &#xb1; 0.6 &#xb5;g/mL in the R-P group,= 0.035). The time to achieve adequate sedation was also shorter in the R-P group (7.1 &#xb1; 2.5 min vs. 9.5 &#xb1; 2.7 min,= 0.017). The incidence of cough, hypoxemia, and cardiovascular events did not significantly differ between the two groups.Adding remifentanil to a propofol TCI regimen for DISE effectively reduces the required propofol effect-site concentration and shortens sedation time without increasing the risk of adverse events. This combination may enhance the safety and efficiency of DISE, offering a promising alternative for patients undergoing this procedure.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/GME.0000000000002384
+- DOI: 10.3390/medicina60071123
 
 2. Keywords
-
+- airway dynamics
+- bispectral index (BIS)
+- drug-induced sleep endoscopy (DISE)
+- obstructive sleep apnea (OSA)
+- pharmacologically induced sleep
+- propofol
+- remifentanil
+- sedation
+- sedation protocols
+- target-controlled infusion (TCI)
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- airway dynamics assessment methods and outcomes
+- bispectral index (BIS) assessment methods and outcomes
+- drug-induced sleep endoscopy (DISE) assessment methods and outcomes

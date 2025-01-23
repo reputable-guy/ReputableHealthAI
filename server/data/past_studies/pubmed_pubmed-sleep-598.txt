@@ -1,21 +1,37 @@
-Study Title: Effects of a Multicomponent Intervention With Cognitive Training and Lifestyle Guidance for Older Adults at Risk of Dementia: A Randomized Controlled Trial.
+Study Title: A pilot randomised control study to investigate the effect of the South African Adolescence Group Sleep Intervention (SAASI) on adolescent sleep and PTSD.
 
 Study Summary:
-This study examined the effects of a multicomponent intervention program on cognitive function in community-dwelling older adults with mild cognitive impairment (MCI) and subjective cognitive decline (SCD).This was a 2-arm, randomized controlled trial in which a multicomponent intervention was applied. Participants were recruited from June 2020 to August 2020, randomization and intervention began in August 2020, and the entire program ended in January 2021. It included cognitive training (mnemonic strategy training) and lifestyle guidance (diet, sleep, and exercise guidance) for 7 weeks. A total of 123 Chinese community-dwelling older adults experiencing MCI or SCD were randomly divided into a multicomponent intervention group (n = 62) and a health education group (n = 61). The global cognitive function was measured using the Mini-Mental State Examination (MMSE). The cognitive domains outcomes included memory functions measured using the immediate and delayed tests of the Auditory Verbal Learning Test (AVLT) and Logical Memory Test (LMT), and executive function and attention measured using the Digital Symbol Substitution Test (DSST) and Digit Span Test (DST). Data were collected at baseline and postintervention.For cognitive outcome, the results of linear mixed-effect model showed significant time &#xd7; group effects in the MMSE (Cohen=0.63 [95% CI, 0.27 to 1.00],= 10.25,= .002). This study found significant time &#xd7; group effects in AVLT-immediate (Cohen= 0.47 [95% CI, 0.11 to 0.83],= 8.18,= .005), AVLT delayed (Cohen= 0.45 [95% CI, 0.10 to 0.81],= 4.59,= .034), LMT-delayed (Cohen= 0.71 [95% CI, 0.34 to 1.07],= 4.59,= .034), DSST (Cohen= 0.27 [95% CI, -0.08 to 0.63],= 4.83,= .030), and DST (Cohen=0.69 [95% CI, 0.33 to 1.05],= 8.58,= .004).The results support the feasibility and effectiveness of the multicomponent intervention program in improving cognitive function in community dwelling older adults at risk of dementia. The high adherence of this program shows its potential for promotion in the community and supports a larger and longer trial.Chinese Clinical Trial Registry (ChiCTR2200061420).
+Trauma exposure prevalence and consequent post-traumatic stress disorder among South African adolescents are significant. Sleep disturbances are among the most frequently reported difficulties faced by those dealing with PTSD. The current study examined the feasibility and preliminary efficacy of the South African Adolescence Group Sleep Intervention on PTSD symptom severity and sleep disturbance.Sixty-one adolescents with PTSD diagnoses and sleep disturbance were randomly assigned (1:1) to one individual and four group sessions of a sleep intervention (SAASI) or a control group. Participants completed the Child PTSD symptom scale for DSM5 (CPSS-5) and the Pittsburgh Sleep Quality Index (PSQI) among other sleep and psychiatric measures. The trial was registered on the Pan African Trial Registry (PACTR202208559723690).There was a significant but similar decrease in PSQI scores in both groups over time indicating no overall intervention effect (Wald test = -2.18,= .029), mean slope = -0.2 (95% CI: -0.37 to -0.02) (= .583). On the CPSS-5, interaction between groups was also not significant (p = .291). Despite this overall finding, the mean difference in CPSS-SR-5 scores increased over time, with the difference between groups post-treatment -9.10 (95%CI: -18.00 to -0.21),= .045 and the 1-month follow-up contrast - 11.22 (95%CI: -22.43 to -0.03),= .049 suggesting that PTSD symptom severity decreased more in the intervention group than the control group. The dropout rate was higher than expected for both the intervention (= 10; 32%) and control (= 8; 26.7%) groups. Dropout were mostly school commitments or travel related.Early findings suggest a trend towards dual improvement in sleep quality and PTSD symptom severity in adolescents with a sleep disturbance and PTSD receiving a group sleep intervention (SAASI). Further investigation in a properly powered RCT with detailed retention planning is indicated.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.4088/JCP.23m15112
+- DOI: 10.1080/20008066.2024.2350217
 
 2. Keywords
-
+- Gravedad del TEPT
+- PTSD severity
+- adolescentes
+- adolescents
+- brief intervention
+- calidad de sue&#xf1;o
+- cambio de tareas
+- group intervention
+- intervenci&#xf3;n breve
+- intervenci&#xf3;n del sue&#xf1;o
+- intervenci&#xf3;n grupal
+- sleep disturbance
+- sleep intervention
+- sleep quality
+- task-shifting
+- trastornos del sue&#xf1;o
 
 3. Key Findings
-- For cognitive outcome, the results of linear mixed-effect model showed significant time &#xd7; group effects in the MMSE (Cohen=0
-- This study found significant time &#xd7; group effects in AVLT-immediate (Cohen= 0
+- Further investigation in a properly powered RCT with detailed retention planning is indicated
 
 This study provides insights into:
-- General research methodology and outcomes
+- Gravedad del TEPT assessment methods and outcomes
+- PTSD severity assessment methods and outcomes
+- adolescentes assessment methods and outcomes

@@ -1,28 +1,44 @@
-Study Title: The effect of the Yara smartphone application on anxiety, sleep quality, and suicidal thoughts in patients with major depressive disorder in Iran: a randomized controlled trial.
+Study Title: Effects of a Digital Mental Health Intervention on Perceived Stress and Rumination in Adolescents Aged 13 to 17 Years: Randomized Controlled Trial.
 
 Study Summary:
-Depression is one of the most common mental disorders that leads to anxiety, sleep disturbances, and suicidal thoughts. Due to the high cost of treatment and the reluctance of many patients to seek medical help, major depressive disorder (MDD) is becoming more prevalent. Therefore, alternative methods like smartphone applications can help prevent and improve depression symptoms. The present study aimed to determine the effect of the newly developed Yara smartphone application on anxiety, sleep quality, and suicidal thoughts in patients with MDD. This randomized controlled trial with a pretest-posttest design was conducted on Iranian patients with MDD in 2022. Sixty-four patients were recruited using convenience sampling and randomly assigned to two control and intervention groups. The intervention was conducted using the Yara smartphone application for three months. Data were collected using the Spielberger State-Trait Anxiety Inventory (STAI), Pittsburgh Sleep Quality Index (PSQI), and Beck Scale for Suicidal Ideation (BSSI). Data were first entered into IBM SPSS Statistics for Windows, version 22 (IBM Corp., Armonk, N.Y., USA) and then analyzed using descriptive and analytical statistics. There was no statistically significant difference in the mean score of anxiety and sleep quality between the intervention and control groups before the intervention (p &#x2265; .05). However, this difference in the mean score of anxiety and sleep quality was statistically significant in the two groups after the intervention (p < .05). The results showed no statistically significant difference in the mean score of suicidal thoughts between the two groups before and after the intervention (p &#x2265; .05). The use of the Yara smartphone application had a significant positive effect on anxiety and sleep quality in depressed patients (p < .001). At the same time, it had no significant effect on suicidal thoughts (p &#x2265; .05). Considering the positive effect of using the Yara smartphone application on reducing anxiety and improving sleep quality in depressed patients, this application can help alleviate the problems of depressed patients alongside existing treatment methods. Thus, this application is recommended for this group of patients in psychiatric clinics and departments. The Yara application's effectiveness was not approved on suicidal thoughts in this study so that further investigation would be necessary. Iranian Registry of Clinical Trial approval code (IRCT# IRCT20131112015390N7).
+Although adolescents report high levels of stress, they report engaging in few stress management techniques. Consequently, developing effective and targeted programs to help address this transdiagnostic risk factor in adolescence is particularly important. Most stress management programs for adolescents are delivered within schools, and the evidence for these programs is mixed, suggesting a need for alternative options for stress management among adolescents. The aim of the study is to test the short-term effects of a self-guided digital mental health intervention (DMHI) designed for adolescents on perceived stress and rumination (ie, brooding). This was a 12-week, 2-arm decentralized randomized controlled trial of adolescents aged 13 to 17 years who presented with elevated levels of perceived stress and brooding. Participants were randomly assigned to engage with a self-guided DMHI (Happify for Teens) or to a waitlist control. Participants assigned to the intervention group were given access to the program for 12 weeks. Happify for Teens consists of various evidence-based activities drawn from therapeutic modalities such as cognitive behavioral therapy, positive psychology, and mindfulness, which are then organized into several programs targeting specific areas of concern (eg, Stress Buster 101). Participants in the waitlist control received access to this product for 12 weeks upon completing the study. Participants in both groups completed measures of perceived stress, brooding, optimism, sleep disturbance, and loneliness at baseline, 4 weeks, 8 weeks, and 12 weeks. Changes in outcomes between the intervention and waitlist control groups were assessed using repeated-measures multilevel models. Of the 303 participants included in data analyses, 132 were assigned to the intervention and 171 to the waitlist. There were significantly greater improvements in the intervention condition for perceived stress (intervention: B=-1.50; 95% CI -1.82 to -1.19; P<.001 and control: B=-0.09; 95% CI -0.44 to 0.26; P=.61), brooding (intervention: B=-0.84; 95% CI -1.00 to -0.68; P<.001 and control: B=-0.30; 95% CI -0.47 to -0.12; P=.001), and loneliness (intervention: B=-0.96; 95% CI -1.2 to -0.73; P<.001 and control: B=-0.38; 95% CI: -0.64 to -0.12; P=.005) over the 12-week study period. Changes in optimism and sleep disturbance were not significantly different across groups (Ps&#x2265;.096). Happify for Teens was effective at reducing perceived stress, rumination, and loneliness among adolescents over 12 weeks when compared to a waitlist control group. Our data reveal the potential benefits of DMHIs for adolescents, which may present a more scalable, destigmatized, and cost-effective alternative to school-based programs. ClinicalTrials.gov NCT04567888; https://clinicaltrials.gov/ct2/show/NCT04567888. RR2-10.2196/25545.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12888-024-05688-1
+- DOI: 10.2196/54282
 
 2. Keywords
-- Anxiety
-- Iran
-- Major depressive disorder
-- Sleep Quality
-- Smartphone Apps
-- Suicide
-- Thought
+- DMHI
+- RCT
+- adolescent
+- adolescents
+- brooding
+- controlled trial
+- controlled trials
+- digital health
+- digital intervention
+- digital mental health intervention
+- mHealth
+- mental health
+- mobile health
+- mobile phone
+- randomized
+- randomized controlled trial
+- rumination
+- stress
+- stress management
+- teen
+- teenager
+- teenagers
+- teens
 
 3. Key Findings
-- The results showed no statistically significant difference in the mean score of suicidal thoughts between the two groups before and after the intervention (p &#x2265;
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Anxiety assessment methods and outcomes
-- Iran assessment methods and outcomes
-- Major depressive disorder assessment methods and outcomes
+- DMHI assessment methods and outcomes
+- RCT assessment methods and outcomes
+- adolescent assessment methods and outcomes

@@ -1,26 +1,27 @@
-Study Title: Effects of a Novel Applet-Based Personalized Dietary Intervention on Dietary Intakes: A Randomized Controlled Trial in a Real-World Scenario.
+Study Title: Comparison of Clinical Decision Support Tools to Improve Pediatric Lipid Screening.
 
 Study Summary:
-The objective of this study was to assess the feasibility and effectiveness of a novel WeChat applet-based personalized dietary intervention aimed at promoting healthier dietary intakes. A two-arm parallel, randomized, controlled trial was conducted in a real-world scenario and involved a total of 153 participants (the intervention group,= 76; the control group,= 77), lasting for 4 months in Shanghai, China. The intervention group had access to visualized nutrition evaluations through the applet during workday lunch time, while the control group received no interventions. A total of 3413 lunch dietary intake records were captured through the applet. Linear mixed models were utilized to assess the intervention effects over time. At baseline, the participants' lunchtime dietary intakes were characterized by insufficient consumption of plant foods (86.9% of the participants) and excessive intake of animal foods (79.7% of the participants). Following the commencement of the intervention, the intervention group showed a significant decrease in the animal/plant food ratio (&#x3b2; = -0.03/week,= 0.024) and the consumption of livestock and poultry meat (&#x3b2; = -1.80 g/week,= 0.035), as well as a borderline significant increase in the consumption of vegetables and fruits (&#x3b2; = 3.22 g/week,= 0.055) and plant foods (&#x3b2; = 3.26 g/week,= 0.057) over time at lunch compared to the control group. The applet-based personalized dietary intervention was feasible and effective in improving dietary intakes and, consequently, possibly may manage body weight issues in real-world scenarios.
+To test whether different clinical decision support tools increase clinician orders and patient completions relative to standard practice and each other. A pragmatic, patient-randomized clinical trial in the electronic health record was conducted between October 2019 and April 2020 at Geisinger Health System in Pennsylvania, with 4 arms: care gap-a passive listing recommending screening; alert-a panel promoting and enabling lipid screen orders; both; and a standard practice-no guideline-based notification-control arm. Data were analyzed for 13&#x2008;346 9- to 11-year-old patients seen within Geisinger primary care, cardiology, urgent care, or nutrition clinics, or who had an endocrinology visit. Principal outcomes were lipid screening orders by clinicians and completions by patients within 1 week of orders. Active (care gap and/or alert) vs control arm patients were significantly more likely (P&#xa0;<&#xa0;.05) to have lipid screening tests ordered and completed, with ORs ranging from 1.67 (95% CI 1.28-2.19) to 5.73 (95% CI 4.46-7.36) for orders and 1.54 (95% CI 1.04-2.27) to 2.90 (95% CI 2.02-4.15) for completions. Alerts, with or without care gaps listed, outperformed care gaps alone on orders, with odds ratios ranging from 2.92 (95% CI 2.32-3.66) to 3.43 (95% CI 2.73-4.29). Electronic alerts can increase lipid screening orders and completions, suggesting clinical decision support can improve guideline-concordant screening. The study also highlights electronic record-based patient randomization as a way to determine relative effectiveness of support tools. ClinicalTrials.gov Identifier: NCT04118348.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16040565
+- DOI: 10.1016/j.jpeds.2024.113973
 
 2. Keywords
-- behavioral nutrition interventions
-- dietary intakes
-- nutrition translation
-- personalized nutrition
-- randomized control trial (RCT)
+- best practice alert
+- care gap
+- dyslipidemia
+- electronic alert
+- electronic health record
+- health maintenance topic
 
 3. Key Findings
-- Following the commencement of the intervention, the intervention group showed a significant decrease in the animal/plant food ratio (&#x3b2; = -0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- behavioral nutrition interventions assessment methods and outcomes
-- dietary intakes assessment methods and outcomes
-- nutrition translation assessment methods and outcomes
+- best practice alert assessment methods and outcomes
+- care gap assessment methods and outcomes
+- dyslipidemia assessment methods and outcomes

@@ -1,26 +1,32 @@
-Study Title: Effects of pregabalin combined with tramadol/paracetamol on acute pain in patients with CT-guided puncture localization of pulmonary nodules.
+Study Title: Effects of low-dose acetylsalicylic acid on the inflammatory response to experimental sleep restriction in healthy humans.
 
 Study Summary:
-To investigate the effects of pregabalin combined with tramadol/paracetamol on acute pain in patients with CT-guided puncture localization of pulmonary nodules. In this randomized, placebo-controlled and single-center study, 120 patients were allocated randomly to four groups: the control group (Group P), the pregabalin-placebo group (Group BP), the tramadol/paracetamol-placebo group (Group AP), and the pregabalin-tramadol/paracetamol group (Group AB). The primary outcome was the NRS (Numerical Rating Scale) score. Other outcomes included systolic blood pressure (SBP), diastolic blood pressure (DBP), heart rate (HR), pulse oxygen saturation (SpO), the incidence of moderate to severe pain, the analgesia recovery ratio, the incidence of adverse drug reactions and patients' satisfaction. No significant interaction was detected between the interventions (P&#xa0;=&#xa0;0.752). The NRS score of the Taking pregabalin group and the Taking tramadol/paracetamol group were significantly lower than those of the Not-taking pregabalin group and the Not-taking tramadol/paracetamol group respectively (P&#xa0;<&#xa0;0.05). There was significant difference in the NRS scores among the four groups (P&#xa0;<&#xa0;0.001). The NRS score of Group AB was significantly lower than that of Group P (P&#xa0;<&#xa0;0.001), Group BP (P&#xa0;<&#xa0;0.001) and Group AP (P&#xa0;=&#xa0;0.001). At the same time, the NRS scores of Group BP (P&#xa0;<&#xa0;0.001) and Group AP (P&#xa0;<&#xa0;0.001) were significantly lower than those of Group P, but there was no significant difference between Group BP and Group AP (P&#xa0;=&#xa0;1.000). The SBP, DBP, HR, the incidence of moderate to severe pain and the analgesia recovery ratio of Group AB were significantly lower than those of Group P (P&#xa0;<&#xa0;0.05), while the SpOand the number of people who were very satisfied were significantly higher than those of Group P (P&#xa0;<&#xa0;0.05). There was no significant difference in the incidence of adverse drug reactions among the four groups (P&#xa0;=&#xa0;0.272). The combination or single use of pregabalin and tramadol/paracetamol can effectively relieve the acute pain after localization. Pregabalin combined with tramadol/paracetamol has the best analgesic effect and significantly reduces the hemodynamic fluctuations, with high safety and low incidence of adverse drug reactions, which has a certain clinical popularization and application value.
+Sleep deficiencies, such as manifested in short sleep duration or insomnia symptoms, are known to increase the risk for multiple disease conditions involving immunopathology. Inflammation is hypothesized to be a mechanism through which deficient sleep acts as a risk factor for these conditions. Thus, one potential way to mitigate negative health consequences associated with deficient sleep is to target inflammation. Few interventional sleep studies investigated whether improving sleep affects inflammatory processes, but results suggest that complementary approaches may be necessary to target inflammation associated with sleep deficiencies. We investigated whether targeting inflammation through low-dose acetylsalicylic acid (ASA, i.e., aspirin) is able to blunt the inflammatory response to experimental sleep restriction. 46 healthy participants (19F/27M, age range 19-63&#xa0;years) were studied in a double-blind randomized placebo-controlled crossover trial with three protocols each consisting of a 14-day at-home monitoring phase followed by an 11-day (10-night) in-laboratory stay (sleep restriction/ASA, sleep restriction/placebo, control sleep/placebo). In the sleep restriction/ASA condition, participants took low-dose ASA (81&#xa0;mg/day) daily in the evening (22:00) during the at-home phase and the subsequent in-laboratory stay. In the sleep restriction/placebo and control sleep/placebo conditions, participants took placebo daily. Each in-laboratory stay started with 2 nights with a sleep opportunity of 8&#xa0;h/night (23:00-07:00) for adaptation and baseline measurements. Under the two sleep restriction conditions, participants were exposed to 5 nights of sleep restricted to a sleep opportunity of 4&#xa0;h/night (03:00-07:00) followed by 3 nights of recovery sleep with a sleep opportunity of 8&#xa0;h/night. Under the control sleep condition, participants had a sleep opportunity of 8&#xa0;h/night throughout the in-laboratory stay. During each in-laboratory stay, participants had 3&#xa0;days of intensive monitoring (at baseline, 5th day of sleep restriction/control sleep, and 2nd day of recovery sleep). Variables, including pro-inflammatory immune cell function, C-reactive protein (CRP), and actigraphy-estimated measures of sleep, were analyzed using generalized linear mixed models. Low-dose ASA administration reduced the interleukin (IL)-6 expression in LPS-stimulated monocytes (p<0.05 for condition*day) and reduced serum CRP levels (p<0.01 for condition) after 5 nights of sleep restriction compared to placebo administration in the sleep restriction condition. Low-dose ASA also reduced the amount of cyclooxygenase (COX)-1/COX-2 double positive cells among LPS-stimulated monocytes after 2 nights of recovery sleep following 5 nights of sleep restriction compared to placebo (p<0.05 for condition). Low-dose ASA further decreased wake after sleep onset (WASO) and increased sleep efficiency (SE) during the first 2 nights of recovery sleep (p<0.001 for condition and condition*day). Baseline comparisons revealed no differences between conditions for all of the investigated variables (p>0.05 for condition). This study shows that inflammatory responses to sleep restriction can be reduced by preemptive administration of low-dose ASA. This finding may open new therapeutic approaches to prevent or control inflammation and its consequences in those experiencing sleep deficiencies. ClinicalTrials.gov NCT03377543.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.lungcan.2024.107888
+- DOI: 10.1016/j.bbi.2024.07.023
 
 2. Keywords
-- Acute pain
-- CT-guided localization
-- Pregabalin
-- Pulmonary nodules
-- Tramadol/paracetamol
+- Acetylsalicylic acid
+- Actigraphy
+- C-reactive protein (CRP)
+- Cyclooxygenase-1 (COX-1)
+- Cyclooxygenase-2 (COX-2)
+- Inflammation
+- Interleukin-6 (IL-6)
+- Low-dose aspirin
+- Monocytes
+- Recovery sleep
+- Sleep restriction
 
 3. Key Findings
-- Findings extraction requires manual review
+- Baseline comparisons revealed no differences between conditions for all of the investigated variables (p>0
 
 This study provides insights into:
-- Acute pain assessment methods and outcomes
-- CT-guided localization assessment methods and outcomes
-- Pregabalin assessment methods and outcomes
+- Acetylsalicylic acid assessment methods and outcomes
+- Actigraphy assessment methods and outcomes
+- C-reactive protein (CRP) assessment methods and outcomes

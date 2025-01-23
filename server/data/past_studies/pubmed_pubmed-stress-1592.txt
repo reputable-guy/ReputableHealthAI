@@ -1,20 +1,26 @@
-Study Title: Myocardial Injury in Patients with Hip Fracture: A HIP ATTACK Randomized Trial Substudy.
+Study Title: Evaluating the impact of short-term nitrate-rich dietary supplementation on endothelial function in COPD: A randomized crossover study.
 
 Study Summary:
-Myocardial injury after a hip fracture is common and has a poor prognosis. Patients with a hip fracture and myocardial injury may benefit from accelerated surgery to remove the physiological stress associated with the hip fracture. This study aimed to determine if accelerated surgery is superior to standard care in terms of the 90-day risk of death in patients with a hip fracture who presented with an elevated cardiac biomarker/enzyme measurement at hospital arrival. The HIP fracture Accelerated surgical TreaTment And Care tracK (HIP ATTACK) trial was a randomized controlled trial designed to determine whether accelerated surgery for hip fracture was superior to standard care in reducing death or major complications. This substudy is a post-hoc analysis of 1392 patients (from the original study of 2970 patients) who had a cardiac biomarker/enzyme measurement (>99.9% had a troponin measurement and thus "troponin" is the term used throughout the paper) at hospital arrival. The primary outcome was all-cause mortality. The secondary composite outcome included all-cause mortality and non-fatal myocardial infarction, stroke, and congestive heart failure 90 days after randomization. Three hundred and twenty-two (23%) of the 1392 patients had troponin elevation at hospital arrival. Among the patients with troponin elevation, the median time from hip fracture diagnosis to surgery was 6 hours (interquartile range [IQR] = 5 to 13) in the accelerated surgery group and 29 hours (IQR = 19 to 52) in the standard care group. Patients with troponin elevation had a lower risk of mortality with accelerated surgery compared with standard care (17 [10%] of 163 versus 36 [23%] of 159; hazard ratio [HR] = 0.43 [95% confidence interval (CI) = 0.24 to 0.77]) and a lower risk of the secondary composite outcome (23 [14%] of 163 versus 47 [30%] of 159; HR = 0.43 [95% CI = 0.26 to 0.72]). One in 5 patients with a hip fracture presented with myocardial injury. Accelerated surgery resulted in a lower mortality risk than standard care for these patients; however, these findings need to be confirmed. Therapeutic Level I . See Instructions for Authors for a complete description of levels of evidence.
+This study aimed to investigate the acute effects of dietary nitrate ingestion through l-arginine supplementation or dehydrated beet consumption on endothelial function in chronic obstructive pulmonary disease (COPD) patients. The secondary outcome was to analyze arterial stiffness, plasma nitrate, and nitrate/protein concentration. In this randomized crossover study, subjects with COPD underwent three series of supplementation: (1) l-arginine, (2) dehydrated beetroot, and (3) a placebo that appeared like the other supplements. Each intervention lasted 14 days, with a 7-day washout period between series. Participants underwent endothelial function assessment using flow-mediated dilatation (FMD), and plasma nitrate levels were measured at the end of each supplementation series. Seventeen subjects (twelve male) completed the study protocol. Only five subjects presented endothelial dysfunction (RHI &#x2264;0.51) at baseline. The mean baseline characteristics included age 66.5&#xa0;&#xb1;&#xa0;9.4 years, BMI 27.5&#xa0;&#xb1;&#xa0;4.5&#xa0;kg/m, FEV0.79 (0.67-1.06) L. There were no differences (p&#xa0;>&#xa0;0.05) between the groups or from pre-to post-interventions for RHI and arterial stiffness index (AIx) values, as well as parameters of endothelium-dependent vasodilation, such as blood flow velocity (BFV), shear stress, shear rate, FMD (mm), and FMD%. There was also no differences (p&#xa0;>&#xa0;0.05) between the groups or from pre-to post-interventions plasma nitrate levels. Acute dietary supplementation with nitrates, at the doses provided, did not show a significant improvement in endothelial function assessed by FMD, EndoPAT, or plasma nitrate levels in COPD. These findings suggest that a higher dose or prolonged supplementation might be required to achieve a therapeutic effect.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2106/JBJS.23.01459
+- DOI: 10.1016/j.rmed.2024.107745
 
 2. Keywords
-
+- COPD
+- Dietary nitrates
+- Endothelium
+- Endothelium dysfunction
+- Flow-mediated dilation
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- COPD assessment methods and outcomes
+- Dietary nitrates assessment methods and outcomes
+- Endothelium assessment methods and outcomes

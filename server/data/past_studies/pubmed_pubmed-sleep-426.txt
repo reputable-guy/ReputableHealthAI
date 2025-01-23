@@ -1,27 +1,26 @@
-Study Title: Effect of music therapy combined with aerobic exercise on sleep quality among breast cancer patients undergoing chemotherapy after a radical mastectomy: a randomized controlled trial.
+Study Title: Comparison between botulinum toxin type A injection on masseter muscle only and additional injection on anterior belly of digastric muscle in sleep bruxism patients: A clinical trial.
 
 Study Summary:
-We aimed to study the effect of music therapy combined with aerobic exercise on the sleep quality of patients undergoing chemotherapy after a radical mastectomy. A randomized controlled trial was conducted at the Breast Disease Diagnosis and Treatment Center, Shaanxi Province Tumor Hospital, from July 2017 to June 2019. 110 female breast cancer patients who underwent a radical mastectomy were recruited and randomly allocated into an intervention group or a control group. The intervention group completed music therapy combined with aerobic exercise from the first to the sixth admission to the hospital for chemotherapy, while the control group received only routine nursing care. The sleep quality of these patients was measured using the Pittsburgh Sleep Quality Index (PSQI). A linear mixed model was used to adjust the PSQI of patients after controlling for other confounding factors. The mean sleep quality score of the breast cancer patients who received chemotherapy after a radical mastectomy (baseline) was 8.86&#x2009;&#xb1;&#x2009;2.34. The intervention group had a significantly lower mean global PSQI score than the control group from the first test to the third test, with an adjusted mean difference of -1.05 (95%CI: -1.86, -0.24; P&#x2009;=&#x2009;0.01), -2.89 (95%CI: -3.70, -2.08; P&#x2009;<&#x2009;0.001) and -&#x2009;4.84 (95%CI: -5.65, -4.03; P&#x2009;<&#x2009;0.001), respectively. A change in the global PSQI score from baseline for the intervention group was from 0.55 (95%CI: -0.24, 1.34; P&#x2009;=&#x2009;0.171) at the first test to 2.75 (95%CI: 1.96, 3.53; P&#x2009;<&#x2009;0.001) at the last test, and for the control group was from -&#x2009;0.51 (95%CI: -1.31, 0.29; P&#x2009;=&#x2009;0.213 at the first test to -2.10 (95%CI: -2.91, -1.30; P&#x2009;<&#x2009;0.001) at the last test. An intervention of music therapy combined with aerobic exercise can significantly improve the sleep quality of female breast cancer patients undergoing chemotherapy after a radical mastectomy, and this intervention continuously improves many aspects of sleep reactivity. This study was registered in the Chinese Clinical Trial Registry (ChiCTR2100042975, 02/02/2021).
+This study aims to evaluate the effects on bite force and muscle thickness of the botulinum toxin (BoNT) injection for patients with sleep bruxism (SB) by comparing injections into the masseter muscle only and both the masseter and the anterior belly of the digastric muscle (ABDM) in a clinical trial. Twelve SB patients received BoNT-A injections using US-guided techniques into the masseter muscle only (Group A), while the remaining 12 SB patients received injections into both the masseter and ABDM (Group B). Bite force and muscle thickness were measured before injection, as well as 1 and 2&#x2009;months after injection. The bite force and masseter muscle thickness decreased in both Group A and Group B before injection, and at 1 and 2&#x2009;months after injection. However, there was no significant difference (p&#x2009;>&#x2009;.05, repeated measures analysis of variance) between the two groups, and there was also no significant difference in ABDM thickness (p&#x2009;>&#x2009;.05, repeated measures analysis of variance). This study is the first to assess the short-term effects of BoNT injected into ABDM for SB control. Results show no influence on SB reduction, suggesting the need for further research on BoNT's effectiveness in controlling intense ABDM contractions during sleep and assessing suprahyoid muscle potential impact on rhythmic masticatory muscle activity occurrence.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12905-024-03241-6
+- DOI: 10.1111/joor.13800
 
 2. Keywords
-- Aerobic exercise
-- Breast cancer
-- Music therapy
-- Radical mastectomy
-- Randomized controlled trial
-- Sleep quality
+- anterior belly of the digastric muscle
+- botulinum toxin
+- masseter muscle
+- sleep bruxism
+- ultrasonography
 
 3. Key Findings
-- A linear mixed model was used to adjust the PSQI of patients after controlling for other confounding factors
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Aerobic exercise assessment methods and outcomes
-- Breast cancer assessment methods and outcomes
-- Music therapy assessment methods and outcomes
+- anterior belly of the digastric muscle assessment methods and outcomes
+- botulinum toxin assessment methods and outcomes
+- masseter muscle assessment methods and outcomes

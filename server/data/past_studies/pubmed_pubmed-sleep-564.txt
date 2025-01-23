@@ -1,26 +1,20 @@
-Study Title: Effectiveness of a 12-week telerehabilitation training in people with long COVID: A randomized controlled trial.
+Study Title: Sleep as an Important Target or Modifier in Alcohol Use Disorder Clinical Treatment: Example From a Recent Gabapentin Randomized Clinical Trial.
 
 Study Summary:
-Telerehabilitation has been developed and applied for years for cardiac and pulmonary diseases with good clinical outcomes. However, its application to participants with long COVID remains limited. To investigate the effectiveness of a 12-week telerehabilitation training program in participants with long COVID. The primary outcome was cardiorespiratory fitness (CRF), and secondary outcomes were physical activity (PA) amounts, exercise self-efficacy, sleep quality, and health-related quality of life (HRQOL). A parallel-group, randomized controlled trial was conducted. Eligible participants with long COVID (n = 182) were randomly assigned in a 1:1 ratio to either the experimental group (EG) or the control group (CG). The EG received 12 weeks of telerehabilitation training with weekly remote monitoring for exercise maintenance and support. The CG received PA counseling only. CRF, PA amounts, exercise self-efficacy, sleep quality, and HRQOL were assessed at baseline and 12 weeks. Generalized estimating equations were used to analyze the intervention effects by examining the interaction between time and group. One hundred twenty-two participants (67 %) completed the study, and 182 were included in the intention-to-treat analysis. The EG had greater walking behavior (&#x3b2; = -763.3, p < 0.001), total amount of PA (&#x3b2;= -711, p = 0.003), exercise self-efficacy (&#x3b2; = -1.19, p < 0.001), and better sleep quality (&#x3b2; = 1.69, p = 0.012) after the 12-weeks of telerehabilitation training than the CG. However, there were no significant differences in any CRF parameters or HRQOL at 12 weeks between the EG and CG. Telerehabilitation training offers a personalized and convenient approach that can increase exercise willingness and PA amounts and improve sleep quality. These findings underscore the potential benefits of telerehabilitation training for promoting healthier lifestyles and improving overall health outcomes. The study was registered at ClinicalTrials.gov (NCT05205460) on January 25, 2022.
+Alcohol consumption affects sleep both in healthy populations and in patients with alcohol use disorder (AUD). However, sleep has typically not been considered within AUD pharmacotherapy trials. We used data from a completed gabapentin clinical treatment trial to explore the medication's effect on patient-rated insomnia measured by a standard insomnia rating (Insomnia Severity Index [ISI]) and whether this influenced gabapentin's effects on alcohol consumption. This study included 90 individuals with current Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition AUD criteria reporting current or past alcohol withdrawal. Participants were assigned to placebo or gabapentin (up to 1200 mg/day) for a 16-week randomized controlled trial with percent heavy drinking days (PHDD) and percent abstinent days (PDA) as outcomes. Utilizing mixed-effects models, this study assessed medication effects on ISI over the trial. We then examined the interaction of baseline ISI and medication on drinking. Finally, given our previous finding of alcohol withdrawal influencing gabapentin efficacy, we added change in ISI as a potential "moderator" of the interaction of medication effects and alcohol withdrawal on drinking. Sleep (ISI) improved more in those treated with gabapentin (60.6% reduction) compared with placebo (37.8% reduction; P = 0.013). Higher baseline ISI predicted drinking in gabapentin-treated individuals (lower PHDD [ P = 0.026] and higher (PDA [ P = 0.047]). ISI was an independent predictor of PHDD decrease and PDA increase ( P < 0.001; P = 0.002), but this did not significantly moderate gabapentin's effectiveness. Although gabapentin positively impacts both alcohol use and sleep, its effect on drinking is not fully dependent on sleep improvement, implying a direct biological mechanism on alcohol use.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.rehab.2024.101853
+- DOI: 10.1097/ADM.0000000000001316
 
 2. Keywords
-- Cardiorespiratory fitness
-- Long COVID
-- Quality of life
-- Sleep quality
-- Telerehabilitation
+
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- Cardiorespiratory fitness assessment methods and outcomes
-- Long COVID assessment methods and outcomes
-- Quality of life assessment methods and outcomes
+- General research methodology and outcomes

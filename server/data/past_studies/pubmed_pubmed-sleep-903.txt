@@ -1,20 +1,26 @@
-Study Title: Treatment of Sleep, Motor and Sensory Symptoms with the Orexin Antagonist Suvorexant in Adults with Idiopathic Restless Legs Syndrome: A Randomized Double-Blind Crossover Proof-of-Concept Study.
+Study Title: Influence of the intelligent knee osteoarthritis lifestyle app (iKOALA) on knee joint pain.
 
 Study Summary:
-Current treatment guidelines for restless legs syndrome (RLS) recommend treatment be initiated with non-dopaminergic drugs. Given the potential role of orexins in the pathophysiology of RLS, we performed a pilot, proof-of-concept study to investigate the therapeutic effects of suvorexant, a dual orexin receptor antagonist (DORA), on sleep and sensory/motor symptoms in individuals with idiopathic RLS. This was a randomized, double-blind, crossover and placebo-controlled study. Inclusion criteria were diagnosis with idiopathic RLS, an International RLS Study Group Severity Rating Scale (IRLS) score > 15, and the absence of significant RLS symptoms before 9 pm. Following washout from any previous central nervous system (CNS)-active drugs, patients were randomized to receive either suvorexant or placebo for two consecutive 2-week treatment periods. Treatment was administered at 9 pm at a fixed dose of 10 mg/day during the first week, and 20 mg during the second week. Primary and coprimary endpoints were wake after sleep onset (WASO) and total sleep time (TST), respectively, while IRLS rating scale score, multiple suggested immobilization tests (m-SIT), and periodic limb movements (PLMs) were secondary endpoints. RLS severity was measured weekly using the IRLS and Clinical Global Improvement (CGI) scales. m-SIT were also performed between 8 pm and midnight at the end of each treatment phase and were followed by a sleep study. A total of 41 participants were randomized, 40 of whom completed the study. Compared with placebo, treatment with suvorexant significantly improved RLS symptoms (according to IRLS total score, CGI, and the m-SIT), PLM during sleep, and PLM with arousal. Improvement of RLS symptoms was greater in those who had not been exposed to dopaminergic agents in the past. Sleep architecture also improved with significant changes in TST, WASO, sleep onset latency, sleep efficiency, non rapid-eye movement stage 1 (N1) %, non rapid-eye movement stage 2 (N2) %, and rapid eye movement (REM) %. Suvorexant was well tolerated in RLS, with few and mild adverse events. Our results provide the first proof of evidence of the therapeutic efficacy of DORAs in improving sleep and sensory and motor symptoms in RLS. Given orexin's role in pain and sensory processing, potential mechanisms of action are discussed. The study provides class II evidence supporting the therapeutic efficacy of suvorexant in patients with RLS with sleep disturbance. EudraCT#: 2017-004580-12.
+The intelligent knee osteoarthritis lifestyle app (iKOALA) has been co-developed with target users to extend the support for physical activity (PA) and musculoskeletal health, beyond short-term structured rehabilitation, using personalised PA guidance, education, and social support. The purpose of this study was to assess the preliminary effectiveness and usability of the iKOALA digital intervention on indices of musculoskeletal (MSK) health, symptoms, and physical activity levels in a broad range of individuals with knee osteoarthritis (KOA) over 12 weeks to inform the design of a larger randomised controlled trial. Thirty-eight (33 female) participants living in the UK with a mean (SD) age of 58 (&#xb1;&#x2009;9) years diagnosed radiographically or clinically with KOA completed a 12-week user trial of the iKOALA. Participants completed an in-app physical activity questionnaire which intelligently recommended suitable strengthening and aerobic based activities to individuals. Throughout the trial, participants wore a physical activity monitor and were given access to functions within the app (physical activity (PA) reminders, information and education, symptom and PA tracking as well as social support forums) to support them in maintaining their PA plan. Participants completed a MSK questionnaire for chronic symptoms and quality of life (MSK-HQ) as well as an acute iKOALA symptoms questionnaire (confidence, fatigue, mood, pain during the day/night, sleep and ability to walk) in the week prior to starting and following completion of the trial. Physical activity levels were consistent over the 12 weeks with total daily steps of 9102 (&#xb1;&#x2009;3514) in week 1, 9576 (&#xb1;&#x2009;4214) in week 6 and 9596 (&#xb1;&#x2009;3694) in week 12. Group mean changes in all iKOALA MSK symptom scores and the total MSK-HQ (pre 33.1 (7.6) vs. post 40.2 (7.6)) score improved significantly (p&#x2009;<&#x2009;.001, 95% CI [-8.89, -5.16]) over the 12-week period. Physical activity levels were maintained at a high level throughout the 12 weeks. Significant improvements in mean MSK symptom scores and the total MSK-HQ score were also observed. Efforts to ensure more generalised reach amongst sex and socioeconomic status of the digital intervention in a randomised controlled clinical trial are warranted.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1007/s40263-023-01055-y
+- DOI: 10.1186/s12891-024-07198-3
 
 2. Keywords
-
+- Digital health
+- Knee osteoarthritis
+- Mobile application
+- Musculoskeletal
+- Physical activity
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- Digital health assessment methods and outcomes
+- Knee osteoarthritis assessment methods and outcomes
+- Mobile application assessment methods and outcomes

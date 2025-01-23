@@ -1,27 +1,20 @@
-Study Title: Clinical Analysis of Different Anesthesia and Analgesia Methods for Patients Undergoing Uniportal Video-assisted Lung Surgery.
+Study Title: Ultrasound-guided transversalis fascia plane block or transversus abdominis plane block for recovery after caesarean section: A randomised clinical trial.
 
 Study Summary:
-The purpose of this study was to compare 3 intraoperative modalities to determine the best and most convenient one for pain control for uniportal lung surgery. This study compared general anesthesia with serratus plane block, general anesthesia with epidural, and general anesthesia alone to examine postoperative pain scores in patients. Eighty patients were enrolled and statistically analyzed. Three interventions were studied: general anesthesia with serratus plane block (group S), general anesthesia with thoracic epidural (group E), and general anesthesia only (group G). Outcome measures compared among the 3 groups included demographic characteristics; surgical types; anesthesia and operative time; postoperative pain scores; vital signs; morphine consumption at 0, 2, and 6 hours and day 1 and day 2 after surgery; incidence of opioid-related adverse events and chronic pain; hospital length of stay (LOS); and overall expenses. The numerical rating scale was used to assess the degree of pain on the first and second postoperative days. Postoperative morphine consumption, incidence of opioid-related side effects, hospital LOS, and overall hospital expenses were documented, as well as incidence of chronic postoperative pain. There was no difference in the incidence of opioid-related adverse events and chronic pain, hospital LOS, and overall expenses among the 3 groups. After investigating factors that may influence hospital LOS and overall expenses, the multivariable analysis indicated that only longer operative time was associated with longer hospital stay and more hospital expenses. This prospective study found that general anesthesia alone offers an easy and efficient approach resulting in similar postoperative pain scores and morphine consumption compared with nerve block and epidural. Longer operative time was associated with longer hospital stay and more hospital expenses. gov identifier: NCT03839160. (Clin Ther. 2024;XX:XXX-XXX) &#xa9; 2024 Elsevier HS Journals, Inc.
+Caesarean section is a widely performed surgical procedure that often results in moderate-to-severe postoperative pain. If left untreated, this pain can lead to short-term and long-term consequences. Transversalis fascia plane (TFP) block and transversus abdominis plane (TAP) block are among the regional anaesthesia techniques employed for managing pain after a caesarean section. We aimed to compare the impact of these two blocks on the quality of recovery in patients undergoing elective caesarean section under spinal anaesthesia. A single-centre, double-blind, randomised trial. Operating room, postanaesthesia recovery unit, and ward in a tertiary hospital. Ninety-three patients (ASA 2 to 3) were recruited. After exclusion, 79 patients were included in the final analysis: 40 in the TFP block group and 39 in the TAP block group. After surgery, participants received either TFP block (20&#x200a;ml 0.25% bupivacaine for each side) or TAP block (20&#x200a;ml 0.25% bupivacaine for each side). The primary outcome was the difference in obstetric quality of recovery 11-Turkish (ObsQoR-11T) scores between groups. Secondary outcomes included pain scores, opioid consumption and incidence of opioid-related complications. The mean ObsQoR-11T score was higher in the TFP block group compared with the TAP block group (97.13&#x200a;&#xb1;&#x200a;6.67 points vs. 87.10&#x200a;&#xb1;&#x200a;9.84 points, respectively; P &#x200a;<&#x200a;0.001). The pain scores in the TFP block group were slightly lower between postoperative 4 and 24&#x200a;h. The mean total morphine consumption was 15.08&#x200a;&#xb1;&#x200a;2.21&#x200a;mg in the TFP block group and 22.21&#x200a;&#xb1;&#x200a;3.04&#x200a;mg in the TAP block group ( P &#x200a;<&#x200a;0.001). More patients required rescue analgesia between 4 and 8&#x200a;h in the TAP block group [2.00 (5.00%) vs. 9.00 (23.08%), P &#x200a;=&#x200a;0.02]. No significant differences were observed between groups in terms of opioid-related side effects. TFP block used for analgesic purposes yielded a better quality recovery period than TAP block and also reduced opioid consumption. Clinicaltrials.gov (NCT05999981). http://links.lww.com/EJA/B6 .
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.clinthera.2024.06.009
+- DOI: 10.1097/EJA.0000000000002041
 
 2. Keywords
-- Enhanced recovery
-- Lung resection
-- Multimodal anesthesia
-- Postoperative pain
-- Uniportal thoracoscopic surgery
+
 
 3. Key Findings
-- After investigating factors that may influence hospital LOS and overall expenses, the multivariable analysis indicated that only longer operative time was associated with longer hospital stay and more hospital expenses
-- This prospective study found that general anesthesia alone offers an easy and efficient approach resulting in similar postoperative pain scores and morphine consumption compared with nerve block and epidural
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Enhanced recovery assessment methods and outcomes
-- Lung resection assessment methods and outcomes
-- Multimodal anesthesia assessment methods and outcomes
+- General research methodology and outcomes

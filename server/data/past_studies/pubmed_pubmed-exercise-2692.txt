@@ -1,27 +1,30 @@
-Study Title: Effectiveness of high intensity and sprint interval training on metabolic biomarkers, body composition, and physical fitness in adolescents: randomized controlled trial.
+Study Title: Randomized Crossover Trial of 2-Week Ketone Ester Treatment in Patients With Type 2 Diabetes and Heart Failure With Preserved Ejection Fraction.
 
 Study Summary:
-The aim of this study was to evaluate the effect of HIIT and SIT programmes on body composition, blood pressure, lipid profile, glucose, cardiorespiratory fitness, and strength of adolescents and to compare the effect between those different protocols. Sixty adolescents were recruited from a high school and were randomly placed into three groups. SIT and HIIT undertook a training for 8&#x2009;weeks, twice a week, for 12&#x2009;min per session, during their Physical Education lessons. SIT group performed 6 sets of 60&#x2009;s of work (90-95%HRmax) / 60&#x2009;s of rest (50-55%HRmax), and HIIT group performed 3 sets of 2&#x2009;min of work (80-85%HRmax) / 2&#x2009;min of rest (50-55%HRmax). After adjustment by sex, both experimental groups exhibited a significant reduction in fat mass (&#x2009;<&#x2009;0.01), and trunk fat mass (&#x2009;<&#x2009;0.01), as well as a significant increase in lean mass (&#x2009;=&#x2009;0.01; <0.01), hand-grip strength (&#x2009;<&#x2009;0.01) and standing long jump (&#x2009;=&#x2009;0.05-0.04, respectively). In addition, HIIT showed a significant (&#x2009;<&#x2009;0.05) improvement in blood pressure, diastolic blood pressure, heart rate and VO2max, and a tendency toward a significant reduction in low density lipoprotein. The implementation of a HIIT protocol within high school Physical Education sessions, maintained for 8&#x2009;weeks, at a rate of 3 sets of 2&#x2009;min of work (80-85% RHR)/2&#x2009;min of rest (50-55% RHR) generated adaptations such as improved fitness condition, changes in body composition, and improvements in blood parameters and blood pressure. However, the group of adolescents who performed SIT, shorter but more intense sets, did not experience as many benefits.
+Heart failure with preserved ejection fraction (HFpEF) is a major cause of morbidity and mortality in patients with type 2 diabetes (T2D). Acute increases in circulating levels of ketone body 3-hydroxybutyrate have beneficial acute hemodynamic effects in patients without T2D with chronic heart failure with reduced ejection fraction. However, the cardiovascular effects of prolonged oral ketone ester (KE) treatment in patients with T2D and HFpEF remain unknown. A total of 24 patients with T2D and HFpEF completed a 6-week randomized, double-blind crossover study. All patients received 2 weeks of KE treatment (25 g D-&#xdf;-hydroxybutyrate-(R)-1,3-butanediol &#xd7; 4 daily) and isocaloric and isovolumic placebo, separated by a 2-week washout period. At the end of each treatment period, patients underwent right heart catheterization, echocardiography, and blood samples at trough levels of intervention, and then during a 4-hour resting period after a single dose. A subsequent second dose was administered, followed by an exercise test. The primary end point was cardiac output during the 4-hour rest period. During the 4-hour resting period, circulating 3-hydroxybutyrate levels were 10-fold higher after KE treatment (1010&#xb1;56 &#xb5;mol/L;<0.001) compared with placebo (91&#xb1;55 &#xb5;mol/L). Compared with placebo, KE treatment increased cardiac output by 0.2 L/min (95% CI, 0.1 to 0.3) during the 4-hour period and decreased pulmonary capillary wedge pressure at rest by 1 mm&#x2009;Hg (95% CI, -2 to 0) and at peak exercise by 5 mm&#x2009;Hg (95% CI, -9 to -1). KE treatment decreased the pressure-flow relationship (&#x2206; pulmonary capillary wedge pressure/&#x2206; cardiac output) significantly during exercise (<0.001) and increased stroke volume by 10 mL (95% CI, 0 to 20) at peak exercise. KE right-shifted the left ventricular end-diastolic pressure-volume relationship, suggestive of reduced left ventricular stiffness and improved compliance. Favorable hemodynamic responses of KE treatment were also observed in patients treated with sodium-glucose transporter-2 inhibitors and glucagon-like peptide-1 analogs. In patients with T2D and HFpEF, a 2-week oral KE treatment increased cardiac output and reduced cardiac filling pressures and ventricular stiffness. At peak exercise, KE treatment markedly decreased pulmonary capillary wedge pressure and improved pressure-flow relationship. Modulation of circulating ketone levels is a potential new treatment modality for patients with T2D and HFpEF. URL: https://www.clinicaltrials.gov; Unique Identifier: NCT05236335.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3389/fpubh.2024.1425191
+- DOI: 10.1161/CIRCULATIONAHA.124.069732
 
 2. Keywords
-- HIIT
-- SIT
-- blood pressure
-- cardiovascular
+- 3-hydroxybutyrate
+- cardiac output
+- esters
 - exercise
-- physical activity
+- heart failure, diastolic
+- hemodynamics
+- ketone ester
+- ketones
+- metabolism
 
 3. Key Findings
-- In addition, HIIT showed a significant (&#x2009;<&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- HIIT assessment methods and outcomes
-- SIT assessment methods and outcomes
-- blood pressure assessment methods and outcomes
+- 3-hydroxybutyrate assessment methods and outcomes
+- cardiac output assessment methods and outcomes
+- esters assessment methods and outcomes

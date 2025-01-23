@@ -1,26 +1,31 @@
-Study Title: Predictors of clinical worsening during a discontinuation trial of serotonin reuptake inhibitors for obsessive compulsive disorder.
+Study Title: Community-based group rehabilitation program for stroke patients with dysphagia on quality of life, depression symptoms, and swallowing function: a randomized controlled trial.
 
 Study Summary:
-To explore predictors and moderators of clinical worsening during a double-blind trial in which patients with obsessive-compulsive disorder (OCD) were randomized to either continue or discontinue their Serotonin Reuptake Inhibitor (SRI) medication after achieving wellness from the addition of exposure and response prevention (EX/RP) therapy. The data came from a double-blind discontinuation trial that included N&#xa0;=&#xa0;101 participants, 35 of whom were removed from the study due to clinical worsening. We first used LASSO logistic regression to identify which of the 34 potential baseline variables of interest (including demographics, diagnoses, other relevant clinical constructs, and specific genotypes), might moderate or predict this clinical worsening. Then logistic regression was used to examine which of these identified variables were significantly related to later clinical worsening. We verified the validity of our final prediction model using k-fold cross-validation. There was one significant predictor of clinical worsening: In both groups, those with more past diagnoses had a greater likelihood of clinical worsening (p&#xa0;=&#xa0;.015). There were several moderators. Rates of clinical worsening were higher in the Discontinuation group compared to the Continuation group for participants who were taking a shorter half-life SRI (p&#xa0;=&#xa0;.044), were female (p&#xa0;=&#xa0;.022), had higher baseline levels of maladaptive metacognitions (p&#xa0;<&#xa0;.001), had fewer sleep problems at baseline (p&#xa0;=&#xa0;.001), and/or had more years of education (p&#xa0;<&#xa0;.001). Our results identified several factors that may predict the development of clinical worsening in OCD patients discontinuing SRI medication following successful EX/RP treatment.
+Community-based exercise programs have demonstrated potential for implementation in older adults; however, it remains imperative to ascertain whether this strategy will yield comparable benefit in stroke patients with dysphagia. This was a single blinded, randomized, matched pairs clinical trial. Sixty-four stroke patients with dysphagia were recruited from patients who had been discharged the Rehabilitation Department of the Third Affiliated Hospital of Sun Yat-sen University. A single blinded, randomized and controlled trial was conducted. Participants were randomly assigned to either the intervention group (n&#xa0;=&#x2009;32) or the control group (n&#xa0;=&#x2009;32). Patients in the intervention group received health education followed by swallowing function training in community public spaces for 5 days every week over an eight-week period (60&#x2009;minutes per day). Patients in the control group received swallowing rehabilitation training, and booster educational information about dysphagia, as well as instructions on how to improve quality of life. Swallowing function (Functional Oral Intake Scale (FOIS) and Standardized Swallowing Assessment (SSA)), depressive symptoms (Geriatric Depression Scale-15), and quality of life (Swallowing-Quality of Life, SWAL-QOL) were assessed before and after all the treatment. Before treatment, the two groups did not differ statistically. After the intervention, the swallowing function (SSA and FOIS) showed a significant improvement in both groups (All p&#xa0;<&#x2009;0.001). But there was no significant difference in Functional Oral Intake Scale change between groups (P&#xa0;=&#x2009;0.479). Compared with the control group, the intervention group had a significant improvement in depressive symptoms (P&#xa0;=&#x2009;0.002), with a greater reduction in the number of depressed patients (13 to 6).The control group showed no significant improvements in depressive symptoms or a reduction in the number of depressed patients before and after treatment (P&#xa0;=&#x2009;0.265, 14 to 12). The Swallowing-Quality of Life scores showed significant improvement in both the intervention and control group (P&#xa0;<&#x2009;0.001). Specifically within Swallowing-Quality of Life sub-domains, greater changes were observed in symptoms and frequency (P&#xa0;<&#x2009;0.001), communication (P&#xa0;=&#x2009;0.012), and sleep (P&#xa0;=&#x2009;0.006) for participants in the intervention group. And the cost-effectiveness of group rehabilitation surpasses that of rehabilitation training. Community-based group rehabilitation program is more effective than traditional treatment in improving patients' depressive symptoms and quality of life, as well as being more cost-effective.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.janxdis.2023.102805
+- DOI: 10.1186/s12877-023-04555-0
 
 2. Keywords
-- Clinical worsening
-- Machine learning, EX/RP
-- Moderators
-- OCD
-- Predictors
+- Deglutition
+- Depression
+- Dysphagia
+- Group rehabilitation
+- Quality of life
+- Stroke
+- Swallowing function
 
 3. Key Findings
-- Findings extraction requires manual review
+- Community-based exercise programs have demonstrated potential for implementation in older adults; however, it remains imperative to ascertain whether this strategy will yield comparable benefit in stroke patients with dysphagia
+- After the intervention, the swallowing function (SSA and FOIS) showed a significant improvement in both groups (All p&#xa0;<&#x2009;0
+- The control group showed no significant improvements in depressive symptoms or a reduction in the number of depressed patients before and after treatment (P&#xa0;=&#x2009;0
+- The Swallowing-Quality of Life scores showed significant improvement in both the intervention and control group (P&#xa0;<&#x2009;0
 
 This study provides insights into:
-- Clinical worsening assessment methods and outcomes
-- Machine learning, EX/RP assessment methods and outcomes
-- Moderators assessment methods and outcomes
+- Deglutition assessment methods and outcomes
+- Depression assessment methods and outcomes
+- Dysphagia assessment methods and outcomes

@@ -1,26 +1,26 @@
-Study Title: Association between physical activity and costs in very mild to moderately frail community-dwelling older adults: a cross-sectional study.
+Study Title: Acute ingestion of caffeinated chewing gum reduces fatigue index and improves 400-meter performance in trained sprinters: a double-blind crossover trial.
 
 Study Summary:
-Physical activity (PA) plays a vital role in maintaining the functional ability that enables well-being in older age (healthy aging), potentially also saving costs for the healthcare system and society. The aim of this study was to examine the association between PA and healthcare and societal costs in a sample of very mild to moderately frail older adults. This cross-sectional study is a secondary analysis using baseline data from the PromeTheus randomized-controlled trial, which included 385 very mild to moderately frail community-dwelling older adults (70&#x2009;+&#x2009;years) from Germany. Participants self-reported their health-related resource use in the previous 6 months (FIMA questionnaire), which was monetarily valued using standardized unit costs. PA was also self-reported using the German Physical Activity Questionnaire for middle-aged and older adults (German-PAQ-50+) and categorized as 'insufficient'/'sufficient' or 'insufficient'/'moderate'/'high' in accordance with the World Health Organization guidelines for PA. Mean and median healthcare costs (including outpatient, inpatient, rehabilitation, formal care, and medication costs) and societal costs (healthcare costs plus informal care costs) for different PA groups were estimated using generalized linear models and quantile regression, with sociodemographic variables and physical capacity (Short Physical Performance Battery) as covariates. Of the sample, 24% were classified as insufficiently, 23% as moderately, and 54% as highly active. Sufficient PA, especially high PA, was associated with lower costs in the 6 months prior to data collection compared to insufficient PA (-&#x20ac;6,237, 95% CI [-10,656; -1,817] and -&#x20ac;8,333, 95% CI [-12,183; -4,483], respectively). The cost difference between PA intensity groups was largely driven by differences in informal care costs and decreased substantially when physical capacity was accounted for in the analyses; e.g., the mean difference in societal costs between sufficient and insufficient PA decreased from -&#x20ac;7,615 (95% CI [-11,404; -3,825]) to -&#x20ac;4,532 (95% CI [-7,930; -1,133]). Promoting PA throughout the lifespan as a means of promoting healthy aging and reducing dependency in old age could potentially provide economic benefits and help to mitigate the economic consequences of an aging population with increasing health and long-term care needs. Future longitudinal studies should attempt to disentangle the mediating and confounding role of physical capacity and health status in the association between PA and costs.
+This study investigated the effects of caffeinated chewing gum on fatigue index and 400-meter performance in trained sprinters. Nineteen participants (age: 20.9&#x2009;&#xb1;&#x2009;1.0&#x2009;years; height: 175.6&#x2009;&#xb1;&#x2009;4.9&#x2009;cm; mass: 66.5&#x2009;&#xb1;&#x2009;5.6&#x2009;kg; training age: 7.9&#x2009;&#xb1;&#x2009;1.0&#x2009;years) were randomly assigned to either a caffeine trial (CAF) or a placebo trial (PL) using a double-blind, randomized crossover design. The participants in the CAF trial chewed a gum containing 3&#x2009;mg/kg of caffeine for a period of 10&#x2009;minutes, while those in the PL trial chewed a gum containing a placebo with no caffeine. Following a 15-minute period of rest, the fatigue index was tested by six maximal 35-meter sprints with a 10-second rest between efforts. After this, at least 30&#x2009;minutes of rest was permitted, during which time the participants engaged in brief warm-up activities prior to the commencement of the 400-meter sprint test. Saliva samples were collected before chewing gum, before the fatigue test and before 400-meters sprinting. The fatigue index was significantly lower in the CAF trial compared to the PL trial (CAF: 8.1&#x2009;&#xb1;&#x2009;2.5%; PL: 9.6&#x2009;&#xb1;&#x2009;4.8%;&#x2009;=&#x2009;0.046, Cohen's d&#x2009;=&#x2009;039). The CAF trial demonstrated significantly lower sprint time for the 300-400&#x2009;meter segment (CAF: 14.73&#x2009;&#xb1;&#x2009;1.35&#x2009;seconds; PL: 15.23&#x2009;&#xb1;&#x2009;1.30&#x2009;seconds;&#x2009;=&#x2009;0.019, Cohen's d&#x2009;=&#x2009;0.37) and total sprint time compared to the PL trial (CAF: 53.87&#x2009;&#xb1;&#x2009;2.88&#x2009;seconds; PL: 54.68&#x2009;&#xb1;&#x2009;3.37&#x2009;seconds;&#x2009;=&#x2009;0.003, Cohen's d&#x2009;=&#x2009;0.27). Saliva caffeine and &#x3b1;-amylase concentration were significantly higher in the CAF trial compared to the PL trial (&#x2009;<&#x2009;0.05). The present study demonstrated that caffeine gum supplementation prior to exercise significantly reduced the fatigue index and increased the capacity to maintain speed, particularly in the final 300 to 400 meters, as well as enhancing 400-meter sprint performance.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12889-024-20253-x
+- DOI: 10.1080/15502783.2024.2414871
 
 2. Keywords
-- Cost
-- Exercise
-- Frailty
-- Healthy aging
-- Physical activity
+- athletes
+- ergogenic aids
+- nutrition
+- &#x3b1;-amylase
 
 3. Key Findings
-- Future longitudinal studies should attempt to disentangle the mediating and confounding role of physical capacity and health status in the association between PA and costs
+- The CAF trial demonstrated significantly lower sprint time for the 300-400&#x2009;meter segment (CAF: 14
+- The present study demonstrated that caffeine gum supplementation prior to exercise significantly reduced the fatigue index and increased the capacity to maintain speed, particularly in the final 300 to 400 meters, as well as enhancing 400-meter sprint performance
 
 This study provides insights into:
-- Cost assessment methods and outcomes
-- Exercise assessment methods and outcomes
-- Frailty assessment methods and outcomes
+- athletes assessment methods and outcomes
+- ergogenic aids assessment methods and outcomes
+- nutrition assessment methods and outcomes

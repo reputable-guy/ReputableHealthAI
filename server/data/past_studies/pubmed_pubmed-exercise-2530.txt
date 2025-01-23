@@ -1,26 +1,28 @@
-Study Title: Effects of a motor and cognitive training program on executive function and different biomarkers related to muscle-brain crosstalk in breast cancer survivors: 3-arm randomised controlled BRAINonFIT study protocol.
+Study Title: The impact of a 10-week Nordic hamstring exercise programme on hamstring muscle stiffness, a randomised controlled trial using shear wave elastography.
 
 Study Summary:
-Cancer-related cognitive impairment (CRCI) is a significant but often neglected issue for breast cancer survivors that reduces their quality of life. Physical exercise and cognitive training have emerged as promising strategies for CRCI; however, evidence regarding its effectiveness is still unknown. A recently developed motor-cognitive training (dual-tasks) is proposed to examine its efficacy on executive function, physical fitness, emotional symptomatology, and important muscle-brain crosstalk biomarkers. The BRAINonFIT study is a randomised, controlled, longitudinal (20&#xa0;weeks), three-arm, parallel study with a follow-up phase (12&#xa0;weeks). Breast cancer survivors (stage I-IIIA) with completed chemotherapy are recruited from Quir&#xf3;nSalud Hospital in Seville. Principal outcomes are executive functions, measured by the Trail Making Test, Stroop and Digit Span Backwards; physical fitness, assessed by muscle strength, cardiorespiratory fitness, and body composition; and several muscle-brain biomarkers analysed by immunoenzymatic assay (ELISA). Secondary endpoints are memory function, intelligence, learning ability, self-reported cognitive function, and emotional symptomatology. Assessments take place after the enrolment (baseline; T), after completing the interventions (5&#xa0;months after baseline; T), and after completing the follow-up period (8&#xa0;months after baseline; T). Given the importance of improving care for breast cancer survivors, this study will provide preliminary evidence for the effectiveness of cognitive-motor training (dual task) as a therapeutic strategy to improve CRCI. Moreover, addressing muscle-brain crosstalk by representative biomarkers will help to elucidate the underlying mechanisms by which this intervention may beneficially impact CRCI. gov: NCT06073717.
+Hamstring strain injuries (HSIs) remain a burden with high prevalence rates. The Nordic Hamstring exercise (NHE) has been found to be effective in preventing HSIs. However, the preventive mechanisms are not fully understood. Changes in stiffness are postulated as a possible protective mechanism. Surprisingly, the effect of the NHE on the stiffness of different hamstring muscles has never been investigated before. Therefore, the aim of this Randomised controlled trial was to investigate the impact of a 10-week NHE programme on the eccentric strength and the shear wave velocity (proxy of stiffness) of the hamstrings. Thirty-six soccer players were randomly assigned to either the control or the experimental group. The experimental protocol consisted of the incorporation of a 10-week NHE programme within the normal training routine. The hamstring stiffness and eccentric strength were assessed before and after. Within-group analyses showed a significant increase in strength, only for the experimental group. However, no significant effect of the NHE was found on the stiffness of each hamstring muscle. A 10-week NHE programme does not affect hamstring stiffness, despite an increase in eccentric strength, indicating that the preventive mechanism of the NHE is probably not (co-)explained by alterations in hamstring muscle stiffness.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.cct.2024.107672
+- DOI: 10.1080/02640414.2024.2402163
 
 2. Keywords
-- Breast cancer survivors
-- Cancer-related cognitive impairment
-- Cognitive stimulation
-- Dual motor-cognitive tasks
-- Physical exercise
+- Nordic hamstring exercise
+- Shear wave elastography
+- eccentric hamstring strength
+- shear wave velocity
+- soccer players
 
 3. Key Findings
-- Findings extraction requires manual review
+- The Nordic Hamstring exercise (NHE) has been found to be effective in preventing HSIs
+- Within-group analyses showed a significant increase in strength, only for the experimental group
+- However, no significant effect of the NHE was found on the stiffness of each hamstring muscle
 
 This study provides insights into:
-- Breast cancer survivors assessment methods and outcomes
-- Cancer-related cognitive impairment assessment methods and outcomes
-- Cognitive stimulation assessment methods and outcomes
+- Nordic hamstring exercise assessment methods and outcomes
+- Shear wave elastography assessment methods and outcomes
+- eccentric hamstring strength assessment methods and outcomes

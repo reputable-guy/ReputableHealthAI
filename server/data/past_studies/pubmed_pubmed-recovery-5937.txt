@@ -1,26 +1,26 @@
-Study Title: Plasma-Induced Changes in the Metabolome Following Vistula Tart Cherry Consumption.
+Study Title: Effects of photobiomodulation therapy on muscle function in individuals with multiple sclerosis.
 
 Study Summary:
-Evidence suggests that tart cherry (TC) supplementation has beneficial effects on health indices and recovery following strenuous exercise. However, little is known about the mechanisms and how TC might modulate the human metabolome. The aim of this study was to evaluate the influence of an acute high- and low-dose of Vistula TC supplementation on the metabolomic profile in humans. In a randomised, double-blind, placebo controlled, cross-over design, 12 healthy participants (nine male and three female; mean &#xb1; SD age, stature, and mass were 29 &#xb1; 7 years old, 1.75 &#xb1; 0.1 m, and 77.3 &#xb1; 10.5 kg, respectively) visited the laboratory on three separate occasions (high dose; HI, low dose; LO, or placebo), separated by at least seven days. After an overnight fast, a baseline venous blood sample was taken, followed by consumption of a standardised breakfast and dose conditions (HI, LO, or placebo). Subsequent blood draws were taken 1, 2, 3, 5, and 8 h post consumption. Following sample preparation, an untargeted metabolomics approach was adopted, and the extracts analysed by LCMS/MS. When all time points were collated, a principal component analysis showed a significant difference between the conditions (< 0.05), such that the placebo trial had homogeneity, and HI showed greater heterogeneity. In a sub-group analysis, cyanidine-3--glucoside (C3G), cyanidine-3--rutinoside (C3R), and vanillic acid (VA) were detected in plasma and showed significant differences (< 0.05) following acute consumption of Vistula TC, compared to the placebo group. These results provide evidence that phenolics are bioavailable in plasma and induce shifts in the metabolome following acute Vistula TC consumption. These data could be used to inform future intervention studies where changes in physiological outcomes could be influenced by metabolomic shifts following acute supplementation.
+In people with multiple sclerosis (pwMS), muscle fatigue and weakness are common issues that can interfere with daily activities. Photobiomodulation therapy (PBMT), comprising light in a 600-1100 nm bandwidth, is a low-level laser therapy thought to improve muscle performance in non-disease populations, in part, by improving mitochondrial function and thus, might be beneficial in pwMS. Given this potential, we aimed to investigate the effects of PBMT on muscle performance in pwMS, both in the short-term and over an extended period. This study consisted of two parts with a randomized double-blind crossover design. In study I, muscle function was assessed in four sessions before and after PBMT in ambulatory pwMS (N = 17, F = 14) as follows: maximal voluntary contraction (MVC) and muscle fatigue of the right tibialis anterior (TA) muscle was compared at baseline and following a two-min submaximal fatiguing contraction. Then, PBMT was administered to the belly of TA muscle at different doses of energy of an active device (40 J, 80 J, 120 J) or placebo. The muscle function assessment was then repeated. muscle force recovery (%), muscle fatigue (%). Statistical tests included McNemar's exact test, Wilcoxon signed-rank test, and the Friedman test. In study II, a subgroup from study I (N = 12, F = 11) received individualized doses (i.e., best dose-effect observed in study I) of active, or placebo PBMT, which was administered on the TA muscle for two weeks. Muscle function assessments were performed pre- and post-PBMT in four sessions similar to study I. Baseline strength (N), endurance time (s), and muscle fatigue (%). The Wilcoxon signed-rank test was used for statistical analysis. Values are reported as mean (SD). In study I, participants who received a high dose of PBMT showed significant improvement in force recovery (101.89 % (13.55 %)) compared to the placebo group (96.3 % (18.48 %); p = 0.03). Muscle fatigue did not significantly improve with either active PBMT or placebo. In study II, active PBMT resulted in a significant improvement in muscle strength compared to both the baseline (pre-PBMT = 162.70 N (37.52 N); post-PBMT = 185.56 N (33.95 N); p = 0.01) and the placebo group (active PBMT: mean-change = 22.87 N (23.67 N); placebo: mean-change = -4.12 N (31.95 N); p = 0.02). Endurance time and muscle fatigue did not show significant improvement with either active PBMT or placebo. Our findings suggest that an individualized dose of PBMT might improve muscle performance, including force recovery and strength in individuals with mild-moderate MS. Therefore, PBMT might be a novel therapeutic modality, either as a standalone treatment or in combination with other interventions, to improve muscle performance in pwMS.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/nu16071023
+- DOI: 10.1016/j.msard.2024.105598
 
 2. Keywords
-- bioavailability
-- metabolome
-- tart cherry
+- Endurance
+- Low-level laser therapy
+- Multiple sclerosis
+- Muscle fatigue
+- Strength
 
 3. Key Findings
-- When all time points were collated, a principal component analysis showed a significant difference between the conditions (< 0
-- 05), such that the placebo trial had homogeneity, and HI showed greater heterogeneity
-- In a sub-group analysis, cyanidine-3--glucoside (C3G), cyanidine-3--rutinoside (C3R), and vanillic acid (VA) were detected in plasma and showed significant differences (< 0
+- In study I, participants who received a high dose of PBMT showed significant improvement in force recovery (101
 
 This study provides insights into:
-- bioavailability assessment methods and outcomes
-- metabolome assessment methods and outcomes
-- tart cherry assessment methods and outcomes
+- Endurance assessment methods and outcomes
+- Low-level laser therapy assessment methods and outcomes
+- Multiple sclerosis assessment methods and outcomes

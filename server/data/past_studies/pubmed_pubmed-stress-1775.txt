@@ -1,25 +1,28 @@
-Study Title: Predictors of concerned others' mental health and quality of life over 12&#xa0;months following adults' entry into treatment for an alcohol use disorder.
+Study Title: Effects of a brief intervention based on Acceptance and Commitment Therapy versus usual care for cardiac rehabilitation patients with coronary heart disease (ACTonHEART): a randomised controlled trial.
 
 Study Summary:
-People in treatment for alcohol use disorders (AUDs) can negatively impact their Concerned Others (COs). This longitudinal study examined patient and CO characteristics associated with CO outcomes. Participants were 279 dyads of patients entering residential treatment and their CO. Outcomes were COs' mental health and quality of life. The study collected patient and CO predictors and CO outcomes at baseline and 3-, 6-, and 12-month follow-ups as part of a randomized controlled trial. In the first set of models, the analytic approach identified baseline patient predictors associated with COs' outcomes measured at baseline and follow-ups. In the second set of models, we examined whether those effects remained after adding baseline CO characteristics. In the first set of models, COs of older age and whose patient reported less CO-patient relationship stress had better mental health. Also, married COs and those with higher income and whose patient reported no violence in the CO-patient relationship had better quality of life. In the second set of models, COs whose patient entered treatment due to criminal justice involvement, with more social support, less reported stigma, and less use of avoidance coping had better mental health. Also, married COs, those with higher income, and less reported discrimination stigma had better quality of life. Understanding patient and CO characteristics that are associated with COs' outcomes may inform AUD treatment programs' efforts to help COs. Identifying modifiable determinants of CO outcomes is important to clinical practice regardless of whether the patient chooses to obtain treatment.
+The main objective of the study is to investigate the short-term efficacy of Acceptance and Commitment Therapy (ACT) on the simultaneous modification of biological indicators of risk and psychological well-being in patients with coronary heart disease attending cardiac rehabilitation (CR). This was a two-arm randomised controlled trial comparing a brief, manualised, ACT-based intervention with usual care (UC). The study was conducted in an outpatient CR unit in Italy. Data collection took place from January 2016 to July 2017. Ninety-two patients were enrolled and randomised, following an unbalanced randomisation ratio of 2:1 to the ACT group (n=59) and the control group (n=33). Eighty-five patients completed the ACT (n=54) and the UC (n=31) interventions and were analysed. The control group received UC, a 6&#x2009;weeks multidisciplinary outpatient CR programme, encompassing exercise training, educational counselling and medical examinations. The experimental group, in addition to UC, participated in the Acceptance and Commitment Therapy on HEART disease (ACTonHEART) intervention encompassing three group sessions based on ACT. The primary outcomes were Low Density Lipoproteins (LDL)cholesterol, resting systolic blood pressure, body mass index (BMI) and psychological well-being measured by the Psychological General Well-Being Index (PGWBI). Outcome measures were assessed at baseline and at the end of CR. Based on linear mixed models, no significant group &#xd7; time interaction was observed for either the primary outcomes (&#x3b2;, 95% CI: PGWBI =-1.13, -6.40 to -4.14; LDL cholesterol =-2.13, -11.02 to -6.76; systolic blood pressure =-0.50, -10.76 to -9.76; diastolic blood pressure =-2.73, -10.12 to -4.65; BMI =-0.16, -1.83 to -1.51, all p values >0.05) or the secondary outcomes (all p values >0.05). A significant time effect was found for the PGWBI total (beta=4.72; p=0.03). Although analyses revealed null findings, the results can inform the design of future ACT-based CR interventions and can help researchers to strike a balance between the idealised implementation of an ACT intervention and the structural limitations of existing CR programmes. NCT01909102.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.josat.2024.209434
+- DOI: 10.1136/bmjopen-2024-084070
 
 2. Keywords
-- Alcohol use disorder
-- Concerned other-patient dyads
-- Concerned others
-- Treatment
+- coronary heart disease
+- ischaemic heart disease
+- psychosocial intervention
+- quality of life
+- randomized controlled trial
+- stress, psychological
 
 3. Key Findings
-- Findings extraction requires manual review
+- A significant time effect was found for the PGWBI total (beta=4
+- Although analyses revealed null findings, the results can inform the design of future ACT-based CR interventions and can help researchers to strike a balance between the idealised implementation of an ACT intervention and the structural limitations of existing CR programmes
 
 This study provides insights into:
-- Alcohol use disorder assessment methods and outcomes
-- Concerned other-patient dyads assessment methods and outcomes
-- Concerned others assessment methods and outcomes
+- coronary heart disease assessment methods and outcomes
+- ischaemic heart disease assessment methods and outcomes
+- psychosocial intervention assessment methods and outcomes

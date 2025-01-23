@@ -1,27 +1,26 @@
-Study Title: Neurobehavioral functions during recurrent periods of sleep restriction: effects of intra-individual variability in sleep duration.
+Study Title: Telemedicine management of obstructive sleep apnea disorder in China: a randomized, controlled, non-inferiority trial.
 
 Study Summary:
-To investigate whether neurobehavioral impairments are exacerbated during successive cycles of sleep restriction and recovery in young adults, and whether a variable short sleep schedule can mitigate these impairments relative to a stable one. Fifty-two healthy young adults (25 males, aged: 21-28) were randomly assigned to the stable short sleep group, the variable short sleep group, or the control group in this laboratory-based study. They underwent two baseline nights of 8-hour time-in-bed (TIB), followed by two cycles of "weekday" sleep opportunity manipulation and "weekend" recovery (8-hour TIB). During each manipulation period, the stable short sleep and the control groups received 6- and 8-hour TIBs each night respectively, while the variable short sleep group received 8-hour, 4-hour, 8-hour, 4-hour, and 6-hour TIBs from the first to the fifth night. Neurobehavioral functions were assessed five times each day. The stable short sleep group showed faster vigilance deterioration in the second week of sleep restriction as compared to the first. This effect was not observed in the variable short sleep group. Subjective alertness and practice-based improvement in processing speed were attenuated in both short sleep groups. In young adults, more variable short sleep schedules incorporating days of prophylactic or recovery sleep might mitigate compounding vigilance deficits resulting from recurrent cycles of sleep restriction. However, processing speed and subjective sleepiness were still impaired in both short sleep schedules. Getting sufficient sleep consistently is the only way to ensure optimal neurobehavioral functioning. Performance, Mood, and Brain and Metabolic Functions During Different Sleep Schedules (STAVAR), https://www.clinicaltrials.gov/study/NCT04731662, NCT04731662.
+Previous studies assessed different components of telemedicine management pathway for OSA instead of the whole pathway. This randomized, controlled, and non-inferiority trial aimed to assess whether telemedicine management is clinically inferior to in-person care in China. Adults suspected of OSA were randomized to telemedicine (web-based questionnaires, self-administered home sleep apnea test [HSAT], automatically adjusting positive airway pressure [APAP], and video-conference visits) or in-person management (paper questionnaires, in-person HSAT set-up, APAP, and face-to-face visits). Participants with an apnea-hypopnea index (AHI)&#x2009;&#x2265;&#x2009;15 events/hour received APAP for 3&#xa0;months. The non-inferiority analysis was based on the change in Functional Outcomes of Sleep Questionnaire (FOSQ) score and APAP adherence. Cost-effectiveness analysis was performed. In the modified intent-to-treat analysis set (n&#x2009;=&#x2009;111 telemedicine, 111 in-person), FOSQ scores improved 1.73 (95% confidence interval [CI], 1.31-2.14) points with telemedicine and 2.05 (1.64-2.46) points with in-person care. The lower bound of the one-sided 95% non-inferiority CI for the difference in change between groups of&#x2009;-&#x2009;0.812 was larger than the non-inferiority threshold of&#x2009;-&#x2009;1. APAP adherence at 3&#xa0;months was 243.3 (223.1-263.5) minutes/night for telemedicine and 241.6 (221.3-261.8) minutes/night for in-person care. The lower bound of the one-sided 95% non-inferiority CI of&#x2009;-&#x2009;22.2&#xa0;min/night was higher than the non-inferiority delta of&#x2009;-&#x2009;45&#xa0;min/night. Telemedicine had lower total costs than in-person management (CNY 1482.7&#x2009;&#xb1;&#x2009;377.2 vs. 1912.6&#x2009;&#xb1;&#x2009;681.3; p&#x2009;<&#x2009;0.0001), driven by patient costs, but no significant difference in QALYs. Functional outcomes and adherence were not clinically inferior in patients managed by a comprehensive telemedicine approach compared to those receiving in-person care in China. https://www.chictr.org.cn , Registration number ChiCTR2000030546. Retrospectively registered on March 06, 2020.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/sleep/zsae010
+- DOI: 10.1007/s11325-024-02994-6
 
 2. Keywords
-- affect
-- cognitive performance
-- intra-individual sleep variability
-- partial sleep deprivation
-- recovery sleep
-- sleepiness
+- Cost-effectiveness
+- Home sleep apnea test
+- Non-inferior analysis
+- Obstructive sleep apnea
+- Telemedicine
 
 3. Key Findings
-- The stable short sleep group showed faster vigilance deterioration in the second week of sleep restriction as compared to the first
+- Findings extraction requires manual review
 
 This study provides insights into:
-- affect assessment methods and outcomes
-- cognitive performance assessment methods and outcomes
-- intra-individual sleep variability assessment methods and outcomes
+- Cost-effectiveness assessment methods and outcomes
+- Home sleep apnea test assessment methods and outcomes
+- Non-inferior analysis assessment methods and outcomes

@@ -1,20 +1,31 @@
-Study Title: A Comprehensive, Community-Based Coalition to Address Racial Disparities in Chronic Disease: REACH in Allegheny County, Pennsylvania.
+Study Title: Feasibility and impact of ketogenic dietary interventions in polycystic kidney disease: KETO-ADPKD-a randomized controlled trial.
 
 Study Summary:
-Funded by the Centers for Disease Control and Prevention Racial and Ethnic Approaches to Community Health Initiative, Live Well Allegheny: Lifting Wellness for African Americans (LWA) in Allegheny County, Pennsylvania, aims to enhance health equity by addressing chronic disease in six African American communities via three key strategies: nutrition, physical activity, and community-clinical linkages. This manuscript describes the coalition's partnership dynamics and evaluation methods with a focus on nutrition strategies. We have a network of committed partners implementing the strategies and we are evaluating our efforts using community asset mapping, county population-based survey data, qualitative process interviews, focus groups, and program performance measures. The LWA coalition is the culmination of years of partnership building, which allows for more targeted activities related to health equity in the region. Thus far, the LWA coalition is thriving. The network of committed and talented partners in the nutrition strategy (healthy nutrition standards, food systems, and breastfeeding) reached 22 sites and more than 46,000 people during the first 2 years of the project. Process interviews conducted as part of the evaluation identified challenges and successes of implementation, and development of the coalition. This comprehensive evaluation approach supports formative processes, evaluation metrics, and prolonged sustainability plans of this community-based coalition.
+Ketogenic dietary interventions (KDIs) are beneficial in animal models of autosomal-dominant polycystic kidney disease (ADPKD). KETO-ADPKD, an exploratory, randomized, controlled trial, is intended to provide clinical translation of these findings (NCT04680780). Sixty-six patients were randomized to a KDI arm (ketogenic diet [KD] or water fasting [WF]) or the control group. Both interventions induce significant ketogenesis on the basis of blood and breath acetone measurements. Ninety-five percent (KD) and 85% (WF) report the diet as feasible. KD leads to significant reductions in body fat and liver volume. Additionally, KD is associated with reduced kidney volume (not reaching statistical significance). Interestingly, the KD group exhibits improved kidney function at the end of treatment, while the control and WF groups show a progressive decline, as is typical in ADPKD. Safety-relevant events are largely mild, expected (initial flu-like symptoms associated with KD), and transient. Safety assessment is complemented by nuclear magnetic resonance (NMR) lipid profile analyses.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-
+- Publication Date: 2023
+- DOI: 10.1016/j.xcrm.2023.101283
 
 2. Keywords
-
+- ADPKD
+- cholesterol
+- ketogenic diet
+- ketosis
+- kidney
+- lipids
+- low carb
+- nutrition
+- polycystic kidney disease
+- water fasting
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- ADPKD assessment methods and outcomes
+- cholesterol assessment methods and outcomes
+- ketogenic diet assessment methods and outcomes

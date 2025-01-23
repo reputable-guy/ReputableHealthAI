@@ -1,28 +1,29 @@
-Study Title: Toxic elements identified in breast milk of mothers residing in water contaminated region of Sindh and their impact on infants' growth patterns: A case-control study.
+Study Title: Effectiveness of a novel diet in attenuation of clinical activity of disease in patients with ulcerative colitis: a randomized, clinical trial.
 
 Study Summary:
-Breast milk is a vital source of nutrition for breastfed infants, providing essential nutrients and elements but, in some cases, toxic ones. This is the first case-control study that investigated the elemental profile of breast milk samples collected from mothers residing in Matiari (Sindh), a region with insufficient industrial waste management, and its potential impact on infants' anthropometrics. Precisely, 62 milk samples, including 42 cases and 20 controls, were analyzed using the ICP-MS technique. Overall, six elements showed significance between the two groups, arsenic (As) was present at 0.68&#xa0;&#x3bc;g/L in cases and absent in controls, while lead (Pb) exhibited elevated concentrations in the case group at 4.56&#xa0;&#x3bc;g/L compared to 0.25&#xa0;&#x3bc;g/L in controls, well-known for their toxicity. Barium (Ba) and manganese (Mn) levels were also higher in cases, associated with reported health effects on child well-being. Essential elements molybdenum (Mo) and selenium (Se) were higher in the controls. Furthermore, the association of these metals with the child growth standards as per WHO guidelines was calculated. Linear regression analysis revealed As negatively associated with WAZ and WHZ scores, while Mo was positively associated with WAZ, WHZ, and HAZ scores. These findings highlight serious health concerns in the region, where toxic elements pervade drinking water and food sources. Immediate actions are imperative to maintain the wellness of future generations.
+Dietary intake plays a pivotal role in ulcerative colitis (UC) initiation and prognosis. The aim of this study was to investigate the effect of a combined Mediterranean, low-FODMAP diet accompanied with partial enteral nutrition (PEN) on clinical and para-clinical characteristics of patients with UC. Fifty patients with active mild to moderate UC were received either a combined diet or a regular diet for 6&#xa0;weeks. Before and after the intervention, disease activity index, quality of life and some inflammatory and oxidative stress factors were measured using valid and reliable questionnaires and blood sampling. Disease activity index was significantly decreased in the combined diet group in comparison to control diet group (p&#x2009;=&#x2009;0.043), and baseline data (p&#x2009;<&#x2009;0.001). Moreover, the quality of life score increased significantly in the combined diet group compared to the control group, and the baseline data (p&#x2009;<&#x2009;0.001). Serum level of high sensitive C-reactive protein (hs-CRP) decreased significantly in the combined group (p&#x2009;<&#x2009;0.01), while it increased in the control group non-significantly. Serum total anti-oxidant capacity (TAC) changes were not statistically significant in two groups. This study indicates that this combination diet has the potential to be used as a safe and highly effective approach in patients with significant intestinal symptoms. Further clinical trial studies with different duration of intervention are needed to confirm these results.Trial registration: The study was registered on IRCT.ir with registration number of IRCT20100524004010N38, on 25/04/2023.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.envpol.2024.124368
+- DOI: 10.1038/s41598-024-64512-8
 
 2. Keywords
-- Breast milk
-- Height-for-age z score (HAZ)
-- Infant health
-- Toxic elements
-- Weight-for-age z score (WAZ)
-- Weight-for-height z score (WHZ)
+- Diet
+- EN
+- IBD
+- Low-FODMAP diet
+- Mediterranean diet
+- Nutrition
+- UC
+- Ulcerative colitis
 
 3. Key Findings
-- Overall, six elements showed significance between the two groups, arsenic (As) was present at 0
-- Linear regression analysis revealed As negatively associated with WAZ and WHZ scores, while Mo was positively associated with WAZ, WHZ, and HAZ scores
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Breast milk assessment methods and outcomes
-- Height-for-age z score (HAZ) assessment methods and outcomes
-- Infant health assessment methods and outcomes
+- Diet assessment methods and outcomes
+- EN assessment methods and outcomes
+- IBD assessment methods and outcomes

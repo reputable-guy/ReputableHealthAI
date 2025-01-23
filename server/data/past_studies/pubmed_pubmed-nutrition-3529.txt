@@ -1,26 +1,27 @@
-Study Title: Real-Time Camera Image-Guided Nasoenteric Tube Placement in Prone COVID-19 ICU Patients: A Single-Center Study.
+Study Title: Impact of food swap recommendations on dietary choices in an online supermarket: A randomized controlled trial.
 
 Study Summary:
-This study aims to assess the application value of the real-time camera image-guided nasoenteric tube placement in critically ill COVID-19 patients undergoing endotracheal intubation and prone position ventilation therapy.We enrolled 116 COVID-19 patients receiving endotracheal intubation and prone position ventilation therapy in the intensive care unit (ICU). Patients were randomly divided into the real-time camera image-guided nasoenteric tube placement (n&#x2009;=&#x2009;58) and bedside blind insertion (n&#x2009;=&#x2009;58) groups. The success rate, placement time, complications, cost, heart rate, respiratory rate, Glasgow Coma Scale (GCS), and Acute Physiology and Chronic Health Evaluation II (APACHE-II) scores were compared between the 2 groups.For ICU patients with COVID-19 undergoing prone position ventilation therapy, the success rate and cost were significantly higher in the real-time camera image-guided group compared to the bedside blind group (&#x2009;<&#x2009;.05). The placement time and complication incidence were significantly lower in the real-time camera image-guided group (&#x2009;<&#x2009;.05). The differences in heart rate, respiratory rate, GCS scores, and APACHE-II scores were insignificant (&#x2009;>&#x2009;.05).The real-time camera image-guided nasoenteric tube placement system had advantages for ICU COVID-19 patients undergoing prone position ventilation therapy, including a high success rate, short placement time, and no impact on patient position during tube placement. Real-time camera image-guided nasoenteric tube placement can be performed in any position, and demonstrates high efficiency, safety, and accuracy.
+One novel strategy to shift food choices in digital shopping environments is to automatically recommend healthier alternatives when an unhealthy choice is made. However, this raises the question which alternative products to recommend. This study assesses 1) whether healthier food swap recommendations are effective, even though the unhealthy choice was made in the presence of visible FOP nutrition labels, and 2) how the similarity of the alternatives influences the acceptance of food swap recommendations. Based on a pre-test, similarity of the recommendation was operationalized in terms of animal-based versus plant-based options. A randomized controlled trial (healthy food swap recommendation conditions: none, similar animal-based, dissimilar plant-based, or mixed animal- and plant-based) with 428 Dutch participants was conducted in a simulated online supermarket. Additional healthier food swap recommendations improved the nutritional quality of the final basket compared to only providing Nutri-Score nutrition labels (-1.7 mean FSA score, p&#xa0;<&#xa0;.001, medium Cohen's d&#xa0;=&#xa0;-0.48). Compared to the dissimilar condition, acceptance of an alternative was more likely in the mixed (odds-ratio&#xa0;=&#xa0;2.78, p&#xa0;=&#xa0;.015) and in the similar condition (odds-ratio&#xa0;=&#xa0;2.24, p&#xa0;=&#xa0;.048), but the nutritional quality of the final basket did not differ between treatment conditions. Individuals in treatment conditions who did not receive any recommendation (i.e. only made healthy choices) had higher Nutri-Score familiarity and general health interest than individuals who received recommendations. This suggests that for individuals with higher knowledge and motivation FOP nutrition labels were sufficient, whereas for individuals with lower knowledge and motivation additional food swap recommendations can improve dietary choices. Food swap recommendations may act as meaningful reminders by disrupting the automatic choice process and triggering individuals to rethink their (unhealthy) choice.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/08850666231220909
+- DOI: 10.1016/j.appet.2023.107158
 
 2. Keywords
-- ICU COVID-19 patients
-- bedside blind placement
-- enteral nutrition
-- prone position ventilation
-- real-time camera image-guided nasoenteric tube placement
+- Food swap
+- Front-of-pack label
+- Healthy food choice
+- Nutrition label
+- Plant-based food
+- Supermarket
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- ICU COVID-19 patients assessment methods and outcomes
-- bedside blind placement assessment methods and outcomes
-- enteral nutrition assessment methods and outcomes
+- Food swap assessment methods and outcomes
+- Front-of-pack label assessment methods and outcomes
+- Healthy food choice assessment methods and outcomes

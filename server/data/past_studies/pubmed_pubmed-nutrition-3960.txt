@@ -1,30 +1,26 @@
-Study Title: Exploratory analysis of a cluster randomized controlled trial of a multi-strategy intervention delivered via online canteens on improving the nutritional quality of primary school students' pre-ordered foods & drinks at recess.
+Study Title: Lifestyle intervention reduces risk score for cardiovascular mortality in company employees with pre-diabetes or diabetes mellitus - A secondary analysis of the PreFord randomized controlled trial with 3 years of follow-up.
 
 Study Summary:
-School canteens are a recommended setting to deliver public health nutrition strategies given their wide reach, and frequent use by children. Online canteens, where users (i.e. students or their carers) pre-order and pay for food and drinks online, represent attractive systems to deliver strategies that encourage healthier food choices. There have been few studies exploring the efficacy of public health nutrition interventions in online food ordering environments. Therefore, this study aims to assess the efficacy of a multi-strategy intervention implemented in an online school canteen ordering system in reducing the energy, saturated fat, sugar, and sodium content of students' online recess orders (i.e. foods ordered during the mid-morning or afternoon snack period). This was an exploratory analysis of recess purchases for a cluster randomized controlled trial that initially sought to examine the efficacy of the intervention on lunch orders. A total of 314 students from 5 schools received the multi-strategy intervention (involving menu labelling, placement, prompting and availability) that was integrated into the online ordering system, and 171 students from 3 schools received the control (usual online ordering). Analysis of main outcomes found that the mean energy (difference: -269.3&#xa0;kJ; P&#xa0;=&#xa0;0.006), saturated fat (difference: -1.1&#xa0;g; P&#xa0;=&#xa0;0.011) and sodium (difference: -128.6&#xa0;mg; P&#xa0;=&#xa0;0.014) content per student recess order was significantly lower in the intervention group than the control group at 2-month follow-up. Findings suggest that embedding strategies to encourage healthier choices within online canteen ordering systems can improve the nutrient composition of student recess purchases. These results add to the current evidence base suggesting that interventions delivered via online food ordering systems represent an effective strategy for improving child public health nutrition in schools.
+To evaluate the effects of a multimodal intervention (including exercise training, psychosocial interventions, nutrition coaching, smoking cessation program, medical care) on the health and long-term cardiovascular disease (CVD) mortality risk of company employees with pre-diabetes or diabetes mellitus (DM) at high CVD risk. In the PreFord study, German company employees (n=4196) participated in a free-of-charge CVD mortality risk screening at their workplace. Based on their European Society of Cardiology - Systematic Coronary Risk Evaluation score (ESC-SCORE), they were subdivided into three risk groups. High-risk patients (ESC-SCORE&#x2265;5%) were randomly assigned to a 15-week lifestyle intervention or usual care control group. Data from patients with pre-DM/DM were analyzed intention-to-treat (ITT: n=110 versus n=96) and per protocol (PP: n=60 versus n=52). Body mass index, glycated hemoglobin, total cholesterol, low-density lipoprotein, triglyceride levels as well as systolic and diastolic blood pressure improved through the intervention (ITT, PP: p<0.001). The ESC-SCORE markedly decreased from pre- to post-intervention (ITT, PP: p<0.001). ESC-SCORE changes from baseline differed significantly between the groups, with the intervention group achieving more favorable results in all follow-up visits 6, 12, 24 and 36 months later (at each time point: ITT: p<0.001; PP: p &#x2264; 0.010). The study demonstrates the feasibility of attracting employees with pre-DM/DM at high CVD mortality risk to participate in a multimodal lifestyle program following a free CVD mortality risk screening at their workplace. The lifestyle intervention used in the PreFord study shows high potential for improving health of company employees with pre-DM/DM in the long term. ISRCTN23536103.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.appet.2023.106528
+- DOI: 10.3389/fendo.2023.1106334
 
 2. Keywords
-- Choice architecture
-- Healthy eating
-- Intervention
-- Menu labels
-- Nudging/Nudges
-- Online canteen
-- Online food delivery
-- RCT
-- School
+- cardiovascular risk assessment
+- diabetes
+- employees
+- exercise
+- nutrition
 
 3. Key Findings
-- Analysis of main outcomes found that the mean energy (difference: -269
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Choice architecture assessment methods and outcomes
-- Healthy eating assessment methods and outcomes
-- Intervention assessment methods and outcomes
+- cardiovascular risk assessment assessment methods and outcomes
+- diabetes assessment methods and outcomes
+- employees assessment methods and outcomes

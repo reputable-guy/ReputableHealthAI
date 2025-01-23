@@ -1,21 +1,27 @@
-Study Title: A 12-week in-phase bilateral upper limb exercise protocol promoted neuroplastic and clinical changes in people with relapsing remitting multiple sclerosis: A registered report randomized single-case concurrent multiple baseline study.
+Study Title: The impact of tangeretin combined with whey protein on exercise-induced bronchoconstriction in professional athletes: a placebo-controlled trial.
 
 Study Summary:
-Relapsing-Remitting Multiple Sclerosis manifests various motor symptoms including impairments in corticospinal tract integrity, whose symptoms can be assessed using transcranial magnetic stimulation. Several factors, such as exercise and interlimb coordination, can influence the plastic changes in corticospinal tract. Previous work in healthy and chronic stroke survivors showed that the greatest improvement in corticospinal plasticity occurred during in-phase bilateral exercises of the upper limbs. Altered corticospinal plasticity due to bilateral lesions in the central nervous system is common after Multiple Sclerosis, yet the effect of in-phase bilateral exercise on the bilateral corticospinal plasticity in this cohort remains unclear. Our aim was to investigate the effects of in-phase bilateral exercises on central motor conduction time, motor evoked potential amplitude and latency, motor threshold and clinical measures in people with Relapsing-Remitting Multiple Sclerosis. Five people were randomized and recruited in this single case concurrent multiple baseline design study. The intervention protocol lasted for 12 consecutive weeks (30-60 minutes /session x 3 sessions / week) and included in-phase bilateral upper limb movements, adapted to different sports activities and to functional motor training. To define the functional relation between the intervention and the results, we conducted a visual analysis. If a potential sizeable effect was observed, we subsequently performed a statistical analysis. Results demonstrated bilateral reduction of the motor threshold alongside with improvement of all clinical measures, but not in any other corticospinal plasticity measures. Our preliminary findings suggest that in-phase bilateral exercise affects motor threshold in people with Relapsing-Remitting Multiple Sclerosis. Therefore, this measure could potentially serve as a proxy for detecting corticospinal plasticity in this cohort. However, future studies with larger sample sizes should validate and potentially establish the effect of in-phase bilateral exercise on the corticospinal plasticity and clinical measures in this cohort. Clinical trial registration: ClinicalTrials.gov NCT05367947.
+Exercise-induced bronchoconstriction (EIB) is highly prevalent in athletes. The objective of this study was to assess the therapeutic efficacy of daily tangeretin combined with whey protein supplementation over a period of 4&#xa0;weeks in professional athletes with EIB. Using a placebo-controlled, double-blind, paired, randomized trial design, a cohort of 30 professional athletes with EIB, consisting of 14 females and 16 males, was divided into two groups: the tangeretin combined with whey protein intervention group (TIG), and the placebo control group (PCG). Both the TIG and PCG underwent exercise challenge tests (ECT) and VOtests before (ECT, V1) and after (ECT, V2) the intervention. Blood (eosinophils, neutrophils, and basophils) and serum (interleukin-5, IL-5; interleukin-8, IL-8; Clara cell secretory protein-16, CC16; immunoglobulin E, IgE) levels were measured early in the morning of ECTand ECT, respectively. Lung function was assessed immediately before and post-ECT immediately. Tangeretin combined with whey protein use for 4&#x2009;weeks attenuated the decrease in forced expiratory volume in 1 s (FEV) post trials (&#x2206;FEV(ECT1-ECT2): mean (SD) TIG -7.51(6.9)% vs. PCG -2.33(11.49)%,&#x2009;=&#x2009;0.013). Tangeretin also substantially attenuated IL-5 concentration (&#x2206;IL-5(T-T): Tangeretin -19.4% vs Placebo&#x2009;+&#x2009;8.37%,&#x2009;=&#x2009;0.022); IL-8 concentration (&#x2206;IL-8(T-T): Tangeretin -17.28% vs Placebo&#x2009;+&#x2009;6.1%,&#x2009;=&#x2009;0.012); CC16 concentration (&#x2206;CC16(T-T): Tangeretin -11.77% vs Placebo&#x2009;+&#x2009;24.19%); and IgE concentration in the serum (&#x2206;IgE(T-T): Tangeretin -24.1% vs Placebo -3.9%), and significantly decreased neutrophil count (&#x2206;N(T-T): Tangeretin -11.34% vs Placebo&#x2009;+&#x2009;0.3%) and eosinophil count in blood (&#x2206;N(T-T): Tangeretin -38.5% vs Placebo&#x2009;+&#x2009;4.35%). Compared with V1, VO(&#x2009;=&#x2009;0.042) and TLim (&#x2009;=&#x2009;0.05) of V2 were significantly increased in the TIG, and there was no significant change in the PCG. Meanwhile, six athletes in the TIG and 0 athletes in the PCG became EIB-negative at ECT; the overall negative conversion rate of EIB was 40.00% in TCG. Additionally, the number of cough symptoms decreased from 9 to 3 and dyspnea from 4 to 2 in the TIG. After high-intensity exercise, athletes with EIB achieved significant improvements in lung function and blood inflammatory factors by combining tangeretin and whey protein supplementation. EIB athletes also showed longer exercise endurance and VOat 4&#x2009;weeks after TI. In addition, some patient symptoms disappeared after combination supplementation. The effect of this treatment on professional athletes with EIB was beneficial.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1371/journal.pone.0299611
+- DOI: 10.1080/15502783.2024.2414870
 
 2. Keywords
-
+- Tangeretin
+- VO2max
+- airway inflammation
+- exercise-induced bronchoconstriction
+- lung function
+- respiratory symptom
 
 3. Key Findings
-- Previous work in healthy and chronic stroke survivors showed that the greatest improvement in corticospinal plasticity occurred during in-phase bilateral exercises of the upper limbs
-- Results demonstrated bilateral reduction of the motor threshold alongside with improvement of all clinical measures, but not in any other corticospinal plasticity measures
+- EIB athletes also showed longer exercise endurance and VOat 4&#x2009;weeks after TI
 
 This study provides insights into:
-- General research methodology and outcomes
+- Tangeretin assessment methods and outcomes
+- VO2max assessment methods and outcomes
+- airway inflammation assessment methods and outcomes

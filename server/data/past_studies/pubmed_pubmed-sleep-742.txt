@@ -1,27 +1,28 @@
-Study Title: Assessing the Real-World, Long-Term Impact of Lemborexant on Sleep Quality in a Home-Based Clinical Study.
+Study Title: Evaluating the effects of Bacopa monnieri on cognitive performance and sleep quality of patients with mild cognitive impairment: A triple-blinded, randomized, placebo-controlled trial.
 
 Study Summary:
-Both subjective and objective evaluations are essential for the treatment of insomnia. Lemborexant has been shown to be effective in the long-term based solely on a subjective basis, and no long-term objective measures have been evaluated under natural sleep conditions. Small, lightweight sleep electroencephalogram (EEG) monitor was used, instead of polysomnography, to objectively evaluate sleep at home 4 and 12 weeks after lemborexant treatment. Adults and elderly subjects with insomnia disorder, per the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, were enrolled in this open-label, single-arm, single-center trial. Objective and subjective measures of sleep were prospectively assessed. Sleep disturbance, excessive sleepiness, and depressive symptoms were assessed using questionnaires. A total of 45 subjects were screened, of which 33 were enrolled. Paired t-tests were conducted to evaluate changes in sleep variables and compared with the baseline; subjects showed significant improvements in objective sleep efficiency (SE) and subjective sleep parameters at weeks 4 and 12 following treatment with lemborexant. When baseline values were taken into account, a repeated-multivariate analysis of variance (MANOVA) revealed statistically significant changes in the objective measures. Sleep disturbance, excessive sleepiness, and depressive symptoms improved after three months of lemborexant treatment. Furthermore, lemborexant therapy improved nocturnal sleep, when measured objectively using sleep EEG monitoring at home, and improved daytime sleepiness and depressive symptoms in older adults with insomnia disorder.
+Mild cognitive impairment is the middle level of natural cognitive impairment during primary steps of dementia. There are a few studies about improving the cognitive performance and sleep quality in patients with a limited dementia. So, this study was conducted to evaluate the effects of Bacopa monnieri on cognitive performance and sleep quality of patients with mild cognitive impairment. In this study, 62 patients with mild cognitive impairment were categorized into two groups of control and intervention. The intervention group received one pill of 160 mg Bacopa monnieri extract in 2 months, and the control group received a pill containing starch powder. The cognitive impairment and sleep quality was assessed using a questionnaire containing demographic information, Montreal Cognitive Assessment, and the Pittsburg Sleep Quality Index in three time-points of before the study, one months after the intervention and 2 months after the intervention (the end of study). The results showed no statistically significant difference between two groups in all three time-points in overall cognitive performance score and its 6 parameters (P > 0.05). While in the field of attention at the end of the first month (P = 0.033) and the end of the second month (P = 0.004), it was significant difference between the study groups. Also, in the field of verbal fluency at the end of the second month, this difference was significant (P = 0.003). The cognitive performance overall score showed no significant difference between two groups in first (P = 0.939) and second time-points (P = 0.661), although it was significant at third time-point (P = 0.029). There was no statistically significant difference between two groups in all time-points for sleep quality overall score (P > 0.05). The results showed that Bacopa monnieri can improve the cognitive performance overall score and some of its parameters, but it had no effect on sleep quality.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.2147/NSS.S448871
+- DOI: 10.1016/j.explore.2024.02.008
 
 2. Keywords
-- insomnia
-- lemborexant
-- objective sleep evaluation
-- portable sleep EEG monitoring
-- subjective sleep evaluation
+- Bacopa monnieri
+- Cognitive performance
+- Herbal medicine
+- Mild cognitive impairment
+- Sleep quality
 
 3. Key Findings
-- Paired t-tests were conducted to evaluate changes in sleep variables and compared with the baseline; subjects showed significant improvements in objective sleep efficiency (SE) and subjective sleep parameters at weeks 4 and 12 following treatment with lemborexant
-- When baseline values were taken into account, a repeated-multivariate analysis of variance (MANOVA) revealed statistically significant changes in the objective measures
+- The results showed no statistically significant difference between two groups in all three time-points in overall cognitive performance score and its 6 parameters (P > 0
+- The cognitive performance overall score showed no significant difference between two groups in first (P = 0
+- The results showed that Bacopa monnieri can improve the cognitive performance overall score and some of its parameters, but it had no effect on sleep quality
 
 This study provides insights into:
-- insomnia assessment methods and outcomes
-- lemborexant assessment methods and outcomes
-- objective sleep evaluation assessment methods and outcomes
+- Bacopa monnieri assessment methods and outcomes
+- Cognitive performance assessment methods and outcomes
+- Herbal medicine assessment methods and outcomes

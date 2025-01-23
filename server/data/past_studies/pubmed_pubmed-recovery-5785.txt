@@ -1,20 +1,26 @@
-Study Title: A randomized feasibility study of a positive psychology journaling intervention to support recovery from substance-use disorders.
+Study Title: Comparison of Remimazolam Tosilate and Propofol Sedation on the Early Postoperative Quality of Recovery in Patients Undergoing Day Surgery: A Prospective Randomized Controlled Trial.
 
 Study Summary:
-Individuals in early recovery face significant biopsychosocial stressors causing a preponderance of negative affect. Novel interventions are needed to improve mood and well-being to support recovery. Positive Recovery Journaling (PRJ) combines elements of positive psychology, behavioral activation, and journaling to emphasize what is going right and to encourage small, positive steps that align with an individual's values to make life in recovery more rewarding and therefore more reinforcing. Our objective was to determine PRJ's feasibility, acceptability, and impact on a set of strengths-based, multidimensional aspects of recovery, including satisfaction with life, happiness with recovery, and commitment to sobriety. The study randomized adults in substance-use disorder treatment (N&#xa0;=&#xa0;81) to PRJ or control. Those in PRJ were asked to practice PRJ daily and complete online surveys for four weeks; those in the control group completed online surveys for four weeks. We used multi-level modelling to determine intercept and slope for feasibility and acceptability outcomes as well as to compare differences in recovery indicators between treatment and control at baseline and Weeks 2, 4, and 8. We conducted intention-to-treat and per-protocol analyses for each recovery indicator. Participants were 53&#xa0;% female, and 26&#xa0;% Black, Indigenous, People of Color (BIPOC) and mean age of 39&#xa0;years. PRJ participants attended 71&#xa0;% of groups and completed 56&#xa0;% of the daily PRJ entries. Treatment and control groups rated their study tasks (PRJ for the treatment group, surveys for the control group) as equally easy; however, the PRJ group rated PRJ as significantly more satisfying, helpful, and pleasant. Treatment and control were not significantly different on any recovery indicator. In post hoc analyses, we found that for those with <90&#xa0;days sobriety at baseline (51&#xa0;%), PRJ had a statistically significant beneficial effect for satisfaction with life, happiness with recovery, and numerous secondary recovery indicators. Results suggest a positive impact of PRJ on numerous recovery indices for those in earliest recovery. Integrating PRJ into support services among those with <90&#xa0;days sobriety could reinforce what is going well in recovery to encourage its continued maintenance and thereby improve treatment outcomes.
+Remimazolam tosilate is a novel ultrafast-acting benzodiazepine that has a rapid emergence even after continuous infusion when using flumazenil. So far, relatively few articles are still focusing on the quality of recovery after general anesthesia with remimazolam, especially in day surgery. This study aimed to compare the early postoperative quality of recovery of remimazolam tosilate with flumazenil and propofol in patients undergoing day surgery. 137 patients scheduled for day surgery were randomly divided into the remimazolam tosilate or propofol group. The primary endpoint was the incidence of overall recovery assessed with the early postoperative quality of recovery scale (PostopQRS) on postoperative day 1 (POD 1). The Richmond Agitation-Sedation Scale (RASS) scores in the post-anesthesia care unit (PACU), extubation time, postoperative recovery profiles, and perioperative data were documented. Any adverse events were recorded. The incidence of overall recovery on POD1 was 47.7% in the remimazolam tosilate group and 65.1% in the propofol group (odds ratio, 0.52; 95% confidence interval (CI) 0.26 to 1.06; P = 0.072). In general, the overall recovery of the PostopQRS increased over time, and its interaction between time and group was significant (P = 0.003). Among the five dimensions of PostopQRS, there exist statistical differences between groups including emotional state and cognitive recovery. Upon arrival at the PACU, the remimazolam group was more sedated and took longer to recover to a RASS score similar to propofol. The frequency of application of vasoactive drugs during anesthesia was similar in both groups (P = 0.119). Despite rapid emergence with remimazolam after flumazenil reversal, re-sedation (10.8%) or somnolence (60%) in the PACU was observed, and the length of PACU stay in patients treated with remimazolam tosilate was longer than that of the propofol (35 min vs 30 min, P<0.001). General anesthesia with remimazolam tosilate in conjunction with flumazenil reversal permits rapid recovery of consciousness in day surgery, but there was a notable occurrence of re-sedation or somnolence observed in PACU.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.josat.2024.209410
+- DOI: 10.2147/DDDT.S456675
 
 2. Keywords
-
+- day surgery
+- flumazenil
+- propofol
+- quality of recovery
+- remimazolam tosilate
 
 3. Key Findings
-- In post hoc analyses, we found that for those with <90&#xa0;days sobriety at baseline (51&#xa0;%), PRJ had a statistically significant beneficial effect for satisfaction with life, happiness with recovery, and numerous secondary recovery indicators
+- Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- day surgery assessment methods and outcomes
+- flumazenil assessment methods and outcomes
+- propofol assessment methods and outcomes

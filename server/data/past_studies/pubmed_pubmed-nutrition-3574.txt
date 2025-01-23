@@ -1,26 +1,23 @@
-Study Title: Potential of prehabilitation in hepatocellular carcinoma: a narrative review of available evidence.
+Study Title: Enabling health and maintaining independence for older people at home (HomeHealth trial): a multicentre randomised controlled trial.
 
 Study Summary:
-Hepatocellular carcinoma (HCC) is a leading cause of cancer deaths. Patients with HCC are often significantly affected by sarcopenia and cancer cachexia. Prehabilitation, a multimodal pre-operative exercise and nutritional intervention, has been implemented with varying degrees of success in enhancing outcomes among other gastrointestinal (GI) malignancies. However, remarkably little is described how prehabilitation may be beneficial in improving outcomes among those with HCC. Thus, a narrative review is warranted to examine previously developed prehabilitation models and determine how interventions affected sarcopenia as a prognosticator in HCC and other GI malignancies. This article seeks to offer guidance on how prehabilitation may be implemented for those with HCC based on available data published on other GI malignancies and serve as a call for additional research specific to the value of prehabilitation in HCC. Independent key-term searches were conducted by all authors of various databases (PubMed, ScienceDirect, Google Scholar) for relevant articles examining role, safety, and efficacy of prehabilitation in HCC and/or other GI malignancies. Relevant articles pertaining to sarcopenia, Enhanced Recovery After Surgery (ERAS) guidelines, and prehabilitation models were collected and analyzed. Review authors held multiple meetings to ensure coherence of narrative review process and final product. Patients with HCC often suffer from sarcopenia and/or cachexia, which are known to be associated with poorer outcomes. The benefits of a prehab program in patients with HCC are not well described in current literature, but in referencing the benefits of prehab programs in other GI malignancies and ERAS protocols on patients undergoing liver resection and liver transplant, there is potential for a similar multimodal program to yield similar benefits and healthcare cost-savings. However, further investigation is needed as HCC has multiple etiologies and affects a wide variety of people. A multimodal prehabilitation program emphasizing regular aerobic and resistance exercise, nutritional optimization, lifestyle modifications, mental health and wellness practices, with a nurse and rehabilitation physician's oversight may improve outcomes in patients undergoing treatment for HCC. However further investigation into specific exercise models, optimal nutrition regimens and benefit/cost analysis of a multimodal prehabilitation program within this complex patient population is needed.
+NHS frailty services commonly target more severely frail older people, despite evidence suggesting frailty can be prevented or reversed when addressed at an earlier stage. HomeHealth is a new home-based, manualised voluntary sector service supporting older people with mild frailty to maintain their independence through behaviour change. Over six appointments, a trained HomeHealth worker discusses what matters to the older person and supports them to set and achieve goals around mobility, nutrition, socialising and/or psychological wellbeing. The service showed promising effects in a feasibility trial. We aimed to test the clinical and cost-effectiveness of HomeHealth for maintaining independence in older people with mild frailty compared with treatment as usual. In this single-blind multicentre randomised controlled trial, we recruited community-dwelling older people aged 65 years or older with mild frailty from 27 general practices, community groups and sheltered housing in London, Yorkshire, and Hertfordshire. Participants were randomly assigned (1:1) to receive either HomeHealth monthly for 6 months or treatment as usual (usual GP and outpatient care, no specific frailty services). Our primary outcome was independence in activities of daily living, measured by blinded outcome assessors using the modified Barthel Index, and analysed using linear mixed models, including 6-month and 12-month data and controlling for baseline Barthel score and site. The study was approved by the Social Care Research Ethics Committee, and all participants provided written or orally recorded informed consent. This study is registered with the ISRCTN registry, ISRCTN54268283. This trial took place between Jan 18, 2021, and July 4, 2023. We recruited 388 participants (mean age 81&#xb7;4 years; 64% female [n=250], 94% White British/European [n=364], 2&#xb7;5% Asian [n=10], 1&#xb7;5% Black [n=6], 2&#xb7;0% other [n=8]). We achieved high retention for 6-month follow-up (89%, 345/388), 12-month follow-up (86%, 334/388), and medical notes data (89%, 347/388). 182 (93%) of 195 participants in the intervention group completed the intervention, attending a mean of 5&#xb7;6 appointments. HomeHealth had no effect on Barthel Index scores at 12 months (mean difference 0&#xb7;250, 95% CI -0&#xb7;932 to 1&#xb7;432). At 6 months, there was a small reduction in psychological distress (-1&#xb7;237, -2&#xb7;127 to -0&#xb7;348) and frailty (-0&#xb7;124, -0&#xb7;232 to -0&#xb7;017), and at 12 months, we found small positive effects on wellbeing (1&#xb7;449, 0&#xb7;124 to 2&#xb7;775) in those receiving HomeHealth. Other outcomes in analysis to date showed no significant difference. Health economic outcomes (including quality of life, capability, health services use and care needs or burden) are pending. This high-quality trial showed that HomeHealth did not maintain independence in older people with mild frailty, and had limited effects upon secondary outcomes. Future studies need to explore different ways to promote health in this population. National Institute for Health and Care Research Health Technology Assessment (NIHR HTA).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.21037/apm-23-175
+- Publication Date: 2023
+- DOI: 10.1016/S0140-6736(23)02071-8
 
 2. Keywords
-- Hepatocellular carcinoma (HCC)
-- exercise
-- nutrition
-- prehabilitation
-- sarcopenia
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- The service showed promising effects in a feasibility trial
+- At 6 months, there was a small reduction in psychological distress (-1&#xb7;237, -2&#xb7;127 to -0&#xb7;348) and frailty (-0&#xb7;124, -0&#xb7;232 to -0&#xb7;017), and at 12 months, we found small positive effects on wellbeing (1&#xb7;449, 0&#xb7;124 to 2&#xb7;775) in those receiving HomeHealth
+- Other outcomes in analysis to date showed no significant difference
+- This high-quality trial showed that HomeHealth did not maintain independence in older people with mild frailty, and had limited effects upon secondary outcomes
 
 This study provides insights into:
-- Hepatocellular carcinoma (HCC) assessment methods and outcomes
-- exercise assessment methods and outcomes
-- nutrition assessment methods and outcomes
+- General research methodology and outcomes

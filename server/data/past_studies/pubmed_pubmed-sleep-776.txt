@@ -1,26 +1,22 @@
-Study Title: Cognitive behavior therapy for insomnia for untreated hypertension with comorbid insomnia disorder: The SLEEPRIGHT clinical trial.
+Study Title: A randomized double-blind pilot study to evaluate the efficacy, safety, and tolerability of intravenous iron versus oral iron for the treatment of restless legs syndrome in patients with iron deficiency anemia.
 
 Study Summary:
-Insomnia and poor sleep are associated with an increased risk of developing cardiovascular disease (CVD) and its precursors, including hypertension. In 2022, the American Heart Association (AHA) added inadequate sleep to its list of health behaviors that increase the risk for CVD. It remains unknown, however, whether the successful treatment of insomnia and inadequate sleep can reduce heightened CVD risk. SLEEPRIGHT is a single-site, prospective clinical trial designed to evaluate whether the successful treatment of insomnia results in improved markers of CVD risk in patients with untreated hypertension and comorbid insomnia disorder. Participants (N&#xa0;=&#xa0;150) will undergo baseline assessments, followed by a 6-week run-in period after which they will receive cognitive behavior therapy for insomnia (CBT-I), comprised of 6 hourly sessions with an experienced CBT-I therapist over a 6-week period. In addition to measures of insomnia severity, as well as both subjective and objective measures of sleep, the primary outcome measures are nighttime blood pressure (BP) and BP dipping assessed by 24-h ambulatory BP monitoring (ABPM). Secondary outcomes include several CVD risk biomarkers, including clinic BP, lipid profile, vascular endothelial function, arterial stiffness, and sympathetic nervous system (SNS) activity. Data analysis will evaluate the association between improvements in insomnia and sleep with primary and secondary CVD risk biomarker outcomes. The SLEEPRIGHT trial (ClinicalTrials.Gov NCT04009447) will utilize CBT-I, the current gold standard treatment for insomnia disorder, to evaluate whether reducing insomnia severity and improving sleep are accompanied by improved biomarkers of CVD risk in patients with untreated hypertension.
+Restless legs syndrome (RLS) is a neurological disorder that can have a profound effect on sleep and quality of life. Idiopathic RLS is associated with brain iron insufficiency despite normal peripheral iron stores. There is, however, a five- to six-fold increase in prevalence of RLS in patients with iron deficiency anemia (IDA). Several open-label trials have demonstrated symptomatic improvement in RLS following treatment of IDA using oral or intravenous iron supplementation. To date, there have been no randomized double-blind controlled trials of intravenous iron compared with oral iron for the treatment of RLS patients with IDA. In the current study, oral ferrous sulfate and ferumoxytol were compared for efficacy and speed of response for treatment of RLS occurring in patients with IDA. The planned recruitment for this study was 70 patients with RLS and IDA, to be randomly assigned 1:1 to oral or intravenous iron, using double-blind, double-dummy procedures. At Week 6, the primary outcomes of Clinical Global Impression-Improvement score and change from baseline in the International Restless Legs Syndrome Study Group rating scale score were assessed. Due to challenges, performing the clinical trial during the COVID-19 pandemic, final-week data were found missing for 30 patients. As a result, in order to maintain the prespecified statistical analysis, an additional 30 patients were recruited. Both IV and oral iron were associated with a marked improvement in RLS symptoms, with no statistically significant difference between treatment groups. No serious adverse events were observed in either treatment group.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/jch.14763
+- DOI: 10.1002/ajh.27290
 
 2. Keywords
-- cardiovascular disease
-- cognitive behavior therapy
-- hypertension
-- insomnia
-- sleep
+
 
 3. Key Findings
-- Findings extraction requires manual review
+- Restless legs syndrome (RLS) is a neurological disorder that can have a profound effect on sleep and quality of life
+- Several open-label trials have demonstrated symptomatic improvement in RLS following treatment of IDA using oral or intravenous iron supplementation
+- Due to challenges, performing the clinical trial during the COVID-19 pandemic, final-week data were found missing for 30 patients
 
 This study provides insights into:
-- cardiovascular disease assessment methods and outcomes
-- cognitive behavior therapy assessment methods and outcomes
-- hypertension assessment methods and outcomes
+- General research methodology and outcomes

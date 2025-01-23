@@ -1,20 +1,28 @@
-Study Title: What About Water? Implications for Body Composition Assessment in Military Personnel.
+Study Title: Effect of a physical exercise program supported by wearable technology in children with drug-resistant epilepsy. A randomized controlled trial.
 
 Study Summary:
-Sergi, TE, Roberts, BM, and Heileson, JL. What About Water? Implications for Body Composition Assessment in Military Personnel. J Strength Cond Res 38(9): e534-e540, 2024-Body composition standards ensure service members maintain physical fitness, wellness, and support mission readiness. Anthropometric techniques (i.e., height/mass, circumference-based "tape test") have been the primary screening and percent body fat (%BF) assessment method in military personnel for about 4 decades. Recently, the Army and Marine Corps have implemented more advanced body composition assessment methods, such as air displacement plethysmography (ADP), multifrequency bioelectrical impedance analysis (MF-BIA), and dual-energy x-ray absorptiometry (DXA), to serve as supplemental %BF assessment after failing the tape test. Although supplemental assessments are intended to improve on the accuracy and precision of the tape test, preassessment standardization, specifically regarding acute water ingestion (AWI), is lacking. Thus, the purpose of this narrative review was to (a) summarize the available literature regarding the influence of AWI on body composition estimates derived from ADP, MF-BIA, and DXA and (b) provide evidence-based recommendations for researchers and practitioners. Studies indicate that AWI increases %BF estimates with ADP (4 of 6 [4/6] observations) and MF-BIA (6/7), whereas AWI increases muscle mass (6/6) and likely decreases %BF (2/3) when obtained by DXA. In conclusion, ADP, MF-BIA, and DXA are susceptible to confounding from AWI, leading to inaccurate body composition estimates that may negatively affect the careers of military personnel. Based on the findings from this narrative review, military practitioners and researchers should (a) follow manufacturer guidelines for calorie intake [food and fluid] and exercise avoidance, (b) conduct urine-specific gravity testing [if possible], and (c) limit AWI to <250 ml before assessment.
+to investigate the effects of a physical exercise (PE) program, supported by wearable technology (WT), in children with drug-resistant epilepsy (DRE). 29 children with DRE were randomized to experimental (EG) and control (CG) groups. To encourage PE, the EG performed one hour of aerobic activity three days a week for six months, outside the school setting. Compliance was monitored using activity wristbands, with data reported weekly by parents. Health-related quality of life (HRQoL), seizure frequency, physical activity (PA), physical fitness (musculoskeletal, motor, and Cardiorespiratory Fitness), and body composition, were assessed at baseline, at three and six months. Seizure frequency in the last six months evolved from 10.5 seizures/week at baseline, to 4.5 at the end of the study in the EG, and from 5.2 seizures/week to one in the CG. Significant differences were found in weekly hours-PE (&#x3b7;2= 0.49); motor fitness (&#x3b7;2= 0.08); Cardiorespiratory Fitness (&#x3b7;2= 0.19); weight (&#x3b7;2= 0.003); Triceps skinfold thickness (&#x3b7;2= 0.05); lower limb muscular strength (&#x3b7;2= 0.03); HRQoL (&#x3b7;2= 0.02); and PA (&#x3b7;2= 0.22). Post-hoc ANOVA revealed that EG improved significantly (p < 0.05) between baseline and six months. Negative correlations were observed between PA and seizure frequency. Supported by WT, children with DRE increased the weekly hours of PE at three and six months, with no increase in seizure frequency. Our study provides evidence of the effectiveness of PE for improving HRQoL.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1519/JSC.0000000000004840
+- DOI: 10.1016/j.seizure.2024.07.019
 
 2. Keywords
-
+- Cardiorespiratory Fitness
+- Child
+- Drug-resistant epilepsy
+- Exercise
+- Quality of life
+- Seizures
 
 3. Key Findings
-- In conclusion, ADP, MF-BIA, and DXA are susceptible to confounding from AWI, leading to inaccurate body composition estimates that may negatively affect the careers of military personnel
+- Significant differences were found in weekly hours-PE (&#x3b7;2= 0
+- Post-hoc ANOVA revealed that EG improved significantly (p < 0
 
 This study provides insights into:
-- General research methodology and outcomes
+- Cardiorespiratory Fitness assessment methods and outcomes
+- Child assessment methods and outcomes
+- Drug-resistant epilepsy assessment methods and outcomes

@@ -1,25 +1,29 @@
-Study Title: Can an intervention designed to reduce repetitive negative thinking alter the response to a psychosocial stressor? A randomized controlled study.
+Study Title: Docosahexaenoic Acid Supplementation for Neonatal Hyperbilirubinemia: A Double-Blind, Randomized Clinical Trial.
 
 Study Summary:
-Prior research suggests that repetitive negative thinking (RNT) negatively impacts mental health by intensifying and prolonging emotional reactivity to stress. This study investigated whether an intervention designed to reduce RNT alters emotional reactivity. Young adults with high trait RNT (N&#xa0;=&#xa0;79) were randomly allocated to an RNT-focused intervention (smartphone app-based, 10 days) or a waiting list before exposure to a standardized stressor. The pre-registered analysis did not reveal a significant condition * time interaction for negative affect. However, exploratory analyses showed that whilst initial increases in negative affect in response to the stressor did not differ between conditions, participants in the intervention condition reported less negative affect throughout the following recovery phase. Additionally, participants in the intervention condition appraised their ability to cope with the stressor as higher and reported less RNT in the recovery phase. In contrast, the intervention did not affect biological stress responses. The findings indicate that RNT-focused interventions might have positive effects on mental health by breaking the self-reinforcing cycle of RNT, negative affect and maladaptive appraisals in response to stress. However, as findings are partly based on exploratory analyses, further research is needed to confirm whether reduced subjective stress reactivity mediates the effects of RNT-focused interventions on psychopathological symptoms.
+Docosahexaenoic acid (DHA) is an essential component for brain development during fetal and early postnatal life. Hyperbilirubinemia is characterized by abnormally high levels of bilirubin in the bloodstream, frequently leading to jaundice in newborns. In severe instances, this condition can progress to neurological damage or kernicterus, a form of brain damage. Initial cell-based experiments conducted by our research team revealed that DHA significantly enhances the survival rate of nerve cells treated with bilirubin and diminishes the oxidative stress indicated by reduced peroxide activity caused by unconjugated bilirubin (UCB). Further investigations through animal studies demonstrated that DHA effectively mitigates bilirubin-induced brain injury in neonatal rats. However, the potential of DHA to decrease the incidence of bilirubin-induced brain damage in clinical settings has not been previously explored or reported. Infants with neonatal hyperbilirubinemia (n = 30 per group) participated in a double-blind, randomized, placebo-controlled parallel study. They received either 100 mg/d DHA or placebo syrup immediately when they were diagnosed. The study found that the bilirubin level at 48 hours of treatment, serum neuron-specific enolase (NSE) levels, mean phototherapy duration, and abnormal rate of cranial magnetic resonance imaging (MRI) were lower in the DHA group than those in the control group (< .05). These results suggested that DHA is effective as an adjuvant treatment for hyperbilirubinemia in children. It can reduce the incidence of neonatal hyperbilirubinemia brain injury and plays a certain protective role. Clinical study on protective effect of DHA on neonatal bilirubin injury is registered at Chinese Clinical Trial Registry as ChiCTR2300070250.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.brat.2024.104547
+- DOI: 10.1177/00099228241250139
 
 2. Keywords
-- Digital interventions
-- Emotional reactivity
-- Repetitive negative thinking
-- Stress response
+- brain damage
+- cranial magnetic resonance imaging
+- docosahexaenoic acid
+- hyperbilirubinemia
+- serum-specific enolase
+- transcutaneous bilirubin
 
 3. Key Findings
-- However, exploratory analyses showed that whilst initial increases in negative affect in response to the stressor did not differ between conditions, participants in the intervention condition reported less negative affect throughout the following recovery phase
+- Initial cell-based experiments conducted by our research team revealed that DHA significantly enhances the survival rate of nerve cells treated with bilirubin and diminishes the oxidative stress indicated by reduced peroxide activity caused by unconjugated bilirubin (UCB)
+- Further investigations through animal studies demonstrated that DHA effectively mitigates bilirubin-induced brain injury in neonatal rats
+- The study found that the bilirubin level at 48 hours of treatment, serum neuron-specific enolase (NSE) levels, mean phototherapy duration, and abnormal rate of cranial magnetic resonance imaging (MRI) were lower in the DHA group than those in the control group (<
 
 This study provides insights into:
-- Digital interventions assessment methods and outcomes
-- Emotional reactivity assessment methods and outcomes
-- Repetitive negative thinking assessment methods and outcomes
+- brain damage assessment methods and outcomes
+- cranial magnetic resonance imaging assessment methods and outcomes
+- docosahexaenoic acid assessment methods and outcomes

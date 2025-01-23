@@ -1,26 +1,27 @@
-Study Title: An Exercise and Wellness Behavior Change Program for Solid Organ Transplant: A Clinical Research Protocol for the Transplant Wellness Program.
+Study Title: Online and Face-to-Face Mat Pilates Training for Long COVID-19 Patients: A Randomized Controlled Trial on Health Outcomes.
 
 Study Summary:
-Exercise prehabilitation is an evidence-based, safe, and effective method to increase quality of life, physical fitness and function, and post-surgical outcomes in solid organ transplant (SOT) patients. However, few prehabilitation programs for SOT patients exist in practice. Furthermore, there is a lack of multimodal prehabilitation programs that include behavior change support. To address this need, the Transplant Wellness Program (TWP) was designed. The objective of the TWP is to assess both the effectiveness and implementation of a comprehensive and multimodal exercise and wellness behavior change intervention for patients undergoing kidney or liver transplant. The TWP is a hybrid effectiveness-implementation trial consisting of exercise and wellness behavior change support. Individuals who are in evaluation or listed for kidney or liver transplant in Southern Alberta, Canada. The primary outcomes of self-reported exercise and quality of life are assessed at intake, post-exercise intervention, 6 months post-intake, 12 weeks post-transplant, and annually for 5 years after program completion. Functional fitness measures will be assessed at intake, post-exercise intervention, 12 weeks post-transplant, 6 months post-intake, and 1-year post-intake. The reach, effectiveness, adoption, implementation, and maintenance (RE-AIM) framework is used to determine the impact of TWP at the individual and health care system level. Recruitment began in November 2023 and will continue until November 2028. Participants take part in a 12-week exercise intervention and are offered individualized and group behavior change support. Continued exercise support is offered through maintenance classes after the completion of the 12-week intervention. The design of the hybrid effectiveness-implementation trial with a single experimental group will not allow for comparisons to a control or usual care group, potentially impacting internal validity. Differences in number of participants between organ groups (kidney vs liver) and cohorts (pre-transplant vs post-transplant) will likely be uneven, requiring consideration when running and interpreting analyses. The TWP aims to support patients throughout the transplant journey through a multimodal and comprehensive exercise and wellness behavior change program. Results from this study will determine the effectiveness of the program and inform future scale-up and sustainability. NCT06367244.
+This study investigated the impacts of online and face-to-face Mat Pilates training in adults with persistent symptoms of long COVID on health outcomes. Forty-nine patients (52 &#xb1; 5.85 yr.) diagnosed with long COVID related to fatigue symptoms were randomly included in three groups: online Mat Pilates training (n = 16), face-to-face Mat Pilates training (n = 15), and a control group (n = 18) without training. Mat Pilates training was conducted three times a week for 12 weeks. Fatigue, functional capacity, anthropometrics, body composition, and cardiometabolic markers were assessed before and after the interventions. Two-factor Generalized Estimating Equation analyses identified significant differences with Bonferroni post hoc testing (< 0.05). After the intervention, only the face-to-face Mat Pilates training group had an improved total, physical and mental fatigue, trunk isometric strength, upper limb muscle endurance strength, and aerobic capacity (< 0.05). No changes were found in fat mass, muscle mass, free fat mass, % of fat, body mass, body mass index, or waist and hip circumferences. No significant changes were observed in blood glucose, glycated hemoglobin, triglycerides, total cholesterol, high-density lipoprotein, low-density lipoprotein, or blood pressure (> 0.05). Our results highlight the potential of face-to-face Mat Pilates training as an effective intervention to mitigate persistent symptoms of long COVID related to fatigue and functional capacities.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1177/20543581241289196
+- DOI: 10.3390/ijerph21101385
 
 2. Keywords
-- Solid organ transplant
-- behavior change
-- exercise
-- implementation
-- prehabilitation
+- Pilates
+- SARS-CoV-2
+- body composition
+- fatigue
+- functional capacity
+- online exercise
 
 3. Key Findings
-- Findings extraction requires manual review
+- No changes were found in fat mass, muscle mass, free fat mass, % of fat, body mass, body mass index, or waist and hip circumferences
 
 This study provides insights into:
-- Solid organ transplant assessment methods and outcomes
-- behavior change assessment methods and outcomes
-- exercise assessment methods and outcomes
+- Pilates assessment methods and outcomes
+- SARS-CoV-2 assessment methods and outcomes
+- body composition assessment methods and outcomes

@@ -1,20 +1,25 @@
-Study Title: Correlates of markers of dyssynchrony in patients with STEMI and multivessel disease: an analysis from the IAEA SPECT STEMI trial.
+Study Title: The impact of modified Cognitive-Behavioral Group Therapy in social adjustment functions of children with attention deficit hyperactivity disorder and their parents' stress levels: A nonrandomized clinical trial.
 
 Study Summary:
-In this substudy of the Value of Gated-SPECT MPI for Ischemia- Guided PCI of non-culprit vessels in STEMI Patients with Multi vessel Disease after primary PCI trial after primary PCI we aim to assess if infarct size affects conventional measures of dyssynchrony at rest. Additionally, we explore if there is an independent correlation of stress-inducible ischemia with dyssynchrony at rest. The 48 patients with imaging at randomization were analyzed. Gated-single-photon emission computed tomography (SPECT) MPI with vasodilator stress and technetium-99m-labeled tracers was performed. The phase histogram bandwidth (HBW), phase SD, and entropy were obtained with the QGS software. Correlation between dyssynchrony at rest and infarct size and inducible ischemia was performed using the Spearman test. According to normal database limits dyssynchrony parameters at rest were abnormal for men. In women only HBW was abnormal. Correlation between the summed rest score with dyssynchrony was significant only for entropy ( P &#x2005;=&#x2005;0.035). No correlation was observed for dyssynchrony and stress-induced ischemia. Entropy, as a measure of dyssynchrony, has potential in the assessment of patients with STEMI and multivessel disease after primary PCI. Smaller residual myocardial scars in PCI-reperfused patients with STEMI may contribute to the lack of correlation between dyssynchrony at rest and infarct size and stress-induced ischemia, respectively.
+This study aims to investigate the potential of a modified Cognitive-Behavioral Group Therapy (CBGT) intervention in promoting social adjustment and reducing their parental stress among children exhibiting symptoms of attention deficit hyperactivity disorder (ADHD). The research also highlights the mechanisms and advantages of employing modified CBGT to address negative symptoms associated with ADHD in children. The study was conducted at Fuzhou Children's Hospital of Fujian Province, with a total of 20 pairs of parents and children with ADHD participating. The assessment utilized measures including SNAP, Barratt Impulsivity, and Conners to evaluate changes in the children's social adjustment abilities and core/associated ADHD symptoms before and after CBGT intervention. Additionally, the Parental Stress Index was employed to gauge the level of stress experienced by the parents. Consequently, CBGT interventions have shown substantial improvements in children's social adjustment abilities and have proven to be a significant source of stress relief for parents.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MNM.0000000000001860
+- DOI: 10.1002/jclp.23704
 
 2. Keywords
-
+- ADHD
+- CBGT
+- parenting stress
+- social adjustment functioning
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- General research methodology and outcomes
+- ADHD assessment methods and outcomes
+- CBGT assessment methods and outcomes
+- parenting stress assessment methods and outcomes

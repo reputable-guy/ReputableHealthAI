@@ -1,27 +1,31 @@
-Study Title: Effects of a Modified Long-Acting Cocktail on Analgesia and Enhanced Recovery After Total Hip Arthroplasty: A Double-Blinded Randomized Clinical Trial.
+Study Title: An Aerobic Cooldown After Morning, Fasted Resistance Exercise Has Limited Impact on Post-exercise Hyperglycemia in Adults With Type&#xa0;1&#xa0;Diabetes: A Randomized Crossover Study.
 
 Study Summary:
-We compared the efficacy and safety of a modified cocktail for postoperative analgesia and early functional rehabilitation in patients undergoing total hip arthroplasty (THA). Magnesium sulfate and sodium bicarbonate were added to a cocktail of ropivacaine, epinephrine, and dexamethasone. Primary outcome measures were visual analog scale (VAS) pain scores at various intervals after surgery, morphine consumption for rescue analgesia after surgery, and time to first rescue analgesia. Secondary outcomes were hip function after surgery, daily walking distance, quadriceps muscle strength, and the incidence of postoperative adverse reactions. Morphine consumption was significantly lower in the modified cocktail group than in the control group in the first 24&#xa0;hours after surgery (6.2 &#xb1; 6.0 versus 14.2 &#xb1; 6.4 mg, P < .001), as was total morphine consumption (10.0 &#xb1; 8.6 versus 19.2 &#xb1; 10.1 mg, P < .001). The duration of the first rescue analgesia was significantly prolonged (23.7 &#xb1; 10.3 versus 11.9 &#xb1; 5.8 mg, P < .001). Morphine consumption was also reduced in the magnesium sulfate and sodium bicarbonate groups over a 24-hour period compared to the control group (P < .001). The modified cocktail group had significantly lower resting VAS pain scores than the control group within 24&#xa0;hours after surgery (P&#xa0;< .050). The VAS pain scores during movement within 12&#xa0;hours after surgery were also lower (P&#xa0;< .050). The experimental groups showed better hip range of motion (P&#xa0;< .050) and longer walking distance (P&#xa0;< .050) on the first postoperative day, and levels of inflammatory markers were significantly reduced. The incidence of postoperative adverse reactions was similar among the 4 groups. The modified cocktail with a new adjuvant can prolong the duration of postoperative analgesia, reduce the dosage of rescue analgesics, and accelerate early postoperative functional recovery in patients undergoing THA.
+Expert guidelines recommend an aerobic cooldown to lower blood glucose for the management of post-exercise hyperglycemia. This strategy has never been empirically tested. Our aim in this study was to compare the glycemic effects of performing an aerobic cooldown vs not performing a cooldown after a fasted resistance exercise session. We hypothesized that the cooldown would lower blood glucose in the 30 minutes after exercise and would result in less time in hyperglycemia in the 6 hours after exercise. Participants completed 2 identical resistance exercise sessions. One was followed by a low-intensity (30% of peak oxygen consumption) 10-minute cycle ergometer cooldown, and the other was followed by 10 minutes of sitting. We compared the changes in capillary glucose concentration during these sessions and continuous glucose monitoring (CGM) outcomes over 24 hours post-exercise. Sixteen participants completed the trial. Capillary glucose was similar between conditions at the start of exercise (p=0.07). Capillary glucose concentration decreased by 0.6&#xb1;1.0 mmol/L during the 10-minute cooldown, but it increased by 0.7&#xb1;1.3 mmol/L during the same time in the no-cooldown condition. The resulting difference in glucose trajectory led to a significant interaction (p=0.02), with no effect from treatment (p=0.7). Capillary glucose values at the end of recovery were similar between conditions (p>0.05). There were no significant differences in CGM outcomes. An aerobic cooldown reduces glucose concentration in the post-exercise period, but the small and brief nature of this reduction makes this strategy unlikely to be an effective treatment for hyperglycemia occurring after fasted exercise.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1016/j.arth.2024.05.019
+- DOI: 10.1016/j.jcjd.2024.05.001
 
 2. Keywords
-- analgesia
-- cocktail
-- enhanced recovery
-- pain
-- periarticular infiltration analgesia
-- total hip arthroplasty
+- adultes
+- adults
+- continuous glucose monitoring
+- diab&#xe8;te de type 1
+- exercice de r&#xe9;sistance
+- exercice &#xe0; jeun
+- fasted exercise
+- resistance exercise
+- surveillance continue du glucose
+- type 1 diabetes mellitus
 
 3. Key Findings
-- The experimental groups showed better hip range of motion (P&#xa0;<
+- Findings extraction requires manual review
 
 This study provides insights into:
-- analgesia assessment methods and outcomes
-- cocktail assessment methods and outcomes
-- enhanced recovery assessment methods and outcomes
+- adultes assessment methods and outcomes
+- adults assessment methods and outcomes
+- continuous glucose monitoring assessment methods and outcomes

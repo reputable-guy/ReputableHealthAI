@@ -1,27 +1,25 @@
-Study Title: Photovoice for leveraging traditional, complementary, and integrative medicine amongst black adults to improve sleep health and overall health.
+Study Title: Effects of a Triage Checklist to optimize insomnia treatment outcomes and reduce hypnotic use: the RCT of the effectiveness of stepped-care sleep therapy in general practice study.
 
 Study Summary:
-Average adults are recommended to have 7-8&#x2009;h of sleep. However insufficient sleep (IS defined as <7&#x2009;h/nightly) is associated with increased risk of chronic diseases such as cardiovascular disease (CVD) and type 2 diabetes mellitus (T2DM). Traditional, complementary, and integrative medicine (TCIM), a burgeoning area of research and practice, leverages both modern and traditional approaches to improve health. Despite TCIM's recognition as a tool to improve sleep and related outcomes, there is a gap in literature in addressing its impact among black individuals, who experience a disproportionate burden of IS and chronic disease. This qualitative study aimed to increase understanding of TCIM practices to overcome IS and overall health in black communities. Using photovoice methodology, a qualitative tool which applies community-engaged principles to produce culturally informed results through interviews and digital media, consented participants were recruited from Miami, Florida and (1) instructed to capture images over one week that communicated their TCIM to improve sleep and overall health on their mobile device; (2) interviewed using individual, semi-structured procedures to add "voice" to the "photos" they captured for ~20&#x2009;min; and (3) invited to participate in follow-up focus groups for refined discussion and data triangulation for ~1.5&#x2009;h. Both individual and focus group interviews were conducted over Zoom with recordings transcribed for formal content analysis using Nvivo software. The sample included N&#x2009;=&#x2009;25 diverse US black individuals (M&#x2009;=&#x2009;37, SD&#x2009;=&#x2009;13, range 21-57). Approximately a quarter of the sample were unemployed (&#x2009;=&#x2009;7) and majority were women (N&#x2009;=&#x2009;21). Results highlighted five themes including: (1) natural wellness (sleep supplements, comfort beverages, aromatherapy, herbalism, outdoors); (2) self-care (self-maintenance, physical activity, spatial comfort); (3) leisure (pet support, play); (4) mental stimulation (mindfulness, reading); and (5) spiritual wellness (faith-based practices). Study results elucidate the heterogeneity of diverse US black individuals regarding sociocultural knowledge, beliefs, and behaviors. Addressing IS in black communities requires a comprehensive strategy that integrates cultural sensitivity, family and community dynamics, education, mental health support, and informed policymaking. Future studies should consider how sleep health literacy, stress appraisal, and coping strategies may vary by race/ethnicity for tailored intervention.
+Evaluate a triaged stepped-care strategy among adults 50 and older with insomnia disorder. Participants (N&#x2005;=&#x2005;245) were classified at baseline by a Triage Checklist. Those projected to do better if they start treatment with therapist versus digitally delivered CBT-I (tCBT-I vs dCBT-I) constituted the YES stratum (n&#x2005;=&#x2005;137); the rest constituted the NO stratum (n&#x2005;=&#x2005;108). Participants were randomized within stratum to a strategy that utilized only dCBT-I (ONLN) or to a strategy that prospectively allocated the first step of care to dCBT-I or tCBT-I based on the Triage Checklist and switched dCBT-I nonresponders at 2-months to tCBT-I (STEP). Co-primary outcomes were the insomnia severity index (ISI) and the average nightly amount of prescription hypnotic medications used (MEDS), assessed at 2, 4, 6, 9, and 12 months postrandomization. Mixed effects models revealed that, compared to ONLN, participants in STEP had greater reductions in ISI (p&#x2005;=&#x2005;.001; &#x3b7;2&#x2005;=&#x2005;0.01) and MEDS (p&#x2005;=&#x2005;.019, &#x3b7;2&#x2005;=&#x2005;0.01). Within the YES stratum, compared to ONLN, those in STEP had greater reductions in ISI (p&#x2005;=&#x2005;.0001, &#x3b7;2&#x2005;=&#x2005;0.023) and MEDS (p&#x2005;=&#x2005;.018, &#x3b7;2&#x2005;=&#x2005;0.01). Within the ONLN arm, compared to the YES stratum, those in the NO stratum had greater reductions in ISI (p&#x2005;=&#x2005;.015, &#x3b7;2&#x2005;=&#x2005;0.01) but not in MEDS. Results did not change with treatment-dose covariate adjustment. Triaged-stepped care can help guide the allocation of limited CBT-I treatment resources to promote effective and safe treatment of chronic insomnia among middle-aged and older adults. Further refinement of the Triage Checklist and optimization of the timing and switching criteria may improve the balance between effectiveness and use of resources. Name: The RESTING Insomnia Study: Randomized Controlled Study on Effectiveness of Stepped-Care Sleep Therapy. NCT03532282. URL: https://clinicaltrials.gov/study/NCT03532282.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.3389/fpubh.2024.1359096
+- Publication Date: 2025
+- DOI: 10.1093/sleep/zsae182
 
 2. Keywords
-- chronic disease
-- complementary and alternative medicine
-- health equity
-- qualitative research
-- sleep
-- traditional, complementary, and integrative medicine
+- digital
+- hypnotics
+- insomnia
+- stepped care
 
 3. Key Findings
-- Findings extraction requires manual review
+- Mixed effects models revealed that, compared to ONLN, participants in STEP had greater reductions in ISI (p&#x2005;=&#x2005;
 
 This study provides insights into:
-- chronic disease assessment methods and outcomes
-- complementary and alternative medicine assessment methods and outcomes
-- health equity assessment methods and outcomes
+- digital assessment methods and outcomes
+- hypnotics assessment methods and outcomes
+- insomnia assessment methods and outcomes

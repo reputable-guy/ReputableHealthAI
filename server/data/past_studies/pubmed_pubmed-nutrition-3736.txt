@@ -1,26 +1,25 @@
-Study Title: Effects of 2-year dietary and physical activity intervention on cognition in children-a nonrandomized controlled trial.
+Study Title: Early time-restricted eating advances sleep in late sleepers: a pilot randomized controlled trial.
 
 Study Summary:
-We investigated the effects of a combined dietary and PA intervention on cognition in children and whether changes in diet quality, PA, sedentary behavior (SB), and sedentary time (ST) are associated with changes in cognition. We conducted a 2-year nonrandomized controlled trial in 504 children aged 6-9&#x2009;years at baseline. The children were allocated to a combined dietary and PA intervention group (n&#x2009;=&#x2009;237) or a control group (n&#x2009;=&#x2009;160) without blinding. The children and their parents allocated to the intervention group had six dietary counseling sessions of 30-45&#x2009;min and six PA counseling sessions of 30-45&#x2009;min during the 2-year intervention period. The children were also encouraged to participate in after-school exercise clubs. Cognition was assessed by the Raven's Colored Progressive Matrices. We assessed dietary factors by 4&#x2009;days food records and computed the Baltic Sea Diet Score (BSDS) as a measure of diet quality. PA and ST were assessed by a combined heart rate and body movement monitor, types of PA and SB by a questionnaire. The intervention had no effect on cognition. Increased BSDS and consumption of low-fat milk and decreased consumption of red meat and sausages were associated with improved cognition over 2&#x2009;years. Increased organized sports, ST, and reading were positively, while unsupervised PA, computer use, and writing were negatively associated with cognition. Combined dietary and PA intervention had no effect on cognition. Improved diet quality and increased organized sports and reading were associated with improved cognition.
+This study evaluated the effects of early time-restricted eating (eTRE) on shifting the timing of sleep among late sleepers. Primary outcomes included actigraphy- and sleep diary-derived sleep onset, midsleep phase, and wake time with total sleep time as a secondary outcome. Fifteen healthy adults with habitual late sleep timing were randomized to receive either eTRE or sleep and nutrition hygiene (control) via a single 30-minute synchronous video session. Participants completed an initial 1-week baseline phase followed by a 2-week intervention phase. Measures included continuous sleep monitoring and sleep and nutrition diaries. Linear mixed-effects modeling demonstrated that eTRE significantly advanced sleep timing compared with controls. Self-reported sleep onset (56.1 [95% confidence interval: 20.5, 91.7] minutes), midpoint (19.5 [7.2, 31.9] minutes), and offset (42.2 [2.9, 81.5] minutes) each moved earlier in eTRE as compared with controls. Similarly, objectively determined sleep onset (66.5 [29.6, 103.4] minutes), midpoint (21.9 [9.1, 34.7] minutes), and offset (39.3 [1.3, 77.3] minutes) each moved earlier in eTRE as compared with controls. Total sleep time showed a nonsignificant increase in the eTRE group as compared with controls. Late sleepers who were instructed in a single session about eTRE significantly advanced their sleep timing, especially sleep onset. eTRE shows potential as a clinical strategy for advancing sleep timing in late sleepers. Registry: Chinese Clinical Trial Registry; Name: FAST Asleep: It's All About Timing; URL: https://www.chictr.org.cn/showproj.html?proj=122504; Identifier: ChiCTR2100043691. Blum DJ, Hernandez B, Zeitzer JM. Early time-restricted eating advances sleep in late sleepers: a pilot randomized controlled trial.. 2023;19(12):2097-2106.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
-- Publication Date: 2024
-- DOI: 10.1111/sms.14464
+- Publication Date: 2023
+- DOI: 10.5664/jcsm.10754
 
 2. Keywords
-- brain
-- exercise
-- lifestyle
-- nutrition
-- pediatrics
+- early time-restricted eating
+- sleep
+- treatment
 
 3. Key Findings
-- Findings extraction requires manual review
+- Linear mixed-effects modeling demonstrated that eTRE significantly advanced sleep timing compared with controls
+- Total sleep time showed a nonsignificant increase in the eTRE group as compared with controls
 
 This study provides insights into:
-- brain assessment methods and outcomes
-- exercise assessment methods and outcomes
-- lifestyle assessment methods and outcomes
+- early time-restricted eating assessment methods and outcomes
+- sleep assessment methods and outcomes
+- treatment assessment methods and outcomes

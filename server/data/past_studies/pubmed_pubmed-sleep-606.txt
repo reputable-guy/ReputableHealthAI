@@ -1,24 +1,25 @@
-Study Title: Failure of an electric rocking device to improve neonatal sleep.
+Study Title: The interactive effect of sustained sleep restriction and resistance exercise on skeletal muscle transcriptomics in young females.
 
 Study Summary:
-We wanted to investigate whether an electric rocking device (Swing2Sleep, Neum&#xfc;nster, Germany), sold with the claim to promote infant sleep, would increase total sleep time or reduce sleep latency once infants are put therein. In a randomised crossover design, 20 infants (median gestational age at birth 31.7&#x2009;weeks, range 25-39) were placed to sleep either first with the device rocking, then not rocking (or vice versa) for 5-7&#x2009;h each. The device consisted of a hammock with three spiral springs that performed vertical swings at a rate of 100/min and an amplitude of 2.5&#x2009;cm. There was no significant difference in %time spent asleep (83 (22-97) vs. 85% (49-96)), sleep latency (7.7 (2-45) vs. 12.3 (4-42) min), sleep fragmentation (1.3 (0.5-2.3) vs. 1.1 (0.2-5.5)) or efficiency (0.8 (0.2-1.0) vs. 0.9 (0.5-1.0)) between both conditions. At its recommended settings, the device did not achieve its intended effect in these infants.
+Both sleep loss and exercise regulate gene expression in skeletal muscle, yet little is known about how the interaction of these stressors affects the transcriptome. The aim of this study was to investigate the effect of nine nights of sleep restriction (SR), with repeated resistance exercise (REx) sessions, on the skeletal muscle transcriptome of young, trained females. Ten healthy females aged 18-35 yr old undertook a randomized cross-over study of nine nights of SR (5 h time in bed) and normal sleep (NS; &#x2265;7 h time in bed) with a minimum 6-wk washout. Participants completed four REx sessions per condition (,,, and). Muscle biopsies were collected both pre- and post-REx onand. Gene and protein expression were assessed by RNA sequencing and Western blot, respectively. Three or nine nights of SR had no effect on the muscle transcriptome independently of exercise. However, close to 3,000 transcripts were differentially regulated (false discovery rate < 0.05) 48 h after the completion of three resistance exercise sessions in both NS and SR conditions. Only 39% of downregulated genes and 18% of upregulated genes were common between both conditions, indicating a moderating effect of SR on the response to exercise. SR and REx interacted to alter the enrichment of skeletal muscle transcriptomic pathways in young, resistance-trained females. Performing exercise when sleep restricted may not provide the same adaptive response for individuals as if they were fully rested.This study investigated the effect of nine nights of sleep restriction, with repeated resistance exercise sessions, on the skeletal muscle transcriptome of young, trained females. Sleep restriction and resistance exercise interacted to alter the enrichment of skeletal muscle transcriptomic pathways in young, resistance-trained females. Performing exercise when sleep restricted may not provide the same adaptive response for individuals as if they were fully rested.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1111/apa.17279
+- DOI: 10.1152/physiolgenomics.00010.2024
 
 2. Keywords
-- neonatal sleep
-- rocking
-- soothing
+- exercise
+- gene
+- sleep loss
+- transcriptome
 
 3. Key Findings
 - Findings extraction requires manual review
 
 This study provides insights into:
-- neonatal sleep assessment methods and outcomes
-- rocking assessment methods and outcomes
-- soothing assessment methods and outcomes
+- exercise assessment methods and outcomes
+- gene assessment methods and outcomes
+- sleep loss assessment methods and outcomes

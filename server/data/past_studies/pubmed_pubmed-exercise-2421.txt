@@ -1,28 +1,26 @@
-Study Title: Cerebellar tDCS combined with augmented reality treadmill for freezing of gait in Parkinson's disease: a randomized controlled trial.
+Study Title: Evaluation of the single and combined therapeutic effects of individually manufactured earplug therapy in patients with myogenous temporomandibular disorders: A randomized controlled clinical trial.
 
 Study Summary:
-Parkinson's disease (PD) is often accompanied by gait disorders and freezing of gait (FoG), disabling symptoms that are resistant to conventional dopamine treatments. Given the cerebellum's connectivity with the motor cortex and basal ganglia, and its implication in PD, combining transcranial direct current stimulation targeting the cerebellum (ctDCS) with physical exercise might improve gait and balance. This study aimed to evaluate the effectiveness of a novel rehabilitation approach that combines noninvasive cerebellar stimulation with motor-cognitive training via an augmented reality treadmill (C-Mill VR) in individuals with PD and FoG. Seventeen individuals with PD exhibiting FoG were enrolled in a randomized controlled trial. The participants were randomly assigned to a group receiving motor-cognitive training on the C-Mill VRwith either ctDCS or sham ctDCS. Assessments were conducted pre-intervention (T0), post-intervention (T1) after 10 sessions, and at 4-week follow-up (T2), using various clinical scales. Additionally, C-Mill assessments of postural stability and gait were conducted at T0 and T1. Although no significant time*group interactions were observed for any of the clinical variables measured, some were found in the C-Mill measures. Specifically, right lower limb sway in static conditions, both with eyes open (OAD) and eyes closed (OCD), significantly improved at T1 in the ctDCS group compared with the sham group. C-Mill outcomes indicate that the combined treatment may enhance motor control. Participants who received ctDCS along with augmented reality motor-cognitive training showed better postural stability.
+To evaluate the effect of individually manufactured earplug therapy on pain intensity (PI), symptom severity (SS), and maximum mouth opening (MMO), in patients with myogenous temporomandibular disorders (TMD). One-hundred-twenty patients were randomly allocated to six groups: Groups EP (earplug), OS (occlusal splint), EX (exercise), EPO (earplug with occlusal splint), EPE (earplug with exercise), and C (control). Outcomes were PI (assessed with a visual analog scale (VAS)), SS (assessed with the modified Symptom Severity Index Questionnaire (mSSI)), and MMO (evaluated with a digital caliper). Measurements were performed at T0 (before the therapy), T1 (1-month follow-up), and T2 (3-month follow-up). Data were analyzed using one-way analysis of variance (ANOVA), Tukey's HSD, and chi-square tests (alpha&#x2009;=&#x2009;0.05). At T1 and T2, the greatest VAS and mSSI reduction was detected for the groups EPE (VAS&#x2009;=&#x2009;5.3&#x2009;&#xb1;&#x2009;1.05, 3.3&#x2009;&#xb1;&#x2009;0.7; mSSI&#x2009;=&#x2009;38.2&#x2009;&#xb1;&#x2009;2.27, 43.6&#x2009;&#xb1;&#x2009;3.94) and EPO (VAS&#x2009;=&#x2009;5.2&#x2009;&#xb1;&#x2009;0.91, 3.2&#x2009;&#xb1;&#x2009;0.78; mSSI&#x2009;=&#x2009;36.3&#x2009;&#xb1;&#x2009;3.97, 42.2&#x2009;&#xb1;&#x2009;3.19), respectively (p&#x2009;<&#x2009;0.05). At T1, occlusal splint groups (groups OS (34.8&#x2009;&#xb1;&#x2009;2.97&#xa0;mm) and EPO (33.8&#x2009;&#xb1;&#x2009;3.49&#xa0;mm)) gave the highest MMO values, while T2 values did not constitute a significant difference with T1 (p&#x2009;>&#x2009;0.05). The short-term use of combined earplug therapy resulted in a decrease in both PI and SS. Improvement in MMO in participants using occlusal splints was observed in the 1st month and was maintained through the 3rd month. Earplug therapy can be applied as a complementary therapy to occlusal splint and exercise treatments to decrease PI and SS in patients with myogenous TMD. To achieve functional recovery such as MMO, its combined use with splints should be taken into consideration by clinicians.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s12984-024-01457-z
+- DOI: 10.1007/s00784-024-05956-0
 
 2. Keywords
-- Augmented reality
-- Cerebellum
-- Freezing of gait
-- Physical exercise
-- Rehabilitation
-- Transcranial direct current stimulation
+- Earplug
+- Mouth opening
+- Myogenous temporomandibular disorders
+- Occlusal splint
+- Pain measurement
 
 3. Key Findings
-- Although no significant time*group interactions were observed for any of the clinical variables measured, some were found in the C-Mill measures
-- Participants who received ctDCS along with augmented reality motor-cognitive training showed better postural stability
+- Findings extraction requires manual review
 
 This study provides insights into:
-- Augmented reality assessment methods and outcomes
-- Cerebellum assessment methods and outcomes
-- Freezing of gait assessment methods and outcomes
+- Earplug assessment methods and outcomes
+- Mouth opening assessment methods and outcomes
+- Myogenous temporomandibular disorders assessment methods and outcomes

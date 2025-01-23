@@ -1,26 +1,20 @@
-Study Title: The Impact of Different Telerehabilitation Methods on Peripheral Muscle Strength and Aerobic Capacity in COPD Patients: A Randomized Controlled Trial.
+Study Title: Velocity-Based-Training Frequency Impacts Changes in Muscle Morphology, Neuromuscular Performance, and Functional Capability in Persons With Parkinson's Disease.
 
 Study Summary:
-Lung diseases have profound effects on the aging population. We aimed to hypothesize and investigate the effect of remote pulmonary telerehabilitation and motor imagery (MI) and action observation (AO) methods on the clinical status of elderly chronic obstructive pulmonary disease (COPD) patients. Twenty-six patients were randomly assigned to pulmonary telerehabilitation (PtR) or cognitive telerehabilitation (CtR) groups. The programs were carried out 3 days a week for 8 weeks. The 6-min walk test (6MWT), modified Medical Research Council dyspnea score, blood lactate level (BLL), measurement of peripheral muscle strength (PMS), and electromyography activation levels of accessory respiratory muscles were the main outcomes. There was a statistically significant improvement (< 0.05) in both groups in the 6MWT distance and in secondary results, except for BLL. Generally, in the mean muscle activity obtained from the electromyography measurement after the program, there were statistically significant increases in the PtR group and decreases in the CtR group (< 0.05). There was a statistically significant increase in PMS in both groups. An active muscle-strengthening program has the same benefits as applying the muscle-strengthening program to the patient as MI and AO. CtR can be a powerful alternative rehabilitation method in respiratory patients who cannot tolerate active exercise programs.
+Calaway, C, Walls, K, Levitt, H, Caplan, J, Mann, B, Martinez, K, Gastaldo, R, Haq, I, and Signorile, JF. Velocity-based-training frequency impacts changes in muscle morphology, neuromuscular performance, and functional capability in persons with Parkinson's disease. J Strength Cond Res 39(1): 99-106, 2025-Velocity-based training (VBT) positively impacts muscle morphology and performance in persons with Parkinson's disease (PD); however, optimal training frequencies for VBT in patients with PD remain undetermined. Changes in ultrasound-determined muscle thickness (MT) and echo intensity (EI)-derived muscle quality of the rectus femoris (RF) and vastus lateralis (VL), neuromuscular performance, and functional capacity were examined following 2 VBT frequencies (2-3 d&#xb7;wk -1 ) using 30% velocity loss thresholds for 12 weeks. Neuromuscular performance was assessed using computerized pneumatic resistance machines. For each variable, 2 (time) &#xd7; 2 (group) repeated-measures analyses of variance (ANOVA) were used to determine significant main effects and interactions. Significant time effects were seen for MT and EI of all muscles ( p < 0.05). Muscle thickness improvements included right VL (RVL) (0.171 &#xb1; 0.065 cm; p = 0.019), left VL (LVL) (0.214 &#xb1; 0.101 cm; p = 0.049), right RF (RRF) (0.194 &#xb1; 0.077 cm; p = 0.023), and left RF (LRF) (0.318 &#xb1; 0.109 cm; p = 0.010). For EI, improvements occurred in RVL (-18.688 &#xb1; 3.600; p = <0.001), LVL (-10.959 &#xb1; 4.894; p = 0.040), RRF (-9.516 &#xb1; 3.537; p = 0.016), and LRF (-9.018 &#xb1; 3.444; p = 0.019). Time effects were seen for leg-press 1-repetition maximum and peak power ( p < 0.01) and habitual walking speed ( p = 0.022), with a group by time interaction for maximal gait speed favoring the 3 d&#xb7;wk -1 condition (&#x2206;0.15 m&#xb7;s -1 , p = 0.002). The results indicate that VBT at 2 or 3 d&#xb7;wk -1 can significantly improve muscle morphology, neuromuscular performance, and functional capability in patients with PD; however, improvements in maximal gait speed require 3 d&#xb7;wk -1 . These findings provide flexibility when developing exercise prescriptions for patients with PD.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.3390/arm92050035
+- DOI: 10.1519/JSC.0000000000004951
 
 2. Keywords
-- COPD
-- action observation
-- motor imagery
-- pulmonary rehabilitation
-- telerehabilitation
+
 
 3. Key Findings
-- Lung diseases have profound effects on the aging population
+- Findings extraction requires manual review
 
 This study provides insights into:
-- COPD assessment methods and outcomes
-- action observation assessment methods and outcomes
-- motor imagery assessment methods and outcomes
+- General research methodology and outcomes

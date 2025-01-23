@@ -1,27 +1,25 @@
-Study Title: The effect of a pre- and post-operative exercise program versus standard care on physical activity and sedentary behavior of patients with esophageal and gastric cancer undergoing neoadjuvant treatment prior to surgery (the PERIOP-OG Trial): a randomized controlled trial&#x2020;.
+Study Title: Benefits of using a support bra in women undergoing coronary artery bypass graft surgery: A randomized trial.
 
 Study Summary:
-Neoadjuvant cancer treatment (NCT) reduces both physical fitness and physical activity (PA) levels, which can increase the risk of adverse outcomes in cancer patients. This study aims to determine the effect of exercise prehabilitation on PA and sedentary behavior (SB) in patients undergoing NCT and surgery for esophagogastric malignancies. This study is a randomized pragmatic controlled multi-center trial conducted across three Irish hospitals. Participants were aged &#x2265;18&#x2009;years scheduled for esophagectomy or gastrectomy and were planned for NCT and surgery. Participants were randomized to an exercise prehabilitation group (EX) that commenced following cancer diagnosis, continued to the point of surgery, and resumed following recovery from surgery for 6&#xa0;weeks or to usual care (UC) who received routine treatment. The primary outcome measures were PA and SB. Between March 2019 and December 2020, 71 participants were recruited: EX (n&#x2009;=&#x2009;36) or UC (n&#x2009;=&#x2009;35). No significant differences were found between the EX group and UC group on levels of PA or SBs across all measured timepoints. Significant decreases in moderate-vigorous physical activity levels (MVPAs) were found between baseline and post-surgery (P&#x2009;=&#x2009;0.028), pre-surgery and post-surgery (P&#x2009;=&#x2009;0.001) and pre-surgery and 6-week follow-up (P&#x2009;=&#x2009;0.022) for all participants. Step count also significantly decreased between pre-surgery and post-surgery (P&#x2009;<&#x2009;0.001). Baseline aerobic fitness was positively associated to PA levels and negatively associated with SB. Esophagogastric cancer patients have lower than recommended levels of PA at the time of diagnosis and this decreased further following completion of NCT. An optional home- or group-based exercise intervention was not effective in improving PA levels or behaviors across the cancer treatment journey.
+Approximately 30 % of cardiac surgeries are conducted on women by median sternotomy, which often causes discomfort such as pain, affects quality of life, and delayed recovery compared with men. Breast size is related to operative wound complications, such as incisional pain, sternum dehiscence, and infection, which may affect hospital costs due to prolonged hospital stays. To evaluate breast size and operative wound complications and the effect of breast support on the incidence of pain, infection, and quality of life in women after coronary artery bypass grafting. Women were randomly assigned to one of three groups: group A (surgical breast support), group B (ordinary breast support), and group C (no-support). Observations were taken daily between the second and seventh postoperative days and at 30, 60, and 180 days. Pain was assessed using the Short-Form 36 Health Survey (SF36) for quality of life and a verbal numerical scale. The authors used the nonparametric Kruskal-Wallis and Friedman tests to examine variance. The authors used the Pearson correlation coefficient or the Spearman correlation for correlations between variables. A multivariate study was conducted to evaluate the occurrence of infection, and the logistic regression model with "stepwise" variable selection was used. A linear regression model with the "stepwise" variable selection was also used for hospitalization. The authors used SPSS 17.0 software for Windows, with a significance level of p < 0.05. There was no difference in pain evaluation between the groups in 190 women (p > 0.05). When comparing quality of life, there was a statistically significant difference in the functional capacity domain at 30 and 60 days, with group A having the best functional capacity (p < 0.05). The larger the breast size, the longer the hospital stay (p < 0.001) and the higher the probability of infection (p = 0.032). Patients with a history of stroke had a 3.8 higher incidence of infection (p = 0.040). The use of surgical support did not affect acute pain or sternal infection rate in the 6-month follow-up. However, it was effective in the functional capacity domain 30 days after surgery and maintained at 60 days.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1093/dote/doae044
+- DOI: 10.1016/j.clinsp.2024.100370
 
 2. Keywords
-- exercise training
-- neoadjuvant chemoradiotherapy
-- physical activity
-- prehabilitation
-- sedentary behavior
+- Pain
+- Quality of life
+- Sternotomy
+- Surgical support
 
 3. Key Findings
-- No significant differences were found between the EX group and UC group on levels of PA or SBs across all measured timepoints
-- Significant decreases in moderate-vigorous physical activity levels (MVPAs) were found between baseline and post-surgery (P&#x2009;=&#x2009;0
+- Findings extraction requires manual review
 
 This study provides insights into:
-- exercise training assessment methods and outcomes
-- neoadjuvant chemoradiotherapy assessment methods and outcomes
-- physical activity assessment methods and outcomes
+- Pain assessment methods and outcomes
+- Quality of life assessment methods and outcomes
+- Sternotomy assessment methods and outcomes

@@ -1,28 +1,26 @@
-Study Title: Relationship between pruritus and sleep in participants with primary biliary cholangitis in the Phase 2b GLIMMER trial.
+Study Title: Association of EEG characteristics with outcomes following pediatric ICU cardiac arrest: A secondary analysis of the ICU-RESUScitation trial.
 
 Study Summary:
-Cholestatic pruritus and fatigue are debilitating conditions associated with primary biliary cholangitis (PBC) and can significantly impact patients' quality of life. Pruritus in PBC often worsens at night and patients frequently report sleep disturbance, which contributes to cognitive symptoms and fatigue. Linerixibat is an ileal bile acid transporter inhibitor in clinical development for the treatment of pruritus associated with PBC and was recently assessed versus placebo in the Phase 2b GLIMMER trial. This post-hoc analysis assesses the relationship between pruritus severity and sleep disturbance in participants of GLIMMER regardless of treatment group. GLIMMER (NCT02966834), a multicenter, double-blind, randomized, placebo-controlled trial, recruited 147 patients with PBC and moderate-to-severe pruritus. Following 4&#xa0;weeks single-blind placebo, patients (randomized 3:1) received linerixibat or placebo for 12&#xa0;weeks (to Week 16). Participants graded their itch (twice daily) and its interference with sleep (once daily) in an electronic diary using a 0-10 numerical rating scale (NRS). Weekly and monthly itch scores were calculated as the mean of the worst daily itch score over the respective time period. At study visits, participants completed the 5-D itch scale and the PBC-40 quality of life questionnaire, both of which contain an item specific to itch-related sleep disturbance. The impact of pruritus on sleep was assessed post hoc through correlations between the changes in NRS, 5-D itch, and PBC-40. Strong correlations were found between change from baseline in weekly itch and sleep NRS scores (r&#x2009;=&#x2009;0.88 [95% confidence interval (CI): 0.83; 0.91]) at the end of treatment (Week 16), as well as in monthly itch and sleep NRS scores (r&#x2009;=&#x2009;0.84 [95% CI: 0.80; 0.87]). Patients with improved weekly pruritus score severity category demonstrated reduced perceived sleep interference on average. Itch responders (&#x2265;2-point improvement in weekly itch score from baseline) displayed larger improvements in weekly sleep NRS score, 5-D itch, and PBC-40 sleep items, than itch non-responders (<2-point improvement). A strong correlation exists between changes in pruritus severity and sleep interference in patients with PBC; pruritus reduction could generate concomitant improvement in sleep.
+There are limited tools available following cardiac arrest to prognosticate neurologic outcomes. Prior retrospective and single center studies have demonstrated early EEG features are associated with neurologic outcome. This study aimed to evaluate the prognostic value of EEG for pediatric in-hospital cardiac arrest (IHCA) in a prospective, multicenter study. This cohort study is a secondary analysis of the ICU-Resuscitation trial, a multicenter randomized interventional trial conducted at 18 pediatric and pediatric cardiac ICUs in the United States. Patients who achieved return of circulation (ROC) and had post-ROC EEG monitoring were eligible for inclusion. Patients&#xa0;<&#xa0;90&#xa0;days old and those with pre-arrest Pediatric Cerebral Performance Category (PCPC) scores&#xa0;>&#xa0;3 were excluded. EEG features of interest included EEG Background Category, and presence of focal abnormalities, sleep spindles, variability, reactivity, periodic and rhythmic patterns, and seizures. The primary outcome was survival to hospital discharge with favorable neurologic outcome. Associations between EEG features and outcomes were assessed with multivariable logistic regression. Prediction models with and without EEG Background Category were developed and receiver operator characteristic curves compared. Of the 1129 patients with an index cardiac arrest who achieved ROC in the parent study, 261 had EEG within 24&#xa0;h of ROC, of which 151 were evaluable. The cohort included 57% males with a median age of 1.1&#xa0;years (IQR 0.4, 6.8). EEG features including EEG Background Category, sleep spindles, variability, and reactivity were associated with survival with favorable outcome and survival, (all p&#xa0;<&#xa0;0.001). The addition of EEG Background Category to clinical models including age category, illness category, PRISM score, duration of CPR, first documented rhythm, highest early post-arrest arterial lactate improved the prediction accuracy achieving an AUROC of 0.84 (CI 0.77-0.92), compared to AUROC of 0.76 (CI 0.67-0.85) (p&#xa0;=&#xa0;0.005) without EEG Background Category. This multicenter study demonstrates the value of EEG, in the first 24&#xa0;h following ROC, for predicting survival with favorable outcome after a pediatric IHCA.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1186/s41687-024-00722-y
+- DOI: 10.1016/j.resuscitation.2024.110271
 
 2. Keywords
-- Cholestatic pruritus
-- Health-related quality of life
-- IBAT inhibitor
-- PBC
-- Primary biliary cholangitis
-- Sleep interference
+- Cardiac arrest
+- Electroencephalography
+- Neuro-prognostication
+- Pediatric cardiac arrest
+- Post-resuscitation care
 
 3. Key Findings
-- Strong correlations were found between change from baseline in weekly itch and sleep NRS scores (r&#x2009;=&#x2009;0
-- Patients with improved weekly pruritus score severity category demonstrated reduced perceived sleep interference on average
+- Prior retrospective and single center studies have demonstrated early EEG features are associated with neurologic outcome
 
 This study provides insights into:
-- Cholestatic pruritus assessment methods and outcomes
-- Health-related quality of life assessment methods and outcomes
-- IBAT inhibitor assessment methods and outcomes
+- Cardiac arrest assessment methods and outcomes
+- Electroencephalography assessment methods and outcomes
+- Neuro-prognostication assessment methods and outcomes

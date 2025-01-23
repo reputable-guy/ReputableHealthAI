@@ -1,20 +1,26 @@
-Study Title: Bolus administration of remimazolam was superior to midazolam for deep sedation in elderly patients undergoing diagnostic bronchoscopy: A randomized, double-blind, controlled trial.
+Study Title: Recent advances in the application of Mendelian randomization to chronic kidney disease.
 
 Study Summary:
-To date, there is no standardized practice for the use of pharmacological sedatives during flexible bronchoscopy, particularly for elderly patients. This exploratory study aimed to assess the efficacy and safety of remimazolam at a single induced dose for deep sedation in elderly patients undergoing diagnostic flexible bronchoscopy (DFB), and compare with midazolam, a commonly used sedative. A total of 100 elderly patients (age range 65-80 yr; American Society of Anesthesiologists Physical Status I-III) undergoing DFB were randomly allocated into 2 groups according to the sedatives used for induction: the remimazolam group and the midazolam group. Sedation induction was initiated by an intravenous bolus of remimazolam (0.135&#x2009;mg/kg) or midazolam (0.045&#x2009;mg/kg), respectively, both groups were combined with a high-dose of alfentanil (18 &#xb5;g/kg), and supplemented with high-flow nasal cannula (HFNC) oxygen supply at a flow rate of 45&#x2009;L/min. If the target depth of sedation was not achieved, propofol would be titrated as a rescue. The primary outcome was the success rate of sedation at a single induced dose to achieve target depth (Ramsay sedation score [RSS]&#x2005;=&#x2005;4) during induction, intraoperative changes in vital signs, postoperative follow-up situation and incidence of post-bronchoscopy adverse events were evaluated as secondary outcomes. The success rate of sedation in the remimazolam group was significantly higher than that in the midazolam group (65.2% vs 39.6%, P&#x2005;=&#x2005;.013), while the incidence of extra sleep within 6 hours after procedure was lower in the remimazolam group as compared to the midazolam group (10.9% vs 31.3%, P&#x2005;=&#x2005;.016). No statistically significant differences were observed between the 2 groups regarding hemodynamic fluctuations, incidence of hypoxemia, and cough response during the procedure, as well as postoperative recall, willingness to undergo reexamination, and other post-bronchoscopy adverse events. Bolus administration of remimazolam offers advantages over midazolam for deep sedation in elderly patients undergoing DFB, in terms of a higher success rate of sedation and a lower incidence of extra sleep within 6 hours after procedure, though the safety profiles of both groups were favorable.
+Chronic kidney disease (CKD) is a condition influenced by both genetic and environmental factors and has been a focus of extensive research. Utilizing Mendelian randomization, researchers have begun to untangle the complex causal relationships underlying CKD. This review delves into the advances and challenges in the application of MR in the field of nephrology, shifting from a mere summary of its principles and limitations to a more nuanced exploration of its contributions to our understanding of CKD. Key findings from recent studies have been pivotal in reshaping our comprehension of CKD. Notably, evidence indicates that elevated testosterone levels may impair renal function, while higher sex hormone-binding globulin (SHBG) levels appear to be protective, predominantly in men. Surprisingly, variations in plasma glucose and glycated hemoglobin levels seem unaffected by genetically induced changes in the estimated glomerular filtration rate (eGFR), suggesting an independent pathway for renal function impairment. Furthermore, lifestyle factors such as physical activity and socioeconomic status emerge as significant influencers of CKD risk and kidney health. The relationship between sleep duration and CKD is nuanced; short sleep duration is linked to increased risk, while long sleep duration does not exhibit a clear causal effect. Additionally, lifestyle factors, including diet, exercise, and mental wellness activities, play a crucial role in kidney health. New insights also reveal a substantial causal connection between both central and general obesity and CKD onset, while no significant links were found between genetically modified LDL cholesterol or triglyceride levels and kidney function. This review not only presents the recent achievements of MR in CKD research but also illuminates the path forwards, underscoring critical unanswered questions and proposing future research directions in this dynamic field.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1097/MD.0000000000037215
+- DOI: 10.1080/0886022X.2024.2319712
 
 2. Keywords
-
+- Chronic kidney disease
+- Mendelian randomization
+- cardiovascular disease
+- metabolic disorder
+- systematic review
 
 3. Key Findings
-- Findings extraction requires manual review
+- New insights also reveal a substantial causal connection between both central and general obesity and CKD onset, while no significant links were found between genetically modified LDL cholesterol or triglyceride levels and kidney function
 
 This study provides insights into:
-- General research methodology and outcomes
+- Chronic kidney disease assessment methods and outcomes
+- Mendelian randomization assessment methods and outcomes
+- cardiovascular disease assessment methods and outcomes

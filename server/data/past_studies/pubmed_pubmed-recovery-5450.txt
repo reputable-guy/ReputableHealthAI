@@ -1,20 +1,20 @@
-Study Title: Exploring postictal recovery with acetaminophen or nimodipine: A randomized-controlled crossover trial.
+Study Title: Ten-year outcomes of a randomized clinical trial of endothermal ablation versus conventional surgery for great saphenous varicose veins.
 
 Study Summary:
-The postictal state is underrecognized in epilepsy. Animal models show improvement of postictal symptoms and cerebral perfusion with acetaminophen or nimodipine. We studied the effects of acetaminophen or nimodipine on postictal electroencephalographic (EEG) recovery, clinical reorientation, and hypoperfusion in patients with ECT-induced seizures. In this prospective clinical trial with three-condition randomized crossover design, study interventions were administered orally 2 h before ECT sessions (1000&#x2009;mg acetaminophen, 60&#x2009;mg nimodipine, or a placebo condition). Primary outcome measure was the speed of postictal EEG recovery. Secondary outcomes were the extent of postictal EEG recovery, clinical reorientation time, and postictal cerebral blood flow as assessed by perfusion-weighted MRI. Bayesian generalized mixed-effects models were applied for analyses. We included 300 seizures, postictal EEGs, and reorientation time values, and 76 MRI perfusion measures from 33 patients (median age 53&#x2009;years, 19 female). Pretreatment with acetaminophen or nimodipine was not associated with change in speed of EEG recovery compared to placebo (1.13 [95%CI 0.92, 1.40] and 1.07 [95%CI 0.87, 1.31], respectively), nor with the secondary outcomes. No patient reached full EEG recovery at 1 h post-seizure, despite clinical recovery in 89%. Longer seizures were associated with slower EEG recovery and lower postictal perfusion. Nimodipine altered regional perfusion in the posterior cortex. Pretreatment with acetaminophen or nimodipine did not alleviate symptoms and signs of the postictal state. Systematic study of the postictal state after ECT-induced seizures is feasible.
+Surgical ligation and stripping (surgery) and endothermal ablation are both effective treatments for varicose veins, improving quality of life (QoL) up to 5 years. Few data are available on long-term outcomes. The aim of this study was to evaluate the outcomes 10 years after interventions in an RCT. Previously this RCT demonstrated that endothermal ablation is associated with superior postprocedural QoL, more rapid recovery, and lower rates of early clinical recurrence. This analysis reports outcomes at 10 years. Patients with symptomatic varicose veins owing to unilateral great saphenous vein reflux were randomized to either surgery or endovenous laser ablation (EVLA). Outcomes at 10 years included clinical recurrence and QoL. Data were obtained for 206 of 280 patients (73.6%) at 10 years. Both groups retained significant QoL improvement compared with pretreatment levels (Aberdeen Varicose Vein Questionnaire (AVVQ), Short Form 36 (SF-36&#xae;), and EQ-5D&#x2122;; P < 0.001). Clinical disease progression from baseline was observed in only 10.7% of patients. The clinical recurrence rate was lower in the EVLA group (37 versus 59%; P = 0.005). The number needed to treat with EVLA to avoid one clinical recurrence within 10 years was five. This was associated with significantly higher (better) generic QoL scores with EVLA in several SF-36&#xae; domains, including bodily pain (median 84 (i.q.r. 51-100) versus 62 (41-84); P = 0.009) and general health (77 (62-87) versus 67 (52-82); P = 0.017). AVVQ scores in the EVLA group were also lower (better) (3.1 (0-7.7) versus 6.3 (0.7-13.3); P = 0.029). Both surgery and endothermal ablation are effective treatments for varicose veins at 10 years, with durable improvement in QoL and a very low rate of disease progression. However, endothermal ablation was associated with superior clinical and QoL outcomes. Registration number: NCT00759434 (http://www.clinicaltrials.gov).
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2024
-- DOI: 10.1002/acn3.52143
+- DOI: 10.1093/bjs/znae195
 
 2. Keywords
 
 
 3. Key Findings
-- Findings extraction requires manual review
+- Previously this RCT demonstrated that endothermal ablation is associated with superior postprocedural QoL, more rapid recovery, and lower rates of early clinical recurrence
 
 This study provides insights into:
 - General research methodology and outcomes

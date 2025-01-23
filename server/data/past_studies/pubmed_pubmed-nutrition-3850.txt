@@ -1,29 +1,26 @@
-Study Title: Evaluating the relative impact of multiple healthy food choice interventions on choice process variables and choices.
+Study Title: A predictive modelling approach to illustrate factors correlating with stunting among children aged 12-23 months: a cluster randomised pre-post study.
 
 Study Summary:
-Fiscal tools-taxes and/or subsidies-are increasingly used to address diet-related health problems. However, some studies have found that these tools are markedly more effective if attention is drawn to the tax or subsidy, suggesting that the price change alone may go unnoticed in the complex food environments that consumers face. Interventions that prompt individuals to consider health during choice show promise for promoting healthy food choices in both simple laboratory settings and complex, real-world markets. In this pre-registered study, I examine the impact of dietary fiber health prompts and/or dietary fiber subsidies on the per-serving fiber content of foods chosen, the documented set of products considered, and (self-reported) nutrition information use by participants in an online supermarket setting. Participants were randomized to one of four conditions: 1) control, 2) subsidy, 3) fiber prompt, and 4) fiber prompt&#xa0;+&#xa0;subsidy. Results show that both the prompt and prompt&#xa0;+&#xa0;subsidy conditions significantly increase fiber content of foods chosen (with the latter having a larger effect). While all three interventions influence the probability of using nutrition information during food choice and affect the set of products that respondents consider relative to the control condition, the effects were larger for the prompt and prompt&#xa0;+&#xa0;subsidy conditions. A multiple mediation analysis illustrates that both direct and indirect (through the set of products considered and the use of fiber information during choice) pathways lead to the significant overall increase in fiber content of selected foods.
+The aim of this study was to construct a predictive model in order to develop an intervention study to reduce the prevalence of stunting among children aged 12-23 months. The study followed a cluster randomised pre-post design and measured the impacts on various indicators of livelihood, health and nutrition. The study was based on a large dataset collected from two cross-sectional studies (baseline and endline). The study was conducted in the north-eastern region of Bangladesh under the Sylhet division, which is vulnerable to both natural disasters and poverty. The study specifically targeted children between the ages of 12 and 23 months. Childhood stunting, defined as a length-for-age z-score <-2, was the outcome variable in this study. Logistic and probit regression models and a decision tree were constructed to predict the factors associated with childhood stunting. The predictive performance of the models was evaluated by computing the area under the receiver operating characteristic (ROC) curve analysis. The baseline survey showed a prevalence of 52.7% stunting, while 50.0% were stunted at endline. Several factors were found to be associated with childhood stunting. The model's sensitivity was 61% and specificity was 56%, with a correctly classified rate of 59% and an area under the ROC curve of 0.615. The study found that childhood stunting in the study area was correlated with several factors, including maternal nutrition and education, food insecurity and hygiene practices. Despite efforts to address these factors, they remain largely unchanged. The study suggests that a more effective approach may be developed in future to target adolescent mothers, as maternal nutrition and education are age-dependent variables. Policy makers and programme planners need to consider incorporating both nutrition-sensitive and nutrition-specific activities and enhancing collaboration in their efforts to improve the health of vulnerable rural populations. RIDIE-STUDY-ID-5d5678361809b.
 
 Methodology:
 
 1. Study Type
 - Clinical trial
 - Publication Date: 2023
-- DOI: 10.1016/j.appet.2023.106596
+- DOI: 10.1136/bmjopen-2022-067961
 
 2. Keywords
-- Choice process variable
-- Consideration set
-- Dietary fiber
-- Food choice
-- Incomplete consideration
-- Information use
-- Point-of-decision prompt
-- Subsidy
+- epidemiology
+- nutrition
+- public health
 
 3. Key Findings
-- However, some studies have found that these tools are markedly more effective if attention is drawn to the tax or subsidy, suggesting that the price change alone may go unnoticed in the complex food environments that consumers face
+- The baseline survey showed a prevalence of 52
+- Several factors were found to be associated with childhood stunting
+- The study found that childhood stunting in the study area was correlated with several factors, including maternal nutrition and education, food insecurity and hygiene practices
 
 This study provides insights into:
-- Choice process variable assessment methods and outcomes
-- Consideration set assessment methods and outcomes
-- Dietary fiber assessment methods and outcomes
+- epidemiology assessment methods and outcomes
+- nutrition assessment methods and outcomes
+- public health assessment methods and outcomes
