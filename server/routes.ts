@@ -346,15 +346,27 @@ export function registerRoutes(app: Express): Server {
   // Add IRB submission generation endpoint
   app.post("/api/protocols/irb-submission", async (req, res) => {
     try {
+      console.log('Received IRB submission request:', JSON.stringify(req.body, null, 2));
       const { protocol, literatureReview, riskAssessment } = req.body;
 
       if (!protocol || !literatureReview || !riskAssessment) {
+        console.log('Missing required data:', { 
+          hasProtocol: !!protocol, 
+          hasLiteratureReview: !!literatureReview, 
+          hasRiskAssessment: !!riskAssessment 
+        });
         return res.status(400).json({
           error: true,
           message: "Protocol, literature review, and risk assessment data are required",
           details: "Please ensure all required data is provided"
         });
       }
+
+      console.log('Formatting IRB submission with:', {
+        protocolTitle: protocol.title,
+        reviewDescription: literatureReview.overview?.description,
+        riskLevel: riskAssessment.categories?.participantSafety
+      });
 
       // Format the IRB submission based on the provided data
       const irbSubmission = {
@@ -402,6 +414,7 @@ export function registerRoutes(app: Express): Server {
         }
       };
 
+      console.log('Successfully generated IRB submission:', JSON.stringify(irbSubmission, null, 2));
       return res.status(200).json({ submission: irbSubmission });
     } catch (error) {
       console.error("IRB submission generation error:", error);
