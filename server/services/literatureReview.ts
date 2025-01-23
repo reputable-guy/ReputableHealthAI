@@ -175,7 +175,7 @@ function parseReviewContent(content: string) {
     review.title = titleMatch ? titleMatch[1].trim() : "Literature Review";
 
     // Extract Overview section with more flexible patterns
-    const overviewContent = extractSectionContent(content, "1\\. Overview");
+    const overviewContent = extractSectionContent(content, "1\. Overview");
     if (overviewContent !== "Content not found.") {
       // More flexible product description matching including both formats
       const productDescriptionMatch = overviewContent.match(
@@ -216,7 +216,7 @@ function parseReviewContent(content: string) {
     for (const { emoji, name } of wellnessAreaPatterns) {
       // More flexible area content extraction
       const areaRegex = new RegExp(
-        `${emoji}[\\s\\S]*?(?=(?:[🛌💪❤️🧠🔥💙]|\\d\\.\\s|$))`,
+        `${emoji}[\\s\S]*?(?=(?:[🛌💪❤️🧠🔥💙]|\\d\\.\\s|$))`,
         "i",
       );
       const areaContent = content.match(areaRegex)?.[0] || "";
@@ -274,7 +274,7 @@ function parseReviewContent(content: string) {
     // Extract Research Gaps section with more flexible matching
     const researchContent = extractSectionContent(
       content,
-      "3\\. Research Gaps & Future Studies",
+      "3\. Research Gaps & Future Studies",
     );
     const questionsMatch =
       researchContent.match(/📌[^:]*:?[\s\S]*?(?=\d\.|$)/i) ||
@@ -284,7 +284,7 @@ function parseReviewContent(content: string) {
     }
 
     // Extract Conclusion section with more flexible matching
-    const conclusionContent = extractSectionContent(content, "4\\. Conclusion");
+    const conclusionContent = extractSectionContent(content, "4\. Conclusion");
     if (conclusionContent !== "Content not found.") {
       const keyPointsMatch = conclusionContent.match(
         /Key Points:?[\s\S]*?(?=Safety Considerations|$)/i,
@@ -352,11 +352,11 @@ Follow this exact format to ensure consistency:
 
 1. Overview
 * What is ${productName}?
-    * [Provide 2-3 sentences summarizing the compound.]
+    * [Provide a brief definition and key distinguishing features in 1-2 sentences.]
 * Primary Benefits:
-    ✅ [List key benefits, each on a new line.]
+    ✅ [List 2-3 most significant unique benefits, focusing on points not covered in detail later.]
 * Common Supplement Forms:
-    * [List supplement forms, each on a new line.]
+    * [List main supplement forms available.]
 
 2. Impact on Key Wellness Areas
 
@@ -410,19 +410,24 @@ Follow this exact format to ensure consistency:
 
 3. Research Gaps & Future Studies
 📌 Unanswered Questions in Research:
-* [List 3+ unanswered research questions.]
+* [List 3+ key unanswered research questions.]
 
 4. Conclusion
 * Key Points:
-    * [Summarize the literature review in 3-5 bullet points.]
+    * [Summarize the most important findings in 3-5 bullet points.]
 * Safety Considerations:
     * [Include key safety notes.]
 * 📌 Who Benefits Most?
-    ✅ [List target audiences who may benefit from this supplement.]
+    ✅ [List specific target audiences who may benefit most.]
 
 ${productContext ? "\nProduct Context:\n" + productContext : ""}
 
-Follow this exact structure. Ensure proper headings, bullet points, and scientific sources.`;
+Important Guidelines:
+1. Keep the overview section brief and high-level
+2. Avoid repeating detailed mechanisms or findings between sections
+3. Each section should provide unique, non-overlapping information
+4. Include specific references for scientific claims
+5. Focus on evidence-based findings rather than general statements`;
 
   try {
     console.log("Sending literature review request to OpenAI...");
