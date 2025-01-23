@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { useToast } from "@/hooks/use-toast";
 import { Loader2 } from "lucide-react";
@@ -29,8 +29,11 @@ export default function HypothesisSelector({
   const [error, setError] = useState<string | null>(null);
   const [selectedId, setSelectedId] = useState<number | null>(null);
   const { toast } = useToast();
+  const hasGeneratedRef = useRef(false);
 
   const generateHypotheses = async () => {
+    if (hasGeneratedRef.current) return;
+
     setLoading(true);
     setError(null);
     try {
@@ -52,6 +55,7 @@ export default function HypothesisSelector({
       const data = await response.json();
       console.log('Received hypotheses:', data);
       setHypotheses(data.hypotheses);
+      hasGeneratedRef.current = true;
     } catch (error: any) {
       const errorMessage = error.message || "Failed to generate hypotheses";
       console.error('Hypothesis generation error:', error);
@@ -87,7 +91,9 @@ export default function HypothesisSelector({
   };
 
   useEffect(() => {
-    generateHypotheses();
+    if (productName && websiteUrl) {
+      generateHypotheses();
+    }
   }, [productName, websiteUrl]);
 
   const getConfidenceColor = (score: number) => {
