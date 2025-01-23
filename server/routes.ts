@@ -343,6 +343,76 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
+  // Add IRB submission generation endpoint
+  app.post("/api/protocols/irb-submission", async (req, res) => {
+    try {
+      const { protocol, literatureReview, riskAssessment } = req.body;
+
+      if (!protocol || !literatureReview || !riskAssessment) {
+        return res.status(400).json({
+          error: true,
+          message: "Protocol, literature review, and risk assessment data are required",
+          details: "Please ensure all required data is provided"
+        });
+      }
+
+      // Format the IRB submission based on the provided data
+      const irbSubmission = {
+        projectTitle: protocol.title,
+        principalInvestigator: {
+          name: protocol.investigator?.name || "TBD",
+          credentials: protocol.investigator?.credentials || [],
+          contact: protocol.investigator?.contact || {}
+        },
+        studyOverview: {
+          purpose: protocol.studyObjective,
+          background: literatureReview.overview.description,
+          significance: literatureReview.conclusion.keyPoints
+        },
+        methodology: {
+          design: protocol.studyDesign,
+          population: {
+            size: protocol.participantCount,
+            criteria: protocol.eligibilityCriteria
+          },
+          procedures: protocol.procedures,
+          duration: `${protocol.durationWeeks} weeks`
+        },
+        riskBenefitAnalysis: {
+          risks: riskAssessment.categories.participantSafety < 80 ? 
+            ["Moderate risk level detected", ...protocol.risks || []] : 
+            protocol.risks || [],
+          benefits: literatureReview.overview.benefits,
+          riskMinimization: protocol.safetyPrecautions || []
+        },
+        ethicalConsiderations: {
+          confidentiality: protocol.dataPrivacy || [],
+          informedConsent: protocol.consentProcess || {},
+          compensation: protocol.compensation
+        },
+        dataManagement: {
+          collection: protocol.dataCollection,
+          storage: protocol.dataStorage,
+          analysis: protocol.analysisMethod
+        },
+        timeline: {
+          startDate: "To be determined",
+          milestones: protocol.timeline || [],
+          endDate: `Approximately ${protocol.durationWeeks} weeks after start`
+        }
+      };
+
+      return res.status(200).json({ submission: irbSubmission });
+    } catch (error) {
+      console.error("IRB submission generation error:", error);
+      return res.status(500).json({
+        error: true,
+        message: "Failed to generate IRB submission",
+        details: error instanceof Error ? error.message : "Unknown error occurred"
+      });
+    }
+  });
+
   // Helper functions for risk assessment calculations
   function calculateRiskLevel(protocol: any): "Low" | "Moderate" | "High" {
     const overallScore = calculateOverallScore(protocol);
