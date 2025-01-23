@@ -7,6 +7,7 @@ import Home from "@/pages/home";
 import Input from "@/pages/input";
 import Verification from "@/pages/verification";
 import LiteratureReview from "@/pages/literature-review";
+import HypothesesPage from "@/pages/protocols/hypotheses";
 import ProtocolDesigner from "@/pages/protocol-designer";
 
 function Router() {
@@ -16,6 +17,7 @@ function Router() {
       <Route path="/input" component={Input} />
       <Route path="/verification" component={Verification} />
       <Route path="/literature-review" component={LiteratureReview} />
+      <Route path="/protocols/hypotheses" component={HypothesesPage} />
       <Route path="/design" component={ProtocolDesigner} />
       <Route component={NotFound} />
     </Switch>
