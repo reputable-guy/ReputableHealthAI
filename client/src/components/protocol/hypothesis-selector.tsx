@@ -34,13 +34,13 @@ export default function HypothesisSelector({
     setLoading(true);
     setError(null);
     try {
+      console.log('Sending hypothesis generation request:', { productName, websiteUrl });
       const response = await fetch("/api/protocols/hypotheses", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ 
           productName, 
-          websiteUrl,
-          researchAreas: ["Sleep", "Stress", "Recovery", "Cognition", "Metabolic Health"]
+          websiteUrl
         })
       });
 
@@ -50,9 +50,11 @@ export default function HypothesisSelector({
       }
 
       const data = await response.json();
+      console.log('Received hypotheses:', data);
       setHypotheses(data.hypotheses);
     } catch (error: any) {
       const errorMessage = error.message || "Failed to generate hypotheses";
+      console.error('Hypothesis generation error:', error);
       setError(errorMessage);
       toast({
         title: "Error",

@@ -85,9 +85,9 @@ export function registerRoutes(app: Express): Server {
     res.json({ status: "ok" });
   });
 
-  // Hypothesis generation endpoint
-  app.post("/protocols/hypotheses", async (req, res) => {
-    const { productName, websiteUrl } = req.body;
+  // Hypothesis generation endpoint - Adding /api prefix
+  app.post("/api/protocols/hypotheses", async (req, res) => {
+    const { productName, websiteUrl, researchAreas = ["Sleep", "Stress", "Recovery", "Cognition", "Metabolic Health"] } = req.body;
     if (!productName) {
       return res.status(400)
         .json({
@@ -97,7 +97,7 @@ export function registerRoutes(app: Express): Server {
         });
     }
     try {
-      const categories = ["Sleep", "Stress", "Recovery", "Cognition", "Metabolic Health"];
+      const categories = researchAreas;
       const hypotheses = await Promise.all(
         categories.map(async (category, index) => {
           try {
@@ -157,7 +157,7 @@ export function registerRoutes(app: Express): Server {
       res.status(500).json({
         error: true,
         message: "Failed to generate hypotheses",
-        details: error.message
+        details: error instanceof Error ? error.message : "Unknown error occurred"
       });
     }
   });
