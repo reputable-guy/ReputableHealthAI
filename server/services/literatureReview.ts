@@ -2,6 +2,7 @@ import OpenAI from "openai";
 import { z } from "zod";
 import axios from "axios";
 import { load } from "cheerio";
+import { wellnessAreas } from "./literatureReview";
 
 const CACHE_DURATION = 1000 * 60 * 60; // 1 hour
 const scrapeCache = new Map<string, { content: string; timestamp: number }>();
@@ -12,7 +13,6 @@ export const literatureReviewRequestSchema = z.object({
 });
 
 export async function scrapeWebsite(url: string): Promise<string> {
-  // Check cache first
   const cached = scrapeCache.get(url);
   if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
     console.log('Using cached website content');
@@ -31,17 +31,14 @@ export async function scrapeWebsite(url: string): Promise<string> {
 
     const $ = load(response.data);
 
-    // Remove unnecessary elements that might contain irrelevant text
     $('nav, footer, header, script, style, .navigation, .footer, .header, .menu').remove();
 
-    // Focus on main content areas
     const content = $('main, article, div[role="main"], .content, #content, .product-description')
       .text()
       .trim()
       .replace(/\s+/g, ' ')
-      .substring(0, 2000); // Limit content length
+      .substring(0, 2000); 
 
-    // Cache the result
     scrapeCache.set(url, { content, timestamp: Date.now() });
     return content;
   } catch (error) {
@@ -69,49 +66,44 @@ export async function generateLiteratureReview(productName: string, websiteUrl?:
     }
   }
 
-  // Generate initial structure with gpt-3.5-turbo
-  const structurePrompt = `Create a basic structure for a literature review of ${productName}. Include only section headers and key points to be expanded. Keep it concise.`;
+  const systemPrompt = `You are a scientific literature review expert. Generate a detailed, evidence-based review following this exact structure:
 
-  const initialStructure = await openai.chat.completions.create({
-    model: "gpt-3.5-turbo",
-    messages: [
-      {
-        role: "system",
-        content: "Create a concise outline for a scientific literature review. Include only headers and key points."
-      },
-      {
-        role: "user",
-        content: structurePrompt
-      }
-    ],
-    temperature: 0.3,
-    max_tokens: 500,
-  });
+1. Overview
+- Description: Provide a clear, scientific explanation of the product
+- Benefits: List each benefit with a "BENEFIT:" prefix
+- Forms: List each form with a "FORM:" prefix
 
-  // Use the initial structure to generate detailed content with GPT-4
-  const detailPrompt = `Expand this literature review structure with detailed scientific information for ${productName}:
+2. Wellness Areas
+For each applicable area, provide:
+- Name with "AREA:" prefix
+- Mechanism with "MECHANISM:" prefix
+- Key findings with "FINDING:" prefix
+- Research gaps with "GAP:" prefix
 
-${initialStructure.choices[0].message.content}
+3. Research Gaps
+List each future research question with "QUESTION:" prefix
 
-${productContext ? 'Based on the following product information: ' + productContext : ''}
+4. Conclusion
+- Key points with "KEY:" prefix
+- Target audience with "AUDIENCE:" prefix
+- Safety considerations with "SAFETY:" prefix
 
-Follow the exact format provided in the structure. Include specific scientific references where possible.`;
+Use scientific language and maintain consistency in formatting.`;
+
+  const userPrompt = `Generate a comprehensive literature review for ${productName}.
+${productContext ? '\nProduct Context:\n' + productContext : ''}
+
+Follow the exact structure and formatting specified. Include at least 3 items for each list section.`;
 
   try {
-    console.log('Sending detailed request to OpenAI...');
+    console.log('Sending literature review request to OpenAI...');
     const response = await openai.chat.completions.create({
       model: "gpt-4",
       messages: [
-        {
-          role: "system",
-          content: "You are a scientific literature review expert. Generate detailed, evidence-based reviews that maintain a balance between highlighting benefits and acknowledging research gaps. Focus on accuracy and scientific validity."
-        },
-        {
-          role: "user",
-          content: detailPrompt
-        }
+        { role: "system", content: systemPrompt },
+        { role: "user", content: userPrompt }
       ],
-      temperature: 0.5,
+      temperature: 0.7,
       max_tokens: 2000,
     });
 
@@ -121,8 +113,7 @@ Follow the exact format provided in the structure. Include specific scientific r
     }
 
     console.log('Successfully received OpenAI response');
-    const review = parseReviewContent(content);
-    return review;
+    return parseReviewContent(content);
   } catch (error) {
     console.error('OpenAI API Error:', error);
     throw error;
@@ -153,118 +144,99 @@ function parseReviewContent(content: string) {
   };
 
   try {
-    // Split into major sections
-    const sections = content.split(/\d+\.\s+/);
+    const lines = content.split('\n').map(line => line.trim());
+    let currentSection = '';
+    let currentArea: typeof review.wellnessAreas[0] | null = null;
 
-    // Parse Overview section
-    if (sections[1] && sections[1].includes('Overview')) {
-      const overviewSection = sections[1];
-
-      // Extract description (everything under "What is [Product Name]?")
-      const descriptionMatch = overviewSection.match(/What is.*?\?([\s\S]*?)(?=\* Primary Benefits|\* Common Supplement Forms|$)/);
-      if (descriptionMatch) {
-        review.overview.description = descriptionMatch[1]
-          .split('*')
-          .map(line => line.trim())
-          .filter(Boolean)
-          .join(' ');
+    for (const line of lines) {
+      if (line.startsWith('1. Overview')) {
+        currentSection = 'overview';
+        continue;
+      } else if (line.startsWith('2. Wellness Areas')) {
+        currentSection = 'wellness';
+        continue;
+      } else if (line.startsWith('3. Research Gaps')) {
+        currentSection = 'gaps';
+        continue;
+      } else if (line.startsWith('4. Conclusion')) {
+        currentSection = 'conclusion';
+        continue;
       }
 
-      // Extract benefits
-      review.overview.benefits = overviewSection
-        .split('\n')
-        .filter(line => line.includes('✅'))
-        .map(line => line.replace('✅', '').trim());
+      if (!line) continue;
 
-      // Extract supplement forms
-      const formsMatch = overviewSection.match(/Common Supplement Forms:([\s\S]*?)(?=\d+\.|$)/);
-      if (formsMatch) {
-        review.overview.supplementForms = formsMatch[1]
-          .split('*')
-          .map(line => line.trim())
-          .filter(Boolean);
-      }
-    }
-
-    // Parse Wellness Areas
-    if (sections[2]) {
-      const wellnessSection = sections[2];
-      const areas = wellnessSection.split(/[🛌💪❤️🧠🔥]/);
-
-      areas.forEach(area => {
-        if (!area.trim()) return;
-
-        const lines = area.split('\n').map(l => l.trim()).filter(Boolean);
-        const areaName = lines[0];
-
-        if (areaName) {
-          const mechanismMatch = area.match(/How It Works:([\s\S]*?)(?=\* Key Findings|$)/);
-          const mechanism = mechanismMatch
-            ? mechanismMatch[1]
-                .split('*')
-                .map(line => line.trim())
-                .filter(Boolean)
-                .join(' ')
-            : '';
-
-          const keyFindings = lines
-            .filter(l => l.includes('✅'))
-            .map(l => l.replace('✅', '').trim());
-
-          const researchGaps = lines
-            .filter(l => l.includes('❌'))
-            .map(l => l.replace('❌', '').trim());
-
-          if (areaName) {
-            review.wellnessAreas.push({
-              name: areaName,
-              mechanism,
-              keyFindings,
-              researchGaps,
-            });
+      switch (currentSection) {
+        case 'overview':
+          if (line.startsWith('BENEFIT:')) {
+            review.overview.benefits.push(line.replace('BENEFIT:', '').trim());
+          } else if (line.startsWith('FORM:')) {
+            review.overview.supplementForms.push(line.replace('FORM:', '').trim());
+          } else if (!line.includes(':') && line.length > 10) {
+            review.overview.description += ' ' + line;
           }
-        }
-      });
+          break;
+
+        case 'wellness':
+          if (line.startsWith('AREA:')) {
+            if (currentArea && currentArea.name) {
+              review.wellnessAreas.push(currentArea);
+            }
+            currentArea = {
+              name: line.replace('AREA:', '').trim(),
+              mechanism: '',
+              keyFindings: [],
+              researchGaps: [],
+            };
+          } else if (line.startsWith('MECHANISM:') && currentArea) {
+            currentArea.mechanism = line.replace('MECHANISM:', '').trim();
+          } else if (line.startsWith('FINDING:') && currentArea) {
+            currentArea.keyFindings.push(line.replace('FINDING:', '').trim());
+          } else if (line.startsWith('GAP:') && currentArea) {
+            currentArea.researchGaps.push(line.replace('GAP:', '').trim());
+          }
+          break;
+
+        case 'gaps':
+          if (line.startsWith('QUESTION:')) {
+            review.researchGaps.questions.push(line.replace('QUESTION:', '').trim());
+          }
+          break;
+
+        case 'conclusion':
+          if (line.startsWith('KEY:')) {
+            review.conclusion.keyPoints.push(line.replace('KEY:', '').trim());
+          } else if (line.startsWith('AUDIENCE:')) {
+            review.conclusion.targetAudience.push(line.replace('AUDIENCE:', '').trim());
+          } else if (line.startsWith('SAFETY:')) {
+            review.conclusion.safetyConsiderations.push(line.replace('SAFETY:', '').trim());
+          }
+          break;
+      }
     }
 
-    // Parse Research Gaps
-    if (sections[3]) {
-      review.researchGaps.questions = sections[3]
-        .split('\n')
-        .filter(line => line.includes('📌'))
-        .map(line => line.replace('📌', '').trim());
+    if (currentArea && currentArea.name) {
+      review.wellnessAreas.push(currentArea);
     }
 
-    // Parse Conclusion
-    if (sections[4]) {
-      const conclusionSection = sections[4];
+    review.overview.description = review.overview.description.trim();
 
-      // Extract key points
-      const keyPointsMatch = conclusionSection.match(/Key Points:([\s\S]*?)(?=\* Target Audience|$)/);
-      if (keyPointsMatch) {
-        review.conclusion.keyPoints = keyPointsMatch[1]
-          .split('\n')
-          .filter(line => line.includes('✅'))
-          .map(line => line.replace('✅', '').trim());
-      }
-
-      // Extract target audience
-      const audienceMatch = conclusionSection.match(/Target Audience:([\s\S]*?)(?=\* Safety Considerations|$)/);
-      if (audienceMatch) {
-        review.conclusion.targetAudience = audienceMatch[1]
-          .split('*')
-          .map(line => line.trim())
-          .filter(Boolean);
-      }
-
-      // Extract safety considerations
-      const safetyMatch = conclusionSection.match(/Safety Considerations:([\s\S]*?)(?=\d+\.|$)/);
-      if (safetyMatch) {
-        review.conclusion.safetyConsiderations = safetyMatch[1]
-          .split('*')
-          .map(line => line.trim())
-          .filter(Boolean);
-      }
+    if (review.overview.benefits.length === 0) review.overview.benefits = ['No specific benefits listed'];
+    if (review.overview.supplementForms.length === 0) review.overview.supplementForms = ['Standard supplement form'];
+    if (review.wellnessAreas.length === 0) {
+      review.wellnessAreas = [{
+        name: 'General Wellness',
+        mechanism: 'Mechanism of action not specified',
+        keyFindings: ['No specific findings listed'],
+        researchGaps: ['Further research needed'],
+      }];
+    }
+    if (review.researchGaps.questions.length === 0) {
+      review.researchGaps.questions = ['Further research needed to establish optimal dosing'];
+    }
+    if (review.conclusion.keyPoints.length === 0) review.conclusion.keyPoints = ['Additional research recommended'];
+    if (review.conclusion.targetAudience.length === 0) review.conclusion.targetAudience = ['General adult population'];
+    if (review.conclusion.safetyConsiderations.length === 0) {
+      review.conclusion.safetyConsiderations = ['Consult healthcare provider before use'];
     }
 
     return review;
