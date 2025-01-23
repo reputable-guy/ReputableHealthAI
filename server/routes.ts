@@ -306,5 +306,141 @@ export function registerRoutes(app: Express): Server {
     }
   });
 
+  // Add risk assessment endpoint
+  app.post("/api/protocols/risk-assessment", async (req, res) => {
+    try {
+      const protocolData = req.body;
+
+      if (!protocolData) {
+        return res.status(400).json({
+          error: true,
+          message: "Protocol data is required"
+        });
+      }
+
+      // Generate risk assessment based on protocol parameters
+      const riskAssessment = {
+        riskLevel: calculateRiskLevel(protocolData),
+        overallScore: calculateOverallScore(protocolData),
+        categories: {
+          participantSafety: calculateParticipantSafety(protocolData),
+          dataPrivacy: calculateDataPrivacy(protocolData),
+          ethicalConsiderations: calculateEthicalScore(protocolData),
+          regulatoryCompliance: calculateComplianceScore(protocolData),
+          studyDesign: calculateStudyDesignScore(protocolData)
+        },
+        recommendations: generateRecommendations(protocolData)
+      };
+
+      return res.status(200).json({ assessment: riskAssessment });
+    } catch (error) {
+      console.error("Risk assessment generation error:", error);
+      return res.status(500).json({
+        error: true,
+        message: "Failed to generate risk assessment",
+        details: error instanceof Error ? error.message : "Unknown error occurred"
+      });
+    }
+  });
+
+  // Helper functions for risk assessment calculations
+  function calculateRiskLevel(protocol: any): "Low" | "Moderate" | "High" {
+    const overallScore = calculateOverallScore(protocol);
+    if (overallScore >= 80) return "Low";
+    if (overallScore >= 60) return "Moderate";
+    return "High";
+  }
+
+  function calculateOverallScore(protocol: any): number {
+    const scores = [
+      calculateParticipantSafety(protocol),
+      calculateDataPrivacy(protocol),
+      calculateEthicalScore(protocol),
+      calculateComplianceScore(protocol),
+      calculateStudyDesignScore(protocol)
+    ];
+    return Math.round(scores.reduce((a, b) => a + b, 0) / scores.length);
+  }
+
+  function calculateParticipantSafety(protocol: any): number {
+    let score = 100;
+
+    // Deduct points based on risk factors
+    if (!protocol.safetyPrecautions) score -= 20;
+    if (!protocol.participantInstructions) score -= 15;
+    if (protocol.durationWeeks > 12) score -= 10;
+
+    return Math.max(0, Math.min(100, score));
+  }
+
+  function calculateDataPrivacy(protocol: any): number {
+    let score = 100;
+
+    // Evaluate data collection and privacy measures
+    if (!protocol.consentFormSections?.privacy) score -= 25;
+    if (protocol.targetMetrics && Object.keys(protocol.targetMetrics).length > 10) score -= 15;
+
+    return Math.max(0, Math.min(100, score));
+  }
+
+  function calculateEthicalScore(protocol: any): number {
+    let score = 100;
+
+    // Check ethical considerations
+    if (!protocol.consentFormSections) score -= 30;
+    if (!protocol.eligibilityCriteria) score -= 20;
+
+    return Math.max(0, Math.min(100, score));
+  }
+
+  function calculateComplianceScore(protocol: any): number {
+    let score = 100;
+
+    // Assess regulatory compliance
+    if (!protocol.consentFormSections?.risks) score -= 20;
+    if (!protocol.consentFormSections?.benefits) score -= 15;
+    if (!protocol.eligibilityCriteria) score -= 25;
+
+    return Math.max(0, Math.min(100, score));
+  }
+
+  function calculateStudyDesignScore(protocol: any): number {
+    let score = 100;
+
+    // Evaluate study design quality
+    if (!protocol.studyObjective) score -= 20;
+    if (!protocol.participantCount || protocol.participantCount < 30) score -= 15;
+    if (!protocol.durationWeeks || protocol.durationWeeks < 2) score -= 15;
+
+    return Math.max(0, Math.min(100, score));
+  }
+
+  function generateRecommendations(protocol: any): string[] {
+    const recommendations: string[] = [];
+
+    // Add recommendations based on risk assessment
+    if (!protocol.safetyPrecautions) {
+      recommendations.push("Add detailed safety precautions and monitoring procedures");
+    }
+
+    if (!protocol.consentFormSections?.privacy) {
+      recommendations.push("Enhance data privacy protection measures and documentation");
+    }
+
+    if (protocol.participantCount < 30) {
+      recommendations.push("Consider increasing sample size to improve statistical power");
+    }
+
+    if (!protocol.eligibilityCriteria) {
+      recommendations.push("Define clear eligibility criteria for participant selection");
+    }
+
+    if (!protocol.consentFormSections?.risks || !protocol.consentFormSections?.benefits) {
+      recommendations.push("Include comprehensive risk and benefit information in consent form");
+    }
+
+    return recommendations;
+  }
+
   return httpServer;
 }
