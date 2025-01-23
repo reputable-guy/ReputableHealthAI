@@ -59,9 +59,13 @@ export default function LiteratureReviewPage() {
 
   const handleProceedToHypotheses = () => {
     const productName = params.get("product");
-    if (productName) {
-      setLocation(`/design?product=${encodeURIComponent(productName)}`);
-    }
+    const websiteUrl = params.get("url");
+    const queryParams = new URLSearchParams({
+      product: productName || "",
+      ...(websiteUrl && { url: websiteUrl }),
+      autoGenerate: "true" // Add flag to auto-generate hypotheses
+    });
+    setLocation(`/protocols/hypotheses?${queryParams.toString()}`);
   };
 
   if (isPending) {
