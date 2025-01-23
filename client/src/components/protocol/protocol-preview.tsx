@@ -84,14 +84,69 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
 
   const generateIRBSubmission = useMutation({
     mutationFn: async () => {
+      // First ensure we have a risk assessment
+      if (!localProtocolData.riskAssessment) {
+        const riskRes = await fetch("/api/protocols/risk-assessment", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(protocolData)
+        });
+
+        if (!riskRes.ok) {
+          throw new Error("Failed to generate risk assessment");
+        }
+
+        const { assessment } = await riskRes.json();
+        setLocalProtocolData(prev => ({
+          ...prev,
+          riskAssessment: assessment
+        }));
+      }
+
+      // Generate literature review if not present
+      const literatureRes = await fetch("/api/literature-review", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          productName: protocolData.productName,
+          websiteUrl: protocolData.websiteUrl
+        })
+      });
+
+      if (!literatureRes.ok) {
+        throw new Error("Failed to generate literature review");
+      }
+
+      const { review } = await literatureRes.json();
+
+      // Now generate IRB submission with all required components
       const res = await fetch("/api/protocols/irb-submission", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(protocolData)
+        body: JSON.stringify({
+          protocol: {
+            title: protocolData.experimentTitle,
+            studyObjective: protocolData.studyObjective,
+            studyDesign: protocolData.studyType,
+            participantCount: protocolData.participantCount,
+            eligibilityCriteria: protocolData.eligibilityCriteria?.customQuestions || [],
+            procedures: protocolData.targetMetrics || [],
+            durationWeeks: protocolData.durationWeeks,
+            risks: [],
+            safetyPrecautions: protocolData.safetyPrecautions || [],
+            dataCollection: {},
+            dataStorage: {},
+            analysisMethod: {},
+            timeline: []
+          },
+          literatureReview: review,
+          riskAssessment: localProtocolData.riskAssessment
+        })
       });
 
       if (!res.ok) {
-        throw new Error("Failed to generate IRB submission");
+        const error = await res.json();
+        throw new Error(error.message || "Failed to generate IRB submission");
       }
 
       const data = await res.json();
@@ -104,10 +159,10 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         description: "Your IRB submission document has been generated successfully."
       });
     },
-    onError: () => {
+    onError: (error) => {
       toast({
         title: "Error",
-        description: "Failed to generate IRB submission. Please try again.",
+        description: error instanceof Error ? error.message : "Failed to generate IRB submission. Please try again.",
         variant: "destructive"
       });
     }
