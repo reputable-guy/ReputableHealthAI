@@ -1,14 +1,18 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { useLocation, useSearch } from "wouter";
 import HypothesisSelector from "@/components/protocol/hypothesis-selector";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ArrowLeft } from "lucide-react";
+import ProtocolPreview from "@/components/protocol/protocol-preview";
+import type { ProtocolData } from "@/pages/protocol-designer";
 
 export default function HypothesesPage() {
   const [, setLocation] = useLocation();
   const search = useSearch();
   const params = new URLSearchParams(search);
+  const [protocolData, setProtocolData] = useState<ProtocolData | null>(null);
+  const [error, setError] = useState<string | null>(null);
 
   const productName = params.get("product");
   const websiteUrl = params.get("url");
@@ -30,25 +34,35 @@ export default function HypothesesPage() {
     setLocation(`/literature-review?${queryParams.toString()}`);
   };
 
-  const handleHypothesisSelected = (hypothesis: any) => {
-    console.log('Navigating to design with hypothesis:', hypothesis);
+  const handleHypothesisSelected = async (hypothesis: any) => {
+    console.log('Selected hypothesis:', hypothesis);
     try {
-      const queryParams = new URLSearchParams({
-        product: productName,
-        ...(websiteUrl && { url: websiteUrl }),
+      // Directly generate protocol here instead of navigating
+      const response = await fetch("/api/protocols/generate", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          productName,
+          websiteUrl: websiteUrl || "",
+          selectedHypothesis: hypothesis.statement,
+          studyCategory: hypothesis.category,
+          studyObjective: hypothesis.statement,
+          studyGoal: "Evaluate product efficacy"
+        }),
       });
 
-      // Safely encode the hypothesis object
-      const encodedHypothesis = encodeURIComponent(JSON.stringify(hypothesis));
-      queryParams.append('hypothesis', encodedHypothesis);
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.details || "Failed to generate protocol");
+      }
 
-      const designUrl = `/design?${queryParams.toString()}`;
-      console.log('Navigation URL:', designUrl);
-      setLocation(designUrl);
-    } catch (error) {
-      console.error('Error preparing navigation:', error);
-      // The error will be handled by the hypothesis selector's error handling
-      throw error;
+      const data = await response.json();
+      setProtocolData(data);
+    } catch (error: any) {
+      console.error('Error generating protocol:', error);
+      setError(error.message || "Failed to generate protocol");
     }
   };
 
@@ -65,11 +79,20 @@ export default function HypothesesPage() {
           </div>
         </CardHeader>
         <CardContent>
-          <HypothesisSelector
-            productName={productName}
-            websiteUrl={websiteUrl || ""}
-            onHypothesisSelected={handleHypothesisSelected}
-          />
+          {protocolData ? (
+            <ProtocolPreview protocolData={protocolData} />
+          ) : (
+            <HypothesisSelector
+              productName={productName}
+              websiteUrl={websiteUrl || ""}
+              onHypothesisSelected={handleHypothesisSelected}
+            />
+          )}
+          {error && (
+            <div className="mt-4 p-4 bg-red-50 text-red-600 rounded-md">
+              {error}
+            </div>
+          )}
         </CardContent>
       </Card>
     </div>
