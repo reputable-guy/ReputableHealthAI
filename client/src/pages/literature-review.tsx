@@ -96,35 +96,32 @@ export default function LiteratureReviewPage() {
         <CardContent className="prose prose-sm max-w-none">
           {/* Overview Section */}
           <section>
-            <h2 className="text-2xl font-bold mb-6">1. Overview</h2>
-            <div className="space-y-8">
-              {/* Product Description */}
+            <h2 className="text-2xl font-bold mb-4">1. Overview</h2>
+            <div className="space-y-4">
               <div>
-                <h3 className="text-xl font-semibold mb-4">What is {params.get("product")}?</h3>
-                <div className="pl-6">
+                <h3 className="text-xl font-semibold">What is {params.get("product")}?</h3>
+                <ul className="list-disc pl-6">
                   {review.overview.description.map((point, index) => (
-                    <p key={index} className="mb-2">{point}</p>
+                    <li key={index}>{point}</li>
                   ))}
-                </div>
+                </ul>
               </div>
 
-              {/* Primary Benefits */}
               <div>
-                <h3 className="text-xl font-semibold mb-4">Primary Benefits</h3>
-                <ul className="list-none pl-6 space-y-2">
+                <h3 className="text-xl font-semibold">Primary Benefits</h3>
+                <ul className="list-none pl-6">
                   {review.overview.benefits.map((benefit, index) => (
-                    <li key={index} className="flex items-start gap-3">
-                      <span className="text-green-600 mt-1">✅</span>
-                      <span>{benefit}</span>
+                    <li key={index} className="flex items-start gap-2">
+                      <span className="text-green-600">✅</span>
+                      {benefit}
                     </li>
                   ))}
                 </ul>
               </div>
 
-              {/* Supplement Forms */}
               <div>
-                <h3 className="text-xl font-semibold mb-4">Common Supplement Forms</h3>
-                <ul className="list-disc pl-10 space-y-2">
+                <h3 className="text-xl font-semibold">Common Supplement Forms</h3>
+                <ul className="list-disc pl-6">
                   {review.overview.supplementForms.map((form, index) => (
                     <li key={index}>{form}</li>
                   ))}
