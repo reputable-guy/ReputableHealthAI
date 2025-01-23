@@ -46,61 +46,28 @@ export const irbSubmissionRequestSchema = z.object({
 export type IrbSubmissionRequest = z.infer<typeof irbSubmissionRequestSchema>;
 
 // Transform flat protocol data into the required nested structure
-function transformProtocolData(protocolData: any): IrbSubmissionRequest {
-  const { 
-    title = protocolData.experimentTitle,
-    studyObjective = protocolData.studyObjective,
-    studyType: studyDesign = protocolData.studyType,
-    participantCount = protocolData.participantCount || 0,
-    durationWeeks = protocolData.durationWeeks || 0,
-    targetMetrics = protocolData.targetMetrics || [],
-    procedures = protocolData.procedures || [],
-    eligibilityCriteria = protocolData.eligibilityCriteria || [],
-    risks = protocolData.risks || [],
-    safetyPrecautions = protocolData.safetyPrecautions || [],
-    dataCollection = protocolData.dataCollection || {},
-    dataStorage = protocolData.dataStorage || {},
-    analysisMethod = protocolData.analysisMethod || {},
-    timeline = protocolData.timeline || []
-  } = protocolData;
-
+function transformProtocolData(protocolData: any): IrbSubmissionRequest['protocol'] {
   return {
-    protocol: {
-      title,
-      studyObjective,
-      studyDesign,
-      participantCount,
-      eligibilityCriteria,
-      procedures: procedures.length > 0 ? procedures : targetMetrics,
-      durationWeeks,
-      risks,
-      safetyPrecautions,
-      dataCollection,
-      dataStorage,
-      analysisMethod,
-      timeline,
-      dataPrivacy: [],
-      consentProcess: {},
-      compensation: null,
-      investigator: {
-        name: "To be assigned",
-        credentials: [],
-        contact: {}
-      }
-    },
-    literatureReview: {
-      overview: {
-        description: ["Study is based on comprehensive literature review"],
-        benefits: ["Improved understanding of supplement efficacy"]
-      },
-      conclusion: {
-        keyPoints: ["Study will provide valuable insights into supplement effectiveness"]
-      }
-    },
-    riskAssessment: {
-      categories: {
-        participantSafety: 85 // Default high safety score for supplement studies
-      }
+    title: protocolData.experimentTitle || '',
+    studyObjective: protocolData.studyObjective || '',
+    studyDesign: protocolData.studyType || '',
+    participantCount: Number(protocolData.participantCount) || 0,
+    eligibilityCriteria: protocolData.eligibilityCriteria?.customQuestions || [],
+    procedures: protocolData.targetMetrics || [],
+    durationWeeks: Number(protocolData.durationWeeks) || 0,
+    risks: protocolData.risks || [],
+    safetyPrecautions: protocolData.safetyPrecautions || [],
+    dataCollection: protocolData.dataCollection || {},
+    dataStorage: protocolData.dataStorage || {},
+    analysisMethod: protocolData.analysisMethod || {},
+    timeline: protocolData.timeline || [],
+    dataPrivacy: [],
+    consentProcess: {},
+    compensation: null,
+    investigator: {
+      name: "To be assigned",
+      credentials: [],
+      contact: {}
     }
   };
 }
@@ -109,8 +76,52 @@ export async function generateIrbSubmission(rawProtocolData: any) {
   console.log('Received raw protocol data:', JSON.stringify(rawProtocolData, null, 2));
 
   try {
-    // Transform the raw protocol data into the required structure
-    const transformedRequest = transformProtocolData(rawProtocolData);
+    // First get the literature review
+    const literatureResponse = await fetch("/api/literature-review", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        productName: rawProtocolData.productName,
+        websiteUrl: rawProtocolData.websiteUrl
+      }),
+      credentials: 'include'
+    });
+
+    if (!literatureResponse.ok) {
+      throw new Error('Failed to generate literature review');
+    }
+
+    const literatureReview = await literatureResponse.json();
+
+    // Get risk assessment if not provided
+    let riskAssessment = rawProtocolData.riskAssessment;
+    if (!riskAssessment) {
+      const riskResponse = await fetch("/api/protocols/risk-assessment", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(rawProtocolData),
+        credentials: 'include'
+      });
+
+      if (!riskResponse.ok) {
+        throw new Error('Failed to generate risk assessment');
+      }
+
+      const riskData = await riskResponse.json();
+      riskAssessment = riskData.assessment;
+    }
+
+    // Transform and validate the full request
+    const transformedRequest = {
+      protocol: transformProtocolData(rawProtocolData),
+      literatureReview: literatureReview.review,
+      riskAssessment: riskAssessment
+    };
+
     console.log('Transformed request data:', JSON.stringify(transformedRequest, null, 2));
 
     // Validate the transformed data
@@ -120,6 +131,7 @@ export async function generateIrbSubmission(rawProtocolData: any) {
       throw new Error('Invalid request data: ' + JSON.stringify(parseResult.error.flatten()));
     }
 
+    // Send the validated request
     const response = await fetch("/api/protocols/irb-submission", {
       method: "POST",
       headers: {

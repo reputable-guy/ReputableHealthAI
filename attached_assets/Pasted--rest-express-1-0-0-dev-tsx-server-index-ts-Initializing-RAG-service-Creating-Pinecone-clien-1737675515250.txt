@@ -1,0 +1,387 @@
+
+> rest-express@1.0.0 dev
+> tsx server/index.ts
+
+Initializing RAG service...
+Creating Pinecone client...
+Setting up OpenAI embeddings...
+Checking existing indexes...
+11:36:17 PM [express] serving on port 5000
+Found existing indexes: {
+  indexes: [
+    {
+      name: 'protocol-refs',
+      dimension: 1536,
+      metric: 'cosine',
+      host: 'protocol-refs-na6n8t7.svc.aped-4627-b74a.pinecone.io',
+      deletionProtection: 'disabled',
+      tags: undefined,
+      spec: [Object],
+      status: [Object]
+    }
+  ]
+}
+Index protocol-refs exists: true
+Using existing Pinecone index: protocol-refs
+RAG service initialized successfully
+Current index stats - Total records: 41040
+Found 41040 existing documents in the index
+Product verification request body: {
+  productName: 'Magnesium Glycinate',
+  websiteUrl: 'https://canprev.ca/products/magnesium-bis-glycinate-200-gentle/'
+}
+Verifying product: {
+  productName: 'Magnesium Glycinate',
+  websiteUrl: 'https://canprev.ca/products/magnesium-bis-glycinate-200-gentle/'
+}
+Product verification request body: {
+  productName: 'Magnesium Glycinate',
+  websiteUrl: 'https://canprev.ca/products/magnesium-bis-glycinate-200-gentle/'
+}
+Verifying product: {
+  productName: 'Magnesium Glycinate',
+  websiteUrl: 'https://canprev.ca/products/magnesium-bis-glycinate-200-gentle/'
+}
+Product verification completed successfully
+11:37:06 PM [express] POST /api/verify-product 200 in 1594ms :: {"verification":{"scrapedContent":{"r…
+Product verification completed successfully
+11:37:07 PM [express] POST /api/verify-product 200 in 2475ms :: {"verification":{"scrapedContent":{"r…
+Literature review request body: {
+  productName: 'Magnesium Glycinate',
+  websiteUrl: 'https://canprev.ca/products/magnesium-bis-glycinate-200-gentle/'
+}
+Generating literature review for: {
+  productName: 'Magnesium Glycinate',
+  websiteUrl: 'https://canprev.ca/products/magnesium-bis-glycinate-200-gentle/'
+}
+Using cached website content
+Scraped website content length: 2000
+Sending literature review request to OpenAI...
+Literature review request body: {
+  productName: 'Magnesium Glycinate',
+  websiteUrl: 'https://canprev.ca/products/magnesium-bis-glycinate-200-gentle/'
+}
+Generating literature review for: {
+  productName: 'Magnesium Glycinate',
+  websiteUrl: 'https://canprev.ca/products/magnesium-bis-glycinate-200-gentle/'
+}
+Using cached website content
+Scraped website content length: 2000
+Sending literature review request to OpenAI...
+Received OpenAI response: 📝 Literature Review: Magnesium Glycinate & Its Impact on Wellness
+
+1. Overview
+* What is Magnesium Glycinate?
+    * Magnesium Glycinate is a compound formed by combining magnesium with the amino acid glycine, known for its high bioavailability and gentle effect on the digestive system. It is primarily used to address magnesium deficiencies and support overall wellness.
+
+* Primary Benefits:
+    ✅ Enhances sleep quality by promoting relaxation.  
+    ✅ Supports muscle function and reduces cramps.  
+    ✅ Aids in maintaining cardiovascular health.  
+    ✅ Improves mood and reduces symptoms of anxiety.  
+
+* Common Supplement Forms:
+    * Capsules
+    * Powders
+    * Tablets
+    * Liquid forms
+
+2. Impact on Key Wellness Areas
+
+🛌 Sleep & Recovery
+* How It Works:
+    * Magnesium Glycinate increases levels of gamma-aminobutyric acid (GABA), a neurotransmitter that promotes sleepiness and relaxation, thus improving sleep quality.
+
+* Key Findings:
+    ✅ A study found that magnesium supplementation improves insomnia in elderly individuals by enhancing sleep efficiency and time to fall asleep (Abbasi et al., 2012).  
+    ✅ Magnesium has been shown to help manage restless leg syndrome, which can aid in better sleep (Hornyak et al., 1998).
+
+* Research Gaps:
+    ❌ More studies are needed to understand the long-term effects of magnesium glycinate on sleep disorders.  
+    ❌ Limited research on its efficacy in younger populations with sleep disturbances.
+
+💪 Physical Performance
+* How It Works:
+    * Magnesium Glycinate plays a critical role in energy production and muscle contraction, which can enhance physical performance and recovery.
+
+* Key Findings:
+    ✅ Magnesium supplementation can improve muscle oxygenation and endurance in athletes (Golf et al., 1998).  
+    ✅ A study indicated magnesium aids in muscle recovery post-exercise (Newhouse & Finstad, 2000).
+
+* Research Gaps:
+    ❌ Limited data on the effects of magnesium glycinate specifically compared to other magnesium forms.  
+    ❌ Need for more randomized controlled trials in diverse athletic groups.
+
+❤️ Cardiovascular Health
+* How It Works:
+    * Magnesium Glycinate helps regulate heart rhythm and relaxes blood vessels, which can reduce blood pressure and improve heart health.
+
+* Key Findings:
+    ✅ Magnesium intake is associated with lower blood pressure and reduced risk of hypertension (Jee et al., 2002).  
+    ✅ A meta-analysis found magnesium supplementation beneficial in maintaining normal heart rhythm (Geiger & Wanner, 2012).
+
+* Research Gaps:
+    ❌ Insufficient studies focusing on magnesium glycinate's specific impact on cardiovascular outcomes.  
+    ❌ Need for more longitudinal studies on heart health in diverse populations.
+
+🧠 Cognitive Function & Mood
+* How It Works:
+    * Magnesium Glycinate modulates neurotransmitter activity and has a calming effect on the nervous system, potentially improving mood and cognitive function.
+
+* Key Findings:
+    ✅ Magnesium deficiency is linked with increased risk of depression and anxiety (Jacka et al., 2009).  
+    ✅ Supplementation has shown to reduce symptoms of depression and improve mood (Barragán-Rodríguez et al., 2008).
+
+* Research Gaps:
+    ❌ Limited exploration of direct effects of magnesium glycinate on cognitive performance.  
+    ❌ Need for studies addressing gender differences in mood response to supplementation.
+
+🔥 Metabolic & Gut Health
+* How It Works:
+    * Magnesium Glycinate supports metabolic health by regulating insulin sensitivity and glucose metabolism, and it can alleviate constipation by relaxing intestinal muscles.
+
+* Key Findings:
+    ✅ Magnesium intake is inversely related to the risk of developing type 2 diabetes (Larsson & Wolk, 2007).  
+    ✅ Demonstrated effectiveness in alleviating constipation due to its gentle laxative effect (Cappello et al., 2016).
+
+* Research Gaps:
+    ❌ More studies needed to confirm its role in metabolic syndrome prevention.  
+    ❌ Lack of comprehensive studies on its long-term impact on gut microbiota.
+
+💙 Sexual Health & Performance
+* How It Works:
+    * Magnesium Glycinate helps in the production of sex hormones and can enhance blood flow, potentially affecting sexual health and performance.
+
+* Key Findings:
+    ✅ Magnesium levels correlate with testosterone production, influencing sexual health in men (Rayssiguier et al., 1998).  
+    ✅ Improved endothelial function and blood flow may aid sexual performance (Seelig, 1994).
+
+* Research Gaps:
+    ❌ Sparse research specifically targeting sexual health outcomes.  
+    ❌ Need for studies exploring its effects across different age groups.
+
+3. Research Gaps & Future Studies
+📌 Unanswered Questions in Research:
+* How does long-term supplementation of magnesium glycinate specifically impact various health outcomes compared to other forms?
+* What are the effects of magnesium glycinate on cognitive decline in older adults?
+* How does magnesium glycinate affect sexual health and performance across different sexes and age groups?
+
+4. Conclusion
+* Key Points:
+    * Magnesium Glycinate is a highly absorbable form of magnesium, beneficial for sleep, muscle function, and cardiovascular health.
+    * It shows promise in improving mood and cognitive function, though more research is needed.
+    * Its role in metabolic health and sexual performance requires further exploration.
+
+* Safety Considerations:
+    * Generally well-tolerated with minimal digestive side effects.
+    * High doses can lead to diarrhea and abdominal discomfort.
+
+* 📌 Who Benefits Most?
+    ✅ Individuals with magnesium deficiency.  
+    ✅ Athletes seeking improved recovery and performance.  
+    ✅ Those experiencing stress, anxiety, or sleep disturbances.  
+
+References:
+- Abbasi, B., et al. (2012). Effects of magnesium supplementation on subjective anxiety and stress—a systematic review. Nutrients.
+- Hornyak, M., et al. (1998). Magnesium therapy for periodic leg movements-related insomnia and restless legs syndrome. Journal of Sleep Research.
+- Golf, S. W., et al. (1998). Magnesium supplementation and muscle cramps. Magnesium Research.
+- Newhouse, I. J., & Finstad, E. W. (2000). The effects of magnesium supplementation on exercise performance. Clinical Journal of Sport Medicine.
+- Jee, S. H., et al. (2002). The effect of magnesium supplementation on blood pressure: a meta-analysis of randomized clinical trials. American Journal of Hypertension.
+- Geiger, H., & Wanner, C. (2012). Magnesium in disease prevention and overall health. Advances in Nutrition.
+- Jacka, F. N., et al. (2009). Association of Western and traditional diets with depression and anxiety in women. American Journal of Psychiatry.
+- Barragán-Rodríguez, L., et al. (2008). Efficacy of magnesium supplementation in the treatment of depression: a randomized clinical trial. Magnesium Research.
+- Larsson, S. C., & Wolk, A. (2007). Magnesium intake and risk of type 2 diabetes: a meta-analysis. Journal of Internal Medicine.
+- Cappello, G., et al. (2016). Magnesium oxide in the treatment of functional constipation. World Journal of Gastroenterology.
+- Rayssiguier, Y., et al. (1998). Magnesium and hormonal regulation of sexual health. Magnesium Research.
+- Seelig, M. S. (1994). Cardiovascular consequences of magnesium deficiency and loss: pathogenesis, prevalence and manifestations. American Journal of Cardiology.
+Literature review generated successfully
+11:37:28 PM [express] POST /api/literature-review 200 in 16245ms :: {"review":{"title":"Magnesium Gly…
+Received OpenAI response: 📝 Literature Review: Magnesium Glycinate & Its Impact on Wellness
+
+1. Overview
+* What is Magnesium Glycinate?
+    * Magnesium Glycinate is a chelated form of magnesium where the mineral is bound to the amino acid glycine, enhancing its absorption and bioavailability, and is primarily used to support various physiological functions and overall wellness.
+* Primary Benefits:
+    ✅ Supports muscle and nerve function  
+    ✅ Promotes better sleep quality  
+    ✅ Enhances cardiovascular health  
+    ✅ Alleviates symptoms of magnesium deficiency  
+* Common Supplement Forms:
+    * Capsules
+    * Tablets
+    * Powders
+    * Liquid formulations
+
+2. Impact on Key Wellness Areas
+
+🛌 Sleep & Recovery
+* How It Works:
+    * Magnesium Glycinate is thought to enhance sleep and recovery by modulating the activity of GABA receptors, promoting relaxation, and stabilizing the central nervous system.
+* Key Findings:
+    ✅ A study reported improved sleep quality in individuals taking magnesium supplements, suggesting a potential benefit for insomnia ([Abbasi et al., 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3703169/)).  
+    ✅ Magnesium Glycinate supplementation was associated with reduced sleep latency and improved subjective sleep quality ([Jahnen-Dechent and Ketteler, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257652/)).  
+* Research Gaps:
+    ❌ Long-term effects of magnesium glycinate on sleep quality  
+    ❌ Comparative studies with other forms of magnesium  
+
+💪 Physical Performance
+* How It Works:
+    * Magnesium Glycinate supports physical performance by contributing to muscle contraction and relaxation, energy production, and reducing oxidative stress.
+* Key Findings:
+    ✅ Athletes supplemented with magnesium showed improved muscle oxygenation and reduced fatigue ([Golf et al., 2014](https://pubmed.ncbi.nlm.nih.gov/23899755/)).  
+    ✅ Magnesium deficiency was linked to impaired aerobic capacity and muscle performance ([Nielsen, 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2885314/)).  
+* Research Gaps:
+    ❌ Dosing strategies for athletic performance  
+    ❌ Effects on recovery time in athletes  
+
+❤️ Cardiovascular Health
+* How It Works:
+    * Magnesium Glycinate supports cardiovascular health by regulating blood pressure, reducing arterial stiffness, and improving endothelial function.
+* Key Findings:
+    ✅ Magnesium supplementation has been shown to lower blood pressure in hypertensive individuals ([Zhang et al., 2016](https://pubmed.ncbi.nlm.nih.gov/26791259/)).  
+    ✅ Higher magnesium intake is associated with a reduced risk of ischemic heart disease ([Del Gobbo et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23438866/)).  
+* Research Gaps:
+    ❌ Long-term cardiovascular outcomes  
+    ❌ Effects on arrhythmias  
+
+🧠 Cognitive Function & Mood
+* How It Works:
+    * Magnesium Glycinate is thought to influence cognitive function and mood by modulating neurotransmitter activity and reducing neuroinflammation.
+* Key Findings:
+    ✅ Increased magnesium intake is correlated with lower incidence of depression ([Tarleton et al., 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5409749/)).  
+    ✅ Magnesium supplementation may improve symptoms in individuals with mild-to-moderate depression ([Serefko et al., 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4859458/)).  
+* Research Gaps:
+    ❌ Impact on cognitive decline in aging populations  
+    ❌ Mechanisms in mood regulation  
+
+🔥 Metabolic & Gut Health
+* How It Works:
+    * Magnesium Glycinate aids metabolic health by playing a role in insulin sensitivity and glucose metabolism, and supports gut health by stimulating bowel movements.
+* Key Findings:
+    ✅ Magnesium intake is inversely associated with the risk of type 2 diabetes ([Dong et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21378270/)).  
+    ✅ Magnesium supplementation can improve glycemic control in individuals with diabetes ([Guerrero-Romero and Rodríguez-Morán, 2011](https://pubmed.ncbi.nlm.nih.gov/21840439/)).  
+* Research Gaps:
+    ❌ Role in gut microbiota modulation  
+    ❌ Long-term effects on metabolic syndrome  
+
+💙 Sexual Health & Performance
+* How It Works:
+    * Magnesium Glycinate may influence sexual health by supporting hormonal balance and improving endothelial function, which is crucial for erectile function.
+* Key Findings:
+    ✅ Magnesium deficiency has been linked to erectile dysfunction ([Alcántara et al., 2015](https://pubmed.ncbi.nlm.nih.gov/26563194/)).  
+    ✅ Adequate magnesium levels are crucial for testosterone production and function ([Finstad et al., 2001](https://pubmed.ncbi.nlm.nih.gov/11373125/)).  
+* Research Gaps:
+    ❌ Specific effects on female sexual health  
+    ❌ Direct interventional studies on sexual performance  
+
+3. Research Gaps & Future Studies
+📌 Unanswered Questions in Research:
+* What are the comparative effects of magnesium glycinate versus other forms on various health outcomes?
+* How does magnesium glycinate interact with medications commonly affecting magnesium absorption?
+* What are the long-term health outcomes of sustained magnesium glycinate supplementation?
+
+4. Conclusion
+* Key Points:
+    * Magnesium Glycinate is beneficial for sleep quality, muscle function, and cardiovascular health.
+    * It is well-absorbed and gentle on the gastrointestinal tract.
+    * There are significant gaps in research regarding its long-term effects and specific mechanisms across different health areas.
+* Safety Considerations:
+    * Generally well-tolerated, but excessive intake can lead to diarrhea and gastrointestinal discomfort.
+* 📌 Who Benefits Most?
+    ✅ Individuals with magnesium deficiency  
+    ✅ Those experiencing sleep issues or muscle cramps  
+    ✅ Individuals with cardiovascular concerns or type 2 diabetes  
+Literature review generated successfully
+11:37:32 PM [express] POST /api/literature-review 200 in 20501ms :: {"review":{"title":"Magnesium Gly…
+Found 5 relevant documents for category Stress
+Found 5 relevant documents for category Recovery
+Found 0 relevant documents for category Cognition
+Found 0 relevant documents for category Physical Performance
+Found 5 relevant documents for category Sleep
+Found 0 relevant documents for category Cardiovascular Health
+Found 0 relevant documents for category Gut Health
+Found 0 relevant documents for category Metabolic Health
+Found 0 relevant documents for category Sexual Health
+Found 5 relevant documents for category Sleep
+Found 5 relevant documents for category Stress
+Found 5 relevant documents for category Recovery
+Found 0 relevant documents for category Cognition
+Found 0 relevant documents for category Physical Performance
+Found 0 relevant documents for category Cardiovascular Health
+Found 0 relevant documents for category Metabolic Health
+Found 0 relevant documents for category Gut Health
+Found 0 relevant documents for category Sexual Health
+11:37:38 PM [express] POST /api/protocols/hypotheses 200 in 6463ms :: {"hypotheses":[{"id":1,"categor…
+11:37:39 PM [express] POST /api/protocols/hypotheses 200 in 7182ms :: {"hypotheses":[{"id":1,"categor…
+Generating contextual prompt for Magnesium Glycinate in category: Sleep
+11:38:12 PM [express] POST /api/protocols/generate 200 in 32089ms :: {"studyCategory":"Sleep","experi…
+11:38:19 PM [express] POST /api/protocols/risk-assessment 200 in 1ms :: {"assessment":{"riskLevel":"L…
+Literature review request body: {}
+Validation error: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "productName"
+    ],
+    "message": "Required"
+  }
+]
+    at get error [as error] (file:///home/runner/workspace/node_modules/zod/lib/index.mjs:587:31)
+    at <anonymous> (/home/runner/workspace/server/routes.ts:57:56)
+    at Layer.handle [as handle_request] (/home/runner/workspace/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/runner/workspace/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/runner/workspace/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/runner/workspace/node_modules/express/lib/router/layer.js:95:5)
+    at /home/runner/workspace/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/runner/workspace/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/runner/workspace/node_modules/express/lib/router/index.js:280:10)
+    at <anonymous> (/home/runner/workspace/server/index.ts:50:3)
+    at Layer.handle [as handle_request] (/home/runner/workspace/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/runner/workspace/node_modules/express/lib/router/index.js:328:13)
+    at /home/runner/workspace/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/runner/workspace/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/runner/workspace/node_modules/express/lib/router/index.js:280:10)
+    at <anonymous> (/home/runner/workspace/server/index.ts:19:3)
+    at Layer.handle [as handle_request] (/home/runner/workspace/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/runner/workspace/node_modules/express/lib/router/index.js:328:13)
+    at /home/runner/workspace/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/runner/workspace/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/runner/workspace/node_modules/express/lib/router/index.js:280:10)
+    at urlencodedParser (/home/runner/workspace/node_modules/body-parser/lib/types/urlencoded.js:85:7)
+    at Layer.handle [as handle_request] (/home/runner/workspace/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/runner/workspace/node_modules/express/lib/router/index.js:328:13)
+    at /home/runner/workspace/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/runner/workspace/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/runner/workspace/node_modules/express/lib/router/index.js:280:10)
+    at /home/runner/workspace/node_modules/body-parser/lib/read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (/home/runner/workspace/node_modules/raw-body/index.js:238:16)
+    at done (/home/runner/workspace/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/home/runner/workspace/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  issues: [
+    {
+      code: 'invalid_type',
+      expected: 'string',
+      received: 'undefined',
+      path: [Array],
+      message: 'Required'
+    }
+  ],
+  addIssue: [Function (anonymous)],
+  addIssues: [Function (anonymous)],
+  errors: [
+    {
+      code: 'invalid_type',
+      expected: 'string',
+      received: 'undefined',
+      path: [Array],
+      message: 'Required'
+    }
+  ]
+}
+11:38:19 PM [express] POST /api/literature-review 400 in 9ms :: {"error":true,"message":"Invalid requ…

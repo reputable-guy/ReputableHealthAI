@@ -40,6 +40,43 @@ function InfoTooltip({ content }: InfoTooltipProps) {
   );
 }
 
+// Helper function to generate IRB submission (needs implementation)
+const generateIrbSubmission = async (protocolData: Partial<ProtocolData>) => {
+  const res = await fetch("/api/protocols/irb-submission", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      protocol: {
+        title: protocolData.experimentTitle,
+        studyObjective: protocolData.studyObjective,
+        studyDesign: protocolData.studyType,
+        participantCount: protocolData.participantCount,
+        eligibilityCriteria: protocolData.eligibilityCriteria?.customQuestions || [],
+        procedures: protocolData.targetMetrics || [],
+        durationWeeks: protocolData.durationWeeks,
+        risks: [],
+        safetyPrecautions: protocolData.safetyPrecautions || [],
+        dataCollection: {},
+        dataStorage: {},
+        analysisMethod: {},
+        timeline: []
+      },
+      literatureReview: protocolData.literatureReview, // Assuming literatureReview is now part of protocolData
+      riskAssessment: protocolData.riskAssessment // Assuming riskAssessment is now part of protocolData
+
+    })
+  });
+
+  if (!res.ok) {
+    const error = await res.json();
+    throw new Error(error.message || "Failed to generate IRB submission");
+  }
+
+  const data = await res.json();
+  return data.submission;
+};
+
+
 export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) {
   const { toast } = useToast();
   const [irbSubmission, setIrbSubmission] = useState<string | null>(null);
@@ -84,73 +121,19 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
 
   const generateIRBSubmission = useMutation({
     mutationFn: async () => {
-      // First ensure we have a risk assessment
-      if (!localProtocolData.riskAssessment) {
-        const riskRes = await fetch("/api/protocols/risk-assessment", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(protocolData)
-        });
-
-        if (!riskRes.ok) {
-          throw new Error("Failed to generate risk assessment");
+      try {
+        // Make sure we have all required data
+        if (!protocolData.productName || !protocolData.websiteUrl) {
+          throw new Error("Missing required product information");
         }
 
-        const { assessment } = await riskRes.json();
-        setLocalProtocolData(prev => ({
-          ...prev,
-          riskAssessment: assessment
-        }));
+        // Generate IRB submission using the service
+        const submission = await generateIrbSubmission(protocolData);
+        return submission;
+      } catch (error) {
+        console.error('Error generating IRB submission:', error);
+        throw error;
       }
-
-      // Generate literature review if not present
-      const literatureRes = await fetch("/api/literature-review", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          productName: protocolData.productName,
-          websiteUrl: protocolData.websiteUrl
-        })
-      });
-
-      if (!literatureRes.ok) {
-        throw new Error("Failed to generate literature review");
-      }
-
-      const { review } = await literatureRes.json();
-
-      // Now generate IRB submission with all required components
-      const res = await fetch("/api/protocols/irb-submission", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          protocol: {
-            title: protocolData.experimentTitle,
-            studyObjective: protocolData.studyObjective,
-            studyDesign: protocolData.studyType,
-            participantCount: protocolData.participantCount,
-            eligibilityCriteria: protocolData.eligibilityCriteria?.customQuestions || [],
-            procedures: protocolData.targetMetrics || [],
-            durationWeeks: protocolData.durationWeeks,
-            risks: [],
-            safetyPrecautions: protocolData.safetyPrecautions || [],
-            dataCollection: {},
-            dataStorage: {},
-            analysisMethod: {},
-            timeline: []
-          },
-          literatureReview: review,
-          riskAssessment: localProtocolData.riskAssessment
-        })
-      });
-
-      if (!res.ok) {
-        const error = await res.json();
-        throw new Error(error.message || "Failed to generate IRB submission");
-      }
-
-      const data = await res.json();
-      return data.submission;
     },
     onSuccess: (data) => {
       setIrbSubmission(data);
