@@ -29,6 +29,7 @@ export interface LiteratureReview {
     safetyConsiderations: string[];
     targetAudience: string[];
   };
+  references: string[]; // Add new references field
 }
 
 const MAX_RETRIES = 2;
