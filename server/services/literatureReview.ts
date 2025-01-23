@@ -400,6 +400,14 @@ Follow this exact format to ensure consistency:
 * Research Gaps:
     ❌ [List research gaps, each on a new line.]
 
+💙 Sexual Health & Performance
+* How It Works:
+    * [Explain mechanism of action.]
+* Key Findings:
+    ✅ [List scientific findings, each on a new line, include sources.]
+* Research Gaps:
+    ❌ [List research gaps, each on a new line.]
+
 3. Research Gaps & Future Studies
 📌 Unanswered Questions in Research:
 * [List 3+ unanswered research questions.]
