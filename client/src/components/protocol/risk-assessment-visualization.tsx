@@ -79,16 +79,20 @@ export default function RiskAssessmentVisualization({
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        <Card>
+        <Card className="w-full h-full">
           <CardHeader>
             <CardTitle>Risk Assessment Breakdown</CardTitle>
           </CardHeader>
-          <CardContent>
-            <div className="h-[300px] w-full">
-              <ResponsiveContainer width="100%" height="100%">
-                <RadarChart data={chartData}>
-                  <PolarGrid />
-                  <PolarAngleAxis dataKey="category" />
+          <CardContent className="p-4">
+            <div className="w-full aspect-square">
+              <ResponsiveContainer width="100%" height="100%" minWidth={300}>
+                <RadarChart data={chartData} margin={{ top: 20, right: 30, bottom: 20, left: 30 }}>
+                  <PolarGrid gridType="polygon" />
+                  <PolarAngleAxis 
+                    dataKey="category" 
+                    tick={{ fill: 'currentColor', fontSize: 12 }}
+                    tickLine={false}
+                  />
                   <Radar
                     name="Risk Score"
                     dataKey="score"
