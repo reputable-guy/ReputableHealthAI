@@ -49,19 +49,19 @@ export type IrbSubmissionRequest = z.infer<typeof irbSubmissionRequestSchema>;
 function transformProtocolData(protocolData: any): IrbSubmissionRequest {
   const { 
     title = protocolData.experimentTitle,
-    studyObjective,
-    studyType: studyDesign,
-    participantCount,
-    durationWeeks,
-    targetMetrics,
-    procedures,
-    eligibilityCriteria = [],
-    risks = [],
-    safetyPrecautions = [],
-    dataCollection = {},
-    dataStorage = {},
-    analysisMethod = {},
-    timeline = []
+    studyObjective = protocolData.studyObjective,
+    studyType: studyDesign = protocolData.studyType,
+    participantCount = protocolData.participantCount || 0,
+    durationWeeks = protocolData.durationWeeks || 0,
+    targetMetrics = protocolData.targetMetrics || [],
+    procedures = protocolData.procedures || [],
+    eligibilityCriteria = protocolData.eligibilityCriteria || [],
+    risks = protocolData.risks || [],
+    safetyPrecautions = protocolData.safetyPrecautions || [],
+    dataCollection = protocolData.dataCollection || {},
+    dataStorage = protocolData.dataStorage || {},
+    analysisMethod = protocolData.analysisMethod || {},
+    timeline = protocolData.timeline || []
   } = protocolData;
 
   return {
@@ -71,14 +71,22 @@ function transformProtocolData(protocolData: any): IrbSubmissionRequest {
       studyDesign,
       participantCount,
       eligibilityCriteria,
-      procedures: procedures || targetMetrics || [],
+      procedures: procedures.length > 0 ? procedures : targetMetrics,
       durationWeeks,
       risks,
       safetyPrecautions,
       dataCollection,
       dataStorage,
       analysisMethod,
-      timeline
+      timeline,
+      dataPrivacy: [],
+      consentProcess: {},
+      compensation: null,
+      investigator: {
+        name: "To be assigned",
+        credentials: [],
+        contact: {}
+      }
     },
     literatureReview: {
       overview: {
