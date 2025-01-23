@@ -108,7 +108,6 @@ export default function LiteratureReviewPage() {
               </div>
 
               <div>
-                <h3 className="text-xl font-semibold">Primary Benefits</h3>
                 <ul className="list-none pl-6">
                   {review.overview.benefits.map((benefit, index) => (
                     <li key={index} className="flex items-start gap-2">
@@ -120,7 +119,6 @@ export default function LiteratureReviewPage() {
               </div>
 
               <div>
-                <h3 className="text-xl font-semibold">Common Supplement Forms</h3>
                 <ul className="list-disc pl-6">
                   {review.overview.supplementForms.map((form, index) => (
                     <li key={index}>{form}</li>
