@@ -8,14 +8,16 @@ export const literatureReviewRequestSchema = z.object({
 export type LiteratureReviewRequest = z.infer<typeof literatureReviewRequestSchema>;
 
 export interface LiteratureReview {
+  title: string;
   overview: {
-    description: string;
+    description: string[];
     benefits: string[];
     supplementForms: string[];
   };
   wellnessAreas: {
+    emoji: string;
     name: string;
-    mechanism: string;
+    mechanism: string[];
     keyFindings: string[];
     researchGaps: string[];
   }[];
@@ -24,8 +26,8 @@ export interface LiteratureReview {
   };
   conclusion: {
     keyPoints: string[];
-    targetAudience: string[];
     safetyConsiderations: string[];
+    targetAudience: string[];
   };
 }
 

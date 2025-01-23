@@ -3,13 +3,14 @@ import { z } from "zod";
 import axios from "axios";
 import { load } from "cheerio";
 
-// Define wellness areas at the top level to avoid circular imports
+// Define wellness areas based on the template
 export const WELLNESS_AREAS = [
   "Sleep & Recovery",
   "Physical Performance",
   "Cardiovascular Health",
-  "Cognitive Function",
-  "Metabolic Health",
+  "Cognitive Function & Mood",
+  "Metabolic & Gut Health",
+  "Sexual Health"
 ] as const;
 
 const CACHE_DURATION = 1000 * 60 * 60; // 1 hour
@@ -20,6 +21,7 @@ export const literatureReviewRequestSchema = z.object({
   websiteUrl: z.string().url("Please enter a valid URL").optional(),
 });
 
+// Scraping function remains unchanged
 export async function scrapeWebsite(url: string): Promise<string> {
   const cached = scrapeCache.get(url);
   if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
@@ -73,62 +75,60 @@ export async function generateLiteratureReview(productName: string, websiteUrl?:
     }
   }
 
-  // Enhanced system prompt with clear formatting instructions
-  const systemPrompt = `You are a scientific literature review expert. Generate a comprehensive review in this exact format:
+  // Updated system prompt to match the Nitric Oxide template format
+  const systemPrompt = `You are a scientific literature review expert. Generate a comprehensive review following this exact format:
 
-[OVERVIEW]
-DESCRIPTION: {Scientific explanation of the supplement/product}
+📝 Literature Review: [Product Name] & Its Impact on Wellness
 
-BENEFITS:
-- {Benefit 1}
-- {Benefit 2}
-- {Benefit 3}
+1. Overview
+* What is [Product]?
+    * {Scientific explanation point 1}
+    * {Scientific explanation point 2}
+    * {Scientific explanation point 3}
+* Primary Benefits:
+    ✅ {Benefit 1}
+    ✅ {Benefit 2}
+    ✅ {Benefit 3}
+* Common Supplement Forms:
+    * {Form 1}
+    * {Form 2}
+    * {Form 3}
 
-FORMS:
-- {Form 1}
-- {Form 2}
-- {Form 3}
+2. Impact on Key Wellness Areas
 
-[WELLNESS]
-For each relevant wellness area:
+🛌 Sleep & Recovery (or relevant emoji for area)
+* How It Works:
+    * {Mechanism explanation}
+* Key Findings:
+    ✅ {Finding 1}
+    ✅ {Finding 2}
+    ✅ {Finding 3}
+* Research Gaps:
+    ❌ {Gap 1}
+    ❌ {Gap 2}
 
-AREA: {Area name}
-MECHANISM: {Scientific mechanism of action}
-FINDINGS:
-- {Finding 1}
-- {Finding 2}
-- {Finding 3}
-GAPS:
-- {Gap 1}
-- {Gap 2}
+(Repeat the above section structure for each relevant wellness area)
 
-[RESEARCH]
-QUESTIONS:
-- {Research question 1}
-- {Research question 2}
-- {Research question 3}
+3. Research Gaps & Future Studies
+📌 Unanswered Questions in Research:
+* {Question 1}
+* {Question 2}
+* {Question 3}
 
-[CONCLUSION]
-KEY POINTS:
-- {Key point 1}
-- {Key point 2}
-- {Key point 3}
-
-TARGET AUDIENCE:
-- {Audience 1}
-- {Audience 2}
-- {Audience 3}
-
-SAFETY:
-- {Safety consideration 1}
-- {Safety consideration 2}
-- {Safety consideration 3}`;
+4. Conclusion
+* Key takeaways about [Product]
+* Safety considerations
+📌 Who Benefits Most?
+✅ {Target group 1}
+✅ {Target group 2}
+✅ {Target group 3}`;
 
   const userPrompt = `Generate a scientific literature review for ${productName}.
 ${productContext ? '\nProduct Context:\n' + productContext : ''}
 
-Follow the exact format above. Include specific scientific details and research-backed information.
-Each section must have at least 3 detailed bullet points.`;
+Follow the exact format above. Each section must be detailed and research-backed.
+Include emojis exactly as shown in the template.
+Keep bullet points and checkmark/x-mark formatting consistent.`;
 
   try {
     console.log('Sending literature review request to OpenAI...');
@@ -156,15 +156,18 @@ Each section must have at least 3 detailed bullet points.`;
 }
 
 function parseReviewContent(content: string) {
+  // Initialize the review object with the new structure
   const review = {
+    title: "",
     overview: {
-      description: "",
+      description: [] as string[],
       benefits: [] as string[],
       supplementForms: [] as string[],
     },
     wellnessAreas: [] as Array<{
+      emoji: string;
       name: string;
-      mechanism: string;
+      mechanism: string[];
       keyFindings: string[];
       researchGaps: string[];
     }>,
@@ -173,155 +176,138 @@ function parseReviewContent(content: string) {
     },
     conclusion: {
       keyPoints: [] as string[],
-      targetAudience: [] as string[],
       safetyConsiderations: [] as string[],
+      targetAudience: [] as string[],
     },
   };
 
   try {
     // Split content into main sections
-    const sections = content.split(/\[(.*?)\]/);
+    const sections = content.split(/\d\.\s+/);
 
-    for (let i = 0; i < sections.length; i++) {
-      const section = sections[i].trim();
+    // Extract title
+    const titleMatch = content.match(/📝\s*Literature Review:.*$/m);
+    if (titleMatch) {
+      review.title = titleMatch[0].trim();
+    }
 
-      if (section === 'OVERVIEW') {
-        const overviewContent = sections[i + 1];
-        const descriptionMatch = overviewContent.match(/DESCRIPTION:\s*([\s\S]*?)(?=BENEFITS:|$)/);
-        if (descriptionMatch) {
-          review.overview.description = descriptionMatch[1].trim();
-        }
-
-        // Parse benefits
-        const benefitsMatch = overviewContent.match(/BENEFITS:([\s\S]*?)(?=FORMS:|$)/);
-        if (benefitsMatch) {
-          review.overview.benefits = benefitsMatch[1]
-            .split('-')
-            .map(b => b.trim())
-            .filter(b => b.length > 0);
-        }
-
-        // Parse forms
-        const formsMatch = overviewContent.match(/FORMS:([\s\S]*?)(?=$)/);
-        if (formsMatch) {
-          review.overview.supplementForms = formsMatch[1]
-            .split('-')
-            .map(f => f.trim())
-            .filter(f => f.length > 0);
-        }
+    // Parse Overview section
+    const overviewSection = sections[1];
+    if (overviewSection) {
+      // Extract description points
+      const descriptionMatch = overviewSection.match(/What is.*?\*([\s\S]*?)(?=\*\s*Primary Benefits|\*\s*Common)/);
+      if (descriptionMatch) {
+        review.overview.description = descriptionMatch[1]
+          .split('*')
+          .map(p => p.trim())
+          .filter(p => p.length > 0);
       }
 
-      if (section === 'WELLNESS') {
-        const wellnessContent = sections[i + 1];
-        const areas = wellnessContent.split(/AREA:/g).slice(1);
-
-        areas.forEach(area => {
-          const areaContent = area.trim();
-          const nameMatch = areaContent.match(/(.*?)(?=MECHANISM:|$)/);
-          const mechanismMatch = areaContent.match(/MECHANISM:([\s\S]*?)(?=FINDINGS:|$)/);
-          const findingsMatch = areaContent.match(/FINDINGS:([\s\S]*?)(?=GAPS:|$)/);
-          const gapsMatch = areaContent.match(/GAPS:([\s\S]*?)(?=$)/);
-
-          if (nameMatch) {
-            const wellnessArea = {
-              name: nameMatch[1].trim(),
-              mechanism: mechanismMatch ? mechanismMatch[1].trim() : '',
-              keyFindings: findingsMatch ? 
-                findingsMatch[1]
-                  .split('-')
-                  .map(f => f.trim())
-                  .filter(f => f.length > 0) : [],
-              researchGaps: gapsMatch ?
-                gapsMatch[1]
-                  .split('-')
-                  .map(g => g.trim())
-                  .filter(g => g.length > 0) : [],
-            };
-            review.wellnessAreas.push(wellnessArea);
-          }
-        });
+      // Extract benefits
+      const benefitsMatch = overviewSection.match(/Primary Benefits:[\s\S]*?(?=\*\s*Common|$)/);
+      if (benefitsMatch) {
+        review.overview.benefits = benefitsMatch[0]
+          .split('✅')
+          .slice(1)
+          .map(b => b.trim())
+          .filter(b => b.length > 0);
       }
 
-      if (section === 'RESEARCH') {
-        const researchContent = sections[i + 1];
-        const questionsMatch = researchContent.match(/QUESTIONS:([\s\S]*?)(?=$)/);
-        if (questionsMatch) {
-          review.researchGaps.questions = questionsMatch[1]
-            .split('-')
-            .map(q => q.trim())
-            .filter(q => q.length > 0);
-        }
+      // Extract supplement forms
+      const formsMatch = overviewSection.match(/Common Supplement Forms:[\s\S]*?(?=\d\.|$)/);
+      if (formsMatch) {
+        review.overview.supplementForms = formsMatch[0]
+          .split('*')
+          .slice(1)
+          .map(f => f.trim())
+          .filter(f => f.length > 0);
       }
+    }
 
-      if (section === 'CONCLUSION') {
-        const conclusionContent = sections[i + 1];
+    // Parse Wellness Areas
+    const wellnessSection = sections[2];
+    if (wellnessSection) {
+      const areas = wellnessSection.split(/[🛌💪❤️🧠🔥💙]/);
+      for (const area of areas) {
+        if (!area.trim()) continue;
 
-        // Parse key points
-        const keyPointsMatch = conclusionContent.match(/KEY POINTS:([\s\S]*?)(?=TARGET AUDIENCE:|$)/);
-        if (keyPointsMatch) {
-          review.conclusion.keyPoints = keyPointsMatch[1]
-            .split('-')
-            .map(k => k.trim())
-            .filter(k => k.length > 0);
-        }
+        const areaMatch = area.match(/(.*?)\n/);
+        const mechanismMatch = area.match(/How It Works:[\s\S]*?(?=\*\s*Key Findings|\*\s*Research)/);
+        const findingsMatch = area.match(/Key Findings:[\s\S]*?(?=\*\s*Research Gaps)/);
+        const gapsMatch = area.match(/Research Gaps:[\s\S]*?(?=\n\n|$)/);
 
-        // Parse target audience
-        const audienceMatch = conclusionContent.match(/TARGET AUDIENCE:([\s\S]*?)(?=SAFETY:|$)/);
-        if (audienceMatch) {
-          review.conclusion.targetAudience = audienceMatch[1]
-            .split('-')
-            .map(a => a.trim())
-            .filter(a => a.length > 0);
-        }
-
-        // Parse safety considerations
-        const safetyMatch = conclusionContent.match(/SAFETY:([\s\S]*?)(?=$)/);
-        if (safetyMatch) {
-          review.conclusion.safetyConsiderations = safetyMatch[1]
-            .split('-')
-            .map(s => s.trim())
-            .filter(s => s.length > 0);
+        if (areaMatch) {
+          const wellnessArea = {
+            emoji: area.match(/[🛌💪❤️🧠🔥💙]/)?.[0] || '',
+            name: areaMatch[1].trim(),
+            mechanism: mechanismMatch ? 
+              mechanismMatch[0]
+                .split('*')
+                .slice(1)
+                .map(m => m.trim())
+                .filter(m => m.length > 0) : [],
+            keyFindings: findingsMatch ?
+              findingsMatch[0]
+                .split('✅')
+                .slice(1)
+                .map(f => f.trim())
+                .filter(f => f.length > 0) : [],
+            researchGaps: gapsMatch ?
+              gapsMatch[0]
+                .split('❌')
+                .slice(1)
+                .map(g => g.trim())
+                .filter(g => g.length > 0) : [],
+          };
+          review.wellnessAreas.push(wellnessArea);
         }
       }
     }
 
-    // Only use fallback values if sections are completely empty
-    if (review.overview.description.length === 0) {
-      console.log('Using fallback description');
-      review.overview.description = 'Scientific description not available';
+    // Parse Research Gaps
+    const researchSection = sections[3];
+    if (researchSection) {
+      const questionsMatch = researchSection.match(/Unanswered Questions[\s\S]*?(?=\d\.|$)/);
+      if (questionsMatch) {
+        review.researchGaps.questions = questionsMatch[0]
+          .split('*')
+          .slice(1)
+          .map(q => q.trim())
+          .filter(q => q.length > 0);
+      }
     }
-    if (review.overview.benefits.length === 0) {
-      console.log('Using fallback benefits');
-      review.overview.benefits = ['Scientific benefits under investigation'];
-    }
-    if (review.overview.supplementForms.length === 0) {
-      console.log('Using fallback forms');
-      review.overview.supplementForms = ['Common supplement forms being researched'];
-    }
-    if (review.wellnessAreas.length === 0) {
-      console.log('Using fallback wellness area');
-      review.wellnessAreas = [{
-        name: 'General Wellness',
-        mechanism: 'Scientific mechanisms under investigation',
-        keyFindings: ['Research in progress'],
-        researchGaps: ['Comprehensive studies needed'],
-      }];
-    }
-    if (review.researchGaps.questions.length === 0) {
-      console.log('Using fallback research questions');
-      review.researchGaps.questions = ['Optimal dosing studies needed'];
-    }
-    if (review.conclusion.keyPoints.length === 0) {
-      console.log('Using fallback key points');
-      review.conclusion.keyPoints = ['Further research recommended'];
-    }
-    if (review.conclusion.targetAudience.length === 0) {
-      console.log('Using fallback target audience');
-      review.conclusion.targetAudience = ['Subject to clinical evaluation'];
-    }
-    if (review.conclusion.safetyConsiderations.length === 0) {
-      console.log('Using fallback safety considerations');
-      review.conclusion.safetyConsiderations = ['Consult healthcare provider'];
+
+    // Parse Conclusion
+    const conclusionSection = sections[4];
+    if (conclusionSection) {
+      // Extract key points
+      const keyPointsMatch = conclusionSection.match(/(?:\* )([\s\S]*?)(?=\* Safety|📌)/);
+      if (keyPointsMatch) {
+        review.conclusion.keyPoints = keyPointsMatch[1]
+          .split('*')
+          .map(k => k.trim())
+          .filter(k => k.length > 0);
+      }
+
+      // Extract safety considerations
+      const safetyMatch = conclusionSection.match(/Safety considerations[\s\S]*?(?=📌|$)/);
+      if (safetyMatch) {
+        review.conclusion.safetyConsiderations = safetyMatch[0]
+          .split('*')
+          .slice(1)
+          .map(s => s.trim())
+          .filter(s => s.length > 0);
+      }
+
+      // Extract target audience
+      const audienceMatch = conclusionSection.match(/Who Benefits Most\?[\s\S]*?$/);
+      if (audienceMatch) {
+        review.conclusion.targetAudience = audienceMatch[0]
+          .split('✅')
+          .slice(1)
+          .map(a => a.trim())
+          .filter(a => a.length > 0);
+      }
     }
 
     return review;

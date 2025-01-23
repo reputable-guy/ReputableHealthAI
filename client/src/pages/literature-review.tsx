@@ -29,7 +29,6 @@ export default function LiteratureReviewPage() {
         description: error instanceof Error ? error.message : "Failed to generate review",
         variant: "destructive",
       });
-      // Redirect back to input page on error
       setLocation("/input");
     },
   });
@@ -48,7 +47,6 @@ export default function LiteratureReviewPage() {
       return;
     }
 
-    // Only generate if we don't already have a review and we're not already generating
     if (!review && !isPending) {
       generateReview({
         productName,
@@ -63,7 +61,7 @@ export default function LiteratureReviewPage() {
     const queryParams = new URLSearchParams({
       product: productName || "",
       ...(websiteUrl && { url: websiteUrl }),
-      autoGenerate: "true" // Add flag to auto-generate hypotheses
+      autoGenerate: "true"
     });
     setLocation(`/protocols/hypotheses?${queryParams.toString()}`);
   };
@@ -89,79 +87,118 @@ export default function LiteratureReviewPage() {
       <Card>
         <CardHeader>
           <div className="flex justify-between items-center">
-            <CardTitle>Literature Review</CardTitle>
+            <CardTitle>{review.title}</CardTitle>
             <Button onClick={handleProceedToHypotheses}>
               Generate Hypotheses
             </Button>
           </div>
         </CardHeader>
         <CardContent className="prose prose-sm max-w-none">
+          {/* Overview Section */}
           <section>
-            <h3 className="text-xl font-semibold mb-4">Overview</h3>
-            <p>{review.overview.description}</p>
+            <h2 className="text-2xl font-bold mb-4">1. Overview</h2>
+            <div className="space-y-4">
+              <div>
+                <h3 className="text-xl font-semibold">What is the Product?</h3>
+                <ul className="list-disc pl-6">
+                  {review.overview.description.map((point, index) => (
+                    <li key={index}>{point}</li>
+                  ))}
+                </ul>
+              </div>
 
-            <div className="mt-4">
-              <h4 className="font-semibold">Primary Benefits</h4>
-              <ul>
-                {review.overview.benefits.map((benefit, index) => (
-                  <li key={index}>{benefit}</li>
-                ))}
-              </ul>
-            </div>
+              <div>
+                <h3 className="text-xl font-semibold">Primary Benefits</h3>
+                <ul className="list-none pl-6">
+                  {review.overview.benefits.map((benefit, index) => (
+                    <li key={index} className="flex items-start gap-2">
+                      <span className="text-green-600">✅</span>
+                      {benefit}
+                    </li>
+                  ))}
+                </ul>
+              </div>
 
-            <div className="mt-4">
-              <h4 className="font-semibold">Common Supplement Forms</h4>
-              <ul>
-                {review.overview.supplementForms.map((form, index) => (
-                  <li key={index}>{form}</li>
-                ))}
-              </ul>
+              <div>
+                <h3 className="text-xl font-semibold">Common Supplement Forms</h3>
+                <ul className="list-disc pl-6">
+                  {review.overview.supplementForms.map((form, index) => (
+                    <li key={index}>{form}</li>
+                  ))}
+                </ul>
+              </div>
             </div>
           </section>
 
+          {/* Wellness Areas Section */}
           <section className="mt-8">
-            <h3 className="text-xl font-semibold mb-4">Wellness Areas</h3>
+            <h2 className="text-2xl font-bold mb-4">2. Impact on Key Wellness Areas</h2>
             {review.wellnessAreas.map((area, index) => (
-              <div key={index} className="mb-6">
-                <h4 className="font-semibold text-lg">{area.name}</h4>
-                <p className="mt-2">{area.mechanism}</p>
+              <div key={index} className="mb-8">
+                <h3 className="text-xl font-semibold flex items-center gap-2">
+                  <span>{area.emoji}</span> {area.name}
+                </h3>
 
-                <div className="mt-3">
-                  <h5 className="font-medium">Key Findings</h5>
-                  <ul>
-                    {area.keyFindings.map((finding, idx) => (
-                      <li key={idx}>{finding}</li>
-                    ))}
-                  </ul>
-                </div>
+                <div className="space-y-4 mt-4">
+                  <div>
+                    <h4 className="font-semibold">How It Works</h4>
+                    <ul className="list-disc pl-6">
+                      {area.mechanism.map((point, idx) => (
+                        <li key={idx}>{point}</li>
+                      ))}
+                    </ul>
+                  </div>
 
-                <div className="mt-3">
-                  <h5 className="font-medium">Research Gaps</h5>
-                  <ul>
-                    {area.researchGaps.map((gap, idx) => (
-                      <li key={idx}>{gap}</li>
-                    ))}
-                  </ul>
+                  <div>
+                    <h4 className="font-semibold">Key Findings</h4>
+                    <ul className="list-none pl-6">
+                      {area.keyFindings.map((finding, idx) => (
+                        <li key={idx} className="flex items-start gap-2">
+                          <span className="text-green-600">✅</span>
+                          {finding}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+
+                  <div>
+                    <h4 className="font-semibold">Research Gaps</h4>
+                    <ul className="list-none pl-6">
+                      {area.researchGaps.map((gap, idx) => (
+                        <li key={idx} className="flex items-start gap-2">
+                          <span className="text-red-600">❌</span>
+                          {gap}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
               </div>
             ))}
           </section>
 
+          {/* Research Gaps Section */}
           <section className="mt-8">
-            <h3 className="text-xl font-semibold mb-4">Research Gaps & Future Studies</h3>
-            <ul>
-              {review.researchGaps.questions.map((question, index) => (
-                <li key={index}>{question}</li>
-              ))}
-            </ul>
+            <h2 className="text-2xl font-bold mb-4">3. Research Gaps & Future Studies</h2>
+            <div>
+              <h3 className="text-xl font-semibold flex items-center gap-2">
+                <span>📌</span> Unanswered Questions in Research
+              </h3>
+              <ul className="list-disc pl-6 mt-2">
+                {review.researchGaps.questions.map((question, index) => (
+                  <li key={index}>{question}</li>
+                ))}
+              </ul>
+            </div>
           </section>
 
+          {/* Conclusion Section */}
           <section className="mt-8">
-            <h3 className="text-xl font-semibold mb-4">Conclusion</h3>
+            <h2 className="text-2xl font-bold mb-4">4. Conclusion</h2>
             <div className="space-y-4">
               <div>
-                <h4 className="font-semibold">Key Points</h4>
-                <ul>
+                <h3 className="text-xl font-semibold">Key Points</h3>
+                <ul className="list-disc pl-6">
                   {review.conclusion.keyPoints.map((point, index) => (
                     <li key={index}>{point}</li>
                   ))}
@@ -169,19 +206,24 @@ export default function LiteratureReviewPage() {
               </div>
 
               <div>
-                <h4 className="font-semibold">Target Audience</h4>
-                <ul>
-                  {review.conclusion.targetAudience.map((audience, index) => (
-                    <li key={index}>{audience}</li>
+                <h3 className="text-xl font-semibold">Safety Considerations</h3>
+                <ul className="list-disc pl-6">
+                  {review.conclusion.safetyConsiderations.map((safety, index) => (
+                    <li key={index}>{safety}</li>
                   ))}
                 </ul>
               </div>
 
               <div>
-                <h4 className="font-semibold">Safety Considerations</h4>
-                <ul>
-                  {review.conclusion.safetyConsiderations.map((safety, index) => (
-                    <li key={index}>{safety}</li>
+                <h3 className="text-xl font-semibold flex items-center gap-2">
+                  <span>📌</span> Who Benefits Most?
+                </h3>
+                <ul className="list-none pl-6">
+                  {review.conclusion.targetAudience.map((audience, index) => (
+                    <li key={index} className="flex items-start gap-2">
+                      <span className="text-green-600">✅</span>
+                      {audience}
+                    </li>
                   ))}
                 </ul>
               </div>
