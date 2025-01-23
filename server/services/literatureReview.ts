@@ -144,14 +144,14 @@ function parseReviewContent(content: string) {
 
   try {
     // Extract title - more flexible pattern
-    const titleMatch = content.match(/📝\s*Literature Review:([^\n]+)/) || 
+    const titleMatch = content.match(/📝\s*Literature Review:([^\n]+)/) ||
                       content.match(/^([^\n]+)/);
     review.title = titleMatch ? titleMatch[1].trim() : "Literature Review";
 
     // Extract Overview section with more flexible patterns
     const overviewContent = extractSectionContent(content, '1\\. Overview');
     if (overviewContent !== 'Content not found.') {
-      // More flexible product description matching
+      // More flexible product description matching including both formats
       const productDescriptionMatch = overviewContent.match(/What is[^?]*\??[\s\S]*?(?=Primary Benefits|$)/i) ||
                                     overviewContent.match(/Product\??[\s\S]*?(?=Primary Benefits|$)/i);
       if (productDescriptionMatch) {
@@ -213,8 +213,8 @@ function parseReviewContent(content: string) {
         }
 
         // Only add areas that have some content
-        if (wellnessArea.mechanism.length > 0 || 
-            wellnessArea.keyFindings.length > 0 || 
+        if (wellnessArea.mechanism.length > 0 ||
+            wellnessArea.keyFindings.length > 0 ||
             wellnessArea.researchGaps.length > 0) {
           review.wellnessAreas.push(wellnessArea);
         }
@@ -331,15 +331,6 @@ Follow this exact format to ensure consistency:
 * Research Gaps:
     ❌ [List research gaps, each on a new line.]
 
-💙 Sexual Health
-* How It Works:
-    * [Explain mechanism of action.]
-* Key Findings:
-    ✅ [List scientific findings, each on a new line, include sources.]
-* Research Gaps:
-    ❌ [List research gaps, each on a new line.]
-
-
 3. Research Gaps & Future Studies
 📌 Unanswered Questions in Research:
 * [List 3+ unanswered research questions.]
@@ -361,13 +352,13 @@ Follow this exact structure. Ensure proper headings, bullet points, and scientif
     const response = await openai.chat.completions.create({
       model: "gpt-4o",
       messages: [
-        { 
-          role: "system", 
-          content: "You are a scientific research assistant specializing in nutritional science and supplement research. Provide detailed, evidence-based analysis." 
+        {
+          role: "system",
+          content: "You are a scientific research assistant specializing in nutritional science and supplement research. Provide detailed, evidence-based analysis."
         },
-        { 
-          role: "user", 
-          content: prompt 
+        {
+          role: "user",
+          content: prompt
         }
       ],
       temperature: 0.7,
