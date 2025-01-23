@@ -16,6 +16,11 @@ export const WELLNESS_AREAS = [
 const CACHE_DURATION = 1000 * 60 * 60; // 1 hour
 const scrapeCache = new Map<string, { content: string; timestamp: number }>();
 
+// Add safeAssign helper function after scrapeCache definition
+function safeAssign(targetArray: string[], newValues: string[]): string[] {
+  return [...new Set(newValues)]; // Remove duplicates
+}
+
 export const literatureReviewRequestSchema = z.object({
   productName: z.string().min(1, "Product name is required"),
   websiteUrl: z.string().url("Please enter a valid URL").optional(),
@@ -177,30 +182,35 @@ function parseReviewContent(content: string) {
     // Extract Overview section with more flexible patterns
     const overviewContent = extractSectionContent(content, "1\. Overview");
     if (overviewContent !== "Content not found.") {
-      // More flexible product description matching including both formats
+      // Product description - ensure single entry
       const productDescriptionMatch = overviewContent.match(
-        /What is [^\n]*\??\n([\s\S]*?)(?=\nPrimary Benefits|$)/i,
+        /What is [^\n]*\??\n([\s\S]*?)(?=\nPrimary Benefits|$)/i
       );
       if (productDescriptionMatch) {
-        review.overview.description = [productDescriptionMatch[1].trim()]; // Ensure it's stored as a single entry
+        // Store as single entry
+        review.overview.description = [productDescriptionMatch[1].trim()];
       }
 
+      // Benefits - avoid duplicate entries
       const benefitsMatch = overviewContent.match(
-        /Primary Benefits:\n([\s\S]*?)(?=\nCommon Supplement Forms|$)/i,
+        /Primary Benefits:\n([\s\S]*?)(?=\nCommon Supplement Forms|$)/i
       );
       if (benefitsMatch) {
-        review.overview.benefits = parseCheckmarkItems(
-          benefitsMatch[1].replace("Primary Benefits:", "").trim(),
+        const benefits = parseCheckmarkItems(
+          benefitsMatch[1].replace(/Primary Benefits:?/i, "").trim()
         );
+        review.overview.benefits = safeAssign([], benefits);
       }
 
+      // Supplement forms - avoid duplicate entries
       const formsMatch = overviewContent.match(
-        /Common Supplement Forms:\n([\s\S]*?)(?=\d\.|$)/i,
+        /Common Supplement Forms:\n([\s\S]*?)(?=\d\.|$)/i
       );
       if (formsMatch) {
-        review.overview.supplementForms = parseListItems(
-          formsMatch[1].replace("Common Supplement Forms:", "").trim(),
+        const forms = parseListItems(
+          formsMatch[1].replace(/Common Supplement Forms:?/i, "").trim()
         );
+        review.overview.supplementForms = safeAssign([], forms);
       }
     }
 
