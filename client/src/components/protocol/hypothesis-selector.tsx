@@ -67,9 +67,23 @@ export default function HypothesisSelector({
   };
 
   const handleHypothesisClick = async (hypothesis: Hypothesis) => {
-    if (selectedId !== null) return; // Prevent multiple clicks
+    console.log('Hypothesis selected:', hypothesis);
+    if (selectedId !== null) {
+      console.log('Selection already in progress, ignoring click');
+      return;
+    }
     setSelectedId(hypothesis.id);
-    await onHypothesisSelected(hypothesis);
+    try {
+      await onHypothesisSelected(hypothesis);
+    } catch (error) {
+      console.error('Error in hypothesis selection:', error);
+      setSelectedId(null);
+      toast({
+        title: "Error",
+        description: "Failed to process hypothesis selection",
+        variant: "destructive"
+      });
+    }
   };
 
   useEffect(() => {

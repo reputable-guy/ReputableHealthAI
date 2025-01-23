@@ -9,7 +9,7 @@ export default function HypothesesPage() {
   const [, setLocation] = useLocation();
   const search = useSearch();
   const params = new URLSearchParams(search);
-  
+
   const productName = params.get("product");
   const websiteUrl = params.get("url");
   const autoGenerate = params.get("autoGenerate") === "true";
@@ -31,12 +31,25 @@ export default function HypothesesPage() {
   };
 
   const handleHypothesisSelected = (hypothesis: any) => {
-    const queryParams = new URLSearchParams({
-      product: productName,
-      ...(websiteUrl && { url: websiteUrl }),
-      hypothesis: JSON.stringify(hypothesis),
-    });
-    setLocation(`/design?${queryParams.toString()}`);
+    console.log('Navigating to design with hypothesis:', hypothesis);
+    try {
+      const queryParams = new URLSearchParams({
+        product: productName,
+        ...(websiteUrl && { url: websiteUrl }),
+      });
+
+      // Safely encode the hypothesis object
+      const encodedHypothesis = encodeURIComponent(JSON.stringify(hypothesis));
+      queryParams.append('hypothesis', encodedHypothesis);
+
+      const designUrl = `/design?${queryParams.toString()}`;
+      console.log('Navigation URL:', designUrl);
+      setLocation(designUrl);
+    } catch (error) {
+      console.error('Error preparing navigation:', error);
+      // The error will be handled by the hypothesis selector's error handling
+      throw error;
+    }
   };
 
   return (
