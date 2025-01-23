@@ -226,6 +226,7 @@ export async function generateLiteratureReview(productName: string, websiteUrl?:
     throw new Error("OpenAI API key is required");
   }
 
+  // the newest OpenAI model is "gpt-4o" which was released May 13, 2024. do not change this unless explicitly requested by the user
   const openai = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY
   });
@@ -240,77 +241,72 @@ export async function generateLiteratureReview(productName: string, websiteUrl?:
     }
   }
 
-  const systemPrompt = `You are a scientific literature review expert. Generate a comprehensive review following this exact format:
+  const prompt = `
+You are an expert in nutritional science, tasked with generating a structured literature review on ${productName}. 
+Follow this exact format to ensure consistency:
 
-📝 Literature Review: [Product Name] & Its Impact on Wellness
+📝 Literature Review: ${productName} & Its Impact on Wellness
 
 1. Overview
-* What is [Product]?
-    * {Scientific explanation point 1}
-    * {Scientific explanation point 2}
-    * {Scientific explanation point 3}
+* What is ${productName}?
+    * [Provide 2-3 sentences summarizing the compound.]
 * Primary Benefits:
-    ✅ {Benefit 1}
-    ✅ {Benefit 2}
-    ✅ {Benefit 3}
+    ✅ [List key benefits, each on a new line.]
 * Common Supplement Forms:
-    * {Form 1}
-    * {Form 2}
-    * {Form 3}
+    * [List supplement forms, each on a new line.]
 
 2. Impact on Key Wellness Areas
-For each relevant wellness area, use emojis:
-🛌 Sleep & Recovery
-💪 Physical Performance
-❤️ Cardiovascular Health
-🧠 Cognitive Function & Mood
-🔥 Metabolic & Gut Health
-💙 Sexual Health
 
-[For each area:]
+🛌 Sleep & Recovery
 * How It Works:
-    * {Detailed mechanism explanation}
+    * [Explain mechanism of action.]
 * Key Findings:
-    ✅ {Finding 1 with source if available}
-    ✅ {Finding 2 with source if available}
-    ✅ {Finding 3 with source if available}
+    ✅ [List scientific findings, each on a new line, include sources.]
 * Research Gaps:
-    ❌ {Gap 1}
-    ❌ {Gap 2}
+    ❌ [List research gaps, each on a new line.]
+
+💪 Physical Performance
+* How It Works:
+    * [Explain mechanism of action.]
+* Key Findings:
+    ✅ [List scientific findings, each on a new line, include sources.]
+* Research Gaps:
+    ❌ [List research gaps, each on a new line.]
+
+❤️ Cardiovascular Health
+* How It Works:
+    * [Explain mechanism of action.]
+* Key Findings:
+    ✅ [List scientific findings, each on a new line, include sources.]
+* Research Gaps:
+    ❌ [List research gaps, each on a new line.]
 
 3. Research Gaps & Future Studies
 📌 Unanswered Questions in Research:
-* {Research question 1}
-* {Research question 2}
-* {Research question 3}
+* [List 3+ unanswered research questions.]
 
 4. Conclusion
-* {Key points about the product, effectiveness, and current state of research}
-* Safety considerations: {List safety notes and precautions}
-📌 Who Benefits Most?
-✅ {Target group 1}
-✅ {Target group 2}
-✅ {Target group 3}`;
-
-  const userPrompt = `Generate a scientific literature review for ${productName}.
+* Key Points:
+    * [Summarize the literature review in 3-5 bullet points.]
+* Safety Considerations:
+    * [Include key safety notes.]
+* 📌 Who Benefits Most?
+    ✅ [List target audiences who may benefit from this supplement.]
 ${productContext ? '\nProduct Context:\n' + productContext : ''}
 
-Follow the exact format above. Each section must be detailed and research-backed.
-Include emojis exactly as shown in the template.
-Keep bullet points and checkmark/x-mark formatting consistent.
-Include specific studies and sources where possible.
-Format the content exactly as shown, maintaining all emojis, bullet points, and section numbering.`;
+Follow this exact structure. Ensure proper headings, bullet points, and scientific sources.
+`;
 
   try {
     console.log('Sending literature review request to OpenAI...');
     const response = await openai.chat.completions.create({
-      model: "gpt-4",
+      model: "gpt-4o",
       messages: [
-        { role: "system", content: systemPrompt },
-        { role: "user", content: userPrompt }
+        { role: "system", content: "You are a scientific research assistant." },
+        { role: "user", content: prompt }
       ],
       temperature: 0.7,
-      max_tokens: 2500,
+      max_tokens: 2000,
     });
 
     const content = response.choices[0].message.content;
