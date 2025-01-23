@@ -378,23 +378,25 @@ export function registerRoutes(app: Express): Server {
         },
         studyOverview: {
           purpose: protocol.studyObjective,
-          background: literatureReview.overview.description,
-          significance: literatureReview.conclusion.keyPoints
+          background: Array.isArray(literatureReview.overview?.description) 
+            ? literatureReview.overview.description.join(' ') 
+            : literatureReview.overview?.description || '',
+          significance: literatureReview.conclusion?.keyPoints || []
         },
         methodology: {
           design: protocol.studyDesign,
           population: {
             size: protocol.participantCount,
-            criteria: protocol.eligibilityCriteria
+            criteria: protocol.eligibilityCriteria || []
           },
-          procedures: protocol.procedures,
+          procedures: protocol.procedures || [],
           duration: `${protocol.durationWeeks} weeks`
         },
         riskBenefitAnalysis: {
-          risks: riskAssessment.categories.participantSafety < 80 ? 
-            ["Moderate risk level detected", ...protocol.risks || []] : 
-            protocol.risks || [],
-          benefits: literatureReview.overview.benefits,
+          risks: riskAssessment.categories?.participantSafety < 80 
+            ? ["Moderate risk level detected", ...(protocol.risks || [])] 
+            : (protocol.risks || []),
+          benefits: literatureReview.overview?.benefits || [],
           riskMinimization: protocol.safetyPrecautions || []
         },
         ethicalConsiderations: {
@@ -403,9 +405,9 @@ export function registerRoutes(app: Express): Server {
           compensation: protocol.compensation
         },
         dataManagement: {
-          collection: protocol.dataCollection,
-          storage: protocol.dataStorage,
-          analysis: protocol.analysisMethod
+          collection: protocol.dataCollection || {},
+          storage: protocol.dataStorage || {},
+          analysis: protocol.analysisMethod || {}
         },
         timeline: {
           startDate: "To be determined",
