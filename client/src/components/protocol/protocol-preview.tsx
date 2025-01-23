@@ -9,7 +9,6 @@ import {
 import { useMutation } from "@tanstack/react-query";
 import { useToast } from "@/hooks/use-toast";
 import type { ProtocolData, ValidationResult } from "@/pages/protocol-designer";
-import { generateProtocolInsights } from "@/lib/protocol-insights";
 import { useState, useEffect } from "react";
 import { Loader2, Info, Shield, AlertTriangle, CheckCircle, ChevronDown } from "lucide-react";
 import ReactMarkdown from "react-markdown";
@@ -42,7 +41,7 @@ function InfoTooltip({ content }: InfoTooltipProps) {
 
 export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) {
   const { toast } = useToast();
-  const [insights, setInsights] = useState<string | null>(null);
+  const [irbSubmission, setIrbSubmission] = useState<string | null>(null);
   const [validationResults, setValidationResults] = useState<ValidationResult | null>(null);
   const [localProtocolData, setLocalProtocolData] = useState<Partial<ProtocolData>>(protocolData);
 
@@ -82,22 +81,32 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
     }
   });
 
-  const generateInsights = useMutation({
+  const generateIRBSubmission = useMutation({
     mutationFn: async () => {
-      const insightText = await generateProtocolInsights(protocolData);
-      return insightText;
+      const res = await fetch("/api/protocols/irb-submission", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(protocolData)
+      });
+
+      if (!res.ok) {
+        throw new Error("Failed to generate IRB submission");
+      }
+
+      const data = await res.json();
+      return data.submission;
     },
     onSuccess: (data) => {
-      setInsights(data);
+      setIrbSubmission(data);
       toast({
-        title: "Insights Generated",
-        description: "AI-powered insights have been generated for your protocol."
+        title: "IRB Submission Generated",
+        description: "Your IRB submission document has been generated successfully."
       });
     },
     onError: () => {
       toast({
         title: "Error",
-        description: "Failed to generate insights. Please try again.",
+        description: "Failed to generate IRB submission. Please try again.",
         variant: "destructive"
       });
     }
@@ -128,9 +137,9 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
   });
 
   // Add handleParameterUpdate function
-  const handleParameterUpdate = async (params: { 
-    effectSize: number; 
-    power: number; 
+  const handleParameterUpdate = async (params: {
+    effectSize: number;
+    power: number;
     alpha: number;
     calculatedSampleSize: number;
   }) => {
@@ -597,15 +606,15 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         </Card>
       </Collapsible>
 
-      {/* AI Insights Section */}
-      {insights && (
+      {/* IRB Submission Section */}
+      {irbSubmission && (
         <Card>
           <CardHeader>
-            <CardTitle>AI-Generated Insights</CardTitle>
+            <CardTitle>IRB Submission Document</CardTitle>
           </CardHeader>
           <CardContent>
             <div className="prose prose-sm max-w-none">
-              <ReactMarkdown>{insights}</ReactMarkdown>
+              <ReactMarkdown>{irbSubmission}</ReactMarkdown>
             </div>
           </CardContent>
         </Card>
@@ -615,16 +624,16 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
       <div className="flex flex-col gap-3">
         <Button
           className="w-full"
-          onClick={() => generateInsights.mutate()}
-          disabled={generateInsights.isPending}
+          onClick={() => generateIRBSubmission.mutate()}
+          disabled={generateIRBSubmission.isPending}
         >
-          {generateInsights.isPending ? (
+          {generateIRBSubmission.isPending ? (
             <>
               <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-              Generating Insights...
+              Generating IRB Submission...
             </>
           ) : (
-            "Generate AI Insights"
+            "Generate IRB Submission"
           )}
         </Button>
         <Button
