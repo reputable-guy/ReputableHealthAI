@@ -10,7 +10,7 @@ export const WELLNESS_AREAS = [
   "Cardiovascular Health",
   "Cognitive Function & Mood",
   "Metabolic & Gut Health",
-  "Sexual Health",
+  "Sexual Health"
 ] as const;
 
 const CACHE_DURATION = 1000 * 60 * 60; // 1 hour
@@ -25,7 +25,7 @@ export const literatureReviewRequestSchema = z.object({
 export async function scrapeWebsite(url: string): Promise<string> {
   const cached = scrapeCache.get(url);
   if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
-    console.log("Using cached website content");
+    console.log('Using cached website content');
     return cached.content;
   }
 
@@ -40,54 +40,50 @@ export async function scrapeWebsite(url: string): Promise<string> {
     clearTimeout(timeout);
 
     const $ = load(response.data);
-    $(
-      "nav, footer, header, script, style, .navigation, .footer, .header, .menu",
-    ).remove();
+    $('nav, footer, header, script, style, .navigation, .footer, .header, .menu').remove();
 
-    const content = $(
-      'main, article, div[role="main"], .content, #content, .product-description',
-    )
+    const content = $('main, article, div[role="main"], .content, #content, .product-description')
       .text()
       .trim()
-      .replace(/\s+/g, " ")
+      .replace(/\s+/g, ' ')
       .substring(0, 2000);
 
     scrapeCache.set(url, { content, timestamp: Date.now() });
     return content;
   } catch (error) {
-    console.error("Error scraping website:", error);
-    return "";
+    console.error('Error scraping website:', error);
+    return '';
   }
 }
 
 function extractSectionContent(content: string, sectionHeader: string): string {
-  const sectionRegex = new RegExp(`${sectionHeader}[\\s\\S]*?(?=\\n\\n|\\d\\. |$)`, 'i');
+  const sectionRegex = new RegExp(`${sectionHeader}[\\s\\S]*?(?=\\d\\.\\s|$)`, 'i');
   const match = content.match(sectionRegex);
-  return match ? match[0].trim() : 'Content not found.';
+  return match ? match[0].trim() : '';
 }
 
-function parseListItems(content: string, marker: string = "*"): string[] {
+function parseListItems(content: string, marker: string = '*'): string[] {
   return content
-    .split("\n")
-    .map((line) => line.trim())
-    .filter((line) => line.startsWith(marker))
-    .map((line) => line.replace(new RegExp(`^\\${marker}\\s*`), "").trim());
+    .split('\n')
+    .map(line => line.trim())
+    .filter(line => line.startsWith(marker))
+    .map(line => line.replace(new RegExp(`^\\${marker}\\s*`), '').trim());
 }
 
 function parseCheckmarkItems(content: string): string[] {
   return content
-    .split("\n")
-    .map((line) => line.trim())
-    .filter((line) => line.includes("✅"))
-    .map((line) => line.replace(/^✅\s*/, "").trim());
+    .split('\n')
+    .map(line => line.trim())
+    .filter(line => line.includes('✅'))
+    .map(line => line.replace(/^✅\s*/, '').trim());
 }
 
 function parseXmarkItems(content: string): string[] {
   return content
-    .split("\n")
-    .map((line) => line.trim())
-    .filter((line) => line.includes("❌"))
-    .map((line) => line.replace(/^❌\s*/, "").trim());
+    .split('\n')
+    .map(line => line.trim())
+    .filter(line => line.includes('❌'))
+    .map(line => line.replace(/^❌\s*/, '').trim());
 }
 
 function parseReviewContent(content: string) {
@@ -116,241 +112,202 @@ function parseReviewContent(content: string) {
   };
 
   try {
-    // Extract title
-    const titleLines = content
-      .split("\n")
+    // Extract title (includes "Generate Hypotheses" line)
+    const titleLines = content.split('\n')
       .slice(0, 2)
-      .map((line) => line.trim())
+      .map(line => line.trim())
       .filter(Boolean);
-    review.title = titleLines.join("\n") || "Literature Review";
+    review.title = titleLines.join('\n');
 
-    // Extract Overview section with fallback
-    const overviewContent = extractSectionContent(content, '1\\. Overview') || "No overview available.";
+    // Extract Overview section
+    const overviewContent = extractSectionContent(content, '1\\. Overview');
+    if (overviewContent) {
+      // Extract "What is the Product?" section
+      const productDescriptionMatch = overviewContent.match(/What is the Product\?([\s\S]*?)(?=Primary Benefits|$)/i);
+      if (productDescriptionMatch) {
+        review.overview.description = parseListItems(productDescriptionMatch[1]);
+      }
 
-    // Extract "What is the Product?" section
-    const productDescriptionMatch = overviewContent.match(
-      /What is [^?]+\?([\s\S]*?)(?=Primary Benefits|$)/i,
-    );
-    review.overview.description = productDescriptionMatch 
-      ? parseListItems(productDescriptionMatch[1])
-      : ["Product description not available"];
+      // Extract Primary Benefits
+      const benefitsMatch = overviewContent.match(/Primary Benefits([\s\S]*?)(?=Common Supplement Forms|$)/i);
+      if (benefitsMatch) {
+        review.overview.benefits = parseCheckmarkItems(benefitsMatch[1]);
+      }
 
-    // Extract Primary Benefits
-    const benefitsMatch = overviewContent.match(
-      /Primary Benefits([\s\S]*?)(?=Common Supplement Forms|$)/i,
-    );
-    review.overview.benefits = benefitsMatch 
-      ? parseCheckmarkItems(benefitsMatch[1])
-      : ["Benefits information not available"];
-
-    // Extract Common Supplement Forms
-    const formsMatch = overviewContent.match(
-      /Common Supplement Forms([\s\S]*?)(?=\d\.|$)/i,
-    );
-    review.overview.supplementForms = formsMatch 
-      ? parseListItems(formsMatch[1])
-      : ["Supplement forms not specified"];
+      // Extract Common Supplement Forms
+      const formsMatch = overviewContent.match(/Common Supplement Forms([\s\S]*?)(?=\d\.|$)/i);
+      if (formsMatch) {
+        review.overview.supplementForms = parseListItems(formsMatch[1]);
+      }
+    }
 
     // Extract Wellness Areas section
-    const wellnessAreas = [
-      { emoji: "🛌", name: "Sleep & Recovery" },
-      { emoji: "💪", name: "Physical Performance" },
-      { emoji: "❤️", name: "Cardiovascular Health" },
-      { emoji: "🧠", name: "Cognitive Function & Mood" },
-      { emoji: "🍔", name: "Metabolic & Gut Health" },
-      { emoji: "🍆", name: "Sexual Health" }
-    ];
+    const wellnessContent = extractSectionContent(content, '2\\. Impact on Key Wellness Areas');
+    if (wellnessContent) {
+      const areas = wellnessContent.split(/(?=[\u{1F300}-\u{1F9FF}])/u).filter(Boolean);
+      for (const area of areas) {
+        const headerMatch = area.match(/([\u{1F300}-\u{1F9FF}])\s*([^\n]+)/u);
+        if (headerMatch) {
+          const [, emoji, name] = headerMatch;
 
-    for (const area of wellnessAreas) {
-      const areaContent = extractSectionContent(content, `${area.emoji} ${area.name}`) || `No ${area.name.toLowerCase()} data found.`;
+          const wellnessArea = {
+            emoji,
+            name: name.trim(),
+            mechanism: [],
+            keyFindings: [],
+            researchGaps: []
+          };
 
-      const wellnessArea = {
-        emoji: area.emoji,
-        name: area.name,
-        mechanism: [],
-        keyFindings: [],
-        researchGaps: [],
-      };
+          // Extract mechanism
+          const mechanismMatch = area.match(/How It Works[\s\S]*?(?=Key Findings|$)/i);
+          if (mechanismMatch) {
+            wellnessArea.mechanism = parseListItems(mechanismMatch[0].replace(/How It Works:?/i, '').trim());
+          }
 
-      // Extract mechanism
-      const mechanismMatch = areaContent.match(
-        /How It Works[\s\S]*?(?=Key Findings|$)/i,
-      );
-      wellnessArea.mechanism = mechanismMatch
-        ? parseListItems(mechanismMatch[0].replace(/How It Works:?/i, "").trim())
-        : ["Mechanism of action not specified"];
+          // Extract findings
+          const findingsMatch = area.match(/Key Findings[\s\S]*?(?=Research Gaps|$)/i);
+          if (findingsMatch) {
+            wellnessArea.keyFindings = parseCheckmarkItems(findingsMatch[0].replace(/Key Findings:?/i, '').trim());
+          }
 
-      // Extract findings
-      const findingsMatch = areaContent.match(
-        /Key Findings[\s\S]*?(?=Research Gaps|$)/i,
-      );
-      wellnessArea.keyFindings = findingsMatch
-        ? parseCheckmarkItems(findingsMatch[0].replace(/Key Findings:?/i, "").trim())
-        : ["No key findings available"];
+          // Extract gaps
+          const gapsMatch = area.match(/Research Gaps[\s\S]*?(?=\n\n|$)/i);
+          if (gapsMatch) {
+            wellnessArea.researchGaps = parseXmarkItems(gapsMatch[0].replace(/Research Gaps:?/i, '').trim());
+          }
 
-      // Extract gaps
-      const gapsMatch = areaContent.match(/Research Gaps[\s\S]*?(?=\n\n|$)/i);
-      wellnessArea.researchGaps = gapsMatch
-        ? parseXmarkItems(gapsMatch[0].replace(/Research Gaps:?/i, "").trim())
-        : ["Research gaps not identified"];
-
-      review.wellnessAreas.push(wellnessArea);
+          if (wellnessArea.mechanism.length > 0 || wellnessArea.keyFindings.length > 0 || wellnessArea.researchGaps.length > 0) {
+            review.wellnessAreas.push(wellnessArea);
+          }
+        }
+      }
     }
 
     // Extract Research Gaps section
-    const researchContent = extractSectionContent(content, "3\\. Research Gaps & Future Studies") || "No research gaps section found.";
-    const questionsMatch = researchContent.match(
-      /📌\s*Unanswered Questions in Research:?([\s\S]*?)(?=\d\.|$)/i,
-    );
-    review.researchGaps.questions = questionsMatch
-      ? parseListItems(questionsMatch[1])
-      : ["Research questions not specified"];
+    const researchContent = extractSectionContent(content, '3\\. Research Gaps & Future Studies');
+    if (researchContent) {
+      const questionsMatch = researchContent.match(/📌\s*Unanswered Questions in Research:?([\s\S]*?)(?=\d\.|$)/i);
+      if (questionsMatch) {
+        review.researchGaps.questions = parseListItems(questionsMatch[1]);
+      }
+    }
 
     // Extract Conclusion section
-    const conclusionContent = extractSectionContent(content, "4\\. Conclusion") || "No conclusion available.";
+    const conclusionContent = extractSectionContent(content, '4\\. Conclusion');
+    if (conclusionContent) {
+      // Extract key points
+      const keyPointsMatch = conclusionContent.match(/Key Points([\s\S]*?)(?=Safety Considerations|$)/i);
+      if (keyPointsMatch) {
+        review.conclusion.keyPoints = [keyPointsMatch[1].trim()];
+      }
 
-    // Extract key points
-    const keyPointsMatch = conclusionContent.match(
-      /Key Points([\s\S]*?)(?=Safety Considerations|$)/i,
-    );
-    review.conclusion.keyPoints = keyPointsMatch
-      ? parseListItems(keyPointsMatch[1])
-      : ["Key points not available"];
+      // Extract safety considerations
+      const safetyMatch = conclusionContent.match(/Safety Considerations([\s\S]*?)(?=📌|$)/i);
+      if (safetyMatch) {
+        review.conclusion.safetyConsiderations = [safetyMatch[1].trim()];
+      }
 
-    // Extract safety considerations
-    const safetyMatch = conclusionContent.match(
-      /Safety Considerations([\s\S]*?)(?=📌|$)/i,
-    );
-    review.conclusion.safetyConsiderations = safetyMatch
-      ? parseListItems(safetyMatch[1])
-      : ["Safety considerations not specified"];
-
-    // Extract target audience
-    const audienceMatch = conclusionContent.match(
-      /Who Benefits Most\?([\s\S]*?)$/i,
-    );
-    review.conclusion.targetAudience = audienceMatch
-      ? parseCheckmarkItems(audienceMatch[1])
-      : ["Target audience not specified"];
+      // Extract target audience
+      const audienceMatch = conclusionContent.match(/Who Benefits Most\?([\s\S]*?)$/i);
+      if (audienceMatch) {
+        review.conclusion.targetAudience = parseCheckmarkItems(audienceMatch[1]);
+      }
+    }
 
     return review;
   } catch (error) {
-    console.error("Error parsing review content:", error);
-    throw new Error("Failed to parse literature review content");
+    console.error('Error parsing review content:', error);
+    throw new Error('Failed to parse literature review content');
   }
 }
 
-export async function generateLiteratureReview(
-  productName: string,
-  websiteUrl?: string,
-) {
+export async function generateLiteratureReview(productName: string, websiteUrl?: string) {
   if (!process.env.OPENAI_API_KEY) {
     throw new Error("OpenAI API key is required");
   }
 
-  // the newest OpenAI model is "gpt-4o" which was released May 13, 2024. do not change this unless explicitly requested by the user
   const openai = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY,
+    apiKey: process.env.OPENAI_API_KEY
   });
 
-  let productContext = "";
+  let productContext = '';
   if (websiteUrl) {
     try {
       productContext = await scrapeWebsite(websiteUrl);
-      console.log("Scraped website content length:", productContext.length);
+      console.log('Scraped website content length:', productContext.length);
     } catch (error) {
-      console.error("Error getting product context:", error);
+      console.error('Error getting product context:', error);
     }
   }
 
-  const prompt = `
-You are an expert in wellness research, tasked with generating a structured literature review on ${productName}. 
-Follow this exact format to ensure consistency:
+  const systemPrompt = `You are a scientific literature review expert. Generate a comprehensive review following this exact format:
 
-📝 Literature Review: ${productName} & Its Impact on Wellness
+📝 Literature Review: [Product Name] & Its Impact on Wellness
 
 1. Overview
-* What is ${productName}?
-    * [Provide 2-3 sentences summarizing the compound.]
+* What is [Product]?
+    * {Scientific explanation point 1}
+    * {Scientific explanation point 2}
+    * {Scientific explanation point 3}
 * Primary Benefits:
-    ✅ [List key benefits, each on a new line.]
+    ✅ {Benefit 1}
+    ✅ {Benefit 2}
+    ✅ {Benefit 3}
 * Common Supplement Forms:
-    * [List supplement forms, each on a new line.]
+    * {Form 1}
+    * {Form 2}
+    * {Form 3}
 
 2. Impact on Key Wellness Areas
-
+For each relevant wellness area, use emojis:
 🛌 Sleep & Recovery
-* How It Works:
-    * [Explain mechanism of action.]
-* Key Findings:
-    ✅ [List scientific findings, each on a new line, include sources.]
-* Research Gaps:
-    ❌ [List research gaps, each on a new line.]
-
 💪 Physical Performance
-* How It Works:
-    * [Explain mechanism of action.]
-* Key Findings:
-    ✅ [List scientific findings, each on a new line, include sources.]
-* Research Gaps:
-    ❌ [List research gaps, each on a new line.]
-
 ❤️ Cardiovascular Health
-* How It Works:
-    * [Explain mechanism of action.]
-* Key Findings:
-    ✅ [List scientific findings, each on a new line, include sources.]
-* Research Gaps:
-    ❌ [List research gaps, each on a new line.]
-
 🧠 Cognitive Function & Mood
-* How It Works:
-    * [Explain mechanism of action.]
-* Key Findings:
-    ✅ [List scientific findings, each on a new line, include sources.]
-* Research Gaps:
-    ❌ [List research gaps, each on a new line.]
+🔥 Metabolic & Gut Health
+💙 Sexual Health
 
-🍔 Metabolic & Gut Health
+[For each area:]
 * How It Works:
-    * [Explain mechanism of action.]
+    * {Detailed mechanism explanation}
 * Key Findings:
-    ✅ [List scientific findings, each on a new line, include sources.]
+    ✅ {Finding 1 with source if available}
+    ✅ {Finding 2 with source if available}
+    ✅ {Finding 3 with source if available}
 * Research Gaps:
-    ❌ [List research gaps, each on a new line.]
-
-🍆 Sexual Health
-* How It Works:
-    * [Explain mechanism of action.]
-* Key Findings:
-    ✅ [List scientific findings, each on a new line, include sources.]
-* Research Gaps:
-    ❌ [List research gaps, each on a new line.]
-
+    ❌ {Gap 1}
+    ❌ {Gap 2}
 
 3. Research Gaps & Future Studies
 📌 Unanswered Questions in Research:
-* [List 3+ unanswered research questions.]
+* {Research question 1}
+* {Research question 2}
+* {Research question 3}
 
 4. Conclusion
-* Key Points:
-    * [Summarize the literature review in 3-5 bullet points.]
-* Safety Considerations:
-    * [Include key safety notes.]
-* 📌 Who Benefits Most?
-    ✅ [List target audiences who may benefit from this supplement.]
-${productContext ? "\nProduct Context:\n" + productContext : ""}
+* {Key points about the product, effectiveness, and current state of research}
+* Safety considerations: {List safety notes and precautions}
+📌 Who Benefits Most?
+✅ {Target group 1}
+✅ {Target group 2}
+✅ {Target group 3}`;
 
-Follow this exact structure. Ensure proper headings, bullet points, and scientific sources.
-`;
+  const userPrompt = `Generate a scientific literature review for ${productName}.
+${productContext ? '\nProduct Context:\n' + productContext : ''}
+
+Follow the exact format above. Each section must be detailed and research-backed.
+Include emojis exactly as shown in the template.
+Keep bullet points and checkmark/x-mark formatting consistent.
+Include specific studies and sources where possible.
+Format the content exactly as shown, maintaining all emojis, bullet points, and section numbering.`;
 
   try {
-    console.log("Sending literature review request to OpenAI...");
+    console.log('Sending literature review request to OpenAI...');
     const response = await openai.chat.completions.create({
-      model: "gpt-4o",
+      model: "gpt-4",
       messages: [
-        { role: "system", content: "You are a scientific research assistant." },
-        { role: "user", content: prompt },
+        { role: "system", content: systemPrompt },
+        { role: "user", content: userPrompt }
       ],
       temperature: 0.7,
       max_tokens: 2500,
@@ -361,10 +318,10 @@ Follow this exact structure. Ensure proper headings, bullet points, and scientif
       throw new Error("Failed to generate content from OpenAI");
     }
 
-    console.log("Received OpenAI response:", content);
+    console.log('Received OpenAI response:', content);
     return parseReviewContent(content);
   } catch (error) {
-    console.error("OpenAI API Error:", error);
+    console.error('OpenAI API Error:', error);
     throw error;
   }
 }
