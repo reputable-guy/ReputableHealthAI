@@ -56,6 +56,61 @@ export async function scrapeWebsite(url: string): Promise<string> {
   }
 }
 
+// Updated system prompt to match the Nitric Oxide template format
+const systemPrompt = `You are a scientific literature review expert. Generate a comprehensive review following this exact format:
+
+📝 Literature Review: [Product Name] & Its Impact on Wellness
+
+1. Overview
+* What is [Product]?
+    * {Scientific explanation point 1}
+    * {Scientific explanation point 2}
+    * {Scientific explanation point 3}
+* Primary Benefits:
+    ✅ {Benefit 1}
+    ✅ {Benefit 2}
+    ✅ {Benefit 3}
+* Common Supplement Forms:
+    * {Form 1}
+    * {Form 2}
+    * {Form 3}
+
+2. Impact on Key Wellness Areas
+For each relevant wellness area, use emojis:
+🛌 Sleep & Recovery
+💪 Physical Performance
+❤️ Cardiovascular Health
+🧠 Cognitive Function & Mood
+🔥 Metabolic & Gut Health
+💙 Sexual Health
+
+[For each area:]
+* How It Works:
+    * {Detailed mechanism explanation}
+* Key Findings:
+    ✅ {Finding 1 with source if available}
+    ✅ {Finding 2 with source if available}
+    ✅ {Finding 3 with source if available}
+* Research Gaps:
+    ❌ {Gap 1}
+    ❌ {Gap 2}
+
+3. Research Gaps & Future Studies
+📌 Unanswered Questions in Research:
+* {Research question 1}
+* {Research question 2}
+* {Research question 3}
+
+4. Conclusion
+* {Key points about the product, effectiveness, and current state of research}
+* Safety considerations: {List safety notes and precautions}
+📌 Who Benefits Most?
+✅ {Target group 1}
+✅ {Target group 2}
+✅ {Target group 3}`;
+
+// Previous scraping function remains unchanged
+
 export async function generateLiteratureReview(productName: string, websiteUrl?: string) {
   if (!process.env.OPENAI_API_KEY) {
     throw new Error("OpenAI API key is required");
@@ -75,60 +130,14 @@ export async function generateLiteratureReview(productName: string, websiteUrl?:
     }
   }
 
-  // Updated system prompt to match the Nitric Oxide template format
-  const systemPrompt = `You are a scientific literature review expert. Generate a comprehensive review following this exact format:
-
-📝 Literature Review: [Product Name] & Its Impact on Wellness
-
-1. Overview
-* What is [Product]?
-    * {Scientific explanation point 1}
-    * {Scientific explanation point 2}
-    * {Scientific explanation point 3}
-* Primary Benefits:
-    ✅ {Benefit 1}
-    ✅ {Benefit 2}
-    ✅ {Benefit 3}
-* Common Supplement Forms:
-    * {Form 1}
-    * {Form 2}
-    * {Form 3}
-
-2. Impact on Key Wellness Areas
-
-🛌 Sleep & Recovery (or relevant emoji for area)
-* How It Works:
-    * {Mechanism explanation}
-* Key Findings:
-    ✅ {Finding 1}
-    ✅ {Finding 2}
-    ✅ {Finding 3}
-* Research Gaps:
-    ❌ {Gap 1}
-    ❌ {Gap 2}
-
-(Repeat the above section structure for each relevant wellness area)
-
-3. Research Gaps & Future Studies
-📌 Unanswered Questions in Research:
-* {Question 1}
-* {Question 2}
-* {Question 3}
-
-4. Conclusion
-* Key takeaways about [Product]
-* Safety considerations
-📌 Who Benefits Most?
-✅ {Target group 1}
-✅ {Target group 2}
-✅ {Target group 3}`;
-
   const userPrompt = `Generate a scientific literature review for ${productName}.
 ${productContext ? '\nProduct Context:\n' + productContext : ''}
 
 Follow the exact format above. Each section must be detailed and research-backed.
 Include emojis exactly as shown in the template.
-Keep bullet points and checkmark/x-mark formatting consistent.`;
+Keep bullet points and checkmark/x-mark formatting consistent.
+Include specific studies and sources where possible.
+Format the content exactly as shown, maintaining all emojis, bullet points, and section numbering.`;
 
   try {
     console.log('Sending literature review request to OpenAI...');
@@ -139,7 +148,7 @@ Keep bullet points and checkmark/x-mark formatting consistent.`;
         { role: "user", content: userPrompt }
       ],
       temperature: 0.7,
-      max_tokens: 2000,
+      max_tokens: 2500,
     });
 
     const content = response.choices[0].message.content;
@@ -156,7 +165,6 @@ Keep bullet points and checkmark/x-mark formatting consistent.`;
 }
 
 function parseReviewContent(content: string) {
-  // Initialize the review object with the new structure
   const review = {
     title: "",
     overview: {
@@ -182,14 +190,14 @@ function parseReviewContent(content: string) {
   };
 
   try {
-    // Split content into main sections
-    const sections = content.split(/\d\.\s+/);
-
     // Extract title
-    const titleMatch = content.match(/📝\s*Literature Review:.*$/m);
+    const titleMatch = content.match(/📝[\s\S]*?(?=\n\s*\n|$)/);
     if (titleMatch) {
       review.title = titleMatch[0].trim();
     }
+
+    // Split content into main numbered sections
+    const sections = content.split(/\d\.\s+/);
 
     // Parse Overview section
     const overviewSection = sections[1];
@@ -200,7 +208,7 @@ function parseReviewContent(content: string) {
         review.overview.description = descriptionMatch[1]
           .split('*')
           .map(p => p.trim())
-          .filter(p => p.length > 0);
+          .filter(p => p && !p.includes('What is'));
       }
 
       // Extract benefits
@@ -210,56 +218,74 @@ function parseReviewContent(content: string) {
           .split('✅')
           .slice(1)
           .map(b => b.trim())
-          .filter(b => b.length > 0);
+          .filter(b => b);
       }
 
       // Extract supplement forms
-      const formsMatch = overviewSection.match(/Common Supplement Forms:[\s\S]*?(?=\d\.|$)/);
+      const formsMatch = overviewSection.match(/Common Supplement Forms:[\s\S]*?(?=\n\s*\n|$)/);
       if (formsMatch) {
         review.overview.supplementForms = formsMatch[0]
           .split('*')
           .slice(1)
           .map(f => f.trim())
-          .filter(f => f.length > 0);
+          .filter(f => f);
       }
     }
 
     // Parse Wellness Areas
     const wellnessSection = sections[2];
     if (wellnessSection) {
-      const areas = wellnessSection.split(/[🛌💪❤️🧠🔥💙]/);
+      // Split by emoji patterns
+      const areas = wellnessSection.split(/(?=[\u{1F300}-\u{1F9FF}])/u);
+
       for (const area of areas) {
         if (!area.trim()) continue;
 
-        const areaMatch = area.match(/(.*?)\n/);
-        const mechanismMatch = area.match(/How It Works:[\s\S]*?(?=\*\s*Key Findings|\*\s*Research)/);
-        const findingsMatch = area.match(/Key Findings:[\s\S]*?(?=\*\s*Research Gaps)/);
-        const gapsMatch = area.match(/Research Gaps:[\s\S]*?(?=\n\n|$)/);
+        const areaLines = area.split('\n');
+        const headerMatch = areaLines[0].match(/([\u{1F300}-\u{1F9FF}])\s*(.*)/u);
 
-        if (areaMatch) {
+        if (headerMatch) {
           const wellnessArea = {
-            emoji: area.match(/[🛌💪❤️🧠🔥💙]/)?.[0] || '',
-            name: areaMatch[1].trim(),
-            mechanism: mechanismMatch ? 
-              mechanismMatch[0]
-                .split('*')
-                .slice(1)
-                .map(m => m.trim())
-                .filter(m => m.length > 0) : [],
-            keyFindings: findingsMatch ?
-              findingsMatch[0]
-                .split('✅')
-                .slice(1)
-                .map(f => f.trim())
-                .filter(f => f.length > 0) : [],
-            researchGaps: gapsMatch ?
-              gapsMatch[0]
-                .split('❌')
-                .slice(1)
-                .map(g => g.trim())
-                .filter(g => g.length > 0) : [],
+            emoji: headerMatch[1],
+            name: headerMatch[2].trim(),
+            mechanism: [] as string[],
+            keyFindings: [] as string[],
+            researchGaps: [] as string[],
           };
-          review.wellnessAreas.push(wellnessArea);
+
+          // Parse mechanism
+          const mechanismMatch = area.match(/How It Works:[\s\S]*?(?=Key Findings:|$)/);
+          if (mechanismMatch) {
+            wellnessArea.mechanism = mechanismMatch[0]
+              .split('*')
+              .slice(1)
+              .map(m => m.trim())
+              .filter(m => m);
+          }
+
+          // Parse findings
+          const findingsMatch = area.match(/Key Findings:[\s\S]*?(?=Research Gaps:|$)/);
+          if (findingsMatch) {
+            wellnessArea.keyFindings = findingsMatch[0]
+              .split('✅')
+              .slice(1)
+              .map(f => f.trim())
+              .filter(f => f);
+          }
+
+          // Parse gaps
+          const gapsMatch = area.match(/Research Gaps:[\s\S]*?(?=\n\s*\n|$)/);
+          if (gapsMatch) {
+            wellnessArea.researchGaps = gapsMatch[0]
+              .split('❌')
+              .slice(1)
+              .map(g => g.trim())
+              .filter(g => g);
+          }
+
+          if (wellnessArea.mechanism.length > 0 || wellnessArea.keyFindings.length > 0 || wellnessArea.researchGaps.length > 0) {
+            review.wellnessAreas.push(wellnessArea);
+          }
         }
       }
     }
@@ -267,13 +293,13 @@ function parseReviewContent(content: string) {
     // Parse Research Gaps
     const researchSection = sections[3];
     if (researchSection) {
-      const questionsMatch = researchSection.match(/Unanswered Questions[\s\S]*?(?=\d\.|$)/);
+      const questionsMatch = researchSection.match(/📌[\s\S]*?(?=\n\s*\n|$)/);
       if (questionsMatch) {
         review.researchGaps.questions = questionsMatch[0]
           .split('*')
           .slice(1)
           .map(q => q.trim())
-          .filter(q => q.length > 0);
+          .filter(q => q);
       }
     }
 
@@ -281,22 +307,18 @@ function parseReviewContent(content: string) {
     const conclusionSection = sections[4];
     if (conclusionSection) {
       // Extract key points
-      const keyPointsMatch = conclusionSection.match(/(?:\* )([\s\S]*?)(?=\* Safety|📌)/);
+      const keyPointsMatch = conclusionSection.match(/^[\s\S]*?(?=\*\s*Safety considerations|📌)/m);
       if (keyPointsMatch) {
-        review.conclusion.keyPoints = keyPointsMatch[1]
+        review.conclusion.keyPoints = keyPointsMatch[0]
           .split('*')
           .map(k => k.trim())
-          .filter(k => k.length > 0);
+          .filter(k => k);
       }
 
       // Extract safety considerations
-      const safetyMatch = conclusionSection.match(/Safety considerations[\s\S]*?(?=📌|$)/);
+      const safetyMatch = conclusionSection.match(/Safety considerations:[\s\S]*?(?=📌|$)/);
       if (safetyMatch) {
-        review.conclusion.safetyConsiderations = safetyMatch[0]
-          .split('*')
-          .slice(1)
-          .map(s => s.trim())
-          .filter(s => s.length > 0);
+        review.conclusion.safetyConsiderations = [safetyMatch[0].replace('Safety considerations:', '').trim()];
       }
 
       // Extract target audience
@@ -306,7 +328,7 @@ function parseReviewContent(content: string) {
           .split('✅')
           .slice(1)
           .map(a => a.trim())
-          .filter(a => a.length > 0);
+          .filter(a => a);
       }
     }
 
