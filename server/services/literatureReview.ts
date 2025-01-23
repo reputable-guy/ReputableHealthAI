@@ -10,6 +10,7 @@ export const WELLNESS_AREAS = [
   "Cardiovascular Health",
   "Cognitive Function & Mood",
   "Metabolic & Gut Health",
+  "Sexual Health & Performance",
 ] as const;
 
 const CACHE_DURATION = 1000 * 60 * 60; // 1 hour
@@ -24,7 +25,7 @@ export const literatureReviewRequestSchema = z.object({
 export async function scrapeWebsite(url: string): Promise<string> {
   const cached = scrapeCache.get(url);
   if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
-    console.log('Using cached website content');
+    console.log("Using cached website content");
     return cached.content;
   }
 
@@ -39,82 +40,106 @@ export async function scrapeWebsite(url: string): Promise<string> {
     clearTimeout(timeout);
 
     const $ = load(response.data);
-    $('nav, footer, header, script, style, .navigation, .footer, .header, .menu').remove();
+    $(
+      "nav, footer, header, script, style, .navigation, .footer, .header, .menu",
+    ).remove();
 
-    const content = $('main, article, div[role="main"], .content, #content, .product-description')
+    const content = $(
+      'main, article, div[role="main"], .content, #content, .product-description',
+    )
       .text()
       .trim()
-      .replace(/\s+/g, ' ')
+      .replace(/\s+/g, " ")
       .substring(0, 2000);
 
     scrapeCache.set(url, { content, timestamp: Date.now() });
     return content;
   } catch (error) {
-    console.error('Error scraping website:', error);
-    return '';
+    console.error("Error scraping website:", error);
+    return "";
   }
 }
 
 // Improved section extraction with better regex handling
 function extractSectionContent(content: string, sectionHeader: string): string {
   // Make the regex more flexible to catch variations in formatting
-  const sectionRegex = new RegExp(`${sectionHeader}[\\s\\S]*?(?=\\n\\n(?:\\d\\.\\s|[🛌💪❤️🧠🔥💙]|$)|$)`, 'i');
+  const sectionRegex = new RegExp(
+    `${sectionHeader}[\\s\\S]*?(?=\\n\\n(?:\\d\\.\\s|[🛌💪❤️🧠🔥💙]|$)|$)`,
+    "i",
+  );
   const match = content.match(sectionRegex);
-  return match ? match[0].trim() : 'Content not found.';
+  return match ? match[0].trim() : "Content not found.";
 }
 
-function parseListItems(content: string, marker: string = '*'): string[] {
-  if (!content || content === 'Content not found.') return ['No data available'];
+function parseListItems(content: string, marker: string = "*"): string[] {
+  if (!content || content === "Content not found.")
+    return ["No data available"];
 
   // Split by newlines and clean up
   const lines = content
-    .split('\n')
-    .map(line => line.trim())
+    .split("\n")
+    .map((line) => line.trim())
     .filter(Boolean);
 
   // Try to extract content even if bullet points are missing
   const items = lines
-    .filter(line => line.startsWith(marker) || !line.startsWith('*') && !line.startsWith('✅') && !line.startsWith('❌'))
-    .map(line => line.replace(new RegExp(`^\\${marker}\\s*`), '').trim())
-    .filter(line => line && !line.match(/^[🛌💪❤️🧠🔥💙]/)); // Filter out section headers
+    .filter(
+      (line) =>
+        line.startsWith(marker) ||
+        (!line.startsWith("*") &&
+          !line.startsWith("✅") &&
+          !line.startsWith("❌")),
+    )
+    .map((line) => line.replace(new RegExp(`^\\${marker}\\s*`), "").trim())
+    .filter((line) => line && !line.match(/^[🛌💪❤️🧠🔥💙]/)); // Filter out section headers
 
-  return items.length > 0 ? items : ['No specific items found'];
+  return items.length > 0 ? items : ["No specific items found"];
 }
 
 function parseCheckmarkItems(content: string): string[] {
-  if (!content || content === 'Content not found.') return ['No data available'];
+  if (!content || content === "Content not found.")
+    return ["No data available"];
 
   // Split by newlines and clean up
   const lines = content
-    .split('\n')
-    .map(line => line.trim())
+    .split("\n")
+    .map((line) => line.trim())
     .filter(Boolean);
 
   // Try to find checkmark items or fall back to regular lines
   const items = lines
-    .filter(line => line.includes('✅') || (!line.startsWith('*') && !line.startsWith('❌')))
-    .map(line => line.replace(/^✅\s*/, '').trim())
-    .filter(line => line && !line.match(/^[🛌💪❤️🧠🔥💙]/));
+    .filter(
+      (line) =>
+        line.includes("✅") ||
+        (!line.startsWith("*") && !line.startsWith("❌")),
+    )
+    .map((line) => line.replace(/^✅\s*/, "").trim())
+    .filter((line) => line && !line.match(/^[🛌💪❤️🧠🔥💙]/));
 
-  return items.length > 0 ? items : ['No checkmark items found'];
+  return items.length > 0 ? items : ["No checkmark items found"];
 }
 
 function parseXmarkItems(content: string): string[] {
-  if (!content || content === 'Content not found.') return ['No data available'];
+  if (!content || content === "Content not found.")
+    return ["No data available"];
 
   // Split by newlines and clean up
   const lines = content
-    .split('\n')
-    .map(line => line.trim())
+    .split("\n")
+    .map((line) => line.trim())
     .filter(Boolean);
 
   // Try to find x-mark items or fall back to lines under "Research Gaps"
   const items = lines
-    .filter(line => line.includes('❌') || (!line.startsWith('*') && !line.startsWith('✅')))
-    .map(line => line.replace(/^❌\s*/, '').trim())
-    .filter(line => line && !line.match(/^[🛌💪❤️🧠🔥💙]/));
+    .filter(
+      (line) =>
+        line.includes("❌") ||
+        (!line.startsWith("*") && !line.startsWith("✅")),
+    )
+    .map((line) => line.replace(/^❌\s*/, "").trim())
+    .filter((line) => line && !line.match(/^[🛌💪❤️🧠🔥💙]/));
 
-  return items.length > 0 ? items : ['No research gaps identified'];
+  return items.length > 0 ? items : ["No research gaps identified"];
 }
 
 function parseReviewContent(content: string) {
@@ -144,46 +169,57 @@ function parseReviewContent(content: string) {
 
   try {
     // Extract title - more flexible pattern
-    const titleMatch = content.match(/📝\s*Literature Review:([^\n]+)/) ||
-                      content.match(/^([^\n]+)/);
+    const titleMatch =
+      content.match(/📝\s*Literature Review:([^\n]+)/) ||
+      content.match(/^([^\n]+)/);
     review.title = titleMatch ? titleMatch[1].trim() : "Literature Review";
 
     // Extract Overview section with more flexible patterns
-    const overviewContent = extractSectionContent(content, '1\\. Overview');
-    if (overviewContent !== 'Content not found.') {
+    const overviewContent = extractSectionContent(content, "1\\. Overview");
+    if (overviewContent !== "Content not found.") {
       // More flexible product description matching including both formats
-      const productDescriptionMatch = overviewContent.match(/What is[^?]*\??[\s\S]*?(?=Primary Benefits|$)/i) ||
-                                    overviewContent.match(/Product\??[\s\S]*?(?=Primary Benefits|$)/i);
+      const productDescriptionMatch = overviewContent.match(
+        /What is [^\n]*\??\n([\s\S]*?)(?=\nPrimary Benefits|$)/i,
+      );
       if (productDescriptionMatch) {
-        review.overview.description = parseListItems(productDescriptionMatch[0]);
+        review.overview.description = [productDescriptionMatch[1].trim()]; // Ensure it's stored as a single entry
       }
 
-      // More flexible benefits matching
-      const benefitsMatch = overviewContent.match(/Primary Benefits:?[\s\S]*?(?=Common Supplement Forms|$)/i);
+      const benefitsMatch = overviewContent.match(
+        /Primary Benefits:\n([\s\S]*?)(?=\nCommon Supplement Forms|$)/i,
+      );
       if (benefitsMatch) {
-        review.overview.benefits = parseCheckmarkItems(benefitsMatch[0]);
+        review.overview.benefits = parseCheckmarkItems(
+          benefitsMatch[1].replace("Primary Benefits:", "").trim(),
+        );
       }
 
-      // More flexible forms matching
-      const formsMatch = overviewContent.match(/Common Supplement Forms:?[\s\S]*?(?=\d\.|$)/i);
+      const formsMatch = overviewContent.match(
+        /Common Supplement Forms:\n([\s\S]*?)(?=\d\.|$)/i,
+      );
       if (formsMatch) {
-        review.overview.supplementForms = parseListItems(formsMatch[0]);
+        review.overview.supplementForms = parseListItems(
+          formsMatch[1].replace("Common Supplement Forms:", "").trim(),
+        );
       }
     }
 
     // Extract Wellness Areas with more flexible emoji matching
     const wellnessAreaPatterns = [
-      { emoji: '🛌', name: 'Sleep & Recovery' },
-      { emoji: '💪', name: 'Physical Performance' },
-      { emoji: '❤️', name: 'Cardiovascular Health' },
-      { emoji: '🧠', name: 'Cognitive Function & Mood' },
-      { emoji: '🔥', name: 'Metabolic & Gut Health' }
+      { emoji: "🛌", name: "Sleep & Recovery" },
+      { emoji: "💪", name: "Physical Performance" },
+      { emoji: "❤️", name: "Cardiovascular Health" },
+      { emoji: "🧠", name: "Cognitive Function & Mood" },
+      { emoji: "🔥", name: "Metabolic & Gut Health" },
     ];
 
     for (const { emoji, name } of wellnessAreaPatterns) {
       // More flexible area content extraction
-      const areaRegex = new RegExp(`${emoji}[\\s\\S]*?(?=(?:[🛌💪❤️🧠🔥💙]|\\d\\.\\s|$))`, 'i');
-      const areaContent = content.match(areaRegex)?.[0] || '';
+      const areaRegex = new RegExp(
+        `${emoji}[\\s\\S]*?(?=(?:[🛌💪❤️🧠🔥💙]|\\d\\.\\s|$))`,
+        "i",
+      );
+      const areaContent = content.match(areaRegex)?.[0] || "";
 
       if (areaContent) {
         const wellnessArea = {
@@ -195,83 +231,116 @@ function parseReviewContent(content: string) {
         };
 
         // More flexible mechanism matching
-        const mechanismMatch = areaContent.match(/How It Works:?[\s\S]*?(?=Key Findings|$)/i);
+        const mechanismMatch = areaContent.match(
+          /How It Works:?[\s\S]*?(?=Key Findings|$)/i,
+        );
         if (mechanismMatch) {
-          wellnessArea.mechanism = parseListItems(mechanismMatch[0].replace(/How It Works:?/i, '').trim());
+          wellnessArea.mechanism = parseListItems(
+            mechanismMatch[0].replace(/How It Works:?/i, "").trim(),
+          );
         }
 
         // More flexible findings matching
-        const findingsMatch = areaContent.match(/Key Findings:?[\s\S]*?(?=Research Gaps|$)/i);
+        const findingsMatch = areaContent.match(
+          /Key Findings:?[\s\S]*?(?=Research Gaps|$)/i,
+        );
         if (findingsMatch) {
-          wellnessArea.keyFindings = parseCheckmarkItems(findingsMatch[0].replace(/Key Findings:?/i, '').trim());
+          wellnessArea.keyFindings = parseCheckmarkItems(
+            findingsMatch[0].replace(/Key Findings:?/i, "").trim(),
+          );
         }
 
         // More flexible gaps matching
-        const gapsMatch = areaContent.match(/Research Gaps:?[\s\S]*?(?=\n\n|$)/i);
+        const gapsMatch = areaContent.match(
+          /Research Gaps:?[\s\S]*?(?=\n\n|$)/i,
+        );
         if (gapsMatch) {
-          wellnessArea.researchGaps = parseXmarkItems(gapsMatch[0].replace(/Research Gaps:?/i, '').trim());
+          wellnessArea.researchGaps = parseXmarkItems(
+            gapsMatch[0].replace(/Research Gaps:?/i, "").trim(),
+          );
         }
 
         // Only add areas that have some content
-        if (wellnessArea.mechanism.length > 0 ||
-            wellnessArea.keyFindings.length > 0 ||
-            wellnessArea.researchGaps.length > 0) {
+        if (
+          wellnessArea.mechanism.length > 0 ||
+          wellnessArea.keyFindings.length > 0 ||
+          wellnessArea.researchGaps.length > 0
+        ) {
           review.wellnessAreas.push(wellnessArea);
         }
       }
     }
 
     // Extract Research Gaps section with more flexible matching
-    const researchContent = extractSectionContent(content, '3\\. Research Gaps & Future Studies');
-    const questionsMatch = researchContent.match(/📌[^:]*:?[\s\S]*?(?=\d\.|$)/i) ||
-                          researchContent.match(/Unanswered Questions[^:]*:?[\s\S]*?(?=\d\.|$)/i);
+    const researchContent = extractSectionContent(
+      content,
+      "3\\. Research Gaps & Future Studies",
+    );
+    const questionsMatch =
+      researchContent.match(/📌[^:]*:?[\s\S]*?(?=\d\.|$)/i) ||
+      researchContent.match(/Unanswered Questions[^:]*:?[\s\S]*?(?=\d\.|$)/i);
     if (questionsMatch) {
       review.researchGaps.questions = parseListItems(questionsMatch[0]);
     }
 
     // Extract Conclusion section with more flexible matching
-    const conclusionContent = extractSectionContent(content, '4\\. Conclusion');
-    if (conclusionContent !== 'Content not found.') {
-      const keyPointsMatch = conclusionContent.match(/Key Points:?[\s\S]*?(?=Safety Considerations|$)/i);
+    const conclusionContent = extractSectionContent(content, "4\\. Conclusion");
+    if (conclusionContent !== "Content not found.") {
+      const keyPointsMatch = conclusionContent.match(
+        /Key Points:?[\s\S]*?(?=Safety Considerations|$)/i,
+      );
       if (keyPointsMatch) {
-        review.conclusion.keyPoints = parseListItems(keyPointsMatch[0].replace(/Key Points:?/i, '').trim());
+        review.conclusion.keyPoints = parseListItems(
+          keyPointsMatch[0].replace(/Key Points:?/i, "").trim(),
+        );
       }
 
-      const safetyMatch = conclusionContent.match(/Safety Considerations:?[\s\S]*?(?=📌|Who Benefits|$)/i);
+      const safetyMatch = conclusionContent.match(
+        /Safety Considerations:?[\s\S]*?(?=📌|Who Benefits|$)/i,
+      );
       if (safetyMatch) {
-        review.conclusion.safetyConsiderations = parseListItems(safetyMatch[0].replace(/Safety Considerations:?/i, '').trim());
+        review.conclusion.safetyConsiderations = parseListItems(
+          safetyMatch[0].replace(/Safety Considerations:?/i, "").trim(),
+        );
       }
 
-      const audienceMatch = conclusionContent.match(/(?:📌\s*)?Who Benefits Most\??[\s\S]*?$/i);
+      const audienceMatch = conclusionContent.match(
+        /(?:📌\s*)?Who Benefits Most\??[\s\S]*?$/i,
+      );
       if (audienceMatch) {
-        review.conclusion.targetAudience = parseCheckmarkItems(audienceMatch[0]);
+        review.conclusion.targetAudience = parseCheckmarkItems(
+          audienceMatch[0],
+        );
       }
     }
 
     return review;
   } catch (error) {
-    console.error('Error parsing review content:', error);
-    throw new Error('Failed to parse literature review content');
+    console.error("Error parsing review content:", error);
+    throw new Error("Failed to parse literature review content");
   }
 }
 
-export async function generateLiteratureReview(productName: string, websiteUrl?: string) {
+export async function generateLiteratureReview(
+  productName: string,
+  websiteUrl?: string,
+) {
   if (!process.env.OPENAI_API_KEY) {
     throw new Error("OpenAI API key is required");
   }
 
   // the newest OpenAI model is "gpt-4o" which was released May 13, 2024. do not change this unless explicitly requested by the user
   const openai = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY
+    apiKey: process.env.OPENAI_API_KEY,
   });
 
-  let productContext = '';
+  let productContext = "";
   if (websiteUrl) {
     try {
       productContext = await scrapeWebsite(websiteUrl);
-      console.log('Scraped website content length:', productContext.length);
+      console.log("Scraped website content length:", productContext.length);
     } catch (error) {
-      console.error('Error getting product context:', error);
+      console.error("Error getting product context:", error);
     }
   }
 
@@ -343,26 +412,27 @@ Follow this exact format to ensure consistency:
 * 📌 Who Benefits Most?
     ✅ [List target audiences who may benefit from this supplement.]
 
-${productContext ? '\nProduct Context:\n' + productContext : ''}
+${productContext ? "\nProduct Context:\n" + productContext : ""}
 
 Follow this exact structure. Ensure proper headings, bullet points, and scientific sources.`;
 
   try {
-    console.log('Sending literature review request to OpenAI...');
+    console.log("Sending literature review request to OpenAI...");
     const response = await openai.chat.completions.create({
       model: "gpt-4o",
       messages: [
         {
           role: "system",
-          content: "You are a scientific research assistant specializing in nutritional science and supplement research. Provide detailed, evidence-based analysis."
+          content:
+            "You are a scientific research assistant specializing in nutritional science and supplement research. Provide detailed, evidence-based analysis.",
         },
         {
           role: "user",
-          content: prompt
-        }
+          content: prompt,
+        },
       ],
       temperature: 0.7,
-      max_tokens: 2000
+      max_tokens: 2000,
     });
 
     const content = response.choices[0].message.content;
@@ -370,10 +440,10 @@ Follow this exact structure. Ensure proper headings, bullet points, and scientif
       throw new Error("Failed to generate content from OpenAI");
     }
 
-    console.log('Received OpenAI response:', content);
+    console.log("Received OpenAI response:", content);
     return parseReviewContent(content);
   } catch (error) {
-    console.error('OpenAI API Error:', error);
+    console.error("OpenAI API Error:", error);
     throw error;
   }
 }
