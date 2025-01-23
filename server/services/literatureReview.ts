@@ -196,50 +196,48 @@ function parseReviewContent(content: string) {
       review.title = titleMatch[0].trim();
     }
 
-    // Split content into main numbered sections
+    // Split content into main sections
     const sections = content.split(/\d\.\s+/);
 
     // Parse Overview section
     const overviewSection = sections[1];
     if (overviewSection) {
       // Extract description points
-      // Look for content between "What is the Product?" and "Primary Benefits"
-      const descMatch = overviewSection.match(/What is the Product\?([\s\S]*?)(?=Primary Benefits|$)/i);
+      const descMatch = overviewSection.match(/What is.*?\?[\s\S]*?(?=Primary Benefits|$)/i);
       if (descMatch) {
-        // Filter out empty lines and headers
-        const descLines = descMatch[1]
+        review.overview.description = descMatch[0]
           .split('\n')
           .map(line => line.trim())
-          .filter(line => line && !line.includes('What is the Product'))
-          .filter(line => line !== '*' && line !== '-');
-        review.overview.description = descLines;
+          .filter(line => line && !line.includes('What is') && !line.startsWith('*'))
+          .map(line => line.replace(/^\*\s*/, '').trim())
+          .filter(Boolean);
       }
 
       // Extract benefits
-      const benefitsMatch = overviewSection.match(/Primary Benefits[\s\S]*?(?=Common Supplement Forms|$)/i);
+      const benefitsMatch = overviewSection.match(/Primary Benefits:?([\s\S]*?)(?=Common Supplement Forms|$)/i);
       if (benefitsMatch) {
-        review.overview.benefits = benefitsMatch[0]
-          .split('✅')
-          .slice(1)
-          .map(b => b.trim())
-          .filter(b => b);
+        review.overview.benefits = benefitsMatch[1]
+          .split('\n')
+          .filter(line => line.includes('✅'))
+          .map(line => line.replace(/^✅\s*/, '').trim())
+          .filter(Boolean);
       }
 
       // Extract supplement forms
-      const formsMatch = overviewSection.match(/Common Supplement Forms[\s\S]*?(?=\n\s*\n|$)/i);
+      const formsMatch = overviewSection.match(/Common Supplement Forms:?([\s\S]*?)(?=\n\s*\n|$)/i);
       if (formsMatch) {
-        review.overview.supplementForms = formsMatch[0]
+        review.overview.supplementForms = formsMatch[1]
           .split('\n')
           .map(line => line.trim())
           .filter(line => line && !line.includes('Common Supplement Forms'))
-          .filter(line => line !== '*' && line !== '-');
+          .map(line => line.replace(/^\*\s*/, '').trim())
+          .filter(Boolean);
       }
     }
 
     // Parse Wellness Areas
     const wellnessSection = sections[2];
     if (wellnessSection) {
-      // Split by emoji patterns
       const areas = wellnessSection.split(/(?=[\u{1F300}-\u{1F9FF}])/u);
 
       for (const area of areas) {
@@ -258,33 +256,34 @@ function parseReviewContent(content: string) {
           };
 
           // Parse mechanism
-          const mechanismMatch = area.match(/How It Works([\s\S]*?)(?=Key Findings|$)/i);
+          const mechanismMatch = area.match(/How It Works:?([\s\S]*?)(?=Key Findings|$)/i);
           if (mechanismMatch) {
             wellnessArea.mechanism = mechanismMatch[1]
               .split('\n')
               .map(line => line.trim())
               .filter(line => line && !line.includes('How It Works'))
-              .filter(line => line !== '*' && line !== '-');
+              .map(line => line.replace(/^\*\s*/, '').trim())
+              .filter(Boolean);
           }
 
           // Parse findings
-          const findingsMatch = area.match(/Key Findings:([\s\S]*?)(?=Research Gaps|$)/i);
+          const findingsMatch = area.match(/Key Findings:?([\s\S]*?)(?=Research Gaps|$)/i);
           if (findingsMatch) {
             wellnessArea.keyFindings = findingsMatch[1]
-              .split('✅')
-              .slice(1)
-              .map(f => f.trim())
-              .filter(f => f);
+              .split('\n')
+              .filter(line => line.includes('✅'))
+              .map(line => line.replace(/^✅\s*/, '').trim())
+              .filter(Boolean);
           }
 
           // Parse gaps
-          const gapsMatch = area.match(/Research Gaps:([\s\S]*?)(?=\n\n|$)/i);
+          const gapsMatch = area.match(/Research Gaps:?([\s\S]*?)(?=\n\n|$)/i);
           if (gapsMatch) {
             wellnessArea.researchGaps = gapsMatch[1]
-              .split('❌')
-              .slice(1)
-              .map(g => g.trim())
-              .filter(g => g);
+              .split('\n')
+              .filter(line => line.includes('❌'))
+              .map(line => line.replace(/^❌\s*/, '').trim())
+              .filter(Boolean);
           }
 
           if (wellnessArea.mechanism.length > 0 || wellnessArea.keyFindings.length > 0 || wellnessArea.researchGaps.length > 0) {
@@ -297,16 +296,14 @@ function parseReviewContent(content: string) {
     // Parse Research Gaps
     const researchSection = sections[3];
     if (researchSection) {
-      // Look for content between "📌 Unanswered Questions in Research" and the next section
-      const questionsMatch = researchSection.match(/📌\s*Unanswered Questions in Research([\s\S]*?)(?=\d\.|$)/i);
+      const questionsMatch = researchSection.match(/📌\s*Unanswered Questions in Research:?([\s\S]*?)(?=\d\.|$)/i);
       if (questionsMatch) {
-        // Split by newlines and filter out empty lines and headers
-        const questions = questionsMatch[1]
+        review.researchGaps.questions = questionsMatch[1]
           .split('\n')
           .map(line => line.trim())
           .filter(line => line && !line.includes('Unanswered Questions'))
-          .filter(line => line !== '*' && line !== '-');
-        review.researchGaps.questions = questions;
+          .map(line => line.replace(/^\*\s*/, '').trim())
+          .filter(Boolean);
       }
     }
 
@@ -314,25 +311,25 @@ function parseReviewContent(content: string) {
     const conclusionSection = sections[4];
     if (conclusionSection) {
       // Extract key points
-      const keyPointsMatch = conclusionSection.match(/^[\s\S]*?(?=Safety Considerations|📌)/i);
+      const keyPointsMatch = conclusionSection.match(/^([\s\S]*?)(?=Safety considerations:|📌|$)/i);
       if (keyPointsMatch) {
-        review.conclusion.keyPoints = [keyPointsMatch[0].trim()];
+        review.conclusion.keyPoints = [keyPointsMatch[1].trim()];
       }
 
       // Extract safety considerations
-      const safetyMatch = conclusionSection.match(/Safety Considerations:([\s\S]*?)(?=📌|$)/i);
+      const safetyMatch = conclusionSection.match(/Safety considerations:?([\s\S]*?)(?=📌|$)/i);
       if (safetyMatch) {
         review.conclusion.safetyConsiderations = [safetyMatch[1].trim()];
       }
 
       // Extract target audience
-      const audienceMatch = conclusionSection.match(/Who Benefits Most\?[\s\S]*?$/);
+      const audienceMatch = conclusionSection.match(/Who Benefits Most\?[\s\S]*?$/i);
       if (audienceMatch) {
         review.conclusion.targetAudience = audienceMatch[0]
-          .split('✅')
-          .slice(1)
-          .map(a => a.trim())
-          .filter(a => a);
+          .split('\n')
+          .filter(line => line.includes('✅'))
+          .map(line => line.replace(/^✅\s*/, '').trim())
+          .filter(Boolean);
       }
     }
 
