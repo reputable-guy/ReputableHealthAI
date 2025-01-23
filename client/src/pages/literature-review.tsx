@@ -99,7 +99,7 @@ export default function LiteratureReviewPage() {
             <h2 className="text-2xl font-bold mb-4">1. Overview</h2>
             <div className="space-y-4">
               <div>
-                <h3 className="text-xl font-semibold">What is the Product?</h3>
+                <h3 className="text-xl font-semibold">What is {params.get("product")}?</h3>
                 <ul className="list-disc pl-6">
                   {review.overview.description.map((point, index) => (
                     <li key={index}>{point}</li>
