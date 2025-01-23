@@ -87,7 +87,17 @@ export function registerRoutes(app: Express): Server {
 
   // Hypothesis generation endpoint - Adding /api prefix
   app.post("/api/protocols/hypotheses", async (req, res) => {
-    const { productName, websiteUrl, researchAreas = ["Sleep", "Stress", "Recovery", "Cognition", "Metabolic Health"] } = req.body;
+    const { productName, websiteUrl, researchAreas = [
+      "Sleep",
+      "Stress", 
+      "Recovery",
+      "Cognition",
+      "Physical Performance",
+      "Cardiovascular Health",
+      "Metabolic Health",
+      "Gut Health",
+      "Sexual Health"
+    ]} = req.body;
     if (!productName) {
       return res.status(400)
         .json({
