@@ -15,6 +15,7 @@ import ReactMarkdown from "react-markdown";
 import { validateStudyDesign } from "@/lib/study-validation";
 import PowerVisualization from "./power-visualization";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
+import RiskAssessmentVisualization from "./risk-assessment-visualization";
 
 interface ProtocolPreviewProps {
   protocolData: Partial<ProtocolData>;
@@ -165,6 +166,40 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
       description: "Study design parameters have been recalculated."
     });
   };
+
+  const generateRiskAssessment = useMutation({
+    mutationFn: async () => {
+      const res = await fetch("/api/protocols/risk-assessment", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(protocolData)
+      });
+
+      if (!res.ok) {
+        throw new Error("Failed to generate risk assessment");
+      }
+
+      const data = await res.json();
+      return data.assessment;
+    },
+    onSuccess: (data) => {
+      setLocalProtocolData(prev => ({
+        ...prev,
+        riskAssessment: data
+      }));
+      toast({
+        title: "Risk Assessment Complete",
+        description: `Overall Risk Level: ${data.riskLevel}`,
+      });
+    },
+    onError: () => {
+      toast({
+        title: "Error",
+        description: "Failed to generate risk assessment. Please try again.",
+        variant: "destructive"
+      });
+    }
+  });
 
   return (
     <div className="space-y-6 max-w-4xl mx-auto">
@@ -620,8 +655,34 @@ export default function ProtocolPreview({ protocolData }: ProtocolPreviewProps) 
         </Card>
       )}
 
+      {/* Risk Assessment Section */}
+      {localProtocolData.riskAssessment && (
+        <Card>
+          <CardHeader>
+            <CardTitle>Protocol Risk Assessment</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <RiskAssessmentVisualization assessment={localProtocolData.riskAssessment} />
+          </CardContent>
+        </Card>
+      )}
+
       {/* Action Buttons */}
       <div className="flex flex-col gap-3">
+        <Button
+          className="w-full"
+          onClick={() => generateRiskAssessment.mutate()}
+          disabled={generateRiskAssessment.isPending}
+        >
+          {generateRiskAssessment.isPending ? (
+            <>
+              <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+              Analyzing Protocol Risks...
+            </>
+          ) : (
+            "Generate Risk Assessment"
+          )}
+        </Button>
         <Button
           className="w-full"
           onClick={() => generateIRBSubmission.mutate()}
